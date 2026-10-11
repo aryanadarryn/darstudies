@@ -1,0 +1,17 @@
+{
+  "chapterId": "math-02",
+  "cards": [
+    { "id": "math-02-f01", "subtopicId": "math-02-01", "front": { "en": "Digits allowed in base b", "bm": "Digit dibenarkan dalam asas b" }, "back": { "en": "0 to b − 1", "bm": "0 hingga b − 1" } },
+    { "id": "math-02-f02", "subtopicId": "math-02-01", "front": { "en": "Place values in base 2", "bm": "Nilai tempat dalam asas 2" }, "back": { "en": "…, 16, 8, 4, 2, 1", "bm": "…, 16, 8, 4, 2, 1" } },
+    { "id": "math-02-f03", "subtopicId": "math-02-01", "front": { "en": "Place values in base 5", "bm": "Nilai tempat dalam asas 5" }, "back": { "en": "…, 625, 125, 25, 5, 1", "bm": "…, 625, 125, 25, 5, 1" } },
+    { "id": "math-02-f04", "subtopicId": "math-02-01", "front": { "en": "Place values in base 8", "bm": "Nilai tempat dalam asas 8" }, "back": { "en": "…, 4096, 512, 64, 8, 1", "bm": "…, 4096, 512, 64, 8, 1" } },
+    { "id": "math-02-f05", "subtopicId": "math-02-01", "front": { "en": "Place value vs digit value", "bm": "Nilai tempat vs nilai digit" }, "back": { "en": "Place value = bⁿ for the position. Digit value = digit × place value", "bm": "Nilai tempat = bⁿ bagi kedudukan. Nilai digit = digit × nilai tempat" } },
+    { "id": "math-02-f06", "subtopicId": "math-02-01", "front": { "en": "Base b → base 10", "bm": "Asas b → asas 10" }, "back": { "en": "Multiply each digit by its place value and add", "bm": "Darab setiap digit dengan nilai tempat dan tambah" } },
+    { "id": "math-02-f07", "subtopicId": "math-02-01", "front": { "en": "Base 10 → base b", "bm": "Asas 10 → asas b" }, "back": { "en": "Repeated division by b; read remainders bottom to top", "bm": "Bahagi berulang dengan b; baca baki dari bawah ke atas" } },
+    { "id": "math-02-f08", "subtopicId": "math-02-01", "front": { "en": "Base 8 ↔ base 2 shortcut", "bm": "Jalan pintas asas 8 ↔ asas 2" }, "back": { "en": "Each base 8 digit = a group of 3 base 2 digits (e.g. 6 = 110)", "bm": "Setiap digit asas 8 = kumpulan 3 digit asas 2 (cth. 6 = 110)" } },
+    { "id": "math-02-f09", "subtopicId": "math-02-01", "front": { "en": "1 + 1 in base 2", "bm": "1 + 1 dalam asas 2" }, "back": { "en": "10₂ (write 0, carry 1)", "bm": "10₂ (tulis 0, bawa 1)" } },
+    { "id": "math-02-f10", "subtopicId": "math-02-01", "front": { "en": "Base x → base y (neither is 10)", "bm": "Asas x → asas y (kedua-duanya bukan 10)" }, "back": { "en": "Go through base 10 first (unless it's the 2 ↔ 8 shortcut)", "bm": "Tukar kepada asas 10 dahulu (kecuali jalan pintas 2 ↔ 8)" } },
+    { "id": "math-02-f11", "subtopicId": "math-02-01", "front": { "en": "In any base, b⁰ = ?", "bm": "Dalam sebarang asas, b⁰ = ?" }, "back": { "en": "1 — the last digit is always the 'ones' place", "bm": "1 — digit terakhir sentiasa di tempat 'sa'" } },
+    { "id": "math-02-f12", "subtopicId": "math-02-01", "front": { "en": "Borrowing in base b subtraction", "bm": "Meminjam dalam penolakan asas b" }, "back": { "en": "Borrowing 1 from the next place gives b (not 10) to the current place", "bm": "Meminjam 1 dari tempat sebelah memberi b (bukan 10) kepada tempat semasa" } }
+  ]
+}

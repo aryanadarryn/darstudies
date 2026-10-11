@@ -1,0 +1,108 @@
+{
+  "id": "chem",
+  "name": { "en": "Chemistry", "bm": "Kimia" },
+  "color": "#ea580c",
+  "source": "Entered manually from plan Appendix A / KSSM Form 4 textbook headings. Verify against the latest DSKP; learning standards to be filled from scripts/extract-dskp.ts output.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": { "en": "Introduction to Chemistry", "bm": "Pengenalan kepada Kimia" },
+      "theme": { "en": "Importance of Chemistry", "bm": "Kepentingan Kimia" },
+      "subtopics": [
+        { "code": "1.1", "title": { "en": "Development in Chemistry and Its Importance in Daily Life", "bm": "Perkembangan Bidang Kimia dan Kepentingannya dalam Kehidupan" } },
+        { "code": "1.2", "title": { "en": "Scientific Investigation in Chemistry", "bm": "Penyiasatan Saintifik dalam Kimia" } },
+        { "code": "1.3", "title": { "en": "Usage, Management and Handling of Apparatus and Materials", "bm": "Penggunaan, Pengurusan dan Pengendalian Radas serta Bahan" } }
+      ]
+    },
+    {
+      "number": 2,
+      "title": { "en": "Matter and the Atomic Structure", "bm": "Jirim dan Struktur Atom" },
+      "theme": { "en": "Fundamentals of Chemistry", "bm": "Asas Kimia" },
+      "subtopics": [
+        { "code": "2.1", "title": { "en": "Basic Concepts of Matter", "bm": "Konsep Asas Jirim" } },
+        { "code": "2.2", "title": { "en": "The Development of the Atomic Model", "bm": "Perkembangan Model Atom" } },
+        { "code": "2.3", "title": { "en": "Atomic Structure", "bm": "Struktur Atom" } },
+        { "code": "2.4", "title": { "en": "Isotopes and Their Uses", "bm": "Isotop dan Kegunaannya" } }
+      ]
+    },
+    {
+      "number": 3,
+      "title": { "en": "The Mole Concept, Chemical Formula and Equation", "bm": "Konsep Mol, Formula dan Persamaan Kimia" },
+      "theme": { "en": "Fundamentals of Chemistry", "bm": "Asas Kimia" },
+      "subtopics": [
+        { "code": "3.1", "title": { "en": "Relative Atomic Mass and Relative Molecular Mass", "bm": "Jisim Atom Relatif dan Jisim Molekul Relatif" } },
+        { "code": "3.2", "title": { "en": "Mole Concept", "bm": "Konsep Mol" } },
+        { "code": "3.3", "title": { "en": "Chemical Formula", "bm": "Formula Kimia" } },
+        { "code": "3.4", "title": { "en": "Chemical Equation", "bm": "Persamaan Kimia" } }
+      ]
+    },
+    {
+      "number": 4,
+      "title": { "en": "The Periodic Table of Elements", "bm": "Jadual Berkala Unsur" },
+      "theme": { "en": "Fundamentals of Chemistry", "bm": "Asas Kimia" },
+      "subtopics": [
+        { "code": "4.1", "title": { "en": "Development of the Periodic Table of Elements", "bm": "Perkembangan Jadual Berkala Unsur" } },
+        { "code": "4.2", "title": { "en": "Arrangement in the Modern Periodic Table", "bm": "Susunan dalam Jadual Berkala Unsur Moden" } },
+        { "code": "4.3", "title": { "en": "Elements in Group 18", "bm": "Unsur dalam Kumpulan 18" } },
+        { "code": "4.4", "title": { "en": "Elements in Group 1", "bm": "Unsur dalam Kumpulan 1" } },
+        { "code": "4.5", "title": { "en": "Elements in Group 17", "bm": "Unsur dalam Kumpulan 17" } },
+        { "code": "4.6", "title": { "en": "Elements in Period 3", "bm": "Unsur dalam Kala 3" } },
+        { "code": "4.7", "title": { "en": "Transition Elements", "bm": "Unsur Peralihan" } }
+      ]
+    },
+    {
+      "number": 5,
+      "title": { "en": "Chemical Bond", "bm": "Ikatan Kimia" },
+      "theme": { "en": "Fundamentals of Chemistry", "bm": "Asas Kimia" },
+      "subtopics": [
+        { "code": "5.1", "title": { "en": "Basics of Compound Formation", "bm": "Asas Pembentukan Sebatian" } },
+        { "code": "5.2", "title": { "en": "Ionic Bond", "bm": "Ikatan Ion" } },
+        { "code": "5.3", "title": { "en": "Covalent Bond", "bm": "Ikatan Kovalen" } },
+        { "code": "5.4", "title": { "en": "Hydrogen Bond", "bm": "Ikatan Hidrogen" } },
+        { "code": "5.5", "title": { "en": "Dative Bond", "bm": "Ikatan Datif" } },
+        { "code": "5.6", "title": { "en": "Metallic Bond", "bm": "Ikatan Logam" } },
+        { "code": "5.7", "title": { "en": "Properties of Ionic and Covalent Compounds", "bm": "Sifat Sebatian Ion dan Sebatian Kovalen" } }
+      ]
+    },
+    {
+      "number": 6,
+      "title": { "en": "Acid, Base and Salt", "bm": "Asid, Bes dan Garam" },
+      "theme": { "en": "Interaction between Matter", "bm": "Interaksi antara Jirim" },
+      "subtopics": [
+        { "code": "6.1", "title": { "en": "The Role of Water in Showing Acidic and Alkaline Properties", "bm": "Peranan Air dalam Menunjukkan Sifat Keasidan dan Kealkalian" } },
+        { "code": "6.2", "title": { "en": "pH Value", "bm": "Nilai pH" } },
+        { "code": "6.3", "title": { "en": "Strength of Acids and Alkalis", "bm": "Kekuatan Asid dan Alkali" } },
+        { "code": "6.4", "title": { "en": "Chemical Properties of Acids and Alkalis", "bm": "Sifat Kimia Asid dan Alkali" } },
+        { "code": "6.5", "title": { "en": "Concentration of Aqueous Solution", "bm": "Kepekatan Larutan Akueus" } },
+        { "code": "6.6", "title": { "en": "Standard Solution", "bm": "Larutan Piawai" } },
+        { "code": "6.7", "title": { "en": "Neutralisation", "bm": "Peneutralan" } },
+        { "code": "6.8", "title": { "en": "Salts, Crystals and Their Uses in Daily Life", "bm": "Garam, Hablur dan Kegunaannya dalam Kehidupan Harian" } },
+        { "code": "6.9", "title": { "en": "Preparation of Salts", "bm": "Penyediaan Garam" } },
+        { "code": "6.10", "title": { "en": "Effect of Heat on Salts", "bm": "Tindakan Haba ke atas Garam" } },
+        { "code": "6.11", "title": { "en": "Qualitative Analysis", "bm": "Analisis Kualitatif" } }
+      ]
+    },
+    {
+      "number": 7,
+      "title": { "en": "Rate of Reaction", "bm": "Kadar Tindak Balas" },
+      "theme": { "en": "Interaction between Matter", "bm": "Interaksi antara Jirim" },
+      "subtopics": [
+        { "code": "7.1", "title": { "en": "Determining Rate of Reaction", "bm": "Penentuan Kadar Tindak Balas" } },
+        { "code": "7.2", "title": { "en": "Factors Affecting Rate of Reaction", "bm": "Faktor yang Mempengaruhi Kadar Tindak Balas" } },
+        { "code": "7.3", "title": { "en": "Applying the Factors in Daily Life", "bm": "Aplikasi Faktor dalam Kehidupan Harian" } },
+        { "code": "7.4", "title": { "en": "Collision Theory", "bm": "Teori Perlanggaran" } }
+      ]
+    },
+    {
+      "number": 8,
+      "title": { "en": "Manufactured Substances in Industry", "bm": "Bahan Buatan dalam Industri" },
+      "theme": { "en": "Industrial Chemistry", "bm": "Kimia Industri" },
+      "subtopics": [
+        { "code": "8.1", "title": { "en": "Alloys and Their Importance", "bm": "Aloi dan Kepentingannya" } },
+        { "code": "8.2", "title": { "en": "Composition of Glass and Its Uses", "bm": "Komposisi Kaca dan Kegunaannya" } },
+        { "code": "8.3", "title": { "en": "Composition of Ceramics and Their Uses", "bm": "Komposisi Seramik dan Kegunaannya" } },
+        { "code": "8.4", "title": { "en": "Composite Materials and Their Importance", "bm": "Bahan Komposit dan Kepentingannya" } }
+      ]
+    }
+  ]
+}

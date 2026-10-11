@@ -1,0 +1,20 @@
+{
+  "chapterId": "phy-02",
+  "cards": [
+    { "id": "phy-02-f01", "subtopicId": "phy-02-01", "front": { "en": "Displacement", "bm": "Sesaran" }, "back": { "en": "Distance in a specified direction. Vector. Unit: m", "bm": "Jarak dalam arah tertentu. Vektor. Unit: m" } },
+    { "id": "phy-02-f02", "subtopicId": "phy-02-01", "front": { "en": "Velocity", "bm": "Halaju" }, "back": { "en": "Rate of change of displacement. Unit: m s⁻¹", "bm": "Kadar perubahan sesaran. Unit: m s⁻¹" } },
+    { "id": "phy-02-f03", "subtopicId": "phy-02-01", "front": { "en": "Acceleration", "bm": "Pecutan" }, "back": { "en": "Rate of change of velocity. Unit: m s⁻²", "bm": "Kadar perubahan halaju. Unit: m s⁻²" } },
+    { "id": "phy-02-f04", "subtopicId": "phy-02-02", "front": { "en": "Gradient of a displacement–time graph", "bm": "Kecerunan graf sesaran–masa" }, "back": { "en": "Velocity", "bm": "Halaju" } },
+    { "id": "phy-02-f05", "subtopicId": "phy-02-02", "front": { "en": "Area under a velocity–time graph", "bm": "Luas di bawah graf halaju–masa" }, "back": { "en": "Displacement", "bm": "Sesaran" } },
+    { "id": "phy-02-f06", "subtopicId": "phy-02-02", "front": { "en": "Gradient of a velocity–time graph", "bm": "Kecerunan graf halaju–masa" }, "back": { "en": "Acceleration", "bm": "Pecutan" } },
+    { "id": "phy-02-f07", "subtopicId": "phy-02-03", "front": { "en": "Free fall", "bm": "Jatuh bebas" }, "back": { "en": "Motion under gravity only. Acceleration g ≈ 9.81 m s⁻², same for all masses", "bm": "Gerakan di bawah graviti sahaja. Pecutan g ≈ 9.81 m s⁻², sama untuk semua jisim" } },
+    { "id": "phy-02-f08", "subtopicId": "phy-02-04", "front": { "en": "Inertia", "bm": "Inersia" }, "back": { "en": "Tendency to stay at rest or keep moving uniformly in a straight line. Bigger mass → bigger inertia", "bm": "Kecenderungan untuk kekal pegun atau terus bergerak seragam dalam garis lurus. Jisim besar → inersia besar" } },
+    { "id": "phy-02-f09", "subtopicId": "phy-02-05", "front": { "en": "Principle of conservation of momentum", "bm": "Prinsip keabadian momentum" }, "back": { "en": "Total momentum before = total momentum after, if no external force acts", "bm": "Jumlah momentum sebelum = jumlah momentum selepas, jika tiada daya luar bertindak" } },
+    { "id": "phy-02-f10", "subtopicId": "phy-02-05", "front": { "en": "Elastic vs inelastic collision", "bm": "Perlanggaran kenyal vs tidak kenyal" }, "back": { "en": "Elastic: objects separate, kinetic energy conserved. Inelastic: objects stick together. Momentum conserved in both", "bm": "Kenyal: objek berpisah, tenaga kinetik diabadikan. Tidak kenyal: objek bergerak bersama. Momentum diabadikan dalam kedua-duanya" } },
+    { "id": "phy-02-f11", "subtopicId": "phy-02-06", "front": { "en": "Newton's second law", "bm": "Hukum gerakan Newton kedua" }, "back": { "en": "Rate of change of momentum is proportional to the force: F = ma", "bm": "Kadar perubahan momentum berkadar terus dengan daya: F = ma" } },
+    { "id": "phy-02-f12", "subtopicId": "phy-02-07", "front": { "en": "Impulse", "bm": "Impuls" }, "back": { "en": "Change in momentum: Ft = mv − mu. Unit: N s", "bm": "Perubahan momentum: Ft = mv − mu. Unit: N s" } },
+    { "id": "phy-02-f13", "subtopicId": "phy-02-07", "front": { "en": "How to reduce impulsive force", "bm": "Cara mengurangkan daya impuls" }, "back": { "en": "Increase the impact time (airbags, crumple zones, bending knees on landing)", "bm": "Panjangkan masa hentaman (beg udara, zon remuk, bengkokkan lutut semasa mendarat)" } },
+    { "id": "phy-02-f14", "subtopicId": "phy-02-08", "front": { "en": "Weight vs mass", "bm": "Berat vs jisim" }, "back": { "en": "Weight = gravitational force, W = mg (N). Mass = amount of matter (kg), same everywhere", "bm": "Berat = daya graviti, W = mg (N). Jisim = kuantiti jirim (kg), sama di mana-mana" } },
+    { "id": "phy-02-f15", "subtopicId": "phy-02-01", "front": { "en": "'From rest' / 'comes to a stop'", "bm": "'Dari pegun' / 'berhenti'" }, "back": { "en": "From rest: u = 0. Comes to a stop: v = 0", "bm": "Dari pegun: u = 0. Berhenti: v = 0" } }
+  ]
+}

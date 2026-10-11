@@ -1,0 +1,195 @@
+{
+  "chapterId": "bio-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your body is made of about 37 trillion cells. Yet an Amoeba living in a monsoon drain eats, moves, gets rid of waste and reproduces with just ONE cell. How can one cell do everything?",
+      "bm": "Badan anda terdiri daripada kira-kira 37 trilion sel. Namun Amoeba yang hidup dalam longkang monsun makan, bergerak, menyingkir bahan buangan dan membiak dengan SATU sel sahaja. Bagaimana satu sel boleh melakukan semuanya?"
+    },
+    "bigIdeas": [
+      { "en": "The cell is the basic unit of life, and each organelle has a specific job.", "bm": "Sel ialah unit asas kehidupan, dan setiap organel mempunyai tugas tertentu." },
+      { "en": "Only plant cells have a cell wall, chloroplasts and a large central vacuole.", "bm": "Hanya sel tumbuhan mempunyai dinding sel, kloroplas dan vakuol tengah yang besar." },
+      { "en": "Unicellular organisms like Amoeba and Paramecium carry out all living processes in one cell.", "bm": "Organisma unisel seperti Amoeba dan Paramecium menjalankan semua proses hidup dalam satu sel." },
+      { "en": "In multicellular organisms cells specialise: their shape fits their job.", "bm": "Dalam organisma multisel, sel mengalami pengkhususan: bentuknya sesuai dengan tugasnya." },
+      { "en": "Levels of organisation: cell → tissue → organ → system → organism.", "bm": "Aras organisasi: sel → tisu → organ → sistem → organisma." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Cell", "bm": "Sel" }, "detail": { "en": "e.g. cardiac muscle cell", "bm": "cth. sel otot kardium" } },
+          { "title": { "en": "Tissue", "bm": "Tisu" }, "detail": { "en": "cardiac muscle tissue", "bm": "tisu otot kardium" } },
+          { "title": { "en": "Organ", "bm": "Organ" }, "detail": { "en": "heart", "bm": "jantung" } },
+          { "title": { "en": "System", "bm": "Sistem" }, "detail": { "en": "blood circulatory system", "bm": "sistem peredaran darah" } },
+          { "title": { "en": "Organism", "bm": "Organisma" }, "detail": { "en": "human", "bm": "manusia" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Organelle", "bm": "Organel" }, "definition": { "en": "A structure inside a cell with a specific function.", "bm": "Struktur dalam sel yang mempunyai fungsi khusus." } },
+      { "term": { "en": "Nucleus", "bm": "Nukleus" }, "definition": { "en": "Contains genetic material (DNA) and controls all cell activities.", "bm": "Mengandungi bahan genetik (DNA) dan mengawal semua aktiviti sel." } },
+      { "term": { "en": "Mitochondrion", "bm": "Mitokondrion" }, "definition": { "en": "Site of aerobic respiration; releases energy for the cell.", "bm": "Tapak respirasi aerob; membebaskan tenaga untuk sel." } },
+      { "term": { "en": "Chloroplast", "bm": "Kloroplas" }, "definition": { "en": "Contains chlorophyll; site of photosynthesis in plant cells.", "bm": "Mengandungi klorofil; tapak fotosintesis dalam sel tumbuhan." } },
+      { "term": { "en": "Cell wall", "bm": "Dinding sel" }, "definition": { "en": "Tough, fully permeable cellulose layer that gives plant cells shape and support.", "bm": "Lapisan selulosa yang kuat dan telap sepenuhnya, memberi bentuk dan sokongan kepada sel tumbuhan." } },
+      { "term": { "en": "Plasma membrane", "bm": "Membran plasma" }, "definition": { "en": "Semi-permeable layer that controls what enters and leaves the cell.", "bm": "Lapisan separa telap yang mengawal kemasukan dan keluarnya bahan dari sel." } },
+      { "term": { "en": "Ribosome", "bm": "Ribosom" }, "definition": { "en": "Site of protein synthesis.", "bm": "Tapak sintesis protein." } },
+      { "term": { "en": "Tissue", "bm": "Tisu" }, "definition": { "en": "A group of similar cells working together for one function.", "bm": "Sekumpulan sel yang serupa yang bekerjasama untuk satu fungsi." } },
+      { "term": { "en": "Unicellular", "bm": "Unisel" }, "definition": { "en": "Made of only one cell, e.g. Amoeba sp., Paramecium sp.", "bm": "Terdiri daripada satu sel sahaja, cth. Amoeba sp., Paramecium sp." } },
+      { "term": { "en": "Cell specialisation", "bm": "Pengkhususan sel" }, "definition": { "en": "Cells develop a particular shape and structure to do a specific job.", "bm": "Sel membentuk bentuk dan struktur tertentu untuk melakukan tugas khusus." } }
+    ],
+    "formulaIds": [],
+    "toolId": "cell-explorer",
+    "workedExample": {
+      "question": {
+        "en": "A cell under the microscope has a cell wall, many chloroplasts and a large central vacuole. Identify the type of cell and explain the job of each structure.",
+        "bm": "Satu sel di bawah mikroskop mempunyai dinding sel, banyak kloroplas dan vakuol tengah yang besar. Kenal pasti jenis sel dan terangkan tugas setiap struktur."
+      },
+      "steps": [
+        { "en": "Cell wall + chloroplasts + large central vacuole are only found together in plant cells.", "bm": "Dinding sel + kloroplas + vakuol tengah yang besar hanya didapati bersama dalam sel tumbuhan." },
+        { "en": "Many chloroplasts suggest a palisade mesophyll cell in a leaf.", "bm": "Banyak kloroplas menunjukkan sel mesofil palisad dalam daun." },
+        { "en": "Cell wall: gives a fixed shape and stops the cell bursting when it takes in water.", "bm": "Dinding sel: memberi bentuk tetap dan menghalang sel daripada pecah apabila menyerap air." },
+        { "en": "Chloroplasts: absorb light energy for photosynthesis.", "bm": "Kloroplas: menyerap tenaga cahaya untuk fotosintesis." },
+        { "en": "Vacuole: stores cell sap and keeps the cell firm (turgid).", "bm": "Vakuol: menyimpan sap sel dan memastikan sel segah (turgid)." }
+      ],
+      "answer": { "en": "A plant cell (likely palisade mesophyll). Wall = support, chloroplast = photosynthesis, vacuole = storage and turgidity.", "bm": "Sel tumbuhan (mungkin mesofil palisad). Dinding = sokongan, kloroplas = fotosintesis, vakuol = penyimpanan dan kesegahan." }
+    }
+  },
+  "questions": [
+    {
+      "id": "bio-02-q01", "subtopicId": "bio-02-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which organelle is the site of aerobic respiration?", "bm": "Organel manakah tapak respirasi aerob?" },
+      "options": [
+        { "en": "Ribosome", "bm": "Ribosom" }, { "en": "Mitochondrion", "bm": "Mitokondrion" },
+        { "en": "Chloroplast", "bm": "Kloroplas" }, { "en": "Golgi apparatus", "bm": "Jasad Golgi" }
+      ],
+      "answer": 1,
+      "explanation": { "en": "Mitochondria break down glucose with oxygen to release energy (ATP).", "bm": "Mitokondria menguraikan glukosa dengan oksigen untuk membebaskan tenaga (ATP)." }
+    },
+    {
+      "id": "bio-02-q02", "subtopicId": "bio-02-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which structure is found in plant cells but NOT in animal cells?", "bm": "Struktur manakah terdapat dalam sel tumbuhan tetapi TIDAK dalam sel haiwan?" },
+      "options": [
+        { "en": "Nucleus", "bm": "Nukleus" }, { "en": "Ribosome", "bm": "Ribosom" },
+        { "en": "Cell wall", "bm": "Dinding sel" }, { "en": "Plasma membrane", "bm": "Membran plasma" }
+      ],
+      "answer": 2,
+      "explanation": { "en": "Both cell types have a nucleus, ribosomes and a plasma membrane. Only plant cells have a cellulose cell wall.", "bm": "Kedua-dua jenis sel mempunyai nukleus, ribosom dan membran plasma. Hanya sel tumbuhan mempunyai dinding sel selulosa." }
+    },
+    {
+      "id": "bio-02-q03", "subtopicId": "bio-02-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each organelle to its function.", "bm": "Padankan setiap organel dengan fungsinya." },
+      "pairs": [
+        { "left": { "en": "Nucleus", "bm": "Nukleus" }, "right": { "en": "Controls cell activities", "bm": "Mengawal aktiviti sel" } },
+        { "left": { "en": "Ribosome", "bm": "Ribosom" }, "right": { "en": "Makes proteins", "bm": "Mensintesis protein" } },
+        { "left": { "en": "Chloroplast", "bm": "Kloroplas" }, "right": { "en": "Photosynthesis", "bm": "Fotosintesis" } },
+        { "left": { "en": "Plasma membrane", "bm": "Membran plasma" }, "right": { "en": "Controls what enters and leaves", "bm": "Mengawal bahan masuk dan keluar" } }
+      ],
+      "explanation": { "en": "Learn organelles as 'structure → job' pairs — exam questions usually give one and ask for the other.", "bm": "Pelajari organel sebagai pasangan 'struktur → tugas' — soalan peperiksaan biasanya memberi satu dan meminta yang lain." }
+    },
+    {
+      "id": "bio-02-q04", "subtopicId": "bio-02-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The organelle that carries out photosynthesis is the ______.", "bm": "Organel yang menjalankan fotosintesis ialah ______." },
+      "answer": ["chloroplast", "chloroplasts", "kloroplas"],
+      "explanation": { "en": "Chloroplasts contain chlorophyll, which absorbs light energy.", "bm": "Kloroplas mengandungi klorofil yang menyerap tenaga cahaya." }
+    },
+    {
+      "id": "bio-02-q05", "subtopicId": "bio-02-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Pancreas cells secrete digestive enzymes. Which organelles would they have a lot of?", "bm": "Sel pankreas merembeskan enzim pencernaan. Organel manakah yang banyak terdapat dalam sel ini?" },
+      "options": [
+        { "en": "Rough endoplasmic reticulum and Golgi apparatus", "bm": "Jalinan endoplasma kasar dan jasad Golgi" },
+        { "en": "Chloroplasts and vacuoles", "bm": "Kloroplas dan vakuol" },
+        { "en": "Centrioles only", "bm": "Sentriol sahaja" },
+        { "en": "Lysosomes only", "bm": "Lisosom sahaja" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Enzymes are proteins: made on ribosomes of the rough ER, then processed and packaged by the Golgi apparatus for secretion.", "bm": "Enzim ialah protein: disintesis di ribosom pada JE kasar, kemudian diproses dan dibungkus oleh jasad Golgi untuk dirembeskan." }
+    },
+    {
+      "id": "bio-02-q06", "subtopicId": "bio-02-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Sperm cells have many mitochondria. Why?", "bm": "Sel sperma mempunyai banyak mitokondria. Mengapa?" },
+      "options": [
+        { "en": "To release lots of energy for swimming", "bm": "Untuk membebaskan banyak tenaga untuk berenang" },
+        { "en": "To make proteins", "bm": "Untuk mensintesis protein" },
+        { "en": "To store food", "bm": "Untuk menyimpan makanan" },
+        { "en": "To carry out photosynthesis", "bm": "Untuk menjalankan fotosintesis" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Cells that need a lot of energy (sperm, muscle cells) have many mitochondria.", "bm": "Sel yang memerlukan banyak tenaga (sperma, sel otot) mempunyai banyak mitokondria." }
+    },
+    {
+      "id": "bio-02-q07", "subtopicId": "bio-02-04", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Arrange the levels of organisation from simplest to most complex.", "bm": "Susun aras organisasi daripada paling ringkas kepada paling kompleks." },
+      "items": [
+        { "en": "Cell", "bm": "Sel" }, { "en": "Tissue", "bm": "Tisu" }, { "en": "Organ", "bm": "Organ" },
+        { "en": "System", "bm": "Sistem" }, { "en": "Organism", "bm": "Organisma" }
+      ],
+      "explanation": { "en": "Similar cells form a tissue; different tissues form an organ; organs work together in a system; systems make up the organism.", "bm": "Sel serupa membentuk tisu; tisu berbeza membentuk organ; organ bekerjasama dalam sistem; sistem-sistem membentuk organisma." }
+    },
+    {
+      "id": "bio-02-q08", "subtopicId": "bio-02-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "How does Amoeba sp. take in food?", "bm": "Bagaimanakah Amoeba sp. mendapatkan makanan?" },
+      "options": [
+        { "en": "Phagocytosis using pseudopodia", "bm": "Fagositosis menggunakan pseudopodium" },
+        { "en": "Photosynthesis", "bm": "Fotosintesis" },
+        { "en": "Through a mouth and gut", "bm": "Melalui mulut dan usus" },
+        { "en": "Binary fission", "bm": "Belahan dedua" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Pseudopodia surround the food, forming a food vacuole (phagocytosis). Binary fission is how it reproduces.", "bm": "Pseudopodium mengelilingi makanan dan membentuk vakuol makanan (fagositosis). Belahan dedua ialah cara ia membiak." }
+    },
+    {
+      "id": "bio-02-q09", "subtopicId": "bio-02-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Which structure removes excess water from Paramecium sp.?", "bm": "Struktur manakah menyingkirkan air berlebihan daripada Paramecium sp.?" },
+      "options": [
+        { "en": "Contractile vacuole", "bm": "Vakuol mengecut" }, { "en": "Cilia", "bm": "Silium" },
+        { "en": "Oral groove", "bm": "Alur mulut" }, { "en": "Macronucleus", "bm": "Makronukleus" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Fresh water keeps entering by osmosis; the contractile vacuole pumps it out so the cell does not burst.", "bm": "Air tawar sentiasa memasuki sel secara osmosis; vakuol mengecut mengepam keluar air supaya sel tidak pecah." }
+    },
+    {
+      "id": "bio-02-q10", "subtopicId": "bio-02-03", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which of these are TISSUES (not organs)? Select all that apply.", "bm": "Antara berikut, yang manakah TISU (bukan organ)? Pilih semua yang betul." },
+      "options": [
+        { "en": "Epithelial tissue", "bm": "Tisu epitelium" }, { "en": "Muscle tissue", "bm": "Tisu otot" },
+        { "en": "Xylem", "bm": "Xilem" }, { "en": "Heart", "bm": "Jantung" }
+      ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "The heart is an organ made of several tissues (muscle, nerve, connective). Xylem is a plant vascular tissue.", "bm": "Jantung ialah organ yang terdiri daripada beberapa tisu (otot, saraf, penghubung). Xilem ialah tisu vaskular tumbuhan." }
+    },
+    {
+      "id": "bio-02-q11", "subtopicId": "bio-02-03", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Mature red blood cells have no nucleus. What is the advantage?", "bm": "Sel darah merah matang tidak mempunyai nukleus. Apakah kelebihannya?" },
+      "options": [
+        { "en": "More space for haemoglobin, so more oxygen can be carried", "bm": "Lebih ruang untuk hemoglobin, jadi lebih banyak oksigen dapat diangkut" },
+        { "en": "The cell can divide faster", "bm": "Sel boleh membahagi dengan lebih cepat" },
+        { "en": "The cell lives longer", "bm": "Sel hidup lebih lama" },
+        { "en": "It can make more proteins", "bm": "Ia boleh menghasilkan lebih banyak protein" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Structure matches function: the biconcave, nucleus-free shape maximises haemoglobin and surface area for gas exchange.", "bm": "Struktur sepadan dengan fungsi: bentuk dwicekung tanpa nukleus memaksimumkan hemoglobin dan luas permukaan untuk pertukaran gas." }
+    },
+    {
+      "id": "bio-02-q12", "subtopicId": "bio-02-03", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Root hair cells have a long, thin extension. Explain the advantage.", "bm": "Sel rambut akar mempunyai unjuran yang panjang dan halus. Terangkan kelebihannya." },
+      "options": [
+        { "en": "It increases the surface area for absorbing water and mineral ions", "bm": "Ia menambah luas permukaan untuk menyerap air dan ion mineral" },
+        { "en": "It helps the root photosynthesise", "bm": "Ia membantu akar berfotosintesis" },
+        { "en": "It anchors the plant by being hard", "bm": "Ia menambat tumbuhan kerana keras" },
+        { "en": "It stores starch", "bm": "Ia menyimpan kanji" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "A larger surface area-to-volume ratio speeds up absorption. Roots have no chloroplasts, so they do not photosynthesise.", "bm": "Nisbah luas permukaan kepada isi padu yang lebih besar mempercepat penyerapan. Akar tiada kloroplas, jadi tidak berfotosintesis." }
+    },
+    {
+      "id": "bio-02-q13", "subtopicId": "bio-02-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Which structure is fully permeable?", "bm": "Struktur manakah telap sepenuhnya?" },
+      "options": [
+        { "en": "Cell wall", "bm": "Dinding sel" }, { "en": "Plasma membrane", "bm": "Membran plasma" },
+        { "en": "Tonoplast (vacuole membrane)", "bm": "Tonoplas (membran vakuol)" }, { "en": "Nuclear membrane", "bm": "Membran nukleus" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "The cellulose cell wall lets almost everything through. Membranes are semi-permeable — they control what passes.", "bm": "Dinding sel selulosa membenarkan hampir semua bahan melaluinya. Membran adalah separa telap — ia mengawal bahan yang melalui." }
+    }
+  ]
+}

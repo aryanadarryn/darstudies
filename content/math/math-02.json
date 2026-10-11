@@ -1,0 +1,141 @@
+{
+  "chapterId": "math-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Computers only understand 0 and 1. So how does your phone store the number 2026 using just two digits?",
+      "bm": "Komputer hanya memahami 0 dan 1. Jadi bagaimana telefon anda menyimpan nombor 2026 dengan hanya dua digit?"
+    },
+    "bigIdeas": [
+      { "en": "Base b uses b digits: base 2 uses 0–1, base 8 uses 0–7, base 10 uses 0–9.", "bm": "Asas b menggunakan b digit: asas 2 guna 0–1, asas 8 guna 0–7, asas 10 guna 0–9." },
+      { "en": "Each place value is a power of the base: …, b³, b², b¹, b⁰.", "bm": "Setiap nilai tempat ialah kuasa asas: …, b³, b², b¹, b⁰." },
+      { "en": "To convert to base 10, multiply each digit by its place value and add.", "bm": "Untuk menukar kepada asas 10, darab setiap digit dengan nilai tempatnya dan tambah." },
+      { "en": "To convert from base 10, divide by the base repeatedly and read the remainders from bottom to top.", "bm": "Untuk menukar dari asas 10, bahagi dengan asas berulang kali dan baca baki dari bawah ke atas." },
+      { "en": "Add and subtract in any base by carrying or borrowing in groups of the base, not 10.", "bm": "Tambah dan tolak dalam sebarang asas dengan membawa atau meminjam dalam kumpulan asas, bukan 10." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Divide by the base", "bm": "Bahagi dengan asas" }, "detail": { "en": "45 ÷ 2 = 22 remainder 1", "bm": "45 ÷ 2 = 22 baki 1" } },
+          { "title": { "en": "Write down the remainder", "bm": "Tulis bakinya" }, "detail": { "en": "remainders are always less than the base", "bm": "baki sentiasa kurang daripada asas" } },
+          { "title": { "en": "Repeat with the quotient", "bm": "Ulang dengan hasil bahagi" }, "detail": { "en": "22 → 11 → 5 → 2 → 1 → 0", "bm": "22 → 11 → 5 → 2 → 1 → 0" } },
+          { "title": { "en": "Read remainders bottom → top", "bm": "Baca baki bawah → atas" }, "detail": { "en": "45₁₀ = 101101₂", "bm": "45₁₀ = 101101₂" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Number base", "bm": "Asas nombor" }, "definition": { "en": "The number of different digits used in a number system.", "bm": "Bilangan digit berbeza yang digunakan dalam sistem nombor." } },
+      { "term": { "en": "Place value", "bm": "Nilai tempat" }, "definition": { "en": "The value of a position in a number, a power of the base.", "bm": "Nilai sesuatu kedudukan dalam nombor, iaitu kuasa asas." } },
+      { "term": { "en": "Digit value", "bm": "Nilai digit" }, "definition": { "en": "Digit × its place value.", "bm": "Digit × nilai tempatnya." } },
+      { "term": { "en": "Binary (base 2)", "bm": "Perduaan (asas 2)" }, "definition": { "en": "Number system using only 0 and 1; used by computers.", "bm": "Sistem nombor yang menggunakan 0 dan 1 sahaja; digunakan oleh komputer." } },
+      { "term": { "en": "Octal (base 8)", "bm": "Perlapanan (asas 8)" }, "definition": { "en": "Number system using digits 0–7.", "bm": "Sistem nombor yang menggunakan digit 0–7." } },
+      { "term": { "en": "Quotient", "bm": "Hasil bahagi" }, "definition": { "en": "The whole-number result of a division.", "bm": "Hasil nombor bulat daripada pembahagian." } },
+      { "term": { "en": "Remainder", "bm": "Baki" }, "definition": { "en": "What is left over after dividing.", "bm": "Yang tinggal selepas pembahagian." } }
+    ],
+    "formulaIds": ["math-place-value"],
+    "toolId": "base-converter",
+    "workedExample": {
+      "question": { "en": "Convert 45₁₀ to base 2, then check your answer.", "bm": "Tukar 45₁₀ kepada asas 2, kemudian semak jawapan anda." },
+      "steps": [
+        { "en": "45 ÷ 2 = 22 r 1;  22 ÷ 2 = 11 r 0;  11 ÷ 2 = 5 r 1", "bm": "45 ÷ 2 = 22 baki 1;  22 ÷ 2 = 11 baki 0;  11 ÷ 2 = 5 baki 1" },
+        { "en": "5 ÷ 2 = 2 r 1;  2 ÷ 2 = 1 r 0;  1 ÷ 2 = 0 r 1", "bm": "5 ÷ 2 = 2 baki 1;  2 ÷ 2 = 1 baki 0;  1 ÷ 2 = 0 baki 1" },
+        { "en": "Read the remainders from the bottom up: 101101₂", "bm": "Baca baki dari bawah ke atas: 101101₂" },
+        { "en": "Check: 1×2⁵ + 0×2⁴ + 1×2³ + 1×2² + 0×2¹ + 1×2⁰ = 32 + 8 + 4 + 1 = 45 ✓", "bm": "Semak: 1×2⁵ + 0×2⁴ + 1×2³ + 1×2² + 0×2¹ + 1×2⁰ = 32 + 8 + 4 + 1 = 45 ✓" }
+      ],
+      "answer": { "en": "45₁₀ = 101101₂", "bm": "45₁₀ = 101101₂" }
+    }
+  },
+  "questions": [
+    {
+      "id": "math-02-q01", "subtopicId": "math-02-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which digit can NOT appear in a base 5 number?", "bm": "Digit manakah TIDAK boleh wujud dalam nombor asas 5?" },
+      "options": [ { "en": "0", "bm": "0" }, { "en": "3", "bm": "3" }, { "en": "4", "bm": "4" }, { "en": "5", "bm": "5" } ],
+      "answer": 3,
+      "explanation": { "en": "Base 5 uses only 0, 1, 2, 3, 4. The digit is always less than the base.", "bm": "Asas 5 menggunakan 0, 1, 2, 3, 4 sahaja. Digit sentiasa kurang daripada asas." }
+    },
+    {
+      "id": "math-02-q02", "subtopicId": "math-02-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Convert 1101₂ to base 10.", "bm": "Tukar 1101₂ kepada asas 10." },
+      "answer": 13, "tolerance": 0,
+      "explanation": { "en": "1×8 + 1×4 + 0×2 + 1×1 = 13.", "bm": "1×8 + 1×4 + 0×2 + 1×1 = 13." }
+    },
+    {
+      "id": "math-02-q03", "subtopicId": "math-02-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Convert 234₅ to base 10.", "bm": "Tukar 234₅ kepada asas 10." },
+      "answer": 69, "tolerance": 0,
+      "explanation": { "en": "2×25 + 3×5 + 4×1 = 50 + 15 + 4 = 69.", "bm": "2×25 + 3×5 + 4×1 = 50 + 15 + 4 = 69." }
+    },
+    {
+      "id": "math-02-q04", "subtopicId": "math-02-01", "type": "fill", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Convert 25₁₀ to base 2.", "bm": "Tukar 25₁₀ kepada asas 2." },
+      "answer": ["11001"],
+      "explanation": { "en": "25 = 16 + 8 + 1 → 1×16 + 1×8 + 0×4 + 0×2 + 1×1 = 11001₂.", "bm": "25 = 16 + 8 + 1 → 1×16 + 1×8 + 0×4 + 0×2 + 1×1 = 11001₂." }
+    },
+    {
+      "id": "math-02-q05", "subtopicId": "math-02-01", "type": "fill", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Convert 100₁₀ to base 8.", "bm": "Tukar 100₁₀ kepada asas 8." },
+      "answer": ["144"],
+      "explanation": { "en": "100 ÷ 8 = 12 r 4; 12 ÷ 8 = 1 r 4; 1 ÷ 8 = 0 r 1 → 144₈. Check: 64 + 32 + 4 = 100.", "bm": "100 ÷ 8 = 12 baki 4; 12 ÷ 8 = 1 baki 4; 1 ÷ 8 = 0 baki 1 → 144₈. Semak: 64 + 32 + 4 = 100." }
+    },
+    {
+      "id": "math-02-q06", "subtopicId": "math-02-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "What is the place value (in base 10) of the digit 3 in 2341₈?", "bm": "Apakah nilai tempat (dalam asas 10) bagi digit 3 dalam 2341₈?" },
+      "answer": 64, "tolerance": 0,
+      "explanation": { "en": "Positions from the right are 8⁰, 8¹, 8², 8³. The 3 is in the 8² = 64 place.", "bm": "Kedudukan dari kanan ialah 8⁰, 8¹, 8², 8³. Digit 3 berada di tempat 8² = 64." }
+    },
+    {
+      "id": "math-02-q07", "subtopicId": "math-02-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the digit value (in base 10) of the digit 3 in 2341₈?", "bm": "Apakah nilai digit (dalam asas 10) bagi digit 3 dalam 2341₈?" },
+      "answer": 192, "tolerance": 0,
+      "explanation": { "en": "Digit value = digit × place value = 3 × 64 = 192.", "bm": "Nilai digit = digit × nilai tempat = 3 × 64 = 192." }
+    },
+    {
+      "id": "math-02-q08", "subtopicId": "math-02-01", "type": "fill", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Calculate 1011₂ + 111₂. Give your answer in base 2.", "bm": "Hitung 1011₂ + 111₂. Berikan jawapan dalam asas 2." },
+      "answer": ["10010"],
+      "explanation": { "en": "In base 2, 1 + 1 = 10 (write 0, carry 1). Check in base 10: 11 + 7 = 18 = 10010₂.", "bm": "Dalam asas 2, 1 + 1 = 10 (tulis 0, bawa 1). Semak dalam asas 10: 11 + 7 = 18 = 10010₂." }
+    },
+    {
+      "id": "math-02-q09", "subtopicId": "math-02-01", "type": "fill", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Convert 57₈ to base 2.", "bm": "Tukar 57₈ kepada asas 2." },
+      "answer": ["101111"],
+      "explanation": { "en": "Shortcut: each octal digit = 3 binary digits. 5 = 101, 7 = 111 → 101111₂.", "bm": "Jalan pintas: setiap digit asas 8 = 3 digit asas 2. 5 = 101, 7 = 111 → 101111₂." }
+    },
+    {
+      "id": "math-02-q10", "subtopicId": "math-02-01", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Which number has the largest value?", "bm": "Nombor manakah yang paling besar nilainya?" },
+      "options": [ { "en": "10011₂", "bm": "10011₂" }, { "en": "202₃", "bm": "202₃" }, { "en": "34₅", "bm": "34₅" }, { "en": "23₈", "bm": "23₈" } ],
+      "answer": 1,
+      "explanation": { "en": "Convert all to base 10: 10011₂ = 19, 202₃ = 20, 34₅ = 19, 23₈ = 19.", "bm": "Tukar semua kepada asas 10: 10011₂ = 19, 202₃ = 20, 34₅ = 19, 23₈ = 19." }
+    },
+    {
+      "id": "math-02-q11", "subtopicId": "math-02-01", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Put the steps for converting a base 10 number to another base in order.", "bm": "Susun langkah untuk menukar nombor asas 10 kepada asas lain." },
+      "items": [
+        { "en": "Divide the number by the base", "bm": "Bahagi nombor dengan asas" },
+        { "en": "Write down the remainder", "bm": "Tulis baki" },
+        { "en": "Divide the quotient again until it is 0", "bm": "Bahagi hasil bahagi lagi sehingga 0" },
+        { "en": "Read the remainders from bottom to top", "bm": "Baca baki dari bawah ke atas" }
+      ],
+      "explanation": { "en": "The last remainder is the most significant (leftmost) digit.", "bm": "Baki terakhir ialah digit paling bererti (paling kiri)." }
+    },
+    {
+      "id": "math-02-q12", "subtopicId": "math-02-01", "type": "match", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Match each base to the digits it uses.", "bm": "Padankan setiap asas dengan digit yang digunakan." },
+      "pairs": [
+        { "left": { "en": "Base 2", "bm": "Asas 2" }, "right": { "en": "0 and 1", "bm": "0 dan 1" } },
+        { "left": { "en": "Base 5", "bm": "Asas 5" }, "right": { "en": "0 to 4", "bm": "0 hingga 4" } },
+        { "left": { "en": "Base 8", "bm": "Asas 8" }, "right": { "en": "0 to 7", "bm": "0 hingga 7" } },
+        { "left": { "en": "Base 10", "bm": "Asas 10" }, "right": { "en": "0 to 9", "bm": "0 hingga 9" } }
+      ],
+      "explanation": { "en": "Base b uses the digits 0 to b − 1.", "bm": "Asas b menggunakan digit 0 hingga b − 1." }
+    },
+    {
+      "id": "math-02-q13", "subtopicId": "math-02-01", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "2x3₅ = 73₁₀, where x is a digit. Find x.", "bm": "2x3₅ = 73₁₀, dengan x ialah satu digit. Cari x." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "2×25 + x×5 + 3 = 73 → 53 + 5x = 73 → x = 4. (4 is allowed in base 5.)", "bm": "2×25 + x×5 + 3 = 73 → 53 + 5x = 73 → x = 4. (4 dibenarkan dalam asas 5.)" }
+    }
+  ]
+}

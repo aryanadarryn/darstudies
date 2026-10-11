@@ -1,0 +1,103 @@
+{
+  "subtopics": [
+    { "id": "bridge-algebra", "title": { "en": "Form 3 algebra & indices", "bm": "Algebra & indeks Tingkatan 3" } },
+    { "id": "bridge-science", "title": { "en": "Form 3 science foundations", "bm": "Asas sains Tingkatan 3" } }
+  ],
+  "questions": [
+    {
+      "id": "bridge-q01", "subtopicId": "bridge-algebra", "type": "mcq", "difficulty": 1,
+      "prompt": { "en": "Expand (x + 3)(x − 2).", "bm": "Kembangkan (x + 3)(x − 2)." },
+      "options": [ { "en": "x² + x − 6", "bm": "x² + x − 6" }, { "en": "x² − x − 6", "bm": "x² − x − 6" }, { "en": "x² + 5x − 6", "bm": "x² + 5x − 6" }, { "en": "x² − 6", "bm": "x² − 6" } ],
+      "answer": 0,
+      "explanation": { "en": "x² − 2x + 3x − 6 = x² + x − 6.", "bm": "x² − 2x + 3x − 6 = x² + x − 6." }
+    },
+    {
+      "id": "bridge-q02", "subtopicId": "bridge-algebra", "type": "numeric", "difficulty": 1,
+      "prompt": { "en": "Solve 3x − 5 = 10.", "bm": "Selesaikan 3x − 5 = 10." },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "3x = 15 → x = 5.", "bm": "3x = 15 → x = 5." }
+    },
+    {
+      "id": "bridge-q03", "subtopicId": "bridge-algebra", "type": "mcq", "difficulty": 1,
+      "prompt": { "en": "Simplify 2³ × 2⁴.", "bm": "Permudahkan 2³ × 2⁴." },
+      "options": [ { "en": "2⁷", "bm": "2⁷" }, { "en": "2¹²", "bm": "2¹²" }, { "en": "4⁷", "bm": "4⁷" }, { "en": "4¹²", "bm": "4¹²" } ],
+      "answer": 0,
+      "explanation": { "en": "Same base, multiply → add the indices: 3 + 4 = 7.", "bm": "Asas sama, darab → tambah indeks: 3 + 4 = 7." }
+    },
+    {
+      "id": "bridge-q04", "subtopicId": "bridge-algebra", "type": "mcq", "difficulty": 2,
+      "prompt": { "en": "Simplify (x²)³.", "bm": "Permudahkan (x²)³." },
+      "options": [ { "en": "x⁵", "bm": "x⁵" }, { "en": "x⁶", "bm": "x⁶" }, { "en": "x⁸", "bm": "x⁸" }, { "en": "3x²", "bm": "3x²" } ],
+      "answer": 1,
+      "explanation": { "en": "Power of a power → multiply the indices: 2 × 3 = 6.", "bm": "Kuasa bagi kuasa → darab indeks: 2 × 3 = 6." }
+    },
+    {
+      "id": "bridge-q05", "subtopicId": "bridge-algebra", "type": "numeric", "difficulty": 1,
+      "prompt": { "en": "What is 7⁰?", "bm": "Berapakah 7⁰?" },
+      "answer": 1, "tolerance": 0,
+      "explanation": { "en": "Any non-zero number to the power 0 is 1.", "bm": "Sebarang nombor bukan sifar berkuasa 0 ialah 1." }
+    },
+    {
+      "id": "bridge-q06", "subtopicId": "bridge-algebra", "type": "numeric", "difficulty": 2,
+      "prompt": { "en": "A right-angled triangle has shorter sides 6 cm and 8 cm. Find the hypotenuse.", "bm": "Sebuah segi tiga bersudut tegak mempunyai sisi pendek 6 cm dan 8 cm. Cari hipotenus." },
+      "answer": 10, "tolerance": 0, "unit": "cm",
+      "explanation": { "en": "√(6² + 8²) = √100 = 10 cm.", "bm": "√(6² + 8²) = √100 = 10 cm." }
+    },
+    {
+      "id": "bridge-q07", "subtopicId": "bridge-algebra", "type": "mcq", "difficulty": 2,
+      "prompt": { "en": "Write 0.00045 in standard form.", "bm": "Tulis 0.00045 dalam bentuk piawai." },
+      "options": [ { "en": "4.5 × 10⁻⁴", "bm": "4.5 × 10⁻⁴" }, { "en": "4.5 × 10⁴", "bm": "4.5 × 10⁴" }, { "en": "45 × 10⁻⁵", "bm": "45 × 10⁻⁵" }, { "en": "4.5 × 10⁻³", "bm": "4.5 × 10⁻³" } ],
+      "answer": 0,
+      "explanation": { "en": "Move the decimal point 4 places right to get 4.5, so the power is −4.", "bm": "Gerakkan titik perpuluhan 4 tempat ke kanan untuk dapat 4.5, jadi kuasanya −4." }
+    },
+    {
+      "id": "bridge-q08", "subtopicId": "bridge-algebra", "type": "fill", "difficulty": 2,
+      "prompt": { "en": "Factorise completely: x² − 9", "bm": "Faktorkan selengkapnya: x² − 9" },
+      "answer": ["(x+3)(x-3)", "(x-3)(x+3)", "(x + 3)(x − 3)", "(x − 3)(x + 3)", "(x + 3)(x - 3)", "(x - 3)(x + 3)"],
+      "explanation": { "en": "Difference of two squares: a² − b² = (a + b)(a − b).", "bm": "Beza dua kuasa dua: a² − b² = (a + b)(a − b)." }
+    },
+    {
+      "id": "bridge-q09", "subtopicId": "bridge-science", "type": "numeric", "difficulty": 1,
+      "prompt": { "en": "A bus travels 120 km in 1.5 hours. Find its average speed in km/h.", "bm": "Sebuah bas bergerak 120 km dalam 1.5 jam. Cari laju puratanya dalam km/j." },
+      "answer": 80, "tolerance": 0, "unit": "km/h",
+      "explanation": { "en": "Speed = distance ÷ time = 120 ÷ 1.5 = 80 km/h.", "bm": "Laju = jarak ÷ masa = 120 ÷ 1.5 = 80 km/j." }
+    },
+    {
+      "id": "bridge-q10", "subtopicId": "bridge-science", "type": "mcq", "difficulty": 1,
+      "prompt": { "en": "What is the SI unit of force?", "bm": "Apakah unit SI bagi daya?" },
+      "options": [ { "en": "newton (N)", "bm": "newton (N)" }, { "en": "joule (J)", "bm": "joule (J)" }, { "en": "watt (W)", "bm": "watt (W)" }, { "en": "kilogram (kg)", "bm": "kilogram (kg)" } ],
+      "answer": 0,
+      "explanation": { "en": "Force is measured in newtons. Joule is energy, watt is power.", "bm": "Daya diukur dalam newton. Joule ialah tenaga, watt ialah kuasa." }
+    },
+    {
+      "id": "bridge-q11", "subtopicId": "bridge-science", "type": "match", "difficulty": 1,
+      "prompt": { "en": "Match each subatomic particle to its charge.", "bm": "Padankan setiap zarah subatom dengan casnya." },
+      "pairs": [
+        { "left": { "en": "Proton", "bm": "Proton" }, "right": { "en": "Positive", "bm": "Positif" } },
+        { "left": { "en": "Electron", "bm": "Elektron" }, "right": { "en": "Negative", "bm": "Negatif" } },
+        { "left": { "en": "Neutron", "bm": "Neutron" }, "right": { "en": "Neutral", "bm": "Neutral" } }
+      ],
+      "explanation": { "en": "Protons and neutrons are in the nucleus; electrons move around it in shells.", "bm": "Proton dan neutron berada dalam nukleus; elektron bergerak mengelilinginya dalam petala." }
+    },
+    {
+      "id": "bridge-q12", "subtopicId": "bridge-science", "type": "mcq", "difficulty": 1,
+      "prompt": { "en": "Acid + alkali → ?", "bm": "Asid + alkali → ?" },
+      "options": [ { "en": "Salt + water", "bm": "Garam + air" }, { "en": "Salt + hydrogen", "bm": "Garam + hidrogen" }, { "en": "Water only", "bm": "Air sahaja" }, { "en": "Carbon dioxide + water", "bm": "Karbon dioksida + air" } ],
+      "answer": 0,
+      "explanation": { "en": "This is neutralisation — you'll study it in detail in Chemistry Chapter 6.", "bm": "Ini ialah peneutralan — anda akan mempelajarinya secara terperinci dalam Kimia Bab 6." }
+    },
+    {
+      "id": "bridge-q13", "subtopicId": "bridge-science", "type": "multi", "difficulty": 2,
+      "prompt": { "en": "Which are products of photosynthesis? Select all that apply.", "bm": "Yang manakah hasil fotosintesis? Pilih semua yang betul." },
+      "options": [ { "en": "Glucose", "bm": "Glukosa" }, { "en": "Oxygen", "bm": "Oksigen" }, { "en": "Carbon dioxide", "bm": "Karbon dioksida" }, { "en": "Water", "bm": "Air" } ],
+      "answer": [0, 1],
+      "explanation": { "en": "Carbon dioxide + water → (light, chlorophyll) → glucose + oxygen.", "bm": "Karbon dioksida + air → (cahaya, klorofil) → glukosa + oksigen." }
+    },
+    {
+      "id": "bridge-q14", "subtopicId": "bridge-science", "type": "numeric", "difficulty": 2,
+      "prompt": { "en": "A block has mass 200 g and volume 80 cm³. Find its density in g/cm³.", "bm": "Sebuah blok berjisim 200 g dan isi padu 80 cm³. Cari ketumpatannya dalam g/cm³." },
+      "answer": 2.5, "tolerance": 0.01, "unit": "g/cm³",
+      "explanation": { "en": "Density = mass ÷ volume = 200 ÷ 80 = 2.5 g/cm³.", "bm": "Ketumpatan = jisim ÷ isi padu = 200 ÷ 80 = 2.5 g/cm³." }
+    }
+  ]
+}

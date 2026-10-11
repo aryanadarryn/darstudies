@@ -1,0 +1,208 @@
+{
+  "chapterId": "chem-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why do party balloons use helium instead of hydrogen, which is even lighter? And why does your school lab keep sodium soaked in paraffin oil?",
+      "bm": "Mengapa belon parti menggunakan helium dan bukan hidrogen yang lebih ringan? Dan mengapa makmal sekolah menyimpan natrium di dalam minyak parafin?"
+    },
+    "bigIdeas": [
+      { "en": "Elements are arranged by increasing proton number in 18 vertical groups and 7 horizontal periods.", "bm": "Unsur disusun mengikut pertambahan nombor proton dalam 18 kumpulan menegak dan 7 kala mengufuk." },
+      { "en": "Same group = same number of valence electrons = similar chemical properties.", "bm": "Kumpulan sama = bilangan elektron valens sama = sifat kimia yang serupa." },
+      { "en": "Group 1 gets more reactive going down; Group 17 gets less reactive going down.", "bm": "Kumpulan 1 semakin reaktif apabila menuruni kumpulan; Kumpulan 17 semakin kurang reaktif." },
+      { "en": "Group 18 noble gases are inert because their duplet or octet electron arrangement is already stable.", "bm": "Gas adi Kumpulan 18 lengai kerana susunan elektron duplet atau oktetnya sudah stabil." },
+      { "en": "Across Period 3, atoms get smaller and oxides change from basic to amphoteric to acidic.", "bm": "Merentasi Kala 3, saiz atom semakin kecil dan oksida berubah daripada bes kepada amfoterik kepada asid." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          { "en": "Group 1 (alkali metals)", "bm": "Kumpulan 1 (logam alkali)" },
+          { "en": "Group 17 (halogens)", "bm": "Kumpulan 17 (halogen)" },
+          { "en": "Group 18 (noble gases)", "bm": "Kumpulan 18 (gas adi)" }
+        ],
+        "rows": [
+          { "label": { "en": "Valence electrons", "bm": "Elektron valens" }, "cells": [ { "en": "1", "bm": "1" }, { "en": "7", "bm": "7" }, { "en": "8 (He: 2)", "bm": "8 (He: 2)" } ] },
+          { "label": { "en": "Forms", "bm": "Membentuk" }, "cells": [ { "en": "+1 ions", "bm": "ion +1" }, { "en": "−1 ions", "bm": "ion −1" }, { "en": "no ions", "bm": "tiada ion" } ] },
+          { "label": { "en": "Going down the group", "bm": "Menuruni kumpulan" }, "cells": [ { "en": "more reactive", "bm": "lebih reaktif" }, { "en": "less reactive", "bm": "kurang reaktif" }, { "en": "stays inert", "bm": "kekal lengai" } ] },
+          { "label": { "en": "Example use", "bm": "Contoh kegunaan" }, "cells": [ { "en": "Sodium vapour street lamps", "bm": "Lampu jalan wap natrium" }, { "en": "Chlorine to treat tap water", "bm": "Klorin untuk merawat air paip" }, { "en": "Argon in light bulbs", "bm": "Argon dalam mentol" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Proton number", "bm": "Nombor proton" }, "definition": { "en": "Number of protons in the nucleus of an atom. It sets the element's position in the table.", "bm": "Bilangan proton dalam nukleus atom. Ia menentukan kedudukan unsur dalam jadual." } },
+      { "term": { "en": "Group", "bm": "Kumpulan" }, "definition": { "en": "A vertical column. Elements in a group have the same number of valence electrons.", "bm": "Lajur menegak. Unsur dalam satu kumpulan mempunyai bilangan elektron valens yang sama." } },
+      { "term": { "en": "Period", "bm": "Kala" }, "definition": { "en": "A horizontal row. The period number equals the number of occupied electron shells.", "bm": "Baris mengufuk. Nombor kala sama dengan bilangan petala berisi elektron." } },
+      { "term": { "en": "Valence electrons", "bm": "Elektron valens" }, "definition": { "en": "Electrons in the outermost shell of an atom.", "bm": "Elektron di petala paling luar sesuatu atom." } },
+      { "term": { "en": "Alkali metal", "bm": "Logam alkali" }, "definition": { "en": "Group 1 element; reacts with water to form an alkali and hydrogen gas.", "bm": "Unsur Kumpulan 1; bertindak balas dengan air membentuk alkali dan gas hidrogen." } },
+      { "term": { "en": "Halogen", "bm": "Halogen" }, "definition": { "en": "Group 17 element; exists as diatomic molecules such as Cl₂.", "bm": "Unsur Kumpulan 17; wujud sebagai molekul dwiatom seperti Cl₂." } },
+      { "term": { "en": "Noble gas", "bm": "Gas adi" }, "definition": { "en": "Group 18 element; chemically unreactive (inert).", "bm": "Unsur Kumpulan 18; tidak reaktif secara kimia (lengai)." } },
+      { "term": { "en": "Transition element", "bm": "Unsur peralihan" }, "definition": { "en": "Element in Groups 3–12; forms coloured compounds and acts as a catalyst.", "bm": "Unsur dalam Kumpulan 3–12; membentuk sebatian berwarna dan bertindak sebagai mangkin." } },
+      { "term": { "en": "Amphoteric oxide", "bm": "Oksida amfoterik" }, "definition": { "en": "An oxide that reacts with both acids and alkalis, e.g. aluminium oxide.", "bm": "Oksida yang bertindak balas dengan asid dan alkali, contohnya aluminium oksida." } },
+      { "term": { "en": "Electronegativity", "bm": "Keelektronegatifan" }, "definition": { "en": "How strongly an atom pulls electrons in a bond. Increases across a period.", "bm": "Kekuatan atom menarik elektron dalam ikatan. Bertambah merentasi kala." } }
+    ],
+    "formulaIds": [],
+    "toolId": "periodic-table",
+    "workedExample": {
+      "question": {
+        "en": "Element X has proton number 19. Find its electron arrangement, group and period, and predict how it reacts with water.",
+        "bm": "Unsur X mempunyai nombor proton 19. Tentukan susunan elektron, kumpulan dan kalanya, dan ramalkan tindak balasnya dengan air."
+      },
+      "steps": [
+        { "en": "Fill shells 2, 8, 8, then the rest: 19 = 2 + 8 + 8 + 1 → 2.8.8.1", "bm": "Isi petala 2, 8, 8, kemudian bakinya: 19 = 2 + 8 + 8 + 1 → 2.8.8.1" },
+        { "en": "1 valence electron → Group 1.", "bm": "1 elektron valens → Kumpulan 1." },
+        { "en": "4 occupied shells → Period 4. X is potassium (K).", "bm": "4 petala berisi → Kala 4. X ialah kalium (K)." },
+        { "en": "Group 1 metals react with water to form an alkali and hydrogen: 2K + 2H₂O → 2KOH + H₂", "bm": "Logam Kumpulan 1 bertindak balas dengan air membentuk alkali dan hidrogen: 2K + 2H₂O → 2KOH + H₂" },
+        { "en": "K is below Na, so its valence electron is further from the nucleus and is lost more easily — it reacts more vigorously than sodium.", "bm": "K berada di bawah Na, jadi elektron valensnya lebih jauh dari nukleus dan lebih mudah dilepaskan — ia bertindak balas lebih cergas daripada natrium." }
+      ],
+      "answer": { "en": "2.8.8.1; Group 1, Period 4; reacts very vigorously with water to form KOH and H₂ gas.", "bm": "2.8.8.1; Kumpulan 1, Kala 4; bertindak balas sangat cergas dengan air membentuk KOH dan gas H₂." }
+    }
+  },
+  "questions": [
+    {
+      "id": "chem-04-q01", "subtopicId": "chem-04-02", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Elements in the modern Periodic Table are arranged in order of increasing…", "bm": "Unsur dalam Jadual Berkala moden disusun mengikut pertambahan…" },
+      "options": [
+        { "en": "nucleon number", "bm": "nombor nukleon" }, { "en": "proton number", "bm": "nombor proton" },
+        { "en": "number of neutrons", "bm": "bilangan neutron" }, { "en": "density", "bm": "ketumpatan" }
+      ],
+      "answer": 1,
+      "explanation": { "en": "Since Moseley (1913), elements are ordered by proton number, not atomic mass.", "bm": "Sejak Moseley (1913), unsur disusun mengikut nombor proton, bukan jisim atom." }
+    },
+    {
+      "id": "chem-04-q02", "subtopicId": "chem-04-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "An element has electron arrangement 2.8.3. Where is it in the Periodic Table?", "bm": "Sesuatu unsur mempunyai susunan elektron 2.8.3. Di manakah kedudukannya dalam Jadual Berkala?" },
+      "options": [
+        { "en": "Group 3, Period 3", "bm": "Kumpulan 3, Kala 3" }, { "en": "Group 13, Period 3", "bm": "Kumpulan 13, Kala 3" },
+        { "en": "Group 13, Period 2", "bm": "Kumpulan 13, Kala 2" }, { "en": "Group 3, Period 2", "bm": "Kumpulan 3, Kala 2" }
+      ],
+      "answer": 1,
+      "explanation": { "en": "3 shells → Period 3. 3 valence electrons in the p-block → Group 10 + 3 = 13. This is aluminium.", "bm": "3 petala → Kala 3. 3 elektron valens → Kumpulan 10 + 3 = 13. Ini ialah aluminium." }
+    },
+    {
+      "id": "chem-04-q03", "subtopicId": "chem-04-03", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Group 18 elements are called the ______ gases.", "bm": "Unsur Kumpulan 18 dipanggil gas ______." },
+      "answer": ["noble", "noble gases", "adi", "gas adi"],
+      "explanation": { "en": "Noble gases (gas adi) are inert because their outer shells are full.", "bm": "Gas adi lengai kerana petala luarnya penuh." }
+    },
+    {
+      "id": "chem-04-q04", "subtopicId": "chem-04-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which Group 1 element reacts most vigorously with water?", "bm": "Unsur Kumpulan 1 manakah yang bertindak balas paling cergas dengan air?" },
+      "options": [
+        { "en": "Lithium", "bm": "Litium" }, { "en": "Sodium", "bm": "Natrium" },
+        { "en": "Potassium", "bm": "Kalium" }, { "en": "They all react equally", "bm": "Semuanya sama cergas" }
+      ],
+      "answer": 2,
+      "explanation": { "en": "Reactivity of Group 1 increases down the group: Li < Na < K.", "bm": "Kereaktifan Kumpulan 1 bertambah menuruni kumpulan: Li < Na < K." }
+    },
+    {
+      "id": "chem-04-q05", "subtopicId": "chem-04-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why does reactivity increase down Group 1?", "bm": "Mengapa kereaktifan bertambah menuruni Kumpulan 1?" },
+      "options": [
+        { "en": "Atomic size increases, so the valence electron is further from the nucleus and easier to lose", "bm": "Saiz atom bertambah, jadi elektron valens lebih jauh dari nukleus dan lebih mudah dilepaskan" },
+        { "en": "The number of valence electrons increases", "bm": "Bilangan elektron valens bertambah" },
+        { "en": "Atoms get smaller and pull electrons harder", "bm": "Atom menjadi lebih kecil dan menarik elektron dengan lebih kuat" },
+        { "en": "The proton number decreases", "bm": "Nombor proton berkurang" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "More shells → weaker attraction between the nucleus and the single valence electron → it is released more easily.", "bm": "Lebih banyak petala → daya tarikan antara nukleus dan elektron valens semakin lemah → lebih mudah dilepaskan." }
+    },
+    {
+      "id": "chem-04-q06", "subtopicId": "chem-04-05", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why does reactivity decrease down Group 17?", "bm": "Mengapa kereaktifan berkurang menuruni Kumpulan 17?" },
+      "options": [
+        { "en": "Atomic size increases, so it is harder for the nucleus to attract one more electron", "bm": "Saiz atom bertambah, jadi lebih sukar untuk nukleus menarik satu elektron lagi" },
+        { "en": "The number of valence electrons decreases", "bm": "Bilangan elektron valens berkurang" },
+        { "en": "Halogens become metals going down", "bm": "Halogen menjadi logam apabila menuruni kumpulan" },
+        { "en": "The atoms lose electrons more easily", "bm": "Atom lebih mudah melepaskan elektron" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Halogens react by GAINING an electron. A bigger atom pulls the incoming electron less strongly.", "bm": "Halogen bertindak balas dengan MENERIMA elektron. Atom yang lebih besar menarik elektron itu dengan kurang kuat." }
+    },
+    {
+      "id": "chem-04-q07", "subtopicId": "chem-04-05", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each halogen to how it looks at room temperature.", "bm": "Padankan setiap halogen dengan keadaannya pada suhu bilik." },
+      "pairs": [
+        { "left": { "en": "Fluorine", "bm": "Fluorin" }, "right": { "en": "Pale yellow gas", "bm": "Gas kuning pucat" } },
+        { "left": { "en": "Chlorine", "bm": "Klorin" }, "right": { "en": "Greenish-yellow gas", "bm": "Gas kuning kehijauan" } },
+        { "left": { "en": "Bromine", "bm": "Bromin" }, "right": { "en": "Reddish-brown liquid", "bm": "Cecair perang kemerahan" } },
+        { "left": { "en": "Iodine", "bm": "Iodin" }, "right": { "en": "Purplish-black solid", "bm": "Pepejal hitam keunguan" } }
+      ],
+      "explanation": { "en": "Going down Group 17 the molecules get bigger, so melting and boiling points rise and the colour darkens.", "bm": "Menuruni Kumpulan 17, saiz molekul bertambah, jadi takat lebur dan takat didih meningkat dan warna menjadi lebih gelap." }
+    },
+    {
+      "id": "chem-04-q08", "subtopicId": "chem-04-07", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Which are special properties of transition elements? Select all that apply.", "bm": "Yang manakah sifat istimewa unsur peralihan? Pilih semua yang betul." },
+      "options": [
+        { "en": "Form coloured compounds", "bm": "Membentuk sebatian berwarna" },
+        { "en": "Act as catalysts", "bm": "Bertindak sebagai mangkin" },
+        { "en": "Have more than one oxidation number", "bm": "Mempunyai lebih daripada satu nombor pengoksidaan" },
+        { "en": "Are soft with low melting points", "bm": "Lembut dengan takat lebur rendah" }
+      ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Transition metals are hard with high melting points. Iron is the catalyst in the Haber process; copper(II) sulfate is blue.", "bm": "Logam peralihan keras dengan takat lebur tinggi. Besi ialah mangkin dalam proses Haber; kuprum(II) sulfat berwarna biru." }
+    },
+    {
+      "id": "chem-04-q09", "subtopicId": "chem-04-06", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Going across Period 3 from Na to Ar, the atomic radius…", "bm": "Merentasi Kala 3 dari Na ke Ar, jejari atom…" },
+      "options": [
+        { "en": "increases", "bm": "bertambah" }, { "en": "decreases", "bm": "berkurang" },
+        { "en": "stays the same", "bm": "tidak berubah" }, { "en": "increases then decreases", "bm": "bertambah kemudian berkurang" }
+      ],
+      "answer": 1,
+      "explanation": { "en": "Proton number rises but the number of shells stays at 3, so the nucleus pulls the electrons closer.", "bm": "Nombor proton bertambah tetapi bilangan petala kekal 3, jadi nukleus menarik elektron lebih dekat." }
+    },
+    {
+      "id": "chem-04-q10", "subtopicId": "chem-04-06", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Aluminium oxide reacts with both hydrochloric acid and sodium hydroxide solution. Aluminium oxide is…", "bm": "Aluminium oksida bertindak balas dengan asid hidroklorik dan larutan natrium hidroksida. Aluminium oksida ialah oksida…" },
+      "options": [
+        { "en": "basic", "bm": "bes" }, { "en": "acidic", "bm": "asid" },
+        { "en": "amphoteric", "bm": "amfoterik" }, { "en": "neutral", "bm": "neutral" }
+      ],
+      "answer": 2,
+      "explanation": { "en": "An oxide that reacts with both acids and alkalis is amphoteric. In Period 3: Na₂O, MgO basic → Al₂O₃ amphoteric → SiO₂, P₄O₁₀, SO₂, Cl₂O₇ acidic.", "bm": "Oksida yang bertindak balas dengan asid dan alkali ialah amfoterik. Dalam Kala 3: Na₂O, MgO bes → Al₂O₃ amfoterik → SiO₂, P₄O₁₀, SO₂, Cl₂O₇ asid." }
+    },
+    {
+      "id": "chem-04-q11", "subtopicId": "chem-04-01", "type": "order", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Put these scientists in the order they contributed to the Periodic Table (earliest first).", "bm": "Susun saintis berikut mengikut urutan sumbangan kepada Jadual Berkala (paling awal dahulu)." },
+      "items": [
+        { "en": "Lavoisier — sorted elements into metals and non-metals", "bm": "Lavoisier — mengelaskan unsur kepada logam dan bukan logam" },
+        { "en": "Döbereiner — triads", "bm": "Döbereiner — triad" },
+        { "en": "Newlands — law of octaves", "bm": "Newlands — hukum oktaf" },
+        { "en": "Mendeleev — left gaps for undiscovered elements", "bm": "Mendeleev — meninggalkan ruang kosong untuk unsur belum ditemui" },
+        { "en": "Moseley — ordered by proton number", "bm": "Moseley — menyusun mengikut nombor proton" }
+      ],
+      "explanation": { "en": "Lavoisier 1789, Döbereiner 1829, Newlands 1864, Mendeleev 1869, Moseley 1913.", "bm": "Lavoisier 1789, Döbereiner 1829, Newlands 1864, Mendeleev 1869, Moseley 1913." }
+    },
+    {
+      "id": "chem-04-q12", "subtopicId": "chem-04-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "How many valence electrons does an element in Group 16 have?", "bm": "Berapakah bilangan elektron valens bagi unsur dalam Kumpulan 16?" },
+      "answer": 6, "tolerance": 0,
+      "explanation": { "en": "For Groups 13–18, valence electrons = group number − 10. So 16 − 10 = 6 (e.g. oxygen 2.6).", "bm": "Bagi Kumpulan 13–18, elektron valens = nombor kumpulan − 10. Jadi 16 − 10 = 6 (contoh oksigen 2.6)." }
+    },
+    {
+      "id": "chem-04-q13", "subtopicId": "chem-04-03", "type": "mcq", "difficulty": 2, "tp": 5,
+      "prompt": { "en": "Why is argon, not air, used to fill filament light bulbs?", "bm": "Mengapa argon, bukan udara, diisi ke dalam mentol berfilamen?" },
+      "options": [
+        { "en": "Argon is inert, so the hot tungsten filament does not react and burn out", "bm": "Argon lengai, jadi filamen tungsten yang panas tidak bertindak balas dan terbakar" },
+        { "en": "Argon makes the light brighter by burning", "bm": "Argon menjadikan cahaya lebih terang dengan terbakar" },
+        { "en": "Argon is lighter than air", "bm": "Argon lebih ringan daripada udara" },
+        { "en": "Argon conducts electricity", "bm": "Argon mengkonduksikan elektrik" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Oxygen in air would oxidise the white-hot filament. Inert argon protects it.", "bm": "Oksigen dalam udara akan mengoksidakan filamen yang sangat panas. Argon yang lengai melindunginya." }
+    },
+    {
+      "id": "chem-04-q14", "subtopicId": "chem-04-04", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Why is sodium stored in paraffin oil?", "bm": "Mengapa natrium disimpan di dalam minyak parafin?" },
+      "options": [
+        { "en": "To stop it reacting with oxygen and water vapour in the air", "bm": "Untuk menghalangnya bertindak balas dengan oksigen dan wap air di udara" },
+        { "en": "To keep it soft", "bm": "Supaya ia kekal lembut" },
+        { "en": "To stop it from melting", "bm": "Supaya ia tidak melebur" },
+        { "en": "Because it is lighter than water", "bm": "Kerana ia lebih ringan daripada air" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Group 1 metals are so reactive they would react with moisture and oxygen in the air. Paraffin oil keeps air out.", "bm": "Logam Kumpulan 1 sangat reaktif dan akan bertindak balas dengan lembapan dan oksigen di udara. Minyak parafin menghalang udara." }
+    }
+  ]
+}

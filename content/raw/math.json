@@ -1,0 +1,87 @@
+{
+  "id": "math",
+  "name": { "en": "Mathematics", "bm": "Matematik" },
+  "color": "#0891b2",
+  "source": "Entered manually from plan Appendix A / KSSM Form 4 textbook headings. Verify against the latest DSKP; learning standards to be filled from scripts/extract-dskp.ts output.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": { "en": "Quadratic Functions and Equations in One Variable", "bm": "Fungsi dan Persamaan Kuadratik dalam Satu Pemboleh Ubah" },
+      "subtopics": [
+        { "code": "1.1", "title": { "en": "Quadratic Functions and Equations", "bm": "Fungsi dan Persamaan Kuadratik" } }
+      ]
+    },
+    {
+      "number": 2,
+      "title": { "en": "Number Bases", "bm": "Asas Nombor" },
+      "subtopics": [
+        { "code": "2.1", "title": { "en": "Number Bases", "bm": "Asas Nombor" } }
+      ]
+    },
+    {
+      "number": 3,
+      "title": { "en": "Logical Reasoning", "bm": "Penaakulan Logik" },
+      "subtopics": [
+        { "code": "3.1", "title": { "en": "Statements", "bm": "Pernyataan" } },
+        { "code": "3.2", "title": { "en": "Arguments", "bm": "Hujah" } }
+      ]
+    },
+    {
+      "number": 4,
+      "title": { "en": "Operations on Sets", "bm": "Operasi Set" },
+      "subtopics": [
+        { "code": "4.1", "title": { "en": "Intersection of Sets", "bm": "Persilangan Set" } },
+        { "code": "4.2", "title": { "en": "Union of Sets", "bm": "Kesatuan Set" } },
+        { "code": "4.3", "title": { "en": "Combined Operations on Sets", "bm": "Gabungan Operasi Set" } }
+      ]
+    },
+    {
+      "number": 5,
+      "title": { "en": "Network in Graph Theory", "bm": "Rangkaian dalam Teori Graf" },
+      "subtopics": [
+        { "code": "5.1", "title": { "en": "Network", "bm": "Rangkaian" } }
+      ]
+    },
+    {
+      "number": 6,
+      "title": { "en": "Linear Inequalities in Two Variables", "bm": "Ketaksamaan Linear dalam Dua Pemboleh Ubah" },
+      "subtopics": [
+        { "code": "6.1", "title": { "en": "Linear Inequalities in Two Variables", "bm": "Ketaksamaan Linear dalam Dua Pemboleh Ubah" } },
+        { "code": "6.2", "title": { "en": "Systems of Linear Inequalities in Two Variables", "bm": "Sistem Ketaksamaan Linear dalam Dua Pemboleh Ubah" } }
+      ]
+    },
+    {
+      "number": 7,
+      "title": { "en": "Graphs of Motion", "bm": "Graf Gerakan" },
+      "subtopics": [
+        { "code": "7.1", "title": { "en": "Distance-Time Graphs", "bm": "Graf Jarak-Masa" } },
+        { "code": "7.2", "title": { "en": "Speed-Time Graphs", "bm": "Graf Laju-Masa" } }
+      ]
+    },
+    {
+      "number": 8,
+      "title": { "en": "Measures of Dispersion for Ungrouped Data", "bm": "Sukatan Serakan Data Tak Terkumpul" },
+      "subtopics": [
+        { "code": "8.1", "title": { "en": "Dispersion", "bm": "Serakan" } },
+        { "code": "8.2", "title": { "en": "Measures of Dispersion", "bm": "Sukatan Serakan" } }
+      ]
+    },
+    {
+      "number": 9,
+      "title": { "en": "Probability of Combined Events", "bm": "Kebarangkalian Peristiwa Bergabung" },
+      "subtopics": [
+        { "code": "9.1", "title": { "en": "Combined Events", "bm": "Peristiwa Bergabung" } },
+        { "code": "9.2", "title": { "en": "Dependent and Independent Events", "bm": "Peristiwa Bersandar dan Peristiwa Tak Bersandar" } },
+        { "code": "9.3", "title": { "en": "Mutually Exclusive and Non-Mutually Exclusive Events", "bm": "Peristiwa Saling Eksklusif dan Peristiwa Tidak Saling Eksklusif" } },
+        { "code": "9.4", "title": { "en": "Application of Probability of Combined Events", "bm": "Aplikasi Kebarangkalian Peristiwa Bergabung" } }
+      ]
+    },
+    {
+      "number": 10,
+      "title": { "en": "Consumer Mathematics: Financial Management", "bm": "Matematik Pengguna: Pengurusan Kewangan" },
+      "subtopics": [
+        { "code": "10.1", "title": { "en": "Financial Planning and Management", "bm": "Perancangan dan Pengurusan Kewangan" } }
+      ]
+    }
+  ]
+}

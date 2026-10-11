@@ -1,0 +1,80 @@
+{
+  "id": "phy",
+  "name": { "en": "Physics", "bm": "Fizik" },
+  "color": "#2563eb",
+  "source": "Entered manually from plan Appendix A / KSSM Form 4 textbook headings. Verify against the latest DSKP; learning standards to be filled from scripts/extract-dskp.ts output.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": { "en": "Measurement", "bm": "Pengukuran" },
+      "theme": { "en": "Introduction to Physics", "bm": "Pengenalan kepada Fizik" },
+      "subtopics": [
+        { "code": "1.1", "title": { "en": "Physical Quantities", "bm": "Kuantiti Fizik" } },
+        { "code": "1.2", "title": { "en": "Scientific Investigation", "bm": "Penyiasatan Saintifik" } }
+      ]
+    },
+    {
+      "number": 2,
+      "title": { "en": "Force and Motion I", "bm": "Daya dan Gerakan I" },
+      "theme": { "en": "Newtonian Mechanics", "bm": "Mekanik Newton" },
+      "subtopics": [
+        { "code": "2.1", "title": { "en": "Linear Motion", "bm": "Gerakan Linear" } },
+        { "code": "2.2", "title": { "en": "Linear Motion Graphs", "bm": "Graf Gerakan Linear" } },
+        { "code": "2.3", "title": { "en": "Free Fall Motion", "bm": "Gerakan Jatuh Bebas" } },
+        { "code": "2.4", "title": { "en": "Inertia", "bm": "Inersia" } },
+        { "code": "2.5", "title": { "en": "Momentum", "bm": "Momentum" } },
+        { "code": "2.6", "title": { "en": "Force", "bm": "Daya" } },
+        { "code": "2.7", "title": { "en": "Impulse and Impulsive Force", "bm": "Impuls dan Daya Impuls" } },
+        { "code": "2.8", "title": { "en": "Weight", "bm": "Berat" } }
+      ]
+    },
+    {
+      "number": 3,
+      "title": { "en": "Gravitation", "bm": "Kegravitian" },
+      "theme": { "en": "Newtonian Mechanics", "bm": "Mekanik Newton" },
+      "subtopics": [
+        { "code": "3.1", "title": { "en": "Newton's Universal Law of Gravitation", "bm": "Hukum Kegravitian Semesta Newton" } },
+        { "code": "3.2", "title": { "en": "Kepler's Laws", "bm": "Hukum Kepler" } },
+        { "code": "3.3", "title": { "en": "Man-made Satellites", "bm": "Satelit Buatan Manusia" } }
+      ]
+    },
+    {
+      "number": 4,
+      "title": { "en": "Heat", "bm": "Haba" },
+      "theme": { "en": "Heat", "bm": "Haba" },
+      "subtopics": [
+        { "code": "4.1", "title": { "en": "Thermal Equilibrium", "bm": "Keseimbangan Terma" } },
+        { "code": "4.2", "title": { "en": "Specific Heat Capacity", "bm": "Muatan Haba Tentu" } },
+        { "code": "4.3", "title": { "en": "Specific Latent Heat", "bm": "Haba Pendam Tentu" } },
+        { "code": "4.4", "title": { "en": "Gas Laws", "bm": "Hukum Gas" } }
+      ]
+    },
+    {
+      "number": 5,
+      "title": { "en": "Waves", "bm": "Gelombang" },
+      "theme": { "en": "Waves, Light and Optics", "bm": "Gelombang, Cahaya dan Optik" },
+      "subtopics": [
+        { "code": "5.1", "title": { "en": "Fundamentals of Waves", "bm": "Asas Gelombang" } },
+        { "code": "5.2", "title": { "en": "Damping and Resonance", "bm": "Pelembapan dan Resonans" } },
+        { "code": "5.3", "title": { "en": "Reflection of Waves", "bm": "Pantulan Gelombang" } },
+        { "code": "5.4", "title": { "en": "Refraction of Waves", "bm": "Pembiasan Gelombang" } },
+        { "code": "5.5", "title": { "en": "Diffraction of Waves", "bm": "Pembelauan Gelombang" } },
+        { "code": "5.6", "title": { "en": "Interference of Waves", "bm": "Interferens Gelombang" } },
+        { "code": "5.7", "title": { "en": "Electromagnetic Waves", "bm": "Gelombang Elektromagnet" } }
+      ]
+    },
+    {
+      "number": 6,
+      "title": { "en": "Light and Optics", "bm": "Cahaya dan Optik" },
+      "theme": { "en": "Waves, Light and Optics", "bm": "Gelombang, Cahaya dan Optik" },
+      "subtopics": [
+        { "code": "6.1", "title": { "en": "Refraction of Light", "bm": "Pembiasan Cahaya" } },
+        { "code": "6.2", "title": { "en": "Total Internal Reflection", "bm": "Pantulan Dalam Penuh" } },
+        { "code": "6.3", "title": { "en": "Image Formation by Lenses", "bm": "Pembentukan Imej oleh Kanta" } },
+        { "code": "6.4", "title": { "en": "Thin Lens Formula", "bm": "Formula Kanta Nipis" } },
+        { "code": "6.5", "title": { "en": "Optical Instruments", "bm": "Alatan Optik" } },
+        { "code": "6.6", "title": { "en": "Image Formation by Spherical Mirrors", "bm": "Pembentukan Imej oleh Cermin Sfera" } }
+      ]
+    }
+  ]
+}

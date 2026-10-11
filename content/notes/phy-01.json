@@ -1,0 +1,34 @@
+{
+  "chapterId": "phy-01",
+  "reviewed": false,
+  "subtopics": {
+    "phy-01-01": {
+      "keyPoints": [
+        { "en": "A physical quantity is something that can be measured, e.g. length, mass, time.", "bm": "Kuantiti fizik ialah kuantiti yang boleh diukur, cth. panjang, jisim, masa." },
+        { "en": "There are 7 base quantities: length (m), mass (kg), time (s), temperature (K), electric current (A), amount of substance (mol), luminous intensity (cd).", "bm": "Terdapat 7 kuantiti asas: panjang (m), jisim (kg), masa (s), suhu (K), arus elektrik (A), kuantiti bahan (mol), keamatan berluminositi (cd)." },
+        { "en": "Derived quantities combine base quantities, e.g. velocity = displacement ÷ time → m s⁻¹; force → kg m s⁻² = N.", "bm": "Kuantiti terbitan menggabungkan kuantiti asas, cth. halaju = sesaran ÷ masa → m s⁻¹; daya → kg m s⁻² = N." },
+        { "en": "Scalar quantities have magnitude only (mass, speed, energy). Vector quantities have magnitude AND direction (displacement, velocity, force).", "bm": "Kuantiti skalar hanya ada magnitud (jisim, laju, tenaga). Kuantiti vektor ada magnitud DAN arah (sesaran, halaju, daya)." },
+        { "en": "Very big or small values use prefixes (k = 10³, M = 10⁶, m = 10⁻³, μ = 10⁻⁶, n = 10⁻⁹) or standard form A × 10ⁿ.", "bm": "Nilai yang sangat besar atau kecil guna imbuhan (k = 10³, M = 10⁶, m = 10⁻³, μ = 10⁻⁶, n = 10⁻⁹) atau bentuk piawai A × 10ⁿ." }
+      ],
+      "example": {
+        "question": { "en": "Write the SI unit of density (mass ÷ volume) in base units.", "bm": "Tulis unit SI ketumpatan (jisim ÷ isi padu) dalam unit asas." },
+        "answer": { "en": "kg ÷ m³ = kg m⁻³", "bm": "kg ÷ m³ = kg m⁻³" }
+      },
+      "tip": { "en": "Temperature's SI base unit is kelvin (K), not °C — a common trick question.", "bm": "Unit asas SI bagi suhu ialah kelvin (K), bukan °C — soalan perangkap yang biasa." }
+    },
+    "phy-01-02": {
+      "keyPoints": [
+        { "en": "A scientific investigation follows steps: identify the problem → make a hypothesis → plan & control variables → collect data → analyse → conclude.", "bm": "Penyiasatan saintifik mengikut langkah: kenal pasti masalah → buat hipotesis → rancang & kawal pemboleh ubah → kumpul data → analisis → buat kesimpulan." },
+        { "en": "Manipulated variable: what you change. Responding variable: what you measure. Constant (fixed) variables: what you keep the same.", "bm": "Pemboleh ubah dimanipulasikan: yang anda ubah. Pemboleh ubah bergerak balas: yang anda ukur. Pemboleh ubah dimalarkan: yang dikekalkan sama." },
+        { "en": "A hypothesis links the two variables, e.g. 'The longer the pendulum, the longer its period.'", "bm": "Hipotesis mengaitkan dua pemboleh ubah, cth. 'Semakin panjang bandul, semakin panjang tempohnya.'" },
+        { "en": "Plot the manipulated variable on the x-axis and the responding variable on the y-axis. Draw a best-fit line.", "bm": "Plot pemboleh ubah dimanipulasikan pada paksi-x dan pemboleh ubah bergerak balas pada paksi-y. Lukis garis lurus penyesuaian terbaik." },
+        { "en": "From a graph: gradient = Δy ÷ Δx (use a big triangle); interpolation reads a value inside the data; extrapolation extends the line beyond it.", "bm": "Daripada graf: kecerunan = Δy ÷ Δx (guna segi tiga besar); interpolasi membaca nilai dalam julat data; ekstrapolasi memanjangkan garis di luar julat." }
+      ],
+      "example": {
+        "question": { "en": "You test how the length of a spring changes when you hang different masses on it. Name the three types of variables.", "bm": "Anda menguji perubahan panjang spring apabila jisim berbeza digantung. Namakan tiga jenis pemboleh ubah." },
+        "answer": { "en": "Manipulated: mass. Responding: length (extension) of the spring. Constant: the same spring, same original length.", "bm": "Dimanipulasikan: jisim. Bergerak balas: panjang (pemanjangan) spring. Dimalarkan: spring yang sama, panjang asal yang sama." }
+      },
+      "tip": { "en": "When drawing the gradient triangle, make it cover more than half of the line to reduce error.", "bm": "Semasa melukis segi tiga kecerunan, pastikan ia meliputi lebih separuh daripada garis untuk mengurangkan ralat." }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "chapterId": "addmath-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Kick a sepak takraw ball high and it flies in a curved path called a parabola. How high will it go, and where will it land? One quadratic function can answer both.",
+      "bm": "Tendang bola sepak takraw tinggi dan ia bergerak dalam lintasan melengkung yang dipanggil parabola. Berapa tinggi ia akan naik, dan di mana ia akan mendarat? Satu fungsi kuadratik boleh menjawab kedua-duanya."
+    },
+    "bigIdeas": [
+      { "en": "f(x) = ax² + bx + c draws a parabola: a > 0 opens up (minimum), a < 0 opens down (maximum).", "bm": "f(x) = ax² + bx + c melukis parabola: a > 0 terbuka ke atas (minimum), a < 0 terbuka ke bawah (maksimum)." },
+      { "en": "Solve ax² + bx + c = 0 by factorising, completing the square or the quadratic formula.", "bm": "Selesaikan ax² + bx + c = 0 dengan pemfaktoran, penyempurnaan kuasa dua atau rumus kuadratik." },
+      { "en": "The discriminant b² − 4ac tells you the type of roots before you solve.", "bm": "Pembeza layan b² − 4ac memberitahu jenis punca sebelum anda menyelesaikannya." },
+      { "en": "Vertex form a(x − h)² + k shows the turning point (h, k) and the axis of symmetry x = h.", "bm": "Bentuk verteks a(x − h)² + k menunjukkan titik pusingan (h, k) dan paksi simetri x = h." },
+      { "en": "Solve quadratic inequalities with a quick sketch: where is the graph above or below the x-axis?", "bm": "Selesaikan ketaksamaan kuadratik dengan lakaran ringkas: di manakah graf berada di atas atau di bawah paksi-x?" }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Quadratic function", "bm": "Fungsi kuadratik" },
+        "nodes": [
+          { "label": { "en": "Shape", "bm": "Bentuk" }, "detail": { "en": "sign of a", "bm": "tanda a" } },
+          { "label": { "en": "Roots", "bm": "Punca" }, "detail": { "en": "factorise / formula", "bm": "faktor / rumus" } },
+          { "label": { "en": "Discriminant", "bm": "Pembeza layan" }, "detail": { "en": "b² − 4ac", "bm": "b² − 4ac" } },
+          { "label": { "en": "Vertex form", "bm": "Bentuk verteks" }, "detail": { "en": "a(x − h)² + k", "bm": "a(x − h)² + k" } },
+          { "label": { "en": "Inequalities", "bm": "Ketaksamaan" }, "detail": { "en": "sketch & read", "bm": "lakar & baca" } },
+          { "label": { "en": "Form equation", "bm": "Bentuk persamaan" }, "detail": { "en": "x² − (SOR)x + POR", "bm": "x² − (HTP)x + HDP" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Quadratic equation", "bm": "Persamaan kuadratik" }, "definition": { "en": "An equation ax² + bx + c = 0 where a ≠ 0.", "bm": "Persamaan ax² + bx + c = 0 dengan a ≠ 0." } },
+      { "term": { "en": "Root", "bm": "Punca" }, "definition": { "en": "A value of x that makes the equation true; where the graph meets the x-axis.", "bm": "Nilai x yang memenuhi persamaan; titik graf bertemu paksi-x." } },
+      { "term": { "en": "Discriminant", "bm": "Pembeza layan" }, "definition": { "en": "b² − 4ac; decides whether roots are distinct, equal or not real.", "bm": "b² − 4ac; menentukan sama ada punca berbeza, sama atau tidak nyata." } },
+      { "term": { "en": "Parabola", "bm": "Parabola" }, "definition": { "en": "The U-shaped graph of a quadratic function.", "bm": "Graf berbentuk U bagi fungsi kuadratik." } },
+      { "term": { "en": "Axis of symmetry", "bm": "Paksi simetri" }, "definition": { "en": "Vertical line x = −b/2a that cuts the parabola into mirror halves.", "bm": "Garis mencancang x = −b/2a yang membahagi parabola kepada dua bahagian bercermin." } },
+      { "term": { "en": "Maximum point", "bm": "Titik maksimum" }, "definition": { "en": "Highest point of a parabola that opens downwards (a < 0).", "bm": "Titik tertinggi parabola yang terbuka ke bawah (a < 0)." } },
+      { "term": { "en": "Minimum point", "bm": "Titik minimum" }, "definition": { "en": "Lowest point of a parabola that opens upwards (a > 0).", "bm": "Titik terendah parabola yang terbuka ke atas (a > 0)." } },
+      { "term": { "en": "Completing the square", "bm": "Penyempurnaan kuasa dua" }, "definition": { "en": "Rewriting ax² + bx + c as a(x − h)² + k.", "bm": "Menulis semula ax² + bx + c sebagai a(x − h)² + k." } }
+    ],
+    "formulaIds": ["am-quad-formula", "am-discriminant", "am-vertex-form", "am-axis", "am-form-from-roots"],
+    "toolId": "graph-plotter",
+    "workedExample": {
+      "question": {
+        "en": "Express f(x) = x² − 6x + 5 in the form (x − h)² + k. State the minimum point and find the roots of f(x) = 0.",
+        "bm": "Ungkapkan f(x) = x² − 6x + 5 dalam bentuk (x − h)² + k. Nyatakan titik minimum dan cari punca bagi f(x) = 0."
+      },
+      "steps": [
+        { "en": "Take half the coefficient of x: −6 ÷ 2 = −3. Add and subtract (−3)² = 9.", "bm": "Ambil separuh pekali x: −6 ÷ 2 = −3. Tambah dan tolak (−3)² = 9." },
+        { "en": "f(x) = (x² − 6x + 9) − 9 + 5 = (x − 3)² − 4", "bm": "f(x) = (x² − 6x + 9) − 9 + 5 = (x − 3)² − 4" },
+        { "en": "a = 1 > 0 so it has a minimum point at (h, k) = (3, −4).", "bm": "a = 1 > 0 maka ada titik minimum pada (h, k) = (3, −4)." },
+        { "en": "Roots: x² − 6x + 5 = (x − 1)(x − 5) = 0 → x = 1 or x = 5.", "bm": "Punca: x² − 6x + 5 = (x − 1)(x − 5) = 0 → x = 1 atau x = 5." },
+        { "en": "Check: the roots are symmetric about x = 3 (1 and 5 are both 2 away) ✓", "bm": "Semak: punca simetri pada x = 3 (1 dan 5 masing-masing 2 unit jauh) ✓" }
+      ],
+      "answer": { "en": "f(x) = (x − 3)² − 4; minimum point (3, −4); roots x = 1 and x = 5.", "bm": "f(x) = (x − 3)² − 4; titik minimum (3, −4); punca x = 1 dan x = 5." }
+    }
+  },
+  "questions": [
+    {
+      "id": "addmath-02-q01", "subtopicId": "addmath-02-03", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which of these is a quadratic function?", "bm": "Antara berikut, yang manakah fungsi kuadratik?" },
+      "options": [
+        { "en": "f(x) = 2x² − 3x + 1", "bm": "f(x) = 2x² − 3x + 1" }, { "en": "f(x) = 2x + 1", "bm": "f(x) = 2x + 1" },
+        { "en": "f(x) = 1/x²", "bm": "f(x) = 1/x²" }, { "en": "f(x) = x³ − x", "bm": "f(x) = x³ − x" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "The highest power of x must be exactly 2, with whole-number powers only.", "bm": "Kuasa tertinggi x mesti tepat 2, dengan kuasa nombor bulat sahaja." }
+    },
+    {
+      "id": "addmath-02-q02", "subtopicId": "addmath-02-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the value of the discriminant of x² + 4x + 4 = 0.", "bm": "Cari nilai pembeza layan bagi x² + 4x + 4 = 0." },
+      "answer": 0, "tolerance": 0,
+      "explanation": { "en": "b² − 4ac = 16 − 4(1)(4) = 0, so it has two equal roots: (x + 2)² = 0.", "bm": "b² − 4ac = 16 − 4(1)(4) = 0, jadi ada dua punca sama: (x + 2)² = 0." }
+    },
+    {
+      "id": "addmath-02-q03", "subtopicId": "addmath-02-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The equation 2x² + 3x + 5 = 0 has…", "bm": "Persamaan 2x² + 3x + 5 = 0 mempunyai…" },
+      "options": [
+        { "en": "two distinct real roots", "bm": "dua punca nyata berbeza" }, { "en": "two equal real roots", "bm": "dua punca nyata sama" },
+        { "en": "no real roots", "bm": "tiada punca nyata" }, { "en": "exactly one root of 0", "bm": "satu punca iaitu 0" }
+      ],
+      "answer": 2,
+      "explanation": { "en": "b² − 4ac = 9 − 40 = −31 < 0, so there are no real roots. The graph never touches the x-axis.", "bm": "b² − 4ac = 9 − 40 = −31 < 0, jadi tiada punca nyata. Graf tidak menyentuh paksi-x." }
+    },
+    {
+      "id": "addmath-02-q04", "subtopicId": "addmath-02-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Solve x² − 5x + 6 = 0. Enter the larger root.", "bm": "Selesaikan x² − 5x + 6 = 0. Masukkan punca yang lebih besar." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "(x − 2)(x − 3) = 0 → x = 2 or x = 3. Two numbers that multiply to 6 and add to −5: −2 and −3.", "bm": "(x − 2)(x − 3) = 0 → x = 2 atau x = 3. Dua nombor yang hasil darabnya 6 dan hasil tambahnya −5: −2 dan −3." }
+    },
+    {
+      "id": "addmath-02-q05", "subtopicId": "addmath-02-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve 2x² − 3x − 4 = 0. Give the positive root correct to 3 decimal places.", "bm": "Selesaikan 2x² − 3x − 4 = 0. Berikan punca positif betul kepada 3 tempat perpuluhan." },
+      "answer": 2.351, "tolerance": 0.001,
+      "explanation": { "en": "x = [3 ± √(9 + 32)] / 4 = (3 ± √41)/4. Positive root = (3 + 6.403)/4 = 2.351.", "bm": "x = [3 ± √(9 + 32)] / 4 = (3 ± √41)/4. Punca positif = (3 + 6.403)/4 = 2.351." }
+    },
+    {
+      "id": "addmath-02-q06", "subtopicId": "addmath-02-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The graph of f(x) = −2(x − 1)² + 7 has…", "bm": "Graf f(x) = −2(x − 1)² + 7 mempunyai…" },
+      "options": [
+        { "en": "a maximum point (1, 7)", "bm": "titik maksimum (1, 7)" }, { "en": "a minimum point (1, 7)", "bm": "titik minimum (1, 7)" },
+        { "en": "a maximum point (−1, 7)", "bm": "titik maksimum (−1, 7)" }, { "en": "a minimum point (−1, −7)", "bm": "titik minimum (−1, −7)" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "In a(x − h)² + k the turning point is (h, k) = (1, 7). a = −2 < 0, so it is a maximum. Watch the sign: (x − 1) means h = +1.", "bm": "Dalam a(x − h)² + k titik pusingan ialah (h, k) = (1, 7). a = −2 < 0, jadi ia maksimum. Awas tanda: (x − 1) bermakna h = +1." }
+    },
+    {
+      "id": "addmath-02-q07", "subtopicId": "addmath-02-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the axis of symmetry of f(x) = x² − 8x + 3. Enter the value of x.", "bm": "Cari paksi simetri bagi f(x) = x² − 8x + 3. Masukkan nilai x." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "x = −b/2a = −(−8)/(2 × 1) = 4.", "bm": "x = −b/2a = −(−8)/(2 × 1) = 4." }
+    },
+    {
+      "id": "addmath-02-q08", "subtopicId": "addmath-02-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "x² + kx + 9 = 0 has two equal roots and k > 0. Find k.", "bm": "x² + kx + 9 = 0 mempunyai dua punca sama dan k > 0. Cari k." },
+      "answer": 6, "tolerance": 0,
+      "explanation": { "en": "Equal roots → b² − 4ac = 0 → k² − 36 = 0 → k = ±6. Since k > 0, k = 6.", "bm": "Punca sama → b² − 4ac = 0 → k² − 36 = 0 → k = ±6. Oleh kerana k > 0, k = 6." }
+    },
+    {
+      "id": "addmath-02-q09", "subtopicId": "addmath-02-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which quadratic equation has roots 2 and −3?", "bm": "Persamaan kuadratik manakah mempunyai punca 2 dan −3?" },
+      "options": [
+        { "en": "x² + x − 6 = 0", "bm": "x² + x − 6 = 0" }, { "en": "x² − x − 6 = 0", "bm": "x² − x − 6 = 0" },
+        { "en": "x² + x + 6 = 0", "bm": "x² + x + 6 = 0" }, { "en": "x² − 5x + 6 = 0", "bm": "x² − 5x + 6 = 0" }
+      ],
+      "answer": 0,
+      "explanation": { "en": "Sum of roots = −1, product = −6. x² − (sum)x + (product) = x² − (−1)x + (−6) = x² + x − 6.", "bm": "Hasil tambah punca = −1, hasil darab = −6. x² − (HTP)x + (HDP) = x² + x − 6." }
+    },
+    {
+      "id": "addmath-02-q10", "subtopicId": "addmath-02-01", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Solve x² − x − 6 < 0.", "bm": "Selesaikan x² − x − 6 < 0." },
+      "options": [
+        { "en": "x < −2 or x > 3", "bm": "x < −2 atau x > 3" }, { "en": "−2 < x < 3", "bm": "−2 < x < 3" },
+        { "en": "−3 < x < 2", "bm": "−3 < x < 2" }, { "en": "x < −3 or x > 2", "bm": "x < −3 atau x > 2" }
+      ],
+      "answer": 1,
+      "explanation": { "en": "(x + 2)(x − 3) < 0. The U-shaped graph is BELOW the x-axis between its roots: −2 < x < 3.", "bm": "(x + 2)(x − 3) < 0. Graf berbentuk U berada DI BAWAH paksi-x di antara puncanya: −2 < x < 3." }
+    },
+    {
+      "id": "addmath-02-q11", "subtopicId": "addmath-02-02", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match the discriminant to the type of roots.", "bm": "Padankan pembeza layan dengan jenis punca." },
+      "pairs": [
+        { "left": { "en": "b² − 4ac > 0", "bm": "b² − 4ac > 0" }, "right": { "en": "Two distinct real roots", "bm": "Dua punca nyata berbeza" } },
+        { "left": { "en": "b² − 4ac = 0", "bm": "b² − 4ac = 0" }, "right": { "en": "Two equal real roots", "bm": "Dua punca nyata sama" } },
+        { "left": { "en": "b² − 4ac < 0", "bm": "b² − 4ac < 0" }, "right": { "en": "No real roots", "bm": "Tiada punca nyata" } }
+      ],
+      "explanation": { "en": "The discriminant is the part under the square root in the quadratic formula — negative means you can't take a real square root.", "bm": "Pembeza layan ialah bahagian di bawah punca kuasa dua dalam rumus kuadratik — negatif bermakna tiada punca kuasa dua nyata." }
+    },
+    {
+      "id": "addmath-02-q12", "subtopicId": "addmath-02-03", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Put the steps for sketching a quadratic graph in order.", "bm": "Susun langkah untuk melakar graf kuadratik." },
+      "items": [
+        { "en": "Use the sign of a to decide the shape", "bm": "Gunakan tanda a untuk menentukan bentuk" },
+        { "en": "Find the y-intercept (put x = 0)", "bm": "Cari pintasan-y (letak x = 0)" },
+        { "en": "Find the x-intercepts (roots), if any", "bm": "Cari pintasan-x (punca), jika ada" },
+        { "en": "Find the maximum or minimum point", "bm": "Cari titik maksimum atau minimum" },
+        { "en": "Sketch and label all the points", "bm": "Lakar dan label semua titik" }
+      ],
+      "explanation": { "en": "Shape first, then the easy points, then the turning point, then draw a smooth symmetric curve.", "bm": "Bentuk dahulu, kemudian titik yang mudah, kemudian titik pusingan, kemudian lukis lengkung licin yang simetri." }
+    },
+    {
+      "id": "addmath-02-q13", "subtopicId": "addmath-02-03", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "A takraw ball's height is h = −5t² + 20t + 1 metres after t seconds. Find its maximum height.", "bm": "Ketinggian bola takraw ialah h = −5t² + 20t + 1 meter selepas t saat. Cari ketinggian maksimumnya." },
+      "answer": 21, "tolerance": 0.01, "unit": "m",
+      "explanation": { "en": "Turning point at t = −b/2a = −20/(−10) = 2 s. h = −5(4) + 20(2) + 1 = 21 m.", "bm": "Titik pusingan pada t = −b/2a = −20/(−10) = 2 s. h = −5(4) + 20(2) + 1 = 21 m." }
+    }
+  ]
+}

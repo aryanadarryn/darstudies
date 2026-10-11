@@ -1,0 +1,44 @@
+{
+  "name": "darstudies",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "validate": "tsx scripts/validate-content.ts",
+    "prebuild": "npm run validate",
+    "build": "tsc && vite build && node scripts/spa-fallback.mjs",
+    "icons": "node scripts/gen-icons.mjs",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "extract-dskp": "tsx scripts/extract-dskp.ts"
+  },
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "dexie": "^4.4.6",
+    "dexie-react-hooks": "^4.4.0",
+    "framer-motion": "^14.1.0",
+    "katex": "^0.19.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6",
+    "recharts": "^3.10.1",
+    "zod": "^4.6.5",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^6.1.2",
+    "fake-indexeddb": "^6.2.5",
+    "pdfjs-dist": "^6.4.299",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.3"
+  }
+}

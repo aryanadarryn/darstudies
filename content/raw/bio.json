@@ -1,0 +1,184 @@
+{
+  "id": "bio",
+  "name": { "en": "Biology", "bm": "Biologi" },
+  "color": "#16a34a",
+  "source": "Entered manually from plan Appendix A / KSSM Form 4 textbook headings. Verify against the latest DSKP; learning standards to be filled from scripts/extract-dskp.ts output.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": { "en": "Introduction to Biology and Laboratory Rules", "bm": "Pengenalan kepada Biologi dan Peraturan Makmal" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "1.1", "title": { "en": "Fields and Careers in Biology", "bm": "Bidang dan Kerjaya dalam Biologi" } },
+        { "code": "1.2", "title": { "en": "Safety and Rules in the Biology Laboratory", "bm": "Keselamatan dan Peraturan dalam Makmal Biologi" } },
+        { "code": "1.3", "title": { "en": "Scientific Investigation in Biology", "bm": "Penyiasatan Saintifik dalam Biologi" } }
+      ]
+    },
+    {
+      "number": 2,
+      "title": { "en": "Cell Biology and Cell Organisation", "bm": "Biologi Sel dan Organisasi Sel" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "2.1", "title": { "en": "Cell Structure and Function", "bm": "Struktur dan Fungsi Sel" } },
+        { "code": "2.2", "title": { "en": "Living Processes in Unicellular Organisms", "bm": "Proses Hidup Organisma Unisel" } },
+        { "code": "2.3", "title": { "en": "Living Processes in Multicellular Organisms", "bm": "Proses Hidup Organisma Multisel" } },
+        { "code": "2.4", "title": { "en": "Levels of Organisation in Multicellular Organisms", "bm": "Aras Organisasi dalam Organisma Multisel" } }
+      ]
+    },
+    {
+      "number": 3,
+      "title": { "en": "Movement of Substances across a Plasma Membrane", "bm": "Pergerakan Bahan merentasi Membran Plasma" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "3.1", "title": { "en": "Structure of the Plasma Membrane", "bm": "Struktur Membran Plasma" } },
+        { "code": "3.2", "title": { "en": "Concept of Movement of Substances across a Plasma Membrane", "bm": "Konsep Pergerakan Bahan merentasi Membran Plasma" } },
+        { "code": "3.3", "title": { "en": "Movement of Substances across a Plasma Membrane in Living Organisms", "bm": "Pergerakan Bahan merentasi Membran Plasma dalam Organisma Hidup" } },
+        { "code": "3.4", "title": { "en": "Applications in Daily Life", "bm": "Aplikasi dalam Kehidupan Harian" } }
+      ]
+    },
+    {
+      "number": 4,
+      "title": { "en": "Chemical Compositions in a Cell", "bm": "Komposisi Kimia dalam Sel" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "4.1", "title": { "en": "Water", "bm": "Air" } },
+        { "code": "4.2", "title": { "en": "Carbohydrates", "bm": "Karbohidrat" } },
+        { "code": "4.3", "title": { "en": "Proteins", "bm": "Protein" } },
+        { "code": "4.4", "title": { "en": "Lipids", "bm": "Lipid" } },
+        { "code": "4.5", "title": { "en": "Nucleic Acids", "bm": "Asid Nukleik" } }
+      ]
+    },
+    {
+      "number": 5,
+      "title": { "en": "Metabolism and Enzymes", "bm": "Metabolisme dan Enzim" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "5.1", "title": { "en": "Metabolism", "bm": "Metabolisme" } },
+        { "code": "5.2", "title": { "en": "Enzymes", "bm": "Enzim" } },
+        { "code": "5.3", "title": { "en": "Application of Enzymes in Daily Life", "bm": "Aplikasi Enzim dalam Kehidupan Harian" } }
+      ]
+    },
+    {
+      "number": 6,
+      "title": { "en": "Cell Division", "bm": "Pembahagian Sel" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "6.1", "title": { "en": "Cell Division", "bm": "Pembahagian Sel" } },
+        { "code": "6.2", "title": { "en": "Cell Cycle and Mitosis", "bm": "Kitar Sel dan Mitosis" } },
+        { "code": "6.3", "title": { "en": "Meiosis", "bm": "Meiosis" } },
+        { "code": "6.4", "title": { "en": "Issues of Cell Division on Human Health", "bm": "Isu Pembahagian Sel terhadap Kesihatan Manusia" } }
+      ]
+    },
+    {
+      "number": 7,
+      "title": { "en": "Cellular Respiration", "bm": "Respirasi Sel" },
+      "theme": { "en": "Fundamentals of Biology", "bm": "Asas Biologi" },
+      "subtopics": [
+        { "code": "7.1", "title": { "en": "Production of Energy through Cellular Respiration", "bm": "Penghasilan Tenaga melalui Respirasi Sel" } },
+        { "code": "7.2", "title": { "en": "Aerobic Respiration", "bm": "Respirasi Aerob" } },
+        { "code": "7.3", "title": { "en": "Fermentation", "bm": "Fermentasi" } }
+      ]
+    },
+    {
+      "number": 8,
+      "title": { "en": "Respiratory Systems in Humans and Animals", "bm": "Sistem Respirasi pada Manusia dan Haiwan" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "8.1", "title": { "en": "Types of Respiratory Systems", "bm": "Jenis Sistem Respirasi" } },
+        { "code": "8.2", "title": { "en": "Mechanisms of Breathing", "bm": "Mekanisme Pernafasan" } },
+        { "code": "8.3", "title": { "en": "Gaseous Exchange in Humans", "bm": "Pertukaran Gas dalam Manusia" } },
+        { "code": "8.4", "title": { "en": "Gaseous Exchange in Other Organisms", "bm": "Pertukaran Gas dalam Organisma Lain" } },
+        { "code": "8.5", "title": { "en": "Health Issues Related to the Human Respiratory System", "bm": "Isu Kesihatan Berkaitan Sistem Respirasi Manusia" } }
+      ]
+    },
+    {
+      "number": 9,
+      "title": { "en": "Nutrition and the Human Digestive System", "bm": "Nutrisi dan Sistem Pencernaan Manusia" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "9.1", "title": { "en": "Digestive System", "bm": "Sistem Pencernaan" } },
+        { "code": "9.2", "title": { "en": "Digestion", "bm": "Pencernaan" } },
+        { "code": "9.3", "title": { "en": "Absorption", "bm": "Penyerapan" } },
+        { "code": "9.4", "title": { "en": "Assimilation", "bm": "Asimilasi" } },
+        { "code": "9.5", "title": { "en": "Defecation", "bm": "Penyahtinjaan" } },
+        { "code": "9.6", "title": { "en": "Balanced Diet", "bm": "Gizi Seimbang" } },
+        { "code": "9.7", "title": { "en": "Health Issues Related to the Digestive System and Eating Habits", "bm": "Isu Kesihatan Berkaitan Sistem Pencernaan dan Tabiat Pemakanan" } }
+      ]
+    },
+    {
+      "number": 10,
+      "title": { "en": "Transport in Humans and Animals", "bm": "Pengangkutan dalam Manusia dan Haiwan" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "10.1", "title": { "en": "Types of Circulatory Systems", "bm": "Jenis Sistem Peredaran" } },
+        { "code": "10.2", "title": { "en": "Circulatory System of Humans", "bm": "Sistem Peredaran Manusia" } },
+        { "code": "10.3", "title": { "en": "Mechanism of Heartbeat", "bm": "Mekanisme Degupan Jantung" } },
+        { "code": "10.4", "title": { "en": "Mechanism of Blood Clotting", "bm": "Mekanisme Pembekuan Darah" } },
+        { "code": "10.5", "title": { "en": "Blood Groups of Humans", "bm": "Kumpulan Darah Manusia" } },
+        { "code": "10.6", "title": { "en": "Health Issues Related to the Human Circulatory System", "bm": "Isu Kesihatan Berkaitan Sistem Peredaran Manusia" } },
+        { "code": "10.7", "title": { "en": "Lymphatic System of Humans", "bm": "Sistem Limfa Manusia" } },
+        { "code": "10.8", "title": { "en": "Health Issues Related to the Human Lymphatic System", "bm": "Isu Kesihatan Berkaitan Sistem Limfa Manusia" } }
+      ]
+    },
+    {
+      "number": 11,
+      "title": { "en": "Immunity in Humans", "bm": "Keimunan Manusia" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "11.1", "title": { "en": "Body Defence", "bm": "Pertahanan Badan" } },
+        { "code": "11.2", "title": { "en": "Actions of Antibodies", "bm": "Tindakan Antibodi" } },
+        { "code": "11.3", "title": { "en": "Types of Immunity", "bm": "Jenis Keimunan" } },
+        { "code": "11.4", "title": { "en": "Health Issues Related to Immunity", "bm": "Isu Kesihatan Berkaitan Keimunan" } }
+      ]
+    },
+    {
+      "number": 12,
+      "title": { "en": "Coordination and Response in Humans", "bm": "Koordinasi dan Gerak Balas pada Manusia" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "12.1", "title": { "en": "Coordination and Response", "bm": "Koordinasi dan Gerak Balas" } },
+        { "code": "12.2", "title": { "en": "Nervous System", "bm": "Sistem Saraf" } },
+        { "code": "12.3", "title": { "en": "Neurones and Synapse", "bm": "Neuron dan Sinaps" } },
+        { "code": "12.4", "title": { "en": "Voluntary and Involuntary Actions", "bm": "Tindakan Terkawal dan Luar Kawal" } },
+        { "code": "12.5", "title": { "en": "Health Issues Related to the Nervous System", "bm": "Isu Kesihatan Berkaitan Sistem Saraf" } },
+        { "code": "12.6", "title": { "en": "Endocrine System", "bm": "Sistem Endokrin" } },
+        { "code": "12.7", "title": { "en": "Health Issues Related to the Endocrine System", "bm": "Isu Kesihatan Berkaitan Sistem Endokrin" } }
+      ]
+    },
+    {
+      "number": 13,
+      "title": { "en": "Homeostasis and the Human Urinary System", "bm": "Homeostasis dan Sistem Urinari Manusia" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "13.1", "title": { "en": "Homeostasis", "bm": "Homeostasis" } },
+        { "code": "13.2", "title": { "en": "The Urinary System", "bm": "Sistem Urinari" } },
+        { "code": "13.3", "title": { "en": "Health Issues Related to the Urinary System", "bm": "Isu Kesihatan Berkaitan Sistem Urinari" } }
+      ]
+    },
+    {
+      "number": 14,
+      "title": { "en": "Support and Movement in Humans and Animals", "bm": "Sokongan dan Pergerakan pada Manusia dan Haiwan" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "14.1", "title": { "en": "Types of Skeletons", "bm": "Jenis Rangka" } },
+        { "code": "14.2", "title": { "en": "Musculoskeletal System of Humans", "bm": "Sistem Otot Rangka Manusia" } },
+        { "code": "14.3", "title": { "en": "Movement and Locomotion", "bm": "Pergerakan dan Gerak Alih" } },
+        { "code": "14.4", "title": { "en": "Health Issues Related to the Human Musculoskeletal System", "bm": "Isu Kesihatan Berkaitan Sistem Otot Rangka Manusia" } }
+      ]
+    },
+    {
+      "number": 15,
+      "title": { "en": "Sexual Reproduction, Development and Growth in Humans and Animals", "bm": "Pembiakan Seks, Perkembangan dan Pertumbuhan pada Manusia dan Haiwan" },
+      "theme": { "en": "Physiology of Humans and Animals", "bm": "Fisiologi Manusia dan Haiwan" },
+      "subtopics": [
+        { "code": "15.1", "title": { "en": "Reproductive System of Humans", "bm": "Sistem Pembiakan Manusia" } },
+        { "code": "15.2", "title": { "en": "Gametogenesis in Humans", "bm": "Gametogenesis pada Manusia" } },
+        { "code": "15.3", "title": { "en": "Menstrual Cycle", "bm": "Kitar Haid" } },
+        { "code": "15.4", "title": { "en": "Early Development of a Foetus", "bm": "Perkembangan Awal Fetus" } },
+        { "code": "15.5", "title": { "en": "Formation of Twins", "bm": "Pembentukan Kembar" } },
+        { "code": "15.6", "title": { "en": "Health Issues Related to the Human Reproductive System", "bm": "Isu Kesihatan Berkaitan Sistem Pembiakan Manusia" } },
+        { "code": "15.7", "title": { "en": "Growth in Humans and Animals", "bm": "Pertumbuhan pada Manusia dan Haiwan" } }
+      ]
+    }
+  ]
+}

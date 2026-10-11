@@ -1,0 +1,20 @@
+{
+  "chapterId": "addmath-02",
+  "cards": [
+    { "id": "addmath-02-f01", "subtopicId": "addmath-02-01", "front": { "en": "General form of a quadratic equation", "bm": "Bentuk am persamaan kuadratik" }, "back": { "en": "ax² + bx + c = 0, where a ≠ 0", "bm": "ax² + bx + c = 0, dengan a ≠ 0" } },
+    { "id": "addmath-02-f02", "subtopicId": "addmath-02-01", "front": { "en": "Quadratic formula", "bm": "Rumus kuadratik" }, "back": { "en": "x = [−b ± √(b² − 4ac)] / 2a", "bm": "x = [−b ± √(b² − 4ac)] / 2a" } },
+    { "id": "addmath-02-f03", "subtopicId": "addmath-02-01", "front": { "en": "3 ways to solve a quadratic equation", "bm": "3 cara menyelesaikan persamaan kuadratik" }, "back": { "en": "Factorisation, completing the square, quadratic formula", "bm": "Pemfaktoran, penyempurnaan kuasa dua, rumus kuadratik" } },
+    { "id": "addmath-02-f04", "subtopicId": "addmath-02-01", "front": { "en": "Forming an equation from roots α and β", "bm": "Membentuk persamaan daripada punca α dan β" }, "back": { "en": "x² − (α + β)x + αβ = 0", "bm": "x² − (α + β)x + αβ = 0" } },
+    { "id": "addmath-02-f05", "subtopicId": "addmath-02-01", "front": { "en": "(x − p)(x − q) < 0 with p < q", "bm": "(x − p)(x − q) < 0 dengan p < q" }, "back": { "en": "p < x < q (between the roots)", "bm": "p < x < q (di antara punca)" } },
+    { "id": "addmath-02-f06", "subtopicId": "addmath-02-01", "front": { "en": "(x − p)(x − q) > 0 with p < q", "bm": "(x − p)(x − q) > 0 dengan p < q" }, "back": { "en": "x < p or x > q (outside the roots)", "bm": "x < p atau x > q (di luar punca)" } },
+    { "id": "addmath-02-f07", "subtopicId": "addmath-02-02", "front": { "en": "b² − 4ac > 0", "bm": "b² − 4ac > 0" }, "back": { "en": "Two distinct real roots — graph cuts the x-axis twice", "bm": "Dua punca nyata berbeza — graf memotong paksi-x di dua titik" } },
+    { "id": "addmath-02-f08", "subtopicId": "addmath-02-02", "front": { "en": "b² − 4ac = 0", "bm": "b² − 4ac = 0" }, "back": { "en": "Two equal real roots — graph touches the x-axis once", "bm": "Dua punca nyata sama — graf menyentuh paksi-x di satu titik" } },
+    { "id": "addmath-02-f09", "subtopicId": "addmath-02-02", "front": { "en": "b² − 4ac < 0", "bm": "b² − 4ac < 0" }, "back": { "en": "No real roots — graph does not meet the x-axis", "bm": "Tiada punca nyata — graf tidak bertemu paksi-x" } },
+    { "id": "addmath-02-f10", "subtopicId": "addmath-02-03", "front": { "en": "a > 0 vs a < 0", "bm": "a > 0 vs a < 0" }, "back": { "en": "a > 0: ∪ shape, minimum point. a < 0: ∩ shape, maximum point", "bm": "a > 0: bentuk ∪, titik minimum. a < 0: bentuk ∩, titik maksimum" } },
+    { "id": "addmath-02-f11", "subtopicId": "addmath-02-03", "front": { "en": "Vertex form", "bm": "Bentuk verteks" }, "back": { "en": "f(x) = a(x − h)² + k; turning point (h, k); axis x = h", "bm": "f(x) = a(x − h)² + k; titik pusingan (h, k); paksi x = h" } },
+    { "id": "addmath-02-f12", "subtopicId": "addmath-02-03", "front": { "en": "Axis of symmetry from general form", "bm": "Paksi simetri daripada bentuk am" }, "back": { "en": "x = −b / 2a", "bm": "x = −b / 2a" } },
+    { "id": "addmath-02-f13", "subtopicId": "addmath-02-03", "front": { "en": "Effect of changing c in ax² + bx + c", "bm": "Kesan perubahan c dalam ax² + bx + c" }, "back": { "en": "Shifts the graph up or down (c is the y-intercept)", "bm": "Menganjak graf ke atas atau ke bawah (c ialah pintasan-y)" } },
+    { "id": "addmath-02-f14", "subtopicId": "addmath-02-03", "front": { "en": "Effect of bigger |a|", "bm": "Kesan |a| lebih besar" }, "back": { "en": "Narrower (steeper) parabola", "bm": "Parabola lebih sempit (curam)" } },
+    { "id": "addmath-02-f15", "subtopicId": "addmath-02-01", "front": { "en": "Completing the square: x² + bx", "bm": "Penyempurnaan kuasa dua: x² + bx" }, "back": { "en": "(x + b/2)² − (b/2)²", "bm": "(x + b/2)² − (b/2)²" } }
+  ]
+}

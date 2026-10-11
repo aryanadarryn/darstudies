@@ -1,0 +1,108 @@
+{
+  "id": "addmath",
+  "name": { "en": "Additional Mathematics", "bm": "Matematik Tambahan" },
+  "color": "#7c3aed",
+  "source": "Entered manually from plan Appendix A / KSSM Form 4 textbook headings. Verify against the latest DSKP; learning standards to be filled from scripts/extract-dskp.ts output.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": { "en": "Functions", "bm": "Fungsi" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "1.1", "title": { "en": "Functions", "bm": "Fungsi" } },
+        { "code": "1.2", "title": { "en": "Composite Functions", "bm": "Fungsi Gubahan" } },
+        { "code": "1.3", "title": { "en": "Inverse Functions", "bm": "Fungsi Songsang" } }
+      ]
+    },
+    {
+      "number": 2,
+      "title": { "en": "Quadratic Functions", "bm": "Fungsi Kuadratik" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "2.1", "title": { "en": "Quadratic Equations and Inequalities", "bm": "Persamaan dan Ketaksamaan Kuadratik" } },
+        { "code": "2.2", "title": { "en": "Types of Roots of Quadratic Equations", "bm": "Jenis-jenis Punca Persamaan Kuadratik" } },
+        { "code": "2.3", "title": { "en": "Quadratic Functions", "bm": "Fungsi Kuadratik" } }
+      ]
+    },
+    {
+      "number": 3,
+      "title": { "en": "Systems of Equations", "bm": "Sistem Persamaan" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "3.1", "title": { "en": "Systems of Linear Equations in Three Variables", "bm": "Sistem Persamaan Linear dalam Tiga Pemboleh Ubah" } },
+        { "code": "3.2", "title": { "en": "Simultaneous Equations with One Linear and One Non-Linear Equation", "bm": "Persamaan Serentak yang Melibatkan Satu Persamaan Linear dan Satu Persamaan Tak Linear" } }
+      ]
+    },
+    {
+      "number": 4,
+      "title": { "en": "Indices, Surds and Logarithms", "bm": "Indeks, Surd dan Logaritma" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "4.1", "title": { "en": "Laws of Indices", "bm": "Hukum Indeks" } },
+        { "code": "4.2", "title": { "en": "Laws of Surds", "bm": "Hukum Surd" } },
+        { "code": "4.3", "title": { "en": "Laws of Logarithms", "bm": "Hukum Logaritma" } },
+        { "code": "4.4", "title": { "en": "Applications of Indices, Surds and Logarithms", "bm": "Aplikasi Indeks, Surd dan Logaritma" } }
+      ]
+    },
+    {
+      "number": 5,
+      "title": { "en": "Progressions", "bm": "Janjang" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "5.1", "title": { "en": "Arithmetic Progressions", "bm": "Janjang Aritmetik" } },
+        { "code": "5.2", "title": { "en": "Geometric Progressions", "bm": "Janjang Geometri" } }
+      ]
+    },
+    {
+      "number": 6,
+      "title": { "en": "Linear Law", "bm": "Hukum Linear" },
+      "theme": { "en": "Algebra", "bm": "Algebra" },
+      "subtopics": [
+        { "code": "6.1", "title": { "en": "Linear and Non-Linear Relations", "bm": "Hubungan Linear dan Tak Linear" } },
+        { "code": "6.2", "title": { "en": "Linear Law and Non-Linear Relations", "bm": "Hukum Linear dan Hubungan Tak Linear" } },
+        { "code": "6.3", "title": { "en": "Applications of Linear Law", "bm": "Aplikasi Hukum Linear" } }
+      ]
+    },
+    {
+      "number": 7,
+      "title": { "en": "Coordinate Geometry", "bm": "Geometri Koordinat" },
+      "theme": { "en": "Geometry", "bm": "Geometri" },
+      "subtopics": [
+        { "code": "7.1", "title": { "en": "Divisor of a Line Segment", "bm": "Pembahagi Tembereng Garis" } },
+        { "code": "7.2", "title": { "en": "Parallel and Perpendicular Lines", "bm": "Garis Lurus Selari dan Garis Lurus Serenjang" } },
+        { "code": "7.3", "title": { "en": "Areas of Polygons", "bm": "Luas Poligon" } },
+        { "code": "7.4", "title": { "en": "Equations of Loci", "bm": "Persamaan Lokus" } }
+      ]
+    },
+    {
+      "number": 8,
+      "title": { "en": "Vectors", "bm": "Vektor" },
+      "theme": { "en": "Geometry", "bm": "Geometri" },
+      "subtopics": [
+        { "code": "8.1", "title": { "en": "Vectors", "bm": "Vektor" } },
+        { "code": "8.2", "title": { "en": "Addition and Subtraction of Vectors", "bm": "Penambahan dan Penolakan Vektor" } },
+        { "code": "8.3", "title": { "en": "Vectors in a Cartesian Plane", "bm": "Vektor dalam Satah Cartes" } }
+      ]
+    },
+    {
+      "number": 9,
+      "title": { "en": "Solution of Triangles", "bm": "Penyelesaian Segi Tiga" },
+      "theme": { "en": "Trigonometry", "bm": "Trigonometri" },
+      "subtopics": [
+        { "code": "9.1", "title": { "en": "Sine Rule", "bm": "Petua Sinus" } },
+        { "code": "9.2", "title": { "en": "Cosine Rule", "bm": "Petua Kosinus" } },
+        { "code": "9.3", "title": { "en": "Area of a Triangle", "bm": "Luas Segi Tiga" } },
+        { "code": "9.4", "title": { "en": "Applications of the Sine Rule, Cosine Rule and Area of a Triangle", "bm": "Aplikasi Petua Sinus, Petua Kosinus dan Luas Segi Tiga" } }
+      ]
+    },
+    {
+      "number": 10,
+      "title": { "en": "Index Numbers", "bm": "Nombor Indeks" },
+      "theme": { "en": "Statistics", "bm": "Statistik" },
+      "subtopics": [
+        { "code": "10.1", "title": { "en": "Index Numbers", "bm": "Nombor Indeks" } },
+        { "code": "10.2", "title": { "en": "Composite Index", "bm": "Indeks Gubahan" } }
+      ]
+    }
+  ]
+}
