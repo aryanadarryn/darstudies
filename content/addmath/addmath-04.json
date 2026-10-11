@@ -1,0 +1,97 @@
+{
+  "chapterId": "addmath-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "If you save RM1000 at 5% interest a year, when will it double? Earthquake strength, the loudness of sound and the pH of acids all use logarithms. Indices, surds and logs are the tools to tame very big and very small numbers.",
+      "bm": "Jika anda menyimpan RM1000 dengan faedah 5% setahun, bilakah ia akan berganda? Kekuatan gempa bumi, kenyaringan bunyi dan pH asid semuanya menggunakan logaritma. Indeks, surd dan logaritma ialah alat untuk mengawal nombor yang sangat besar dan sangat kecil."
+    },
+    "bigIdeas": [
+      { "en": "Laws of indices: aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ ÷ aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐⁿ, a⁰ = 1, a⁻ⁿ = 1/aⁿ.", "bm": "Hukum indeks: aᵐ × aⁿ = aᵐ⁺ⁿ, aᵐ ÷ aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐⁿ, a⁰ = 1, a⁻ⁿ = 1/aⁿ." },
+      { "en": "A surd is an irrational root like √2; simplify and rationalise denominators.", "bm": "Surd ialah punca tak nisbah seperti √2; permudahkan dan nisbahkan penyebut." },
+      { "en": "Logarithm is the inverse of an index: aˣ = N ⇔ logₐ N = x.", "bm": "Logaritma ialah songsangan indeks: aˣ = N ⇔ logₐ N = x." },
+      { "en": "Laws of logs turn products into sums and powers into multiples.", "bm": "Hukum logaritma menukar hasil darab kepada hasil tambah dan kuasa kepada gandaan." },
+      { "en": "Use logs to solve equations where the unknown is in the index.", "bm": "Guna logaritma untuk menyelesaikan persamaan dengan anu dalam indeks." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Index form", "bm": "Bentuk indeks" }, { "en": "Logarithm form", "bm": "Bentuk logaritma" } ],
+        "rows": [
+          { "label": { "en": "Definition", "bm": "Takrif" }, "cells": [ { "en": "aˣ = N", "bm": "aˣ = N" }, { "en": "logₐ N = x", "bm": "logₐ N = x" } ] },
+          { "label": { "en": "Product", "bm": "Hasil darab" }, "cells": [ { "en": "aᵐ × aⁿ = aᵐ⁺ⁿ", "bm": "aᵐ × aⁿ = aᵐ⁺ⁿ" }, { "en": "log xy = log x + log y", "bm": "log xy = log x + log y" } ] },
+          { "label": { "en": "Quotient", "bm": "Hasil bahagi" }, "cells": [ { "en": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ", "bm": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ" }, { "en": "log (x/y) = log x − log y", "bm": "log (x/y) = log x − log y" } ] },
+          { "label": { "en": "Power", "bm": "Kuasa" }, "cells": [ { "en": "(aᵐ)ⁿ = aᵐⁿ", "bm": "(aᵐ)ⁿ = aᵐⁿ" }, { "en": "log xⁿ = n log x", "bm": "log xⁿ = n log x" } ] },
+          { "label": { "en": "Special values", "bm": "Nilai khas" }, "cells": [ { "en": "a⁰ = 1, a¹ = a", "bm": "a⁰ = 1, a¹ = a" }, { "en": "logₐ 1 = 0, logₐ a = 1", "bm": "logₐ 1 = 0, logₐ a = 1" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Index (power)", "bm": "Indeks (kuasa)" }, "definition": { "en": "In aⁿ, n tells how many times a is multiplied by itself.", "bm": "Dalam aⁿ, n menunjukkan berapa kali a didarab dengan dirinya." } },
+      { "term": { "en": "Surd", "bm": "Surd" }, "definition": { "en": "A root that cannot be simplified to a rational number, e.g. √3.", "bm": "Punca yang tidak boleh dipermudah kepada nombor nisbah, cth. √3." } },
+      { "term": { "en": "Rationalising", "bm": "Penisbahan" }, "definition": { "en": "Removing a surd from the denominator by multiplying by its conjugate.", "bm": "Menghapuskan surd daripada penyebut dengan mendarab konjugatnya." } },
+      { "term": { "en": "Logarithm", "bm": "Logaritma" }, "definition": { "en": "logₐ N is the power to which a must be raised to give N.", "bm": "logₐ N ialah kuasa yang mana a mesti dinaikkan untuk mendapat N." } },
+      { "term": { "en": "Common logarithm", "bm": "Logaritma jati" }, "definition": { "en": "Base 10, written log or lg.", "bm": "Asas 10, ditulis log atau lg." } },
+      { "term": { "en": "Natural logarithm", "bm": "Logaritma asli" }, "definition": { "en": "Base e ≈ 2.718, written ln.", "bm": "Asas e ≈ 2.718, ditulis ln." } }
+    ],
+    "formulaIds": ["am-index-laws", "am-log-def", "am-log-product", "am-log-power", "am-log-change-base"],
+    "workedExample": {
+      "question": { "en": "Solve 3ˣ = 20, giving x to 3 decimal places.", "bm": "Selesaikan 3ˣ = 20, beri x kepada 3 tempat perpuluhan." },
+      "steps": [
+        { "en": "Take log of both sides: log 3ˣ = log 20.", "bm": "Ambil log kedua-dua belah: log 3ˣ = log 20." },
+        { "en": "Power law: x log 3 = log 20.", "bm": "Hukum kuasa: x log 3 = log 20." },
+        { "en": "x = log 20 ÷ log 3 = 1.3010 ÷ 0.4771", "bm": "x = log 20 ÷ log 3 = 1.3010 ÷ 0.4771" },
+        { "en": "x ≈ 2.727", "bm": "x ≈ 2.727" }
+      ],
+      "answer": { "en": "x = 2.727", "bm": "x = 2.727" }
+    }
+  },
+  "questions": [
+    { "id": "addmath-04-q01", "subtopicId": "addmath-04-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Simplify 2³ × 2⁴ ÷ 2⁵ and give the value.", "bm": "Permudahkan 2³ × 2⁴ ÷ 2⁵ dan beri nilainya." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "2³⁺⁴⁻⁵ = 2² = 4.", "bm": "2³⁺⁴⁻⁵ = 2² = 4." } },
+    { "id": "addmath-04-q02", "subtopicId": "addmath-04-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve 2ˣ⁺¹ = 32.", "bm": "Selesaikan 2ˣ⁺¹ = 32." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "32 = 2⁵, so x + 1 = 5 → x = 4. Make the bases the same, then equate indices.", "bm": "32 = 2⁵, jadi x + 1 = 5 → x = 4. Samakan asas, kemudian samakan indeks." } },
+    { "id": "addmath-04-q03", "subtopicId": "addmath-04-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Evaluate 27^(2/3).", "bm": "Nilaikan 27^(2/3)." },
+      "answer": 9, "tolerance": 0,
+      "explanation": { "en": "27^(1/3) = 3, then 3² = 9.", "bm": "27^(1/3) = 3, kemudian 3² = 9." } },
+    { "id": "addmath-04-q04", "subtopicId": "addmath-04-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Simplify √50.", "bm": "Permudahkan √50." },
+      "options": [ { "en": "5√2", "bm": "5√2" }, { "en": "25√2", "bm": "25√2" }, { "en": "2√5", "bm": "2√5" }, { "en": "10√5", "bm": "10√5" } ],
+      "answer": 0,
+      "explanation": { "en": "√50 = √(25 × 2) = 5√2.", "bm": "√50 = √(25 × 2) = 5√2." } },
+    { "id": "addmath-04-q05", "subtopicId": "addmath-04-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Evaluate (√3 + 1)(√3 − 1).", "bm": "Nilaikan (√3 + 1)(√3 − 1)." },
+      "answer": 2, "tolerance": 0,
+      "explanation": { "en": "(a + b)(a − b) = a² − b² = 3 − 1 = 2. This is why conjugates rationalise denominators.", "bm": "(a + b)(a − b) = a² − b² = 3 − 1 = 2. Sebab itu konjugat menisbahkan penyebut." } },
+    { "id": "addmath-04-q06", "subtopicId": "addmath-04-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Rationalise 6/√3.", "bm": "Nisbahkan 6/√3." },
+      "options": [ { "en": "2√3", "bm": "2√3" }, { "en": "6√3", "bm": "6√3" }, { "en": "√3/2", "bm": "√3/2" }, { "en": "3√2", "bm": "3√2" } ],
+      "answer": 0,
+      "explanation": { "en": "6/√3 × √3/√3 = 6√3/3 = 2√3.", "bm": "6/√3 × √3/√3 = 6√3/3 = 2√3." } },
+    { "id": "addmath-04-q07", "subtopicId": "addmath-04-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find log₃ 81.", "bm": "Cari log₃ 81." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "3⁴ = 81, so log₃ 81 = 4.", "bm": "3⁴ = 81, jadi log₃ 81 = 4." } },
+    { "id": "addmath-04-q08", "subtopicId": "addmath-04-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Evaluate log₁₀ 2 + log₁₀ 5.", "bm": "Nilaikan log₁₀ 2 + log₁₀ 5." },
+      "answer": 1, "tolerance": 0,
+      "explanation": { "en": "log 2 + log 5 = log 10 = 1.", "bm": "log 2 + log 5 = log 10 = 1." } },
+    { "id": "addmath-04-q09", "subtopicId": "addmath-04-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve log₂ x = 5.", "bm": "Selesaikan log₂ x = 5." },
+      "answer": 32, "tolerance": 0,
+      "explanation": { "en": "x = 2⁵ = 32.", "bm": "x = 2⁵ = 32." } },
+    { "id": "addmath-04-q10", "subtopicId": "addmath-04-04", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Solve 3ˣ = 20 (2 decimal places).", "bm": "Selesaikan 3ˣ = 20 (2 tempat perpuluhan)." },
+      "answer": 2.73, "tolerance": 0.005,
+      "explanation": { "en": "x = log 20 / log 3 ≈ 2.727 → 2.73.", "bm": "x = log 20 / log 3 ≈ 2.727 → 2.73." } },
+    { "id": "addmath-04-q11", "subtopicId": "addmath-04-04", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "RM1000 is saved at 5% compound interest per year. After how many whole years will it first exceed RM2000?", "bm": "RM1000 disimpan dengan faedah kompaun 5% setahun. Selepas berapa tahun penuh ia pertama kali melebihi RM2000?" },
+      "answer": 15, "tolerance": 0, "unit": "years",
+      "explanation": { "en": "1000(1.05)ⁿ > 2000 → n > log 2 / log 1.05 ≈ 14.2 → 15 years.", "bm": "1000(1.05)ⁿ > 2000 → n > log 2 / log 1.05 ≈ 14.2 → 15 tahun." } }
+  ]
+}

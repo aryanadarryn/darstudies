@@ -1,0 +1,102 @@
+{
+  "chapterId": "chem-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Palm oil from Sabah plantations becomes cooking oil, soap and even biodiesel. Latex from rubber trees becomes gloves for hospitals around the world. Behind every one of these products is a chemist.",
+      "bm": "Minyak sawit dari ladang di Sabah menjadi minyak masak, sabun dan biodiesel. Susu getah daripada pokok getah menjadi sarung tangan untuk hospital seluruh dunia. Di sebalik setiap produk ini ada ahli kimia."
+    },
+    "bigIdeas": [
+      { "en": "Chemistry studies the composition, structure and properties of matter and how it changes.", "bm": "Kimia mengkaji komposisi, struktur dan sifat jirim serta perubahannya." },
+      { "en": "Chemicals are everywhere: food, medicine, cleaning products, fuels and materials.", "bm": "Bahan kimia ada di mana-mana: makanan, ubat, bahan pencuci, bahan api dan bahan binaan." },
+      { "en": "Scientific investigations follow a systematic method with controlled variables.", "bm": "Penyiasatan saintifik mengikut kaedah sistematik dengan pemboleh ubah dikawal." },
+      { "en": "Safety first: know hazard symbols, wear protective equipment and handle spills correctly.", "bm": "Keselamatan dahulu: kenali simbol bahaya, pakai peralatan pelindung dan kendalikan tumpahan dengan betul." }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          { "title": { "en": "Observe", "bm": "Perhati" } },
+          { "title": { "en": "Problem statement", "bm": "Pernyataan masalah" } },
+          { "title": { "en": "Hypothesis", "bm": "Hipotesis" } },
+          { "title": { "en": "Plan & control variables", "bm": "Rancang & kawal pemboleh ubah" } },
+          { "title": { "en": "Experiment & record", "bm": "Eksperimen & rekod" } },
+          { "title": { "en": "Analyse & conclude", "bm": "Analisis & simpulkan" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Chemistry", "bm": "Kimia" }, "definition": { "en": "Study of the composition, structure, properties and changes of matter.", "bm": "Kajian tentang komposisi, struktur, sifat dan perubahan jirim." } },
+      { "term": { "en": "Chemical", "bm": "Bahan kimia" }, "definition": { "en": "A substance with a fixed composition, natural or man-made.", "bm": "Bahan dengan komposisi tetap, semula jadi atau buatan manusia." } },
+      { "term": { "en": "Hypothesis", "bm": "Hipotesis" }, "definition": { "en": "A testable statement linking the manipulated and responding variables.", "bm": "Pernyataan boleh diuji yang mengaitkan pemboleh ubah dimanipulasikan dan bergerak balas." } },
+      { "term": { "en": "Inference", "bm": "Inferens" }, "definition": { "en": "An early explanation of an observation.", "bm": "Penerangan awal tentang suatu pemerhatian." } },
+      { "term": { "en": "Fume chamber", "bm": "Kebuk wasap" }, "definition": { "en": "Ventilated cabinet for experiments that release toxic gases.", "bm": "Kabinet berpengudaraan untuk eksperimen yang membebaskan gas toksik." } },
+      { "term": { "en": "Hazard symbol", "bm": "Simbol bahaya" }, "definition": { "en": "Label showing the danger of a chemical, e.g. corrosive, flammable.", "bm": "Label yang menunjukkan bahaya bahan kimia, cth. mengakis, mudah terbakar." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "You test whether temperature affects how fast sugar dissolves. Write the problem statement, hypothesis and the three variables.", "bm": "Anda menguji sama ada suhu mempengaruhi kadar gula melarut. Tulis pernyataan masalah, hipotesis dan tiga pemboleh ubah." },
+      "steps": [
+        { "en": "Problem statement: Does temperature of water affect the time taken for sugar to dissolve?", "bm": "Pernyataan masalah: Adakah suhu air mempengaruhi masa untuk gula melarut?" },
+        { "en": "Hypothesis: The higher the water temperature, the shorter the time for sugar to dissolve.", "bm": "Hipotesis: Semakin tinggi suhu air, semakin singkat masa untuk gula melarut." },
+        { "en": "Manipulated: temperature of water. Responding: time to dissolve.", "bm": "Dimanipulasikan: suhu air. Bergerak balas: masa untuk melarut." },
+        { "en": "Constant: mass of sugar, volume of water, size of sugar grains, stirring.", "bm": "Dimalarkan: jisim gula, isi padu air, saiz butiran gula, kacauan." }
+      ],
+      "answer": { "en": "Hypothesis links temperature (manipulated) to dissolving time (responding) with other factors fixed.", "bm": "Hipotesis mengaitkan suhu (dimanipulasikan) dengan masa melarut (bergerak balas) dengan faktor lain ditetapkan." }
+    }
+  },
+  "questions": [
+    { "id": "chem-01-q01", "subtopicId": "chem-01-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which career is MOST closely linked to chemistry?", "bm": "Kerjaya manakah PALING berkait dengan kimia?" },
+      "options": [ { "en": "Pharmacist", "bm": "Ahli farmasi" }, { "en": "Architect", "bm": "Arkitek" }, { "en": "Lawyer", "bm": "Peguam" }, { "en": "Pilot", "bm": "Juruterbang" } ],
+      "answer": 0,
+      "explanation": { "en": "Pharmacists need chemistry to understand how medicines are made and how they react in the body.", "bm": "Ahli farmasi memerlukan kimia untuk memahami cara ubat dihasilkan dan bertindak balas dalam badan." } },
+    { "id": "chem-01-q02", "subtopicId": "chem-01-01", "type": "multi", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Select ALL industries in Malaysia that depend heavily on chemistry.", "bm": "Pilih SEMUA industri di Malaysia yang sangat bergantung pada kimia." },
+      "options": [ { "en": "Palm oil processing", "bm": "Pemprosesan minyak sawit" }, { "en": "Rubber glove manufacturing", "bm": "Pembuatan sarung tangan getah" }, { "en": "Petroleum refining", "bm": "Penapisan petroleum" }, { "en": "Tour guiding", "bm": "Pemandu pelancong" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Oleochemicals, polymer chemistry and petrochemistry are big Malaysian industries.", "bm": "Oleokimia, kimia polimer dan petrokimia ialah industri besar di Malaysia." } },
+    { "id": "chem-01-q03", "subtopicId": "chem-01-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Arrange the steps of a scientific investigation.", "bm": "Susun langkah penyiasatan saintifik." },
+      "items": [ { "en": "Make an observation", "bm": "Membuat pemerhatian" }, { "en": "State the problem", "bm": "Menyatakan masalah" }, { "en": "Form a hypothesis", "bm": "Membina hipotesis" }, { "en": "Carry out the experiment", "bm": "Menjalankan eksperimen" }, { "en": "Interpret data and conclude", "bm": "Mentafsir data dan membuat kesimpulan" } ],
+      "explanation": { "en": "Then write a report so others can repeat the experiment.", "bm": "Kemudian tulis laporan supaya orang lain boleh mengulangi eksperimen." } },
+    { "id": "chem-01-q04", "subtopicId": "chem-01-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In an experiment testing how the size of marble chips affects reaction rate, which must be kept constant?", "bm": "Dalam eksperimen menguji kesan saiz ketulan marmar terhadap kadar tindak balas, apakah yang mesti dimalarkan?" },
+      "options": [ { "en": "Size of marble chips", "bm": "Saiz ketulan marmar" }, { "en": "Time taken to collect gas", "bm": "Masa untuk mengumpul gas" }, { "en": "Concentration and volume of acid", "bm": "Kepekatan dan isi padu asid" }, { "en": "Rate of reaction", "bm": "Kadar tindak balas" } ],
+      "answer": 2,
+      "explanation": { "en": "Size is manipulated, rate/time is responding — everything else (acid concentration, volume, temperature, mass) is constant.", "bm": "Saiz dimanipulasikan, kadar/masa bergerak balas — yang lain (kepekatan, isi padu asid, suhu, jisim) dimalarkan." } },
+    { "id": "chem-01-q05", "subtopicId": "chem-01-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "\"The gas produced is probably hydrogen.\" This statement is an…", "bm": "\"Gas yang terhasil mungkin hidrogen.\" Pernyataan ini ialah…" },
+      "options": [ { "en": "observation", "bm": "pemerhatian" }, { "en": "inference", "bm": "inferens" }, { "en": "conclusion", "bm": "kesimpulan" }, { "en": "variable", "bm": "pemboleh ubah" } ],
+      "answer": 1,
+      "explanation": { "en": "An inference is an early explanation; an observation is what you directly see (\"bubbles form\").", "bm": "Inferens ialah penerangan awal; pemerhatian ialah apa yang dilihat secara langsung (\"gelembung terbentuk\")." } },
+    { "id": "chem-01-q06", "subtopicId": "chem-01-03", "type": "match", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Match the hazard to an example chemical.", "bm": "Padankan bahaya dengan contoh bahan kimia." },
+      "pairs": [
+        { "left": { "en": "Flammable", "bm": "Mudah terbakar" }, "right": { "en": "Ethanol", "bm": "Etanol" } },
+        { "left": { "en": "Corrosive", "bm": "Mengakis" }, "right": { "en": "Concentrated sulfuric acid", "bm": "Asid sulfurik pekat" } },
+        { "left": { "en": "Toxic", "bm": "Toksik" }, "right": { "en": "Mercury", "bm": "Merkuri" } },
+        { "left": { "en": "Oxidising", "bm": "Pengoksida" }, "right": { "en": "Hydrogen peroxide", "bm": "Hidrogen peroksida" } }
+      ],
+      "explanation": { "en": "Always read the hazard label before using a chemical.", "bm": "Sentiasa baca label bahaya sebelum menggunakan bahan kimia." } },
+    { "id": "chem-01-q07", "subtopicId": "chem-01-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Some acid spills on the bench. What should be sprinkled on it first?", "bm": "Sedikit asid tertumpah di atas meja. Apakah yang perlu ditabur dahulu?" },
+      "options": [ { "en": "Sodium hydrogen carbonate powder", "bm": "Serbuk natrium hidrogen karbonat" }, { "en": "Sulfur powder", "bm": "Serbuk sulfur" }, { "en": "Sand mixed with water", "bm": "Pasir bercampur air" }, { "en": "Concentrated alkali", "bm": "Alkali pekat" } ],
+      "answer": 0,
+      "explanation": { "en": "Sodium hydrogen carbonate (a weak base) neutralises acid safely. Sulfur powder is for mercury spills.", "bm": "Natrium hidrogen karbonat (bes lemah) meneutralkan asid dengan selamat. Serbuk sulfur untuk tumpahan merkuri." } },
+    { "id": "chem-01-q08", "subtopicId": "chem-01-03", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "An experiment releases toxic chlorine gas. Where should it be done?", "bm": "Eksperimen membebaskan gas klorin yang toksik. Di manakah ia perlu dijalankan?" },
+      "options": [ { "en": "On the open bench", "bm": "Di atas meja terbuka" }, { "en": "In a fume chamber", "bm": "Dalam kebuk wasap" }, { "en": "Near an open window only", "bm": "Berhampiran tingkap terbuka sahaja" }, { "en": "In a closed cupboard", "bm": "Dalam almari tertutup" } ],
+      "answer": 1,
+      "explanation": { "en": "A fume chamber extracts harmful gases away from you.", "bm": "Kebuk wasap menyedut gas berbahaya keluar dari kawasan anda." } },
+    { "id": "chem-01-q09", "subtopicId": "chem-01-03", "type": "fill", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Spilled mercury is covered with ______ powder to make it safe.", "bm": "Merkuri yang tertumpah ditutup dengan serbuk ______ supaya selamat." },
+      "answer": ["sulfur", "sulphur"],
+      "explanation": { "en": "Sulfur reacts with mercury to form solid mercury(II) sulfide, which does not vaporise.", "bm": "Sulfur bertindak balas dengan merkuri membentuk pepejal merkuri(II) sulfida yang tidak mengewap." } },
+    { "id": "chem-01-q10", "subtopicId": "chem-01-01", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Which shows chemistry helping to solve an environmental problem?", "bm": "Yang manakah menunjukkan kimia membantu menyelesaikan masalah alam sekitar?" },
+      "options": [ { "en": "Making biodegradable plastics from starch", "bm": "Membuat plastik terbiodegradasi daripada kanji" }, { "en": "Burning rubbish in the open", "bm": "Membakar sampah secara terbuka" }, { "en": "Using more pesticide", "bm": "Menggunakan lebih banyak racun perosak" }, { "en": "Dumping waste into rivers", "bm": "Membuang sisa ke dalam sungai" } ],
+      "answer": 0,
+      "explanation": { "en": "Green chemistry designs products that break down safely and reduce pollution.", "bm": "Kimia hijau mereka bentuk produk yang terurai dengan selamat dan mengurangkan pencemaran." } }
+  ]
+}

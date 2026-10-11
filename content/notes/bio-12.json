@@ -1,0 +1,80 @@
+{
+  "chapterId": "bio-12",
+  "reviewed": false,
+  "subtopics": {
+    "bio-12-01": {
+      "keyPoints": [
+        { "en": "Coordination keeps all body systems working together in response to changes.", "bm": "Koordinasi memastikan semua sistem badan bekerjasama sebagai gerak balas terhadap perubahan." },
+        { "en": "External stimuli (light, sound, heat) and internal stimuli (blood glucose, CO₂ level) are detected by receptors.", "bm": "Rangsangan luar (cahaya, bunyi, haba) dan rangsangan dalam (glukosa darah, aras CO₂) dikesan oleh reseptor." },
+        { "en": "Pathway: stimulus → receptor → afferent pathway → integration centre → efferent pathway → effector → response.", "bm": "Laluan: rangsangan → reseptor → laluan aferen → pusat integrasi → laluan eferen → efektor → gerak balas." },
+        { "en": "Two coordinating systems: nervous (fast) and endocrine (slower, long-lasting).", "bm": "Dua sistem koordinasi: saraf (pantas) dan endokrin (lebih perlahan, tahan lama)." }
+      ],
+      "example": { "question": { "en": "Identify the receptor and effector when your pupil shrinks in bright light.", "bm": "Kenal pasti reseptor dan efektor apabila pupil mengecil dalam cahaya terang." }, "answer": { "en": "Receptor: photoreceptors in the retina. Effector: circular muscles of the iris.", "bm": "Reseptor: fotoreseptor dalam retina. Efektor: otot membulat iris." } },
+      "tip": { "en": "Effectors are always muscles or glands.", "bm": "Efektor sentiasa otot atau kelenjar." }
+    },
+    "bio-12-02": {
+      "keyPoints": [
+        { "en": "Central nervous system (CNS): brain + spinal cord. Peripheral (PNS): nerves connecting the CNS to the body.", "bm": "Sistem saraf pusat (SSP): otak + saraf tunjang. Periferi (SSPe): saraf yang menyambung SSP ke badan." },
+        { "en": "Cerebrum: thinking, learning, memory, voluntary movement, senses.", "bm": "Serebrum: berfikir, belajar, ingatan, pergerakan terkawal, deria." },
+        { "en": "Cerebellum: balance and muscle coordination. Medulla oblongata: heart rate, breathing, blood pressure.", "bm": "Serebelum: keseimbangan dan koordinasi otot. Medula oblongata: kadar degupan jantung, pernafasan, tekanan darah." },
+        { "en": "Hypothalamus: body temperature, water balance, controls the pituitary. Spinal cord: reflexes and link to the brain.", "bm": "Hipotalamus: suhu badan, keseimbangan air, mengawal pituitari. Saraf tunjang: refleks dan penghubung ke otak." },
+        { "en": "PNS divides into somatic (voluntary, skeletal muscles) and autonomic (involuntary, organs).", "bm": "SSPe terbahagi kepada somatik (terkawal, otot rangka) dan autonomi (luar kawal, organ)." }
+      ],
+      "example": { "question": { "en": "A person who drank too much alcohol walks unsteadily. Which brain part is affected?", "bm": "Seseorang yang terlalu banyak minum alkohol berjalan terhuyung-hayang. Bahagian otak manakah terjejas?" }, "answer": { "en": "The cerebellum (balance and coordination).", "bm": "Serebelum (keseimbangan dan koordinasi)." } },
+      "tip": { "en": "Medulla = 'Maintenance' of life (heart, breathing).", "bm": "Medula = 'penyelenggaraan' hidup (jantung, pernafasan)." }
+    },
+    "bio-12-03": {
+      "keyPoints": [
+        { "en": "Neurone parts: dendrites (receive), cell body (nucleus), axon (carries impulse away), myelin sheath, axon terminals.", "bm": "Bahagian neuron: dendrit (terima), badan sel (nukleus), akson (bawa impuls keluar), salut mielin, terminal akson." },
+        { "en": "Afferent (sensory) neurones carry impulses to the CNS; efferent (motor) neurones carry them to effectors; interneurones link them.", "bm": "Neuron aferen (deria) membawa impuls ke SSP; neuron eferen (motor) membawanya ke efektor; neuron perantaraan menghubungkannya." },
+        { "en": "Myelin sheath insulates and speeds up impulses (jumping between nodes of Ranvier).", "bm": "Salut mielin menebat dan mempercepat impuls (melompat antara nod Ranvier)." },
+        { "en": "At a synapse, neurotransmitters (e.g. acetylcholine) diffuse across the cleft and trigger an impulse in the next neurone.", "bm": "Di sinaps, neurotransmiter (cth. asetilkolina) meresap merentasi celah dan mencetuskan impuls dalam neuron berikutnya." },
+        { "en": "Synapses make impulses travel one way and allow integration of signals.", "bm": "Sinaps memastikan impuls bergerak sehala dan membolehkan integrasi isyarat." }
+      ],
+      "example": { "question": { "en": "Why do impulses travel in one direction only across a synapse?", "bm": "Mengapa impuls bergerak sehala sahaja merentasi sinaps?" }, "answer": { "en": "Only the presynaptic side releases neurotransmitters, and only the postsynaptic side has receptors.", "bm": "Hanya bahagian prasinaps membebaskan neurotransmiter, dan hanya bahagian pascasinaps mempunyai reseptor." } },
+      "tip": { "en": "Draw and label a neurone and a synapse — both are common diagram questions.", "bm": "Lukis dan label neuron dan sinaps — kedua-duanya soalan rajah yang biasa." }
+    },
+    "bio-12-04": {
+      "keyPoints": [
+        { "en": "Voluntary actions are conscious and controlled by the cerebrum (walking, writing).", "bm": "Tindakan terkawal adalah sedar dan dikawal oleh serebrum (berjalan, menulis)." },
+        { "en": "Involuntary actions are automatic: controlled by the medulla (heartbeat, breathing) or the spinal cord (reflexes).", "bm": "Tindakan luar kawal adalah automatik: dikawal oleh medula (degupan jantung, pernafasan) atau saraf tunjang (refleks)." },
+        { "en": "Reflex arc: receptor → afferent neurone → interneurone in spinal cord → efferent neurone → effector.", "bm": "Arka refleks: reseptor → neuron aferen → neuron perantaraan dalam saraf tunjang → neuron eferen → efektor." },
+        { "en": "Knee-jerk reflex has only 2 neurones (no interneurone); withdrawal reflex has 3.", "bm": "Refleks sentakan lutut hanya ada 2 neuron (tiada neuron perantaraan); refleks tarik balik ada 3." },
+        { "en": "Reflexes protect the body by responding fast without waiting for the brain.", "bm": "Refleks melindungi badan dengan bertindak pantas tanpa menunggu otak." }
+      ],
+      "example": { "question": { "en": "Why do you feel pain only after pulling your hand away from a hot object?", "bm": "Mengapa anda hanya merasa sakit selepas menarik tangan dari objek panas?" }, "answer": { "en": "The reflex goes through the spinal cord first; the impulse to the brain (pain) arrives slightly later.", "bm": "Refleks melalui saraf tunjang dahulu; impuls ke otak (sakit) tiba sedikit kemudian." } },
+      "tip": { "en": "Always mention the spinal cord as the integration centre for a reflex.", "bm": "Sentiasa nyatakan saraf tunjang sebagai pusat integrasi refleks." }
+    },
+    "bio-12-05": {
+      "keyPoints": [
+        { "en": "Alzheimer's disease: brain cells die → memory loss, confusion (mostly elderly).", "bm": "Penyakit Alzheimer: sel otak mati → hilang ingatan, keliru (kebanyakannya warga emas)." },
+        { "en": "Parkinson's disease: lack of dopamine → tremors, stiff muscles, slow movement.", "bm": "Penyakit Parkinson: kekurangan dopamina → gegaran, otot kaku, pergerakan perlahan." },
+        { "en": "Multiple sclerosis: myelin sheath damaged → slow or blocked impulses.", "bm": "Sklerosis berbilang: salut mielin rosak → impuls perlahan atau tersekat." },
+        { "en": "Drug and alcohol abuse affect synapses, slow reactions and can cause addiction and brain damage.", "bm": "Penyalahgunaan dadah dan alkohol menjejaskan sinaps, melambatkan tindak balas dan boleh menyebabkan ketagihan serta kerosakan otak." }
+      ],
+      "example": { "question": { "en": "Why is it dangerous to drive after taking drugs or alcohol?", "bm": "Mengapa berbahaya memandu selepas mengambil dadah atau alkohol?" }, "answer": { "en": "They slow transmission at synapses, so reaction time increases and coordination is poor.", "bm": "Ia melambatkan penghantaran di sinaps, jadi masa tindak balas bertambah dan koordinasi lemah." } },
+      "tip": { "en": "Link each disease to the part of the nervous system damaged.", "bm": "Kaitkan setiap penyakit dengan bahagian sistem saraf yang rosak." }
+    },
+    "bio-12-06": {
+      "keyPoints": [
+        { "en": "Endocrine glands are ductless; hormones travel in the blood to target organs.", "bm": "Kelenjar endokrin tiada duktus; hormon bergerak dalam darah ke organ sasaran." },
+        { "en": "Pituitary ('master gland'): growth hormone, TSH, FSH, LH, ADH.", "bm": "Pituitari ('kelenjar induk'): hormon pertumbuhan, TSH, FSH, LH, ADH." },
+        { "en": "Thyroid: thyroxine (metabolism). Adrenal: adrenaline (fight or flight). Pancreas: insulin and glucagon (blood glucose).", "bm": "Tiroid: tiroksina (metabolisme). Adrenal: adrenalina (lawan atau lari). Pankreas: insulin dan glukagon (glukosa darah)." },
+        { "en": "Ovaries: oestrogen, progesterone. Testes: testosterone.", "bm": "Ovari: estrogen, progesteron. Testis: testosteron." },
+        { "en": "Most hormones are controlled by negative feedback.", "bm": "Kebanyakan hormon dikawal oleh suap balik negatif." }
+      ],
+      "example": { "question": { "en": "Describe the effects of adrenaline during a stressful situation.", "bm": "Huraikan kesan adrenalina dalam situasi tertekan." }, "answer": { "en": "Faster heart rate and breathing, more glucose in blood, pupils dilate, blood diverted to muscles.", "bm": "Kadar degupan jantung dan pernafasan lebih cepat, lebih glukosa dalam darah, pupil membesar, darah dialihkan ke otot." } },
+      "tip": { "en": "Learn gland → hormone → target → effect as a 4-column table.", "bm": "Pelajari kelenjar → hormon → sasaran → kesan sebagai jadual 4 lajur." }
+    },
+    "bio-12-07": {
+      "keyPoints": [
+        { "en": "Diabetes mellitus: too little insulin (type 1) or cells not responding (type 2) → high blood glucose.", "bm": "Diabetes melitus: terlalu sedikit insulin (jenis 1) atau sel tidak bergerak balas (jenis 2) → glukosa darah tinggi." },
+        { "en": "Growth hormone: too much in childhood → gigantism; too little → dwarfism; too much in adults → acromegaly.", "bm": "Hormon pertumbuhan: terlalu banyak semasa kanak-kanak → gigantisme; terlalu sedikit → kekerdilan; terlalu banyak semasa dewasa → akromegali." },
+        { "en": "Thyroxine: too little → cretinism (children), myxoedema (adults); too much → hyperthyroidism. Iodine deficiency → goitre.", "bm": "Tiroksina: terlalu sedikit → kretinisme (kanak-kanak), miksedema (dewasa); terlalu banyak → hipertiroidisme. Kekurangan iodin → goiter." },
+        { "en": "ADH deficiency → diabetes insipidus (large volumes of dilute urine).", "bm": "Kekurangan ADH → diabetes insipidus (air kencing cair dalam isi padu besar)." }
+      ],
+      "example": { "question": { "en": "Why is iodised salt sold in Malaysia?", "bm": "Mengapa garam beriodin dijual di Malaysia?" }, "answer": { "en": "Iodine is needed to make thyroxine; it prevents goitre and cretinism.", "bm": "Iodin diperlukan untuk menghasilkan tiroksina; ia mencegah goiter dan kretinisme." } },
+      "tip": { "en": "For each disorder: hormone, too much or too little, and the symptoms.", "bm": "Bagi setiap gangguan: hormon, terlalu banyak atau sedikit, dan simptom." }
+    }
+  }
+}

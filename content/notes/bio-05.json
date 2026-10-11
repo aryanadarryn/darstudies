@@ -1,0 +1,38 @@
+{
+  "chapterId": "bio-05",
+  "reviewed": false,
+  "subtopics": {
+    "bio-05-01": {
+      "keyPoints": [
+        { "en": "Metabolism is the total of all chemical reactions in an organism, controlled by enzymes.", "bm": "Metabolisme ialah jumlah semua tindak balas kimia dalam organisma, dikawal oleh enzim." },
+        { "en": "Anabolism: building larger molecules from smaller ones, needs energy (photosynthesis, protein synthesis, glycogen formation).", "bm": "Anabolisme: membina molekul besar daripada molekul kecil, memerlukan tenaga (fotosintesis, sintesis protein, pembentukan glikogen)." },
+        { "en": "Catabolism: breaking larger molecules into smaller ones, releases energy (respiration, digestion).", "bm": "Katabolisme: memecahkan molekul besar kepada kecil, membebaskan tenaga (respirasi, pencernaan)." },
+        { "en": "Metabolic rate depends on age, gender, activity, body size and hormones (e.g. thyroxine).", "bm": "Kadar metabolisme bergantung pada umur, jantina, aktiviti, saiz badan dan hormon (cth. tiroksina)." }
+      ],
+      "example": { "question": { "en": "Is the formation of glycogen in the liver anabolism or catabolism?", "bm": "Adakah pembentukan glikogen dalam hati anabolisme atau katabolisme?" }, "answer": { "en": "Anabolism — many glucose molecules join to form glycogen.", "bm": "Anabolisme — banyak molekul glukosa bergabung membentuk glikogen." } },
+      "tip": { "en": "'Ana' = build (think 'anabolic steroids build muscle').", "bm": "'Ana' = bina (ingat 'steroid anabolik membina otot')." }
+    },
+    "bio-05-02": {
+      "keyPoints": [
+        { "en": "Enzymes are proteins that act as biological catalysts: they speed up reactions without being used up.", "bm": "Enzim ialah protein yang bertindak sebagai mangkin biologi: mempercepat tindak balas tanpa habis digunakan." },
+        { "en": "Each enzyme is specific to one substrate — lock-and-key hypothesis via the active site.", "bm": "Setiap enzim spesifik kepada satu substrat — hipotesis mangga dan kunci melalui tapak aktif." },
+        { "en": "Temperature: activity rises to an optimum (~37 °C) then falls as the enzyme denatures.", "bm": "Suhu: aktiviti meningkat hingga optimum (~37 °C) kemudian menurun apabila enzim ternyahasli." },
+        { "en": "pH: each enzyme has an optimum pH (pepsin 2, amylase 7, trypsin 8); extreme pH denatures.", "bm": "pH: setiap enzim mempunyai pH optimum (pepsin 2, amilase 7, tripsin 8); pH melampau menyahaslikan." },
+        { "en": "Higher substrate or enzyme concentration increases rate until another factor becomes limiting.", "bm": "Kepekatan substrat atau enzim yang lebih tinggi meningkatkan kadar sehingga faktor lain menjadi penghad." }
+      ],
+      "example": { "question": { "en": "Why does chewing rice for a long time make it taste sweet?", "bm": "Mengapa mengunyah nasi lama-lama menjadikannya terasa manis?" }, "answer": { "en": "Salivary amylase hydrolyses starch into maltose, a sugar.", "bm": "Amilase liur menghidrolisis kanji kepada maltosa, sejenis gula." } },
+      "tip": { "en": "Low temperature = inactive (reversible). High temperature = denatured (permanent).", "bm": "Suhu rendah = tidak aktif (boleh berbalik). Suhu tinggi = ternyahasli (kekal)." }
+    },
+    "bio-05-03": {
+      "keyPoints": [
+        { "en": "Food: papain and bromelain tenderise meat; pectinase clears juices; rennin makes cheese; lactase makes lactose-free milk; amylase in baking.", "bm": "Makanan: papain dan bromelain melembutkan daging; pektinase menjernihkan jus; renin membuat keju; laktase membuat susu tanpa laktosa; amilase dalam pembakaran." },
+        { "en": "Household: biological detergents contain protease and lipase to remove stains at low temperatures.", "bm": "Rumah: detergen biologi mengandungi protease dan lipase untuk menanggalkan kotoran pada suhu rendah." },
+        { "en": "Industry: trypsin softens leather; cellulase in textile and paper processing.", "bm": "Industri: tripsin melembutkan kulit; selulase dalam pemprosesan tekstil dan kertas." },
+        { "en": "Medicine: glucose oxidase in diabetic test strips; enzymes in diagnostic kits.", "bm": "Perubatan: glukosa oksidase dalam jalur ujian diabetes; enzim dalam kit diagnostik." },
+        { "en": "Advantages: specific, work at low temperature (save energy), reusable, biodegradable.", "bm": "Kelebihan: spesifik, berfungsi pada suhu rendah (jimat tenaga), boleh diguna semula, terbiodegradasi." }
+      ],
+      "example": { "question": { "en": "Why does raw pineapple stop jelly from setting?", "bm": "Mengapa nanas mentah menghalang agar-agar daripada membeku?" }, "answer": { "en": "Bromelain (a protease) digests the gelatin protein. Canned pineapple is heated, so the enzyme is denatured.", "bm": "Bromelain (protease) mencerna protein gelatin. Nanas dalam tin telah dipanaskan, jadi enzim ternyahasli." } },
+      "tip": { "en": "For each use, name the enzyme, its substrate and the benefit.", "bm": "Bagi setiap kegunaan, namakan enzim, substratnya dan manfaatnya." }
+    }
+  }
+}

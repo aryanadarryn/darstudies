@@ -1,0 +1,91 @@
+{
+  "chapterId": "addmath-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Surveyors measure the width of a river without crossing it. Pilots work out how far they are from two airports. When a triangle has no right angle, Pythagoras can't help — but the sine and cosine rules can.",
+      "bm": "Juruukur mengukur lebar sungai tanpa menyeberanginya. Juruterbang mengira jarak dari dua lapangan terbang. Apabila segi tiga tiada sudut tegak, Pythagoras tidak dapat membantu — tetapi petua sinus dan kosinus boleh."
+    },
+    "bigIdeas": [
+      { "en": "Sine rule: a/sin A = b/sin B = c/sin C — use with a side and its opposite angle.", "bm": "Petua sinus: a/sin A = b/sin B = c/sin C — guna dengan sisi dan sudut bertentangannya." },
+      { "en": "Cosine rule: a² = b² + c² − 2bc cos A — use with two sides and the included angle, or three sides.", "bm": "Petua kosinus: a² = b² + c² − 2bc cos A — guna dengan dua sisi dan sudut kandung, atau tiga sisi." },
+      { "en": "Area = ½ab sin C, or Heron's formula with three sides.", "bm": "Luas = ½ab sin C, atau rumus Heron dengan tiga sisi." },
+      { "en": "The ambiguous case: two different triangles can fit the same SSA data.", "bm": "Kes ambiguiti: dua segi tiga berbeza boleh memenuhi data SSA yang sama." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Given", "bm": "Diberi" }, { "en": "Use", "bm": "Guna" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "2 angles + 1 side (AAS/ASA)", "bm": "2 sudut + 1 sisi (SSD/SDS)" }, { "en": "Sine rule", "bm": "Petua sinus" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "2 sides + non-included angle (SSA)", "bm": "2 sisi + sudut bukan kandung (SSA)" }, { "en": "Sine rule (check ambiguous case)", "bm": "Petua sinus (semak kes ambiguiti)" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "2 sides + included angle (SAS)", "bm": "2 sisi + sudut kandung (SKS)" }, { "en": "Cosine rule", "bm": "Petua kosinus" } ] },
+          { "label": { "en": "4", "bm": "4" }, "cells": [ { "en": "3 sides (SSS)", "bm": "3 sisi (SSS)" }, { "en": "Cosine rule for angles; Heron for area", "bm": "Petua kosinus untuk sudut; Heron untuk luas" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Sine rule", "bm": "Petua sinus" }, "definition": { "en": "a/sin A = b/sin B = c/sin C.", "bm": "a/sin A = b/sin B = c/sin C." } },
+      { "term": { "en": "Cosine rule", "bm": "Petua kosinus" }, "definition": { "en": "a² = b² + c² − 2bc cos A.", "bm": "a² = b² + c² − 2bc cos A." } },
+      { "term": { "en": "Included angle", "bm": "Sudut kandung" }, "definition": { "en": "The angle between two given sides.", "bm": "Sudut di antara dua sisi yang diberi." } },
+      { "term": { "en": "Ambiguous case", "bm": "Kes ambiguiti" }, "definition": { "en": "SSA data with the angle acute and the opposite side shorter — two possible triangles.", "bm": "Data SSA dengan sudut tirus dan sisi bertentangan lebih pendek — dua segi tiga mungkin." } },
+      { "term": { "en": "Heron's formula", "bm": "Rumus Heron" }, "definition": { "en": "Area = √[s(s − a)(s − b)(s − c)], s = (a + b + c)/2.", "bm": "Luas = √[s(s − a)(s − b)(s − c)], s = (a + b + c)/2." } }
+    ],
+    "formulaIds": ["am-sine-rule", "am-cosine-rule", "am-triangle-area", "am-heron"],
+    "workedExample": {
+      "question": { "en": "In triangle ABC, b = 5 cm, c = 7 cm and A = 60°. Find a and the area.", "bm": "Dalam segi tiga ABC, b = 5 cm, c = 7 cm dan A = 60°. Cari a dan luasnya." },
+      "steps": [
+        { "en": "Two sides + included angle → cosine rule: a² = 5² + 7² − 2(5)(7) cos 60°.", "bm": "Dua sisi + sudut kandung → petua kosinus: a² = 5² + 7² − 2(5)(7) kos 60°." },
+        { "en": "a² = 25 + 49 − 35 = 39 → a = √39 ≈ 6.245 cm.", "bm": "a² = 25 + 49 − 35 = 39 → a = √39 ≈ 6.245 cm." },
+        { "en": "Area = ½ × 5 × 7 × sin 60° = 17.5 × 0.866 ≈ 15.16 cm².", "bm": "Luas = ½ × 5 × 7 × sin 60° = 17.5 × 0.866 ≈ 15.16 cm²." }
+      ],
+      "answer": { "en": "a ≈ 6.245 cm; area ≈ 15.16 cm²", "bm": "a ≈ 6.245 cm; luas ≈ 15.16 cm²" }
+    }
+  },
+  "questions": [
+    { "id": "addmath-09-q01", "subtopicId": "addmath-09-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In triangle ABC, a = 10 cm, A = 30° and B = 45°. Find b (2 d.p.).", "bm": "Dalam segi tiga ABC, a = 10 cm, A = 30° dan B = 45°. Cari b (2 t.p.)." },
+      "answer": 14.14, "tolerance": 0.005, "unit": "cm",
+      "explanation": { "en": "b = a sin B / sin A = 10 × 0.7071 / 0.5 = 14.14 cm.", "bm": "b = a sin B / sin A = 10 × 0.7071 / 0.5 = 14.14 cm." } },
+    { "id": "addmath-09-q02", "subtopicId": "addmath-09-01", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "When does the ambiguous case of the sine rule occur?", "bm": "Bilakah kes ambiguiti petua sinus berlaku?" },
+      "options": [ { "en": "Two sides and a non-included acute angle are given, and the side opposite the angle is shorter than the other side", "bm": "Dua sisi dan sudut tirus bukan kandung diberi, dan sisi bertentangan sudut itu lebih pendek daripada sisi yang lain" }, { "en": "Three sides are given", "bm": "Tiga sisi diberi" }, { "en": "Two angles and one side are given", "bm": "Dua sudut dan satu sisi diberi" }, { "en": "The triangle is right-angled", "bm": "Segi tiga bersudut tegak" } ],
+      "answer": 0,
+      "explanation": { "en": "The unknown angle could be acute or obtuse (θ or 180° − θ), giving two triangles.", "bm": "Sudut yang dicari boleh tirus atau cakah (θ atau 180° − θ), menghasilkan dua segi tiga." } },
+    { "id": "addmath-09-q03", "subtopicId": "addmath-09-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "b = 5 cm, c = 7 cm, A = 60°. Find a (3 d.p.).", "bm": "b = 5 cm, c = 7 cm, A = 60°. Cari a (3 t.p.)." },
+      "answer": 6.245, "tolerance": 0.002, "unit": "cm",
+      "explanation": { "en": "a² = 25 + 49 − 70 cos 60° = 39 → a = 6.245 cm.", "bm": "a² = 25 + 49 − 70 kos 60° = 39 → a = 6.245 cm." } },
+    { "id": "addmath-09-q04", "subtopicId": "addmath-09-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A triangle has sides a = 7, b = 5, c = 8. Find angle A in degrees.", "bm": "Segi tiga mempunyai sisi a = 7, b = 5, c = 8. Cari sudut A dalam darjah." },
+      "answer": 60, "tolerance": 0.005, "unit": "°",
+      "explanation": { "en": "cos A = (25 + 64 − 49)/(2 × 5 × 8) = 40/80 = 0.5 → A = 60°.", "bm": "kos A = (25 + 64 − 49)/(2 × 5 × 8) = 40/80 = 0.5 → A = 60°." } },
+    { "id": "addmath-09-q05", "subtopicId": "addmath-09-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Given three sides of a triangle, which rule finds an angle?", "bm": "Diberi tiga sisi segi tiga, petua manakah mencari sudut?" },
+      "options": [ { "en": "Cosine rule", "bm": "Petua kosinus" }, { "en": "Sine rule", "bm": "Petua sinus" }, { "en": "Pythagoras only", "bm": "Pythagoras sahaja" }, { "en": "Area formula", "bm": "Rumus luas" } ],
+      "answer": 0,
+      "explanation": { "en": "Rearrange: cos A = (b² + c² − a²)/(2bc).", "bm": "Susun semula: kos A = (b² + c² − a²)/(2bc)." } },
+    { "id": "addmath-09-q06", "subtopicId": "addmath-09-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the area of a triangle with sides 5 cm and 7 cm and included angle 60° (2 d.p.).", "bm": "Cari luas segi tiga dengan sisi 5 cm dan 7 cm serta sudut kandung 60° (2 t.p.)." },
+      "answer": 15.16, "tolerance": 0.005, "unit": "cm²",
+      "explanation": { "en": "½ × 5 × 7 × sin 60° ≈ 15.16 cm².", "bm": "½ × 5 × 7 × sin 60° ≈ 15.16 cm²." } },
+    { "id": "addmath-09-q07", "subtopicId": "addmath-09-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Use Heron's formula to find the area of a triangle with sides 3, 4 and 5.", "bm": "Guna rumus Heron untuk mencari luas segi tiga dengan sisi 3, 4 dan 5." },
+      "answer": 6, "tolerance": 0, "unit": "units²",
+      "explanation": { "en": "s = 6; √(6 × 3 × 2 × 1) = √36 = 6.", "bm": "s = 6; √(6 × 3 × 2 × 1) = √36 = 6." } },
+    { "id": "addmath-09-q08", "subtopicId": "addmath-09-04", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Two roads leave a junction at an angle of 120°. Ali walks 3 km along one, Ben walks 5 km along the other. How far apart are they (km)?", "bm": "Dua jalan bermula dari simpang dengan sudut 120°. Ali berjalan 3 km di satu jalan, Ben 5 km di jalan lain. Berapa jauh jarak antara mereka (km)?" },
+      "answer": 7, "tolerance": 0.005, "unit": "km",
+      "explanation": { "en": "d² = 9 + 25 − 2(3)(5) cos 120° = 34 + 15 = 49 → d = 7 km.", "bm": "d² = 9 + 25 − 2(3)(5) kos 120° = 34 + 15 = 49 → d = 7 km." } },
+    { "id": "addmath-09-q09", "subtopicId": "addmath-09-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which data needs the sine rule?", "bm": "Data manakah memerlukan petua sinus?" },
+      "options": [ { "en": "A = 40°, B = 65°, a = 8 cm", "bm": "A = 40°, B = 65°, a = 8 cm" }, { "en": "a = 5, b = 6, c = 7", "bm": "a = 5, b = 6, c = 7" }, { "en": "b = 4, c = 6, A = 50°", "bm": "b = 4, c = 6, A = 50°" }, { "en": "None", "bm": "Tiada" } ],
+      "answer": 0,
+      "explanation": { "en": "You have a side and its opposite angle (a, A) plus another angle — sine rule.", "bm": "Anda ada sisi dan sudut bertentangannya (a, A) serta sudut lain — petua sinus." } },
+    { "id": "addmath-09-q10", "subtopicId": "addmath-09-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "In a triangle the angles add up to…", "bm": "Dalam segi tiga, hasil tambah sudut ialah…" },
+      "options": [ { "en": "180°", "bm": "180°" }, { "en": "90°", "bm": "90°" }, { "en": "360°", "bm": "360°" }, { "en": "270°", "bm": "270°" } ],
+      "answer": 0,
+      "explanation": { "en": "Use it to find the third angle before applying the sine rule.", "bm": "Gunakannya untuk mencari sudut ketiga sebelum menggunakan petua sinus." } }
+  ]
+}

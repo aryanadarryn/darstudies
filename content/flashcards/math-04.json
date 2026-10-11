@@ -1,0 +1,15 @@
+{
+  "chapterId": "math-04",
+  "cards": [
+    { "id": "math-04-f01", "subtopicId": "math-04-01", "front": { "en": "A ∩ B", "bm": "A ∩ B" }, "back": { "en": "Intersection — elements in both A and B", "bm": "Persilangan — unsur dalam A dan B" } },
+    { "id": "math-04-f02", "subtopicId": "math-04-01", "front": { "en": "Complement of A ∩ B", "bm": "Pelengkap A ∩ B" }, "back": { "en": "(A ∩ B)′ — everything except the overlap", "bm": "(A ∩ B)′ — semua kecuali bahagian bertindih" } },
+    { "id": "math-04-f03", "subtopicId": "math-04-01", "front": { "en": "Disjoint sets", "bm": "Set terpisah" }, "back": { "en": "A ∩ B = ∅ — no common elements", "bm": "A ∩ B = ∅ — tiada unsur sepunya" } },
+    { "id": "math-04-f04", "subtopicId": "math-04-02", "front": { "en": "A ∪ B", "bm": "A ∪ B" }, "back": { "en": "Union — elements in A or B or both", "bm": "Kesatuan — unsur dalam A atau B atau kedua-duanya" } },
+    { "id": "math-04-f05", "subtopicId": "math-04-02", "front": { "en": "n(A ∪ B)", "bm": "n(A ∪ B)" }, "back": { "en": "n(A) + n(B) − n(A ∩ B)", "bm": "n(A) + n(B) − n(A ∩ B)" } },
+    { "id": "math-04-f06", "subtopicId": "math-04-02", "front": { "en": "(A ∪ B)′", "bm": "(A ∪ B)′" }, "back": { "en": "Outside both A and B: n(ξ) − n(A ∪ B)", "bm": "Di luar A dan B: n(ξ) − n(A ∪ B)" } },
+    { "id": "math-04-f07", "subtopicId": "math-04-03", "front": { "en": "Combined operations", "bm": "Gabungan operasi" }, "back": { "en": "Work out brackets first, e.g. (A ∪ B) ∩ C", "bm": "Selesaikan kurungan dahulu, cth. (A ∪ B) ∩ C" } },
+    { "id": "math-04-f08", "subtopicId": "math-04-03", "front": { "en": "Solving Venn word problems", "bm": "Menyelesaikan masalah Venn berayat" }, "back": { "en": "Fill the overlap first, then 'only' regions, then the outside", "bm": "Isi bahagian bertindih dahulu, kemudian rantau 'sahaja', kemudian bahagian luar" } },
+    { "id": "math-04-f09", "subtopicId": "math-04-01", "front": { "en": "If A ⊂ B", "bm": "Jika A ⊂ B" }, "back": { "en": "A ∩ B = A and A ∪ B = B", "bm": "A ∩ B = A dan A ∪ B = B" } },
+    { "id": "math-04-f10", "subtopicId": "math-04-03", "front": { "en": "Shading (A ∩ B)′ vs A′ ∩ B′", "bm": "Melorek (A ∩ B)′ vs A′ ∩ B′" }, "back": { "en": "(A ∩ B)′: all but the overlap. A′ ∩ B′: only outside both circles", "bm": "(A ∩ B)′: semua kecuali bertindih. A′ ∩ B′: hanya di luar kedua-dua bulatan" } }
+  ]
+}

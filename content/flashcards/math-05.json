@@ -1,0 +1,15 @@
+{
+  "chapterId": "math-05",
+  "cards": [
+    { "id": "math-05-f01", "subtopicId": "math-05-01", "front": { "en": "Graph", "bm": "Graf" }, "back": { "en": "A set of vertices (points) connected by edges (lines)", "bm": "Set bucu (titik) yang disambung oleh tepi (garis)" } },
+    { "id": "math-05-f02", "subtopicId": "math-05-01", "front": { "en": "Degree of a vertex", "bm": "Darjah bucu" }, "back": { "en": "Number of edges meeting it; a loop counts 2", "bm": "Bilangan tepi yang bertemu dengannya; gelung dikira 2" } },
+    { "id": "math-05-f03", "subtopicId": "math-05-01", "front": { "en": "Sum of degrees", "bm": "Hasil tambah darjah" }, "back": { "en": "Σd = 2E (always even)", "bm": "Σd = 2E (sentiasa genap)" } },
+    { "id": "math-05-f04", "subtopicId": "math-05-01", "front": { "en": "Simple graph", "bm": "Graf mudah" }, "back": { "en": "No loops, no multiple edges", "bm": "Tiada gelung, tiada berbilang tepi" } },
+    { "id": "math-05-f05", "subtopicId": "math-05-01", "front": { "en": "Directed graph", "bm": "Graf terarah" }, "back": { "en": "Edges have arrows showing direction (one-way roads, followers)", "bm": "Tepi mempunyai anak panah menunjukkan arah (jalan sehala, pengikut)" } },
+    { "id": "math-05-f06", "subtopicId": "math-05-01", "front": { "en": "Weighted graph", "bm": "Graf berpemberat" }, "back": { "en": "Edges carry values (distance, cost, time)", "bm": "Tepi membawa nilai (jarak, kos, masa)" } },
+    { "id": "math-05-f07", "subtopicId": "math-05-01", "front": { "en": "Tree", "bm": "Pokok" }, "back": { "en": "Connected, no cycles, E = V − 1", "bm": "Terkait, tiada kitaran, E = V − 1" } },
+    { "id": "math-05-f08", "subtopicId": "math-05-01", "front": { "en": "Subgraph", "bm": "Subgraf" }, "back": { "en": "Some vertices and edges taken from a graph", "bm": "Sebahagian bucu dan tepi yang diambil daripada graf" } },
+    { "id": "math-05-f09", "subtopicId": "math-05-01", "front": { "en": "Shortest path", "bm": "Laluan terpendek" }, "back": { "en": "Compare total weights of possible routes; fewest edges is not always shortest", "bm": "Bandingkan jumlah pemberat laluan yang mungkin; tepi paling sedikit tidak semestinya terpendek" } },
+    { "id": "math-05-f10", "subtopicId": "math-05-01", "front": { "en": "Real-life networks", "bm": "Rangkaian dalam kehidupan" }, "back": { "en": "Transport maps, social media, electricity grids, the internet, food webs", "bm": "Peta pengangkutan, media sosial, grid elektrik, internet, siratan makanan" } }
+  ]
+}

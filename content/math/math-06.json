@@ -1,0 +1,96 @@
+{
+  "chapterId": "math-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A bakery has RM300 and 20 hours a week to make kuih and cakes. Which combinations are possible? Linear inequalities draw the 'allowed region' on a graph so you can see every option at once.",
+      "bm": "Sebuah kedai roti mempunyai RM300 dan 20 jam seminggu untuk membuat kuih dan kek. Gabungan manakah yang mungkin? Ketaksamaan linear melukis 'rantau dibenarkan' pada graf supaya anda dapat melihat semua pilihan sekali gus."
+    },
+    "bigIdeas": [
+      { "en": "A linear inequality in two variables (e.g. y > 2x + 1) is shown as a region on a graph.", "bm": "Ketaksamaan linear dua pemboleh ubah (cth. y > 2x + 1) ditunjukkan sebagai rantau pada graf." },
+      { "en": "Use a solid line for ≤ or ≥ and a dashed line for < or >.", "bm": "Guna garis padu untuk ≤ atau ≥ dan garis putus-putus untuk < atau >." },
+      { "en": "y > mx + c is above the line; y < mx + c is below it.", "bm": "y > mx + c di atas garis; y < mx + c di bawahnya." },
+      { "en": "A system of inequalities is satisfied in the region where all shaded areas overlap.", "bm": "Sistem ketaksamaan dipenuhi dalam rantau di mana semua kawasan berlorek bertindih." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Inequality", "bm": "Ketaksamaan" }, { "en": "Line", "bm": "Garis" }, { "en": "Region", "bm": "Rantau" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "y > mx + c", "bm": "y > mx + c" }, { "en": "dashed", "bm": "putus-putus" }, { "en": "above", "bm": "atas" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "y ≥ mx + c", "bm": "y ≥ mx + c" }, { "en": "solid", "bm": "padu" }, { "en": "above (including line)", "bm": "atas (termasuk garis)" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "y < mx + c", "bm": "y < mx + c" }, { "en": "dashed", "bm": "putus-putus" }, { "en": "below", "bm": "bawah" } ] },
+          { "label": { "en": "4", "bm": "4" }, "cells": [ { "en": "x ≥ a", "bm": "x ≥ a" }, { "en": "solid vertical", "bm": "padu menegak" }, { "en": "right", "bm": "kanan" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Linear inequality", "bm": "Ketaksamaan linear" }, "definition": { "en": "Relation using <, >, ≤ or ≥ with variables of power 1.", "bm": "Hubungan menggunakan <, >, ≤ atau ≥ dengan pemboleh ubah berkuasa 1." } },
+      { "term": { "en": "Region", "bm": "Rantau" }, "definition": { "en": "Area on a graph containing all points that satisfy the inequality.", "bm": "Kawasan pada graf yang mengandungi semua titik yang memenuhi ketaksamaan." } },
+      { "term": { "en": "Solid line", "bm": "Garis padu" }, "definition": { "en": "Points on the line are included (≤, ≥).", "bm": "Titik pada garis termasuk (≤, ≥)." } },
+      { "term": { "en": "Dashed line", "bm": "Garis putus-putus" }, "definition": { "en": "Points on the line are not included (<, >).", "bm": "Titik pada garis tidak termasuk (<, >)." } },
+      { "term": { "en": "System of inequalities", "bm": "Sistem ketaksamaan" }, "definition": { "en": "Two or more inequalities satisfied together.", "bm": "Dua atau lebih ketaksamaan yang dipenuhi bersama." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Does the point (1, 2) satisfy the system y ≤ x + 2, y ≥ 1 and x ≤ 3?", "bm": "Adakah titik (1, 2) memenuhi sistem y ≤ x + 2, y ≥ 1 dan x ≤ 3?" },
+      "steps": [
+        { "en": "y ≤ x + 2: 2 ≤ 3 ✓", "bm": "y ≤ x + 2: 2 ≤ 3 ✓" },
+        { "en": "y ≥ 1: 2 ≥ 1 ✓", "bm": "y ≥ 1: 2 ≥ 1 ✓" },
+        { "en": "x ≤ 3: 1 ≤ 3 ✓", "bm": "x ≤ 3: 1 ≤ 3 ✓" }
+      ],
+      "answer": { "en": "Yes — it satisfies all three, so it lies in the shaded region.", "bm": "Ya — ia memenuhi ketiga-tiganya, jadi terletak dalam rantau berlorek." }
+    }
+  },
+  "questions": [
+    { "id": "math-06-q01", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which type of line is used for y < 2x + 1?", "bm": "Jenis garis manakah digunakan untuk y < 2x + 1?" },
+      "options": [ { "en": "Dashed line", "bm": "Garis putus-putus" }, { "en": "Solid line", "bm": "Garis padu" }, { "en": "No line", "bm": "Tiada garis" }, { "en": "Curved line", "bm": "Garis lengkung" } ],
+      "answer": 0,
+      "explanation": { "en": "< and > exclude the line, so it's dashed.", "bm": "< dan > tidak termasuk garis, jadi garis putus-putus." } },
+    { "id": "math-06-q02", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "The region for y ≥ 2x + 1 is…", "bm": "Rantau bagi y ≥ 2x + 1 ialah…" },
+      "options": [ { "en": "on and above the line", "bm": "pada dan di atas garis" }, { "en": "below the line only", "bm": "di bawah garis sahaja" }, { "en": "on the line only", "bm": "pada garis sahaja" }, { "en": "to the left of the y-axis", "bm": "di kiri paksi-y" } ],
+      "answer": 0,
+      "explanation": { "en": "≥ includes the line (solid) and the region above it.", "bm": "≥ termasuk garis (padu) dan rantau di atasnya." } },
+    { "id": "math-06-q03", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Does the point (2, 3) satisfy y > x?", "bm": "Adakah titik (2, 3) memenuhi y > x?" },
+      "options": [ { "en": "Yes", "bm": "Ya" }, { "en": "No", "bm": "Tidak" } ],
+      "answer": 0,
+      "explanation": { "en": "3 > 2 is true.", "bm": "3 > 2 adalah benar." } },
+    { "id": "math-06-q04", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which point lies in the region y < −x + 4?", "bm": "Titik manakah terletak dalam rantau y < −x + 4?" },
+      "options": [ { "en": "(1, 1)", "bm": "(1, 1)" }, { "en": "(3, 3)", "bm": "(3, 3)" }, { "en": "(2, 2)", "bm": "(2, 2)" }, { "en": "(4, 1)", "bm": "(4, 1)" } ],
+      "answer": 0,
+      "explanation": { "en": "(1, 1): 1 < 3 ✓. (2, 2): 2 < 2 ✗ (on the line, excluded). (3, 3): 3 < 1 ✗. (4, 1): 1 < 0 ✗.", "bm": "(1, 1): 1 < 3 ✓. (2, 2): 2 < 2 ✗ (pada garis, tidak termasuk). (3, 3): 3 < 1 ✗. (4, 1): 1 < 0 ✗." } },
+    { "id": "math-06-q05", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "'Aryana's savings (y) must be at least twice her spending (x).' Which inequality fits?", "bm": "'Simpanan Aryana (y) mesti sekurang-kurangnya dua kali perbelanjaannya (x).' Ketaksamaan manakah sesuai?" },
+      "options": [ { "en": "y ≥ 2x", "bm": "y ≥ 2x" }, { "en": "y ≤ 2x", "bm": "y ≤ 2x" }, { "en": "y > x + 2", "bm": "y > x + 2" }, { "en": "x ≥ 2y", "bm": "x ≥ 2y" } ],
+      "answer": 0,
+      "explanation": { "en": "'At least' means ≥.", "bm": "'Sekurang-kurangnya' bermakna ≥." } },
+    { "id": "math-06-q06", "subtopicId": "math-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Does (1, 2) satisfy y ≤ x + 2, y ≥ 1 and x ≤ 3?", "bm": "Adakah (1, 2) memenuhi y ≤ x + 2, y ≥ 1 dan x ≤ 3?" },
+      "options": [ { "en": "Yes, all three", "bm": "Ya, ketiga-tiganya" }, { "en": "No, it fails y ≤ x + 2", "bm": "Tidak, gagal y ≤ x + 2" }, { "en": "No, it fails y ≥ 1", "bm": "Tidak, gagal y ≥ 1" }, { "en": "No, it fails x ≤ 3", "bm": "Tidak, gagal x ≤ 3" } ],
+      "answer": 0,
+      "explanation": { "en": "2 ≤ 3, 2 ≥ 1, 1 ≤ 3 — all true.", "bm": "2 ≤ 3, 2 ≥ 1, 1 ≤ 3 — semuanya benar." } },
+    { "id": "math-06-q07", "subtopicId": "math-06-02", "type": "multi", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Select ALL points in the region x ≥ 0, y ≥ 0, x + y ≤ 4.", "bm": "Pilih SEMUA titik dalam rantau x ≥ 0, y ≥ 0, x + y ≤ 4." },
+      "options": [ { "en": "(1, 2)", "bm": "(1, 2)" }, { "en": "(0, 4)", "bm": "(0, 4)" }, { "en": "(3, 2)", "bm": "(3, 2)" }, { "en": "(−1, 1)", "bm": "(−1, 1)" } ],
+      "answer": [0, 1],
+      "explanation": { "en": "(3, 2): 5 > 4 ✗. (−1, 1): x < 0 ✗. (0, 4) is on the solid line, so included.", "bm": "(3, 2): 5 > 4 ✗. (−1, 1): x < 0 ✗. (0, 4) pada garis padu, jadi termasuk." } },
+    { "id": "math-06-q08", "subtopicId": "math-06-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Order the steps to show a system of inequalities on a graph.", "bm": "Susun langkah menunjukkan sistem ketaksamaan pada graf." },
+      "items": [ { "en": "Draw each boundary line (solid or dashed)", "bm": "Lukis setiap garis sempadan (padu atau putus-putus)" }, { "en": "Test a point to find each correct side", "bm": "Uji satu titik untuk mencari belah yang betul" }, { "en": "Shade the region for each inequality", "bm": "Lorek rantau bagi setiap ketaksamaan" }, { "en": "Identify where all regions overlap", "bm": "Kenal pasti di mana semua rantau bertindih" } ],
+      "explanation": { "en": "(0, 0) is an easy test point unless it lies on the line.", "bm": "(0, 0) titik ujian yang mudah kecuali ia terletak pada garis." } },
+    { "id": "math-06-q09", "subtopicId": "math-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The region x ≥ 2 lies…", "bm": "Rantau x ≥ 2 terletak…" },
+      "options": [ { "en": "on and to the right of the vertical line x = 2", "bm": "pada dan di kanan garis menegak x = 2" }, { "en": "above the line y = 2", "bm": "di atas garis y = 2" }, { "en": "to the left of x = 2", "bm": "di kiri x = 2" }, { "en": "below y = 2", "bm": "di bawah y = 2" } ],
+      "answer": 0,
+      "explanation": { "en": "x = 2 is a vertical line; larger x values are to the right.", "bm": "x = 2 ialah garis menegak; nilai x lebih besar di sebelah kanan." } },
+    { "id": "math-06-q10", "subtopicId": "math-06-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which symbol means 'at most'?", "bm": "Simbol manakah bermaksud 'paling banyak'?" },
+      "options": [ { "en": "≤", "bm": "≤" }, { "en": "≥", "bm": "≥" }, { "en": "<", "bm": "<" }, { "en": ">", "bm": ">" } ],
+      "answer": 0,
+      "explanation": { "en": "'At most' = no more than = ≤. 'At least' = ≥.", "bm": "'Paling banyak' = tidak lebih daripada = ≤. 'Sekurang-kurangnya' = ≥." } }
+  ]
+}

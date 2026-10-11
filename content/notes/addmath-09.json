@@ -1,0 +1,46 @@
+{
+  "chapterId": "addmath-09",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-09-01": {
+      "keyPoints": [
+        { "en": "Sine rule: a/sin A = b/sin B = c/sin C (side a is opposite angle A).", "bm": "Petua sinus: a/sin A = b/sin B = c/sin C (sisi a bertentangan sudut A)." },
+        { "en": "Use it when you know a side and its opposite angle, plus one other side or angle.", "bm": "Gunakannya apabila anda tahu satu sisi dan sudut bertentangannya, serta satu lagi sisi atau sudut." },
+        { "en": "To find an angle, flip it: sin A / a = sin B / b.", "bm": "Untuk mencari sudut, terbalikkan: sin A / a = sin B / b." },
+        { "en": "Ambiguous case (SSA): if the given angle is acute and the side opposite it is shorter than the other given side, there may be two triangles (θ and 180° − θ).", "bm": "Kes ambiguiti (SSA): jika sudut yang diberi tirus dan sisi bertentangannya lebih pendek daripada sisi lain yang diberi, mungkin ada dua segi tiga (θ dan 180° − θ)." }
+      ],
+      "example": { "question": { "en": "In triangle ABC, a = 6 cm, b = 8 cm, A = 40°. Find the possible values of B.", "bm": "Dalam segi tiga ABC, a = 6 cm, b = 8 cm, A = 40°. Cari nilai B yang mungkin." }, "answer": { "en": "sin B = 8 sin 40°/6 = 0.857 → B = 59.0° or 121.0° (both valid since A + B < 180°).", "bm": "sin B = 8 sin 40°/6 = 0.857 → B = 59.0° atau 121.0° (kedua-duanya sah kerana A + B < 180°)." } },
+      "tip": { "en": "Always check whether 180° − θ also works.", "bm": "Sentiasa semak sama ada 180° − θ juga sah." }
+    },
+    "addmath-09-02": {
+      "keyPoints": [
+        { "en": "Cosine rule: a² = b² + c² − 2bc cos A (similarly for b² and c²).", "bm": "Petua kosinus: a² = b² + c² − 2bc kos A (begitu juga bagi b² dan c²)." },
+        { "en": "Use it with two sides and the INCLUDED angle (SAS) to find the third side.", "bm": "Gunakannya dengan dua sisi dan sudut KANDUNG (SKS) untuk mencari sisi ketiga." },
+        { "en": "With three sides (SSS): cos A = (b² + c² − a²)/(2bc).", "bm": "Dengan tiga sisi (SSS): kos A = (b² + c² − a²)/(2bc)." },
+        { "en": "If cos A is negative, A is obtuse. If A = 90°, the rule becomes Pythagoras.", "bm": "Jika kos A negatif, A cakah. Jika A = 90°, petua menjadi Pythagoras." }
+      ],
+      "example": { "question": { "en": "Find the largest angle of a triangle with sides 4, 6 and 8 cm.", "bm": "Cari sudut terbesar segi tiga dengan sisi 4, 6 dan 8 cm." }, "answer": { "en": "Opposite 8: cos θ = (16 + 36 − 64)/(2·4·6) = −0.25 → θ ≈ 104.5°", "bm": "Bertentangan 8: kos θ = (16 + 36 − 64)/(2·4·6) = −0.25 → θ ≈ 104.5°" } },
+      "tip": { "en": "Set your calculator to DEGREES before starting.", "bm": "Tetapkan kalkulator kepada DARJAH sebelum mula." }
+    },
+    "addmath-09-03": {
+      "keyPoints": [
+        { "en": "Area = ½ab sin C, using two sides and the included angle.", "bm": "Luas = ½ab sin C, menggunakan dua sisi dan sudut kandung." },
+        { "en": "Heron's formula for three sides: Area = √[s(s − a)(s − b)(s − c)], s = (a + b + c)/2.", "bm": "Rumus Heron untuk tiga sisi: Luas = √[s(s − a)(s − b)(s − c)], s = (a + b + c)/2." },
+        { "en": "You can also find an angle from a known area: sin C = 2 × Area/(ab).", "bm": "Anda juga boleh mencari sudut daripada luas yang diketahui: sin C = 2 × Luas/(ab)." },
+        { "en": "Area of a quadrilateral: split it into two triangles.", "bm": "Luas sisi empat: bahagikan kepada dua segi tiga." }
+      ],
+      "example": { "question": { "en": "A triangle has area 12 cm², sides 6 cm and 8 cm. Find the acute included angle.", "bm": "Segi tiga berluas 12 cm², sisi 6 cm dan 8 cm. Cari sudut kandung tirus." }, "answer": { "en": "sin C = 24/48 = 0.5 → C = 30°", "bm": "sin C = 24/48 = 0.5 → C = 30°" } },
+      "tip": { "en": "The angle in ½ab sin C must be BETWEEN sides a and b.", "bm": "Sudut dalam ½ab sin C mesti DI ANTARA sisi a dan b." }
+    },
+    "addmath-09-04": {
+      "keyPoints": [
+        { "en": "Real problems: surveying land, navigation and bearings, heights of buildings, distances across rivers.", "bm": "Masalah sebenar: mengukur tanah, navigasi dan bearing, ketinggian bangunan, jarak merentasi sungai." },
+        { "en": "Draw a clear diagram, mark known sides/angles, decide sine or cosine rule.", "bm": "Lukis rajah yang jelas, tanda sisi/sudut yang diketahui, tentukan petua sinus atau kosinus." },
+        { "en": "Multi-step problems often use the cosine rule first, then the sine rule.", "bm": "Masalah berbilang langkah sering menggunakan petua kosinus dahulu, kemudian petua sinus." },
+        { "en": "Keep full calculator values between steps; round only at the end.", "bm": "Simpan nilai penuh kalkulator antara langkah; bundarkan hanya di akhir." }
+      ],
+      "example": { "question": { "en": "Two boats leave port; one sails 10 km on bearing 060°, the other 15 km on bearing 150°. How far apart are they?", "bm": "Dua bot meninggalkan pelabuhan; satu belayar 10 km pada bearing 060°, satu lagi 15 km pada bearing 150°. Berapa jauh jarak antara mereka?" }, "answer": { "en": "Angle between = 90° → d = √(100 + 225) ≈ 18.03 km", "bm": "Sudut di antara = 90° → d = √(100 + 225) ≈ 18.03 km" } },
+      "tip": { "en": "Rounding too early is the most common way to lose marks.", "bm": "Membundarkan terlalu awal ialah punca paling biasa kehilangan markah." }
+    }
+  }
+}

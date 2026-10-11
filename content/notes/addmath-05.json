@@ -1,0 +1,28 @@
+{
+  "chapterId": "addmath-05",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-05-01": {
+      "keyPoints": [
+        { "en": "An AP has a constant common difference d = T₂ − T₁ = T₃ − T₂ = …", "bm": "JA mempunyai beza sepunya malar d = T₂ − T₁ = T₃ − T₂ = …" },
+        { "en": "nth term: Tₙ = a + (n − 1)d.", "bm": "Sebutan ke-n: Tₙ = a + (n − 1)d." },
+        { "en": "Sum: Sₙ = n/2 [2a + (n − 1)d] or Sₙ = n/2 (a + l) where l is the last term.", "bm": "Hasil tambah: Sₙ = n/2 [2a + (n − 1)d] atau Sₙ = n/2 (a + l) dengan l sebutan terakhir." },
+        { "en": "Tₙ = Sₙ − Sₙ₋₁ — useful when you're given a formula for Sₙ.", "bm": "Tₙ = Sₙ − Sₙ₋₁ — berguna apabila diberi rumus Sₙ." },
+        { "en": "Three terms in an AP: x − d, x, x + d (so the middle term is the average of the other two).", "bm": "Tiga sebutan dalam JA: x − d, x, x + d (sebutan tengah ialah purata dua yang lain)." }
+      ],
+      "example": { "question": { "en": "k, 2k + 1 and 5k − 3 are consecutive terms of an AP. Find k.", "bm": "k, 2k + 1 dan 5k − 3 ialah sebutan berturutan JA. Cari k." }, "answer": { "en": "(2k + 1) − k = (5k − 3) − (2k + 1) → k + 1 = 3k − 4 → k = 2.5", "bm": "(2k + 1) − k = (5k − 3) − (2k + 1) → k + 1 = 3k − 4 → k = 2.5" } },
+      "tip": { "en": "'Sum of terms from T₅ to T₁₀' = S₁₀ − S₄.", "bm": "'Hasil tambah sebutan T₅ hingga T₁₀' = S₁₀ − S₄." }
+    },
+    "addmath-05-02": {
+      "keyPoints": [
+        { "en": "A GP has a constant common ratio r = T₂/T₁ = T₃/T₂ = …", "bm": "JG mempunyai nisbah sepunya malar r = T₂/T₁ = T₃/T₂ = …" },
+        { "en": "nth term: Tₙ = arⁿ⁻¹.", "bm": "Sebutan ke-n: Tₙ = arⁿ⁻¹." },
+        { "en": "Sum: Sₙ = a(rⁿ − 1)/(r − 1) (r > 1) or a(1 − rⁿ)/(1 − r) (r < 1).", "bm": "Hasil tambah: Sₙ = a(rⁿ − 1)/(r − 1) (r > 1) atau a(1 − rⁿ)/(1 − r) (r < 1)." },
+        { "en": "If −1 < r < 1, rⁿ → 0 as n grows, so S∞ = a/(1 − r).", "bm": "Jika −1 < r < 1, rⁿ → 0 apabila n membesar, jadi S∞ = a/(1 − r)." },
+        { "en": "Applications: compound interest, population growth, bouncing balls, recurring decimals.", "bm": "Aplikasi: faedah kompaun, pertumbuhan populasi, bola melantun, perpuluhan berulang." }
+      ],
+      "example": { "question": { "en": "A ball is dropped from 10 m and bounces to 3/4 of its previous height each time. Find the total vertical distance travelled.", "bm": "Bola dijatuhkan dari 10 m dan melantun 3/4 daripada ketinggian sebelumnya setiap kali. Cari jumlah jarak menegak yang dilalui." }, "answer": { "en": "10 + 2 × S∞ of (7.5, 5.625, …) = 10 + 2 × 7.5/(1 − 0.75) = 10 + 60 = 70 m", "bm": "10 + 2 × S∞ bagi (7.5, 5.625, …) = 10 + 2 × 7.5/(1 − 0.75) = 10 + 60 = 70 m" } },
+      "tip": { "en": "In bouncing ball questions, each bounce height is travelled twice (up and down).", "bm": "Dalam soalan bola melantun, setiap ketinggian lantunan dilalui dua kali (naik dan turun)." }
+    }
+  }
+}

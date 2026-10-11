@@ -1,0 +1,17 @@
+{
+  "chapterId": "phy-04",
+  "cards": [
+    { "id": "phy-04-f01", "subtopicId": "phy-04-01", "front": { "en": "Thermal equilibrium", "bm": "Keseimbangan terma" }, "back": { "en": "Net rate of heat flow is zero; both objects at the same temperature", "bm": "Kadar aliran haba bersih sifar; kedua-dua objek pada suhu sama" } },
+    { "id": "phy-04-f02", "subtopicId": "phy-04-01", "front": { "en": "How a thermometer works", "bm": "Cara termometer berfungsi" }, "back": { "en": "It reaches thermal equilibrium with the object, then shows the same temperature", "bm": "Ia mencapai keseimbangan terma dengan objek, lalu menunjukkan suhu yang sama" } },
+    { "id": "phy-04-f03", "subtopicId": "phy-04-02", "front": { "en": "Specific heat capacity, c", "bm": "Muatan haba tentu, c" }, "back": { "en": "Heat to raise 1 kg by 1 °C. Q = mcθ. Water: 4200 J kg⁻¹ °C⁻¹", "bm": "Haba untuk naikkan 1 kg sebanyak 1 °C. Q = mcθ. Air: 4200 J kg⁻¹ °C⁻¹" } },
+    { "id": "phy-04-f04", "subtopicId": "phy-04-02", "front": { "en": "Electric heater equation", "bm": "Persamaan pemanas elektrik" }, "back": { "en": "Pt = mcθ (assuming no heat loss)", "bm": "Pt = mcθ (anggap tiada haba hilang)" } },
+    { "id": "phy-04-f05", "subtopicId": "phy-04-02", "front": { "en": "Sea breeze (daytime)", "bm": "Bayu laut (siang)" }, "back": { "en": "Land heats faster (lower c), warm air rises over land, cool sea air moves in", "bm": "Daratan cepat panas (c rendah), udara panas naik di darat, udara laut yang sejuk bergerak masuk" } },
+    { "id": "phy-04-f06", "subtopicId": "phy-04-03", "front": { "en": "Specific latent heat, L", "bm": "Haba pendam tentu, L" }, "back": { "en": "Heat to change the state of 1 kg at constant temperature. Q = mL", "bm": "Haba untuk tukar keadaan 1 kg pada suhu malar. Q = mL" } },
+    { "id": "phy-04-f07", "subtopicId": "phy-04-03", "front": { "en": "Latent heat of fusion vs vaporisation", "bm": "Haba pendam pelakuran vs pengewapan" }, "back": { "en": "Fusion: solid ↔ liquid. Vaporisation: liquid ↔ gas (larger value)", "bm": "Pelakuran: pepejal ↔ cecair. Pengewapan: cecair ↔ gas (nilai lebih besar)" } },
+    { "id": "phy-04-f08", "subtopicId": "phy-04-03", "front": { "en": "Why temperature is constant while melting", "bm": "Mengapa suhu malar semasa melebur" }, "back": { "en": "Heat breaks bonds between particles (potential energy), not kinetic energy", "bm": "Haba memutuskan ikatan antara zarah (tenaga keupayaan), bukan tenaga kinetik" } },
+    { "id": "phy-04-f09", "subtopicId": "phy-04-04", "front": { "en": "Boyle's law", "bm": "Hukum Boyle" }, "back": { "en": "Constant T: P ∝ 1/V, P₁V₁ = P₂V₂", "bm": "T malar: P ∝ 1/V, P₁V₁ = P₂V₂" } },
+    { "id": "phy-04-f10", "subtopicId": "phy-04-04", "front": { "en": "Charles' law", "bm": "Hukum Charles" }, "back": { "en": "Constant P: V ∝ T (kelvin), V₁/T₁ = V₂/T₂", "bm": "P malar: V ∝ T (kelvin), V₁/T₁ = V₂/T₂" } },
+    { "id": "phy-04-f11", "subtopicId": "phy-04-04", "front": { "en": "Gay-Lussac's law", "bm": "Hukum Gay-Lussac" }, "back": { "en": "Constant V: P ∝ T (kelvin), P₁/T₁ = P₂/T₂", "bm": "V malar: P ∝ T (kelvin), P₁/T₁ = P₂/T₂" } },
+    { "id": "phy-04-f12", "subtopicId": "phy-04-04", "front": { "en": "°C → K", "bm": "°C → K" }, "back": { "en": "T = θ + 273", "bm": "T = θ + 273" } }
+  ]
+}

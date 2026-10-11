@@ -1,0 +1,92 @@
+{
+  "chapterId": "math-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You want a RM6000 laptop for university in a year. Can you afford it? Financial planning turns a dream into a monthly number — and shows where your money actually goes.",
+      "bm": "Anda mahukan komputer riba RM6000 untuk universiti dalam setahun. Mampukah anda? Perancangan kewangan menukar impian menjadi angka bulanan — dan menunjukkan ke mana wang anda sebenarnya pergi."
+    },
+    "bigIdeas": [
+      { "en": "Financial planning: set goals → assess your finances → make a plan → act → review.", "bm": "Perancangan kewangan: tetapkan matlamat → nilai kewangan → buat pelan → laksana → semak semula." },
+      { "en": "Goals should be SMART: Specific, Measurable, Attainable, Realistic, Time-bound.", "bm": "Matlamat perlu SMART: Spesifik, boleh diukur, boleh dicapai, realistik, tempoh masa." },
+      { "en": "Cash flow = income − expenses; positive = surplus, negative = deficit.", "bm": "Aliran tunai = pendapatan − perbelanjaan; positif = lebihan, negatif = defisit." },
+      { "en": "'Pay yourself first' — save at least 10% of income as a fixed expense.", "bm": "'Bayar diri sendiri dahulu' — simpan sekurang-kurangnya 10% pendapatan sebagai perbelanjaan tetap." }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          { "title": { "en": "Set SMART goals", "bm": "Tetapkan matlamat SMART" } },
+          { "title": { "en": "Evaluate financial status", "bm": "Nilai status kewangan" } },
+          { "title": { "en": "Create a financial plan", "bm": "Wujudkan pelan kewangan" } },
+          { "title": { "en": "Carry out the plan", "bm": "Laksanakan pelan" } },
+          { "title": { "en": "Review and revise", "bm": "Kaji semula dan semak" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Active income", "bm": "Pendapatan aktif" }, "definition": { "en": "Money earned by working (salary, wages).", "bm": "Wang yang diperoleh dengan bekerja (gaji, upah)." } },
+      { "term": { "en": "Passive income", "bm": "Pendapatan pasif" }, "definition": { "en": "Money earned without daily work (rent, dividends, interest).", "bm": "Wang yang diperoleh tanpa bekerja setiap hari (sewa, dividen, faedah)." } },
+      { "term": { "en": "Fixed expenses", "bm": "Perbelanjaan tetap" }, "definition": { "en": "Same amount each month (rent, loan, insurance, savings).", "bm": "Jumlah yang sama setiap bulan (sewa, pinjaman, insurans, simpanan)." } },
+      { "term": { "en": "Variable expenses", "bm": "Perbelanjaan tidak tetap" }, "definition": { "en": "Change month to month (food, petrol, entertainment).", "bm": "Berubah setiap bulan (makanan, petrol, hiburan)." } },
+      { "term": { "en": "Surplus / deficit", "bm": "Lebihan / defisit" }, "definition": { "en": "Income more / less than expenses.", "bm": "Pendapatan lebih / kurang daripada perbelanjaan." } }
+    ],
+    "formulaIds": ["math-cash-flow"],
+    "workedExample": {
+      "question": { "en": "Puan Sara earns RM2500. Fixed expenses RM1200, variable expenses RM900. She wants RM6000 for a laptop in 12 months. Is it achievable?", "bm": "Puan Sara berpendapatan RM2500. Perbelanjaan tetap RM1200, tidak tetap RM900. Dia mahukan RM6000 untuk komputer riba dalam 12 bulan. Bolehkah dicapai?" },
+      "steps": [
+        { "en": "Cash flow = 2500 − (1200 + 900) = RM400 surplus.", "bm": "Aliran tunai = 2500 − (1200 + 900) = lebihan RM400." },
+        { "en": "Needed per month = 6000 ÷ 12 = RM500.", "bm": "Diperlukan sebulan = 6000 ÷ 12 = RM500." },
+        { "en": "RM400 < RM500, so cut variable expenses by RM100 or extend to 15 months.", "bm": "RM400 < RM500, jadi kurangkan perbelanjaan tidak tetap sebanyak RM100 atau lanjutkan kepada 15 bulan." }
+      ],
+      "answer": { "en": "Not yet — she needs RM100 more each month (or 15 months instead of 12).", "bm": "Belum — dia perlukan RM100 lagi setiap bulan (atau 15 bulan, bukan 12)." }
+    }
+  },
+  "questions": [
+    { "id": "math-10-q01", "subtopicId": "math-10-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Income RM2500, expenses RM1200 + RM900. Find the cash flow (RM).", "bm": "Pendapatan RM2500, perbelanjaan RM1200 + RM900. Cari aliran tunai (RM)." },
+      "answer": 400, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "2500 − 2100 = RM400 (surplus).", "bm": "2500 − 2100 = RM400 (lebihan)." } },
+    { "id": "math-10-q02", "subtopicId": "math-10-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "To save RM6000 in 12 months, how much must be saved each month (RM)?", "bm": "Untuk menyimpan RM6000 dalam 12 bulan, berapakah perlu disimpan setiap bulan (RM)?" },
+      "answer": 500, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "6000 ÷ 12 = RM500.", "bm": "6000 ÷ 12 = RM500." } },
+    { "id": "math-10-q03", "subtopicId": "math-10-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which is a FIXED expense?", "bm": "Manakah perbelanjaan TETAP?" },
+      "options": [ { "en": "Monthly house rent", "bm": "Sewa rumah bulanan" }, { "en": "Eating out", "bm": "Makan di luar" }, { "en": "Electricity bill", "bm": "Bil elektrik" }, { "en": "Movie tickets", "bm": "Tiket wayang" } ],
+      "answer": 0,
+      "explanation": { "en": "Rent is the same each month; electricity varies with usage.", "bm": "Sewa sama setiap bulan; elektrik berubah mengikut penggunaan." } },
+    { "id": "math-10-q04", "subtopicId": "math-10-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which goal is SMART?", "bm": "Matlamat manakah SMART?" },
+      "options": [ { "en": "Save RM50 a month for 10 months to buy a RM500 phone", "bm": "Simpan RM50 sebulan selama 10 bulan untuk membeli telefon RM500" }, { "en": "Save money someday", "bm": "Simpan wang suatu hari nanti" }, { "en": "Become rich", "bm": "Menjadi kaya" }, { "en": "Buy a car soon", "bm": "Beli kereta tidak lama lagi" } ],
+      "answer": 0,
+      "explanation": { "en": "It's specific, measurable, attainable, realistic and time-bound.", "bm": "Ia spesifik, boleh diukur, boleh dicapai, realistik dan bertempoh masa." } },
+    { "id": "math-10-q05", "subtopicId": "math-10-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Rental income from a house you own is…", "bm": "Pendapatan sewa daripada rumah milik anda ialah…" },
+      "options": [ { "en": "passive income", "bm": "pendapatan pasif" }, { "en": "active income", "bm": "pendapatan aktif" }, { "en": "a variable expense", "bm": "perbelanjaan tidak tetap" }, { "en": "a deficit", "bm": "defisit" } ],
+      "answer": 0,
+      "explanation": { "en": "You earn it without working daily for it.", "bm": "Anda memperolehnya tanpa bekerja setiap hari untuknya." } },
+    { "id": "math-10-q06", "subtopicId": "math-10-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Aryana gets RM300 a month. She follows 'pay yourself first' and saves 20%. How much does she save in a year (RM)?", "bm": "Aryana menerima RM300 sebulan. Dia mengamalkan 'bayar diri sendiri dahulu' dan menyimpan 20%. Berapakah simpanannya dalam setahun (RM)?" },
+      "answer": 720, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "20% × 300 = RM60 a month; 60 × 12 = RM720.", "bm": "20% × 300 = RM60 sebulan; 60 × 12 = RM720." } },
+    { "id": "math-10-q07", "subtopicId": "math-10-01", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Income RM3000, expenses RM3200. What should the family do FIRST?", "bm": "Pendapatan RM3000, perbelanjaan RM3200. Apakah yang patut dilakukan oleh keluarga itu DAHULU?" },
+      "options": [ { "en": "Cut variable expenses", "bm": "Kurangkan perbelanjaan tidak tetap" }, { "en": "Take a personal loan", "bm": "Ambil pinjaman peribadi" }, { "en": "Use a credit card for everything", "bm": "Guna kad kredit untuk semua" }, { "en": "Stop saving and do nothing else", "bm": "Berhenti menyimpan dan tidak buat apa-apa lagi" } ],
+      "answer": 0,
+      "explanation": { "en": "A RM200 deficit — reduce spending that can change (food out, entertainment) before borrowing.", "bm": "Defisit RM200 — kurangkan perbelanjaan yang boleh diubah (makan di luar, hiburan) sebelum meminjam." } },
+    { "id": "math-10-q08", "subtopicId": "math-10-01", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Order the steps of the financial planning process.", "bm": "Susun langkah proses perancangan kewangan." },
+      "items": [ { "en": "Set goals", "bm": "Tetapkan matlamat" }, { "en": "Evaluate financial status", "bm": "Nilai status kewangan" }, { "en": "Create a financial plan", "bm": "Wujudkan pelan kewangan" }, { "en": "Carry out the plan", "bm": "Laksanakan pelan" }, { "en": "Review and revise progress", "bm": "Kaji semula dan semak kemajuan" } ],
+      "explanation": { "en": "It's a cycle — review regularly and adjust.", "bm": "Ia satu kitaran — semak selalu dan ubah suai." } },
+    { "id": "math-10-q09", "subtopicId": "math-10-01", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Surplus is RM400 a month but the goal needs RM500 a month (RM6000 total). How many months will it take at RM400?", "bm": "Lebihan RM400 sebulan tetapi matlamat memerlukan RM500 sebulan (jumlah RM6000). Berapa bulan diperlukan pada kadar RM400?" },
+      "answer": 15, "tolerance": 0, "unit": "months",
+      "explanation": { "en": "6000 ÷ 400 = 15 months — extending the time makes the goal attainable.", "bm": "6000 ÷ 400 = 15 bulan — melanjutkan masa menjadikan matlamat boleh dicapai." } },
+    { "id": "math-10-q10", "subtopicId": "math-10-01", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Select ALL variable expenses.", "bm": "Pilih SEMUA perbelanjaan tidak tetap." },
+      "options": [ { "en": "Groceries", "bm": "Barangan dapur" }, { "en": "Petrol", "bm": "Petrol" }, { "en": "Car loan instalment", "bm": "Ansuran pinjaman kereta" }, { "en": "Insurance premium", "bm": "Premium insurans" } ],
+      "answer": [0, 1],
+      "explanation": { "en": "Loan instalments and insurance premiums are fixed amounts.", "bm": "Ansuran pinjaman dan premium insurans ialah jumlah tetap." } }
+  ]
+}

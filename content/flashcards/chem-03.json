@@ -1,0 +1,17 @@
+{
+  "chapterId": "chem-03",
+  "cards": [
+    { "id": "chem-03-f01", "subtopicId": "chem-03-01", "front": { "en": "Standard for relative atomic mass", "bm": "Piawai jisim atom relatif" }, "back": { "en": "1/12 of the mass of one carbon-12 atom", "bm": "1/12 jisim satu atom karbon-12" } },
+    { "id": "chem-03-f02", "subtopicId": "chem-03-01", "front": { "en": "Relative molecular mass", "bm": "Jisim molekul relatif" }, "back": { "en": "Add up the RAMs of all atoms, e.g. H₂O = 2(1) + 16 = 18", "bm": "Tambah JAR semua atom, cth. H₂O = 2(1) + 16 = 18" } },
+    { "id": "chem-03-f03", "subtopicId": "chem-03-02", "front": { "en": "Avogadro constant", "bm": "Pemalar Avogadro" }, "back": { "en": "N_A = 6.02 × 10²³ particles per mole", "bm": "N_A = 6.02 × 10²³ zarah per mol" } },
+    { "id": "chem-03-f04", "subtopicId": "chem-03-02", "front": { "en": "Moles from mass", "bm": "Mol daripada jisim" }, "back": { "en": "n = mass ÷ molar mass", "bm": "n = jisim ÷ jisim molar" } },
+    { "id": "chem-03-f05", "subtopicId": "chem-03-02", "front": { "en": "Moles from particles", "bm": "Mol daripada bilangan zarah" }, "back": { "en": "n = N ÷ 6.02 × 10²³", "bm": "n = N ÷ 6.02 × 10²³" } },
+    { "id": "chem-03-f06", "subtopicId": "chem-03-02", "front": { "en": "Molar volume of a gas", "bm": "Isi padu molar gas" }, "back": { "en": "24 dm³ mol⁻¹ (room), 22.4 dm³ mol⁻¹ (STP)", "bm": "24 dm³ mol⁻¹ (bilik), 22.4 dm³ mol⁻¹ (STP)" } },
+    { "id": "chem-03-f07", "subtopicId": "chem-03-03", "front": { "en": "Empirical formula", "bm": "Formula empirik" }, "back": { "en": "Simplest whole-number ratio of atoms (e.g. CH₂O for glucose)", "bm": "Nisbah nombor bulat teringkas atom (cth. CH₂O bagi glukosa)" } },
+    { "id": "chem-03-f08", "subtopicId": "chem-03-03", "front": { "en": "Molecular formula", "bm": "Formula molekul" }, "back": { "en": "(Empirical formula)ₙ; n = RMM ÷ empirical formula mass", "bm": "(Formula empirik)ₙ; n = JMR ÷ jisim formula empirik" } },
+    { "id": "chem-03-f09", "subtopicId": "chem-03-03", "front": { "en": "Steps to find empirical formula", "bm": "Langkah mencari formula empirik" }, "back": { "en": "Mass → moles (÷ RAM) → divide by smallest → whole-number ratio", "bm": "Jisim → mol (÷ JAR) → bahagi dengan terkecil → nisbah nombor bulat" } },
+    { "id": "chem-03-f10", "subtopicId": "chem-03-03", "front": { "en": "Common ions", "bm": "Ion biasa" }, "back": { "en": "Na⁺, K⁺, Mg²⁺, Ca²⁺, Al³⁺, NH₄⁺; Cl⁻, OH⁻, NO₃⁻, O²⁻, SO₄²⁻, CO₃²⁻", "bm": "Na⁺, K⁺, Mg²⁺, Ca²⁺, Al³⁺, NH₄⁺; Cl⁻, OH⁻, NO₃⁻, O²⁻, SO₄²⁻, CO₃²⁻" } },
+    { "id": "chem-03-f11", "subtopicId": "chem-03-04", "front": { "en": "Balanced equation shows…", "bm": "Persamaan seimbang menunjukkan…" }, "back": { "en": "Reactants, products, states (s, l, g, aq) and the mole ratio", "bm": "Bahan, hasil, keadaan (p, ce, g, ak) dan nisbah mol" } },
+    { "id": "chem-03-f12", "subtopicId": "chem-03-04", "front": { "en": "Steps in a stoichiometry problem", "bm": "Langkah masalah stoikiometri" }, "back": { "en": "Balance the equation → find moles of given → use mole ratio → convert to mass/volume", "bm": "Seimbangkan persamaan → cari mol yang diberi → guna nisbah mol → tukar kepada jisim/isi padu" } }
+  ]
+}

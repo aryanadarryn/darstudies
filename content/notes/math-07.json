@@ -1,0 +1,27 @@
+{
+  "chapterId": "math-07",
+  "reviewed": false,
+  "subtopics": {
+    "math-07-01": {
+      "keyPoints": [
+        { "en": "Distance–time graph: distance on the y-axis, time on the x-axis.", "bm": "Graf jarak–masa: jarak pada paksi-y, masa pada paksi-x." },
+        { "en": "Gradient = speed. Steeper line = faster. Horizontal line = stationary.", "bm": "Kecerunan = laju. Garis lebih curam = lebih laju. Garis mengufuk = pegun." },
+        { "en": "A line sloping downwards shows the object returning towards the start.", "bm": "Garis condong ke bawah menunjukkan objek kembali ke titik mula." },
+        { "en": "Average speed = total distance ÷ total time — include time spent stopped.", "bm": "Laju purata = jumlah jarak ÷ jumlah masa — masukkan masa berhenti." }
+      ],
+      "example": { "question": { "en": "A bus travels 40 km in 1 h, stops 30 min, then 50 km in 1 h. Find the average speed.", "bm": "Sebuah bas bergerak 40 km dalam 1 j, berhenti 30 min, kemudian 50 km dalam 1 j. Cari laju purata." }, "answer": { "en": "90 km ÷ 2.5 h = 36 km/h", "bm": "90 km ÷ 2.5 j = 36 km/j" } },
+      "tip": { "en": "Convert minutes to hours before dividing (30 min = 0.5 h).", "bm": "Tukar minit kepada jam sebelum membahagi (30 min = 0.5 j)." }
+    },
+    "math-07-02": {
+      "keyPoints": [
+        { "en": "Speed–time graph: speed on the y-axis, time on the x-axis.", "bm": "Graf laju–masa: laju pada paksi-y, masa pada paksi-x." },
+        { "en": "Gradient = acceleration (rate of change of speed). Negative gradient = deceleration.", "bm": "Kecerunan = pecutan (kadar perubahan laju). Kecerunan negatif = nyahpecutan." },
+        { "en": "Horizontal line = uniform speed (acceleration 0).", "bm": "Garis mengufuk = laju seragam (pecutan 0)." },
+        { "en": "Area under the graph = distance travelled — split into triangles, rectangles and trapeziums.", "bm": "Luas di bawah graf = jarak dilalui — bahagikan kepada segi tiga, segi empat tepat dan trapezium." },
+        { "en": "If total distance is given, form an equation with the area to find an unknown speed or time.", "bm": "Jika jumlah jarak diberi, bentuk persamaan dengan luas untuk mencari laju atau masa yang tidak diketahui." }
+      ],
+      "example": { "question": { "en": "A particle moves at v m/s for 10 s, then decelerates uniformly to rest in 5 s. Total distance = 125 m. Find v.", "bm": "Satu zarah bergerak pada v m/s selama 10 s, kemudian nyahpecut secara seragam hingga berhenti dalam 5 s. Jumlah jarak = 125 m. Cari v." }, "answer": { "en": "10v + ½(5)v = 125 → 12.5v = 125 → v = 10 m/s", "bm": "10v + ½(5)v = 125 → 12.5v = 125 → v = 10 m/s" } },
+      "tip": { "en": "Don't mix up the graphs: always read the y-axis label first!", "bm": "Jangan keliru antara graf: sentiasa baca label paksi-y dahulu!" }
+    }
+  }
+}

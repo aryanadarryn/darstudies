@@ -1,0 +1,48 @@
+{
+  "chapterId": "phy-04",
+  "reviewed": false,
+  "subtopics": {
+    "phy-04-01": {
+      "keyPoints": [
+        { "en": "Heat is energy transferred from a hotter object to a colder one; temperature measures how hot an object is.", "bm": "Haba ialah tenaga yang dipindahkan dari objek lebih panas ke objek lebih sejuk; suhu mengukur darjah kepanasan objek." },
+        { "en": "Thermal equilibrium: two objects in thermal contact have the same temperature and no net heat flow.", "bm": "Keseimbangan terma: dua objek dalam sentuhan terma mempunyai suhu sama dan tiada aliran haba bersih." },
+        { "en": "A thermometer reads correctly only after it reaches thermal equilibrium with what it measures.", "bm": "Termometer membaca dengan betul hanya selepas mencapai keseimbangan terma dengan objek yang diukur." },
+        { "en": "Examples: cooling drinks with ice, a cold towel on a feverish forehead, cooking food in an oven.", "bm": "Contoh: menyejukkan minuman dengan ais, tuala sejuk di dahi yang demam, memasak makanan dalam ketuhar." }
+      ],
+      "example": { "question": { "en": "A hot spoon is placed in cool water. Describe the heat flow until equilibrium.", "bm": "Sudu panas diletakkan dalam air sejuk. Huraikan aliran haba hingga keseimbangan." }, "answer": { "en": "Net heat flows from spoon to water until both reach the same temperature; then net flow is zero.", "bm": "Haba bersih mengalir dari sudu ke air sehingga kedua-duanya mencapai suhu sama; kemudian aliran bersih sifar." } },
+      "tip": { "en": "Say 'net rate of heat transfer is zero', not 'no heat transfer'.", "bm": "Sebut 'kadar pemindahan haba bersih ialah sifar', bukan 'tiada pemindahan haba'." }
+    },
+    "phy-04-02": {
+      "keyPoints": [
+        { "en": "Heat capacity C = Q/θ: heat needed to raise an object's temperature by 1 °C.", "bm": "Muatan haba C = Q/θ: haba untuk menaikkan suhu objek sebanyak 1 °C." },
+        { "en": "Specific heat capacity c = Q/(mθ): heat needed to raise 1 kg by 1 °C. Unit J kg⁻¹ °C⁻¹.", "bm": "Muatan haba tentu c = Q/(mθ): haba untuk menaikkan 1 kg sebanyak 1 °C. Unit J kg⁻¹ °C⁻¹." },
+        { "en": "High c (water 4200): heats and cools slowly — coolants, hot-water bottles, sea breeze.", "bm": "c tinggi (air 4200): lambat panas dan lambat sejuk — penyejuk, beg air panas, bayu laut." },
+        { "en": "Low c (metals ~400–900): heats quickly — cooking pots, but use a handle with high c / poor conductor.", "bm": "c rendah (logam ~400–900): cepat panas — periuk memasak, tetapi pemegang guna bahan c tinggi / konduktor lemah." },
+        { "en": "Electrical heating: Pt = mcθ.", "bm": "Pemanasan elektrik: Pt = mcθ." }
+      ],
+      "example": { "question": { "en": "0.5 kg of oil (c = 2000) is heated from 30 °C to 80 °C. Find Q.", "bm": "0.5 kg minyak (c = 2000) dipanaskan dari 30 °C ke 80 °C. Cari Q." }, "answer": { "en": "Q = 0.5 × 2000 × 50 = 50 000 J", "bm": "Q = 0.5 × 2000 × 50 = 50 000 J" } },
+      "tip": { "en": "In mixing problems: heat lost by the hot object = heat gained by the cold object.", "bm": "Dalam masalah campuran: haba hilang oleh objek panas = haba diterima oleh objek sejuk." }
+    },
+    "phy-04-03": {
+      "keyPoints": [
+        { "en": "Latent heat is absorbed or released during a change of state at constant temperature.", "bm": "Haba pendam diserap atau dibebaskan semasa perubahan keadaan pada suhu malar." },
+        { "en": "Specific latent heat L = Q/m. Fusion (melting/freezing) and vaporisation (boiling/condensing).", "bm": "Haba pendam tentu L = Q/m. Pelakuran (lebur/beku) dan pengewapan (didih/kondensasi)." },
+        { "en": "On a heating curve, flat sections = change of state; sloping sections = temperature rising.", "bm": "Pada lengkung pemanasan, bahagian mendatar = perubahan keadaan; bahagian condong = suhu meningkat." },
+        { "en": "Steam burns are worse than boiling-water burns because steam releases extra latent heat as it condenses.", "bm": "Lecur stim lebih teruk daripada air mendidih kerana stim membebaskan haba pendam tambahan semasa terkondensasi." }
+      ],
+      "example": { "question": { "en": "Heat to boil away 0.1 kg of water at 100 °C? (L_v = 2.26 × 10⁶ J kg⁻¹)", "bm": "Haba untuk mendidihkan habis 0.1 kg air pada 100 °C? (L_v = 2.26 × 10⁶ J kg⁻¹)" }, "answer": { "en": "Q = 0.1 × 2.26 × 10⁶ = 226 000 J", "bm": "Q = 0.1 × 2.26 × 10⁶ = 226 000 J" } },
+      "tip": { "en": "Multi-step problems: do Q = mcθ for each temperature change and Q = mL for each change of state, then add.", "bm": "Masalah berbilang langkah: guna Q = mcθ untuk setiap perubahan suhu dan Q = mL untuk setiap perubahan keadaan, kemudian tambah." }
+    },
+    "phy-04-04": {
+      "keyPoints": [
+        { "en": "Gas pressure comes from molecules colliding with the container walls.", "bm": "Tekanan gas terhasil daripada molekul berlanggar dengan dinding bekas." },
+        { "en": "Boyle's law (constant T): P₁V₁ = P₂V₂ — smaller volume → more frequent collisions → higher pressure.", "bm": "Hukum Boyle (T malar): P₁V₁ = P₂V₂ — isi padu kecil → perlanggaran lebih kerap → tekanan lebih tinggi." },
+        { "en": "Charles' law (constant P): V₁/T₁ = V₂/T₂ — hotter gas expands.", "bm": "Hukum Charles (P malar): V₁/T₁ = V₂/T₂ — gas panas mengembang." },
+        { "en": "Gay-Lussac's law (constant V): P₁/T₁ = P₂/T₂ — hotter gas, faster molecules, higher pressure.", "bm": "Hukum Gay-Lussac (V malar): P₁/T₁ = P₂/T₂ — gas panas, molekul laju, tekanan tinggi." },
+        { "en": "Always use kelvin in gas laws: T = θ + 273. Absolute zero 0 K = −273 °C.", "bm": "Sentiasa guna kelvin dalam hukum gas: T = θ + 273. Sifar mutlak 0 K = −273 °C." }
+      ],
+      "example": { "question": { "en": "A tyre is at 200 kPa at 27 °C. After driving it reaches 57 °C. Find the new pressure (volume constant).", "bm": "Tayar pada 200 kPa pada 27 °C. Selepas dipandu suhunya 57 °C. Cari tekanan baharu (isi padu malar)." }, "answer": { "en": "P₂ = 200 × 330/300 = 220 kPa", "bm": "P₂ = 200 × 330/300 = 220 kPa" } },
+      "tip": { "en": "Pressure units just need to match on both sides — kPa is fine; temperature must be in K.", "bm": "Unit tekanan hanya perlu sama di kedua-dua belah — kPa boleh; suhu mesti dalam K." }
+    }
+  }
+}

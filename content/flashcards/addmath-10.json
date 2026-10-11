@@ -1,0 +1,14 @@
+{
+  "chapterId": "addmath-10",
+  "cards": [
+    { "id": "addmath-10-f01", "subtopicId": "addmath-10-01", "front": { "en": "Index number formula", "bm": "Rumus nombor indeks" }, "back": { "en": "I = Q₁/Q₀ × 100", "bm": "I = Q₁/Q₀ × 100" } },
+    { "id": "addmath-10-f02", "subtopicId": "addmath-10-01", "front": { "en": "Q₀ and Q₁", "bm": "Q₀ dan Q₁" }, "back": { "en": "Q₀: quantity in the base year. Q₁: quantity in the given year", "bm": "Q₀: kuantiti pada tahun asas. Q₁: kuantiti pada tahun tertentu" } },
+    { "id": "addmath-10-f03", "subtopicId": "addmath-10-01", "front": { "en": "Index > 100 / < 100", "bm": "Indeks > 100 / < 100" }, "back": { "en": "> 100: increase; < 100: decrease (e.g. 120 → +20%, 90 → −10%)", "bm": "> 100: kenaikan; < 100: penurunan (cth. 120 → +20%, 90 → −10%)" } },
+    { "id": "addmath-10-f04", "subtopicId": "addmath-10-01", "front": { "en": "Chaining indices", "bm": "Merantaikan indeks" }, "back": { "en": "I₍c,a₎ = I₍b,a₎ × I₍c,b₎ / 100", "bm": "I₍c,a₎ = I₍b,a₎ × I₍c,b₎ / 100" } },
+    { "id": "addmath-10-f05", "subtopicId": "addmath-10-01", "front": { "en": "Types of index numbers", "bm": "Jenis nombor indeks" }, "back": { "en": "Price index, quantity index, Consumer Price Index, stock market index (FBM KLCI)", "bm": "Indeks harga, indeks kuantiti, Indeks Harga Pengguna, indeks pasaran saham (FBM KLCI)" } },
+    { "id": "addmath-10-f06", "subtopicId": "addmath-10-02", "front": { "en": "Composite index", "bm": "Indeks gubahan" }, "back": { "en": "Ī = ΣIw / Σw — a weighted average of indices", "bm": "Ī = ΣIw / Σw — purata berpemberat bagi indeks" } },
+    { "id": "addmath-10-f07", "subtopicId": "addmath-10-02", "front": { "en": "Weightage", "bm": "Pemberat" }, "back": { "en": "Relative importance of an item; can be numbers, ratios, percentages or pie-chart angles", "bm": "Kepentingan relatif suatu item; boleh berupa nombor, nisbah, peratus atau sudut carta pai" } },
+    { "id": "addmath-10-f08", "subtopicId": "addmath-10-02", "front": { "en": "Using a composite index to predict cost", "bm": "Menggunakan indeks gubahan untuk meramal kos" }, "back": { "en": "New cost = Ī/100 × old cost", "bm": "Kos baharu = Ī/100 × kos lama" } },
+    { "id": "addmath-10-f09", "subtopicId": "addmath-10-02", "front": { "en": "Finding an unknown weight or index", "bm": "Mencari pemberat atau indeks yang tidak diketahui" }, "back": { "en": "Substitute into Ī = ΣIw / Σw and solve the linear equation", "bm": "Gantikan ke dalam Ī = ΣIw / Σw dan selesaikan persamaan linear" } }
+  ]
+}

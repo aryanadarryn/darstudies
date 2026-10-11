@@ -1,0 +1,46 @@
+{
+  "chapterId": "math-09",
+  "reviewed": false,
+  "subtopics": {
+    "math-09-01": {
+      "keyPoints": [
+        { "en": "A combined event involves two or more events, e.g. tossing a coin and rolling a dice.", "bm": "Peristiwa bergabung melibatkan dua atau lebih peristiwa, cth. melambung syiling dan dadu." },
+        { "en": "List the sample space using ordered pairs, a table (grid) or a tree diagram.", "bm": "Senaraikan ruang sampel menggunakan pasangan tertib, jadual (grid) atau gambar rajah pokok." },
+        { "en": "Number of outcomes = product of outcomes for each event (coin + dice: 2 × 6 = 12).", "bm": "Bilangan kesudahan = hasil darab kesudahan setiap peristiwa (syiling + dadu: 2 × 6 = 12)." },
+        { "en": "P(A) = n(A) / n(S) when outcomes are equally likely.", "bm": "P(A) = n(A) / n(S) apabila kesudahan sama mungkin." }
+      ],
+      "example": { "question": { "en": "Two dice are rolled. Find P(both show the same number).", "bm": "Dua dadu dilambung. Cari P(kedua-duanya menunjukkan nombor sama)." }, "answer": { "en": "(1,1)…(6,6) = 6 outcomes; 6/36 = 1/6", "bm": "(1,1)…(6,6) = 6 kesudahan; 6/36 = 1/6" } },
+      "tip": { "en": "A 6 × 6 grid is the fastest way to handle two-dice questions.", "bm": "Grid 6 × 6 cara terpantas untuk soalan dua dadu." }
+    },
+    "math-09-02": {
+      "keyPoints": [
+        { "en": "Independent: the outcome of A doesn't affect B. P(A ∩ B) = P(A) × P(B).", "bm": "Tak bersandar: kesudahan A tidak mempengaruhi B. P(A ∩ B) = P(A) × P(B)." },
+        { "en": "Dependent: A changes the probability of B, e.g. picking without replacement.", "bm": "Bersandar: A mengubah kebarangkalian B, cth. mengambil tanpa pengembalian." },
+        { "en": "For dependent events: P(A and B) = P(A) × P(B given A has happened).", "bm": "Bagi peristiwa bersandar: P(A dan B) = P(A) × P(B selepas A berlaku)." },
+        { "en": "Multiplication rule extends to three or more events: P(A ∩ B ∩ C) = P(A) × P(B) × P(C) if independent.", "bm": "Petua darab boleh dilanjutkan kepada tiga atau lebih peristiwa: P(A ∩ B ∩ C) = P(A) × P(B) × P(C) jika tak bersandar." }
+      ],
+      "example": { "question": { "en": "5 cards: 2 are prizes. Two are drawn without replacement. Find P(both prizes).", "bm": "5 kad: 2 berhadiah. Dua dicabut tanpa pengembalian. Cari P(kedua-duanya berhadiah)." }, "answer": { "en": "2/5 × 1/4 = 2/20 = 1/10", "bm": "2/5 × 1/4 = 2/20 = 1/10" } },
+      "tip": { "en": "'Without replacement' → reduce both the top and bottom numbers for the second pick.", "bm": "'Tanpa pengembalian' → kurangkan nombor atas dan bawah untuk ambilan kedua." }
+    },
+    "math-09-03": {
+      "keyPoints": [
+        { "en": "Mutually exclusive events cannot happen together: A ∩ B = ∅, so P(A ∩ B) = 0.", "bm": "Peristiwa saling eksklusif tidak boleh berlaku bersama: A ∩ B = ∅, jadi P(A ∩ B) = 0." },
+        { "en": "Mutually exclusive: P(A ∪ B) = P(A) + P(B).", "bm": "Saling eksklusif: P(A ∪ B) = P(A) + P(B)." },
+        { "en": "Not mutually exclusive: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) (don't double-count the overlap).", "bm": "Tidak saling eksklusif: P(A ∪ B) = P(A) + P(B) − P(A ∩ B) (jangan kira bahagian bertindih dua kali)." },
+        { "en": "A Venn diagram helps show overlap.", "bm": "Gambar rajah Venn membantu menunjukkan pertindihan." }
+      ],
+      "example": { "question": { "en": "From 1–10, find P(even or a multiple of 3).", "bm": "Daripada 1–10, cari P(genap atau gandaan 3)." }, "answer": { "en": "5/10 + 3/10 − 1/10 = 7/10", "bm": "5/10 + 3/10 − 1/10 = 7/10" } },
+      "tip": { "en": "Don't confuse mutually exclusive (can't happen together) with independent (don't affect each other).", "bm": "Jangan keliru antara saling eksklusif (tidak boleh berlaku bersama) dengan tak bersandar (tidak saling mempengaruhi)." }
+    },
+    "math-09-04": {
+      "keyPoints": [
+        { "en": "Use a tree diagram for multi-step problems: multiply along branches, add between paths.", "bm": "Gunakan gambar rajah pokok untuk masalah berbilang langkah: darab sepanjang cabang, tambah antara laluan." },
+        { "en": "P(at least one) = 1 − P(none).", "bm": "P(sekurang-kurangnya satu) = 1 − P(tiada)." },
+        { "en": "Probabilities on branches from the same point add up to 1.", "bm": "Kebarangkalian pada cabang dari titik yang sama berjumlah 1." },
+        { "en": "Use probability to make decisions, e.g. comparing risks or games.", "bm": "Gunakan kebarangkalian untuk membuat keputusan, cth. membandingkan risiko atau permainan." }
+      ],
+      "example": { "question": { "en": "P(rain) = 0.3. If rain, P(late) = 0.6; if not, P(late) = 0.2. Find P(late).", "bm": "P(hujan) = 0.3. Jika hujan, P(lewat) = 0.6; jika tidak, P(lewat) = 0.2. Cari P(lewat)." }, "answer": { "en": "0.3 × 0.6 + 0.7 × 0.2 = 0.32", "bm": "0.3 × 0.6 + 0.7 × 0.2 = 0.32" } },
+      "tip": { "en": "Check your tree: all final probabilities must add up to 1.", "bm": "Semak pokok anda: semua kebarangkalian akhir mesti berjumlah 1." }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "chapterId": "bio-10",
+  "reviewed": false,
+  "subtopics": {
+    "bio-10-01": {
+      "keyPoints": [
+        { "en": "Small organisms rely on diffusion; large multicellular animals need a transport (circulatory) system.", "bm": "Organisma kecil bergantung pada resapan; haiwan multisel besar memerlukan sistem pengangkutan (peredaran)." },
+        { "en": "Components: a pump (heart), a medium (blood/haemolymph), vessels and valves.", "bm": "Komponen: pam (jantung), medium (darah/hemolimfa), salur dan injap." },
+        { "en": "Open system (insects): haemolymph bathes organs in the haemocoel.", "bm": "Sistem terbuka (serangga): hemolimfa memandikan organ dalam hemoseol." },
+        { "en": "Closed system: single circulation in fish (2-chambered heart); double in amphibians (3), birds and mammals (4).", "bm": "Sistem tertutup: peredaran tunggal dalam ikan (jantung 2 ruang); ganda dua dalam amfibia (3), burung dan mamalia (4)." }
+      ],
+      "example": { "question": { "en": "Why is double circulation more efficient?", "bm": "Mengapa peredaran ganda dua lebih cekap?" }, "answer": { "en": "Blood returns to the heart after the lungs and is pumped again at high pressure to the body.", "bm": "Darah kembali ke jantung selepas peparu dan dipam semula pada tekanan tinggi ke badan." } },
+      "tip": { "en": "Count how many times blood passes through the heart in one full circuit: once (single) or twice (double).", "bm": "Kira berapa kali darah melalui jantung dalam satu kitaran lengkap: sekali (tunggal) atau dua kali (ganda dua)." }
+    },
+    "bio-10-02": {
+      "keyPoints": [
+        { "en": "Blood: plasma (water, nutrients, hormones, CO₂, proteins) + red cells (O₂) + white cells (defence) + platelets (clotting).", "bm": "Darah: plasma (air, nutrien, hormon, CO₂, protein) + sel merah (O₂) + sel putih (pertahanan) + platlet (pembekuan)." },
+        { "en": "Heart: 4 chambers; left side pumps oxygenated blood, right side deoxygenated; septum separates them.", "bm": "Jantung: 4 ruang; sebelah kiri mengepam darah beroksigen, sebelah kanan terdeoksigen; septum memisahkannya." },
+        { "en": "Pathway: vena cava → RA → RV → pulmonary artery → lungs → pulmonary vein → LA → LV → aorta → body.", "bm": "Laluan: vena kava → AK → VK → arteri pulmonari → peparu → vena pulmonari → AKi → VKi → aorta → badan." },
+        { "en": "Arteries: thick elastic walls, high pressure. Veins: thinner walls, valves, low pressure. Capillaries: one cell thick for exchange.", "bm": "Arteri: dinding tebal kenyal, tekanan tinggi. Vena: dinding nipis, injap, tekanan rendah. Kapilari: setebal satu sel untuk pertukaran." },
+        { "en": "Skeletal muscles squeeze veins to help blood return to the heart.", "bm": "Otot rangka memicit vena untuk membantu darah kembali ke jantung." }
+      ],
+      "example": { "question": { "en": "Why do veins need valves but arteries mostly don't?", "bm": "Mengapa vena memerlukan injap tetapi arteri kebanyakannya tidak?" }, "answer": { "en": "Blood pressure in veins is low, so valves stop blood flowing backwards.", "bm": "Tekanan darah dalam vena rendah, jadi injap menghalang darah mengalir balik." } },
+      "tip": { "en": "A = Away from the heart (Arteries).", "bm": "Arteri = keluar dari jantung." }
+    },
+    "bio-10-03": {
+      "keyPoints": [
+        { "en": "Heart muscle is myogenic: the beat starts in the heart itself, at the SA node (pacemaker).", "bm": "Otot jantung miogenik: degupan bermula dalam jantung sendiri, di nodus SA (perentak)." },
+        { "en": "Signal path: SA node → atria contract → AV node (delay) → bundle of His → Purkinje fibres → ventricles contract.", "bm": "Laluan isyarat: nodus SA → atrium mengecut → nodus AV (lengah) → berkas His → gentian Purkinje → ventrikel mengecut." },
+        { "en": "Systole = contraction; diastole = relaxation. 'Lub' = AV valves close; 'dub' = semilunar valves close.", "bm": "Sistol = pengecutan; diastol = pengenduran. 'Lub' = injap AV tutup; 'dub' = injap sabit tutup." },
+        { "en": "The medulla oblongata adjusts heart rate through nerves; adrenaline speeds it up.", "bm": "Medula oblongata melaraskan kadar degupan melalui saraf; adrenalina mempercepatkannya." },
+        { "en": "Blood pressure is written systolic/diastolic, e.g. 120/80 mmHg.", "bm": "Tekanan darah ditulis sistolik/diastolik, cth. 120/80 mmHg." }
+      ],
+      "example": { "question": { "en": "Why does heart rate increase during exercise?", "bm": "Mengapa kadar degupan jantung meningkat semasa bersenam?" }, "answer": { "en": "Muscles need more O₂ and glucose and must remove more CO₂, so the medulla sends signals to speed up the SA node.", "bm": "Otot memerlukan lebih O₂ dan glukosa serta perlu menyingkir lebih CO₂, jadi medula menghantar isyarat untuk mempercepat nodus SA." } },
+      "tip": { "en": "An artificial pacemaker replaces a faulty SA node.", "bm": "Perentak tiruan menggantikan nodus SA yang rosak." }
+    },
+    "bio-10-04": {
+      "keyPoints": [
+        { "en": "Clotting stops blood loss and keeps germs out of wounds.", "bm": "Pembekuan menghentikan kehilangan darah dan menghalang kuman memasuki luka." },
+        { "en": "Damaged tissue and platelets release thromboplastin.", "bm": "Tisu rosak dan platlet membebaskan tromboplastin." },
+        { "en": "Thromboplastin + Ca²⁺ + vitamin K convert prothrombin → thrombin.", "bm": "Tromboplastin + Ca²⁺ + vitamin K menukarkan protrombin → trombin." },
+        { "en": "Thrombin converts soluble fibrinogen → insoluble fibrin threads that trap blood cells → clot.", "bm": "Trombin menukarkan fibrinogen terlarut → bebenang fibrin tidak larut yang memerangkap sel darah → beku." },
+        { "en": "Haemophilia: inherited lack of a clotting factor; thrombosis: an unwanted clot inside a vessel.", "bm": "Hemofilia: kekurangan faktor pembekuan yang diwarisi; trombosis: beku yang tidak diingini dalam salur." }
+      ],
+      "example": { "question": { "en": "Why do doctors check vitamin K levels before some surgeries?", "bm": "Mengapa doktor memeriksa aras vitamin K sebelum sesetengah pembedahan?" }, "answer": { "en": "Vitamin K is needed to make prothrombin; without it, blood won't clot properly.", "bm": "Vitamin K diperlukan untuk menghasilkan protrombin; tanpanya, darah tidak membeku dengan baik." } },
+      "tip": { "en": "Learn the cascade as 'T-P-T-F-F': Thromboplastin, Prothrombin, Thrombin, Fibrinogen, Fibrin.", "bm": "Ingat rangkaian 'T-P-T-F-F': Tromboplastin, Protrombin, Trombin, Fibrinogen, Fibrin." }
+    },
+    "bio-10-05": {
+      "keyPoints": [
+        { "en": "ABO blood groups depend on antigens (A, B) on red blood cells and antibodies (anti-A, anti-B) in plasma.", "bm": "Kumpulan darah ABO bergantung pada antigen (A, B) pada sel darah merah dan antibodi (anti-A, anti-B) dalam plasma." },
+        { "en": "A: antigen A, anti-B. B: antigen B, anti-A. AB: both antigens, no antibodies. O: no antigens, both antibodies.", "bm": "A: antigen A, anti-B. B: antigen B, anti-A. AB: kedua-dua antigen, tiada antibodi. O: tiada antigen, kedua-dua antibodi." },
+        { "en": "Mismatched transfusion → agglutination (clumping) → blocked vessels, can be fatal.", "bm": "Pemindahan tidak sepadan → aglutinasi (penggumpalan) → salur tersumbat, boleh membawa maut." },
+        { "en": "O = universal donor; AB = universal recipient. Rhesus factor (Rh+/Rh−) must also match.", "bm": "O = penderma universal; AB = penerima universal. Faktor Rhesus (Rh+/Rh−) juga mesti sepadan." }
+      ],
+      "example": { "question": { "en": "Can a group B person donate to a group A person?", "bm": "Bolehkah orang kumpulan B menderma kepada orang kumpulan A?" }, "answer": { "en": "No — the recipient's anti-B antibodies will agglutinate the donor's B red cells.", "bm": "Tidak — antibodi anti-B penerima akan mengaglutinasi sel merah B penderma." } },
+      "tip": { "en": "Check the DONOR's antigens against the RECIPIENT's antibodies.", "bm": "Semak antigen PENDERMA berbanding antibodi PENERIMA." }
+    },
+    "bio-10-06": {
+      "keyPoints": [
+        { "en": "Atherosclerosis: cholesterol plaque narrows arteries.", "bm": "Aterosklerosis: plak kolesterol menyempitkan arteri." },
+        { "en": "Hypertension (high blood pressure) strains the heart and vessels.", "bm": "Hipertensi (tekanan darah tinggi) membebankan jantung dan salur." },
+        { "en": "Blocked coronary artery → heart attack; blocked/burst brain artery → stroke.", "bm": "Arteri koronari tersumbat → serangan jantung; arteri otak tersumbat/pecah → strok." },
+        { "en": "Risk factors: smoking, high-fat/salt diet, obesity, no exercise, stress, diabetes, family history.", "bm": "Faktor risiko: merokok, diet tinggi lemak/garam, obesiti, kurang bersenam, tekanan, diabetes, sejarah keluarga." },
+        { "en": "Treatments: medication, angioplasty (stent), bypass surgery; prevention through healthy lifestyle.", "bm": "Rawatan: ubat, angioplasti (sten), pembedahan pintasan; pencegahan melalui gaya hidup sihat." }
+      ],
+      "example": { "question": { "en": "Why does smoking increase the risk of heart attack?", "bm": "Mengapa merokok meningkatkan risiko serangan jantung?" }, "answer": { "en": "Nicotine raises blood pressure and damages artery walls, helping plaque build up; CO reduces O₂ to the heart muscle.", "bm": "Nikotina menaikkan tekanan darah dan merosakkan dinding arteri, membantu plak terkumpul; CO mengurangkan O₂ ke otot jantung." } },
+      "tip": { "en": "Name the vessel affected and what happens to the tissue it supplies.", "bm": "Namakan salur yang terjejas dan apa berlaku kepada tisu yang dibekalkannya." }
+    },
+    "bio-10-07": {
+      "keyPoints": [
+        { "en": "Tissue fluid leaks from capillaries; most returns to the blood, the rest drains into lymph vessels as lymph.", "bm": "Bendalir tisu meresap dari kapilari; kebanyakannya kembali ke darah, selebihnya mengalir ke salur limfa sebagai limfa." },
+        { "en": "Lymph flows one way (with valves) through lymph nodes and returns to blood via the subclavian veins.", "bm": "Limfa mengalir sehala (dengan injap) melalui nodus limfa dan kembali ke darah melalui vena subklavikel." },
+        { "en": "Lymph nodes contain lymphocytes that filter and destroy germs; the spleen and thymus are lymphatic organs.", "bm": "Nodus limfa mengandungi limfosit yang menapis dan memusnahkan kuman; limpa dan timus ialah organ limfa." },
+        { "en": "Lacteals in villi absorb fatty acids and glycerol into the lymphatic system.", "bm": "Lakteal dalam vilus menyerap asid lemak dan gliserol ke dalam sistem limfa." }
+      ],
+      "example": { "question": { "en": "Why do lymph nodes in the neck swell during a sore throat?", "bm": "Mengapa nodus limfa di leher membengkak semasa sakit tekak?" }, "answer": { "en": "Lymphocytes multiply there to fight the infection.", "bm": "Limfosit membiak di situ untuk melawan jangkitan." } },
+      "tip": { "en": "Lymph has no pump — it moves by skeletal muscle squeezing, like veins.", "bm": "Limfa tiada pam — ia bergerak melalui picitan otot rangka, seperti vena." }
+    },
+    "bio-10-08": {
+      "keyPoints": [
+        { "en": "Oedema: tissue fluid builds up and causes swelling when it isn't drained.", "bm": "Edema: bendalir tisu terkumpul dan menyebabkan bengkak apabila tidak disalirkan." },
+        { "en": "Elephantiasis (filariasis): parasitic worms spread by mosquitoes block lymph vessels → huge swelling of limbs.", "bm": "Untut (filariasis): cacing parasit yang disebarkan nyamuk menyumbat salur limfa → bengkak besar pada anggota." },
+        { "en": "Lymphoma: cancer of the lymphatic system (lymphocytes).", "bm": "Limfoma: kanser sistem limfa (limfosit)." },
+        { "en": "Prevention: mosquito control, early treatment, healthy lifestyle.", "bm": "Pencegahan: kawalan nyamuk, rawatan awal, gaya hidup sihat." }
+      ],
+      "example": { "question": { "en": "How can filariasis be prevented in a village?", "bm": "Bagaimana filariasis boleh dicegah di sebuah kampung?" }, "answer": { "en": "Destroy mosquito breeding sites, use nets and repellent, and mass drug treatment.", "bm": "Musnahkan tempat pembiakan nyamuk, guna kelambu dan penghalau, serta rawatan ubat secara besar-besaran." } },
+      "tip": { "en": "Link lymph problems back to the job of the lymphatic system — draining fluid and fighting germs.", "bm": "Kaitkan masalah limfa dengan tugas sistem limfa — menyalirkan bendalir dan melawan kuman." }
+    }
+  }
+}

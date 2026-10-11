@@ -1,0 +1,113 @@
+{
+  "chapterId": "phy-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your phone receives a call through invisible waves. A microwave heats your nasi lemak. Ocean waves bend around the breakwater at Teluk Cempedak. They are all waves — and they all follow the same rules.",
+      "bm": "Telefon anda menerima panggilan melalui gelombang yang tidak kelihatan. Ketuhar gelombang mikro memanaskan nasi lemak. Ombak membelok di sekitar pemecah ombak di Teluk Cempedak. Semuanya gelombang — dan mematuhi peraturan yang sama."
+    },
+    "bigIdeas": [
+      { "en": "Waves transfer energy without transferring matter; v = fλ.", "bm": "Gelombang memindahkan tenaga tanpa memindahkan jirim; v = fλ." },
+      { "en": "Transverse waves vibrate perpendicular to travel; longitudinal waves vibrate parallel.", "bm": "Gelombang melintang bergetar serenjang dengan arah perambatan; gelombang membujur bergetar selari." },
+      { "en": "Waves can reflect, refract, diffract and interfere.", "bm": "Gelombang boleh dipantulkan, dibiaskan, dibelaukan dan berinterferens." },
+      { "en": "Resonance happens when a system is driven at its natural frequency.", "bm": "Resonans berlaku apabila sistem dipaksa pada frekuensi aslinya." },
+      { "en": "All electromagnetic waves travel at 3 × 10⁸ m s⁻¹ in a vacuum.", "bm": "Semua gelombang elektromagnet bergerak pada 3 × 10⁸ m s⁻¹ dalam vakum." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Radio waves", "bm": "Gelombang radio" }, "detail": { "en": "longest λ — broadcasting", "bm": "λ terpanjang — penyiaran" } },
+          { "title": { "en": "Microwaves", "bm": "Gelombang mikro" }, "detail": { "en": "cooking, satellite links", "bm": "memasak, komunikasi satelit" } },
+          { "title": { "en": "Infrared", "bm": "Inframerah" }, "detail": { "en": "remote controls, thermal imaging", "bm": "alat kawalan jauh, pengimejan terma" } },
+          { "title": { "en": "Visible light", "bm": "Cahaya nampak" }, "detail": { "en": "seeing, photography", "bm": "penglihatan, fotografi" } },
+          { "title": { "en": "Ultraviolet", "bm": "Ultraungu" }, "detail": { "en": "sterilising, detecting fake notes", "bm": "pensterilan, mengesan wang palsu" } },
+          { "title": { "en": "X-rays", "bm": "Sinar-X" }, "detail": { "en": "seeing bones", "bm": "melihat tulang" } },
+          { "title": { "en": "Gamma rays", "bm": "Sinar gama" }, "detail": { "en": "shortest λ — cancer treatment", "bm": "λ terpendek — rawatan kanser" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Amplitude", "bm": "Amplitud" }, "definition": { "en": "Maximum displacement from the equilibrium position.", "bm": "Sesaran maksimum dari kedudukan keseimbangan." } },
+      { "term": { "en": "Wavelength", "bm": "Panjang gelombang" }, "definition": { "en": "Distance between two consecutive crests (λ).", "bm": "Jarak antara dua puncak berturutan (λ)." } },
+      { "term": { "en": "Frequency", "bm": "Frekuensi" }, "definition": { "en": "Number of complete oscillations per second (Hz).", "bm": "Bilangan ayunan lengkap sesaat (Hz)." } },
+      { "term": { "en": "Damping", "bm": "Pelembapan" }, "definition": { "en": "Gradual decrease in amplitude as energy is lost.", "bm": "Pengurangan amplitud secara beransur kerana tenaga hilang." } },
+      { "term": { "en": "Resonance", "bm": "Resonans" }, "definition": { "en": "Large-amplitude vibration when driven at the natural frequency.", "bm": "Getaran amplitud besar apabila dipaksa pada frekuensi asli." } },
+      { "term": { "en": "Diffraction", "bm": "Pembelauan" }, "definition": { "en": "Spreading of waves through a gap or around an obstacle.", "bm": "Penyebaran gelombang melalui celah atau sekitar penghalang." } },
+      { "term": { "en": "Interference", "bm": "Interferens" }, "definition": { "en": "Superposition of two coherent waves.", "bm": "Superposisi dua gelombang koheren." } }
+    ],
+    "formulaIds": ["phy-wave-speed", "phy-period", "phy-young"],
+    "toolId": "wave-visualiser",
+    "workedExample": {
+      "question": { "en": "In a Young's double-slit experiment, slit separation a = 0.5 mm, screen distance D = 2.0 m and fringe separation x = 2.4 mm. Find the wavelength.", "bm": "Dalam eksperimen dwicelah Young, jarak celah a = 0.5 mm, jarak skrin D = 2.0 m dan jarak pinggir x = 2.4 mm. Cari panjang gelombang." },
+      "steps": [
+        { "en": "Convert to metres: a = 0.5 × 10⁻³ m, x = 2.4 × 10⁻³ m.", "bm": "Tukar ke meter: a = 0.5 × 10⁻³ m, x = 2.4 × 10⁻³ m." },
+        { "en": "λ = ax/D = (0.5 × 10⁻³ × 2.4 × 10⁻³) ÷ 2.0", "bm": "λ = ax/D = (0.5 × 10⁻³ × 2.4 × 10⁻³) ÷ 2.0" },
+        { "en": "λ = 6.0 × 10⁻⁷ m = 600 nm (orange light)", "bm": "λ = 6.0 × 10⁻⁷ m = 600 nm (cahaya jingga)" }
+      ],
+      "answer": { "en": "6.0 × 10⁻⁷ m (600 nm)", "bm": "6.0 × 10⁻⁷ m (600 nm)" }
+    }
+  },
+  "questions": [
+    { "id": "phy-05-q01", "subtopicId": "phy-05-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "In a transverse wave, the particles vibrate…", "bm": "Dalam gelombang melintang, zarah bergetar…" },
+      "options": [ { "en": "parallel to the direction of the wave", "bm": "selari dengan arah gelombang" }, { "en": "perpendicular to the direction of the wave", "bm": "serenjang dengan arah gelombang" }, { "en": "in circles", "bm": "dalam bulatan" }, { "en": "not at all", "bm": "tidak bergetar langsung" } ],
+      "answer": 1,
+      "explanation": { "en": "Transverse: e.g. water waves, light. Longitudinal (parallel): e.g. sound.", "bm": "Melintang: cth. gelombang air, cahaya. Membujur (selari): cth. bunyi." } },
+    { "id": "phy-05-q02", "subtopicId": "phy-05-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A wave has frequency 5 Hz and wavelength 2 m. Find its speed.", "bm": "Satu gelombang mempunyai frekuensi 5 Hz dan panjang gelombang 2 m. Cari lajunya." },
+      "answer": 10, "tolerance": 0.01, "unit": "m s⁻¹",
+      "explanation": { "en": "v = fλ = 5 × 2 = 10 m s⁻¹.", "bm": "v = fλ = 5 × 2 = 10 m s⁻¹." } },
+    { "id": "phy-05-q03", "subtopicId": "phy-05-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the period of a wave with frequency 50 Hz.", "bm": "Cari tempoh gelombang yang berfrekuensi 50 Hz." },
+      "answer": 0.02, "tolerance": 0.01, "unit": "s",
+      "explanation": { "en": "T = 1/f = 1/50 = 0.02 s.", "bm": "T = 1/f = 1/50 = 0.02 s." } },
+    { "id": "phy-05-q04", "subtopicId": "phy-05-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Resonance occurs when…", "bm": "Resonans berlaku apabila…" },
+      "options": [ { "en": "the amplitude is zero", "bm": "amplitud sifar" }, { "en": "the driving frequency equals the natural frequency", "bm": "frekuensi daya paksa sama dengan frekuensi asli" }, { "en": "the wave is reflected", "bm": "gelombang dipantulkan" }, { "en": "damping is very large", "bm": "pelembapan sangat besar" } ],
+      "answer": 1,
+      "explanation": { "en": "Energy is transferred most efficiently at the natural frequency, so amplitude becomes maximum.", "bm": "Tenaga dipindahkan paling cekap pada frekuensi asli, jadi amplitud menjadi maksimum." } },
+    { "id": "phy-05-q05", "subtopicId": "phy-05-03", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "When a wave is reflected, which quantity changes?", "bm": "Apabila gelombang dipantulkan, kuantiti manakah yang berubah?" },
+      "options": [ { "en": "Speed", "bm": "Laju" }, { "en": "Frequency", "bm": "Frekuensi" }, { "en": "Wavelength", "bm": "Panjang gelombang" }, { "en": "Direction", "bm": "Arah" } ],
+      "answer": 3,
+      "explanation": { "en": "Only direction changes on reflection; angle of incidence = angle of reflection.", "bm": "Hanya arah berubah semasa pantulan; sudut tuju = sudut pantulan." } },
+    { "id": "phy-05-q06", "subtopicId": "phy-05-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Water waves move from deep water into shallow water. What happens?", "bm": "Gelombang air bergerak dari air dalam ke air cetek. Apakah yang berlaku?" },
+      "options": [ { "en": "Speed and wavelength decrease; frequency stays the same", "bm": "Laju dan panjang gelombang berkurang; frekuensi tidak berubah" }, { "en": "Speed increases; frequency decreases", "bm": "Laju bertambah; frekuensi berkurang" }, { "en": "Frequency and wavelength both increase", "bm": "Frekuensi dan panjang gelombang bertambah" }, { "en": "Nothing changes", "bm": "Tiada perubahan" } ],
+      "answer": 0,
+      "explanation": { "en": "Frequency is set by the source. Slower speed in shallow water means shorter λ (v = fλ).", "bm": "Frekuensi ditentukan oleh sumber. Laju lebih rendah di air cetek bermakna λ lebih pendek (v = fλ)." } },
+    { "id": "phy-05-q07", "subtopicId": "phy-05-05", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Diffraction through a gap is most noticeable when…", "bm": "Pembelauan melalui celah paling ketara apabila…" },
+      "options": [ { "en": "the gap is much larger than the wavelength", "bm": "celah jauh lebih besar daripada panjang gelombang" }, { "en": "the gap is about the same size as the wavelength", "bm": "saiz celah hampir sama dengan panjang gelombang" }, { "en": "the wave has high amplitude", "bm": "gelombang beramplitud tinggi" }, { "en": "the water is deep", "bm": "air dalam" } ],
+      "answer": 1,
+      "explanation": { "en": "A narrow gap (≈ λ) makes the waves spread out the most.", "bm": "Celah sempit (≈ λ) menyebabkan gelombang tersebar paling banyak." } },
+    { "id": "phy-05-q08", "subtopicId": "phy-05-06", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Young's double slit: a = 0.5 mm, D = 2.0 m, x = 2.4 mm. Find the wavelength in nm.", "bm": "Dwicelah Young: a = 0.5 mm, D = 2.0 m, x = 2.4 mm. Cari panjang gelombang dalam nm." },
+      "answer": 600, "tolerance": 0.02, "unit": "nm",
+      "explanation": { "en": "λ = ax/D = (0.5 × 10⁻³)(2.4 × 10⁻³)/2 = 6 × 10⁻⁷ m = 600 nm.", "bm": "λ = ax/D = (0.5 × 10⁻³)(2.4 × 10⁻³)/2 = 6 × 10⁻⁷ m = 600 nm." } },
+    { "id": "phy-05-q09", "subtopicId": "phy-05-06", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Constructive interference happens when…", "bm": "Interferens membina berlaku apabila…" },
+      "options": [ { "en": "a crest meets a trough", "bm": "puncak bertemu lembangan" }, { "en": "a crest meets a crest", "bm": "puncak bertemu puncak" }, { "en": "waves have different frequencies", "bm": "gelombang mempunyai frekuensi berbeza" }, { "en": "one wave is reflected", "bm": "satu gelombang dipantulkan" } ],
+      "answer": 1,
+      "explanation": { "en": "Crest + crest (or trough + trough) adds up to a larger amplitude. Crest + trough cancels (destructive).", "bm": "Puncak + puncak (atau lembangan + lembangan) menghasilkan amplitud lebih besar. Puncak + lembangan membatalkan (memusnah)." } },
+    { "id": "phy-05-q10", "subtopicId": "phy-05-07", "type": "order", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Arrange these electromagnetic waves from SHORTEST to LONGEST wavelength.", "bm": "Susun gelombang elektromagnet ini dari panjang gelombang TERPENDEK ke TERPANJANG." },
+      "items": [ { "en": "Gamma rays", "bm": "Sinar gama" }, { "en": "X-rays", "bm": "Sinar-X" }, { "en": "Ultraviolet", "bm": "Ultraungu" }, { "en": "Visible light", "bm": "Cahaya nampak" }, { "en": "Infrared", "bm": "Inframerah" }, { "en": "Microwaves", "bm": "Gelombang mikro" }, { "en": "Radio waves", "bm": "Gelombang radio" } ],
+      "explanation": { "en": "Shorter wavelength = higher frequency = more energy (gamma is the most dangerous).", "bm": "Panjang gelombang lebih pendek = frekuensi lebih tinggi = tenaga lebih besar (gama paling berbahaya)." } },
+    { "id": "phy-05-q11", "subtopicId": "phy-05-07", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each electromagnetic wave to a use.", "bm": "Padankan setiap gelombang elektromagnet dengan kegunaannya." },
+      "pairs": [
+        { "left": { "en": "X-rays", "bm": "Sinar-X" }, "right": { "en": "Seeing broken bones", "bm": "Melihat tulang patah" } },
+        { "left": { "en": "Microwaves", "bm": "Gelombang mikro" }, "right": { "en": "Satellite communication", "bm": "Komunikasi satelit" } },
+        { "left": { "en": "Infrared", "bm": "Inframerah" }, "right": { "en": "TV remote control", "bm": "Alat kawalan jauh TV" } },
+        { "left": { "en": "Ultraviolet", "bm": "Ultraungu" }, "right": { "en": "Sterilising equipment", "bm": "Mensterilkan peralatan" } }
+      ],
+      "explanation": { "en": "All are EM waves travelling at 3 × 10⁸ m s⁻¹ in a vacuum.", "bm": "Semuanya gelombang EM yang bergerak pada 3 × 10⁸ m s⁻¹ dalam vakum." } },
+    { "id": "phy-05-q12", "subtopicId": "phy-05-02", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Damping causes a vibrating system's…", "bm": "Pelembapan menyebabkan sistem bergetar…" },
+      "options": [ { "en": "frequency to double", "bm": "frekuensinya berganda" }, { "en": "amplitude to decrease gradually", "bm": "amplitudnya berkurang beransur-ansur" }, { "en": "wavelength to increase", "bm": "panjang gelombangnya bertambah" }, { "en": "speed to increase", "bm": "lajunya bertambah" } ],
+      "answer": 1,
+      "explanation": { "en": "Energy is lost (e.g. to air resistance), so amplitude decreases. Natural frequency stays the same.", "bm": "Tenaga hilang (cth. kepada rintangan udara), jadi amplitud berkurang. Frekuensi asli kekal." } }
+  ]
+}

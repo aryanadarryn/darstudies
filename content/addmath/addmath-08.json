@@ -1,0 +1,97 @@
+{
+  "chapterId": "addmath-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A pilot flying from KLIA to Penang must account for the wind pushing the plane sideways. A boat crossing the Straits of Malacca drifts with the current. Speed alone isn't enough — you need direction too. That's a vector.",
+      "bm": "Juruterbang yang terbang dari KLIA ke Pulau Pinang mesti mengambil kira angin yang menolak pesawat ke sisi. Bot yang menyeberangi Selat Melaka hanyut mengikut arus. Laju sahaja tidak cukup — anda perlukan arah juga. Itulah vektor."
+    },
+    "bigIdeas": [
+      { "en": "A vector has magnitude and direction; a scalar has magnitude only.", "bm": "Vektor mempunyai magnitud dan arah; skalar hanya magnitud." },
+      { "en": "Vectors add by the triangle or parallelogram law.", "bm": "Vektor ditambah menggunakan hukum segi tiga atau segi empat selari." },
+      { "en": "Parallel vectors are scalar multiples: a = kb.", "bm": "Vektor selari ialah gandaan skalar: a = kb." },
+      { "en": "In the Cartesian plane, r = xi + yj with |r| = √(x² + y²).", "bm": "Dalam satah Cartes, r = xi + yj dengan |r| = √(x² + y²)." }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Vectors", "bm": "Vektor" },
+        "nodes": [
+          { "label": { "en": "Magnitude", "bm": "Magnitud" }, "detail": { "en": "|r| = √(x² + y²)", "bm": "|r| = √(x² + y²)" } },
+          { "label": { "en": "Direction", "bm": "Arah" }, "detail": { "en": "angle or bearing", "bm": "sudut atau bearing" } },
+          { "label": { "en": "Triangle law", "bm": "Hukum segi tiga" }, "detail": { "en": "AB + BC = AC", "bm": "AB + BC = AC" } },
+          { "label": { "en": "Parallel", "bm": "Selari" }, "detail": { "en": "a = kb", "bm": "a = kb" } },
+          { "label": { "en": "Unit vector", "bm": "Vektor unit" }, "detail": { "en": "r / |r|", "bm": "r / |r|" } },
+          { "label": { "en": "Components", "bm": "Komponen" }, "detail": { "en": "xi + yj", "bm": "xi + yj" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Vector", "bm": "Vektor" }, "definition": { "en": "A quantity with magnitude and direction, e.g. displacement, velocity.", "bm": "Kuantiti dengan magnitud dan arah, cth. sesaran, halaju." } },
+      { "term": { "en": "Zero vector", "bm": "Vektor sifar" }, "definition": { "en": "A vector with magnitude 0, written 0.", "bm": "Vektor bermagnitud 0, ditulis 0." } },
+      { "term": { "en": "Negative vector", "bm": "Vektor negatif" }, "definition": { "en": "−a has the same magnitude as a but opposite direction.", "bm": "−a mempunyai magnitud sama dengan a tetapi arah bertentangan." } },
+      { "term": { "en": "Unit vector", "bm": "Vektor unit" }, "definition": { "en": "A vector of magnitude 1, e.g. i and j.", "bm": "Vektor bermagnitud 1, cth. i dan j." } },
+      { "term": { "en": "Position vector", "bm": "Vektor kedudukan" }, "definition": { "en": "OA — vector from the origin to point A.", "bm": "OA — vektor dari asalan ke titik A." } },
+      { "term": { "en": "Resultant vector", "bm": "Vektor paduan" }, "definition": { "en": "Single vector equal to the sum of two or more vectors.", "bm": "Satu vektor yang sama dengan hasil tambah dua atau lebih vektor." } }
+    ],
+    "formulaIds": ["am-vector-mag", "am-unit-vector"],
+    "workedExample": {
+      "question": { "en": "A(1, 2) and B(4, 6). Find AB in terms of i and j, |AB| and the unit vector in the direction of AB.", "bm": "A(1, 2) dan B(4, 6). Cari AB dalam sebutan i dan j, |AB| dan vektor unit dalam arah AB." },
+      "steps": [
+        { "en": "AB = OB − OA = (4i + 6j) − (i + 2j) = 3i + 4j.", "bm": "AB = OB − OA = (4i + 6j) − (i + 2j) = 3i + 4j." },
+        { "en": "|AB| = √(3² + 4²) = 5.", "bm": "|AB| = √(3² + 4²) = 5." },
+        { "en": "Unit vector = (3i + 4j)/5 = 0.6i + 0.8j.", "bm": "Vektor unit = (3i + 4j)/5 = 0.6i + 0.8j." }
+      ],
+      "answer": { "en": "AB = 3i + 4j, |AB| = 5, unit vector = (3i + 4j)/5", "bm": "AB = 3i + 4j, |AB| = 5, vektor unit = (3i + 4j)/5" }
+    }
+  },
+  "questions": [
+    { "id": "addmath-08-q01", "subtopicId": "addmath-08-01", "type": "multi", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Select ALL vector quantities.", "bm": "Pilih SEMUA kuantiti vektor." },
+      "options": [ { "en": "Velocity", "bm": "Halaju" }, { "en": "Force", "bm": "Daya" }, { "en": "Temperature", "bm": "Suhu" }, { "en": "Displacement", "bm": "Sesaran" } ],
+      "answer": [0, 1, 3],
+      "explanation": { "en": "Temperature has no direction, so it's a scalar.", "bm": "Suhu tiada arah, jadi ia skalar." } },
+    { "id": "addmath-08-q02", "subtopicId": "addmath-08-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Vectors 2i + kj and 4i + 6j are parallel. Find k.", "bm": "Vektor 2i + kj dan 4i + 6j adalah selari. Cari k." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "4i + 6j = 2(2i + 3j), so k = 3.", "bm": "4i + 6j = 2(2i + 3j), jadi k = 3." } },
+    { "id": "addmath-08-q03", "subtopicId": "addmath-08-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Using the triangle law, AB + BC = …", "bm": "Menggunakan hukum segi tiga, AB + BC = …" },
+      "options": [ { "en": "AC", "bm": "AC" }, { "en": "CA", "bm": "CA" }, { "en": "BA", "bm": "BA" }, { "en": "0", "bm": "0" } ],
+      "answer": 0,
+      "explanation": { "en": "Go from A to B then B to C — the same as going directly from A to C.", "bm": "Dari A ke B kemudian B ke C — sama seperti terus dari A ke C." } },
+    { "id": "addmath-08-q04", "subtopicId": "addmath-08-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "a and b are non-parallel and (h − 1)a = (k + 2)b. Find h and k.", "bm": "a dan b tidak selari dan (h − 1)a = (k + 2)b. Cari h dan k." },
+      "options": [ { "en": "h = 1, k = −2", "bm": "h = 1, k = −2" }, { "en": "h = −1, k = 2", "bm": "h = −1, k = 2" }, { "en": "h = 0, k = 0", "bm": "h = 0, k = 0" }, { "en": "h = 2, k = 1", "bm": "h = 2, k = 1" } ],
+      "answer": 0,
+      "explanation": { "en": "Non-parallel vectors can only be equal if both coefficients are 0: h − 1 = 0, k + 2 = 0.", "bm": "Vektor tidak selari hanya boleh sama jika kedua-dua pekali ialah 0: h − 1 = 0, k + 2 = 0." } },
+    { "id": "addmath-08-q05", "subtopicId": "addmath-08-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find |3i + 4j|.", "bm": "Cari |3i + 4j|." },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "√(3² + 4²) = 5.", "bm": "√(3² + 4²) = 5." } },
+    { "id": "addmath-08-q06", "subtopicId": "addmath-08-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the unit vector in the direction of 6i + 8j.", "bm": "Cari vektor unit dalam arah 6i + 8j." },
+      "options": [ { "en": "0.6i + 0.8j", "bm": "0.6i + 0.8j" }, { "en": "6i + 8j", "bm": "6i + 8j" }, { "en": "0.8i + 0.6j", "bm": "0.8i + 0.6j" }, { "en": "i + j", "bm": "i + j" } ],
+      "answer": 0,
+      "explanation": { "en": "|6i + 8j| = 10; divide each component by 10.", "bm": "|6i + 8j| = 10; bahagi setiap komponen dengan 10." } },
+    { "id": "addmath-08-q07", "subtopicId": "addmath-08-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "a = 2i + 3j and b = i − j. Find 2a − b.", "bm": "a = 2i + 3j dan b = i − j. Cari 2a − b." },
+      "options": [ { "en": "3i + 7j", "bm": "3i + 7j" }, { "en": "3i + 5j", "bm": "3i + 5j" }, { "en": "5i + 5j", "bm": "5i + 5j" }, { "en": "i + 7j", "bm": "i + 7j" } ],
+      "answer": 0,
+      "explanation": { "en": "2a = 4i + 6j; 4i + 6j − (i − j) = 3i + 7j.", "bm": "2a = 4i + 6j; 4i + 6j − (i − j) = 3i + 7j." } },
+    { "id": "addmath-08-q08", "subtopicId": "addmath-08-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A(1, 2) and B(4, 6). Find |AB|.", "bm": "A(1, 2) dan B(4, 6). Cari |AB|." },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "AB = 3i + 4j, |AB| = 5.", "bm": "AB = 3i + 4j, |AB| = 5." } },
+    { "id": "addmath-08-q09", "subtopicId": "addmath-08-02", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "In triangle OAB, OA = a, OB = b and M is the midpoint of AB. Express OM.", "bm": "Dalam segi tiga OAB, OA = a, OB = b dan M ialah titik tengah AB. Ungkapkan OM." },
+      "options": [ { "en": "½(a + b)", "bm": "½(a + b)" }, { "en": "a + b", "bm": "a + b" }, { "en": "½(b − a)", "bm": "½(b − a)" }, { "en": "b − a", "bm": "b − a" } ],
+      "answer": 0,
+      "explanation": { "en": "OM = OA + ½AB = a + ½(b − a) = ½(a + b).", "bm": "OM = OA + ½AB = a + ½(b − a) = ½(a + b)." } },
+    { "id": "addmath-08-q10", "subtopicId": "addmath-08-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Two vectors are equal if they have…", "bm": "Dua vektor sama jika mempunyai…" },
+      "options": [ { "en": "the same magnitude and the same direction", "bm": "magnitud dan arah yang sama" }, { "en": "the same magnitude only", "bm": "magnitud yang sama sahaja" }, { "en": "the same starting point", "bm": "titik mula yang sama" }, { "en": "opposite directions", "bm": "arah bertentangan" } ],
+      "answer": 0,
+      "explanation": { "en": "Position doesn't matter — only magnitude and direction.", "bm": "Kedudukan tidak penting — hanya magnitud dan arah." } }
+  ]
+}

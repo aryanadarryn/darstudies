@@ -1,0 +1,17 @@
+{
+  "chapterId": "math-01",
+  "reviewed": false,
+  "subtopics": {
+    "math-01-01": {
+      "keyPoints": [
+        { "en": "Quadratic expression: ax² + bx + c in one variable, a ≠ 0, highest power exactly 2.", "bm": "Ungkapan kuadratik: ax² + bx + c dalam satu pemboleh ubah, a ≠ 0, kuasa tertinggi tepat 2." },
+        { "en": "Quadratic function f(x) = ax² + bx + c draws a parabola: a > 0 → ∪ with a minimum; a < 0 → ∩ with a maximum.", "bm": "Fungsi kuadratik f(x) = ax² + bx + c melukis parabola: a > 0 → ∪ dengan minimum; a < 0 → ∩ dengan maksimum." },
+        { "en": "The axis of symmetry passes through the turning point: x = −b/2a. c is the y-intercept.", "bm": "Paksi simetri melalui titik pusingan: x = −b/2a. c ialah pintasan-y." },
+        { "en": "Solve ax² + bx + c = 0 by factorisation; roots are the x-intercepts of the graph.", "bm": "Selesaikan ax² + bx + c = 0 dengan pemfaktoran; punca ialah pintasan-x graf." },
+        { "en": "Word problems: define the variable, form the equation, solve, and reject impossible answers.", "bm": "Masalah berayat: takrifkan pemboleh ubah, bentuk persamaan, selesaikan, dan tolak jawapan yang mustahil." }
+      ],
+      "example": { "question": { "en": "The product of two consecutive positive integers is 56. Find them.", "bm": "Hasil darab dua integer positif berturutan ialah 56. Cari integer itu." }, "answer": { "en": "n(n + 1) = 56 → n² + n − 56 = 0 → (n + 8)(n − 7) = 0 → n = 7, so 7 and 8.", "bm": "n(n + 1) = 56 → n² + n − 56 = 0 → (n + 8)(n − 7) = 0 → n = 7, jadi 7 dan 8." } },
+      "tip": { "en": "To factorise x² + bx + c, find two numbers that multiply to c and add to b.", "bm": "Untuk memfaktorkan x² + bx + c, cari dua nombor yang hasil darabnya c dan hasil tambahnya b." }
+    }
+  }
+}

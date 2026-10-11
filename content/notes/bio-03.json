@@ -1,0 +1,50 @@
+{
+  "chapterId": "bio-03",
+  "reviewed": false,
+  "subtopics": {
+    "bio-03-01": {
+      "keyPoints": [
+        { "en": "The plasma membrane follows the fluid mosaic model: a phospholipid bilayer with proteins floating in it.", "bm": "Membran plasma mengikut model mozek bendalir: dwilapisan fosfolipid dengan protein yang terapung di dalamnya." },
+        { "en": "Phospholipids have hydrophilic heads (facing water) and hydrophobic tails (facing inwards).", "bm": "Fosfolipid mempunyai kepala hidrofilik (menghadap air) dan ekor hidrofobik (menghadap ke dalam)." },
+        { "en": "Channel proteins and carrier proteins help substances that can't cross the bilayer.", "bm": "Protein liang dan protein pembawa membantu bahan yang tidak dapat merentasi dwilapisan." },
+        { "en": "Cholesterol keeps the membrane stable; glycoproteins act as markers for cell recognition.", "bm": "Kolesterol menstabilkan membran; glikoprotein bertindak sebagai penanda untuk pengecaman sel." },
+        { "en": "The membrane is semi-permeable: it controls what enters and leaves the cell.", "bm": "Membran adalah separa telap: ia mengawal bahan yang masuk dan keluar sel." }
+      ],
+      "example": { "question": { "en": "Why can't glucose diffuse straight through the phospholipid bilayer?", "bm": "Mengapa glukosa tidak boleh meresap terus melalui dwilapisan fosfolipid?" }, "answer": { "en": "Glucose is large and water-soluble, so it can't pass the hydrophobic tails; it needs carrier proteins.", "bm": "Glukosa besar dan larut air, jadi tidak dapat melepasi ekor hidrofobik; ia memerlukan protein pembawa." } },
+      "tip": { "en": "Practise drawing and labelling the fluid mosaic model — it's a common structured question.", "bm": "Berlatih melukis dan melabel model mozek bendalir — soalan struktur yang biasa." }
+    },
+    "bio-03-02": {
+      "keyPoints": [
+        { "en": "Passive transport needs no energy and moves substances DOWN a concentration gradient.", "bm": "Pengangkutan pasif tidak memerlukan tenaga dan menggerakkan bahan MENGIKUT kecerunan kepekatan." },
+        { "en": "Simple diffusion: through the bilayer (O₂, CO₂, fat-soluble vitamins).", "bm": "Resapan ringkas: melalui dwilapisan (O₂, CO₂, vitamin larut lemak)." },
+        { "en": "Facilitated diffusion: through channel or carrier proteins (glucose, amino acids, ions).", "bm": "Resapan berbantu: melalui protein liang atau pembawa (glukosa, asid amino, ion)." },
+        { "en": "Osmosis: water moves across a semi-permeable membrane from dilute to concentrated solution.", "bm": "Osmosis: air bergerak merentasi membran separa telap dari larutan cair ke pekat." },
+        { "en": "Active transport: AGAINST the gradient using carrier proteins and ATP (e.g. Na⁺/K⁺ pump). Endo/exocytosis move large materials in vesicles.", "bm": "Pengangkutan aktif: MELAWAN kecerunan menggunakan protein pembawa dan ATP (cth. pam Na⁺/K⁺). Endo/eksositosis menggerakkan bahan besar dalam vesikel." }
+      ],
+      "example": { "question": { "en": "If a cell's mitochondria stop working, which transport stops?", "bm": "Jika mitokondria sel berhenti berfungsi, pengangkutan manakah berhenti?" }, "answer": { "en": "Active transport, because it needs ATP from respiration.", "bm": "Pengangkutan aktif, kerana ia memerlukan ATP daripada respirasi." } },
+      "tip": { "en": "Key word test: 'against the gradient' or 'energy' → active transport.", "bm": "Kata kunci: 'melawan kecerunan' atau 'tenaga' → pengangkutan aktif." }
+    },
+    "bio-03-03": {
+      "keyPoints": [
+        { "en": "Examples: gas exchange in alveoli (diffusion), absorption in villi (diffusion + active transport), reabsorption in kidneys, water uptake in root hairs (osmosis).", "bm": "Contoh: pertukaran gas di alveolus (resapan), penyerapan di vilus (resapan + pengangkutan aktif), penyerapan semula di ginjal, pengambilan air oleh rambut akar (osmosis)." },
+        { "en": "Hypotonic solution: water enters cells. Animal cells burst (haemolysis); plant cells become turgid.", "bm": "Larutan hipotonik: air masuk ke sel. Sel haiwan pecah (hemolisis); sel tumbuhan menjadi segah." },
+        { "en": "Hypertonic solution: water leaves cells. Animal cells shrink (crenation); plant cells plasmolyse.", "bm": "Larutan hipertonik: air keluar dari sel. Sel haiwan mengecut (krenasi); sel tumbuhan mengalami plasmolisis." },
+        { "en": "Isotonic: no net movement. Plasmolysed cells recover in water (deplasmolysis).", "bm": "Isotonik: tiada pergerakan bersih. Sel plasmolisis pulih dalam air (deplasmolisis)." },
+        { "en": "The cell wall stops plant cells bursting — turgor pressure keeps plants upright.", "bm": "Dinding sel menghalang sel tumbuhan pecah — tekanan segah memastikan tumbuhan tegak." }
+      ],
+      "example": { "question": { "en": "Why don't plant cells burst in distilled water?", "bm": "Mengapa sel tumbuhan tidak pecah dalam air suling?" }, "answer": { "en": "The strong cellulose cell wall resists the swelling, so the cell becomes turgid instead.", "bm": "Dinding sel selulosa yang kuat menahan pengembangan, jadi sel menjadi segah." } },
+      "tip": { "en": "'Hypo' = less solute (more water). 'Hyper' = more solute. Water always moves towards more solute.", "bm": "'Hipo' = kurang zat terlarut (lebih air). 'Hiper' = lebih zat terlarut. Air sentiasa bergerak ke arah lebih zat terlarut." }
+    },
+    "bio-03-04": {
+      "keyPoints": [
+        { "en": "Salting fish and making sweet jams/pickles preserve food by drawing water out of microorganisms (hypertonic).", "bm": "Pengasinan ikan dan pembuatan jem/jeruk mengawet makanan dengan menarik air keluar dari mikroorganisma (hipertonik)." },
+        { "en": "Soaking limp vegetables in plain water makes them crisp again (water enters by osmosis).", "bm": "Merendam sayur layu dalam air biasa menjadikannya segar semula (air masuk secara osmosis)." },
+        { "en": "Oral rehydration solution and isotonic drip (saline) replace lost water and ions without damaging cells.", "bm": "Larutan pemulihan oral dan titisan isotonik (salin) menggantikan air dan ion yang hilang tanpa merosakkan sel." },
+        { "en": "Excess fertiliser makes soil hypertonic, so plants lose water and wilt.", "bm": "Baja berlebihan menjadikan tanah hipertonik, jadi tumbuhan kehilangan air dan layu." },
+        { "en": "Dialysis machines use a semi-permeable membrane to remove waste from blood.", "bm": "Mesin dialisis menggunakan membran separa telap untuk menyingkirkan bahan buangan daripada darah." }
+      ],
+      "example": { "question": { "en": "Why is the drip given to hospital patients isotonic?", "bm": "Mengapa titisan yang diberi kepada pesakit hospital adalah isotonik?" }, "answer": { "en": "So blood cells neither gain nor lose water — no haemolysis or crenation.", "bm": "Supaya sel darah tidak menerima atau kehilangan air — tiada hemolisis atau krenasi." } },
+      "tip": { "en": "In application questions, state the solution type, the direction of water movement, and the effect on cells.", "bm": "Dalam soalan aplikasi, nyatakan jenis larutan, arah pergerakan air, dan kesan pada sel." }
+    }
+  }
+}

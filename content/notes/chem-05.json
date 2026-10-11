@@ -1,0 +1,76 @@
+{
+  "chapterId": "chem-05",
+  "reviewed": false,
+  "subtopics": {
+    "chem-05-01": {
+      "keyPoints": [
+        { "en": "Noble gases are stable because they have a full outer shell (duplet or octet).", "bm": "Gas adi stabil kerana petala luarnya penuh (duplet atau oktet)." },
+        { "en": "Other atoms gain, lose or share electrons to achieve this stable arrangement.", "bm": "Atom lain menerima, melepas atau berkongsi elektron untuk mencapai susunan stabil ini." },
+        { "en": "Metals tend to lose electrons; non-metals tend to gain or share electrons.", "bm": "Logam cenderung melepas elektron; bukan logam cenderung menerima atau berkongsi elektron." },
+        { "en": "The type of bond formed decides the properties of the compound.", "bm": "Jenis ikatan yang terbentuk menentukan sifat sebatian." }
+      ],
+      "example": { "question": { "en": "Why does neon not form compounds?", "bm": "Mengapa neon tidak membentuk sebatian?" }, "answer": { "en": "Neon (2.8) already has a stable octet.", "bm": "Neon (2.8) sudah mempunyai oktet stabil." } },
+      "tip": { "en": "Always draw electron arrangements before deciding how atoms bond.", "bm": "Sentiasa lukis susunan elektron sebelum menentukan cara atom berikat." }
+    },
+    "chem-05-02": {
+      "keyPoints": [
+        { "en": "Ionic bonds form between metals (lose electrons → cations) and non-metals (gain electrons → anions).", "bm": "Ikatan ion terbentuk antara logam (melepas elektron → kation) dan bukan logam (menerima elektron → anion)." },
+        { "en": "The oppositely charged ions are held by strong electrostatic forces in a giant ionic lattice.", "bm": "Ion bercas bertentangan diikat oleh daya elektrostatik kuat dalam kekisi ion gergasi." },
+        { "en": "Examples: NaCl, MgO, CaCl₂, K₂O.", "bm": "Contoh: NaCl, MgO, CaCl₂, K₂O." },
+        { "en": "Draw ionic bonds with square brackets and charges, showing the electron transferred.", "bm": "Lukis ikatan ion dengan kurungan segi empat dan cas, menunjukkan elektron yang dipindahkan." }
+      ],
+      "example": { "question": { "en": "Calcium (2.8.8.2) reacts with chlorine (2.8.7). Give the formula and explain.", "bm": "Kalsium (2.8.8.2) bertindak balas dengan klorin (2.8.7). Berikan formula dan terangkan." }, "answer": { "en": "Ca gives one electron to each of two Cl atoms → Ca²⁺ and 2Cl⁻ → CaCl₂.", "bm": "Ca memberi satu elektron kepada setiap dua atom Cl → Ca²⁺ dan 2Cl⁻ → CaCl₂." } },
+      "tip": { "en": "The charge on the ion equals the number of electrons lost (+) or gained (−).", "bm": "Cas ion sama dengan bilangan elektron yang dilepaskan (+) atau diterima (−)." }
+    },
+    "chem-05-03": {
+      "keyPoints": [
+        { "en": "Covalent bonds form between non-metals by sharing pairs of electrons.", "bm": "Ikatan kovalen terbentuk antara bukan logam dengan berkongsi pasangan elektron." },
+        { "en": "Single bond: 1 shared pair (H₂, Cl₂, CH₄). Double: 2 pairs (O₂, CO₂). Triple: 3 pairs (N₂).", "bm": "Ikatan tunggal: 1 pasangan (H₂, Cl₂, CH₄). Ganda dua: 2 pasangan (O₂, CO₂). Ganda tiga: 3 pasangan (N₂)." },
+        { "en": "Polar covalent bonds: electrons shared unequally because one atom is more electronegative (H–Cl, O–H).", "bm": "Ikatan kovalen berkutub: elektron dikongsi tidak sama kerana satu atom lebih elektronegatif (H–Cl, O–H)." },
+        { "en": "Simple molecules have weak forces between molecules; giant covalent structures (diamond) have strong bonds throughout.", "bm": "Molekul ringkas mempunyai daya lemah antara molekul; struktur kovalen gergasi (berlian) mempunyai ikatan kuat di seluruh struktur." }
+      ],
+      "example": { "question": { "en": "Draw (describe) the bonding in methane, CH₄.", "bm": "Lukis (huraikan) ikatan dalam metana, CH₄." }, "answer": { "en": "C (2.4) shares one pair with each of 4 H atoms → 4 single covalent bonds; C has an octet, each H a duplet.", "bm": "C (2.4) berkongsi satu pasangan dengan setiap 4 atom H → 4 ikatan kovalen tunggal; C mencapai oktet, setiap H duplet." } },
+      "tip": { "en": "When heating a simple covalent substance, you break forces BETWEEN molecules, not the covalent bonds.", "bm": "Semasa memanaskan bahan kovalen ringkas, anda memutuskan daya ANTARA molekul, bukan ikatan kovalen." }
+    },
+    "chem-05-04": {
+      "keyPoints": [
+        { "en": "A hydrogen bond is an attraction between H bonded to N, O or F and an N, O or F atom on another molecule.", "bm": "Ikatan hidrogen ialah daya tarikan antara H yang terikat pada N, O atau F dengan atom N, O atau F pada molekul lain." },
+        { "en": "It is weaker than covalent or ionic bonds but stronger than ordinary intermolecular forces.", "bm": "Ia lebih lemah daripada ikatan kovalen atau ion tetapi lebih kuat daripada daya antara molekul biasa." },
+        { "en": "Explains water's high boiling point, ice floating (open structure), and why ethanol mixes with water.", "bm": "Menerangkan takat didih air yang tinggi, ais terapung (struktur terbuka), dan sebab etanol bercampur dengan air." },
+        { "en": "Hydrogen bonds hold DNA strands together and help paper stick when wet.", "bm": "Ikatan hidrogen memegang bebenang DNA bersama dan membantu kertas melekat apabila basah." }
+      ],
+      "example": { "question": { "en": "Why does ice float on water?", "bm": "Mengapa ais terapung di atas air?" }, "answer": { "en": "Hydrogen bonds hold ice molecules in an open structure, so ice is less dense than liquid water.", "bm": "Ikatan hidrogen memegang molekul ais dalam struktur terbuka, jadi ais kurang tumpat daripada air." } },
+      "tip": { "en": "Only N, O and F are electronegative enough — 'NOF' bonds.", "bm": "Hanya N, O dan F cukup elektronegatif — ikatan 'NOF'." }
+    },
+    "chem-05-05": {
+      "keyPoints": [
+        { "en": "A dative (coordinate) bond is a covalent bond where both shared electrons come from the same atom.", "bm": "Ikatan datif (koordinat) ialah ikatan kovalen dengan kedua-dua elektron dikongsi datang dari atom yang sama." },
+        { "en": "The donor needs a lone pair; the acceptor needs an empty orbital (e.g. H⁺).", "bm": "Penderma memerlukan pasangan elektron bebas; penerima memerlukan orbital kosong (cth. H⁺)." },
+        { "en": "Examples: NH₃ + H⁺ → NH₄⁺ (ammonium ion); H₂O + H⁺ → H₃O⁺ (hydroxonium ion).", "bm": "Contoh: NH₃ + H⁺ → NH₄⁺ (ion ammonium); H₂O + H⁺ → H₃O⁺ (ion hidroksonium)." },
+        { "en": "Once formed, a dative bond is identical to any other covalent bond.", "bm": "Setelah terbentuk, ikatan datif sama seperti ikatan kovalen lain." }
+      ],
+      "example": { "question": { "en": "How does the hydroxonium ion form when an acid dissolves in water?", "bm": "Bagaimana ion hidroksonium terbentuk apabila asid melarut dalam air?" }, "answer": { "en": "O in H₂O donates a lone pair to H⁺, forming H₃O⁺ via a dative bond.", "bm": "O dalam H₂O menderma pasangan elektron bebas kepada H⁺, membentuk H₃O⁺ melalui ikatan datif." } },
+      "tip": { "en": "Show a dative bond as an arrow from donor to acceptor (N→H).", "bm": "Tunjukkan ikatan datif sebagai anak panah dari penderma ke penerima (N→H)." }
+    },
+    "chem-05-06": {
+      "keyPoints": [
+        { "en": "Metal atoms release their valence electrons, forming positive ions in a 'sea' of delocalised electrons.", "bm": "Atom logam membebaskan elektron valens, membentuk ion positif dalam 'lautan' elektron dinyahsetempat." },
+        { "en": "Metallic bond: attraction between the positive ions and the delocalised electrons.", "bm": "Ikatan logam: daya tarikan antara ion positif dan elektron dinyahsetempat." },
+        { "en": "Explains conductivity (electrons move), malleability/ductility (layers slide) and high melting points.", "bm": "Menerangkan kekonduksian (elektron bergerak), kebolehtempaan/kemuluran (lapisan menggelongsor) dan takat lebur tinggi." },
+        { "en": "More valence electrons → stronger metallic bond (Al melts higher than Na).", "bm": "Lebih banyak elektron valens → ikatan logam lebih kuat (Al melebur lebih tinggi daripada Na)." }
+      ],
+      "example": { "question": { "en": "Why can copper be drawn into wires?", "bm": "Mengapa kuprum boleh ditarik menjadi wayar?" }, "answer": { "en": "Layers of ions slide over each other while the delocalised electrons keep holding them together.", "bm": "Lapisan ion menggelongsor antara satu sama lain sementara elektron dinyahsetempat tetap mengikatnya." } },
+      "tip": { "en": "Metals conduct as SOLIDS (electrons); ionic compounds conduct only when molten/dissolved (ions).", "bm": "Logam mengkonduksi sebagai PEPEJAL (elektron); sebatian ion hanya mengkonduksi apabila lebur/larut (ion)." }
+    },
+    "chem-05-07": {
+      "keyPoints": [
+        { "en": "Ionic compounds: high melting/boiling points, conduct when molten or aqueous, often soluble in water.", "bm": "Sebatian ion: takat lebur/didih tinggi, mengkonduksi dalam leburan atau larutan akueus, biasanya larut dalam air." },
+        { "en": "Simple covalent compounds: low melting/boiling points, do not conduct, dissolve in organic solvents.", "bm": "Sebatian kovalen ringkas: takat lebur/didih rendah, tidak mengkonduksi, larut dalam pelarut organik." },
+        { "en": "Giant covalent (diamond, SiO₂): very high melting points, hard, insoluble. Graphite conducts.", "bm": "Kovalen gergasi (berlian, SiO₂): takat lebur sangat tinggi, keras, tidak larut. Grafit mengkonduksi." },
+        { "en": "Uses: ionic salts (NaCl preserving food), covalent solvents (ethanol, acetone), diamond (cutting tools).", "bm": "Kegunaan: garam ion (NaCl mengawet makanan), pelarut kovalen (etanol, aseton), berlian (alat pemotong)." }
+      ],
+      "example": { "question": { "en": "A substance melts at 80 °C and does not conduct electricity in any state. What type is it?", "bm": "Satu bahan melebur pada 80 °C dan tidak mengkonduksi elektrik dalam apa jua keadaan. Apakah jenisnya?" }, "answer": { "en": "Simple covalent compound (e.g. naphthalene).", "bm": "Sebatian kovalen ringkas (cth. naftalena)." } },
+      "tip": { "en": "Use the properties table as a checklist: melting point, conductivity (solid/molten/aqueous), solubility.", "bm": "Guna jadual sifat sebagai senarai semak: takat lebur, kekonduksian (pepejal/leburan/akueus), keterlarutan." }
+    }
+  }
+}

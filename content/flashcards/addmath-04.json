@@ -1,0 +1,17 @@
+{
+  "chapterId": "addmath-04",
+  "cards": [
+    { "id": "addmath-04-f01", "subtopicId": "addmath-04-01", "front": { "en": "aᵐ × aⁿ and aᵐ ÷ aⁿ", "bm": "aᵐ × aⁿ dan aᵐ ÷ aⁿ" }, "back": { "en": "aᵐ⁺ⁿ and aᵐ⁻ⁿ", "bm": "aᵐ⁺ⁿ dan aᵐ⁻ⁿ" } },
+    { "id": "addmath-04-f02", "subtopicId": "addmath-04-01", "front": { "en": "(aᵐ)ⁿ and (ab)ⁿ", "bm": "(aᵐ)ⁿ dan (ab)ⁿ" }, "back": { "en": "aᵐⁿ and aⁿbⁿ", "bm": "aᵐⁿ dan aⁿbⁿ" } },
+    { "id": "addmath-04-f03", "subtopicId": "addmath-04-01", "front": { "en": "a⁰, a⁻ⁿ, a^(1/n), a^(m/n)", "bm": "a⁰, a⁻ⁿ, a^(1/n), a^(m/n)" }, "back": { "en": "1, 1/aⁿ, ⁿ√a, (ⁿ√a)ᵐ", "bm": "1, 1/aⁿ, ⁿ√a, (ⁿ√a)ᵐ" } },
+    { "id": "addmath-04-f04", "subtopicId": "addmath-04-02", "front": { "en": "√a × √b and √a ÷ √b", "bm": "√a × √b dan √a ÷ √b" }, "back": { "en": "√(ab) and √(a/b)", "bm": "√(ab) dan √(a/b)" } },
+    { "id": "addmath-04-f05", "subtopicId": "addmath-04-02", "front": { "en": "Rationalise 1/(a + √b)", "bm": "Nisbahkan 1/(a + √b)" }, "back": { "en": "Multiply top and bottom by the conjugate (a − √b)", "bm": "Darab atas dan bawah dengan konjugat (a − √b)" } },
+    { "id": "addmath-04-f06", "subtopicId": "addmath-04-02", "front": { "en": "Common surd mistake", "bm": "Kesilapan surd biasa" }, "back": { "en": "√a + √b ≠ √(a + b)", "bm": "√a + √b ≠ √(a + b)" } },
+    { "id": "addmath-04-f07", "subtopicId": "addmath-04-03", "front": { "en": "Definition of logarithm", "bm": "Takrif logaritma" }, "back": { "en": "aˣ = N ⇔ logₐ N = x (a > 0, a ≠ 1, N > 0)", "bm": "aˣ = N ⇔ logₐ N = x (a > 0, a ≠ 1, N > 0)" } },
+    { "id": "addmath-04-f08", "subtopicId": "addmath-04-03", "front": { "en": "Product and quotient laws", "bm": "Hukum hasil darab dan hasil bahagi" }, "back": { "en": "log xy = log x + log y; log (x/y) = log x − log y", "bm": "log xy = log x + log y; log (x/y) = log x − log y" } },
+    { "id": "addmath-04-f09", "subtopicId": "addmath-04-03", "front": { "en": "Power law & change of base", "bm": "Hukum kuasa & penukaran asas" }, "back": { "en": "log xⁿ = n log x; logₐ b = log b / log a", "bm": "log xⁿ = n log x; logₐ b = log b / log a" } },
+    { "id": "addmath-04-f10", "subtopicId": "addmath-04-03", "front": { "en": "logₐ 1, logₐ a, logₐ (1/a)", "bm": "logₐ 1, logₐ a, logₐ (1/a)" }, "back": { "en": "0, 1, −1", "bm": "0, 1, −1" } },
+    { "id": "addmath-04-f11", "subtopicId": "addmath-04-04", "front": { "en": "Solving aˣ = b", "bm": "Menyelesaikan aˣ = b" }, "back": { "en": "Same base → equate indices; otherwise x = log b / log a", "bm": "Asas sama → samakan indeks; jika tidak x = log b / log a" } },
+    { "id": "addmath-04-f12", "subtopicId": "addmath-04-04", "front": { "en": "Compound interest", "bm": "Faedah kompaun" }, "back": { "en": "A = P(1 + r)ⁿ — use logs to find n", "bm": "A = P(1 + r)ⁿ — guna log untuk mencari n" } }
+  ]
+}

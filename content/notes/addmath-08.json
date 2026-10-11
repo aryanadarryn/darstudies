@@ -1,0 +1,39 @@
+{
+  "chapterId": "addmath-08",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-08-01": {
+      "keyPoints": [
+        { "en": "Vectors have magnitude and direction (displacement, velocity, force); scalars have magnitude only (distance, speed, mass).", "bm": "Vektor mempunyai magnitud dan arah (sesaran, halaju, daya); skalar hanya magnitud (jarak, laju, jisim)." },
+        { "en": "Notation: AB with an arrow, bold a, or a with ~ underneath. |AB| is its magnitude.", "bm": "Tatatanda: AB dengan anak panah, a tebal, atau a dengan ~ di bawah. |AB| ialah magnitudnya." },
+        { "en": "Equal vectors: same magnitude and direction. Negative vector −a: same magnitude, opposite direction.", "bm": "Vektor sama: magnitud dan arah sama. Vektor negatif −a: magnitud sama, arah bertentangan." },
+        { "en": "Multiplying by a scalar k changes the magnitude by |k|; if k < 0 the direction reverses.", "bm": "Mendarab dengan skalar k mengubah magnitud sebanyak |k|; jika k < 0 arah bertukar." },
+        { "en": "Parallel vectors: a = kb. Points A, B, C are collinear if AB = k·BC.", "bm": "Vektor selari: a = kb. Titik A, B, C segaris jika AB = k·BC." }
+      ],
+      "example": { "question": { "en": "AB = 2a + 4b and BC = a + 2b. Show A, B, C are collinear.", "bm": "AB = 2a + 4b dan BC = a + 2b. Tunjukkan A, B, C segaris." }, "answer": { "en": "AB = 2(a + 2b) = 2BC, so AB ∥ BC and they share B → collinear.", "bm": "AB = 2(a + 2b) = 2BC, jadi AB ∥ BC dan berkongsi B → segaris." } },
+      "tip": { "en": "For collinear proofs, state BOTH: parallel AND a common point.", "bm": "Untuk bukti segaris, nyatakan KEDUA-DUA: selari DAN titik sepunya." }
+    },
+    "addmath-08-02": {
+      "keyPoints": [
+        { "en": "Triangle law: AB + BC = AC (head-to-tail).", "bm": "Hukum segi tiga: AB + BC = AC (hujung ke pangkal)." },
+        { "en": "Parallelogram law: if a and b start at the same point, a + b is the diagonal.", "bm": "Hukum segi empat selari: jika a dan b bermula dari titik yang sama, a + b ialah pepenjuru." },
+        { "en": "Polygon law: AB + BC + CD = AD.", "bm": "Hukum poligon: AB + BC + CD = AD." },
+        { "en": "Subtraction: a − b = a + (−b). Useful: AB = OB − OA.", "bm": "Penolakan: a − b = a + (−b). Berguna: AB = OB − OA." },
+        { "en": "If a, b are non-parallel and ha + kb = ma + nb, then h = m and k = n.", "bm": "Jika a, b tidak selari dan ha + kb = ma + nb, maka h = m dan k = n." }
+      ],
+      "example": { "question": { "en": "In parallelogram OABC, OA = a, OC = c. Express OB and AC.", "bm": "Dalam segi empat selari OABC, OA = a, OC = c. Ungkapkan OB dan AC." }, "answer": { "en": "OB = a + c; AC = OC − OA = c − a", "bm": "OB = a + c; AC = OC − OA = c − a" } },
+      "tip": { "en": "Draw the diagram and trace a path along known vectors.", "bm": "Lukis rajah dan surih laluan melalui vektor yang diketahui." }
+    },
+    "addmath-08-03": {
+      "keyPoints": [
+        { "en": "i and j are unit vectors along the x- and y-axes. Any vector r = xi + yj (or column vector).", "bm": "i dan j ialah vektor unit sepanjang paksi-x dan paksi-y. Sebarang vektor r = xi + yj (atau vektor lajur)." },
+        { "en": "Magnitude |r| = √(x² + y²). Unit vector r̂ = r/|r|.", "bm": "Magnitud |r| = √(x² + y²). Vektor unit r̂ = r/|r|." },
+        { "en": "Add/subtract by components: (a₁i + a₂j) ± (b₁i + b₂j) = (a₁ ± b₁)i + (a₂ ± b₂)j.", "bm": "Tambah/tolak mengikut komponen: (a₁i + a₂j) ± (b₁i + b₂j) = (a₁ ± b₁)i + (a₂ ± b₂)j." },
+        { "en": "Position vector of A(x, y) is OA = xi + yj.", "bm": "Vektor kedudukan A(x, y) ialah OA = xi + yj." },
+        { "en": "Applications: resultant velocity of a boat in a current, plane in the wind.", "bm": "Aplikasi: halaju paduan bot dalam arus, pesawat dalam angin." }
+      ],
+      "example": { "question": { "en": "A boat moves at 4j km/h in a current of 3i km/h. Find its resultant speed.", "bm": "Sebuah bot bergerak pada 4j km/j dalam arus 3i km/j. Cari laju paduannya." }, "answer": { "en": "v = 3i + 4j, |v| = 5 km/h", "bm": "v = 3i + 4j, |v| = 5 km/j" } },
+      "tip": { "en": "Magnitude is always positive; components can be negative.", "bm": "Magnitud sentiasa positif; komponen boleh negatif." }
+    }
+  }
+}

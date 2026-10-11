@@ -1,0 +1,38 @@
+{
+  "chapterId": "bio-13",
+  "reviewed": false,
+  "subtopics": {
+    "bio-13-01": {
+      "keyPoints": [
+        { "en": "Homeostasis keeps physical and chemical factors in the body (temperature, glucose, water, pH, CO₂) within a narrow range.", "bm": "Homeostasis mengekalkan faktor fizikal dan kimia badan (suhu, glukosa, air, pH, CO₂) dalam julat yang sempit." },
+        { "en": "Negative feedback: deviation → receptor → control centre → effector → correction → back to normal.", "bm": "Suap balik negatif: penyimpangan → reseptor → pusat kawalan → efektor → pembetulan → kembali normal." },
+        { "en": "Too hot: sweating, vasodilation, hair erector muscles relax, lower metabolism.", "bm": "Terlalu panas: berpeluh, vasodilatasi, otot erektor rambut mengendur, metabolisme rendah." },
+        { "en": "Too cold: shivering, vasoconstriction, hair stands up, more thyroxine/adrenaline (higher metabolism).", "bm": "Terlalu sejuk: menggigil, vasokonstriksi, rambut tegak, lebih tiroksina/adrenalina (metabolisme tinggi)." },
+        { "en": "Blood glucose: high → insulin (glucose → glycogen); low → glucagon (glycogen → glucose).", "bm": "Glukosa darah: tinggi → insulin (glukosa → glikogen); rendah → glukagon (glikogen → glukosa)." }
+      ],
+      "example": { "question": { "en": "Why does your skin look red after running?", "bm": "Mengapa kulit kelihatan merah selepas berlari?" }, "answer": { "en": "Skin arterioles dilate (vasodilation) so more blood flows near the surface to lose heat.", "bm": "Arteriol kulit mengembang (vasodilatasi) supaya lebih banyak darah mengalir dekat permukaan untuk membebaskan haba." } },
+      "tip": { "en": "Glucagon raises glucose when the glucose is 'gone'.", "bm": "Glukagon menaikkan glukosa apabila glukosa 'hilang'." }
+    },
+    "bio-13-02": {
+      "keyPoints": [
+        { "en": "Urinary system: kidneys → ureters → bladder → urethra. Each kidney has about a million nephrons.", "bm": "Sistem urinari: ginjal → ureter → pundi kencing → uretra. Setiap ginjal mempunyai kira-kira sejuta nefron." },
+        { "en": "Ultrafiltration: high pressure in the glomerulus forces water, glucose, salts, urea into Bowman's capsule.", "bm": "Ultraturasan: tekanan tinggi dalam glomerulus memaksa air, glukosa, garam, urea ke dalam kapsul Bowman." },
+        { "en": "Reabsorption: all glucose and amino acids, most water and salts return to the blood (mainly in the proximal tubule).", "bm": "Penyerapan semula: semua glukosa dan asid amino, kebanyakan air dan garam kembali ke darah (terutamanya di tubul proksimal)." },
+        { "en": "Secretion: extra urea, H⁺, drugs and toxins move from blood into the distal tubule.", "bm": "Rembesan: urea tambahan, H⁺, ubat dan toksin bergerak dari darah ke tubul distal." },
+        { "en": "Osmoregulation: high blood concentration → more ADH → more water reabsorbed → less, concentrated urine.", "bm": "Pengosmokawalaturan: kepekatan darah tinggi → lebih ADH → lebih air diserap semula → air kencing sedikit dan pekat." }
+      ],
+      "example": { "question": { "en": "Why are proteins not found in the filtrate?", "bm": "Mengapa protein tidak terdapat dalam hasil turasan?" }, "answer": { "en": "They are too large to pass through the walls of the glomerulus and Bowman's capsule.", "bm": "Molekulnya terlalu besar untuk melalui dinding glomerulus dan kapsul Bowman." } },
+      "tip": { "en": "More ADH = less urine. Alcohol blocks ADH, so you urinate more.", "bm": "Lebih ADH = kurang air kencing. Alkohol menyekat ADH, jadi lebih kerap kencing." }
+    },
+    "bio-13-03": {
+      "keyPoints": [
+        { "en": "Kidney stones: minerals crystallise in concentrated urine → severe pain; prevented by drinking enough water.", "bm": "Batu karang: mineral menghablur dalam air kencing pekat → sakit teruk; dicegah dengan minum air secukupnya." },
+        { "en": "Kidney failure: often caused by uncontrolled diabetes and high blood pressure; urea builds up in blood.", "bm": "Kegagalan ginjal: sering disebabkan diabetes dan tekanan darah tinggi yang tidak terkawal; urea terkumpul dalam darah." },
+        { "en": "Treatment: haemodialysis (machine), peritoneal dialysis, or kidney transplant.", "bm": "Rawatan: hemodialisis (mesin), dialisis peritoneum, atau pemindahan ginjal." },
+        { "en": "Urinary tract infections: bacteria in the urethra/bladder; prevented by hygiene and drinking water.", "bm": "Jangkitan saluran kencing: bakteria dalam uretra/pundi kencing; dicegah dengan kebersihan dan minum air." }
+      ],
+      "example": { "question": { "en": "Why must dialysis fluid have the same glucose concentration as normal blood?", "bm": "Mengapa cecair dialisis perlu mempunyai kepekatan glukosa yang sama dengan darah normal?" }, "answer": { "en": "So glucose doesn't diffuse out of the blood — only waste like urea is removed.", "bm": "Supaya glukosa tidak meresap keluar dari darah — hanya bahan buangan seperti urea disingkirkan." } },
+      "tip": { "en": "Dialysis fluid has NO urea, so urea diffuses out of the blood.", "bm": "Cecair dialisis TIADA urea, jadi urea meresap keluar dari darah." }
+    }
+  }
+}

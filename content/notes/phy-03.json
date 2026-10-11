@@ -1,0 +1,37 @@
+{
+  "chapterId": "phy-03",
+  "reviewed": false,
+  "subtopics": {
+    "phy-03-01": {
+      "keyPoints": [
+        { "en": "Newton: every two masses attract each other with F = Gm₁m₂/r², where r is the distance between their centres.", "bm": "Newton: setiap dua jisim saling menarik dengan F = Gm₁m₂/r², dengan r ialah jarak antara pusatnya." },
+        { "en": "G = 6.67 × 10⁻¹¹ N m² kg⁻² — tiny, so gravity is only noticeable when one mass is huge (planets, stars).", "bm": "G = 6.67 × 10⁻¹¹ N m² kg⁻² — sangat kecil, jadi graviti hanya ketara apabila satu jisim sangat besar (planet, bintang)." },
+        { "en": "Gravitational field strength g = GM/r². At Earth's surface g ≈ 9.81 N kg⁻¹; it gets smaller with height.", "bm": "Kekuatan medan graviti g = GM/r². Di permukaan Bumi g ≈ 9.81 N kg⁻¹; ia semakin kecil dengan ketinggian." },
+        { "en": "Objects moving in a circle need a centripetal force F = mv²/r towards the centre; for orbits, gravity supplies it.", "bm": "Objek yang bergerak dalam bulatan memerlukan daya memusat F = mv²/r ke arah pusat; untuk orbit, graviti membekalkannya." }
+      ],
+      "example": { "question": { "en": "If both masses are doubled and the distance stays the same, what happens to F?", "bm": "Jika kedua-dua jisim digandakan dan jarak kekal, apa berlaku kepada F?" }, "answer": { "en": "F ∝ m₁m₂, so F becomes 2 × 2 = 4 times bigger.", "bm": "F ∝ m₁m₂, jadi F menjadi 2 × 2 = 4 kali lebih besar." } },
+      "tip": { "en": "For a satellite at height h above Earth, use r = R + h, not h alone.", "bm": "Bagi satelit pada ketinggian h dari Bumi, guna r = R + h, bukan h sahaja." }
+    },
+    "phy-03-02": {
+      "keyPoints": [
+        { "en": "Kepler's 1st law: each planet moves in an ellipse with the Sun at one focus.", "bm": "Hukum Kepler 1: setiap planet bergerak dalam elips dengan Matahari di satu fokus." },
+        { "en": "Kepler's 2nd law: the line joining planet and Sun sweeps equal areas in equal times — faster when closer.", "bm": "Hukum Kepler 2: garis yang menyambung planet dan Matahari mencakupi luas sama dalam masa sama — lebih laju apabila dekat." },
+        { "en": "Kepler's 3rd law: T² ∝ r³, so T₁²/r₁³ = T₂²/r₂³ for objects orbiting the same body.", "bm": "Hukum Kepler 3: T² ∝ r³, jadi T₁²/r₁³ = T₂²/r₂³ bagi objek yang mengorbit jasad yang sama." },
+        { "en": "Planets further from the Sun take longer to orbit (Mercury 88 days, Earth 1 year, Jupiter ~12 years).", "bm": "Planet lebih jauh dari Matahari mengambil masa lebih lama untuk mengorbit (Utarid 88 hari, Bumi 1 tahun, Musytari ~12 tahun)." }
+      ],
+      "example": { "question": { "en": "Satellite X orbits at radius r with period 2 h. Satellite Y orbits at 9r. Find Y's period.", "bm": "Satelit X mengorbit pada jejari r dengan tempoh 2 j. Satelit Y pada 9r. Cari tempoh Y." }, "answer": { "en": "T_Y² = 2² × 9³ = 2916 → T_Y = 54 h", "bm": "T_Y² = 2² × 9³ = 2916 → T_Y = 54 j" } },
+      "tip": { "en": "Kepler's 3rd law only compares objects orbiting the SAME central body.", "bm": "Hukum Kepler 3 hanya membandingkan objek yang mengorbit jasad pusat yang SAMA." }
+    },
+    "phy-03-03": {
+      "keyPoints": [
+        { "en": "Orbital speed v = √(GM/r) — it doesn't depend on the satellite's own mass.", "bm": "Laju orbit v = √(GM/r) — tidak bergantung pada jisim satelit itu sendiri." },
+        { "en": "Geostationary satellites (e.g. MEASAT) orbit above the equator every 24 h at ~36 000 km — used for TV and communication.", "bm": "Satelit geopegun (cth. MEASAT) mengorbit di atas khatulistiwa setiap 24 j pada ~36 000 km — untuk TV dan komunikasi." },
+        { "en": "Non-geostationary satellites orbit lower and faster — used for weather, mapping and GPS.", "bm": "Satelit bukan geopegun mengorbit lebih rendah dan laju — untuk cuaca, pemetaan dan GPS." },
+        { "en": "Escape velocity v = √(2GM/r) ≈ 11.2 km s⁻¹ from Earth: the minimum launch speed to leave Earth's gravity.", "bm": "Halaju lepas v = √(2GM/r) ≈ 11.2 km s⁻¹ dari Bumi: laju pelancaran minimum untuk keluar dari graviti Bumi." },
+        { "en": "Earth's atmosphere keeps its gases because gas molecules move much slower than the escape velocity.", "bm": "Atmosfera Bumi kekal kerana molekul gas bergerak jauh lebih perlahan daripada halaju lepas." }
+      ],
+      "example": { "question": { "en": "Two satellites orbit at the same height; one is twice as heavy. Which is faster?", "bm": "Dua satelit mengorbit pada ketinggian sama; satu dua kali lebih berat. Yang mana lebih laju?" }, "answer": { "en": "Neither — v = √(GM/r) uses Earth's mass M, not the satellite's.", "bm": "Tiada — v = √(GM/r) guna jisim Bumi M, bukan jisim satelit." } },
+      "tip": { "en": "Escape velocity is √2 times the orbital speed at the same radius.", "bm": "Halaju lepas ialah √2 kali laju orbit pada jejari yang sama." }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "chapterId": "bio-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your heart beats about 100 000 times a day, pushing 5 litres of blood around 100 000 km of blood vessels — enough to circle the Earth twice. And if you cut your finger, the blood clots in minutes.",
+      "bm": "Jantung anda berdegup kira-kira 100 000 kali sehari, mengepam 5 liter darah melalui 100 000 km salur darah — cukup untuk mengelilingi Bumi dua kali. Dan jika jari terluka, darah membeku dalam beberapa minit."
+    },
+    "bigIdeas": [
+      { "en": "Large animals need a circulatory system: open (insects) or closed (fish, humans).", "bm": "Haiwan besar memerlukan sistem peredaran: terbuka (serangga) atau tertutup (ikan, manusia)." },
+      { "en": "Humans have a double circulation: pulmonary (heart–lungs) and systemic (heart–body).", "bm": "Manusia mempunyai peredaran ganda dua: pulmonari (jantung–peparu) dan sistemik (jantung–badan)." },
+      { "en": "The heartbeat starts at the SA node (pacemaker); valves keep blood flowing one way.", "bm": "Degupan jantung bermula di nodus SA (perentak); injap memastikan darah mengalir sehala." },
+      { "en": "Blood clots through a cascade: platelets → thromboplastin → thrombin → fibrin.", "bm": "Darah membeku melalui rangkaian: platlet → tromboplastin → trombin → fibrin." },
+      { "en": "The lymphatic system returns tissue fluid to the blood and helps fight infection.", "bm": "Sistem limfa mengembalikan bendalir tisu ke darah dan membantu melawan jangkitan." }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          { "title": { "en": "Right atrium", "bm": "Atrium kanan" } },
+          { "title": { "en": "Right ventricle", "bm": "Ventrikel kanan" } },
+          { "title": { "en": "Pulmonary artery → lungs", "bm": "Arteri pulmonari → peparu" } },
+          { "title": { "en": "Pulmonary vein → left atrium", "bm": "Vena pulmonari → atrium kiri" } },
+          { "title": { "en": "Left ventricle", "bm": "Ventrikel kiri" } },
+          { "title": { "en": "Aorta → body → vena cava", "bm": "Aorta → badan → vena kava" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Artery", "bm": "Arteri" }, "definition": { "en": "Carries blood away from the heart; thick muscular elastic wall, high pressure.", "bm": "Membawa darah keluar dari jantung; dinding tebal berotot dan kenyal, tekanan tinggi." } },
+      { "term": { "en": "Vein", "bm": "Vena" }, "definition": { "en": "Carries blood back to the heart; thin wall, valves, low pressure.", "bm": "Membawa darah kembali ke jantung; dinding nipis, injap, tekanan rendah." } },
+      { "term": { "en": "Capillary", "bm": "Kapilari" }, "definition": { "en": "Tiny vessel one cell thick where substances are exchanged.", "bm": "Salur kecil setebal satu sel tempat pertukaran bahan berlaku." } },
+      { "term": { "en": "Pacemaker (SA node)", "bm": "Perentak (nodus SA)" }, "definition": { "en": "Group of cells in the right atrium that starts each heartbeat.", "bm": "Sekumpulan sel di atrium kanan yang memulakan setiap degupan jantung." } },
+      { "term": { "en": "Fibrin", "bm": "Fibrin" }, "definition": { "en": "Insoluble protein threads that trap blood cells to form a clot.", "bm": "Bebenang protein tidak larut yang memerangkap sel darah membentuk beku." } },
+      { "term": { "en": "Tissue fluid", "bm": "Bendalir tisu" }, "definition": { "en": "Fluid that leaks from capillaries and bathes cells.", "bm": "Bendalir yang meresap keluar dari kapilari dan memandikan sel." } },
+      { "term": { "en": "Antigen", "bm": "Antigen" }, "definition": { "en": "Molecule on a cell surface that triggers an immune response (e.g. A, B antigens).", "bm": "Molekul pada permukaan sel yang mencetuskan gerak balas imun (cth. antigen A, B)." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "A person with blood group O needs a transfusion. Which blood groups can they receive?", "bm": "Seseorang berdarah kumpulan O memerlukan pemindahan darah. Kumpulan darah manakah boleh diterima?" },
+      "steps": [
+        { "en": "Group O red cells have no A or B antigens; the plasma has both anti-A and anti-B antibodies.", "bm": "Sel merah kumpulan O tiada antigen A atau B; plasma mempunyai kedua-dua antibodi anti-A dan anti-B." },
+        { "en": "If donor blood has A or B antigens, the recipient's antibodies make it clump (agglutinate).", "bm": "Jika darah penderma mempunyai antigen A atau B, antibodi penerima menyebabkannya bergumpal (aglutinasi)." },
+        { "en": "So only group O blood (no antigens) is safe.", "bm": "Jadi hanya darah kumpulan O (tiada antigen) yang selamat." }
+      ],
+      "answer": { "en": "Only group O. (Group O is the universal donor; AB is the universal recipient.)", "bm": "Hanya kumpulan O. (Kumpulan O penderma universal; AB penerima universal.)" }
+    }
+  },
+  "questions": [
+    { "id": "bio-10-q01", "subtopicId": "bio-10-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Insects have an open circulatory system. This means…", "bm": "Serangga mempunyai sistem peredaran terbuka. Ini bermakna…" },
+      "options": [ { "en": "blood (haemolymph) flows freely in body cavities, not always in vessels", "bm": "darah (hemolimfa) mengalir bebas dalam rongga badan, tidak sentiasa dalam salur" }, { "en": "they have no heart", "bm": "mereka tiada jantung" }, { "en": "blood carries oxygen to every cell", "bm": "darah membawa oksigen ke setiap sel" }, { "en": "they have a double circulation", "bm": "mereka mempunyai peredaran ganda dua" } ],
+      "answer": 0,
+      "explanation": { "en": "In insects O₂ is delivered by the tracheal system; haemolymph carries nutrients.", "bm": "Dalam serangga O₂ dihantar oleh sistem trakea; hemolimfa membawa nutrien." } },
+    { "id": "bio-10-q02", "subtopicId": "bio-10-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each blood vessel to its feature.", "bm": "Padankan setiap salur darah dengan cirinya." },
+      "pairs": [
+        { "left": { "en": "Artery", "bm": "Arteri" }, "right": { "en": "Thick muscular wall, high pressure", "bm": "Dinding berotot tebal, tekanan tinggi" } },
+        { "left": { "en": "Vein", "bm": "Vena" }, "right": { "en": "Valves prevent backflow", "bm": "Injap menghalang aliran balik" } },
+        { "left": { "en": "Capillary", "bm": "Kapilari" }, "right": { "en": "Wall one cell thick", "bm": "Dinding setebal satu sel" } }
+      ],
+      "explanation": { "en": "Arteries away, veins back, capillaries exchange.", "bm": "Arteri keluar, vena kembali, kapilari bertukar bahan." } },
+    { "id": "bio-10-q03", "subtopicId": "bio-10-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why is the wall of the left ventricle thicker than the right ventricle?", "bm": "Mengapa dinding ventrikel kiri lebih tebal daripada ventrikel kanan?" },
+      "options": [ { "en": "It pumps blood to the whole body at high pressure", "bm": "Ia mengepam darah ke seluruh badan pada tekanan tinggi" }, { "en": "It receives blood from the lungs", "bm": "Ia menerima darah dari peparu" }, { "en": "It holds more blood", "bm": "Ia menampung lebih banyak darah" }, { "en": "It contains the pacemaker", "bm": "Ia mengandungi perentak" } ],
+      "answer": 0,
+      "explanation": { "en": "The right ventricle only pumps to the nearby lungs.", "bm": "Ventrikel kanan hanya mengepam ke peparu yang berdekatan." } },
+    { "id": "bio-10-q04", "subtopicId": "bio-10-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which blood vessel carries oxygenated blood from the lungs to the heart?", "bm": "Salur darah manakah membawa darah beroksigen dari peparu ke jantung?" },
+      "options": [ { "en": "Pulmonary vein", "bm": "Vena pulmonari" }, { "en": "Pulmonary artery", "bm": "Arteri pulmonari" }, { "en": "Aorta", "bm": "Aorta" }, { "en": "Vena cava", "bm": "Vena kava" } ],
+      "answer": 0,
+      "explanation": { "en": "It's the only vein carrying oxygenated blood; the pulmonary artery is the only artery carrying deoxygenated blood.", "bm": "Satu-satunya vena yang membawa darah beroksigen; arteri pulmonari satu-satunya arteri membawa darah terdeoksigen." } },
+    { "id": "bio-10-q05", "subtopicId": "bio-10-03", "type": "order", "difficulty": 3, "tp": 3,
+      "prompt": { "en": "Put the spread of the heartbeat signal in order.", "bm": "Susun penyebaran isyarat degupan jantung." },
+      "items": [ { "en": "SA node (pacemaker) fires", "bm": "Nodus SA (perentak) mencetus" }, { "en": "Atria contract", "bm": "Atrium mengecut" }, { "en": "AV node delays the signal", "bm": "Nodus AV melengahkan isyarat" }, { "en": "Bundle of His and Purkinje fibres", "bm": "Berkas His dan gentian Purkinje" }, { "en": "Ventricles contract", "bm": "Ventrikel mengecut" } ],
+      "explanation": { "en": "The delay lets atria empty before ventricles contract from the bottom upwards.", "bm": "Kelengahan membolehkan atrium kosong sebelum ventrikel mengecut dari bawah ke atas." } },
+    { "id": "bio-10-q06", "subtopicId": "bio-10-04", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Arrange the steps of blood clotting.", "bm": "Susun langkah pembekuan darah." },
+      "items": [ { "en": "Platelets and damaged tissue release thromboplastin", "bm": "Platlet dan tisu rosak membebaskan tromboplastin" }, { "en": "Prothrombin → thrombin (needs Ca²⁺ and vitamin K)", "bm": "Protrombin → trombin (perlu Ca²⁺ dan vitamin K)" }, { "en": "Thrombin converts fibrinogen → fibrin", "bm": "Trombin menukar fibrinogen → fibrin" }, { "en": "Fibrin threads trap blood cells → clot", "bm": "Bebenang fibrin memerangkap sel darah → beku" } ],
+      "explanation": { "en": "Haemophilia is a genetic disorder where a clotting factor is missing.", "bm": "Hemofilia ialah penyakit genetik akibat kekurangan faktor pembekuan." } },
+    { "id": "bio-10-q07", "subtopicId": "bio-10-05", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which blood group is the universal recipient?", "bm": "Kumpulan darah manakah penerima universal?" },
+      "options": [ { "en": "AB", "bm": "AB" }, { "en": "O", "bm": "O" }, { "en": "A", "bm": "A" }, { "en": "B", "bm": "B" } ],
+      "answer": 0,
+      "explanation": { "en": "AB plasma has no anti-A or anti-B antibodies, so it won't attack donor red cells.", "bm": "Plasma AB tiada antibodi anti-A atau anti-B, jadi tidak menyerang sel merah penderma." } },
+    { "id": "bio-10-q08", "subtopicId": "bio-10-06", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Atherosclerosis is caused by…", "bm": "Aterosklerosis disebabkan oleh…" },
+      "options": [ { "en": "fatty deposits (plaque) building up in artery walls", "bm": "mendapan lemak (plak) terkumpul dalam dinding arteri" }, { "en": "too few red blood cells", "bm": "terlalu sedikit sel darah merah" }, { "en": "a missing clotting factor", "bm": "kekurangan faktor pembekuan" }, { "en": "infection of the lymph nodes", "bm": "jangkitan nodus limfa" } ],
+      "answer": 0,
+      "explanation": { "en": "Plaque narrows arteries, raising blood pressure and the risk of heart attack and stroke.", "bm": "Plak menyempitkan arteri, menaikkan tekanan darah dan risiko serangan jantung serta strok." } },
+    { "id": "bio-10-q09", "subtopicId": "bio-10-07", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the main function of the lymphatic system?", "bm": "Apakah fungsi utama sistem limfa?" },
+      "options": [ { "en": "Return tissue fluid to the blood and help defend the body", "bm": "Mengembalikan bendalir tisu ke darah dan membantu mempertahankan badan" }, { "en": "Pump blood", "bm": "Mengepam darah" }, { "en": "Make bile", "bm": "Menghasilkan hempedu" }, { "en": "Carry oxygen", "bm": "Membawa oksigen" } ],
+      "answer": 0,
+      "explanation": { "en": "Lymph nodes filter bacteria; lacteals also absorb fats.", "bm": "Nodus limfa menapis bakteria; lakteal juga menyerap lemak." } },
+    { "id": "bio-10-q10", "subtopicId": "bio-10-08", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Oedema (swelling) happens when…", "bm": "Edema (bengkak) berlaku apabila…" },
+      "options": [ { "en": "tissue fluid builds up because it isn't drained by lymph vessels", "bm": "bendalir tisu terkumpul kerana tidak disalirkan oleh salur limfa" }, { "en": "blood clots too fast", "bm": "darah membeku terlalu cepat" }, { "en": "the heart beats too slowly", "bm": "jantung berdegup terlalu perlahan" }, { "en": "red blood cells burst", "bm": "sel darah merah pecah" } ],
+      "answer": 0,
+      "explanation": { "en": "Blocked lymph vessels (e.g. filariasis/elephantiasis caused by worms spread by mosquitoes) cause severe oedema.", "bm": "Salur limfa tersumbat (cth. filariasis/untut akibat cacing yang disebarkan nyamuk) menyebabkan edema teruk." } }
+  ]
+}

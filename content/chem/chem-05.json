@@ -1,0 +1,101 @@
+{
+  "chapterId": "chem-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Table salt has to be heated to 801 °C before it melts, but ice melts at 0 °C. Diamond is the hardest natural material, yet pencil 'lead' is so soft it rubs off on paper — and both are pure carbon. The secret is in the bonds.",
+      "bm": "Garam meja perlu dipanaskan hingga 801 °C untuk melebur, tetapi ais melebur pada 0 °C. Berlian ialah bahan semula jadi paling keras, namun 'mata' pensel sangat lembut — dan kedua-duanya karbon tulen. Rahsianya terletak pada ikatan."
+    },
+    "bigIdeas": [
+      { "en": "Atoms bond to achieve a stable duplet or octet electron arrangement.", "bm": "Atom berikat untuk mencapai susunan elektron duplet atau oktet yang stabil." },
+      { "en": "Ionic bond: metal transfers electrons to non-metal → oppositely charged ions attract.", "bm": "Ikatan ion: logam memindahkan elektron kepada bukan logam → ion bercas bertentangan saling menarik." },
+      { "en": "Covalent bond: non-metals share pairs of electrons.", "bm": "Ikatan kovalen: bukan logam berkongsi pasangan elektron." },
+      { "en": "Other bonds: hydrogen bond, dative bond and metallic bond.", "bm": "Ikatan lain: ikatan hidrogen, ikatan datif dan ikatan logam." },
+      { "en": "Bond type explains melting point, conductivity and solubility.", "bm": "Jenis ikatan menerangkan takat lebur, kekonduksian dan keterlarutan." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Ionic compound", "bm": "Sebatian ion" }, { "en": "Covalent compound (simple molecule)", "bm": "Sebatian kovalen (molekul ringkas)" } ],
+        "rows": [
+          { "label": { "en": "Formed between", "bm": "Terbentuk antara" }, "cells": [ { "en": "metal + non-metal", "bm": "logam + bukan logam" }, { "en": "non-metal + non-metal", "bm": "bukan logam + bukan logam" } ] },
+          { "label": { "en": "Electrons", "bm": "Elektron" }, "cells": [ { "en": "transferred", "bm": "dipindahkan" }, { "en": "shared", "bm": "dikongsi" } ] },
+          { "label": { "en": "Melting point", "bm": "Takat lebur" }, "cells": [ { "en": "high", "bm": "tinggi" }, { "en": "low", "bm": "rendah" } ] },
+          { "label": { "en": "Conducts electricity", "bm": "Mengkonduksi elektrik" }, "cells": [ { "en": "when molten or in water", "bm": "dalam leburan atau larutan akueus" }, { "en": "never", "bm": "tidak dalam apa jua keadaan" } ] },
+          { "label": { "en": "Solubility", "bm": "Keterlarutan" }, "cells": [ { "en": "usually soluble in water", "bm": "biasanya larut dalam air" }, { "en": "soluble in organic solvents", "bm": "larut dalam pelarut organik" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Ionic bond", "bm": "Ikatan ion" }, "definition": { "en": "Electrostatic attraction between oppositely charged ions formed by electron transfer.", "bm": "Daya tarikan elektrostatik antara ion bercas bertentangan yang terbentuk melalui pemindahan elektron." } },
+      { "term": { "en": "Covalent bond", "bm": "Ikatan kovalen" }, "definition": { "en": "A shared pair of electrons between two non-metal atoms.", "bm": "Pasangan elektron yang dikongsi antara dua atom bukan logam." } },
+      { "term": { "en": "Hydrogen bond", "bm": "Ikatan hidrogen" }, "definition": { "en": "Attraction between H (bonded to N, O or F) and a lone pair on N, O or F of another molecule.", "bm": "Daya tarikan antara H (terikat kepada N, O atau F) dan pasangan elektron bebas N, O atau F molekul lain." } },
+      { "term": { "en": "Dative bond", "bm": "Ikatan datif" }, "definition": { "en": "Covalent bond where both shared electrons come from one atom.", "bm": "Ikatan kovalen dengan kedua-dua elektron dikongsi berasal daripada satu atom." } },
+      { "term": { "en": "Metallic bond", "bm": "Ikatan logam" }, "definition": { "en": "Attraction between positive metal ions and a sea of delocalised electrons.", "bm": "Daya tarikan antara ion logam positif dan lautan elektron dinyahsetempat." } },
+      { "term": { "en": "Electronegativity", "bm": "Keelektronegatifan" }, "definition": { "en": "Ability of an atom to attract shared electrons in a bond.", "bm": "Keupayaan atom menarik elektron yang dikongsi dalam ikatan." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain how magnesium (2.8.2) and oxygen (2.6) form magnesium oxide.", "bm": "Terangkan bagaimana magnesium (2.8.2) dan oksigen (2.6) membentuk magnesium oksida." },
+      "steps": [
+        { "en": "Mg loses 2 valence electrons to achieve a stable octet: Mg → Mg²⁺ + 2e⁻ (2.8).", "bm": "Mg melepaskan 2 elektron valens untuk mencapai oktet stabil: Mg → Mg²⁺ + 2e⁻ (2.8)." },
+        { "en": "O gains 2 electrons to achieve a stable octet: O + 2e⁻ → O²⁻ (2.8).", "bm": "O menerima 2 elektron untuk mencapai oktet stabil: O + 2e⁻ → O²⁻ (2.8)." },
+        { "en": "Mg²⁺ and O²⁻ are held together by strong electrostatic attraction — an ionic bond.", "bm": "Mg²⁺ dan O²⁻ diikat oleh daya tarikan elektrostatik yang kuat — ikatan ion." }
+      ],
+      "answer": { "en": "Electron transfer from Mg to O forms Mg²⁺ and O²⁻ ions joined by an ionic bond: MgO.", "bm": "Pemindahan elektron dari Mg ke O membentuk ion Mg²⁺ dan O²⁻ yang diikat oleh ikatan ion: MgO." }
+    }
+  },
+  "questions": [
+    { "id": "chem-05-q01", "subtopicId": "chem-05-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Why do atoms form chemical bonds?", "bm": "Mengapa atom membentuk ikatan kimia?" },
+      "options": [ { "en": "To achieve a stable duplet or octet electron arrangement", "bm": "Untuk mencapai susunan elektron duplet atau oktet yang stabil" }, { "en": "To increase their mass", "bm": "Untuk menambah jisim" }, { "en": "To gain protons", "bm": "Untuk menerima proton" }, { "en": "To become radioactive", "bm": "Untuk menjadi radioaktif" } ],
+      "answer": 0,
+      "explanation": { "en": "Atoms gain, lose or share electrons to get the same stable arrangement as noble gases.", "bm": "Atom menerima, melepas atau berkongsi elektron untuk mendapat susunan stabil seperti gas adi." } },
+    { "id": "chem-05-q02", "subtopicId": "chem-05-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which pair of elements forms an ionic compound?", "bm": "Pasangan unsur manakah membentuk sebatian ion?" },
+      "options": [ { "en": "Carbon and oxygen", "bm": "Karbon dan oksigen" }, { "en": "Sodium and chlorine", "bm": "Natrium dan klorin" }, { "en": "Hydrogen and chlorine", "bm": "Hidrogen dan klorin" }, { "en": "Nitrogen and hydrogen", "bm": "Nitrogen dan hidrogen" } ],
+      "answer": 1,
+      "explanation": { "en": "A metal (Na) and a non-metal (Cl) transfer electrons → Na⁺Cl⁻.", "bm": "Logam (Na) dan bukan logam (Cl) memindahkan elektron → Na⁺Cl⁻." } },
+    { "id": "chem-05-q03", "subtopicId": "chem-05-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How many shared pairs of electrons are there in a nitrogen molecule, N₂?", "bm": "Berapakah pasangan elektron dikongsi dalam molekul nitrogen, N₂?" },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "Each N (2.5) needs 3 more electrons, so they share 3 pairs — a triple bond.", "bm": "Setiap N (2.5) memerlukan 3 elektron lagi, jadi berkongsi 3 pasang — ikatan ganda tiga." } },
+    { "id": "chem-05-q04", "subtopicId": "chem-05-03", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each molecule to its type of covalent bond.", "bm": "Padankan setiap molekul dengan jenis ikatan kovalennya." },
+      "pairs": [
+        { "left": { "en": "H₂", "bm": "H₂" }, "right": { "en": "Single bond", "bm": "Ikatan tunggal" } },
+        { "left": { "en": "O₂", "bm": "O₂" }, "right": { "en": "Double bond", "bm": "Ikatan ganda dua" } },
+        { "left": { "en": "N₂", "bm": "N₂" }, "right": { "en": "Triple bond", "bm": "Ikatan ganda tiga" } }
+      ],
+      "explanation": { "en": "H needs 1 electron, O needs 2, N needs 3 → 1, 2 or 3 shared pairs.", "bm": "H perlu 1 elektron, O perlu 2, N perlu 3 → 1, 2 atau 3 pasangan dikongsi." } },
+    { "id": "chem-05-q05", "subtopicId": "chem-05-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Water (H₂O, Mr 18) boils at 100 °C but hydrogen sulfide (H₂S, Mr 34) boils at −60 °C. Why?", "bm": "Air (H₂O, Mr 18) mendidih pada 100 °C tetapi hidrogen sulfida (H₂S, Mr 34) mendidih pada −60 °C. Mengapa?" },
+      "options": [ { "en": "Water molecules form hydrogen bonds", "bm": "Molekul air membentuk ikatan hidrogen" }, { "en": "Water is ionic", "bm": "Air ialah sebatian ion" }, { "en": "H₂S has metallic bonds", "bm": "H₂S mempunyai ikatan logam" }, { "en": "Water molecules are heavier", "bm": "Molekul air lebih berat" } ],
+      "answer": 0,
+      "explanation": { "en": "Hydrogen bonds between water molecules need extra energy to break. S is not electronegative enough to form them.", "bm": "Ikatan hidrogen antara molekul air memerlukan tenaga tambahan untuk diputuskan. S kurang elektronegatif untuk membentuknya." } },
+    { "id": "chem-05-q06", "subtopicId": "chem-05-05", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Which ion contains a dative bond?", "bm": "Ion manakah mengandungi ikatan datif?" },
+      "options": [ { "en": "Cl⁻", "bm": "Cl⁻" }, { "en": "Na⁺", "bm": "Na⁺" }, { "en": "NH₄⁺", "bm": "NH₄⁺" }, { "en": "O²⁻", "bm": "O²⁻" } ],
+      "answer": 2,
+      "explanation": { "en": "N in NH₃ donates its lone pair to H⁺, forming NH₄⁺. H₃O⁺ also has a dative bond.", "bm": "N dalam NH₃ menderma pasangan elektron bebas kepada H⁺, membentuk NH₄⁺. H₃O⁺ juga mempunyai ikatan datif." } },
+    { "id": "chem-05-q07", "subtopicId": "chem-05-06", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Metals conduct electricity because they have…", "bm": "Logam mengkonduksi elektrik kerana mempunyai…" },
+      "options": [ { "en": "free-moving ions", "bm": "ion yang bebas bergerak" }, { "en": "delocalised electrons", "bm": "elektron dinyahsetempat" }, { "en": "shared electron pairs", "bm": "pasangan elektron dikongsi" }, { "en": "hydrogen bonds", "bm": "ikatan hidrogen" } ],
+      "answer": 1,
+      "explanation": { "en": "The 'sea' of delocalised electrons moves through the metal and carries charge.", "bm": "'Lautan' elektron dinyahsetempat bergerak melalui logam dan membawa cas." } },
+    { "id": "chem-05-q08", "subtopicId": "chem-05-07", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Select ALL properties of sodium chloride.", "bm": "Pilih SEMUA sifat natrium klorida." },
+      "options": [ { "en": "High melting point", "bm": "Takat lebur tinggi" }, { "en": "Conducts electricity when molten", "bm": "Mengkonduksi elektrik dalam keadaan lebur" }, { "en": "Conducts electricity as a solid", "bm": "Mengkonduksi elektrik dalam keadaan pepejal" }, { "en": "Dissolves in water", "bm": "Larut dalam air" } ],
+      "answer": [0, 1, 3],
+      "explanation": { "en": "Solid NaCl ions are fixed in a lattice; molten or dissolved, the ions are free to move.", "bm": "Ion dalam NaCl pepejal terikat dalam kekisi; apabila lebur atau terlarut, ion bebas bergerak." } },
+    { "id": "chem-05-q09", "subtopicId": "chem-05-07", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Graphite conducts electricity but diamond does not. Why?", "bm": "Grafit mengkonduksi elektrik tetapi berlian tidak. Mengapa?" },
+      "options": [ { "en": "Each C in graphite bonds to 3 others, leaving one delocalised electron", "bm": "Setiap C dalam grafit berikat dengan 3 atom lain, meninggalkan satu elektron dinyahsetempat" }, { "en": "Graphite contains metal ions", "bm": "Grafit mengandungi ion logam" }, { "en": "Diamond is ionic", "bm": "Berlian ialah sebatian ion" }, { "en": "Graphite has hydrogen bonds", "bm": "Grafit mempunyai ikatan hidrogen" } ],
+      "answer": 0,
+      "explanation": { "en": "In diamond all 4 electrons of each C are used in bonds, so none are free.", "bm": "Dalam berlian, kesemua 4 elektron setiap C digunakan dalam ikatan, jadi tiada yang bebas." } },
+    { "id": "chem-05-q10", "subtopicId": "chem-05-02", "type": "fill", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A chlorine atom gains one electron to form the ______ ion (write the symbol, e.g. Na+).", "bm": "Atom klorin menerima satu elektron membentuk ion ______ (tulis simbol, cth. Na+)." },
+      "answer": ["Cl-", "Cl⁻", "Cl−", "chloride", "klorida"],
+      "explanation": { "en": "Cl (2.8.7) + e⁻ → Cl⁻ (2.8.8).", "bm": "Cl (2.8.7) + e⁻ → Cl⁻ (2.8.8)." } }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "bio-08",
+  "reviewed": false,
+  "subtopics": {
+    "bio-08-01": {
+      "keyPoints": [
+        { "en": "Unicellular organisms (Amoeba) exchange gases by diffusion across the plasma membrane — large surface area to volume ratio.", "bm": "Organisma unisel (Amoeba) menukar gas secara resapan merentasi membran plasma — nisbah luas permukaan kepada isi padu besar." },
+        { "en": "Insects: tracheal system — spiracles, tracheae (with chitin rings), tracheoles reaching every cell.", "bm": "Serangga: sistem trakea — spirakel, trakea (dengan gelang kitin), trakeol yang sampai ke setiap sel." },
+        { "en": "Fish: gills with filaments and lamellae; water flows opposite to blood (countercurrent) for maximum O₂ uptake.", "bm": "Ikan: insang dengan filamen dan lamela; air mengalir bertentangan dengan darah (arus lawan) untuk pengambilan O₂ maksimum." },
+        { "en": "Amphibians: moist skin and simple lungs. Humans: lungs with millions of alveoli.", "bm": "Amfibia: kulit lembap dan peparu ringkas. Manusia: peparu dengan berjuta-juta alveolus." }
+      ],
+      "example": { "question": { "en": "Why do large organisms need special respiratory structures?", "bm": "Mengapa organisma besar memerlukan struktur respirasi khas?" }, "answer": { "en": "Their surface area to volume ratio is small, so diffusion through the skin alone can't supply enough O₂.", "bm": "Nisbah luas permukaan kepada isi padu kecil, jadi resapan melalui kulit sahaja tidak cukup membekalkan O₂." } },
+      "tip": { "en": "For each organism: name the structure + one adaptation for efficient gas exchange.", "bm": "Bagi setiap organisma: namakan struktur + satu penyesuaian untuk pertukaran gas yang cekap." }
+    },
+    "bio-08-02": {
+      "keyPoints": [
+        { "en": "Air pathway: nostrils → nasal cavity → pharynx → larynx → trachea → bronchi → bronchioles → alveoli.", "bm": "Laluan udara: lubang hidung → rongga hidung → farinks → larinks → trakea → bronkus → bronkiol → alveolus." },
+        { "en": "Inhalation: external intercostals and diaphragm contract; ribs move up/out; diaphragm flattens; volume ↑, pressure ↓, air in.", "bm": "Tarikan nafas: interkosta luar dan diafragma mengecut; rusuk naik/keluar; diafragma mendatar; isi padu ↑, tekanan ↓, udara masuk." },
+        { "en": "Exhalation: muscles relax; ribs move down/in; diaphragm domes up; volume ↓, pressure ↑, air out.", "bm": "Hembusan nafas: otot mengendur; rusuk turun/masuk; diafragma melengkung ke atas; isi padu ↓, tekanan ↑, udara keluar." },
+        { "en": "Frogs use the buccopharyngeal floor to pump air into their lungs (positive pressure).", "bm": "Katak menggunakan lantai bukofarinks untuk mengepam udara ke dalam peparu (tekanan positif)." }
+      ],
+      "example": { "question": { "en": "In the bell-jar model, what do the rubber sheet and balloons represent?", "bm": "Dalam model balang loceng, apakah yang diwakili oleh kepingan getah dan belon?" }, "answer": { "en": "Rubber sheet = diaphragm; balloons = lungs; jar = thoracic cavity.", "bm": "Kepingan getah = diafragma; belon = peparu; balang = rongga toraks." } },
+      "tip": { "en": "Volume and pressure always change in OPPOSITE directions (Boyle's law!).", "bm": "Isi padu dan tekanan sentiasa berubah dalam arah BERTENTANGAN (hukum Boyle!)." }
+    },
+    "bio-08-03": {
+      "keyPoints": [
+        { "en": "Alveoli adaptations: wall one cell thick, moist lining, very large total surface area, dense capillary network.", "bm": "Penyesuaian alveolus: dinding setebal satu sel, lapisan lembap, jumlah luas permukaan sangat besar, rangkaian kapilari padat." },
+        { "en": "O₂ diffuses from alveolar air (high concentration) into blood; CO₂ diffuses from blood into alveoli.", "bm": "O₂ meresap dari udara alveolus (kepekatan tinggi) ke dalam darah; CO₂ meresap dari darah ke alveolus." },
+        { "en": "O₂ is carried as oxyhaemoglobin; it is released in tissues where O₂ concentration is low.", "bm": "O₂ diangkut sebagai oksihemoglobin; ia dibebaskan di tisu yang berkepekatan O₂ rendah." },
+        { "en": "CO₂ is carried mainly as HCO₃⁻ ions in plasma.", "bm": "CO₂ diangkut terutamanya sebagai ion HCO₃⁻ dalam plasma." },
+        { "en": "Breathing rate is controlled by the medulla oblongata, which detects CO₂ levels in the blood.", "bm": "Kadar pernafasan dikawal oleh medula oblongata yang mengesan aras CO₂ dalam darah." }
+      ],
+      "example": { "question": { "en": "Why does exhaled air contain more CO₂ than inhaled air?", "bm": "Mengapa udara hembusan mengandungi lebih CO₂ daripada udara tarikan?" }, "answer": { "en": "CO₂ from respiring cells diffuses from the blood into the alveoli and is breathed out.", "bm": "CO₂ daripada sel yang berespirasi meresap dari darah ke alveolus dan dihembus keluar." } },
+      "tip": { "en": "Inhaled air ≈ 21% O₂, 0.04% CO₂. Exhaled ≈ 16% O₂, 4% CO₂.", "bm": "Udara tarikan ≈ 21% O₂, 0.04% CO₂. Hembusan ≈ 16% O₂, 4% CO₂." }
+    },
+    "bio-08-04": {
+      "keyPoints": [
+        { "en": "Insects: O₂ diffuses directly from tracheoles into cells — no blood needed to carry O₂.", "bm": "Serangga: O₂ meresap terus dari trakeol ke sel — tidak perlu darah untuk mengangkut O₂." },
+        { "en": "Fish: as water passes over the lamellae, O₂ diffuses into blood capillaries; countercurrent keeps a gradient along the whole gill.", "bm": "Ikan: apabila air melalui lamela, O₂ meresap ke kapilari darah; arus lawan mengekalkan kecerunan sepanjang insang." },
+        { "en": "Amphibians: gas exchange through moist, thin, highly vascularised skin, plus lungs.", "bm": "Amfibia: pertukaran gas melalui kulit lembap, nipis dan banyak salur darah, serta peparu." },
+        { "en": "Plants: gases diffuse through stomata (leaves) and lenticels (stems), then through air spaces.", "bm": "Tumbuhan: gas meresap melalui stoma (daun) dan lentisel (batang), kemudian melalui ruang udara." }
+      ],
+      "example": { "question": { "en": "Why must a frog's skin stay moist?", "bm": "Mengapa kulit katak mesti sentiasa lembap?" }, "answer": { "en": "Gases must dissolve in moisture before diffusing across the skin.", "bm": "Gas mesti melarut dalam lembapan sebelum meresap merentasi kulit." } },
+      "tip": { "en": "Countercurrent flow = water and blood move in opposite directions.", "bm": "Aliran arus lawan = air dan darah bergerak dalam arah bertentangan." }
+    },
+    "bio-08-05": {
+      "keyPoints": [
+        { "en": "Asthma: airways narrow and swell (allergens, dust, haze) → wheezing; treated with inhalers.", "bm": "Asma: saluran udara menyempit dan membengkak (alergen, debu, jerebu) → berdehit; dirawat dengan inhaler." },
+        { "en": "Bronchitis: inflamed bronchi with excess mucus; emphysema: damaged alveolar walls, less surface area.", "bm": "Bronkitis: bronkus radang dengan mukus berlebihan; emfisema: dinding alveolus rosak, luas permukaan berkurang." },
+        { "en": "Lung cancer: mainly from tar in cigarette smoke; also asbestos and radon.", "bm": "Kanser peparu: terutamanya daripada tar dalam asap rokok; juga asbestos dan radon." },
+        { "en": "Smoke contains tar, nicotine, carbon monoxide and irritants that paralyse cilia.", "bm": "Asap mengandungi tar, nikotina, karbon monoksida dan perengsa yang melumpuhkan silia." },
+        { "en": "Prevention: no smoking or vaping, masks during haze, exercise, avoid polluted air.", "bm": "Pencegahan: tidak merokok atau vape, pakai topeng semasa jerebu, bersenam, elakkan udara tercemar." }
+      ],
+      "example": { "question": { "en": "Why do smokers often have a 'smoker's cough'?", "bm": "Mengapa perokok kerap mengalami 'batuk perokok'?" }, "answer": { "en": "Damaged cilia can't sweep mucus away, so it builds up and must be coughed out.", "bm": "Silia yang rosak tidak dapat menyapu mukus, jadi mukus terkumpul dan perlu dibatukkan keluar." } },
+      "tip": { "en": "Link each disease to the structure damaged and how gas exchange is affected.", "bm": "Kaitkan setiap penyakit dengan struktur yang rosak dan kesannya terhadap pertukaran gas." }
+    }
+  }
+}

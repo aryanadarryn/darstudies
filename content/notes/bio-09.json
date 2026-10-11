@@ -1,0 +1,77 @@
+{
+  "chapterId": "bio-09",
+  "reviewed": false,
+  "subtopics": {
+    "bio-09-01": {
+      "keyPoints": [
+        { "en": "The digestive system = digestive tract (mouth to anus) + accessory organs (salivary glands, liver, gall bladder, pancreas).", "bm": "Sistem pencernaan = salur pencernaan (mulut hingga dubur) + organ aksesori (kelenjar liur, hati, pundi hempedu, pankreas)." },
+        { "en": "Food passes: mouth → oesophagus → stomach → duodenum → ileum → large intestine → rectum → anus.", "bm": "Makanan melalui: mulut → esofagus → perut → duodenum → ileum → usus besar → rektum → dubur." },
+        { "en": "Peristalsis — waves of muscle contraction — pushes food along.", "bm": "Peristalsis — gelombang pengecutan otot — menolak makanan sepanjang salur." },
+        { "en": "Stages of nutrition: ingestion → digestion → absorption → assimilation → defecation.", "bm": "Peringkat nutrisi: ingesti → pencernaan → penyerapan → asimilasi → penyahtinjaan." }
+      ],
+      "example": { "question": { "en": "Name the organ that produces bile and the organ that stores it.", "bm": "Namakan organ yang menghasilkan hempedu dan organ yang menyimpannya." }, "answer": { "en": "Liver produces it; gall bladder stores it.", "bm": "Hati menghasilkannya; pundi hempedu menyimpannya." } },
+      "tip": { "en": "Practise labelling a diagram of the digestive system — it's in almost every exam.", "bm": "Berlatih melabel rajah sistem pencernaan — ia ada dalam hampir setiap peperiksaan." }
+    },
+    "bio-09-02": {
+      "keyPoints": [
+        { "en": "Physical digestion: chewing, churning in the stomach, emulsification by bile.", "bm": "Pencernaan fizikal: mengunyah, mengisar dalam perut, pengemulsian oleh hempedu." },
+        { "en": "Mouth: salivary amylase — starch → maltose.", "bm": "Mulut: amilase liur — kanji → maltosa." },
+        { "en": "Stomach: HCl (pH 2) kills bacteria; pepsin — protein → polypeptides; rennin coagulates milk protein.", "bm": "Perut: HCl (pH 2) membunuh bakteria; pepsin — protein → polipeptida; renin mengentalkan protein susu." },
+        { "en": "Duodenum: bile emulsifies fat; pancreatic amylase, trypsin and lipase work at pH ~8.", "bm": "Duodenum: hempedu mengemulsikan lemak; amilase pankreas, tripsin dan lipase bertindak pada pH ~8." },
+        { "en": "Ileum: maltase, sucrase, lactase, erepsin, lipase finish digestion → glucose, amino acids, fatty acids, glycerol.", "bm": "Ileum: maltase, sukrase, laktase, erepsin, lipase melengkapkan pencernaan → glukosa, asid amino, asid lemak, gliserol." }
+      ],
+      "example": { "question": { "en": "Why do people without a gall bladder find fatty food harder to digest?", "bm": "Mengapa orang tanpa pundi hempedu sukar mencerna makanan berlemak?" }, "answer": { "en": "Less bile is released at once, so fats are not emulsified well and lipase works slowly.", "bm": "Kurang hempedu dibebaskan sekaligus, jadi lemak tidak teremulsi dengan baik dan lipase bertindak perlahan." } },
+      "tip": { "en": "Make a table: site → juice → enzyme → substrate → product → pH.", "bm": "Buat jadual: tempat → jus → enzim → substrat → hasil → pH." }
+    },
+    "bio-09-03": {
+      "keyPoints": [
+        { "en": "Absorption happens mainly in the ileum, through millions of villi.", "bm": "Penyerapan berlaku terutamanya di ileum, melalui berjuta-juta vilus." },
+        { "en": "Villus adaptations: microvilli (huge surface area), one-cell-thick epithelium, dense capillaries, a lacteal.", "bm": "Penyesuaian vilus: mikrovilus (luas permukaan sangat besar), epitelium setebal satu sel, kapilari padat, lakteal." },
+        { "en": "Glucose and amino acids → blood capillaries (by diffusion and active transport) → hepatic portal vein → liver.", "bm": "Glukosa dan asid amino → kapilari darah (resapan dan pengangkutan aktif) → vena portal hepar → hati." },
+        { "en": "Fatty acids and glycerol → lacteal → lymphatic system → blood. Water and vitamins are also absorbed.", "bm": "Asid lemak dan gliserol → lakteal → sistem limfa → darah. Air dan vitamin juga diserap." }
+      ],
+      "example": { "question": { "en": "Why is the ileum very long and folded?", "bm": "Mengapa ileum sangat panjang dan berlipat?" }, "answer": { "en": "To give a large surface area and more time for absorption.", "bm": "Untuk memberi luas permukaan yang besar dan lebih masa untuk penyerapan." } },
+      "tip": { "en": "Fat-soluble vitamins (A, D, E, K) go with the fats into the lacteal.", "bm": "Vitamin larut lemak (A, D, E, K) bersama lemak memasuki lakteal." }
+    },
+    "bio-09-04": {
+      "keyPoints": [
+        { "en": "Assimilation: absorbed nutrients are used by cells to build structures or release energy.", "bm": "Asimilasi: nutrien yang diserap digunakan sel untuk membina struktur atau membebaskan tenaga." },
+        { "en": "Liver: excess glucose → glycogen (insulin); amino acids → plasma proteins; excess amino acids deaminated → urea.", "bm": "Hati: glukosa berlebihan → glikogen (insulin); asid amino → protein plasma; asid amino berlebihan dideaminasi → urea." },
+        { "en": "Cells: glucose for respiration; amino acids to build enzymes, hormones, new cells.", "bm": "Sel: glukosa untuk respirasi; asid amino untuk membina enzim, hormon, sel baharu." },
+        { "en": "Lipids: form plasma membranes, hormones; excess stored under the skin and around organs.", "bm": "Lipid: membentuk membran plasma, hormon; lebihan disimpan di bawah kulit dan sekeliling organ." }
+      ],
+      "example": { "question": { "en": "Where does the energy for muscle contraction come from after a meal?", "bm": "Dari manakah tenaga untuk pengecutan otot selepas makan?" }, "answer": { "en": "Glucose absorbed from food is used in cellular respiration in muscle cells.", "bm": "Glukosa yang diserap daripada makanan digunakan dalam respirasi sel di sel otot." } },
+      "tip": { "en": "The liver is the 'processing factory' between absorption and the rest of the body.", "bm": "Hati ialah 'kilang pemprosesan' antara penyerapan dan seluruh badan." }
+    },
+    "bio-09-05": {
+      "keyPoints": [
+        { "en": "Undigested food (mainly fibre), dead cells, bacteria and bile pigments enter the large intestine.", "bm": "Makanan tidak tercerna (terutamanya serat), sel mati, bakteria dan pigmen hempedu memasuki usus besar." },
+        { "en": "The colon reabsorbs water and some vitamins (made by gut bacteria), forming semi-solid faeces.", "bm": "Kolon menyerap semula air dan sesetengah vitamin (dihasilkan bakteria usus), membentuk tinja separa pepejal." },
+        { "en": "Faeces are stored in the rectum and removed through the anus — defecation.", "bm": "Tinja disimpan dalam rektum dan disingkirkan melalui dubur — penyahtinjaan." },
+        { "en": "Fibre and water prevent constipation; too little time in the colon causes diarrhoea.", "bm": "Serat dan air mencegah sembelit; terlalu sedikit masa dalam kolon menyebabkan cirit-birit." }
+      ],
+      "example": { "question": { "en": "Why is defecation not called excretion?", "bm": "Mengapa penyahtinjaan tidak dipanggil perkumuhan?" }, "answer": { "en": "Faeces are mostly undigested food that never entered body cells, not waste made by metabolism.", "bm": "Tinja kebanyakannya makanan tidak tercerna yang tidak pernah memasuki sel badan, bukan bahan buangan metabolisme." } },
+      "tip": { "en": "Eat fruit, vegetables and wholegrains daily for fibre.", "bm": "Makan buah, sayur dan bijirin penuh setiap hari untuk serat." }
+    },
+    "bio-09-06": {
+      "keyPoints": [
+        { "en": "Balanced diet: carbohydrates, proteins, fats, vitamins, minerals, fibre and water in the right proportions.", "bm": "Gizi seimbang: karbohidrat, protein, lemak, vitamin, mineral, serat dan air dalam kadar yang betul." },
+        { "en": "Needs depend on age, gender, body size, activity, health and climate (Malaysian Food Pyramid / 'Suku-Suku Separuh').", "bm": "Keperluan bergantung pada umur, jantina, saiz badan, aktiviti, kesihatan dan iklim (Piramid Makanan Malaysia / 'Suku-Suku Separuh')." },
+        { "en": "Energy value of food is measured in kJ using a food calorimeter.", "bm": "Nilai tenaga makanan diukur dalam kJ menggunakan kalorimeter makanan." },
+        { "en": "Deficiencies: vitamin C → scurvy; iron → anaemia; iodine → goitre; vitamin D/calcium → rickets; protein → kwashiorkor.", "bm": "Kekurangan: vitamin C → skurvi; ferum → anemia; iodin → goiter; vitamin D/kalsium → riket; protein → kwasyiorkor." }
+      ],
+      "example": { "question": { "en": "Why does a construction worker need more energy than an office clerk?", "bm": "Mengapa pekerja binaan memerlukan lebih tenaga daripada kerani pejabat?" }, "answer": { "en": "Heavy physical work uses more energy, so the daily energy requirement is higher.", "bm": "Kerja fizikal berat menggunakan lebih tenaga, jadi keperluan tenaga harian lebih tinggi." } },
+      "tip": { "en": "'Suku-Suku Separuh': ¼ plate carbohydrate, ¼ protein, ½ fruit and vegetables.", "bm": "'Suku-Suku Separuh': ¼ pinggan karbohidrat, ¼ protein, ½ buah dan sayur." }
+    },
+    "bio-09-07": {
+      "keyPoints": [
+        { "en": "Obesity: too much energy intake vs use → risk of heart disease, type 2 diabetes, hypertension.", "bm": "Obesiti: pengambilan tenaga melebihi penggunaan → risiko penyakit jantung, diabetes jenis 2, hipertensi." },
+        { "en": "Gastritis: stomach lining inflamed by acid (irregular meals, stress, spicy food, H. pylori).", "bm": "Gastritis: dinding perut radang akibat asid (makan tidak tetap, tekanan, makanan pedas, H. pylori)." },
+        { "en": "Eating disorders: anorexia nervosa (refusing food), bulimia (binge eating then purging).", "bm": "Gangguan makan: anoreksia nervosa (enggan makan), bulimia (makan berlebihan kemudian memuntahkan)." },
+        { "en": "Healthy habits: eat regularly, less sugar/salt/fat, more fibre, drink water, exercise.", "bm": "Tabiat sihat: makan berkala, kurang gula/garam/lemak, lebih serat, minum air, bersenam." }
+      ],
+      "example": { "question": { "en": "Calculate BMI for a 60 kg person who is 1.6 m tall.", "bm": "Hitung BMI bagi seseorang 60 kg dengan ketinggian 1.6 m." }, "answer": { "en": "BMI = 60 ÷ 1.6² = 23.4 (normal range 18.5–24.9)", "bm": "BMI = 60 ÷ 1.6² = 23.4 (julat normal 18.5–24.9)" } },
+      "tip": { "en": "Link each habit to a disease and explain WHY it causes it.", "bm": "Kaitkan setiap tabiat dengan penyakit dan terangkan MENGAPA ia menyebabkannya." }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "chapterId": "phy-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "At the beach in the afternoon the sand burns your feet, but the sea is still cool. In the evening it's the other way round. Why do sand and water heat up so differently?",
+      "bm": "Di pantai pada waktu petang pasir terasa sangat panas, tetapi laut masih sejuk. Pada waktu malam pula sebaliknya. Mengapa pasir dan air menjadi panas dengan cara yang berbeza?"
+    },
+    "bigIdeas": [
+      { "en": "Heat flows from hot to cold until thermal equilibrium — no net heat flow.", "bm": "Haba mengalir dari panas ke sejuk sehingga keseimbangan terma — tiada aliran haba bersih." },
+      { "en": "Specific heat capacity: Q = mcθ. Water's c is high, so it heats and cools slowly.", "bm": "Muatan haba tentu: Q = mcθ. c air tinggi, jadi ia lambat panas dan lambat sejuk." },
+      { "en": "Latent heat changes the state without changing temperature: Q = mL.", "bm": "Haba pendam mengubah keadaan jirim tanpa mengubah suhu: Q = mL." },
+      { "en": "Gas laws link pressure, volume and temperature (in kelvin) of a fixed mass of gas.", "bm": "Hukum gas mengaitkan tekanan, isi padu dan suhu (dalam kelvin) bagi jisim gas yang tetap." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Boyle's law", "bm": "Hukum Boyle" }, { "en": "Charles' law", "bm": "Hukum Charles" }, { "en": "Gay-Lussac's law", "bm": "Hukum Gay-Lussac" } ],
+        "rows": [
+          { "label": { "en": "Constant", "bm": "Dimalarkan" }, "cells": [ { "en": "temperature", "bm": "suhu" }, { "en": "pressure", "bm": "tekanan" }, { "en": "volume", "bm": "isi padu" } ] },
+          { "label": { "en": "Relationship", "bm": "Hubungan" }, "cells": [ { "en": "P ∝ 1/V", "bm": "P ∝ 1/V" }, { "en": "V ∝ T", "bm": "V ∝ T" }, { "en": "P ∝ T", "bm": "P ∝ T" } ] },
+          { "label": { "en": "Equation", "bm": "Persamaan" }, "cells": [ { "en": "P₁V₁ = P₂V₂", "bm": "P₁V₁ = P₂V₂" }, { "en": "V₁/T₁ = V₂/T₂", "bm": "V₁/T₁ = V₂/T₂" }, { "en": "P₁/T₁ = P₂/T₂", "bm": "P₁/T₁ = P₂/T₂" } ] },
+          { "label": { "en": "Daily example", "bm": "Contoh harian" }, "cells": [ { "en": "Bubbles grow as they rise", "bm": "Gelembung membesar ketika naik" }, { "en": "Balloon shrinks in the fridge", "bm": "Belon mengecut dalam peti sejuk" }, { "en": "Tyre pressure rises on a hot road", "bm": "Tekanan tayar naik di jalan panas" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Thermal equilibrium", "bm": "Keseimbangan terma" }, "definition": { "en": "Two objects in contact have no net heat flow and the same temperature.", "bm": "Dua objek bersentuhan tiada aliran haba bersih dan suhu yang sama." } },
+      { "term": { "en": "Heat capacity", "bm": "Muatan haba" }, "definition": { "en": "Heat needed to raise an object's temperature by 1 °C (unit J °C⁻¹).", "bm": "Haba untuk menaikkan suhu objek sebanyak 1 °C (unit J °C⁻¹)." } },
+      { "term": { "en": "Specific heat capacity", "bm": "Muatan haba tentu" }, "definition": { "en": "Heat needed to raise 1 kg of a substance by 1 °C (J kg⁻¹ °C⁻¹).", "bm": "Haba untuk menaikkan suhu 1 kg bahan sebanyak 1 °C (J kg⁻¹ °C⁻¹)." } },
+      { "term": { "en": "Specific latent heat", "bm": "Haba pendam tentu" }, "definition": { "en": "Heat needed to change the state of 1 kg without a temperature change (J kg⁻¹).", "bm": "Haba untuk menukar keadaan 1 kg bahan tanpa perubahan suhu (J kg⁻¹)." } },
+      { "term": { "en": "Absolute zero", "bm": "Sifar mutlak" }, "definition": { "en": "0 K = −273 °C, the lowest possible temperature.", "bm": "0 K = −273 °C, suhu paling rendah yang mungkin." } },
+      { "term": { "en": "Pressure of a gas", "bm": "Tekanan gas" }, "definition": { "en": "Caused by gas molecules colliding with the container walls.", "bm": "Disebabkan oleh molekul gas berlanggar dengan dinding bekas." } }
+    ],
+    "formulaIds": ["phy-heat-mc", "phy-pt-mc", "phy-latent", "phy-boyle", "phy-charles", "phy-gay-lussac"],
+    "toolId": "heat-calc",
+    "workedExample": {
+      "question": { "en": "How much heat is needed to turn 0.2 kg of ice at 0 °C into water at 30 °C? (L_fusion = 3.34 × 10⁵ J kg⁻¹, c_water = 4200 J kg⁻¹ °C⁻¹)", "bm": "Berapakah haba untuk menukar 0.2 kg ais pada 0 °C kepada air pada 30 °C? (L_pelakuran = 3.34 × 10⁵ J kg⁻¹, c_air = 4200 J kg⁻¹ °C⁻¹)" },
+      "steps": [
+        { "en": "Melt the ice (no temperature change): Q₁ = mL = 0.2 × 3.34 × 10⁵ = 66 800 J", "bm": "Leburkan ais (tiada perubahan suhu): Q₁ = mL = 0.2 × 3.34 × 10⁵ = 66 800 J" },
+        { "en": "Heat the water from 0 °C to 30 °C: Q₂ = mcθ = 0.2 × 4200 × 30 = 25 200 J", "bm": "Panaskan air dari 0 °C ke 30 °C: Q₂ = mcθ = 0.2 × 4200 × 30 = 25 200 J" },
+        { "en": "Total Q = 66 800 + 25 200 = 92 000 J", "bm": "Jumlah Q = 66 800 + 25 200 = 92 000 J" }
+      ],
+      "answer": { "en": "92 000 J (92 kJ)", "bm": "92 000 J (92 kJ)" }
+    }
+  },
+  "questions": [
+    { "id": "phy-04-q01", "subtopicId": "phy-04-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Two objects are in thermal equilibrium when…", "bm": "Dua objek berada dalam keseimbangan terma apabila…" },
+      "options": [ { "en": "they have the same mass", "bm": "jisimnya sama" }, { "en": "there is no net heat flow between them", "bm": "tiada aliran haba bersih antara keduanya" }, { "en": "no heat moves at all", "bm": "tiada haba bergerak langsung" }, { "en": "they have the same heat capacity", "bm": "muatan habanya sama" } ],
+      "answer": 1,
+      "explanation": { "en": "Heat still flows both ways, but at equal rates, so the NET flow is zero and temperatures are equal.", "bm": "Haba masih mengalir dua arah tetapi pada kadar sama, jadi aliran BERSIH sifar dan suhu sama." } },
+    { "id": "phy-04-q02", "subtopicId": "phy-04-02", "type": "numeric", "difficulty": 1, "tp": 3,
+      "prompt": { "en": "How much heat is needed to raise 2 kg of water by 10 °C? (c = 4200 J kg⁻¹ °C⁻¹)", "bm": "Berapakah haba untuk menaikkan suhu 2 kg air sebanyak 10 °C? (c = 4200 J kg⁻¹ °C⁻¹)" },
+      "answer": 84000, "tolerance": 0.01, "unit": "J",
+      "explanation": { "en": "Q = mcθ = 2 × 4200 × 10 = 84 000 J.", "bm": "Q = mcθ = 2 × 4200 × 10 = 84 000 J." } },
+    { "id": "phy-04-q03", "subtopicId": "phy-04-02", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "A 500 W heater warms a 1 kg metal block for 60 s and its temperature rises by 30 °C. Find c of the metal.", "bm": "Pemanas 500 W memanaskan blok logam 1 kg selama 60 s dan suhunya naik 30 °C. Cari c logam itu." },
+      "answer": 1000, "tolerance": 0.01, "unit": "J kg⁻¹ °C⁻¹",
+      "explanation": { "en": "Pt = mcθ → 500 × 60 = 1 × c × 30 → c = 30 000 ÷ 30 = 1000 J kg⁻¹ °C⁻¹ (assuming no heat lost).", "bm": "Pt = mcθ → 500 × 60 = 1 × c × 30 → c = 30 000 ÷ 30 = 1000 J kg⁻¹ °C⁻¹ (anggap tiada haba hilang)." } },
+    { "id": "phy-04-q04", "subtopicId": "phy-04-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Water is used as a car engine coolant because it has…", "bm": "Air digunakan sebagai penyejuk enjin kereta kerana ia mempunyai…" },
+      "options": [ { "en": "a low boiling point", "bm": "takat didih yang rendah" }, { "en": "a high specific heat capacity", "bm": "muatan haba tentu yang tinggi" }, { "en": "a low density", "bm": "ketumpatan yang rendah" }, { "en": "a high latent heat of fusion only", "bm": "haba pendam pelakuran tinggi sahaja" } ],
+      "answer": 1,
+      "explanation": { "en": "High c means water absorbs a lot of heat with only a small temperature rise.", "bm": "c tinggi bermakna air menyerap banyak haba dengan kenaikan suhu yang kecil." } },
+    { "id": "phy-04-q05", "subtopicId": "phy-04-03", "type": "numeric", "difficulty": 1, "tp": 3,
+      "prompt": { "en": "How much heat is needed to melt 0.5 kg of ice at 0 °C? (L = 3.34 × 10⁵ J kg⁻¹)", "bm": "Berapakah haba untuk meleburkan 0.5 kg ais pada 0 °C? (L = 3.34 × 10⁵ J kg⁻¹)" },
+      "answer": 167000, "tolerance": 0.01, "unit": "J",
+      "explanation": { "en": "Q = mL = 0.5 × 3.34 × 10⁵ = 167 000 J.", "bm": "Q = mL = 0.5 × 3.34 × 10⁵ = 167 000 J." } },
+    { "id": "phy-04-q06", "subtopicId": "phy-04-03", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "While water is boiling, its temperature stays at 100 °C even though heat is supplied. Why?", "bm": "Semasa air mendidih, suhunya kekal 100 °C walaupun haba dibekalkan. Mengapa?" },
+      "options": [ { "en": "The heat is used to break the forces between molecules", "bm": "Haba digunakan untuk memutuskan daya antara molekul" }, { "en": "The thermometer stops working", "bm": "Termometer berhenti berfungsi" }, { "en": "Heat escapes faster than it is supplied", "bm": "Haba terbebas lebih cepat daripada dibekalkan" }, { "en": "The kinetic energy of the molecules increases", "bm": "Tenaga kinetik molekul bertambah" } ],
+      "answer": 0,
+      "explanation": { "en": "Latent heat increases the potential energy (separation) of molecules, not their kinetic energy — so temperature stays constant.", "bm": "Haba pendam menambah tenaga keupayaan molekul, bukan tenaga kinetik — jadi suhu kekal." } },
+    { "id": "phy-04-q07", "subtopicId": "phy-04-03", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why does sweating cool your body?", "bm": "Mengapa berpeluh menyejukkan badan?" },
+      "options": [ { "en": "Sweat is colder than your skin", "bm": "Peluh lebih sejuk daripada kulit" }, { "en": "Evaporating sweat absorbs latent heat from the skin", "bm": "Peluh yang menyejat menyerap haba pendam dari kulit" }, { "en": "Sweat reflects sunlight", "bm": "Peluh memantulkan cahaya matahari" }, { "en": "Sweat increases blood flow", "bm": "Peluh menambah aliran darah" } ],
+      "answer": 1,
+      "explanation": { "en": "Evaporation needs latent heat of vaporisation, taken from your skin.", "bm": "Penyejatan memerlukan haba pendam pengewapan yang diambil dari kulit." } },
+    { "id": "phy-04-q08", "subtopicId": "phy-04-04", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A gas at 100 kPa occupies 6 cm³. It is compressed to 3 cm³ at constant temperature. Find the new pressure in kPa.", "bm": "Gas pada 100 kPa memenuhi 6 cm³. Ia dimampatkan ke 3 cm³ pada suhu malar. Cari tekanan baharu dalam kPa." },
+      "answer": 200, "tolerance": 0.01, "unit": "kPa",
+      "explanation": { "en": "Boyle: P₁V₁ = P₂V₂ → 100 × 6 = P₂ × 3 → P₂ = 200 kPa.", "bm": "Boyle: P₁V₁ = P₂V₂ → 100 × 6 = P₂ × 3 → P₂ = 200 kPa." } },
+    { "id": "phy-04-q09", "subtopicId": "phy-04-04", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "A gas occupies 300 cm³ at 27 °C. It is heated to 127 °C at constant pressure. Find the new volume.", "bm": "Gas memenuhi 300 cm³ pada 27 °C. Ia dipanaskan ke 127 °C pada tekanan malar. Cari isi padu baharu." },
+      "answer": 400, "tolerance": 0.01, "unit": "cm³",
+      "explanation": { "en": "Convert to kelvin: 300 K and 400 K. V₂ = 300 × 400/300 = 400 cm³.", "bm": "Tukar ke kelvin: 300 K dan 400 K. V₂ = 300 × 400/300 = 400 cm³." } },
+    { "id": "phy-04-q10", "subtopicId": "phy-04-04", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each gas law to the quantity kept constant.", "bm": "Padankan setiap hukum gas dengan kuantiti yang dimalarkan." },
+      "pairs": [
+        { "left": { "en": "Boyle's law", "bm": "Hukum Boyle" }, "right": { "en": "Temperature", "bm": "Suhu" } },
+        { "left": { "en": "Charles' law", "bm": "Hukum Charles" }, "right": { "en": "Pressure", "bm": "Tekanan" } },
+        { "left": { "en": "Gay-Lussac's law", "bm": "Hukum Gay-Lussac" }, "right": { "en": "Volume", "bm": "Isi padu" } }
+      ],
+      "explanation": { "en": "Each law also needs a FIXED MASS of gas.", "bm": "Setiap hukum juga memerlukan JISIM gas yang TETAP." } },
+    { "id": "phy-04-q11", "subtopicId": "phy-04-04", "type": "numeric", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "What is absolute zero in °C?", "bm": "Berapakah sifar mutlak dalam °C?" },
+      "answer": -273, "tolerance": 0.002, "unit": "°C",
+      "explanation": { "en": "0 K = −273 °C (more precisely −273.15 °C).", "bm": "0 K = −273 °C (lebih tepat −273.15 °C)." } }
+  ]
+}

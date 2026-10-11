@@ -1,0 +1,109 @@
+{
+  "chapterId": "bio-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Grandma wraps tough beef in papaya leaves before making rendang. Biological washing powder removes curry stains in cold water. Both use enzymes — the tiny protein machines that run every reaction in your body.",
+      "bm": "Nenek membalut daging liat dengan daun betik sebelum membuat rendang. Serbuk pencuci biologi menanggalkan kesan kari dalam air sejuk. Kedua-duanya menggunakan enzim — mesin protein kecil yang menjalankan setiap tindak balas dalam badan anda."
+    },
+    "bigIdeas": [
+      { "en": "Metabolism = all chemical reactions in an organism: anabolism builds, catabolism breaks down.", "bm": "Metabolisme = semua tindak balas kimia dalam organisma: anabolisme membina, katabolisme mengurai." },
+      { "en": "Enzymes are protein catalysts that speed up reactions and are not used up.", "bm": "Enzim ialah mangkin protein yang mempercepat tindak balas dan tidak habis digunakan." },
+      { "en": "Each enzyme is specific: its active site fits only one substrate (lock-and-key).", "bm": "Setiap enzim spesifik: tapak aktifnya hanya sesuai dengan satu substrat (mangga dan kunci)." },
+      { "en": "Temperature, pH, substrate and enzyme concentration affect enzyme activity.", "bm": "Suhu, pH, kepekatan substrat dan enzim mempengaruhi aktiviti enzim." },
+      { "en": "Enzymes are used in food, detergents, medicine and industry.", "bm": "Enzim digunakan dalam makanan, detergen, perubatan dan industri." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Substrate meets enzyme", "bm": "Substrat bertemu enzim" }, "detail": { "en": "shape fits the active site", "bm": "bentuk sepadan dengan tapak aktif" } },
+          { "title": { "en": "Enzyme–substrate complex", "bm": "Kompleks enzim–substrat" }, "detail": { "en": "like a key in a lock", "bm": "seperti kunci dalam mangga" } },
+          { "title": { "en": "Reaction happens", "bm": "Tindak balas berlaku" }, "detail": { "en": "bonds broken or formed", "bm": "ikatan diputuskan atau dibentuk" } },
+          { "title": { "en": "Products released", "bm": "Hasil dibebaskan" }, "detail": { "en": "enzyme unchanged, used again", "bm": "enzim tidak berubah, digunakan semula" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Metabolism", "bm": "Metabolisme" }, "definition": { "en": "All the chemical reactions in a living organism.", "bm": "Semua tindak balas kimia dalam organisma hidup." } },
+      { "term": { "en": "Anabolism", "bm": "Anabolisme" }, "definition": { "en": "Building complex molecules from simple ones (uses energy).", "bm": "Membina molekul kompleks daripada molekul ringkas (menggunakan tenaga)." } },
+      { "term": { "en": "Catabolism", "bm": "Katabolisme" }, "definition": { "en": "Breaking down complex molecules (releases energy).", "bm": "Menguraikan molekul kompleks (membebaskan tenaga)." } },
+      { "term": { "en": "Enzyme", "bm": "Enzim" }, "definition": { "en": "A protein that acts as a biological catalyst.", "bm": "Protein yang bertindak sebagai mangkin biologi." } },
+      { "term": { "en": "Active site", "bm": "Tapak aktif" }, "definition": { "en": "Region of an enzyme where the substrate binds.", "bm": "Kawasan pada enzim tempat substrat terikat." } },
+      { "term": { "en": "Denaturation", "bm": "Penyahaslian" }, "definition": { "en": "Permanent change in an enzyme's shape by heat or extreme pH, so it stops working.", "bm": "Perubahan kekal bentuk enzim akibat haba atau pH melampau, menyebabkan ia berhenti berfungsi." } },
+      { "term": { "en": "Optimum temperature", "bm": "Suhu optimum" }, "definition": { "en": "Temperature at which an enzyme works fastest (~37 °C in humans).", "bm": "Suhu ketika enzim berfungsi paling cepat (~37 °C dalam manusia)." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Amylase digests starch fastest at 37 °C. Explain what happens to its activity at 20 °C and at 60 °C.", "bm": "Amilase mencerna kanji paling cepat pada 37 °C. Terangkan aktivitinya pada 20 °C dan 60 °C." },
+      "steps": [
+        { "en": "At 20 °C molecules have less kinetic energy, so fewer collisions between enzyme and starch — slower, but the enzyme is not damaged.", "bm": "Pada 20 °C molekul mempunyai kurang tenaga kinetik, jadi kurang perlanggaran antara enzim dan kanji — lebih perlahan, tetapi enzim tidak rosak." },
+        { "en": "At 37 °C (optimum) collisions are frequent and the active site has the right shape — fastest.", "bm": "Pada 37 °C (optimum) perlanggaran kerap dan tapak aktif berbentuk betul — paling cepat." },
+        { "en": "At 60 °C bonds in the enzyme break, the active site changes shape — the enzyme is denatured and activity stops.", "bm": "Pada 60 °C ikatan dalam enzim putus, tapak aktif berubah bentuk — enzim ternyahasli dan aktiviti berhenti." }
+      ],
+      "answer": { "en": "Slow at 20 °C (reversible), fastest at 37 °C, stops at 60 °C (denatured, irreversible).", "bm": "Perlahan pada 20 °C (boleh berbalik), paling cepat pada 37 °C, berhenti pada 60 °C (ternyahasli, tidak berbalik)." }
+    }
+  },
+  "questions": [
+    { "id": "bio-05-q01", "subtopicId": "bio-05-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Classify each process.", "bm": "Kelaskan setiap proses." },
+      "pairs": [
+        { "left": { "en": "Photosynthesis", "bm": "Fotosintesis" }, "right": { "en": "Anabolism", "bm": "Anabolisme" } },
+        { "left": { "en": "Cellular respiration", "bm": "Respirasi sel" }, "right": { "en": "Catabolism", "bm": "Katabolisme" } },
+        { "left": { "en": "Protein synthesis", "bm": "Sintesis protein" }, "right": { "en": "Building (uses energy)", "bm": "Membina (guna tenaga)" } },
+        { "left": { "en": "Digestion of starch", "bm": "Pencernaan kanji" }, "right": { "en": "Breaking down (hydrolysis)", "bm": "Mengurai (hidrolisis)" } }
+      ],
+      "explanation": { "en": "Anabolism builds and needs energy; catabolism breaks down and releases energy.", "bm": "Anabolisme membina dan memerlukan tenaga; katabolisme mengurai dan membebaskan tenaga." } },
+    { "id": "bio-05-q02", "subtopicId": "bio-05-02", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Enzymes are made of…", "bm": "Enzim terdiri daripada…" },
+      "options": [ { "en": "protein", "bm": "protein" }, { "en": "lipid", "bm": "lipid" }, { "en": "carbohydrate", "bm": "karbohidrat" }, { "en": "DNA", "bm": "DNA" } ],
+      "answer": 0,
+      "explanation": { "en": "That's why heat and extreme pH can denature them.", "bm": "Sebab itu haba dan pH melampau boleh menyahaslikannya." } },
+    { "id": "bio-05-q03", "subtopicId": "bio-05-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why can amylase digest starch but not protein?", "bm": "Mengapa amilase boleh mencerna kanji tetapi tidak protein?" },
+      "options": [ { "en": "Its active site only fits the shape of starch", "bm": "Tapak aktifnya hanya sepadan dengan bentuk kanji" }, { "en": "Protein is too small", "bm": "Protein terlalu kecil" }, { "en": "Amylase is a lipid", "bm": "Amilase ialah lipid" }, { "en": "Protein has no bonds", "bm": "Protein tiada ikatan" } ],
+      "answer": 0,
+      "explanation": { "en": "Enzymes are specific (lock-and-key hypothesis).", "bm": "Enzim adalah spesifik (hipotesis mangga dan kunci)." } },
+    { "id": "bio-05-q04", "subtopicId": "bio-05-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each enzyme to its optimum pH.", "bm": "Padankan setiap enzim dengan pH optimumnya." },
+      "pairs": [
+        { "left": { "en": "Pepsin (stomach)", "bm": "Pepsin (perut)" }, "right": { "en": "pH 2", "bm": "pH 2" } },
+        { "left": { "en": "Salivary amylase", "bm": "Amilase liur" }, "right": { "en": "pH 7", "bm": "pH 7" } },
+        { "left": { "en": "Trypsin (small intestine)", "bm": "Tripsin (usus kecil)" }, "right": { "en": "pH 8", "bm": "pH 8" } }
+      ],
+      "explanation": { "en": "Each enzyme works best at the pH of the place where it acts.", "bm": "Setiap enzim berfungsi terbaik pada pH tempat ia bertindak." } },
+    { "id": "bio-05-q05", "subtopicId": "bio-05-02", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Adding more substrate no longer increases the rate of an enzyme reaction. Why?", "bm": "Menambah substrat tidak lagi meningkatkan kadar tindak balas enzim. Mengapa?" },
+      "options": [ { "en": "All active sites are occupied — enzyme concentration is now the limiting factor", "bm": "Semua tapak aktif telah diduduki — kepekatan enzim kini faktor penghad" }, { "en": "The enzyme is denatured", "bm": "Enzim ternyahasli" }, { "en": "The substrate has changed shape", "bm": "Substrat telah berubah bentuk" }, { "en": "The temperature has dropped", "bm": "Suhu telah menurun" } ],
+      "answer": 0,
+      "explanation": { "en": "Add more enzyme to raise the rate further.", "bm": "Tambah lebih banyak enzim untuk meningkatkan kadar lagi." } },
+    { "id": "bio-05-q06", "subtopicId": "bio-05-02", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Pepsin is put into a test tube with egg white at pH 8. What happens?", "bm": "Pepsin dimasukkan ke dalam tabung uji berisi putih telur pada pH 8. Apakah yang berlaku?" },
+      "options": [ { "en": "Little or no digestion — pepsin needs acidic conditions", "bm": "Sedikit atau tiada pencernaan — pepsin memerlukan keadaan berasid" }, { "en": "Very fast digestion", "bm": "Pencernaan sangat cepat" }, { "en": "Egg white turns into starch", "bm": "Putih telur menjadi kanji" }, { "en": "Pepsin digests itself into glucose", "bm": "Pepsin mencerna dirinya menjadi glukosa" } ],
+      "answer": 0,
+      "explanation": { "en": "At pH 8 the shape of pepsin's active site changes, so egg-white protein doesn't fit.", "bm": "Pada pH 8 bentuk tapak aktif pepsin berubah, jadi protein putih telur tidak sepadan." } },
+    { "id": "bio-05-q07", "subtopicId": "bio-05-02", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The part of an enzyme where the substrate binds is called the ______ site.", "bm": "Bahagian enzim tempat substrat terikat dipanggil tapak ______." },
+      "answer": ["active", "aktif"],
+      "explanation": { "en": "The substrate fits the active site to form an enzyme–substrate complex.", "bm": "Substrat sepadan dengan tapak aktif membentuk kompleks enzim–substrat." } },
+    { "id": "bio-05-q08", "subtopicId": "bio-05-03", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each use to the enzyme.", "bm": "Padankan setiap kegunaan dengan enzim." },
+      "pairs": [
+        { "left": { "en": "Tenderising meat", "bm": "Melembutkan daging" }, "right": { "en": "Papain (papaya)", "bm": "Papain (betik)" } },
+        { "left": { "en": "Removing protein stains from clothes", "bm": "Menanggalkan kotoran protein pada pakaian" }, "right": { "en": "Protease", "bm": "Protease" } },
+        { "left": { "en": "Clearer fruit juice", "bm": "Jus buah lebih jernih" }, "right": { "en": "Pectinase", "bm": "Pektinase" } },
+        { "left": { "en": "Lactose-free milk", "bm": "Susu tanpa laktosa" }, "right": { "en": "Lactase", "bm": "Laktase" } }
+      ],
+      "explanation": { "en": "Industry uses enzymes because they work at low temperatures and are specific.", "bm": "Industri menggunakan enzim kerana berfungsi pada suhu rendah dan spesifik." } },
+    { "id": "bio-05-q09", "subtopicId": "bio-05-03", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why should biological washing powder NOT be used in very hot water?", "bm": "Mengapa serbuk pencuci biologi TIDAK boleh digunakan dalam air yang sangat panas?" },
+      "options": [ { "en": "High temperature denatures the enzymes", "bm": "Suhu tinggi menyahaslikan enzim" }, { "en": "The enzymes dissolve in water", "bm": "Enzim melarut dalam air" }, { "en": "Hot water contains acid", "bm": "Air panas mengandungi asid" }, { "en": "Stains become enzymes", "bm": "Kotoran menjadi enzim" } ],
+      "answer": 0,
+      "explanation": { "en": "Biological powders work best at about 30–40 °C.", "bm": "Serbuk biologi berfungsi terbaik pada kira-kira 30–40 °C." } },
+    { "id": "bio-05-q10", "subtopicId": "bio-05-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which enzyme digests lipids?", "bm": "Enzim manakah mencerna lipid?" },
+      "options": [ { "en": "Lipase", "bm": "Lipase" }, { "en": "Amylase", "bm": "Amilase" }, { "en": "Protease", "bm": "Protease" }, { "en": "Maltase", "bm": "Maltase" } ],
+      "answer": 0,
+      "explanation": { "en": "Lipase: lipids → fatty acids + glycerol. Enzymes are usually named substrate + '-ase'.", "bm": "Lipase: lipid → asid lemak + gliserol. Enzim biasanya dinamakan substrat + '-ase'." } }
+  ]
+}

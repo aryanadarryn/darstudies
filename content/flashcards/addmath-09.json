@@ -1,0 +1,15 @@
+{
+  "chapterId": "addmath-09",
+  "cards": [
+    { "id": "addmath-09-f01", "subtopicId": "addmath-09-01", "front": { "en": "Sine rule", "bm": "Petua sinus" }, "back": { "en": "a/sin A = b/sin B = c/sin C", "bm": "a/sin A = b/sin B = c/sin C" } },
+    { "id": "addmath-09-f02", "subtopicId": "addmath-09-01", "front": { "en": "When to use the sine rule", "bm": "Bila guna petua sinus" }, "back": { "en": "A side and its opposite angle are known, plus one more side or angle", "bm": "Sisi dan sudut bertentangannya diketahui, serta satu lagi sisi atau sudut" } },
+    { "id": "addmath-09-f03", "subtopicId": "addmath-09-01", "front": { "en": "Ambiguous case", "bm": "Kes ambiguiti" }, "back": { "en": "SSA with acute angle and shorter opposite side → angle θ or 180° − θ", "bm": "SSA dengan sudut tirus dan sisi bertentangan lebih pendek → sudut θ atau 180° − θ" } },
+    { "id": "addmath-09-f04", "subtopicId": "addmath-09-02", "front": { "en": "Cosine rule (side)", "bm": "Petua kosinus (sisi)" }, "back": { "en": "a² = b² + c² − 2bc cos A", "bm": "a² = b² + c² − 2bc kos A" } },
+    { "id": "addmath-09-f05", "subtopicId": "addmath-09-02", "front": { "en": "Cosine rule (angle)", "bm": "Petua kosinus (sudut)" }, "back": { "en": "cos A = (b² + c² − a²)/(2bc)", "bm": "kos A = (b² + c² − a²)/(2bc)" } },
+    { "id": "addmath-09-f06", "subtopicId": "addmath-09-02", "front": { "en": "When to use the cosine rule", "bm": "Bila guna petua kosinus" }, "back": { "en": "Two sides + included angle, or all three sides", "bm": "Dua sisi + sudut kandung, atau ketiga-tiga sisi" } },
+    { "id": "addmath-09-f07", "subtopicId": "addmath-09-03", "front": { "en": "Area of a triangle", "bm": "Luas segi tiga" }, "back": { "en": "½ab sin C (two sides and the included angle)", "bm": "½ab sin C (dua sisi dan sudut kandung)" } },
+    { "id": "addmath-09-f08", "subtopicId": "addmath-09-03", "front": { "en": "Heron's formula", "bm": "Rumus Heron" }, "back": { "en": "√[s(s − a)(s − b)(s − c)], s = ½(a + b + c)", "bm": "√[s(s − a)(s − b)(s − c)], s = ½(a + b + c)" } },
+    { "id": "addmath-09-f09", "subtopicId": "addmath-09-04", "front": { "en": "Largest angle", "bm": "Sudut terbesar" }, "back": { "en": "Opposite the longest side — find it first with the cosine rule", "bm": "Bertentangan dengan sisi terpanjang — cari dahulu dengan petua kosinus" } },
+    { "id": "addmath-09-f10", "subtopicId": "addmath-09-04", "front": { "en": "cos of an obtuse angle", "bm": "kos sudut cakah" }, "back": { "en": "Negative — so cos A < 0 means A > 90°", "bm": "Negatif — jadi kos A < 0 bermakna A > 90°" } }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "chapterId": "addmath-04",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-04-01": {
+      "keyPoints": [
+        { "en": "aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; (ab)ⁿ = aⁿbⁿ.", "bm": "aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ; (ab)ⁿ = aⁿbⁿ." },
+        { "en": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a; a^(m/n) = (ⁿ√a)ᵐ.", "bm": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a; a^(m/n) = (ⁿ√a)ᵐ." },
+        { "en": "Index equations: write both sides with the same base, then equate indices.", "bm": "Persamaan indeks: tulis kedua-dua belah dengan asas sama, kemudian samakan indeks." },
+        { "en": "Equations like 4ˣ − 2ˣ − 2 = 0: let u = 2ˣ to get a quadratic.", "bm": "Persamaan seperti 4ˣ − 2ˣ − 2 = 0: biar u = 2ˣ untuk mendapat kuadratik." }
+      ],
+      "example": { "question": { "en": "Solve 9ˣ = 27.", "bm": "Selesaikan 9ˣ = 27." }, "answer": { "en": "3²ˣ = 3³ → 2x = 3 → x = 1.5", "bm": "3²ˣ = 3³ → 2x = 3 → x = 1.5" } },
+      "tip": { "en": "Common bases: 4, 8, 16, 32 → base 2; 9, 27, 81 → base 3.", "bm": "Asas biasa: 4, 8, 16, 32 → asas 2; 9, 27, 81 → asas 3." }
+    },
+    "addmath-04-02": {
+      "keyPoints": [
+        { "en": "A surd is an irrational root, e.g. √2, √5. (√4 = 2 is not a surd.)", "bm": "Surd ialah punca tak nisbah, cth. √2, √5. (√4 = 2 bukan surd.)" },
+        { "en": "√a × √b = √(ab); √a ÷ √b = √(a/b). But √a + √b ≠ √(a + b).", "bm": "√a × √b = √(ab); √a ÷ √b = √(a/b). Tetapi √a + √b ≠ √(a + b)." },
+        { "en": "Simplify by taking out square factors: √72 = √(36 × 2) = 6√2.", "bm": "Permudahkan dengan mengeluarkan faktor kuasa dua: √72 = √(36 × 2) = 6√2." },
+        { "en": "Like surds can be added: 3√2 + 5√2 = 8√2.", "bm": "Surd serupa boleh ditambah: 3√2 + 5√2 = 8√2." },
+        { "en": "Rationalise: multiply by √a for 1/√a, or by the conjugate (a − √b) for 1/(a + √b).", "bm": "Nisbahkan: darab dengan √a bagi 1/√a, atau dengan konjugat (a − √b) bagi 1/(a + √b)." }
+      ],
+      "example": { "question": { "en": "Rationalise 2/(3 − √5).", "bm": "Nisbahkan 2/(3 − √5)." }, "answer": { "en": "2(3 + √5)/(9 − 5) = (3 + √5)/2", "bm": "2(3 + √5)/(9 − 5) = (3 + √5)/2" } },
+      "tip": { "en": "Leave answers in surd form when the question says 'exact value'.", "bm": "Biarkan jawapan dalam bentuk surd apabila soalan meminta 'nilai tepat'." }
+    },
+    "addmath-04-03": {
+      "keyPoints": [
+        { "en": "aˣ = N ⇔ logₐ N = x (a > 0, a ≠ 1). log means base 10; ln means base e.", "bm": "aˣ = N ⇔ logₐ N = x (a > 0, a ≠ 1). log bermakna asas 10; ln bermakna asas e." },
+        { "en": "Product: logₐ xy = logₐ x + logₐ y. Quotient: logₐ (x/y) = logₐ x − logₐ y.", "bm": "Hasil darab: logₐ xy = logₐ x + logₐ y. Hasil bahagi: logₐ (x/y) = logₐ x − logₐ y." },
+        { "en": "Power: logₐ xⁿ = n logₐ x. Special: logₐ 1 = 0, logₐ a = 1.", "bm": "Kuasa: logₐ xⁿ = n logₐ x. Khas: logₐ 1 = 0, logₐ a = 1." },
+        { "en": "Change of base: logₐ b = log b / log a = 1 / log_b a.", "bm": "Penukaran asas: logₐ b = log b / log a = 1 / log_b a." },
+        { "en": "Log equations: combine into a single log on each side, then remove logs (or convert to index form).", "bm": "Persamaan log: gabungkan menjadi satu log di setiap belah, kemudian buang log (atau tukar kepada bentuk indeks)." }
+      ],
+      "example": { "question": { "en": "Solve log₂ (x + 1) + log₂ (x − 1) = 3.", "bm": "Selesaikan log₂ (x + 1) + log₂ (x − 1) = 3." }, "answer": { "en": "log₂ (x² − 1) = 3 → x² − 1 = 8 → x = 3 (reject −3 since logs need positive values).", "bm": "log₂ (x² − 1) = 3 → x² − 1 = 8 → x = 3 (tolak −3 kerana log memerlukan nilai positif)." } },
+      "tip": { "en": "Always check your answer — log of a negative number or zero is undefined.", "bm": "Sentiasa semak jawapan — log nombor negatif atau sifar tidak tertakrif." }
+    },
+    "addmath-04-04": {
+      "keyPoints": [
+        { "en": "When bases can't be made equal, take logs of both sides: aˣ = b → x = log b / log a.", "bm": "Apabila asas tidak boleh disamakan, ambil log kedua-dua belah: aˣ = b → x = log b / log a." },
+        { "en": "Compound interest / growth: A = P(1 + r)ⁿ. Decay: A = P(1 − r)ⁿ.", "bm": "Faedah kompaun / pertumbuhan: A = P(1 + r)ⁿ. Susutan: A = P(1 − r)ⁿ." },
+        { "en": "Applications: population growth, bacterial growth, radioactive decay, depreciation of a car's value.", "bm": "Aplikasi: pertumbuhan populasi, pertumbuhan bakteria, reputan radioaktif, susut nilai kereta." },
+        { "en": "pH = −log[H⁺] and the Richter scale are logarithmic scales.", "bm": "pH = −log[H⁺] dan skala Richter ialah skala logaritma." }
+      ],
+      "example": { "question": { "en": "A car worth RM80 000 loses 15% of its value every year. After how many full years is it worth less than RM40 000?", "bm": "Sebuah kereta bernilai RM80 000 susut 15% setiap tahun. Selepas berapa tahun penuh nilainya kurang daripada RM40 000?" }, "answer": { "en": "80 000(0.85)ⁿ < 40 000 → n > log 0.5 / log 0.85 ≈ 4.27 → 5 years", "bm": "80 000(0.85)ⁿ < 40 000 → n > log 0.5 / log 0.85 ≈ 4.27 → 5 tahun" } },
+      "tip": { "en": "Dividing by a negative log (like log 0.85) flips the inequality sign!", "bm": "Membahagi dengan log negatif (seperti log 0.85) menyongsangkan tanda ketaksamaan!" }
+    }
+  }
+}

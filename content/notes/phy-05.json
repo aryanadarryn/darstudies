@@ -1,0 +1,77 @@
+{
+  "chapterId": "phy-05",
+  "reviewed": false,
+  "subtopics": {
+    "phy-05-01": {
+      "keyPoints": [
+        { "en": "A wave transfers energy from one place to another without transferring matter.", "bm": "Gelombang memindahkan tenaga dari satu tempat ke tempat lain tanpa memindahkan jirim." },
+        { "en": "Transverse waves vibrate perpendicular to travel (light, water); longitudinal waves vibrate parallel (sound) with compressions and rarefactions.", "bm": "Gelombang melintang bergetar serenjang (cahaya, air); gelombang membujur bergetar selari (bunyi) dengan mampatan dan regangan." },
+        { "en": "Amplitude A, wavelength λ, period T, frequency f = 1/T.", "bm": "Amplitud A, panjang gelombang λ, tempoh T, frekuensi f = 1/T." },
+        { "en": "Wave speed v = fλ.", "bm": "Laju gelombang v = fλ." },
+        { "en": "Displacement–time graphs give T; displacement–distance graphs give λ.", "bm": "Graf sesaran–masa memberi T; graf sesaran–jarak memberi λ." }
+      ],
+      "example": { "question": { "en": "Sound travels at 340 m s⁻¹. Find the wavelength of a 680 Hz note.", "bm": "Bunyi bergerak pada 340 m s⁻¹. Cari panjang gelombang nota 680 Hz." }, "answer": { "en": "λ = v/f = 340/680 = 0.5 m", "bm": "λ = v/f = 340/680 = 0.5 m" } },
+      "tip": { "en": "Check the axis label: time axis → period; distance axis → wavelength.", "bm": "Semak label paksi: paksi masa → tempoh; paksi jarak → panjang gelombang." }
+    },
+    "phy-05-02": {
+      "keyPoints": [
+        { "en": "Damping: amplitude decreases over time because energy is lost (internal and external damping).", "bm": "Pelembapan: amplitud berkurang kerana tenaga hilang (pelembapan dalam dan luar)." },
+        { "en": "A driving force can keep a system oscillating — this is forced oscillation.", "bm": "Daya luar boleh mengekalkan ayunan sistem — ini ayunan paksa." },
+        { "en": "Resonance: when the driving frequency equals the natural frequency, the amplitude is maximum.", "bm": "Resonans: apabila frekuensi paksa sama dengan frekuensi asli, amplitud maksimum." },
+        { "en": "Good resonance: tuning radios, musical instruments. Bad resonance: bridges swaying (Tacoma Narrows), glass shattering.", "bm": "Resonans berguna: menala radio, alat muzik. Resonans berbahaya: jambatan bergoyang (Tacoma Narrows), gelas pecah." }
+      ],
+      "example": { "question": { "en": "Why do soldiers break step when marching across a bridge?", "bm": "Mengapa askar memecah langkah semasa berkawad di atas jambatan?" }, "answer": { "en": "To avoid driving the bridge at its natural frequency and causing resonance.", "bm": "Untuk mengelak memaksa jambatan pada frekuensi aslinya dan menyebabkan resonans." } },
+      "tip": { "en": "Damping reduces amplitude, but the natural frequency doesn't change.", "bm": "Pelembapan mengurangkan amplitud, tetapi frekuensi asli tidak berubah." }
+    },
+    "phy-05-03": {
+      "keyPoints": [
+        { "en": "Law of reflection: angle of incidence = angle of reflection (measured from the normal).", "bm": "Hukum pantulan: sudut tuju = sudut pantulan (diukur dari normal)." },
+        { "en": "After reflection, speed, frequency and wavelength are unchanged; only direction changes.", "bm": "Selepas pantulan, laju, frekuensi dan panjang gelombang tidak berubah; hanya arah berubah." },
+        { "en": "Sound echoes: distance = (speed × time) ÷ 2 because the sound travels there and back.", "bm": "Gema bunyi: jarak = (laju × masa) ÷ 2 kerana bunyi pergi dan balik." },
+        { "en": "Uses: sonar for ocean depth, ultrasound scans, whispering galleries.", "bm": "Kegunaan: sonar untuk kedalaman laut, imbasan ultrabunyi, galeri bisikan." }
+      ],
+      "example": { "question": { "en": "A sonar pulse returns after 0.4 s. Speed of sound in water = 1500 m s⁻¹. How deep is the seabed?", "bm": "Denyut sonar kembali selepas 0.4 s. Laju bunyi dalam air = 1500 m s⁻¹. Berapa dalam dasar laut?" }, "answer": { "en": "d = (1500 × 0.4) ÷ 2 = 300 m", "bm": "d = (1500 × 0.4) ÷ 2 = 300 m" } },
+      "tip": { "en": "Don't forget to halve the echo time!", "bm": "Jangan lupa bahagi dua masa gema!" }
+    },
+    "phy-05-04": {
+      "keyPoints": [
+        { "en": "Refraction: change of direction when a wave changes speed entering a new medium.", "bm": "Pembiasan: perubahan arah apabila gelombang berubah laju memasuki medium baharu." },
+        { "en": "Water waves: deep → shallow, speed and λ decrease, wave bends towards the normal. Frequency never changes.", "bm": "Gelombang air: dalam → cetek, laju dan λ berkurang, gelombang membias ke arah normal. Frekuensi tidak berubah." },
+        { "en": "Ocean waves become parallel to the beach because they slow down in shallow water near the shore.", "bm": "Ombak menjadi selari dengan pantai kerana ia menjadi perlahan di air cetek berhampiran pantai." },
+        { "en": "Sound refracts too: it is heard further at night because air near the ground is cooler.", "bm": "Bunyi juga dibiaskan: ia didengar lebih jauh pada waktu malam kerana udara dekat tanah lebih sejuk." }
+      ],
+      "example": { "question": { "en": "A wave of λ 3 cm travels at 12 cm s⁻¹ in deep water and 8 cm s⁻¹ in shallow water. Find λ in shallow water.", "bm": "Gelombang λ 3 cm bergerak 12 cm s⁻¹ di air dalam dan 8 cm s⁻¹ di air cetek. Cari λ di air cetek." }, "answer": { "en": "f = 12/3 = 4 Hz (same); λ = 8/4 = 2 cm", "bm": "f = 12/3 = 4 Hz (sama); λ = 8/4 = 2 cm" } },
+      "tip": { "en": "Find f in the first medium, keep it, then use v = fλ in the second.", "bm": "Cari f dalam medium pertama, kekalkan, kemudian guna v = fλ dalam medium kedua." }
+    },
+    "phy-05-05": {
+      "keyPoints": [
+        { "en": "Diffraction: waves spread out after passing through a gap or around an obstacle.", "bm": "Pembelauan: gelombang tersebar selepas melalui celah atau sekitar penghalang." },
+        { "en": "Speed, frequency and wavelength stay the same; amplitude decreases as energy spreads.", "bm": "Laju, frekuensi dan panjang gelombang kekal; amplitud berkurang kerana tenaga tersebar." },
+        { "en": "Effect is greatest when the gap size is similar to or smaller than the wavelength.", "bm": "Kesan paling ketara apabila saiz celah hampir sama atau lebih kecil daripada panjang gelombang." },
+        { "en": "Why you can hear someone round a corner but not see them: sound λ (~1 m) diffracts more than light λ (~500 nm).", "bm": "Mengapa anda boleh dengar orang di sebalik sudut tetapi tidak nampak: λ bunyi (~1 m) lebih terbelau daripada λ cahaya (~500 nm)." }
+      ],
+      "example": { "question": { "en": "Why are harbour entrances designed carefully?", "bm": "Mengapa pintu masuk pelabuhan direka dengan teliti?" }, "answer": { "en": "A narrow entrance diffracts waves so they spread out and lose amplitude, keeping the harbour calm.", "bm": "Pintu masuk sempit membelaukan ombak supaya tersebar dan amplitud berkurang, menjadikan pelabuhan tenang." } },
+      "tip": { "en": "Narrower gap → more spreading.", "bm": "Celah lebih sempit → lebih banyak penyebaran." }
+    },
+    "phy-05-06": {
+      "keyPoints": [
+        { "en": "Superposition: when waves meet, their displacements add.", "bm": "Superposisi: apabila gelombang bertemu, sesarannya ditambah." },
+        { "en": "Constructive interference: crest + crest → bigger amplitude (antinode). Destructive: crest + trough → cancel (node).", "bm": "Interferens membina: puncak + puncak → amplitud lebih besar (antinod). Memusnah: puncak + lembangan → batal (nod)." },
+        { "en": "Interference needs coherent sources: same frequency and constant phase difference.", "bm": "Interferens memerlukan sumber koheren: frekuensi sama dan beza fasa malar." },
+        { "en": "Young's double slit: λ = ax/D (a = slit separation, x = fringe separation, D = slit-to-screen distance).", "bm": "Dwicelah Young: λ = ax/D (a = jarak celah, x = jarak pinggir, D = jarak celah ke skrin)." }
+      ],
+      "example": { "question": { "en": "If D is doubled, what happens to the fringe separation x?", "bm": "Jika D digandakan, apa berlaku kepada jarak pinggir x?" }, "answer": { "en": "x = λD/a, so x doubles — fringes spread further apart.", "bm": "x = λD/a, jadi x berganda — pinggir lebih jauh antara satu sama lain." } },
+      "tip": { "en": "Convert mm to m before using λ = ax/D.", "bm": "Tukar mm kepada m sebelum guna λ = ax/D." }
+    },
+    "phy-05-07": {
+      "keyPoints": [
+        { "en": "Electromagnetic waves are transverse, need no medium and travel at 3 × 10⁸ m s⁻¹ in a vacuum.", "bm": "Gelombang elektromagnet adalah melintang, tidak memerlukan medium dan bergerak pada 3 × 10⁸ m s⁻¹ dalam vakum." },
+        { "en": "Spectrum from long to short λ: radio, microwave, infrared, visible, ultraviolet, X-ray, gamma.", "bm": "Spektrum dari λ panjang ke pendek: radio, gelombang mikro, inframerah, cahaya nampak, ultraungu, sinar-X, gama." },
+        { "en": "Shorter wavelength = higher frequency = more energy and more harmful.", "bm": "Panjang gelombang lebih pendek = frekuensi lebih tinggi = tenaga lebih besar dan lebih berbahaya." },
+        { "en": "Uses: radio (broadcasting), microwave (phones, cooking), IR (remote), UV (sterilise), X-ray (bones), gamma (cancer therapy).", "bm": "Kegunaan: radio (penyiaran), mikro (telefon, memasak), IR (kawalan jauh), UV (sterilkan), sinar-X (tulang), gama (terapi kanser)." }
+      ],
+      "example": { "question": { "en": "A radio station broadcasts at 100 MHz. Find its wavelength.", "bm": "Stesen radio bersiaran pada 100 MHz. Cari panjang gelombangnya." }, "answer": { "en": "λ = 3 × 10⁸ ÷ 1 × 10⁸ = 3 m", "bm": "λ = 3 × 10⁸ ÷ 1 × 10⁸ = 3 m" } },
+      "tip": { "en": "Mnemonic for the spectrum (long → short): 'Raja Makan Ikan Viral Untuk X-Gamma'.", "bm": "Mnemonik spektrum (panjang → pendek): 'Raja Makan Ikan Viral Untuk X-Gamma'." }
+    }
+  }
+}

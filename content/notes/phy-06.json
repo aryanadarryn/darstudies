@@ -1,0 +1,66 @@
+{
+  "chapterId": "phy-06",
+  "reviewed": false,
+  "subtopics": {
+    "phy-06-01": {
+      "keyPoints": [
+        { "en": "Refraction: light changes direction because its speed changes when entering a different medium.", "bm": "Pembiasan: cahaya berubah arah kerana lajunya berubah apabila memasuki medium berbeza." },
+        { "en": "Air → glass/water: light slows down and bends towards the normal. Glass → air: bends away.", "bm": "Udara → kaca/air: cahaya menjadi perlahan dan membias ke arah normal. Kaca → udara: membias menjauhi normal." },
+        { "en": "Refractive index n = sin i / sin r = c/v (always ≥ 1). Water ≈ 1.33, glass ≈ 1.5.", "bm": "Indeks biasan n = sin i / sin r = c/v (sentiasa ≥ 1). Air ≈ 1.33, kaca ≈ 1.5." },
+        { "en": "Real and apparent depth: n = real depth ÷ apparent depth — water looks shallower than it is.", "bm": "Dalam nyata dan ketara: n = dalam nyata ÷ dalam ketara — air kelihatan lebih cetek." }
+      ],
+      "example": { "question": { "en": "Light travels at 2 × 10⁸ m s⁻¹ in a glass block. Find n.", "bm": "Cahaya bergerak pada 2 × 10⁸ m s⁻¹ dalam blok kaca. Cari n." }, "answer": { "en": "n = 3 × 10⁸ ÷ 2 × 10⁸ = 1.5", "bm": "n = 3 × 10⁸ ÷ 2 × 10⁸ = 1.5" } },
+      "tip": { "en": "Angles are always measured from the NORMAL, not the surface.", "bm": "Sudut sentiasa diukur dari NORMAL, bukan permukaan." }
+    },
+    "phy-06-02": {
+      "keyPoints": [
+        { "en": "Critical angle c: the angle of incidence (in the denser medium) for which the angle of refraction is 90°. sin c = 1/n.", "bm": "Sudut genting c: sudut tuju (dalam medium tumpat) yang menghasilkan sudut biasan 90°. sin c = 1/n." },
+        { "en": "Total internal reflection needs: (1) dense → less dense medium, (2) i > c.", "bm": "Pantulan dalam penuh memerlukan: (1) tumpat → kurang tumpat, (2) i > c." },
+        { "en": "Optical fibres carry internet and endoscope images using repeated total internal reflection.", "bm": "Gentian optik membawa internet dan imej endoskop menggunakan pantulan dalam penuh berulang." },
+        { "en": "Mirages on a hot road and the sparkle of diamonds (c ≈ 24°) are also due to total internal reflection.", "bm": "Logamaya di jalan panas dan kilauan berlian (c ≈ 24°) juga disebabkan pantulan dalam penuh." }
+      ],
+      "example": { "question": { "en": "Water has n = 1.33. Find its critical angle.", "bm": "Air mempunyai n = 1.33. Cari sudut gentingnya." }, "answer": { "en": "sin c = 1/1.33 = 0.752 → c ≈ 48.8°", "bm": "sin c = 1/1.33 = 0.752 → c ≈ 48.8°" } },
+      "tip": { "en": "Higher n → smaller critical angle → total internal reflection happens more easily.", "bm": "n lebih tinggi → sudut genting lebih kecil → pantulan dalam penuh lebih mudah berlaku." }
+    },
+    "phy-06-03": {
+      "keyPoints": [
+        { "en": "Convex (converging) lens: thicker in the middle, focuses parallel rays to a real focus F.", "bm": "Kanta cembung (penumpu): tebal di tengah, menumpukan sinar selari ke fokus nyata F." },
+        { "en": "Concave (diverging) lens: thinner in the middle, spreads rays as if from a virtual focus.", "bm": "Kanta cekung (pencapah): nipis di tengah, mencapahkan sinar seolah-olah dari fokus maya." },
+        { "en": "Three key rays: parallel → through F; through optical centre → straight; through F → parallel.", "bm": "Tiga sinar utama: selari → melalui F; melalui pusat optik → lurus; melalui F → selari." },
+        { "en": "Convex lens images depend on object distance: beyond 2F (camera), F–2F (projector), inside F (magnifier).", "bm": "Imej kanta cembung bergantung pada jarak objek: melebihi 2F (kamera), F–2F (projektor), di dalam F (kanta pembesar)." }
+      ],
+      "example": { "question": { "en": "Where should a slide be placed in a projector?", "bm": "Di manakah slaid perlu diletakkan dalam projektor?" }, "answer": { "en": "Between F and 2F, upside down, so the image on the screen is real, magnified and the right way up.", "bm": "Antara F dan 2F, terbalik, supaya imej pada skrin nyata, dibesarkan dan tegak." } },
+      "tip": { "en": "Draw ray diagrams with a ruler; two rays are enough to locate an image.", "bm": "Lukis rajah sinar dengan pembaris; dua sinar sudah cukup untuk menentukan imej." }
+    },
+    "phy-06-04": {
+      "keyPoints": [
+        { "en": "Thin lens formula: 1/f = 1/u + 1/v.", "bm": "Formula kanta nipis: 1/f = 1/u + 1/v." },
+        { "en": "Sign convention: convex f positive, concave f negative; real image v positive, virtual image v negative.", "bm": "Konvensyen tanda: cembung f positif, cekung f negatif; imej nyata v positif, imej maya v negatif." },
+        { "en": "Linear magnification m = v/u = image height ÷ object height.", "bm": "Pembesaran linear m = v/u = tinggi imej ÷ tinggi objek." },
+        { "en": "Power P = 1/f (f in metres), unit dioptre (D). Convex lens: positive power.", "bm": "Kuasa P = 1/f (f dalam meter), unit diopter (D). Kanta cembung: kuasa positif." }
+      ],
+      "example": { "question": { "en": "An object is 10 cm from a concave lens of f = −15 cm. Find v.", "bm": "Objek 10 cm dari kanta cekung f = −15 cm. Cari v." }, "answer": { "en": "1/v = −1/15 − 1/10 = −5/30 → v = −6 cm (virtual, same side)", "bm": "1/v = −1/15 − 1/10 = −5/30 → v = −6 cm (maya, sebelah sama)" } },
+      "tip": { "en": "A negative v means a virtual image — don't drop the sign!", "bm": "v negatif bermakna imej maya — jangan buang tanda!" }
+    },
+    "phy-06-05": {
+      "keyPoints": [
+        { "en": "Magnifying glass: one convex lens, object inside F → virtual, upright, magnified image.", "bm": "Kanta pembesar: satu kanta cembung, objek di dalam F → imej maya, tegak, dibesarkan." },
+        { "en": "Compound microscope: objective lens (short f) makes a real magnified image; eyepiece magnifies it again.", "bm": "Mikroskop majmuk: kanta objek (f pendek) membentuk imej nyata dibesarkan; kanta mata membesarkannya lagi." },
+        { "en": "Astronomical telescope: objective (long f) + eyepiece (short f); normal adjustment length = f_o + f_e, M = f_o/f_e.", "bm": "Teleskop astronomi: kanta objek (f panjang) + kanta mata (f pendek); panjang pelarasan normal = f_o + f_e, M = f_o/f_e." },
+        { "en": "Phone cameras use tiny lenses with very short focal lengths so the camera can be thin.", "bm": "Kamera telefon menggunakan kanta kecil berpanjang fokus sangat pendek supaya kamera nipis." }
+      ],
+      "example": { "question": { "en": "Which lens should be the objective of a telescope: f = 5 cm or f = 80 cm?", "bm": "Kanta manakah sesuai sebagai kanta objek teleskop: f = 5 cm atau f = 80 cm?" }, "answer": { "en": "f = 80 cm (objective has the longer focal length); M = 80/5 = 16", "bm": "f = 80 cm (kanta objek f lebih panjang); M = 80/5 = 16" } },
+      "tip": { "en": "Microscope objective: SHORT f. Telescope objective: LONG f.", "bm": "Kanta objek mikroskop: f PENDEK. Kanta objek teleskop: f PANJANG." }
+    },
+    "phy-06-06": {
+      "keyPoints": [
+        { "en": "Concave mirror: curves inwards, converges light, real focus F at half the radius of curvature (f = r/2).", "bm": "Cermin cekung: melengkung ke dalam, menumpukan cahaya, fokus nyata F pada separuh jejari kelengkungan (f = r/2)." },
+        { "en": "Convex mirror: curves outwards, diverges light; images are always virtual, upright and diminished.", "bm": "Cermin cembung: melengkung ke luar, mencapahkan cahaya; imej sentiasa maya, tegak dan dikecilkan." },
+        { "en": "Concave mirror uses: make-up/dentist mirrors (object inside F), torch/headlamp reflectors (bulb at F), solar cookers.", "bm": "Kegunaan cermin cekung: cermin solek/doktor gigi (objek di dalam F), pemantul lampu suluh/kereta (mentol di F), pemasak solar." },
+        { "en": "Convex mirror uses: car side mirrors, shop security mirrors, sharp road bends.", "bm": "Kegunaan cermin cembung: cermin sisi kereta, cermin keselamatan kedai, selekoh tajam." }
+      ],
+      "example": { "question": { "en": "Why is the bulb in a torch placed at the focus of a concave mirror?", "bm": "Mengapa mentol dalam lampu suluh diletakkan di fokus cermin cekung?" }, "answer": { "en": "Light from F reflects as a strong parallel beam.", "bm": "Cahaya dari F dipantulkan sebagai alur selari yang kuat." } },
+      "tip": { "en": "Mirror ray rules mirror the lens rules — but light reflects back instead of passing through.", "bm": "Peraturan sinar cermin serupa dengan kanta — tetapi cahaya dipantulkan balik, bukan menembusi." }
+    }
+  }
+}

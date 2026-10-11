@@ -1,0 +1,17 @@
+{
+  "chapterId": "phy-05",
+  "cards": [
+    { "id": "phy-05-f01", "subtopicId": "phy-05-01", "front": { "en": "Transverse vs longitudinal wave", "bm": "Gelombang melintang vs membujur" }, "back": { "en": "Transverse: vibrates ⟂ to travel (light, water). Longitudinal: vibrates ∥ (sound)", "bm": "Melintang: getar ⟂ arah gerak (cahaya, air). Membujur: getar ∥ (bunyi)" } },
+    { "id": "phy-05-f02", "subtopicId": "phy-05-01", "front": { "en": "Wave equation", "bm": "Persamaan gelombang" }, "back": { "en": "v = fλ, and T = 1/f", "bm": "v = fλ, dan T = 1/f" } },
+    { "id": "phy-05-f03", "subtopicId": "phy-05-01", "front": { "en": "Wavefront", "bm": "Muka gelombang" }, "back": { "en": "Line joining points vibrating in phase; always ⟂ to the direction of travel", "bm": "Garis yang menyambung titik bergetar sefasa; sentiasa ⟂ arah perambatan" } },
+    { "id": "phy-05-f04", "subtopicId": "phy-05-02", "front": { "en": "Damping", "bm": "Pelembapan" }, "back": { "en": "Amplitude decreases as energy is lost; frequency unchanged", "bm": "Amplitud berkurang kerana tenaga hilang; frekuensi tidak berubah" } },
+    { "id": "phy-05-f05", "subtopicId": "phy-05-02", "front": { "en": "Resonance", "bm": "Resonans" }, "back": { "en": "Driving frequency = natural frequency → maximum amplitude (e.g. tuning a radio)", "bm": "Frekuensi paksa = frekuensi asli → amplitud maksimum (cth. menala radio)" } },
+    { "id": "phy-05-f06", "subtopicId": "phy-05-03", "front": { "en": "Reflection of waves", "bm": "Pantulan gelombang" }, "back": { "en": "i = r; speed, f and λ unchanged; direction changes", "bm": "i = r; laju, f dan λ tidak berubah; arah berubah" } },
+    { "id": "phy-05-f07", "subtopicId": "phy-05-04", "front": { "en": "Refraction of water waves", "bm": "Pembiasan gelombang air" }, "back": { "en": "Deep → shallow: slower, shorter λ, bends towards the normal; f unchanged", "bm": "Dalam → cetek: lebih perlahan, λ lebih pendek, membias ke arah normal; f tidak berubah" } },
+    { "id": "phy-05-f08", "subtopicId": "phy-05-05", "front": { "en": "Diffraction", "bm": "Pembelauan" }, "back": { "en": "Waves spread through a gap or around an obstacle; most when gap ≈ λ", "bm": "Gelombang tersebar melalui celah atau sekitar penghalang; paling ketara apabila celah ≈ λ" } },
+    { "id": "phy-05-f09", "subtopicId": "phy-05-06", "front": { "en": "Principle of superposition", "bm": "Prinsip superposisi" }, "back": { "en": "Resultant displacement = sum of the individual displacements", "bm": "Sesaran paduan = hasil tambah sesaran individu" } },
+    { "id": "phy-05-f10", "subtopicId": "phy-05-06", "front": { "en": "Young's double-slit formula", "bm": "Formula dwicelah Young" }, "back": { "en": "λ = ax/D", "bm": "λ = ax/D" } },
+    { "id": "phy-05-f11", "subtopicId": "phy-05-07", "front": { "en": "Properties of EM waves", "bm": "Sifat gelombang EM" }, "back": { "en": "Transverse, no medium needed, 3 × 10⁸ m s⁻¹ in vacuum, carry energy", "bm": "Melintang, tidak perlu medium, 3 × 10⁸ m s⁻¹ dalam vakum, membawa tenaga" } },
+    { "id": "phy-05-f12", "subtopicId": "phy-05-07", "front": { "en": "EM spectrum (short → long λ)", "bm": "Spektrum EM (λ pendek → panjang)" }, "back": { "en": "Gamma, X-ray, UV, visible, infrared, microwave, radio", "bm": "Gama, sinar-X, UV, cahaya nampak, inframerah, gelombang mikro, radio" } }
+  ]
+}

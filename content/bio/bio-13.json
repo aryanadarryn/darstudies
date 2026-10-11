@@ -1,0 +1,101 @@
+{
+  "chapterId": "bio-13",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Whether you're in air-conditioned Genting or scorching Kuala Lumpur, your body stays at about 37 °C. After a bowl of cendol, your blood sugar still returns to normal. Drink a lot of water and you pee more. That's homeostasis — your body's autopilot.",
+      "bm": "Sama ada anda di Genting yang sejuk atau Kuala Lumpur yang terik, suhu badan kekal kira-kira 37 °C. Selepas semangkuk cendol, gula darah kembali normal. Minum banyak air dan anda lebih kerap kencing. Itulah homeostasis — autopilot badan anda."
+    },
+    "bigIdeas": [
+      { "en": "Homeostasis keeps the internal environment constant using negative feedback.", "bm": "Homeostasis mengekalkan persekitaran dalam yang malar menggunakan suap balik negatif." },
+      { "en": "Body temperature, blood glucose and water balance are all regulated.", "bm": "Suhu badan, glukosa darah dan keseimbangan air semuanya dikawal atur." },
+      { "en": "Kidneys filter blood, reabsorb useful substances and excrete urea in urine.", "bm": "Ginjal menapis darah, menyerap semula bahan berguna dan mengumuh urea dalam air kencing." },
+      { "en": "ADH controls how much water the kidneys reabsorb.", "bm": "ADH mengawal berapa banyak air yang diserap semula oleh ginjal." }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          { "title": { "en": "Normal level", "bm": "Aras normal" } },
+          { "title": { "en": "Change detected", "bm": "Perubahan dikesan" } },
+          { "title": { "en": "Control centre responds", "bm": "Pusat kawalan bergerak balas" } },
+          { "title": { "en": "Effectors correct it", "bm": "Efektor membetulkannya" } },
+          { "title": { "en": "Back to normal", "bm": "Kembali normal" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Homeostasis", "bm": "Homeostasis" }, "definition": { "en": "Keeping the internal environment within a narrow, constant range.", "bm": "Mengekalkan persekitaran dalam pada julat malar yang sempit." } },
+      { "term": { "en": "Negative feedback", "bm": "Suap balik negatif" }, "definition": { "en": "A change triggers responses that reverse it, back to the set point.", "bm": "Perubahan mencetuskan gerak balas yang membalikkannya ke titik set." } },
+      { "term": { "en": "Nephron", "bm": "Nefron" }, "definition": { "en": "Functional unit of the kidney that filters blood and forms urine.", "bm": "Unit fungsi ginjal yang menapis darah dan membentuk air kencing." } },
+      { "term": { "en": "Ultrafiltration", "bm": "Ultraturasan" }, "definition": { "en": "High-pressure filtration of blood from the glomerulus into Bowman's capsule.", "bm": "Penurasan darah bertekanan tinggi dari glomerulus ke dalam kapsul Bowman." } },
+      { "term": { "en": "ADH", "bm": "ADH" }, "definition": { "en": "Antidiuretic hormone — increases water reabsorption in the kidneys.", "bm": "Hormon antidiuresis — meningkatkan penyerapan semula air dalam ginjal." } },
+      { "term": { "en": "Osmoregulation", "bm": "Pengosmokawalaturan" }, "definition": { "en": "Control of water and salt balance in the body.", "bm": "Kawalan keseimbangan air dan garam dalam badan." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain how blood glucose returns to normal after eating a sweet meal.", "bm": "Terangkan bagaimana glukosa darah kembali normal selepas makan makanan manis." },
+      "steps": [
+        { "en": "Blood glucose rises above normal (~5 mmol/L).", "bm": "Glukosa darah meningkat melebihi normal (~5 mmol/L)." },
+        { "en": "Beta cells in the islets of Langerhans (pancreas) detect this and secrete insulin.", "bm": "Sel beta dalam pulau Langerhans (pankreas) mengesannya dan merembes insulin." },
+        { "en": "Insulin makes cells absorb glucose and the liver convert glucose → glycogen.", "bm": "Insulin menyebabkan sel menyerap glukosa dan hati menukar glukosa → glikogen." },
+        { "en": "Blood glucose falls back to normal; insulin secretion stops (negative feedback).", "bm": "Glukosa darah turun ke aras normal; rembesan insulin berhenti (suap balik negatif)." }
+      ],
+      "answer": { "en": "Insulin lowers blood glucose by storing it as glycogen; glucagon does the opposite when glucose is low.", "bm": "Insulin menurunkan glukosa darah dengan menyimpannya sebagai glikogen; glukagon melakukan sebaliknya apabila glukosa rendah." }
+    }
+  },
+  "questions": [
+    { "id": "bio-13-q01", "subtopicId": "bio-13-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which hormone lowers blood glucose?", "bm": "Hormon manakah menurunkan glukosa darah?" },
+      "options": [ { "en": "Insulin", "bm": "Insulin" }, { "en": "Glucagon", "bm": "Glukagon" }, { "en": "Adrenaline", "bm": "Adrenalina" }, { "en": "ADH", "bm": "ADH" } ],
+      "answer": 0,
+      "explanation": { "en": "Insulin: glucose → glycogen. Glucagon: glycogen → glucose.", "bm": "Insulin: glukosa → glikogen. Glukagon: glikogen → glukosa." } },
+    { "id": "bio-13-q02", "subtopicId": "bio-13-01", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Select ALL responses when body temperature rises.", "bm": "Pilih SEMUA gerak balas apabila suhu badan meningkat." },
+      "options": [ { "en": "Sweat glands produce more sweat", "bm": "Kelenjar peluh menghasilkan lebih banyak peluh" }, { "en": "Arterioles in the skin dilate (vasodilation)", "bm": "Arteriol di kulit mengembang (vasodilatasi)" }, { "en": "Hair erector muscles relax", "bm": "Otot erektor rambut mengendur" }, { "en": "Shivering", "bm": "Menggigil" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Shivering happens when it's cold — muscle contraction releases heat.", "bm": "Menggigil berlaku apabila sejuk — pengecutan otot membebaskan haba." } },
+    { "id": "bio-13-q03", "subtopicId": "bio-13-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which part of the brain is the control centre for body temperature?", "bm": "Bahagian otak manakah pusat kawalan suhu badan?" },
+      "options": [ { "en": "Hypothalamus", "bm": "Hipotalamus" }, { "en": "Cerebellum", "bm": "Serebelum" }, { "en": "Medulla oblongata", "bm": "Medula oblongata" }, { "en": "Cerebrum", "bm": "Serebrum" } ],
+      "answer": 0,
+      "explanation": { "en": "The hypothalamus also controls water balance through ADH.", "bm": "Hipotalamus juga mengawal keseimbangan air melalui ADH." } },
+    { "id": "bio-13-q04", "subtopicId": "bio-13-02", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Put the stages of urine formation in order.", "bm": "Susun peringkat pembentukan air kencing." },
+      "items": [ { "en": "Ultrafiltration in the glomerulus", "bm": "Ultraturasan di glomerulus" }, { "en": "Reabsorption in the tubules", "bm": "Penyerapan semula di tubul" }, { "en": "Secretion into the distal tubule", "bm": "Rembesan ke dalam tubul distal" }, { "en": "Urine flows to the collecting duct", "bm": "Air kencing mengalir ke duktus pengumpul" } ],
+      "explanation": { "en": "Then ureter → bladder → urethra.", "bm": "Kemudian ureter → pundi kencing → uretra." } },
+    { "id": "bio-13-q05", "subtopicId": "bio-13-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which substance is normally NOT found in the urine of a healthy person?", "bm": "Bahan manakah biasanya TIDAK terdapat dalam air kencing orang sihat?" },
+      "options": [ { "en": "Glucose", "bm": "Glukosa" }, { "en": "Urea", "bm": "Urea" }, { "en": "Water", "bm": "Air" }, { "en": "Salts", "bm": "Garam" } ],
+      "answer": 0,
+      "explanation": { "en": "All glucose is reabsorbed in the proximal tubule. Glucose in urine is a sign of diabetes.", "bm": "Semua glukosa diserap semula di tubul proksimal. Glukosa dalam air kencing tanda diabetes." } },
+    { "id": "bio-13-q06", "subtopicId": "bio-13-02", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "After sweating a lot on a hot day, your urine is darker and less. Why?", "bm": "Selepas banyak berpeluh pada hari panas, air kencing lebih pekat dan sedikit. Mengapa?" },
+      "options": [ { "en": "More ADH is released, so more water is reabsorbed", "bm": "Lebih banyak ADH dibebaskan, jadi lebih banyak air diserap semula" }, { "en": "Less ADH is released", "bm": "Kurang ADH dibebaskan" }, { "en": "The kidneys stop filtering", "bm": "Ginjal berhenti menapis" }, { "en": "Insulin increases", "bm": "Insulin meningkat" } ],
+      "answer": 0,
+      "explanation": { "en": "Blood becomes more concentrated → hypothalamus → pituitary releases ADH → collecting ducts more permeable to water.", "bm": "Darah menjadi lebih pekat → hipotalamus → pituitari membebaskan ADH → duktus pengumpul lebih telap air." } },
+    { "id": "bio-13-q07", "subtopicId": "bio-13-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each part of the nephron to its job.", "bm": "Padankan setiap bahagian nefron dengan tugasnya." },
+      "pairs": [
+        { "left": { "en": "Glomerulus", "bm": "Glomerulus" }, "right": { "en": "Ultrafiltration", "bm": "Ultraturasan" } },
+        { "left": { "en": "Proximal convoluted tubule", "bm": "Tubul berlingkar proksimal" }, "right": { "en": "Reabsorbs glucose and amino acids", "bm": "Menyerap semula glukosa dan asid amino" } },
+        { "left": { "en": "Loop of Henle", "bm": "Gelung Henle" }, "right": { "en": "Concentrates urine", "bm": "Memekatkan air kencing" } },
+        { "left": { "en": "Collecting duct", "bm": "Duktus pengumpul" }, "right": { "en": "Water reabsorption controlled by ADH", "bm": "Penyerapan semula air dikawal ADH" } }
+      ],
+      "explanation": { "en": "About 180 L of filtrate forms per day, but only ~1.5 L of urine is excreted.", "bm": "Kira-kira 180 L hasil turasan terbentuk sehari, tetapi hanya ~1.5 L air kencing dikumuh." } },
+    { "id": "bio-13-q08", "subtopicId": "bio-13-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A patient with kidney failure may be treated with…", "bm": "Pesakit kegagalan ginjal boleh dirawat dengan…" },
+      "options": [ { "en": "haemodialysis or a kidney transplant", "bm": "hemodialisis atau pemindahan ginjal" }, { "en": "insulin injections", "bm": "suntikan insulin" }, { "en": "a pacemaker", "bm": "perentak" }, { "en": "antibiotics only", "bm": "antibiotik sahaja" } ],
+      "answer": 0,
+      "explanation": { "en": "A dialysis machine removes urea and excess salts from blood through a semi-permeable membrane.", "bm": "Mesin dialisis menyingkir urea dan garam berlebihan daripada darah melalui membran separa telap." } },
+    { "id": "bio-13-q09", "subtopicId": "bio-13-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Kidney stones are often linked to…", "bm": "Batu karang sering dikaitkan dengan…" },
+      "options": [ { "en": "drinking too little water and high salt/calcium intake", "bm": "minum terlalu sedikit air dan pengambilan garam/kalsium yang tinggi" }, { "en": "drinking too much water", "bm": "minum terlalu banyak air" }, { "en": "low blood pressure", "bm": "tekanan darah rendah" }, { "en": "vitamin C deficiency", "bm": "kekurangan vitamin C" } ],
+      "answer": 0,
+      "explanation": { "en": "Minerals crystallise in concentrated urine. Drink plenty of water — especially in Malaysia's hot climate.", "bm": "Mineral menghablur dalam air kencing pekat. Minum banyak air — terutamanya dalam iklim panas Malaysia." } },
+    { "id": "bio-13-q10", "subtopicId": "bio-13-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The mechanism that reverses a change back to normal is called ______ feedback.", "bm": "Mekanisme yang membalikkan perubahan kepada normal dipanggil suap balik ______." },
+      "answer": ["negative", "negatif"],
+      "explanation": { "en": "Negative feedback keeps conditions close to the set point.", "bm": "Suap balik negatif mengekalkan keadaan hampir dengan titik set." } }
+  ]
+}

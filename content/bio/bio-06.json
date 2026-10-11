@@ -1,0 +1,101 @@
+{
+  "chapterId": "bio-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You started life as ONE cell. Today you have about 37 trillion. A cut on your knee heals in a week. All of this happens because cells copy themselves — and when the copying goes wrong, it can cause cancer.",
+      "bm": "Anda bermula sebagai SATU sel. Hari ini anda mempunyai kira-kira 37 trilion. Luka di lutut sembuh dalam seminggu. Semuanya berlaku kerana sel menyalin dirinya — dan apabila penyalinan salah, ia boleh menyebabkan kanser."
+    },
+    "bigIdeas": [
+      { "en": "Mitosis makes 2 identical diploid cells for growth, repair and asexual reproduction.", "bm": "Mitosis menghasilkan 2 sel diploid yang seiras untuk pertumbuhan, pembaikan dan pembiakan aseks." },
+      { "en": "Meiosis makes 4 genetically different haploid cells (gametes) for sexual reproduction.", "bm": "Meiosis menghasilkan 4 sel haploid yang berbeza secara genetik (gamet) untuk pembiakan seks." },
+      { "en": "The cell cycle = interphase (growth, DNA copying) + M phase (mitosis + cytokinesis).", "bm": "Kitar sel = interfasa (pertumbuhan, replikasi DNA) + fasa M (mitosis + sitokinesis)." },
+      { "en": "Errors cause problems: uncontrolled mitosis → cancer; non-disjunction in meiosis → Down syndrome.", "bm": "Ralat menyebabkan masalah: mitosis tidak terkawal → kanser; tak disjunksi dalam meiosis → sindrom Down." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Interphase", "bm": "Interfasa" }, "detail": { "en": "cell grows, DNA replicates", "bm": "sel membesar, DNA bereplikasi" } },
+          { "title": { "en": "Prophase", "bm": "Profasa" }, "detail": { "en": "chromosomes condense, nuclear membrane breaks down", "bm": "kromosom memendek, membran nukleus hilang" } },
+          { "title": { "en": "Metaphase", "bm": "Metafasa" }, "detail": { "en": "chromosomes line up at the equator", "bm": "kromosom tersusun di satah khatulistiwa" } },
+          { "title": { "en": "Anaphase", "bm": "Anafasa" }, "detail": { "en": "sister chromatids pulled to opposite poles", "bm": "kromatid beradik ditarik ke kutub bertentangan" } },
+          { "title": { "en": "Telophase", "bm": "Telofasa" }, "detail": { "en": "two new nuclei form", "bm": "dua nukleus baharu terbentuk" } },
+          { "title": { "en": "Cytokinesis", "bm": "Sitokinesis" }, "detail": { "en": "cytoplasm divides → 2 cells", "bm": "sitoplasma membahagi → 2 sel" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Chromosome", "bm": "Kromosom" }, "definition": { "en": "Thread of DNA and protein carrying genes.", "bm": "Bebenang DNA dan protein yang membawa gen." } },
+      { "term": { "en": "Sister chromatids", "bm": "Kromatid beradik" }, "definition": { "en": "Two identical copies of a chromosome joined at the centromere.", "bm": "Dua salinan kromosom yang seiras disambung pada sentromer." } },
+      { "term": { "en": "Diploid (2n)", "bm": "Diploid (2n)" }, "definition": { "en": "Two sets of chromosomes; human body cells have 46.", "bm": "Dua set kromosom; sel badan manusia mempunyai 46." } },
+      { "term": { "en": "Haploid (n)", "bm": "Haploid (n)" }, "definition": { "en": "One set of chromosomes; human gametes have 23.", "bm": "Satu set kromosom; gamet manusia mempunyai 23." } },
+      { "term": { "en": "Crossing over", "bm": "Pindah silang" }, "definition": { "en": "Exchange of genetic material between homologous chromosomes in prophase I.", "bm": "Pertukaran bahan genetik antara kromosom homolog semasa profasa I." } },
+      { "term": { "en": "Cytokinesis", "bm": "Sitokinesis" }, "definition": { "en": "Division of the cytoplasm after the nucleus divides.", "bm": "Pembahagian sitoplasma selepas nukleus membahagi." } }
+    ],
+    "formulaIds": [],
+    "toolId": "cell-division",
+    "workedExample": {
+      "question": { "en": "A cell with 2n = 8 chromosomes divides by meiosis. How many cells form, and how many chromosomes does each have?", "bm": "Sel dengan 2n = 8 kromosom membahagi secara meiosis. Berapa sel terbentuk, dan berapa kromosom setiap satu?" },
+      "steps": [
+        { "en": "Meiosis has two divisions: meiosis I and meiosis II.", "bm": "Meiosis mempunyai dua pembahagian: meiosis I dan meiosis II." },
+        { "en": "Meiosis I separates homologous pairs: 2 cells with n = 4.", "bm": "Meiosis I memisahkan pasangan homolog: 2 sel dengan n = 4." },
+        { "en": "Meiosis II separates sister chromatids: 4 cells, each still n = 4.", "bm": "Meiosis II memisahkan kromatid beradik: 4 sel, setiap satu tetap n = 4." }
+      ],
+      "answer": { "en": "4 haploid cells, each with 4 chromosomes.", "bm": "4 sel haploid, setiap satu dengan 4 kromosom." }
+    }
+  },
+  "questions": [
+    { "id": "bio-06-q01", "subtopicId": "bio-06-01", "type": "numeric", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "How many chromosomes are in a normal human skin cell?", "bm": "Berapakah bilangan kromosom dalam sel kulit manusia yang normal?" },
+      "answer": 46, "tolerance": 0,
+      "explanation": { "en": "Body (somatic) cells are diploid: 2n = 46 (23 pairs).", "bm": "Sel badan (somatik) diploid: 2n = 46 (23 pasang)." } },
+    { "id": "bio-06-q02", "subtopicId": "bio-06-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Arrange the stages of mitosis in order.", "bm": "Susun peringkat mitosis mengikut urutan." },
+      "items": [ { "en": "Prophase", "bm": "Profasa" }, { "en": "Metaphase", "bm": "Metafasa" }, { "en": "Anaphase", "bm": "Anafasa" }, { "en": "Telophase", "bm": "Telofasa" } ],
+      "explanation": { "en": "Remember PMAT. Interphase comes before and cytokinesis after.", "bm": "Ingat PMAT. Interfasa sebelum dan sitokinesis selepas." } },
+    { "id": "bio-06-q03", "subtopicId": "bio-06-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "At which stage of mitosis do chromosomes line up at the equator?", "bm": "Pada peringkat mitosis manakah kromosom tersusun di satah khatulistiwa?" },
+      "options": [ { "en": "Prophase", "bm": "Profasa" }, { "en": "Metaphase", "bm": "Metafasa" }, { "en": "Anaphase", "bm": "Anafasa" }, { "en": "Telophase", "bm": "Telofasa" } ],
+      "answer": 1,
+      "explanation": { "en": "Metaphase = Middle. Spindle fibres attach to centromeres.", "bm": "Metafasa = tengah. Gentian gelendong melekat pada sentromer." } },
+    { "id": "bio-06-q04", "subtopicId": "bio-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "When is DNA replicated in the cell cycle?", "bm": "Bilakah DNA bereplikasi dalam kitar sel?" },
+      "options": [ { "en": "S phase of interphase", "bm": "Fasa S interfasa" }, { "en": "Prophase", "bm": "Profasa" }, { "en": "Anaphase", "bm": "Anafasa" }, { "en": "Cytokinesis", "bm": "Sitokinesis" } ],
+      "answer": 0,
+      "explanation": { "en": "Interphase: G1 (growth), S (DNA synthesis), G2 (prepare for division).", "bm": "Interfasa: G1 (pertumbuhan), S (sintesis DNA), G2 (persediaan pembahagian)." } },
+    { "id": "bio-06-q05", "subtopicId": "bio-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How does cytokinesis differ in plant cells?", "bm": "Bagaimanakah sitokinesis berbeza dalam sel tumbuhan?" },
+      "options": [ { "en": "A cell plate forms in the middle", "bm": "Plat sel terbentuk di tengah" }, { "en": "A cleavage furrow pinches the cell", "bm": "Alur pembelahan mencerut sel" }, { "en": "There is no cytokinesis", "bm": "Tiada sitokinesis" }, { "en": "Centrioles form the wall", "bm": "Sentriol membentuk dinding" } ],
+      "answer": 0,
+      "explanation": { "en": "The rigid cell wall can't pinch in, so a cell plate grows outwards. Animal cells form a cleavage furrow.", "bm": "Dinding sel yang tegar tidak dapat mencerut, jadi plat sel tumbuh ke luar. Sel haiwan membentuk alur pembelahan." } },
+    { "id": "bio-06-q06", "subtopicId": "bio-06-03", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each feature to mitosis or meiosis.", "bm": "Padankan setiap ciri dengan mitosis atau meiosis." },
+      "pairs": [
+        { "left": { "en": "Two identical diploid daughter cells", "bm": "Dua sel anak diploid yang seiras" }, "right": { "en": "Mitosis", "bm": "Mitosis" } },
+        { "left": { "en": "Four haploid cells", "bm": "Empat sel haploid" }, "right": { "en": "Meiosis", "bm": "Meiosis" } },
+        { "left": { "en": "Crossing over occurs", "bm": "Pindah silang berlaku" }, "right": { "en": "Meiosis I", "bm": "Meiosis I" } },
+        { "left": { "en": "Growth and repair of tissues", "bm": "Pertumbuhan dan pembaikan tisu" }, "right": { "en": "Purpose of mitosis", "bm": "Tujuan mitosis" } }
+      ],
+      "explanation": { "en": "Meiosis produces gametes with genetic variation; mitosis keeps cells identical.", "bm": "Meiosis menghasilkan gamet dengan variasi genetik; mitosis mengekalkan sel seiras." } },
+    { "id": "bio-06-q07", "subtopicId": "bio-06-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "How many chromosomes are in a human sperm cell?", "bm": "Berapakah bilangan kromosom dalam sel sperma manusia?" },
+      "answer": 23, "tolerance": 0,
+      "explanation": { "en": "Gametes are haploid (n = 23), so fertilisation restores 46.", "bm": "Gamet haploid (n = 23), jadi persenyawaan memulihkan 46." } },
+    { "id": "bio-06-q08", "subtopicId": "bio-06-03", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Why are siblings (except identical twins) genetically different?", "bm": "Mengapa adik-beradik (kecuali kembar seiras) berbeza secara genetik?" },
+      "options": [ { "en": "Crossing over and independent assortment in meiosis, plus random fertilisation", "bm": "Pindah silang dan penyusunan bebas dalam meiosis, serta persenyawaan rawak" }, { "en": "Mitosis makes different cells", "bm": "Mitosis menghasilkan sel berbeza" }, { "en": "They eat different food", "bm": "Mereka makan makanan berbeza" }, { "en": "Chromosomes are lost during mitosis", "bm": "Kromosom hilang semasa mitosis" } ],
+      "answer": 0,
+      "explanation": { "en": "These processes create new combinations of genes in every gamete.", "bm": "Proses ini menghasilkan gabungan gen baharu dalam setiap gamet." } },
+    { "id": "bio-06-q09", "subtopicId": "bio-06-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Cancer is caused by…", "bm": "Kanser disebabkan oleh…" },
+      "options": [ { "en": "uncontrolled mitosis forming a tumour", "bm": "mitosis tidak terkawal membentuk tumor" }, { "en": "cells stopping division", "bm": "sel berhenti membahagi" }, { "en": "too many gametes", "bm": "terlalu banyak gamet" }, { "en": "crossing over", "bm": "pindah silang" } ],
+      "answer": 0,
+      "explanation": { "en": "Carcinogens (tobacco tar, UV, radiation, some viruses) can damage genes that control the cell cycle.", "bm": "Karsinogen (tar rokok, UV, sinaran, sesetengah virus) boleh merosakkan gen yang mengawal kitar sel." } },
+    { "id": "bio-06-q10", "subtopicId": "bio-06-04", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "A person with Down syndrome has 47 chromosomes. What caused this?", "bm": "Seseorang dengan sindrom Down mempunyai 47 kromosom. Apakah puncanya?" },
+      "options": [ { "en": "Non-disjunction of chromosome 21 during meiosis", "bm": "Tak disjunksi kromosom 21 semasa meiosis" }, { "en": "A virus infection", "bm": "Jangkitan virus" }, { "en": "Uncontrolled mitosis", "bm": "Mitosis tidak terkawal" }, { "en": "Too much DNA replication in interphase", "bm": "Terlalu banyak replikasi DNA dalam interfasa" } ],
+      "answer": 0,
+      "explanation": { "en": "Chromosome 21 fails to separate, so a gamete carries an extra copy (trisomy 21).", "bm": "Kromosom 21 gagal berpisah, jadi satu gamet membawa salinan tambahan (trisomi 21)." } }
+  ]
+}

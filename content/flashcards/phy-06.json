@@ -1,0 +1,19 @@
+{
+  "chapterId": "phy-06",
+  "cards": [
+    { "id": "phy-06-f01", "subtopicId": "phy-06-01", "front": { "en": "Snell's law", "bm": "Hukum Snell" }, "back": { "en": "n = sin i / sin r (light from air into the medium)", "bm": "n = sin i / sin r (cahaya dari udara ke medium)" } },
+    { "id": "phy-06-f02", "subtopicId": "phy-06-01", "front": { "en": "Refractive index from speed", "bm": "Indeks biasan daripada laju" }, "back": { "en": "n = c/v = speed in vacuum ÷ speed in medium", "bm": "n = c/v = laju dalam vakum ÷ laju dalam medium" } },
+    { "id": "phy-06-f03", "subtopicId": "phy-06-01", "front": { "en": "Real and apparent depth", "bm": "Dalam nyata dan dalam ketara" }, "back": { "en": "n = real depth ÷ apparent depth", "bm": "n = dalam nyata ÷ dalam ketara" } },
+    { "id": "phy-06-f04", "subtopicId": "phy-06-02", "front": { "en": "Critical angle", "bm": "Sudut genting" }, "back": { "en": "sin c = 1/n; refraction angle is 90°", "bm": "sin c = 1/n; sudut biasan ialah 90°" } },
+    { "id": "phy-06-f05", "subtopicId": "phy-06-02", "front": { "en": "Uses of total internal reflection", "bm": "Kegunaan pantulan dalam penuh" }, "back": { "en": "Optical fibres, prism periscopes, mirages, diamonds sparkling", "bm": "Gentian optik, periskop prisma, logamaya, kilauan berlian" } },
+    { "id": "phy-06-f06", "subtopicId": "phy-06-03", "front": { "en": "Convex lens: object beyond 2F", "bm": "Kanta cembung: objek melebihi 2F" }, "back": { "en": "Real, inverted, diminished (camera)", "bm": "Nyata, songsang, dikecilkan (kamera)" } },
+    { "id": "phy-06-f07", "subtopicId": "phy-06-03", "front": { "en": "Convex lens: object between F and 2F", "bm": "Kanta cembung: objek antara F dan 2F" }, "back": { "en": "Real, inverted, magnified (projector)", "bm": "Nyata, songsang, dibesarkan (projektor)" } },
+    { "id": "phy-06-f08", "subtopicId": "phy-06-03", "front": { "en": "Convex lens: object inside F", "bm": "Kanta cembung: objek di dalam F" }, "back": { "en": "Virtual, upright, magnified (magnifying glass)", "bm": "Maya, tegak, dibesarkan (kanta pembesar)" } },
+    { "id": "phy-06-f09", "subtopicId": "phy-06-04", "front": { "en": "Lens formula & magnification", "bm": "Formula kanta & pembesaran" }, "back": { "en": "1/f = 1/u + 1/v; m = v/u = image height ÷ object height", "bm": "1/f = 1/u + 1/v; m = v/u = tinggi imej ÷ tinggi objek" } },
+    { "id": "phy-06-f10", "subtopicId": "phy-06-04", "front": { "en": "Sign convention", "bm": "Konvensyen tanda" }, "back": { "en": "Convex f +, concave f −; real image v +, virtual image v −", "bm": "Cembung f +, cekung f −; imej nyata v +, imej maya v −" } },
+    { "id": "phy-06-f11", "subtopicId": "phy-06-05", "front": { "en": "Astronomical telescope (normal adjustment)", "bm": "Teleskop astronomi (pelarasan normal)" }, "back": { "en": "M = f_o/f_e; length = f_o + f_e; objective has the LONGER f", "bm": "M = f_o/f_e; panjang = f_o + f_e; kanta objek f lebih PANJANG" } },
+    { "id": "phy-06-f12", "subtopicId": "phy-06-05", "front": { "en": "Compound microscope", "bm": "Mikroskop majmuk" }, "back": { "en": "Two convex lenses; objective has the SHORTER f; final image virtual, inverted, highly magnified", "bm": "Dua kanta cembung; kanta objek f lebih PENDEK; imej akhir maya, songsang, sangat dibesarkan" } },
+    { "id": "phy-06-f13", "subtopicId": "phy-06-06", "front": { "en": "Convex mirror uses", "bm": "Kegunaan cermin cembung" }, "back": { "en": "Car side mirrors, road-corner mirrors — wide field of view", "bm": "Cermin sisi kereta, cermin selekoh jalan — medan pandangan luas" } },
+    { "id": "phy-06-f14", "subtopicId": "phy-06-06", "front": { "en": "Concave mirror uses", "bm": "Kegunaan cermin cekung" }, "back": { "en": "Make-up/dentist mirror (object inside F), torch and headlamp reflectors (bulb at F)", "bm": "Cermin solek/doktor gigi (objek di dalam F), pemantul lampu suluh dan lampu kereta (mentol di F)" } }
+  ]
+}

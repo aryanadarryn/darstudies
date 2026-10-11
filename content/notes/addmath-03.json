@@ -1,0 +1,28 @@
+{
+  "chapterId": "addmath-03",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-03-01": {
+      "keyPoints": [
+        { "en": "A linear equation in three variables (ax + by + cz = d) represents a plane in 3-D space.", "bm": "Persamaan linear tiga pemboleh ubah (ax + by + cz = d) mewakili satah dalam ruang 3-D." },
+        { "en": "Three planes can meet at one point (unique solution), along a line (infinite solutions), or not at all (no solution).", "bm": "Tiga satah boleh bertemu pada satu titik (penyelesaian unik), sepanjang satu garis (tak terhingga), atau tidak bertemu (tiada penyelesaian)." },
+        { "en": "Elimination: use two different pairs of equations to remove the same variable → solve the 2 × 2 system → back-substitute.", "bm": "Penghapusan: guna dua pasangan persamaan berbeza untuk menghapuskan pemboleh ubah yang sama → selesaikan sistem 2 × 2 → gantikan semula." },
+        { "en": "Substitution: express one variable from the simplest equation and substitute into the other two.", "bm": "Penggantian: ungkapkan satu pemboleh ubah daripada persamaan paling ringkas dan gantikan ke dalam dua yang lain." },
+        { "en": "Word problems: define the variables clearly, form three equations, solve and check the answer makes sense.", "bm": "Masalah berayat: takrifkan pemboleh ubah dengan jelas, bentuk tiga persamaan, selesaikan dan semak jawapan munasabah." }
+      ],
+      "example": { "question": { "en": "Solve 2x + y − z = 1 … (1), x − y + 2z = 5 … (2), x + 2y + z = 8 … (3).", "bm": "Selesaikan 2x + y − z = 1 … (1), x − y + 2z = 5 … (2), x + 2y + z = 8 … (3)." }, "answer": { "en": "(1) + (2): 3x + z = 6. 2×(1) − (3): 3x − 3z = −6 → x − z = −2. Adding: 4x = 4 → x = 1, z = 3, then from (3) y = 2.", "bm": "(1) + (2): 3x + z = 6. 2×(1) − (3): 3x − 3z = −6 → x − z = −2. Tambah: 4x = 4 → x = 1, z = 3, kemudian daripada (3) y = 2." } },
+      "tip": { "en": "Always substitute your answers into ALL three original equations to check.", "bm": "Sentiasa gantikan jawapan ke dalam KETIGA-TIGA persamaan asal untuk menyemak." }
+    },
+    "addmath-03-02": {
+      "keyPoints": [
+        { "en": "One linear and one non-linear equation (containing x², y², xy or 1/x) are solved simultaneously by substitution.", "bm": "Satu persamaan linear dan satu tak linear (mengandungi x², y², xy atau 1/x) diselesaikan serentak melalui penggantian." },
+        { "en": "Step 1: make x or y the subject of the LINEAR equation (choose the one without fractions).", "bm": "Langkah 1: jadikan x atau y perkara rumus persamaan LINEAR (pilih yang tiada pecahan)." },
+        { "en": "Step 2: substitute into the non-linear equation → quadratic → solve by factorising or the formula.", "bm": "Langkah 2: gantikan ke dalam persamaan tak linear → kuadratik → selesaikan dengan pemfaktoran atau rumus." },
+        { "en": "Step 3: substitute each x value back into the LINEAR equation to find y.", "bm": "Langkah 3: gantikan setiap nilai x semula ke dalam persamaan LINEAR untuk mencari y." },
+        { "en": "Graphically, the solutions are the points where the line meets the curve.", "bm": "Secara graf, penyelesaian ialah titik di mana garis bertemu lengkung." }
+      ],
+      "example": { "question": { "en": "Solve 2x + y = 7 and x² + xy = 6.", "bm": "Selesaikan 2x + y = 7 dan x² + xy = 6." }, "answer": { "en": "y = 7 − 2x → x² + x(7 − 2x) = 6 → −x² + 7x − 6 = 0 → x = 1 (y = 5) or x = 6 (y = −5).", "bm": "y = 7 − 2x → x² + x(7 − 2x) = 6 → −x² + 7x − 6 = 0 → x = 1 (y = 5) atau x = 6 (y = −5)." } },
+      "tip": { "en": "If the quadratic doesn't factorise, use the formula and give answers to 3 decimal places.", "bm": "Jika kuadratik tidak boleh difaktorkan, guna rumus dan beri jawapan kepada 3 tempat perpuluhan." }
+    }
+  }
+}

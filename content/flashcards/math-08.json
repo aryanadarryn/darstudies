@@ -1,0 +1,16 @@
+{
+  "chapterId": "math-08",
+  "cards": [
+    { "id": "math-08-f01", "subtopicId": "math-08-01", "front": { "en": "Dispersion", "bm": "Serakan" }, "back": { "en": "How spread out data is about its centre", "bm": "Betapa tersebarnya data di sekitar pusatnya" } },
+    { "id": "math-08-f02", "subtopicId": "math-08-01", "front": { "en": "Small vs large dispersion", "bm": "Serakan kecil vs besar" }, "back": { "en": "Small = consistent; large = widely spread", "bm": "Kecil = konsisten; besar = tersebar luas" } },
+    { "id": "math-08-f03", "subtopicId": "math-08-01", "front": { "en": "Ungrouped data", "bm": "Data tak terkumpul" }, "back": { "en": "Individual values listed, not in class intervals", "bm": "Nilai individu yang disenaraikan, bukan dalam selang kelas" } },
+    { "id": "math-08-f04", "subtopicId": "math-08-02", "front": { "en": "Range", "bm": "Julat" }, "back": { "en": "Largest − smallest", "bm": "Terbesar − terkecil" } },
+    { "id": "math-08-f05", "subtopicId": "math-08-02", "front": { "en": "Interquartile range", "bm": "Julat antara kuartil" }, "back": { "en": "Q3 − Q1 — spread of the middle 50%", "bm": "Q3 − Q1 — serakan 50% di tengah" } },
+    { "id": "math-08-f06", "subtopicId": "math-08-02", "front": { "en": "Position of Q1 and Q3 (n values)", "bm": "Kedudukan Q1 dan Q3 (n nilai)" }, "back": { "en": "Q1 at ¼(n + 1)th, Q3 at ¾(n + 1)th value, after sorting", "bm": "Q1 pada nilai ke-¼(n + 1), Q3 pada nilai ke-¾(n + 1), selepas disusun" } },
+    { "id": "math-08-f07", "subtopicId": "math-08-02", "front": { "en": "Variance", "bm": "Varians" }, "back": { "en": "σ² = Σx²/N − x̄²", "bm": "σ² = Σx²/N − x̄²" } },
+    { "id": "math-08-f08", "subtopicId": "math-08-02", "front": { "en": "Standard deviation", "bm": "Sisihan piawai" }, "back": { "en": "σ = √variance (same unit as data)", "bm": "σ = √varians (unit sama dengan data)" } },
+    { "id": "math-08-f09", "subtopicId": "math-08-02", "front": { "en": "Add k to every value", "bm": "Tambah k kepada setiap nilai" }, "back": { "en": "Mean + k; range, IQR, SD unchanged", "bm": "Min + k; julat, JAK, sisihan piawai tidak berubah" } },
+    { "id": "math-08-f10", "subtopicId": "math-08-02", "front": { "en": "Multiply every value by k", "bm": "Darab setiap nilai dengan k" }, "back": { "en": "Mean, range, SD × k; variance × k²", "bm": "Min, julat, sisihan piawai × k; varians × k²" } },
+    { "id": "math-08-f11", "subtopicId": "math-08-02", "front": { "en": "Box plot", "bm": "Plot kotak" }, "back": { "en": "Shows min, Q1, median, Q3, max", "bm": "Menunjukkan min, Q1, median, Q3, maks" } }
+  ]
+}

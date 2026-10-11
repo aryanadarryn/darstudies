@@ -1,0 +1,118 @@
+{
+  "chapterId": "chem-06",
+  "reviewed": false,
+  "subtopics": {
+    "chem-06-01": {
+      "keyPoints": [
+        { "en": "Acid: ionises in water to produce H⁺ ions (actually H₃O⁺). Alkali: dissolves in water to produce OH⁻ ions.", "bm": "Asid: mengion dalam air menghasilkan ion H⁺ (sebenarnya H₃O⁺). Alkali: larut dalam air menghasilkan ion OH⁻." },
+        { "en": "Without water, acids exist as molecules and show no acidic properties (dry HCl in methylbenzene).", "bm": "Tanpa air, asid wujud sebagai molekul dan tidak menunjukkan sifat asid (HCl kering dalam metilbenzena)." },
+        { "en": "Similarly, ammonia shows alkaline properties only in water: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻.", "bm": "Begitu juga ammonia hanya menunjukkan sifat alkali dalam air: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻." },
+        { "en": "Basicity: number of H⁺ per acid molecule — monoprotic (HCl, HNO₃), diprotic (H₂SO₄), triprotic (H₃PO₄).", "bm": "Kebesan: bilangan H⁺ per molekul asid — monoprotik (HCl, HNO₃), diprotik (H₂SO₄), triprotik (H₃PO₄)." }
+      ],
+      "example": { "question": { "en": "Why does citric acid powder only taste sour when wet?", "bm": "Mengapa serbuk asid sitrik hanya terasa masam apabila basah?" }, "answer": { "en": "Water lets it ionise and release H⁺ ions.", "bm": "Air membolehkannya mengion dan membebaskan ion H⁺." } },
+      "tip": { "en": "All alkalis are bases, but not all bases are alkalis (CuO is a base but insoluble).", "bm": "Semua alkali ialah bes, tetapi tidak semua bes ialah alkali (CuO ialah bes tetapi tidak larut)." }
+    },
+    "chem-06-02": {
+      "keyPoints": [
+        { "en": "pH scale 0–14: below 7 acidic, 7 neutral, above 7 alkaline.", "bm": "Skala pH 0–14: bawah 7 berasid, 7 neutral, atas 7 beralkali." },
+        { "en": "pH = −log[H⁺]; pOH = −log[OH⁻]; pH + pOH = 14.", "bm": "pH = −log[H⁺]; pOH = −log[OH⁻]; pH + pOH = 14." },
+        { "en": "Each pH unit is a 10× change in [H⁺]: pH 2 is ten times more acidic than pH 3.", "bm": "Setiap unit pH ialah perubahan 10× dalam [H⁺]: pH 2 sepuluh kali lebih berasid daripada pH 3." },
+        { "en": "Measure pH with universal indicator, pH paper or a pH meter.", "bm": "Ukur pH dengan penunjuk semesta, kertas pH atau meter pH." }
+      ],
+      "example": { "question": { "en": "Find the pH of 0.001 mol dm⁻³ NaOH.", "bm": "Cari pH NaOH 0.001 mol dm⁻³." }, "answer": { "en": "pOH = −log(10⁻³) = 3, so pH = 14 − 3 = 11.", "bm": "pOH = −log(10⁻³) = 3, jadi pH = 14 − 3 = 11." } },
+      "tip": { "en": "For alkalis, find pOH first, then subtract from 14.", "bm": "Bagi alkali, cari pOH dahulu, kemudian tolak daripada 14." }
+    },
+    "chem-06-03": {
+      "keyPoints": [
+        { "en": "Strong acid/alkali: ionises completely in water (HCl, H₂SO₄, HNO₃; NaOH, KOH).", "bm": "Asid/alkali kuat: mengion lengkap dalam air (HCl, H₂SO₄, HNO₃; NaOH, KOH)." },
+        { "en": "Weak acid/alkali: ionises partially (ethanoic acid, citric acid; ammonia).", "bm": "Asid/alkali lemah: mengion separa (asid etanoik, asid sitrik; ammonia)." },
+        { "en": "Strength ≠ concentration: a dilute strong acid can have a lower pH than a concentrated weak acid of the same molarity.", "bm": "Kekuatan ≠ kepekatan: asid kuat cair boleh mempunyai pH lebih rendah daripada asid lemah pada kemolaran sama." },
+        { "en": "At the same concentration, the strong acid has more H⁺, lower pH and reacts faster.", "bm": "Pada kepekatan yang sama, asid kuat mempunyai lebih banyak H⁺, pH lebih rendah dan bertindak balas lebih cepat." }
+      ],
+      "example": { "question": { "en": "Which has a higher pH: 0.1 mol dm⁻³ NaOH or 0.1 mol dm⁻³ NH₃?", "bm": "Yang manakah pH lebih tinggi: NaOH 0.1 mol dm⁻³ atau NH₃ 0.1 mol dm⁻³?" }, "answer": { "en": "NaOH — it ionises completely, so [OH⁻] is higher.", "bm": "NaOH — ia mengion lengkap, jadi [OH⁻] lebih tinggi." } },
+      "tip": { "en": "Use 'ionises completely/partially' — examiners look for these exact words.", "bm": "Guna 'mengion lengkap/separa' — pemeriksa mencari perkataan tepat ini." }
+    },
+    "chem-06-04": {
+      "keyPoints": [
+        { "en": "Acid + reactive metal → salt + hydrogen (e.g. Zn + 2HCl → ZnCl₂ + H₂).", "bm": "Asid + logam reaktif → garam + hidrogen (cth. Zn + 2HCl → ZnCl₂ + H₂)." },
+        { "en": "Acid + base (metal oxide/hydroxide) → salt + water.", "bm": "Asid + bes (oksida/hidroksida logam) → garam + air." },
+        { "en": "Acid + carbonate → salt + water + carbon dioxide.", "bm": "Asid + karbonat → garam + air + karbon dioksida." },
+        { "en": "Alkali + ammonium salt (heat) → salt + water + ammonia; alkali + metal ion solution → metal hydroxide precipitate.", "bm": "Alkali + garam ammonium (panaskan) → garam + air + ammonia; alkali + larutan ion logam → mendakan hidroksida logam." }
+      ],
+      "example": { "question": { "en": "Write the equation for sulfuric acid reacting with copper(II) oxide.", "bm": "Tulis persamaan bagi asid sulfurik bertindak balas dengan kuprum(II) oksida." }, "answer": { "en": "H₂SO₄ + CuO → CuSO₄ + H₂O (black solid dissolves, blue solution)", "bm": "H₂SO₄ + CuO → CuSO₄ + H₂O (pepejal hitam larut, larutan biru)" } },
+      "tip": { "en": "Copper doesn't react with dilute acids — it's below hydrogen in reactivity.", "bm": "Kuprum tidak bertindak balas dengan asid cair — ia di bawah hidrogen dalam siri kereaktifan." }
+    },
+    "chem-06-05": {
+      "keyPoints": [
+        { "en": "Concentration = amount of solute per unit volume of solution.", "bm": "Kepekatan = kuantiti zat terlarut per unit isi padu larutan." },
+        { "en": "Molarity M = n/V (mol dm⁻³), where V is in dm³ (1 dm³ = 1000 cm³).", "bm": "Kemolaran M = n/V (mol dm⁻³), dengan V dalam dm³ (1 dm³ = 1000 cm³)." },
+        { "en": "Concentration in g dm⁻³ = mol dm⁻³ × molar mass.", "bm": "Kepekatan dalam g dm⁻³ = mol dm⁻³ × jisim molar." },
+        { "en": "Number of moles in a solution: n = MV/1000 when V is in cm³.", "bm": "Bilangan mol dalam larutan: n = MV/1000 apabila V dalam cm³." }
+      ],
+      "example": { "question": { "en": "Convert 0.5 mol dm⁻³ NaOH to g dm⁻³. (NaOH = 40)", "bm": "Tukar NaOH 0.5 mol dm⁻³ kepada g dm⁻³. (NaOH = 40)" }, "answer": { "en": "0.5 × 40 = 20 g dm⁻³", "bm": "0.5 × 40 = 20 g dm⁻³" } },
+      "tip": { "en": "Divide cm³ by 1000 before using M = n/V.", "bm": "Bahagi cm³ dengan 1000 sebelum guna M = n/V." }
+    },
+    "chem-06-06": {
+      "keyPoints": [
+        { "en": "A standard solution has an accurately known concentration.", "bm": "Larutan piawai mempunyai kepekatan yang diketahui dengan tepat." },
+        { "en": "Prepare: calculate mass → weigh accurately → dissolve in a beaker → transfer with rinsings into a volumetric flask → add water to the mark → stopper and invert.", "bm": "Sediakan: hitung jisim → timbang dengan tepat → larutkan dalam bikar → pindah bersama bilasan ke kelalang volumetrik → tambah air hingga tanda → sumbat dan terbalikkan." },
+        { "en": "Dilution: adding water lowers concentration but moles stay the same: M₁V₁ = M₂V₂.", "bm": "Pencairan: menambah air merendahkan kepekatan tetapi bilangan mol tetap: M₁V₁ = M₂V₂." },
+        { "en": "Use a pipette to measure the volume of the concentrated solution accurately.", "bm": "Guna pipet untuk menyukat isi padu larutan pekat dengan tepat." }
+      ],
+      "example": { "question": { "en": "How do you make 100 cm³ of 0.2 mol dm⁻³ HCl from 1.0 mol dm⁻³ HCl?", "bm": "Bagaimana menyediakan 100 cm³ HCl 0.2 mol dm⁻³ daripada HCl 1.0 mol dm⁻³?" }, "answer": { "en": "V₁ = 0.2 × 100 ÷ 1.0 = 20 cm³; pipette 20 cm³ into a 100 cm³ volumetric flask and top up with water.", "bm": "V₁ = 0.2 × 100 ÷ 1.0 = 20 cm³; pipet 20 cm³ ke kelalang volumetrik 100 cm³ dan tambah air." } },
+      "tip": { "en": "Read the meniscus at eye level — the bottom of the curve should touch the mark.", "bm": "Baca meniskus pada aras mata — bahagian bawah lengkung menyentuh tanda." }
+    },
+    "chem-06-07": {
+      "keyPoints": [
+        { "en": "Neutralisation: acid + base → salt + water; ionic equation H⁺ + OH⁻ → H₂O.", "bm": "Peneutralan: asid + bes → garam + air; persamaan ion H⁺ + OH⁻ → H₂O." },
+        { "en": "Titration: add acid from a burette to a fixed volume of alkali (pipette) with an indicator until the end point.", "bm": "Pentitratan: tambah asid dari buret kepada isi padu alkali tetap (pipet) dengan penunjuk sehingga takat akhir." },
+        { "en": "Indicators: phenolphthalein (pink → colourless), methyl orange (yellow → orange/red).", "bm": "Penunjuk: fenolftalein (merah jambu → tidak berwarna), metil jingga (kuning → jingga/merah)." },
+        { "en": "Calculate with M_aV_a / M_bV_b = a/b from the balanced equation.", "bm": "Hitung dengan M_aV_a / M_bV_b = a/b daripada persamaan seimbang." },
+        { "en": "Daily uses: antacids (Mg(OH)₂), lime (CaO) for acidic soil, toothpaste neutralising mouth acid.", "bm": "Kegunaan harian: antasid (Mg(OH)₂), kapur (CaO) untuk tanah berasid, ubat gigi meneutralkan asid mulut." }
+      ],
+      "example": { "question": { "en": "20 cm³ of 0.1 mol dm⁻³ H₂SO₄ neutralises 25 cm³ NaOH. Find M of NaOH.", "bm": "20 cm³ H₂SO₄ 0.1 mol dm⁻³ meneutralkan 25 cm³ NaOH. Cari M NaOH." }, "answer": { "en": "H₂SO₄ + 2NaOH: (0.1 × 20)/(M × 25) = 1/2 → M = 0.16 mol dm⁻³", "bm": "H₂SO₄ + 2NaOH: (0.1 × 20)/(M × 25) = 1/2 → M = 0.16 mol dm⁻³" } },
+      "tip": { "en": "Always check the mole ratio — H₂SO₄ is diprotic, so a : b = 1 : 2 with NaOH.", "bm": "Sentiasa semak nisbah mol — H₂SO₄ diprotik, jadi a : b = 1 : 2 dengan NaOH." }
+    },
+    "chem-06-08": {
+      "keyPoints": [
+        { "en": "A salt forms when the H⁺ of an acid is replaced by a metal ion or ammonium ion.", "bm": "Garam terbentuk apabila H⁺ asid digantikan oleh ion logam atau ion ammonium." },
+        { "en": "Soluble: all Na⁺, K⁺, NH₄⁺ salts; all nitrates; most chlorides (except AgCl, PbCl₂*); most sulfates (except BaSO₄, PbSO₄, CaSO₄).", "bm": "Larut: semua garam Na⁺, K⁺, NH₄⁺; semua nitrat; kebanyakan klorida (kecuali AgCl, PbCl₂*); kebanyakan sulfat (kecuali BaSO₄, PbSO₄, CaSO₄)." },
+        { "en": "Carbonates are insoluble except Na₂CO₃, K₂CO₃ and (NH₄)₂CO₃. *PbCl₂ dissolves in hot water.", "bm": "Karbonat tidak larut kecuali Na₂CO₃, K₂CO₃ dan (NH₄)₂CO₃. *PbCl₂ larut dalam air panas." },
+        { "en": "Crystals have regular shapes, flat faces and straight edges. Uses: NaCl (food), CaSO₄ (plaster), NH₄NO₃ (fertiliser).", "bm": "Hablur mempunyai bentuk tetap, permukaan rata dan sisi lurus. Kegunaan: NaCl (makanan), CaSO₄ (plaster), NH₄NO₃ (baja)." }
+      ],
+      "example": { "question": { "en": "Is lead(II) nitrate soluble in water?", "bm": "Adakah plumbum(II) nitrat larut dalam air?" }, "answer": { "en": "Yes — all nitrates are soluble.", "bm": "Ya — semua nitrat larut." } },
+      "tip": { "en": "Memorise the solubility rules — you need them to choose the salt preparation method.", "bm": "Hafal peraturan keterlarutan — diperlukan untuk memilih kaedah penyediaan garam." }
+    },
+    "chem-06-09": {
+      "keyPoints": [
+        { "en": "Soluble Na/K/NH₄ salts: titration (acid + alkali), then evaporate and crystallise.", "bm": "Garam larut Na/K/NH₄: pentitratan (asid + alkali), kemudian sejat dan hablurkan." },
+        { "en": "Other soluble salts: add excess metal oxide/carbonate/metal to acid, filter off the excess, heat filtrate to saturation, cool to crystallise.", "bm": "Garam larut lain: tambah oksida/karbonat/logam berlebihan ke dalam asid, turas lebihan, panaskan hasil turasan hingga tepu, sejukkan untuk menghablur." },
+        { "en": "Insoluble salts: precipitation (double decomposition) — mix two solutions, filter, rinse with distilled water, dry.", "bm": "Garam tidak larut: pemendakan (penguraian ganda dua) — campur dua larutan, turas, bilas dengan air suling, keringkan." },
+        { "en": "Purify crystals by recrystallisation.", "bm": "Tulenkan hablur melalui penghabluran semula." }
+      ],
+      "example": { "question": { "en": "Plan how to prepare dry copper(II) sulfate crystals.", "bm": "Rancang cara menyediakan hablur kuprum(II) sulfat yang kering." }, "answer": { "en": "Add excess CuO to warm dilute H₂SO₄, filter, heat filtrate until saturated, cool, filter crystals and dry between filter papers.", "bm": "Tambah CuO berlebihan ke dalam H₂SO₄ cair suam, turas, panaskan hasil turasan hingga tepu, sejukkan, turas hablur dan keringkan di antara kertas turas." } },
+      "tip": { "en": "Don't heat crystals to dryness — they lose water of crystallisation.", "bm": "Jangan panaskan hablur hingga kering — ia kehilangan air penghabluran." }
+    },
+    "chem-06-10": {
+      "keyPoints": [
+        { "en": "Carbonates decompose to metal oxide + CO₂ (except Na₂CO₃, K₂CO₃).", "bm": "Karbonat terurai kepada oksida logam + CO₂ (kecuali Na₂CO₃, K₂CO₃)." },
+        { "en": "Nitrates decompose to metal oxide + NO₂ (brown gas) + O₂; Na/K nitrates give nitrite + O₂ only.", "bm": "Nitrat terurai kepada oksida logam + NO₂ (gas perang) + O₂; nitrat Na/K memberi nitrit + O₂ sahaja." },
+        { "en": "Residue colours: ZnO yellow when hot, white when cold; PbO brown hot, yellow cold; CuO black.", "bm": "Warna baki: ZnO kuning ketika panas, putih ketika sejuk; PbO perang panas, kuning sejuk; CuO hitam." },
+        { "en": "Most sulfates and chlorides don't decompose easily on heating (NH₄Cl sublimes).", "bm": "Kebanyakan sulfat dan klorida tidak mudah terurai apabila dipanaskan (NH₄Cl memejalwap)." }
+      ],
+      "example": { "question": { "en": "Write the equation for heating zinc carbonate.", "bm": "Tulis persamaan pemanasan zink karbonat." }, "answer": { "en": "ZnCO₃ → ZnO + CO₂ (white → yellow when hot → white when cold)", "bm": "ZnCO₃ → ZnO + CO₂ (putih → kuning ketika panas → putih ketika sejuk)" } },
+      "tip": { "en": "The colour of the residue when hot and cold is a key clue to identify the cation.", "bm": "Warna baki ketika panas dan sejuk ialah petunjuk utama untuk mengenal pasti kation." }
+    },
+    "chem-06-11": {
+      "keyPoints": [
+        { "en": "Gas tests: H₂ (pop), O₂ (relights glowing splinter), CO₂ (limewater chalky), NH₃ (damp red litmus → blue), Cl₂ (bleaches damp litmus), NO₂ (brown, damp blue litmus → red).", "bm": "Ujian gas: H₂ ('pop'), O₂ (nyalakan kayu uji berbara), CO₂ (air kapur keruh), NH₃ (litmus merah lembap → biru), Cl₂ (lunturkan litmus lembap), NO₂ (perang, litmus biru lembap → merah)." },
+        { "en": "Anion tests: Cl⁻ (HNO₃ + AgNO₃ → white ppt), SO₄²⁻ (HCl + BaCl₂ → white ppt), CO₃²⁻ (acid → CO₂), NO₃⁻ (brown ring with FeSO₄ + conc. H₂SO₄).", "bm": "Ujian anion: Cl⁻ (HNO₃ + AgNO₃ → mendakan putih), SO₄²⁻ (HCl + BaCl₂ → mendakan putih), CO₃²⁻ (asid → CO₂), NO₃⁻ (cincin perang dengan FeSO₄ + H₂SO₄ pekat)." },
+        { "en": "Cations with NaOH(aq): Cu²⁺ blue ppt; Fe²⁺ green; Fe³⁺ brown; Zn²⁺, Al³⁺, Pb²⁺ white ppt soluble in excess; Mg²⁺, Ca²⁺ white insoluble.", "bm": "Kation dengan NaOH(ak): Cu²⁺ mendakan biru; Fe²⁺ hijau; Fe³⁺ perang; Zn²⁺, Al³⁺, Pb²⁺ mendakan putih larut dalam berlebihan; Mg²⁺, Ca²⁺ putih tidak larut." },
+        { "en": "With NH₃(aq): Zn²⁺ white ppt dissolves in excess; Cu²⁺ blue ppt dissolves to a dark blue solution.", "bm": "Dengan NH₃(ak): Zn²⁺ mendakan putih larut dalam berlebihan; Cu²⁺ mendakan biru larut membentuk larutan biru tua." },
+        { "en": "Confirmatory: Fe²⁺ (K₃Fe(CN)₆ → dark blue), Fe³⁺ (KSCN → blood red), Pb²⁺ (KI → yellow ppt), NH₄⁺ (Nessler's → brown).", "bm": "Pengesahan: Fe²⁺ (K₃Fe(CN)₆ → biru tua), Fe³⁺ (KSCN → merah darah), Pb²⁺ (KI → mendakan kuning), NH₄⁺ (Nessler → perang)." }
+      ],
+      "example": { "question": { "en": "A solution gives a white precipitate with both NaOH and NH₃, soluble in excess of both. Identify the cation.", "bm": "Larutan memberi mendakan putih dengan NaOH dan NH₃, larut dalam kedua-duanya berlebihan. Kenal pasti kation." }, "answer": { "en": "Zn²⁺ — the only one soluble in excess of both.", "bm": "Zn²⁺ — satu-satunya yang larut dalam kedua-duanya berlebihan." } },
+      "tip": { "en": "Make a table of cation results with NaOH and NH₃ — it solves most qualitative analysis questions.", "bm": "Buat jadual keputusan kation dengan NaOH dan NH₃ — ia menyelesaikan kebanyakan soalan analisis kualitatif." }
+    }
+  }
+}

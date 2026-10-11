@@ -1,435 +1,83 @@
 [
-  {
-    "id": "phy-v-u-at", "subtopicId": "phy-02-01", "latex": "v = u + at",
-    "name": { "en": "First equation of motion", "bm": "Persamaan gerakan pertama" },
-    "symbols": [
-      { "symbol": "v", "meaning": { "en": "final velocity", "bm": "halaju akhir" }, "unit": "m s⁻¹" },
-      { "symbol": "u", "meaning": { "en": "initial velocity", "bm": "halaju awal" }, "unit": "m s⁻¹" },
-      { "symbol": "a", "meaning": { "en": "acceleration", "bm": "pecutan" }, "unit": "m s⁻²" },
-      { "symbol": "t", "meaning": { "en": "time", "bm": "masa" }, "unit": "s" }
-    ],
-    "whenToUse": { "en": "Uniform acceleration, displacement s not given or needed.", "bm": "Pecutan seragam, sesaran s tidak diberi atau tidak diperlukan." },
-    "commonMistake": { "en": "Forgetting that deceleration means a is negative.", "bm": "Terlupa bahawa nyahpecutan bermakna a bernilai negatif." },
-    "toolId": "motion-calc"
-  },
-  {
-    "id": "phy-s-avg", "subtopicId": "phy-02-01", "latex": "s = \\tfrac{1}{2}(u + v)t",
-    "name": { "en": "Displacement from average velocity", "bm": "Sesaran daripada halaju purata" },
-    "symbols": [
-      { "symbol": "s", "meaning": { "en": "displacement", "bm": "sesaran" }, "unit": "m" },
-      { "symbol": "u", "meaning": { "en": "initial velocity", "bm": "halaju awal" }, "unit": "m s⁻¹" },
-      { "symbol": "v", "meaning": { "en": "final velocity", "bm": "halaju akhir" }, "unit": "m s⁻¹" },
-      { "symbol": "t", "meaning": { "en": "time", "bm": "masa" }, "unit": "s" }
-    ],
-    "whenToUse": { "en": "Acceleration a not given or needed.", "bm": "Pecutan a tidak diberi atau tidak diperlukan." },
-    "toolId": "motion-calc"
-  },
-  {
-    "id": "phy-s-ut", "subtopicId": "phy-02-01", "latex": "s = ut + \\tfrac{1}{2}at^2",
-    "name": { "en": "Second equation of motion", "bm": "Persamaan gerakan kedua" },
-    "symbols": [
-      { "symbol": "s", "meaning": { "en": "displacement", "bm": "sesaran" }, "unit": "m" },
-      { "symbol": "u", "meaning": { "en": "initial velocity", "bm": "halaju awal" }, "unit": "m s⁻¹" },
-      { "symbol": "a", "meaning": { "en": "acceleration", "bm": "pecutan" }, "unit": "m s⁻²" },
-      { "symbol": "t", "meaning": { "en": "time", "bm": "masa" }, "unit": "s" }
-    ],
-    "whenToUse": { "en": "Final velocity v not given or needed.", "bm": "Halaju akhir v tidak diberi atau tidak diperlukan." },
-    "commonMistake": { "en": "Squaring (at) instead of only t: it is ½·a·t², not ½(at)².", "bm": "Mengkuasaduakan (at) dan bukan t sahaja: ia ½·a·t², bukan ½(at)²." },
-    "toolId": "motion-calc"
-  },
-  {
-    "id": "phy-v2", "subtopicId": "phy-02-01", "latex": "v^2 = u^2 + 2as",
-    "name": { "en": "Third equation of motion", "bm": "Persamaan gerakan ketiga" },
-    "symbols": [
-      { "symbol": "v", "meaning": { "en": "final velocity", "bm": "halaju akhir" }, "unit": "m s⁻¹" },
-      { "symbol": "u", "meaning": { "en": "initial velocity", "bm": "halaju awal" }, "unit": "m s⁻¹" },
-      { "symbol": "a", "meaning": { "en": "acceleration", "bm": "pecutan" }, "unit": "m s⁻²" },
-      { "symbol": "s", "meaning": { "en": "displacement", "bm": "sesaran" }, "unit": "m" }
-    ],
-    "whenToUse": { "en": "Time t not given or needed — e.g. braking distance.", "bm": "Masa t tidak diberi atau tidak diperlukan — cth. jarak membrek." },
-    "commonMistake": { "en": "Forgetting to square-root at the end when finding v.", "bm": "Terlupa mengambil punca kuasa dua di akhir apabila mencari v." },
-    "toolId": "motion-calc"
-  },
-  {
-    "id": "phy-momentum", "subtopicId": "phy-02-05", "latex": "p = mv",
-    "name": { "en": "Momentum", "bm": "Momentum" },
-    "symbols": [
-      { "symbol": "p", "meaning": { "en": "momentum", "bm": "momentum" }, "unit": "kg m s⁻¹" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "kg" },
-      { "symbol": "v", "meaning": { "en": "velocity", "bm": "halaju" }, "unit": "m s⁻¹" }
-    ],
-    "whenToUse": { "en": "Collisions and explosions: total p before = total p after.", "bm": "Perlanggaran dan letupan: jumlah p sebelum = jumlah p selepas." },
-    "commonMistake": { "en": "Ignoring direction — velocities to the left are negative.", "bm": "Mengabaikan arah — halaju ke kiri bernilai negatif." }
-  },
-  {
-    "id": "phy-fma", "subtopicId": "phy-02-06", "latex": "F = ma",
-    "name": { "en": "Newton's second law", "bm": "Hukum gerakan Newton kedua" },
-    "symbols": [
-      { "symbol": "F", "meaning": { "en": "resultant force", "bm": "daya paduan" }, "unit": "N" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "kg" },
-      { "symbol": "a", "meaning": { "en": "acceleration", "bm": "pecutan" }, "unit": "m s⁻²" }
-    ],
-    "whenToUse": { "en": "Finding the acceleration produced by a resultant force.", "bm": "Mencari pecutan yang dihasilkan oleh daya paduan." },
-    "commonMistake": { "en": "Using the applied force instead of the RESULTANT force (subtract friction first).", "bm": "Menggunakan daya dikenakan dan bukan daya PADUAN (tolak geseran dahulu)." }
-  },
-  {
-    "id": "phy-impulse", "subtopicId": "phy-02-07", "latex": "Ft = mv - mu",
-    "name": { "en": "Impulse", "bm": "Impuls" },
-    "symbols": [
-      { "symbol": "F", "meaning": { "en": "impulsive force", "bm": "daya impuls" }, "unit": "N" },
-      { "symbol": "t", "meaning": { "en": "time of impact", "bm": "masa hentaman" }, "unit": "s" },
-      { "symbol": "mv − mu", "meaning": { "en": "change in momentum", "bm": "perubahan momentum" }, "unit": "kg m s⁻¹" }
-    ],
-    "whenToUse": { "en": "Short collisions: kicks, catches, crashes.", "bm": "Perlanggaran singkat: tendangan, tangkapan, kemalangan." },
-    "commonMistake": { "en": "A ball that bounces back reverses velocity — v has the opposite sign to u.", "bm": "Bola yang melantun balik bertukar arah — v berlawanan tanda dengan u." }
-  },
-  {
-    "id": "phy-weight", "subtopicId": "phy-02-08", "latex": "W = mg",
-    "name": { "en": "Weight", "bm": "Berat" },
-    "symbols": [
-      { "symbol": "W", "meaning": { "en": "weight", "bm": "berat" }, "unit": "N" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "kg" },
-      { "symbol": "g", "meaning": { "en": "gravitational field strength", "bm": "kekuatan medan graviti" }, "unit": "N kg⁻¹" }
-    ],
-    "whenToUse": { "en": "Converting mass to the force of gravity on it.", "bm": "Menukar jisim kepada daya graviti ke atasnya." }
-  },
-  {
-    "id": "phy-gravitation", "subtopicId": "phy-03-01", "latex": "F = \\dfrac{G m_1 m_2}{r^2}",
-    "name": { "en": "Newton's universal law of gravitation", "bm": "Hukum Kegravitian Semesta Newton" },
-    "symbols": [
-      { "symbol": "G", "meaning": { "en": "gravitational constant, 6.67 × 10⁻¹¹", "bm": "pemalar kegravitian, 6.67 × 10⁻¹¹" }, "unit": "N m² kg⁻²" },
-      { "symbol": "m₁, m₂", "meaning": { "en": "masses of the two bodies", "bm": "jisim kedua-dua jasad" }, "unit": "kg" },
-      { "symbol": "r", "meaning": { "en": "distance between centres", "bm": "jarak antara pusat" }, "unit": "m" }
-    ],
-    "whenToUse": { "en": "Gravitational force between any two masses.", "bm": "Daya graviti antara dua jisim." },
-    "commonMistake": { "en": "Using height above the surface instead of distance from the CENTRE (r = R + h).", "bm": "Menggunakan ketinggian dari permukaan dan bukan jarak dari PUSAT (r = R + h)." }
-  },
-  {
-    "id": "phy-heat-mc", "subtopicId": "phy-04-02", "latex": "Q = mc\\theta",
-    "name": { "en": "Heat and specific heat capacity", "bm": "Haba dan muatan haba tentu" },
-    "symbols": [
-      { "symbol": "Q", "meaning": { "en": "heat", "bm": "haba" }, "unit": "J" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "kg" },
-      { "symbol": "c", "meaning": { "en": "specific heat capacity", "bm": "muatan haba tentu" }, "unit": "J kg⁻¹ °C⁻¹" },
-      { "symbol": "θ", "meaning": { "en": "temperature change", "bm": "perubahan suhu" }, "unit": "°C" }
-    ],
-    "whenToUse": { "en": "Temperature changes, no change of state.", "bm": "Suhu berubah, tiada perubahan keadaan jirim." },
-    "commonMistake": { "en": "Using the final temperature instead of the CHANGE in temperature.", "bm": "Menggunakan suhu akhir dan bukan PERUBAHAN suhu." },
-    "toolId": "heat-calc"
-  },
-  {
-    "id": "phy-latent", "subtopicId": "phy-04-03", "latex": "Q = mL",
-    "name": { "en": "Specific latent heat", "bm": "Haba pendam tentu" },
-    "symbols": [
-      { "symbol": "Q", "meaning": { "en": "heat", "bm": "haba" }, "unit": "J" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "kg" },
-      { "symbol": "L", "meaning": { "en": "specific latent heat", "bm": "haba pendam tentu" }, "unit": "J kg⁻¹" }
-    ],
-    "whenToUse": { "en": "Change of state (melting, boiling) at constant temperature.", "bm": "Perubahan keadaan (melebur, mendidih) pada suhu malar." },
-    "toolId": "heat-calc"
-  },
-  {
-    "id": "phy-boyle", "subtopicId": "phy-04-04", "latex": "P_1V_1 = P_2V_2",
-    "name": { "en": "Boyle's law", "bm": "Hukum Boyle" },
-    "symbols": [
-      { "symbol": "P", "meaning": { "en": "pressure", "bm": "tekanan" }, "unit": "Pa" },
-      { "symbol": "V", "meaning": { "en": "volume", "bm": "isi padu" }, "unit": "m³" }
-    ],
-    "whenToUse": { "en": "Fixed mass of gas at constant temperature.", "bm": "Jisim gas tetap pada suhu malar." }
-  },
-  {
-    "id": "phy-charles", "subtopicId": "phy-04-04", "latex": "\\dfrac{V_1}{T_1} = \\dfrac{V_2}{T_2}",
-    "name": { "en": "Charles' law", "bm": "Hukum Charles" },
-    "symbols": [
-      { "symbol": "V", "meaning": { "en": "volume", "bm": "isi padu" }, "unit": "m³" },
-      { "symbol": "T", "meaning": { "en": "absolute temperature", "bm": "suhu mutlak" }, "unit": "K" }
-    ],
-    "whenToUse": { "en": "Fixed mass of gas at constant pressure.", "bm": "Jisim gas tetap pada tekanan malar." },
-    "commonMistake": { "en": "Using °C. Convert to kelvin: T = θ + 273.", "bm": "Menggunakan °C. Tukar kepada kelvin: T = θ + 273." }
-  },
-  {
-    "id": "phy-gay-lussac", "subtopicId": "phy-04-04", "latex": "\\dfrac{P_1}{T_1} = \\dfrac{P_2}{T_2}",
-    "name": { "en": "Gay-Lussac's law", "bm": "Hukum Gay-Lussac" },
-    "symbols": [
-      { "symbol": "P", "meaning": { "en": "pressure", "bm": "tekanan" }, "unit": "Pa" },
-      { "symbol": "T", "meaning": { "en": "absolute temperature", "bm": "suhu mutlak" }, "unit": "K" }
-    ],
-    "whenToUse": { "en": "Fixed mass of gas at constant volume — e.g. tyre pressure on a hot day.", "bm": "Jisim gas tetap pada isi padu malar — cth. tekanan tayar pada hari panas." },
-    "commonMistake": { "en": "Using °C. Convert to kelvin: T = θ + 273.", "bm": "Menggunakan °C. Tukar kepada kelvin: T = θ + 273." }
-  },
-  {
-    "id": "phy-wave-speed", "subtopicId": "phy-05-01", "latex": "v = f\\lambda",
-    "name": { "en": "Wave equation", "bm": "Persamaan gelombang" },
-    "symbols": [
-      { "symbol": "v", "meaning": { "en": "wave speed", "bm": "laju gelombang" }, "unit": "m s⁻¹" },
-      { "symbol": "f", "meaning": { "en": "frequency", "bm": "frekuensi" }, "unit": "Hz" },
-      { "symbol": "λ", "meaning": { "en": "wavelength", "bm": "panjang gelombang" }, "unit": "m" }
-    ],
-    "whenToUse": { "en": "Any wave: sound, water, light.", "bm": "Sebarang gelombang: bunyi, air, cahaya." },
-    "toolId": "wave-visualiser"
-  },
-  {
-    "id": "phy-snell", "subtopicId": "phy-06-01", "latex": "n = \\dfrac{\\sin i}{\\sin r}",
-    "name": { "en": "Snell's law", "bm": "Hukum Snell" },
-    "symbols": [
-      { "symbol": "n", "meaning": { "en": "refractive index", "bm": "indeks biasan" } },
-      { "symbol": "i", "meaning": { "en": "angle of incidence (in air)", "bm": "sudut tuju (dalam udara)" }, "unit": "°" },
-      { "symbol": "r", "meaning": { "en": "angle of refraction", "bm": "sudut biasan" }, "unit": "°" }
-    ],
-    "whenToUse": { "en": "Light passing from air into a denser medium.", "bm": "Cahaya bergerak dari udara ke medium lebih tumpat." },
-    "commonMistake": { "en": "Measuring angles from the surface instead of from the NORMAL.", "bm": "Mengukur sudut dari permukaan dan bukan dari NORMAL." }
-  },
-  {
-    "id": "phy-critical-angle", "subtopicId": "phy-06-02", "latex": "n = \\dfrac{1}{\\sin c}",
-    "name": { "en": "Critical angle", "bm": "Sudut genting" },
-    "symbols": [
-      { "symbol": "n", "meaning": { "en": "refractive index", "bm": "indeks biasan" } },
-      { "symbol": "c", "meaning": { "en": "critical angle", "bm": "sudut genting" }, "unit": "°" }
-    ],
-    "whenToUse": { "en": "Total internal reflection, e.g. optical fibres.", "bm": "Pantulan dalam penuh, cth. gentian optik." }
-  },
-  {
-    "id": "phy-lens", "subtopicId": "phy-06-04", "latex": "\\dfrac{1}{f} = \\dfrac{1}{u} + \\dfrac{1}{v}",
-    "name": { "en": "Thin lens formula", "bm": "Formula kanta nipis" },
-    "symbols": [
-      { "symbol": "f", "meaning": { "en": "focal length", "bm": "panjang fokus" }, "unit": "m" },
-      { "symbol": "u", "meaning": { "en": "object distance", "bm": "jarak objek" }, "unit": "m" },
-      { "symbol": "v", "meaning": { "en": "image distance", "bm": "jarak imej" }, "unit": "m" }
-    ],
-    "whenToUse": { "en": "Locating an image formed by a lens.", "bm": "Menentukan kedudukan imej yang dibentuk oleh kanta." },
-    "commonMistake": { "en": "Sign convention: f is negative for a concave lens; v is negative for a virtual image.", "bm": "Konvensyen tanda: f negatif bagi kanta cekung; v negatif bagi imej maya." },
-    "toolId": "ray-diagram"
-  },
-  {
-    "id": "chem-mol-mass", "subtopicId": "chem-03-02", "latex": "n = \\dfrac{m}{M}",
-    "name": { "en": "Moles from mass", "bm": "Mol daripada jisim" },
-    "symbols": [
-      { "symbol": "n", "meaning": { "en": "number of moles", "bm": "bilangan mol" }, "unit": "mol" },
-      { "symbol": "m", "meaning": { "en": "mass", "bm": "jisim" }, "unit": "g" },
-      { "symbol": "M", "meaning": { "en": "molar mass", "bm": "jisim molar" }, "unit": "g mol⁻¹" }
-    ],
-    "whenToUse": { "en": "Converting grams to moles.", "bm": "Menukar gram kepada mol." },
-    "toolId": "mole-calc"
-  },
-  {
-    "id": "chem-mol-particles", "subtopicId": "chem-03-02", "latex": "N = n \\times N_A",
-    "name": { "en": "Number of particles", "bm": "Bilangan zarah" },
-    "symbols": [
-      { "symbol": "N", "meaning": { "en": "number of particles", "bm": "bilangan zarah" } },
-      { "symbol": "n", "meaning": { "en": "number of moles", "bm": "bilangan mol" }, "unit": "mol" },
-      { "symbol": "Nₐ", "meaning": { "en": "Avogadro constant, 6.02 × 10²³", "bm": "pemalar Avogadro, 6.02 × 10²³" }, "unit": "mol⁻¹" }
-    ],
-    "whenToUse": { "en": "Converting moles to atoms, molecules or ions.", "bm": "Menukar mol kepada atom, molekul atau ion." },
-    "toolId": "mole-calc"
-  },
-  {
-    "id": "chem-mol-volume", "subtopicId": "chem-03-02", "latex": "V = n \\times V_m",
-    "name": { "en": "Volume of gas", "bm": "Isi padu gas" },
-    "symbols": [
-      { "symbol": "V", "meaning": { "en": "volume of gas", "bm": "isi padu gas" }, "unit": "dm³" },
-      { "symbol": "n", "meaning": { "en": "number of moles", "bm": "bilangan mol" }, "unit": "mol" },
-      { "symbol": "Vₘ", "meaning": { "en": "molar volume: 24 dm³ (room conditions) or 22.4 dm³ (STP)", "bm": "isi padu molar: 24 dm³ (keadaan bilik) atau 22.4 dm³ (STP)" }, "unit": "dm³ mol⁻¹" }
-    ],
-    "whenToUse": { "en": "Gases only.", "bm": "Gas sahaja." },
-    "commonMistake": { "en": "Mixing up 24 (room) and 22.4 (STP).", "bm": "Tertukar antara 24 (bilik) dan 22.4 (STP)." },
-    "toolId": "mole-calc"
-  },
-  {
-    "id": "chem-molarity", "subtopicId": "chem-06-05", "latex": "M = \\dfrac{n}{V}",
-    "name": { "en": "Molarity", "bm": "Kemolaran" },
-    "symbols": [
-      { "symbol": "M", "meaning": { "en": "molarity", "bm": "kemolaran" }, "unit": "mol dm⁻³" },
-      { "symbol": "n", "meaning": { "en": "number of moles of solute", "bm": "bilangan mol zat terlarut" }, "unit": "mol" },
-      { "symbol": "V", "meaning": { "en": "volume of solution", "bm": "isi padu larutan" }, "unit": "dm³" }
-    ],
-    "whenToUse": { "en": "Concentration of a solution.", "bm": "Kepekatan larutan." },
-    "commonMistake": { "en": "Volume must be in dm³: divide cm³ by 1000.", "bm": "Isi padu mesti dalam dm³: bahagi cm³ dengan 1000." }
-  },
-  {
-    "id": "chem-dilution", "subtopicId": "chem-06-06", "latex": "M_1V_1 = M_2V_2",
-    "name": { "en": "Dilution", "bm": "Pencairan" },
-    "symbols": [
-      { "symbol": "M₁, V₁", "meaning": { "en": "molarity and volume before dilution", "bm": "kemolaran dan isi padu sebelum pencairan" } },
-      { "symbol": "M₂, V₂", "meaning": { "en": "molarity and volume after dilution", "bm": "kemolaran dan isi padu selepas pencairan" } }
-    ],
-    "whenToUse": { "en": "Adding water to make a less concentrated solution.", "bm": "Menambah air untuk menghasilkan larutan yang lebih cair." }
-  },
-  {
-    "id": "am-quad-formula", "subtopicId": "addmath-02-01", "latex": "x = \\dfrac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
-    "name": { "en": "Quadratic formula", "bm": "Rumus kuadratik" },
-    "symbols": [
-      { "symbol": "a, b, c", "meaning": { "en": "coefficients in ax² + bx + c = 0", "bm": "pekali dalam ax² + bx + c = 0" } },
-      { "symbol": "x", "meaning": { "en": "roots", "bm": "punca" } }
-    ],
-    "whenToUse": { "en": "Any quadratic equation, especially when it does not factorise nicely.", "bm": "Sebarang persamaan kuadratik, terutamanya yang sukar difaktorkan." },
-    "commonMistake": { "en": "Not rearranging to = 0 first, or losing the sign of b.", "bm": "Tidak menyusun semula kepada = 0 dahulu, atau tersilap tanda b." },
-    "toolId": "graph-plotter"
-  },
-  {
-    "id": "am-discriminant", "subtopicId": "addmath-02-02", "latex": "D = b^2 - 4ac",
-    "name": { "en": "Discriminant", "bm": "Pembeza layan" },
-    "symbols": [ { "symbol": "a, b, c", "meaning": { "en": "coefficients in ax² + bx + c = 0", "bm": "pekali dalam ax² + bx + c = 0" } } ],
-    "whenToUse": { "en": "Deciding the type of roots without solving.", "bm": "Menentukan jenis punca tanpa menyelesaikan persamaan." },
-    "toolId": "graph-plotter"
-  },
-  {
-    "id": "am-vertex-form", "subtopicId": "addmath-02-03", "latex": "f(x) = a(x - h)^2 + k",
-    "name": { "en": "Vertex form", "bm": "Bentuk verteks" },
-    "symbols": [
-      { "symbol": "(h, k)", "meaning": { "en": "turning point", "bm": "titik pusingan" } },
-      { "symbol": "a", "meaning": { "en": "shape and width", "bm": "bentuk dan kelebaran" } }
-    ],
-    "whenToUse": { "en": "Finding the maximum or minimum point quickly.", "bm": "Mencari titik maksimum atau minimum dengan cepat." },
-    "commonMistake": { "en": "(x + 3)² means h = −3, not +3.", "bm": "(x + 3)² bermakna h = −3, bukan +3." },
-    "toolId": "graph-plotter"
-  },
-  {
-    "id": "am-axis", "subtopicId": "addmath-02-03", "latex": "x = -\\dfrac{b}{2a}",
-    "name": { "en": "Axis of symmetry", "bm": "Paksi simetri" },
-    "symbols": [ { "symbol": "a, b", "meaning": { "en": "coefficients in ax² + bx + c", "bm": "pekali dalam ax² + bx + c" } } ],
-    "whenToUse": { "en": "x-coordinate of the turning point from the general form.", "bm": "Koordinat-x titik pusingan daripada bentuk am." },
-    "toolId": "graph-plotter"
-  },
-  {
-    "id": "am-form-from-roots", "subtopicId": "addmath-02-01", "latex": "x^2 - (\\alpha + \\beta)x + \\alpha\\beta = 0",
-    "name": { "en": "Equation from its roots", "bm": "Persamaan daripada punca" },
-    "symbols": [ { "symbol": "α, β", "meaning": { "en": "the two roots", "bm": "dua punca" } } ],
-    "whenToUse": { "en": "Building a quadratic equation when the roots are given.", "bm": "Membentuk persamaan kuadratik apabila punca diberi." }
-  },
-  {
-    "id": "am-ap-term", "subtopicId": "addmath-05-01", "latex": "T_n = a + (n - 1)d",
-    "name": { "en": "nth term of an arithmetic progression", "bm": "Sebutan ke-n janjang aritmetik" },
-    "symbols": [
-      { "symbol": "a", "meaning": { "en": "first term", "bm": "sebutan pertama" } },
-      { "symbol": "d", "meaning": { "en": "common difference", "bm": "beza sepunya" } },
-      { "symbol": "n", "meaning": { "en": "term number", "bm": "nombor sebutan" } }
-    ],
-    "whenToUse": { "en": "Sequences that go up or down by the same amount.", "bm": "Jujukan yang bertambah atau berkurang dengan nilai yang sama." }
-  },
-  {
-    "id": "am-ap-sum", "subtopicId": "addmath-05-01", "latex": "S_n = \\dfrac{n}{2}\\left[2a + (n - 1)d\\right]",
-    "name": { "en": "Sum of an arithmetic progression", "bm": "Hasil tambah janjang aritmetik" },
-    "symbols": [
-      { "symbol": "a", "meaning": { "en": "first term", "bm": "sebutan pertama" } },
-      { "symbol": "d", "meaning": { "en": "common difference", "bm": "beza sepunya" } },
-      { "symbol": "n", "meaning": { "en": "number of terms", "bm": "bilangan sebutan" } }
-    ],
-    "whenToUse": { "en": "Adding the first n terms of an AP.", "bm": "Menambah n sebutan pertama janjang aritmetik." }
-  },
-  {
-    "id": "am-gp-term", "subtopicId": "addmath-05-02", "latex": "T_n = ar^{n-1}",
-    "name": { "en": "nth term of a geometric progression", "bm": "Sebutan ke-n janjang geometri" },
-    "symbols": [
-      { "symbol": "a", "meaning": { "en": "first term", "bm": "sebutan pertama" } },
-      { "symbol": "r", "meaning": { "en": "common ratio", "bm": "nisbah sepunya" } }
-    ],
-    "whenToUse": { "en": "Sequences that multiply by the same ratio.", "bm": "Jujukan yang didarab dengan nisbah yang sama." }
-  },
-  {
-    "id": "am-gp-inf", "subtopicId": "addmath-05-02", "latex": "S_\\infty = \\dfrac{a}{1 - r}, \\; |r| < 1",
-    "name": { "en": "Sum to infinity", "bm": "Hasil tambah hingga ketakterhinggaan" },
-    "symbols": [
-      { "symbol": "a", "meaning": { "en": "first term", "bm": "sebutan pertama" } },
-      { "symbol": "r", "meaning": { "en": "common ratio", "bm": "nisbah sepunya" } }
-    ],
-    "whenToUse": { "en": "Only when −1 < r < 1.", "bm": "Hanya apabila −1 < r < 1." }
-  },
-  {
-    "id": "am-log-product", "subtopicId": "addmath-04-03", "latex": "\\log_a xy = \\log_a x + \\log_a y",
-    "name": { "en": "Product law of logarithms", "bm": "Hukum hasil darab logaritma" },
-    "symbols": [ { "symbol": "a", "meaning": { "en": "base (a > 0, a ≠ 1)", "bm": "asas (a > 0, a ≠ 1)" } } ],
-    "whenToUse": { "en": "Combining or splitting logarithms.", "bm": "Menggabung atau memecahkan logaritma." },
-    "commonMistake": { "en": "log(x + y) is NOT log x + log y.", "bm": "log(x + y) BUKAN log x + log y." }
-  },
-  {
-    "id": "am-log-change-base", "subtopicId": "addmath-04-03", "latex": "\\log_a b = \\dfrac{\\log_c b}{\\log_c a}",
-    "name": { "en": "Change of base", "bm": "Penukaran asas" },
-    "symbols": [ { "symbol": "c", "meaning": { "en": "any new base, usually 10", "bm": "sebarang asas baharu, biasanya 10" } } ],
-    "whenToUse": { "en": "Calculator only has log₁₀ and ln.", "bm": "Kalkulator hanya ada log₁₀ dan ln." }
-  },
-  {
-    "id": "am-sine-rule", "subtopicId": "addmath-09-01", "latex": "\\dfrac{a}{\\sin A} = \\dfrac{b}{\\sin B} = \\dfrac{c}{\\sin C}",
-    "name": { "en": "Sine rule", "bm": "Petua sinus" },
-    "symbols": [
-      { "symbol": "a, b, c", "meaning": { "en": "sides", "bm": "sisi" } },
-      { "symbol": "A, B, C", "meaning": { "en": "opposite angles", "bm": "sudut bertentangan" }, "unit": "°" }
-    ],
-    "whenToUse": { "en": "Two angles and a side, or two sides and a non-included angle.", "bm": "Dua sudut dan satu sisi, atau dua sisi dan satu sudut bukan kandung." },
-    "commonMistake": { "en": "The ambiguous case: two sides and a non-included acute angle can give two triangles.", "bm": "Kes ambiguiti: dua sisi dan sudut tirus bukan kandung boleh menghasilkan dua segi tiga." }
-  },
-  {
-    "id": "am-cosine-rule", "subtopicId": "addmath-09-02", "latex": "a^2 = b^2 + c^2 - 2bc\\cos A",
-    "name": { "en": "Cosine rule", "bm": "Petua kosinus" },
-    "symbols": [
-      { "symbol": "a", "meaning": { "en": "side opposite angle A", "bm": "sisi bertentangan sudut A" } },
-      { "symbol": "A", "meaning": { "en": "included angle between b and c", "bm": "sudut kandung antara b dan c" }, "unit": "°" }
-    ],
-    "whenToUse": { "en": "Two sides and the included angle, or all three sides.", "bm": "Dua sisi dan sudut kandung, atau ketiga-tiga sisi." }
-  },
-  {
-    "id": "am-triangle-area", "subtopicId": "addmath-09-03", "latex": "\\text{Area} = \\tfrac{1}{2}ab\\sin C",
-    "name": { "en": "Area of a triangle", "bm": "Luas segi tiga" },
-    "symbols": [
-      { "symbol": "a, b", "meaning": { "en": "two sides", "bm": "dua sisi" } },
-      { "symbol": "C", "meaning": { "en": "angle between them", "bm": "sudut di antaranya" }, "unit": "°" }
-    ],
-    "whenToUse": { "en": "Two sides and the included angle are known.", "bm": "Dua sisi dan sudut kandung diketahui." }
-  },
-  {
-    "id": "am-divisor", "subtopicId": "addmath-07-01", "latex": "\\left(\\dfrac{nx_1 + mx_2}{m + n}, \\dfrac{ny_1 + my_2}{m + n}\\right)",
-    "name": { "en": "Point dividing a line in ratio m : n", "bm": "Titik membahagi garis dalam nisbah m : n" },
-    "symbols": [
-      { "symbol": "(x₁, y₁), (x₂, y₂)", "meaning": { "en": "end points", "bm": "titik hujung" } },
-      { "symbol": "m : n", "meaning": { "en": "ratio from the first point", "bm": "nisbah dari titik pertama" } }
-    ],
-    "whenToUse": { "en": "Finding a point that divides a segment in a given ratio.", "bm": "Mencari titik yang membahagi tembereng dalam nisbah tertentu." },
-    "commonMistake": { "en": "Crossing the weights: n goes with the FIRST point, m with the second.", "bm": "Pemberat bersilang: n bersama titik PERTAMA, m bersama titik kedua." }
-  },
-  {
-    "id": "math-place-value", "subtopicId": "math-02-01", "latex": "N_{10} = d_n b^n + \\dots + d_1 b^1 + d_0 b^0",
-    "name": { "en": "Base b to base 10", "bm": "Asas b kepada asas 10" },
-    "symbols": [
-      { "symbol": "dₙ … d₀", "meaning": { "en": "digits, left to right", "bm": "digit, kiri ke kanan" } },
-      { "symbol": "b", "meaning": { "en": "the base", "bm": "asas" } }
-    ],
-    "whenToUse": { "en": "Converting any base to base 10.", "bm": "Menukar sebarang asas kepada asas 10." },
-    "commonMistake": { "en": "Starting the powers at b¹ — the rightmost digit is b⁰ = 1.", "bm": "Memulakan kuasa dengan b¹ — digit paling kanan ialah b⁰ = 1." },
-    "toolId": "base-converter"
-  },
-  {
-    "id": "math-variance", "subtopicId": "math-08-02", "latex": "\\sigma^2 = \\dfrac{\\sum x^2}{N} - \\bar{x}^2",
-    "name": { "en": "Variance", "bm": "Varians" },
-    "symbols": [
-      { "symbol": "σ²", "meaning": { "en": "variance", "bm": "varians" } },
-      { "symbol": "x̄", "meaning": { "en": "mean", "bm": "min" } },
-      { "symbol": "N", "meaning": { "en": "number of data", "bm": "bilangan data" } }
-    ],
-    "whenToUse": { "en": "Measuring how spread out data is.", "bm": "Mengukur serakan data." },
-    "commonMistake": { "en": "Squaring the sum instead of summing the squares.", "bm": "Mengkuasaduakan hasil tambah dan bukan menambah kuasa dua." }
-  },
-  {
-    "id": "math-sd", "subtopicId": "math-08-02", "latex": "\\sigma = \\sqrt{\\dfrac{\\sum x^2}{N} - \\bar{x}^2}",
-    "name": { "en": "Standard deviation", "bm": "Sisihan piawai" },
-    "symbols": [ { "symbol": "σ", "meaning": { "en": "standard deviation", "bm": "sisihan piawai" } } ],
-    "whenToUse": { "en": "Spread in the same units as the data.", "bm": "Serakan dalam unit yang sama dengan data." }
-  },
-  {
-    "id": "math-prob-indep", "subtopicId": "math-09-02", "latex": "P(A \\cap B) = P(A) \\times P(B)",
-    "name": { "en": "Independent events", "bm": "Peristiwa tak bersandar" },
-    "symbols": [ { "symbol": "A, B", "meaning": { "en": "independent events", "bm": "peristiwa tak bersandar" } } ],
-    "whenToUse": { "en": "The outcome of A does not affect B.", "bm": "Kesudahan A tidak mempengaruhi B." }
-  },
-  {
-    "id": "math-prob-union", "subtopicId": "math-09-03", "latex": "P(A \\cup B) = P(A) + P(B) - P(A \\cap B)",
-    "name": { "en": "Probability of A or B", "bm": "Kebarangkalian A atau B" },
-    "symbols": [ { "symbol": "A, B", "meaning": { "en": "two events", "bm": "dua peristiwa" } } ],
-    "whenToUse": { "en": "Either event happens. For mutually exclusive events P(A ∩ B) = 0.", "bm": "Salah satu peristiwa berlaku. Bagi peristiwa saling eksklusif P(A ∩ B) = 0." }
-  },
-  {
-    "id": "math-speed", "subtopicId": "math-07-01", "latex": "\\text{Average speed} = \\dfrac{\\text{total distance}}{\\text{total time}}",
-    "name": { "en": "Average speed", "bm": "Laju purata" },
-    "symbols": [],
-    "whenToUse": { "en": "Distance–time graphs and journeys with several stages.", "bm": "Graf jarak–masa dan perjalanan beberapa peringkat." },
-    "commonMistake": { "en": "Averaging the speeds of each stage instead of using totals.", "bm": "Mengambil purata laju setiap peringkat dan bukan jumlah keseluruhan." }
-  }
+  {"id":"phy-v-u-at","subtopicId":"phy-02-01","latex":"v = u + at","name":{"en":"First equation of motion","bm":"Persamaan gerakan pertama"},"symbols":[{"symbol":"v","meaning":{"en":"final velocity","bm":"halaju akhir"},"unit":"m s⁻¹"},{"symbol":"u","meaning":{"en":"initial velocity","bm":"halaju awal"},"unit":"m s⁻¹"},{"symbol":"a","meaning":{"en":"acceleration","bm":"pecutan"},"unit":"m s⁻²"},{"symbol":"t","meaning":{"en":"time","bm":"masa"},"unit":"s"}],"whenToUse":{"en":"Uniform acceleration, displacement s not given or needed.","bm":"Pecutan seragam, sesaran s tidak diberi atau tidak diperlukan."},"commonMistake":{"en":"Forgetting that deceleration means a is negative.","bm":"Terlupa bahawa nyahpecutan bermakna a bernilai negatif."},"toolId":"motion-calc"},
+  {"id":"phy-s-avg","subtopicId":"phy-02-01","latex":"s = \\tfrac{1}{2}(u + v)t","name":{"en":"Displacement from average velocity","bm":"Sesaran daripada halaju purata"},"symbols":[{"symbol":"s","meaning":{"en":"displacement","bm":"sesaran"},"unit":"m"},{"symbol":"u","meaning":{"en":"initial velocity","bm":"halaju awal"},"unit":"m s⁻¹"},{"symbol":"v","meaning":{"en":"final velocity","bm":"halaju akhir"},"unit":"m s⁻¹"},{"symbol":"t","meaning":{"en":"time","bm":"masa"},"unit":"s"}],"whenToUse":{"en":"Acceleration a not given or needed.","bm":"Pecutan a tidak diberi atau tidak diperlukan."},"toolId":"motion-calc"},
+  {"id":"phy-s-ut","subtopicId":"phy-02-01","latex":"s = ut + \\tfrac{1}{2}at^2","name":{"en":"Second equation of motion","bm":"Persamaan gerakan kedua"},"symbols":[{"symbol":"s","meaning":{"en":"displacement","bm":"sesaran"},"unit":"m"},{"symbol":"u","meaning":{"en":"initial velocity","bm":"halaju awal"},"unit":"m s⁻¹"},{"symbol":"a","meaning":{"en":"acceleration","bm":"pecutan"},"unit":"m s⁻²"},{"symbol":"t","meaning":{"en":"time","bm":"masa"},"unit":"s"}],"whenToUse":{"en":"Final velocity v not given or needed.","bm":"Halaju akhir v tidak diberi atau tidak diperlukan."},"commonMistake":{"en":"Squaring (at) instead of only t: it is ½·a·t², not ½(at)².","bm":"Mengkuasaduakan (at) dan bukan t sahaja: ia ½·a·t², bukan ½(at)²."},"toolId":"motion-calc"},
+  {"id":"phy-v2","subtopicId":"phy-02-01","latex":"v^2 = u^2 + 2as","name":{"en":"Third equation of motion","bm":"Persamaan gerakan ketiga"},"symbols":[{"symbol":"v","meaning":{"en":"final velocity","bm":"halaju akhir"},"unit":"m s⁻¹"},{"symbol":"u","meaning":{"en":"initial velocity","bm":"halaju awal"},"unit":"m s⁻¹"},{"symbol":"a","meaning":{"en":"acceleration","bm":"pecutan"},"unit":"m s⁻²"},{"symbol":"s","meaning":{"en":"displacement","bm":"sesaran"},"unit":"m"}],"whenToUse":{"en":"Time t not given or needed — e.g. braking distance.","bm":"Masa t tidak diberi atau tidak diperlukan — cth. jarak membrek."},"commonMistake":{"en":"Forgetting to square-root at the end when finding v.","bm":"Terlupa mengambil punca kuasa dua di akhir apabila mencari v."},"toolId":"motion-calc"},
+  {"id":"phy-momentum","subtopicId":"phy-02-05","latex":"p = mv","name":{"en":"Momentum","bm":"Momentum"},"symbols":[{"symbol":"p","meaning":{"en":"momentum","bm":"momentum"},"unit":"kg m s⁻¹"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"v","meaning":{"en":"velocity","bm":"halaju"},"unit":"m s⁻¹"}],"whenToUse":{"en":"Collisions and explosions: total p before = total p after.","bm":"Perlanggaran dan letupan: jumlah p sebelum = jumlah p selepas."},"commonMistake":{"en":"Ignoring direction — velocities to the left are negative.","bm":"Mengabaikan arah — halaju ke kiri bernilai negatif."}},
+  {"id":"phy-fma","subtopicId":"phy-02-06","latex":"F = ma","name":{"en":"Newton's second law","bm":"Hukum gerakan Newton kedua"},"symbols":[{"symbol":"F","meaning":{"en":"resultant force","bm":"daya paduan"},"unit":"N"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"a","meaning":{"en":"acceleration","bm":"pecutan"},"unit":"m s⁻²"}],"whenToUse":{"en":"Finding the acceleration produced by a resultant force.","bm":"Mencari pecutan yang dihasilkan oleh daya paduan."},"commonMistake":{"en":"Using the applied force instead of the RESULTANT force (subtract friction first).","bm":"Menggunakan daya dikenakan dan bukan daya PADUAN (tolak geseran dahulu)."}},
+  {"id":"phy-impulse","subtopicId":"phy-02-07","latex":"Ft = mv - mu","name":{"en":"Impulse","bm":"Impuls"},"symbols":[{"symbol":"F","meaning":{"en":"impulsive force","bm":"daya impuls"},"unit":"N"},{"symbol":"t","meaning":{"en":"time of impact","bm":"masa hentaman"},"unit":"s"},{"symbol":"mv − mu","meaning":{"en":"change in momentum","bm":"perubahan momentum"},"unit":"kg m s⁻¹"}],"whenToUse":{"en":"Short collisions: kicks, catches, crashes.","bm":"Perlanggaran singkat: tendangan, tangkapan, kemalangan."},"commonMistake":{"en":"A ball that bounces back reverses velocity — v has the opposite sign to u.","bm":"Bola yang melantun balik bertukar arah — v berlawanan tanda dengan u."}},
+  {"id":"phy-weight","subtopicId":"phy-02-08","latex":"W = mg","name":{"en":"Weight","bm":"Berat"},"symbols":[{"symbol":"W","meaning":{"en":"weight","bm":"berat"},"unit":"N"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"g","meaning":{"en":"gravitational field strength","bm":"kekuatan medan graviti"},"unit":"N kg⁻¹"}],"whenToUse":{"en":"Converting mass to the force of gravity on it.","bm":"Menukar jisim kepada daya graviti ke atasnya."}},
+  {"id":"phy-gravitation","subtopicId":"phy-03-01","latex":"F = \\dfrac{G m_1 m_2}{r^2}","name":{"en":"Newton's universal law of gravitation","bm":"Hukum Kegravitian Semesta Newton"},"symbols":[{"symbol":"G","meaning":{"en":"gravitational constant, 6.67 × 10⁻¹¹","bm":"pemalar kegravitian, 6.67 × 10⁻¹¹"},"unit":"N m² kg⁻²"},{"symbol":"m₁, m₂","meaning":{"en":"masses of the two bodies","bm":"jisim kedua-dua jasad"},"unit":"kg"},{"symbol":"r","meaning":{"en":"distance between centres","bm":"jarak antara pusat"},"unit":"m"}],"whenToUse":{"en":"Gravitational force between any two masses.","bm":"Daya graviti antara dua jisim."},"commonMistake":{"en":"Using height above the surface instead of distance from the CENTRE (r = R + h).","bm":"Menggunakan ketinggian dari permukaan dan bukan jarak dari PUSAT (r = R + h)."}},
+  {"id":"phy-heat-mc","subtopicId":"phy-04-02","latex":"Q = mc\\theta","name":{"en":"Heat and specific heat capacity","bm":"Haba dan muatan haba tentu"},"symbols":[{"symbol":"Q","meaning":{"en":"heat","bm":"haba"},"unit":"J"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"c","meaning":{"en":"specific heat capacity","bm":"muatan haba tentu"},"unit":"J kg⁻¹ °C⁻¹"},{"symbol":"θ","meaning":{"en":"temperature change","bm":"perubahan suhu"},"unit":"°C"}],"whenToUse":{"en":"Temperature changes, no change of state.","bm":"Suhu berubah, tiada perubahan keadaan jirim."},"commonMistake":{"en":"Using the final temperature instead of the CHANGE in temperature.","bm":"Menggunakan suhu akhir dan bukan PERUBAHAN suhu."},"toolId":"heat-calc"},
+  {"id":"phy-latent","subtopicId":"phy-04-03","latex":"Q = mL","name":{"en":"Specific latent heat","bm":"Haba pendam tentu"},"symbols":[{"symbol":"Q","meaning":{"en":"heat","bm":"haba"},"unit":"J"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"L","meaning":{"en":"specific latent heat","bm":"haba pendam tentu"},"unit":"J kg⁻¹"}],"whenToUse":{"en":"Change of state (melting, boiling) at constant temperature.","bm":"Perubahan keadaan (melebur, mendidih) pada suhu malar."},"toolId":"heat-calc"},
+  {"id":"phy-boyle","subtopicId":"phy-04-04","latex":"P_1V_1 = P_2V_2","name":{"en":"Boyle's law","bm":"Hukum Boyle"},"symbols":[{"symbol":"P","meaning":{"en":"pressure","bm":"tekanan"},"unit":"Pa"},{"symbol":"V","meaning":{"en":"volume","bm":"isi padu"},"unit":"m³"}],"whenToUse":{"en":"Fixed mass of gas at constant temperature.","bm":"Jisim gas tetap pada suhu malar."}},
+  {"id":"phy-charles","subtopicId":"phy-04-04","latex":"\\dfrac{V_1}{T_1} = \\dfrac{V_2}{T_2}","name":{"en":"Charles' law","bm":"Hukum Charles"},"symbols":[{"symbol":"V","meaning":{"en":"volume","bm":"isi padu"},"unit":"m³"},{"symbol":"T","meaning":{"en":"absolute temperature","bm":"suhu mutlak"},"unit":"K"}],"whenToUse":{"en":"Fixed mass of gas at constant pressure.","bm":"Jisim gas tetap pada tekanan malar."},"commonMistake":{"en":"Using °C. Convert to kelvin: T = θ + 273.","bm":"Menggunakan °C. Tukar kepada kelvin: T = θ + 273."}},
+  {"id":"phy-gay-lussac","subtopicId":"phy-04-04","latex":"\\dfrac{P_1}{T_1} = \\dfrac{P_2}{T_2}","name":{"en":"Gay-Lussac's law","bm":"Hukum Gay-Lussac"},"symbols":[{"symbol":"P","meaning":{"en":"pressure","bm":"tekanan"},"unit":"Pa"},{"symbol":"T","meaning":{"en":"absolute temperature","bm":"suhu mutlak"},"unit":"K"}],"whenToUse":{"en":"Fixed mass of gas at constant volume — e.g. tyre pressure on a hot day.","bm":"Jisim gas tetap pada isi padu malar — cth. tekanan tayar pada hari panas."},"commonMistake":{"en":"Using °C. Convert to kelvin: T = θ + 273.","bm":"Menggunakan °C. Tukar kepada kelvin: T = θ + 273."}},
+  {"id":"phy-wave-speed","subtopicId":"phy-05-01","latex":"v = f\\lambda","name":{"en":"Wave equation","bm":"Persamaan gelombang"},"symbols":[{"symbol":"v","meaning":{"en":"wave speed","bm":"laju gelombang"},"unit":"m s⁻¹"},{"symbol":"f","meaning":{"en":"frequency","bm":"frekuensi"},"unit":"Hz"},{"symbol":"λ","meaning":{"en":"wavelength","bm":"panjang gelombang"},"unit":"m"}],"whenToUse":{"en":"Any wave: sound, water, light.","bm":"Sebarang gelombang: bunyi, air, cahaya."},"toolId":"wave-visualiser"},
+  {"id":"phy-snell","subtopicId":"phy-06-01","latex":"n = \\dfrac{\\sin i}{\\sin r}","name":{"en":"Snell's law","bm":"Hukum Snell"},"symbols":[{"symbol":"n","meaning":{"en":"refractive index","bm":"indeks biasan"}},{"symbol":"i","meaning":{"en":"angle of incidence (in air)","bm":"sudut tuju (dalam udara)"},"unit":"°"},{"symbol":"r","meaning":{"en":"angle of refraction","bm":"sudut biasan"},"unit":"°"}],"whenToUse":{"en":"Light passing from air into a denser medium.","bm":"Cahaya bergerak dari udara ke medium lebih tumpat."},"commonMistake":{"en":"Measuring angles from the surface instead of from the NORMAL.","bm":"Mengukur sudut dari permukaan dan bukan dari NORMAL."}},
+  {"id":"phy-critical-angle","subtopicId":"phy-06-02","latex":"n = \\dfrac{1}{\\sin c}","name":{"en":"Critical angle","bm":"Sudut genting"},"symbols":[{"symbol":"n","meaning":{"en":"refractive index","bm":"indeks biasan"}},{"symbol":"c","meaning":{"en":"critical angle","bm":"sudut genting"},"unit":"°"}],"whenToUse":{"en":"Total internal reflection, e.g. optical fibres.","bm":"Pantulan dalam penuh, cth. gentian optik."}},
+  {"id":"phy-lens","subtopicId":"phy-06-04","latex":"\\dfrac{1}{f} = \\dfrac{1}{u} + \\dfrac{1}{v}","name":{"en":"Thin lens formula","bm":"Formula kanta nipis"},"symbols":[{"symbol":"f","meaning":{"en":"focal length","bm":"panjang fokus"},"unit":"m"},{"symbol":"u","meaning":{"en":"object distance","bm":"jarak objek"},"unit":"m"},{"symbol":"v","meaning":{"en":"image distance","bm":"jarak imej"},"unit":"m"}],"whenToUse":{"en":"Locating an image formed by a lens.","bm":"Menentukan kedudukan imej yang dibentuk oleh kanta."},"commonMistake":{"en":"Sign convention: f is negative for a concave lens; v is negative for a virtual image.","bm":"Konvensyen tanda: f negatif bagi kanta cekung; v negatif bagi imej maya."},"toolId":"ray-diagram"},
+  {"id":"chem-mol-mass","subtopicId":"chem-03-02","latex":"n = \\dfrac{m}{M}","name":{"en":"Moles from mass","bm":"Mol daripada jisim"},"symbols":[{"symbol":"n","meaning":{"en":"number of moles","bm":"bilangan mol"},"unit":"mol"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"g"},{"symbol":"M","meaning":{"en":"molar mass","bm":"jisim molar"},"unit":"g mol⁻¹"}],"whenToUse":{"en":"Converting grams to moles.","bm":"Menukar gram kepada mol."},"toolId":"mole-calc"},
+  {"id":"chem-mol-particles","subtopicId":"chem-03-02","latex":"N = n \\times N_A","name":{"en":"Number of particles","bm":"Bilangan zarah"},"symbols":[{"symbol":"N","meaning":{"en":"number of particles","bm":"bilangan zarah"}},{"symbol":"n","meaning":{"en":"number of moles","bm":"bilangan mol"},"unit":"mol"},{"symbol":"Nₐ","meaning":{"en":"Avogadro constant, 6.02 × 10²³","bm":"pemalar Avogadro, 6.02 × 10²³"},"unit":"mol⁻¹"}],"whenToUse":{"en":"Converting moles to atoms, molecules or ions.","bm":"Menukar mol kepada atom, molekul atau ion."},"toolId":"mole-calc"},
+  {"id":"chem-mol-volume","subtopicId":"chem-03-02","latex":"V = n \\times V_m","name":{"en":"Volume of gas","bm":"Isi padu gas"},"symbols":[{"symbol":"V","meaning":{"en":"volume of gas","bm":"isi padu gas"},"unit":"dm³"},{"symbol":"n","meaning":{"en":"number of moles","bm":"bilangan mol"},"unit":"mol"},{"symbol":"Vₘ","meaning":{"en":"molar volume: 24 dm³ (room conditions) or 22.4 dm³ (STP)","bm":"isi padu molar: 24 dm³ (keadaan bilik) atau 22.4 dm³ (STP)"},"unit":"dm³ mol⁻¹"}],"whenToUse":{"en":"Gases only.","bm":"Gas sahaja."},"commonMistake":{"en":"Mixing up 24 (room) and 22.4 (STP).","bm":"Tertukar antara 24 (bilik) dan 22.4 (STP)."},"toolId":"mole-calc"},
+  {"id":"chem-molarity","subtopicId":"chem-06-05","latex":"M = \\dfrac{n}{V}","name":{"en":"Molarity","bm":"Kemolaran"},"symbols":[{"symbol":"M","meaning":{"en":"molarity","bm":"kemolaran"},"unit":"mol dm⁻³"},{"symbol":"n","meaning":{"en":"number of moles of solute","bm":"bilangan mol zat terlarut"},"unit":"mol"},{"symbol":"V","meaning":{"en":"volume of solution","bm":"isi padu larutan"},"unit":"dm³"}],"whenToUse":{"en":"Concentration of a solution.","bm":"Kepekatan larutan."},"commonMistake":{"en":"Volume must be in dm³: divide cm³ by 1000.","bm":"Isi padu mesti dalam dm³: bahagi cm³ dengan 1000."}},
+  {"id":"chem-dilution","subtopicId":"chem-06-06","latex":"M_1V_1 = M_2V_2","name":{"en":"Dilution","bm":"Pencairan"},"symbols":[{"symbol":"M₁, V₁","meaning":{"en":"molarity and volume before dilution","bm":"kemolaran dan isi padu sebelum pencairan"}},{"symbol":"M₂, V₂","meaning":{"en":"molarity and volume after dilution","bm":"kemolaran dan isi padu selepas pencairan"}}],"whenToUse":{"en":"Adding water to make a less concentrated solution.","bm":"Menambah air untuk menghasilkan larutan yang lebih cair."}},
+  {"id":"am-quad-formula","subtopicId":"addmath-02-01","latex":"x = \\dfrac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}","name":{"en":"Quadratic formula","bm":"Rumus kuadratik"},"symbols":[{"symbol":"a, b, c","meaning":{"en":"coefficients in ax² + bx + c = 0","bm":"pekali dalam ax² + bx + c = 0"}},{"symbol":"x","meaning":{"en":"roots","bm":"punca"}}],"whenToUse":{"en":"Any quadratic equation, especially when it does not factorise nicely.","bm":"Sebarang persamaan kuadratik, terutamanya yang sukar difaktorkan."},"commonMistake":{"en":"Not rearranging to = 0 first, or losing the sign of b.","bm":"Tidak menyusun semula kepada = 0 dahulu, atau tersilap tanda b."},"toolId":"graph-plotter"},
+  {"id":"am-discriminant","subtopicId":"addmath-02-02","latex":"D = b^2 - 4ac","name":{"en":"Discriminant","bm":"Pembeza layan"},"symbols":[{"symbol":"a, b, c","meaning":{"en":"coefficients in ax² + bx + c = 0","bm":"pekali dalam ax² + bx + c = 0"}}],"whenToUse":{"en":"Deciding the type of roots without solving.","bm":"Menentukan jenis punca tanpa menyelesaikan persamaan."},"toolId":"graph-plotter"},
+  {"id":"am-vertex-form","subtopicId":"addmath-02-03","latex":"f(x) = a(x - h)^2 + k","name":{"en":"Vertex form","bm":"Bentuk verteks"},"symbols":[{"symbol":"(h, k)","meaning":{"en":"turning point","bm":"titik pusingan"}},{"symbol":"a","meaning":{"en":"shape and width","bm":"bentuk dan kelebaran"}}],"whenToUse":{"en":"Finding the maximum or minimum point quickly.","bm":"Mencari titik maksimum atau minimum dengan cepat."},"commonMistake":{"en":"(x + 3)² means h = −3, not +3.","bm":"(x + 3)² bermakna h = −3, bukan +3."},"toolId":"graph-plotter"},
+  {"id":"am-axis","subtopicId":"addmath-02-03","latex":"x = -\\dfrac{b}{2a}","name":{"en":"Axis of symmetry","bm":"Paksi simetri"},"symbols":[{"symbol":"a, b","meaning":{"en":"coefficients in ax² + bx + c","bm":"pekali dalam ax² + bx + c"}}],"whenToUse":{"en":"x-coordinate of the turning point from the general form.","bm":"Koordinat-x titik pusingan daripada bentuk am."},"toolId":"graph-plotter"},
+  {"id":"am-form-from-roots","subtopicId":"addmath-02-01","latex":"x^2 - (\\alpha + \\beta)x + \\alpha\\beta = 0","name":{"en":"Equation from its roots","bm":"Persamaan daripada punca"},"symbols":[{"symbol":"α, β","meaning":{"en":"the two roots","bm":"dua punca"}}],"whenToUse":{"en":"Building a quadratic equation when the roots are given.","bm":"Membentuk persamaan kuadratik apabila punca diberi."}},
+  {"id":"am-ap-term","subtopicId":"addmath-05-01","latex":"T_n = a + (n - 1)d","name":{"en":"nth term of an arithmetic progression","bm":"Sebutan ke-n janjang aritmetik"},"symbols":[{"symbol":"a","meaning":{"en":"first term","bm":"sebutan pertama"}},{"symbol":"d","meaning":{"en":"common difference","bm":"beza sepunya"}},{"symbol":"n","meaning":{"en":"term number","bm":"nombor sebutan"}}],"whenToUse":{"en":"Sequences that go up or down by the same amount.","bm":"Jujukan yang bertambah atau berkurang dengan nilai yang sama."}},
+  {"id":"am-ap-sum","subtopicId":"addmath-05-01","latex":"S_n = \\dfrac{n}{2}\\left[2a + (n - 1)d\\right]","name":{"en":"Sum of an arithmetic progression","bm":"Hasil tambah janjang aritmetik"},"symbols":[{"symbol":"a","meaning":{"en":"first term","bm":"sebutan pertama"}},{"symbol":"d","meaning":{"en":"common difference","bm":"beza sepunya"}},{"symbol":"n","meaning":{"en":"number of terms","bm":"bilangan sebutan"}}],"whenToUse":{"en":"Adding the first n terms of an AP.","bm":"Menambah n sebutan pertama janjang aritmetik."}},
+  {"id":"am-gp-term","subtopicId":"addmath-05-02","latex":"T_n = ar^{n-1}","name":{"en":"nth term of a geometric progression","bm":"Sebutan ke-n janjang geometri"},"symbols":[{"symbol":"a","meaning":{"en":"first term","bm":"sebutan pertama"}},{"symbol":"r","meaning":{"en":"common ratio","bm":"nisbah sepunya"}}],"whenToUse":{"en":"Sequences that multiply by the same ratio.","bm":"Jujukan yang didarab dengan nisbah yang sama."}},
+  {"id":"am-gp-inf","subtopicId":"addmath-05-02","latex":"S_\\infty = \\dfrac{a}{1 - r}, \\; |r| < 1","name":{"en":"Sum to infinity","bm":"Hasil tambah hingga ketakterhinggaan"},"symbols":[{"symbol":"a","meaning":{"en":"first term","bm":"sebutan pertama"}},{"symbol":"r","meaning":{"en":"common ratio","bm":"nisbah sepunya"}}],"whenToUse":{"en":"Only when −1 < r < 1.","bm":"Hanya apabila −1 < r < 1."}},
+  {"id":"am-log-product","subtopicId":"addmath-04-03","latex":"\\log_a xy = \\log_a x + \\log_a y","name":{"en":"Product law of logarithms","bm":"Hukum hasil darab logaritma"},"symbols":[{"symbol":"a","meaning":{"en":"base (a > 0, a ≠ 1)","bm":"asas (a > 0, a ≠ 1)"}}],"whenToUse":{"en":"Combining or splitting logarithms.","bm":"Menggabung atau memecahkan logaritma."},"commonMistake":{"en":"log(x + y) is NOT log x + log y.","bm":"log(x + y) BUKAN log x + log y."}},
+  {"id":"am-log-change-base","subtopicId":"addmath-04-03","latex":"\\log_a b = \\dfrac{\\log_c b}{\\log_c a}","name":{"en":"Change of base","bm":"Penukaran asas"},"symbols":[{"symbol":"c","meaning":{"en":"any new base, usually 10","bm":"sebarang asas baharu, biasanya 10"}}],"whenToUse":{"en":"Calculator only has log₁₀ and ln.","bm":"Kalkulator hanya ada log₁₀ dan ln."}},
+  {"id":"am-sine-rule","subtopicId":"addmath-09-01","latex":"\\dfrac{a}{\\sin A} = \\dfrac{b}{\\sin B} = \\dfrac{c}{\\sin C}","name":{"en":"Sine rule","bm":"Petua sinus"},"symbols":[{"symbol":"a, b, c","meaning":{"en":"sides","bm":"sisi"}},{"symbol":"A, B, C","meaning":{"en":"opposite angles","bm":"sudut bertentangan"},"unit":"°"}],"whenToUse":{"en":"Two angles and a side, or two sides and a non-included angle.","bm":"Dua sudut dan satu sisi, atau dua sisi dan satu sudut bukan kandung."},"commonMistake":{"en":"The ambiguous case: two sides and a non-included acute angle can give two triangles.","bm":"Kes ambiguiti: dua sisi dan sudut tirus bukan kandung boleh menghasilkan dua segi tiga."}},
+  {"id":"am-cosine-rule","subtopicId":"addmath-09-02","latex":"a^2 = b^2 + c^2 - 2bc\\cos A","name":{"en":"Cosine rule","bm":"Petua kosinus"},"symbols":[{"symbol":"a","meaning":{"en":"side opposite angle A","bm":"sisi bertentangan sudut A"}},{"symbol":"A","meaning":{"en":"included angle between b and c","bm":"sudut kandung antara b dan c"},"unit":"°"}],"whenToUse":{"en":"Two sides and the included angle, or all three sides.","bm":"Dua sisi dan sudut kandung, atau ketiga-tiga sisi."}},
+  {"id":"am-triangle-area","subtopicId":"addmath-09-03","latex":"\\text{Area} = \\tfrac{1}{2}ab\\sin C","name":{"en":"Area of a triangle","bm":"Luas segi tiga"},"symbols":[{"symbol":"a, b","meaning":{"en":"two sides","bm":"dua sisi"}},{"symbol":"C","meaning":{"en":"angle between them","bm":"sudut di antaranya"},"unit":"°"}],"whenToUse":{"en":"Two sides and the included angle are known.","bm":"Dua sisi dan sudut kandung diketahui."}},
+  {"id":"am-divisor","subtopicId":"addmath-07-01","latex":"\\left(\\dfrac{nx_1 + mx_2}{m + n}, \\dfrac{ny_1 + my_2}{m + n}\\right)","name":{"en":"Point dividing a line in ratio m : n","bm":"Titik membahagi garis dalam nisbah m : n"},"symbols":[{"symbol":"(x₁, y₁), (x₂, y₂)","meaning":{"en":"end points","bm":"titik hujung"}},{"symbol":"m : n","meaning":{"en":"ratio from the first point","bm":"nisbah dari titik pertama"}}],"whenToUse":{"en":"Finding a point that divides a segment in a given ratio.","bm":"Mencari titik yang membahagi tembereng dalam nisbah tertentu."},"commonMistake":{"en":"Crossing the weights: n goes with the FIRST point, m with the second.","bm":"Pemberat bersilang: n bersama titik PERTAMA, m bersama titik kedua."}},
+  {"id":"math-place-value","subtopicId":"math-02-01","latex":"N_{10} = d_n b^n + \\dots + d_1 b^1 + d_0 b^0","name":{"en":"Base b to base 10","bm":"Asas b kepada asas 10"},"symbols":[{"symbol":"dₙ … d₀","meaning":{"en":"digits, left to right","bm":"digit, kiri ke kanan"}},{"symbol":"b","meaning":{"en":"the base","bm":"asas"}}],"whenToUse":{"en":"Converting any base to base 10.","bm":"Menukar sebarang asas kepada asas 10."},"commonMistake":{"en":"Starting the powers at b¹ — the rightmost digit is b⁰ = 1.","bm":"Memulakan kuasa dengan b¹ — digit paling kanan ialah b⁰ = 1."},"toolId":"base-converter"},
+  {"id":"math-variance","subtopicId":"math-08-02","latex":"\\sigma^2 = \\dfrac{\\sum x^2}{N} - \\bar{x}^2","name":{"en":"Variance","bm":"Varians"},"symbols":[{"symbol":"σ²","meaning":{"en":"variance","bm":"varians"}},{"symbol":"x̄","meaning":{"en":"mean","bm":"min"}},{"symbol":"N","meaning":{"en":"number of data","bm":"bilangan data"}}],"whenToUse":{"en":"Measuring how spread out data is.","bm":"Mengukur serakan data."},"commonMistake":{"en":"Squaring the sum instead of summing the squares.","bm":"Mengkuasaduakan hasil tambah dan bukan menambah kuasa dua."}},
+  {"id":"math-sd","subtopicId":"math-08-02","latex":"\\sigma = \\sqrt{\\dfrac{\\sum x^2}{N} - \\bar{x}^2}","name":{"en":"Standard deviation","bm":"Sisihan piawai"},"symbols":[{"symbol":"σ","meaning":{"en":"standard deviation","bm":"sisihan piawai"}}],"whenToUse":{"en":"Spread in the same units as the data.","bm":"Serakan dalam unit yang sama dengan data."}},
+  {"id":"math-prob-indep","subtopicId":"math-09-02","latex":"P(A \\cap B) = P(A) \\times P(B)","name":{"en":"Independent events","bm":"Peristiwa tak bersandar"},"symbols":[{"symbol":"A, B","meaning":{"en":"independent events","bm":"peristiwa tak bersandar"}}],"whenToUse":{"en":"The outcome of A does not affect B.","bm":"Kesudahan A tidak mempengaruhi B."}},
+  {"id":"math-prob-union","subtopicId":"math-09-03","latex":"P(A \\cup B) = P(A) + P(B) - P(A \\cap B)","name":{"en":"Probability of A or B","bm":"Kebarangkalian A atau B"},"symbols":[{"symbol":"A, B","meaning":{"en":"two events","bm":"dua peristiwa"}}],"whenToUse":{"en":"Either event happens. For mutually exclusive events P(A ∩ B) = 0.","bm":"Salah satu peristiwa berlaku. Bagi peristiwa saling eksklusif P(A ∩ B) = 0."}},
+  {"id":"math-speed","subtopicId":"math-07-01","latex":"\\text{Average speed} = \\dfrac{\\text{total distance}}{\\text{total time}}","name":{"en":"Average speed","bm":"Laju purata"},"symbols":[],"whenToUse":{"en":"Distance–time graphs and journeys with several stages.","bm":"Graf jarak–masa dan perjalanan beberapa peringkat."},"commonMistake":{"en":"Averaging the speeds of each stage instead of using totals.","bm":"Mengambil purata laju setiap peringkat dan bukan jumlah keseluruhan."}},
+  {"id":"phy-g-field","subtopicId":"phy-03-01","latex":"g = \\dfrac{GM}{r^2}","name":{"en":"Gravitational field strength","bm":"Kekuatan medan graviti"},"symbols":[{"symbol":"g","meaning":{"en":"gravitational field strength","bm":"kekuatan medan graviti"},"unit":"N kg⁻¹"},{"symbol":"M","meaning":{"en":"mass of the planet","bm":"jisim planet"},"unit":"kg"},{"symbol":"r","meaning":{"en":"distance from the planet's centre","bm":"jarak dari pusat planet"},"unit":"m"}],"whenToUse":{"en":"Finding g at a planet's surface or at a height above it.","bm":"Mencari g di permukaan planet atau pada ketinggian tertentu."},"commonMistake":{"en":"Using height h instead of r = R + h.","bm":"Menggunakan ketinggian h dan bukan r = R + h."}},
+  {"id":"phy-kepler3","subtopicId":"phy-03-02","latex":"\\dfrac{T_1^2}{r_1^3} = \\dfrac{T_2^2}{r_2^3}","name":{"en":"Kepler's third law","bm":"Hukum Kepler ketiga"},"symbols":[{"symbol":"T","meaning":{"en":"orbital period","bm":"tempoh orbit"},"unit":"s"},{"symbol":"r","meaning":{"en":"orbital radius","bm":"jejari orbit"},"unit":"m"}],"whenToUse":{"en":"Comparing two objects orbiting the same central body.","bm":"Membandingkan dua objek yang mengorbit jasad pusat yang sama."}},
+  {"id":"phy-orbital-speed","subtopicId":"phy-03-03","latex":"v = \\sqrt{\\dfrac{GM}{r}}","name":{"en":"Orbital speed","bm":"Laju orbit"},"symbols":[{"symbol":"v","meaning":{"en":"orbital speed","bm":"laju orbit"},"unit":"m s⁻¹"},{"symbol":"M","meaning":{"en":"mass of the central body","bm":"jisim jasad pusat"},"unit":"kg"},{"symbol":"r","meaning":{"en":"orbital radius","bm":"jejari orbit"},"unit":"m"}],"whenToUse":{"en":"Speed of a satellite in a circular orbit.","bm":"Laju satelit dalam orbit bulat."}},
+  {"id":"phy-escape","subtopicId":"phy-03-03","latex":"v = \\sqrt{\\dfrac{2GM}{r}}","name":{"en":"Escape velocity","bm":"Halaju lepas"},"symbols":[{"symbol":"v","meaning":{"en":"escape velocity","bm":"halaju lepas"},"unit":"m s⁻¹"},{"symbol":"M","meaning":{"en":"mass of the planet","bm":"jisim planet"},"unit":"kg"},{"symbol":"r","meaning":{"en":"radius of the planet","bm":"jejari planet"},"unit":"m"}],"whenToUse":{"en":"Minimum launch speed to escape a planet's gravity.","bm":"Laju pelancaran minimum untuk terlepas daripada graviti planet."}},
+  {"id":"phy-pt-mc","subtopicId":"phy-04-02","latex":"Pt = mc\\theta","name":{"en":"Electrical heating","bm":"Pemanasan elektrik"},"symbols":[{"symbol":"P","meaning":{"en":"power of the heater","bm":"kuasa pemanas"},"unit":"W"},{"symbol":"t","meaning":{"en":"time","bm":"masa"},"unit":"s"},{"symbol":"m","meaning":{"en":"mass","bm":"jisim"},"unit":"kg"},{"symbol":"c","meaning":{"en":"specific heat capacity","bm":"muatan haba tentu"},"unit":"J kg⁻¹ °C⁻¹"},{"symbol":"θ","meaning":{"en":"temperature change","bm":"perubahan suhu"},"unit":"°C"}],"whenToUse":{"en":"An electric heater supplies the heat (assume no heat loss).","bm":"Pemanas elektrik membekalkan haba (anggap tiada haba hilang)."},"commonMistake":{"en":"Using minutes instead of seconds for t.","bm":"Menggunakan minit dan bukan saat untuk t."},"toolId":"heat-calc"},
+  {"id":"phy-period","subtopicId":"phy-05-01","latex":"T = \\dfrac{1}{f}","name":{"en":"Period and frequency","bm":"Tempoh dan frekuensi"},"symbols":[{"symbol":"T","meaning":{"en":"period","bm":"tempoh"},"unit":"s"},{"symbol":"f","meaning":{"en":"frequency","bm":"frekuensi"},"unit":"Hz"}],"whenToUse":{"en":"Converting between period and frequency of any oscillation.","bm":"Menukar antara tempoh dan frekuensi sebarang ayunan."}},
+  {"id":"phy-young","subtopicId":"phy-05-06","latex":"\\lambda = \\dfrac{ax}{D}","name":{"en":"Young's double-slit","bm":"Dwicelah Young"},"symbols":[{"symbol":"λ","meaning":{"en":"wavelength","bm":"panjang gelombang"},"unit":"m"},{"symbol":"a","meaning":{"en":"slit separation","bm":"jarak antara celah"},"unit":"m"},{"symbol":"x","meaning":{"en":"fringe separation","bm":"jarak antara pinggir"},"unit":"m"},{"symbol":"D","meaning":{"en":"slit-to-screen distance","bm":"jarak celah ke skrin"},"unit":"m"}],"whenToUse":{"en":"Interference of light through two slits.","bm":"Interferens cahaya melalui dua celah."},"commonMistake":{"en":"Leaving a and x in millimetres.","bm":"Membiarkan a dan x dalam milimeter."},"toolId":"wave-visualiser"},
+  {"id":"phy-n-speed","subtopicId":"phy-06-01","latex":"n = \\dfrac{c}{v}","name":{"en":"Refractive index from speed","bm":"Indeks biasan daripada laju"},"symbols":[{"symbol":"c","meaning":{"en":"speed of light in vacuum, 3 × 10⁸","bm":"laju cahaya dalam vakum, 3 × 10⁸"},"unit":"m s⁻¹"},{"symbol":"v","meaning":{"en":"speed of light in the medium","bm":"laju cahaya dalam medium"},"unit":"m s⁻¹"}],"whenToUse":{"en":"Speed of light in a medium is given.","bm":"Laju cahaya dalam medium diberi."}},
+  {"id":"phy-n-depth","subtopicId":"phy-06-01","latex":"n = \\dfrac{\\text{real depth}}{\\text{apparent depth}}","name":{"en":"Real and apparent depth","bm":"Dalam nyata dan dalam ketara"},"symbols":[],"whenToUse":{"en":"Objects seen through water or glass from directly above.","bm":"Objek dilihat melalui air atau kaca dari atas."}},
+  {"id":"phy-magnification","subtopicId":"phy-06-04","latex":"m = \\dfrac{v}{u} = \\dfrac{h_i}{h_o}","name":{"en":"Linear magnification","bm":"Pembesaran linear"},"symbols":[{"symbol":"v","meaning":{"en":"image distance","bm":"jarak imej"},"unit":"m"},{"symbol":"u","meaning":{"en":"object distance","bm":"jarak objek"},"unit":"m"},{"symbol":"hᵢ, hₒ","meaning":{"en":"image and object heights","bm":"tinggi imej dan objek"}}],"whenToUse":{"en":"How many times bigger the image is than the object.","bm":"Berapa kali imej lebih besar daripada objek."},"toolId":"ray-diagram"},
+  {"id":"phy-lens-power","subtopicId":"phy-06-04","latex":"P = \\dfrac{1}{f}","name":{"en":"Power of a lens","bm":"Kuasa kanta"},"symbols":[{"symbol":"P","meaning":{"en":"power","bm":"kuasa"},"unit":"D"},{"symbol":"f","meaning":{"en":"focal length","bm":"panjang fokus"},"unit":"m"}],"whenToUse":{"en":"Spectacle prescriptions (dioptres).","bm":"Preskripsi cermin mata (diopter)."},"commonMistake":{"en":"f must be in metres, not cm.","bm":"f mesti dalam meter, bukan cm."}},
+  {"id":"chem-ph","subtopicId":"chem-06-02","latex":"\\text{pH} = -\\log[\\text{H}^+]","name":{"en":"pH of a solution","bm":"pH larutan"},"symbols":[{"symbol":"[H⁺]","meaning":{"en":"concentration of hydrogen ions","bm":"kepekatan ion hidrogen"},"unit":"mol dm⁻³"}],"whenToUse":{"en":"Finding pH from [H⁺]; for alkalis find pOH = −log[OH⁻] first, then pH = 14 − pOH.","bm":"Mencari pH daripada [H⁺]; bagi alkali cari pOH = −log[OH⁻] dahulu, kemudian pH = 14 − pOH."},"commonMistake":{"en":"For H₂SO₄, [H⁺] is twice the acid concentration.","bm":"Bagi H₂SO₄, [H⁺] ialah dua kali kepekatan asid."},"toolId":"ph-scale"},
+  {"id":"chem-g-conc","subtopicId":"chem-06-05","latex":"\\text{g dm}^{-3} = \\text{mol dm}^{-3} \\times M_r","name":{"en":"Converting concentration units","bm":"Menukar unit kepekatan"},"symbols":[{"symbol":"Mᵣ","meaning":{"en":"molar mass of the solute","bm":"jisim molar zat terlarut"},"unit":"g mol⁻¹"}],"whenToUse":{"en":"Changing between g dm⁻³ and mol dm⁻³.","bm":"Menukar antara g dm⁻³ dan mol dm⁻³."}},
+  {"id":"chem-titration","subtopicId":"chem-06-07","latex":"\\dfrac{M_aV_a}{M_bV_b} = \\dfrac{a}{b}","name":{"en":"Titration calculation","bm":"Pengiraan pentitratan"},"symbols":[{"symbol":"Mₐ, Vₐ","meaning":{"en":"molarity and volume of acid","bm":"kemolaran dan isi padu asid"}},{"symbol":"M_b, V_b","meaning":{"en":"molarity and volume of base","bm":"kemolaran dan isi padu bes"}},{"symbol":"a, b","meaning":{"en":"mole ratio of acid and base in the equation","bm":"nisbah mol asid dan bes dalam persamaan"}}],"whenToUse":{"en":"Neutralisation titrations.","bm":"Pentitratan peneutralan."},"commonMistake":{"en":"Forgetting that H₂SO₄ + 2NaOH means a : b = 1 : 2.","bm":"Terlupa H₂SO₄ + 2NaOH bermakna a : b = 1 : 2."}},
+  {"id":"chem-rate","subtopicId":"chem-07-01","latex":"\\text{Rate} = \\dfrac{\\text{change in quantity}}{\\text{time taken}}","name":{"en":"Rate of reaction","bm":"Kadar tindak balas"},"symbols":[],"whenToUse":{"en":"Average rate from experimental data, e.g. cm³ s⁻¹ or g min⁻¹.","bm":"Kadar purata daripada data eksperimen, cth. cm³ s⁻¹ atau g min⁻¹."},"commonMistake":{"en":"Mixing seconds and minutes in the unit.","bm":"Mencampurkan saat dan minit dalam unit."}},
+  {"id":"am-composite","subtopicId":"addmath-01-02","latex":"fg(x) = f\\left[g(x)\\right]","name":{"en":"Composite function","bm":"Fungsi gubahan"},"symbols":[{"symbol":"fg","meaning":{"en":"apply g first, then f","bm":"guna g dahulu, kemudian f"}}],"whenToUse":{"en":"Combining two functions.","bm":"Menggabungkan dua fungsi."},"commonMistake":{"en":"Applying f first — fg means g acts first.","bm":"Menggunakan f dahulu — fg bermakna g bertindak dahulu."},"toolId":"graph-plotter"},
+  {"id":"am-inverse","subtopicId":"addmath-01-03","latex":"f(a) = b \\iff f^{-1}(b) = a","name":{"en":"Inverse function","bm":"Fungsi songsang"},"symbols":[{"symbol":"f⁻¹","meaning":{"en":"inverse of f","bm":"songsangan f"}}],"whenToUse":{"en":"Working backwards from an image to its object (one-to-one functions only).","bm":"Bekerja ke belakang dari imej kepada objek (fungsi satu dengan satu sahaja)."},"commonMistake":{"en":"f⁻¹(x) is not 1/f(x).","bm":"f⁻¹(x) bukan 1/f(x)."}},
+  {"id":"am-index-laws","subtopicId":"addmath-04-01","latex":"a^m \\times a^n = a^{m+n}, \\quad (a^m)^n = a^{mn}","name":{"en":"Laws of indices","bm":"Hukum indeks"},"symbols":[{"symbol":"a","meaning":{"en":"base","bm":"asas"}},{"symbol":"m, n","meaning":{"en":"indices","bm":"indeks"}}],"whenToUse":{"en":"Simplifying expressions and solving index equations.","bm":"Mempermudahkan ungkapan dan menyelesaikan persamaan indeks."},"commonMistake":{"en":"a^m × a^n is not a^(mn).","bm":"a^m × a^n bukan a^(mn)."}},
+  {"id":"am-log-def","subtopicId":"addmath-04-03","latex":"a^x = N \\iff \\log_a N = x","name":{"en":"Definition of logarithm","bm":"Takrif logaritma"},"symbols":[{"symbol":"a","meaning":{"en":"base (a > 0, a ≠ 1)","bm":"asas (a > 0, a ≠ 1)"}},{"symbol":"N","meaning":{"en":"positive number","bm":"nombor positif"}}],"whenToUse":{"en":"Converting between index and log form.","bm":"Menukar antara bentuk indeks dan log."}},
+  {"id":"am-log-power","subtopicId":"addmath-04-03","latex":"\\log_a x^n = n \\log_a x","name":{"en":"Power law of logarithms","bm":"Hukum kuasa logaritma"},"symbols":[{"symbol":"n","meaning":{"en":"any real power","bm":"sebarang kuasa nyata"}}],"whenToUse":{"en":"Bringing an unknown index down to solve aˣ = b.","bm":"Menurunkan indeks yang tidak diketahui untuk menyelesaikan aˣ = b."}},
+  {"id":"am-gp-sum","subtopicId":"addmath-05-02","latex":"S_n = \\dfrac{a(r^n - 1)}{r - 1}, \\; r \\neq 1","name":{"en":"Sum of a geometric progression","bm":"Hasil tambah janjang geometri"},"symbols":[{"symbol":"a","meaning":{"en":"first term","bm":"sebutan pertama"}},{"symbol":"r","meaning":{"en":"common ratio","bm":"nisbah sepunya"}},{"symbol":"n","meaning":{"en":"number of terms","bm":"bilangan sebutan"}}],"whenToUse":{"en":"Adding the first n terms of a GP.","bm":"Menambah n sebutan pertama JG."}},
+  {"id":"am-linear-law","subtopicId":"addmath-06-02","latex":"Y = mX + c","name":{"en":"Linear law form","bm":"Bentuk hukum linear"},"symbols":[{"symbol":"Y, X","meaning":{"en":"expressions with variables","bm":"ungkapan dengan pemboleh ubah"}},{"symbol":"m, c","meaning":{"en":"gradient and Y-intercept (constants)","bm":"kecerunan dan pintasan-Y (pemalar)"}}],"whenToUse":{"en":"Turning a non-linear relation into a straight line.","bm":"Menukar hubungan tak linear kepada garis lurus."}},
+  {"id":"am-distance","subtopicId":"addmath-07-01","latex":"d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}","name":{"en":"Distance between two points","bm":"Jarak antara dua titik"},"symbols":[{"symbol":"(x₁, y₁), (x₂, y₂)","meaning":{"en":"the two points","bm":"dua titik"}}],"whenToUse":{"en":"Length of a line segment; loci with fixed distance.","bm":"Panjang tembereng garis; lokus dengan jarak tetap."}},
+  {"id":"am-midpoint","subtopicId":"addmath-07-01","latex":"\\left(\\dfrac{x_1 + x_2}{2}, \\dfrac{y_1 + y_2}{2}\\right)","name":{"en":"Midpoint","bm":"Titik tengah"},"symbols":[],"whenToUse":{"en":"The point halfway along a segment.","bm":"Titik di pertengahan tembereng."}},
+  {"id":"am-perpendicular","subtopicId":"addmath-07-02","latex":"m_1 m_2 = -1","name":{"en":"Perpendicular lines","bm":"Garis serenjang"},"symbols":[{"symbol":"m₁, m₂","meaning":{"en":"gradients of the two lines","bm":"kecerunan dua garis"}}],"whenToUse":{"en":"Finding a perpendicular gradient or proving lines meet at 90°.","bm":"Mencari kecerunan serenjang atau membuktikan garis bertemu pada 90°."},"commonMistake":{"en":"Forgetting to change the sign as well as flipping.","bm":"Terlupa menukar tanda selain menterbalikkan."}},
+  {"id":"am-polygon-area","subtopicId":"addmath-07-03","latex":"A = \\tfrac{1}{2}\\left|(x_1y_2 + x_2y_3 + x_3y_1) - (x_2y_1 + x_3y_2 + x_1y_3)\\right|","name":{"en":"Area of a triangle from coordinates","bm":"Luas segi tiga daripada koordinat"},"symbols":[],"whenToUse":{"en":"Area of a triangle or polygon from its vertices (list in order).","bm":"Luas segi tiga atau poligon daripada bucunya (senarai mengikut susunan)."},"commonMistake":{"en":"Listing vertices out of order for quadrilaterals.","bm":"Menyenaraikan bucu tidak mengikut susunan bagi sisi empat."}},
+  {"id":"am-vector-mag","subtopicId":"addmath-08-03","latex":"|x\\mathbf{i} + y\\mathbf{j}| = \\sqrt{x^2 + y^2}","name":{"en":"Magnitude of a vector","bm":"Magnitud vektor"},"symbols":[{"symbol":"x, y","meaning":{"en":"components","bm":"komponen"}}],"whenToUse":{"en":"Length of a vector in the Cartesian plane.","bm":"Panjang vektor dalam satah Cartes."}},
+  {"id":"am-unit-vector","subtopicId":"addmath-08-03","latex":"\\hat{\\mathbf{r}} = \\dfrac{\\mathbf{r}}{|\\mathbf{r}|}","name":{"en":"Unit vector","bm":"Vektor unit"},"symbols":[{"symbol":"r","meaning":{"en":"any non-zero vector","bm":"sebarang vektor bukan sifar"}}],"whenToUse":{"en":"Vector of length 1 in the direction of r.","bm":"Vektor berpanjang 1 dalam arah r."}},
+  {"id":"am-heron","subtopicId":"addmath-09-03","latex":"A = \\sqrt{s(s-a)(s-b)(s-c)}, \\; s = \\tfrac{a+b+c}{2}","name":{"en":"Heron's formula","bm":"Rumus Heron"},"symbols":[{"symbol":"a, b, c","meaning":{"en":"side lengths","bm":"panjang sisi"}},{"symbol":"s","meaning":{"en":"semi-perimeter","bm":"separuh perimeter"}}],"whenToUse":{"en":"Area of a triangle when all three sides are known.","bm":"Luas segi tiga apabila ketiga-tiga sisi diketahui."}},
+  {"id":"am-index-number","subtopicId":"addmath-10-01","latex":"I = \\dfrac{Q_1}{Q_0} \\times 100","name":{"en":"Index number","bm":"Nombor indeks"},"symbols":[{"symbol":"Q₀","meaning":{"en":"quantity in the base year","bm":"kuantiti pada tahun asas"}},{"symbol":"Q₁","meaning":{"en":"quantity in the given year","bm":"kuantiti pada tahun tertentu"}}],"whenToUse":{"en":"Measuring change in price or quantity from a base year.","bm":"Mengukur perubahan harga atau kuantiti dari tahun asas."}},
+  {"id":"am-composite-index","subtopicId":"addmath-10-02","latex":"\\bar{I} = \\dfrac{\\sum I_i w_i}{\\sum w_i}","name":{"en":"Composite index","bm":"Indeks gubahan"},"symbols":[{"symbol":"Iᵢ","meaning":{"en":"index of each item","bm":"indeks setiap item"}},{"symbol":"wᵢ","meaning":{"en":"weightage","bm":"pemberat"}}],"whenToUse":{"en":"Combining several indices with different importance.","bm":"Menggabungkan beberapa indeks dengan kepentingan berbeza."}},
+  {"id":"math-union-count","subtopicId":"math-04-02","latex":"n(A \\cup B) = n(A) + n(B) - n(A \\cap B)","name":{"en":"Number of elements in a union","bm":"Bilangan unsur dalam kesatuan"},"symbols":[{"symbol":"n(A \\cup B)","meaning":{"en":"elements in A or B","bm":"unsur dalam A atau B"}},{"symbol":"n(A \\cap B)","meaning":{"en":"elements in both A and B","bm":"unsur dalam kedua-dua A dan B"}}],"whenToUse":{"en":"Counting members of two overlapping groups.","bm":"Mengira ahli dua kumpulan yang bertindih."},"commonMistake":{"en":"Adding n(A) + n(B) and counting the overlap twice.","bm":"Menambah n(A) + n(B) dan mengira bahagian bertindih dua kali."}},
+  {"id":"math-degree-sum","subtopicId":"math-05-01","latex":"\\sum d(v) = 2E","name":{"en":"Sum of degrees","bm":"Hasil tambah darjah"},"symbols":[{"symbol":"d(v)","meaning":{"en":"degree of vertex v","bm":"darjah bucu v"}},{"symbol":"E","meaning":{"en":"number of edges","bm":"bilangan tepi"}}],"whenToUse":{"en":"Finding the number of edges from vertex degrees (or vice versa).","bm":"Mencari bilangan tepi daripada darjah bucu (atau sebaliknya)."},"commonMistake":{"en":"Counting a loop as 1 instead of 2.","bm":"Mengira gelung sebagai 1 dan bukan 2."}},
+  {"id":"math-accel","subtopicId":"math-07-02","latex":"\\text{Acceleration} = \\dfrac{\\text{change in speed}}{\\text{time}}","name":{"en":"Acceleration (gradient of speed–time graph)","bm":"Pecutan (kecerunan graf laju–masa)"},"symbols":[{"symbol":"\\text{change in speed}","meaning":{"en":"final speed − initial speed","bm":"laju akhir − laju awal"},"unit":"m s⁻¹"},{"symbol":"\\text{time}","meaning":{"en":"time taken","bm":"masa diambil"},"unit":"s"}],"whenToUse":{"en":"Reading the gradient of a speed–time graph.","bm":"Membaca kecerunan graf laju–masa."},"commonMistake":{"en":"Forgetting that a negative value means deceleration.","bm":"Terlupa bahawa nilai negatif bermakna nyahpecutan."}},
+  {"id":"math-iqr","subtopicId":"math-08-02","latex":"\\text{IQR} = Q_3 - Q_1","name":{"en":"Interquartile range","bm":"Julat antara kuartil"},"symbols":[{"symbol":"Q_1","meaning":{"en":"first quartile (25th percentile)","bm":"kuartil pertama (persentil ke-25)"}},{"symbol":"Q_3","meaning":{"en":"third quartile (75th percentile)","bm":"kuartil ketiga (persentil ke-75)"}}],"whenToUse":{"en":"Measuring spread of the middle 50% — not affected by outliers.","bm":"Mengukur serakan 50% di tengah — tidak dipengaruhi oleh nilai pencilan."},"commonMistake":{"en":"Not arranging the data in ascending order first.","bm":"Tidak menyusun data dalam tertib menaik dahulu."}},
+  {"id":"math-prob-event","subtopicId":"math-09-01","latex":"P(A) = \\dfrac{n(A)}{n(S)}","name":{"en":"Probability of an event","bm":"Kebarangkalian suatu peristiwa"},"symbols":[{"symbol":"n(A)","meaning":{"en":"number of outcomes in event A","bm":"bilangan kesudahan dalam peristiwa A"}},{"symbol":"n(S)","meaning":{"en":"number of outcomes in the sample space","bm":"bilangan kesudahan dalam ruang sampel"}}],"whenToUse":{"en":"Equally likely outcomes, e.g. from a list or table of the sample space.","bm":"Kesudahan yang sama mungkin, cth. daripada senarai atau jadual ruang sampel."}},
+  {"id":"math-cash-flow","subtopicId":"math-10-01","latex":"\\text{Cash flow} = \\text{income} - \\text{expenses}","name":{"en":"Monthly cash flow","bm":"Aliran tunai bulanan"},"symbols":[{"symbol":"\\text{income}","meaning":{"en":"active + passive income","bm":"pendapatan aktif + pasif"},"unit":"RM"},{"symbol":"\\text{expenses}","meaning":{"en":"fixed + variable expenses","bm":"perbelanjaan tetap + tidak tetap"},"unit":"RM"}],"whenToUse":{"en":"Checking whether a budget has a surplus (positive) or deficit (negative).","bm":"Menyemak sama ada bajet mempunyai lebihan (positif) atau defisit (negatif)."},"commonMistake":{"en":"Forgetting to count savings as a fixed expense ('pay yourself first').","bm":"Terlupa mengira simpanan sebagai perbelanjaan tetap ('bayar diri sendiri dahulu')."}}
 ]

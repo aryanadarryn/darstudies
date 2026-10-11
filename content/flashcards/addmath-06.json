@@ -1,0 +1,15 @@
+{
+  "chapterId": "addmath-06",
+  "cards": [
+    { "id": "addmath-06-f01", "subtopicId": "addmath-06-01", "front": { "en": "Linear vs non-linear relation", "bm": "Hubungan linear vs tak linear" }, "back": { "en": "Linear: straight-line graph. Non-linear: curve", "bm": "Linear: graf garis lurus. Tak linear: lengkung" } },
+    { "id": "addmath-06-f02", "subtopicId": "addmath-06-01", "front": { "en": "Line of best fit", "bm": "Garis penyuaian terbaik" }, "back": { "en": "Through as many points as possible, rest balanced either side", "bm": "Melalui seberapa banyak titik, baki seimbang di kedua-dua belah" } },
+    { "id": "addmath-06-f03", "subtopicId": "addmath-06-02", "front": { "en": "Goal of linear law", "bm": "Matlamat hukum linear" }, "back": { "en": "Rewrite as Y = mX + c (Y, X contain variables; m, c contain only constants)", "bm": "Tulis semula sebagai Y = mX + c (Y, X mengandungi pemboleh ubah; m, c hanya pemalar)" } },
+    { "id": "addmath-06-f04", "subtopicId": "addmath-06-02", "front": { "en": "y = ax² + bx", "bm": "y = ax² + bx" }, "back": { "en": "Divide by x: y/x = ax + b → plot y/x vs x", "bm": "Bahagi dengan x: y/x = ax + b → plot y/x lwn x" } },
+    { "id": "addmath-06-f05", "subtopicId": "addmath-06-02", "front": { "en": "y = abˣ", "bm": "y = abˣ" }, "back": { "en": "log y = (log b)x + log a → plot log y vs x", "bm": "log y = (log b)x + log a → plot log y lwn x" } },
+    { "id": "addmath-06-f06", "subtopicId": "addmath-06-02", "front": { "en": "y = axⁿ", "bm": "y = axⁿ" }, "back": { "en": "log y = n log x + log a → plot log y vs log x", "bm": "log y = n log x + log a → plot log y lwn log x" } },
+    { "id": "addmath-06-f07", "subtopicId": "addmath-06-02", "front": { "en": "y = a/x + b", "bm": "y = a/x + b" }, "back": { "en": "Plot y vs 1/x: gradient a, intercept b", "bm": "Plot y lwn 1/x: kecerunan a, pintasan b" } },
+    { "id": "addmath-06-f08", "subtopicId": "addmath-06-03", "front": { "en": "Reading constants from the graph", "bm": "Membaca pemalar daripada graf" }, "back": { "en": "Gradient from two far-apart points on the line; intercept where X = 0", "bm": "Kecerunan daripada dua titik berjauhan pada garis; pintasan di mana X = 0" } },
+    { "id": "addmath-06-f09", "subtopicId": "addmath-06-03", "front": { "en": "From log c to a", "bm": "Daripada log c kepada a" }, "back": { "en": "If log a = c then a = 10ᶜ", "bm": "Jika log a = c maka a = 10ᶜ" } },
+    { "id": "addmath-06-f10", "subtopicId": "addmath-06-03", "front": { "en": "Missing data from the graph", "bm": "Data hilang daripada graf" }, "back": { "en": "Read Y from the line at the given X, then convert back to y", "bm": "Baca Y daripada garis pada X yang diberi, kemudian tukar semula kepada y" } }
+  ]
+}

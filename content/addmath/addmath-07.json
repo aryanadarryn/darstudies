@@ -1,0 +1,93 @@
+{
+  "chapterId": "addmath-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Grab finds the shortest route on a map grid. Architects calculate land area from corner coordinates. A goat tied to a pole eats grass in a perfect circle. Coordinate geometry turns shapes and paths into algebra.",
+      "bm": "Grab mencari laluan terpendek pada grid peta. Arkitek mengira luas tanah daripada koordinat bucunya. Kambing yang ditambat pada tiang meragut rumput dalam bulatan sempurna. Geometri koordinat menukar bentuk dan laluan kepada algebra."
+    },
+    "bigIdeas": [
+      { "en": "A point dividing a line segment in ratio m : n can be found with the divisor formula.", "bm": "Titik yang membahagi tembereng garis dalam nisbah m : n boleh dicari dengan rumus pembahagi." },
+      { "en": "Parallel lines have equal gradients; perpendicular lines have m₁m₂ = −1.", "bm": "Garis selari mempunyai kecerunan sama; garis serenjang mempunyai m₁m₂ = −1." },
+      { "en": "Area of a polygon from its vertices uses the shoelace formula.", "bm": "Luas poligon daripada bucunya menggunakan rumus 'tali kasut'." },
+      { "en": "A locus is the path traced by a point that obeys a condition.", "bm": "Lokus ialah laluan yang dilalui oleh titik yang mematuhi suatu syarat." }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Coordinate geometry", "bm": "Geometri koordinat" },
+        "nodes": [
+          { "label": { "en": "Distance", "bm": "Jarak" }, "detail": { "en": "√[(x₂−x₁)² + (y₂−y₁)²]", "bm": "√[(x₂−x₁)² + (y₂−y₁)²]" } },
+          { "label": { "en": "Midpoint", "bm": "Titik tengah" }, "detail": { "en": "average the coordinates", "bm": "purata koordinat" } },
+          { "label": { "en": "Divisor m : n", "bm": "Pembahagi m : n" }, "detail": { "en": "(nx₁ + mx₂)/(m + n)", "bm": "(nx₁ + mx₂)/(m + n)" } },
+          { "label": { "en": "Parallel", "bm": "Selari" }, "detail": { "en": "m₁ = m₂", "bm": "m₁ = m₂" } },
+          { "label": { "en": "Perpendicular", "bm": "Serenjang" }, "detail": { "en": "m₁m₂ = −1", "bm": "m₁m₂ = −1" } },
+          { "label": { "en": "Area", "bm": "Luas" }, "detail": { "en": "shoelace formula", "bm": "rumus tali kasut" } },
+          { "label": { "en": "Locus", "bm": "Lokus" }, "detail": { "en": "path of a moving point", "bm": "laluan titik bergerak" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Midpoint", "bm": "Titik tengah" }, "definition": { "en": "The point halfway between two points.", "bm": "Titik di pertengahan antara dua titik." } },
+      { "term": { "en": "Gradient", "bm": "Kecerunan" }, "definition": { "en": "m = (y₂ − y₁)/(x₂ − x₁).", "bm": "m = (y₂ − y₁)/(x₂ − x₁)." } },
+      { "term": { "en": "Perpendicular bisector", "bm": "Pembahagi dua sama serenjang" }, "definition": { "en": "Line through the midpoint at right angles to a segment.", "bm": "Garis yang melalui titik tengah dan bersudut tegak dengan tembereng." } },
+      { "term": { "en": "Collinear", "bm": "Segaris" }, "definition": { "en": "Points lying on the same straight line (area = 0).", "bm": "Titik-titik yang terletak pada garis lurus yang sama (luas = 0)." } },
+      { "term": { "en": "Locus", "bm": "Lokus" }, "definition": { "en": "Set of all points satisfying a given condition.", "bm": "Set semua titik yang memenuhi syarat tertentu." } }
+    ],
+    "formulaIds": ["am-distance", "am-midpoint", "am-divisor", "am-perpendicular", "am-polygon-area"],
+    "workedExample": {
+      "question": { "en": "Find the equation of the perpendicular bisector of A(2, 1) and B(6, 5).", "bm": "Cari persamaan pembahagi dua sama serenjang bagi A(2, 1) dan B(6, 5)." },
+      "steps": [
+        { "en": "Midpoint of AB = ((2 + 6)/2, (1 + 5)/2) = (4, 3).", "bm": "Titik tengah AB = ((2 + 6)/2, (1 + 5)/2) = (4, 3)." },
+        { "en": "Gradient AB = (5 − 1)/(6 − 2) = 1, so the perpendicular gradient = −1.", "bm": "Kecerunan AB = (5 − 1)/(6 − 2) = 1, jadi kecerunan serenjang = −1." },
+        { "en": "y − 3 = −1(x − 4) → y = −x + 7.", "bm": "y − 3 = −1(x − 4) → y = −x + 7." }
+      ],
+      "answer": { "en": "y = −x + 7 (this is also the locus of points equidistant from A and B).", "bm": "y = −x + 7 (ini juga lokus titik yang sama jarak dari A dan B)." }
+    }
+  },
+  "questions": [
+    { "id": "addmath-07-q01", "subtopicId": "addmath-07-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the x-coordinate of the midpoint of (2, 4) and (6, 8).", "bm": "Cari koordinat-x titik tengah bagi (2, 4) dan (6, 8)." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "(2 + 6)/2 = 4 (and y = 6).", "bm": "(2 + 6)/2 = 4 (dan y = 6)." } },
+    { "id": "addmath-07-q02", "subtopicId": "addmath-07-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "P divides A(1, 2) and B(7, 8) so that AP : PB = 1 : 2. Find the x-coordinate of P.", "bm": "P membahagi A(1, 2) dan B(7, 8) supaya AP : PB = 1 : 2. Cari koordinat-x P." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "x = (2 × 1 + 1 × 7)/(1 + 2) = 9/3 = 3 (y = 4).", "bm": "x = (2 × 1 + 1 × 7)/(1 + 2) = 9/3 = 3 (y = 4)." } },
+    { "id": "addmath-07-q03", "subtopicId": "addmath-07-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the distance between (1, 1) and (4, 5).", "bm": "Cari jarak antara (1, 1) dan (4, 5)." },
+      "answer": 5, "tolerance": 0, "unit": "units",
+      "explanation": { "en": "√(3² + 4²) = √25 = 5.", "bm": "√(3² + 4²) = √25 = 5." } },
+    { "id": "addmath-07-q04", "subtopicId": "addmath-07-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the gradient of a line perpendicular to y = 2x + 1.", "bm": "Cari kecerunan garis yang serenjang dengan y = 2x + 1." },
+      "answer": -0.5, "tolerance": 0,
+      "explanation": { "en": "m₁m₂ = −1 → m₂ = −1/2.", "bm": "m₁m₂ = −1 → m₂ = −1/2." } },
+    { "id": "addmath-07-q05", "subtopicId": "addmath-07-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Are y = 3x + 1 and 6x − 2y = 5 parallel?", "bm": "Adakah y = 3x + 1 dan 6x − 2y = 5 selari?" },
+      "options": [ { "en": "Yes — both have gradient 3", "bm": "Ya — kedua-duanya berkecerunan 3" }, { "en": "No — they are perpendicular", "bm": "Tidak — kedua-duanya serenjang" }, { "en": "No — gradients 3 and 6", "bm": "Tidak — kecerunan 3 dan 6" }, { "en": "They are the same line", "bm": "Kedua-duanya garis yang sama" } ],
+      "answer": 0,
+      "explanation": { "en": "6x − 2y = 5 → y = 3x − 2.5. Same gradient, different intercepts → parallel.", "bm": "6x − 2y = 5 → y = 3x − 2.5. Kecerunan sama, pintasan berbeza → selari." } },
+    { "id": "addmath-07-q06", "subtopicId": "addmath-07-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A line passes through (2, 3) with gradient 2. Find its y-intercept.", "bm": "Satu garis melalui (2, 3) dengan kecerunan 2. Cari pintasan-y." },
+      "answer": -1, "tolerance": 0,
+      "explanation": { "en": "y − 3 = 2(x − 2) → y = 2x − 1, so c = −1.", "bm": "y − 3 = 2(x − 2) → y = 2x − 1, jadi c = −1." } },
+    { "id": "addmath-07-q07", "subtopicId": "addmath-07-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the area of the triangle with vertices (0, 0), (4, 0) and (0, 3).", "bm": "Cari luas segi tiga dengan bucu (0, 0), (4, 0) dan (0, 3)." },
+      "answer": 6, "tolerance": 0, "unit": "units²",
+      "explanation": { "en": "½|0·0 + 4·3 + 0·0 − (0·4 + 0·0 + 3·0)| = ½ × 12 = 6.", "bm": "½|0·0 + 4·3 + 0·0 − (0·4 + 0·0 + 3·0)| = ½ × 12 = 6." } },
+    { "id": "addmath-07-q08", "subtopicId": "addmath-07-03", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Find the area of the quadrilateral with vertices (1, 1), (5, 1), (5, 4) and (1, 4).", "bm": "Cari luas sisi empat dengan bucu (1, 1), (5, 1), (5, 4) dan (1, 4)." },
+      "answer": 12, "tolerance": 0, "unit": "units²",
+      "explanation": { "en": "It's a 4 × 3 rectangle = 12. The shoelace formula gives the same — list vertices in order (anticlockwise).", "bm": "Ia segi empat tepat 4 × 3 = 12. Rumus tali kasut memberi nilai sama — senaraikan bucu mengikut susunan (lawan arah jam)." } },
+    { "id": "addmath-07-q09", "subtopicId": "addmath-07-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the equation of the locus of a point P that is always 3 units from the origin.", "bm": "Cari persamaan lokus titik P yang sentiasa 3 unit dari asalan." },
+      "options": [ { "en": "x² + y² = 9", "bm": "x² + y² = 9" }, { "en": "x + y = 3", "bm": "x + y = 3" }, { "en": "x² + y² = 3", "bm": "x² + y² = 3" }, { "en": "y = 3x", "bm": "y = 3x" } ],
+      "answer": 0,
+      "explanation": { "en": "√(x² + y²) = 3 → x² + y² = 9, a circle of radius 3.", "bm": "√(x² + y²) = 3 → x² + y² = 9, bulatan berjejari 3." } },
+    { "id": "addmath-07-q10", "subtopicId": "addmath-07-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "P moves so that it is always the same distance from A(0, 0) and B(4, 0). Its locus is…", "bm": "P bergerak supaya sentiasa sama jarak dari A(0, 0) dan B(4, 0). Lokusnya ialah…" },
+      "options": [ { "en": "x = 2", "bm": "x = 2" }, { "en": "y = 2", "bm": "y = 2" }, { "en": "x² + y² = 4", "bm": "x² + y² = 4" }, { "en": "y = x", "bm": "y = x" } ],
+      "answer": 0,
+      "explanation": { "en": "The locus is the perpendicular bisector of AB — the vertical line through the midpoint (2, 0).", "bm": "Lokus ialah pembahagi dua sama serenjang AB — garis menegak melalui titik tengah (2, 0)." } }
+  ]
+}

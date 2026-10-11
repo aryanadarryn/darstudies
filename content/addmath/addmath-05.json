@@ -1,0 +1,89 @@
+{
+  "chapterId": "addmath-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Save RM5 this week, RM7 next week, RM9 the week after… how much after a year? A rumour spreads to 3 people, who each tell 3 more… how many know after 6 rounds? Progressions predict patterns that grow step by step.",
+      "bm": "Simpan RM5 minggu ini, RM7 minggu depan, RM9 minggu seterusnya… berapa selepas setahun? Khabar angin tersebar kepada 3 orang, yang masing-masing memberitahu 3 orang lagi… berapa orang tahu selepas 6 pusingan? Janjang meramal corak yang berkembang langkah demi langkah."
+    },
+    "bigIdeas": [
+      { "en": "Arithmetic progression (AP): add the same common difference d each time.", "bm": "Janjang aritmetik (JA): tambah beza sepunya d yang sama setiap kali." },
+      { "en": "Geometric progression (GP): multiply by the same common ratio r each time.", "bm": "Janjang geometri (JG): darab dengan nisbah sepunya r yang sama setiap kali." },
+      { "en": "Formulas give any term Tₙ and the sum of the first n terms Sₙ.", "bm": "Rumus memberi sebarang sebutan Tₙ dan hasil tambah n sebutan pertama Sₙ." },
+      { "en": "A GP with |r| < 1 has a sum to infinity S∞ = a/(1 − r).", "bm": "JG dengan |r| < 1 mempunyai hasil tambah hingga ketakterhinggaan S∞ = a/(1 − r)." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Arithmetic (AP)", "bm": "Aritmetik (JA)" }, { "en": "Geometric (GP)", "bm": "Geometri (JG)" } ],
+        "rows": [
+          { "label": { "en": "Pattern", "bm": "Corak" }, "cells": [ { "en": "+ d each time", "bm": "+ d setiap kali" }, { "en": "× r each time", "bm": "× r setiap kali" } ] },
+          { "label": { "en": "Example", "bm": "Contoh" }, "cells": [ { "en": "3, 7, 11, 15, …", "bm": "3, 7, 11, 15, …" }, { "en": "2, 6, 18, 54, …", "bm": "2, 6, 18, 54, …" } ] },
+          { "label": { "en": "nth term", "bm": "Sebutan ke-n" }, "cells": [ { "en": "a + (n − 1)d", "bm": "a + (n − 1)d" }, { "en": "arⁿ⁻¹", "bm": "arⁿ⁻¹" } ] },
+          { "label": { "en": "Sum of n terms", "bm": "Hasil tambah n sebutan" }, "cells": [ { "en": "n/2 [2a + (n − 1)d]", "bm": "n/2 [2a + (n − 1)d]" }, { "en": "a(rⁿ − 1)/(r − 1)", "bm": "a(rⁿ − 1)/(r − 1)" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Sequence", "bm": "Jujukan" }, "definition": { "en": "An ordered list of numbers following a pattern.", "bm": "Senarai nombor tersusun yang mengikut corak." } },
+      { "term": { "en": "Common difference (d)", "bm": "Beza sepunya (d)" }, "definition": { "en": "d = Tₙ₊₁ − Tₙ in an AP.", "bm": "d = Tₙ₊₁ − Tₙ dalam JA." } },
+      { "term": { "en": "Common ratio (r)", "bm": "Nisbah sepunya (r)" }, "definition": { "en": "r = Tₙ₊₁ ÷ Tₙ in a GP.", "bm": "r = Tₙ₊₁ ÷ Tₙ dalam JG." } },
+      { "term": { "en": "Series", "bm": "Siri" }, "definition": { "en": "The sum of the terms of a sequence.", "bm": "Hasil tambah sebutan suatu jujukan." } },
+      { "term": { "en": "Sum to infinity", "bm": "Hasil tambah hingga ketakterhinggaan" }, "definition": { "en": "The limit of Sₙ for a GP with −1 < r < 1.", "bm": "Had Sₙ bagi JG dengan −1 < r < 1." } }
+    ],
+    "formulaIds": ["am-ap-term", "am-ap-sum", "am-gp-term", "am-gp-sum", "am-gp-inf"],
+    "workedExample": {
+      "question": { "en": "Aryana saves RM100 in January and increases her saving by RM20 every month. How much has she saved in total after 12 months?", "bm": "Aryana menyimpan RM100 pada Januari dan menambah simpanannya RM20 setiap bulan. Berapakah jumlah simpanan selepas 12 bulan?" },
+      "steps": [
+        { "en": "This is an AP: a = 100, d = 20, n = 12.", "bm": "Ini JA: a = 100, d = 20, n = 12." },
+        { "en": "S₁₂ = 12/2 [2(100) + 11(20)]", "bm": "S₁₂ = 12/2 [2(100) + 11(20)]" },
+        { "en": "= 6 × (200 + 220) = 6 × 420 = 2520", "bm": "= 6 × (200 + 220) = 6 × 420 = 2520" }
+      ],
+      "answer": { "en": "RM2520", "bm": "RM2520" }
+    }
+  },
+  "questions": [
+    { "id": "addmath-05-q01", "subtopicId": "addmath-05-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the 10th term of the AP 3, 7, 11, …", "bm": "Cari sebutan ke-10 bagi JA 3, 7, 11, …" },
+      "answer": 39, "tolerance": 0,
+      "explanation": { "en": "T₁₀ = 3 + 9(4) = 39.", "bm": "T₁₀ = 3 + 9(4) = 39." } },
+    { "id": "addmath-05-q02", "subtopicId": "addmath-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the sum of the first 10 terms of 3, 7, 11, …", "bm": "Cari hasil tambah 10 sebutan pertama bagi 3, 7, 11, …" },
+      "answer": 210, "tolerance": 0,
+      "explanation": { "en": "S₁₀ = 10/2 [6 + 9(4)] = 5 × 42 = 210.", "bm": "S₁₀ = 10/2 [6 + 9(4)] = 5 × 42 = 210." } },
+    { "id": "addmath-05-q03", "subtopicId": "addmath-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In an AP, T₃ = 10 and T₇ = 22. Find the common difference.", "bm": "Dalam suatu JA, T₃ = 10 dan T₇ = 22. Cari beza sepunya." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "T₇ − T₃ = 4d = 12 → d = 3.", "bm": "T₇ − T₃ = 4d = 12 → d = 3." } },
+    { "id": "addmath-05-q04", "subtopicId": "addmath-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How many terms are in the AP 5, 8, 11, …, 62?", "bm": "Berapakah bilangan sebutan dalam JA 5, 8, 11, …, 62?" },
+      "answer": 20, "tolerance": 0,
+      "explanation": { "en": "5 + (n − 1)3 = 62 → n − 1 = 19 → n = 20.", "bm": "5 + (n − 1)3 = 62 → n − 1 = 19 → n = 20." } },
+    { "id": "addmath-05-q05", "subtopicId": "addmath-05-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the 5th term of the GP 2, 6, 18, …", "bm": "Cari sebutan ke-5 bagi JG 2, 6, 18, …" },
+      "answer": 162, "tolerance": 0,
+      "explanation": { "en": "r = 3, T₅ = 2 × 3⁴ = 162.", "bm": "r = 3, T₅ = 2 × 3⁴ = 162." } },
+    { "id": "addmath-05-q06", "subtopicId": "addmath-05-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the sum of the first 5 terms of the GP 1, 2, 4, …", "bm": "Cari hasil tambah 5 sebutan pertama bagi JG 1, 2, 4, …" },
+      "answer": 31, "tolerance": 0,
+      "explanation": { "en": "S₅ = 1(2⁵ − 1)/(2 − 1) = 31.", "bm": "S₅ = 1(2⁵ − 1)/(2 − 1) = 31." } },
+    { "id": "addmath-05-q07", "subtopicId": "addmath-05-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the sum to infinity of 16, 8, 4, …", "bm": "Cari hasil tambah hingga ketakterhinggaan bagi 16, 8, 4, …" },
+      "answer": 32, "tolerance": 0,
+      "explanation": { "en": "r = 1/2, S∞ = 16/(1 − 1/2) = 32.", "bm": "r = 1/2, S∞ = 16/(1 − 1/2) = 32." } },
+    { "id": "addmath-05-q08", "subtopicId": "addmath-05-02", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Express the recurring decimal 0.444… as a fraction using a GP.", "bm": "Ungkapkan perpuluhan berulang 0.444… sebagai pecahan menggunakan JG." },
+      "options": [ { "en": "4/9", "bm": "4/9" }, { "en": "4/10", "bm": "4/10" }, { "en": "2/5", "bm": "2/5" }, { "en": "44/100", "bm": "44/100" } ],
+      "answer": 0,
+      "explanation": { "en": "0.4 + 0.04 + … : a = 0.4, r = 0.1, S∞ = 0.4/0.9 = 4/9.", "bm": "0.4 + 0.04 + … : a = 0.4, r = 0.1, S∞ = 0.4/0.9 = 4/9." } },
+    { "id": "addmath-05-q09", "subtopicId": "addmath-05-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Which sequence is a geometric progression?", "bm": "Jujukan manakah janjang geometri?" },
+      "options": [ { "en": "5, 10, 20, 40, …", "bm": "5, 10, 20, 40, …" }, { "en": "5, 10, 15, 20, …", "bm": "5, 10, 15, 20, …" }, { "en": "1, 4, 9, 16, …", "bm": "1, 4, 9, 16, …" }, { "en": "2, 3, 5, 8, …", "bm": "2, 3, 5, 8, …" } ],
+      "answer": 0,
+      "explanation": { "en": "Each term is ×2. The second is an AP; the others are neither.", "bm": "Setiap sebutan ×2. Yang kedua ialah JA; yang lain bukan kedua-duanya." } },
+    { "id": "addmath-05-q10", "subtopicId": "addmath-05-01", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Aryana saves RM100 in month 1 and RM20 more each following month. Total saved after 12 months (RM)?", "bm": "Aryana menyimpan RM100 pada bulan 1 dan RM20 lebih setiap bulan berikutnya. Jumlah simpanan selepas 12 bulan (RM)?" },
+      "answer": 2520, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "S₁₂ = 6[200 + 11(20)] = 2520.", "bm": "S₁₂ = 6[200 + 11(20)] = 2520." } }
+  ]
+}

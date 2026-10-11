@@ -1,0 +1,47 @@
+{
+  "chapterId": "bio-11",
+  "reviewed": false,
+  "subtopics": {
+    "bio-11-01": {
+      "keyPoints": [
+        { "en": "First line: physical and chemical barriers — skin, mucous membranes, cilia, stomach acid, lysozyme in tears and saliva.", "bm": "Barisan pertama: penghalang fizikal dan kimia — kulit, membran mukus, silia, asid perut, lisozim dalam air mata dan air liur." },
+        { "en": "Second line (non-specific): phagocytes (neutrophils, monocytes/macrophages) engulf pathogens; inflammation and fever.", "bm": "Barisan kedua (tidak spesifik): fagosit (neutrofil, monosit/makrofaj) menelan patogen; keradangan dan demam." },
+        { "en": "Third line (specific): lymphocytes recognise specific antigens and produce antibodies and memory cells.", "bm": "Barisan ketiga (spesifik): limfosit mengecam antigen tertentu dan menghasilkan antibodi serta sel ingatan." },
+        { "en": "Inflammation: injured area becomes red, warm and swollen as more blood and phagocytes arrive.", "bm": "Keradangan: kawasan cedera menjadi merah, panas dan bengkak apabila lebih banyak darah dan fagosit tiba." }
+      ],
+      "example": { "question": { "en": "Why does a cut increase the risk of infection?", "bm": "Mengapa luka meningkatkan risiko jangkitan?" }, "answer": { "en": "It breaks the skin, the first line of defence, letting pathogens enter.", "bm": "Ia memecahkan kulit, barisan pertahanan pertama, membolehkan patogen masuk." } },
+      "tip": { "en": "Non-specific = attacks any invader. Specific = targets one particular antigen.", "bm": "Tidak spesifik = menyerang mana-mana penceroboh. Spesifik = menyasar satu antigen tertentu." }
+    },
+    "bio-11-02": {
+      "keyPoints": [
+        { "en": "Antigens are foreign molecules (often proteins) on pathogens or toxins.", "bm": "Antigen ialah molekul asing (selalunya protein) pada patogen atau toksin." },
+        { "en": "B-lymphocytes produce Y-shaped antibodies with binding sites that match one antigen.", "bm": "Limfosit B menghasilkan antibodi berbentuk Y dengan tapak pengikatan yang sepadan dengan satu antigen." },
+        { "en": "Actions: neutralisation (block toxins), agglutination (clump), lysis (burst cells), opsonisation (mark for phagocytes).", "bm": "Tindakan: peneutralan (sekat toksin), aglutinasi (gumpal), lisis (pecahkan sel), opsonisasi (tanda untuk fagosit)." },
+        { "en": "Memory cells remain after infection, giving a faster response next time.", "bm": "Sel ingatan kekal selepas jangkitan, memberi gerak balas lebih cepat pada masa akan datang." }
+      ],
+      "example": { "question": { "en": "Why does an antibody for measles not protect against chickenpox?", "bm": "Mengapa antibodi campak tidak melindungi daripada cacar air?" }, "answer": { "en": "Antibodies are specific; the chickenpox antigen has a different shape.", "bm": "Antibodi adalah spesifik; antigen cacar air mempunyai bentuk berbeza." } },
+      "tip": { "en": "Draw an antibody: two heavy + two light chains, with binding sites at the tips of the Y.", "bm": "Lukis antibodi: dua rantai berat + dua rantai ringan, dengan tapak pengikatan di hujung Y." }
+    },
+    "bio-11-03": {
+      "keyPoints": [
+        { "en": "Active immunity: your body makes its own antibodies and memory cells — slower to develop but long-lasting.", "bm": "Keimunan aktif: badan menghasilkan antibodi dan sel ingatan sendiri — lambat terbentuk tetapi tahan lama." },
+        { "en": "Natural active: after an infection. Artificial active: vaccination.", "bm": "Aktif semula jadi: selepas jangkitan. Aktif buatan: pemvaksinan." },
+        { "en": "Passive immunity: ready-made antibodies received — immediate but short-term (no memory cells).", "bm": "Keimunan pasif: antibodi sedia ada diterima — serta-merta tetapi jangka pendek (tiada sel ingatan)." },
+        { "en": "Natural passive: through the placenta and breast milk. Artificial passive: antiserum (anti-venom, anti-tetanus).", "bm": "Pasif semula jadi: melalui plasenta dan susu ibu. Pasif buatan: antiserum (antibisa, anti-tetanus)." },
+        { "en": "Booster doses raise antibody levels above the immunity level for longer.", "bm": "Dos penggalak menaikkan aras antibodi melebihi aras keimunan untuk tempoh lebih lama." }
+      ],
+      "example": { "question": { "en": "Why should mothers breastfeed newborns?", "bm": "Mengapa ibu perlu menyusukan bayi yang baru lahir?" }, "answer": { "en": "Colostrum contains antibodies that give the baby natural passive immunity.", "bm": "Kolostrum mengandungi antibodi yang memberi bayi keimunan pasif semula jadi." } },
+      "tip": { "en": "Two questions: who makes the antibodies (active/passive)? How did they get them (natural/artificial)?", "bm": "Dua soalan: siapa menghasilkan antibodi (aktif/pasif)? Bagaimana diperoleh (semula jadi/buatan)?" }
+    },
+    "bio-11-04": {
+      "keyPoints": [
+        { "en": "AIDS: HIV destroys T-helper lymphocytes, weakening immunity; spread through blood, unprotected sex, sharing needles and from mother to baby.", "bm": "AIDS: HIV memusnahkan limfosit T-pembantu, melemahkan keimunan; tersebar melalui darah, seks tanpa perlindungan, berkongsi jarum dan dari ibu kepada bayi." },
+        { "en": "Allergy: immune system overreacts to harmless substances (dust mites, pollen, seafood) — sneezing, rash, asthma.", "bm": "Alahan: sistem imun bertindak berlebihan terhadap bahan tidak berbahaya (hama habuk, debunga, makanan laut) — bersin, ruam, asma." },
+        { "en": "Autoimmune diseases: immune system attacks the body's own cells (lupus/SLE, type 1 diabetes, rheumatoid arthritis).", "bm": "Penyakit autoimun: sistem imun menyerang sel badan sendiri (lupus/SLE, diabetes jenis 1, artritis reumatoid)." },
+        { "en": "Organ transplants can be rejected; patients take immunosuppressant drugs.", "bm": "Pemindahan organ boleh ditolak; pesakit mengambil ubat imunosupresan." }
+      ],
+      "example": { "question": { "en": "Why do AIDS patients often die from simple infections like pneumonia?", "bm": "Mengapa pesakit AIDS sering mati akibat jangkitan biasa seperti pneumonia?" }, "answer": { "en": "With few T-helper cells, the body can't mount an immune response, so pathogens multiply freely.", "bm": "Dengan sedikit sel T-pembantu, badan tidak dapat menghasilkan gerak balas imun, jadi patogen membiak dengan bebas." } },
+      "tip": { "en": "Immunodeficiency = too WEAK. Allergy/autoimmunity = too STRONG or misdirected.", "bm": "Imunodefisiensi = terlalu LEMAH. Alahan/autoimun = terlalu KUAT atau tersasar." }
+    }
+  }
+}

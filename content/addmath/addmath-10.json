@@ -1,0 +1,87 @@
+{
+  "chapterId": "addmath-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A plate of nasi lemak cost RM2.50 a few years ago — now it's RM4. How do economists measure that price rise for thousands of items at once? They use index numbers, like the Consumer Price Index the news reports every month.",
+      "bm": "Sepinggan nasi lemak berharga RM2.50 beberapa tahun lalu — kini RM4. Bagaimana ahli ekonomi mengukur kenaikan harga bagi beribu-ribu barang sekali gus? Mereka menggunakan nombor indeks, seperti Indeks Harga Pengguna yang dilaporkan dalam berita setiap bulan."
+    },
+    "bigIdeas": [
+      { "en": "Index number I = Q₁/Q₀ × 100 compares a quantity with its value in a base year.", "bm": "Nombor indeks I = Q₁/Q₀ × 100 membandingkan kuantiti dengan nilainya pada tahun asas." },
+      { "en": "I > 100 means an increase; I < 100 means a decrease.", "bm": "I > 100 bermakna kenaikan; I < 100 bermakna penurunan." },
+      { "en": "Composite index Ī = ΣIw / Σw combines several items using weightages.", "bm": "Indeks gubahan Ī = ΣIw / Σw menggabungkan beberapa item menggunakan pemberat." },
+      { "en": "Indices can be chained across years by multiplying.", "bm": "Indeks boleh dirantaikan merentasi tahun dengan mendarab." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Choose a base year", "bm": "Pilih tahun asas" }, "detail": { "en": "Q₀, index = 100", "bm": "Q₀, indeks = 100" } },
+          { "title": { "en": "Find each item's index", "bm": "Cari indeks setiap item" }, "detail": { "en": "I = Q₁/Q₀ × 100", "bm": "I = Q₁/Q₀ × 100" } },
+          { "title": { "en": "Multiply by weightage", "bm": "Darab dengan pemberat" }, "detail": { "en": "Iw for each item", "bm": "Iw bagi setiap item" } },
+          { "title": { "en": "Composite index", "bm": "Indeks gubahan" }, "detail": { "en": "Ī = ΣIw / Σw", "bm": "Ī = ΣIw / Σw" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Index number", "bm": "Nombor indeks" }, "definition": { "en": "A measure of change in a quantity compared with a base year (= 100).", "bm": "Ukuran perubahan kuantiti berbanding tahun asas (= 100)." } },
+      { "term": { "en": "Base year", "bm": "Tahun asas" }, "definition": { "en": "The reference year whose index is 100.", "bm": "Tahun rujukan yang indeksnya 100." } },
+      { "term": { "en": "Weightage", "bm": "Pemberat" }, "definition": { "en": "A number showing the relative importance of an item.", "bm": "Nombor yang menunjukkan kepentingan relatif suatu item." } },
+      { "term": { "en": "Composite index", "bm": "Indeks gubahan" }, "definition": { "en": "Weighted mean of several index numbers.", "bm": "Min berpemberat bagi beberapa nombor indeks." } },
+      { "term": { "en": "Consumer Price Index (CPI)", "bm": "Indeks Harga Pengguna (IHP)" }, "definition": { "en": "Composite index measuring the cost of living in Malaysia.", "bm": "Indeks gubahan yang mengukur kos sara hidup di Malaysia." } }
+    ],
+    "formulaIds": ["am-index-number", "am-composite-index"],
+    "workedExample": {
+      "question": { "en": "Price indices in 2026 (base 2024): rice 120 (weight 3), oil 150 (weight 2). Find the composite index and the 2026 cost of a basket that cost RM200 in 2024.", "bm": "Indeks harga 2026 (asas 2024): beras 120 (pemberat 3), minyak 150 (pemberat 2). Cari indeks gubahan dan kos 2026 bagi bakul yang berharga RM200 pada 2024." },
+      "steps": [
+        { "en": "Ī = (120 × 3 + 150 × 2)/(3 + 2) = (360 + 300)/5 = 132.", "bm": "Ī = (120 × 3 + 150 × 2)/(3 + 2) = (360 + 300)/5 = 132." },
+        { "en": "Cost in 2026 = 132/100 × RM200 = RM264.", "bm": "Kos 2026 = 132/100 × RM200 = RM264." }
+      ],
+      "answer": { "en": "Ī = 132; the basket costs RM264 in 2026 (a 32% increase).", "bm": "Ī = 132; bakul berharga RM264 pada 2026 (kenaikan 32%)." }
+    }
+  },
+  "questions": [
+    { "id": "addmath-10-q01", "subtopicId": "addmath-10-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A book cost RM5 in 2024 and RM6 in 2026. Find the price index for 2026 based on 2024.", "bm": "Sebuah buku berharga RM5 pada 2024 dan RM6 pada 2026. Cari indeks harga 2026 berasaskan 2024." },
+      "answer": 120, "tolerance": 0,
+      "explanation": { "en": "I = 6/5 × 100 = 120.", "bm": "I = 6/5 × 100 = 120." } },
+    { "id": "addmath-10-q02", "subtopicId": "addmath-10-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The price index of an item is 150 and its base-year price is RM40. Find its current price (RM).", "bm": "Indeks harga suatu barang ialah 150 dan harga tahun asas RM40. Cari harga semasa (RM)." },
+      "answer": 60, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "Q₁ = I/100 × Q₀ = 1.5 × 40 = RM60.", "bm": "Q₁ = I/100 × Q₀ = 1.5 × 40 = RM60." } },
+    { "id": "addmath-10-q03", "subtopicId": "addmath-10-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A price index of 95 means the price has…", "bm": "Indeks harga 95 bermakna harga telah…" },
+      "options": [ { "en": "decreased by 5%", "bm": "menurun 5%" }, { "en": "increased by 95%", "bm": "meningkat 95%" }, { "en": "increased by 5%", "bm": "meningkat 5%" }, { "en": "stayed the same", "bm": "tidak berubah" } ],
+      "answer": 0,
+      "explanation": { "en": "100 − 95 = 5% decrease from the base year.", "bm": "100 − 95 = penurunan 5% dari tahun asas." } },
+    { "id": "addmath-10-q04", "subtopicId": "addmath-10-01", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "I₂₀₂₅,₂₀₂₄ = 110 and I₂₀₂₆,₂₀₂₅ = 120. Find I₂₀₂₆,₂₀₂₄.", "bm": "I₂₀₂₅,₂₀₂₄ = 110 dan I₂₀₂₆,₂₀₂₅ = 120. Cari I₂₀₂₆,₂₀₂₄." },
+      "answer": 132, "tolerance": 0,
+      "explanation": { "en": "Chain: 110 × 120 / 100 = 132.", "bm": "Rantai: 110 × 120 / 100 = 132." } },
+    { "id": "addmath-10-q05", "subtopicId": "addmath-10-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Item P: index 120, weight 3. Item Q: index 150, weight 2. Find the composite index.", "bm": "Item P: indeks 120, pemberat 3. Item Q: indeks 150, pemberat 2. Cari indeks gubahan." },
+      "answer": 132, "tolerance": 0,
+      "explanation": { "en": "(360 + 300)/5 = 132.", "bm": "(360 + 300)/5 = 132." } },
+    { "id": "addmath-10-q06", "subtopicId": "addmath-10-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Item A has index 120 (weight 2); item B has index 130 (weight x). The composite index is 125. Find x.", "bm": "Item A berindeks 120 (pemberat 2); item B berindeks 130 (pemberat x). Indeks gubahan ialah 125. Cari x." },
+      "answer": 2, "tolerance": 0,
+      "explanation": { "en": "(240 + 130x)/(2 + x) = 125 → 240 + 130x = 250 + 125x → x = 2.", "bm": "(240 + 130x)/(2 + x) = 125 → 240 + 130x = 250 + 125x → x = 2." } },
+    { "id": "addmath-10-q07", "subtopicId": "addmath-10-02", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "The composite index for 2026 (base 2024) is 132. A family spent RM2000 a month in 2024. Estimate the 2026 spending (RM).", "bm": "Indeks gubahan 2026 (asas 2024) ialah 132. Sebuah keluarga berbelanja RM2000 sebulan pada 2024. Anggarkan perbelanjaan 2026 (RM)." },
+      "answer": 2640, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "132/100 × 2000 = RM2640.", "bm": "132/100 × 2000 = RM2640." } },
+    { "id": "addmath-10-q08", "subtopicId": "addmath-10-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Weightages in a composite index show…", "bm": "Pemberat dalam indeks gubahan menunjukkan…" },
+      "options": [ { "en": "how important each item is", "bm": "kepentingan setiap item" }, { "en": "the base-year price", "bm": "harga tahun asas" }, { "en": "the number of years", "bm": "bilangan tahun" }, { "en": "the current price only", "bm": "harga semasa sahaja" } ],
+      "answer": 0,
+      "explanation": { "en": "E.g. food may have a bigger weight than entertainment in the CPI.", "bm": "Cth. makanan mungkin mempunyai pemberat lebih besar daripada hiburan dalam IHP." } },
+    { "id": "addmath-10-q09", "subtopicId": "addmath-10-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The index of an item in 2026 based on 2024 is 125. Its 2026 price is RM50. Find its 2024 price (RM).", "bm": "Indeks suatu item pada 2026 berasaskan 2024 ialah 125. Harga 2026 ialah RM50. Cari harga 2024 (RM)." },
+      "answer": 40, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "Q₀ = Q₁ × 100/I = 50 × 100/125 = RM40.", "bm": "Q₀ = Q₁ × 100/I = 50 × 100/125 = RM40." } },
+    { "id": "addmath-10-q10", "subtopicId": "addmath-10-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Order the steps to calculate a composite index.", "bm": "Susun langkah mengira indeks gubahan." },
+      "items": [ { "en": "Find the index of each item", "bm": "Cari indeks setiap item" }, { "en": "Multiply each index by its weightage", "bm": "Darab setiap indeks dengan pemberatnya" }, { "en": "Add up all Iw values", "bm": "Tambah semua nilai Iw" }, { "en": "Divide by the total weightage", "bm": "Bahagi dengan jumlah pemberat" } ],
+      "explanation": { "en": "Ī = ΣIw / Σw.", "bm": "Ī = ΣIw / Σw." } }
+  ]
+}

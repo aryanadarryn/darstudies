@@ -1,0 +1,49 @@
+{
+  "chapterId": "chem-02",
+  "reviewed": false,
+  "subtopics": {
+    "chem-02-01": {
+      "keyPoints": [
+        { "en": "Matter has mass and occupies space. It is made of atoms, molecules or ions.", "bm": "Jirim mempunyai jisim dan memenuhi ruang. Ia terdiri daripada atom, molekul atau ion." },
+        { "en": "Kinetic theory: particles are always moving. Evidence: diffusion and Brownian motion.", "bm": "Teori kinetik: zarah sentiasa bergerak. Bukti: resapan dan gerakan Brown." },
+        { "en": "Changes of state: melting, freezing, boiling/evaporation, condensation, sublimation (solid → gas) and deposition (gas → solid).", "bm": "Perubahan keadaan: lebur, beku, didih/penyejatan, kondensasi, pemejalwapan (pepejal → gas) dan pengenapan (gas → pepejal)." },
+        { "en": "Heating curve: flat parts show melting/boiling — heat is absorbed to overcome forces between particles.", "bm": "Lengkung pemanasan: bahagian mendatar menunjukkan lebur/didih — haba diserap untuk mengatasi daya antara zarah." },
+        { "en": "Cooling curve: flat part at the freezing point — heat is released as particles form bonds.", "bm": "Lengkung penyejukan: bahagian mendatar pada takat beku — haba dibebaskan apabila zarah membentuk ikatan." }
+      ],
+      "example": { "question": { "en": "Why is naphthalene heated in a water bath, not directly?", "bm": "Mengapa naftalena dipanaskan dalam kukus air, bukan secara terus?" }, "answer": { "en": "For even heating, and because naphthalene is flammable.", "bm": "Untuk pemanasan sekata, dan kerana naftalena mudah terbakar." } },
+      "tip": { "en": "During a change of state, temperature is constant but energy is still being absorbed or released.", "bm": "Semasa perubahan keadaan, suhu malar tetapi tenaga masih diserap atau dibebaskan." }
+    },
+    "chem-02-02": {
+      "keyPoints": [
+        { "en": "Dalton: atoms are tiny, indivisible spheres; atoms of one element are identical.", "bm": "Dalton: atom ialah sfera kecil yang tidak boleh dibahagi; atom unsur yang sama adalah serupa." },
+        { "en": "Thomson: discovered electrons; atom is a positive sphere with electrons embedded (plum pudding).", "bm": "Thomson: menemui elektron; atom ialah sfera positif dengan elektron terbenam (puding plum)." },
+        { "en": "Rutherford: gold foil experiment → tiny dense positive nucleus; most of the atom is empty space.", "bm": "Rutherford: eksperimen kerajang emas → nukleus positif kecil dan tumpat; kebanyakan atom ruang kosong." },
+        { "en": "Bohr: electrons orbit the nucleus in fixed shells (energy levels).", "bm": "Bohr: elektron mengorbit nukleus dalam petala tetap (aras tenaga)." },
+        { "en": "Chadwick: discovered neutrons in the nucleus — completing the modern model.", "bm": "Chadwick: menemui neutron dalam nukleus — melengkapkan model moden." }
+      ],
+      "example": { "question": { "en": "Which observation in Rutherford's experiment showed the nucleus is positive?", "bm": "Pemerhatian manakah dalam eksperimen Rutherford menunjukkan nukleus positif?" }, "answer": { "en": "Some positive alpha particles were deflected or bounced back (repelled).", "bm": "Sebahagian zarah alfa positif dipesongkan atau melantun balik (ditolak)." } },
+      "tip": { "en": "Remember the order with 'Doktor Tua Rajin Baca Cerita' (Dalton, Thomson, Rutherford, Bohr, Chadwick).", "bm": "Ingat urutan dengan 'Doktor Tua Rajin Baca Cerita' (Dalton, Thomson, Rutherford, Bohr, Chadwick)." }
+    },
+    "chem-02-03": {
+      "keyPoints": [
+        { "en": "Proton: charge +1, mass 1. Neutron: charge 0, mass 1. Electron: charge −1, mass ≈ 1/1840.", "bm": "Proton: cas +1, jisim 1. Neutron: cas 0, jisim 1. Elektron: cas −1, jisim ≈ 1/1840." },
+        { "en": "Proton number Z = number of protons. Nucleon number A = protons + neutrons.", "bm": "Nombor proton Z = bilangan proton. Nombor nukleon A = proton + neutron." },
+        { "en": "In a neutral atom, number of electrons = number of protons.", "bm": "Dalam atom neutral, bilangan elektron = bilangan proton." },
+        { "en": "Electron arrangement fills shells 2, 8, 8 … e.g. Ca (20) = 2.8.8.2.", "bm": "Susunan elektron mengisi petala 2, 8, 8 … cth. Ca (20) = 2.8.8.2." },
+        { "en": "Valence electrons (outer shell) decide how an atom reacts.", "bm": "Elektron valens (petala luar) menentukan cara atom bertindak balas." }
+      ],
+      "example": { "question": { "en": "²⁷₁₃Al: give the number of protons, neutrons and electrons.", "bm": "²⁷₁₃Al: berikan bilangan proton, neutron dan elektron." }, "answer": { "en": "Protons 13, neutrons 27 − 13 = 14, electrons 13 (2.8.3).", "bm": "Proton 13, neutron 27 − 13 = 14, elektron 13 (2.8.3)." } },
+      "tip": { "en": "The bigger number in the symbol is always the nucleon number.", "bm": "Nombor yang lebih besar dalam simbol sentiasa nombor nukleon." }
+    },
+    "chem-02-04": {
+      "keyPoints": [
+        { "en": "Isotopes: atoms of the same element with the same proton number but different nucleon numbers.", "bm": "Isotop: atom unsur yang sama dengan nombor proton sama tetapi nombor nukleon berbeza." },
+        { "en": "Isotopes have the same chemical properties but different physical properties (mass, density).", "bm": "Isotop mempunyai sifat kimia yang sama tetapi sifat fizik berbeza (jisim, ketumpatan)." },
+        { "en": "Examples: hydrogen (¹H, ²H, ³H), carbon (¹²C, ¹³C, ¹⁴C), chlorine (³⁵Cl, ³⁷Cl).", "bm": "Contoh: hidrogen (¹H, ²H, ³H), karbon (¹²C, ¹³C, ¹⁴C), klorin (³⁵Cl, ³⁷Cl)." },
+        { "en": "Uses: C-14 (dating artefacts), Co-60 (cancer treatment, sterilising), I-131 (thyroid), Na-24 (pipe leaks), P-32 (plant studies), U-235 (nuclear power).", "bm": "Kegunaan: C-14 (usia artifak), Co-60 (rawatan kanser, pensterilan), I-131 (tiroid), Na-24 (kebocoran paip), P-32 (kajian tumbuhan), U-235 (tenaga nuklear)." }
+      ],
+      "example": { "question": { "en": "Why do ³⁵Cl and ³⁷Cl react the same way with sodium?", "bm": "Mengapa ³⁵Cl dan ³⁷Cl bertindak balas sama dengan natrium?" }, "answer": { "en": "They have the same electron arrangement (2.8.7), so the same chemical properties.", "bm": "Kedua-duanya mempunyai susunan elektron sama (2.8.7), jadi sifat kimia sama." } },
+      "tip": { "en": "Radioisotopes are useful but must be handled with shielding (lead) and kept far away.", "bm": "Radioisotop berguna tetapi mesti dikendalikan dengan perisai (plumbum) dan dijauhkan." }
+    }
+  }
+}

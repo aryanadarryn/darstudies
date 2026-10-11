@@ -1,0 +1,101 @@
+{
+  "chapterId": "bio-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why does salted ikan masin last for months without a fridge? Why do vegetables go limp in salty water but crisp up again in plain water? Every cell decides what comes in and what goes out — through its plasma membrane.",
+      "bm": "Mengapa ikan masin tahan berbulan-bulan tanpa peti sejuk? Mengapa sayur menjadi layu dalam air garam tetapi segar semula dalam air biasa? Setiap sel menentukan apa yang masuk dan keluar — melalui membran plasmanya."
+    },
+    "bigIdeas": [
+      { "en": "The plasma membrane is a semi-permeable phospholipid bilayer with proteins (fluid mosaic model).", "bm": "Membran plasma ialah dwilapisan fosfolipid separa telap dengan protein (model mozek bendalir)." },
+      { "en": "Passive transport (diffusion, facilitated diffusion, osmosis) needs no energy and goes down a concentration gradient.", "bm": "Pengangkutan pasif (resapan, resapan berbantu, osmosis) tidak memerlukan tenaga dan mengikut kecerunan kepekatan." },
+      { "en": "Active transport uses ATP and carrier proteins to move substances against the gradient.", "bm": "Pengangkutan aktif menggunakan ATP dan protein pembawa untuk menggerakkan bahan melawan kecerunan." },
+      { "en": "Hypotonic, isotonic and hypertonic solutions affect animal and plant cells differently.", "bm": "Larutan hipotonik, isotonik dan hipertonik memberi kesan berbeza kepada sel haiwan dan tumbuhan." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Hypotonic", "bm": "Hipotonik" }, { "en": "Isotonic", "bm": "Isotonik" }, { "en": "Hypertonic", "bm": "Hipertonik" } ],
+        "rows": [
+          { "label": { "en": "Water movement", "bm": "Pergerakan air" }, "cells": [ { "en": "into the cell", "bm": "masuk ke dalam sel" }, { "en": "no net movement", "bm": "tiada pergerakan bersih" }, { "en": "out of the cell", "bm": "keluar dari sel" } ] },
+          { "label": { "en": "Red blood cell", "bm": "Sel darah merah" }, "cells": [ { "en": "swells and bursts (haemolysis)", "bm": "mengembang dan pecah (hemolisis)" }, { "en": "normal shape", "bm": "bentuk normal" }, { "en": "shrinks (crenation)", "bm": "mengecut (krenasi)" } ] },
+          { "label": { "en": "Plant cell", "bm": "Sel tumbuhan" }, "cells": [ { "en": "turgid (firm)", "bm": "segah (tegang)" }, { "en": "flaccid", "bm": "flasid" }, { "en": "plasmolysed", "bm": "plasmolisis" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Semi-permeable membrane", "bm": "Membran separa telap" }, "definition": { "en": "Lets some substances through but not others.", "bm": "Membenarkan sesetengah bahan melaluinya tetapi tidak yang lain." } },
+      { "term": { "en": "Diffusion", "bm": "Resapan" }, "definition": { "en": "Net movement of particles from high to low concentration.", "bm": "Pergerakan bersih zarah dari kepekatan tinggi ke rendah." } },
+      { "term": { "en": "Osmosis", "bm": "Osmosis" }, "definition": { "en": "Diffusion of water molecules across a semi-permeable membrane from a dilute to a concentrated solution.", "bm": "Resapan molekul air merentasi membran separa telap dari larutan cair ke larutan pekat." } },
+      { "term": { "en": "Facilitated diffusion", "bm": "Resapan berbantu" }, "definition": { "en": "Diffusion through channel or carrier proteins, no energy used.", "bm": "Resapan melalui protein liang atau pembawa, tanpa tenaga." } },
+      { "term": { "en": "Active transport", "bm": "Pengangkutan aktif" }, "definition": { "en": "Movement against the concentration gradient using carrier proteins and ATP.", "bm": "Pergerakan melawan kecerunan kepekatan menggunakan protein pembawa dan ATP." } },
+      { "term": { "en": "Plasmolysis", "bm": "Plasmolisis" }, "definition": { "en": "Plasma membrane pulls away from the cell wall as a plant cell loses water.", "bm": "Membran plasma tertarik jauh dari dinding sel apabila sel tumbuhan kehilangan air." } },
+      { "term": { "en": "Haemolysis", "bm": "Hemolisis" }, "definition": { "en": "Red blood cell bursts in a hypotonic solution.", "bm": "Sel darah merah pecah dalam larutan hipotonik." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Potato strips are placed in sucrose solutions of different concentrations for 30 minutes. In which solution does the length not change, and what does it tell you?", "bm": "Jalur kentang diletakkan dalam larutan sukrosa pelbagai kepekatan selama 30 minit. Dalam larutan manakah panjangnya tidak berubah, dan apakah maknanya?" },
+      "steps": [
+        { "en": "In dilute solutions the strips gain water by osmosis and become longer (hypotonic).", "bm": "Dalam larutan cair, jalur menerima air secara osmosis dan menjadi lebih panjang (hipotonik)." },
+        { "en": "In concentrated solutions they lose water and shorten (hypertonic).", "bm": "Dalam larutan pekat, jalur kehilangan air dan memendek (hipertonik)." },
+        { "en": "Plot change in length against concentration; where the line crosses zero, the solution is isotonic.", "bm": "Plot perubahan panjang melawan kepekatan; di mana garis memotong sifar, larutan isotonik." }
+      ],
+      "answer": { "en": "The concentration where length doesn't change is isotonic to the potato cell sap.", "bm": "Kepekatan yang tidak mengubah panjang adalah isotonik dengan sap sel kentang." }
+    }
+  },
+  "questions": [
+    { "id": "bio-03-q01", "subtopicId": "bio-03-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The plasma membrane is mainly made of…", "bm": "Membran plasma terutamanya terdiri daripada…" },
+      "options": [ { "en": "a phospholipid bilayer with proteins", "bm": "dwilapisan fosfolipid dengan protein" }, { "en": "cellulose fibres", "bm": "gentian selulosa" }, { "en": "starch", "bm": "kanji" }, { "en": "a single layer of protein", "bm": "satu lapisan protein" } ],
+      "answer": 0,
+      "explanation": { "en": "Fluid mosaic model: phospholipids, proteins, cholesterol and glycoproteins.", "bm": "Model mozek bendalir: fosfolipid, protein, kolesterol dan glikoprotein." } },
+    { "id": "bio-03-q02", "subtopicId": "bio-03-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Which substance can pass directly through the phospholipid bilayer?", "bm": "Bahan manakah boleh melalui terus dwilapisan fosfolipid?" },
+      "options": [ { "en": "Oxygen", "bm": "Oksigen" }, { "en": "Glucose", "bm": "Glukosa" }, { "en": "Sodium ions", "bm": "Ion natrium" }, { "en": "Proteins", "bm": "Protein" } ],
+      "answer": 0,
+      "explanation": { "en": "Small, non-polar molecules (O₂, CO₂) and lipid-soluble substances diffuse through the bilayer. Glucose and ions need proteins.", "bm": "Molekul kecil tidak berkutub (O₂, CO₂) dan bahan larut lipid meresap melalui dwilapisan. Glukosa dan ion memerlukan protein." } },
+    { "id": "bio-03-q03", "subtopicId": "bio-03-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each process to its description.", "bm": "Padankan setiap proses dengan penerangannya." },
+      "pairs": [
+        { "left": { "en": "Simple diffusion", "bm": "Resapan ringkas" }, "right": { "en": "Down the gradient, directly through the bilayer", "bm": "Mengikut kecerunan, terus melalui dwilapisan" } },
+        { "left": { "en": "Facilitated diffusion", "bm": "Resapan berbantu" }, "right": { "en": "Down the gradient, through carrier/channel proteins", "bm": "Mengikut kecerunan, melalui protein pembawa/liang" } },
+        { "left": { "en": "Osmosis", "bm": "Osmosis" }, "right": { "en": "Water molecules from dilute to concentrated solution", "bm": "Molekul air dari larutan cair ke pekat" } },
+        { "left": { "en": "Active transport", "bm": "Pengangkutan aktif" }, "right": { "en": "Against the gradient, uses ATP", "bm": "Melawan kecerunan, menggunakan ATP" } }
+      ],
+      "explanation": { "en": "Only active transport uses energy.", "bm": "Hanya pengangkutan aktif menggunakan tenaga." } },
+    { "id": "bio-03-q04", "subtopicId": "bio-03-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Root hair cells absorb mineral ions from soil even though the ion concentration is higher inside the cell. This is…", "bm": "Sel rambut akar menyerap ion mineral dari tanah walaupun kepekatan ion lebih tinggi di dalam sel. Ini ialah…" },
+      "options": [ { "en": "osmosis", "bm": "osmosis" }, { "en": "active transport", "bm": "pengangkutan aktif" }, { "en": "simple diffusion", "bm": "resapan ringkas" }, { "en": "facilitated diffusion", "bm": "resapan berbantu" } ],
+      "answer": 1,
+      "explanation": { "en": "Moving against the concentration gradient requires energy (ATP) — active transport.", "bm": "Bergerak melawan kecerunan kepekatan memerlukan tenaga (ATP) — pengangkutan aktif." } },
+    { "id": "bio-03-q05", "subtopicId": "bio-03-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Red blood cells are placed in distilled water. What happens?", "bm": "Sel darah merah diletakkan dalam air suling. Apakah yang berlaku?" },
+      "options": [ { "en": "They swell and burst (haemolysis)", "bm": "Mengembang dan pecah (hemolisis)" }, { "en": "They shrink (crenation)", "bm": "Mengecut (krenasi)" }, { "en": "No change", "bm": "Tiada perubahan" }, { "en": "They become plasmolysed", "bm": "Mengalami plasmolisis" } ],
+      "answer": 0,
+      "explanation": { "en": "Distilled water is hypotonic; water enters by osmosis and animal cells have no cell wall to stop bursting.", "bm": "Air suling hipotonik; air masuk secara osmosis dan sel haiwan tiada dinding sel untuk menghalang pecah." } },
+    { "id": "bio-03-q06", "subtopicId": "bio-03-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Onion epidermis cells are placed in concentrated salt solution. The plasma membrane pulls away from the cell wall. This is called…", "bm": "Sel epidermis bawang diletakkan dalam larutan garam pekat. Membran plasma tertarik jauh dari dinding sel. Ini dipanggil…" },
+      "options": [ { "en": "turgidity", "bm": "kesegahan" }, { "en": "plasmolysis", "bm": "plasmolisis" }, { "en": "haemolysis", "bm": "hemolisis" }, { "en": "deplasmolysis", "bm": "deplasmolisis" } ],
+      "answer": 1,
+      "explanation": { "en": "Hypertonic solution: water leaves the vacuole by osmosis. Putting it back in water reverses it (deplasmolysis).", "bm": "Larutan hipertonik: air keluar dari vakuol secara osmosis. Meletakkannya semula dalam air membalikkannya (deplasmolisis)." } },
+    { "id": "bio-03-q07", "subtopicId": "bio-03-03", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL processes that rely on diffusion in the human body.", "bm": "Pilih SEMUA proses yang bergantung pada resapan dalam badan manusia." },
+      "options": [ { "en": "Oxygen moving from alveoli into blood", "bm": "Oksigen bergerak dari alveolus ke dalam darah" }, { "en": "Carbon dioxide moving from tissue cells into blood", "bm": "Karbon dioksida bergerak dari sel tisu ke dalam darah" }, { "en": "Some glucose absorbed in the villi", "bm": "Sebahagian glukosa diserap di vilus" }, { "en": "Pumping blood out of the heart", "bm": "Mengepam darah keluar dari jantung" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Gas exchange and some absorption use diffusion; the heart pumps by muscle contraction.", "bm": "Pertukaran gas dan sebahagian penyerapan menggunakan resapan; jantung mengepam melalui pengecutan otot." } },
+    { "id": "bio-03-q08", "subtopicId": "bio-03-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why does salting fish preserve it?", "bm": "Mengapa pengasinan mengawet ikan?" },
+      "options": [ { "en": "Salt draws water out of bacterial cells by osmosis, killing them", "bm": "Garam menarik air keluar dari sel bakteria secara osmosis, membunuhnya" }, { "en": "Salt adds nutrients", "bm": "Garam menambah nutrien" }, { "en": "Salt makes fish acidic", "bm": "Garam menjadikan ikan berasid" }, { "en": "Salt freezes the fish", "bm": "Garam membekukan ikan" } ],
+      "answer": 0,
+      "explanation": { "en": "The hypertonic environment dehydrates microorganisms (plasmolysis/crenation). Sugar in jam works the same way.", "bm": "Persekitaran hipertonik menyahhidratkan mikroorganisma. Gula dalam jem berfungsi dengan cara yang sama." } },
+    { "id": "bio-03-q09", "subtopicId": "bio-03-04", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "A farmer adds too much fertiliser and the plants wilt. Explain.", "bm": "Seorang petani menabur terlalu banyak baja dan tumbuhan menjadi layu. Terangkan." },
+      "options": [ { "en": "Soil solution becomes hypertonic, so root cells lose water by osmosis", "bm": "Larutan tanah menjadi hipertonik, jadi sel akar kehilangan air secara osmosis" }, { "en": "Fertiliser blocks sunlight", "bm": "Baja menghalang cahaya matahari" }, { "en": "Roots absorb too much water and burst", "bm": "Akar menyerap terlalu banyak air dan pecah" }, { "en": "Fertiliser kills chloroplasts directly", "bm": "Baja membunuh kloroplas secara terus" } ],
+      "answer": 0,
+      "explanation": { "en": "Water moves out of root hairs into the concentrated soil solution; cells become flaccid and the plant wilts.", "bm": "Air bergerak keluar dari rambut akar ke larutan tanah yang pekat; sel menjadi flasid dan tumbuhan layu." } },
+    { "id": "bio-03-q10", "subtopicId": "bio-03-02", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The diffusion of water molecules across a semi-permeable membrane is called ______.", "bm": "Resapan molekul air merentasi membran separa telap dipanggil ______." },
+      "answer": ["osmosis"],
+      "explanation": { "en": "Water moves from a region of higher water potential (dilute) to lower (concentrated).", "bm": "Air bergerak dari kawasan keupayaan air tinggi (cair) ke rendah (pekat)." } }
+  ]
+}

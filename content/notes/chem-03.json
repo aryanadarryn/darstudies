@@ -1,0 +1,47 @@
+{
+  "chapterId": "chem-03",
+  "reviewed": false,
+  "subtopics": {
+    "chem-03-01": {
+      "keyPoints": [
+        { "en": "Atoms are too light to weigh directly, so we compare them with carbon-12.", "bm": "Atom terlalu ringan untuk ditimbang secara terus, jadi kita bandingkan dengan karbon-12." },
+        { "en": "RAM = average mass of one atom ÷ (1/12 × mass of one C-12 atom). It has no unit.", "bm": "JAR = purata jisim satu atom ÷ (1/12 × jisim satu atom C-12). Tiada unit." },
+        { "en": "RMM (or relative formula mass for ionic compounds) = sum of RAMs, e.g. NaCl = 23 + 35.5 = 58.5.", "bm": "JMR (atau jisim formula relatif bagi sebatian ion) = hasil tambah JAR, cth. NaCl = 23 + 35.5 = 58.5." },
+        { "en": "Carbon-12 is used because it is easy to handle, common and forms many compounds.", "bm": "Karbon-12 digunakan kerana mudah dikendalikan, banyak terdapat dan membentuk banyak sebatian." }
+      ],
+      "example": { "question": { "en": "Find the relative formula mass of CuSO₄·5H₂O. (Cu 64, S 32, O 16, H 1)", "bm": "Cari jisim formula relatif CuSO₄·5H₂O. (Cu 64, S 32, O 16, H 1)" }, "answer": { "en": "64 + 32 + 64 + 5(18) = 250", "bm": "64 + 32 + 64 + 5(18) = 250" } },
+      "tip": { "en": "Multiply by the subscript AND any bracket number before adding.", "bm": "Darab dengan subskrip DAN nombor kurungan sebelum menambah." }
+    },
+    "chem-03-02": {
+      "keyPoints": [
+        { "en": "1 mole = 6.02 × 10²³ particles (atoms, molecules or ions).", "bm": "1 mol = 6.02 × 10²³ zarah (atom, molekul atau ion)." },
+        { "en": "Molar mass (g mol⁻¹) has the same number as the RAM/RMM: 1 mol of H₂O weighs 18 g.", "bm": "Jisim molar (g mol⁻¹) sama nilai dengan JAR/JMR: 1 mol H₂O berjisim 18 g." },
+        { "en": "Mass ⇄ moles: n = m/M. Particles ⇄ moles: N = n × N_A.", "bm": "Jisim ⇄ mol: n = m/M. Zarah ⇄ mol: N = n × N_A." },
+        { "en": "For gases: V = n × 24 dm³ (room conditions) or n × 22.4 dm³ (STP).", "bm": "Bagi gas: V = n × 24 dm³ (keadaan bilik) atau n × 22.4 dm³ (STP)." },
+        { "en": "Careful with molecules vs atoms: 1 mol of O₂ contains 2 mol of O atoms.", "bm": "Berhati-hati dengan molekul vs atom: 1 mol O₂ mengandungi 2 mol atom O." }
+      ],
+      "example": { "question": { "en": "How many hydrogen atoms are in 0.5 mol of H₂O?", "bm": "Berapakah bilangan atom hidrogen dalam 0.5 mol H₂O?" }, "answer": { "en": "0.5 mol H₂O has 1 mol H atoms = 6.02 × 10²³ atoms", "bm": "0.5 mol H₂O mengandungi 1 mol atom H = 6.02 × 10²³ atom" } },
+      "tip": { "en": "Always go through moles: mass → mol → particles or volume.", "bm": "Sentiasa melalui mol: jisim → mol → zarah atau isi padu." }
+    },
+    "chem-03-03": {
+      "keyPoints": [
+        { "en": "Empirical formula: simplest ratio. Molecular formula: actual atoms (C₂H₄ has empirical formula CH₂).", "bm": "Formula empirik: nisbah teringkas. Formula molekul: atom sebenar (C₂H₄ mempunyai formula empirik CH₂)." },
+        { "en": "Find empirical formula: mass of each element → moles → divide by the smallest → whole numbers.", "bm": "Cari formula empirik: jisim setiap unsur → mol → bahagi dengan terkecil → nombor bulat." },
+        { "en": "Reactive metals (Mg, Zn): heat in a crucible in air. Less reactive (Cu, Pb, Sn): reduce the oxide with hydrogen.", "bm": "Logam reaktif (Mg, Zn): panaskan dalam mangkuk pijar di udara. Kurang reaktif (Cu, Pb, Sn): turunkan oksida dengan hidrogen." },
+        { "en": "Ionic formulas: balance the charges, e.g. Ca²⁺ + Cl⁻ → CaCl₂; Al³⁺ + SO₄²⁻ → Al₂(SO₄)₃.", "bm": "Formula ion: seimbangkan cas, cth. Ca²⁺ + Cl⁻ → CaCl₂; Al³⁺ + SO₄²⁻ → Al₂(SO₄)₃." }
+      ],
+      "example": { "question": { "en": "A compound has empirical formula CH₂ and RMM 56. Find its molecular formula.", "bm": "Sebatian mempunyai formula empirik CH₂ dan JMR 56. Cari formula molekulnya." }, "answer": { "en": "CH₂ mass = 14; n = 56 ÷ 14 = 4 → C₄H₈", "bm": "Jisim CH₂ = 14; n = 56 ÷ 14 = 4 → C₄H₈" } },
+      "tip": { "en": "In the Mg experiment, lift the lid now and then so air gets in, but don't let white fumes escape.", "bm": "Dalam eksperimen Mg, angkat penutup sekali-sekala supaya udara masuk, tetapi jangan biarkan wasap putih terlepas." }
+    },
+    "chem-03-04": {
+      "keyPoints": [
+        { "en": "A chemical equation shows reactants → products with state symbols (s), (l), (g), (aq).", "bm": "Persamaan kimia menunjukkan bahan → hasil dengan simbol keadaan (p), (ce), (g), (ak)." },
+        { "en": "Balance by changing coefficients only — never change the formulas.", "bm": "Seimbangkan dengan menukar pekali sahaja — jangan ubah formula." },
+        { "en": "Coefficients give the mole ratio, e.g. 2H₂ + O₂ → 2H₂O means 2 mol H₂ reacts with 1 mol O₂.", "bm": "Pekali memberi nisbah mol, cth. 2H₂ + O₂ → 2H₂O bermakna 2 mol H₂ bertindak balas dengan 1 mol O₂." },
+        { "en": "Stoichiometry: given mass → moles → use ratio → moles of unknown → mass or volume.", "bm": "Stoikiometri: jisim diberi → mol → guna nisbah → mol yang dicari → jisim atau isi padu." }
+      ],
+      "example": { "question": { "en": "Zn + 2HCl → ZnCl₂ + H₂. What volume of H₂ (room conditions) forms from 6.5 g of zinc? (Zn = 65)", "bm": "Zn + 2HCl → ZnCl₂ + H₂. Berapakah isi padu H₂ (keadaan bilik) terhasil daripada 6.5 g zink? (Zn = 65)" }, "answer": { "en": "n(Zn) = 0.1 mol → n(H₂) = 0.1 mol → V = 0.1 × 24 = 2.4 dm³", "bm": "n(Zn) = 0.1 mol → n(H₂) = 0.1 mol → V = 0.1 × 24 = 2.4 dm³" } },
+      "tip": { "en": "Check your balanced equation by counting each type of atom on both sides.", "bm": "Semak persamaan seimbang dengan mengira setiap jenis atom di kedua-dua belah." }
+    }
+  }
+}

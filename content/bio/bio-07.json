@@ -1,0 +1,98 @@
+{
+  "chapterId": "bio-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "After a 100 m sprint your legs burn and you keep panting long after you stop. Meanwhile, yeast is making bread rise and tapai ferment. Both are cells releasing energy from glucose — in different ways.",
+      "bm": "Selepas pecutan 100 m kaki terasa pedih dan anda terus tercungap-cungap lama selepas berhenti. Sementara itu, yis menaikkan roti dan menapaikan tapai. Kedua-duanya sel membebaskan tenaga daripada glukosa — dengan cara berbeza."
+    },
+    "bigIdeas": [
+      { "en": "Cellular respiration releases energy from glucose and stores it as ATP.", "bm": "Respirasi sel membebaskan tenaga daripada glukosa dan menyimpannya sebagai ATP." },
+      { "en": "Aerobic respiration uses oxygen, happens in mitochondria and releases lots of energy.", "bm": "Respirasi aerob menggunakan oksigen, berlaku dalam mitokondria dan membebaskan banyak tenaga." },
+      { "en": "Fermentation (anaerobic) releases a little energy without oxygen: lactic acid in muscles, ethanol + CO₂ in yeast.", "bm": "Fermentasi (anaerob) membebaskan sedikit tenaga tanpa oksigen: asid laktik dalam otot, etanol + CO₂ dalam yis." },
+      { "en": "Oxygen debt is repaid after exercise by deep, fast breathing.", "bm": "Hutang oksigen dibayar selepas senaman melalui pernafasan dalam dan cepat." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Aerobic respiration", "bm": "Respirasi aerob" }, { "en": "Fermentation (muscle)", "bm": "Fermentasi (otot)" }, { "en": "Fermentation (yeast)", "bm": "Fermentasi (yis)" } ],
+        "rows": [
+          { "label": { "en": "Oxygen", "bm": "Oksigen" }, "cells": [ { "en": "needed", "bm": "diperlukan" }, { "en": "not needed", "bm": "tidak diperlukan" }, { "en": "not needed", "bm": "tidak diperlukan" } ] },
+          { "label": { "en": "Products", "bm": "Hasil" }, "cells": [ { "en": "CO₂ + H₂O", "bm": "CO₂ + H₂O" }, { "en": "lactic acid", "bm": "asid laktik" }, { "en": "ethanol + CO₂", "bm": "etanol + CO₂" } ] },
+          { "label": { "en": "Energy per glucose", "bm": "Tenaga per glukosa" }, "cells": [ { "en": "2898 kJ", "bm": "2898 kJ" }, { "en": "150 kJ", "bm": "150 kJ" }, { "en": "210 kJ", "bm": "210 kJ" } ] },
+          { "label": { "en": "Where", "bm": "Tempat" }, "cells": [ { "en": "cytoplasm + mitochondria", "bm": "sitoplasma + mitokondria" }, { "en": "cytoplasm", "bm": "sitoplasma" }, { "en": "cytoplasm", "bm": "sitoplasma" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Cellular respiration", "bm": "Respirasi sel" }, "definition": { "en": "Oxidation of glucose in cells to release energy.", "bm": "Pengoksidaan glukosa dalam sel untuk membebaskan tenaga." } },
+      { "term": { "en": "ATP", "bm": "ATP" }, "definition": { "en": "Adenosine triphosphate — the energy currency of the cell.", "bm": "Adenosina trifosfat — mata wang tenaga sel." } },
+      { "term": { "en": "Aerobic respiration", "bm": "Respirasi aerob" }, "definition": { "en": "Respiration using oxygen; glucose fully broken down to CO₂ and water.", "bm": "Respirasi menggunakan oksigen; glukosa diuraikan sepenuhnya kepada CO₂ dan air." } },
+      { "term": { "en": "Fermentation", "bm": "Fermentasi" }, "definition": { "en": "Anaerobic respiration — incomplete breakdown of glucose without oxygen.", "bm": "Respirasi anaerob — penguraian glukosa tidak lengkap tanpa oksigen." } },
+      { "term": { "en": "Oxygen debt", "bm": "Hutang oksigen" }, "definition": { "en": "Extra oxygen needed after exercise to break down lactic acid.", "bm": "Oksigen tambahan yang diperlukan selepas senaman untuk menguraikan asid laktik." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "How many times more energy does aerobic respiration release per glucose than lactic acid fermentation?", "bm": "Berapa kali ganda tenaga dibebaskan oleh respirasi aerob per glukosa berbanding fermentasi asid laktik?" },
+      "steps": [
+        { "en": "Aerobic: 2898 kJ per mole of glucose.", "bm": "Aerob: 2898 kJ per mol glukosa." },
+        { "en": "Lactic acid fermentation: 150 kJ per mole of glucose.", "bm": "Fermentasi asid laktik: 150 kJ per mol glukosa." },
+        { "en": "2898 ÷ 150 ≈ 19.3", "bm": "2898 ÷ 150 ≈ 19.3" }
+      ],
+      "answer": { "en": "About 19 times more — most energy stays trapped in lactic acid.", "bm": "Kira-kira 19 kali ganda — kebanyakan tenaga masih terperangkap dalam asid laktik." }
+    }
+  },
+  "questions": [
+    { "id": "bio-07-q01", "subtopicId": "bio-07-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The molecule that cells use as their 'energy currency' is ______.", "bm": "Molekul yang digunakan sel sebagai 'mata wang tenaga' ialah ______." },
+      "answer": ["ATP", "adenosine triphosphate", "adenosina trifosfat"],
+      "explanation": { "en": "ATP releases energy when it is broken down to ADP + phosphate.", "bm": "ATP membebaskan tenaga apabila diuraikan kepada ADP + fosfat." } },
+    { "id": "bio-07-q02", "subtopicId": "bio-07-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "In which organelle does most of aerobic respiration happen?", "bm": "Dalam organel manakah sebahagian besar respirasi aerob berlaku?" },
+      "options": [ { "en": "Mitochondrion", "bm": "Mitokondrion" }, { "en": "Chloroplast", "bm": "Kloroplas" }, { "en": "Ribosome", "bm": "Ribosom" }, { "en": "Nucleus", "bm": "Nukleus" } ],
+      "answer": 0,
+      "explanation": { "en": "Glycolysis begins in the cytoplasm; the rest happens in the mitochondria.", "bm": "Glikolisis bermula dalam sitoplasma; selebihnya berlaku dalam mitokondria." } },
+    { "id": "bio-07-q03", "subtopicId": "bio-07-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "What are the products of aerobic respiration?", "bm": "Apakah hasil respirasi aerob?" },
+      "options": [ { "en": "Carbon dioxide, water and energy", "bm": "Karbon dioksida, air dan tenaga" }, { "en": "Lactic acid and energy", "bm": "Asid laktik dan tenaga" }, { "en": "Ethanol and carbon dioxide", "bm": "Etanol dan karbon dioksida" }, { "en": "Glucose and oxygen", "bm": "Glukosa dan oksigen" } ],
+      "answer": 0,
+      "explanation": { "en": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 2898 kJ.", "bm": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 2898 kJ." } },
+    { "id": "bio-07-q04", "subtopicId": "bio-07-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In the aerobic respiration equation, how many molecules of O₂ react with one molecule of glucose?", "bm": "Dalam persamaan respirasi aerob, berapakah molekul O₂ bertindak balas dengan satu molekul glukosa?" },
+      "answer": 6, "tolerance": 0,
+      "explanation": { "en": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O.", "bm": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O." } },
+    { "id": "bio-07-q05", "subtopicId": "bio-07-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "During a fast sprint, muscles get cramps. Which substance builds up?", "bm": "Semasa pecutan pantas, otot mengalami kekejangan. Bahan manakah terkumpul?" },
+      "options": [ { "en": "Lactic acid", "bm": "Asid laktik" }, { "en": "Ethanol", "bm": "Etanol" }, { "en": "Glucose", "bm": "Glukosa" }, { "en": "Oxygen", "bm": "Oksigen" } ],
+      "answer": 0,
+      "explanation": { "en": "Not enough O₂ reaches muscles, so they ferment glucose to lactic acid.", "bm": "Oksigen tidak cukup sampai ke otot, jadi otot memfermentasi glukosa kepada asid laktik." } },
+    { "id": "bio-07-q06", "subtopicId": "bio-07-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why does bread dough rise when yeast is added?", "bm": "Mengapa doh roti mengembang apabila yis ditambah?" },
+      "options": [ { "en": "Yeast ferments sugar and releases carbon dioxide", "bm": "Yis memfermentasi gula dan membebaskan karbon dioksida" }, { "en": "Yeast produces oxygen", "bm": "Yis menghasilkan oksigen" }, { "en": "Yeast produces lactic acid", "bm": "Yis menghasilkan asid laktik" }, { "en": "Yeast absorbs water", "bm": "Yis menyerap air" } ],
+      "answer": 0,
+      "explanation": { "en": "CO₂ bubbles get trapped in the dough; the ethanol evaporates during baking.", "bm": "Gelembung CO₂ terperangkap dalam doh; etanol menyejat semasa dibakar." } },
+    { "id": "bio-07-q07", "subtopicId": "bio-07-03", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Why do you keep breathing fast after you stop running?", "bm": "Mengapa anda terus bernafas laju selepas berhenti berlari?" },
+      "options": [ { "en": "To repay the oxygen debt and break down lactic acid", "bm": "Untuk membayar hutang oksigen dan menguraikan asid laktik" }, { "en": "To cool the lungs", "bm": "Untuk menyejukkan paru-paru" }, { "en": "To make more glucose", "bm": "Untuk menghasilkan lebih banyak glukosa" }, { "en": "Because the heart stops", "bm": "Kerana jantung berhenti" } ],
+      "answer": 0,
+      "explanation": { "en": "Lactic acid is carried to the liver and oxidised or converted back to glucose using the extra oxygen.", "bm": "Asid laktik dibawa ke hati dan dioksidakan atau ditukar semula kepada glukosa menggunakan oksigen tambahan." } },
+    { "id": "bio-07-q08", "subtopicId": "bio-07-03", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each product to the microorganism process used.", "bm": "Padankan setiap produk dengan proses mikroorganisma yang digunakan." },
+      "pairs": [
+        { "left": { "en": "Tapai", "bm": "Tapai" }, "right": { "en": "Yeast fermentation (ethanol)", "bm": "Fermentasi yis (etanol)" } },
+        { "left": { "en": "Yogurt", "bm": "Yogurt" }, "right": { "en": "Lactic acid bacteria", "bm": "Bakteria asid laktik" } },
+        { "left": { "en": "Bread", "bm": "Roti" }, "right": { "en": "Yeast fermentation (CO₂)", "bm": "Fermentasi yis (CO₂)" } }
+      ],
+      "explanation": { "en": "Fermentation is widely used in Malaysian foods: tapai, tempeh, budu, cincalok.", "bm": "Fermentasi banyak digunakan dalam makanan Malaysia: tapai, tempe, budu, cincalok." } },
+    { "id": "bio-07-q09", "subtopicId": "bio-07-02", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why do muscle cells and sperm cells have many mitochondria?", "bm": "Mengapa sel otot dan sel sperma mempunyai banyak mitokondria?" },
+      "options": [ { "en": "They need a lot of ATP for movement", "bm": "Mereka memerlukan banyak ATP untuk pergerakan" }, { "en": "They make proteins", "bm": "Mereka mensintesis protein" }, { "en": "They store glucose", "bm": "Mereka menyimpan glukosa" }, { "en": "They photosynthesise", "bm": "Mereka berfotosintesis" } ],
+      "answer": 0,
+      "explanation": { "en": "More mitochondria → more aerobic respiration → more ATP.", "bm": "Lebih banyak mitokondria → lebih banyak respirasi aerob → lebih banyak ATP." } },
+    { "id": "bio-07-q10", "subtopicId": "bio-07-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which is NOT a use of the energy from respiration?", "bm": "Yang manakah BUKAN kegunaan tenaga daripada respirasi?" },
+      "options": [ { "en": "Absorbing light for photosynthesis", "bm": "Menyerap cahaya untuk fotosintesis" }, { "en": "Muscle contraction", "bm": "Pengecutan otot" }, { "en": "Active transport", "bm": "Pengangkutan aktif" }, { "en": "Keeping body temperature", "bm": "Mengekalkan suhu badan" } ],
+      "answer": 0,
+      "explanation": { "en": "Photosynthesis uses light energy absorbed by chlorophyll, not ATP from respiration.", "bm": "Fotosintesis menggunakan tenaga cahaya yang diserap klorofil, bukan ATP daripada respirasi." } }
+  ]
+}

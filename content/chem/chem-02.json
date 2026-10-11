@@ -1,0 +1,111 @@
+{
+  "chapterId": "chem-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Spray perfume in one corner of a classroom and soon everyone smells it. Mothballs in your wardrobe slowly disappear without melting. What is happening to the tiny particles inside them?",
+      "bm": "Sembur minyak wangi di satu sudut kelas dan tidak lama semua orang dapat menghidunya. Ubat gegat dalam almari perlahan-lahan hilang tanpa melebur. Apa yang berlaku kepada zarah halus di dalamnya?"
+    },
+    "bigIdeas": [
+      { "en": "Matter is made of tiny particles (atoms, molecules or ions) that are always moving.", "bm": "Jirim terdiri daripada zarah halus (atom, molekul atau ion) yang sentiasa bergerak." },
+      { "en": "Heating gives particles more kinetic energy and can change the state of matter.", "bm": "Pemanasan memberi zarah lebih tenaga kinetik dan boleh mengubah keadaan jirim." },
+      { "en": "The atomic model developed from Dalton to Thomson, Rutherford, Bohr and Chadwick.", "bm": "Model atom berkembang daripada Dalton ke Thomson, Rutherford, Bohr dan Chadwick." },
+      { "en": "An atom has protons and neutrons in the nucleus, with electrons in shells around it.", "bm": "Atom mempunyai proton dan neutron dalam nukleus, dengan elektron dalam petala di sekelilingnya." },
+      { "en": "Isotopes have the same proton number but different numbers of neutrons.", "bm": "Isotop mempunyai nombor proton yang sama tetapi bilangan neutron berbeza." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Dalton (1808)", "bm": "Dalton (1808)" }, "detail": { "en": "atoms are tiny indivisible spheres", "bm": "atom ialah sfera kecil yang tidak boleh dibahagi" } },
+          { "title": { "en": "Thomson (1897)", "bm": "Thomson (1897)" }, "detail": { "en": "discovered electrons — 'plum pudding' model", "bm": "menemui elektron — model 'puding plum'" } },
+          { "title": { "en": "Rutherford (1911)", "bm": "Rutherford (1911)" }, "detail": { "en": "tiny positive nucleus; atom mostly empty space", "bm": "nukleus positif yang kecil; atom kebanyakannya ruang kosong" } },
+          { "title": { "en": "Bohr (1913)", "bm": "Bohr (1913)" }, "detail": { "en": "electrons move in fixed shells", "bm": "elektron bergerak dalam petala tetap" } },
+          { "title": { "en": "Chadwick (1932)", "bm": "Chadwick (1932)" }, "detail": { "en": "discovered neutrons in the nucleus", "bm": "menemui neutron dalam nukleus" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Matter", "bm": "Jirim" }, "definition": { "en": "Anything that has mass and occupies space.", "bm": "Apa-apa yang mempunyai jisim dan memenuhi ruang." } },
+      { "term": { "en": "Diffusion", "bm": "Resapan" }, "definition": { "en": "Movement of particles from high to low concentration.", "bm": "Pergerakan zarah dari kepekatan tinggi ke rendah." } },
+      { "term": { "en": "Sublimation", "bm": "Pemejalwapan" }, "definition": { "en": "Solid changes directly into gas (e.g. iodine, naphthalene).", "bm": "Pepejal berubah terus kepada gas (cth. iodin, naftalena)." } },
+      { "term": { "en": "Proton number", "bm": "Nombor proton" }, "definition": { "en": "Number of protons in an atom (Z).", "bm": "Bilangan proton dalam atom (Z)." } },
+      { "term": { "en": "Nucleon number", "bm": "Nombor nukleon" }, "definition": { "en": "Total protons + neutrons (A).", "bm": "Jumlah proton + neutron (A)." } },
+      { "term": { "en": "Isotopes", "bm": "Isotop" }, "definition": { "en": "Atoms of the same element with different numbers of neutrons.", "bm": "Atom unsur yang sama dengan bilangan neutron berbeza." } },
+      { "term": { "en": "Electron arrangement", "bm": "Susunan elektron" }, "definition": { "en": "How electrons fill shells: 2, 8, 8 … (e.g. Na = 2.8.1).", "bm": "Cara elektron mengisi petala: 2, 8, 8 … (cth. Na = 2.8.1)." } }
+    ],
+    "formulaIds": [],
+    "toolId": "periodic-table",
+    "workedExample": {
+      "question": { "en": "Atom X has 11 protons and 12 neutrons. Find its nucleon number, write its symbol and electron arrangement.", "bm": "Atom X mempunyai 11 proton dan 12 neutron. Cari nombor nukleon, tulis simbolnya dan susunan elektron." },
+      "steps": [
+        { "en": "Proton number Z = 11, so X is sodium (Na).", "bm": "Nombor proton Z = 11, jadi X ialah natrium (Na)." },
+        { "en": "Nucleon number A = protons + neutrons = 11 + 12 = 23.", "bm": "Nombor nukleon A = proton + neutron = 11 + 12 = 23." },
+        { "en": "Symbol: ²³₁₁Na (nucleon number on top, proton number below).", "bm": "Simbol: ²³₁₁Na (nombor nukleon di atas, nombor proton di bawah)." },
+        { "en": "A neutral atom has 11 electrons: 2.8.1.", "bm": "Atom neutral mempunyai 11 elektron: 2.8.1." }
+      ],
+      "answer": { "en": "A = 23, ²³₁₁Na, electron arrangement 2.8.1", "bm": "A = 23, ²³₁₁Na, susunan elektron 2.8.1" }
+    }
+  },
+  "questions": [
+    { "id": "chem-02-q01", "subtopicId": "chem-02-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which observation is evidence that particles are constantly moving?", "bm": "Pemerhatian manakah bukti bahawa zarah sentiasa bergerak?" },
+      "options": [ { "en": "Ice is hard", "bm": "Ais keras" }, { "en": "The smell of durian spreads through the house", "bm": "Bau durian merebak ke seluruh rumah" }, { "en": "Water is colourless", "bm": "Air tidak berwarna" }, { "en": "Iron is heavy", "bm": "Besi berat" } ],
+      "answer": 1,
+      "explanation": { "en": "Diffusion of smell particles shows particles move randomly.", "bm": "Resapan zarah bau menunjukkan zarah bergerak secara rawak." } },
+    { "id": "chem-02-q02", "subtopicId": "chem-02-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "On a heating curve of naphthalene, the temperature stays constant at 80 °C for a while. What is happening?", "bm": "Pada lengkung pemanasan naftalena, suhu kekal 80 °C seketika. Apakah yang berlaku?" },
+      "options": [ { "en": "It is boiling", "bm": "Ia mendidih" }, { "en": "It is melting — heat breaks forces between particles", "bm": "Ia melebur — haba memutuskan daya antara zarah" }, { "en": "It is cooling down", "bm": "Ia menyejuk" }, { "en": "It is subliming", "bm": "Ia memejalwap" } ],
+      "answer": 1,
+      "explanation": { "en": "80 °C is naphthalene's melting point. Heat absorbed overcomes attractive forces, so temperature stays constant.", "bm": "80 °C ialah takat lebur naftalena. Haba diserap untuk mengatasi daya tarikan, jadi suhu kekal." } },
+    { "id": "chem-02-q03", "subtopicId": "chem-02-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Iodine crystals turn directly into purple vapour when heated. This change is called ______.", "bm": "Hablur iodin bertukar terus menjadi wap ungu apabila dipanaskan. Perubahan ini dipanggil ______." },
+      "answer": ["sublimation", "pemejalwapan"],
+      "explanation": { "en": "Sublimation: solid → gas without becoming liquid.", "bm": "Pemejalwapan: pepejal → gas tanpa menjadi cecair." } },
+    { "id": "chem-02-q04", "subtopicId": "chem-02-02", "type": "order", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Arrange the scientists in the order they developed the atomic model.", "bm": "Susun saintis mengikut urutan mereka membangunkan model atom." },
+      "items": [ { "en": "Dalton", "bm": "Dalton" }, { "en": "Thomson", "bm": "Thomson" }, { "en": "Rutherford", "bm": "Rutherford" }, { "en": "Bohr", "bm": "Bohr" }, { "en": "Chadwick", "bm": "Chadwick" } ],
+      "explanation": { "en": "Dalton (indivisible atom) → Thomson (electron) → Rutherford (nucleus) → Bohr (shells) → Chadwick (neutron).", "bm": "Dalton (atom tidak boleh dibahagi) → Thomson (elektron) → Rutherford (nukleus) → Bohr (petala) → Chadwick (neutron)." } },
+    { "id": "chem-02-q05", "subtopicId": "chem-02-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Rutherford fired alpha particles at gold foil. Most passed straight through. What did this show?", "bm": "Rutherford menembak zarah alfa pada kerajang emas. Kebanyakannya menembusi terus. Apakah yang ditunjukkan?" },
+      "options": [ { "en": "Atoms are mostly empty space", "bm": "Atom kebanyakannya ruang kosong" }, { "en": "Electrons are in shells", "bm": "Elektron berada dalam petala" }, { "en": "Atoms are solid spheres", "bm": "Atom ialah sfera pejal" }, { "en": "Neutrons exist", "bm": "Neutron wujud" } ],
+      "answer": 0,
+      "explanation": { "en": "A few bounced back, showing a tiny dense positive nucleus; most passed through empty space.", "bm": "Sebilangan kecil melantun balik, menunjukkan nukleus positif kecil dan tumpat; kebanyakannya melalui ruang kosong." } },
+    { "id": "chem-02-q06", "subtopicId": "chem-02-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "An atom of chlorine has proton number 17 and nucleon number 35. How many neutrons does it have?", "bm": "Atom klorin mempunyai nombor proton 17 dan nombor nukleon 35. Berapakah bilangan neutronnya?" },
+      "answer": 18, "tolerance": 0,
+      "explanation": { "en": "Neutrons = A − Z = 35 − 17 = 18.", "bm": "Neutron = A − Z = 35 − 17 = 18." } },
+    { "id": "chem-02-q07", "subtopicId": "chem-02-03", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "What is the electron arrangement of an atom with proton number 16?", "bm": "Apakah susunan elektron atom dengan nombor proton 16?" },
+      "options": [ { "en": "2.8.6", "bm": "2.8.6" }, { "en": "2.6.8", "bm": "2.6.8" }, { "en": "8.8", "bm": "8.8" }, { "en": "2.8.4.2", "bm": "2.8.4.2" } ],
+      "answer": 0,
+      "explanation": { "en": "Fill 2 then 8 then the rest: 16 = 2 + 8 + 6 (sulfur).", "bm": "Isi 2 kemudian 8 kemudian baki: 16 = 2 + 8 + 6 (sulfur)." } },
+    { "id": "chem-02-q08", "subtopicId": "chem-02-03", "type": "match", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Match each subatomic particle to its relative charge.", "bm": "Padankan setiap zarah subatom dengan cas relatifnya." },
+      "pairs": [
+        { "left": { "en": "Proton", "bm": "Proton" }, "right": { "en": "+1", "bm": "+1" } },
+        { "left": { "en": "Electron", "bm": "Elektron" }, "right": { "en": "−1", "bm": "−1" } },
+        { "left": { "en": "Neutron", "bm": "Neutron" }, "right": { "en": "0", "bm": "0" } }
+      ],
+      "explanation": { "en": "Protons and neutrons have relative mass 1; electrons ≈ 1/1840.", "bm": "Proton dan neutron mempunyai jisim relatif 1; elektron ≈ 1/1840." } },
+    { "id": "chem-02-q09", "subtopicId": "chem-02-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Carbon-12 and carbon-14 are isotopes. They have the same…", "bm": "Karbon-12 dan karbon-14 ialah isotop. Kedua-duanya mempunyai…" },
+      "options": [ { "en": "number of neutrons", "bm": "bilangan neutron yang sama" }, { "en": "nucleon number", "bm": "nombor nukleon yang sama" }, { "en": "chemical properties", "bm": "sifat kimia yang sama" }, { "en": "mass", "bm": "jisim yang sama" } ],
+      "answer": 2,
+      "explanation": { "en": "Same proton number and electron arrangement → same chemical properties. Different neutrons → different mass.", "bm": "Nombor proton dan susunan elektron sama → sifat kimia sama. Neutron berbeza → jisim berbeza." } },
+    { "id": "chem-02-q10", "subtopicId": "chem-02-04", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each isotope to its use.", "bm": "Padankan setiap isotop dengan kegunaannya." },
+      "pairs": [
+        { "left": { "en": "Carbon-14", "bm": "Karbon-14" }, "right": { "en": "Dating old fossils", "bm": "Menentukan usia fosil" } },
+        { "left": { "en": "Cobalt-60", "bm": "Kobalt-60" }, "right": { "en": "Cancer radiotherapy", "bm": "Radioterapi kanser" } },
+        { "left": { "en": "Iodine-131", "bm": "Iodin-131" }, "right": { "en": "Treating thyroid problems", "bm": "Merawat masalah tiroid" } },
+        { "left": { "en": "Sodium-24", "bm": "Natrium-24" }, "right": { "en": "Detecting leaks in pipes", "bm": "Mengesan kebocoran paip" } }
+      ],
+      "explanation": { "en": "Radioisotopes emit radiation that can be detected or used to kill cells.", "bm": "Radioisotop memancarkan sinaran yang boleh dikesan atau digunakan untuk membunuh sel." } },
+    { "id": "chem-02-q11", "subtopicId": "chem-02-01", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Why does a gas diffuse faster than a liquid?", "bm": "Mengapa gas meresap lebih cepat daripada cecair?" },
+      "options": [ { "en": "Gas particles are far apart and move faster in all directions", "bm": "Zarah gas berjauhan dan bergerak lebih laju ke semua arah" }, { "en": "Gas particles are bigger", "bm": "Zarah gas lebih besar" }, { "en": "Gas particles have stronger forces", "bm": "Zarah gas mempunyai daya lebih kuat" }, { "en": "Liquids have no particles", "bm": "Cecair tiada zarah" } ],
+      "answer": 0,
+      "explanation": { "en": "Weak forces and large spaces let gas particles move quickly and randomly.", "bm": "Daya lemah dan ruang besar membolehkan zarah gas bergerak laju dan rawak." } }
+  ]
+}

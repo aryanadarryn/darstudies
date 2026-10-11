@@ -1,0 +1,106 @@
+{
+  "chapterId": "chem-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Royal Selangor pewter, the Petronas Twin Towers' stainless steel, the Pyrex dish in your kitchen and the tiles on your floor are all manufactured substances — designed by chemists to be stronger, tougher or more heat-resistant than nature's materials.",
+      "bm": "Piuter Royal Selangor, keluli nirkarat Menara Berkembar Petronas, bekas Pyrex di dapur dan jubin lantai rumah anda semuanya bahan buatan — direka oleh ahli kimia supaya lebih kuat, lasak atau tahan haba berbanding bahan semula jadi."
+    },
+    "bigIdeas": [
+      { "en": "Alloys mix a metal with other elements to make it harder and more corrosion-resistant.", "bm": "Aloi mencampurkan logam dengan unsur lain supaya lebih keras dan tahan kakisan." },
+      { "en": "Glass is made mainly from silica (sand); different additives give different types of glass.", "bm": "Kaca dibuat terutamanya daripada silika (pasir); bahan tambahan berbeza menghasilkan jenis kaca berbeza." },
+      { "en": "Ceramics are made by heating clay — hard, brittle, heat-resistant insulators.", "bm": "Seramik dibuat dengan memanaskan tanah liat — keras, rapuh, penebat tahan haba." },
+      { "en": "Composites combine two or more materials to get the best properties of each.", "bm": "Komposit menggabungkan dua atau lebih bahan untuk mendapat sifat terbaik setiap satu." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Alloy", "bm": "Aloi" }, { "en": "Main components", "bm": "Komponen utama" }, { "en": "Use", "bm": "Kegunaan" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "Bronze", "bm": "Gangsa" }, { "en": "Cu + Sn", "bm": "Cu + Sn" }, { "en": "Medals, statues", "bm": "Pingat, patung" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "Brass", "bm": "Loyang" }, { "en": "Cu + Zn", "bm": "Cu + Zn" }, { "en": "Musical instruments, door knobs", "bm": "Alat muzik, tombol pintu" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "Steel", "bm": "Keluli" }, { "en": "Fe + C", "bm": "Fe + C" }, { "en": "Buildings, bridges", "bm": "Bangunan, jambatan" } ] },
+          { "label": { "en": "4", "bm": "4" }, "cells": [ { "en": "Stainless steel", "bm": "Keluli nirkarat" }, { "en": "Fe + Cr + Ni + C", "bm": "Fe + Cr + Ni + C" }, { "en": "Cutlery, surgical tools", "bm": "Sudu garpu, alat pembedahan" } ] },
+          { "label": { "en": "5", "bm": "5" }, "cells": [ { "en": "Duralumin", "bm": "Duralumin" }, { "en": "Al + Cu + Mg + Mn", "bm": "Al + Cu + Mg + Mn" }, { "en": "Aircraft bodies", "bm": "Badan kapal terbang" } ] },
+          { "label": { "en": "6", "bm": "6" }, "cells": [ { "en": "Pewter", "bm": "Piuter" }, { "en": "Sn + Cu + Sb", "bm": "Sn + Cu + Sb" }, { "en": "Souvenirs", "bm": "Cenderamata" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Alloy", "bm": "Aloi" }, "definition": { "en": "A mixture of a metal with other elements (metal or non-metal).", "bm": "Campuran logam dengan unsur lain (logam atau bukan logam)." } },
+      { "term": { "en": "Corrosion", "bm": "Kakisan" }, "definition": { "en": "Gradual destruction of a metal by reaction with its surroundings (e.g. rusting).", "bm": "Pemusnahan logam secara beransur akibat tindak balas dengan persekitaran (cth. pengaratan)." } },
+      { "term": { "en": "Silica", "bm": "Silika" }, "definition": { "en": "Silicon dioxide, SiO₂ — the main raw material of glass (sand).", "bm": "Silikon dioksida, SiO₂ — bahan mentah utama kaca (pasir)." } },
+      { "term": { "en": "Ceramic", "bm": "Seramik" }, "definition": { "en": "Hard material made by heating clay or inorganic non-metals to a high temperature.", "bm": "Bahan keras yang dibuat dengan memanaskan tanah liat atau bahan bukan logam bukan organik pada suhu tinggi." } },
+      { "term": { "en": "Composite material", "bm": "Bahan komposit" }, "definition": { "en": "Made of a matrix and a reinforcement, combining their properties.", "bm": "Terdiri daripada matriks dan bahan pengukuh, menggabungkan sifatnya." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain why bronze is harder than pure copper.", "bm": "Terangkan mengapa gangsa lebih keras daripada kuprum tulen." },
+      "steps": [
+        { "en": "In pure copper, atoms are the same size and arranged in orderly layers.", "bm": "Dalam kuprum tulen, atom bersaiz sama dan tersusun dalam lapisan yang teratur." },
+        { "en": "When force is applied, the layers slide over each other easily — copper is soft and ductile.", "bm": "Apabila daya dikenakan, lapisan mudah menggelongsor — kuprum lembut dan mulur." },
+        { "en": "In bronze, larger tin atoms disrupt the orderly arrangement.", "bm": "Dalam gangsa, atom stanum yang lebih besar mengganggu susunan teratur." },
+        { "en": "The layers cannot slide easily, so bronze is harder.", "bm": "Lapisan tidak dapat menggelongsor dengan mudah, jadi gangsa lebih keras." }
+      ],
+      "answer": { "en": "Different-sized foreign atoms stop the layers of copper atoms from sliding.", "bm": "Atom asing bersaiz berbeza menghalang lapisan atom kuprum daripada menggelongsor." }
+    }
+  },
+  "questions": [
+    { "id": "chem-08-q01", "subtopicId": "chem-08-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Brass is an alloy of…", "bm": "Loyang ialah aloi…" },
+      "options": [ { "en": "copper and tin", "bm": "kuprum dan stanum" }, { "en": "copper and zinc", "bm": "kuprum dan zink" }, { "en": "iron and carbon", "bm": "besi dan karbon" }, { "en": "aluminium and copper", "bm": "aluminium dan kuprum" } ],
+      "answer": 1,
+      "explanation": { "en": "Brass = Cu + Zn; bronze = Cu + Sn.", "bm": "Loyang = Cu + Zn; gangsa = Cu + Sn." } },
+    { "id": "chem-08-q02", "subtopicId": "chem-08-01", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why is an alloy harder than its pure metal?", "bm": "Mengapa aloi lebih keras daripada logam tulennya?" },
+      "options": [ { "en": "Foreign atoms of different size stop the layers from sliding", "bm": "Atom asing bersaiz berbeza menghalang lapisan daripada menggelongsor" }, { "en": "Alloys have stronger ionic bonds", "bm": "Aloi mempunyai ikatan ion lebih kuat" }, { "en": "Alloys have no delocalised electrons", "bm": "Aloi tiada elektron dinyahsetempat" }, { "en": "Alloys are always heavier", "bm": "Aloi sentiasa lebih berat" } ],
+      "answer": 0,
+      "explanation": { "en": "The disrupted arrangement makes it harder for layers to slide over each other.", "bm": "Susunan yang terganggu menyukarkan lapisan menggelongsor antara satu sama lain." } },
+    { "id": "chem-08-q03", "subtopicId": "chem-08-01", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each alloy to its use.", "bm": "Padankan setiap aloi dengan kegunaannya." },
+      "pairs": [
+        { "left": { "en": "Duralumin", "bm": "Duralumin" }, "right": { "en": "Aircraft body", "bm": "Badan kapal terbang" } },
+        { "left": { "en": "Stainless steel", "bm": "Keluli nirkarat" }, "right": { "en": "Surgical instruments", "bm": "Alat pembedahan" } },
+        { "left": { "en": "Pewter", "bm": "Piuter" }, "right": { "en": "Souvenirs", "bm": "Cenderamata" } },
+        { "left": { "en": "Bronze", "bm": "Gangsa" }, "right": { "en": "Medals", "bm": "Pingat" } }
+      ],
+      "explanation": { "en": "Choose the alloy by the property needed: light & strong, rust-proof, shiny, durable.", "bm": "Pilih aloi mengikut sifat diperlukan: ringan & kuat, tidak berkarat, berkilat, tahan lama." } },
+    { "id": "chem-08-q04", "subtopicId": "chem-08-02", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The main raw material for making glass is…", "bm": "Bahan mentah utama untuk membuat kaca ialah…" },
+      "options": [ { "en": "clay", "bm": "tanah liat" }, { "en": "silica (sand)", "bm": "silika (pasir)" }, { "en": "iron ore", "bm": "bijih besi" }, { "en": "limestone only", "bm": "batu kapur sahaja" } ],
+      "answer": 1,
+      "explanation": { "en": "Glass is mostly SiO₂, with additives like Na₂CO₃ and CaCO₃ for soda-lime glass.", "bm": "Kaca kebanyakannya SiO₂, dengan bahan tambahan seperti Na₂CO₃ dan CaCO₃ untuk kaca soda kapur." } },
+    { "id": "chem-08-q05", "subtopicId": "chem-08-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which glass is used for laboratory glassware and oven dishes because it withstands sudden temperature changes?", "bm": "Kaca manakah digunakan untuk radas makmal dan bekas ketuhar kerana tahan perubahan suhu mendadak?" },
+      "options": [ { "en": "Soda-lime glass", "bm": "Kaca soda kapur" }, { "en": "Borosilicate glass", "bm": "Kaca borosilikat" }, { "en": "Lead crystal glass", "bm": "Kaca plumbum kristal" }, { "en": "Photochromic glass", "bm": "Kaca fotokromik" } ],
+      "answer": 1,
+      "explanation": { "en": "Borosilicate (Pyrex) contains boron oxide and has low thermal expansion.", "bm": "Borosilikat (Pyrex) mengandungi boron oksida dan pengembangan termanya rendah." } },
+    { "id": "chem-08-q06", "subtopicId": "chem-08-03", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL properties of ceramics.", "bm": "Pilih SEMUA sifat seramik." },
+      "options": [ { "en": "Hard and strong", "bm": "Keras dan kuat" }, { "en": "Brittle", "bm": "Rapuh" }, { "en": "Good electrical insulator", "bm": "Penebat elektrik yang baik" }, { "en": "Very high melting point", "bm": "Takat lebur sangat tinggi" }, { "en": "Easily bent", "bm": "Mudah dibengkokkan" } ],
+      "answer": [0, 1, 2, 3],
+      "explanation": { "en": "Ceramics are hard, heat-resistant insulators but they shatter instead of bending.", "bm": "Seramik ialah penebat yang keras dan tahan haba tetapi pecah dan bukan bengkok." } },
+    { "id": "chem-08-q07", "subtopicId": "chem-08-04", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each composite to its components.", "bm": "Padankan setiap komposit dengan komponennya." },
+      "pairs": [
+        { "left": { "en": "Reinforced concrete", "bm": "Konkrit diperkukuh" }, "right": { "en": "Concrete + steel bars", "bm": "Konkrit + bar keluli" } },
+        { "left": { "en": "Fibreglass", "bm": "Gentian kaca" }, "right": { "en": "Glass fibres + plastic", "bm": "Gentian kaca + plastik" } },
+        { "left": { "en": "Photochromic glass", "bm": "Kaca fotokromik" }, "right": { "en": "Glass + silver chloride", "bm": "Kaca + argentum klorida" } }
+      ],
+      "explanation": { "en": "Each composite gets strength or a special property from one component and shape or lightness from the other.", "bm": "Setiap komposit mendapat kekuatan atau sifat istimewa daripada satu komponen dan bentuk atau ringan daripada komponen lain." } },
+    { "id": "chem-08-q08", "subtopicId": "chem-08-04", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Why is reinforced concrete used for bridges instead of plain concrete?", "bm": "Mengapa konkrit diperkukuh digunakan untuk jambatan dan bukan konkrit biasa?" },
+      "options": [ { "en": "Steel adds tensile strength so it doesn't crack under stretching forces", "bm": "Keluli menambah kekuatan regangan supaya tidak retak di bawah daya regangan" }, { "en": "It is cheaper and lighter", "bm": "Ia lebih murah dan ringan" }, { "en": "It conducts electricity", "bm": "Ia mengkonduksi elektrik" }, { "en": "It is transparent", "bm": "Ia lutsinar" } ],
+      "answer": 0,
+      "explanation": { "en": "Concrete is strong when compressed but weak when stretched; steel bars handle the tension.", "bm": "Konkrit kuat apabila dimampat tetapi lemah apabila diregang; bar keluli menampung regangan." } },
+    { "id": "chem-08-q09", "subtopicId": "chem-08-01", "type": "fill", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Steel is iron mixed with a small amount of ______.", "bm": "Keluli ialah besi bercampur sedikit ______." },
+      "answer": ["carbon", "karbon"],
+      "explanation": { "en": "Carbon atoms make iron harder; adding chromium and nickel makes it stainless.", "bm": "Atom karbon menjadikan besi lebih keras; tambahan kromium dan nikel menjadikannya nirkarat." } },
+    { "id": "chem-08-q10", "subtopicId": "chem-08-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which composite carries internet signals as light?", "bm": "Komposit manakah membawa isyarat internet sebagai cahaya?" },
+      "options": [ { "en": "Optical fibre", "bm": "Gentian optik" }, { "en": "Superconductor", "bm": "Superkonduktor" }, { "en": "Fibreglass", "bm": "Gentian kaca" }, { "en": "Reinforced concrete", "bm": "Konkrit diperkukuh" } ],
+      "answer": 0,
+      "explanation": { "en": "Optical fibre uses a glass core and cladding with different refractive indices for total internal reflection.", "bm": "Gentian optik menggunakan teras kaca dan lapisan pelindung dengan indeks biasan berbeza untuk pantulan dalam penuh." } }
+  ]
+}

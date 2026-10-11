@@ -1,0 +1,94 @@
+{
+  "chapterId": "math-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your family drives from KL to Ipoh, stops at Tapah R&R for teh tarik, then continues. A graph of that journey tells you how fast you drove, how long you stopped and how far you travelled — without any words.",
+      "bm": "Keluarga anda memandu dari KL ke Ipoh, berhenti di R&R Tapah untuk teh tarik, kemudian meneruskan perjalanan. Graf perjalanan itu memberitahu kelajuan, tempoh berhenti dan jarak yang dilalui — tanpa sebarang perkataan."
+    },
+    "bigIdeas": [
+      { "en": "Distance–time graph: gradient = speed; horizontal line = stationary.", "bm": "Graf jarak–masa: kecerunan = laju; garis mengufuk = pegun." },
+      { "en": "Speed–time graph: gradient = acceleration; area under the graph = distance.", "bm": "Graf laju–masa: kecerunan = pecutan; luas di bawah graf = jarak." },
+      { "en": "Average speed = total distance ÷ total time.", "bm": "Laju purata = jumlah jarak ÷ jumlah masa." },
+      { "en": "Negative gradient on a speed–time graph means deceleration.", "bm": "Kecerunan negatif pada graf laju–masa bermakna nyahpecutan." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Distance–time graph", "bm": "Graf jarak–masa" }, { "en": "Speed–time graph", "bm": "Graf laju–masa" } ],
+        "rows": [
+          { "label": { "en": "Gradient", "bm": "Kecerunan" }, "cells": [ { "en": "speed", "bm": "laju" }, { "en": "acceleration", "bm": "pecutan" } ] },
+          { "label": { "en": "Horizontal line", "bm": "Garis mengufuk" }, "cells": [ { "en": "stationary (stopped)", "bm": "pegun (berhenti)" }, { "en": "constant (uniform) speed", "bm": "laju seragam" } ] },
+          { "label": { "en": "Area under graph", "bm": "Luas di bawah graf" }, "cells": [ { "en": "no meaning", "bm": "tiada makna" }, { "en": "distance travelled", "bm": "jarak dilalui" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Speed", "bm": "Laju" }, "definition": { "en": "Rate of change of distance, e.g. km h⁻¹ or m s⁻¹.", "bm": "Kadar perubahan jarak, cth. km j⁻¹ atau m s⁻¹." } },
+      { "term": { "en": "Acceleration", "bm": "Pecutan" }, "definition": { "en": "Rate of change of speed, e.g. m s⁻².", "bm": "Kadar perubahan laju, cth. m s⁻²." } },
+      { "term": { "en": "Deceleration", "bm": "Nyahpecutan" }, "definition": { "en": "Decrease in speed (negative acceleration).", "bm": "Pengurangan laju (pecutan negatif)." } },
+      { "term": { "en": "Uniform speed", "bm": "Laju seragam" }, "definition": { "en": "Speed that does not change.", "bm": "Laju yang tidak berubah." } },
+      { "term": { "en": "Average speed", "bm": "Laju purata" }, "definition": { "en": "Total distance ÷ total time (including stops).", "bm": "Jumlah jarak ÷ jumlah masa (termasuk berhenti)." } }
+    ],
+    "formulaIds": ["math-speed", "math-accel"],
+    "toolId": "motion-graph",
+    "workedExample": {
+      "question": { "en": "A car accelerates from 0 to 20 m s⁻¹ in 10 s, then travels at 20 m s⁻¹ for 20 s. Find the acceleration, total distance and average speed.", "bm": "Sebuah kereta memecut dari 0 ke 20 m s⁻¹ dalam 10 s, kemudian bergerak pada 20 m s⁻¹ selama 20 s. Cari pecutan, jumlah jarak dan laju purata." },
+      "steps": [
+        { "en": "Acceleration = gradient = (20 − 0)/10 = 2 m s⁻².", "bm": "Pecutan = kecerunan = (20 − 0)/10 = 2 m s⁻²." },
+        { "en": "Distance = area: triangle ½ × 10 × 20 = 100 m, plus rectangle 20 × 20 = 400 m → 500 m.", "bm": "Jarak = luas: segi tiga ½ × 10 × 20 = 100 m, ditambah segi empat 20 × 20 = 400 m → 500 m." },
+        { "en": "Average speed = 500 ÷ 30 ≈ 16.67 m s⁻¹.", "bm": "Laju purata = 500 ÷ 30 ≈ 16.67 m s⁻¹." }
+      ],
+      "answer": { "en": "2 m s⁻²; 500 m; 16.67 m s⁻¹", "bm": "2 m s⁻²; 500 m; 16.67 m s⁻¹" }
+    }
+  },
+  "questions": [
+    { "id": "math-07-q01", "subtopicId": "math-07-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A car travels 120 km in 2 hours at constant speed. Find the gradient of its distance–time graph (km/h).", "bm": "Sebuah kereta bergerak 120 km dalam 2 jam pada laju seragam. Cari kecerunan graf jarak–masanya (km/j)." },
+      "answer": 60, "tolerance": 0, "unit": "km/h",
+      "explanation": { "en": "Gradient = speed = 120 ÷ 2 = 60 km/h.", "bm": "Kecerunan = laju = 120 ÷ 2 = 60 km/j." } },
+    { "id": "math-07-q02", "subtopicId": "math-07-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A horizontal line on a distance–time graph means the object is…", "bm": "Garis mengufuk pada graf jarak–masa bermakna objek…" },
+      "options": [ { "en": "stationary", "bm": "pegun" }, { "en": "moving at constant speed", "bm": "bergerak pada laju seragam" }, { "en": "accelerating", "bm": "memecut" }, { "en": "returning home", "bm": "pulang ke rumah" } ],
+      "answer": 0,
+      "explanation": { "en": "Distance doesn't change, so it has stopped.", "bm": "Jarak tidak berubah, jadi ia telah berhenti." } },
+    { "id": "math-07-q03", "subtopicId": "math-07-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Aryana cycles 6 km in 30 min, rests for 15 min, then cycles 3 km in 15 min. Find her average speed in km/h.", "bm": "Aryana berbasikal 6 km dalam 30 min, berehat 15 min, kemudian berbasikal 3 km dalam 15 min. Cari laju puratanya dalam km/j." },
+      "answer": 9, "tolerance": 0, "unit": "km/h",
+      "explanation": { "en": "Total 9 km in 60 min = 1 h → 9 km/h. Include the rest time!", "bm": "Jumlah 9 km dalam 60 min = 1 j → 9 km/j. Masukkan masa rehat!" } },
+    { "id": "math-07-q04", "subtopicId": "math-07-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "On a distance–time graph, a line sloping DOWN means the object is…", "bm": "Pada graf jarak–masa, garis yang condong KE BAWAH bermakna objek…" },
+      "options": [ { "en": "moving back towards the starting point", "bm": "bergerak kembali ke titik mula" }, { "en": "slowing down", "bm": "semakin perlahan" }, { "en": "stationary", "bm": "pegun" }, { "en": "accelerating", "bm": "memecut" } ],
+      "answer": 0,
+      "explanation": { "en": "Distance from the start is decreasing — it's returning.", "bm": "Jarak dari titik mula berkurang — ia sedang kembali." } },
+    { "id": "math-07-q05", "subtopicId": "math-07-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A car's speed increases uniformly from 0 to 20 m/s in 10 s. Find its acceleration (m/s²).", "bm": "Laju sebuah kereta bertambah secara seragam dari 0 ke 20 m/s dalam 10 s. Cari pecutannya (m/s²)." },
+      "answer": 2, "tolerance": 0, "unit": "m s⁻²",
+      "explanation": { "en": "Gradient = 20 ÷ 10 = 2 m s⁻².", "bm": "Kecerunan = 20 ÷ 10 = 2 m s⁻²." } },
+    { "id": "math-07-q06", "subtopicId": "math-07-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Same car (0 to 20 m/s in 10 s). Find the distance travelled in those 10 s (m).", "bm": "Kereta yang sama (0 ke 20 m/s dalam 10 s). Cari jarak yang dilalui dalam 10 s itu (m)." },
+      "answer": 100, "tolerance": 0, "unit": "m",
+      "explanation": { "en": "Area of triangle = ½ × 10 × 20 = 100 m.", "bm": "Luas segi tiga = ½ × 10 × 20 = 100 m." } },
+    { "id": "math-07-q07", "subtopicId": "math-07-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "The car then travels at 20 m/s for another 20 s. Find its average speed for the whole 30 s (2 d.p.).", "bm": "Kereta kemudian bergerak pada 20 m/s selama 20 s lagi. Cari laju purata bagi keseluruhan 30 s (2 t.p.)." },
+      "answer": 16.67, "tolerance": 0.002, "unit": "m s⁻¹",
+      "explanation": { "en": "Distance = 100 + 400 = 500 m; 500 ÷ 30 = 16.67 m/s.", "bm": "Jarak = 100 + 400 = 500 m; 500 ÷ 30 = 16.67 m/s." } },
+    { "id": "math-07-q08", "subtopicId": "math-07-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "On a speed–time graph, a horizontal line means…", "bm": "Pada graf laju–masa, garis mengufuk bermakna…" },
+      "options": [ { "en": "uniform (constant) speed", "bm": "laju seragam" }, { "en": "the object has stopped", "bm": "objek telah berhenti" }, { "en": "uniform deceleration", "bm": "nyahpecutan seragam" }, { "en": "increasing speed", "bm": "laju bertambah" } ],
+      "answer": 0,
+      "explanation": { "en": "Speed isn't changing (acceleration = 0). Only a line ON the time axis means stopped.", "bm": "Laju tidak berubah (pecutan = 0). Hanya garis PADA paksi masa bermakna berhenti." } },
+    { "id": "math-07-q09", "subtopicId": "math-07-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A bus slows uniformly from 15 m/s to 0 in 5 s. Find the deceleration (m/s²).", "bm": "Sebuah bas menjadi perlahan secara seragam dari 15 m/s ke 0 dalam 5 s. Cari nyahpecutannya (m/s²)." },
+      "answer": 3, "tolerance": 0, "unit": "m s⁻²",
+      "explanation": { "en": "Gradient = (0 − 15)/5 = −3, so deceleration = 3 m s⁻².", "bm": "Kecerunan = (0 − 15)/5 = −3, jadi nyahpecutan = 3 m s⁻²." } },
+    { "id": "math-07-q10", "subtopicId": "math-07-02", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each graph feature to its meaning.", "bm": "Padankan setiap ciri graf dengan maknanya." },
+      "pairs": [
+        { "left": { "en": "Gradient of distance–time", "bm": "Kecerunan jarak–masa" }, "right": { "en": "Speed", "bm": "Laju" } },
+        { "left": { "en": "Gradient of speed–time", "bm": "Kecerunan laju–masa" }, "right": { "en": "Acceleration", "bm": "Pecutan" } },
+        { "left": { "en": "Area under speed–time", "bm": "Luas di bawah laju–masa" }, "right": { "en": "Distance", "bm": "Jarak" } }
+      ],
+      "explanation": { "en": "Same ideas as Physics Chapter 2 (displacement and velocity).", "bm": "Idea yang sama dengan Fizik Bab 2 (sesaran dan halaju)." } }
+  ]
+}

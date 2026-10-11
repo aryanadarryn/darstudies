@@ -1,0 +1,49 @@
+{
+  "chapterId": "bio-02",
+  "reviewed": false,
+  "subtopics": {
+    "bio-02-01": {
+      "keyPoints": [
+        { "en": "Organelles in both cells: nucleus (controls cell), plasma membrane (controls entry/exit), cytoplasm, mitochondria (respiration), ribosomes (protein), ER, Golgi apparatus.", "bm": "Organel dalam kedua-dua sel: nukleus (kawal sel), membran plasma (kawal keluar masuk), sitoplasma, mitokondria (respirasi), ribosom (protein), JE, jasad Golgi." },
+        { "en": "Animal cells only: centrioles, lysosomes (common), small temporary vacuoles; irregular shape.", "bm": "Sel haiwan sahaja: sentriol, lisosom (biasa), vakuol kecil sementara; bentuk tidak tetap." },
+        { "en": "Plant cells only: cellulose cell wall, chloroplasts, large central vacuole; fixed shape.", "bm": "Sel tumbuhan sahaja: dinding sel selulosa, kloroplas, vakuol tengah besar; bentuk tetap." },
+        { "en": "Rough ER + Golgi = making and secreting proteins (enzymes, hormones); smooth ER = lipids, detoxification.", "bm": "JE kasar + Golgi = menghasil dan merembes protein (enzim, hormon); JE licin = lipid, penyahtoksikan." },
+        { "en": "Cells with high energy needs (sperm, muscle) have many mitochondria.", "bm": "Sel yang memerlukan banyak tenaga (sperma, otot) mempunyai banyak mitokondria." }
+      ],
+      "example": { "question": { "en": "Why do liver cells have a lot of smooth endoplasmic reticulum?", "bm": "Mengapa sel hati mempunyai banyak jalinan endoplasma licin?" }, "answer": { "en": "The liver detoxifies drugs and poisons, a job of smooth ER.", "bm": "Hati menyahtoksik dadah dan racun, iaitu tugas JE licin." } },
+      "tip": { "en": "Learn organelles as pairs: structure ↔ function ↔ example of a cell that has many of them.", "bm": "Pelajari organel secara berpasangan: struktur ↔ fungsi ↔ contoh sel yang banyak mengandunginya." }
+    },
+    "bio-02-02": {
+      "keyPoints": [
+        { "en": "Unicellular organisms carry out all living processes in one cell: nutrition, respiration, excretion, movement, growth, reproduction, response.", "bm": "Organisma unisel menjalankan semua proses hidup dalam satu sel: nutrisi, respirasi, perkumuhan, pergerakan, pertumbuhan, pembiakan, gerak balas." },
+        { "en": "Amoeba sp.: moves with pseudopodia, feeds by phagocytosis, food vacuoles digest food, contractile vacuole removes excess water.", "bm": "Amoeba sp.: bergerak dengan pseudopodium, makan secara fagositosis, vakuol makanan mencerna makanan, vakuol mengecut menyingkir air berlebihan." },
+        { "en": "Paramecium sp.: moves with cilia, takes food through the oral groove, two contractile vacuoles.", "bm": "Paramecium sp.: bergerak dengan silium, mengambil makanan melalui alur mulut, dua vakuol mengecut." },
+        { "en": "Both reproduce asexually by binary fission when conditions are good; Paramecium can also conjugate.", "bm": "Kedua-duanya membiak secara aseks melalui belahan dedua dalam keadaan baik; Paramecium juga boleh berkonjugasi." },
+        { "en": "Gases (O₂, CO₂) move by diffusion across the plasma membrane.", "bm": "Gas (O₂, CO₂) bergerak secara resapan merentasi membran plasma." }
+      ],
+      "example": { "question": { "en": "What happens to Amoeba's contractile vacuole if placed in sea water?", "bm": "Apakah yang berlaku kepada vakuol mengecut Amoeba jika diletakkan dalam air laut?" }, "answer": { "en": "Less water enters by osmosis, so the contractile vacuole contracts less often.", "bm": "Kurang air memasuki sel secara osmosis, jadi vakuol mengecut kurang kerap mengecut." } },
+      "tip": { "en": "Draw Amoeba and Paramecium and label every structure with its process.", "bm": "Lukis Amoeba dan Paramecium serta label setiap struktur dengan prosesnya." }
+    },
+    "bio-02-03": {
+      "keyPoints": [
+        { "en": "In multicellular organisms, cells specialise — their structure suits a particular function.", "bm": "Dalam organisma multisel, sel mengalami pengkhususan — strukturnya sesuai dengan fungsi tertentu." },
+        { "en": "Examples: red blood cells (no nucleus, biconcave), nerve cells (long axon), root hair cells (long extension), guard cells (control stoma).", "bm": "Contoh: sel darah merah (tiada nukleus, dwicekung), sel saraf (akson panjang), sel rambut akar (unjuran panjang), sel pengawal (mengawal stoma)." },
+        { "en": "Animal tissues: epithelial, connective, muscle, nerve.", "bm": "Tisu haiwan: epitelium, penghubung, otot, saraf." },
+        { "en": "Plant tissues: meristematic (dividing) and permanent — epidermal, ground (parenchyma, collenchyma, sclerenchyma), vascular (xylem, phloem).", "bm": "Tisu tumbuhan: meristem (membahagi) dan kekal — epidermis, asas (parenkima, kolenkima, sklerenkima), vaskular (xilem, floem)." }
+      ],
+      "example": { "question": { "en": "How is a palisade mesophyll cell adapted for photosynthesis?", "bm": "Bagaimanakah sel mesofil palisad diadaptasi untuk fotosintesis?" }, "answer": { "en": "Tall, closely packed near the upper leaf surface, with many chloroplasts to absorb maximum light.", "bm": "Panjang, tersusun rapat berhampiran permukaan atas daun, dengan banyak kloroplas untuk menyerap cahaya maksimum." } },
+      "tip": { "en": "Answer 'adaptation' questions with: feature → how it helps the function.", "bm": "Jawab soalan 'penyesuaian' dengan: ciri → bagaimana ia membantu fungsi." }
+    },
+    "bio-02-04": {
+      "keyPoints": [
+        { "en": "Levels of organisation: cell → tissue → organ → system → organism.", "bm": "Aras organisasi: sel → tisu → organ → sistem → organisma." },
+        { "en": "Tissue: group of similar cells with the same function (e.g. muscle tissue).", "bm": "Tisu: sekumpulan sel serupa dengan fungsi yang sama (cth. tisu otot)." },
+        { "en": "Organ: different tissues working together (e.g. heart, leaf).", "bm": "Organ: tisu berbeza yang bekerjasama (cth. jantung, daun)." },
+        { "en": "System: organs working together (e.g. digestive system); systems together form the organism.", "bm": "Sistem: organ yang bekerjasama (cth. sistem pencernaan); sistem-sistem bersama membentuk organisma." },
+        { "en": "Human systems: digestive, respiratory, circulatory, nervous, endocrine, excretory, skeletal, muscular, reproductive, lymphatic, integumentary.", "bm": "Sistem manusia: pencernaan, respirasi, peredaran, saraf, endokrin, perkumuhan, rangka, otot, pembiakan, limfa, integumen." }
+      ],
+      "example": { "question": { "en": "Why is a leaf called an organ?", "bm": "Mengapa daun dipanggil organ?" }, "answer": { "en": "It is made of several tissues (epidermis, mesophyll, xylem, phloem) working together for photosynthesis.", "bm": "Ia terdiri daripada beberapa tisu (epidermis, mesofil, xilem, floem) yang bekerjasama untuk fotosintesis." } },
+      "tip": { "en": "The internal environment must be kept constant (homeostasis) for cells to work properly.", "bm": "Persekitaran dalam mesti dikekalkan malar (homeostasis) supaya sel berfungsi dengan baik." }
+    }
+  }
+}

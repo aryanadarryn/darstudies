@@ -1,0 +1,38 @@
+{
+  "chapterId": "addmath-02",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-02-01": {
+      "keyPoints": [
+        { "en": "General form: ax² + bx + c = 0, a ≠ 0. Rearrange to '= 0' before solving.", "bm": "Bentuk am: ax² + bx + c = 0, a ≠ 0. Susun semula kepada '= 0' sebelum menyelesaikan." },
+        { "en": "Solve by factorisation, completing the square, or the formula x = [−b ± √(b² − 4ac)]/2a.", "bm": "Selesaikan dengan pemfaktoran, penyempurnaan kuasa dua, atau rumus x = [−b ± √(b² − 4ac)]/2a." },
+        { "en": "Forming an equation from roots α and β: x² − (α + β)x + αβ = 0.", "bm": "Membentuk persamaan daripada punca α dan β: x² − (α + β)x + αβ = 0." },
+        { "en": "Sum of roots = −b/a, product of roots = c/a.", "bm": "Hasil tambah punca = −b/a, hasil darab punca = c/a." },
+        { "en": "Quadratic inequalities: find the roots, sketch the graph, read where it is above (> 0) or below (< 0) the x-axis.", "bm": "Ketaksamaan kuadratik: cari punca, lakar graf, baca di mana graf di atas (> 0) atau di bawah (< 0) paksi-x." }
+      ],
+      "example": { "question": { "en": "Solve x² − 2x − 8 ≥ 0.", "bm": "Selesaikan x² − 2x − 8 ≥ 0." }, "answer": { "en": "(x − 4)(x + 2) ≥ 0 → x ≤ −2 or x ≥ 4", "bm": "(x − 4)(x + 2) ≥ 0 → x ≤ −2 atau x ≥ 4" } },
+      "tip": { "en": "'Between' answers (−2 < x < 4) come from < 0 with a > 0; 'outside' answers from > 0.", "bm": "Jawapan 'di antara' (−2 < x < 4) datang dari < 0 dengan a > 0; jawapan 'di luar' dari > 0." }
+    },
+    "addmath-02-02": {
+      "keyPoints": [
+        { "en": "Discriminant D = b² − 4ac decides the type of roots.", "bm": "Pembeza layan D = b² − 4ac menentukan jenis punca." },
+        { "en": "D > 0: two distinct real roots (graph cuts the x-axis twice).", "bm": "D > 0: dua punca nyata berbeza (graf memotong paksi-x dua kali)." },
+        { "en": "D = 0: two equal real roots (graph touches the x-axis). D < 0: no real roots (graph doesn't meet the x-axis).", "bm": "D = 0: dua punca nyata sama (graf menyentuh paksi-x). D < 0: tiada punca nyata (graf tidak bertemu paksi-x)." },
+        { "en": "'Real roots' means D ≥ 0. Use these conditions to find unknown constants (e.g. k).", "bm": "'Punca nyata' bermakna D ≥ 0. Guna syarat ini untuk mencari pemalar yang tidak diketahui (cth. k)." }
+      ],
+      "example": { "question": { "en": "Find the range of k if x² + 4x + k = 0 has no real roots.", "bm": "Cari julat k jika x² + 4x + k = 0 tiada punca nyata." }, "answer": { "en": "16 − 4k < 0 → k > 4", "bm": "16 − 4k < 0 → k > 4" } },
+      "tip": { "en": "When a line is tangent to a curve, substitute and set D = 0.", "bm": "Apabila garis ialah tangen kepada lengkung, gantikan dan tetapkan D = 0." }
+    },
+    "addmath-02-03": {
+      "keyPoints": [
+        { "en": "f(x) = ax² + bx + c: a > 0 gives ∪ (minimum), a < 0 gives ∩ (maximum).", "bm": "f(x) = ax² + bx + c: a > 0 memberi ∪ (minimum), a < 0 memberi ∩ (maksimum)." },
+        { "en": "Vertex form f(x) = a(x − h)² + k: turning point (h, k), axis of symmetry x = h.", "bm": "Bentuk verteks f(x) = a(x − h)² + k: titik pusingan (h, k), paksi simetri x = h." },
+        { "en": "Effects: changing a → width/shape; changing b → shifts the axis; changing c → shifts up/down (y-intercept).", "bm": "Kesan: ubah a → lebar/bentuk; ubah b → anjak paksi; ubah c → anjak ke atas/bawah (pintasan-y)." },
+        { "en": "Sketch: shape, y-intercept, x-intercepts, turning point, axis of symmetry.", "bm": "Lakaran: bentuk, pintasan-y, pintasan-x, titik pusingan, paksi simetri." },
+        { "en": "Applications: maximum height of a projectile, maximum area or profit.", "bm": "Aplikasi: ketinggian maksimum projektil, luas atau keuntungan maksimum." }
+      ],
+      "example": { "question": { "en": "A farmer fences a rectangle against a wall using 40 m of fence (3 sides). Find the maximum area.", "bm": "Seorang petani memagar segi empat tepat bersandar dinding menggunakan 40 m pagar (3 sisi). Cari luas maksimum." }, "answer": { "en": "A = x(40 − 2x) = −2(x − 10)² + 200 → maximum 200 m² when x = 10 m.", "bm": "L = x(40 − 2x) = −2(x − 10)² + 200 → maksimum 200 m² apabila x = 10 m." } },
+      "tip": { "en": "Try the Quadratic graph plotter tool to see how a, b and c change the graph.", "bm": "Cuba alat Pemplot graf kuadratik untuk melihat kesan a, b dan c pada graf." }
+    }
+  }
+}

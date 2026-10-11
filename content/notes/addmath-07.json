@@ -1,0 +1,46 @@
+{
+  "chapterId": "addmath-07",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-07-01": {
+      "keyPoints": [
+        { "en": "Distance AB = √[(x₂ − x₁)² + (y₂ − y₁)²].", "bm": "Jarak AB = √[(x₂ − x₁)² + (y₂ − y₁)²]." },
+        { "en": "Midpoint = ((x₁ + x₂)/2, (y₁ + y₂)/2).", "bm": "Titik tengah = ((x₁ + x₂)/2, (y₁ + y₂)/2)." },
+        { "en": "Point P dividing AB with AP : PB = m : n: P = ((nx₁ + mx₂)/(m + n), (ny₁ + my₂)/(m + n)).", "bm": "Titik P membahagi AB dengan AP : PB = m : n: P = ((nx₁ + mx₂)/(m + n), (ny₁ + my₂)/(m + n))." },
+        { "en": "Note the 'cross' weighting: n goes with A, m goes with B.", "bm": "Perhatikan pemberat 'bersilang': n bersama A, m bersama B." }
+      ],
+      "example": { "question": { "en": "A(−2, 3), B(8, −2). Find P on AB such that AP : PB = 2 : 3.", "bm": "A(−2, 3), B(8, −2). Cari P pada AB dengan AP : PB = 2 : 3." }, "answer": { "en": "P = ((3(−2) + 2(8))/5, (3(3) + 2(−2))/5) = (2, 1)", "bm": "P = ((3(−2) + 2(8))/5, (3(3) + 2(−2))/5) = (2, 1)" } },
+      "tip": { "en": "Check: P should lie between A and B, closer to A when m < n.", "bm": "Semak: P mesti di antara A dan B, lebih dekat dengan A apabila m < n." }
+    },
+    "addmath-07-02": {
+      "keyPoints": [
+        { "en": "Gradient m = (y₂ − y₁)/(x₂ − x₁). For ax + by + c = 0, m = −a/b.", "bm": "Kecerunan m = (y₂ − y₁)/(x₂ − x₁). Bagi ax + by + c = 0, m = −a/b." },
+        { "en": "Parallel lines: m₁ = m₂. Perpendicular lines: m₁ × m₂ = −1.", "bm": "Garis selari: m₁ = m₂. Garis serenjang: m₁ × m₂ = −1." },
+        { "en": "Equation of a line: y − y₁ = m(x − x₁) or y = mx + c.", "bm": "Persamaan garis: y − y₁ = m(x − x₁) atau y = mx + c." },
+        { "en": "To find the intersection of two lines, solve them simultaneously.", "bm": "Untuk mencari persilangan dua garis, selesaikan secara serentak." }
+      ],
+      "example": { "question": { "en": "Find the equation of the line through (1, 4) perpendicular to 2x + 3y = 6.", "bm": "Cari persamaan garis melalui (1, 4) yang serenjang dengan 2x + 3y = 6." }, "answer": { "en": "m₁ = −2/3 → m₂ = 3/2; y − 4 = 3/2 (x − 1) → y = 1.5x + 2.5", "bm": "m₁ = −2/3 → m₂ = 3/2; y − 4 = 3/2 (x − 1) → y = 1.5x + 2.5" } },
+      "tip": { "en": "Perpendicular gradient: flip the fraction and change the sign.", "bm": "Kecerunan serenjang: terbalikkan pecahan dan tukar tanda." }
+    },
+    "addmath-07-03": {
+      "keyPoints": [
+        { "en": "Area of a triangle with vertices (x₁, y₁), (x₂, y₂), (x₃, y₃) = ½|(x₁y₂ + x₂y₃ + x₃y₁) − (x₂y₁ + x₃y₂ + x₁y₃)|.", "bm": "Luas segi tiga dengan bucu (x₁, y₁), (x₂, y₂), (x₃, y₃) = ½|(x₁y₂ + x₂y₃ + x₃y₁) − (x₂y₁ + x₃y₂ + x₁y₃)|." },
+        { "en": "Write the coordinates in a column, repeat the first at the end, multiply diagonally (shoelace).", "bm": "Tulis koordinat dalam lajur, ulang yang pertama di hujung, darab secara pepenjuru (tali kasut)." },
+        { "en": "List vertices in order (clockwise or anticlockwise) — the absolute value keeps the area positive.", "bm": "Senaraikan bucu mengikut susunan (ikut atau lawan arah jam) — nilai mutlak memastikan luas positif." },
+        { "en": "Area = 0 means the three points are collinear.", "bm": "Luas = 0 bermakna tiga titik itu segaris." }
+      ],
+      "example": { "question": { "en": "Show that (1, 2), (3, 6) and (4, 8) are collinear.", "bm": "Tunjukkan (1, 2), (3, 6) dan (4, 8) segaris." }, "answer": { "en": "½|(6 + 24 + 8) − (6 + 24 + 8)| = 0 → collinear", "bm": "½|(6 + 24 + 8) − (6 + 24 + 8)| = 0 → segaris" } },
+      "tip": { "en": "For quadrilaterals, the vertices MUST be in order around the shape.", "bm": "Bagi sisi empat, bucu MESTI mengikut susunan sekeliling bentuk." }
+    },
+    "addmath-07-04": {
+      "keyPoints": [
+        { "en": "A locus is the path of a point P(x, y) moving under a condition — write the condition as an equation.", "bm": "Lokus ialah laluan titik P(x, y) yang bergerak mengikut syarat — tulis syarat sebagai persamaan." },
+        { "en": "Fixed distance r from A(a, b): (x − a)² + (y − b)² = r² (a circle).", "bm": "Jarak tetap r dari A(a, b): (x − a)² + (y − b)² = r² (bulatan)." },
+        { "en": "Equidistant from A and B: PA = PB → the perpendicular bisector of AB.", "bm": "Sama jarak dari A dan B: PA = PB → pembahagi dua sama serenjang AB." },
+        { "en": "Ratio PA : PB = m : n → n²PA² = m²PB², expand and simplify.", "bm": "Nisbah PA : PB = m : n → n²PA² = m²PB², kembangkan dan permudahkan." }
+      ],
+      "example": { "question": { "en": "Find the locus of P such that PA = 2PB, where A(0, 0) and B(3, 0).", "bm": "Cari lokus P dengan PA = 2PB, A(0, 0) dan B(3, 0)." }, "answer": { "en": "x² + y² = 4[(x − 3)² + y²] → 3x² + 3y² − 24x + 36 = 0 → x² + y² − 8x + 12 = 0", "bm": "x² + y² = 4[(x − 3)² + y²] → 3x² + 3y² − 24x + 36 = 0 → x² + y² − 8x + 12 = 0" } },
+      "tip": { "en": "Square both sides early to get rid of the square roots.", "bm": "Kuasaduakan kedua-dua belah awal untuk menghapuskan punca kuasa dua." }
+    }
+  }
+}

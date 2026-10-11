@@ -1,0 +1,15 @@
+{
+  "chapterId": "math-09",
+  "cards": [
+    { "id": "math-09-f01", "subtopicId": "math-09-01", "front": { "en": "Sample space", "bm": "Ruang sampel" }, "back": { "en": "Set of all possible outcomes — list with a table or tree diagram", "bm": "Set semua kesudahan yang mungkin — senaraikan dengan jadual atau gambar rajah pokok" } },
+    { "id": "math-09-f02", "subtopicId": "math-09-01", "front": { "en": "P(A)", "bm": "P(A)" }, "back": { "en": "n(A) ÷ n(S)", "bm": "n(A) ÷ n(S)" } },
+    { "id": "math-09-f03", "subtopicId": "math-09-01", "front": { "en": "Outcomes for two dice", "bm": "Kesudahan bagi dua dadu" }, "back": { "en": "6 × 6 = 36", "bm": "6 × 6 = 36" } },
+    { "id": "math-09-f04", "subtopicId": "math-09-02", "front": { "en": "Independent events", "bm": "Peristiwa tak bersandar" }, "back": { "en": "P(A ∩ B) = P(A) × P(B)", "bm": "P(A ∩ B) = P(A) × P(B)" } },
+    { "id": "math-09-f05", "subtopicId": "math-09-02", "front": { "en": "Dependent events", "bm": "Peristiwa bersandar" }, "back": { "en": "The second probability changes after the first (e.g. without replacement)", "bm": "Kebarangkalian kedua berubah selepas yang pertama (cth. tanpa pengembalian)" } },
+    { "id": "math-09-f06", "subtopicId": "math-09-02", "front": { "en": "With vs without replacement", "bm": "Dengan vs tanpa pengembalian" }, "back": { "en": "With: same denominators (independent). Without: numbers drop by 1 (dependent)", "bm": "Dengan: penyebut sama (tak bersandar). Tanpa: nombor berkurang 1 (bersandar)" } },
+    { "id": "math-09-f07", "subtopicId": "math-09-03", "front": { "en": "Mutually exclusive", "bm": "Saling eksklusif" }, "back": { "en": "Can't happen together: P(A ∩ B) = 0, so P(A ∪ B) = P(A) + P(B)", "bm": "Tidak boleh berlaku bersama: P(A ∩ B) = 0, jadi P(A ∪ B) = P(A) + P(B)" } },
+    { "id": "math-09-f08", "subtopicId": "math-09-03", "front": { "en": "Not mutually exclusive", "bm": "Tidak saling eksklusif" }, "back": { "en": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)", "bm": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)" } },
+    { "id": "math-09-f09", "subtopicId": "math-09-04", "front": { "en": "'At least one'", "bm": "'Sekurang-kurangnya satu'" }, "back": { "en": "1 − P(none)", "bm": "1 − P(tiada)" } },
+    { "id": "math-09-f10", "subtopicId": "math-09-04", "front": { "en": "Tree diagram rules", "bm": "Petua gambar rajah pokok" }, "back": { "en": "Multiply along branches (AND); add the end results (OR)", "bm": "Darab sepanjang cabang (DAN); tambah hasil akhir (ATAU)" } }
+  ]
+}

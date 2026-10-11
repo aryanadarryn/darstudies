@@ -1,0 +1,107 @@
+{
+  "chapterId": "bio-14",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An earthworm has no bones but can still burrow. A crab wears its skeleton on the outside. You have 206 bones, over 600 muscles — and every step, kick and badminton smash depends on them working in pairs.",
+      "bm": "Cacing tanah tiada tulang tetapi masih boleh mengorek tanah. Ketam memakai rangkanya di luar. Anda mempunyai 206 tulang, lebih 600 otot — dan setiap langkah, tendangan dan smesy badminton bergantung pada kerjasama berpasangan."
+    },
+    "bigIdeas": [
+      { "en": "Skeletons: hydrostatic (earthworm), exoskeleton (insects, crabs), endoskeleton (vertebrates).", "bm": "Rangka: hidrostatik (cacing tanah), rangka luar (serangga, ketam), rangka dalam (vertebrata)." },
+      { "en": "The human skeleton supports, protects, allows movement and makes blood cells.", "bm": "Rangka manusia menyokong, melindungi, membolehkan pergerakan dan menghasilkan sel darah." },
+      { "en": "Muscles work in antagonistic pairs: one contracts while the other relaxes.", "bm": "Otot bekerja secara berpasangan antagonistik: satu mengecut sementara satu lagi mengendur." },
+      { "en": "Healthy bones and joints need calcium, vitamin D, exercise and good posture.", "bm": "Tulang dan sendi yang sihat memerlukan kalsium, vitamin D, senaman dan postur yang baik." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Bending the arm", "bm": "Membengkokkan lengan" }, { "en": "Straightening the arm", "bm": "Meluruskan lengan" } ],
+        "rows": [
+          { "label": { "en": "Biceps", "bm": "Biseps" }, "cells": [ { "en": "contracts", "bm": "mengecut" }, { "en": "relaxes", "bm": "mengendur" } ] },
+          { "label": { "en": "Triceps", "bm": "Triseps" }, "cells": [ { "en": "relaxes", "bm": "mengendur" }, { "en": "contracts", "bm": "mengecut" } ] },
+          { "label": { "en": "Forearm", "bm": "Lengan bawah" }, "cells": [ { "en": "pulled up", "bm": "ditarik ke atas" }, { "en": "pulled down", "bm": "ditarik ke bawah" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Endoskeleton", "bm": "Rangka dalam" }, "definition": { "en": "Internal skeleton of bone and cartilage (vertebrates).", "bm": "Rangka dalaman tulang dan rawan (vertebrata)." } },
+      { "term": { "en": "Exoskeleton", "bm": "Rangka luar" }, "definition": { "en": "Hard outer covering of chitin (insects, crustaceans).", "bm": "Penutup luar keras daripada kitin (serangga, krustasia)." } },
+      { "term": { "en": "Hydrostatic skeleton", "bm": "Rangka hidrostatik" }, "definition": { "en": "Fluid under pressure in a body cavity (earthworm).", "bm": "Bendalir bertekanan dalam rongga badan (cacing tanah)." } },
+      { "term": { "en": "Ligament", "bm": "Ligamen" }, "definition": { "en": "Strong elastic tissue joining bone to bone.", "bm": "Tisu kenyal kuat yang menyambung tulang dengan tulang." } },
+      { "term": { "en": "Tendon", "bm": "Tendon" }, "definition": { "en": "Tough inelastic tissue joining muscle to bone.", "bm": "Tisu liat tidak kenyal yang menyambung otot dengan tulang." } },
+      { "term": { "en": "Antagonistic muscles", "bm": "Otot antagonistik" }, "definition": { "en": "Pair of muscles with opposite actions (biceps and triceps).", "bm": "Sepasang otot dengan tindakan bertentangan (biseps dan triseps)." } },
+      { "term": { "en": "Synovial joint", "bm": "Sendi sinovia" }, "definition": { "en": "Freely movable joint with cartilage and synovial fluid.", "bm": "Sendi bebas bergerak dengan rawan dan bendalir sinovia." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain how the arm bends at the elbow.", "bm": "Terangkan bagaimana lengan dibengkokkan pada siku." },
+      "steps": [
+        { "en": "A nerve impulse reaches the biceps; the biceps contracts and shortens.", "bm": "Impuls saraf sampai ke biseps; biseps mengecut dan memendek." },
+        { "en": "At the same time the triceps relaxes.", "bm": "Pada masa yang sama triseps mengendur." },
+        { "en": "The biceps' tendon pulls the radius upwards; the elbow (hinge joint) acts as the pivot.", "bm": "Tendon biseps menarik radius ke atas; siku (sendi engsel) bertindak sebagai fulkrum." }
+      ],
+      "answer": { "en": "Biceps contracts, triceps relaxes, tendon pulls the forearm up around the hinge joint.", "bm": "Biseps mengecut, triseps mengendur, tendon menarik lengan bawah ke atas pada sendi engsel." }
+    }
+  },
+  "questions": [
+    { "id": "bio-14-q01", "subtopicId": "bio-14-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each animal to its type of skeleton.", "bm": "Padankan setiap haiwan dengan jenis rangkanya." },
+      "pairs": [
+        { "left": { "en": "Earthworm", "bm": "Cacing tanah" }, "right": { "en": "Hydrostatic skeleton", "bm": "Rangka hidrostatik" } },
+        { "left": { "en": "Grasshopper", "bm": "Belalang" }, "right": { "en": "Exoskeleton", "bm": "Rangka luar" } },
+        { "left": { "en": "Human", "bm": "Manusia" }, "right": { "en": "Endoskeleton", "bm": "Rangka dalam" } }
+      ],
+      "explanation": { "en": "Arthropods must moult (ecdysis) to grow because the exoskeleton can't expand.", "bm": "Artropod mesti bersalin kulit (ekdisis) untuk membesar kerana rangka luar tidak dapat mengembang." } },
+    { "id": "bio-14-q02", "subtopicId": "bio-14-02", "type": "multi", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Select ALL functions of the human skeleton.", "bm": "Pilih SEMUA fungsi rangka manusia." },
+      "options": [ { "en": "Support the body", "bm": "Menyokong badan" }, { "en": "Protect internal organs", "bm": "Melindungi organ dalaman" }, { "en": "Produce blood cells", "bm": "Menghasilkan sel darah" }, { "en": "Digest food", "bm": "Mencerna makanan" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Bones also store calcium and phosphate and allow movement with muscles.", "bm": "Tulang juga menyimpan kalsium dan fosfat dan membolehkan pergerakan bersama otot." } },
+    { "id": "bio-14-q03", "subtopicId": "bio-14-02", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "What joins a muscle to a bone?", "bm": "Apakah yang menyambung otot dengan tulang?" },
+      "options": [ { "en": "Tendon", "bm": "Tendon" }, { "en": "Ligament", "bm": "Ligamen" }, { "en": "Cartilage", "bm": "Rawan" }, { "en": "Synovial fluid", "bm": "Bendalir sinovia" } ],
+      "answer": 0,
+      "explanation": { "en": "Tendons are inelastic so the muscle's pull is passed straight to the bone. Ligaments join bone to bone.", "bm": "Tendon tidak kenyal supaya tarikan otot dipindahkan terus ke tulang. Ligamen menyambung tulang dengan tulang." } },
+    { "id": "bio-14-q04", "subtopicId": "bio-14-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each joint to its example.", "bm": "Padankan setiap sendi dengan contohnya." },
+      "pairs": [
+        { "left": { "en": "Ball-and-socket", "bm": "Lesung" }, "right": { "en": "Shoulder, hip", "bm": "Bahu, pinggul" } },
+        { "left": { "en": "Hinge", "bm": "Engsel" }, "right": { "en": "Elbow, knee", "bm": "Siku, lutut" } },
+        { "left": { "en": "Immovable (fixed)", "bm": "Tidak bergerak (tetap)" }, "right": { "en": "Skull sutures", "bm": "Sutur tengkorak" } }
+      ],
+      "explanation": { "en": "Ball-and-socket joints rotate in all directions; hinges move in one plane only.", "bm": "Sendi lesung berputar ke semua arah; sendi engsel bergerak dalam satu satah sahaja." } },
+    { "id": "bio-14-q05", "subtopicId": "bio-14-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the function of synovial fluid?", "bm": "Apakah fungsi bendalir sinovia?" },
+      "options": [ { "en": "Lubricates the joint to reduce friction", "bm": "Melincirkan sendi untuk mengurangkan geseran" }, { "en": "Joins muscle to bone", "bm": "Menyambung otot dengan tulang" }, { "en": "Makes blood cells", "bm": "Menghasilkan sel darah" }, { "en": "Stores calcium", "bm": "Menyimpan kalsium" } ],
+      "answer": 0,
+      "explanation": { "en": "Cartilage on bone ends also absorbs shock.", "bm": "Rawan di hujung tulang juga menyerap hentakan." } },
+    { "id": "bio-14-q06", "subtopicId": "bio-14-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "To straighten the arm, the…", "bm": "Untuk meluruskan lengan,…" },
+      "options": [ { "en": "triceps contracts and biceps relaxes", "bm": "triseps mengecut dan biseps mengendur" }, { "en": "biceps contracts and triceps relaxes", "bm": "biseps mengecut dan triseps mengendur" }, { "en": "both contract", "bm": "kedua-duanya mengecut" }, { "en": "both relax", "bm": "kedua-duanya mengendur" } ],
+      "answer": 0,
+      "explanation": { "en": "Muscles can only pull (contract), never push — so they work in antagonistic pairs.", "bm": "Otot hanya boleh menarik (mengecut), tidak boleh menolak — jadi bekerja secara berpasangan antagonistik." } },
+    { "id": "bio-14-q07", "subtopicId": "bio-14-03", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "How does an earthworm move forward?", "bm": "Bagaimanakah cacing tanah bergerak ke hadapan?" },
+      "options": [ { "en": "Circular and longitudinal muscles contract alternately against fluid pressure, with chaetae gripping the soil", "bm": "Otot membulat dan memanjang mengecut secara berselang-seli melawan tekanan bendalir, dengan seta mencengkam tanah" }, { "en": "It uses bones in its body", "bm": "Ia menggunakan tulang dalam badan" }, { "en": "It swims with fins", "bm": "Ia berenang dengan sirip" }, { "en": "It uses an exoskeleton", "bm": "Ia menggunakan rangka luar" } ],
+      "answer": 0,
+      "explanation": { "en": "Circular contract → long and thin; longitudinal contract → short and fat.", "bm": "Membulat mengecut → panjang dan nipis; memanjang mengecut → pendek dan gemuk." } },
+    { "id": "bio-14-q08", "subtopicId": "bio-14-04", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each condition to its description.", "bm": "Padankan setiap keadaan dengan penerangannya." },
+      "pairs": [
+        { "left": { "en": "Osteoporosis", "bm": "Osteoporosis" }, "right": { "en": "Bones become porous and brittle", "bm": "Tulang menjadi poros dan rapuh" } },
+        { "left": { "en": "Osteoarthritis", "bm": "Osteoartritis" }, "right": { "en": "Cartilage in joints wears away", "bm": "Rawan dalam sendi haus" } },
+        { "left": { "en": "Muscle cramp", "bm": "Kejang otot" }, "right": { "en": "Sudden painful contraction", "bm": "Pengecutan tiba-tiba yang menyakitkan" } },
+        { "left": { "en": "Scoliosis", "bm": "Skoliosis" }, "right": { "en": "Sideways curve of the spine", "bm": "Tulang belakang melengkung ke sisi" } }
+      ],
+      "explanation": { "en": "Calcium, vitamin D, weight-bearing exercise and good posture keep bones and joints healthy.", "bm": "Kalsium, vitamin D, senaman menampung berat badan dan postur baik mengekalkan kesihatan tulang dan sendi." } },
+    { "id": "bio-14-q09", "subtopicId": "bio-14-04", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why are post-menopausal women at higher risk of osteoporosis?", "bm": "Mengapa wanita selepas menopaus berisiko lebih tinggi mendapat osteoporosis?" },
+      "options": [ { "en": "Oestrogen levels fall, so calcium is lost from bones faster", "bm": "Aras estrogen menurun, jadi kalsium hilang dari tulang lebih cepat" }, { "en": "They grow taller", "bm": "Mereka bertambah tinggi" }, { "en": "Their muscles disappear", "bm": "Otot mereka hilang" }, { "en": "They have more vitamin D", "bm": "Mereka mempunyai lebih vitamin D" } ],
+      "answer": 0,
+      "explanation": { "en": "Oestrogen helps maintain bone density.", "bm": "Estrogen membantu mengekalkan ketumpatan tulang." } },
+    { "id": "bio-14-q10", "subtopicId": "bio-14-02", "type": "numeric", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "How many bones are in the adult human skeleton?", "bm": "Berapakah bilangan tulang dalam rangka manusia dewasa?" },
+      "answer": 206, "tolerance": 0,
+      "explanation": { "en": "Babies have about 300; some bones fuse as we grow.", "bm": "Bayi mempunyai kira-kira 300; sesetengah tulang bercantum semasa membesar." } }
+  ]
+}

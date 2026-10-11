@@ -1,0 +1,16 @@
+{
+  "chapterId": "math-03",
+  "cards": [
+    { "id": "math-03-f01", "subtopicId": "math-03-01", "front": { "en": "Statement", "bm": "Pernyataan" }, "back": { "en": "A sentence that is either true or false (not questions, commands or open sentences)", "bm": "Ayat yang sama ada benar atau palsu (bukan soalan, arahan atau ayat terbuka)" } },
+    { "id": "math-03-f02", "subtopicId": "math-03-01", "front": { "en": "Negation", "bm": "Penafian" }, "back": { "en": "~p: add 'not'/'no' — reverses the truth value", "bm": "~p: tambah 'tidak'/'bukan' — membalikkan nilai kebenaran" } },
+    { "id": "math-03-f03", "subtopicId": "math-03-01", "front": { "en": "Compound statement with 'and'", "bm": "Pernyataan majmuk 'dan'" }, "back": { "en": "True only if both parts are true", "bm": "Benar hanya jika kedua-dua bahagian benar" } },
+    { "id": "math-03-f04", "subtopicId": "math-03-01", "front": { "en": "Compound statement with 'or'", "bm": "Pernyataan majmuk 'atau'" }, "back": { "en": "True if at least one part is true", "bm": "Benar jika sekurang-kurangnya satu bahagian benar" } },
+    { "id": "math-03-f05", "subtopicId": "math-03-01", "front": { "en": "Implication", "bm": "Implikasi" }, "back": { "en": "If p, then q — false only when p is true and q is false", "bm": "Jika p, maka q — palsu hanya apabila p benar dan q palsu" } },
+    { "id": "math-03-f06", "subtopicId": "math-03-01", "front": { "en": "Converse, inverse, contrapositive", "bm": "Akas, songsangan, kontrapositif" }, "back": { "en": "If q then p; if ~p then ~q; if ~q then ~p", "bm": "Jika q maka p; jika ~p maka ~q; jika ~q maka ~p" } },
+    { "id": "math-03-f07", "subtopicId": "math-03-01", "front": { "en": "'p if and only if q'", "bm": "'p jika dan hanya jika q'" }, "back": { "en": "Both 'if p then q' and 'if q then p' are true", "bm": "Kedua-dua 'jika p maka q' dan 'jika q maka p' benar" } },
+    { "id": "math-03-f08", "subtopicId": "math-03-02", "front": { "en": "Deductive vs inductive", "bm": "Deduktif vs induktif" }, "back": { "en": "Deductive: general → specific. Inductive: specific cases → general rule", "bm": "Deduktif: umum → khusus. Induktif: kes khusus → petua umum" } },
+    { "id": "math-03-f09", "subtopicId": "math-03-02", "front": { "en": "Argument Form I", "bm": "Hujah Bentuk I" }, "back": { "en": "All A are B; C is A; ∴ C is B", "bm": "Semua A ialah B; C ialah A; ∴ C ialah B" } },
+    { "id": "math-03-f10", "subtopicId": "math-03-02", "front": { "en": "Argument Forms II and III", "bm": "Hujah Bentuk II dan III" }, "back": { "en": "II: if p then q; p; ∴ q. III: if p then q; not q; ∴ not p", "bm": "II: jika p maka q; p; ∴ q. III: jika p maka q; bukan q; ∴ bukan p" } },
+    { "id": "math-03-f11", "subtopicId": "math-03-02", "front": { "en": "Valid vs sound", "bm": "Sah vs munasabah" }, "back": { "en": "Valid: correct form. Sound: valid and all premises true", "bm": "Sah: bentuk betul. Munasabah: sah dan semua premis benar" } }
+  ]
+}

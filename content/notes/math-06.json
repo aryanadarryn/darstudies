@@ -1,0 +1,27 @@
+{
+  "chapterId": "math-06",
+  "reviewed": false,
+  "subtopics": {
+    "math-06-01": {
+      "keyPoints": [
+        { "en": "A linear inequality in two variables, e.g. y ≤ 3x − 2, is represented by a region on the Cartesian plane.", "bm": "Ketaksamaan linear dua pemboleh ubah, cth. y ≤ 3x − 2, diwakili oleh rantau pada satah Cartes." },
+        { "en": "Draw the boundary line y = mx + c: solid for ≤/≥, dashed for </>.", "bm": "Lukis garis sempadan y = mx + c: padu untuk ≤/≥, putus-putus untuk </>." },
+        { "en": "y > mx + c (or ≥): region above the line. y < mx + c (or ≤): below.", "bm": "y > mx + c (atau ≥): rantau di atas garis. y < mx + c (atau ≤): di bawah." },
+        { "en": "Vertical lines x = a: x > a is to the right. Horizontal lines y = b: y > b is above.", "bm": "Garis menegak x = a: x > a di sebelah kanan. Garis mengufuk y = b: y > b di atas." },
+        { "en": "Check with a test point not on the line, e.g. (0, 0).", "bm": "Semak dengan titik ujian yang bukan pada garis, cth. (0, 0)." }
+      ],
+      "example": { "question": { "en": "Describe the region for 2x + y < 6.", "bm": "Huraikan rantau bagi 2x + y < 6." }, "answer": { "en": "y < −2x + 6: dashed line through (0, 6) and (3, 0); shade below. (0, 0): 0 < 6 ✓", "bm": "y < −2x + 6: garis putus-putus melalui (0, 6) dan (3, 0); lorek di bawah. (0, 0): 0 < 6 ✓" } },
+      "tip": { "en": "Rearrange to y = … first so you can read 'above' or 'below' easily.", "bm": "Susun semula kepada y = … dahulu supaya mudah membaca 'atas' atau 'bawah'." }
+    },
+    "math-06-02": {
+      "keyPoints": [
+        { "en": "A system of linear inequalities: all must be true at once.", "bm": "Sistem ketaksamaan linear: semuanya mesti benar serentak." },
+        { "en": "Draw each boundary, find each region, and the solution is where all regions overlap.", "bm": "Lukis setiap sempadan, cari setiap rantau, dan penyelesaian ialah tempat semua rantau bertindih." },
+        { "en": "In real-life problems, x ≥ 0 and y ≥ 0 are usually included (you can't make negative items).", "bm": "Dalam masalah sebenar, x ≥ 0 dan y ≥ 0 biasanya disertakan (tidak boleh menghasilkan item negatif)." },
+        { "en": "To write inequalities from a shaded graph: find each line's equation, then decide the sign and solid/dashed.", "bm": "Untuk menulis ketaksamaan daripada graf berlorek: cari persamaan setiap garis, kemudian tentukan tanda dan padu/putus-putus." }
+      ],
+      "example": { "question": { "en": "A shop makes x cakes and y kuih boxes with x + y ≤ 20, y ≥ 2x, x ≥ 0. Is (5, 12) possible?", "bm": "Sebuah kedai membuat x kek dan y kotak kuih dengan x + y ≤ 20, y ≥ 2x, x ≥ 0. Adakah (5, 12) mungkin?" }, "answer": { "en": "17 ≤ 20 ✓, 12 ≥ 10 ✓, 5 ≥ 0 ✓ → yes", "bm": "17 ≤ 20 ✓, 12 ≥ 10 ✓, 5 ≥ 0 ✓ → ya" } },
+      "tip": { "en": "Check corner points carefully — they're included only if both lines are solid.", "bm": "Semak titik bucu dengan teliti — ia termasuk hanya jika kedua-dua garis padu." }
+    }
+  }
+}

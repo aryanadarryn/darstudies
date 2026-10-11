@@ -1,0 +1,101 @@
+{
+  "chapterId": "phy-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A swimming pool always looks shallower than it really is. A straw in your teh ais looks bent. Your phone camera, spectacles and the fibre-optic internet cable at home all depend on how light bends.",
+      "bm": "Kolam renang sentiasa kelihatan lebih cetek daripada sebenar. Straw dalam teh ais kelihatan bengkok. Kamera telefon, cermin mata dan kabel internet gentian optik di rumah bergantung pada pembengkokan cahaya."
+    },
+    "bigIdeas": [
+      { "en": "Light refracts (bends) when its speed changes between media: n = sin i / sin r.", "bm": "Cahaya membias apabila lajunya berubah antara medium: n = sin i / sin r." },
+      { "en": "Total internal reflection happens from dense to less dense medium when i > critical angle.", "bm": "Pantulan dalam penuh berlaku dari medium tumpat ke kurang tumpat apabila i > sudut genting." },
+      { "en": "Convex lenses converge light; concave lenses diverge it.", "bm": "Kanta cembung menumpukan cahaya; kanta cekung mencapahkannya." },
+      { "en": "The lens formula 1/f = 1/u + 1/v and magnification m = v/u locate images.", "bm": "Formula kanta 1/f = 1/u + 1/v dan pembesaran m = v/u menentukan imej." },
+      { "en": "Microscopes, telescopes and mirrors combine these ideas to see tiny or distant things.", "bm": "Mikroskop, teleskop dan cermin menggabungkan idea ini untuk melihat benda kecil atau jauh." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Convex lens", "bm": "Kanta cembung" }, { "en": "Concave lens", "bm": "Kanta cekung" } ],
+        "rows": [
+          { "label": { "en": "Effect on light", "bm": "Kesan pada cahaya" }, "cells": [ { "en": "converges", "bm": "menumpu" }, { "en": "diverges", "bm": "mencapah" } ] },
+          { "label": { "en": "Focal length sign", "bm": "Tanda panjang fokus" }, "cells": [ { "en": "positive", "bm": "positif" }, { "en": "negative", "bm": "negatif" } ] },
+          { "label": { "en": "Images", "bm": "Imej" }, "cells": [ { "en": "real or virtual (depends on u)", "bm": "nyata atau maya (bergantung pada u)" }, { "en": "always virtual, upright, diminished", "bm": "sentiasa maya, tegak, dikecilkan" } ] },
+          { "label": { "en": "Uses", "bm": "Kegunaan" }, "cells": [ { "en": "magnifying glass, camera, long-sight correction", "bm": "kanta pembesar, kamera, rabun jauh" }, { "en": "short-sight correction, door peephole", "bm": "rabun dekat, lubang intai pintu" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Refractive index", "bm": "Indeks biasan" }, "definition": { "en": "n = sin i / sin r = c/v — how much a medium slows light.", "bm": "n = sin i / sin r = c/v — sejauh mana medium memperlahankan cahaya." } },
+      { "term": { "en": "Critical angle", "bm": "Sudut genting" }, "definition": { "en": "Angle of incidence in the denser medium that gives a refraction angle of 90°.", "bm": "Sudut tuju dalam medium tumpat yang menghasilkan sudut biasan 90°." } },
+      { "term": { "en": "Total internal reflection", "bm": "Pantulan dalam penuh" }, "definition": { "en": "All light reflects back inside the denser medium.", "bm": "Semua cahaya dipantulkan kembali dalam medium tumpat." } },
+      { "term": { "en": "Focal length", "bm": "Panjang fokus" }, "definition": { "en": "Distance from the optical centre to the principal focus.", "bm": "Jarak dari pusat optik ke fokus utama." } },
+      { "term": { "en": "Real image", "bm": "Imej nyata" }, "definition": { "en": "Formed where light rays actually meet; can be shown on a screen.", "bm": "Terbentuk di tempat sinar cahaya bertemu; boleh dipaparkan pada skrin." } },
+      { "term": { "en": "Virtual image", "bm": "Imej maya" }, "definition": { "en": "Rays only appear to come from it; cannot be shown on a screen.", "bm": "Sinar hanya kelihatan datang darinya; tidak boleh dipaparkan pada skrin." } },
+      { "term": { "en": "Power of a lens", "bm": "Kuasa kanta" }, "definition": { "en": "P = 1/f (f in metres), unit dioptre D.", "bm": "P = 1/f (f dalam meter), unit diopter D." } }
+    ],
+    "formulaIds": ["phy-snell", "phy-n-speed", "phy-n-depth", "phy-critical-angle", "phy-lens", "phy-magnification", "phy-lens-power"],
+    "toolId": "ray-diagram",
+    "workedExample": {
+      "question": { "en": "An object is 15 cm in front of a convex lens of focal length 10 cm. Find the image distance, magnification and nature of the image.", "bm": "Objek berada 15 cm di hadapan kanta cembung berpanjang fokus 10 cm. Cari jarak imej, pembesaran dan sifat imej." },
+      "steps": [
+        { "en": "1/f = 1/u + 1/v → 1/v = 1/10 − 1/15", "bm": "1/f = 1/u + 1/v → 1/v = 1/10 − 1/15" },
+        { "en": "1/v = 3/30 − 2/30 = 1/30 → v = +30 cm", "bm": "1/v = 3/30 − 2/30 = 1/30 → v = +30 cm" },
+        { "en": "m = v/u = 30/15 = 2", "bm": "m = v/u = 30/15 = 2" },
+        { "en": "v is positive → real image on the other side of the lens; inverted and magnified 2×.", "bm": "v positif → imej nyata di sebelah lain kanta; songsang dan dibesarkan 2×." }
+      ],
+      "answer": { "en": "v = 30 cm; m = 2; real, inverted, magnified", "bm": "v = 30 cm; m = 2; nyata, songsang, dibesarkan" }
+    }
+  },
+  "questions": [
+    { "id": "phy-06-q01", "subtopicId": "phy-06-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Light enters glass with angle of incidence 45° and angle of refraction 30°. Find the refractive index.", "bm": "Cahaya memasuki kaca dengan sudut tuju 45° dan sudut biasan 30°. Cari indeks biasan." },
+      "answer": 1.41, "tolerance": 0.02,
+      "explanation": { "en": "n = sin 45° / sin 30° = 0.707 / 0.5 = 1.41.", "bm": "n = sin 45° / sin 30° = 0.707 / 0.5 = 1.41." } },
+    { "id": "phy-06-q02", "subtopicId": "phy-06-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A coin lies at a real depth of 12 cm in water (n = 1.33). Find its apparent depth.", "bm": "Syiling berada pada dalam nyata 12 cm dalam air (n = 1.33). Cari dalam ketaranya." },
+      "answer": 9.02, "tolerance": 0.02, "unit": "cm",
+      "explanation": { "en": "n = real depth ÷ apparent depth → apparent = 12 ÷ 1.33 ≈ 9.0 cm. That's why pools look shallower.", "bm": "n = dalam nyata ÷ dalam ketara → ketara = 12 ÷ 1.33 ≈ 9.0 cm. Sebab itu kolam kelihatan cetek." } },
+    { "id": "phy-06-q03", "subtopicId": "phy-06-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the critical angle of glass with refractive index 1.5 (in degrees).", "bm": "Cari sudut genting kaca dengan indeks biasan 1.5 (dalam darjah)." },
+      "answer": 41.8, "tolerance": 0.01, "unit": "°",
+      "explanation": { "en": "sin c = 1/n = 1/1.5 = 0.667 → c ≈ 41.8°.", "bm": "sin c = 1/n = 1/1.5 = 0.667 → c ≈ 41.8°." } },
+    { "id": "phy-06-q04", "subtopicId": "phy-06-02", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Select BOTH conditions needed for total internal reflection.", "bm": "Pilih KEDUA-DUA syarat untuk pantulan dalam penuh." },
+      "options": [ { "en": "Light travels from a denser to a less dense medium", "bm": "Cahaya bergerak dari medium tumpat ke kurang tumpat" }, { "en": "Angle of incidence is greater than the critical angle", "bm": "Sudut tuju lebih besar daripada sudut genting" }, { "en": "Light travels from air into glass", "bm": "Cahaya bergerak dari udara ke kaca" }, { "en": "The surface is a mirror", "bm": "Permukaan ialah cermin" } ],
+      "answer": [0, 1],
+      "explanation": { "en": "Used in optical fibres, prism periscopes and the sparkle of diamonds.", "bm": "Digunakan dalam gentian optik, periskop prisma dan kilauan berlian." } },
+    { "id": "phy-06-q05", "subtopicId": "phy-06-04", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "An object is 15 cm from a convex lens of focal length 10 cm. Find the image distance.", "bm": "Objek berada 15 cm dari kanta cembung berpanjang fokus 10 cm. Cari jarak imej." },
+      "answer": 30, "tolerance": 0.01, "unit": "cm",
+      "explanation": { "en": "1/v = 1/10 − 1/15 = 1/30 → v = 30 cm.", "bm": "1/v = 1/10 − 1/15 = 1/30 → v = 30 cm." } },
+    { "id": "phy-06-q06", "subtopicId": "phy-06-04", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the power of a convex lens with focal length 25 cm.", "bm": "Cari kuasa kanta cembung dengan panjang fokus 25 cm." },
+      "answer": 4, "tolerance": 0.01, "unit": "D",
+      "explanation": { "en": "P = 1/f = 1/0.25 m = +4 D. Remember f must be in metres.", "bm": "P = 1/f = 1/0.25 m = +4 D. Ingat f mesti dalam meter." } },
+    { "id": "phy-06-q07", "subtopicId": "phy-06-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "To use a convex lens as a magnifying glass, the object must be placed…", "bm": "Untuk menggunakan kanta cembung sebagai kanta pembesar, objek mesti diletakkan…" },
+      "options": [ { "en": "beyond 2F", "bm": "melebihi 2F" }, { "en": "at 2F", "bm": "di 2F" }, { "en": "between F and the lens", "bm": "antara F dan kanta" }, { "en": "exactly at F", "bm": "tepat di F" } ],
+      "answer": 2,
+      "explanation": { "en": "u < f gives a virtual, upright, magnified image on the same side as the object.", "bm": "u < f menghasilkan imej maya, tegak, dibesarkan di sebelah yang sama dengan objek." } },
+    { "id": "phy-06-q08", "subtopicId": "phy-06-03", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A concave lens always forms an image that is…", "bm": "Kanta cekung sentiasa membentuk imej yang…" },
+      "options": [ { "en": "real, inverted, magnified", "bm": "nyata, songsang, dibesarkan" }, { "en": "virtual, upright, diminished", "bm": "maya, tegak, dikecilkan" }, { "en": "real, upright, same size", "bm": "nyata, tegak, sama saiz" }, { "en": "virtual, inverted, magnified", "bm": "maya, songsang, dibesarkan" } ],
+      "answer": 1,
+      "explanation": { "en": "Concave lenses diverge light, so the image is always virtual, upright and smaller.", "bm": "Kanta cekung mencapahkan cahaya, jadi imej sentiasa maya, tegak dan lebih kecil." } },
+    { "id": "phy-06-q09", "subtopicId": "phy-06-05", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "An astronomical telescope in normal adjustment has an objective lens f = 100 cm and an eyepiece f = 5 cm. Find its magnification.", "bm": "Teleskop astronomi dalam pelarasan normal mempunyai kanta objek f = 100 cm dan kanta mata f = 5 cm. Cari pembesarannya." },
+      "answer": 20, "tolerance": 0.01,
+      "explanation": { "en": "M = f_o / f_e = 100 / 5 = 20. Lens separation = f_o + f_e = 105 cm.", "bm": "M = f_o / f_e = 100 / 5 = 20. Jarak antara kanta = f_o + f_e = 105 cm." } },
+    { "id": "phy-06-q10", "subtopicId": "phy-06-06", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why is a convex mirror used as a car side mirror?", "bm": "Mengapa cermin cembung digunakan sebagai cermin sisi kereta?" },
+      "options": [ { "en": "It gives a wider field of view", "bm": "Ia memberi medan penglihatan lebih luas" }, { "en": "It magnifies cars behind", "bm": "Ia membesarkan kereta di belakang" }, { "en": "It forms a real image", "bm": "Ia membentuk imej nyata" }, { "en": "It is cheaper", "bm": "Ia lebih murah" } ],
+      "answer": 0,
+      "explanation": { "en": "Convex mirrors give diminished, upright, virtual images with a wide view. Objects are closer than they appear!", "bm": "Cermin cembung memberi imej dikecilkan, tegak, maya dengan pandangan luas. Objek lebih dekat daripada yang kelihatan!" } },
+    { "id": "phy-06-q11", "subtopicId": "phy-06-06", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A dentist's mirror and a make-up mirror are both…", "bm": "Cermin doktor gigi dan cermin solek adalah…" },
+      "options": [ { "en": "plane mirrors", "bm": "cermin satah" }, { "en": "convex mirrors", "bm": "cermin cembung" }, { "en": "concave mirrors with the object inside F", "bm": "cermin cekung dengan objek di dalam F" }, { "en": "concave mirrors with the object beyond C", "bm": "cermin cekung dengan objek melebihi C" } ],
+      "answer": 2,
+      "explanation": { "en": "An object between F and a concave mirror gives a virtual, upright, magnified image.", "bm": "Objek antara F dan cermin cekung memberi imej maya, tegak, dibesarkan." } }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chapterId": "phy-03",
+  "cards": [
+    { "id": "phy-03-f01", "subtopicId": "phy-03-01", "front": { "en": "Newton's universal law of gravitation", "bm": "Hukum Kegravitian Semesta Newton" }, "back": { "en": "F = Gm₁m₂/r² — force ∝ product of masses, ∝ 1/distance²", "bm": "F = Gm₁m₂/r² — daya ∝ hasil darab jisim, ∝ 1/jarak²" } },
+    { "id": "phy-03-f02", "subtopicId": "phy-03-01", "front": { "en": "Value of G", "bm": "Nilai G" }, "back": { "en": "6.67 × 10⁻¹¹ N m² kg⁻²", "bm": "6.67 × 10⁻¹¹ N m² kg⁻²" } },
+    { "id": "phy-03-f03", "subtopicId": "phy-03-01", "front": { "en": "Gravitational field strength", "bm": "Kekuatan medan graviti" }, "back": { "en": "g = GM/r² — decreases with height", "bm": "g = GM/r² — berkurang dengan ketinggian" } },
+    { "id": "phy-03-f04", "subtopicId": "phy-03-01", "front": { "en": "Centripetal force", "bm": "Daya memusat" }, "back": { "en": "F = mv²/r, directed towards the centre of the circle", "bm": "F = mv²/r, berarah ke pusat bulatan" } },
+    { "id": "phy-03-f05", "subtopicId": "phy-03-01", "front": { "en": "What provides the centripetal force for a satellite?", "bm": "Apakah yang membekalkan daya memusat untuk satelit?" }, "back": { "en": "Gravitational force from the Earth", "bm": "Daya graviti dari Bumi" } },
+    { "id": "phy-03-f06", "subtopicId": "phy-03-02", "front": { "en": "Kepler's first law", "bm": "Hukum Kepler pertama" }, "back": { "en": "Planets move in ellipses with the Sun at one focus", "bm": "Planet bergerak dalam elips dengan Matahari di satu fokus" } },
+    { "id": "phy-03-f07", "subtopicId": "phy-03-02", "front": { "en": "Kepler's second law", "bm": "Hukum Kepler kedua" }, "back": { "en": "The line from Sun to planet sweeps equal areas in equal times", "bm": "Garis dari Matahari ke planet mencakupi luas yang sama dalam masa yang sama" } },
+    { "id": "phy-03-f08", "subtopicId": "phy-03-02", "front": { "en": "Kepler's third law", "bm": "Hukum Kepler ketiga" }, "back": { "en": "T² ∝ r³ — so T₁²/r₁³ = T₂²/r₂³", "bm": "T² ∝ r³ — jadi T₁²/r₁³ = T₂²/r₂³" } },
+    { "id": "phy-03-f09", "subtopicId": "phy-03-03", "front": { "en": "Orbital speed of a satellite", "bm": "Laju orbit satelit" }, "back": { "en": "v = √(GM/r)", "bm": "v = √(GM/r)" } },
+    { "id": "phy-03-f10", "subtopicId": "phy-03-03", "front": { "en": "Geostationary satellite", "bm": "Satelit geopegun" }, "back": { "en": "Above the equator, period 24 h, same direction as Earth's spin, ~36 000 km high", "bm": "Di atas khatulistiwa, tempoh 24 j, searah putaran Bumi, ~36 000 km tinggi" } },
+    { "id": "phy-03-f11", "subtopicId": "phy-03-03", "front": { "en": "Non-geostationary (e.g. polar) satellite uses", "bm": "Kegunaan satelit bukan geopegun (cth. kutub)" }, "back": { "en": "Weather forecasting, mapping, remote sensing, GPS", "bm": "Ramalan cuaca, pemetaan, penderiaan jauh, GPS" } },
+    { "id": "phy-03-f12", "subtopicId": "phy-03-03", "front": { "en": "Escape velocity", "bm": "Halaju lepas" }, "back": { "en": "v = √(2GM/r); Earth ≈ 11.2 km s⁻¹", "bm": "v = √(2GM/r); Bumi ≈ 11.2 km s⁻¹" } }
+  ]
+}

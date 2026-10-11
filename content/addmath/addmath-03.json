@@ -1,0 +1,91 @@
+{
+  "chapterId": "addmath-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "At a pasar malam, 2 apam balik, 1 cendol and 3 satay cost RM14; other combinations cost different amounts. With three unknown prices you need three equations — and a smart way to solve them.",
+      "bm": "Di pasar malam, 2 apam balik, 1 cendol dan 3 satay berharga RM14; gabungan lain berharga berbeza. Dengan tiga harga yang tidak diketahui, anda memerlukan tiga persamaan — dan cara bijak untuk menyelesaikannya."
+    },
+    "bigIdeas": [
+      { "en": "Three unknowns need three independent linear equations.", "bm": "Tiga anu memerlukan tiga persamaan linear yang tak bersandar." },
+      { "en": "Solve by elimination or substitution to reduce to two variables, then one.", "bm": "Selesaikan dengan penghapusan atau penggantian untuk mengurangkan kepada dua pemboleh ubah, kemudian satu." },
+      { "en": "Each linear equation in three variables is a plane; the solution is where planes meet.", "bm": "Setiap persamaan linear dalam tiga pemboleh ubah ialah satah; penyelesaian ialah titik pertemuan satah." },
+      { "en": "For one linear + one non-linear equation: make one variable the subject of the linear equation and substitute.", "bm": "Bagi satu persamaan linear + satu tak linear: jadikan satu pemboleh ubah perkara rumus persamaan linear dan gantikan." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Label the equations (1), (2), (3)", "bm": "Labelkan persamaan (1), (2), (3)" } },
+          { "title": { "en": "Eliminate one variable from two pairs", "bm": "Hapuskan satu pemboleh ubah daripada dua pasangan" }, "detail": { "en": "→ two equations in two variables", "bm": "→ dua persamaan dua pemboleh ubah" } },
+          { "title": { "en": "Solve the 2 × 2 system", "bm": "Selesaikan sistem 2 × 2" } },
+          { "title": { "en": "Substitute back to find the third", "bm": "Gantikan semula untuk mencari yang ketiga" } },
+          { "title": { "en": "Check in all three equations", "bm": "Semak dalam ketiga-tiga persamaan" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Linear equation in three variables", "bm": "Persamaan linear tiga pemboleh ubah" }, "definition": { "en": "ax + by + cz = d, with each variable to the power 1.", "bm": "ax + by + cz = d, setiap pemboleh ubah berkuasa 1." } },
+      { "term": { "en": "Elimination method", "bm": "Kaedah penghapusan" }, "definition": { "en": "Add or subtract equations to remove a variable.", "bm": "Tambah atau tolak persamaan untuk menghapuskan pemboleh ubah." } },
+      { "term": { "en": "Substitution method", "bm": "Kaedah penggantian" }, "definition": { "en": "Express one variable in terms of the others and substitute.", "bm": "Ungkapkan satu pemboleh ubah dalam sebutan yang lain dan gantikan." } },
+      { "term": { "en": "Non-linear equation", "bm": "Persamaan tak linear" }, "definition": { "en": "Contains terms like x², xy or 1/x.", "bm": "Mengandungi sebutan seperti x², xy atau 1/x." } },
+      { "term": { "en": "Unique solution", "bm": "Penyelesaian unik" }, "definition": { "en": "Exactly one set of values satisfies all equations.", "bm": "Tepat satu set nilai memenuhi semua persamaan." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Solve: x + y + z = 6 … (1), x − y + z = 2 … (2), 2x + y − z = 1 … (3).", "bm": "Selesaikan: x + y + z = 6 … (1), x − y + z = 2 … (2), 2x + y − z = 1 … (3)." },
+      "steps": [
+        { "en": "(1) − (2): 2y = 4 → y = 2.", "bm": "(1) − (2): 2y = 4 → y = 2." },
+        { "en": "Substitute y = 2 into (1): x + z = 4 … (4); into (3): 2x − z = −1 … (5).", "bm": "Gantikan y = 2 ke dalam (1): x + z = 4 … (4); ke dalam (3): 2x − z = −1 … (5)." },
+        { "en": "(4) + (5): 3x = 3 → x = 1; then z = 4 − 1 = 3.", "bm": "(4) + (5): 3x = 3 → x = 1; kemudian z = 4 − 1 = 3." },
+        { "en": "Check in (3): 2(1) + 2 − 3 = 1 ✓", "bm": "Semak dalam (3): 2(1) + 2 − 3 = 1 ✓" }
+      ],
+      "answer": { "en": "x = 1, y = 2, z = 3", "bm": "x = 1, y = 2, z = 3" }
+    }
+  },
+  "questions": [
+    { "id": "addmath-03-q01", "subtopicId": "addmath-03-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve x + y + z = 6, x − y + z = 2, 2x + y − z = 1. Find z.", "bm": "Selesaikan x + y + z = 6, x − y + z = 2, 2x + y − z = 1. Cari z." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "y = 2, x = 1, z = 3.", "bm": "y = 2, x = 1, z = 3." } },
+    { "id": "addmath-03-q02", "subtopicId": "addmath-03-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "x + 2y + z = 8, y + z = 5, z = 2. Find x.", "bm": "x + 2y + z = 8, y + z = 5, z = 2. Cari x." },
+      "answer": 0, "tolerance": 0,
+      "explanation": { "en": "z = 2 → y = 3 → x + 6 + 2 = 8 → x = 0. Back-substitution is easy when equations are in triangular form.", "bm": "z = 2 → y = 3 → x + 6 + 2 = 8 → x = 0. Penggantian semula mudah apabila persamaan dalam bentuk segi tiga." } },
+    { "id": "addmath-03-q03", "subtopicId": "addmath-03-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which equation is linear in three variables?", "bm": "Persamaan manakah linear dalam tiga pemboleh ubah?" },
+      "options": [ { "en": "2x − y + 3z = 7", "bm": "2x − y + 3z = 7" }, { "en": "x² + y + z = 4", "bm": "x² + y + z = 4" }, { "en": "xy + z = 1", "bm": "xy + z = 1" }, { "en": "x + y = 5", "bm": "x + y = 5" } ],
+      "answer": 0,
+      "explanation": { "en": "All three variables appear with power 1 and no products of variables.", "bm": "Ketiga-tiga pemboleh ubah berkuasa 1 dan tiada hasil darab antara pemboleh ubah." } },
+    { "id": "addmath-03-q04", "subtopicId": "addmath-03-01", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Aryana buys 1 pen, 2 books and 1 file for RM18; 2 pens, 1 book and 1 file for RM14; 1 pen, 1 book and 2 files for RM16. Find the price of a book (RM).", "bm": "Aryana membeli 1 pen, 2 buku dan 1 fail dengan RM18; 2 pen, 1 buku dan 1 fail dengan RM14; 1 pen, 1 buku dan 2 fail dengan RM16. Cari harga sebuah buku (RM)." },
+      "answer": 6, "tolerance": 0, "unit": "RM",
+      "explanation": { "en": "p + 2b + f = 18, 2p + b + f = 14, p + b + 2f = 16. Add all three: 4(p + b + f) = 48 → p + b + f = 12. From (1): b = 18 − 12 = 6. (Also p = 2, f = 4.)", "bm": "p + 2b + f = 18, 2p + b + f = 14, p + b + 2f = 16. Tambah ketiga-tiga: 4(p + b + f) = 48 → p + b + f = 12. Daripada (1): b = 18 − 12 = 6. (Juga p = 2, f = 4.)" } },
+    { "id": "addmath-03-q05", "subtopicId": "addmath-03-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve x + y = 5 and x² + y² = 13. Enter the larger value of x.", "bm": "Selesaikan x + y = 5 dan x² + y² = 13. Masukkan nilai x yang lebih besar." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "y = 5 − x → x² + (5 − x)² = 13 → 2x² − 10x + 12 = 0 → x² − 5x + 6 = 0 → x = 2 or 3.", "bm": "y = 5 − x → x² + (5 − x)² = 13 → 2x² − 10x + 12 = 0 → x² − 5x + 6 = 0 → x = 2 atau 3." } },
+    { "id": "addmath-03-q06", "subtopicId": "addmath-03-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Solve y = x + 1 and xy = 6.", "bm": "Selesaikan y = x + 1 dan xy = 6." },
+      "options": [ { "en": "(2, 3) and (−3, −2)", "bm": "(2, 3) dan (−3, −2)" }, { "en": "(3, 2) and (−2, −3)", "bm": "(3, 2) dan (−2, −3)" }, { "en": "(1, 6) only", "bm": "(1, 6) sahaja" }, { "en": "(6, 1) and (−1, −6)", "bm": "(6, 1) dan (−1, −6)" } ],
+      "answer": 0,
+      "explanation": { "en": "x(x + 1) = 6 → x² + x − 6 = 0 → x = 2 (y = 3) or x = −3 (y = −2).", "bm": "x(x + 1) = 6 → x² + x − 6 = 0 → x = 2 (y = 3) atau x = −3 (y = −2)." } },
+    { "id": "addmath-03-q07", "subtopicId": "addmath-03-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Order the steps for solving one linear and one non-linear equation.", "bm": "Susun langkah menyelesaikan satu persamaan linear dan satu tak linear." },
+      "items": [ { "en": "Make x or y the subject of the linear equation", "bm": "Jadikan x atau y perkara rumus persamaan linear" }, { "en": "Substitute into the non-linear equation", "bm": "Gantikan ke dalam persamaan tak linear" }, { "en": "Solve the resulting quadratic", "bm": "Selesaikan persamaan kuadratik yang terhasil" }, { "en": "Substitute back to find the other variable", "bm": "Gantikan semula untuk mencari pemboleh ubah lain" } ],
+      "explanation": { "en": "You usually get two pairs of answers — find both.", "bm": "Biasanya anda mendapat dua pasang jawapan — cari kedua-duanya." } },
+    { "id": "addmath-03-q08", "subtopicId": "addmath-03-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "A rectangle has perimeter 20 cm and area 24 cm². Find the length of the longer side.", "bm": "Sebuah segi empat tepat mempunyai perimeter 20 cm dan luas 24 cm². Cari panjang sisi yang lebih panjang." },
+      "answer": 6, "tolerance": 0, "unit": "cm",
+      "explanation": { "en": "x + y = 10, xy = 24 → x(10 − x) = 24 → x² − 10x + 24 = 0 → x = 4 or 6.", "bm": "x + y = 10, xy = 24 → x(10 − x) = 24 → x² − 10x + 24 = 0 → x = 4 atau 6." } },
+    { "id": "addmath-03-q09", "subtopicId": "addmath-03-01", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "A system of three linear equations has no solution. Geometrically, this means…", "bm": "Satu sistem tiga persamaan linear tiada penyelesaian. Secara geometri, ini bermakna…" },
+      "options": [ { "en": "the three planes have no common point", "bm": "ketiga-tiga satah tiada titik sepunya" }, { "en": "the planes meet at one point", "bm": "satah bertemu pada satu titik" }, { "en": "the planes meet along a line", "bm": "satah bertemu sepanjang satu garis" }, { "en": "all planes are the same", "bm": "semua satah adalah sama" } ],
+      "answer": 0,
+      "explanation": { "en": "One point = unique solution; a line or the same plane = infinitely many solutions.", "bm": "Satu titik = penyelesaian unik; satu garis atau satah sama = penyelesaian tak terhingga." } },
+    { "id": "addmath-03-q10", "subtopicId": "addmath-03-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the y-coordinate of the point where y = 2x intersects y = x² (other than the origin).", "bm": "Cari koordinat-y bagi titik persilangan y = 2x dan y = x² (selain asalan)." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "x² = 2x → x(x − 2) = 0 → x = 2, y = 4.", "bm": "x² = 2x → x(x − 2) = 0 → x = 2, y = 4." } }
+  ]
+}

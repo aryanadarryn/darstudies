@@ -1,0 +1,91 @@
+{
+  "chapterId": "math-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In a class of 35, 20 students play badminton and 18 play football. That's 38 — more than the class! The overlap (students who play both) is the key, and Venn diagrams make it easy to see.",
+      "bm": "Dalam kelas seramai 35 orang, 20 pelajar bermain badminton dan 18 bermain bola sepak. Jumlahnya 38 — lebih daripada kelas! Pertindihan (pelajar yang bermain kedua-duanya) ialah kuncinya, dan gambar rajah Venn memudahkannya."
+    },
+    "bigIdeas": [
+      { "en": "Intersection A ∩ B: elements in both A and B.", "bm": "Persilangan A ∩ B: unsur dalam A dan B." },
+      { "en": "Union A ∪ B: elements in A or B or both.", "bm": "Kesatuan A ∪ B: unsur dalam A atau B atau kedua-duanya." },
+      { "en": "Complement A′: elements in the universal set ξ but not in A.", "bm": "Pelengkap A′: unsur dalam set semesta ξ tetapi bukan dalam A." },
+      { "en": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) avoids double counting.", "bm": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B) mengelak pengiraan berganda." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Operation", "bm": "Operasi" }, { "en": "Symbol", "bm": "Simbol" }, { "en": "Meaning", "bm": "Maksud" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "Intersection", "bm": "Persilangan" }, { "en": "A ∩ B", "bm": "A ∩ B" }, { "en": "in A AND in B", "bm": "dalam A DAN dalam B" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "Union", "bm": "Kesatuan" }, { "en": "A ∪ B", "bm": "A ∪ B" }, { "en": "in A OR B (or both)", "bm": "dalam A ATAU B (atau kedua-dua)" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "Complement", "bm": "Pelengkap" }, { "en": "A′", "bm": "A′" }, { "en": "NOT in A", "bm": "BUKAN dalam A" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Universal set (ξ)", "bm": "Set semesta (ξ)" }, "definition": { "en": "The set of all elements under consideration.", "bm": "Set semua unsur yang dipertimbangkan." } },
+      { "term": { "en": "Intersection", "bm": "Persilangan" }, "definition": { "en": "Common elements of two or more sets.", "bm": "Unsur sepunya dua atau lebih set." } },
+      { "term": { "en": "Union", "bm": "Kesatuan" }, "definition": { "en": "All elements of the sets combined.", "bm": "Semua unsur set yang digabungkan." } },
+      { "term": { "en": "Complement", "bm": "Pelengkap" }, "definition": { "en": "Elements of ξ not in the set.", "bm": "Unsur ξ yang bukan dalam set itu." } },
+      { "term": { "en": "Disjoint sets", "bm": "Set terpisah" }, "definition": { "en": "Sets with no common elements: A ∩ B = ∅.", "bm": "Set tanpa unsur sepunya: A ∩ B = ∅." } }
+    ],
+    "formulaIds": ["math-union-count"],
+    "toolId": "venn-builder",
+    "workedExample": {
+      "question": { "en": "In a class of 35, 20 play badminton (B), 18 play football (F) and 6 play neither. How many play both?", "bm": "Dalam kelas seramai 35, 20 bermain badminton (B), 18 bermain bola sepak (F) dan 6 tidak bermain kedua-duanya. Berapa orang bermain kedua-duanya?" },
+      "steps": [
+        { "en": "Students who play at least one sport: n(B ∪ F) = 35 − 6 = 29.", "bm": "Pelajar yang bermain sekurang-kurangnya satu sukan: n(B ∪ F) = 35 − 6 = 29." },
+        { "en": "n(B ∪ F) = n(B) + n(F) − n(B ∩ F) → 29 = 20 + 18 − n(B ∩ F).", "bm": "n(B ∪ F) = n(B) + n(F) − n(B ∩ F) → 29 = 20 + 18 − n(B ∩ F)." },
+        { "en": "n(B ∩ F) = 38 − 29 = 9.", "bm": "n(B ∩ F) = 38 − 29 = 9." }
+      ],
+      "answer": { "en": "9 students play both.", "bm": "9 orang pelajar bermain kedua-duanya." }
+    }
+  },
+  "questions": [
+    { "id": "math-04-q01", "subtopicId": "math-04-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "A = {1, 2, 3, 4}, B = {3, 4, 5}. Find A ∩ B.", "bm": "A = {1, 2, 3, 4}, B = {3, 4, 5}. Cari A ∩ B." },
+      "options": [ { "en": "{3, 4}", "bm": "{3, 4}" }, { "en": "{1, 2, 3, 4, 5}", "bm": "{1, 2, 3, 4, 5}" }, { "en": "{1, 2}", "bm": "{1, 2}" }, { "en": "{5}", "bm": "{5}" } ],
+      "answer": 0,
+      "explanation": { "en": "Intersection = elements in both sets.", "bm": "Persilangan = unsur dalam kedua-dua set." } },
+    { "id": "math-04-q02", "subtopicId": "math-04-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A = {1, 2, 3, 4}, B = {3, 4, 5}. Find n(A ∪ B).", "bm": "A = {1, 2, 3, 4}, B = {3, 4, 5}. Cari n(A ∪ B)." },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "A ∪ B = {1, 2, 3, 4, 5} — list each element once.", "bm": "A ∪ B = {1, 2, 3, 4, 5} — senaraikan setiap unsur sekali." } },
+    { "id": "math-04-q03", "subtopicId": "math-04-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "n(A) = 10, n(B) = 8, n(A ∩ B) = 3. Find n(A ∪ B).", "bm": "n(A) = 10, n(B) = 8, n(A ∩ B) = 3. Cari n(A ∪ B)." },
+      "answer": 15, "tolerance": 0,
+      "explanation": { "en": "10 + 8 − 3 = 15.", "bm": "10 + 8 − 3 = 15." } },
+    { "id": "math-04-q04", "subtopicId": "math-04-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "n(ξ) = 30 and n(A ∪ B) = 15. Find n((A ∪ B)′).", "bm": "n(ξ) = 30 dan n(A ∪ B) = 15. Cari n((A ∪ B)′)." },
+      "answer": 15, "tolerance": 0,
+      "explanation": { "en": "Complement = 30 − 15 = 15 (elements outside both circles).", "bm": "Pelengkap = 30 − 15 = 15 (unsur di luar kedua-dua bulatan)." } },
+    { "id": "math-04-q05", "subtopicId": "math-04-03", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "In a class of 35, 20 play badminton, 18 play football and 6 play neither. How many play both?", "bm": "Dalam kelas 35 orang, 20 bermain badminton, 18 bermain bola sepak dan 6 tidak bermain kedua-duanya. Berapa orang bermain kedua-duanya?" },
+      "answer": 9, "tolerance": 0,
+      "explanation": { "en": "29 = 20 + 18 − x → x = 9.", "bm": "29 = 20 + 18 − x → x = 9." } },
+    { "id": "math-04-q06", "subtopicId": "math-04-03", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Using the class above (9 play both), how many play ONLY badminton?", "bm": "Menggunakan kelas di atas (9 bermain kedua-duanya), berapa orang bermain badminton SAHAJA?" },
+      "answer": 11, "tolerance": 0,
+      "explanation": { "en": "20 − 9 = 11.", "bm": "20 − 9 = 11." } },
+    { "id": "math-04-q07", "subtopicId": "math-04-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "If A ∩ B = ∅, sets A and B are…", "bm": "Jika A ∩ B = ∅, set A dan B ialah…" },
+      "options": [ { "en": "disjoint", "bm": "terpisah" }, { "en": "equal", "bm": "sama" }, { "en": "subsets of each other", "bm": "subset antara satu sama lain" }, { "en": "universal sets", "bm": "set semesta" } ],
+      "answer": 0,
+      "explanation": { "en": "They have no elements in common — their circles don't overlap.", "bm": "Tiada unsur sepunya — bulatannya tidak bertindih." } },
+    { "id": "math-04-q08", "subtopicId": "math-04-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "If A ⊂ B, then A ∩ B = …", "bm": "Jika A ⊂ B, maka A ∩ B = …" },
+      "options": [ { "en": "A", "bm": "A" }, { "en": "B", "bm": "B" }, { "en": "∅", "bm": "∅" }, { "en": "ξ", "bm": "ξ" } ],
+      "answer": 0,
+      "explanation": { "en": "All of A is inside B, so the common part is A itself. Also A ∪ B = B.", "bm": "Seluruh A di dalam B, jadi bahagian sepunya ialah A. Juga A ∪ B = B." } },
+    { "id": "math-04-q09", "subtopicId": "math-04-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which region is (A ∪ B)′ ∩ C?", "bm": "Rantau manakah (A ∪ B)′ ∩ C?" },
+      "options": [ { "en": "Part of C outside both A and B", "bm": "Bahagian C di luar A dan B" }, { "en": "Part of A and B inside C", "bm": "Bahagian A dan B di dalam C" }, { "en": "Everything outside C", "bm": "Semua di luar C" }, { "en": "The centre where all three overlap", "bm": "Tengah tempat ketiga-tiganya bertindih" } ],
+      "answer": 0,
+      "explanation": { "en": "(A ∪ B)′ = outside A and B; intersect with C = the part of C not in A or B.", "bm": "(A ∪ B)′ = di luar A dan B; bersilang dengan C = bahagian C yang bukan dalam A atau B." } },
+    { "id": "math-04-q10", "subtopicId": "math-04-02", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The symbol ∪ represents the ______ of sets.", "bm": "Simbol ∪ mewakili ______ set." },
+      "answer": ["union", "kesatuan"],
+      "explanation": { "en": "∩ is intersection; ∪ is union (think 'U' for union).", "bm": "∩ ialah persilangan; ∪ ialah kesatuan." } }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapterId": "addmath-03",
+  "cards": [
+    { "id": "addmath-03-f01", "subtopicId": "addmath-03-01", "front": { "en": "Linear equation in three variables", "bm": "Persamaan linear tiga pemboleh ubah" }, "back": { "en": "ax + by + cz = d — represents a plane in 3-D", "bm": "ax + by + cz = d — mewakili satah dalam 3-D" } },
+    { "id": "addmath-03-f02", "subtopicId": "addmath-03-01", "front": { "en": "How many equations for 3 unknowns?", "bm": "Berapa persamaan untuk 3 anu?" }, "back": { "en": "Three independent equations", "bm": "Tiga persamaan tak bersandar" } },
+    { "id": "addmath-03-f03", "subtopicId": "addmath-03-01", "front": { "en": "Elimination method", "bm": "Kaedah penghapusan" }, "back": { "en": "Combine pairs of equations to remove the same variable twice → 2 × 2 system", "bm": "Gabungkan pasangan persamaan untuk menghapuskan pemboleh ubah yang sama dua kali → sistem 2 × 2" } },
+    { "id": "addmath-03-f04", "subtopicId": "addmath-03-01", "front": { "en": "Types of solutions (3 planes)", "bm": "Jenis penyelesaian (3 satah)" }, "back": { "en": "Unique (meet at a point), infinitely many (meet along a line), none (no common point)", "bm": "Unik (bertemu pada titik), tak terhingga (bertemu sepanjang garis), tiada (tiada titik sepunya)" } },
+    { "id": "addmath-03-f05", "subtopicId": "addmath-03-01", "front": { "en": "Shortcut when equations are symmetric", "bm": "Jalan pintas apabila persamaan simetri" }, "back": { "en": "Add all three equations to find x + y + z first", "bm": "Tambah ketiga-tiga persamaan untuk mencari x + y + z dahulu" } },
+    { "id": "addmath-03-f06", "subtopicId": "addmath-03-02", "front": { "en": "One linear + one non-linear equation", "bm": "Satu linear + satu tak linear" }, "back": { "en": "Make a variable the subject of the LINEAR one, substitute into the non-linear one", "bm": "Jadikan pemboleh ubah perkara rumus persamaan LINEAR, gantikan ke dalam persamaan tak linear" } },
+    { "id": "addmath-03-f07", "subtopicId": "addmath-03-02", "front": { "en": "Number of solutions (line & curve)", "bm": "Bilangan penyelesaian (garis & lengkung)" }, "back": { "en": "Usually 2 pairs; 1 pair if the line is tangent", "bm": "Biasanya 2 pasang; 1 pasang jika garis ialah tangen" } },
+    { "id": "addmath-03-f08", "subtopicId": "addmath-03-02", "front": { "en": "Geometric meaning", "bm": "Maksud geometri" }, "back": { "en": "Solutions are the intersection points of the line and the curve", "bm": "Penyelesaian ialah titik persilangan garis dan lengkung" } },
+    { "id": "addmath-03-f09", "subtopicId": "addmath-03-02", "front": { "en": "Common mistake", "bm": "Kesilapan biasa" }, "back": { "en": "Finding only x — always give the matching y for each x", "bm": "Hanya mencari x — sentiasa beri y yang sepadan untuk setiap x" } },
+    { "id": "addmath-03-f10", "subtopicId": "addmath-03-01", "front": { "en": "Real-life uses", "bm": "Kegunaan sebenar" }, "back": { "en": "Prices of several items, mixtures, investments, nutrition planning", "bm": "Harga beberapa barang, campuran, pelaburan, perancangan pemakanan" } }
+  ]
+}

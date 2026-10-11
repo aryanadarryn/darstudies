@@ -1,0 +1,48 @@
+{
+  "chapterId": "chem-07",
+  "reviewed": false,
+  "subtopics": {
+    "chem-07-01": {
+      "keyPoints": [
+        { "en": "Rate of reaction = change in quantity of reactant or product ÷ time.", "bm": "Kadar tindak balas = perubahan kuantiti bahan atau hasil ÷ masa." },
+        { "en": "Measure an observable change: gas volume (gas syringe / water displacement), mass loss, time for a precipitate to hide a cross.", "bm": "Ukur perubahan yang boleh diperhati: isi padu gas (picagari gas / sesaran air), kehilangan jisim, masa untuk mendakan menutup pangkah." },
+        { "en": "Average rate = total change ÷ total time. Instantaneous rate = gradient of the tangent.", "bm": "Kadar purata = jumlah perubahan ÷ jumlah masa. Kadar pada masa tertentu = kecerunan tangen." },
+        { "en": "Rate is highest at the start; the curve flattens when a reactant runs out.", "bm": "Kadar paling tinggi pada awal; lengkung mendatar apabila bahan tindak balas habis." },
+        { "en": "Rate ∝ 1/time when measuring time to reach a fixed point.", "bm": "Kadar ∝ 1/masa apabila mengukur masa untuk mencapai titik tetap." }
+      ],
+      "example": { "question": { "en": "A flask loses 1.2 g of mass in 4 minutes as CO₂ escapes. Find the average rate in g min⁻¹.", "bm": "Kelalang kehilangan 1.2 g jisim dalam 4 minit apabila CO₂ terlepas. Cari kadar purata dalam g min⁻¹." }, "answer": { "en": "1.2 ÷ 4 = 0.3 g min⁻¹", "bm": "1.2 ÷ 4 = 0.3 g min⁻¹" } },
+      "tip": { "en": "Draw tangents with a ruler touching the curve at only one point.", "bm": "Lukis tangen dengan pembaris yang menyentuh lengkung pada satu titik sahaja." }
+    },
+    "chem-07-02": {
+      "keyPoints": [
+        { "en": "Size: smaller particles → larger total surface area → faster.", "bm": "Saiz: zarah lebih kecil → jumlah luas permukaan lebih besar → lebih cepat." },
+        { "en": "Concentration: higher → more particles per volume → faster.", "bm": "Kepekatan: lebih tinggi → lebih banyak zarah per isi padu → lebih cepat." },
+        { "en": "Temperature: higher → particles have more kinetic energy → faster (roughly doubles every 10 °C).", "bm": "Suhu: lebih tinggi → zarah mempunyai lebih tenaga kinetik → lebih cepat (lebih kurang berganda setiap 10 °C)." },
+        { "en": "Catalyst: lowers activation energy → faster. Pressure (gases only): higher → faster.", "bm": "Mangkin: merendahkan tenaga pengaktifan → lebih cepat. Tekanan (gas sahaja): lebih tinggi → lebih cepat." },
+        { "en": "These factors change the RATE, not the final amount of product (that depends on the limiting reactant).", "bm": "Faktor ini mengubah KADAR, bukan kuantiti akhir hasil (bergantung pada bahan penghad)." }
+      ],
+      "example": { "question": { "en": "Excess zinc reacts with 50 cm³ of 0.1 M HCl, then with 50 cm³ of 0.2 M HCl. Compare the final volume of H₂.", "bm": "Zink berlebihan bertindak balas dengan 50 cm³ HCl 0.1 M, kemudian 50 cm³ HCl 0.2 M. Bandingkan isi padu akhir H₂." }, "answer": { "en": "The 0.2 M acid gives twice the volume (twice the moles of HCl) and reacts faster.", "bm": "Asid 0.2 M memberi dua kali isi padu (dua kali mol HCl) dan bertindak balas lebih cepat." } },
+      "tip": { "en": "First decide which reactant is limiting — it fixes the final amount of product.", "bm": "Tentukan dahulu bahan penghad — ia menetapkan kuantiti akhir hasil." }
+    },
+    "chem-07-03": {
+      "keyPoints": [
+        { "en": "Refrigerators slow down decay because bacteria react more slowly at low temperature.", "bm": "Peti sejuk melambatkan pereputan kerana bakteria bertindak balas lebih perlahan pada suhu rendah." },
+        { "en": "Pressure cookers raise water's boiling point, so food cooks faster at a higher temperature.", "bm": "Periuk tekanan menaikkan takat didih air, jadi makanan masak lebih cepat pada suhu lebih tinggi." },
+        { "en": "Small charcoal pieces and thinly sliced food have more surface area — they burn or cook faster.", "bm": "Arang kecil dan makanan dihiris nipis mempunyai luas permukaan lebih besar — terbakar atau masak lebih cepat." },
+        { "en": "Industry uses catalysts to save energy and time: Haber process (iron), Contact process (V₂O₅), car catalytic converters (Pt, Rh).", "bm": "Industri menggunakan mangkin untuk menjimatkan tenaga dan masa: proses Haber (besi), proses Sentuh (V₂O₅), penukar bermangkin kereta (Pt, Rh)." }
+      ],
+      "example": { "question": { "en": "Why is fine flour dust in a factory a fire hazard?", "bm": "Mengapa debu tepung halus di kilang berbahaya kerana boleh terbakar?" }, "answer": { "en": "Tiny particles have a huge surface area, so they can burn explosively fast.", "bm": "Zarah halus mempunyai luas permukaan sangat besar, jadi boleh terbakar dengan sangat cepat seperti letupan." } },
+      "tip": { "en": "In application questions, name the factor AND explain using collisions.", "bm": "Dalam soalan aplikasi, namakan faktor DAN terangkan menggunakan perlanggaran." }
+    },
+    "chem-07-04": {
+      "keyPoints": [
+        { "en": "Reactions happen only when particles collide.", "bm": "Tindak balas hanya berlaku apabila zarah berlanggar." },
+        { "en": "An effective collision needs energy ≥ activation energy (Ea) and the correct orientation.", "bm": "Perlanggaran berkesan memerlukan tenaga ≥ tenaga pengaktifan (Ea) dan orientasi yang betul." },
+        { "en": "Size, concentration and pressure increase collision frequency; temperature increases frequency AND energy.", "bm": "Saiz, kepekatan dan tekanan meningkatkan frekuensi perlanggaran; suhu meningkatkan frekuensi DAN tenaga." },
+        { "en": "A catalyst lowers Ea, so more collisions are effective. It doesn't change the energy of reactants or products.", "bm": "Mangkin merendahkan Ea, jadi lebih banyak perlanggaran berkesan. Ia tidak mengubah tenaga bahan atau hasil." }
+      ],
+      "example": { "question": { "en": "Explain using collision theory why powdered zinc reacts faster than granules.", "bm": "Terangkan menggunakan teori perlanggaran mengapa serbuk zink bertindak balas lebih cepat daripada ketulan." }, "answer": { "en": "Powder has a larger exposed surface area → more frequent collisions with H⁺ → higher frequency of effective collisions → faster rate.", "bm": "Serbuk mempunyai luas permukaan terdedah lebih besar → perlanggaran dengan H⁺ lebih kerap → frekuensi perlanggaran berkesan lebih tinggi → kadar lebih tinggi." } },
+      "tip": { "en": "Use the chain: factor → frequency of collision ↑ → frequency of EFFECTIVE collision ↑ → rate ↑.", "bm": "Guna rantai: faktor → frekuensi perlanggaran ↑ → frekuensi perlanggaran BERKESAN ↑ → kadar ↑." }
+    }
+  }
+}

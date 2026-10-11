@@ -1,0 +1,100 @@
+{
+  "chapterId": "bio-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Nasi lemak gives you carbohydrates, the egg gives protein, the sambal oil gives lipids — and your body is about 60% water. Every cell is built from just a handful of chemical building blocks.",
+      "bm": "Nasi lemak memberi karbohidrat, telur memberi protein, minyak sambal memberi lipid — dan badan anda kira-kira 60% air. Setiap sel dibina daripada beberapa blok binaan kimia sahaja."
+    },
+    "bigIdeas": [
+      { "en": "Water is the main component of cells: a polar solvent with high specific heat capacity.", "bm": "Air ialah komponen utama sel: pelarut berkutub dengan muatan haba tentu yang tinggi." },
+      { "en": "Carbohydrates, proteins and lipids are built by condensation and broken down by hydrolysis.", "bm": "Karbohidrat, protein dan lipid dibina melalui kondensasi dan diuraikan melalui hidrolisis." },
+      { "en": "Each biomolecule has a food test: Benedict's, iodine, biuret, emulsion.", "bm": "Setiap biomolekul mempunyai ujian makanan: Benedict, iodin, biuret, emulsi." },
+      { "en": "Nucleic acids (DNA, RNA) store and use genetic information.", "bm": "Asid nukleik (DNA, RNA) menyimpan dan menggunakan maklumat genetik." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Carbohydrate", "bm": "Karbohidrat" }, { "en": "Protein", "bm": "Protein" }, { "en": "Lipid", "bm": "Lipid" } ],
+        "rows": [
+          { "label": { "en": "Elements", "bm": "Unsur" }, "cells": [ { "en": "C, H, O", "bm": "C, H, O" }, { "en": "C, H, O, N (S)", "bm": "C, H, O, N (S)" }, { "en": "C, H, O", "bm": "C, H, O" } ] },
+          { "label": { "en": "Building unit", "bm": "Unit asas" }, "cells": [ { "en": "monosaccharide", "bm": "monosakarida" }, { "en": "amino acid", "bm": "asid amino" }, { "en": "glycerol + 3 fatty acids", "bm": "gliserol + 3 asid lemak" } ] },
+          { "label": { "en": "Bond", "bm": "Ikatan" }, "cells": [ { "en": "glycosidic", "bm": "glikosida" }, { "en": "peptide", "bm": "peptida" }, { "en": "ester", "bm": "ester" } ] },
+          { "label": { "en": "Food test", "bm": "Ujian makanan" }, "cells": [ { "en": "Benedict's (reducing sugar), iodine (starch)", "bm": "Benedict (gula penurun), iodin (kanji)" }, { "en": "Biuret → purple", "bm": "Biuret → ungu" }, { "en": "Emulsion → cloudy white", "bm": "Emulsi → putih keruh" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Condensation", "bm": "Kondensasi" }, "definition": { "en": "Joining two molecules with the removal of a water molecule.", "bm": "Menggabungkan dua molekul dengan penyingkiran satu molekul air." } },
+      { "term": { "en": "Hydrolysis", "bm": "Hidrolisis" }, "definition": { "en": "Breaking a molecule by adding water.", "bm": "Memecahkan molekul dengan menambah air." } },
+      { "term": { "en": "Reducing sugar", "bm": "Gula penurun" }, "definition": { "en": "Sugar that turns Benedict's solution brick-red when heated (glucose, maltose).", "bm": "Gula yang menukar larutan Benedict kepada merah bata apabila dipanaskan (glukosa, maltosa)." } },
+      { "term": { "en": "Peptide bond", "bm": "Ikatan peptida" }, "definition": { "en": "Bond joining two amino acids.", "bm": "Ikatan yang menyambung dua asid amino." } },
+      { "term": { "en": "Saturated fat", "bm": "Lemak tepu" }, "definition": { "en": "Fatty acids with no C=C double bonds; usually solid at room temperature.", "bm": "Asid lemak tanpa ikatan ganda dua C=C; biasanya pepejal pada suhu bilik." } },
+      { "term": { "en": "Nucleotide", "bm": "Nukleotida" }, "definition": { "en": "Unit of nucleic acid: phosphate + pentose sugar + nitrogenous base.", "bm": "Unit asid nukleik: fosfat + gula pentosa + bes bernitrogen." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "A food sample gives: Benedict's → blue (no change); iodine → blue-black; biuret → purple. What does the food contain?", "bm": "Sampel makanan memberi: Benedict → biru (tiada perubahan); iodin → biru tua; biuret → ungu. Apakah kandungan makanan itu?" },
+      "steps": [
+        { "en": "Benedict's stays blue → no reducing sugar.", "bm": "Benedict kekal biru → tiada gula penurun." },
+        { "en": "Iodine turns blue-black → starch present.", "bm": "Iodin bertukar biru tua → kanji hadir." },
+        { "en": "Biuret turns purple → protein present.", "bm": "Biuret bertukar ungu → protein hadir." }
+      ],
+      "answer": { "en": "Starch and protein, but no reducing sugar.", "bm": "Kanji dan protein, tetapi tiada gula penurun." }
+    }
+  },
+  "questions": [
+    { "id": "bio-04-q01", "subtopicId": "bio-04-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why does sweating help keep body temperature stable?", "bm": "Mengapa berpeluh membantu menstabilkan suhu badan?" },
+      "options": [ { "en": "Water has a high latent heat of vaporisation", "bm": "Air mempunyai haba pendam pengewapan yang tinggi" }, { "en": "Water is non-polar", "bm": "Air tidak berkutub" }, { "en": "Water has a low specific heat capacity", "bm": "Air mempunyai muatan haba tentu yang rendah" }, { "en": "Water is a protein", "bm": "Air ialah protein" } ],
+      "answer": 0,
+      "explanation": { "en": "Evaporating sweat absorbs a lot of heat from the skin.", "bm": "Peluh yang menyejat menyerap banyak haba daripada kulit." } },
+    { "id": "bio-04-q02", "subtopicId": "bio-04-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each disaccharide to its monosaccharides.", "bm": "Padankan setiap disakarida dengan monosakaridanya." },
+      "pairs": [
+        { "left": { "en": "Maltose", "bm": "Maltosa" }, "right": { "en": "Glucose + glucose", "bm": "Glukosa + glukosa" } },
+        { "left": { "en": "Sucrose", "bm": "Sukrosa" }, "right": { "en": "Glucose + fructose", "bm": "Glukosa + fruktosa" } },
+        { "left": { "en": "Lactose", "bm": "Laktosa" }, "right": { "en": "Glucose + galactose", "bm": "Glukosa + galaktosa" } }
+      ],
+      "explanation": { "en": "Two monosaccharides join by condensation to form a disaccharide and water.", "bm": "Dua monosakarida bergabung melalui kondensasi membentuk disakarida dan air." } },
+    { "id": "bio-04-q03", "subtopicId": "bio-04-02", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Which reagent is used to test for starch?", "bm": "Reagen manakah digunakan untuk menguji kanji?" },
+      "options": [ { "en": "Iodine solution", "bm": "Larutan iodin" }, { "en": "Benedict's solution", "bm": "Larutan Benedict" }, { "en": "Biuret reagent", "bm": "Reagen biuret" }, { "en": "Ethanol", "bm": "Etanol" } ],
+      "answer": 0,
+      "explanation": { "en": "Iodine turns from brown to blue-black if starch is present.", "bm": "Iodin bertukar dari perang ke biru tua jika kanji hadir." } },
+    { "id": "bio-04-q04", "subtopicId": "bio-04-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which polysaccharide is the energy store in animals and is found in the liver?", "bm": "Polisakarida manakah simpanan tenaga dalam haiwan dan terdapat dalam hati?" },
+      "options": [ { "en": "Starch", "bm": "Kanji" }, { "en": "Glycogen", "bm": "Glikogen" }, { "en": "Cellulose", "bm": "Selulosa" }, { "en": "Sucrose", "bm": "Sukrosa" } ],
+      "answer": 1,
+      "explanation": { "en": "Plants store starch; animals store glycogen in the liver and muscles. Cellulose forms plant cell walls.", "bm": "Tumbuhan menyimpan kanji; haiwan menyimpan glikogen dalam hati dan otot. Selulosa membentuk dinding sel tumbuhan." } },
+    { "id": "bio-04-q05", "subtopicId": "bio-04-03", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Proteins contain which element that carbohydrates and lipids do not?", "bm": "Protein mengandungi unsur manakah yang tiada dalam karbohidrat dan lipid?" },
+      "options": [ { "en": "Nitrogen", "bm": "Nitrogen" }, { "en": "Carbon", "bm": "Karbon" }, { "en": "Oxygen", "bm": "Oksigen" }, { "en": "Hydrogen", "bm": "Hidrogen" } ],
+      "answer": 0,
+      "explanation": { "en": "Every amino acid has an amino group (–NH₂). Some proteins also contain sulfur.", "bm": "Setiap asid amino mempunyai kumpulan amino (–NH₂). Sesetengah protein juga mengandungi sulfur." } },
+    { "id": "bio-04-q06", "subtopicId": "bio-04-03", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Two amino acids are joined by a ______ bond.", "bm": "Dua asid amino disambung oleh ikatan ______." },
+      "answer": ["peptide", "peptida"],
+      "explanation": { "en": "A dipeptide forms with the loss of one water molecule (condensation).", "bm": "Dipeptida terbentuk dengan kehilangan satu molekul air (kondensasi)." } },
+    { "id": "bio-04-q07", "subtopicId": "bio-04-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A fat molecule (triglyceride) is formed from…", "bm": "Molekul lemak (trigliserida) terbentuk daripada…" },
+      "options": [ { "en": "1 glycerol + 3 fatty acids", "bm": "1 gliserol + 3 asid lemak" }, { "en": "3 glycerol + 1 fatty acid", "bm": "3 gliserol + 1 asid lemak" }, { "en": "amino acids", "bm": "asid amino" }, { "en": "glucose units", "bm": "unit glukosa" } ],
+      "answer": 0,
+      "explanation": { "en": "Three ester bonds form, releasing three water molecules.", "bm": "Tiga ikatan ester terbentuk, membebaskan tiga molekul air." } },
+    { "id": "bio-04-q08", "subtopicId": "bio-04-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why is palm oil liquid at room temperature while butter is solid?", "bm": "Mengapa minyak sawit cecair pada suhu bilik manakala mentega pepejal?" },
+      "options": [ { "en": "Oils contain more unsaturated fatty acids", "bm": "Minyak mengandungi lebih banyak asid lemak tak tepu" }, { "en": "Oils contain protein", "bm": "Minyak mengandungi protein" }, { "en": "Butter has no fatty acids", "bm": "Mentega tiada asid lemak" }, { "en": "Oils are carbohydrates", "bm": "Minyak ialah karbohidrat" } ],
+      "answer": 0,
+      "explanation": { "en": "C=C double bonds put 'kinks' in unsaturated fatty acids so they pack loosely and melt at lower temperatures.", "bm": "Ikatan ganda dua C=C menghasilkan 'lengkok' dalam asid lemak tak tepu, jadi tersusun longgar dan melebur pada suhu lebih rendah." } },
+    { "id": "bio-04-q09", "subtopicId": "bio-04-05", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL components of a nucleotide.", "bm": "Pilih SEMUA komponen nukleotida." },
+      "options": [ { "en": "Phosphate group", "bm": "Kumpulan fosfat" }, { "en": "Pentose sugar", "bm": "Gula pentosa" }, { "en": "Nitrogenous base", "bm": "Bes bernitrogen" }, { "en": "Amino acid", "bm": "Asid amino" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Nucleotides join into long chains to form DNA or RNA.", "bm": "Nukleotida bergabung menjadi rantai panjang membentuk DNA atau RNA." } },
+    { "id": "bio-04-q10", "subtopicId": "bio-04-05", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In DNA, adenine always pairs with…", "bm": "Dalam DNA, adenina sentiasa berpasangan dengan…" },
+      "options": [ { "en": "thymine", "bm": "timina" }, { "en": "cytosine", "bm": "sitosina" }, { "en": "guanine", "bm": "guanina" }, { "en": "uracil", "bm": "urasil" } ],
+      "answer": 0,
+      "explanation": { "en": "A–T and C–G. In RNA, uracil replaces thymine.", "bm": "A–T dan C–G. Dalam RNA, urasil menggantikan timina." } }
+  ]
+}

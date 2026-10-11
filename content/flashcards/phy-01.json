@@ -1,0 +1,20 @@
+{
+  "chapterId": "phy-01",
+  "cards": [
+    { "id": "phy-01-f01", "subtopicId": "phy-01-01", "front": { "en": "The 7 base quantities", "bm": "7 kuantiti asas" }, "back": { "en": "Length, mass, time, temperature, electric current, amount of substance, luminous intensity", "bm": "Panjang, jisim, masa, suhu, arus elektrik, kuantiti bahan, keamatan berluminositi" } },
+    { "id": "phy-01-f02", "subtopicId": "phy-01-01", "front": { "en": "SI unit of mass", "bm": "Unit SI jisim" }, "back": { "en": "kilogram (kg)", "bm": "kilogram (kg)" } },
+    { "id": "phy-01-f03", "subtopicId": "phy-01-01", "front": { "en": "Derived quantity", "bm": "Kuantiti terbitan" }, "back": { "en": "Combination of base quantities, e.g. area (m²), velocity (m s⁻¹)", "bm": "Gabungan kuantiti asas, cth. luas (m²), halaju (m s⁻¹)" } },
+    { "id": "phy-01-f04", "subtopicId": "phy-01-01", "front": { "en": "Scalar quantity", "bm": "Kuantiti skalar" }, "back": { "en": "Magnitude only — mass, distance, speed, time, energy", "bm": "Magnitud sahaja — jisim, jarak, laju, masa, tenaga" } },
+    { "id": "phy-01-f05", "subtopicId": "phy-01-01", "front": { "en": "Vector quantity", "bm": "Kuantiti vektor" }, "back": { "en": "Magnitude and direction — displacement, velocity, acceleration, force, momentum", "bm": "Magnitud dan arah — sesaran, halaju, pecutan, daya, momentum" } },
+    { "id": "phy-01-f06", "subtopicId": "phy-01-01", "front": { "en": "micro (μ) and nano (n)", "bm": "mikro (μ) dan nano (n)" }, "back": { "en": "μ = 10⁻⁶, n = 10⁻⁹", "bm": "μ = 10⁻⁶, n = 10⁻⁹" } },
+    { "id": "phy-01-f07", "subtopicId": "phy-01-01", "front": { "en": "mega (M) and giga (G)", "bm": "mega (M) dan giga (G)" }, "back": { "en": "M = 10⁶, G = 10⁹", "bm": "M = 10⁶, G = 10⁹" } },
+    { "id": "phy-01-f08", "subtopicId": "phy-01-01", "front": { "en": "Standard form", "bm": "Bentuk piawai" }, "back": { "en": "A × 10ⁿ where 1 ≤ A < 10 and n is an integer", "bm": "A × 10ⁿ dengan 1 ≤ A < 10 dan n ialah integer" } },
+    { "id": "phy-01-f09", "subtopicId": "phy-01-01", "front": { "en": "km h⁻¹ → m s⁻¹", "bm": "km j⁻¹ → m s⁻¹" }, "back": { "en": "Divide by 3.6", "bm": "Bahagi dengan 3.6" } },
+    { "id": "phy-01-f10", "subtopicId": "phy-01-02", "front": { "en": "Manipulated variable", "bm": "Pemboleh ubah dimanipulasikan" }, "back": { "en": "What you change on purpose (x-axis)", "bm": "Yang diubah dengan sengaja (paksi-x)" } },
+    { "id": "phy-01-f11", "subtopicId": "phy-01-02", "front": { "en": "Responding variable", "bm": "Pemboleh ubah bergerak balas" }, "back": { "en": "What you measure (y-axis)", "bm": "Yang diukur (paksi-y)" } },
+    { "id": "phy-01-f12", "subtopicId": "phy-01-02", "front": { "en": "Constant (fixed) variable", "bm": "Pemboleh ubah dimalarkan" }, "back": { "en": "Kept the same to make the test fair", "bm": "Ditetapkan sama supaya ujian adil" } },
+    { "id": "phy-01-f13", "subtopicId": "phy-01-02", "front": { "en": "Hypothesis", "bm": "Hipotesis" }, "back": { "en": "A testable statement linking the manipulated and responding variables", "bm": "Pernyataan boleh diuji yang mengaitkan pemboleh ubah dimanipulasikan dan bergerak balas" } },
+    { "id": "phy-01-f14", "subtopicId": "phy-01-02", "front": { "en": "Interpolation vs extrapolation", "bm": "Interpolasi vs ekstrapolasi" }, "back": { "en": "Interpolation: read within the data range. Extrapolation: extend the line beyond it", "bm": "Interpolasi: baca dalam julat data. Ekstrapolasi: panjangkan garis di luar julat" } },
+    { "id": "phy-01-f15", "subtopicId": "phy-01-02", "front": { "en": "Gradient of a graph", "bm": "Kecerunan graf" }, "back": { "en": "Δy ÷ Δx — use a large triangle", "bm": "Δy ÷ Δx — guna segi tiga yang besar" } }
+  ]
+}

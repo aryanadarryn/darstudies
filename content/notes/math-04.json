@@ -1,0 +1,36 @@
+{
+  "chapterId": "math-04",
+  "reviewed": false,
+  "subtopics": {
+    "math-04-01": {
+      "keyPoints": [
+        { "en": "Intersection A ∩ B: the set of elements common to A and B (the overlap in a Venn diagram).", "bm": "Persilangan A ∩ B: set unsur sepunya A dan B (bahagian bertindih dalam gambar rajah Venn)." },
+        { "en": "Three sets: A ∩ B ∩ C is the region common to all three.", "bm": "Tiga set: A ∩ B ∩ C ialah rantau sepunya ketiga-tiga set." },
+        { "en": "Complement (A ∩ B)′: everything in ξ except the overlap.", "bm": "Pelengkap (A ∩ B)′: semua dalam ξ kecuali bahagian bertindih." },
+        { "en": "If A ⊂ B then A ∩ B = A. If A and B are disjoint, A ∩ B = ∅.", "bm": "Jika A ⊂ B maka A ∩ B = A. Jika A dan B terpisah, A ∩ B = ∅." }
+      ],
+      "example": { "question": { "en": "ξ = {1, …, 10}, P = multiples of 2, Q = multiples of 3. Find P ∩ Q.", "bm": "ξ = {1, …, 10}, P = gandaan 2, Q = gandaan 3. Cari P ∩ Q." }, "answer": { "en": "P = {2, 4, 6, 8, 10}, Q = {3, 6, 9} → P ∩ Q = {6}", "bm": "P = {2, 4, 6, 8, 10}, Q = {3, 6, 9} → P ∩ Q = {6}" } },
+      "tip": { "en": "∩ looks like an upside-down U — think 'AND'.", "bm": "∩ kelihatan seperti U terbalik — fikir 'DAN'." }
+    },
+    "math-04-02": {
+      "keyPoints": [
+        { "en": "Union A ∪ B: all elements that are in A or B or both (each listed once).", "bm": "Kesatuan A ∪ B: semua unsur yang dalam A atau B atau kedua-duanya (setiap satu disenarai sekali)." },
+        { "en": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B).", "bm": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B)." },
+        { "en": "Complement (A ∪ B)′: elements outside both A and B.", "bm": "Pelengkap (A ∪ B)′: unsur di luar A dan B." },
+        { "en": "If A ⊂ B then A ∪ B = B.", "bm": "Jika A ⊂ B maka A ∪ B = B." }
+      ],
+      "example": { "question": { "en": "n(ξ) = 40, n(A) = 22, n(B) = 15, n(A ∩ B) = 7. Find n(A ∪ B)′.", "bm": "n(ξ) = 40, n(A) = 22, n(B) = 15, n(A ∩ B) = 7. Cari n(A ∪ B)′." }, "answer": { "en": "n(A ∪ B) = 22 + 15 − 7 = 30 → n(A ∪ B)′ = 10", "bm": "n(A ∪ B) = 22 + 15 − 7 = 30 → n(A ∪ B)′ = 10" } },
+      "tip": { "en": "∪ looks like a cup holding everything — think 'OR'.", "bm": "∪ seperti cawan yang menampung semua — fikir 'ATAU'." }
+    },
+    "math-04-03": {
+      "keyPoints": [
+        { "en": "Combined operations mix ∩, ∪ and ′. Do brackets first, like in arithmetic.", "bm": "Gabungan operasi mencampurkan ∩, ∪ dan ′. Selesaikan kurungan dahulu, seperti aritmetik." },
+        { "en": "Shade step by step: shade the bracket, then apply the outer operation.", "bm": "Lorek langkah demi langkah: lorek kurungan, kemudian guna operasi luar." },
+        { "en": "Word problems: draw a Venn diagram, fill the innermost region first, then work outwards.", "bm": "Masalah berayat: lukis gambar rajah Venn, isi rantau paling dalam dahulu, kemudian bergerak ke luar." },
+        { "en": "Use x for unknown regions and form an equation using the total n(ξ).", "bm": "Guna x untuk rantau tidak diketahui dan bentuk persamaan menggunakan jumlah n(ξ)." }
+      ],
+      "example": { "question": { "en": "ξ = 50 students. 28 like Maths, 25 like Science, 8 like neither. How many like only Science?", "bm": "ξ = 50 pelajar. 28 suka Matematik, 25 suka Sains, 8 tidak suka kedua-duanya. Berapa orang suka Sains sahaja?" }, "answer": { "en": "Both = 28 + 25 − 42 = 11; only Science = 25 − 11 = 14", "bm": "Kedua-dua = 28 + 25 − 42 = 11; Sains sahaja = 25 − 11 = 14" } },
+      "tip": { "en": "Check: all regions must add up to n(ξ).", "bm": "Semak: semua rantau mesti berjumlah n(ξ)." }
+    }
+  }
+}

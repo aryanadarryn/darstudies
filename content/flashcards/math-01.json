@@ -1,0 +1,15 @@
+{
+  "chapterId": "math-01",
+  "cards": [
+    { "id": "math-01-f01", "subtopicId": "math-01-01", "front": { "en": "Quadratic expression", "bm": "Ungkapan kuadratik" }, "back": { "en": "ax² + bx + c, a ≠ 0, one variable, highest power 2", "bm": "ax² + bx + c, a ≠ 0, satu pemboleh ubah, kuasa tertinggi 2" } },
+    { "id": "math-01-f02", "subtopicId": "math-01-01", "front": { "en": "Shape of the graph", "bm": "Bentuk graf" }, "back": { "en": "a > 0: ∪ (minimum). a < 0: ∩ (maximum)", "bm": "a > 0: ∪ (minimum). a < 0: ∩ (maksimum)" } },
+    { "id": "math-01-f03", "subtopicId": "math-01-01", "front": { "en": "Effect of a, b and c", "bm": "Kesan a, b dan c" }, "back": { "en": "|a|: width; sign of a: direction; b: position of axis; c: y-intercept", "bm": "|a|: lebar; tanda a: arah; b: kedudukan paksi; c: pintasan-y" } },
+    { "id": "math-01-f04", "subtopicId": "math-01-01", "front": { "en": "Axis of symmetry", "bm": "Paksi simetri" }, "back": { "en": "x = −b/2a, or halfway between the roots", "bm": "x = −b/2a, atau di pertengahan antara punca" } },
+    { "id": "math-01-f05", "subtopicId": "math-01-01", "front": { "en": "Solving by factorisation", "bm": "Penyelesaian melalui pemfaktoran" }, "back": { "en": "Write = 0, factorise, set each factor = 0", "bm": "Tulis = 0, faktorkan, setkan setiap faktor = 0" } },
+    { "id": "math-01-f06", "subtopicId": "math-01-01", "front": { "en": "Roots on the graph", "bm": "Punca pada graf" }, "back": { "en": "x-intercepts — where the parabola meets the x-axis", "bm": "Pintasan-x — di mana parabola bertemu paksi-x" } },
+    { "id": "math-01-f07", "subtopicId": "math-01-01", "front": { "en": "Forming an equation from roots p and q", "bm": "Membentuk persamaan daripada punca p dan q" }, "back": { "en": "(x − p)(x − q) = 0", "bm": "(x − p)(x − q) = 0" } },
+    { "id": "math-01-f08", "subtopicId": "math-01-01", "front": { "en": "Word problems", "bm": "Masalah berayat" }, "back": { "en": "Reject answers that make no sense (negative lengths, ages, prices)", "bm": "Tolak jawapan yang tidak munasabah (panjang, umur, harga negatif)" } },
+    { "id": "math-01-f09", "subtopicId": "math-01-01", "front": { "en": "Difference of two squares", "bm": "Beza dua kuasa dua" }, "back": { "en": "x² − a² = (x + a)(x − a)", "bm": "x² − a² = (x + a)(x − a)" } },
+    { "id": "math-01-f10", "subtopicId": "math-01-01", "front": { "en": "Perfect square", "bm": "Kuasa dua sempurna" }, "back": { "en": "x² ± 2ax + a² = (x ± a)² — two equal roots", "bm": "x² ± 2ax + a² = (x ± a)² — dua punca sama" } }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chapterId": "math-05",
+  "reviewed": false,
+  "subtopics": {
+    "math-05-01": {
+      "keyPoints": [
+        { "en": "A graph G = (V, E): a set of vertices V and edges E. A network is a graph used to model real connections.", "bm": "Graf G = (V, E): set bucu V dan tepi E. Rangkaian ialah graf yang memodelkan hubungan sebenar." },
+        { "en": "Degree = number of edges at a vertex (loops count 2). Σ degrees = 2 × number of edges.", "bm": "Darjah = bilangan tepi pada bucu (gelung dikira 2). Σ darjah = 2 × bilangan tepi." },
+        { "en": "Types: simple (no loops/multiple edges), directed (arrows), weighted (values on edges), undirected.", "bm": "Jenis: mudah (tiada gelung/berbilang tepi), terarah (anak panah), berpemberat (nilai pada tepi), tidak terarah." },
+        { "en": "A tree is connected with no cycles and has V − 1 edges. A subgraph is part of a graph.", "bm": "Pokok terkait tanpa kitaran dan mempunyai V − 1 tepi. Subgraf ialah sebahagian graf." },
+        { "en": "Applications: shortest or cheapest route, minimum-cost connections (tree), scheduling, social networks.", "bm": "Aplikasi: laluan terpendek atau termurah, sambungan kos minimum (pokok), penjadualan, rangkaian sosial." }
+      ],
+      "example": { "question": { "en": "A graph has 7 vertices and every vertex has degree 2. How many edges are there?", "bm": "Satu graf mempunyai 7 bucu dan setiap bucu berdarjah 2. Berapakah bilangan tepi?" }, "answer": { "en": "Σd = 14 = 2E → E = 7", "bm": "Σd = 14 = 2E → E = 7" } },
+      "tip": { "en": "When listing routes, check every possible path — a longer-looking route may be cheaper.", "bm": "Apabila menyenaraikan laluan, semak setiap laluan yang mungkin — laluan yang nampak panjang mungkin lebih murah." }
+    }
+  }
+}

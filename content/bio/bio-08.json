@@ -1,0 +1,105 @@
+{
+  "chapterId": "bio-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "During haze season, the air smells of smoke and many people wheeze. A fish breathes underwater, a grasshopper breathes through holes in its body, a frog breathes through its skin. How does each one get oxygen?",
+      "bm": "Semasa musim jerebu, udara berbau asap dan ramai orang berdehit. Ikan bernafas di dalam air, belalang bernafas melalui lubang pada badannya, katak bernafas melalui kulit. Bagaimana setiap satu mendapat oksigen?"
+    },
+    "bigIdeas": [
+      { "en": "Different organisms have different respiratory surfaces: cell membrane, tracheae, gills, skin, lungs.", "bm": "Organisma berbeza mempunyai permukaan respirasi berbeza: membran sel, trakea, insang, kulit, peparu." },
+      { "en": "All respiratory surfaces are thin, moist, have a large surface area and good blood supply.", "bm": "Semua permukaan respirasi nipis, lembap, luas permukaan besar dan bekalan darah yang baik." },
+      { "en": "Breathing changes the volume and pressure of the thoracic cavity to move air in and out.", "bm": "Pernafasan mengubah isi padu dan tekanan rongga toraks untuk menggerakkan udara masuk dan keluar." },
+      { "en": "Gases exchange by diffusion in the alveoli; smoking and pollution damage the system.", "bm": "Gas bertukar secara resapan di alveolus; merokok dan pencemaran merosakkan sistem ini." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Inhalation", "bm": "Tarikan nafas" }, { "en": "Exhalation", "bm": "Hembusan nafas" } ],
+        "rows": [
+          { "label": { "en": "External intercostal muscles", "bm": "Otot interkosta luar" }, "cells": [ { "en": "contract", "bm": "mengecut" }, { "en": "relax", "bm": "mengendur" } ] },
+          { "label": { "en": "Rib cage", "bm": "Sangkar rusuk" }, "cells": [ { "en": "moves up and out", "bm": "bergerak ke atas dan ke luar" }, { "en": "moves down and in", "bm": "bergerak ke bawah dan ke dalam" } ] },
+          { "label": { "en": "Diaphragm", "bm": "Diafragma" }, "cells": [ { "en": "contracts, flattens", "bm": "mengecut, mendatar" }, { "en": "relaxes, dome-shaped", "bm": "mengendur, berbentuk kubah" } ] },
+          { "label": { "en": "Thoracic volume / pressure", "bm": "Isi padu / tekanan toraks" }, "cells": [ { "en": "increases / decreases", "bm": "bertambah / berkurang" }, { "en": "decreases / increases", "bm": "berkurang / bertambah" } ] },
+          { "label": { "en": "Air flow", "bm": "Aliran udara" }, "cells": [ { "en": "into the lungs", "bm": "masuk ke peparu" }, { "en": "out of the lungs", "bm": "keluar dari peparu" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Alveolus", "bm": "Alveolus" }, "definition": { "en": "Tiny air sac in the lungs where gas exchange happens.", "bm": "Kantung udara kecil dalam peparu tempat pertukaran gas berlaku." } },
+      { "term": { "en": "Trachea", "bm": "Trakea" }, "definition": { "en": "Windpipe, kept open by C-shaped cartilage rings.", "bm": "Salur udara, dikekalkan terbuka oleh gelang rawan berbentuk C." } },
+      { "term": { "en": "Spiracle", "bm": "Spirakel" }, "definition": { "en": "Opening on an insect's body leading to the tracheal system.", "bm": "Bukaan pada badan serangga yang menuju ke sistem trakea." } },
+      { "term": { "en": "Gill filament", "bm": "Filamen insang" }, "definition": { "en": "Thin plate in fish gills with many lamellae for gas exchange.", "bm": "Plat nipis dalam insang ikan dengan banyak lamela untuk pertukaran gas." } },
+      { "term": { "en": "Oxyhaemoglobin", "bm": "Oksihemoglobin" }, "definition": { "en": "Haemoglobin combined with oxygen in red blood cells.", "bm": "Hemoglobin yang bergabung dengan oksigen dalam sel darah merah." } },
+      { "term": { "en": "Emphysema", "bm": "Emfisema" }, "definition": { "en": "Alveolar walls break down, reducing surface area for gas exchange.", "bm": "Dinding alveolus rosak, mengurangkan luas permukaan untuk pertukaran gas." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain how air enters the lungs during inhalation.", "bm": "Terangkan bagaimana udara memasuki peparu semasa tarikan nafas." },
+      "steps": [
+        { "en": "External intercostal muscles contract; internal intercostal muscles relax → rib cage moves up and outwards.", "bm": "Otot interkosta luar mengecut; otot interkosta dalam mengendur → sangkar rusuk bergerak ke atas dan ke luar." },
+        { "en": "Diaphragm muscles contract → diaphragm flattens.", "bm": "Otot diafragma mengecut → diafragma mendatar." },
+        { "en": "Volume of the thoracic cavity increases, so pressure inside the lungs falls below atmospheric pressure.", "bm": "Isi padu rongga toraks bertambah, jadi tekanan dalam peparu menjadi lebih rendah daripada tekanan atmosfera." },
+        { "en": "Air is pushed into the lungs by the higher outside pressure.", "bm": "Udara ditolak masuk ke peparu oleh tekanan luar yang lebih tinggi." }
+      ],
+      "answer": { "en": "Muscles increase thoracic volume → lower pressure inside → air flows in.", "bm": "Otot menambah isi padu toraks → tekanan dalam lebih rendah → udara mengalir masuk." }
+    }
+  },
+  "questions": [
+    { "id": "bio-08-q01", "subtopicId": "bio-08-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each organism to its respiratory structure.", "bm": "Padankan setiap organisma dengan struktur respirasinya." },
+      "pairs": [
+        { "left": { "en": "Amoeba", "bm": "Amoeba" }, "right": { "en": "Plasma membrane", "bm": "Membran plasma" } },
+        { "left": { "en": "Grasshopper", "bm": "Belalang" }, "right": { "en": "Tracheal system", "bm": "Sistem trakea" } },
+        { "left": { "en": "Fish", "bm": "Ikan" }, "right": { "en": "Gills", "bm": "Insang" } },
+        { "left": { "en": "Frog", "bm": "Katak" }, "right": { "en": "Skin and lungs", "bm": "Kulit dan peparu" } }
+      ],
+      "explanation": { "en": "Small organisms rely on diffusion across their surface; larger ones need special structures.", "bm": "Organisma kecil bergantung pada resapan merentasi permukaan; organisma besar memerlukan struktur khas." } },
+    { "id": "bio-08-q02", "subtopicId": "bio-08-01", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL features shared by efficient respiratory surfaces.", "bm": "Pilih SEMUA ciri yang dikongsi oleh permukaan respirasi yang cekap." },
+      "options": [ { "en": "Thin walls", "bm": "Dinding nipis" }, { "en": "Moist surface", "bm": "Permukaan lembap" }, { "en": "Large surface area", "bm": "Luas permukaan besar" }, { "en": "Thick, waterproof layer", "bm": "Lapisan tebal kalis air" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Plus a rich blood supply (in animals with blood circulation) to keep a steep diffusion gradient.", "bm": "Ditambah bekalan darah yang banyak (bagi haiwan dengan peredaran darah) untuk mengekalkan kecerunan resapan yang curam." } },
+    { "id": "bio-08-q03", "subtopicId": "bio-08-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "During inhalation, the diaphragm…", "bm": "Semasa tarikan nafas, diafragma…" },
+      "options": [ { "en": "contracts and flattens", "bm": "mengecut dan mendatar" }, { "en": "relaxes and domes upward", "bm": "mengendur dan melengkung ke atas" }, { "en": "doesn't move", "bm": "tidak bergerak" }, { "en": "pushes air out", "bm": "menolak udara keluar" } ],
+      "answer": 0,
+      "explanation": { "en": "Flattening increases the volume of the thoracic cavity.", "bm": "Mendatar menambah isi padu rongga toraks." } },
+    { "id": "bio-08-q04", "subtopicId": "bio-08-02", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Put the events of inhalation in order.", "bm": "Susun peristiwa tarikan nafas mengikut urutan." },
+      "items": [ { "en": "Intercostal muscles and diaphragm contract", "bm": "Otot interkosta dan diafragma mengecut" }, { "en": "Thoracic volume increases", "bm": "Isi padu toraks bertambah" }, { "en": "Pressure in the lungs decreases", "bm": "Tekanan dalam peparu berkurang" }, { "en": "Air flows into the lungs", "bm": "Udara mengalir masuk ke peparu" } ],
+      "explanation": { "en": "Volume up → pressure down → air moves in from higher pressure outside.", "bm": "Isi padu naik → tekanan turun → udara masuk dari tekanan lebih tinggi di luar." } },
+    { "id": "bio-08-q05", "subtopicId": "bio-08-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which feature of the alveolus speeds up diffusion of gases?", "bm": "Ciri alveolus manakah mempercepat resapan gas?" },
+      "options": [ { "en": "Wall only one cell thick", "bm": "Dinding setebal satu sel sahaja" }, { "en": "Covered with cartilage", "bm": "Diliputi rawan" }, { "en": "Dry surface", "bm": "Permukaan kering" }, { "en": "Few blood capillaries", "bm": "Sedikit kapilari darah" } ],
+      "answer": 0,
+      "explanation": { "en": "Thin walls give a short diffusion distance; there are also many capillaries and a moist surface.", "bm": "Dinding nipis memberi jarak resapan pendek; terdapat juga banyak kapilari dan permukaan lembap." } },
+    { "id": "bio-08-q06", "subtopicId": "bio-08-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How is most carbon dioxide transported in the blood?", "bm": "Bagaimanakah kebanyakan karbon dioksida diangkut dalam darah?" },
+      "options": [ { "en": "As hydrogen carbonate ions in plasma", "bm": "Sebagai ion hidrogen karbonat dalam plasma" }, { "en": "As oxyhaemoglobin", "bm": "Sebagai oksihemoglobin" }, { "en": "Dissolved in platelets", "bm": "Terlarut dalam platlet" }, { "en": "In white blood cells", "bm": "Dalam sel darah putih" } ],
+      "answer": 0,
+      "explanation": { "en": "About 70% as HCO₃⁻, some as carbaminohaemoglobin, some dissolved in plasma.", "bm": "Kira-kira 70% sebagai HCO₃⁻, sebahagian sebagai karbaminohemoglobin, sebahagian terlarut dalam plasma." } },
+    { "id": "bio-08-q07", "subtopicId": "bio-08-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why do fish die when taken out of water?", "bm": "Mengapa ikan mati apabila dikeluarkan dari air?" },
+      "options": [ { "en": "The gill filaments stick together, reducing surface area for gas exchange", "bm": "Filamen insang melekat bersama, mengurangkan luas permukaan untuk pertukaran gas" }, { "en": "Air has no oxygen", "bm": "Udara tiada oksigen" }, { "en": "Their lungs fill with water", "bm": "Peparunya dipenuhi air" }, { "en": "They get too cold", "bm": "Mereka terlalu sejuk" } ],
+      "answer": 0,
+      "explanation": { "en": "Water supports the filaments and lamellae; in air they collapse and dry out.", "bm": "Air menyokong filamen dan lamela; di udara ia runtuh dan kering." } },
+    { "id": "bio-08-q08", "subtopicId": "bio-08-05", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each substance in cigarette smoke to its effect.", "bm": "Padankan setiap bahan dalam asap rokok dengan kesannya." },
+      "pairs": [
+        { "left": { "en": "Tar", "bm": "Tar" }, "right": { "en": "Carcinogen — lung cancer", "bm": "Karsinogen — kanser peparu" } },
+        { "left": { "en": "Carbon monoxide", "bm": "Karbon monoksida" }, "right": { "en": "Binds haemoglobin, less O₂ carried", "bm": "Bergabung dengan hemoglobin, kurang O₂ diangkut" } },
+        { "left": { "en": "Nicotine", "bm": "Nikotina" }, "right": { "en": "Addictive, raises blood pressure", "bm": "Menyebabkan ketagihan, menaikkan tekanan darah" } }
+      ],
+      "explanation": { "en": "Smoking also damages cilia, causing bronchitis and emphysema.", "bm": "Merokok juga merosakkan silia, menyebabkan bronkitis dan emfisema." } },
+    { "id": "bio-08-q09", "subtopicId": "bio-08-05", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "A patient with emphysema is always short of breath. Why?", "bm": "Pesakit emfisema sentiasa sesak nafas. Mengapa?" },
+      "options": [ { "en": "Damaged alveolar walls reduce the surface area for gas exchange", "bm": "Dinding alveolus yang rosak mengurangkan luas permukaan untuk pertukaran gas" }, { "en": "The trachea is too wide", "bm": "Trakea terlalu lebar" }, { "en": "There is too much haemoglobin", "bm": "Terlalu banyak hemoglobin" }, { "en": "The diaphragm is too strong", "bm": "Diafragma terlalu kuat" } ],
+      "answer": 0,
+      "explanation": { "en": "Less O₂ diffuses into the blood, so the body is short of oxygen.", "bm": "Kurang O₂ meresap ke dalam darah, jadi badan kekurangan oksigen." } },
+    { "id": "bio-08-q10", "subtopicId": "bio-08-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Air enters an insect's tracheal system through openings called ______.", "bm": "Udara memasuki sistem trakea serangga melalui bukaan yang dipanggil ______." },
+      "answer": ["spiracles", "spiracle", "spirakel"],
+      "explanation": { "en": "Tracheae branch into tiny tracheoles that deliver O₂ directly to cells.", "bm": "Trakea bercabang menjadi trakeol halus yang menghantar O₂ terus ke sel." } }
+  ]
+}

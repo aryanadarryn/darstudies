@@ -1,0 +1,101 @@
+{
+  "chapterId": "math-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "'If it rains, the field is wet.' The field is wet — so did it rain? Not necessarily! Lawyers, programmers and detectives use logical reasoning to avoid this trap and reach conclusions that are guaranteed to be true.",
+      "bm": "'Jika hujan, padang basah.' Padang basah — jadi adakah hujan? Belum tentu! Peguam, pengaturcara dan detektif menggunakan penaakulan logik untuk mengelak perangkap ini dan mencapai kesimpulan yang pasti benar."
+    },
+    "bigIdeas": [
+      { "en": "A statement is a sentence that is either true or false, not both.", "bm": "Pernyataan ialah ayat yang sama ada benar atau palsu, bukan kedua-duanya." },
+      { "en": "Compound statements use 'and' (both true) or 'or' (at least one true).", "bm": "Pernyataan majmuk menggunakan 'dan' (kedua-dua benar) atau 'atau' (sekurang-kurangnya satu benar)." },
+      { "en": "An implication 'if p, then q' has a converse, inverse and contrapositive.", "bm": "Implikasi 'jika p, maka q' mempunyai akas, songsangan dan kontrapositif." },
+      { "en": "Deductive arguments go from general to specific; inductive from specific to general.", "bm": "Hujah deduktif bergerak dari umum ke khusus; induktif dari khusus ke umum." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Form", "bm": "Bentuk" }, { "en": "Premise 1", "bm": "Premis 1" }, { "en": "Premise 2", "bm": "Premis 2" }, { "en": "Conclusion", "bm": "Kesimpulan" } ],
+        "rows": [
+          { "label": { "en": "I", "bm": "I" }, "cells": [ { "en": "Form I", "bm": "Bentuk I" }, { "en": "All A are B", "bm": "Semua A ialah B" }, { "en": "C is A", "bm": "C ialah A" }, { "en": "C is B", "bm": "C ialah B" } ] },
+          { "label": { "en": "II", "bm": "II" }, "cells": [ { "en": "Form II", "bm": "Bentuk II" }, { "en": "If p, then q", "bm": "Jika p, maka q" }, { "en": "p is true", "bm": "p benar" }, { "en": "q is true", "bm": "q benar" } ] },
+          { "label": { "en": "III", "bm": "III" }, "cells": [ { "en": "Form III", "bm": "Bentuk III" }, { "en": "If p, then q", "bm": "Jika p, maka q" }, { "en": "Not q", "bm": "Bukan q" }, { "en": "Not p", "bm": "Bukan p" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Statement", "bm": "Pernyataan" }, "definition": { "en": "A sentence that is either true or false.", "bm": "Ayat yang sama ada benar atau palsu." } },
+      { "term": { "en": "Negation", "bm": "Penafian" }, "definition": { "en": "Using 'not' / 'no' to change the truth value (~p).", "bm": "Menggunakan 'tidak' / 'bukan' untuk mengubah nilai kebenaran (~p)." } },
+      { "term": { "en": "Implication", "bm": "Implikasi" }, "definition": { "en": "'If p, then q' — p is the antecedent, q the consequent.", "bm": "'Jika p, maka q' — p ialah antejadian, q ialah akibat." } },
+      { "term": { "en": "Contrapositive", "bm": "Kontrapositif" }, "definition": { "en": "'If not q, then not p' — always has the same truth value as the implication.", "bm": "'Jika bukan q, maka bukan p' — sentiasa mempunyai nilai kebenaran sama dengan implikasi." } },
+      { "term": { "en": "Counterexample", "bm": "Contoh penyangkal" }, "definition": { "en": "One example that shows a statement is false.", "bm": "Satu contoh yang menunjukkan pernyataan itu palsu." } },
+      { "term": { "en": "Valid and sound argument", "bm": "Hujah sah dan munasabah" }, "definition": { "en": "Valid: conclusion follows logically. Sound: valid AND all premises true.", "bm": "Sah: kesimpulan mengikut secara logik. Munasabah: sah DAN semua premis benar." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Write the converse, inverse and contrapositive of: 'If x = 3, then x² = 9.' State which are true.", "bm": "Tulis akas, songsangan dan kontrapositif bagi: 'Jika x = 3, maka x² = 9.' Nyatakan yang mana benar." },
+      "steps": [
+        { "en": "Implication (true): If x = 3, then x² = 9.", "bm": "Implikasi (benar): Jika x = 3, maka x² = 9." },
+        { "en": "Converse: If x² = 9, then x = 3. FALSE (x could be −3).", "bm": "Akas: Jika x² = 9, maka x = 3. PALSU (x boleh jadi −3)." },
+        { "en": "Inverse: If x ≠ 3, then x² ≠ 9. FALSE (x = −3).", "bm": "Songsangan: Jika x ≠ 3, maka x² ≠ 9. PALSU (x = −3)." },
+        { "en": "Contrapositive: If x² ≠ 9, then x ≠ 3. TRUE (same as the original).", "bm": "Kontrapositif: Jika x² ≠ 9, maka x ≠ 3. BENAR (sama dengan asal)." }
+      ],
+      "answer": { "en": "Only the contrapositive is true, like the original implication.", "bm": "Hanya kontrapositif benar, sama seperti implikasi asal." }
+    }
+  },
+  "questions": [
+    { "id": "math-03-q01", "subtopicId": "math-03-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which of these is a statement?", "bm": "Antara berikut, yang manakah pernyataan?" },
+      "options": [ { "en": "7 is a prime number", "bm": "7 ialah nombor perdana" }, { "en": "Close the door", "bm": "Tutup pintu" }, { "en": "x + 2 = 5", "bm": "x + 2 = 5" }, { "en": "How old are you?", "bm": "Berapakah umur anda?" } ],
+      "answer": 0,
+      "explanation": { "en": "Commands, questions and open sentences (x + 2 = 5) are not statements — their truth can't be decided.", "bm": "Arahan, soalan dan ayat terbuka (x + 2 = 5) bukan pernyataan — nilai kebenarannya tidak dapat ditentukan." } },
+    { "id": "math-03-q02", "subtopicId": "math-03-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Determine the truth value: '5 > 3 and 2 is an odd number.'", "bm": "Tentukan nilai kebenaran: '5 > 3 dan 2 ialah nombor ganjil.'" },
+      "options": [ { "en": "False", "bm": "Palsu" }, { "en": "True", "bm": "Benar" } ],
+      "answer": 0,
+      "explanation": { "en": "'And' is true only if BOTH parts are true; 2 is even.", "bm": "'Dan' benar hanya jika KEDUA-DUA bahagian benar; 2 ialah nombor genap." } },
+    { "id": "math-03-q03", "subtopicId": "math-03-01", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Determine the truth value: '5 > 3 or 2 is an odd number.'", "bm": "Tentukan nilai kebenaran: '5 > 3 atau 2 ialah nombor ganjil.'" },
+      "options": [ { "en": "True", "bm": "Benar" }, { "en": "False", "bm": "Palsu" } ],
+      "answer": 0,
+      "explanation": { "en": "'Or' is true if at least one part is true.", "bm": "'Atau' benar jika sekurang-kurangnya satu bahagian benar." } },
+    { "id": "math-03-q04", "subtopicId": "math-03-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the contrapositive of 'If it is a square, then it has four sides'?", "bm": "Apakah kontrapositif bagi 'Jika ia segi empat sama, maka ia mempunyai empat sisi'?" },
+      "options": [ { "en": "If it does not have four sides, then it is not a square", "bm": "Jika ia tidak mempunyai empat sisi, maka ia bukan segi empat sama" }, { "en": "If it has four sides, then it is a square", "bm": "Jika ia mempunyai empat sisi, maka ia segi empat sama" }, { "en": "If it is not a square, then it does not have four sides", "bm": "Jika ia bukan segi empat sama, maka ia tidak mempunyai empat sisi" }, { "en": "It is a square and it has four sides", "bm": "Ia segi empat sama dan mempunyai empat sisi" } ],
+      "answer": 0,
+      "explanation": { "en": "Contrapositive: swap AND negate both parts. The 2nd option is the converse; the 3rd is the inverse.", "bm": "Kontrapositif: tukar tempat DAN nafikan kedua-dua bahagian. Pilihan ke-2 ialah akas; ke-3 ialah songsangan." } },
+    { "id": "math-03-q05", "subtopicId": "math-03-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Give a counterexample to: 'All prime numbers are odd.'", "bm": "Berikan contoh penyangkal bagi: 'Semua nombor perdana ialah ganjil.'" },
+      "options": [ { "en": "2", "bm": "2" }, { "en": "3", "bm": "3" }, { "en": "9", "bm": "9" }, { "en": "1", "bm": "1" } ],
+      "answer": 0,
+      "explanation": { "en": "2 is prime but even, so the statement is false.", "bm": "2 ialah nombor perdana tetapi genap, jadi pernyataan itu palsu." } },
+    { "id": "math-03-q06", "subtopicId": "math-03-01", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "For 'If p, then q', match each name to its form.", "bm": "Bagi 'Jika p, maka q', padankan setiap nama dengan bentuknya." },
+      "pairs": [
+        { "left": { "en": "Converse", "bm": "Akas" }, "right": { "en": "If q, then p", "bm": "Jika q, maka p" } },
+        { "left": { "en": "Inverse", "bm": "Songsangan" }, "right": { "en": "If not p, then not q", "bm": "Jika bukan p, maka bukan q" } },
+        { "left": { "en": "Contrapositive", "bm": "Kontrapositif" }, "right": { "en": "If not q, then not p", "bm": "Jika bukan q, maka bukan p" } }
+      ],
+      "explanation": { "en": "The implication and its contrapositive always share the same truth value.", "bm": "Implikasi dan kontrapositifnya sentiasa berkongsi nilai kebenaran yang sama." } },
+    { "id": "math-03-q07", "subtopicId": "math-03-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Premise 1: All Form 4 students learn Physics. Premise 2: Aryana is a Form 4 student. Conclusion?", "bm": "Premis 1: Semua pelajar Tingkatan 4 belajar Fizik. Premis 2: Aryana pelajar Tingkatan 4. Kesimpulan?" },
+      "options": [ { "en": "Aryana learns Physics", "bm": "Aryana belajar Fizik" }, { "en": "Aryana does not learn Physics", "bm": "Aryana tidak belajar Fizik" }, { "en": "All Physics students are Aryana", "bm": "Semua pelajar Fizik ialah Aryana" }, { "en": "No conclusion", "bm": "Tiada kesimpulan" } ],
+      "answer": 0,
+      "explanation": { "en": "Argument Form I (deductive, general → specific).", "bm": "Hujah Bentuk I (deduktif, umum → khusus)." } },
+    { "id": "math-03-q08", "subtopicId": "math-03-02", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Premise 1: If x > 5, then x > 2. Premise 2: x is not greater than 2. Conclusion?", "bm": "Premis 1: Jika x > 5, maka x > 2. Premis 2: x tidak lebih besar daripada 2. Kesimpulan?" },
+      "options": [ { "en": "x is not greater than 5", "bm": "x tidak lebih besar daripada 5" }, { "en": "x > 5", "bm": "x > 5" }, { "en": "x = 2", "bm": "x = 2" }, { "en": "No valid conclusion", "bm": "Tiada kesimpulan sah" } ],
+      "answer": 0,
+      "explanation": { "en": "Form III: If p then q; not q; therefore not p.", "bm": "Bentuk III: Jika p maka q; bukan q; maka bukan p." } },
+    { "id": "math-03-q09", "subtopicId": "math-03-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "3 = 2(1) + 1, 5 = 2(2) + 1, 7 = 2(3) + 1, … The general conclusion 'odd numbers greater than 1 can be written as 2n + 1, n = 1, 2, 3, …' is reached by…", "bm": "3 = 2(1) + 1, 5 = 2(2) + 1, 7 = 2(3) + 1, … Kesimpulan umum 'nombor ganjil lebih besar daripada 1 boleh ditulis sebagai 2n + 1, n = 1, 2, 3, …' dicapai melalui…" },
+      "options": [ { "en": "inductive reasoning", "bm": "penaakulan induktif" }, { "en": "deductive reasoning", "bm": "penaakulan deduktif" }, { "en": "a counterexample", "bm": "contoh penyangkal" }, { "en": "negation", "bm": "penafian" } ],
+      "answer": 0,
+      "explanation": { "en": "Inductive: from specific cases to a general rule.", "bm": "Induktif: daripada kes khusus kepada petua umum." } },
+    { "id": "math-03-q10", "subtopicId": "math-03-02", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "'All birds can fly. A penguin is a bird. So a penguin can fly.' This argument is…", "bm": "'Semua burung boleh terbang. Penguin ialah burung. Jadi penguin boleh terbang.' Hujah ini…" },
+      "options": [ { "en": "valid but not sound", "bm": "sah tetapi tidak munasabah" }, { "en": "valid and sound", "bm": "sah dan munasabah" }, { "en": "not valid", "bm": "tidak sah" }, { "en": "inductive", "bm": "induktif" } ],
+      "answer": 0,
+      "explanation": { "en": "The form is valid, but premise 1 is false, so it isn't sound.", "bm": "Bentuknya sah, tetapi premis 1 palsu, jadi ia tidak munasabah." } }
+  ]
+}

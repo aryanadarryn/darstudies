@@ -1,0 +1,16 @@
+{
+  "chapterId": "addmath-08",
+  "cards": [
+    { "id": "addmath-08-f01", "subtopicId": "addmath-08-01", "front": { "en": "Vector vs scalar", "bm": "Vektor vs skalar" }, "back": { "en": "Vector: magnitude + direction. Scalar: magnitude only", "bm": "Vektor: magnitud + arah. Skalar: magnitud sahaja" } },
+    { "id": "addmath-08-f02", "subtopicId": "addmath-08-01", "front": { "en": "Notation for vectors", "bm": "Tatatanda vektor" }, "back": { "en": "AB (with arrow), bold a, or a with a tilde underneath", "bm": "AB (dengan anak panah), a tebal, atau a dengan tilde di bawah" } },
+    { "id": "addmath-08-f03", "subtopicId": "addmath-08-01", "front": { "en": "Parallel vectors", "bm": "Vektor selari" }, "back": { "en": "a = kb for some scalar k; if k < 0 they point in opposite directions", "bm": "a = kb bagi skalar k; jika k < 0 arahnya bertentangan" } },
+    { "id": "addmath-08-f04", "subtopicId": "addmath-08-01", "front": { "en": "Collinear points A, B, C", "bm": "Titik segaris A, B, C" }, "back": { "en": "AB = k·BC (parallel and share point B)", "bm": "AB = k·BC (selari dan berkongsi titik B)" } },
+    { "id": "addmath-08-f05", "subtopicId": "addmath-08-02", "front": { "en": "Triangle law", "bm": "Hukum segi tiga" }, "back": { "en": "AB + BC = AC", "bm": "AB + BC = AC" } },
+    { "id": "addmath-08-f06", "subtopicId": "addmath-08-02", "front": { "en": "Parallelogram law", "bm": "Hukum segi empat selari" }, "back": { "en": "Resultant of two vectors from the same point is the diagonal of the parallelogram", "bm": "Paduan dua vektor dari titik yang sama ialah pepenjuru segi empat selari" } },
+    { "id": "addmath-08-f07", "subtopicId": "addmath-08-02", "front": { "en": "Subtracting vectors", "bm": "Penolakan vektor" }, "back": { "en": "a − b = a + (−b); AB = OB − OA", "bm": "a − b = a + (−b); AB = OB − OA" } },
+    { "id": "addmath-08-f08", "subtopicId": "addmath-08-02", "front": { "en": "Non-parallel vectors: ha + kb = 0", "bm": "Vektor tidak selari: ha + kb = 0" }, "back": { "en": "Then h = 0 and k = 0", "bm": "Maka h = 0 dan k = 0" } },
+    { "id": "addmath-08-f09", "subtopicId": "addmath-08-03", "front": { "en": "Magnitude of xi + yj", "bm": "Magnitud xi + yj" }, "back": { "en": "√(x² + y²)", "bm": "√(x² + y²)" } },
+    { "id": "addmath-08-f10", "subtopicId": "addmath-08-03", "front": { "en": "Unit vector of r", "bm": "Vektor unit bagi r" }, "back": { "en": "r̂ = r/|r| = (xi + yj)/√(x² + y²)", "bm": "r̂ = r/|r| = (xi + yj)/√(x² + y²)" } },
+    { "id": "addmath-08-f11", "subtopicId": "addmath-08-03", "front": { "en": "Column vector form", "bm": "Bentuk vektor lajur" }, "back": { "en": "xi + yj = (x, y) written vertically", "bm": "xi + yj = (x, y) ditulis menegak" } }
+  ]
+}

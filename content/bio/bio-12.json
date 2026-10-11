@@ -1,0 +1,111 @@
+{
+  "chapterId": "bio-12",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You touch a hot kuali and pull your hand away before you even feel pain. Before a big exam your heart races and your palms sweat. Two systems are responsible: lightning-fast nerves and slower, longer-lasting hormones.",
+      "bm": "Anda tersentuh kuali panas dan menarik tangan sebelum sempat terasa sakit. Sebelum peperiksaan besar jantung berdebar dan tapak tangan berpeluh. Dua sistem bertanggungjawab: saraf yang sangat pantas dan hormon yang lebih perlahan tetapi tahan lama."
+    },
+    "bigIdeas": [
+      { "en": "Stimulus → receptor → integration (CNS) → effector → response.", "bm": "Rangsangan → reseptor → integrasi (SSP) → efektor → gerak balas." },
+      { "en": "The nervous system sends fast electrical impulses through neurones.", "bm": "Sistem saraf menghantar impuls elektrik yang pantas melalui neuron." },
+      { "en": "Synapses pass the signal chemically using neurotransmitters.", "bm": "Sinaps menghantar isyarat secara kimia menggunakan neurotransmiter." },
+      { "en": "Reflex actions are fast, automatic and protect the body.", "bm": "Tindakan refleks pantas, automatik dan melindungi badan." },
+      { "en": "The endocrine system uses hormones in the blood for slower, longer-lasting control.", "bm": "Sistem endokrin menggunakan hormon dalam darah untuk kawalan yang lebih perlahan dan tahan lama." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Stimulus", "bm": "Rangsangan" }, "detail": { "en": "hot kuali", "bm": "kuali panas" } },
+          { "title": { "en": "Receptor", "bm": "Reseptor" }, "detail": { "en": "heat/pain receptors in skin", "bm": "reseptor haba/sakit di kulit" } },
+          { "title": { "en": "Afferent neurone", "bm": "Neuron aferen" }, "detail": { "en": "carries impulse to spinal cord", "bm": "membawa impuls ke saraf tunjang" } },
+          { "title": { "en": "Interneurone", "bm": "Neuron perantaraan" }, "detail": { "en": "in the spinal cord", "bm": "dalam saraf tunjang" } },
+          { "title": { "en": "Efferent neurone", "bm": "Neuron eferen" }, "detail": { "en": "carries impulse to muscle", "bm": "membawa impuls ke otot" } },
+          { "title": { "en": "Effector → response", "bm": "Efektor → gerak balas" }, "detail": { "en": "biceps contract, hand pulls away", "bm": "biseps mengecut, tangan ditarik" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Stimulus", "bm": "Rangsangan" }, "definition": { "en": "A change in the environment detected by a receptor.", "bm": "Perubahan dalam persekitaran yang dikesan oleh reseptor." } },
+      { "term": { "en": "Neurone", "bm": "Neuron" }, "definition": { "en": "Nerve cell that carries electrical impulses.", "bm": "Sel saraf yang membawa impuls elektrik." } },
+      { "term": { "en": "Synapse", "bm": "Sinaps" }, "definition": { "en": "Tiny gap between two neurones where neurotransmitters carry the signal.", "bm": "Celah kecil antara dua neuron tempat neurotransmiter membawa isyarat." } },
+      { "term": { "en": "Reflex arc", "bm": "Arka refleks" }, "definition": { "en": "Pathway of a reflex action through the spinal cord.", "bm": "Laluan tindakan refleks melalui saraf tunjang." } },
+      { "term": { "en": "Hormone", "bm": "Hormon" }, "definition": { "en": "Chemical messenger secreted by an endocrine gland into the blood.", "bm": "Utusan kimia yang dirembes oleh kelenjar endokrin ke dalam darah." } },
+      { "term": { "en": "Myelin sheath", "bm": "Salut mielin" }, "definition": { "en": "Fatty insulating layer that speeds up impulses.", "bm": "Lapisan lemak penebat yang mempercepat impuls." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Compare the nervous and endocrine systems in how they coordinate the body.", "bm": "Bandingkan sistem saraf dan sistem endokrin dalam menyelaras badan." },
+      "steps": [
+        { "en": "Signal: nervous — electrical impulses + neurotransmitters; endocrine — hormones.", "bm": "Isyarat: saraf — impuls elektrik + neurotransmiter; endokrin — hormon." },
+        { "en": "Pathway: nervous — neurones; endocrine — bloodstream.", "bm": "Laluan: saraf — neuron; endokrin — aliran darah." },
+        { "en": "Speed and duration: nervous — very fast, short-lived; endocrine — slower, longer-lasting.", "bm": "Kelajuan dan tempoh: saraf — sangat pantas, singkat; endokrin — lebih perlahan, tahan lama." },
+        { "en": "Target: nervous — specific muscles/glands; endocrine — target organs with matching receptors.", "bm": "Sasaran: saraf — otot/kelenjar tertentu; endokrin — organ sasaran dengan reseptor sepadan." }
+      ],
+      "answer": { "en": "Nerves are fast and short-lived via neurones; hormones are slower and longer-lasting via blood.", "bm": "Saraf pantas dan singkat melalui neuron; hormon lebih perlahan dan tahan lama melalui darah." }
+    }
+  },
+  "questions": [
+    { "id": "bio-12-q01", "subtopicId": "bio-12-01", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Arrange the path of a response.", "bm": "Susun laluan gerak balas." },
+      "items": [ { "en": "Stimulus", "bm": "Rangsangan" }, { "en": "Receptor", "bm": "Reseptor" }, { "en": "Integration centre (brain/spinal cord)", "bm": "Pusat integrasi (otak/saraf tunjang)" }, { "en": "Effector", "bm": "Efektor" }, { "en": "Response", "bm": "Gerak balas" } ],
+      "explanation": { "en": "Effectors are muscles or glands.", "bm": "Efektor ialah otot atau kelenjar." } },
+    { "id": "bio-12-q02", "subtopicId": "bio-12-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each brain part to its function.", "bm": "Padankan setiap bahagian otak dengan fungsinya." },
+      "pairs": [
+        { "left": { "en": "Cerebrum", "bm": "Serebrum" }, "right": { "en": "Thinking, memory, voluntary actions", "bm": "Berfikir, ingatan, tindakan terkawal" } },
+        { "left": { "en": "Cerebellum", "bm": "Serebelum" }, "right": { "en": "Balance and coordination", "bm": "Keseimbangan dan koordinasi" } },
+        { "left": { "en": "Medulla oblongata", "bm": "Medula oblongata" }, "right": { "en": "Heart rate and breathing", "bm": "Kadar degupan jantung dan pernafasan" } },
+        { "left": { "en": "Hypothalamus", "bm": "Hipotalamus" }, "right": { "en": "Body temperature and thirst", "bm": "Suhu badan dan dahaga" } }
+      ],
+      "explanation": { "en": "The brain and spinal cord form the central nervous system.", "bm": "Otak dan saraf tunjang membentuk sistem saraf pusat." } },
+    { "id": "bio-12-q03", "subtopicId": "bio-12-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How does an impulse cross a synapse?", "bm": "Bagaimanakah impuls merentasi sinaps?" },
+      "options": [ { "en": "Neurotransmitters diffuse across the gap", "bm": "Neurotransmiter meresap merentasi celah" }, { "en": "The impulse jumps as electricity", "bm": "Impuls melompat sebagai elektrik" }, { "en": "Blood carries it", "bm": "Darah membawanya" }, { "en": "Hormones carry it", "bm": "Hormon membawanya" } ],
+      "answer": 0,
+      "explanation": { "en": "Neurotransmitters (e.g. acetylcholine) bind to receptors on the next neurone, starting a new impulse.", "bm": "Neurotransmiter (cth. asetilkolina) terikat pada reseptor neuron berikutnya, memulakan impuls baharu." } },
+    { "id": "bio-12-q04", "subtopicId": "bio-12-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the function of the myelin sheath?", "bm": "Apakah fungsi salut mielin?" },
+      "options": [ { "en": "Insulates the axon and speeds up impulses", "bm": "Menebat akson dan mempercepat impuls" }, { "en": "Makes neurotransmitters", "bm": "Menghasilkan neurotransmiter" }, { "en": "Receives impulses", "bm": "Menerima impuls" }, { "en": "Stores glucose", "bm": "Menyimpan glukosa" } ],
+      "answer": 0,
+      "explanation": { "en": "Impulses jump between nodes of Ranvier (saltatory conduction).", "bm": "Impuls melompat antara nod Ranvier (konduksi saltatori)." } },
+    { "id": "bio-12-q05", "subtopicId": "bio-12-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why is the knee-jerk reflex so fast?", "bm": "Mengapa refleks sentakan lutut sangat pantas?" },
+      "options": [ { "en": "It passes through the spinal cord without waiting for the brain", "bm": "Ia melalui saraf tunjang tanpa menunggu otak" }, { "en": "Hormones travel faster than impulses", "bm": "Hormon bergerak lebih laju daripada impuls" }, { "en": "There are no neurones involved", "bm": "Tiada neuron terlibat" }, { "en": "The cerebrum decides quickly", "bm": "Serebrum membuat keputusan dengan cepat" } ],
+      "answer": 0,
+      "explanation": { "en": "The knee-jerk reflex uses only two neurones (afferent → efferent).", "bm": "Refleks sentakan lutut hanya menggunakan dua neuron (aferen → eferen)." } },
+    { "id": "bio-12-q06", "subtopicId": "bio-12-04", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL involuntary actions.", "bm": "Pilih SEMUA tindakan luar kawal." },
+      "options": [ { "en": "Heartbeat", "bm": "Degupan jantung" }, { "en": "Peristalsis", "bm": "Peristalsis" }, { "en": "Writing an essay", "bm": "Menulis esei" }, { "en": "Blinking when dust blows into your eye", "bm": "Berkelip apabila habuk masuk ke mata" } ],
+      "answer": [0, 1, 3],
+      "explanation": { "en": "Writing is voluntary — controlled consciously by the cerebrum.", "bm": "Menulis ialah tindakan terkawal — dikawal secara sedar oleh serebrum." } },
+    { "id": "bio-12-q07", "subtopicId": "bio-12-05", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each nervous system disease to its description.", "bm": "Padankan setiap penyakit sistem saraf dengan penerangannya." },
+      "pairs": [
+        { "left": { "en": "Alzheimer's disease", "bm": "Penyakit Alzheimer" }, "right": { "en": "Progressive memory loss", "bm": "Kehilangan ingatan secara berperingkat" } },
+        { "left": { "en": "Parkinson's disease", "bm": "Penyakit Parkinson" }, "right": { "en": "Tremors from lack of dopamine", "bm": "Gegaran akibat kekurangan dopamina" } },
+        { "left": { "en": "Multiple sclerosis", "bm": "Sklerosis berbilang" }, "right": { "en": "Myelin sheath damaged", "bm": "Salut mielin rosak" } }
+      ],
+      "explanation": { "en": "Drug abuse can also damage synapses and the brain.", "bm": "Penyalahgunaan dadah juga boleh merosakkan sinaps dan otak." } },
+    { "id": "bio-12-q08", "subtopicId": "bio-12-06", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each hormone to its gland.", "bm": "Padankan setiap hormon dengan kelenjarnya." },
+      "pairs": [
+        { "left": { "en": "Insulin", "bm": "Insulin" }, "right": { "en": "Pancreas", "bm": "Pankreas" } },
+        { "left": { "en": "Adrenaline", "bm": "Adrenalina" }, "right": { "en": "Adrenal gland", "bm": "Kelenjar adrenal" } },
+        { "left": { "en": "Thyroxine", "bm": "Tiroksina" }, "right": { "en": "Thyroid gland", "bm": "Kelenjar tiroid" } },
+        { "left": { "en": "Growth hormone", "bm": "Hormon pertumbuhan" }, "right": { "en": "Pituitary gland", "bm": "Kelenjar pituitari" } }
+      ],
+      "explanation": { "en": "The pituitary is the 'master gland' — it controls many other glands.", "bm": "Pituitari ialah 'kelenjar induk' — ia mengawal banyak kelenjar lain." } },
+    { "id": "bio-12-q09", "subtopicId": "bio-12-06", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Before a race, a runner's heart beats faster and more glucose enters the blood. Which hormone causes this?", "bm": "Sebelum perlumbaan, jantung pelari berdegup lebih laju dan lebih banyak glukosa memasuki darah. Hormon manakah menyebabkannya?" },
+      "options": [ { "en": "Adrenaline", "bm": "Adrenalina" }, { "en": "Insulin", "bm": "Insulin" }, { "en": "Oestrogen", "bm": "Estrogen" }, { "en": "ADH", "bm": "ADH" } ],
+      "answer": 0,
+      "explanation": { "en": "Adrenaline prepares the body for 'fight or flight'.", "bm": "Adrenalina menyediakan badan untuk 'lawan atau lari'." } },
+    { "id": "bio-12-q10", "subtopicId": "bio-12-07", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Too little thyroxine in children can cause…", "bm": "Terlalu sedikit tiroksina pada kanak-kanak boleh menyebabkan…" },
+      "options": [ { "en": "cretinism (slow growth and mental development)", "bm": "kretinisme (pertumbuhan dan perkembangan mental lambat)" }, { "en": "gigantism", "bm": "gigantisme" }, { "en": "diabetes insipidus", "bm": "diabetes insipidus" }, { "en": "hyperthyroidism", "bm": "hipertiroidisme" } ],
+      "answer": 0,
+      "explanation": { "en": "In adults, too little thyroxine causes myxoedema; too much causes hyperthyroidism (goitre can occur in both).", "bm": "Pada orang dewasa, kurang tiroksina menyebabkan miksedema; terlalu banyak menyebabkan hipertiroidisme (goiter boleh berlaku dalam kedua-duanya)." } }
+  ]
+}

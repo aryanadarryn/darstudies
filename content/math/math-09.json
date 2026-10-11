@@ -1,0 +1,94 @@
+{
+  "chapterId": "math-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "What's the chance it rains AND your bus is late? Or that you pick a red sweet, eat it, then pick another red one? Combined events let you work out the odds of two things happening together.",
+      "bm": "Apakah peluang hujan DAN bas anda lewat? Atau anda mengambil gula-gula merah, memakannya, kemudian mengambil satu lagi yang merah? Peristiwa bergabung membolehkan anda mengira peluang dua perkara berlaku bersama."
+    },
+    "bigIdeas": [
+      { "en": "List the sample space with a table or tree diagram.", "bm": "Senaraikan ruang sampel dengan jadual atau gambar rajah pokok." },
+      { "en": "Independent events: P(A and B) = P(A) × P(B).", "bm": "Peristiwa tak bersandar: P(A dan B) = P(A) × P(B)." },
+      { "en": "Dependent events: the second probability changes after the first (e.g. without replacement).", "bm": "Peristiwa bersandar: kebarangkalian kedua berubah selepas yang pertama (cth. tanpa pengembalian)." },
+      { "en": "P(A or B) = P(A) + P(B) − P(A and B); mutually exclusive events have P(A and B) = 0.", "bm": "P(A atau B) = P(A) + P(B) − P(A dan B); peristiwa saling eksklusif mempunyai P(A dan B) = 0." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Type", "bm": "Jenis" }, { "en": "Key word", "bm": "Kata kunci" }, { "en": "Rule", "bm": "Petua" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "Independent", "bm": "Tak bersandar" }, { "en": "AND", "bm": "DAN" }, { "en": "P(A) × P(B)", "bm": "P(A) × P(B)" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "Dependent", "bm": "Bersandar" }, { "en": "AND (no replacement)", "bm": "DAN (tanpa pengembalian)" }, { "en": "P(A) × P(B after A)", "bm": "P(A) × P(B selepas A)" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "Mutually exclusive", "bm": "Saling eksklusif" }, { "en": "OR", "bm": "ATAU" }, { "en": "P(A) + P(B)", "bm": "P(A) + P(B)" } ] },
+          { "label": { "en": "4", "bm": "4" }, "cells": [ { "en": "Not mutually exclusive", "bm": "Tidak saling eksklusif" }, { "en": "OR", "bm": "ATAU" }, { "en": "P(A) + P(B) − P(A ∩ B)", "bm": "P(A) + P(B) − P(A ∩ B)" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Sample space", "bm": "Ruang sampel" }, "definition": { "en": "The set of all possible outcomes.", "bm": "Set semua kesudahan yang mungkin." } },
+      { "term": { "en": "Combined event", "bm": "Peristiwa bergabung" }, "definition": { "en": "Two or more events happening together or one after another.", "bm": "Dua atau lebih peristiwa berlaku bersama atau satu demi satu." } },
+      { "term": { "en": "Independent events", "bm": "Peristiwa tak bersandar" }, "definition": { "en": "One event does not affect the probability of the other.", "bm": "Satu peristiwa tidak mempengaruhi kebarangkalian yang lain." } },
+      { "term": { "en": "Dependent events", "bm": "Peristiwa bersandar" }, "definition": { "en": "One event changes the probability of the other.", "bm": "Satu peristiwa mengubah kebarangkalian yang lain." } },
+      { "term": { "en": "Mutually exclusive", "bm": "Saling eksklusif" }, "definition": { "en": "Events that cannot happen at the same time.", "bm": "Peristiwa yang tidak boleh berlaku pada masa yang sama." } }
+    ],
+    "formulaIds": ["math-prob-event", "math-prob-indep", "math-prob-union"],
+    "workedExample": {
+      "question": { "en": "A bag has 3 red and 2 blue marbles. Two are taken without replacement. Find P(both red).", "bm": "Sebuah beg mengandungi 3 guli merah dan 2 biru. Dua diambil tanpa pengembalian. Cari P(kedua-duanya merah)." },
+      "steps": [
+        { "en": "P(1st red) = 3/5.", "bm": "P(merah pertama) = 3/5." },
+        { "en": "One red is gone: P(2nd red) = 2/4.", "bm": "Satu merah sudah diambil: P(merah kedua) = 2/4." },
+        { "en": "P(both red) = 3/5 × 2/4 = 6/20 = 3/10.", "bm": "P(kedua-duanya merah) = 3/5 × 2/4 = 6/20 = 3/10." }
+      ],
+      "answer": { "en": "3/10 = 0.3", "bm": "3/10 = 0.3" }
+    }
+  },
+  "questions": [
+    { "id": "math-09-q01", "subtopicId": "math-09-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A coin and a dice are thrown together. How many outcomes are in the sample space?", "bm": "Sekeping syiling dan sebiji dadu dilambung bersama. Berapakah bilangan kesudahan dalam ruang sampel?" },
+      "answer": 12, "tolerance": 0,
+      "explanation": { "en": "2 × 6 = 12 outcomes, e.g. (H, 1), (H, 2), …, (T, 6).", "bm": "2 × 6 = 12 kesudahan, cth. (H, 1), (H, 2), …, (T, 6)." } },
+    { "id": "math-09-q02", "subtopicId": "math-09-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Two dice are thrown. Find P(sum = 7) as a decimal (3 d.p.).", "bm": "Dua biji dadu dilambung. Cari P(hasil tambah = 7) sebagai perpuluhan (3 t.p.)." },
+      "answer": 0.167, "tolerance": 0.003,
+      "explanation": { "en": "6 outcomes give 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). 6/36 = 1/6 ≈ 0.167.", "bm": "6 kesudahan memberi 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). 6/36 = 1/6 ≈ 0.167." } },
+    { "id": "math-09-q03", "subtopicId": "math-09-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Two coins are tossed. Find P(two heads) as a decimal.", "bm": "Dua keping syiling dilambung. Cari P(dua kepala) sebagai perpuluhan." },
+      "answer": 0.25, "tolerance": 0,
+      "explanation": { "en": "Independent: ½ × ½ = ¼ = 0.25.", "bm": "Tak bersandar: ½ × ½ = ¼ = 0.25." } },
+    { "id": "math-09-q04", "subtopicId": "math-09-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A dice is rolled and a coin is tossed. Find P(6 and head).", "bm": "Sebiji dadu dilambung dan sekeping syiling dilambung. Cari P(6 dan kepala)." },
+      "options": [ { "en": "1/12", "bm": "1/12" }, { "en": "1/8", "bm": "1/8" }, { "en": "2/3", "bm": "2/3" }, { "en": "1/6", "bm": "1/6" } ],
+      "answer": 0,
+      "explanation": { "en": "1/6 × 1/2 = 1/12.", "bm": "1/6 × 1/2 = 1/12." } },
+    { "id": "math-09-q05", "subtopicId": "math-09-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "3 red and 2 blue marbles. Two are taken WITHOUT replacement. Find P(both red) as a decimal.", "bm": "3 guli merah dan 2 biru. Dua diambil TANPA pengembalian. Cari P(kedua-duanya merah) sebagai perpuluhan." },
+      "answer": 0.3, "tolerance": 0,
+      "explanation": { "en": "3/5 × 2/4 = 6/20 = 0.3.", "bm": "3/5 × 2/4 = 6/20 = 0.3." } },
+    { "id": "math-09-q06", "subtopicId": "math-09-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which pair of events is DEPENDENT?", "bm": "Pasangan peristiwa manakah BERSANDAR?" },
+      "options": [ { "en": "Picking two cards from a deck without putting the first back", "bm": "Mengambil dua kad dari satu dek tanpa memasukkan semula kad pertama" }, { "en": "Tossing a coin twice", "bm": "Melambung syiling dua kali" }, { "en": "Rolling a dice and spinning a spinner", "bm": "Melambung dadu dan memutar pemutar" }, { "en": "Picking a card, replacing it, then picking again", "bm": "Mengambil kad, memasukkannya semula, kemudian mengambil lagi" } ],
+      "answer": 0,
+      "explanation": { "en": "Without replacement, the first pick changes what's left.", "bm": "Tanpa pengembalian, ambilan pertama mengubah baki yang tinggal." } },
+    { "id": "math-09-q07", "subtopicId": "math-09-03", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "P(A) = 0.5, P(B) = 0.4, P(A ∩ B) = 0.2. Find P(A ∪ B).", "bm": "P(A) = 0.5, P(B) = 0.4, P(A ∩ B) = 0.2. Cari P(A ∪ B)." },
+      "answer": 0.7, "tolerance": 0,
+      "explanation": { "en": "0.5 + 0.4 − 0.2 = 0.7.", "bm": "0.5 + 0.4 − 0.2 = 0.7." } },
+    { "id": "math-09-q08", "subtopicId": "math-09-03", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Rolling a dice: which two events are mutually exclusive?", "bm": "Melambung dadu: dua peristiwa manakah saling eksklusif?" },
+      "options": [ { "en": "Getting an odd number and getting a 4", "bm": "Mendapat nombor ganjil dan mendapat 4" }, { "en": "Getting an even number and getting a 4", "bm": "Mendapat nombor genap dan mendapat 4" }, { "en": "Getting a prime and getting an odd number", "bm": "Mendapat nombor perdana dan mendapat nombor ganjil" }, { "en": "Getting more than 2 and getting a 5", "bm": "Mendapat lebih daripada 2 dan mendapat 5" } ],
+      "answer": 0,
+      "explanation": { "en": "4 is not odd, so they can't happen together.", "bm": "4 bukan ganjil, jadi kedua-duanya tidak boleh berlaku bersama." } },
+    { "id": "math-09-q09", "subtopicId": "math-09-03", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "A card is picked from cards numbered 1–10. Find P(even or a multiple of 3) as a decimal.", "bm": "Satu kad dipilih daripada kad bernombor 1–10. Cari P(genap atau gandaan 3) sebagai perpuluhan." },
+      "answer": 0.7, "tolerance": 0,
+      "explanation": { "en": "Even: 5/10. Multiples of 3: 3/10. Both (6): 1/10. 0.5 + 0.3 − 0.1 = 0.7.", "bm": "Genap: 5/10. Gandaan 3: 3/10. Kedua-duanya (6): 1/10. 0.5 + 0.3 − 0.1 = 0.7." } },
+    { "id": "math-09-q10", "subtopicId": "math-09-04", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "P(rain) = 0.3. If it rains, P(bus late) = 0.6; if not, P(bus late) = 0.2. Find P(bus late).", "bm": "P(hujan) = 0.3. Jika hujan, P(bas lewat) = 0.6; jika tidak, P(bas lewat) = 0.2. Cari P(bas lewat)." },
+      "answer": 0.32, "tolerance": 0,
+      "explanation": { "en": "Tree diagram: 0.3 × 0.6 + 0.7 × 0.2 = 0.18 + 0.14 = 0.32.", "bm": "Gambar rajah pokok: 0.3 × 0.6 + 0.7 × 0.2 = 0.18 + 0.14 = 0.32." } },
+    { "id": "math-09-q11", "subtopicId": "math-09-04", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Aryana's chance of passing each of two independent quizzes is 0.8. Find P(she passes at least one).", "bm": "Peluang Aryana lulus setiap satu daripada dua kuiz tak bersandar ialah 0.8. Cari P(dia lulus sekurang-kurangnya satu)." },
+      "answer": 0.96, "tolerance": 0,
+      "explanation": { "en": "1 − P(fails both) = 1 − 0.2 × 0.2 = 0.96.", "bm": "1 − P(gagal kedua-duanya) = 1 − 0.2 × 0.2 = 0.96." } }
+  ]
+}

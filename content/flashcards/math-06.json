@@ -1,0 +1,15 @@
+{
+  "chapterId": "math-06",
+  "cards": [
+    { "id": "math-06-f01", "subtopicId": "math-06-01", "front": { "en": "Linear inequality in two variables", "bm": "Ketaksamaan linear dua pemboleh ubah" }, "back": { "en": "e.g. y > 2x + 1 — represented by a region, not a line", "bm": "cth. y > 2x + 1 — diwakili oleh rantau, bukan garis" } },
+    { "id": "math-06-f02", "subtopicId": "math-06-01", "front": { "en": "Solid vs dashed line", "bm": "Garis padu vs putus-putus" }, "back": { "en": "Solid: ≤, ≥ (line included). Dashed: <, > (line excluded)", "bm": "Padu: ≤, ≥ (garis termasuk). Putus-putus: <, > (garis tidak termasuk)" } },
+    { "id": "math-06-f03", "subtopicId": "math-06-01", "front": { "en": "y > mx + c vs y < mx + c", "bm": "y > mx + c vs y < mx + c" }, "back": { "en": "Above the line vs below the line", "bm": "Di atas garis vs di bawah garis" } },
+    { "id": "math-06-f04", "subtopicId": "math-06-01", "front": { "en": "x > a and x < a", "bm": "x > a dan x < a" }, "back": { "en": "Right of / left of the vertical line x = a", "bm": "Kanan / kiri garis menegak x = a" } },
+    { "id": "math-06-f05", "subtopicId": "math-06-01", "front": { "en": "Words to symbols", "bm": "Perkataan kepada simbol" }, "back": { "en": "At least ≥, at most ≤, more than >, less than <, not more than ≤", "bm": "Sekurang-kurangnya ≥, paling banyak ≤, lebih daripada >, kurang daripada <, tidak lebih daripada ≤" } },
+    { "id": "math-06-f06", "subtopicId": "math-06-01", "front": { "en": "Test point method", "bm": "Kaedah titik ujian" }, "back": { "en": "Substitute a point (often (0, 0)) — if true, shade its side", "bm": "Gantikan satu titik (biasanya (0, 0)) — jika benar, lorek belahnya" } },
+    { "id": "math-06-f07", "subtopicId": "math-06-02", "front": { "en": "System of inequalities", "bm": "Sistem ketaksamaan" }, "back": { "en": "The solution is where ALL shaded regions overlap", "bm": "Penyelesaian ialah di mana SEMUA rantau berlorek bertindih" } },
+    { "id": "math-06-f08", "subtopicId": "math-06-02", "front": { "en": "x ≥ 0 and y ≥ 0", "bm": "x ≥ 0 dan y ≥ 0" }, "back": { "en": "Restricts the region to the first quadrant (common in real-life problems)", "bm": "Mengehadkan rantau kepada sukuan pertama (biasa dalam masalah sebenar)" } },
+    { "id": "math-06-f09", "subtopicId": "math-06-02", "front": { "en": "Writing inequalities for a shaded region", "bm": "Menulis ketaksamaan bagi rantau berlorek" }, "back": { "en": "Find each boundary line's equation, check solid/dashed, then the side", "bm": "Cari persamaan setiap garis sempadan, semak padu/putus-putus, kemudian belahnya" } },
+    { "id": "math-06-f10", "subtopicId": "math-06-02", "front": { "en": "Real-life use", "bm": "Kegunaan sebenar" }, "back": { "en": "Budget and time limits in business planning", "bm": "Had bajet dan masa dalam perancangan perniagaan" } }
+  ]
+}

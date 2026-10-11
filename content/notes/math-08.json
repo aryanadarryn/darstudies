@@ -1,0 +1,27 @@
+{
+  "chapterId": "math-08",
+  "reviewed": false,
+  "subtopics": {
+    "math-08-01": {
+      "keyPoints": [
+        { "en": "Dispersion describes how spread out data values are around the centre (mean or median).", "bm": "Serakan menghuraikan betapa tersebarnya nilai data di sekitar pusat (min atau median)." },
+        { "en": "Two data sets can have the same mean but very different dispersion.", "bm": "Dua set data boleh mempunyai min yang sama tetapi serakan yang sangat berbeza." },
+        { "en": "Small dispersion = data is consistent and close together; large dispersion = widely spread.", "bm": "Serakan kecil = data konsisten dan rapat; serakan besar = tersebar luas." },
+        { "en": "Dot plots, stem-and-leaf plots and box plots help you see dispersion.", "bm": "Plot titik, plot batang-dan-daun dan plot kotak membantu melihat serakan." }
+      ],
+      "example": { "question": { "en": "Athlete A's 100 m times: 12.1, 12.2, 12.0 s. Athlete B: 11.5, 12.8, 12.0 s. Who is more consistent?", "bm": "Masa 100 m atlet A: 12.1, 12.2, 12.0 s. Atlet B: 11.5, 12.8, 12.0 s. Siapakah lebih konsisten?" }, "answer": { "en": "A — range 0.2 s vs B's 1.3 s", "bm": "A — julat 0.2 s berbanding 1.3 s bagi B" } },
+      "tip": { "en": "'Consistent' in a question = choose the set with the smaller dispersion.", "bm": "'Konsisten' dalam soalan = pilih set dengan serakan lebih kecil." }
+    },
+    "math-08-02": {
+      "keyPoints": [
+        { "en": "Range = largest − smallest. Quick, but heavily affected by outliers.", "bm": "Julat = terbesar − terkecil. Cepat, tetapi sangat dipengaruhi pencilan." },
+        { "en": "Sort the data first. Q1 is at the ¼(n + 1)th position, Q3 at the ¾(n + 1)th. IQR = Q3 − Q1.", "bm": "Susun data dahulu. Q1 pada kedudukan ke-¼(n + 1), Q3 pada ke-¾(n + 1). JAK = Q3 − Q1." },
+        { "en": "Variance σ² = Σx²/N − x̄². Standard deviation σ = √σ².", "bm": "Varians σ² = Σx²/N − x̄². Sisihan piawai σ = √σ²." },
+        { "en": "Adding a constant to every value: SD unchanged. Multiplying by k: SD × k, variance × k².", "bm": "Menambah pemalar kepada setiap nilai: sisihan piawai tidak berubah. Mendarab dengan k: sisihan piawai × k, varians × k²." },
+        { "en": "Box plot: whiskers from min to max, box from Q1 to Q3, line at the median.", "bm": "Plot kotak: misai dari min ke maks, kotak dari Q1 ke Q3, garis pada median." }
+      ],
+      "example": { "question": { "en": "Find the IQR of 1, 3, 5, 7, 9, 11, 13.", "bm": "Cari JAK bagi 1, 3, 5, 7, 9, 11, 13." }, "answer": { "en": "n = 7: Q1 = 2nd value = 3, Q3 = 6th value = 11 → IQR = 8", "bm": "n = 7: Q1 = nilai ke-2 = 3, Q3 = nilai ke-6 = 11 → JAK = 8" } },
+      "tip": { "en": "Use the calculator's STAT mode (σx) to check your standard deviation.", "bm": "Gunakan mod STAT kalkulator (σx) untuk menyemak sisihan piawai." }
+    }
+  }
+}

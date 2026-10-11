@@ -1,0 +1,121 @@
+{
+  "chapterId": "chem-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why does a bee sting hurt less after you rub on baking soda? Why do farmers in Cameron Highlands add lime to their soil? And how does an antacid tablet calm a burning stomach? It's all acids meeting bases.",
+      "bm": "Mengapa sengatan lebah kurang sakit selepas disapu soda penaik? Mengapa petani di Cameron Highlands menabur kapur pada tanah? Dan bagaimana tablet antasid melegakan pedih ulu hati? Semuanya asid bertemu bes."
+    },
+    "bigIdeas": [
+      { "en": "Acids show acidic properties only in water, which lets them produce H⁺ (H₃O⁺) ions.", "bm": "Asid menunjukkan sifat asid hanya dalam air, yang membolehkannya menghasilkan ion H⁺ (H₃O⁺)." },
+      { "en": "pH measures acidity: < 7 acidic, 7 neutral, > 7 alkaline; pH = −log[H⁺].", "bm": "pH mengukur keasidan: < 7 berasid, 7 neutral, > 7 beralkali; pH = −log[H⁺]." },
+      { "en": "Strong acids/alkalis ionise completely; weak ones ionise partially.", "bm": "Asid/alkali kuat mengion lengkap; yang lemah mengion separa." },
+      { "en": "Acid + base → salt + water (neutralisation); titration finds unknown concentrations.", "bm": "Asid + bes → garam + air (peneutralan); pentitratan menentukan kepekatan yang tidak diketahui." },
+      { "en": "Salts can be prepared, identified by qualitative tests, and decomposed by heat.", "bm": "Garam boleh disediakan, dikenal pasti melalui ujian kualitatif dan diuraikan oleh haba." }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Acids", "bm": "Asid" },
+        "nodes": [
+          { "label": { "en": "+ reactive metal", "bm": "+ logam reaktif" }, "detail": { "en": "salt + hydrogen", "bm": "garam + hidrogen" } },
+          { "label": { "en": "+ base / alkali", "bm": "+ bes / alkali" }, "detail": { "en": "salt + water", "bm": "garam + air" } },
+          { "label": { "en": "+ carbonate", "bm": "+ karbonat" }, "detail": { "en": "salt + water + CO₂", "bm": "garam + air + CO₂" } },
+          { "label": { "en": "pH < 7", "bm": "pH < 7" }, "detail": { "en": "blue litmus → red", "bm": "litmus biru → merah" } },
+          { "label": { "en": "Strong", "bm": "Kuat" }, "detail": { "en": "HCl, H₂SO₄, HNO₃", "bm": "HCl, H₂SO₄, HNO₃" } },
+          { "label": { "en": "Weak", "bm": "Lemah" }, "detail": { "en": "ethanoic acid", "bm": "asid etanoik" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Acid", "bm": "Asid" }, "definition": { "en": "A chemical that ionises in water to produce hydrogen ions, H⁺.", "bm": "Bahan kimia yang mengion dalam air menghasilkan ion hidrogen, H⁺." } },
+      { "term": { "en": "Alkali", "bm": "Alkali" }, "definition": { "en": "A base that dissolves in water to produce hydroxide ions, OH⁻.", "bm": "Bes yang larut dalam air menghasilkan ion hidroksida, OH⁻." } },
+      { "term": { "en": "Basicity", "bm": "Kebesan" }, "definition": { "en": "Number of H⁺ ions one acid molecule can produce (HCl = 1, H₂SO₄ = 2).", "bm": "Bilangan ion H⁺ yang boleh dihasilkan oleh satu molekul asid (HCl = 1, H₂SO₄ = 2)." } },
+      { "term": { "en": "Molarity", "bm": "Kemolaran" }, "definition": { "en": "Number of moles of solute in 1 dm³ of solution (mol dm⁻³).", "bm": "Bilangan mol zat terlarut dalam 1 dm³ larutan (mol dm⁻³)." } },
+      { "term": { "en": "Standard solution", "bm": "Larutan piawai" }, "definition": { "en": "A solution whose concentration is accurately known.", "bm": "Larutan yang kepekatannya diketahui dengan tepat." } },
+      { "term": { "en": "Neutralisation", "bm": "Peneutralan" }, "definition": { "en": "Reaction of an acid with a base to form salt and water only.", "bm": "Tindak balas asid dengan bes menghasilkan garam dan air sahaja." } },
+      { "term": { "en": "Salt", "bm": "Garam" }, "definition": { "en": "Compound formed when H⁺ of an acid is replaced by a metal or ammonium ion.", "bm": "Sebatian yang terbentuk apabila H⁺ asid digantikan oleh ion logam atau ammonium." } },
+      { "term": { "en": "Precipitate", "bm": "Mendakan" }, "definition": { "en": "Insoluble solid formed in a solution.", "bm": "Pepejal tidak larut yang terbentuk dalam larutan." } }
+    ],
+    "formulaIds": ["chem-ph", "chem-molarity", "chem-g-conc", "chem-dilution", "chem-titration"],
+    "toolId": "ph-scale",
+    "workedExample": {
+      "question": { "en": "25.0 cm³ of sodium hydroxide is neutralised by 20.0 cm³ of 0.10 mol dm⁻³ hydrochloric acid. Find the concentration of the NaOH.", "bm": "25.0 cm³ natrium hidroksida dineutralkan oleh 20.0 cm³ asid hidroklorik 0.10 mol dm⁻³. Cari kepekatan NaOH." },
+      "steps": [
+        { "en": "Equation: HCl + NaOH → NaCl + H₂O, so a : b = 1 : 1.", "bm": "Persamaan: HCl + NaOH → NaCl + H₂O, jadi a : b = 1 : 1." },
+        { "en": "M_aV_a / M_bV_b = a/b → (0.10 × 20.0) / (M_b × 25.0) = 1/1", "bm": "M_aV_a / M_bV_b = a/b → (0.10 × 20.0) / (M_b × 25.0) = 1/1" },
+        { "en": "M_b = (0.10 × 20.0) ÷ 25.0 = 0.08 mol dm⁻³", "bm": "M_b = (0.10 × 20.0) ÷ 25.0 = 0.08 mol dm⁻³" }
+      ],
+      "answer": { "en": "0.08 mol dm⁻³", "bm": "0.08 mol dm⁻³" }
+    }
+  },
+  "questions": [
+    { "id": "chem-06-q01", "subtopicId": "chem-06-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Dry hydrogen chloride dissolved in methylbenzene does NOT turn blue litmus red. Why?", "bm": "Hidrogen klorida kering dalam metilbenzena TIDAK menukar litmus biru kepada merah. Mengapa?" },
+      "options": [ { "en": "Without water, HCl exists as molecules and produces no H⁺ ions", "bm": "Tanpa air, HCl wujud sebagai molekul dan tidak menghasilkan ion H⁺" }, { "en": "Methylbenzene is an alkali", "bm": "Metilbenzena ialah alkali" }, { "en": "HCl is a weak acid", "bm": "HCl ialah asid lemah" }, { "en": "The litmus paper is too dry", "bm": "Kertas litmus terlalu kering" } ],
+      "answer": 0,
+      "explanation": { "en": "Water is needed for the acid to ionise: HCl + H₂O → H₃O⁺ + Cl⁻.", "bm": "Air diperlukan untuk asid mengion: HCl + H₂O → H₃O⁺ + Cl⁻." } },
+    { "id": "chem-06-q02", "subtopicId": "chem-06-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the pH of 0.01 mol dm⁻³ hydrochloric acid.", "bm": "Cari pH asid hidroklorik 0.01 mol dm⁻³." },
+      "answer": 2, "tolerance": 0.01,
+      "explanation": { "en": "HCl is strong, so [H⁺] = 0.01 = 10⁻². pH = −log(10⁻²) = 2.", "bm": "HCl kuat, jadi [H⁺] = 0.01 = 10⁻². pH = −log(10⁻²) = 2." } },
+    { "id": "chem-06-q03", "subtopicId": "chem-06-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "0.1 mol dm⁻³ HCl has pH 1, but 0.1 mol dm⁻³ ethanoic acid has pH 3. Why?", "bm": "HCl 0.1 mol dm⁻³ mempunyai pH 1, tetapi asid etanoik 0.1 mol dm⁻³ mempunyai pH 3. Mengapa?" },
+      "options": [ { "en": "Ethanoic acid ionises only partially, so [H⁺] is lower", "bm": "Asid etanoik mengion separa sahaja, jadi [H⁺] lebih rendah" }, { "en": "Ethanoic acid is more concentrated", "bm": "Asid etanoik lebih pekat" }, { "en": "HCl ionises partially", "bm": "HCl mengion separa" }, { "en": "Ethanoic acid is an alkali", "bm": "Asid etanoik ialah alkali" } ],
+      "answer": 0,
+      "explanation": { "en": "Strength (degree of ionisation) is different from concentration.", "bm": "Kekuatan (darjah pengionan) berbeza dengan kepekatan." } },
+    { "id": "chem-06-q04", "subtopicId": "chem-06-04", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each reaction of an acid to its products.", "bm": "Padankan setiap tindak balas asid dengan hasilnya." },
+      "pairs": [
+        { "left": { "en": "Acid + metal", "bm": "Asid + logam" }, "right": { "en": "Salt + hydrogen", "bm": "Garam + hidrogen" } },
+        { "left": { "en": "Acid + base", "bm": "Asid + bes" }, "right": { "en": "Salt + water", "bm": "Garam + air" } },
+        { "left": { "en": "Acid + carbonate", "bm": "Asid + karbonat" }, "right": { "en": "Salt + water + carbon dioxide", "bm": "Garam + air + karbon dioksida" } }
+      ],
+      "explanation": { "en": "Test H₂ with a lighted splinter (pop); CO₂ turns limewater chalky.", "bm": "Uji H₂ dengan kayu uji menyala (bunyi 'pop'); CO₂ mengeruhkan air kapur." } },
+    { "id": "chem-06-q05", "subtopicId": "chem-06-05", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "4.0 g of NaOH is dissolved to make 500 cm³ of solution. Find its concentration in mol dm⁻³. (Na 23, O 16, H 1)", "bm": "4.0 g NaOH dilarutkan untuk menghasilkan 500 cm³ larutan. Cari kepekatannya dalam mol dm⁻³. (Na 23, O 16, H 1)" },
+      "answer": 0.2, "tolerance": 0.01, "unit": "mol dm⁻³",
+      "explanation": { "en": "n = 4.0 ÷ 40 = 0.1 mol; V = 0.5 dm³; M = 0.1 ÷ 0.5 = 0.2 mol dm⁻³.", "bm": "n = 4.0 ÷ 40 = 0.1 mol; V = 0.5 dm³; M = 0.1 ÷ 0.5 = 0.2 mol dm⁻³." } },
+    { "id": "chem-06-q06", "subtopicId": "chem-06-06", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "What mass of sodium carbonate (Na₂CO₃, Mr 106) is needed to prepare 250 cm³ of a 0.1 mol dm⁻³ standard solution?", "bm": "Berapakah jisim natrium karbonat (Na₂CO₃, Mr 106) diperlukan untuk menyediakan 250 cm³ larutan piawai 0.1 mol dm⁻³?" },
+      "answer": 2.65, "tolerance": 0.01, "unit": "g",
+      "explanation": { "en": "n = MV = 0.1 × 0.25 = 0.025 mol; mass = 0.025 × 106 = 2.65 g. Use a 250 cm³ volumetric flask.", "bm": "n = MV = 0.1 × 0.25 = 0.025 mol; jisim = 0.025 × 106 = 2.65 g. Guna kelalang volumetrik 250 cm³." } },
+    { "id": "chem-06-q07", "subtopicId": "chem-06-06", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "100 cm³ of 2.0 mol dm⁻³ HCl is diluted to 0.5 mol dm⁻³. What is the final volume in cm³?", "bm": "100 cm³ HCl 2.0 mol dm⁻³ dicairkan kepada 0.5 mol dm⁻³. Berapakah isi padu akhir dalam cm³?" },
+      "answer": 400, "tolerance": 0.01, "unit": "cm³",
+      "explanation": { "en": "M₁V₁ = M₂V₂ → 2.0 × 100 = 0.5 × V₂ → V₂ = 400 cm³ (add 300 cm³ of water).", "bm": "M₁V₁ = M₂V₂ → 2.0 × 100 = 0.5 × V₂ → V₂ = 400 cm³ (tambah 300 cm³ air)." } },
+    { "id": "chem-06-q08", "subtopicId": "chem-06-07", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "25.0 cm³ of NaOH is neutralised by 20.0 cm³ of 0.10 mol dm⁻³ HCl. Find the NaOH concentration in mol dm⁻³.", "bm": "25.0 cm³ NaOH dineutralkan oleh 20.0 cm³ HCl 0.10 mol dm⁻³. Cari kepekatan NaOH dalam mol dm⁻³." },
+      "answer": 0.08, "tolerance": 0.01, "unit": "mol dm⁻³",
+      "explanation": { "en": "1 : 1 ratio. M_b = (0.10 × 20.0) ÷ 25.0 = 0.08 mol dm⁻³.", "bm": "Nisbah 1 : 1. M_b = (0.10 × 20.0) ÷ 25.0 = 0.08 mol dm⁻³." } },
+    { "id": "chem-06-q09", "subtopicId": "chem-06-08", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL the INSOLUBLE salts.", "bm": "Pilih SEMUA garam yang TIDAK LARUT." },
+      "options": [ { "en": "Barium sulfate", "bm": "Barium sulfat" }, { "en": "Silver chloride", "bm": "Argentum klorida" }, { "en": "Sodium nitrate", "bm": "Natrium nitrat" }, { "en": "Calcium carbonate", "bm": "Kalsium karbonat" }, { "en": "Potassium chloride", "bm": "Kalium klorida" } ],
+      "answer": [0, 1, 3],
+      "explanation": { "en": "All nitrates and all Na/K/NH₄ salts are soluble. BaSO₄, AgCl and most carbonates are insoluble.", "bm": "Semua nitrat dan semua garam Na/K/NH₄ larut. BaSO₄, AgCl dan kebanyakan karbonat tidak larut." } },
+    { "id": "chem-06-q10", "subtopicId": "chem-06-09", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which method prepares the insoluble salt lead(II) iodide?", "bm": "Kaedah manakah menyediakan garam tidak larut plumbum(II) iodida?" },
+      "options": [ { "en": "Mix lead(II) nitrate and potassium iodide solutions (precipitation)", "bm": "Campurkan larutan plumbum(II) nitrat dan kalium iodida (pemendakan)" }, { "en": "Titrate lead with iodine", "bm": "Titratkan plumbum dengan iodin" }, { "en": "Add lead to hydroiodic acid and crystallise", "bm": "Tambah plumbum ke asid hidroiodik dan hablurkan" }, { "en": "Heat lead(II) carbonate", "bm": "Panaskan plumbum(II) karbonat" } ],
+      "answer": 0,
+      "explanation": { "en": "Double decomposition: Pb²⁺ + 2I⁻ → PbI₂ (yellow precipitate). Filter, rinse with water, dry.", "bm": "Penguraian ganda dua: Pb²⁺ + 2I⁻ → PbI₂ (mendakan kuning). Turas, bilas dengan air, keringkan." } },
+    { "id": "chem-06-q11", "subtopicId": "chem-06-10", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Copper(II) carbonate is heated. What is observed?", "bm": "Kuprum(II) karbonat dipanaskan. Apakah yang diperhatikan?" },
+      "options": [ { "en": "Green solid turns black; gas turns limewater chalky", "bm": "Pepejal hijau menjadi hitam; gas mengeruhkan air kapur" }, { "en": "White solid turns yellow", "bm": "Pepejal putih menjadi kuning" }, { "en": "Brown gas is released", "bm": "Gas perang dibebaskan" }, { "en": "No change", "bm": "Tiada perubahan" } ],
+      "answer": 0,
+      "explanation": { "en": "CuCO₃ → CuO (black) + CO₂.", "bm": "CuCO₃ → CuO (hitam) + CO₂." } },
+    { "id": "chem-06-q12", "subtopicId": "chem-06-11", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each cation to what you see when a little NaOH solution is added.", "bm": "Padankan setiap kation dengan pemerhatian apabila sedikit larutan NaOH ditambah." },
+      "pairs": [
+        { "left": { "en": "Cu²⁺", "bm": "Cu²⁺" }, "right": { "en": "Blue precipitate", "bm": "Mendakan biru" } },
+        { "left": { "en": "Fe²⁺", "bm": "Fe²⁺" }, "right": { "en": "Green precipitate", "bm": "Mendakan hijau" } },
+        { "left": { "en": "Fe³⁺", "bm": "Fe³⁺" }, "right": { "en": "Brown precipitate", "bm": "Mendakan perang" } },
+        { "left": { "en": "Zn²⁺", "bm": "Zn²⁺" }, "right": { "en": "White precipitate, dissolves in excess", "bm": "Mendakan putih, larut dalam berlebihan" } }
+      ],
+      "explanation": { "en": "Al³⁺ and Pb²⁺ also give white precipitates soluble in excess NaOH — use NH₃(aq) or other tests to tell them apart.", "bm": "Al³⁺ dan Pb²⁺ juga memberi mendakan putih larut dalam NaOH berlebihan — guna NH₃(ak) atau ujian lain untuk membezakannya." } },
+    { "id": "chem-06-q13", "subtopicId": "chem-06-11", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A gas relights a glowing wooden splinter. The gas is…", "bm": "Satu gas menyalakan semula kayu uji berbara. Gas itu ialah…" },
+      "options": [ { "en": "hydrogen", "bm": "hidrogen" }, { "en": "carbon dioxide", "bm": "karbon dioksida" }, { "en": "oxygen", "bm": "oksigen" }, { "en": "ammonia", "bm": "ammonia" } ],
+      "answer": 2,
+      "explanation": { "en": "Oxygen relights a glowing splinter; hydrogen gives a 'pop' with a lighted splinter.", "bm": "Oksigen menyalakan semula kayu uji berbara; hidrogen memberi bunyi 'pop' dengan kayu uji menyala." } }
+  ]
+}

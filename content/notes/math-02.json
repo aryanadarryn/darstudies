@@ -1,0 +1,17 @@
+{
+  "chapterId": "math-02",
+  "reviewed": false,
+  "subtopics": {
+    "math-02-01": {
+      "keyPoints": [
+        { "en": "A number base b uses digits 0 to b − 1. Base 2 (binary) uses 0, 1; base 8 (octal) uses 0–7.", "bm": "Asas nombor b menggunakan digit 0 hingga b − 1. Asas 2 (perduaan) guna 0, 1; asas 8 (perlapanan) guna 0–7." },
+        { "en": "Place values are powers of the base: …, b³, b², b¹, b⁰. Digit value = digit × place value.", "bm": "Nilai tempat ialah kuasa asas: …, b³, b², b¹, b⁰. Nilai digit = digit × nilai tempat." },
+        { "en": "Base b → base 10: multiply each digit by its place value and add.", "bm": "Asas b → asas 10: darab setiap digit dengan nilai tempatnya dan tambah." },
+        { "en": "Base 10 → base b: divide repeatedly by b and read the remainders from bottom to top.", "bm": "Asas 10 → asas b: bahagi berulang dengan b dan baca baki dari bawah ke atas." },
+        { "en": "Shortcuts: base 2 ↔ base 8 (groups of 3 bits). Add/subtract in any base by carrying or borrowing in groups of b.", "bm": "Jalan pintas: asas 2 ↔ asas 8 (kumpulan 3 bit). Tambah/tolak dalam sebarang asas dengan membawa atau meminjam dalam kumpulan b." }
+      ],
+      "example": { "question": { "en": "Calculate 1101₂ − 111₂.", "bm": "Hitung 1101₂ − 111₂." }, "answer": { "en": "13 − 7 = 6 = 110₂", "bm": "13 − 7 = 6 = 110₂" } },
+      "tip": { "en": "Try the Number base converter tool to check your working step by step.", "bm": "Cuba alat Penukar asas nombor untuk menyemak jalan kerja langkah demi langkah." }
+    }
+  }
+}

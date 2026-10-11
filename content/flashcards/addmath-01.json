@@ -1,0 +1,16 @@
+{
+  "chapterId": "addmath-01",
+  "cards": [
+    { "id": "addmath-01-f01", "subtopicId": "addmath-01-01", "front": { "en": "Function", "bm": "Fungsi" }, "back": { "en": "Each object has exactly ONE image (one-to-one or many-to-one)", "bm": "Setiap objek mempunyai tepat SATU imej (satu dengan satu atau banyak dengan satu)" } },
+    { "id": "addmath-01-f02", "subtopicId": "addmath-01-01", "front": { "en": "Vertical line test", "bm": "Ujian garis mencancang" }, "back": { "en": "A graph is a function if every vertical line cuts it at most once", "bm": "Graf ialah fungsi jika setiap garis mencancang memotongnya paling banyak sekali" } },
+    { "id": "addmath-01-f03", "subtopicId": "addmath-01-01", "front": { "en": "Domain, codomain, range", "bm": "Domain, kodomain, julat" }, "back": { "en": "Domain: objects. Codomain: possible images. Range: actual images", "bm": "Domain: objek. Kodomain: imej yang mungkin. Julat: imej sebenar" } },
+    { "id": "addmath-01-f04", "subtopicId": "addmath-01-01", "front": { "en": "Absolute value function", "bm": "Fungsi nilai mutlak" }, "back": { "en": "|f(x)| = f(x) if f(x) ≥ 0; −f(x) if f(x) < 0 — graph reflects the negative part upwards", "bm": "|f(x)| = f(x) jika f(x) ≥ 0; −f(x) jika f(x) < 0 — graf memantulkan bahagian negatif ke atas" } },
+    { "id": "addmath-01-f05", "subtopicId": "addmath-01-02", "front": { "en": "Composite function fg(x)", "bm": "Fungsi gubahan fg(x)" }, "back": { "en": "f(g(x)) — apply g first, then f", "bm": "f(g(x)) — guna g dahulu, kemudian f" } },
+    { "id": "addmath-01-f06", "subtopicId": "addmath-01-02", "front": { "en": "f²(x)", "bm": "f²(x)" }, "back": { "en": "ff(x) = f(f(x)), NOT [f(x)]²", "bm": "ff(x) = f(f(x)), BUKAN [f(x)]²" } },
+    { "id": "addmath-01-f07", "subtopicId": "addmath-01-02", "front": { "en": "Find g when f and fg are known", "bm": "Cari g apabila f dan fg diketahui" }, "back": { "en": "Write f(g(x)) using f's rule, set it equal to fg(x), solve for g(x)", "bm": "Tulis f(g(x)) guna petua f, samakan dengan fg(x), selesaikan g(x)" } },
+    { "id": "addmath-01-f08", "subtopicId": "addmath-01-03", "front": { "en": "Inverse function", "bm": "Fungsi songsang" }, "back": { "en": "f(a) = b ⇔ f⁻¹(b) = a; exists only if f is one-to-one", "bm": "f(a) = b ⇔ f⁻¹(b) = a; wujud hanya jika f satu dengan satu" } },
+    { "id": "addmath-01-f09", "subtopicId": "addmath-01-03", "front": { "en": "Finding f⁻¹(x)", "bm": "Mencari f⁻¹(x)" }, "back": { "en": "Let y = f(x), make x the subject, then replace y with x", "bm": "Katakan y = f(x), jadikan x perkara rumus, kemudian ganti y dengan x" } },
+    { "id": "addmath-01-f10", "subtopicId": "addmath-01-03", "front": { "en": "Horizontal line test", "bm": "Ujian garis mengufuk" }, "back": { "en": "f has an inverse if every horizontal line cuts its graph at most once", "bm": "f mempunyai songsangan jika setiap garis mengufuk memotong grafnya paling banyak sekali" } },
+    { "id": "addmath-01-f11", "subtopicId": "addmath-01-03", "front": { "en": "ff⁻¹(x) and f⁻¹f(x)", "bm": "ff⁻¹(x) dan f⁻¹f(x)" }, "back": { "en": "Both equal x", "bm": "Kedua-duanya sama dengan x" } }
+  ]
+}

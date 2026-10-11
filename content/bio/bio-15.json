@@ -1,0 +1,106 @@
+{
+  "chapterId": "bio-15",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every person began as a single fertilised egg smaller than a grain of sand. Nine months later, a baby with billions of cells is born. Identical twins share the same DNA; fraternal twins don't. How does it all happen?",
+      "bm": "Setiap insan bermula sebagai satu telur yang disenyawakan, lebih kecil daripada sebutir pasir. Sembilan bulan kemudian, bayi dengan berbilion sel dilahirkan. Kembar seiras berkongsi DNA yang sama; kembar tak seiras tidak. Bagaimana semuanya berlaku?"
+    },
+    "bigIdeas": [
+      { "en": "Male and female reproductive systems produce gametes (sperm and ova) by meiosis.", "bm": "Sistem pembiakan lelaki dan perempuan menghasilkan gamet (sperma dan ovum) melalui meiosis." },
+      { "en": "The menstrual cycle is controlled by FSH, LH, oestrogen and progesterone.", "bm": "Kitar haid dikawal oleh FSH, LH, estrogen dan progesteron." },
+      { "en": "Fertilisation forms a zygote that develops into an embryo and foetus, nourished via the placenta.", "bm": "Persenyawaan membentuk zigot yang berkembang menjadi embrio dan fetus, mendapat nutrisi melalui plasenta." },
+      { "en": "Identical twins come from one zygote; fraternal twins from two.", "bm": "Kembar seiras berasal daripada satu zigot; kembar tak seiras daripada dua." },
+      { "en": "Growth is measured over time and follows a sigmoid curve in humans.", "bm": "Pertumbuhan diukur dari masa ke masa dan mengikut lengkung sigmoid dalam manusia." }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          { "title": { "en": "Menstruation (days 1–5)", "bm": "Haid (hari 1–5)" } },
+          { "title": { "en": "Follicle grows (FSH)", "bm": "Folikel membesar (FSH)" } },
+          { "title": { "en": "Endometrium thickens (oestrogen)", "bm": "Endometrium menebal (estrogen)" } },
+          { "title": { "en": "Ovulation ~day 14 (LH)", "bm": "Ovulasi ~hari 14 (LH)" } },
+          { "title": { "en": "Corpus luteum (progesterone)", "bm": "Korpus luteum (progesteron)" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Gametogenesis", "bm": "Gametogenesis" }, "definition": { "en": "Formation of gametes: spermatogenesis (testes) and oogenesis (ovaries).", "bm": "Pembentukan gamet: spermatogenesis (testis) dan oogenesis (ovari)." } },
+      { "term": { "en": "Ovulation", "bm": "Ovulasi" }, "definition": { "en": "Release of a secondary oocyte from the ovary, around day 14.", "bm": "Pembebasan oosit sekunder dari ovari, sekitar hari ke-14." } },
+      { "term": { "en": "Fertilisation", "bm": "Persenyawaan" }, "definition": { "en": "Fusion of sperm and ovum nuclei to form a diploid zygote (in the Fallopian tube).", "bm": "Pelakuran nukleus sperma dan ovum membentuk zigot diploid (dalam tiub Falopio)." } },
+      { "term": { "en": "Implantation", "bm": "Penempelan" }, "definition": { "en": "The blastocyst embeds in the endometrium.", "bm": "Blastosista terbenam dalam endometrium." } },
+      { "term": { "en": "Placenta", "bm": "Plasenta" }, "definition": { "en": "Organ where substances exchange between mother and foetus without blood mixing.", "bm": "Organ tempat pertukaran bahan antara ibu dan fetus tanpa percampuran darah." } },
+      { "term": { "en": "Corpus luteum", "bm": "Korpus luteum" }, "definition": { "en": "Remains of the follicle after ovulation; secretes progesterone.", "bm": "Baki folikel selepas ovulasi; merembes progesteron." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain why menstruation happens if fertilisation does not occur.", "bm": "Terangkan mengapa haid berlaku jika persenyawaan tidak berlaku." },
+      "steps": [
+        { "en": "After ovulation, the corpus luteum secretes progesterone to maintain the thick endometrium.", "bm": "Selepas ovulasi, korpus luteum merembes progesteron untuk mengekalkan endometrium yang tebal." },
+        { "en": "Without fertilisation, the corpus luteum degenerates.", "bm": "Tanpa persenyawaan, korpus luteum merosot." },
+        { "en": "Progesterone and oestrogen levels fall.", "bm": "Aras progesteron dan estrogen menurun." },
+        { "en": "The endometrium breaks down and is shed with blood — menstruation. Low progesterone also lets FSH rise, starting a new cycle.", "bm": "Endometrium runtuh dan disingkirkan bersama darah — haid. Progesteron rendah juga membolehkan FSH meningkat, memulakan kitar baharu." }
+      ],
+      "answer": { "en": "Falling progesterone (corpus luteum degenerates) causes the endometrium to break down.", "bm": "Penurunan progesteron (korpus luteum merosot) menyebabkan endometrium runtuh." }
+    }
+  },
+  "questions": [
+    { "id": "bio-15-q01", "subtopicId": "bio-15-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each structure to its function.", "bm": "Padankan setiap struktur dengan fungsinya." },
+      "pairs": [
+        { "left": { "en": "Testis", "bm": "Testis" }, "right": { "en": "Produces sperm and testosterone", "bm": "Menghasilkan sperma dan testosteron" } },
+        { "left": { "en": "Ovary", "bm": "Ovari" }, "right": { "en": "Produces ova, oestrogen and progesterone", "bm": "Menghasilkan ovum, estrogen dan progesteron" } },
+        { "left": { "en": "Fallopian tube", "bm": "Tiub Falopio" }, "right": { "en": "Site of fertilisation", "bm": "Tempat persenyawaan" } },
+        { "left": { "en": "Uterus", "bm": "Uterus" }, "right": { "en": "Where the foetus develops", "bm": "Tempat fetus berkembang" } }
+      ],
+      "explanation": { "en": "Seminal vesicles and the prostate gland add fluid to make semen.", "bm": "Vesikel semen dan kelenjar prostat menambah bendalir untuk membentuk air mani." } },
+    { "id": "bio-15-q02", "subtopicId": "bio-15-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "How many functional sperm and ova does one primary cell produce by meiosis?", "bm": "Berapakah sperma dan ovum berfungsi yang dihasilkan oleh satu sel primer melalui meiosis?" },
+      "options": [ { "en": "4 sperm; 1 ovum (+ polar bodies)", "bm": "4 sperma; 1 ovum (+ jasad kutub)" }, { "en": "1 sperm; 4 ova", "bm": "1 sperma; 4 ovum" }, { "en": "2 sperm; 2 ova", "bm": "2 sperma; 2 ovum" }, { "en": "4 of each", "bm": "4 setiap satu" } ],
+      "answer": 0,
+      "explanation": { "en": "In oogenesis, cytoplasm divides unequally so one large ovum keeps most food reserves.", "bm": "Dalam oogenesis, sitoplasma membahagi tidak sama rata supaya satu ovum besar menyimpan kebanyakan makanan." } },
+    { "id": "bio-15-q03", "subtopicId": "bio-15-03", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each hormone to its role in the menstrual cycle.", "bm": "Padankan setiap hormon dengan peranannya dalam kitar haid." },
+      "pairs": [
+        { "left": { "en": "FSH", "bm": "FSH" }, "right": { "en": "Stimulates follicle growth", "bm": "Merangsang pertumbuhan folikel" } },
+        { "left": { "en": "LH", "bm": "LH" }, "right": { "en": "Triggers ovulation", "bm": "Mencetuskan ovulasi" } },
+        { "left": { "en": "Oestrogen", "bm": "Estrogen" }, "right": { "en": "Repairs and thickens the endometrium", "bm": "Membaiki dan menebalkan endometrium" } },
+        { "left": { "en": "Progesterone", "bm": "Progesteron" }, "right": { "en": "Maintains the endometrium", "bm": "Mengekalkan endometrium" } }
+      ],
+      "explanation": { "en": "FSH and LH come from the pituitary; oestrogen and progesterone from the ovary.", "bm": "FSH dan LH dari pituitari; estrogen dan progesteron dari ovari." } },
+    { "id": "bio-15-q04", "subtopicId": "bio-15-03", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "In a typical 28-day cycle, on which day does ovulation usually occur?", "bm": "Dalam kitar 28 hari yang biasa, pada hari ke berapa ovulasi biasanya berlaku?" },
+      "answer": 14, "tolerance": 0,
+      "explanation": { "en": "A surge of LH around day 14 causes the mature follicle to release the egg.", "bm": "Lonjakan LH sekitar hari ke-14 menyebabkan folikel matang membebaskan telur." } },
+    { "id": "bio-15-q05", "subtopicId": "bio-15-04", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Arrange the early stages of development in order.", "bm": "Susun peringkat awal perkembangan mengikut urutan." },
+      "items": [ { "en": "Fertilisation forms a zygote", "bm": "Persenyawaan membentuk zigot" }, { "en": "Cleavage (mitosis) → morula", "bm": "Pembelahan (mitosis) → morula" }, { "en": "Blastocyst forms", "bm": "Blastosista terbentuk" }, { "en": "Implantation in the endometrium", "bm": "Penempelan dalam endometrium" }, { "en": "Embryo → foetus", "bm": "Embrio → fetus" } ],
+      "explanation": { "en": "After about 8 weeks the embryo is called a foetus.", "bm": "Selepas kira-kira 8 minggu embrio dipanggil fetus." } },
+    { "id": "bio-15-q06", "subtopicId": "bio-15-04", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Why don't the blood of the mother and foetus mix in the placenta?", "bm": "Mengapa darah ibu dan fetus tidak bercampur dalam plasenta?" },
+      "options": [ { "en": "To protect the foetus from high maternal blood pressure and different blood groups", "bm": "Untuk melindungi fetus daripada tekanan darah ibu yang tinggi dan kumpulan darah berbeza" }, { "en": "The foetus has no blood", "bm": "Fetus tiada darah" }, { "en": "Blood can't carry oxygen", "bm": "Darah tidak boleh membawa oksigen" }, { "en": "The placenta makes new blood", "bm": "Plasenta menghasilkan darah baharu" } ],
+      "answer": 0,
+      "explanation": { "en": "Substances diffuse across thin placental membranes; blood group mismatch could cause agglutination.", "bm": "Bahan meresap merentasi membran plasenta yang nipis; ketidaksepadanan kumpulan darah boleh menyebabkan aglutinasi." } },
+    { "id": "bio-15-q07", "subtopicId": "bio-15-05", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Identical twins are formed when…", "bm": "Kembar seiras terbentuk apabila…" },
+      "options": [ { "en": "one zygote splits into two embryos", "bm": "satu zigot terbahagi menjadi dua embrio" }, { "en": "two eggs are fertilised by two sperm", "bm": "dua telur disenyawakan oleh dua sperma" }, { "en": "one egg is fertilised by two sperm", "bm": "satu telur disenyawakan oleh dua sperma" }, { "en": "two eggs fuse together", "bm": "dua telur bercantum" } ],
+      "answer": 0,
+      "explanation": { "en": "Identical twins share the same genes and sex; fraternal twins can be different sexes.", "bm": "Kembar seiras berkongsi gen dan jantina yang sama; kembar tak seiras boleh berlainan jantina." } },
+    { "id": "bio-15-q08", "subtopicId": "bio-15-06", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "In vitro fertilisation (IVF) helps couples who…", "bm": "Persenyawaan in vitro (IVF) membantu pasangan yang…" },
+      "options": [ { "en": "can't conceive, e.g. due to blocked Fallopian tubes", "bm": "tidak dapat hamil, cth. akibat tiub Falopio tersumbat" }, { "en": "want to prevent pregnancy", "bm": "ingin mencegah kehamilan" }, { "en": "have high blood pressure", "bm": "mempunyai tekanan darah tinggi" }, { "en": "have kidney stones", "bm": "mempunyai batu karang" } ],
+      "answer": 0,
+      "explanation": { "en": "Eggs are fertilised in a lab dish and the embryo is placed in the uterus.", "bm": "Telur disenyawakan dalam piring makmal dan embrio dimasukkan ke dalam uterus." } },
+    { "id": "bio-15-q09", "subtopicId": "bio-15-07", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "The growth curve of humans has which shape?", "bm": "Lengkung pertumbuhan manusia berbentuk apa?" },
+      "options": [ { "en": "Sigmoid (S-shaped) with two rapid growth phases", "bm": "Sigmoid (bentuk S) dengan dua fasa pertumbuhan pesat" }, { "en": "A straight line", "bm": "Garis lurus" }, { "en": "Step-shaped", "bm": "Bentuk tangga" }, { "en": "Bell-shaped", "bm": "Bentuk loceng" } ],
+      "answer": 0,
+      "explanation": { "en": "Rapid growth in infancy and puberty. Insects show a step-shaped curve because they moult.", "bm": "Pertumbuhan pesat semasa bayi dan akil baligh. Serangga menunjukkan lengkung bentuk tangga kerana bersalin kulit." } },
+    { "id": "bio-15-q10", "subtopicId": "bio-15-07", "type": "multi", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Select ALL measurements that can show growth.", "bm": "Pilih SEMUA ukuran yang boleh menunjukkan pertumbuhan." },
+      "options": [ { "en": "Height", "bm": "Ketinggian" }, { "en": "Dry mass", "bm": "Jisim kering" }, { "en": "Fresh mass", "bm": "Jisim segar" }, { "en": "Eye colour", "bm": "Warna mata" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Dry mass is the most accurate measure (no water fluctuation) but kills the organism.", "bm": "Jisim kering ukuran paling tepat (tiada perubahan air) tetapi membunuh organisma." } }
+  ]
+}

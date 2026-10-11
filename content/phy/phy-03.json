@@ -1,0 +1,98 @@
+{
+  "chapterId": "phy-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "MEASAT satellites hover over the same spot above Malaysia all day, beaming TV and internet to your home. Why don't they fall down — and why don't they drift away?",
+      "bm": "Satelit MEASAT kelihatan pegun di atas Malaysia sepanjang hari, memancarkan TV dan internet ke rumah anda. Mengapa ia tidak jatuh — dan mengapa ia tidak hanyut?"
+    },
+    "bigIdeas": [
+      { "en": "Every mass attracts every other mass: F = Gm₁m₂/r².", "bm": "Setiap jisim menarik jisim lain: F = Gm₁m₂/r²." },
+      { "en": "Double the distance → the force falls to a quarter (inverse-square law).", "bm": "Gandakan jarak → daya menjadi suku (hukum songsang kuasa dua)." },
+      { "en": "Gravity provides the centripetal force that keeps planets and satellites in orbit.", "bm": "Graviti membekalkan daya memusat yang mengekalkan planet dan satelit dalam orbit." },
+      { "en": "Kepler's laws: elliptical orbits, equal areas in equal times, and T² ∝ r³.", "bm": "Hukum Kepler: orbit elips, luas sama dalam masa sama, dan T² ∝ r³." },
+      { "en": "Orbital speed v = √(GM/r): higher satellites move more slowly.", "bm": "Laju orbit v = √(GM/r): satelit lebih tinggi bergerak lebih perlahan." }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Gravitation", "bm": "Kegravitian" },
+        "nodes": [
+          { "label": { "en": "Newton's law", "bm": "Hukum Newton" }, "detail": { "en": "F = Gm₁m₂/r²", "bm": "F = Gm₁m₂/r²" } },
+          { "label": { "en": "Field strength", "bm": "Kekuatan medan" }, "detail": { "en": "g = GM/r²", "bm": "g = GM/r²" } },
+          { "label": { "en": "Kepler 1", "bm": "Kepler 1" }, "detail": { "en": "elliptical orbits", "bm": "orbit elips" } },
+          { "label": { "en": "Kepler 2", "bm": "Kepler 2" }, "detail": { "en": "equal areas", "bm": "luas sama" } },
+          { "label": { "en": "Kepler 3", "bm": "Kepler 3" }, "detail": { "en": "T² ∝ r³", "bm": "T² ∝ r³" } },
+          { "label": { "en": "Satellites", "bm": "Satelit" }, "detail": { "en": "v = √(GM/r)", "bm": "v = √(GM/r)" } },
+          { "label": { "en": "Escape velocity", "bm": "Halaju lepas" }, "detail": { "en": "11.2 km s⁻¹", "bm": "11.2 km s⁻¹" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Gravitational force", "bm": "Daya graviti" }, "definition": { "en": "The attractive force between any two masses.", "bm": "Daya tarikan antara mana-mana dua jisim." } },
+      { "term": { "en": "Gravitational constant", "bm": "Pemalar kegravitian" }, "definition": { "en": "G = 6.67 × 10⁻¹¹ N m² kg⁻².", "bm": "G = 6.67 × 10⁻¹¹ N m² kg⁻²." } },
+      { "term": { "en": "Centripetal force", "bm": "Daya memusat" }, "definition": { "en": "Force towards the centre that keeps an object moving in a circle.", "bm": "Daya ke arah pusat yang mengekalkan objek bergerak dalam bulatan." } },
+      { "term": { "en": "Orbital period", "bm": "Tempoh orbit" }, "definition": { "en": "Time for one complete orbit.", "bm": "Masa untuk satu orbit lengkap." } },
+      { "term": { "en": "Geostationary satellite", "bm": "Satelit geopegun" }, "definition": { "en": "Orbits above the equator with a 24-hour period, so it stays above one spot.", "bm": "Mengorbit di atas khatulistiwa dengan tempoh 24 jam, jadi kekal di atas satu tempat." } },
+      { "term": { "en": "Escape velocity", "bm": "Halaju lepas" }, "definition": { "en": "Minimum speed needed to escape a planet's gravity.", "bm": "Laju minimum untuk terlepas daripada graviti planet." } }
+    ],
+    "formulaIds": ["phy-gravitation", "phy-g-field", "phy-kepler3", "phy-orbital-speed", "phy-escape"],
+    "workedExample": {
+      "question": { "en": "Planet A orbits the Sun at radius r with a period of 1 year. Planet B orbits at 4r. Find the period of planet B.", "bm": "Planet A mengorbit Matahari pada jejari r dengan tempoh 1 tahun. Planet B mengorbit pada 4r. Cari tempoh planet B." },
+      "steps": [
+        { "en": "Kepler's third law: T² ∝ r³, so T_B²/T_A² = (r_B/r_A)³.", "bm": "Hukum Kepler ketiga: T² ∝ r³, jadi T_B²/T_A² = (r_B/r_A)³." },
+        { "en": "(r_B/r_A)³ = 4³ = 64", "bm": "(r_B/r_A)³ = 4³ = 64" },
+        { "en": "T_B² = 64 × 1² → T_B = √64 = 8", "bm": "T_B² = 64 × 1² → T_B = √64 = 8" }
+      ],
+      "answer": { "en": "8 years", "bm": "8 tahun" }
+    }
+  },
+  "questions": [
+    { "id": "phy-03-q01", "subtopicId": "phy-03-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "The distance between two masses is doubled. The gravitational force becomes…", "bm": "Jarak antara dua jisim digandakan. Daya graviti menjadi…" },
+      "options": [ { "en": "2F", "bm": "2F" }, { "en": "F/2", "bm": "F/2" }, { "en": "F/4", "bm": "F/4" }, { "en": "4F", "bm": "4F" } ],
+      "answer": 2,
+      "explanation": { "en": "F ∝ 1/r². Doubling r divides F by 2² = 4.", "bm": "F ∝ 1/r². Menggandakan r membahagi F dengan 2² = 4." } },
+    { "id": "phy-03-q02", "subtopicId": "phy-03-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the gravitational force between two 1000 kg masses 2 m apart. (G = 6.67 × 10⁻¹¹ N m² kg⁻²; type e.g. 1.5e-5)", "bm": "Cari daya graviti antara dua jisim 1000 kg yang berjarak 2 m. (G = 6.67 × 10⁻¹¹ N m² kg⁻²; taip cth. 1.5e-5)" },
+      "answer": 0.0000166750, "tolerance": 0.02, "unit": "N",
+      "explanation": { "en": "F = (6.67 × 10⁻¹¹ × 1000 × 1000) ÷ 2² = 1.67 × 10⁻⁵ N — tiny, which is why we don't feel it between everyday objects.", "bm": "F = (6.67 × 10⁻¹¹ × 1000 × 1000) ÷ 2² = 1.67 × 10⁻⁵ N — sangat kecil, sebab itu kita tidak merasainya antara objek harian." } },
+    { "id": "phy-03-q03", "subtopicId": "phy-03-01", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Earth's mass is 5.97 × 10²⁴ kg and radius 6.37 × 10⁶ m. Calculate g at the surface. (G = 6.67 × 10⁻¹¹)", "bm": "Jisim Bumi 5.97 × 10²⁴ kg dan jejari 6.37 × 10⁶ m. Hitung g di permukaan. (G = 6.67 × 10⁻¹¹)" },
+      "answer": 9.81, "tolerance": 0.02, "unit": "m s⁻²",
+      "explanation": { "en": "g = GM/R² = (6.67 × 10⁻¹¹ × 5.97 × 10²⁴) ÷ (6.37 × 10⁶)² ≈ 9.81 m s⁻².", "bm": "g = GM/R² = (6.67 × 10⁻¹¹ × 5.97 × 10²⁴) ÷ (6.37 × 10⁶)² ≈ 9.81 m s⁻²." } },
+    { "id": "phy-03-q04", "subtopicId": "phy-03-02", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "According to Kepler's first law, planets orbit the Sun in…", "bm": "Menurut hukum Kepler pertama, planet mengorbit Matahari dalam…" },
+      "options": [ { "en": "perfect circles", "bm": "bulatan sempurna" }, { "en": "ellipses with the Sun at one focus", "bm": "elips dengan Matahari di satu fokus" }, { "en": "straight lines", "bm": "garis lurus" }, { "en": "spirals", "bm": "lingkaran pilin" } ],
+      "answer": 1,
+      "explanation": { "en": "Orbits are ellipses with the Sun at one focus (most are nearly circular).", "bm": "Orbit ialah elips dengan Matahari di satu fokus (kebanyakannya hampir bulat)." } },
+    { "id": "phy-03-q05", "subtopicId": "phy-03-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Kepler's second law tells us a planet moves fastest when it is…", "bm": "Hukum Kepler kedua memberitahu planet bergerak paling laju apabila ia…" },
+      "options": [ { "en": "furthest from the Sun", "bm": "paling jauh dari Matahari" }, { "en": "at any point — speed is constant", "bm": "di mana-mana — laju malar" }, { "en": "closest to the Sun", "bm": "paling dekat dengan Matahari" }, { "en": "behind another planet", "bm": "di belakang planet lain" } ],
+      "answer": 2,
+      "explanation": { "en": "Equal areas are swept in equal times, so near the Sun the planet must cover a longer arc in the same time.", "bm": "Luas sama disapu dalam masa sama, jadi dekat Matahari planet perlu melalui lengkok lebih panjang dalam masa sama." } },
+    { "id": "phy-03-q06", "subtopicId": "phy-03-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Planet A: orbit radius r, period 1 year. Planet B: orbit radius 4r. Find the period of B in years.", "bm": "Planet A: jejari orbit r, tempoh 1 tahun. Planet B: jejari orbit 4r. Cari tempoh B dalam tahun." },
+      "answer": 8, "tolerance": 0.01, "unit": "years",
+      "explanation": { "en": "T² ∝ r³ → T_B² = 4³ = 64 → T_B = 8 years.", "bm": "T² ∝ r³ → T_B² = 4³ = 64 → T_B = 8 tahun." } },
+    { "id": "phy-03-q07", "subtopicId": "phy-03-03", "type": "multi", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Select ALL features of a geostationary satellite.", "bm": "Pilih SEMUA ciri satelit geopegun." },
+      "options": [ { "en": "Orbits above the equator", "bm": "Mengorbit di atas khatulistiwa" }, { "en": "Period of 24 hours", "bm": "Tempoh 24 jam" }, { "en": "Moves in the same direction as Earth's rotation", "bm": "Bergerak searah dengan putaran Bumi" }, { "en": "Passes over the North and South Poles", "bm": "Melalui Kutub Utara dan Selatan" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Polar orbits pass over the poles — used for weather and mapping, not geostationary.", "bm": "Orbit kutub melalui kutub — digunakan untuk cuaca dan pemetaan, bukan geopegun." } },
+    { "id": "phy-03-q08", "subtopicId": "phy-03-03", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why does a satellite in a higher orbit move more slowly?", "bm": "Mengapa satelit dalam orbit lebih tinggi bergerak lebih perlahan?" },
+      "options": [ { "en": "v = √(GM/r), so larger r gives smaller v", "bm": "v = √(GM/r), jadi r lebih besar memberi v lebih kecil" }, { "en": "There is more air resistance higher up", "bm": "Rintangan udara lebih tinggi di atas" }, { "en": "Its mass increases", "bm": "Jisimnya bertambah" }, { "en": "Gravity is stronger higher up", "bm": "Graviti lebih kuat di tempat tinggi" } ],
+      "answer": 0,
+      "explanation": { "en": "Gravity is weaker further away, so less centripetal force is available and the orbital speed is lower.", "bm": "Graviti lebih lemah apabila jauh, jadi daya memusat lebih kecil dan laju orbit lebih rendah." } },
+    { "id": "phy-03-q09", "subtopicId": "phy-03-03", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The escape velocity from Earth's surface is about…", "bm": "Halaju lepas dari permukaan Bumi ialah kira-kira…" },
+      "options": [ { "en": "7.9 km s⁻¹", "bm": "7.9 km s⁻¹" }, { "en": "11.2 km s⁻¹", "bm": "11.2 km s⁻¹" }, { "en": "3.1 km s⁻¹", "bm": "3.1 km s⁻¹" }, { "en": "30 km s⁻¹", "bm": "30 km s⁻¹" } ],
+      "answer": 1,
+      "explanation": { "en": "v = √(2GM/R) ≈ 11.2 km s⁻¹. 7.9 km s⁻¹ is the speed of a low orbit.", "bm": "v = √(2GM/R) ≈ 11.2 km s⁻¹. 7.9 km s⁻¹ ialah laju orbit rendah." } },
+    { "id": "phy-03-q10", "subtopicId": "phy-03-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "G in F = Gm₁m₂/r² is called the universal ______ constant.", "bm": "G dalam F = Gm₁m₂/r² dipanggil pemalar ______ semesta." },
+      "answer": ["gravitational", "kegravitian", "graviti"],
+      "explanation": { "en": "G = 6.67 × 10⁻¹¹ N m² kg⁻², the same everywhere in the universe.", "bm": "G = 6.67 × 10⁻¹¹ N m² kg⁻², sama di seluruh alam semesta." } }
+  ]
+}

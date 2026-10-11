@@ -1,0 +1,109 @@
+{
+  "chapterId": "bio-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A plate of nasi lemak takes about 24–72 hours to travel through 9 metres of your digestive tract. Along the way it's chewed, churned, dissolved by acid and enzymes, absorbed — and finally the leftovers leave.",
+      "bm": "Sepinggan nasi lemak mengambil masa kira-kira 24–72 jam untuk melalui 9 meter salur pencernaan anda. Dalam perjalanan ia dikunyah, dikisar, dilarutkan oleh asid dan enzim, diserap — dan akhirnya sisanya dikeluarkan."
+    },
+    "bigIdeas": [
+      { "en": "Digestion breaks large food molecules into small soluble ones the body can absorb.", "bm": "Pencernaan memecahkan molekul makanan besar kepada molekul kecil terlarut yang boleh diserap badan." },
+      { "en": "Physical digestion (chewing, churning) + chemical digestion (enzymes).", "bm": "Pencernaan fizikal (mengunyah, mengisar) + pencernaan kimia (enzim)." },
+      { "en": "Villi in the small intestine absorb nutrients into blood and lymph.", "bm": "Vilus dalam usus kecil menyerap nutrien ke dalam darah dan limfa." },
+      { "en": "Assimilation uses nutrients in cells; defecation removes undigested waste.", "bm": "Asimilasi menggunakan nutrien dalam sel; penyahtinjaan menyingkir sisa tidak tercerna." },
+      { "en": "A balanced diet prevents diseases like obesity, diabetes and gastritis.", "bm": "Gizi seimbang mencegah penyakit seperti obesiti, diabetes dan gastritis." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "Mouth", "bm": "Mulut" }, "detail": { "en": "chewing; salivary amylase: starch → maltose", "bm": "mengunyah; amilase liur: kanji → maltosa" } },
+          { "title": { "en": "Oesophagus", "bm": "Esofagus" }, "detail": { "en": "peristalsis pushes the bolus", "bm": "peristalsis menolak bolus" } },
+          { "title": { "en": "Stomach", "bm": "Perut" }, "detail": { "en": "HCl + pepsin: protein → polypeptides", "bm": "HCl + pepsin: protein → polipeptida" } },
+          { "title": { "en": "Duodenum", "bm": "Duodenum" }, "detail": { "en": "bile emulsifies fat; pancreatic enzymes", "bm": "hempedu mengemulsikan lemak; enzim pankreas" } },
+          { "title": { "en": "Ileum", "bm": "Ileum" }, "detail": { "en": "final digestion; absorption by villi", "bm": "pencernaan akhir; penyerapan oleh vilus" } },
+          { "title": { "en": "Large intestine", "bm": "Usus besar" }, "detail": { "en": "water reabsorbed; faeces formed", "bm": "air diserap semula; tinja terbentuk" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Digestion", "bm": "Pencernaan" }, "definition": { "en": "Breaking down complex food into simple soluble molecules.", "bm": "Penguraian makanan kompleks kepada molekul ringkas terlarut." } },
+      { "term": { "en": "Peristalsis", "bm": "Peristalsis" }, "definition": { "en": "Wave-like muscle contractions that push food along the gut.", "bm": "Pengecutan otot seperti gelombang yang menolak makanan sepanjang salur." } },
+      { "term": { "en": "Bile", "bm": "Hempedu" }, "definition": { "en": "Made in the liver; emulsifies fats and neutralises stomach acid.", "bm": "Dihasilkan oleh hati; mengemulsikan lemak dan meneutralkan asid perut." } },
+      { "term": { "en": "Villus", "bm": "Vilus" }, "definition": { "en": "Finger-like projection of the ileum wall that absorbs digested food.", "bm": "Unjuran seperti jari pada dinding ileum yang menyerap makanan tercerna." } },
+      { "term": { "en": "Lacteal", "bm": "Lakteal" }, "definition": { "en": "Lymph vessel in a villus that absorbs fatty acids and glycerol.", "bm": "Salur limfa dalam vilus yang menyerap asid lemak dan gliserol." } },
+      { "term": { "en": "Assimilation", "bm": "Asimilasi" }, "definition": { "en": "Using absorbed nutrients to build or fuel cells.", "bm": "Menggunakan nutrien yang diserap untuk membina atau membekalkan tenaga kepada sel." } },
+      { "term": { "en": "Balanced diet", "bm": "Gizi seimbang" }, "definition": { "en": "All food classes in the right proportions for a person's needs.", "bm": "Semua kelas makanan dalam kadar yang betul mengikut keperluan seseorang." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Trace the digestion of a protein from egg white to amino acids.", "bm": "Jejak pencernaan protein putih telur hingga asid amino." },
+      "steps": [
+        { "en": "Stomach: pepsin (pH 2) hydrolyses protein → polypeptides. Rennin coagulates milk protein (in babies).", "bm": "Perut: pepsin (pH 2) menghidrolisis protein → polipeptida. Renin mengentalkan protein susu (pada bayi)." },
+        { "en": "Duodenum: trypsin from the pancreas (pH 8) → polypeptides into peptides.", "bm": "Duodenum: tripsin dari pankreas (pH 8) → polipeptida kepada peptida." },
+        { "en": "Ileum: erepsin (peptidase) → peptides into amino acids.", "bm": "Ileum: erepsin (peptidase) → peptida kepada asid amino." },
+        { "en": "Amino acids are absorbed into blood capillaries of the villi.", "bm": "Asid amino diserap ke dalam kapilari darah vilus." }
+      ],
+      "answer": { "en": "Pepsin → trypsin → erepsin; amino acids absorbed into the blood.", "bm": "Pepsin → tripsin → erepsin; asid amino diserap ke dalam darah." }
+    }
+  },
+  "questions": [
+    { "id": "bio-09-q01", "subtopicId": "bio-09-01", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Arrange the parts of the digestive tract in the order food passes through.", "bm": "Susun bahagian salur pencernaan mengikut urutan makanan melaluinya." },
+      "items": [ { "en": "Mouth", "bm": "Mulut" }, { "en": "Oesophagus", "bm": "Esofagus" }, { "en": "Stomach", "bm": "Perut" }, { "en": "Small intestine", "bm": "Usus kecil" }, { "en": "Large intestine", "bm": "Usus besar" }, { "en": "Anus", "bm": "Dubur" } ],
+      "explanation": { "en": "The liver, gall bladder and pancreas are accessory organs — food doesn't pass through them.", "bm": "Hati, pundi hempedu dan pankreas ialah organ aksesori — makanan tidak melaluinya." } },
+    { "id": "bio-09-q02", "subtopicId": "bio-09-02", "type": "match", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Match each enzyme to what it digests.", "bm": "Padankan setiap enzim dengan apa yang dicernakannya." },
+      "pairs": [
+        { "left": { "en": "Salivary amylase", "bm": "Amilase liur" }, "right": { "en": "Starch → maltose", "bm": "Kanji → maltosa" } },
+        { "left": { "en": "Pepsin", "bm": "Pepsin" }, "right": { "en": "Protein → polypeptides", "bm": "Protein → polipeptida" } },
+        { "left": { "en": "Lipase", "bm": "Lipase" }, "right": { "en": "Lipids → fatty acids + glycerol", "bm": "Lipid → asid lemak + gliserol" } },
+        { "left": { "en": "Maltase", "bm": "Maltase" }, "right": { "en": "Maltose → glucose", "bm": "Maltosa → glukosa" } }
+      ],
+      "explanation": { "en": "Final products: glucose, amino acids, fatty acids and glycerol.", "bm": "Hasil akhir: glukosa, asid amino, asid lemak dan gliserol." } },
+    { "id": "bio-09-q03", "subtopicId": "bio-09-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What is the role of bile in digestion?", "bm": "Apakah peranan hempedu dalam pencernaan?" },
+      "options": [ { "en": "Emulsifies fats into small droplets", "bm": "Mengemulsikan lemak kepada titisan kecil" }, { "en": "Digests protein", "bm": "Mencerna protein" }, { "en": "Makes the stomach acidic", "bm": "Menjadikan perut berasid" }, { "en": "Absorbs water", "bm": "Menyerap air" } ],
+      "answer": 0,
+      "explanation": { "en": "Bile has no enzymes; it increases the surface area of fats for lipase and neutralises acidic chyme.", "bm": "Hempedu tiada enzim; ia menambah luas permukaan lemak untuk lipase dan meneutralkan kim berasid." } },
+    { "id": "bio-09-q04", "subtopicId": "bio-09-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Why does the stomach secrete hydrochloric acid?", "bm": "Mengapa perut merembes asid hidroklorik?" },
+      "options": [ { "en": "To give pepsin its optimum pH and kill bacteria", "bm": "Untuk memberi pH optimum kepada pepsin dan membunuh bakteria" }, { "en": "To digest starch", "bm": "Untuk mencerna kanji" }, { "en": "To absorb glucose", "bm": "Untuk menyerap glukosa" }, { "en": "To make bile", "bm": "Untuk menghasilkan hempedu" } ],
+      "answer": 0,
+      "explanation": { "en": "pH about 2 activates pepsin and kills most microorganisms in food.", "bm": "pH kira-kira 2 mengaktifkan pepsin dan membunuh kebanyakan mikroorganisma dalam makanan." } },
+    { "id": "bio-09-q05", "subtopicId": "bio-09-03", "type": "multi", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Select ALL adaptations of the villi for absorption.", "bm": "Pilih SEMUA penyesuaian vilus untuk penyerapan." },
+      "options": [ { "en": "Wall one cell thick", "bm": "Dinding setebal satu sel" }, { "en": "Microvilli increase surface area", "bm": "Mikrovilus menambah luas permukaan" }, { "en": "Rich network of blood capillaries", "bm": "Rangkaian kapilari darah yang padat" }, { "en": "Covered in a thick layer of cartilage", "bm": "Diliputi lapisan rawan tebal" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Each villus also has a lacteal to absorb fatty acids and glycerol.", "bm": "Setiap vilus juga mempunyai lakteal untuk menyerap asid lemak dan gliserol." } },
+    { "id": "bio-09-q06", "subtopicId": "bio-09-03", "type": "mcq", "difficulty": 2, "tp": 2,
+      "prompt": { "en": "Fatty acids and glycerol are absorbed into the…", "bm": "Asid lemak dan gliserol diserap ke dalam…" },
+      "options": [ { "en": "lacteal", "bm": "lakteal" }, { "en": "blood capillaries", "bm": "kapilari darah" }, { "en": "stomach wall", "bm": "dinding perut" }, { "en": "gall bladder", "bm": "pundi hempedu" } ],
+      "answer": 0,
+      "explanation": { "en": "They form tiny fat droplets and enter the lymphatic system via the lacteal.", "bm": "Ia membentuk titisan lemak kecil dan memasuki sistem limfa melalui lakteal." } },
+    { "id": "bio-09-q07", "subtopicId": "bio-09-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "What happens to excess amino acids in the liver?", "bm": "Apakah yang berlaku kepada asid amino berlebihan dalam hati?" },
+      "options": [ { "en": "Deamination — converted to urea", "bm": "Deaminasi — ditukar kepada urea" }, { "en": "Stored as glycogen", "bm": "Disimpan sebagai glikogen" }, { "en": "Stored as protein in the liver", "bm": "Disimpan sebagai protein dalam hati" }, { "en": "Removed in faeces", "bm": "Disingkirkan dalam tinja" } ],
+      "answer": 0,
+      "explanation": { "en": "The body can't store amino acids; the amino group becomes urea, excreted by the kidneys.", "bm": "Badan tidak boleh menyimpan asid amino; kumpulan amino menjadi urea yang dikumuh oleh ginjal." } },
+    { "id": "bio-09-q08", "subtopicId": "bio-09-05", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A diet low in fibre often leads to…", "bm": "Diet rendah serat sering menyebabkan…" },
+      "options": [ { "en": "constipation", "bm": "sembelit" }, { "en": "scurvy", "bm": "skurvi" }, { "en": "anaemia", "bm": "anemia" }, { "en": "goitre", "bm": "goiter" } ],
+      "answer": 0,
+      "explanation": { "en": "Fibre adds bulk and stimulates peristalsis, helping defecation.", "bm": "Serat menambah pukal dan merangsang peristalsis, membantu penyahtinjaan." } },
+    { "id": "bio-09-q09", "subtopicId": "bio-09-06", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each deficiency to the disease.", "bm": "Padankan setiap kekurangan dengan penyakit." },
+      "pairs": [
+        { "left": { "en": "Vitamin C", "bm": "Vitamin C" }, "right": { "en": "Scurvy", "bm": "Skurvi" } },
+        { "left": { "en": "Iron", "bm": "Ferum" }, "right": { "en": "Anaemia", "bm": "Anemia" } },
+        { "left": { "en": "Iodine", "bm": "Iodin" }, "right": { "en": "Goitre", "bm": "Goiter" } },
+        { "left": { "en": "Vitamin D / calcium", "bm": "Vitamin D / kalsium" }, "right": { "en": "Rickets", "bm": "Riket" } }
+      ],
+      "explanation": { "en": "A balanced diet includes all seven classes: carbohydrates, proteins, fats, vitamins, minerals, fibre and water.", "bm": "Gizi seimbang merangkumi tujuh kelas: karbohidrat, protein, lemak, vitamin, mineral, serat dan air." } },
+    { "id": "bio-09-q10", "subtopicId": "bio-09-07", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Why can skipping meals lead to gastritis?", "bm": "Mengapa melangkau waktu makan boleh menyebabkan gastritis?" },
+      "options": [ { "en": "Acid continues to be secreted and irritates the empty stomach lining", "bm": "Asid terus dirembes dan merengsa dinding perut yang kosong" }, { "en": "The stomach stops producing acid", "bm": "Perut berhenti menghasilkan asid" }, { "en": "Bile flows into the mouth", "bm": "Hempedu mengalir ke mulut" }, { "en": "The villi absorb too much", "bm": "Vilus menyerap terlalu banyak" } ],
+      "answer": 0,
+      "explanation": { "en": "Regular meals, less spicy food and stress management help prevent gastritis. Helicobacter pylori infection is another cause.", "bm": "Makan berkala, kurangkan makanan pedas dan mengurus tekanan membantu mencegah gastritis. Jangkitan Helicobacter pylori juga penyebabnya." } }
+  ]
+}

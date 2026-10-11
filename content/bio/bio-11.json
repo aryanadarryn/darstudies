@@ -1,0 +1,102 @@
+{
+  "chapterId": "bio-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every day you touch, breathe and eat millions of germs, yet you rarely fall sick. When you got your measles vaccine as a baby, your body learned to fight a disease it had never met. That is your immune system at work.",
+      "bm": "Setiap hari anda menyentuh, menghidu dan memakan berjuta-juta kuman, namun jarang jatuh sakit. Apabila anda menerima vaksin campak semasa bayi, badan belajar melawan penyakit yang tidak pernah ditemuinya. Itulah sistem imun anda bekerja."
+    },
+    "bigIdeas": [
+      { "en": "The body has three lines of defence: barriers, non-specific responses, and specific immunity.", "bm": "Badan mempunyai tiga barisan pertahanan: penghalang, gerak balas tidak spesifik, dan keimunan spesifik." },
+      { "en": "Lymphocytes make antibodies that match specific antigens.", "bm": "Limfosit menghasilkan antibodi yang sepadan dengan antigen tertentu." },
+      { "en": "Immunity can be active or passive, natural or artificial.", "bm": "Keimunan boleh aktif atau pasif, semula jadi atau buatan." },
+      { "en": "AIDS, allergies and autoimmune diseases happen when the immune system fails or overreacts.", "bm": "AIDS, alahan dan penyakit autoimun berlaku apabila sistem imun gagal atau bertindak berlebihan." }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          { "title": { "en": "1st line: barriers", "bm": "Barisan 1: penghalang" }, "detail": { "en": "skin, mucus, cilia, stomach acid, tears (lysozyme)", "bm": "kulit, mukus, silia, asid perut, air mata (lisozim)" } },
+          { "title": { "en": "2nd line: non-specific", "bm": "Barisan 2: tidak spesifik" }, "detail": { "en": "phagocytosis, inflammation, fever", "bm": "fagositosis, keradangan, demam" } },
+          { "title": { "en": "3rd line: specific", "bm": "Barisan 3: spesifik" }, "detail": { "en": "lymphocytes, antibodies, memory cells", "bm": "limfosit, antibodi, sel ingatan" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Pathogen", "bm": "Patogen" }, "definition": { "en": "Microorganism that causes disease.", "bm": "Mikroorganisma yang menyebabkan penyakit." } },
+      { "term": { "en": "Antigen", "bm": "Antigen" }, "definition": { "en": "Foreign molecule that triggers antibody production.", "bm": "Molekul asing yang mencetuskan penghasilan antibodi." } },
+      { "term": { "en": "Antibody", "bm": "Antibodi" }, "definition": { "en": "Y-shaped protein made by lymphocytes that binds a specific antigen.", "bm": "Protein berbentuk Y yang dihasilkan limfosit dan terikat pada antigen tertentu." } },
+      { "term": { "en": "Phagocytosis", "bm": "Fagositosis" }, "definition": { "en": "Engulfing and digesting pathogens by phagocytes (neutrophils, monocytes).", "bm": "Penelanan dan pencernaan patogen oleh fagosit (neutrofil, monosit)." } },
+      { "term": { "en": "Vaccine", "bm": "Vaksin" }, "definition": { "en": "Weakened or dead pathogen (or part of it) that triggers immunity without disease.", "bm": "Patogen yang dilemahkan atau mati (atau sebahagiannya) yang mencetuskan keimunan tanpa penyakit." } },
+      { "term": { "en": "Memory cell", "bm": "Sel ingatan" }, "definition": { "en": "Lymphocyte that remembers an antigen for a faster response next time.", "bm": "Limfosit yang mengingati antigen untuk gerak balas lebih cepat pada masa akan datang." } }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": { "en": "Explain why a second dose (booster) of a vaccine gives better protection.", "bm": "Terangkan mengapa dos kedua (penggalak) vaksin memberi perlindungan lebih baik." },
+      "steps": [
+        { "en": "First dose: lymphocytes respond slowly; antibody level rises a little, then falls (primary response).", "bm": "Dos pertama: limfosit bergerak balas perlahan; aras antibodi naik sedikit, kemudian turun (gerak balas primer)." },
+        { "en": "Memory cells are formed and remain in the body.", "bm": "Sel ingatan terbentuk dan kekal dalam badan." },
+        { "en": "Booster: memory cells respond quickly, making many more antibodies that stay above the immunity level longer (secondary response).", "bm": "Penggalak: sel ingatan bergerak balas pantas, menghasilkan lebih banyak antibodi yang kekal melebihi aras keimunan lebih lama (gerak balas sekunder)." }
+      ],
+      "answer": { "en": "Memory cells give a faster, stronger, longer-lasting antibody response.", "bm": "Sel ingatan memberi gerak balas antibodi yang lebih cepat, kuat dan tahan lama." }
+    }
+  },
+  "questions": [
+    { "id": "bio-11-q01", "subtopicId": "bio-11-01", "type": "multi", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Select ALL parts of the FIRST line of defence.", "bm": "Pilih SEMUA bahagian barisan pertahanan PERTAMA." },
+      "options": [ { "en": "Intact skin", "bm": "Kulit yang tidak luka" }, { "en": "Mucus and cilia in the airways", "bm": "Mukus dan silia dalam saluran udara" }, { "en": "Hydrochloric acid in the stomach", "bm": "Asid hidroklorik dalam perut" }, { "en": "Antibodies", "bm": "Antibodi" } ],
+      "answer": [0, 1, 2],
+      "explanation": { "en": "Antibodies belong to the third (specific) line of defence.", "bm": "Antibodi tergolong dalam barisan ketiga (spesifik)." } },
+    { "id": "bio-11-q02", "subtopicId": "bio-11-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which white blood cells engulf and digest bacteria?", "bm": "Sel darah putih manakah menelan dan mencerna bakteria?" },
+      "options": [ { "en": "Neutrophils (phagocytes)", "bm": "Neutrofil (fagosit)" }, { "en": "Red blood cells", "bm": "Sel darah merah" }, { "en": "Platelets", "bm": "Platlet" }, { "en": "Plasma cells only", "bm": "Sel plasma sahaja" } ],
+      "answer": 0,
+      "explanation": { "en": "Phagocytosis is part of the second, non-specific line of defence.", "bm": "Fagositosis ialah sebahagian barisan kedua yang tidak spesifik." } },
+    { "id": "bio-11-q03", "subtopicId": "bio-11-01", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Put the steps of phagocytosis in order.", "bm": "Susun langkah fagositosis." },
+      "items": [ { "en": "Phagocyte moves towards the bacterium", "bm": "Fagosit bergerak ke arah bakteria" }, { "en": "Bacterium is engulfed into a phagosome", "bm": "Bakteria ditelan ke dalam fagosom" }, { "en": "Lysosome fuses with the phagosome", "bm": "Lisosom bercantum dengan fagosom" }, { "en": "Lysozyme digests the bacterium", "bm": "Lisozim mencerna bakteria" } ],
+      "explanation": { "en": "Harmless products are absorbed or released from the cell.", "bm": "Hasil yang tidak berbahaya diserap atau dibebaskan dari sel." } },
+    { "id": "bio-11-q04", "subtopicId": "bio-11-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Antibodies that make bacteria clump together act by…", "bm": "Antibodi yang menyebabkan bakteria bergumpal bertindak melalui…" },
+      "options": [ { "en": "agglutination", "bm": "aglutinasi" }, { "en": "neutralisation", "bm": "peneutralan" }, { "en": "lysis", "bm": "lisis" }, { "en": "opsonisation", "bm": "opsonisasi" } ],
+      "answer": 0,
+      "explanation": { "en": "Clumped bacteria are easier for phagocytes to engulf.", "bm": "Bakteria yang bergumpal lebih mudah ditelan fagosit." } },
+    { "id": "bio-11-q05", "subtopicId": "bio-11-02", "type": "match", "difficulty": 3, "tp": 3,
+      "prompt": { "en": "Match each antibody action to what it does.", "bm": "Padankan setiap tindakan antibodi dengan fungsinya." },
+      "pairs": [
+        { "left": { "en": "Neutralisation", "bm": "Peneutralan" }, "right": { "en": "Blocks toxins from harming cells", "bm": "Menyekat toksin daripada merosakkan sel" } },
+        { "left": { "en": "Agglutination", "bm": "Aglutinasi" }, "right": { "en": "Clumps pathogens together", "bm": "Menggumpalkan patogen" } },
+        { "left": { "en": "Lysis", "bm": "Lisis" }, "right": { "en": "Bursts the pathogen's cell membrane", "bm": "Memecahkan membran sel patogen" } },
+        { "left": { "en": "Opsonisation", "bm": "Opsonisasi" }, "right": { "en": "Marks pathogens for phagocytes", "bm": "Menanda patogen untuk fagosit" } }
+      ],
+      "explanation": { "en": "Antibodies are specific — each fits one antigen shape.", "bm": "Antibodi adalah spesifik — setiap satu sepadan dengan satu bentuk antigen." } },
+    { "id": "bio-11-q06", "subtopicId": "bio-11-03", "type": "match", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Match each example to the type of immunity.", "bm": "Padankan setiap contoh dengan jenis keimunan." },
+      "pairs": [
+        { "left": { "en": "Recovering from chickenpox", "bm": "Sembuh daripada cacar air" }, "right": { "en": "Natural active", "bm": "Aktif semula jadi" } },
+        { "left": { "en": "Getting a measles vaccine", "bm": "Menerima vaksin campak" }, "right": { "en": "Artificial active", "bm": "Aktif buatan" } },
+        { "left": { "en": "Baby receiving antibodies in breast milk", "bm": "Bayi menerima antibodi melalui susu ibu" }, "right": { "en": "Natural passive", "bm": "Pasif semula jadi" } },
+        { "left": { "en": "Anti-venom injection after a snake bite", "bm": "Suntikan antibisa selepas dipatuk ular" }, "right": { "en": "Artificial passive", "bm": "Pasif buatan" } }
+      ],
+      "explanation": { "en": "Active = body makes its own antibodies (long-lasting). Passive = antibodies given (short-term).", "bm": "Aktif = badan menghasilkan antibodi sendiri (tahan lama). Pasif = antibodi diberikan (jangka pendek)." } },
+    { "id": "bio-11-q07", "subtopicId": "bio-11-03", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Why is anti-venom used for snake bites instead of a vaccine?", "bm": "Mengapa antibisa digunakan untuk patukan ular dan bukan vaksin?" },
+      "options": [ { "en": "Ready-made antibodies act immediately; a vaccine takes days to work", "bm": "Antibodi sedia ada bertindak serta-merta; vaksin mengambil masa beberapa hari" }, { "en": "Vaccines are more expensive", "bm": "Vaksin lebih mahal" }, { "en": "Venom has no antigens", "bm": "Bisa tiada antigen" }, { "en": "Anti-venom gives lifelong immunity", "bm": "Antibisa memberi keimunan seumur hidup" } ],
+      "answer": 0,
+      "explanation": { "en": "Passive immunity is fast but short-lived because no memory cells are made.", "bm": "Keimunan pasif cepat tetapi singkat kerana tiada sel ingatan dihasilkan." } },
+    { "id": "bio-11-q08", "subtopicId": "bio-11-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "HIV causes AIDS by destroying…", "bm": "HIV menyebabkan AIDS dengan memusnahkan…" },
+      "options": [ { "en": "T-helper lymphocytes", "bm": "Limfosit T-pembantu" }, { "en": "red blood cells", "bm": "sel darah merah" }, { "en": "platelets", "bm": "platlet" }, { "en": "skin cells", "bm": "sel kulit" } ],
+      "answer": 0,
+      "explanation": { "en": "Without T-helper cells the immune system can't coordinate, so infections become deadly.", "bm": "Tanpa sel T-pembantu, sistem imun tidak dapat diselaraskan, jadi jangkitan menjadi maut." } },
+    { "id": "bio-11-q09", "subtopicId": "bio-11-04", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "An allergy is…", "bm": "Alahan ialah…" },
+      "options": [ { "en": "an overreaction of the immune system to a harmless substance", "bm": "tindak balas berlebihan sistem imun terhadap bahan yang tidak berbahaya" }, { "en": "a lack of white blood cells", "bm": "kekurangan sel darah putih" }, { "en": "a bacterial infection", "bm": "jangkitan bakteria" }, { "en": "the immune system attacking its own cells", "bm": "sistem imun menyerang sel sendiri" } ],
+      "answer": 0,
+      "explanation": { "en": "Allergens like dust mites, pollen or peanuts trigger histamine release. Attacking its own cells is autoimmunity (e.g. lupus).", "bm": "Alergen seperti hama habuk, debunga atau kacang mencetuskan pembebasan histamina. Menyerang sel sendiri ialah autoimun (cth. lupus)." } },
+    { "id": "bio-11-q10", "subtopicId": "bio-11-02", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "The Y-shaped proteins made by lymphocytes are called ______.", "bm": "Protein berbentuk Y yang dihasilkan limfosit dipanggil ______." },
+      "answer": ["antibodies", "antibody", "antibodi"],
+      "explanation": { "en": "Each antibody has binding sites that fit one specific antigen.", "bm": "Setiap antibodi mempunyai tapak pengikatan yang sepadan dengan satu antigen tertentu." } }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "chapterId": "math-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two students both average 70% in tests. One always scores 68–72; the other swings between 40 and 100. Same mean, very different stories! Measures of dispersion tell you how spread out — how consistent — data is.",
+      "bm": "Dua pelajar sama-sama mendapat purata 70% dalam ujian. Seorang sentiasa mendapat 68–72; seorang lagi berubah antara 40 dan 100. Min yang sama, cerita yang sangat berbeza! Sukatan serakan memberitahu betapa tersebarnya — betapa konsistennya — data."
+    },
+    "bigIdeas": [
+      { "en": "Dispersion measures how spread out data is around its centre.", "bm": "Serakan mengukur betapa tersebarnya data di sekitar pusatnya." },
+      { "en": "Range = largest − smallest; IQR = Q3 − Q1 (middle 50%).", "bm": "Julat = terbesar − terkecil; julat antara kuartil = Q3 − Q1 (50% di tengah)." },
+      { "en": "Variance and standard deviation use every value; SD is in the same unit as the data.", "bm": "Varians dan sisihan piawai menggunakan setiap nilai; sisihan piawai dalam unit yang sama dengan data." },
+      { "en": "Smaller dispersion = more consistent data. Outliers strongly affect range and SD.", "bm": "Serakan lebih kecil = data lebih konsisten. Pencilan sangat mempengaruhi julat dan sisihan piawai." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Measure", "bm": "Sukatan" }, { "en": "Formula", "bm": "Rumus" }, { "en": "Affected by outliers?", "bm": "Dipengaruhi pencilan?" } ],
+        "rows": [
+          { "label": { "en": "Range", "bm": "Julat" }, "cells": [ { "en": "max − min", "bm": "maks − min" }, { "en": "a lot", "bm": "sangat" } ] },
+          { "label": { "en": "IQR", "bm": "Julat antara kuartil" }, "cells": [ { "en": "Q3 − Q1", "bm": "Q3 − Q1" }, { "en": "hardly", "bm": "hampir tidak" } ] },
+          { "label": { "en": "Variance", "bm": "Varians" }, "cells": [ { "en": "Σx²/N − x̄²", "bm": "Σx²/N − x̄²" }, { "en": "yes", "bm": "ya" } ] },
+          { "label": { "en": "Standard deviation", "bm": "Sisihan piawai" }, "cells": [ { "en": "√variance", "bm": "√varians" }, { "en": "yes", "bm": "ya" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Dispersion", "bm": "Serakan" }, "definition": { "en": "How spread out a set of data is.", "bm": "Betapa tersebarnya satu set data." } },
+      { "term": { "en": "Range", "bm": "Julat" }, "definition": { "en": "Largest value − smallest value.", "bm": "Nilai terbesar − nilai terkecil." } },
+      { "term": { "en": "Quartiles", "bm": "Kuartil" }, "definition": { "en": "Q1, Q2 (median), Q3 split ordered data into four equal parts.", "bm": "Q1, Q2 (median), Q3 membahagikan data tersusun kepada empat bahagian sama." } },
+      { "term": { "en": "Variance", "bm": "Varians" }, "definition": { "en": "Mean of the squared distances from the mean.", "bm": "Min bagi kuasa dua jarak dari min." } },
+      { "term": { "en": "Standard deviation", "bm": "Sisihan piawai" }, "definition": { "en": "Square root of the variance.", "bm": "Punca kuasa dua varians." } },
+      { "term": { "en": "Outlier", "bm": "Pencilan" }, "definition": { "en": "A value far away from the rest of the data.", "bm": "Nilai yang jauh daripada data lain." } }
+    ],
+    "formulaIds": ["math-iqr", "math-variance", "math-sd"],
+    "workedExample": {
+      "question": { "en": "Find the mean, variance and standard deviation of 2, 4, 4, 4, 5, 5, 7, 9.", "bm": "Cari min, varians dan sisihan piawai bagi 2, 4, 4, 4, 5, 5, 7, 9." },
+      "steps": [
+        { "en": "Mean x̄ = 40 ÷ 8 = 5.", "bm": "Min x̄ = 40 ÷ 8 = 5." },
+        { "en": "Σx² = 4 + 16 + 16 + 16 + 25 + 25 + 49 + 81 = 232.", "bm": "Σx² = 4 + 16 + 16 + 16 + 25 + 25 + 49 + 81 = 232." },
+        { "en": "Variance = 232/8 − 5² = 29 − 25 = 4.", "bm": "Varians = 232/8 − 5² = 29 − 25 = 4." },
+        { "en": "SD = √4 = 2.", "bm": "Sisihan piawai = √4 = 2." }
+      ],
+      "answer": { "en": "Mean 5, variance 4, standard deviation 2", "bm": "Min 5, varians 4, sisihan piawai 2" }
+    }
+  },
+  "questions": [
+    { "id": "math-08-q01", "subtopicId": "math-08-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Set P: 68, 70, 72. Set Q: 40, 70, 100. Which statement is true?", "bm": "Set P: 68, 70, 72. Set Q: 40, 70, 100. Pernyataan manakah benar?" },
+      "options": [ { "en": "Both have the same mean, but Q is more dispersed", "bm": "Kedua-duanya mempunyai min yang sama, tetapi Q lebih terserak" }, { "en": "P has a larger mean", "bm": "P mempunyai min lebih besar" }, { "en": "Both have the same dispersion", "bm": "Kedua-duanya mempunyai serakan yang sama" }, { "en": "P is more dispersed", "bm": "P lebih terserak" } ],
+      "answer": 0,
+      "explanation": { "en": "Both means are 70; Q's range (60) is much larger than P's (4).", "bm": "Kedua-dua min ialah 70; julat Q (60) jauh lebih besar daripada P (4)." } },
+    { "id": "math-08-q02", "subtopicId": "math-08-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "A smaller measure of dispersion means the data is…", "bm": "Sukatan serakan yang lebih kecil bermakna data…" },
+      "options": [ { "en": "more consistent", "bm": "lebih konsisten" }, { "en": "larger", "bm": "lebih besar" }, { "en": "less accurate", "bm": "kurang tepat" }, { "en": "more spread out", "bm": "lebih tersebar" } ],
+      "answer": 0,
+      "explanation": { "en": "Values cluster closely around the centre.", "bm": "Nilai-nilai berkumpul rapat di sekitar pusat." } },
+    { "id": "math-08-q03", "subtopicId": "math-08-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Find the range of 12, 7, 19, 3, 15.", "bm": "Cari julat bagi 12, 7, 19, 3, 15." },
+      "answer": 16, "tolerance": 0,
+      "explanation": { "en": "19 − 3 = 16.", "bm": "19 − 3 = 16." } },
+    { "id": "math-08-q04", "subtopicId": "math-08-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the interquartile range of 1, 3, 5, 7, 9, 11, 13.", "bm": "Cari julat antara kuartil bagi 1, 3, 5, 7, 9, 11, 13." },
+      "answer": 8, "tolerance": 0,
+      "explanation": { "en": "7 values: Q1 = 2nd value = 3, Q3 = 6th value = 11. IQR = 11 − 3 = 8.", "bm": "7 nilai: Q1 = nilai ke-2 = 3, Q3 = nilai ke-6 = 11. JAK = 11 − 3 = 8." } },
+    { "id": "math-08-q05", "subtopicId": "math-08-02", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Find the variance of 2, 4, 4, 4, 5, 5, 7, 9.", "bm": "Cari varians bagi 2, 4, 4, 4, 5, 5, 7, 9." },
+      "answer": 4, "tolerance": 0,
+      "explanation": { "en": "x̄ = 5, Σx² = 232. Variance = 232/8 − 25 = 4.", "bm": "x̄ = 5, Σx² = 232. Varians = 232/8 − 25 = 4." } },
+    { "id": "math-08-q06", "subtopicId": "math-08-02", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A data set has variance 9. What is its standard deviation?", "bm": "Satu set data mempunyai varians 9. Berapakah sisihan piawainya?" },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "SD = √variance = √9 = 3.", "bm": "Sisihan piawai = √varians = √9 = 3." } },
+    { "id": "math-08-q07", "subtopicId": "math-08-02", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "Data: 3, 5, 7. Find the standard deviation (2 d.p.).", "bm": "Data: 3, 5, 7. Cari sisihan piawai (2 t.p.)." },
+      "answer": 1.63, "tolerance": 0.005,
+      "explanation": { "en": "x̄ = 5, Σx² = 83. Variance = 83/3 − 25 = 8/3. SD = √(8/3) ≈ 1.63.", "bm": "x̄ = 5, Σx² = 83. Varians = 83/3 − 25 = 8/3. Sisihan piawai = √(8/3) ≈ 1.63." } },
+    { "id": "math-08-q08", "subtopicId": "math-08-02", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Every value in a data set is increased by 5. What happens to the standard deviation?", "bm": "Setiap nilai dalam satu set data ditambah 5. Apakah yang berlaku kepada sisihan piawai?" },
+      "options": [ { "en": "It stays the same", "bm": "Ia kekal sama" }, { "en": "It increases by 5", "bm": "Ia bertambah 5" }, { "en": "It is multiplied by 5", "bm": "Ia didarab dengan 5" }, { "en": "It increases by 25", "bm": "Ia bertambah 25" } ],
+      "answer": 0,
+      "explanation": { "en": "The mean shifts by 5 but the spread doesn't change. (Multiplying every value by k multiplies SD by k.)", "bm": "Min beralih sebanyak 5 tetapi serakan tidak berubah. (Mendarab setiap nilai dengan k mendarab sisihan piawai dengan k.)" } },
+    { "id": "math-08-q09", "subtopicId": "math-08-02", "type": "mcq", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Which measure of dispersion is LEAST affected by an outlier?", "bm": "Sukatan serakan manakah PALING KURANG dipengaruhi pencilan?" },
+      "options": [ { "en": "Interquartile range", "bm": "Julat antara kuartil" }, { "en": "Range", "bm": "Julat" }, { "en": "Variance", "bm": "Varians" }, { "en": "Standard deviation", "bm": "Sisihan piawai" } ],
+      "answer": 0,
+      "explanation": { "en": "IQR ignores the top and bottom 25%, where outliers sit.", "bm": "JAK mengabaikan 25% teratas dan terbawah, tempat pencilan berada." } },
+    { "id": "math-08-q10", "subtopicId": "math-08-02", "type": "order", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Order the steps to find the standard deviation.", "bm": "Susun langkah mencari sisihan piawai." },
+      "items": [ { "en": "Find the mean x̄", "bm": "Cari min x̄" }, { "en": "Find Σx²", "bm": "Cari Σx²" }, { "en": "Variance = Σx²/N − x̄²", "bm": "Varians = Σx²/N − x̄²" }, { "en": "Take the square root", "bm": "Ambil punca kuasa dua" } ],
+      "explanation": { "en": "Use the calculator's STAT mode to check your answer.", "bm": "Gunakan mod STAT kalkulator untuk menyemak jawapan." } }
+  ]
+}

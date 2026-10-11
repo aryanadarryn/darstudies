@@ -1,0 +1,37 @@
+{
+  "chapterId": "bio-01",
+  "reviewed": false,
+  "subtopics": {
+    "bio-01-01": {
+      "keyPoints": [
+        { "en": "Biology is the study of living things — their structure, function, growth, evolution and interactions.", "bm": "Biologi ialah kajian benda hidup — struktur, fungsi, pertumbuhan, evolusi dan interaksinya." },
+        { "en": "Main fields: zoology, botany, microbiology, anatomy, physiology, genetics, ecology, biochemistry, biotechnology.", "bm": "Bidang utama: zoologi, botani, mikrobiologi, anatomi, fisiologi, genetik, ekologi, biokimia, bioteknologi." },
+        { "en": "Careers: medicine, nursing, pharmacy, veterinary science, agriculture, forensics, marine biology, research.", "bm": "Kerjaya: perubatan, kejururawatan, farmasi, veterinar, pertanian, forensik, biologi marin, penyelidikan." },
+        { "en": "Biology helps solve problems: disease control (vaccines), food security (better crops), conservation of biodiversity.", "bm": "Biologi membantu menyelesaikan masalah: kawalan penyakit (vaksin), sekuriti makanan (tanaman lebih baik), pemuliharaan biodiversiti." }
+      ],
+      "example": { "question": { "en": "Name a biology career that helps solve crimes.", "bm": "Namakan kerjaya biologi yang membantu menyelesaikan jenayah." }, "answer": { "en": "Forensic scientist — analyses DNA, blood and other evidence.", "bm": "Saintis forensik — menganalisis DNA, darah dan bukti lain." } },
+      "tip": { "en": "Link each field to a real Malaysian example (MARDI, IMR, FRIM) to remember it.", "bm": "Kaitkan setiap bidang dengan contoh sebenar di Malaysia (MARDI, IMR, FRIM) untuk mengingatinya." }
+    },
+    "bio-01-02": {
+      "keyPoints": [
+        { "en": "Wear personal protective equipment: lab coat, gloves, goggles, face mask and closed shoes.", "bm": "Pakai peralatan pelindung diri: kot makmal, sarung tangan, gogal, topeng muka dan kasut tertutup." },
+        { "en": "Never eat, drink or taste anything in the lab; wash hands after handling specimens.", "bm": "Jangan makan, minum atau merasa apa-apa di makmal; basuh tangan selepas mengendalikan spesimen." },
+        { "en": "Handle microorganisms in a biosafety cabinet; sterilise equipment and cultures in an autoclave.", "bm": "Kendalikan mikroorganisma dalam kabinet keselamatan biologi; sterilkan peralatan dan kultur dalam autoklaf." },
+        { "en": "Dispose of waste correctly: sharps in sharps containers, biological waste sterilised first, chemicals in labelled bottles.", "bm": "Lupuskan sisa dengan betul: objek tajam dalam bekas khas, sisa biologi disterilkan dahulu, bahan kimia dalam botol berlabel." },
+        { "en": "Report every accident, spill or breakage to the teacher immediately.", "bm": "Laporkan setiap kemalangan, tumpahan atau kerosakan kepada guru dengan segera." }
+      ],
+      "example": { "question": { "en": "A student cuts a finger on a broken slide. What should be done?", "bm": "Seorang pelajar terluka jari akibat slaid pecah. Apakah yang perlu dilakukan?" }, "answer": { "en": "Wash the wound, apply first aid, tell the teacher, and dispose of the broken glass in the sharps/glass container.", "bm": "Cuci luka, beri pertolongan cemas, beritahu guru, dan buang kaca pecah dalam bekas objek tajam/kaca." } },
+      "tip": { "en": "Treat all biological specimens as if they could carry disease.", "bm": "Anggap semua spesimen biologi seolah-olah boleh membawa penyakit." }
+    },
+    "bio-01-03": {
+      "keyPoints": [
+        { "en": "Steps: identify the problem, form a hypothesis, plan (variables, materials, procedure), experiment, collect data, analyse, conclude, report.", "bm": "Langkah: kenal pasti masalah, bina hipotesis, rancang (pemboleh ubah, bahan, prosedur), eksperimen, kumpul data, analisis, simpul, lapor." },
+        { "en": "Manipulated variable: what you change. Responding: what you measure. Constant: what you keep the same.", "bm": "Dimanipulasikan: yang diubah. Bergerak balas: yang diukur. Dimalarkan: yang ditetapkan." },
+        { "en": "A control set-up lets you compare and prove the effect is due to the manipulated variable.", "bm": "Susunan kawalan membolehkan perbandingan dan membuktikan kesan disebabkan pemboleh ubah dimanipulasikan." },
+        { "en": "Present data in tables and graphs; repeat the experiment to improve reliability.", "bm": "Bentangkan data dalam jadual dan graf; ulang eksperimen untuk meningkatkan kebolehpercayaan." }
+      ],
+      "example": { "question": { "en": "Write a hypothesis on how temperature affects enzyme activity.", "bm": "Tulis hipotesis tentang kesan suhu terhadap aktiviti enzim." }, "answer": { "en": "Enzyme activity increases as temperature increases up to the optimum temperature.", "bm": "Aktiviti enzim bertambah apabila suhu meningkat sehingga suhu optimum." } },
+      "tip": { "en": "Graph: manipulated variable on the x-axis, responding variable on the y-axis.", "bm": "Graf: pemboleh ubah dimanipulasikan pada paksi-x, bergerak balas pada paksi-y." }
+    }
+  }
+}

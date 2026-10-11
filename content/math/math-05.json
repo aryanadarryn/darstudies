@@ -1,0 +1,98 @@
+{
+  "chapterId": "math-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The MRT map, your Instagram friends list and the roads Waze uses are all networks — dots connected by lines. Graph theory finds the shortest route, the cheapest connection and who is the most connected person.",
+      "bm": "Peta MRT, senarai rakan Instagram dan jalan raya yang digunakan Waze semuanya rangkaian — titik yang disambung oleh garis. Teori graf mencari laluan terpendek, sambungan termurah dan orang yang paling berhubung."
+    },
+    "bigIdeas": [
+      { "en": "A graph is a set of vertices (dots) joined by edges (lines).", "bm": "Graf ialah set bucu (titik) yang disambung oleh tepi (garis)." },
+      { "en": "The degree of a vertex is the number of edges meeting it; the sum of degrees = 2 × number of edges.", "bm": "Darjah bucu ialah bilangan tepi yang bertemu dengannya; hasil tambah darjah = 2 × bilangan tepi." },
+      { "en": "Graphs can be simple, directed or weighted; a tree has no cycles.", "bm": "Graf boleh jadi mudah, terarah atau berpemberat; pokok tiada kitaran." },
+      { "en": "Networks solve real problems like shortest routes and minimum costs.", "bm": "Rangkaian menyelesaikan masalah sebenar seperti laluan terpendek dan kos minimum." }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": { "en": "Graph", "bm": "Graf" },
+        "nodes": [
+          { "label": { "en": "Vertices", "bm": "Bucu" }, "detail": { "en": "points (V)", "bm": "titik (V)" } },
+          { "label": { "en": "Edges", "bm": "Tepi" }, "detail": { "en": "lines (E)", "bm": "garis (E)" } },
+          { "label": { "en": "Degree", "bm": "Darjah" }, "detail": { "en": "Σd = 2E", "bm": "Σd = 2E" } },
+          { "label": { "en": "Directed", "bm": "Terarah" }, "detail": { "en": "one-way edges", "bm": "tepi sehala" } },
+          { "label": { "en": "Weighted", "bm": "Berpemberat" }, "detail": { "en": "distance, cost, time", "bm": "jarak, kos, masa" } },
+          { "label": { "en": "Tree", "bm": "Pokok" }, "detail": { "en": "no cycles, E = V − 1", "bm": "tiada kitaran, E = V − 1" } }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Vertex", "bm": "Bucu" }, "definition": { "en": "A point in a graph.", "bm": "Titik dalam graf." } },
+      { "term": { "en": "Edge", "bm": "Tepi" }, "definition": { "en": "A line joining two vertices.", "bm": "Garis yang menyambung dua bucu." } },
+      { "term": { "en": "Degree", "bm": "Darjah" }, "definition": { "en": "Number of edges meeting at a vertex (a loop counts 2).", "bm": "Bilangan tepi yang bertemu pada bucu (gelung dikira 2)." } },
+      { "term": { "en": "Simple graph", "bm": "Graf mudah" }, "definition": { "en": "No loops and no multiple edges between the same pair of vertices.", "bm": "Tiada gelung dan tiada berbilang tepi antara pasangan bucu yang sama." } },
+      { "term": { "en": "Weighted graph", "bm": "Graf berpemberat" }, "definition": { "en": "Edges carry values such as distance, time or cost.", "bm": "Tepi membawa nilai seperti jarak, masa atau kos." } },
+      { "term": { "en": "Tree", "bm": "Pokok" }, "definition": { "en": "A connected graph with no cycles; it has V − 1 edges.", "bm": "Graf terkait tanpa kitaran; ia mempunyai V − 1 tepi." } }
+    ],
+    "formulaIds": ["math-degree-sum"],
+    "workedExample": {
+      "question": { "en": "A weighted graph: A–B = 4, B–C = 3, A–C = 9, C–D = 2, B–D = 6 (km). Find the shortest route from A to D.", "bm": "Graf berpemberat: A–B = 4, B–C = 3, A–C = 9, C–D = 2, B–D = 6 (km). Cari laluan terpendek dari A ke D." },
+      "steps": [
+        { "en": "A → B → D = 4 + 6 = 10 km", "bm": "A → B → D = 4 + 6 = 10 km" },
+        { "en": "A → C → D = 9 + 2 = 11 km", "bm": "A → C → D = 9 + 2 = 11 km" },
+        { "en": "A → B → C → D = 4 + 3 + 2 = 9 km", "bm": "A → B → C → D = 4 + 3 + 2 = 9 km" }
+      ],
+      "answer": { "en": "A → B → C → D, 9 km — more stops but shorter overall!", "bm": "A → B → C → D, 9 km — lebih banyak perhentian tetapi lebih pendek!" }
+    }
+  },
+  "questions": [
+    { "id": "math-05-q01", "subtopicId": "math-05-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A graph has 5 edges. What is the sum of the degrees of all its vertices?", "bm": "Satu graf mempunyai 5 tepi. Berapakah hasil tambah darjah semua bucunya?" },
+      "answer": 10, "tolerance": 0,
+      "explanation": { "en": "Each edge adds 2 to the total degree: Σd = 2E = 10.", "bm": "Setiap tepi menambah 2 kepada jumlah darjah: Σd = 2E = 10." } },
+    { "id": "math-05-q02", "subtopicId": "math-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A tree has 6 vertices. How many edges does it have?", "bm": "Sebatang pokok mempunyai 6 bucu. Berapakah bilangan tepinya?" },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "A tree always has V − 1 edges.", "bm": "Pokok sentiasa mempunyai V − 1 tepi." } },
+    { "id": "math-05-q03", "subtopicId": "math-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "A vertex has 3 ordinary edges and 1 loop. What is its degree?", "bm": "Satu bucu mempunyai 3 tepi biasa dan 1 gelung. Berapakah darjahnya?" },
+      "answer": 5, "tolerance": 0,
+      "explanation": { "en": "A loop touches the vertex twice, so it counts 2: 3 + 2 = 5.", "bm": "Gelung menyentuh bucu dua kali, jadi dikira 2: 3 + 2 = 5." } },
+    { "id": "math-05-q04", "subtopicId": "math-05-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "A simple graph has…", "bm": "Graf mudah mempunyai…" },
+      "options": [ { "en": "no loops and no multiple edges", "bm": "tiada gelung dan tiada berbilang tepi" }, { "en": "only one vertex", "bm": "hanya satu bucu" }, { "en": "arrows on every edge", "bm": "anak panah pada setiap tepi" }, { "en": "weights on every edge", "bm": "pemberat pada setiap tepi" } ],
+      "answer": 0,
+      "explanation": { "en": "Arrows make it directed; numbers make it weighted.", "bm": "Anak panah menjadikannya terarah; nombor menjadikannya berpemberat." } },
+    { "id": "math-05-q05", "subtopicId": "math-05-01", "type": "numeric", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "A–B = 4, B–C = 3, A–C = 9, C–D = 2, B–D = 6 km. Find the shortest distance from A to D (km).", "bm": "A–B = 4, B–C = 3, A–C = 9, C–D = 2, B–D = 6 km. Cari jarak terpendek dari A ke D (km)." },
+      "answer": 9, "tolerance": 0, "unit": "km",
+      "explanation": { "en": "A → B → C → D = 4 + 3 + 2 = 9 km.", "bm": "A → B → C → D = 4 + 3 + 2 = 9 km." } },
+    { "id": "math-05-q06", "subtopicId": "math-05-01", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Which situation is best shown by a DIRECTED graph?", "bm": "Situasi manakah paling sesuai ditunjukkan oleh graf TERARAH?" },
+      "options": [ { "en": "One-way streets in a town", "bm": "Jalan sehala di bandar" }, { "en": "Friendships on Facebook", "bm": "Persahabatan di Facebook" }, { "en": "Handshakes at a party", "bm": "Bersalaman di majlis" }, { "en": "Two-way roads between villages", "bm": "Jalan dua hala antara kampung" } ],
+      "answer": 0,
+      "explanation": { "en": "Direction matters for one-way streets (or 'following' on Instagram).", "bm": "Arah penting bagi jalan sehala (atau 'mengikuti' di Instagram)." } },
+    { "id": "math-05-q07", "subtopicId": "math-05-01", "type": "match", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "Match each term to its meaning.", "bm": "Padankan setiap istilah dengan maksudnya." },
+      "pairs": [
+        { "left": { "en": "Vertex", "bm": "Bucu" }, "right": { "en": "A point", "bm": "Satu titik" } },
+        { "left": { "en": "Edge", "bm": "Tepi" }, "right": { "en": "A line joining two points", "bm": "Garis yang menyambung dua titik" } },
+        { "left": { "en": "Loop", "bm": "Gelung" }, "right": { "en": "Edge that starts and ends at the same vertex", "bm": "Tepi yang bermula dan berakhir pada bucu yang sama" } },
+        { "left": { "en": "Subgraph", "bm": "Subgraf" }, "right": { "en": "Part of a graph", "bm": "Sebahagian daripada graf" } }
+      ],
+      "explanation": { "en": "These are the building blocks of every network.", "bm": "Ini blok binaan setiap rangkaian." } },
+    { "id": "math-05-q08", "subtopicId": "math-05-01", "type": "numeric", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Four friends each shake hands with every other friend once. How many handshakes are there?", "bm": "Empat sahabat masing-masing bersalaman dengan setiap sahabat lain sekali. Berapakah jumlah salaman?" },
+      "answer": 6, "tolerance": 0,
+      "explanation": { "en": "Each person has degree 3: Σd = 12 = 2E → E = 6.", "bm": "Setiap orang berdarjah 3: Σd = 12 = 2E → E = 6." } },
+    { "id": "math-05-q09", "subtopicId": "math-05-01", "type": "mcq", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "Why is it impossible to draw a graph whose vertex degrees are 3, 3, 2, 1?", "bm": "Mengapa mustahil melukis graf dengan darjah bucu 3, 3, 2, 1?" },
+      "options": [ { "en": "The sum of degrees (9) is odd, but it must be even", "bm": "Hasil tambah darjah (9) ganjil, sedangkan mesti genap" }, { "en": "There are too many vertices", "bm": "Terlalu banyak bucu" }, { "en": "No vertex can have degree 1", "bm": "Tiada bucu boleh berdarjah 1" }, { "en": "Degrees must all be equal", "bm": "Semua darjah mesti sama" } ],
+      "answer": 0,
+      "explanation": { "en": "Σd = 2E is always even.", "bm": "Σd = 2E sentiasa genap." } },
+    { "id": "math-05-q10", "subtopicId": "math-05-01", "type": "fill", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "A connected graph with no cycles is called a ______.", "bm": "Graf terkait tanpa kitaran dipanggil ______." },
+      "answer": ["tree", "pokok"],
+      "explanation": { "en": "Trees are used for family trees and the cheapest way to connect places.", "bm": "Pokok digunakan untuk salasilah keluarga dan cara termurah menghubungkan tempat." } }
+  ]
+}

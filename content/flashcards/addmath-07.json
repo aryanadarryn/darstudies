@@ -1,0 +1,16 @@
+{
+  "chapterId": "addmath-07",
+  "cards": [
+    { "id": "addmath-07-f01", "subtopicId": "addmath-07-01", "front": { "en": "Distance between two points", "bm": "Jarak antara dua titik" }, "back": { "en": "√[(x₂ − x₁)² + (y₂ − y₁)²]", "bm": "√[(x₂ − x₁)² + (y₂ − y₁)²]" } },
+    { "id": "addmath-07-f02", "subtopicId": "addmath-07-01", "front": { "en": "Midpoint", "bm": "Titik tengah" }, "back": { "en": "((x₁ + x₂)/2, (y₁ + y₂)/2)", "bm": "((x₁ + x₂)/2, (y₁ + y₂)/2)" } },
+    { "id": "addmath-07-f03", "subtopicId": "addmath-07-01", "front": { "en": "Point dividing AB in ratio m : n", "bm": "Titik membahagi AB dalam nisbah m : n" }, "back": { "en": "((nx₁ + mx₂)/(m + n), (ny₁ + my₂)/(m + n))", "bm": "((nx₁ + mx₂)/(m + n), (ny₁ + my₂)/(m + n))" } },
+    { "id": "addmath-07-f04", "subtopicId": "addmath-07-02", "front": { "en": "Gradient formula", "bm": "Rumus kecerunan" }, "back": { "en": "m = (y₂ − y₁)/(x₂ − x₁); from ax + by = c, m = −a/b", "bm": "m = (y₂ − y₁)/(x₂ − x₁); daripada ax + by = c, m = −a/b" } },
+    { "id": "addmath-07-f05", "subtopicId": "addmath-07-02", "front": { "en": "Parallel & perpendicular lines", "bm": "Garis selari & serenjang" }, "back": { "en": "Parallel: m₁ = m₂. Perpendicular: m₁m₂ = −1", "bm": "Selari: m₁ = m₂. Serenjang: m₁m₂ = −1" } },
+    { "id": "addmath-07-f06", "subtopicId": "addmath-07-02", "front": { "en": "Equation of a straight line", "bm": "Persamaan garis lurus" }, "back": { "en": "y − y₁ = m(x − x₁); intercept form x/a + y/b = 1", "bm": "y − y₁ = m(x − x₁); bentuk pintasan x/a + y/b = 1" } },
+    { "id": "addmath-07-f07", "subtopicId": "addmath-07-03", "front": { "en": "Area of a triangle (shoelace)", "bm": "Luas segi tiga (tali kasut)" }, "back": { "en": "½|(x₁y₂ + x₂y₃ + x₃y₁) − (y₁x₂ + y₂x₃ + y₃x₁)|", "bm": "½|(x₁y₂ + x₂y₃ + x₃y₁) − (y₁x₂ + y₂x₃ + y₃x₁)|" } },
+    { "id": "addmath-07-f08", "subtopicId": "addmath-07-03", "front": { "en": "Collinear points", "bm": "Titik segaris" }, "back": { "en": "Area of the 'triangle' they form = 0", "bm": "Luas 'segi tiga' yang dibentuk = 0" } },
+    { "id": "addmath-07-f09", "subtopicId": "addmath-07-04", "front": { "en": "Locus at fixed distance r from (a, b)", "bm": "Lokus pada jarak tetap r dari (a, b)" }, "back": { "en": "(x − a)² + (y − b)² = r² — a circle", "bm": "(x − a)² + (y − b)² = r² — bulatan" } },
+    { "id": "addmath-07-f10", "subtopicId": "addmath-07-04", "front": { "en": "Locus equidistant from A and B", "bm": "Lokus sama jarak dari A dan B" }, "back": { "en": "The perpendicular bisector of AB (PA = PB)", "bm": "Pembahagi dua sama serenjang AB (PA = PB)" } },
+    { "id": "addmath-07-f11", "subtopicId": "addmath-07-04", "front": { "en": "Locus with PA : PB = m : n", "bm": "Lokus dengan PA : PB = m : n" }, "back": { "en": "Set n·PA = m·PB, square both sides and simplify", "bm": "Tetapkan n·PA = m·PB, kuasaduakan kedua-dua belah dan permudahkan" } }
+  ]
+}

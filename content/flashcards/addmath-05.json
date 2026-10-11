@@ -1,0 +1,15 @@
+{
+  "chapterId": "addmath-05",
+  "cards": [
+    { "id": "addmath-05-f01", "subtopicId": "addmath-05-01", "front": { "en": "Arithmetic progression", "bm": "Janjang aritmetik" }, "back": { "en": "Same difference d between consecutive terms", "bm": "Beza d yang sama antara sebutan berturutan" } },
+    { "id": "addmath-05-f02", "subtopicId": "addmath-05-01", "front": { "en": "AP nth term", "bm": "Sebutan ke-n JA" }, "back": { "en": "Tₙ = a + (n − 1)d", "bm": "Tₙ = a + (n − 1)d" } },
+    { "id": "addmath-05-f03", "subtopicId": "addmath-05-01", "front": { "en": "AP sum (two forms)", "bm": "Hasil tambah JA (dua bentuk)" }, "back": { "en": "Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l), l = last term", "bm": "Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l), l = sebutan terakhir" } },
+    { "id": "addmath-05-f04", "subtopicId": "addmath-05-01", "front": { "en": "Tₙ from sums", "bm": "Tₙ daripada hasil tambah" }, "back": { "en": "Tₙ = Sₙ − Sₙ₋₁", "bm": "Tₙ = Sₙ − Sₙ₋₁" } },
+    { "id": "addmath-05-f05", "subtopicId": "addmath-05-02", "front": { "en": "Geometric progression", "bm": "Janjang geometri" }, "back": { "en": "Same ratio r between consecutive terms", "bm": "Nisbah r yang sama antara sebutan berturutan" } },
+    { "id": "addmath-05-f06", "subtopicId": "addmath-05-02", "front": { "en": "GP nth term", "bm": "Sebutan ke-n JG" }, "back": { "en": "Tₙ = arⁿ⁻¹", "bm": "Tₙ = arⁿ⁻¹" } },
+    { "id": "addmath-05-f07", "subtopicId": "addmath-05-02", "front": { "en": "GP sum", "bm": "Hasil tambah JG" }, "back": { "en": "Sₙ = a(rⁿ − 1)/(r − 1) for r > 1; a(1 − rⁿ)/(1 − r) for r < 1", "bm": "Sₙ = a(rⁿ − 1)/(r − 1) bagi r > 1; a(1 − rⁿ)/(1 − r) bagi r < 1" } },
+    { "id": "addmath-05-f08", "subtopicId": "addmath-05-02", "front": { "en": "Sum to infinity", "bm": "Hasil tambah hingga ketakterhinggaan" }, "back": { "en": "S∞ = a/(1 − r), only when −1 < r < 1", "bm": "S∞ = a/(1 − r), hanya apabila −1 < r < 1" } },
+    { "id": "addmath-05-f09", "subtopicId": "addmath-05-02", "front": { "en": "Recurring decimal → fraction", "bm": "Perpuluhan berulang → pecahan" }, "back": { "en": "Write as a GP and use S∞, e.g. 0.333… = 0.3/(1 − 0.1) = 1/3", "bm": "Tulis sebagai JG dan guna S∞, cth. 0.333… = 0.3/(1 − 0.1) = 1/3" } },
+    { "id": "addmath-05-f10", "subtopicId": "addmath-05-02", "front": { "en": "Finding n in a GP", "bm": "Mencari n dalam JG" }, "back": { "en": "Use logarithms when n is in the index", "bm": "Guna logaritma apabila n dalam indeks" } }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chapterId": "addmath-06",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-06-01": {
+      "keyPoints": [
+        { "en": "A linear relation between two variables gives a straight-line graph y = mx + c.", "bm": "Hubungan linear antara dua pemboleh ubah memberi graf garis lurus y = mx + c." },
+        { "en": "Non-linear relations (y = x², y = 2ˣ, y = 1/x) give curves.", "bm": "Hubungan tak linear (y = x², y = 2ˣ, y = 1/x) memberi lengkung." },
+        { "en": "Line of best fit: straight line passing through as many points as possible, others evenly spread on both sides.", "bm": "Garis penyuaian terbaik: garis lurus melalui seberapa banyak titik, yang lain tersebar seimbang di kedua-dua belah." },
+        { "en": "Use the line (not individual points) to find the gradient, intercept and missing values.", "bm": "Guna garis (bukan titik individu) untuk mencari kecerunan, pintasan dan nilai yang hilang." }
+      ],
+      "example": { "question": { "en": "A line of best fit passes through (0, 1.5) and (4, 9.5). Write its equation.", "bm": "Garis penyuaian terbaik melalui (0, 1.5) dan (4, 9.5). Tulis persamaannya." }, "answer": { "en": "m = 8/4 = 2, c = 1.5 → y = 2x + 1.5", "bm": "m = 8/4 = 2, c = 1.5 → y = 2x + 1.5" } },
+      "tip": { "en": "Choose two points far apart on the line to calculate the gradient accurately.", "bm": "Pilih dua titik yang berjauhan pada garis untuk mengira kecerunan dengan tepat." }
+    },
+    "addmath-06-02": {
+      "keyPoints": [
+        { "en": "Linear law: rewrite a non-linear equation as Y = mX + c, where Y and X contain the variables and m, c contain only constants.", "bm": "Hukum linear: tulis semula persamaan tak linear sebagai Y = mX + c, dengan Y dan X mengandungi pemboleh ubah dan m, c hanya pemalar." },
+        { "en": "Algebraic forms: divide or multiply so that one side is a single variable expression and constants are separated.", "bm": "Bentuk algebra: bahagi atau darab supaya satu belah ialah ungkapan pemboleh ubah dan pemalar diasingkan." },
+        { "en": "Exponential y = abˣ → log y = x log b + log a (Y = log y, X = x).", "bm": "Eksponen y = abˣ → log y = x log b + log a (Y = log y, X = x)." },
+        { "en": "Power y = axⁿ → log y = n log x + log a (Y = log y, X = log x).", "bm": "Kuasa y = axⁿ → log y = n log x + log a (Y = log y, X = log x)." },
+        { "en": "There can be more than one correct way to linearise — just be consistent.", "bm": "Mungkin ada lebih daripada satu cara betul untuk melinearkan — pastikan konsisten." }
+      ],
+      "example": { "question": { "en": "Linearise y = p/(x + q).", "bm": "Linearkan y = p/(x + q)." }, "answer": { "en": "xy + qy = p → xy = −qy + p, so Y = xy, X = y, gradient −q, intercept p.", "bm": "xy + qy = p → xy = −qy + p, jadi Y = xy, X = y, kecerunan −q, pintasan p." } },
+      "tip": { "en": "X must not contain the constants you're trying to find.", "bm": "X tidak boleh mengandungi pemalar yang sedang dicari." }
+    },
+    "addmath-06-03": {
+      "keyPoints": [
+        { "en": "Steps: linearise → table of X, Y → plot → line of best fit → gradient & intercept → constants.", "bm": "Langkah: linearkan → jadual X, Y → plot → garis penyuaian terbaik → kecerunan & pintasan → pemalar." },
+        { "en": "Use a suitable scale so the graph fills most of the paper; label axes with Y and X expressions.", "bm": "Guna skala sesuai supaya graf memenuhi sebahagian besar kertas; label paksi dengan ungkapan Y dan X." },
+        { "en": "For log graphs, convert back with a = 10^(intercept), b = 10^(gradient).", "bm": "Bagi graf log, tukar semula dengan a = 10^(pintasan), b = 10^(kecerunan)." },
+        { "en": "Applications: bacteria growth, cooling of liquids, pendulum period vs length, braking distance vs speed.", "bm": "Aplikasi: pertumbuhan bakteria, penyejukan cecair, tempoh bandul lwn panjang, jarak brek lwn laju." }
+      ],
+      "example": { "question": { "en": "For y = axⁿ, a graph of log y against log x has gradient 3 and intercept 0.699. Find a and n.", "bm": "Bagi y = axⁿ, graf log y melawan log x mempunyai kecerunan 3 dan pintasan 0.699. Cari a dan n." }, "answer": { "en": "n = 3, log a = 0.699 → a = 10^0.699 ≈ 5", "bm": "n = 3, log a = 0.699 → a = 10^0.699 ≈ 5" } },
+      "tip": { "en": "Paper 2 graph questions: plot accurately and show how you read gradient and intercept.", "bm": "Soalan graf Kertas 2: plot dengan tepat dan tunjukkan cara membaca kecerunan dan pintasan." }
+    }
+  }
+}

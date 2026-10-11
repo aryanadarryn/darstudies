@@ -1,0 +1,87 @@
+{
+  "chapterId": "phy-02",
+  "reviewed": false,
+  "subtopics": {
+    "phy-02-01": {
+      "keyPoints": [
+        { "en": "Distance is total path length (scalar); displacement is the straight-line distance in a stated direction (vector).", "bm": "Jarak ialah jumlah panjang lintasan (skalar); sesaran ialah jarak garis lurus dalam arah tertentu (vektor)." },
+        { "en": "Speed = distance ÷ time; velocity = displacement ÷ time.", "bm": "Laju = jarak ÷ masa; halaju = sesaran ÷ masa." },
+        { "en": "Acceleration a = (v − u) ÷ t. Negative acceleration is deceleration.", "bm": "Pecutan a = (v − u) ÷ t. Pecutan negatif ialah nyahpecutan." },
+        { "en": "For uniform acceleration use: v = u + at, s = ½(u + v)t, s = ut + ½at², v² = u² + 2as.", "bm": "Untuk pecutan seragam guna: v = u + at, s = ½(u + v)t, s = ut + ½at², v² = u² + 2as." },
+        { "en": "Ticker tape: dots close together = slow; dots spreading out = accelerating.", "bm": "Pita detik: titik rapat = perlahan; titik semakin jauh = memecut." }
+      ],
+      "example": { "question": { "en": "A bus starts from rest and reaches 12 m s⁻¹ in 6 s. Find its acceleration.", "bm": "Sebuah bas bermula dari pegun dan mencapai 12 m s⁻¹ dalam 6 s. Cari pecutannya." }, "answer": { "en": "a = (12 − 0) ÷ 6 = 2 m s⁻²", "bm": "a = (12 − 0) ÷ 6 = 2 m s⁻²" } },
+      "tip": { "en": "Always list u, v, a, s, t first and pick the equation without the quantity you don't need.", "bm": "Senaraikan u, v, a, s, t dahulu dan pilih persamaan tanpa kuantiti yang tidak diperlukan." }
+    },
+    "phy-02-02": {
+      "keyPoints": [
+        { "en": "Displacement–time graph: gradient = velocity. Horizontal line = at rest.", "bm": "Graf sesaran–masa: kecerunan = halaju. Garis mengufuk = pegun." },
+        { "en": "Velocity–time graph: gradient = acceleration; area under graph = displacement.", "bm": "Graf halaju–masa: kecerunan = pecutan; luas di bawah graf = sesaran." },
+        { "en": "Acceleration–time graph: area under graph = change in velocity.", "bm": "Graf pecutan–masa: luas di bawah graf = perubahan halaju." },
+        { "en": "A straight sloping v–t line means uniform acceleration; a curve means changing acceleration.", "bm": "Garis condong lurus pada graf v–t bermakna pecutan seragam; lengkung bermakna pecutan berubah." }
+      ],
+      "example": { "question": { "en": "A v–t graph rises from 0 to 10 m s⁻¹ in 5 s. Find the acceleration and displacement.", "bm": "Graf v–t naik dari 0 ke 10 m s⁻¹ dalam 5 s. Cari pecutan dan sesaran." }, "answer": { "en": "a = 10 ÷ 5 = 2 m s⁻²; s = area = ½ × 5 × 10 = 25 m", "bm": "a = 10 ÷ 5 = 2 m s⁻²; s = luas = ½ × 5 × 10 = 25 m" } },
+      "tip": { "en": "Split odd-shaped areas into triangles and rectangles.", "bm": "Bahagikan luas yang pelik kepada segi tiga dan segi empat tepat." }
+    },
+    "phy-02-03": {
+      "keyPoints": [
+        { "en": "Free fall: motion under gravity only, with no air resistance.", "bm": "Jatuh bebas: gerakan di bawah graviti sahaja, tanpa rintangan udara." },
+        { "en": "All objects in free fall have the same acceleration g ≈ 9.81 m s⁻², whatever their mass.", "bm": "Semua objek jatuh bebas mempunyai pecutan sama g ≈ 9.81 m s⁻², tanpa mengira jisim." },
+        { "en": "Use the equations of motion with a = g (downwards) or a = −g (upwards).", "bm": "Guna persamaan gerakan dengan a = g (ke bawah) atau a = −g (ke atas)." },
+        { "en": "In air, light objects like feathers fall slowly because air resistance is large compared with their weight.", "bm": "Di udara, objek ringan seperti bulu jatuh perlahan kerana rintangan udara besar berbanding beratnya." }
+      ],
+      "example": { "question": { "en": "A coin is dropped from a 20 m building. How long does it take to land? (g = 9.81 m s⁻²)", "bm": "Syiling dijatuhkan dari bangunan 20 m. Berapa lama untuk sampai ke tanah? (g = 9.81 m s⁻²)" }, "answer": { "en": "s = ½gt² → 20 = 4.905t² → t ≈ 2.02 s", "bm": "s = ½gt² → 20 = 4.905t² → t ≈ 2.02 s" } },
+      "tip": { "en": "At the top of a vertical throw, velocity is 0 but acceleration is still g.", "bm": "Di titik tertinggi lontaran menegak, halaju ialah 0 tetapi pecutan masih g." }
+    },
+    "phy-02-04": {
+      "keyPoints": [
+        { "en": "Inertia is the tendency of an object to stay at rest or keep moving at constant velocity.", "bm": "Inersia ialah kecenderungan objek untuk kekal pegun atau terus bergerak dengan halaju malar." },
+        { "en": "Newton's first law: an object stays at rest or moves uniformly unless a resultant force acts on it.", "bm": "Hukum Newton pertama: objek kekal pegun atau bergerak seragam kecuali daya paduan bertindak ke atasnya." },
+        { "en": "Larger mass → larger inertia → harder to start, stop or turn.", "bm": "Jisim lebih besar → inersia lebih besar → lebih sukar untuk mula, berhenti atau membelok." },
+        { "en": "Safety: seat belts and headrests protect you from the effects of inertia in sudden stops.", "bm": "Keselamatan: tali pinggang keledar dan penyandar kepala melindungi daripada kesan inersia semasa berhenti mengejut." }
+      ],
+      "example": { "question": { "en": "Why do lorry tankers have many separate compartments?", "bm": "Mengapa lori tangki mempunyai banyak petak berasingan?" }, "answer": { "en": "To reduce the effect of the liquid's inertia sloshing forward when braking.", "bm": "Untuk mengurangkan kesan inersia cecair yang terhumban ke hadapan semasa membrek." } },
+      "tip": { "en": "Inertia depends only on mass — not on speed.", "bm": "Inersia bergantung pada jisim sahaja — bukan pada laju." }
+    },
+    "phy-02-05": {
+      "keyPoints": [
+        { "en": "Momentum p = mv, unit kg m s⁻¹, a vector.", "bm": "Momentum p = mv, unit kg m s⁻¹, satu vektor." },
+        { "en": "Principle of conservation of momentum: total momentum before = total momentum after (no external force).", "bm": "Prinsip keabadian momentum: jumlah momentum sebelum = jumlah momentum selepas (tiada daya luar)." },
+        { "en": "Elastic collision: objects bounce apart. Inelastic: they stick together.", "bm": "Perlanggaran kenyal: objek melantun berpisah. Tidak kenyal: objek melekat bersama." },
+        { "en": "Explosion: total momentum is zero before, so pieces move in opposite directions (e.g. rifle recoil, rocket).", "bm": "Letupan: jumlah momentum sifar sebelum, jadi kepingan bergerak berlawanan arah (cth. sentakan senapang, roket)." }
+      ],
+      "example": { "question": { "en": "A 0.05 kg bullet leaves a 4 kg rifle at 400 m s⁻¹. Find the recoil velocity of the rifle.", "bm": "Peluru 0.05 kg meninggalkan senapang 4 kg pada 400 m s⁻¹. Cari halaju sentakan senapang." }, "answer": { "en": "0 = 0.05(400) + 4v → v = −5 m s⁻¹ (backwards)", "bm": "0 = 0.05(400) + 4v → v = −5 m s⁻¹ (ke belakang)" } },
+      "tip": { "en": "Choose one direction as positive and give the other direction a minus sign.", "bm": "Pilih satu arah sebagai positif dan beri tanda negatif kepada arah yang lain." }
+    },
+    "phy-02-06": {
+      "keyPoints": [
+        { "en": "Newton's second law: F = ma — resultant force is proportional to rate of change of momentum.", "bm": "Hukum Newton kedua: F = ma — daya paduan berkadar dengan kadar perubahan momentum." },
+        { "en": "1 N is the force that gives a 1 kg mass an acceleration of 1 m s⁻².", "bm": "1 N ialah daya yang memberikan pecutan 1 m s⁻² kepada jisim 1 kg." },
+        { "en": "Resultant force = applied force − friction (when they act in opposite directions).", "bm": "Daya paduan = daya dikenakan − geseran (apabila bertindak berlawanan arah)." },
+        { "en": "Same force on a bigger mass gives a smaller acceleration.", "bm": "Daya sama ke atas jisim lebih besar memberikan pecutan lebih kecil." }
+      ],
+      "example": { "question": { "en": "A 20 N force pulls a 4 kg box against 8 N of friction. Find the acceleration.", "bm": "Daya 20 N menarik kotak 4 kg melawan geseran 8 N. Cari pecutan." }, "answer": { "en": "F = 20 − 8 = 12 N; a = 12 ÷ 4 = 3 m s⁻²", "bm": "F = 20 − 8 = 12 N; a = 12 ÷ 4 = 3 m s⁻²" } },
+      "tip": { "en": "Draw a free-body diagram before using F = ma.", "bm": "Lukis gambar rajah jasad bebas sebelum guna F = ma." }
+    },
+    "phy-02-07": {
+      "keyPoints": [
+        { "en": "Impulse = Ft = mv − mu (change in momentum), unit N s.", "bm": "Impuls = Ft = mv − mu (perubahan momentum), unit N s." },
+        { "en": "Impulsive force F = (mv − mu) ÷ t acts for a very short time.", "bm": "Daya impuls F = (mv − mu) ÷ t bertindak dalam masa yang sangat singkat." },
+        { "en": "Longer impact time → smaller impulsive force (airbags, crumple zones, bending knees).", "bm": "Masa hentaman lebih panjang → daya impuls lebih kecil (beg udara, zon remuk, membengkokkan lutut)." },
+        { "en": "Shorter impact time → bigger force (hammer on nail, karate chop, pestle and mortar).", "bm": "Masa hentaman lebih singkat → daya lebih besar (tukul pada paku, pukulan karate, lesung dan alu)." }
+      ],
+      "example": { "question": { "en": "A 0.5 kg ball moving at 10 m s⁻¹ is stopped in 0.02 s. Find the impulsive force.", "bm": "Bola 0.5 kg bergerak 10 m s⁻¹ dihentikan dalam 0.02 s. Cari daya impuls." }, "answer": { "en": "F = (0 − 0.5 × 10) ÷ 0.02 = −250 N (magnitude 250 N)", "bm": "F = (0 − 0.5 × 10) ÷ 0.02 = −250 N (magnitud 250 N)" } },
+      "tip": { "en": "If the ball bounces back, the change in velocity is bigger (e.g. +10 to −8 is a change of 18).", "bm": "Jika bola melantun balik, perubahan halaju lebih besar (cth. +10 ke −8 ialah perubahan 18)." }
+    },
+    "phy-02-08": {
+      "keyPoints": [
+        { "en": "Weight is the gravitational force on an object: W = mg, unit N.", "bm": "Berat ialah daya graviti ke atas objek: W = mg, unit N." },
+        { "en": "g = gravitational field strength ≈ 9.81 N kg⁻¹ on Earth's surface.", "bm": "g = kekuatan medan graviti ≈ 9.81 N kg⁻¹ di permukaan Bumi." },
+        { "en": "Mass (kg) is constant everywhere; weight changes with g (Moon g ≈ 1.6 N kg⁻¹).", "bm": "Jisim (kg) malar di mana-mana; berat berubah mengikut g (g Bulan ≈ 1.6 N kg⁻¹)." },
+        { "en": "Weight is a vector acting vertically downwards towards the centre of the Earth.", "bm": "Berat ialah vektor yang bertindak menegak ke bawah ke arah pusat Bumi." }
+      ],
+      "example": { "question": { "en": "An astronaut has mass 70 kg. Find the weight on the Moon (g = 1.6 N kg⁻¹).", "bm": "Seorang angkasawan berjisim 70 kg. Cari beratnya di Bulan (g = 1.6 N kg⁻¹)." }, "answer": { "en": "W = 70 × 1.6 = 112 N (mass is still 70 kg)", "bm": "W = 70 × 1.6 = 112 N (jisim tetap 70 kg)" } },
+      "tip": { "en": "Never give weight in kg — it is a force, measured in newtons.", "bm": "Jangan beri berat dalam kg — ia daya, diukur dalam newton." }
+    }
+  }
+}

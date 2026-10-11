@@ -1,0 +1,26 @@
+{
+  "chapterId": "addmath-10",
+  "reviewed": false,
+  "subtopics": {
+    "addmath-10-01": {
+      "keyPoints": [
+        { "en": "An index number measures change compared with a base year: I = Q₁/Q₀ × 100.", "bm": "Nombor indeks mengukur perubahan berbanding tahun asas: I = Q₁/Q₀ × 100." },
+        { "en": "Q can be price, quantity, cost, or production. The base year always has index 100.", "bm": "Q boleh jadi harga, kuantiti, kos atau pengeluaran. Tahun asas sentiasa berindeks 100." },
+        { "en": "I = 120 means a 20% increase; I = 85 means a 15% decrease.", "bm": "I = 120 bermakna kenaikan 20%; I = 85 bermakna penurunan 15%." },
+        { "en": "Chaining: I(2026, 2024) = I(2025, 2024) × I(2026, 2025) / 100.", "bm": "Perantaian: I(2026, 2024) = I(2025, 2024) × I(2026, 2025) / 100." }
+      ],
+      "example": { "question": { "en": "Petrol was RM2.05 per litre in the base year and RM2.46 now. Find the index.", "bm": "Petrol berharga RM2.05 seliter pada tahun asas dan RM2.46 sekarang. Cari indeksnya." }, "answer": { "en": "I = 2.46/2.05 × 100 = 120", "bm": "I = 2.46/2.05 × 100 = 120" } },
+      "tip": { "en": "Always check which year is the base (the one in the denominator).", "bm": "Sentiasa semak tahun asas (yang di penyebut)." }
+    },
+    "addmath-10-02": {
+      "keyPoints": [
+        { "en": "A composite index combines several items: Ī = ΣIᵢwᵢ / Σwᵢ.", "bm": "Indeks gubahan menggabungkan beberapa item: Ī = ΣIᵢwᵢ / Σwᵢ." },
+        { "en": "Weightages show relative importance — they may be given as numbers, percentages, ratios or pie-chart angles.", "bm": "Pemberat menunjukkan kepentingan relatif — boleh diberi sebagai nombor, peratus, nisbah atau sudut carta pai." },
+        { "en": "Use it to estimate total cost: cost₁ = Ī/100 × cost₀.", "bm": "Gunakannya untuk menganggar jumlah kos: kos₁ = Ī/100 × kos₀." },
+        { "en": "Malaysia's Consumer Price Index (by DOSM) is a composite index used to measure inflation.", "bm": "Indeks Harga Pengguna Malaysia (oleh DOSM) ialah indeks gubahan untuk mengukur inflasi." }
+      ],
+      "example": { "question": { "en": "Indices: food 130 (40%), transport 110 (35%), others 120 (25%). Find Ī.", "bm": "Indeks: makanan 130 (40%), pengangkutan 110 (35%), lain-lain 120 (25%). Cari Ī." }, "answer": { "en": "Ī = (130·40 + 110·35 + 120·25)/100 = (5200 + 3850 + 3000)/100 = 120.5", "bm": "Ī = (130·40 + 110·35 + 120·25)/100 = (5200 + 3850 + 3000)/100 = 120.5" } },
+      "tip": { "en": "Set up a table: item | I | w | Iw — then sum the columns.", "bm": "Bina jadual: item | I | w | Iw — kemudian jumlahkan lajur." }
+    }
+  }
+}

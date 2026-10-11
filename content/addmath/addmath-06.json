@@ -1,0 +1,93 @@
+{
+  "chapterId": "addmath-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A scientist measures how fast bacteria grow and gets a curve. Curves are hard to read, but straight lines are easy — gradient and intercept tell you everything. Linear law is the trick that turns curves into straight lines.",
+      "bm": "Seorang saintis mengukur kadar pertumbuhan bakteria dan mendapat lengkung. Lengkung sukar dibaca, tetapi garis lurus mudah — kecerunan dan pintasan memberitahu segalanya. Hukum linear ialah helah yang menukar lengkung kepada garis lurus."
+    },
+    "bigIdeas": [
+      { "en": "A linear relation gives a straight line Y = mX + c.", "bm": "Hubungan linear memberi garis lurus Y = mX + c." },
+      { "en": "Non-linear relations can be rearranged into the form Y = mX + c using new variables X and Y.", "bm": "Hubungan tak linear boleh disusun semula ke bentuk Y = mX + c menggunakan pemboleh ubah baharu X dan Y." },
+      { "en": "Logarithms linearise exponential and power relations.", "bm": "Logaritma melinearkan hubungan eksponen dan kuasa." },
+      { "en": "From the line of best fit, the gradient and Y-intercept give the unknown constants.", "bm": "Daripada garis penyuaian terbaik, kecerunan dan pintasan-Y memberi pemalar yang tidak diketahui." }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [ { "en": "Original equation", "bm": "Persamaan asal" }, { "en": "Plot Y against X", "bm": "Plot Y melawan X" }, { "en": "Gradient / intercept", "bm": "Kecerunan / pintasan" } ],
+        "rows": [
+          { "label": { "en": "1", "bm": "1" }, "cells": [ { "en": "y = ax² + b", "bm": "y = ax² + b" }, { "en": "y vs x²", "bm": "y lwn x²" }, { "en": "m = a, c = b", "bm": "m = a, c = b" } ] },
+          { "label": { "en": "2", "bm": "2" }, "cells": [ { "en": "y = ax² + bx", "bm": "y = ax² + bx" }, { "en": "y/x vs x", "bm": "y/x lwn x" }, { "en": "m = a, c = b", "bm": "m = a, c = b" } ] },
+          { "label": { "en": "3", "bm": "3" }, "cells": [ { "en": "y = a/x + b", "bm": "y = a/x + b" }, { "en": "y vs 1/x", "bm": "y lwn 1/x" }, { "en": "m = a, c = b", "bm": "m = a, c = b" } ] },
+          { "label": { "en": "4", "bm": "4" }, "cells": [ { "en": "y = abˣ", "bm": "y = abˣ" }, { "en": "log y vs x", "bm": "log y lwn x" }, { "en": "m = log b, c = log a", "bm": "m = log b, c = log a" } ] },
+          { "label": { "en": "5", "bm": "5" }, "cells": [ { "en": "y = axⁿ", "bm": "y = axⁿ" }, { "en": "log y vs log x", "bm": "log y lwn log x" }, { "en": "m = n, c = log a", "bm": "m = n, c = log a" } ] }
+        ]
+      }
+    },
+    "keyTerms": [
+      { "term": { "en": "Linear relation", "bm": "Hubungan linear" }, "definition": { "en": "A relation whose graph is a straight line.", "bm": "Hubungan yang grafnya garis lurus." } },
+      { "term": { "en": "Line of best fit", "bm": "Garis lurus penyuaian terbaik" }, "definition": { "en": "Straight line passing through or as close as possible to most points, balanced on both sides.", "bm": "Garis lurus yang melalui atau sehampir mungkin dengan kebanyakan titik, seimbang di kedua-dua belah." } },
+      { "term": { "en": "Gradient", "bm": "Kecerunan" }, "definition": { "en": "m = (Y₂ − Y₁)/(X₂ − X₁).", "bm": "m = (Y₂ − Y₁)/(X₂ − X₁)." } },
+      { "term": { "en": "Y-intercept", "bm": "Pintasan-Y" }, "definition": { "en": "Value of Y where the line crosses the vertical axis (X = 0).", "bm": "Nilai Y di mana garis memotong paksi mencancang (X = 0)." } },
+      { "term": { "en": "Linearisation", "bm": "Pelinearan" }, "definition": { "en": "Rewriting a non-linear equation as Y = mX + c.", "bm": "Menulis semula persamaan tak linear sebagai Y = mX + c." } }
+    ],
+    "formulaIds": ["am-linear-law"],
+    "workedExample": {
+      "question": { "en": "x and y are related by y = abˣ. A graph of log₁₀ y against x is a straight line with gradient 0.301 and log₁₀ y-intercept 0.477. Find a and b.", "bm": "x dan y dihubungkan oleh y = abˣ. Graf log₁₀ y melawan x ialah garis lurus dengan kecerunan 0.301 dan pintasan log₁₀ y 0.477. Cari a dan b." },
+      "steps": [
+        { "en": "Take logs: log y = x log b + log a, so Y = log y, X = x.", "bm": "Ambil log: log y = x log b + log a, jadi Y = log y, X = x." },
+        { "en": "Gradient m = log b = 0.301 → b = 10^0.301 ≈ 2.", "bm": "Kecerunan m = log b = 0.301 → b = 10^0.301 ≈ 2." },
+        { "en": "Intercept c = log a = 0.477 → a = 10^0.477 ≈ 3.", "bm": "Pintasan c = log a = 0.477 → a = 10^0.477 ≈ 3." }
+      ],
+      "answer": { "en": "a = 3, b = 2, so y = 3(2ˣ).", "bm": "a = 3, b = 2, jadi y = 3(2ˣ)." }
+    }
+  },
+  "questions": [
+    { "id": "addmath-06-q01", "subtopicId": "addmath-06-01", "type": "mcq", "difficulty": 1, "tp": 1,
+      "prompt": { "en": "Which relation is linear?", "bm": "Hubungan manakah linear?" },
+      "options": [ { "en": "y = 3x + 2", "bm": "y = 3x + 2" }, { "en": "y = x² + 1", "bm": "y = x² + 1" }, { "en": "y = 2ˣ", "bm": "y = 2ˣ" }, { "en": "y = 1/x", "bm": "y = 1/x" } ],
+      "answer": 0,
+      "explanation": { "en": "Only y = 3x + 2 has the form y = mx + c.", "bm": "Hanya y = 3x + 2 dalam bentuk y = mx + c." } },
+    { "id": "addmath-06-q02", "subtopicId": "addmath-06-01", "type": "mcq", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "How should a line of best fit be drawn?", "bm": "Bagaimanakah garis penyuaian terbaik perlu dilukis?" },
+      "options": [ { "en": "A straight line through as many points as possible, with the rest evenly on both sides", "bm": "Garis lurus melalui seberapa banyak titik, dengan baki seimbang di kedua-dua belah" }, { "en": "Join every point dot-to-dot", "bm": "Sambung setiap titik satu demi satu" }, { "en": "Always through the origin", "bm": "Sentiasa melalui asalan" }, { "en": "Through the first and last points only", "bm": "Melalui titik pertama dan terakhir sahaja" } ],
+      "answer": 0,
+      "explanation": { "en": "It shows the trend and averages out experimental error.", "bm": "Ia menunjukkan arah aliran dan mengurangkan kesan ralat eksperimen." } },
+    { "id": "addmath-06-q03", "subtopicId": "addmath-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "To get a straight line from y = ax² + b, plot…", "bm": "Untuk mendapat garis lurus daripada y = ax² + b, plot…" },
+      "options": [ { "en": "y against x²", "bm": "y melawan x²" }, { "en": "y against x", "bm": "y melawan x" }, { "en": "log y against x", "bm": "log y melawan x" }, { "en": "y/x against x", "bm": "y/x melawan x" } ],
+      "answer": 0,
+      "explanation": { "en": "Y = y, X = x² gives Y = aX + b, gradient a, intercept b.", "bm": "Y = y, X = x² memberi Y = aX + b, kecerunan a, pintasan b." } },
+    { "id": "addmath-06-q04", "subtopicId": "addmath-06-02", "type": "mcq", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "y = a/x + b. Which variables give a straight line?", "bm": "y = a/x + b. Pemboleh ubah manakah memberi garis lurus?" },
+      "options": [ { "en": "Y = y, X = 1/x", "bm": "Y = y, X = 1/x" }, { "en": "Y = xy, X = x", "bm": "Y = xy, X = x" }, { "en": "Y = y, X = x", "bm": "Y = y, X = x" }, { "en": "Y = log y, X = log x", "bm": "Y = log y, X = log x" } ],
+      "answer": 0,
+      "explanation": { "en": "Gradient = a, intercept = b. (Multiplying by x to get xy = a + bx also works with Y = xy, X = x — but then gradient = b.)", "bm": "Kecerunan = a, pintasan = b. (Mendarab dengan x untuk dapat xy = a + bx juga boleh dengan Y = xy, X = x — tetapi kecerunan = b.)" } },
+    { "id": "addmath-06-q05", "subtopicId": "addmath-06-03", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "y = ax² + bx. The graph of y/x against x passes through (1, 5) and (3, 9). Find a.", "bm": "y = ax² + bx. Graf y/x melawan x melalui (1, 5) dan (3, 9). Cari a." },
+      "answer": 2, "tolerance": 0,
+      "explanation": { "en": "y/x = ax + b, gradient a = (9 − 5)/(3 − 1) = 2.", "bm": "y/x = ax + b, kecerunan a = (9 − 5)/(3 − 1) = 2." } },
+    { "id": "addmath-06-q06", "subtopicId": "addmath-06-03", "type": "numeric", "difficulty": 2, "tp": 4,
+      "prompt": { "en": "Same line through (1, 5) and (3, 9) for y/x against x. Find b.", "bm": "Garis yang sama melalui (1, 5) dan (3, 9) bagi y/x melawan x. Cari b." },
+      "answer": 3, "tolerance": 0,
+      "explanation": { "en": "5 = 2(1) + b → b = 3.", "bm": "5 = 2(1) + b → b = 3." } },
+    { "id": "addmath-06-q07", "subtopicId": "addmath-06-03", "type": "numeric", "difficulty": 3, "tp": 5,
+      "prompt": { "en": "y = abˣ. log₁₀ y against x has gradient 0.301. Find b.", "bm": "y = abˣ. log₁₀ y melawan x mempunyai kecerunan 0.301. Cari b." },
+      "answer": 2, "tolerance": 0.01,
+      "explanation": { "en": "log b = 0.301 → b = 10^0.301 ≈ 2.", "bm": "log b = 0.301 → b = 10^0.301 ≈ 2." } },
+    { "id": "addmath-06-q08", "subtopicId": "addmath-06-02", "type": "mcq", "difficulty": 3, "tp": 4,
+      "prompt": { "en": "y = kxⁿ. Which graph is a straight line with gradient n?", "bm": "y = kxⁿ. Graf manakah garis lurus dengan kecerunan n?" },
+      "options": [ { "en": "log y against log x", "bm": "log y melawan log x" }, { "en": "log y against x", "bm": "log y melawan x" }, { "en": "y against xⁿ", "bm": "y melawan xⁿ" }, { "en": "y against log x", "bm": "y melawan log x" } ],
+      "answer": 0,
+      "explanation": { "en": "log y = n log x + log k.", "bm": "log y = n log x + log k." } },
+    { "id": "addmath-06-q09", "subtopicId": "addmath-06-03", "type": "order", "difficulty": 2, "tp": 3,
+      "prompt": { "en": "Order the steps for using linear law with experimental data.", "bm": "Susun langkah menggunakan hukum linear dengan data eksperimen." },
+      "items": [ { "en": "Rearrange the equation to Y = mX + c", "bm": "Susun semula persamaan kepada Y = mX + c" }, { "en": "Make a table of X and Y values", "bm": "Bina jadual nilai X dan Y" }, { "en": "Plot Y against X and draw the line of best fit", "bm": "Plot Y melawan X dan lukis garis penyuaian terbaik" }, { "en": "Find gradient and Y-intercept", "bm": "Cari kecerunan dan pintasan-Y" }, { "en": "Compare with Y = mX + c to find the constants", "bm": "Bandingkan dengan Y = mX + c untuk mencari pemalar" } ],
+      "explanation": { "en": "Use the line, not individual data points, to find values.", "bm": "Guna garis, bukan titik data individu, untuk mencari nilai." } },
+    { "id": "addmath-06-q10", "subtopicId": "addmath-06-01", "type": "numeric", "difficulty": 1, "tp": 2,
+      "prompt": { "en": "A straight line passes through (2, 7) and (4, 11). Find its gradient.", "bm": "Satu garis lurus melalui (2, 7) dan (4, 11). Cari kecerunannya." },
+      "answer": 2, "tolerance": 0,
+      "explanation": { "en": "(11 − 7)/(4 − 2) = 2.", "bm": "(11 − 7)/(4 − 2) = 2." } }
+  ]
+}

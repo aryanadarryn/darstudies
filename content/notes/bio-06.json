@@ -1,0 +1,48 @@
+{
+  "chapterId": "bio-06",
+  "reviewed": false,
+  "subtopics": {
+    "bio-06-01": {
+      "keyPoints": [
+        { "en": "Cell division is needed for growth, repair, replacing dead cells and reproduction.", "bm": "Pembahagian sel diperlukan untuk pertumbuhan, pembaikan, menggantikan sel mati dan pembiakan." },
+        { "en": "Chromosomes carry DNA. Before division each chromosome is copied into two sister chromatids joined at a centromere.", "bm": "Kromosom membawa DNA. Sebelum pembahagian, setiap kromosom disalin kepada dua kromatid beradik yang disambung pada sentromer." },
+        { "en": "Human body cells are diploid (2n = 46); gametes are haploid (n = 23).", "bm": "Sel badan manusia diploid (2n = 46); gamet haploid (n = 23)." },
+        { "en": "Two types: mitosis (body cells) and meiosis (gamete-forming cells in testes and ovaries).", "bm": "Dua jenis: mitosis (sel badan) dan meiosis (sel pembentuk gamet dalam testis dan ovari)." }
+      ],
+      "example": { "question": { "en": "A dog has 78 chromosomes in its body cells. How many are in its egg cells?", "bm": "Anjing mempunyai 78 kromosom dalam sel badannya. Berapa dalam sel telurnya?" }, "answer": { "en": "39 (haploid)", "bm": "39 (haploid)" } },
+      "tip": { "en": "Count chromosomes by counting centromeres.", "bm": "Kira kromosom dengan mengira sentromer." }
+    },
+    "bio-06-02": {
+      "keyPoints": [
+        { "en": "Cell cycle: interphase (G1 growth → S DNA replication → G2 preparation) then M phase (mitosis + cytokinesis).", "bm": "Kitar sel: interfasa (G1 pertumbuhan → S replikasi DNA → G2 persediaan) kemudian fasa M (mitosis + sitokinesis)." },
+        { "en": "Prophase: chromosomes condense, nuclear membrane disappears, spindle forms.", "bm": "Profasa: kromosom memendek, membran nukleus hilang, gelendong terbentuk." },
+        { "en": "Metaphase: chromosomes line up at the equator. Anaphase: sister chromatids pulled apart to the poles.", "bm": "Metafasa: kromosom tersusun di khatulistiwa. Anafasa: kromatid beradik ditarik ke kutub." },
+        { "en": "Telophase: nuclear membranes re-form. Cytokinesis: cleavage furrow (animal) or cell plate (plant).", "bm": "Telofasa: membran nukleus terbentuk semula. Sitokinesis: alur pembelahan (haiwan) atau plat sel (tumbuhan)." },
+        { "en": "Result: 2 genetically identical diploid daughter cells. Used in tissue culture and cloning.", "bm": "Hasil: 2 sel anak diploid yang seiras secara genetik. Digunakan dalam kultur tisu dan pengklonan." }
+      ],
+      "example": { "question": { "en": "Why is it important that daughter cells from mitosis are identical?", "bm": "Mengapa sel anak hasil mitosis perlu seiras?" }, "answer": { "en": "So new cells in tissues can do exactly the same job and carry the same genetic information.", "bm": "Supaya sel baharu dalam tisu dapat menjalankan tugas yang sama dan membawa maklumat genetik yang sama." } },
+      "tip": { "en": "PMAT: Prophase, Metaphase (Middle), Anaphase (Apart), Telophase (Two).", "bm": "PMAT: Profasa, Metafasa (tengah), Anafasa (berpisah), Telofasa (dua)." }
+    },
+    "bio-06-03": {
+      "keyPoints": [
+        { "en": "Meiosis happens in the testes and ovaries (anthers and ovules in plants) to make gametes.", "bm": "Meiosis berlaku dalam testis dan ovari (anter dan ovul dalam tumbuhan) untuk menghasilkan gamet." },
+        { "en": "Meiosis I: homologous chromosomes pair up, cross over, then separate → 2 haploid cells.", "bm": "Meiosis I: kromosom homolog berpasangan, pindah silang, kemudian berpisah → 2 sel haploid." },
+        { "en": "Meiosis II: sister chromatids separate (like mitosis) → 4 haploid cells.", "bm": "Meiosis II: kromatid beradik berpisah (seperti mitosis) → 4 sel haploid." },
+        { "en": "Genetic variation comes from crossing over and independent assortment of chromosomes.", "bm": "Variasi genetik terhasil daripada pindah silang dan penyusunan bebas kromosom." },
+        { "en": "Meiosis keeps the chromosome number constant across generations.", "bm": "Meiosis mengekalkan bilangan kromosom yang malar merentas generasi." }
+      ],
+      "example": { "question": { "en": "Give two differences between mitosis and meiosis.", "bm": "Berikan dua perbezaan antara mitosis dan meiosis." }, "answer": { "en": "Mitosis: 1 division, 2 identical diploid cells. Meiosis: 2 divisions, 4 different haploid cells (with crossing over).", "bm": "Mitosis: 1 pembahagian, 2 sel diploid seiras. Meiosis: 2 pembahagian, 4 sel haploid berbeza (dengan pindah silang)." } },
+      "tip": { "en": "Make a comparison table: number of divisions, cells formed, chromosome number, crossing over, where it happens.", "bm": "Buat jadual perbandingan: bilangan pembahagian, sel terbentuk, bilangan kromosom, pindah silang, tempat berlaku." }
+    },
+    "bio-06-04": {
+      "keyPoints": [
+        { "en": "Cancer: genes controlling the cell cycle are damaged, so cells divide uncontrollably and form a tumour.", "bm": "Kanser: gen yang mengawal kitar sel rosak, jadi sel membahagi tanpa kawalan dan membentuk tumor." },
+        { "en": "Carcinogens: tobacco smoke, UV light, X-rays, some chemicals and viruses (e.g. HPV).", "bm": "Karsinogen: asap rokok, cahaya UV, sinar-X, sesetengah bahan kimia dan virus (cth. HPV)." },
+        { "en": "Treatment: surgery, radiotherapy, chemotherapy. Prevention: no smoking, sunscreen, healthy diet, screening.", "bm": "Rawatan: pembedahan, radioterapi, kemoterapi. Pencegahan: tidak merokok, pelindung matahari, diet sihat, saringan." },
+        { "en": "Non-disjunction in meiosis gives abnormal chromosome numbers: Down syndrome (47, trisomy 21), Turner (45, XO), Klinefelter (47, XXY).", "bm": "Tak disjunksi dalam meiosis menghasilkan bilangan kromosom abnormal: sindrom Down (47, trisomi 21), Turner (45, XO), Klinefelter (47, XXY)." }
+      ],
+      "example": { "question": { "en": "Why is the HPV vaccine given to Form 1 girls in Malaysia?", "bm": "Mengapa vaksin HPV diberikan kepada pelajar perempuan Tingkatan 1 di Malaysia?" }, "answer": { "en": "It prevents HPV infection, which can cause cervical cancer.", "bm": "Ia mencegah jangkitan HPV yang boleh menyebabkan kanser serviks." } },
+      "tip": { "en": "Cancer = MITOSIS gone wrong. Down syndrome = MEIOSIS gone wrong.", "bm": "Kanser = MITOSIS bermasalah. Sindrom Down = MEIOSIS bermasalah." }
+    }
+  }
+}

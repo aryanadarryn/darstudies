@@ -1,0 +1,28 @@
+{
+  "chapterId": "math-03",
+  "reviewed": false,
+  "subtopics": {
+    "math-03-01": {
+      "keyPoints": [
+        { "en": "A statement is a sentence that is either true or false. Questions, commands, exclamations and open sentences (x + 1 = 4) are not statements.", "bm": "Pernyataan ialah ayat yang sama ada benar atau palsu. Soalan, arahan, seruan dan ayat terbuka (x + 1 = 4) bukan pernyataan." },
+        { "en": "Quantifiers: 'all' (every case) and 'some' (at least one). Negation uses 'not' or 'no'.", "bm": "Pengkuantiti: 'semua' (setiap kes) dan 'sebilangan' (sekurang-kurangnya satu). Penafian guna 'tidak' atau 'bukan'." },
+        { "en": "'p and q' is true only if both are true; 'p or q' is true if at least one is true.", "bm": "'p dan q' benar hanya jika kedua-duanya benar; 'p atau q' benar jika sekurang-kurangnya satu benar." },
+        { "en": "Implication 'if p, then q': converse 'if q then p', inverse 'if ~p then ~q', contrapositive 'if ~q then ~p'.", "bm": "Implikasi 'jika p, maka q': akas 'jika q maka p', songsangan 'jika ~p maka ~q', kontrapositif 'jika ~q maka ~p'." },
+        { "en": "An implication and its contrapositive have the same truth value; a counterexample proves a statement false.", "bm": "Implikasi dan kontrapositifnya mempunyai nilai kebenaran yang sama; contoh penyangkal membuktikan pernyataan palsu." }
+      ],
+      "example": { "question": { "en": "Write two implications from: 'x is even if and only if x is divisible by 2.'", "bm": "Tulis dua implikasi daripada: 'x genap jika dan hanya jika x boleh dibahagi dengan 2.'" }, "answer": { "en": "If x is even, then x is divisible by 2. If x is divisible by 2, then x is even.", "bm": "Jika x genap, maka x boleh dibahagi dengan 2. Jika x boleh dibahagi dengan 2, maka x genap." } },
+      "tip": { "en": "Contrapositive = swap + negate. Converse = swap only. Inverse = negate only.", "bm": "Kontrapositif = tukar + nafi. Akas = tukar sahaja. Songsangan = nafi sahaja." }
+    },
+    "math-03-02": {
+      "keyPoints": [
+        { "en": "An argument has premises and a conclusion.", "bm": "Hujah mempunyai premis dan kesimpulan." },
+        { "en": "Deductive reasoning: from general premises to a specific conclusion (certain if valid and sound).", "bm": "Penaakulan deduktif: daripada premis umum kepada kesimpulan khusus (pasti jika sah dan munasabah)." },
+        { "en": "Form I: All A are B; C is A ⇒ C is B. Form II: If p then q; p ⇒ q. Form III: If p then q; not q ⇒ not p.", "bm": "Bentuk I: Semua A ialah B; C ialah A ⇒ C ialah B. Bentuk II: Jika p maka q; p ⇒ q. Bentuk III: Jika p maka q; bukan q ⇒ bukan p." },
+        { "en": "Inductive reasoning: from specific cases/patterns to a general conclusion (strong or weak, not certain).", "bm": "Penaakulan induktif: daripada kes/corak khusus kepada kesimpulan umum (kuat atau lemah, tidak pasti)." },
+        { "en": "Valid = the conclusion follows from the premises. Sound = valid AND all premises true.", "bm": "Sah = kesimpulan mengikut daripada premis. Munasabah = sah DAN semua premis benar." }
+      ],
+      "example": { "question": { "en": "Make a general conclusion: 1 = 1², 1 + 3 = 2², 1 + 3 + 5 = 3², …", "bm": "Buat kesimpulan umum: 1 = 1², 1 + 3 = 2², 1 + 3 + 5 = 3², …" }, "answer": { "en": "The sum of the first n odd numbers = n² (inductive).", "bm": "Hasil tambah n nombor ganjil pertama = n² (induktif)." } },
+      "tip": { "en": "Beware: 'If p then q; q is true ⇒ p is true' is NOT a valid argument.", "bm": "Awas: 'Jika p maka q; q benar ⇒ p benar' BUKAN hujah yang sah." }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "chapterId": "bio-07",
+  "reviewed": false,
+  "subtopics": {
+    "bio-07-01": {
+      "keyPoints": [
+        { "en": "All living cells need energy for processes like muscle contraction, active transport, growth and nerve impulses.", "bm": "Semua sel hidup memerlukan tenaga untuk proses seperti pengecutan otot, pengangkutan aktif, pertumbuhan dan impuls saraf." },
+        { "en": "Cellular respiration oxidises glucose to release energy; part is stored as ATP, part lost as heat.", "bm": "Respirasi sel mengoksidakan glukosa untuk membebaskan tenaga; sebahagian disimpan sebagai ATP, sebahagian hilang sebagai haba." },
+        { "en": "ATP (adenosine triphosphate) → ADP + phosphate + energy. ATP is the cell's energy currency.", "bm": "ATP (adenosina trifosfat) → ADP + fosfat + tenaga. ATP ialah mata wang tenaga sel." },
+        { "en": "Two types: aerobic (with oxygen) and anaerobic/fermentation (without oxygen).", "bm": "Dua jenis: aerob (dengan oksigen) dan anaerob/fermentasi (tanpa oksigen)." }
+      ],
+      "example": { "question": { "en": "Is breathing the same as respiration?", "bm": "Adakah pernafasan sama dengan respirasi?" }, "answer": { "en": "No. Breathing moves air in and out of the lungs; cellular respiration is a chemical reaction in cells.", "bm": "Tidak. Pernafasan menggerakkan udara masuk dan keluar paru-paru; respirasi sel ialah tindak balas kimia dalam sel." } },
+      "tip": { "en": "Never write 'respiration produces energy' — energy is RELEASED, not made.", "bm": "Jangan tulis 'respirasi menghasilkan tenaga' — tenaga DIBEBASKAN, bukan dihasilkan." }
+    },
+    "bio-07-02": {
+      "keyPoints": [
+        { "en": "Aerobic respiration: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 2898 kJ.", "bm": "Respirasi aerob: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + 2898 kJ." },
+        { "en": "Glycolysis (glucose → pyruvate) happens in the cytoplasm; the rest occurs in mitochondria.", "bm": "Glikolisis (glukosa → piruvat) berlaku dalam sitoplasma; selebihnya dalam mitokondria." },
+        { "en": "Glucose is completely broken down, so a lot of energy is released (~38 ATP per glucose).", "bm": "Glukosa diuraikan sepenuhnya, jadi banyak tenaga dibebaskan (~38 ATP per glukosa)." },
+        { "en": "Experiment: limewater turns chalky with CO₂ from respiring seeds/insects; soda lime absorbs CO₂ in respirometers.", "bm": "Eksperimen: air kapur menjadi keruh dengan CO₂ daripada biji benih/serangga yang berespirasi; soda kapur menyerap CO₂ dalam respirometer." }
+      ],
+      "example": { "question": { "en": "In a respirometer with soda lime, the coloured liquid moves towards the germinating seeds. Why?", "bm": "Dalam respirometer dengan soda kapur, cecair berwarna bergerak ke arah biji benih bercambah. Mengapa?" }, "answer": { "en": "Seeds use O₂; the CO₂ released is absorbed by soda lime, so the gas volume and pressure fall.", "bm": "Biji benih menggunakan O₂; CO₂ yang dibebaskan diserap soda kapur, jadi isi padu dan tekanan gas berkurang." } },
+      "tip": { "en": "Use boiled (dead) seeds as the control set-up.", "bm": "Guna biji benih rebus (mati) sebagai susunan kawalan." }
+    },
+    "bio-07-03": {
+      "keyPoints": [
+        { "en": "Fermentation: incomplete breakdown of glucose without oxygen, in the cytoplasm; releases little energy (2 ATP).", "bm": "Fermentasi: penguraian glukosa tidak lengkap tanpa oksigen, dalam sitoplasma; membebaskan sedikit tenaga (2 ATP)." },
+        { "en": "In muscles during vigorous exercise: glucose → lactic acid + 150 kJ. Lactic acid causes fatigue and cramps.", "bm": "Dalam otot semasa senaman cergas: glukosa → asid laktik + 150 kJ. Asid laktik menyebabkan lesu dan kekejangan." },
+        { "en": "Oxygen debt is repaid after exercise: lactic acid goes to the liver and is oxidised or converted back to glucose.", "bm": "Hutang oksigen dibayar selepas senaman: asid laktik dibawa ke hati dan dioksidakan atau ditukar semula kepada glukosa." },
+        { "en": "In yeast: glucose → ethanol + CO₂ + 210 kJ — used for bread, tapai and biofuel.", "bm": "Dalam yis: glukosa → etanol + CO₂ + 210 kJ — digunakan untuk roti, tapai dan bahan api bio." },
+        { "en": "Lactic acid bacteria make yogurt and cheese; fermentation also makes tempeh, budu and cincalok.", "bm": "Bakteria asid laktik menghasilkan yogurt dan keju; fermentasi juga menghasilkan tempe, budu dan cincalok." }
+      ],
+      "example": { "question": { "en": "Why are athletes advised to cool down slowly after a race?", "bm": "Mengapa atlet dinasihatkan melakukan aktiviti menyejukkan badan perlahan-lahan selepas perlumbaan?" }, "answer": { "en": "Continued blood flow and breathing help remove lactic acid and repay the oxygen debt.", "bm": "Aliran darah dan pernafasan yang berterusan membantu menyingkir asid laktik dan membayar hutang oksigen." } },
+      "tip": { "en": "Human fermentation makes NO carbon dioxide — only yeast fermentation does.", "bm": "Fermentasi manusia TIDAK menghasilkan karbon dioksida — hanya fermentasi yis." }
+    }
+  }
+}
