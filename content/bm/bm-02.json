@@ -1,0 +1,880 @@
+{
+  "chapterId": "bm-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why is it \"menyapu\" but \"membaca\", \"mengira\" but \"mendengar\"? The prefix meN- changes shape like a chameleon, and once you know its pattern you will never spell it wrong again.",
+      "bm": "Mengapakah \"menyapu\" tetapi \"membaca\", \"mengira\" tetapi \"mendengar\"? Awalan meN- berubah bentuk seperti sumpah-sumpah, dan apabila anda faham polanya, anda tidak akan tersalah eja lagi."
+    },
+    "bigIdeas": [
+      {
+        "en": "Affixes: prefixes (awalan), suffixes (akhiran), circumfixes (apitan) and infixes (sisipan).",
+        "bm": "Imbuhan: awalan, akhiran, apitan dan sisipan."
+      },
+      {
+        "en": "meN- changes to me-, mem-, men-, meng-, meny- or menge- depending on the first letter; p, t, k, s usually drop.",
+        "bm": "meN- berubah menjadi me-, mem-, men-, meng-, meny- atau menge- bergantung pada huruf awal; p, t, k, s biasanya luluh."
+      },
+      {
+        "en": "Compound words are usually written apart (jalan raya) except fixed ones (kerjasama); reduplication can be full, partial or rhythmic.",
+        "bm": "Kata majmuk biasanya dieja terpisah (jalan raya) kecuali yang mantap (kerjasama); kata ganda boleh penuh, separa atau berentak."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "First letter of root",
+            "bm": "Huruf awal kata dasar"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "me-",
+              "bm": "me-"
+            },
+            "cells": [
+              {
+                "en": "l, m, n, r, w, y, ng, ny",
+                "bm": "l, m, n, r, w, y, ng, ny"
+              },
+              {
+                "en": "melukis, menanam, merasa",
+                "bm": "melukis, menanam, merasa"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "mem-",
+              "bm": "mem-"
+            },
+            "cells": [
+              {
+                "en": "b, p (drops), f, v",
+                "bm": "b, p (luluh), f, v"
+              },
+              {
+                "en": "membaca, memukul",
+                "bm": "membaca, memukul"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "men-",
+              "bm": "men-"
+            },
+            "cells": [
+              {
+                "en": "d, t (drops), c, j, z, sy",
+                "bm": "d, t (luluh), c, j, z, sy"
+              },
+              {
+                "en": "mendengar, menulis, mencari",
+                "bm": "mendengar, menulis, mencari"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "meng-",
+              "bm": "meng-"
+            },
+            "cells": [
+              {
+                "en": "vowels, g, h, k (drops), kh",
+                "bm": "vokal, g, h, k (luluh), kh"
+              },
+              {
+                "en": "mengambil, mengira, menghantar",
+                "bm": "mengambil, mengira, menghantar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "meny-",
+              "bm": "meny-"
+            },
+            "cells": [
+              {
+                "en": "s (drops)",
+                "bm": "s (luluh)"
+              },
+              {
+                "en": "menyapu, menyanyi",
+                "bm": "menyapu, menyanyi"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "menge-",
+              "bm": "menge-"
+            },
+            "cells": [
+              {
+                "en": "one-syllable roots",
+                "bm": "kata dasar satu suku kata"
+              },
+              {
+                "en": "mengecat, mengebom",
+                "bm": "mengecat, mengebom"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Awalan",
+          "bm": "Awalan"
+        },
+        "definition": {
+          "en": "Prefix added before the root: meN-, beR-, peN-, di-, ter-, ke-, se-.",
+          "bm": "Imbuhan di hadapan kata dasar: meN-, beR-, peN-, di-, ter-, ke-, se-."
+        }
+      },
+      {
+        "term": {
+          "en": "Akhiran",
+          "bm": "Akhiran"
+        },
+        "definition": {
+          "en": "Suffix added after the root: -kan, -i, -an.",
+          "bm": "Imbuhan di belakang kata dasar: -kan, -i, -an."
+        }
+      },
+      {
+        "term": {
+          "en": "Apitan",
+          "bm": "Apitan"
+        },
+        "definition": {
+          "en": "Circumfix around the root: ke-…-an, peN-…-an, meN-…-kan.",
+          "bm": "Imbuhan yang mengapit kata dasar: ke-…-an, peN-…-an, meN-…-kan."
+        }
+      },
+      {
+        "term": {
+          "en": "Sisipan",
+          "bm": "Sisipan"
+        },
+        "definition": {
+          "en": "Infix inside the root: -el- (telunjuk), -em- (gemuruh), -er- (gerigi).",
+          "bm": "Imbuhan di dalam kata dasar: -el- (telunjuk), -em- (gemuruh), -er- (gerigi)."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata majmuk",
+          "bm": "Kata majmuk"
+        },
+        "definition": {
+          "en": "Two words forming one meaning: kapal terbang, kaki bangku.",
+          "bm": "Dua kata yang membentuk satu makna: kapal terbang, kaki bangku."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata ganda berentak",
+          "bm": "Kata ganda berentak"
+        },
+        "definition": {
+          "en": "Rhythmic reduplication: sayur-mayur, gunung-ganang.",
+          "bm": "Penggandaan berirama: sayur-mayur, gunung-ganang."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Add meN- to \"tolong\", \"sapu\" and \"kira\".",
+        "bm": "Tambahkan meN- kepada \"tolong\", \"sapu\" dan \"kira\"."
+      },
+      "steps": [
+        {
+          "en": "tolong starts with t → men-, t drops → menolong.",
+          "bm": "tolong bermula dengan t → men-, t luluh → menolong."
+        },
+        {
+          "en": "sapu starts with s → meny-, s drops → menyapu.",
+          "bm": "sapu bermula dengan s → meny-, s luluh → menyapu."
+        },
+        {
+          "en": "kira starts with k → meng-, k drops → mengira.",
+          "bm": "kira bermula dengan k → meng-, k luluh → mengira."
+        }
+      ],
+      "answer": {
+        "en": "menolong, menyapu, mengira.",
+        "bm": "menolong, menyapu, mengira."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-02-q01",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "meN- + baca =",
+        "bm": "meN- + baca ="
+      },
+      "explanation": {
+        "en": "b → mem-: membaca.",
+        "bm": "b → mem-: membaca."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "membaca",
+          "bm": "membaca"
+        },
+        {
+          "en": "menbaca",
+          "bm": "menbaca"
+        },
+        {
+          "en": "mebaca",
+          "bm": "mebaca"
+        },
+        {
+          "en": "mengbaca",
+          "bm": "mengbaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q02",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "meN- + pukul =",
+        "bm": "meN- + pukul ="
+      },
+      "explanation": {
+        "en": "p → mem- and p drops (luluh): memukul.",
+        "bm": "p → mem- dan p luluh: memukul."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "memukul",
+          "bm": "memukul"
+        },
+        {
+          "en": "mempukul",
+          "bm": "mempukul"
+        },
+        {
+          "en": "menpukul",
+          "bm": "menpukul"
+        },
+        {
+          "en": "mepukul",
+          "bm": "mepukul"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q03",
+      "subtopicId": "bm-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "meN- + tulis = ______",
+        "bm": "meN- + tulis = ______"
+      },
+      "explanation": {
+        "en": "t → men- and t drops: menulis.",
+        "bm": "t → men- dan t luluh: menulis."
+      },
+      "difficulty": 1,
+      "answer": [
+        "menulis"
+      ]
+    },
+    {
+      "id": "bm-02-q04",
+      "subtopicId": "bm-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "meN- + sapu = ______",
+        "bm": "meN- + sapu = ______"
+      },
+      "explanation": {
+        "en": "s → meny- and s drops: menyapu.",
+        "bm": "s → meny- dan s luluh: menyapu."
+      },
+      "difficulty": 1,
+      "answer": [
+        "menyapu"
+      ]
+    },
+    {
+      "id": "bm-02-q05",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "meN- + cat =",
+        "bm": "meN- + cat ="
+      },
+      "explanation": {
+        "en": "One-syllable root → menge-: mengecat.",
+        "bm": "Kata dasar satu suku kata → menge-: mengecat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mengecat",
+          "bm": "mengecat"
+        },
+        {
+          "en": "mencat",
+          "bm": "mencat"
+        },
+        {
+          "en": "mecat",
+          "bm": "mecat"
+        },
+        {
+          "en": "menyat",
+          "bm": "menyat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q06",
+      "subtopicId": "bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which compound word is written as ONE word?",
+        "bm": "Kata majmuk manakah ditulis SERANGKAI?"
+      },
+      "explanation": {
+        "en": "Kerjasama is a fixed (mantap) compound.",
+        "bm": "Kerjasama ialah kata majmuk yang telah mantap."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "kerjasama",
+          "bm": "kerjasama"
+        },
+        {
+          "en": "jalan raya",
+          "bm": "jalan raya"
+        },
+        {
+          "en": "kapal terbang",
+          "bm": "kapal terbang"
+        },
+        {
+          "en": "meja tulis",
+          "bm": "meja tulis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q07",
+      "subtopicId": "bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Sayur-mayur\" is an example of…",
+        "bm": "\"Sayur-mayur\" ialah contoh…"
+      },
+      "explanation": {
+        "en": "The second part changes sound to rhyme: sayur-mayur.",
+        "bm": "Bahagian kedua berubah bunyi untuk berirama: sayur-mayur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rhythmic reduplication",
+          "bm": "kata ganda berentak"
+        },
+        {
+          "en": "full reduplication",
+          "bm": "kata ganda penuh"
+        },
+        {
+          "en": "partial reduplication",
+          "bm": "kata ganda separa"
+        },
+        {
+          "en": "compound word",
+          "bm": "kata majmuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q08",
+      "subtopicId": "bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is kata ganda separa?",
+        "bm": "Antara berikut, yang manakah kata ganda separa?"
+      },
+      "explanation": {
+        "en": "Only the first syllable is repeated: daun → dedaun.",
+        "bm": "Hanya suku kata pertama diulang: daun → dedaun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dedaun",
+          "bm": "dedaun"
+        },
+        {
+          "en": "daun-daun",
+          "bm": "daun-daun"
+        },
+        {
+          "en": "daun-daunan",
+          "bm": "daun-daunan"
+        },
+        {
+          "en": "kuih-muih",
+          "bm": "kuih-muih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q09",
+      "subtopicId": "bm-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each affix type with an example.",
+        "bm": "Padankan jenis imbuhan dengan contohnya."
+      },
+      "explanation": {
+        "en": "ber- / -an / ke-…-an / -el-.",
+        "bm": "ber- / -an / ke-…-an / -el-."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Prefix (awalan)",
+            "bm": "Awalan"
+          },
+          "right": {
+            "en": "berlari",
+            "bm": "berlari"
+          }
+        },
+        {
+          "left": {
+            "en": "Suffix (akhiran)",
+            "bm": "Akhiran"
+          },
+          "right": {
+            "en": "makanan",
+            "bm": "makanan"
+          }
+        },
+        {
+          "left": {
+            "en": "Circumfix (apitan)",
+            "bm": "Apitan"
+          },
+          "right": {
+            "en": "kebersihan",
+            "bm": "kebersihan"
+          }
+        },
+        {
+          "left": {
+            "en": "Infix (sisipan)",
+            "bm": "Sisipan"
+          },
+          "right": {
+            "en": "telunjuk",
+            "bm": "telunjuk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-02-q10",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "peN- + sapu =",
+        "bm": "peN- + sapu ="
+      },
+      "explanation": {
+        "en": "peN- follows the same pattern as meN-: s → peny-.",
+        "bm": "peN- mengikut pola meN-: s → peny-."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "penyapu",
+          "bm": "penyapu"
+        },
+        {
+          "en": "pensapu",
+          "bm": "pensapu"
+        },
+        {
+          "en": "pesapu",
+          "bm": "pesapu"
+        },
+        {
+          "en": "pengsapu",
+          "bm": "pengsapu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q11",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word uses the suffix -kan correctly?",
+        "bm": "Perkataan manakah menggunakan akhiran -kan dengan betul?"
+      },
+      "explanation": {
+        "en": "meN-…-kan forms a causative verb: membersihkan (make clean).",
+        "bm": "meN-…-kan membentuk kata kerja kausatif: membersihkan (menjadikan bersih)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Dia membersihkan bilik.",
+          "bm": "Dia membersihkan bilik."
+        },
+        {
+          "en": "Dia membersihi bilik.",
+          "bm": "Dia membersihi bilik."
+        },
+        {
+          "en": "Dia membersihan bilik.",
+          "bm": "Dia membersihan bilik."
+        },
+        {
+          "en": "Dia bersihkan-kan bilik.",
+          "bm": "Dia bersihkan-kan bilik."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q12",
+      "subtopicId": "bm-02-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL compound words that are written separately.",
+        "bm": "Pilih SEMUA kata majmuk yang ditulis terpisah."
+      },
+      "explanation": {
+        "en": "\"Setiausaha\" is a fixed compound written as one word.",
+        "bm": "\"Setiausaha\" kata majmuk mantap yang ditulis serangkai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "jalan raya",
+          "bm": "jalan raya"
+        },
+        {
+          "en": "kapal terbang",
+          "bm": "kapal terbang"
+        },
+        {
+          "en": "kaki bangku",
+          "bm": "kaki bangku"
+        },
+        {
+          "en": "setiausaha",
+          "bm": "setiausaha"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-02-q13",
+      "subtopicId": "bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Reduplicating a compound word: \"kapal terbang\" (plural) becomes…",
+        "bm": "Menggandakan kata majmuk: \"kapal terbang\" (jamak) menjadi…"
+      },
+      "explanation": {
+        "en": "Only the first element is reduplicated.",
+        "bm": "Hanya unsur pertama digandakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "kapal-kapal terbang",
+          "bm": "kapal-kapal terbang"
+        },
+        {
+          "en": "kapal terbang-terbang",
+          "bm": "kapal terbang-terbang"
+        },
+        {
+          "en": "kapal-kapal terbang-terbang",
+          "bm": "kapal-kapal terbang-terbang"
+        },
+        {
+          "en": "kapalkapal terbang",
+          "bm": "kapalkapal terbang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q14",
+      "subtopicId": "bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Reduplicating the fixed compound \"jawatankuasa\" gives…",
+        "bm": "Menggandakan kata majmuk mantap \"jawatankuasa\" menghasilkan…"
+      },
+      "explanation": {
+        "en": "A fixed compound is treated as one word and reduplicated fully.",
+        "bm": "Kata majmuk mantap dianggap satu perkataan dan digandakan sepenuhnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "jawatankuasa-jawatankuasa",
+          "bm": "jawatankuasa-jawatankuasa"
+        },
+        {
+          "en": "jawatan-jawatan kuasa",
+          "bm": "jawatan-jawatan kuasa"
+        },
+        {
+          "en": "jawatankuasa-kuasa",
+          "bm": "jawatankuasa-kuasa"
+        },
+        {
+          "en": "jawatan-jawatankuasa",
+          "bm": "jawatan-jawatankuasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q15",
+      "subtopicId": "bm-02-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps for adding meN- to a root.",
+        "bm": "Susun langkah menambah meN- kepada kata dasar."
+      },
+      "explanation": {
+        "en": "Letter → form → drop → check.",
+        "bm": "Huruf → bentuk → luluh → semak."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Look at the first letter of the root",
+          "bm": "Lihat huruf pertama kata dasar"
+        },
+        {
+          "en": "Choose the correct form (me-, mem-, men-, meng-, meny-, menge-)",
+          "bm": "Pilih bentuk yang betul (me-, mem-, men-, meng-, meny-, menge-)"
+        },
+        {
+          "en": "Drop p, t, k or s if needed",
+          "bm": "Luluhkan p, t, k atau s jika perlu"
+        },
+        {
+          "en": "Read the word to check",
+          "bm": "Baca perkataan untuk menyemak"
+        }
+      ]
+    },
+    {
+      "id": "bm-02-q16",
+      "subtopicId": "bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word has the infix -em-?",
+        "bm": "Perkataan manakah mempunyai sisipan -em-?"
+      },
+      "explanation": {
+        "en": "guruh + -em- = gemuruh.",
+        "bm": "guruh + -em- = gemuruh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gemuruh",
+          "bm": "gemuruh"
+        },
+        {
+          "en": "gerigi",
+          "bm": "gerigi"
+        },
+        {
+          "en": "telunjuk",
+          "bm": "telunjuk"
+        },
+        {
+          "en": "seruling",
+          "bm": "seruling"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q17",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence has an affix error?",
+        "bm": "Ayat manakah mempunyai kesalahan imbuhan?"
+      },
+      "explanation": {
+        "en": "Roots starting with k take meng-, never men-. The standard form is \"mengkaji\".",
+        "bm": "Kata dasar bermula dengan k menerima meng-, bukan men-. Bentuk baku ialah \"mengkaji\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Kami mempelajari bahasa Jepun.",
+          "bm": "Kami mempelajari bahasa Jepun."
+        },
+        {
+          "en": "Polis sedang menyiasat kes itu.",
+          "bm": "Polis sedang menyiasat kes itu."
+        },
+        {
+          "en": "Pekerja itu menkaji laporan.",
+          "bm": "Pekerja itu menkaji laporan."
+        },
+        {
+          "en": "Ibu menyiram pokok bunga.",
+          "bm": "Ibu menyiram pokok bunga."
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "bm-02-q18",
+      "subtopicId": "bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the difference between \"menaikkan\" and \"menaiki\"?",
+        "bm": "Apakah perbezaan antara \"menaikkan\" dan \"menaiki\"?"
+      },
+      "explanation": {
+        "en": "-kan is causative (make something rise); -i shows location (get onto it).",
+        "bm": "-kan bersifat kausatif (menyebabkan naik); -i menunjukkan lokatif (naik ke atasnya)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "menaikkan = raise something; menaiki = get on/ride something",
+          "bm": "menaikkan = mengangkat sesuatu ke atas; menaiki = naik ke atas sesuatu"
+        },
+        {
+          "en": "They mean the same",
+          "bm": "Maknanya sama"
+        },
+        {
+          "en": "menaiki is wrong spelling",
+          "bm": "menaiki ejaan salah"
+        },
+        {
+          "en": "menaikkan is a noun",
+          "bm": "menaikkan kata nama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q19",
+      "subtopicId": "bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which reduplication is INCORRECT?",
+        "bm": "Penggandaan manakah yang SALAH?"
+      },
+      "explanation": {
+        "en": "\"Para\" already shows plural, so do not reduplicate as well.",
+        "bm": "\"Para\" sudah menunjukkan jamak, jadi jangan digandakan lagi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Para pelajar-pelajar hadir.",
+          "bm": "Para pelajar-pelajar hadir."
+        },
+        {
+          "en": "Pelajar-pelajar hadir.",
+          "bm": "Pelajar-pelajar hadir."
+        },
+        {
+          "en": "Para pelajar hadir.",
+          "bm": "Para pelajar hadir."
+        },
+        {
+          "en": "Semua pelajar hadir.",
+          "bm": "Semua pelajar hadir."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-02-q20",
+      "subtopicId": "bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is \"kaki bangku\" called a kata majmuk kiasan?",
+        "bm": "Mengapakah \"kaki bangku\" disebut kata majmuk kiasan?"
+      },
+      "explanation": {
+        "en": "Kata majmuk kiasan = simpulan bahasa.",
+        "bm": "Kata majmuk kiasan = simpulan bahasa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It has a figurative meaning (not good at playing football), not literal",
+          "bm": "Ia membawa makna kiasan (tidak pandai bermain bola), bukan makna harfiah"
+        },
+        {
+          "en": "It is about furniture",
+          "bm": "Ia tentang perabot"
+        },
+        {
+          "en": "It is a borrowed word",
+          "bm": "Ia kata pinjaman"
+        },
+        {
+          "en": "It is written as one word",
+          "bm": "Ia ditulis serangkai"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "chapterId": "pi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Millions of people in two white cloths, rich and poor side by side, standing on one plain on the same day. What does hajj teach that no classroom can?",
+      "bm": "Berjuta-juta manusia berpakaian dua helai kain putih, kaya dan miskin bersebelahan, berdiri di satu padang pada hari yang sama. Apakah yang diajar oleh haji yang tidak dapat diajar di bilik darjah?"
+    },
+    "bigIdeas": [
+      {
+        "en": "Hajj is the fifth pillar of Islam, compulsory once in a lifetime for those who are able (istita'ah).",
+        "bm": "Haji rukun Islam kelima, wajib sekali seumur hidup bagi yang berkemampuan (istitaah)."
+      },
+      {
+        "en": "Missing a rukun makes hajj invalid; missing a wajib must be replaced with dam.",
+        "bm": "Meninggalkan rukun menjadikan haji tidak sah; meninggalkan wajib perlu diganti dengan dam."
+      },
+      {
+        "en": "Qurban (10–13 Zulhijjah) and aqiqah (for a newborn) are sunat muakkad sacrifices that build gratitude and sharing.",
+        "bm": "Korban (10–13 Zulhijjah) dan akikah (untuk bayi) ialah ibadah sembelihan sunat muakkad yang memupuk syukur dan berkongsi."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Hajj",
+            "bm": "Haji"
+          },
+          {
+            "en": "Umrah",
+            "bm": "Umrah"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Ihram (intention)",
+              "bm": "Ihram (niat)"
+            },
+            "cells": [
+              {
+                "en": "✓",
+                "bm": "✓"
+              },
+              {
+                "en": "✓",
+                "bm": "✓"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Wukuf at Arafah",
+              "bm": "Wukuf di Arafah"
+            },
+            "cells": [
+              {
+                "en": "✓ (9 Zulhijjah)",
+                "bm": "✓ (9 Zulhijjah)"
+              },
+              {
+                "en": "✗",
+                "bm": "✗"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tawaf",
+              "bm": "Tawaf"
+            },
+            "cells": [
+              {
+                "en": "✓ Tawaf ifadah",
+                "bm": "✓ Tawaf ifadah"
+              },
+              {
+                "en": "✓",
+                "bm": "✓"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sa'ie",
+              "bm": "Saie"
+            },
+            "cells": [
+              {
+                "en": "✓",
+                "bm": "✓"
+              },
+              {
+                "en": "✓",
+                "bm": "✓"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Shave / cut hair",
+              "bm": "Bercukur / bergunting"
+            },
+            "cells": [
+              {
+                "en": "✓",
+                "bm": "✓"
+              },
+              {
+                "en": "✓",
+                "bm": "✓"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "In order (tertib)",
+              "bm": "Tertib"
+            },
+            "cells": [
+              {
+                "en": "✓",
+                "bm": "✓"
+              },
+              {
+                "en": "✓",
+                "bm": "✓"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Ihram",
+          "bm": "Ihram"
+        },
+        "definition": {
+          "en": "Intention to begin hajj or umrah, with its prohibitions.",
+          "bm": "Niat memulakan haji atau umrah, beserta larangannya."
+        }
+      },
+      {
+        "term": {
+          "en": "Miqat",
+          "bm": "Miqat"
+        },
+        "definition": {
+          "en": "Fixed time or place to begin ihram.",
+          "bm": "Waktu atau tempat yang ditetapkan untuk memulakan ihram."
+        }
+      },
+      {
+        "term": {
+          "en": "Wukuf",
+          "bm": "Wukuf"
+        },
+        "definition": {
+          "en": "Being present at Arafah on 9 Zulhijjah (after zawal) — the core of hajj.",
+          "bm": "Berada di Arafah pada 9 Zulhijjah (selepas gelincir matahari) — teras haji."
+        }
+      },
+      {
+        "term": {
+          "en": "Sa'ie",
+          "bm": "Saie"
+        },
+        "definition": {
+          "en": "Walking 7 times between Safa and Marwah.",
+          "bm": "Berjalan 7 kali antara Safa dan Marwah."
+        }
+      },
+      {
+        "term": {
+          "en": "Dam",
+          "bm": "Dam"
+        },
+        "definition": {
+          "en": "Penalty (usually a sacrifice) for leaving a wajib or breaking an ihram rule.",
+          "bm": "Denda (biasanya sembelihan) kerana meninggalkan wajib atau melanggar larangan ihram."
+        }
+      },
+      {
+        "term": {
+          "en": "Hari Tasyrik",
+          "bm": "Hari Tasyrik"
+        },
+        "definition": {
+          "en": "11, 12 and 13 Zulhijjah.",
+          "bm": "11, 12 dan 13 Zulhijjah."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Pak Ali did not spend the night at Muzdalifah. Is his hajj valid?",
+        "bm": "Pak Ali tidak bermalam di Muzdalifah. Adakah hajinya sah?"
+      },
+      "steps": [
+        {
+          "en": "Identify the act: bermalam di Muzdalifah.",
+          "bm": "Kenal pasti perbuatan: bermalam di Muzdalifah."
+        },
+        {
+          "en": "Classify it: it is a WAJIB haji, not a rukun.",
+          "bm": "Kelaskan: ia WAJIB haji, bukan rukun."
+        },
+        {
+          "en": "Rule: leaving a wajib → hajj valid but must pay dam.",
+          "bm": "Hukum: meninggalkan wajib → haji sah tetapi wajib membayar dam."
+        }
+      ],
+      "answer": {
+        "en": "His hajj is valid, but he must pay dam (unless he had a valid excuse recognised by the scholars).",
+        "bm": "Hajinya sah, tetapi dia wajib membayar dam (kecuali ada uzur yang diiktiraf ulama)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "pi-05-q01",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hajj is which pillar of Islam?",
+        "bm": "Haji ialah rukun Islam yang ke…"
+      },
+      "explanation": {
+        "en": "Syahadah, solat, zakat, puasa, then haji.",
+        "bm": "Syahadah, solat, zakat, puasa, kemudian haji."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Fifth",
+          "bm": "Kelima"
+        },
+        {
+          "en": "Fourth",
+          "bm": "Keempat"
+        },
+        {
+          "en": "Third",
+          "bm": "Ketiga"
+        },
+        {
+          "en": "Second",
+          "bm": "Kedua"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q02",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Wukuf at Arafah takes place on…",
+        "bm": "Wukuf di Arafah berlaku pada…"
+      },
+      "explanation": {
+        "en": "From zawal (noon) of 9 Zulhijjah until dawn of 10 Zulhijjah.",
+        "bm": "Dari gelincir matahari 9 Zulhijjah hingga terbit fajar 10 Zulhijjah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "9 Zulhijjah",
+          "bm": "9 Zulhijjah"
+        },
+        {
+          "en": "10 Zulhijjah",
+          "bm": "10 Zulhijjah"
+        },
+        {
+          "en": "1 Syawal",
+          "bm": "1 Syawal"
+        },
+        {
+          "en": "27 Ramadan",
+          "bm": "27 Ramadan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q03",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which act is a rukun of hajj but NOT of umrah?",
+        "bm": "Perbuatan manakah rukun haji tetapi BUKAN rukun umrah?"
+      },
+      "explanation": {
+        "en": "Umrah has no wukuf.",
+        "bm": "Umrah tiada wukuf."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Wukuf at Arafah",
+          "bm": "Wukuf di Arafah"
+        },
+        {
+          "en": "Tawaf",
+          "bm": "Tawaf"
+        },
+        {
+          "en": "Sa'ie",
+          "bm": "Saie"
+        },
+        {
+          "en": "Ihram",
+          "bm": "Ihram"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q04",
+      "subtopicId": "pi-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Walking 7 times between Safa and Marwah is called ______.",
+        "bm": "Berjalan 7 kali antara Safa dan Marwah dipanggil ______."
+      },
+      "explanation": {
+        "en": "It remembers Hajar searching for water for Ismail.",
+        "bm": "Ia mengingati Hajar mencari air untuk Ismail."
+      },
+      "difficulty": 1,
+      "answer": [
+        "saie",
+        "sa'ie",
+        "sai",
+        "sa'i",
+        "sa'y"
+      ]
+    },
+    {
+      "id": "pi-05-q05",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Qurban may be performed from…",
+        "bm": "Ibadah korban boleh dilakukan dari…"
+      },
+      "explanation": {
+        "en": "After the Eid al-Adha prayer until sunset on the last day of tasyrik.",
+        "bm": "Selepas solat Aidiladha hingga terbenam matahari hari tasyrik terakhir."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "10 to 13 Zulhijjah",
+          "bm": "10 hingga 13 Zulhijjah"
+        },
+        {
+          "en": "1 to 10 Ramadan",
+          "bm": "1 hingga 10 Ramadan"
+        },
+        {
+          "en": "1 Syawal only",
+          "bm": "1 Syawal sahaja"
+        },
+        {
+          "en": "Any day of the year",
+          "bm": "Mana-mana hari sepanjang tahun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q06",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A cow for qurban can be shared by up to…",
+        "bm": "Seekor lembu korban boleh dikongsi oleh paling ramai…"
+      },
+      "explanation": {
+        "en": "A camel or cow = 7 shares; a goat or sheep = 1 share.",
+        "bm": "Unta atau lembu = 7 bahagian; kambing atau biri-biri = 1 bahagian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "7 people",
+          "bm": "7 orang"
+        },
+        {
+          "en": "2 people",
+          "bm": "2 orang"
+        },
+        {
+          "en": "10 people",
+          "bm": "10 orang"
+        },
+        {
+          "en": "1 person only",
+          "bm": "1 orang sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q07",
+      "subtopicId": "pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The recommended day to perform aqiqah is the baby's…",
+        "bm": "Hari yang disunatkan untuk akikah ialah hari…"
+      },
+      "explanation": {
+        "en": "Along with naming and shaving the baby's hair.",
+        "bm": "Bersama memberi nama dan mencukur rambut bayi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "7th day",
+          "bm": "ketujuh"
+        },
+        {
+          "en": "40th day",
+          "bm": "keempat puluh"
+        },
+        {
+          "en": "first birthday",
+          "bm": "ulang tahun pertama"
+        },
+        {
+          "en": "day of marriage",
+          "bm": "perkahwinan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q08",
+      "subtopicId": "pi-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "For a baby boy, it is sunat to slaughter ______ goats for aqiqah.",
+        "bm": "Bagi bayi lelaki, disunatkan menyembelih ______ ekor kambing untuk akikah."
+      },
+      "explanation": {
+        "en": "Two for a boy, one for a girl — though one is enough for both.",
+        "bm": "Dua untuk lelaki, satu untuk perempuan — walaupun seekor sudah memadai untuk kedua-duanya."
+      },
+      "difficulty": 1,
+      "answer": [
+        "2",
+        "two",
+        "dua"
+      ]
+    },
+    {
+      "id": "pi-05-q09",
+      "subtopicId": "pi-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL wajib haji (not rukun).",
+        "bm": "Pilih SEMUA wajib haji (bukan rukun)."
+      },
+      "explanation": {
+        "en": "Wukuf is a rukun. Ihram from miqat and bermalam di Mina are also wajib.",
+        "bm": "Wukuf ialah rukun. Ihram dari miqat dan bermalam di Mina juga wajib."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Spending the night at Muzdalifah",
+          "bm": "Bermalam di Muzdalifah"
+        },
+        {
+          "en": "Stoning the jamrah",
+          "bm": "Melontar jamrah"
+        },
+        {
+          "en": "Tawaf wada'",
+          "bm": "Tawaf wada'"
+        },
+        {
+          "en": "Wukuf at Arafah",
+          "bm": "Wukuf di Arafah"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "pi-05-q10",
+      "subtopicId": "pi-05-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the rukun of umrah in order.",
+        "bm": "Susun rukun umrah mengikut tertib."
+      },
+      "explanation": {
+        "en": "Plus tertib (doing them in order).",
+        "bm": "Ditambah tertib (melakukannya mengikut urutan)."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Ihram",
+          "bm": "Ihram"
+        },
+        {
+          "en": "Tawaf",
+          "bm": "Tawaf"
+        },
+        {
+          "en": "Sa'ie",
+          "bm": "Saie"
+        },
+        {
+          "en": "Shave or cut hair",
+          "bm": "Bercukur atau bergunting"
+        }
+      ]
+    },
+    {
+      "id": "pi-05-q11",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What happens if a pilgrim leaves a rukun of hajj?",
+        "bm": "Apakah yang berlaku jika jemaah meninggalkan rukun haji?"
+      },
+      "explanation": {
+        "en": "A rukun cannot be replaced by dam.",
+        "bm": "Rukun tidak boleh diganti dengan dam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The hajj is not valid",
+          "bm": "Haji tidak sah"
+        },
+        {
+          "en": "He pays dam and it is valid",
+          "bm": "Bayar dam dan sah"
+        },
+        {
+          "en": "Nothing",
+          "bm": "Tiada apa-apa"
+        },
+        {
+          "en": "He prays two raka'at instead",
+          "bm": "Solat dua rakaat sebagai ganti"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q12",
+      "subtopicId": "pi-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each place with the hajj activity.",
+        "bm": "Padankan tempat dengan aktiviti haji."
+      },
+      "explanation": {
+        "en": "Know where each act happens.",
+        "bm": "Ketahui tempat setiap perbuatan dilakukan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Arafah",
+            "bm": "Arafah"
+          },
+          "right": {
+            "en": "Wukuf",
+            "bm": "Wukuf"
+          }
+        },
+        {
+          "left": {
+            "en": "Muzdalifah",
+            "bm": "Muzdalifah"
+          },
+          "right": {
+            "en": "Spend the night; collect pebbles",
+            "bm": "Bermalam; kutip batu"
+          }
+        },
+        {
+          "left": {
+            "en": "Mina",
+            "bm": "Mina"
+          },
+          "right": {
+            "en": "Stoning the jamrah",
+            "bm": "Melontar jamrah"
+          }
+        },
+        {
+          "left": {
+            "en": "Safa & Marwah",
+            "bm": "Safa & Marwah"
+          },
+          "right": {
+            "en": "Sa'ie",
+            "bm": "Saie"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pi-05-q13",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How is qurban meat distributed?",
+        "bm": "Bagaimanakah daging korban diagihkan?"
+      },
+      "explanation": {
+        "en": "Selling any part (including the skin) is not allowed.",
+        "bm": "Menjual mana-mana bahagian (termasuk kulit) tidak dibenarkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Raw, especially to the poor and needy",
+          "bm": "Mentah, terutamanya kepada fakir dan miskin"
+        },
+        {
+          "en": "Cooked only for guests",
+          "bm": "Dimasak untuk tetamu sahaja"
+        },
+        {
+          "en": "Sold for profit",
+          "bm": "Dijual untuk untung"
+        },
+        {
+          "en": "Kept only for the owner",
+          "bm": "Disimpan untuk pemilik sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q14",
+      "subtopicId": "pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How is aqiqah meat different from qurban meat?",
+        "bm": "Bagaimanakah daging akikah berbeza daripada daging korban?"
+      },
+      "explanation": {
+        "en": "Aqiqah meat is sunat to be cooked; qurban meat is given raw.",
+        "bm": "Daging akikah sunat dimasak; daging korban diberi mentah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is sunat to cook it before giving",
+          "bm": "Sunat dimasak sebelum diberi"
+        },
+        {
+          "en": "It must be given raw",
+          "bm": "Mesti diberi mentah"
+        },
+        {
+          "en": "It must be sold",
+          "bm": "Mesti dijual"
+        },
+        {
+          "en": "It cannot be eaten",
+          "bm": "Tidak boleh dimakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q15",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The ruling of qurban for an able Muslim (Syafi'i school) is…",
+        "bm": "Hukum korban bagi Muslim yang berkemampuan (mazhab Syafie) ialah…"
+      },
+      "explanation": {
+        "en": "It becomes wajib only if vowed (nazar).",
+        "bm": "Ia menjadi wajib hanya jika dinazarkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sunat muakkad",
+          "bm": "Sunat muakkad"
+        },
+        {
+          "en": "Fardu ain",
+          "bm": "Fardu ain"
+        },
+        {
+          "en": "Harus",
+          "bm": "Harus"
+        },
+        {
+          "en": "Makruh",
+          "bm": "Makruh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q16",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Qurban commemorates the obedience of…",
+        "bm": "Ibadah korban memperingati ketaatan…"
+      },
+      "explanation": {
+        "en": "As-Saffat: 102–107.",
+        "bm": "As-Saffat: 102–107."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Prophet Ibrahim and Ismail",
+          "bm": "Nabi Ibrahim dan Ismail"
+        },
+        {
+          "en": "Prophet Musa",
+          "bm": "Nabi Musa"
+        },
+        {
+          "en": "Prophet Nuh",
+          "bm": "Nabi Nuh"
+        },
+        {
+          "en": "Prophet Yusuf",
+          "bm": "Nabi Yusuf"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q17",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do all pilgrims wear simple white ihram cloths?",
+        "bm": "Mengapakah semua jemaah memakai kain ihram putih yang ringkas?"
+      },
+      "explanation": {
+        "en": "Ihram removes worldly differences and reminds of the burial shroud.",
+        "bm": "Ihram menghapuskan perbezaan duniawi dan mengingatkan kepada kain kafan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To show everyone is equal before Allah, without status or wealth",
+          "bm": "Menunjukkan semua sama di sisi Allah, tanpa status atau harta"
+        },
+        {
+          "en": "Because colours are expensive",
+          "bm": "Kerana warna mahal"
+        },
+        {
+          "en": "For photography",
+          "bm": "Untuk bergambar"
+        },
+        {
+          "en": "To keep cool only",
+          "bm": "Untuk sejuk sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q18",
+      "subtopicId": "pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A family can afford either a new TV or a qurban share. Which choice BEST reflects the spirit of qurban?",
+        "bm": "Sebuah keluarga mampu membeli TV baharu atau satu bahagian korban. Pilihan manakah PALING mencerminkan semangat korban?"
+      },
+      "explanation": {
+        "en": "Qurban trains sacrifice and caring for others.",
+        "bm": "Korban melatih pengorbanan dan keprihatinan terhadap orang lain."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The qurban share — sacrificing desire for Allah and sharing with the poor",
+          "bm": "Bahagian korban — mengorbankan keinginan kerana Allah dan berkongsi dengan yang miskin"
+        },
+        {
+          "en": "The TV, because qurban is never needed",
+          "bm": "TV, kerana korban tidak pernah perlu"
+        },
+        {
+          "en": "Neither",
+          "bm": "Kedua-duanya tidak"
+        },
+        {
+          "en": "Borrow money for both",
+          "bm": "Pinjam wang untuk kedua-duanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q19",
+      "subtopicId": "pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does Islam require istita'ah (ability) before hajj becomes wajib?",
+        "bm": "Mengapakah Islam mensyaratkan istitaah sebelum haji menjadi wajib?"
+      },
+      "explanation": {
+        "en": "Ability includes health, money, safe journey and provision for dependants.",
+        "bm": "Kemampuan termasuk kesihatan, wang, perjalanan selamat dan nafkah untuk tanggungan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Islam does not burden people beyond their capacity, and family needs must be met",
+          "bm": "Islam tidak membebankan melebihi kemampuan, dan keperluan keluarga mesti dipenuhi"
+        },
+        {
+          "en": "To stop people from going",
+          "bm": "Untuk menghalang orang pergi"
+        },
+        {
+          "en": "Because hajj is only for the rich",
+          "bm": "Kerana haji hanya untuk orang kaya"
+        },
+        {
+          "en": "It is not required",
+          "bm": "Ia tidak disyaratkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-05-q20",
+      "subtopicId": "pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the social benefit of aqiqah?",
+        "bm": "Apakah manfaat sosial akikah?"
+      },
+      "explanation": {
+        "en": "Aqiqah expresses gratitude and builds community bonds.",
+        "bm": "Akikah meluahkan kesyukuran dan membina ikatan masyarakat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It spreads joy and strengthens ties as the community shares in welcoming the baby",
+          "bm": "Menyebarkan kegembiraan dan mengeratkan hubungan apabila masyarakat berkongsi menyambut bayi"
+        },
+        {
+          "en": "It is only for show",
+          "bm": "Hanya untuk menunjuk-nunjuk"
+        },
+        {
+          "en": "It replaces naming the baby",
+          "bm": "Menggantikan pemberian nama"
+        },
+        {
+          "en": "It is a business",
+          "bm": "Ia perniagaan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

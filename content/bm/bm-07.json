@@ -1,0 +1,865 @@
+{
+  "chapterId": "bm-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Pisang emas dibawa belayar, masak sebiji di atas peti.\" The first two lines say nothing about the message — yet without them, the pantun would not work. Literature has rules you can learn.",
+      "bm": "\"Pisang emas dibawa belayar, masak sebiji di atas peti.\" Dua baris pertama tidak menyatakan maksud — namun tanpanya pantun tidak sempurna. Kesusasteraan ada peraturan yang boleh dipelajari."
+    },
+    "bigIdeas": [
+      {
+        "en": "Traditional poetry has fixed forms: pantun (a-b-a-b), syair (a-a-a-a), gurindam (a-a), seloka (free).",
+        "bm": "Puisi tradisional mempunyai bentuk tetap: pantun (a-b-a-b), syair (a-a-a-a), gurindam (a-a), seloka (bebas)."
+      },
+      {
+        "en": "Prose is analysed by theme, issues, characters, plot, setting and point of view.",
+        "bm": "Prosa dianalisis melalui tema, persoalan, watak, plot, latar dan sudut pandangan."
+      },
+      {
+        "en": "Figures of speech (simile, metaphor, personification…) make language vivid; every text carries values and lessons.",
+        "bm": "Gaya bahasa (simile, metafora, personifikasi…) menghidupkan bahasa; setiap teks membawa nilai dan pengajaran."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Lines per stanza",
+            "bm": "Baris serangkap"
+          },
+          {
+            "en": "Rhyme",
+            "bm": "Rima"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Pantun (4 kerat)",
+              "bm": "Pantun (4 kerat)"
+            },
+            "cells": [
+              {
+                "en": "4: 2 pembayang + 2 maksud",
+                "bm": "4: 2 pembayang + 2 maksud"
+              },
+              {
+                "en": "a-b-a-b",
+                "bm": "a-b-a-b"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Syair",
+              "bm": "Syair"
+            },
+            "cells": [
+              {
+                "en": "4, all lines carry meaning; tells a story",
+                "bm": "4, semua baris maksud; bercerita"
+              },
+              {
+                "en": "a-a-a-a",
+                "bm": "a-a-a-a"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Gurindam",
+              "bm": "Gurindam"
+            },
+            "cells": [
+              {
+                "en": "2: condition + result",
+                "bm": "2: syarat + akibat/jawapan"
+              },
+              {
+                "en": "a-a",
+                "bm": "a-a"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Seloka",
+              "bm": "Seloka"
+            },
+            "cells": [
+              {
+                "en": "Free; satire or humour",
+                "bm": "Bebas; sindiran atau jenaka"
+              },
+              {
+                "en": "Free",
+                "bm": "Bebas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sajak",
+              "bm": "Sajak"
+            },
+            "cells": [
+              {
+                "en": "Free, modern poetry",
+                "bm": "Bebas, puisi moden"
+              },
+              {
+                "en": "Free",
+                "bm": "Bebas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tema",
+          "bm": "Tema"
+        },
+        "definition": {
+          "en": "The main idea of a work.",
+          "bm": "Persoalan pokok sesebuah karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Persoalan",
+          "bm": "Persoalan"
+        },
+        "definition": {
+          "en": "Smaller issues raised in the work.",
+          "bm": "Isu-isu sampingan yang dibangkitkan dalam karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Plot",
+          "bm": "Plot"
+        },
+        "definition": {
+          "en": "Sequence of events: permulaan, perkembangan, perumitan, klimaks, peleraian.",
+          "bm": "Jalinan peristiwa: permulaan, perkembangan, perumitan, klimaks, peleraian."
+        }
+      },
+      {
+        "term": {
+          "en": "Latar",
+          "bm": "Latar"
+        },
+        "definition": {
+          "en": "Setting: place, time and society.",
+          "bm": "Latar tempat, masa dan masyarakat."
+        }
+      },
+      {
+        "term": {
+          "en": "Pembayang",
+          "bm": "Pembayang"
+        },
+        "definition": {
+          "en": "The first half of a pantun that sets up the rhyme.",
+          "bm": "Separuh pertama pantun yang menjadi pembayang rima."
+        }
+      },
+      {
+        "term": {
+          "en": "Personifikasi",
+          "bm": "Personifikasi"
+        },
+        "definition": {
+          "en": "Giving human qualities to non-human things: \"angin berbisik\".",
+          "bm": "Memberi sifat manusia kepada benda bukan manusia: \"angin berbisik\"."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Identify the figure of speech: \"Hatinya keras bagai batu.\"",
+        "bm": "Kenal pasti gaya bahasa: \"Hatinya keras bagai batu.\""
+      },
+      "steps": [
+        {
+          "en": "Look for comparison words: bagai, seperti, umpama, bak.",
+          "bm": "Cari kata perbandingan: bagai, seperti, umpama, bak."
+        },
+        {
+          "en": "\"bagai batu\" compares the heart to a stone using \"bagai\".",
+          "bm": "\"bagai batu\" membandingkan hati dengan batu menggunakan \"bagai\"."
+        }
+      ],
+      "answer": {
+        "en": "Simile — a direct comparison with \"bagai\".",
+        "bm": "Simile — perbandingan secara terus menggunakan \"bagai\"."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-07-q01",
+      "subtopicId": "bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A four-line pantun has a rhyme scheme of…",
+        "bm": "Pantun empat kerat mempunyai skema rima…"
+      },
+      "explanation": {
+        "en": "Lines 1 and 3 rhyme; lines 2 and 4 rhyme.",
+        "bm": "Baris 1 dan 3 berima; baris 2 dan 4 berima."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-a",
+          "bm": "a-a"
+        },
+        {
+          "en": "a-b-b-a",
+          "bm": "a-b-b-a"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q02",
+      "subtopicId": "bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a four-line pantun, the meaning (maksud) is in…",
+        "bm": "Dalam pantun empat kerat, maksud terdapat pada…"
+      },
+      "explanation": {
+        "en": "Lines 1–2 are the pembayang.",
+        "bm": "Baris 1–2 ialah pembayang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "lines 3 and 4",
+          "bm": "baris 3 dan 4"
+        },
+        {
+          "en": "lines 1 and 2",
+          "bm": "baris 1 dan 2"
+        },
+        {
+          "en": "line 1 only",
+          "bm": "baris 1 sahaja"
+        },
+        {
+          "en": "the title",
+          "bm": "tajuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q03",
+      "subtopicId": "bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A syair has a rhyme scheme of…",
+        "bm": "Syair mempunyai skema rima…"
+      },
+      "explanation": {
+        "en": "All four lines rhyme and all carry meaning.",
+        "bm": "Keempat-empat baris berima dan semuanya maksud."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-a",
+          "bm": "a-a"
+        },
+        {
+          "en": "free",
+          "bm": "bebas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q04",
+      "subtopicId": "bm-07-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A poem of two-line stanzas where line 1 is a condition and line 2 the result is a ______.",
+        "bm": "Puisi dua baris serangkap dengan baris 1 syarat dan baris 2 akibat ialah ______."
+      },
+      "explanation": {
+        "en": "E.g. Gurindam Dua Belas by Raja Ali Haji.",
+        "bm": "Cth. Gurindam Dua Belas karya Raja Ali Haji."
+      },
+      "difficulty": 1,
+      "answer": [
+        "gurindam"
+      ]
+    },
+    {
+      "id": "bm-07-q05",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Angin berbisik di telingaku\" uses…",
+        "bm": "\"Angin berbisik di telingaku\" menggunakan…"
+      },
+      "explanation": {
+        "en": "Wind cannot whisper — a human action given to a non-human thing.",
+        "bm": "Angin tidak boleh berbisik — sifat manusia diberikan kepada benda."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "personifikasi",
+          "bm": "personifikasi"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "hiperbola",
+          "bm": "hiperbola"
+        },
+        {
+          "en": "metafora",
+          "bm": "metafora"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q06",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Lautan ilmu\" is an example of…",
+        "bm": "\"Lautan ilmu\" ialah contoh…"
+      },
+      "explanation": {
+        "en": "Metaphor joins a concrete word (lautan) with an abstract one (ilmu) without \"bagai\".",
+        "bm": "Metafora menggabungkan kata konkrit (lautan) dengan abstrak (ilmu) tanpa \"bagai\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "metafora",
+          "bm": "metafora"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "personifikasi",
+          "bm": "personifikasi"
+        },
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q07",
+      "subtopicId": "bm-07-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The main idea of a literary work is its ______.",
+        "bm": "Persoalan pokok sesebuah karya ialah ______nya."
+      },
+      "explanation": {
+        "en": "Smaller issues are called persoalan.",
+        "bm": "Isu sampingan dipanggil persoalan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "tema",
+        "theme"
+      ]
+    },
+    {
+      "id": "bm-07-q08",
+      "subtopicId": "bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Latar in a story includes…",
+        "bm": "Latar dalam cerita merangkumi…"
+      },
+      "explanation": {
+        "en": "Three kinds of setting.",
+        "bm": "Tiga jenis latar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "place, time and society",
+          "bm": "tempat, masa dan masyarakat"
+        },
+        {
+          "en": "only the title",
+          "bm": "tajuk sahaja"
+        },
+        {
+          "en": "only characters",
+          "bm": "watak sahaja"
+        },
+        {
+          "en": "the author's biography",
+          "bm": "biodata pengarang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q09",
+      "subtopicId": "bm-07-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of a plot.",
+        "bm": "Susun peringkat plot."
+      },
+      "explanation": {
+        "en": "Permulaan → perkembangan → perumitan → klimaks → peleraian.",
+        "bm": "Permulaan → perkembangan → perumitan → klimaks → peleraian."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Exposition",
+          "bm": "Permulaan"
+        },
+        {
+          "en": "Rising action",
+          "bm": "Perkembangan"
+        },
+        {
+          "en": "Complication",
+          "bm": "Perumitan"
+        },
+        {
+          "en": "Climax",
+          "bm": "Klimaks"
+        },
+        {
+          "en": "Resolution",
+          "bm": "Peleraian"
+        }
+      ]
+    },
+    {
+      "id": "bm-07-q10",
+      "subtopicId": "bm-07-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each figure of speech with its example.",
+        "bm": "Padankan gaya bahasa dengan contohnya."
+      },
+      "explanation": {
+        "en": "Simile uses seperti; hyperbole exaggerates; personification gives human qualities; metaphor combines concrete and abstract.",
+        "bm": "Simile menggunakan seperti; hiperbola melampau; personifikasi memberi sifat manusia; metafora menggabungkan konkrit dan abstrak."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Simile",
+            "bm": "Simile"
+          },
+          "right": {
+            "en": "Wajahnya bersinar seperti bulan",
+            "bm": "Wajahnya bersinar seperti bulan"
+          }
+        },
+        {
+          "left": {
+            "en": "Hyperbole",
+            "bm": "Hiperbola"
+          },
+          "right": {
+            "en": "Air matanya menjadi lautan",
+            "bm": "Air matanya menjadi lautan"
+          }
+        },
+        {
+          "left": {
+            "en": "Personification",
+            "bm": "Personifikasi"
+          },
+          "right": {
+            "en": "Ombak memeluk pantai",
+            "bm": "Ombak memeluk pantai"
+          }
+        },
+        {
+          "left": {
+            "en": "Metaphor",
+            "bm": "Metafora"
+          },
+          "right": {
+            "en": "Api kemarahan",
+            "bm": "Api kemarahan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-07-q11",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Repeating a word at the START of consecutive lines is…",
+        "bm": "Pengulangan kata di AWAL baris yang berturutan ialah…"
+      },
+      "explanation": {
+        "en": "Epifora = repeated at the END of lines.",
+        "bm": "Epifora = diulang di AKHIR baris."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "epifora",
+          "bm": "epifora"
+        },
+        {
+          "en": "aliterasi",
+          "bm": "aliterasi"
+        },
+        {
+          "en": "asonansi",
+          "bm": "asonansi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q12",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Desir-desir daun di dahan\" with repeated \"d\" sounds is…",
+        "bm": "\"Desir-desir daun di dahan\" dengan pengulangan bunyi \"d\" ialah…"
+      },
+      "explanation": {
+        "en": "Aliterasi = repeated consonant sounds; asonansi = repeated vowel sounds.",
+        "bm": "Aliterasi = pengulangan bunyi konsonan; asonansi = pengulangan bunyi vokal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "aliterasi",
+          "bm": "aliterasi"
+        },
+        {
+          "en": "asonansi",
+          "bm": "asonansi"
+        },
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q13",
+      "subtopicId": "bm-07-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL elements used to analyse a short story (cerpen).",
+        "bm": "Pilih SEMUA unsur untuk menganalisis cerpen."
+      },
+      "explanation": {
+        "en": "Rhyme scheme belongs to poetry like pantun.",
+        "bm": "Skema rima milik puisi seperti pantun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Theme",
+          "bm": "Tema"
+        },
+        {
+          "en": "Characters",
+          "bm": "Watak dan perwatakan"
+        },
+        {
+          "en": "Plot",
+          "bm": "Plot"
+        },
+        {
+          "en": "Rhyme scheme a-b-a-b",
+          "bm": "Skema rima a-b-a-b"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-07-q14",
+      "subtopicId": "bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A story told using \"aku\" (I) uses which point of view?",
+        "bm": "Cerita yang menggunakan \"aku\" menggunakan sudut pandangan…"
+      },
+      "explanation": {
+        "en": "\"Aku/saya\" narrator = first person.",
+        "bm": "Pencerita \"aku/saya\" = orang pertama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "first person",
+          "bm": "orang pertama"
+        },
+        {
+          "en": "third person",
+          "bm": "orang ketiga"
+        },
+        {
+          "en": "second person",
+          "bm": "orang kedua"
+        },
+        {
+          "en": "omniscient narrator only",
+          "bm": "pencerita serba tahu sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q15",
+      "subtopicId": "bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A flashback in a story is called…",
+        "bm": "Imbas kembali dalam cerita dipanggil…"
+      },
+      "explanation": {
+        "en": "Imbas muka (foreshadowing) hints at the future.",
+        "bm": "Imbas muka membayangkan peristiwa akan datang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "imbas kembali",
+          "bm": "imbas kembali"
+        },
+        {
+          "en": "imbas muka",
+          "bm": "imbas muka"
+        },
+        {
+          "en": "klimaks",
+          "bm": "klimaks"
+        },
+        {
+          "en": "monolog",
+          "bm": "monolog"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q16",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a VALUE (nilai), not a lesson (pengajaran)?",
+        "bm": "Antara berikut, yang manakah NILAI, bukan pengajaran?"
+      },
+      "explanation": {
+        "en": "A value is a noun phrase (kasih sayang); a lesson is advice starting with \"Kita hendaklah…\".",
+        "bm": "Nilai berbentuk frasa nama (kasih sayang); pengajaran berupa nasihat \"Kita hendaklah…\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kasih sayang",
+          "bm": "Kasih sayang"
+        },
+        {
+          "en": "Kita hendaklah menyayangi keluarga.",
+          "bm": "Kita hendaklah menyayangi keluarga."
+        },
+        {
+          "en": "Kita mestilah menghormati orang tua.",
+          "bm": "Kita mestilah menghormati orang tua."
+        },
+        {
+          "en": "Kita perlulah bersabar.",
+          "bm": "Kita perlulah bersabar."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q17",
+      "subtopicId": "bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a pantun need a pembayang if it carries no message?",
+        "bm": "Mengapakah pantun memerlukan pembayang jika ia tidak membawa maksud?"
+      },
+      "explanation": {
+        "en": "The pembayang shows Malay sensitivity to nature and creates beauty.",
+        "bm": "Pembayang menunjukkan kepekaan orang Melayu terhadap alam dan mencipta keindahan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It sets up the rhyme and often hints at the meaning through nature images",
+          "bm": "Ia membentuk rima dan sering membayangkan maksud melalui gambaran alam"
+        },
+        {
+          "en": "It is decoration with no purpose",
+          "bm": "Hiasan tanpa tujuan"
+        },
+        {
+          "en": "It replaces the meaning",
+          "bm": "Menggantikan maksud"
+        },
+        {
+          "en": "It is optional",
+          "bm": "Tidak wajib"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q18",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A poet writes \"Hujan menangis di jendela\" about a sad farewell. Why use this figure of speech?",
+        "bm": "Penyair menulis \"Hujan menangis di jendela\" tentang perpisahan yang sedih. Mengapakah gaya bahasa ini digunakan?"
+      },
+      "explanation": {
+        "en": "Explain the EFFECT of a figure of speech, not only its name.",
+        "bm": "Huraikan KESAN gaya bahasa, bukan sekadar namanya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Personification makes nature share the sadness, deepening the mood",
+          "bm": "Personifikasi menjadikan alam turut bersedih, mendalamkan suasana"
+        },
+        {
+          "en": "To describe the weather report",
+          "bm": "Untuk menerangkan ramalan cuaca"
+        },
+        {
+          "en": "To make the poem funny",
+          "bm": "Untuk melucukan sajak"
+        },
+        {
+          "en": "It has no purpose",
+          "bm": "Tiada tujuan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q19",
+      "subtopicId": "bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A main character is selfish at the start but becomes caring at the end. This is a…",
+        "bm": "Watak utama mementingkan diri pada awal tetapi menjadi penyayang pada akhir. Ini ialah watak…"
+      },
+      "explanation": {
+        "en": "A round character changes and develops.",
+        "bm": "Watak bulat berubah dan berkembang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "round (dynamic) character",
+          "bm": "bulat (dinamik)"
+        },
+        {
+          "en": "flat character",
+          "bm": "pipih"
+        },
+        {
+          "en": "minor character",
+          "bm": "sampingan"
+        },
+        {
+          "en": "narrator only",
+          "bm": "pencerita sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-07-q20",
+      "subtopicId": "bm-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which answer BEST explains a lesson from a story about a boy who cheated and was caught?",
+        "bm": "Jawapan manakah PALING baik menghuraikan pengajaran daripada cerita tentang budak yang menipu lalu ditangkap?"
+      },
+      "explanation": {
+        "en": "Lesson + reason + evidence from the text = full marks.",
+        "bm": "Pengajaran + sebab + bukti daripada teks = markah penuh."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Kita hendaklah bersikap jujur dalam setiap perkara kerana penipuan akhirnya akan terbongkar, seperti watak Amir yang ditangkap meniru.",
+          "bm": "Kita hendaklah bersikap jujur dalam setiap perkara kerana penipuan akhirnya akan terbongkar, seperti watak Amir yang ditangkap meniru."
+        },
+        {
+          "en": "Jujur.",
+          "bm": "Jujur."
+        },
+        {
+          "en": "Amir menipu.",
+          "bm": "Amir menipu."
+        },
+        {
+          "en": "Cerita itu menarik.",
+          "bm": "Cerita itu menarik."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

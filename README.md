@@ -1,6 +1,6 @@
 # Darstudies — Form 4 Study Companion
 
-Mobile-first PWA for previewing and revising the Form 4 KSSM science stream (Physics, Chemistry, Biology, Add Maths, Maths) with an adaptive daily study plan. No backend, no login — all data stays on the phone (IndexedDB).
+Mobile-first PWA for previewing and revising Form 4 KSSM: the science stream (Physics, Chemistry, Biology, Add Maths, Maths) plus Sejarah, Pendidikan Islam, Bahasa Melayu and English with an adaptive daily study plan. No backend, no login — all data stays on the phone (IndexedDB).
 
 Built from `../form4-study-app-plan.md`.
 
@@ -24,7 +24,7 @@ Built from `../form4-study-app-plan.md`.
 
 ## What's in v0.1
 
-- **Learn:** all 49 chapters / 194 subtopics (EN + BM). Fully written 8-section intros for Physics 2, Chemistry 4, Biology 2, Add Maths 2, Maths 2; other chapters show a structure preview.
+- **Learn:** 79 chapters / 288 subtopics (EN + BM) across 9 subjects. Sejarah (10), Pendidikan Islam (7), Bahasa Melayu (7) and English (6) each have full intros, notes for every subtopic, 20 quiz questions (easy / medium / KBAT) and 15+ flashcards per chapter.
 - **Practice:** quiz engine (mcq, multi, numeric with tolerance, fill with synonyms, match, order), Leitner flashcards, formula drill (44 formulas), weak-topic quizzes, Form 3 bridge set.
 - **Tools:** linear motion calculator, periodic table, quadratic graph plotter, cell explorer, number base converter (others listed as "coming soon").
 - **Planner:** setup wizard, phases A–E, weighted round robin by confidence, budget/subject caps, rest days, exam sprint, "class is on chapter X", tap-to-move, reschedule / reset after missed days, weekly auto-refresh.

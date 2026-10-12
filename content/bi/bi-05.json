@@ -1,0 +1,825 @@
+{
+  "chapterId": "bi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Examiners do not only count grammar mistakes. They ask: Did you complete the task? Is it organised? Is the language suitable for the reader?",
+      "bm": "Pemeriksa bukan sekadar mengira kesalahan tatabahasa. Mereka bertanya: Adakah tugasan dilengkapkan? Adakah ia tersusun? Adakah bahasanya sesuai untuk pembaca?"
+    },
+    "bigIdeas": [
+      {
+        "en": "Answer every point in the task — missing content loses marks quickly.",
+        "bm": "Jawab setiap isi dalam tugasan — isi yang tertinggal cepat mengurangkan markah."
+      },
+      {
+        "en": "Match register to the reader: informal for a friend, formal for a principal or editor.",
+        "bm": "Padankan laras dengan pembaca: tidak formal untuk rakan, formal untuk pengetua atau editor."
+      },
+      {
+        "en": "Organise with paragraphs and linking words; check the word count.",
+        "bm": "Susun dengan perenggan dan penanda wacana; semak bilangan perkataan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Typical length",
+            "bm": "Panjang lazim"
+          },
+          {
+            "en": "Key features",
+            "bm": "Ciri utama"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Part 1: short message",
+              "bm": "Bahagian 1: mesej pendek"
+            },
+            "cells": [
+              {
+                "en": "about 80 words",
+                "bm": "kira-kira 80 patah perkataan"
+              },
+              {
+                "en": "Answer 3 prompts; friendly",
+                "bm": "Jawab 3 gesaan; mesra"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Part 2: email / letter",
+              "bm": "Bahagian 2: e-mel / surat"
+            },
+            "cells": [
+              {
+                "en": "125–150 words",
+                "bm": "125–150 patah perkataan"
+              },
+              {
+                "en": "Greeting, purpose, notes covered, closing",
+                "bm": "Salam, tujuan, semua nota, penutup"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Part 3: extended writing",
+              "bm": "Bahagian 3: penulisan lanjutan"
+            },
+            "cells": [
+              {
+                "en": "200–250 words",
+                "bm": "200–250 patah perkataan"
+              },
+              {
+                "en": "Article / review / report / story / essay",
+                "bm": "Artikel / ulasan / laporan / cerita / esei"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Register",
+          "bm": "Laras"
+        },
+        "definition": {
+          "en": "Level of formality suited to the reader and purpose.",
+          "bm": "Tahap formaliti yang sesuai dengan pembaca dan tujuan."
+        }
+      },
+      {
+        "term": {
+          "en": "Cohesion",
+          "bm": "Kohesi"
+        },
+        "definition": {
+          "en": "How sentences and paragraphs link smoothly using connectors and references.",
+          "bm": "Cara ayat dan perenggan bersambung dengan lancar menggunakan penanda wacana dan rujukan."
+        }
+      },
+      {
+        "term": {
+          "en": "Article",
+          "bm": "Artikel"
+        },
+        "definition": {
+          "en": "Piece for a magazine/website with a catchy title, engaging opening and clear opinion.",
+          "bm": "Tulisan untuk majalah/laman web dengan tajuk menarik, pembuka yang memikat dan pendapat yang jelas."
+        }
+      },
+      {
+        "term": {
+          "en": "Review",
+          "bm": "Ulasan"
+        },
+        "definition": {
+          "en": "Describes and evaluates a book, film, place or product, with a recommendation.",
+          "bm": "Menerangkan dan menilai buku, filem, tempat atau produk, dengan cadangan."
+        }
+      },
+      {
+        "term": {
+          "en": "Report",
+          "bm": "Laporan"
+        },
+        "definition": {
+          "en": "Formal, factual, often with headings: introduction, findings, recommendations.",
+          "bm": "Formal, berfakta, sering bersubtajuk: pengenalan, dapatan, cadangan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Write the opening of an informal email replying to a friend who asked about your school sports day.",
+        "bm": "Tulis pembukaan e-mel tidak formal membalas rakan yang bertanya tentang hari sukan sekolah."
+      },
+      "steps": [
+        {
+          "en": "Greeting: \"Hi Daniel,\"",
+          "bm": "Salam: \"Hi Daniel,\""
+        },
+        {
+          "en": "Friendly opener: \"Thanks for your email! It was great to hear from you.\"",
+          "bm": "Pembuka mesra: \"Thanks for your email! It was great to hear from you.\""
+        },
+        {
+          "en": "State purpose: \"You asked about our sports day, so here's what happened.\"",
+          "bm": "Nyatakan tujuan: \"You asked about our sports day, so here's what happened.\""
+        }
+      ],
+      "answer": {
+        "en": "Greeting + friendly opener + purpose — then cover every note in the task.",
+        "bm": "Salam + pembuka mesra + tujuan — kemudian lengkapkan setiap nota dalam tugasan."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-05-q01",
+      "subtopicId": "bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which greeting suits an informal email to a friend?",
+        "bm": "Salam manakah sesuai untuk e-mel tidak formal kepada rakan?"
+      },
+      "explanation": {
+        "en": "Informal register for friends.",
+        "bm": "Laras tidak formal untuk rakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hi Sarah,",
+          "bm": "Hi Sarah,"
+        },
+        {
+          "en": "Dear Sir/Madam,",
+          "bm": "Dear Sir/Madam,"
+        },
+        {
+          "en": "To whom it may concern,",
+          "bm": "To whom it may concern,"
+        },
+        {
+          "en": "Respected Principal,",
+          "bm": "Respected Principal,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q02",
+      "subtopicId": "bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which closing suits a formal letter that begins \"Dear Sir/Madam\"?",
+        "bm": "Penutup manakah sesuai untuk surat formal yang bermula \"Dear Sir/Madam\"?"
+      },
+      "explanation": {
+        "en": "\"Dear Sir/Madam\" → \"Yours faithfully\"; \"Dear Mr Lee\" → \"Yours sincerely\".",
+        "bm": "\"Dear Sir/Madam\" → \"Yours faithfully\"; \"Dear Mr Lee\" → \"Yours sincerely\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Yours faithfully,",
+          "bm": "Yours faithfully,"
+        },
+        {
+          "en": "Love,",
+          "bm": "Love,"
+        },
+        {
+          "en": "See ya!",
+          "bm": "See ya!"
+        },
+        {
+          "en": "Cheers,",
+          "bm": "Cheers,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q03",
+      "subtopicId": "bi-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Linking words like \"however\" and \"furthermore\" improve ______ (how ideas connect).",
+        "bm": "Penanda wacana seperti \"however\" dan \"furthermore\" meningkatkan ______ (cara idea bersambung)."
+      },
+      "explanation": {
+        "en": "Cohesion helps the reader follow your ideas.",
+        "bm": "Kohesi membantu pembaca mengikuti idea anda."
+      },
+      "difficulty": 1,
+      "answer": [
+        "cohesion",
+        "coherence",
+        "kohesi"
+      ]
+    },
+    {
+      "id": "bi-05-q04",
+      "subtopicId": "bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A review usually ends with…",
+        "bm": "Ulasan biasanya diakhiri dengan…"
+      },
+      "explanation": {
+        "en": "Tell the reader whether to watch, read, visit or buy.",
+        "bm": "Beritahu pembaca sama ada patut menonton, membaca, melawat atau membeli."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a recommendation",
+          "bm": "a recommendation"
+        },
+        {
+          "en": "a list of references",
+          "bm": "a list of references"
+        },
+        {
+          "en": "a greeting",
+          "bm": "a greeting"
+        },
+        {
+          "en": "a dialogue",
+          "bm": "a dialogue"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q05",
+      "subtopicId": "bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which feature is typical of a report?",
+        "bm": "Ciri manakah lazim bagi laporan?"
+      },
+      "explanation": {
+        "en": "Reports are formal and organised under headings.",
+        "bm": "Laporan formal dan disusun di bawah subtajuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Headings and formal language",
+          "bm": "Headings and formal language"
+        },
+        {
+          "en": "Slang and emojis",
+          "bm": "Slang and emojis"
+        },
+        {
+          "en": "Rhyme",
+          "bm": "Rhyme"
+        },
+        {
+          "en": "Dialogue only",
+          "bm": "Dialogue only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q06",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which linking word shows contrast?",
+        "bm": "Penanda wacana manakah menunjukkan pertentangan?"
+      },
+      "explanation": {
+        "en": "\"However\" introduces an opposite idea.",
+        "bm": "\"However\" memperkenalkan idea yang bertentangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "However",
+          "bm": "However"
+        },
+        {
+          "en": "Furthermore",
+          "bm": "Furthermore"
+        },
+        {
+          "en": "Firstly",
+          "bm": "Firstly"
+        },
+        {
+          "en": "As a result",
+          "bm": "As a result"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q07",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which linking word adds a similar idea?",
+        "bm": "Penanda wacana manakah menambah idea yang serupa?"
+      },
+      "explanation": {
+        "en": "In addition / moreover / furthermore add points.",
+        "bm": "In addition / moreover / furthermore menambah isi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "In addition",
+          "bm": "In addition"
+        },
+        {
+          "en": "Nevertheless",
+          "bm": "Nevertheless"
+        },
+        {
+          "en": "On the other hand",
+          "bm": "On the other hand"
+        },
+        {
+          "en": "Although",
+          "bm": "Although"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q08",
+      "subtopicId": "bi-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The level of formality suited to the reader is called ______.",
+        "bm": "Tahap formaliti yang sesuai dengan pembaca dipanggil ______."
+      },
+      "explanation": {
+        "en": "Formal or informal register.",
+        "bm": "Laras formal atau tidak formal."
+      },
+      "difficulty": 1,
+      "answer": [
+        "register",
+        "laras"
+      ]
+    },
+    {
+      "id": "bi-05-q09",
+      "subtopicId": "bi-05-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the typical structure of an article.",
+        "bm": "Susun struktur lazim sebuah artikel."
+      },
+      "explanation": {
+        "en": "Hook the reader, develop points, leave an impression.",
+        "bm": "Tarik minat pembaca, kembangkan isi, tinggalkan kesan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Catchy title",
+          "bm": "Tajuk yang menarik"
+        },
+        {
+          "en": "Engaging introduction",
+          "bm": "Pengenalan yang memikat"
+        },
+        {
+          "en": "Body paragraphs with points and examples",
+          "bm": "Perenggan isi dengan hujah dan contoh"
+        },
+        {
+          "en": "Conclusion with a final thought",
+          "bm": "Penutup dengan pandangan akhir"
+        }
+      ]
+    },
+    {
+      "id": "bi-05-q10",
+      "subtopicId": "bi-05-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each Part 3 task with its key feature.",
+        "bm": "Padankan tugasan Bahagian 3 dengan ciri utamanya."
+      },
+      "explanation": {
+        "en": "Identify the text type before you plan.",
+        "bm": "Kenal pasti jenis teks sebelum merancang."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Article",
+            "bm": "Artikel"
+          },
+          "right": {
+            "en": "Engages readers of a magazine",
+            "bm": "Menarik minat pembaca majalah"
+          }
+        },
+        {
+          "left": {
+            "en": "Review",
+            "bm": "Ulasan"
+          },
+          "right": {
+            "en": "Evaluates and recommends",
+            "bm": "Menilai dan mencadangkan"
+          }
+        },
+        {
+          "left": {
+            "en": "Report",
+            "bm": "Laporan"
+          },
+          "right": {
+            "en": "Formal findings and recommendations",
+            "bm": "Dapatan dan cadangan formal"
+          }
+        },
+        {
+          "left": {
+            "en": "Story",
+            "bm": "Cerita"
+          },
+          "right": {
+            "en": "Plot, characters, climax",
+            "bm": "Plot, watak, klimaks"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-05-q11",
+      "subtopicId": "bi-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL things you must do in an email task with three notes.",
+        "bm": "Pilih SEMUA perkara yang mesti dilakukan dalam tugasan e-mel dengan tiga nota."
+      },
+      "explanation": {
+        "en": "Expanding — not copying — shows language ability.",
+        "bm": "Mengembangkan — bukan menyalin — menunjukkan kebolehan bahasa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Cover all three notes",
+          "bm": "Lengkapkan ketiga-tiga nota"
+        },
+        {
+          "en": "Expand each note with details",
+          "bm": "Kembangkan setiap nota dengan butiran"
+        },
+        {
+          "en": "Use a suitable greeting and closing",
+          "bm": "Gunakan salam dan penutup yang sesuai"
+        },
+        {
+          "en": "Copy the notes word for word",
+          "bm": "Salin nota perkataan demi perkataan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-05-q12",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which topic sentence is BEST for a paragraph on the benefits of reading?",
+        "bm": "Ayat topik manakah TERBAIK untuk perenggan tentang kebaikan membaca?"
+      },
+      "explanation": {
+        "en": "It states a clear, focused point that the paragraph can develop.",
+        "bm": "Ia menyatakan isi yang jelas dan fokus untuk dikembangkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Reading regularly widens our knowledge of the world.",
+          "bm": "Reading regularly widens our knowledge of the world."
+        },
+        {
+          "en": "I like books.",
+          "bm": "I like books."
+        },
+        {
+          "en": "There are many books.",
+          "bm": "There are many books."
+        },
+        {
+          "en": "Books, books, books!",
+          "bm": "Books, books, books!"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q13",
+      "subtopicId": "bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A friend's email asks three questions. You answer only two. What happens?",
+        "bm": "E-mel rakan bertanya tiga soalan. Anda menjawab dua sahaja. Apakah kesannya?"
+      },
+      "explanation": {
+        "en": "Task completion is a key criterion.",
+        "bm": "Pelengkapan tugasan ialah kriteria utama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "You lose content marks",
+          "bm": "You lose content marks"
+        },
+        {
+          "en": "Nothing",
+          "bm": "Nothing"
+        },
+        {
+          "en": "You gain marks for being brief",
+          "bm": "You gain marks for being brief"
+        },
+        {
+          "en": "The examiner adds the answer",
+          "bm": "The examiner adds the answer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q14",
+      "subtopicId": "bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which opening is MOST engaging for a magazine article on healthy eating?",
+        "bm": "Pembuka manakah PALING menarik untuk artikel majalah tentang pemakanan sihat?"
+      },
+      "explanation": {
+        "en": "A question or surprising fact hooks the reader.",
+        "bm": "Soalan atau fakta mengejutkan menarik minat pembaca."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Did you know that most teenagers skip breakfast at least three times a week?",
+          "bm": "Did you know that most teenagers skip breakfast at least three times a week?"
+        },
+        {
+          "en": "This article is about healthy eating.",
+          "bm": "This article is about healthy eating."
+        },
+        {
+          "en": "I am going to write about food.",
+          "bm": "I am going to write about food."
+        },
+        {
+          "en": "Food is food.",
+          "bm": "Food is food."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q15",
+      "subtopicId": "bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a story, the moment of highest tension is the…",
+        "bm": "Dalam cerita, detik ketegangan paling tinggi ialah…"
+      },
+      "explanation": {
+        "en": "Build up to the climax, then resolve.",
+        "bm": "Bina ke arah klimaks, kemudian leraikan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "climax",
+          "bm": "climax"
+        },
+        {
+          "en": "introduction",
+          "bm": "introduction"
+        },
+        {
+          "en": "title",
+          "bm": "title"
+        },
+        {
+          "en": "resolution",
+          "bm": "resolution"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q16",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"Therefore\" correctly?",
+        "bm": "Ayat manakah menggunakan \"Therefore\" dengan betul?"
+      },
+      "explanation": {
+        "en": "\"Therefore\" shows a result of the previous idea.",
+        "bm": "\"Therefore\" menunjukkan akibat daripada idea sebelumnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The roads were flooded. Therefore, school was closed.",
+          "bm": "The roads were flooded. Therefore, school was closed."
+        },
+        {
+          "en": "Therefore I like cats and dogs.",
+          "bm": "Therefore I like cats and dogs."
+        },
+        {
+          "en": "The sun is hot, therefore, and.",
+          "bm": "The sun is hot, therefore, and."
+        },
+        {
+          "en": "Therefore, because, so the end.",
+          "bm": "Therefore, because, so the end."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q17",
+      "subtopicId": "bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You must write a formal email to your principal, but you write \"Hey! Wanna hear my idea?\" What is the main problem?",
+        "bm": "Anda perlu menulis e-mel formal kepada pengetua tetapi menulis \"Hey! Wanna hear my idea?\" Apakah masalah utamanya?"
+      },
+      "explanation": {
+        "en": "Use formal language: \"Dear Puan Rohana, I would like to propose…\"",
+        "bm": "Gunakan bahasa formal: \"Dear Puan Rohana, I would like to propose…\""
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Inappropriate register for the reader",
+          "bm": "Laras tidak sesuai dengan pembaca"
+        },
+        {
+          "en": "Spelling only",
+          "bm": "Ejaan sahaja"
+        },
+        {
+          "en": "Too many paragraphs",
+          "bm": "Terlalu banyak perenggan"
+        },
+        {
+          "en": "No problem",
+          "bm": "Tiada masalah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q18",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which revision BEST improves cohesion? \"I went to the market. I bought fish. I cooked dinner.\"",
+        "bm": "Penambahbaikan manakah PALING meningkatkan kohesi? \"I went to the market. I bought fish. I cooked dinner.\""
+      },
+      "explanation": {
+        "en": "Sequencing words and a relative clause connect the ideas smoothly.",
+        "bm": "Kata urutan dan klausa relatif menghubungkan idea dengan lancar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "After going to the market, I bought some fish, which I then cooked for dinner.",
+          "bm": "After going to the market, I bought some fish, which I then cooked for dinner."
+        },
+        {
+          "en": "I went to the market I bought fish I cooked dinner.",
+          "bm": "I went to the market I bought fish I cooked dinner."
+        },
+        {
+          "en": "Market. Fish. Dinner.",
+          "bm": "Market. Fish. Dinner."
+        },
+        {
+          "en": "I went, bought, cooked.",
+          "bm": "I went, bought, cooked."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q19",
+      "subtopicId": "bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your review of a café says only \"The food was good.\" How can you improve it?",
+        "bm": "Ulasan kafe anda hanya menyatakan \"The food was good.\" Bagaimanakah anda boleh menambah baiknya?"
+      },
+      "explanation": {
+        "en": "Reviews need description plus balanced judgement.",
+        "bm": "Ulasan memerlukan penerangan serta penilaian yang seimbang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Add specific details and evaluation: \"The nasi lemak was fragrant, though slightly overpriced at RM15.\"",
+          "bm": "Tambah butiran khusus dan penilaian: \"The nasi lemak was fragrant, though slightly overpriced at RM15.\""
+        },
+        {
+          "en": "Repeat \"good\" three times",
+          "bm": "Ulang \"good\" tiga kali"
+        },
+        {
+          "en": "Remove the sentence",
+          "bm": "Buang ayat itu"
+        },
+        {
+          "en": "Write in capital letters",
+          "bm": "Tulis dengan huruf besar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-05-q20",
+      "subtopicId": "bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your Part 3 essay is 320 words; the limit is 200–250. What is the BEST action?",
+        "bm": "Esei Bahagian 3 anda 320 patah perkataan; hadnya 200–250. Apakah tindakan TERBAIK?"
+      },
+      "explanation": {
+        "en": "Staying close to the length shows control and planning.",
+        "bm": "Mematuhi had menunjukkan kawalan dan perancangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Cut repetition and less relevant details while keeping all task points",
+          "bm": "Buang ulangan dan butiran kurang relevan sambil mengekalkan semua isi tugasan"
+        },
+        {
+          "en": "Leave it — longer is better",
+          "bm": "Biarkan — lebih panjang lebih baik"
+        },
+        {
+          "en": "Delete the conclusion",
+          "bm": "Padam penutup"
+        },
+        {
+          "en": "Remove all linking words",
+          "bm": "Buang semua penanda wacana"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

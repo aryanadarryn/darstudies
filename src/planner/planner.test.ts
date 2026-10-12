@@ -23,7 +23,7 @@ const settings = (over: Partial<Settings> = {}): Settings => ({
   exams: [], holidays: [],
   minutes: { holiday: 60, school: 45, weekend: 90 }, dailyCap: 90,
   studyDays: [1, 2, 3, 4, 5, 6], // Sunday light
-  confidence: { phy: 3, chem: 3, bio: 3, addmath: 3, math: 3 },
+  confidence: { phy: 3, chem: 3, bio: 3, addmath: 3, math: 3, sej: 3, pi: 3, bm: 3, bi: 3 },
   currentChapters: {}, breakMinutes: 25, viewMode: 'auto',
   ...over,
 })
@@ -79,7 +79,7 @@ describe('generatePlan', () => {
   })
 
   it('schedules weaker subjects earlier and more often', () => {
-    const s = settings({ confidence: { phy: 5, chem: 5, bio: 5, addmath: 1, math: 5 } })
+    const s = settings({ confidence: { phy: 5, chem: 5, bio: 5, addmath: 1, math: 5, sej: 5, pi: 5, bm: 5, bi: 5 } })
     const firstWeek = generatePlan(input({ settings: s, to: '2026-10-18' })).filter((t) => t.type === 'intro')
     const am = firstWeek.filter((t) => t.subjectId === 'addmath').length
     const phy = firstWeek.filter((t) => t.subjectId === 'phy').length

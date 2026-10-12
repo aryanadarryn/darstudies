@@ -1,0 +1,832 @@
+{
+  "chapterId": "bm-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A 400-word passage, 120 words allowed, and only the points the question asks for. Summary writing is less about writing and more about choosing.",
+      "bm": "Petikan 400 patah perkataan, had 120 patah perkataan, dan hanya isi yang dikehendaki soalan. Menulis ringkasan bukan sekadar menulis — ia tentang memilih."
+    },
+    "bigIdeas": [
+      {
+        "en": "Read with purpose: skim for the main idea, scan for specific facts.",
+        "bm": "Membaca dengan tujuan: imbas untuk idea utama, imbas cari untuk fakta khusus."
+      },
+      {
+        "en": "Literal (tersurat) answers are stated in the text; inferential (tersirat) answers need reasoning.",
+        "bm": "Jawapan tersurat dinyatakan dalam teks; jawapan tersirat memerlukan penaakulan."
+      },
+      {
+        "en": "A good summary picks only relevant points, rewrites them in your own words and stays within the word limit.",
+        "bm": "Ringkasan yang baik memilih isi yang relevan sahaja, diolah dengan ayat sendiri dan tidak melebihi had perkataan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Read the question",
+              "bm": "Baca soalan"
+            },
+            "detail": {
+              "en": "Underline the focus (e.g. \"kebaikan\", \"langkah\")",
+              "bm": "Gariskan fokus (cth. \"kebaikan\", \"langkah\")"
+            }
+          },
+          {
+            "title": {
+              "en": "Read the passage",
+              "bm": "Baca petikan"
+            },
+            "detail": {
+              "en": "Mark every point that matches the focus",
+              "bm": "Tandakan setiap isi yang menepati fokus"
+            }
+          },
+          {
+            "title": {
+              "en": "Paraphrase",
+              "bm": "Olah"
+            },
+            "detail": {
+              "en": "Rewrite each point briefly in your own words",
+              "bm": "Tulis semula setiap isi secara ringkas dengan ayat sendiri"
+            }
+          },
+          {
+            "title": {
+              "en": "Organise",
+              "bm": "Susun"
+            },
+            "detail": {
+              "en": "Opening + points with connectors + closing",
+              "bm": "Pendahuluan + isi dengan penanda wacana + penutup"
+            }
+          },
+          {
+            "title": {
+              "en": "Check",
+              "bm": "Semak"
+            },
+            "detail": {
+              "en": "Count words and check language",
+              "bm": "Kira patah perkataan dan semak bahasa"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Skimming",
+          "bm": "Membaca luncuran"
+        },
+        "definition": {
+          "en": "Reading quickly to get the main idea.",
+          "bm": "Membaca dengan pantas untuk mendapatkan idea utama."
+        }
+      },
+      {
+        "term": {
+          "en": "Scanning",
+          "bm": "Membaca imbasan"
+        },
+        "definition": {
+          "en": "Searching quickly for specific information.",
+          "bm": "Mencari maklumat khusus dengan pantas."
+        }
+      },
+      {
+        "term": {
+          "en": "Literal answer",
+          "bm": "Jawapan tersurat"
+        },
+        "definition": {
+          "en": "Information stated directly in the text.",
+          "bm": "Maklumat yang dinyatakan secara langsung dalam teks."
+        }
+      },
+      {
+        "term": {
+          "en": "Inferential answer",
+          "bm": "Jawapan tersirat"
+        },
+        "definition": {
+          "en": "Information you work out from clues in the text.",
+          "bm": "Maklumat yang disimpulkan daripada petunjuk dalam teks."
+        }
+      },
+      {
+        "term": {
+          "en": "Paraphrase",
+          "bm": "Pengolahan"
+        },
+        "definition": {
+          "en": "Rewriting ideas in your own words without changing the meaning.",
+          "bm": "Menulis semula idea dengan ayat sendiri tanpa mengubah makna."
+        }
+      },
+      {
+        "term": {
+          "en": "Penanda wacana",
+          "bm": "Penanda wacana"
+        },
+        "definition": {
+          "en": "Linking words: selain itu, seterusnya, akhir sekali, kesimpulannya.",
+          "bm": "Kata penghubung idea: selain itu, seterusnya, akhir sekali, kesimpulannya."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Summarise the BENEFITS of reading from a passage (max 120 words).",
+        "bm": "Ringkaskan KEBAIKAN membaca daripada petikan (maksimum 120 patah perkataan)."
+      },
+      "steps": [
+        {
+          "en": "Focus word: \"kebaikan\" — ignore causes, problems or steps.",
+          "bm": "Kata fokus: \"kebaikan\" — abaikan punca, masalah atau langkah."
+        },
+        {
+          "en": "Find points, e.g. menambah ilmu, meluaskan kosa kata, mengurangkan tekanan.",
+          "bm": "Cari isi, cth. menambah ilmu, meluaskan kosa kata, mengurangkan tekanan."
+        },
+        {
+          "en": "Write: \"Petikan membincangkan kebaikan membaca. Antaranya, membaca menambah ilmu. Selain itu, … Kesimpulannya, …\"",
+          "bm": "Tulis: \"Petikan membincangkan kebaikan membaca. Antaranya, membaca menambah ilmu. Selain itu, … Kesimpulannya, …\""
+        }
+      ],
+      "answer": {
+        "en": "Opening + 6–8 relevant points + closing, within the word limit.",
+        "bm": "Pendahuluan + 6–8 isi relevan + penutup, dalam had perkataan."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-05-q01",
+      "subtopicId": "bm-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Reading quickly to get the main idea is called…",
+        "bm": "Membaca dengan pantas untuk mendapatkan idea utama dipanggil…"
+      },
+      "explanation": {
+        "en": "Skimming = gist; scanning = specific details.",
+        "bm": "Luncuran = idea umum; imbasan = butiran khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "skimming",
+          "bm": "membaca luncuran"
+        },
+        {
+          "en": "scanning",
+          "bm": "membaca imbasan"
+        },
+        {
+          "en": "intensive reading",
+          "bm": "membaca intensif"
+        },
+        {
+          "en": "reading aloud",
+          "bm": "membaca kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q02",
+      "subtopicId": "bm-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Looking quickly for a date in a passage is…",
+        "bm": "Mencari tarikh dengan pantas dalam petikan ialah…"
+      },
+      "explanation": {
+        "en": "Scanning targets specific information.",
+        "bm": "Imbasan menyasarkan maklumat khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "scanning",
+          "bm": "membaca imbasan"
+        },
+        {
+          "en": "skimming",
+          "bm": "membaca luncuran"
+        },
+        {
+          "en": "summarising",
+          "bm": "meringkaskan"
+        },
+        {
+          "en": "proofreading",
+          "bm": "menyemak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q03",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An answer stated directly in the passage is…",
+        "bm": "Jawapan yang dinyatakan secara langsung dalam petikan ialah…"
+      },
+      "explanation": {
+        "en": "Tersurat = written in the text.",
+        "bm": "Tersurat = tertulis dalam teks."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "literal (tersurat)",
+          "bm": "tersurat"
+        },
+        {
+          "en": "inferential (tersirat)",
+          "bm": "tersirat"
+        },
+        {
+          "en": "opinion",
+          "bm": "pendapat"
+        },
+        {
+          "en": "guess",
+          "bm": "tekaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q04",
+      "subtopicId": "bm-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The usual SPM word limit for a summary is ______ words.",
+        "bm": "Had lazim ringkasan SPM ialah ______ patah perkataan."
+      },
+      "explanation": {
+        "en": "Always check the limit stated in the question.",
+        "bm": "Sentiasa semak had yang dinyatakan dalam soalan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "120"
+      ]
+    },
+    {
+      "id": "bm-05-q05",
+      "subtopicId": "bm-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a good penanda wacana to add another point?",
+        "bm": "Penanda wacana manakah sesuai untuk menambah isi?"
+      },
+      "explanation": {
+        "en": "\"Selain itu\" adds; \"walau bagaimanapun\" contrasts; \"kesimpulannya\" concludes.",
+        "bm": "\"Selain itu\" menambah; \"walau bagaimanapun\" membezakan; \"kesimpulannya\" merumus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Selain itu",
+          "bm": "Selain itu"
+        },
+        {
+          "en": "Walau bagaimanapun",
+          "bm": "Walau bagaimanapun"
+        },
+        {
+          "en": "Kesimpulannya",
+          "bm": "Kesimpulannya"
+        },
+        {
+          "en": "Contohnya",
+          "bm": "Contohnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q06",
+      "subtopicId": "bm-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a summary you should NOT include…",
+        "bm": "Dalam ringkasan, anda TIDAK patut memasukkan…"
+      },
+      "explanation": {
+        "en": "Summaries keep only the main points.",
+        "bm": "Ringkasan hanya mengandungi isi utama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "examples and long elaborations",
+          "bm": "contoh dan huraian panjang"
+        },
+        {
+          "en": "main points",
+          "bm": "isi utama"
+        },
+        {
+          "en": "an opening sentence",
+          "bm": "ayat pendahuluan"
+        },
+        {
+          "en": "a closing sentence",
+          "bm": "ayat penutup"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q07",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Apakah maksud rangkai kata ... ?\" tests your…",
+        "bm": "\"Apakah maksud rangkai kata ... ?\" menguji…"
+      },
+      "explanation": {
+        "en": "Use the sentence around the phrase to work out its meaning.",
+        "bm": "Gunakan ayat di sekeliling rangkai kata untuk menentukan maksudnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "vocabulary in context",
+          "bm": "kosa kata mengikut konteks"
+        },
+        {
+          "en": "grammar only",
+          "bm": "tatabahasa sahaja"
+        },
+        {
+          "en": "spelling",
+          "bm": "ejaan"
+        },
+        {
+          "en": "handwriting",
+          "bm": "tulisan tangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q08",
+      "subtopicId": "bm-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Rewriting a point in your own words is called ______ (olah/pengolahan).",
+        "bm": "Menulis semula isi dengan ayat sendiri dipanggil ______."
+      },
+      "explanation": {
+        "en": "Copying long sentences directly may lose marks.",
+        "bm": "Menyalin ayat panjang secara langsung boleh mengurangkan markah."
+      },
+      "difficulty": 1,
+      "answer": [
+        "paraphrase",
+        "paraphrasing",
+        "olah",
+        "pengolahan",
+        "mengolah"
+      ]
+    },
+    {
+      "id": "bm-05-q09",
+      "subtopicId": "bm-05-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of writing a summary.",
+        "bm": "Susun langkah menulis ringkasan."
+      },
+      "explanation": {
+        "en": "Question → points → paraphrase → write → check.",
+        "bm": "Soalan → isi → olah → tulis → semak."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Read the question and its focus",
+          "bm": "Baca soalan dan fokusnya"
+        },
+        {
+          "en": "Read and mark relevant points",
+          "bm": "Baca dan tandakan isi relevan"
+        },
+        {
+          "en": "Paraphrase the points",
+          "bm": "Olah isi"
+        },
+        {
+          "en": "Write with an opening, connectors and a closing",
+          "bm": "Tulis dengan pendahuluan, penanda wacana dan penutup"
+        },
+        {
+          "en": "Count words and check",
+          "bm": "Kira patah perkataan dan semak"
+        }
+      ]
+    },
+    {
+      "id": "bm-05-q10",
+      "subtopicId": "bm-05-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each penanda wacana with its function.",
+        "bm": "Padankan penanda wacana dengan fungsinya."
+      },
+      "explanation": {
+        "en": "Connectors make writing flow.",
+        "bm": "Penanda wacana melancarkan penulisan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Selain itu",
+            "bm": "Selain itu"
+          },
+          "right": {
+            "en": "Add a point",
+            "bm": "Menambah isi"
+          }
+        },
+        {
+          "left": {
+            "en": "Walau bagaimanapun",
+            "bm": "Walau bagaimanapun"
+          },
+          "right": {
+            "en": "Contrast",
+            "bm": "Membezakan"
+          }
+        },
+        {
+          "left": {
+            "en": "Oleh itu",
+            "bm": "Oleh itu"
+          },
+          "right": {
+            "en": "Show result",
+            "bm": "Menunjukkan akibat"
+          }
+        },
+        {
+          "left": {
+            "en": "Kesimpulannya",
+            "bm": "Kesimpulannya"
+          },
+          "right": {
+            "en": "Conclude",
+            "bm": "Merumuskan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-05-q11",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Passage: \"Ali tersenyum lebar ketika menerima keputusan peperiksaannya.\" What can you infer?",
+        "bm": "Petikan: \"Ali tersenyum lebar ketika menerima keputusan peperiksaannya.\" Apakah yang boleh disimpulkan?"
+      },
+      "explanation": {
+        "en": "A wide smile suggests he was happy with the result — an inference.",
+        "bm": "Senyuman lebar menunjukkan dia gembira dengan keputusan — satu inferens."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ali did well in his exam",
+          "bm": "Ali memperoleh keputusan yang baik"
+        },
+        {
+          "en": "Ali failed",
+          "bm": "Ali gagal"
+        },
+        {
+          "en": "Ali was angry",
+          "bm": "Ali marah"
+        },
+        {
+          "en": "Ali did not take the exam",
+          "bm": "Ali tidak menduduki peperiksaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q12",
+      "subtopicId": "bm-05-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL good summary practices.",
+        "bm": "Pilih SEMUA amalan ringkasan yang baik."
+      },
+      "explanation": {
+        "en": "A summary reports the passage, not your opinion.",
+        "bm": "Ringkasan melaporkan isi petikan, bukan pendapat sendiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Stick to the focus of the question",
+          "bm": "Berpegang pada fokus soalan"
+        },
+        {
+          "en": "Use your own words",
+          "bm": "Gunakan ayat sendiri"
+        },
+        {
+          "en": "Stay within the word limit",
+          "bm": "Tidak melebihi had perkataan"
+        },
+        {
+          "en": "Add your own opinions",
+          "bm": "Menambah pendapat sendiri"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-05-q13",
+      "subtopicId": "bm-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The question asks for \"langkah-langkah mengatasi\" (steps to solve). A sentence in the passage gives a CAUSE. What do you do?",
+        "bm": "Soalan meminta \"langkah-langkah mengatasi\". Satu ayat dalam petikan menyatakan PUNCA. Apakah yang perlu dilakukan?"
+      },
+      "explanation": {
+        "en": "Only points that match the focus earn marks.",
+        "bm": "Hanya isi yang menepati fokus diberi markah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Leave it out",
+          "bm": "Tinggalkan"
+        },
+        {
+          "en": "Include it",
+          "bm": "Masukkan"
+        },
+        {
+          "en": "Turn it into a heading",
+          "bm": "Jadikan tajuk"
+        },
+        {
+          "en": "Copy it twice",
+          "bm": "Salin dua kali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q14",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Pada pendapat anda…\" questions require…",
+        "bm": "Soalan \"Pada pendapat anda…\" memerlukan…"
+      },
+      "explanation": {
+        "en": "These are KBAT questions — answer in complete sentences.",
+        "bm": "Ini soalan KBAT — jawab dengan ayat lengkap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "your own reasoned opinion linked to the passage",
+          "bm": "pendapat sendiri yang munasabah dan berkaitan dengan petikan"
+        },
+        {
+          "en": "copying a sentence from the passage",
+          "bm": "menyalin ayat daripada petikan"
+        },
+        {
+          "en": "no answer",
+          "bm": "tiada jawapan"
+        },
+        {
+          "en": "a proverb only",
+          "bm": "peribahasa sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q15",
+      "subtopicId": "bm-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which part of a paragraph usually holds the main idea?",
+        "bm": "Bahagian manakah dalam perenggan biasanya mengandungi idea utama?"
+      },
+      "explanation": {
+        "en": "Topic sentence + supporting details.",
+        "bm": "Ayat topik + ayat huraian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The topic sentence, often the first sentence",
+          "bm": "Ayat topik, selalunya ayat pertama"
+        },
+        {
+          "en": "The last word",
+          "bm": "Perkataan terakhir"
+        },
+        {
+          "en": "The examples",
+          "bm": "Contoh-contoh"
+        },
+        {
+          "en": "The title only",
+          "bm": "Tajuk sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q16",
+      "subtopicId": "bm-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A suitable opening sentence for a summary is…",
+        "bm": "Ayat pendahuluan yang sesuai untuk ringkasan ialah…"
+      },
+      "explanation": {
+        "en": "A summary opening states the topic objectively.",
+        "bm": "Pendahuluan ringkasan menyatakan topik secara objektif."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Petikan ini membincangkan kebaikan bersukan.",
+          "bm": "Petikan ini membincangkan kebaikan bersukan."
+        },
+        {
+          "en": "Saya suka bersukan setiap hari.",
+          "bm": "Saya suka bersukan setiap hari."
+        },
+        {
+          "en": "Pada suatu hari yang cerah…",
+          "bm": "Pada suatu hari yang cerah…"
+        },
+        {
+          "en": "Bersukan itu menyeronokkan sekali!",
+          "bm": "Bersukan itu menyeronokkan sekali!"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q17",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Passage: \"Kedai itu sunyi walaupun pada hujung minggu.\" Which inference is MOST reasonable?",
+        "bm": "Petikan: \"Kedai itu sunyi walaupun pada hujung minggu.\" Inferens manakah PALING munasabah?"
+      },
+      "explanation": {
+        "en": "\"Walaupun pada hujung minggu\" suggests it is usually expected to be busy.",
+        "bm": "\"Walaupun pada hujung minggu\" menunjukkan kedai sepatutnya sibuk."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The shop may not be attracting enough customers",
+          "bm": "Kedai itu mungkin kurang menarik pelanggan"
+        },
+        {
+          "en": "The shop is very popular",
+          "bm": "Kedai itu sangat popular"
+        },
+        {
+          "en": "It was a public holiday",
+          "bm": "Hari itu cuti umum"
+        },
+        {
+          "en": "The shop sells only books",
+          "bm": "Kedai itu menjual buku sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q18",
+      "subtopicId": "bm-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your summary is 150 words but the limit is 120. What is the BEST way to cut it?",
+        "bm": "Ringkasan anda 150 patah perkataan tetapi had 120. Apakah cara TERBAIK memendekkannya?"
+      },
+      "explanation": {
+        "en": "Keep all relevant points; cut the padding.",
+        "bm": "Kekalkan semua isi relevan; buang yang tidak perlu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Remove examples and repeated ideas, and shorten long phrases",
+          "bm": "Buang contoh dan idea berulang, serta pendekkan frasa panjang"
+        },
+        {
+          "en": "Delete the last three points",
+          "bm": "Padam tiga isi terakhir"
+        },
+        {
+          "en": "Remove all connectors",
+          "bm": "Buang semua penanda wacana"
+        },
+        {
+          "en": "Leave it — examiners do not count",
+          "bm": "Biarkan — pemeriksa tidak mengira"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q19",
+      "subtopicId": "bm-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it risky to answer comprehension questions from memory instead of the passage?",
+        "bm": "Mengapakah berisiko menjawab soalan pemahaman berdasarkan ingatan dan bukan petikan?"
+      },
+      "explanation": {
+        "en": "Always locate evidence in the text.",
+        "bm": "Sentiasa cari bukti dalam teks."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Marks are given for answers supported by the passage",
+          "bm": "Markah diberi untuk jawapan yang disokong petikan"
+        },
+        {
+          "en": "Memory is always wrong",
+          "bm": "Ingatan sentiasa salah"
+        },
+        {
+          "en": "Passages are fictional",
+          "bm": "Petikan rekaan"
+        },
+        {
+          "en": "It takes less time",
+          "bm": "Ia menjimatkan masa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-05-q20",
+      "subtopicId": "bm-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which answer to \"Mengapakah penulis berasa kecewa?\" is BEST?",
+        "bm": "Jawapan manakah PALING baik untuk \"Mengapakah penulis berasa kecewa?\""
+      },
+      "explanation": {
+        "en": "Answer in a complete sentence that repeats the question focus.",
+        "bm": "Jawab dengan ayat lengkap yang mengulang fokus soalan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Penulis berasa kecewa kerana usahanya tidak dihargai oleh rakan-rakan.",
+          "bm": "Penulis berasa kecewa kerana usahanya tidak dihargai oleh rakan-rakan."
+        },
+        {
+          "en": "Kerana tidak dihargai.",
+          "bm": "Kerana tidak dihargai."
+        },
+        {
+          "en": "Kecewa.",
+          "bm": "Kecewa."
+        },
+        {
+          "en": "Penulis kecewa sangat-sangat.",
+          "bm": "Penulis kecewa sangat-sangat."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

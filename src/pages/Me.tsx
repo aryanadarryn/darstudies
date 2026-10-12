@@ -35,7 +35,7 @@ export default function Me() {
   const badges = earnedBadges(intros, active, drills)
   const seen = intros.filter((i) => i.completedAt).length
 
-  const masteryData = SUBJECTS.map((s) => ({ name: L(s.name).split(' ')[0], value: Math.round((mastery?.subject.get(s.id) ?? 0) * 100), color: s.color }))
+  const masteryData = SUBJECTS.map((s) => ({ name: s.short ? L(s.short) : L(s.name).split(' ')[0], value: Math.round((mastery?.subject.get(s.id) ?? 0) * 100), color: s.color }))
   const weeks = Array.from({ length: 8 }, (_, i) => addDays(weekStart(today), -7 * (7 - i)))
   const accuracy = weeks.map((w) => {
     const inWeek = attempts.filter((a) => {

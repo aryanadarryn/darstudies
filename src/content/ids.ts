@@ -1,6 +1,6 @@
 // Stable IDs derived from DSKP numbering, shared by the app and the validation script.
 
-export const SUBJECT_IDS = ['phy', 'chem', 'bio', 'addmath', 'math'] as const
+export const SUBJECT_IDS = ['phy', 'chem', 'bio', 'addmath', 'math', 'sej', 'pi', 'bm', 'bi'] as const
 
 export const chapterId = (subjectId: string, number: number) => `${subjectId}-${String(number).padStart(2, '0')}`
 

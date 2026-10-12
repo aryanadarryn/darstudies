@@ -1,0 +1,226 @@
+{
+  "id": "bi",
+  "name": {
+    "en": "English Language",
+    "bm": "Bahasa Inggeris"
+  },
+  "short": {
+    "en": "English",
+    "bm": "BI"
+  },
+  "color": "#4f46e5",
+  "source": "Organised by the CEFR-aligned KSSM English Form 4 skills (language awareness, reading, writing, literature in action). Exam lengths follow the SPM 1119 format as generally published — check your teacher's latest guidelines. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Grammar: Tenses and Verb Forms",
+        "bm": "Tatabahasa: Kala dan Bentuk Kata Kerja"
+      },
+      "theme": {
+        "en": "Language awareness",
+        "bm": "Kesedaran bahasa"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Present Tenses",
+            "bm": "Kala Kini"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Past Tenses",
+            "bm": "Kala Lampau"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Future Forms and Subject–Verb Agreement",
+            "bm": "Bentuk Masa Depan dan Persetujuan Subjek–Kata Kerja"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Grammar: Sentence Structures",
+        "bm": "Tatabahasa: Struktur Ayat"
+      },
+      "theme": {
+        "en": "Language awareness",
+        "bm": "Kesedaran bahasa"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Conditionals",
+            "bm": "Ayat Syarat (Conditionals)"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "The Passive Voice",
+            "bm": "Ayat Pasif"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Reported Speech",
+            "bm": "Cakap Pindah"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Relative Clauses",
+            "bm": "Klausa Relatif"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Vocabulary Building",
+        "bm": "Membina Kosa Kata"
+      },
+      "theme": {
+        "en": "Language awareness",
+        "bm": "Kesedaran bahasa"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Word Formation",
+            "bm": "Pembentukan Kata"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Collocations and Phrasal Verbs",
+            "bm": "Kolokasi dan Kata Kerja Frasa"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Idioms and Commonly Confused Words",
+            "bm": "Simpulan Bahasa dan Perkataan yang Sering Keliru"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Reading Skills",
+        "bm": "Kemahiran Membaca"
+      },
+      "theme": {
+        "en": "Reading",
+        "bm": "Membaca"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Skimming, Scanning and Main Ideas",
+            "bm": "Luncuran, Imbasan dan Idea Utama"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Inference and Reference",
+            "bm": "Inferens dan Rujukan"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Vocabulary in Context, Purpose and Tone",
+            "bm": "Kosa Kata dalam Konteks, Tujuan dan Nada"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Writing for SPM",
+        "bm": "Penulisan untuk SPM"
+      },
+      "theme": {
+        "en": "Writing",
+        "bm": "Menulis"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Short Messages and Emails",
+            "bm": "Mesej Pendek dan E-mel"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Articles, Reviews, Reports and Stories",
+            "bm": "Artikel, Ulasan, Laporan dan Cerita"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Paragraphing and Cohesion",
+            "bm": "Perenggan dan Kohesi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Literature in Action",
+        "bm": "Kesusasteraan dalam Tindakan"
+      },
+      "theme": {
+        "en": "Literature",
+        "bm": "Sastera"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Poetry and Literary Devices",
+            "bm": "Puisi dan Unsur Sastera"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Elements of Prose and Drama",
+            "bm": "Unsur Prosa dan Drama"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Responding to Literature",
+            "bm": "Memberi Respons kepada Karya Sastera"
+          }
+        }
+      ]
+    }
+  ]
+}

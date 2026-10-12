@@ -6,7 +6,7 @@ import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { useMastery } from '../lib/hooks'
 
-export const SUBJECT_EMOJI: Record<string, string> = { phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢' }
+export const SUBJECT_EMOJI: Record<string, string> = { phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️' }
 
 export default function Learn() {
   const { t, L, L2 } = useT()

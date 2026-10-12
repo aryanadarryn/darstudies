@@ -1,0 +1,866 @@
+{
+  "chapterId": "bi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"I have lived here for five years\" and \"I lived here for five years\" — one of these people still lives here. Tenses are not just grammar rules; they tell your reader WHEN and HOW something happened.",
+      "bm": "\"I have lived here for five years\" dan \"I lived here for five years\" — salah seorang daripada mereka masih tinggal di sini. Kala bukan sekadar peraturan tatabahasa; ia memberitahu pembaca BILA dan BAGAIMANA sesuatu berlaku."
+    },
+    "bigIdeas": [
+      {
+        "en": "Simple = facts and habits; continuous = actions in progress; perfect = connection between two times.",
+        "bm": "Simple = fakta dan tabiat; continuous = tindakan sedang berlaku; perfect = kaitan antara dua masa."
+      },
+      {
+        "en": "Present perfect links the past to now (since/for/already/yet); past simple is a finished time (yesterday, in 2020).",
+        "bm": "Present perfect menghubungkan masa lalu dengan sekarang (since/for/already/yet); past simple untuk masa yang telah tamat (yesterday, in 2020)."
+      },
+      {
+        "en": "The verb must agree with its subject: \"The list of items IS long.\"",
+        "bm": "Kata kerja mesti sepadan dengan subjeknya: \"The list of items IS long.\""
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Form",
+            "bm": "Bentuk"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Present simple",
+              "bm": "Present simple"
+            },
+            "cells": [
+              {
+                "en": "V / V-s",
+                "bm": "V / V-s"
+              },
+              {
+                "en": "She walks to school every day.",
+                "bm": "She walks to school every day."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Present continuous",
+              "bm": "Present continuous"
+            },
+            "cells": [
+              {
+                "en": "am/is/are + V-ing",
+                "bm": "am/is/are + V-ing"
+              },
+              {
+                "en": "She is walking now.",
+                "bm": "She is walking now."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Present perfect",
+              "bm": "Present perfect"
+            },
+            "cells": [
+              {
+                "en": "have/has + V3",
+                "bm": "have/has + V3"
+              },
+              {
+                "en": "She has walked 5 km today.",
+                "bm": "She has walked 5 km today."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Past simple",
+              "bm": "Past simple"
+            },
+            "cells": [
+              {
+                "en": "V2",
+                "bm": "V2"
+              },
+              {
+                "en": "She walked yesterday.",
+                "bm": "She walked yesterday."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Past continuous",
+              "bm": "Past continuous"
+            },
+            "cells": [
+              {
+                "en": "was/were + V-ing",
+                "bm": "was/were + V-ing"
+              },
+              {
+                "en": "She was walking when it rained.",
+                "bm": "She was walking when it rained."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Past perfect",
+              "bm": "Past perfect"
+            },
+            "cells": [
+              {
+                "en": "had + V3",
+                "bm": "had + V3"
+              },
+              {
+                "en": "She had left before I arrived.",
+                "bm": "She had left before I arrived."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Present perfect",
+          "bm": "Present perfect"
+        },
+        "definition": {
+          "en": "have/has + past participle; past action with a link to now.",
+          "bm": "have/has + past participle; tindakan lampau yang berkait dengan sekarang."
+        }
+      },
+      {
+        "term": {
+          "en": "Past perfect",
+          "bm": "Past perfect"
+        },
+        "definition": {
+          "en": "had + past participle; the earlier of two past actions.",
+          "bm": "had + past participle; tindakan lebih awal antara dua tindakan lampau."
+        }
+      },
+      {
+        "term": {
+          "en": "Continuous aspect",
+          "bm": "Aspek continuous"
+        },
+        "definition": {
+          "en": "be + V-ing; an action in progress.",
+          "bm": "be + V-ing; tindakan yang sedang berlaku."
+        }
+      },
+      {
+        "term": {
+          "en": "Past participle (V3)",
+          "bm": "Past participle (V3)"
+        },
+        "definition": {
+          "en": "Third form of a verb: written, gone, eaten.",
+          "bm": "Bentuk ketiga kata kerja: written, gone, eaten."
+        }
+      },
+      {
+        "term": {
+          "en": "Subject–verb agreement",
+          "bm": "Persetujuan subjek–kata kerja"
+        },
+        "definition": {
+          "en": "A singular subject takes a singular verb; plural takes plural.",
+          "bm": "Subjek tunggal mengambil kata kerja tunggal; jamak mengambil jamak."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Choose: \"When I reached the station, the train ___ (leave).\"",
+        "bm": "Pilih: \"When I reached the station, the train ___ (leave).\""
+      },
+      "steps": [
+        {
+          "en": "Two past actions: reaching the station and the train leaving.",
+          "bm": "Dua tindakan lampau: tiba di stesen dan kereta api bertolak."
+        },
+        {
+          "en": "Which happened first? The train left first.",
+          "bm": "Mana berlaku dahulu? Kereta api bertolak dahulu."
+        },
+        {
+          "en": "Earlier past action → past perfect: had + V3.",
+          "bm": "Tindakan lampau yang lebih awal → past perfect: had + V3."
+        }
+      ],
+      "answer": {
+        "en": "When I reached the station, the train had left.",
+        "bm": "When I reached the station, the train had left."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-01-q01",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "She ___ to school every day.",
+        "bm": "She ___ to school every day."
+      },
+      "explanation": {
+        "en": "Habit + third-person singular → present simple with -s.",
+        "bm": "Tabiat + subjek orang ketiga tunggal → present simple dengan -s."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "walks",
+          "bm": "walks"
+        },
+        {
+          "en": "walk",
+          "bm": "walk"
+        },
+        {
+          "en": "walking",
+          "bm": "walking"
+        },
+        {
+          "en": "is walk",
+          "bm": "is walk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q02",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Look! The children ___ in the rain.",
+        "bm": "Look! The children ___ in the rain."
+      },
+      "explanation": {
+        "en": "\"Look!\" shows an action happening now → present continuous.",
+        "bm": "\"Look!\" menunjukkan tindakan sedang berlaku → present continuous."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "are playing",
+          "bm": "are playing"
+        },
+        {
+          "en": "play",
+          "bm": "play"
+        },
+        {
+          "en": "plays",
+          "bm": "plays"
+        },
+        {
+          "en": "played",
+          "bm": "played"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q03",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "I ___ my homework already.",
+        "bm": "I ___ my homework already."
+      },
+      "explanation": {
+        "en": "\"Already\" → present perfect.",
+        "bm": "\"Already\" → present perfect."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "have finished",
+          "bm": "have finished"
+        },
+        {
+          "en": "finished yesterday",
+          "bm": "finished yesterday"
+        },
+        {
+          "en": "finish",
+          "bm": "finish"
+        },
+        {
+          "en": "am finish",
+          "bm": "am finish"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q04",
+      "subtopicId": "bi-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Past tense of \"go\": Yesterday we ___ to the museum.",
+        "bm": "Kala lampau \"go\": Yesterday we ___ to the museum."
+      },
+      "explanation": {
+        "en": "go → went → gone.",
+        "bm": "go → went → gone."
+      },
+      "difficulty": 1,
+      "answer": [
+        "went"
+      ]
+    },
+    {
+      "id": "bi-01-q05",
+      "subtopicId": "bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "I ___ TV when the phone rang.",
+        "bm": "I ___ TV when the phone rang."
+      },
+      "explanation": {
+        "en": "Longer action in progress interrupted by a shorter one → past continuous.",
+        "bm": "Tindakan panjang yang diganggu tindakan singkat → past continuous."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "was watching",
+          "bm": "was watching"
+        },
+        {
+          "en": "watched",
+          "bm": "watched"
+        },
+        {
+          "en": "am watching",
+          "bm": "am watching"
+        },
+        {
+          "en": "have watched",
+          "bm": "have watched"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q06",
+      "subtopicId": "bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Each of the students ___ a laptop.",
+        "bm": "Each of the students ___ a laptop."
+      },
+      "explanation": {
+        "en": "\"Each\" is singular → has.",
+        "bm": "\"Each\" tunggal → has."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "has",
+          "bm": "has"
+        },
+        {
+          "en": "have",
+          "bm": "have"
+        },
+        {
+          "en": "having",
+          "bm": "having"
+        },
+        {
+          "en": "are having",
+          "bm": "are having"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q07",
+      "subtopicId": "bi-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Neither the teacher nor the students ___ (be) late. (is/are)",
+        "bm": "Neither the teacher nor the students ___ (be) late. (is/are)"
+      },
+      "explanation": {
+        "en": "With neither…nor, the verb agrees with the nearer subject (students → are).",
+        "bm": "Dengan neither…nor, kata kerja sepadan dengan subjek yang terdekat (students → are)."
+      },
+      "difficulty": 1,
+      "answer": [
+        "are"
+      ]
+    },
+    {
+      "id": "bi-01-q08",
+      "subtopicId": "bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence shows a planned future arrangement?",
+        "bm": "Ayat manakah menunjukkan rancangan masa depan yang telah diatur?"
+      },
+      "explanation": {
+        "en": "Present continuous is used for fixed future arrangements.",
+        "bm": "Present continuous digunakan untuk rancangan masa depan yang telah ditetapkan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "I am meeting Ali at 3 p.m. tomorrow.",
+          "bm": "I am meeting Ali at 3 p.m. tomorrow."
+        },
+        {
+          "en": "I meet Ali yesterday.",
+          "bm": "I meet Ali yesterday."
+        },
+        {
+          "en": "I met Ali tomorrow.",
+          "bm": "I met Ali tomorrow."
+        },
+        {
+          "en": "I have meet Ali.",
+          "bm": "I have meet Ali."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q09",
+      "subtopicId": "bi-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each time expression with the tense it usually signals.",
+        "bm": "Padankan ungkapan masa dengan kala yang biasanya ditandakannya."
+      },
+      "explanation": {
+        "en": "Signal words help you choose the tense.",
+        "bm": "Kata petunjuk membantu memilih kala."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "every Sunday",
+            "bm": "every Sunday"
+          },
+          "right": {
+            "en": "Present simple",
+            "bm": "Present simple"
+          }
+        },
+        {
+          "left": {
+            "en": "right now",
+            "bm": "right now"
+          },
+          "right": {
+            "en": "Present continuous",
+            "bm": "Present continuous"
+          }
+        },
+        {
+          "left": {
+            "en": "since 2020",
+            "bm": "since 2020"
+          },
+          "right": {
+            "en": "Present perfect",
+            "bm": "Present perfect"
+          }
+        },
+        {
+          "left": {
+            "en": "last year",
+            "bm": "last year"
+          },
+          "right": {
+            "en": "Past simple",
+            "bm": "Past simple"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-01-q10",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "She ___ in Penang since 2019.",
+        "bm": "She ___ in Penang since 2019."
+      },
+      "explanation": {
+        "en": "\"Since\" + still true now → present perfect.",
+        "bm": "\"Since\" + masih benar sekarang → present perfect."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "has lived",
+          "bm": "has lived"
+        },
+        {
+          "en": "lived",
+          "bm": "lived"
+        },
+        {
+          "en": "lives",
+          "bm": "lives"
+        },
+        {
+          "en": "is live",
+          "bm": "is live"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q11",
+      "subtopicId": "bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "By the time the teacher arrived, we ___ the classroom.",
+        "bm": "By the time the teacher arrived, we ___ the classroom."
+      },
+      "explanation": {
+        "en": "Earlier of two past actions → past perfect.",
+        "bm": "Tindakan lampau yang lebih awal → past perfect."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "had cleaned",
+          "bm": "had cleaned"
+        },
+        {
+          "en": "cleaned",
+          "bm": "cleaned"
+        },
+        {
+          "en": "have cleaned",
+          "bm": "have cleaned"
+        },
+        {
+          "en": "were clean",
+          "bm": "were clean"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q12",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Have you ever ___ durian?",
+        "bm": "Have you ever ___ durian?"
+      },
+      "explanation": {
+        "en": "Present perfect uses the past participle: eat → ate → eaten.",
+        "bm": "Present perfect menggunakan past participle: eat → ate → eaten."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "eaten",
+          "bm": "eaten"
+        },
+        {
+          "en": "ate",
+          "bm": "ate"
+        },
+        {
+          "en": "eat",
+          "bm": "eat"
+        },
+        {
+          "en": "eating",
+          "bm": "eating"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q13",
+      "subtopicId": "bi-01-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct sentences.",
+        "bm": "Pilih SEMUA ayat yang betul."
+      },
+      "explanation": {
+        "en": "\"News\" and \"mathematics\" are singular; \"team\" here is one unit; \"furniture\" is uncountable (no -s).",
+        "bm": "\"News\" dan \"mathematics\" tunggal; \"team\" di sini satu unit; \"furniture\" tidak boleh dikira (tiada -s)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The news is shocking.",
+          "bm": "The news is shocking."
+        },
+        {
+          "en": "Mathematics is my favourite subject.",
+          "bm": "Mathematics is my favourite subject."
+        },
+        {
+          "en": "The team of players is ready.",
+          "bm": "The team of players is ready."
+        },
+        {
+          "en": "The furnitures are new.",
+          "bm": "The furnitures are new."
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-01-q14",
+      "subtopicId": "bi-01-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the forms of \"write\" in order: base → past → past participle.",
+        "bm": "Susun bentuk \"write\": asal → lampau → past participle."
+      },
+      "explanation": {
+        "en": "write – wrote – written.",
+        "bm": "write – wrote – written."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "write",
+          "bm": "write"
+        },
+        {
+          "en": "wrote",
+          "bm": "wrote"
+        },
+        {
+          "en": "written",
+          "bm": "written"
+        }
+      ]
+    },
+    {
+      "id": "bi-01-q15",
+      "subtopicId": "bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Ayat manakah yang betul?"
+      },
+      "explanation": {
+        "en": "A finished time (\"last week\") takes past simple, not present perfect.",
+        "bm": "Masa yang telah tamat (\"last week\") menggunakan past simple, bukan present perfect."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "I saw him last week.",
+          "bm": "I saw him last week."
+        },
+        {
+          "en": "I have seen him last week.",
+          "bm": "I have seen him last week."
+        },
+        {
+          "en": "I have saw him last week.",
+          "bm": "I have saw him last week."
+        },
+        {
+          "en": "I seen him last week.",
+          "bm": "I seen him last week."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q16",
+      "subtopicId": "bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Look at those clouds! It ___ rain.",
+        "bm": "Look at those clouds! It ___ rain."
+      },
+      "explanation": {
+        "en": "\"Going to\" for predictions based on present evidence.",
+        "bm": "\"Going to\" untuk ramalan berdasarkan bukti sekarang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "is going to",
+          "bm": "is going to"
+        },
+        {
+          "en": "will be",
+          "bm": "will be"
+        },
+        {
+          "en": "rains",
+          "bm": "rains"
+        },
+        {
+          "en": "rained",
+          "bm": "rained"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q17",
+      "subtopicId": "bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"I have lost my keys.\" What does the speaker MOST likely mean?",
+        "bm": "\"I have lost my keys.\" Apakah maksud penutur yang PALING mungkin?"
+      },
+      "explanation": {
+        "en": "Present perfect shows a past action with a present result.",
+        "bm": "Present perfect menunjukkan tindakan lampau dengan kesan pada masa kini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The keys are still missing now",
+          "bm": "Kunci itu masih hilang sekarang"
+        },
+        {
+          "en": "He found them yesterday",
+          "bm": "Dia menemuinya semalam"
+        },
+        {
+          "en": "He will lose them later",
+          "bm": "Dia akan kehilangannya nanti"
+        },
+        {
+          "en": "He never had keys",
+          "bm": "Dia tidak pernah ada kunci"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q18",
+      "subtopicId": "bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Find the error: \"After she has finished her work, she went home.\"",
+        "bm": "Cari kesalahan: \"After she has finished her work, she went home.\""
+      },
+      "explanation": {
+        "en": "In a past story, the earlier action takes the past perfect (or past simple), not present perfect.",
+        "bm": "Dalam cerita lampau, tindakan lebih awal menggunakan past perfect (atau past simple), bukan present perfect."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "has finished → had finished",
+          "bm": "has finished → had finished"
+        },
+        {
+          "en": "went → go",
+          "bm": "went → go"
+        },
+        {
+          "en": "After → Before",
+          "bm": "After → Before"
+        },
+        {
+          "en": "her → his",
+          "bm": "her → his"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q19",
+      "subtopicId": "bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is grammatically correct?",
+        "bm": "Ayat manakah yang betul dari segi tatabahasa?"
+      },
+      "explanation": {
+        "en": "\"One of + plural noun\" takes a singular verb.",
+        "bm": "\"One of + kata nama jamak\" mengambil kata kerja tunggal."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "One of my friends lives in Ipoh.",
+          "bm": "One of my friends lives in Ipoh."
+        },
+        {
+          "en": "One of my friend live in Ipoh.",
+          "bm": "One of my friend live in Ipoh."
+        },
+        {
+          "en": "One of my friends live in Ipoh.",
+          "bm": "One of my friends live in Ipoh."
+        },
+        {
+          "en": "One of my friend lives in Ipoh.",
+          "bm": "One of my friend lives in Ipoh."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-01-q20",
+      "subtopicId": "bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a story (narrative) essay, which tense should mostly be used?",
+        "bm": "Dalam karangan cerita, kala manakah yang patut digunakan secara umumnya?"
+      },
+      "explanation": {
+        "en": "Stories are usually told in the past, using past perfect for earlier events.",
+        "bm": "Cerita lazimnya diceritakan dalam kala lampau, dengan past perfect untuk peristiwa yang lebih awal."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Past tenses",
+          "bm": "Past tenses"
+        },
+        {
+          "en": "Present continuous",
+          "bm": "Present continuous"
+        },
+        {
+          "en": "Future forms",
+          "bm": "Future forms"
+        },
+        {
+          "en": "Imperatives",
+          "bm": "Imperatives"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

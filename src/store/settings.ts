@@ -19,7 +19,7 @@ export const defaultSettings = (): Settings => ({
   minutes: { holiday: 60, school: 45, weekend: 90 },
   dailyCap: 90,
   studyDays: [1, 2, 3, 4, 5, 6],
-  confidence: { phy: 3, chem: 3, bio: 3, addmath: 3, math: 3 },
+  confidence: { phy: 3, chem: 3, bio: 3, addmath: 3, math: 3, sej: 3, pi: 3, bm: 3, bi: 3 },
   currentChapters: {},
   reminderTime: '20:00',
   breakMinutes: 25,
@@ -38,7 +38,9 @@ export const useSettings = create<SettingsState>((set, get) => ({
   settings: defaultSettings(),
   load: async () => {
     const stored = await getKV<Partial<Settings>>('settings', {})
-    set({ ready: true, settings: { ...defaultSettings(), ...stored } })
+    const defaults = defaultSettings()
+    // Merge confidence so subjects added after the user's setup get the default rating.
+    set({ ready: true, settings: { ...defaults, ...stored, confidence: { ...defaults.confidence, ...stored.confidence } } })
   },
   update: async (patch) => {
     const settings = { ...get().settings, ...patch }

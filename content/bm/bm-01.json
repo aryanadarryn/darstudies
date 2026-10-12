@@ -1,0 +1,819 @@
+{
+  "chapterId": "bm-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Dia pergi di sekolah\" or \"Dia pergi ke sekolah\"? One tiny word decides whether an examiner gives you the mark. Knowing word classes is how you choose correctly every time.",
+      "bm": "\"Dia pergi di sekolah\" atau \"Dia pergi ke sekolah\"? Satu perkataan kecil menentukan sama ada pemeriksa memberi markah. Menguasai golongan kata membantu anda memilih dengan tepat setiap kali."
+    },
+    "bigIdeas": [
+      {
+        "en": "Malay has four word classes: kata nama, kata kerja, kata adjektif and kata tugas.",
+        "bm": "Bahasa Melayu mempunyai empat golongan kata: kata nama, kata kerja, kata adjektif dan kata tugas."
+      },
+      {
+        "en": "Kata kerja transitif needs an object; kata kerja tak transitif does not.",
+        "bm": "Kata kerja transitif memerlukan objek; kata kerja tak transitif tidak memerlukan objek."
+      },
+      {
+        "en": "Kata tugas (e.g. di, ke, daripada, ialah, adalah) have strict usage rules that are often tested.",
+        "bm": "Kata tugas (cth. di, ke, daripada, ialah, adalah) mempunyai peraturan penggunaan yang ketat dan kerap diuji."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Word classes",
+          "bm": "Golongan kata"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Kata nama",
+              "bm": "Kata nama"
+            },
+            "detail": {
+              "en": "Am, khas, ganti nama — e.g. buku, Kuala Lumpur, beliau",
+              "bm": "Am, khas, ganti nama — cth. buku, Kuala Lumpur, beliau"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata kerja",
+              "bm": "Kata kerja"
+            },
+            "detail": {
+              "en": "Transitif (membaca buku) / tak transitif (tidur)",
+              "bm": "Transitif (membaca buku) / tak transitif (tidur)"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata adjektif",
+              "bm": "Kata adjektif"
+            },
+            "detail": {
+              "en": "Sifat, warna, ukuran, perasaan — e.g. cantik, merah, tinggi",
+              "bm": "Sifat, warna, ukuran, perasaan — cth. cantik, merah, tinggi"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata tugas",
+              "bm": "Kata tugas"
+            },
+            "detail": {
+              "en": "Kata hubung, kata sendi nama, kata pemeri, kata penguat…",
+              "bm": "Kata hubung, kata sendi nama, kata pemeri, kata penguat…"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata nama khas",
+          "bm": "Kata nama khas"
+        },
+        "definition": {
+          "en": "Specific names; start with a capital letter (Sungai Pahang, Encik Ali).",
+          "bm": "Nama khusus; dimulakan dengan huruf besar (Sungai Pahang, Encik Ali)."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata ganti nama diri",
+          "bm": "Kata ganti nama diri"
+        },
+        "definition": {
+          "en": "Pronouns: first (saya, kami), second (awak, anda), third person (dia, beliau, mereka).",
+          "bm": "Ganti nama diri pertama (saya, kami), kedua (awak, anda), ketiga (dia, beliau, mereka)."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata kerja transitif",
+          "bm": "Kata kerja transitif"
+        },
+        "definition": {
+          "en": "Verb that needs an object: Adik menendang bola.",
+          "bm": "Kata kerja yang memerlukan objek: Adik menendang bola."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata sendi nama",
+          "bm": "Kata sendi nama"
+        },
+        "definition": {
+          "en": "Prepositions before nouns: di, ke, dari, daripada, kepada, pada.",
+          "bm": "Kata yang hadir sebelum frasa nama: di, ke, dari, daripada, kepada, pada."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata pemeri",
+          "bm": "Kata pemeri"
+        },
+        "definition": {
+          "en": "\"Ialah\" (before noun phrases) and \"adalah\" (before adjectives or prepositional phrases).",
+          "bm": "\"Ialah\" (sebelum frasa nama) dan \"adalah\" (sebelum frasa adjektif atau frasa sendi nama)."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata penguat",
+          "bm": "Kata penguat"
+        },
+        "definition": {
+          "en": "Intensifiers: sangat, amat, paling, sekali.",
+          "bm": "Kata yang menguatkan maksud adjektif: sangat, amat, paling, sekali."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Correct the error: \"Hadiah itu diberikan oleh pengetua daripada sekolah kami.\"",
+        "bm": "Betulkan kesalahan: \"Hadiah itu diberikan oleh pengetua daripada sekolah kami.\""
+      },
+      "steps": [
+        {
+          "en": "Identify the kata sendi nama: \"daripada\".",
+          "bm": "Kenal pasti kata sendi nama: \"daripada\"."
+        },
+        {
+          "en": "Rule: \"dari\" is for place, time or direction; \"daripada\" is for people, sources and comparisons.",
+          "bm": "Peraturan: \"dari\" untuk tempat, masa atau arah; \"daripada\" untuk orang, sumber dan perbandingan."
+        },
+        {
+          "en": "\"sekolah kami\" is a place → use \"dari\".",
+          "bm": "\"sekolah kami\" ialah tempat → gunakan \"dari\"."
+        }
+      ],
+      "answer": {
+        "en": "Hadiah itu diberikan oleh pengetua dari sekolah kami.",
+        "bm": "Hadiah itu diberikan oleh pengetua dari sekolah kami."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-01-q01",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word is a kata nama khas?",
+        "bm": "Perkataan manakah kata nama khas?"
+      },
+      "explanation": {
+        "en": "Kata nama khas names a specific thing and starts with a capital letter.",
+        "bm": "Kata nama khas menamakan sesuatu secara khusus dan dimulakan dengan huruf besar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Gunung Kinabalu",
+          "bm": "Gunung Kinabalu"
+        },
+        {
+          "en": "gunung",
+          "bm": "gunung"
+        },
+        {
+          "en": "tinggi",
+          "bm": "tinggi"
+        },
+        {
+          "en": "mendaki",
+          "bm": "mendaki"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q02",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a third-person pronoun (kata ganti nama diri ketiga)?",
+        "bm": "Antara berikut, yang manakah kata ganti nama diri ketiga?"
+      },
+      "explanation": {
+        "en": "Dia, beliau, mereka, ia, -nya are third person.",
+        "bm": "Dia, beliau, mereka, ia, -nya ialah ganti nama diri ketiga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "beliau",
+          "bm": "beliau"
+        },
+        {
+          "en": "saya",
+          "bm": "saya"
+        },
+        {
+          "en": "anda",
+          "bm": "anda"
+        },
+        {
+          "en": "kami",
+          "bm": "kami"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q03",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Identify the kata kerja tak transitif.",
+        "bm": "Kenal pasti kata kerja tak transitif."
+      },
+      "explanation": {
+        "en": "\"Tidur\" does not need an object.",
+        "bm": "\"Tidur\" tidak memerlukan objek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Bayi itu tidur.",
+          "bm": "Bayi itu tidur."
+        },
+        {
+          "en": "Ibu memasak nasi.",
+          "bm": "Ibu memasak nasi."
+        },
+        {
+          "en": "Ali membaca buku.",
+          "bm": "Ali membaca buku."
+        },
+        {
+          "en": "Kakak menyapu lantai.",
+          "bm": "Kakak menyapu lantai."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q04",
+      "subtopicId": "bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word is a kata adjektif?",
+        "bm": "Perkataan manakah kata adjektif?"
+      },
+      "explanation": {
+        "en": "\"Rajin\" describes a quality (sifat).",
+        "bm": "\"Rajin\" menerangkan sifat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rajin",
+          "bm": "rajin"
+        },
+        {
+          "en": "rumah",
+          "bm": "rumah"
+        },
+        {
+          "en": "berlari",
+          "bm": "berlari"
+        },
+        {
+          "en": "dan",
+          "bm": "dan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q05",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: Ayah pergi ___ pejabat.",
+        "bm": "Pilih perkataan yang betul: Ayah pergi ___ pejabat."
+      },
+      "explanation": {
+        "en": "\"Ke\" shows direction towards a place.",
+        "bm": "\"Ke\" menunjukkan arah menuju ke sesuatu tempat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ke",
+          "bm": "ke"
+        },
+        {
+          "en": "di",
+          "bm": "di"
+        },
+        {
+          "en": "pada",
+          "bm": "pada"
+        },
+        {
+          "en": "daripada",
+          "bm": "daripada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q06",
+      "subtopicId": "bm-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete with \"ialah\" or \"adalah\": Kuala Lumpur ___ ibu negara Malaysia.",
+        "bm": "Lengkapkan dengan \"ialah\" atau \"adalah\": Kuala Lumpur ___ ibu negara Malaysia."
+      },
+      "explanation": {
+        "en": "\"Ibu negara Malaysia\" is a frasa nama → use \"ialah\".",
+        "bm": "\"Ibu negara Malaysia\" frasa nama → gunakan \"ialah\"."
+      },
+      "difficulty": 1,
+      "answer": [
+        "ialah"
+      ]
+    },
+    {
+      "id": "bm-01-q07",
+      "subtopicId": "bm-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete with \"dari\" or \"daripada\": Surat ini ___ ibu saya.",
+        "bm": "Lengkapkan dengan \"dari\" atau \"daripada\": Surat ini ___ ibu saya."
+      },
+      "explanation": {
+        "en": "A person is the source → \"daripada\".",
+        "bm": "Sumbernya orang → \"daripada\"."
+      },
+      "difficulty": 1,
+      "answer": [
+        "daripada"
+      ]
+    },
+    {
+      "id": "bm-01-q08",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a kata penguat?",
+        "bm": "Antara berikut, yang manakah kata penguat?"
+      },
+      "explanation": {
+        "en": "\"Amat\" strengthens an adjective: amat cantik.",
+        "bm": "\"Amat\" menguatkan adjektif: amat cantik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "amat",
+          "bm": "amat"
+        },
+        {
+          "en": "tetapi",
+          "bm": "tetapi"
+        },
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        },
+        {
+          "en": "ialah",
+          "bm": "ialah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q09",
+      "subtopicId": "bm-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each word with its class.",
+        "bm": "Padankan perkataan dengan golongannya."
+      },
+      "explanation": {
+        "en": "Every Malay word belongs to one of these four classes.",
+        "bm": "Setiap perkataan bahasa Melayu tergolong dalam salah satu daripada empat golongan ini."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "kerusi",
+            "bm": "kerusi"
+          },
+          "right": {
+            "en": "Kata nama",
+            "bm": "Kata nama"
+          }
+        },
+        {
+          "left": {
+            "en": "menulis",
+            "bm": "menulis"
+          },
+          "right": {
+            "en": "Kata kerja",
+            "bm": "Kata kerja"
+          }
+        },
+        {
+          "left": {
+            "en": "jujur",
+            "bm": "jujur"
+          },
+          "right": {
+            "en": "Kata adjektif",
+            "bm": "Kata adjektif"
+          }
+        },
+        {
+          "left": {
+            "en": "tetapi",
+            "bm": "tetapi"
+          },
+          "right": {
+            "en": "Kata tugas",
+            "bm": "Kata tugas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-01-q10",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"adalah\" correctly?",
+        "bm": "Ayat manakah menggunakan \"adalah\" dengan betul?"
+      },
+      "explanation": {
+        "en": "\"Adalah\" comes before an adjective (besar). The others need \"ialah\" before a noun phrase.",
+        "bm": "\"Adalah\" hadir sebelum adjektif (besar). Yang lain memerlukan \"ialah\" sebelum frasa nama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rumah itu adalah besar.",
+          "bm": "Rumah itu adalah besar."
+        },
+        {
+          "en": "Ali adalah murid baharu.",
+          "bm": "Ali adalah murid baharu."
+        },
+        {
+          "en": "Ibu adalah guru.",
+          "bm": "Ibu adalah guru."
+        },
+        {
+          "en": "Ini adalah buku saya.",
+          "bm": "Ini adalah buku saya."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q11",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: Dia lebih tinggi ___ abangnya.",
+        "bm": "Pilih perkataan yang betul: Dia lebih tinggi ___ abangnya."
+      },
+      "explanation": {
+        "en": "Comparison uses \"daripada\".",
+        "bm": "Perbandingan menggunakan \"daripada\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "daripada",
+          "bm": "daripada"
+        },
+        {
+          "en": "dari",
+          "bm": "dari"
+        },
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        },
+        {
+          "en": "pada",
+          "bm": "pada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q12",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Ayat manakah yang betul?"
+      },
+      "explanation": {
+        "en": "Kata sendi nama \"di\" is written separately: di atas.",
+        "bm": "Kata sendi nama \"di\" ditulis terpisah: di atas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Buku itu di atas meja.",
+          "bm": "Buku itu di atas meja."
+        },
+        {
+          "en": "Buku itu diatas meja.",
+          "bm": "Buku itu diatas meja."
+        },
+        {
+          "en": "Buku itu di-atas meja.",
+          "bm": "Buku itu di-atas meja."
+        },
+        {
+          "en": "Buku itu ke atas meja.",
+          "bm": "Buku itu ke atas meja."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q13",
+      "subtopicId": "bm-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL kata adjektif.",
+        "bm": "Pilih SEMUA kata adjektif."
+      },
+      "explanation": {
+        "en": "Warna (merah), perasaan (gembira), ukuran (sempit). \"Menyanyi\" is a verb.",
+        "bm": "Warna (merah), perasaan (gembira), ukuran (sempit). \"Menyanyi\" kata kerja."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "merah",
+          "bm": "merah"
+        },
+        {
+          "en": "gembira",
+          "bm": "gembira"
+        },
+        {
+          "en": "sempit",
+          "bm": "sempit"
+        },
+        {
+          "en": "menyanyi",
+          "bm": "menyanyi"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-01-q14",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Mereka\" should NOT be followed by plural reduplication. Which is correct?",
+        "bm": "\"Mereka\" tidak perlu digandakan lagi. Manakah yang betul?"
+      },
+      "explanation": {
+        "en": "\"Mereka\" is already plural.",
+        "bm": "\"Mereka\" sudah membawa maksud jamak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mereka sedang belajar.",
+          "bm": "Mereka sedang belajar."
+        },
+        {
+          "en": "Mereka-mereka sedang belajar.",
+          "bm": "Mereka-mereka sedang belajar."
+        },
+        {
+          "en": "Para mereka sedang belajar.",
+          "bm": "Para mereka sedang belajar."
+        },
+        {
+          "en": "Semua mereka-mereka belajar.",
+          "bm": "Semua mereka-mereka belajar."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q15",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: Hadiah itu diberikan ___ pemenang.",
+        "bm": "Pilih perkataan yang betul: Hadiah itu diberikan ___ pemenang."
+      },
+      "explanation": {
+        "en": "\"Kepada\" is used before people (receivers).",
+        "bm": "\"Kepada\" digunakan sebelum orang (penerima)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        },
+        {
+          "en": "pada",
+          "bm": "pada"
+        },
+        {
+          "en": "ke",
+          "bm": "ke"
+        },
+        {
+          "en": "di",
+          "bm": "di"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q16",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word is a kata nama am?",
+        "bm": "Perkataan manakah kata nama am?"
+      },
+      "explanation": {
+        "en": "Kata nama am is a general name, written in lower case.",
+        "bm": "Kata nama am nama umum, ditulis dengan huruf kecil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sungai",
+          "bm": "sungai"
+        },
+        {
+          "en": "Sungai Pahang",
+          "bm": "Sungai Pahang"
+        },
+        {
+          "en": "Encik Lim",
+          "bm": "Encik Lim"
+        },
+        {
+          "en": "Jalan Ampang",
+          "bm": "Jalan Ampang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q17",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Identify the WRONG sentence.",
+        "bm": "Kenal pasti ayat yang SALAH."
+      },
+      "explanation": {
+        "en": "Johor Bahru is a place → \"dari Johor Bahru\".",
+        "bm": "Johor Bahru tempat → \"dari Johor Bahru\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Pada pendapat saya, rancangan itu baik.",
+          "bm": "Pada pendapat saya, rancangan itu baik."
+        },
+        {
+          "en": "Kami bertolak pada pukul 7 pagi.",
+          "bm": "Kami bertolak pada pukul 7 pagi."
+        },
+        {
+          "en": "Dia tinggal di Ipoh.",
+          "bm": "Dia tinggal di Ipoh."
+        },
+        {
+          "en": "Surat itu dihantar daripada Johor Bahru.",
+          "bm": "Surat itu dihantar daripada Johor Bahru."
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "id": "bm-01-q18",
+      "subtopicId": "bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"beliau\" correctly?",
+        "bm": "Ayat manakah menggunakan \"beliau\" dengan betul?"
+      },
+      "explanation": {
+        "en": "\"Beliau\" is a respectful third-person pronoun for people we honour — not for animals or small children.",
+        "bm": "\"Beliau\" ganti nama diri ketiga untuk orang yang dihormati — bukan untuk haiwan atau kanak-kanak kecil."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Beliau merupakan pengetua sekolah kami.",
+          "bm": "Beliau merupakan pengetua sekolah kami."
+        },
+        {
+          "en": "Beliau itu kucing saya.",
+          "bm": "Beliau itu kucing saya."
+        },
+        {
+          "en": "Beliau budak kecil yang nakal itu.",
+          "bm": "Beliau budak kecil yang nakal itu."
+        },
+        {
+          "en": "Saya memanggil adik beliau sebab dia baru lahir.",
+          "bm": "Saya memanggil adik beliau sebab dia baru lahir."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q19",
+      "subtopicId": "bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence has the correct order of kata penguat?",
+        "bm": "Ayat manakah mempunyai susunan kata penguat yang betul?"
+      },
+      "explanation": {
+        "en": "\"Sekali\" comes after the adjective; do not combine two intensifiers (sangat … sekali).",
+        "bm": "\"Sekali\" hadir selepas adjektif; jangan gabungkan dua kata penguat (sangat … sekali)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Lukisan itu cantik sekali.",
+          "bm": "Lukisan itu cantik sekali."
+        },
+        {
+          "en": "Lukisan itu sekali cantik.",
+          "bm": "Lukisan itu sekali cantik."
+        },
+        {
+          "en": "Lukisan itu sangat cantik sekali.",
+          "bm": "Lukisan itu sangat cantik sekali."
+        },
+        {
+          "en": "Lukisan itu amat paling cantik.",
+          "bm": "Lukisan itu amat paling cantik."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-01-q20",
+      "subtopicId": "bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is grammatically correct?",
+        "bm": "Ayat manakah yang gramatis?"
+      },
+      "explanation": {
+        "en": "\"Bergantung\" pairs with \"pada\" when followed by a non-person (keputusan). \"Kepada\" is for people.",
+        "bm": "\"Bergantung\" berpasangan dengan \"pada\" apabila diikuti bukan orang (keputusan). \"Kepada\" untuk orang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Hal itu bergantung kepada keputusan mesyuarat.",
+          "bm": "Hal itu bergantung kepada keputusan mesyuarat."
+        },
+        {
+          "en": "Hal itu bergantung pada keputusan mesyuarat.",
+          "bm": "Hal itu bergantung pada keputusan mesyuarat."
+        },
+        {
+          "en": "Hal itu bergantung dengan keputusan mesyuarat.",
+          "bm": "Hal itu bergantung dengan keputusan mesyuarat."
+        },
+        {
+          "en": "Hal itu bergantung ke keputusan mesyuarat.",
+          "bm": "Hal itu bergantung ke keputusan mesyuarat."
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

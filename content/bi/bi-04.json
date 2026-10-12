@@ -1,0 +1,826 @@
+{
+  "chapterId": "bi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The answer is in the text — but rarely in the same words as the question. Good readers hunt for meaning, not matching words.",
+      "bm": "Jawapan ada dalam teks — tetapi jarang menggunakan perkataan yang sama dengan soalan. Pembaca yang baik mencari makna, bukan perkataan yang sepadan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Skim for gist, scan for details; the main idea is usually in the topic sentence.",
+        "bm": "Baca luncuran untuk idea umum, imbasan untuk butiran; idea utama biasanya dalam ayat topik."
+      },
+      {
+        "en": "Inference = reading between the lines using clues; reference words (it, they, this) point back to earlier ideas.",
+        "bm": "Inferens = memahami makna tersirat menggunakan petunjuk; kata rujukan (it, they, this) merujuk kepada idea sebelumnya."
+      },
+      {
+        "en": "Work out new words from context, and identify the writer's purpose and tone.",
+        "bm": "Teka makna perkataan baharu daripada konteks, dan kenal pasti tujuan serta nada penulis."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Preview",
+              "bm": "Tinjau"
+            },
+            "detail": {
+              "en": "Title, headings, pictures",
+              "bm": "Tajuk, subtajuk, gambar"
+            }
+          },
+          {
+            "title": {
+              "en": "Read the questions",
+              "bm": "Baca soalan"
+            },
+            "detail": {
+              "en": "Underline keywords",
+              "bm": "Gariskan kata kunci"
+            }
+          },
+          {
+            "title": {
+              "en": "Skim",
+              "bm": "Luncur"
+            },
+            "detail": {
+              "en": "Get the gist of each paragraph",
+              "bm": "Dapatkan idea umum setiap perenggan"
+            }
+          },
+          {
+            "title": {
+              "en": "Scan & locate",
+              "bm": "Imbas & cari"
+            },
+            "detail": {
+              "en": "Find the part with the answer (look for synonyms)",
+              "bm": "Cari bahagian jawapan (cari sinonim)"
+            }
+          },
+          {
+            "title": {
+              "en": "Check",
+              "bm": "Semak"
+            },
+            "detail": {
+              "en": "Make sure the answer matches the evidence",
+              "bm": "Pastikan jawapan sepadan dengan bukti"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Gist",
+          "bm": "Idea umum"
+        },
+        "definition": {
+          "en": "The general meaning of a text.",
+          "bm": "Maksud umum sesebuah teks."
+        }
+      },
+      {
+        "term": {
+          "en": "Topic sentence",
+          "bm": "Ayat topik"
+        },
+        "definition": {
+          "en": "Sentence stating the main idea of a paragraph.",
+          "bm": "Ayat yang menyatakan idea utama perenggan."
+        }
+      },
+      {
+        "term": {
+          "en": "Inference",
+          "bm": "Inferens"
+        },
+        "definition": {
+          "en": "A conclusion based on clues, not directly stated.",
+          "bm": "Kesimpulan berdasarkan petunjuk, tidak dinyatakan secara langsung."
+        }
+      },
+      {
+        "term": {
+          "en": "Reference word",
+          "bm": "Kata rujukan"
+        },
+        "definition": {
+          "en": "A word (it, they, this, which) that refers to something mentioned earlier.",
+          "bm": "Perkataan (it, they, this, which) yang merujuk kepada sesuatu yang disebut sebelumnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Tone",
+          "bm": "Nada"
+        },
+        "definition": {
+          "en": "The writer's attitude: serious, humorous, critical, hopeful.",
+          "bm": "Sikap penulis: serius, lucu, kritis, penuh harapan."
+        }
+      },
+      {
+        "term": {
+          "en": "Purpose",
+          "bm": "Tujuan"
+        },
+        "definition": {
+          "en": "Why the text was written: to inform, persuade, entertain, advise.",
+          "bm": "Sebab teks ditulis: memberi maklumat, memujuk, menghibur, menasihati."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "\"The old bridge was finally closed. It had become too dangerous for cars.\" What does \"It\" refer to?",
+        "bm": "\"The old bridge was finally closed. It had become too dangerous for cars.\" Apakah yang dirujuk oleh \"It\"?"
+      },
+      "steps": [
+        {
+          "en": "Look back to the nearest suitable noun before \"It\".",
+          "bm": "Lihat kembali kata nama yang sesuai paling hampir sebelum \"It\"."
+        },
+        {
+          "en": "Test it: \"The old bridge had become too dangerous for cars.\" ✓",
+          "bm": "Uji: \"The old bridge had become too dangerous for cars.\" ✓"
+        }
+      ],
+      "answer": {
+        "en": "\"It\" refers to the old bridge.",
+        "bm": "\"It\" merujuk kepada jambatan lama (the old bridge)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-04-q01",
+      "subtopicId": "bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Reading quickly to understand the general idea is…",
+        "bm": "Membaca dengan pantas untuk memahami idea umum ialah…"
+      },
+      "explanation": {
+        "en": "Skimming = gist.",
+        "bm": "Skimming = idea umum."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "skimming",
+          "bm": "skimming"
+        },
+        {
+          "en": "scanning",
+          "bm": "scanning"
+        },
+        {
+          "en": "proofreading",
+          "bm": "proofreading"
+        },
+        {
+          "en": "dictation",
+          "bm": "dictation"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q02",
+      "subtopicId": "bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Looking for a specific price in an advertisement is…",
+        "bm": "Mencari harga tertentu dalam iklan ialah…"
+      },
+      "explanation": {
+        "en": "Scanning = specific detail.",
+        "bm": "Scanning = butiran khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "scanning",
+          "bm": "scanning"
+        },
+        {
+          "en": "skimming",
+          "bm": "skimming"
+        },
+        {
+          "en": "summarising",
+          "bm": "summarising"
+        },
+        {
+          "en": "predicting",
+          "bm": "predicting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q03",
+      "subtopicId": "bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The main idea of a paragraph is MOST often found in…",
+        "bm": "Idea utama perenggan PALING kerap terdapat dalam…"
+      },
+      "explanation": {
+        "en": "Often the first sentence.",
+        "bm": "Selalunya ayat pertama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the topic sentence",
+          "bm": "the topic sentence"
+        },
+        {
+          "en": "the last word",
+          "bm": "the last word"
+        },
+        {
+          "en": "the examples",
+          "bm": "the examples"
+        },
+        {
+          "en": "the punctuation",
+          "bm": "the punctuation"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q04",
+      "subtopicId": "bi-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A conclusion drawn from clues in the text is an ______.",
+        "bm": "Kesimpulan daripada petunjuk dalam teks ialah ______."
+      },
+      "explanation": {
+        "en": "Inference = reading between the lines.",
+        "bm": "Inferens = memahami makna tersirat."
+      },
+      "difficulty": 1,
+      "answer": [
+        "inference",
+        "inferens"
+      ]
+    },
+    {
+      "id": "bi-04-q05",
+      "subtopicId": "bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Mei Ling put on her raincoat and grabbed an umbrella.\" We can infer that…",
+        "bm": "\"Mei Ling put on her raincoat and grabbed an umbrella.\" Kita boleh membuat inferens bahawa…"
+      },
+      "explanation": {
+        "en": "Raincoat + umbrella are clues.",
+        "bm": "Baju hujan + payung ialah petunjuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "it was raining or about to rain",
+          "bm": "it was raining or about to rain"
+        },
+        {
+          "en": "it was very sunny",
+          "bm": "it was very sunny"
+        },
+        {
+          "en": "she was going swimming",
+          "bm": "she was going swimming"
+        },
+        {
+          "en": "she lost her umbrella",
+          "bm": "she lost her umbrella"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q06",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A text that tries to convince readers to buy a product aims to…",
+        "bm": "Teks yang cuba meyakinkan pembaca membeli produk bertujuan untuk…"
+      },
+      "explanation": {
+        "en": "Advertisements persuade.",
+        "bm": "Iklan bertujuan memujuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "persuade",
+          "bm": "persuade"
+        },
+        {
+          "en": "inform only",
+          "bm": "inform only"
+        },
+        {
+          "en": "entertain only",
+          "bm": "entertain only"
+        },
+        {
+          "en": "describe a person",
+          "bm": "describe a person"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q07",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The writer's attitude is called the…",
+        "bm": "Sikap penulis dipanggil…"
+      },
+      "explanation": {
+        "en": "E.g. humorous, critical, sympathetic.",
+        "bm": "Cth. lucu, kritis, bersimpati."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tone",
+          "bm": "tone"
+        },
+        {
+          "en": "plot",
+          "bm": "plot"
+        },
+        {
+          "en": "setting",
+          "bm": "setting"
+        },
+        {
+          "en": "title",
+          "bm": "title"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q08",
+      "subtopicId": "bi-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Words like \"it\", \"they\" and \"this\" that point to earlier ideas are ______ words.",
+        "bm": "Perkataan seperti \"it\", \"they\" dan \"this\" yang merujuk kepada idea sebelumnya ialah kata ______."
+      },
+      "explanation": {
+        "en": "Always look back to find what they refer to.",
+        "bm": "Sentiasa lihat ke belakang untuk mencari rujukannya."
+      },
+      "difficulty": 1,
+      "answer": [
+        "reference",
+        "rujukan"
+      ]
+    },
+    {
+      "id": "bi-04-q09",
+      "subtopicId": "bi-04-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange an effective strategy for answering reading questions.",
+        "bm": "Susun strategi berkesan untuk menjawab soalan membaca."
+      },
+      "explanation": {
+        "en": "Knowing the questions first makes reading purposeful.",
+        "bm": "Mengetahui soalan dahulu menjadikan pembacaan lebih bertujuan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Preview the title and headings",
+          "bm": "Tinjau tajuk dan subtajuk"
+        },
+        {
+          "en": "Read the questions and underline keywords",
+          "bm": "Baca soalan dan gariskan kata kunci"
+        },
+        {
+          "en": "Skim the text",
+          "bm": "Baca luncuran teks"
+        },
+        {
+          "en": "Scan to locate answers",
+          "bm": "Imbas untuk mencari jawapan"
+        },
+        {
+          "en": "Check answers against the text",
+          "bm": "Semak jawapan dengan teks"
+        }
+      ]
+    },
+    {
+      "id": "bi-04-q10",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The new park was a godsend for the crowded neighbourhood.\" \"Godsend\" most likely means…",
+        "bm": "\"The new park was a godsend for the crowded neighbourhood.\" \"Godsend\" paling mungkin bermaksud…"
+      },
+      "explanation": {
+        "en": "Context: crowded area + new park = welcome help.",
+        "bm": "Konteks: kawasan sesak + taman baharu = bantuan yang dialu-alukan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "something very helpful that comes at the right time",
+          "bm": "something very helpful that comes at the right time"
+        },
+        {
+          "en": "a problem",
+          "bm": "a problem"
+        },
+        {
+          "en": "a religious building",
+          "bm": "a religious building"
+        },
+        {
+          "en": "a noisy place",
+          "bm": "a noisy place"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q11",
+      "subtopicId": "bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Ravi and Ali trained daily. They won the relay.\" \"They\" refers to…",
+        "bm": "\"Ravi and Ali trained daily. They won the relay.\" \"They\" merujuk kepada…"
+      },
+      "explanation": {
+        "en": "The nearest plural noun phrase.",
+        "bm": "Frasa nama jamak yang paling hampir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ravi and Ali",
+          "bm": "Ravi and Ali"
+        },
+        {
+          "en": "the relay",
+          "bm": "the relay"
+        },
+        {
+          "en": "the coaches",
+          "bm": "the coaches"
+        },
+        {
+          "en": "the spectators",
+          "bm": "the spectators"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q12",
+      "subtopicId": "bi-04-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each text type with its usual purpose.",
+        "bm": "Padankan jenis teks dengan tujuan lazimnya."
+      },
+      "explanation": {
+        "en": "Purpose shapes language and layout.",
+        "bm": "Tujuan mempengaruhi bahasa dan susun atur."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Advertisement",
+            "bm": "Iklan"
+          },
+          "right": {
+            "en": "Persuade",
+            "bm": "Memujuk"
+          }
+        },
+        {
+          "left": {
+            "en": "News report",
+            "bm": "Laporan berita"
+          },
+          "right": {
+            "en": "Inform",
+            "bm": "Memberi maklumat"
+          }
+        },
+        {
+          "left": {
+            "en": "Short story",
+            "bm": "Cerpen"
+          },
+          "right": {
+            "en": "Entertain",
+            "bm": "Menghibur"
+          }
+        },
+        {
+          "left": {
+            "en": "Safety leaflet",
+            "bm": "Risalah keselamatan"
+          },
+          "right": {
+            "en": "Advise / instruct",
+            "bm": "Menasihati / memberi arahan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-04-q13",
+      "subtopicId": "bi-04-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL good habits when looking for answers.",
+        "bm": "Pilih SEMUA tabiat baik semasa mencari jawapan."
+      },
+      "explanation": {
+        "en": "Options that copy text words are often traps.",
+        "bm": "Pilihan yang menyalin perkataan teks sering menjadi perangkap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Look for synonyms of question keywords",
+          "bm": "Cari sinonim kata kunci soalan"
+        },
+        {
+          "en": "Check the sentences before and after",
+          "bm": "Semak ayat sebelum dan selepas"
+        },
+        {
+          "en": "Use evidence from the text",
+          "bm": "Gunakan bukti daripada teks"
+        },
+        {
+          "en": "Choose the option with the most matching words",
+          "bm": "Pilih pilihan dengan paling banyak perkataan yang sama"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-04-q14",
+      "subtopicId": "bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Despite the heavy rain, the stadium was full.\" What can you infer?",
+        "bm": "\"Despite the heavy rain, the stadium was full.\" Apakah inferens anda?"
+      },
+      "explanation": {
+        "en": "\"Despite\" shows contrast: people came anyway.",
+        "bm": "\"Despite\" menunjukkan pertentangan: orang tetap datang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The event was very popular",
+          "bm": "The event was very popular"
+        },
+        {
+          "en": "Nobody came",
+          "bm": "Nobody came"
+        },
+        {
+          "en": "The match was cancelled",
+          "bm": "The match was cancelled"
+        },
+        {
+          "en": "It was sunny",
+          "bm": "It was sunny"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q15",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A writer uses words like \"shameful\", \"careless\" and \"unacceptable\" about littering. The tone is…",
+        "bm": "Penulis menggunakan perkataan seperti \"shameful\", \"careless\" dan \"unacceptable\" tentang membuang sampah. Nadanya ialah…"
+      },
+      "explanation": {
+        "en": "Negative judging words show a critical tone.",
+        "bm": "Perkataan yang menghakimi secara negatif menunjukkan nada kritis."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "critical",
+          "bm": "critical"
+        },
+        {
+          "en": "humorous",
+          "bm": "humorous"
+        },
+        {
+          "en": "neutral",
+          "bm": "neutral"
+        },
+        {
+          "en": "joyful",
+          "bm": "joyful"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q16",
+      "subtopicId": "bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which would be the BEST title for a paragraph about ways to save water at home?",
+        "bm": "Manakah tajuk TERBAIK untuk perenggan tentang cara menjimatkan air di rumah?"
+      },
+      "explanation": {
+        "en": "A good title reflects the main idea exactly.",
+        "bm": "Tajuk yang baik mencerminkan idea utama dengan tepat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Simple Ways to Save Water at Home",
+          "bm": "Simple Ways to Save Water at Home"
+        },
+        {
+          "en": "Water",
+          "bm": "Water"
+        },
+        {
+          "en": "My House",
+          "bm": "My House"
+        },
+        {
+          "en": "Rain",
+          "bm": "Rain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q17",
+      "subtopicId": "bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Zara glanced at the clock again and tapped her foot.\" How does Zara MOST likely feel?",
+        "bm": "\"Zara glanced at the clock again and tapped her foot.\" Bagaimanakah perasaan Zara yang PALING mungkin?"
+      },
+      "explanation": {
+        "en": "Checking the clock again + tapping = waiting impatiently.",
+        "bm": "Melihat jam berulang kali + mengetuk kaki = menunggu dengan tidak sabar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "impatient",
+          "bm": "impatient"
+        },
+        {
+          "en": "sleepy",
+          "bm": "sleepy"
+        },
+        {
+          "en": "proud",
+          "bm": "proud"
+        },
+        {
+          "en": "relaxed",
+          "bm": "relaxed"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q18",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An article lists only the benefits of a new phone and ends with a discount code. What should a critical reader conclude?",
+        "bm": "Sebuah artikel hanya menyenaraikan kebaikan telefon baharu dan diakhiri dengan kod diskaun. Apakah kesimpulan pembaca yang kritis?"
+      },
+      "explanation": {
+        "en": "Purpose affects reliability; look for balance.",
+        "bm": "Tujuan mempengaruhi kebolehpercayaan; cari keseimbangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is probably promotional and may be one-sided",
+          "bm": "Ia mungkin bersifat promosi dan berat sebelah"
+        },
+        {
+          "en": "It is a neutral scientific report",
+          "bm": "Ia laporan saintifik yang neutral"
+        },
+        {
+          "en": "It is fiction",
+          "bm": "Ia fiksyen"
+        },
+        {
+          "en": "It must be completely true",
+          "bm": "Ia pasti benar sepenuhnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q19",
+      "subtopicId": "bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a multiple-choice question, two options look correct. What is the BEST next step?",
+        "bm": "Dalam soalan aneka pilihan, dua pilihan kelihatan betul. Apakah langkah TERBAIK seterusnya?"
+      },
+      "explanation": {
+        "en": "One option is usually partly true or too general.",
+        "bm": "Satu pilihan biasanya separuh benar atau terlalu umum."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Return to the text and find which one the evidence fully supports",
+          "bm": "Kembali ke teks dan cari pilihan yang disokong sepenuhnya oleh bukti"
+        },
+        {
+          "en": "Pick the longer one",
+          "bm": "Pilih yang lebih panjang"
+        },
+        {
+          "en": "Pick A always",
+          "bm": "Sentiasa pilih A"
+        },
+        {
+          "en": "Skip all reading questions",
+          "bm": "Langkau semua soalan membaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-04-q20",
+      "subtopicId": "bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Well, that was a brilliant idea,\" said Tom, as the boat began to sink. Tom's tone is…",
+        "bm": "\"Well, that was a brilliant idea,\" said Tom, as the boat began to sink. Nada Tom ialah…"
+      },
+      "explanation": {
+        "en": "The situation contradicts the words — sarcasm.",
+        "bm": "Situasi bertentangan dengan kata-kata — sindiran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "sarcastic",
+          "bm": "sarcastic"
+        },
+        {
+          "en": "sincere praise",
+          "bm": "sincere praise"
+        },
+        {
+          "en": "scared only",
+          "bm": "scared only"
+        },
+        {
+          "en": "neutral",
+          "bm": "neutral"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

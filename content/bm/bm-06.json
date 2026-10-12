@@ -1,0 +1,826 @@
+{
+  "chapterId": "bm-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two essays have the same ideas. One scores an A, the other a C. The difference? Structure, format and how the ideas are developed.",
+      "bm": "Dua karangan mempunyai idea yang sama. Satu mendapat A, satu lagi C. Perbezaannya? Struktur, format dan cara idea dihuraikan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Every essay has an introduction, body paragraphs and a conclusion.",
+        "bm": "Setiap karangan mempunyai pendahuluan, isi dan penutup."
+      },
+      {
+        "en": "Each body paragraph = topic sentence + elaboration + example + link (I-H-C-K).",
+        "bm": "Setiap perenggan isi = ayat topik + huraian + contoh + kaitan (I-H-C-K)."
+      },
+      {
+        "en": "Formatted writing (official letters, reports, speeches) loses marks if the format is wrong.",
+        "bm": "Penulisan berformat (surat rasmi, laporan, ucapan) kehilangan markah jika formatnya salah."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Plan",
+              "bm": "Rancang"
+            },
+            "detail": {
+              "en": "Understand the task; list 4–5 points",
+              "bm": "Fahami tugasan; senaraikan 4–5 isi"
+            }
+          },
+          {
+            "title": {
+              "en": "Introduction",
+              "bm": "Pendahuluan"
+            },
+            "detail": {
+              "en": "Background and link to the topic",
+              "bm": "Latar belakang dan kaitan dengan tajuk"
+            }
+          },
+          {
+            "title": {
+              "en": "Body",
+              "bm": "Isi"
+            },
+            "detail": {
+              "en": "Topic sentence, elaboration, example, link",
+              "bm": "Ayat topik, huraian, contoh, kaitan"
+            }
+          },
+          {
+            "title": {
+              "en": "Conclusion",
+              "bm": "Penutup"
+            },
+            "detail": {
+              "en": "Summary, hope or advice",
+              "bm": "Rumusan, harapan atau nasihat"
+            }
+          },
+          {
+            "title": {
+              "en": "Check",
+              "bm": "Semak"
+            },
+            "detail": {
+              "en": "Grammar, spelling, format, word count",
+              "bm": "Tatabahasa, ejaan, format, bilangan perkataan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Karangan berformat",
+          "bm": "Karangan berformat"
+        },
+        "definition": {
+          "en": "Essays with a fixed format: surat rasmi, laporan, ucapan, syarahan, rencana, berita.",
+          "bm": "Karangan dengan format tetap: surat rasmi, laporan, ucapan, syarahan, rencana, berita."
+        }
+      },
+      {
+        "term": {
+          "en": "Karangan tidak berformat",
+          "bm": "Karangan tidak berformat"
+        },
+        "definition": {
+          "en": "Essays without a fixed format: fakta, perbincangan, cerita.",
+          "bm": "Karangan tanpa format tetap: fakta, perbincangan, cerita."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat topik",
+          "bm": "Ayat topik"
+        },
+        "definition": {
+          "en": "The first sentence of a paragraph stating its main point.",
+          "bm": "Ayat pertama perenggan yang menyatakan isi utama."
+        }
+      },
+      {
+        "term": {
+          "en": "Huraian",
+          "bm": "Huraian"
+        },
+        "definition": {
+          "en": "Explanation that develops the point.",
+          "bm": "Penjelasan yang mengembangkan isi."
+        }
+      },
+      {
+        "term": {
+          "en": "Laras bahasa",
+          "bm": "Laras bahasa"
+        },
+        "definition": {
+          "en": "Language style that suits the context, e.g. formal for official letters.",
+          "bm": "Gaya bahasa yang sesuai dengan konteks, cth. rasmi untuk surat rasmi."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Write one body paragraph on \"Kepentingan bersukan\".",
+        "bm": "Tulis satu perenggan isi tentang \"Kepentingan bersukan\"."
+      },
+      "steps": [
+        {
+          "en": "Topic sentence: Bersukan dapat menyihatkan tubuh badan.",
+          "bm": "Ayat topik: Bersukan dapat menyihatkan tubuh badan."
+        },
+        {
+          "en": "Elaboration: Aktiviti fizikal menguatkan jantung dan otot serta membakar lemak berlebihan.",
+          "bm": "Huraian: Aktiviti fizikal menguatkan jantung dan otot serta membakar lemak berlebihan."
+        },
+        {
+          "en": "Example: Contohnya, berjoging 30 minit sehari mengurangkan risiko obesiti.",
+          "bm": "Contoh: Contohnya, berjoging 30 minit sehari mengurangkan risiko obesiti."
+        },
+        {
+          "en": "Link: Jelaslah bahawa bersukan penting untuk kesihatan.",
+          "bm": "Kaitan: Jelaslah bahawa bersukan penting untuk kesihatan."
+        }
+      ],
+      "answer": {
+        "en": "Point → explain → example → link back to the title.",
+        "bm": "Isi → huraian → contoh → kaitkan dengan tajuk."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-06-q01",
+      "subtopicId": "bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The three main parts of an essay are…",
+        "bm": "Tiga bahagian utama karangan ialah…"
+      },
+      "explanation": {
+        "en": "Pendahuluan, isi, penutup.",
+        "bm": "Pendahuluan, isi, penutup."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "introduction, body, conclusion",
+          "bm": "pendahuluan, isi, penutup"
+        },
+        {
+          "en": "title, date, signature",
+          "bm": "tajuk, tarikh, tandatangan"
+        },
+        {
+          "en": "question, answer, mark",
+          "bm": "soalan, jawapan, markah"
+        },
+        {
+          "en": "beginning, middle, picture",
+          "bm": "awal, tengah, gambar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q02",
+      "subtopicId": "bm-06-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The first sentence of a paragraph that states its main point is the ayat ______.",
+        "bm": "Ayat pertama perenggan yang menyatakan isi utama ialah ayat ______."
+      },
+      "explanation": {
+        "en": "Ayat topik guides the whole paragraph.",
+        "bm": "Ayat topik memandu keseluruhan perenggan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "topik",
+        "topic"
+      ]
+    },
+    {
+      "id": "bm-06-q03",
+      "subtopicId": "bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a formatted essay?",
+        "bm": "Antara berikut, yang manakah karangan berformat?"
+      },
+      "explanation": {
+        "en": "Official letters have a fixed format.",
+        "bm": "Surat rasmi mempunyai format tetap."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Surat kiriman rasmi",
+          "bm": "Surat kiriman rasmi"
+        },
+        {
+          "en": "Karangan fakta",
+          "bm": "Karangan fakta"
+        },
+        {
+          "en": "Karangan cerita",
+          "bm": "Karangan cerita"
+        },
+        {
+          "en": "Karangan perbincangan",
+          "bm": "Karangan perbincangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q04",
+      "subtopicId": "bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An official letter usually ends with…",
+        "bm": "Surat rasmi biasanya diakhiri dengan…"
+      },
+      "explanation": {
+        "en": "Followed by the signature, full name and position in brackets.",
+        "bm": "Diikuti tandatangan, nama penuh dan jawatan dalam kurungan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "\"Sekian, terima kasih.\"",
+          "bm": "\"Sekian, terima kasih.\""
+        },
+        {
+          "en": "\"Jumpa lagi!\"",
+          "bm": "\"Jumpa lagi!\""
+        },
+        {
+          "en": "\"Yang benar, kawanmu\"",
+          "bm": "\"Yang benar, kawanmu\""
+        },
+        {
+          "en": "\"Bye\"",
+          "bm": "\"Bye\""
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q05",
+      "subtopicId": "bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In an official letter, the title (perkara) is written…",
+        "bm": "Dalam surat rasmi, tajuk (perkara) ditulis…"
+      },
+      "explanation": {
+        "en": "E.g. \"Tuan, / PERMOHONAN MENGADAKAN LAWATAN SAMBIL BELAJAR\".",
+        "bm": "Cth. \"Tuan, / PERMOHONAN MENGADAKAN LAWATAN SAMBIL BELAJAR\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "in bold or capital letters below the salutation",
+          "bm": "dengan huruf tebal atau huruf besar di bawah kata panggilan"
+        },
+        {
+          "en": "at the very end",
+          "bm": "di bahagian paling akhir"
+        },
+        {
+          "en": "inside the address",
+          "bm": "di dalam alamat"
+        },
+        {
+          "en": "it is not needed",
+          "bm": "tidak perlu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q06",
+      "subtopicId": "bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which register suits an official letter?",
+        "bm": "Laras manakah sesuai untuk surat rasmi?"
+      },
+      "explanation": {
+        "en": "Use standard Malay (bahasa baku).",
+        "bm": "Gunakan bahasa Melayu baku."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Formal and polite",
+          "bm": "Rasmi dan sopan"
+        },
+        {
+          "en": "Slang",
+          "bm": "Bahasa slanga"
+        },
+        {
+          "en": "Text-message short forms",
+          "bm": "Singkatan SMS"
+        },
+        {
+          "en": "Dialect",
+          "bm": "Dialek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q07",
+      "subtopicId": "bm-06-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Language style that suits the context is called laras ______.",
+        "bm": "Gaya bahasa yang sesuai dengan konteks dipanggil laras ______."
+      },
+      "explanation": {
+        "en": "E.g. formal laras for reports, friendly laras for letters to friends.",
+        "bm": "Cth. laras rasmi untuk laporan, laras mesra untuk surat kepada rakan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "bahasa"
+      ]
+    },
+    {
+      "id": "bm-06-q08",
+      "subtopicId": "bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many main points are usually expected in a factual essay?",
+        "bm": "Berapakah isi utama yang biasanya diharapkan dalam karangan fakta?"
+      },
+      "explanation": {
+        "en": "Four to five well-developed points.",
+        "bm": "Empat hingga lima isi yang dihuraikan dengan baik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4–5",
+          "bm": "4–5"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "10–12",
+          "bm": "10–12"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q09",
+      "subtopicId": "bm-06-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the parts of a body paragraph.",
+        "bm": "Susun bahagian perenggan isi."
+      },
+      "explanation": {
+        "en": "I-H-C-K: Isi, Huraian, Contoh, Kaitan.",
+        "bm": "I-H-C-K: Isi, Huraian, Contoh, Kaitan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Topic sentence",
+          "bm": "Ayat topik"
+        },
+        {
+          "en": "Elaboration",
+          "bm": "Huraian"
+        },
+        {
+          "en": "Example",
+          "bm": "Contoh"
+        },
+        {
+          "en": "Link to the title",
+          "bm": "Kaitan dengan tajuk"
+        }
+      ]
+    },
+    {
+      "id": "bm-06-q10",
+      "subtopicId": "bm-06-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the parts of an official letter from top to bottom.",
+        "bm": "Susun bahagian surat rasmi dari atas ke bawah."
+      },
+      "explanation": {
+        "en": "Follow this order for full format marks.",
+        "bm": "Ikuti susunan ini untuk markah format penuh."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Sender's address",
+          "bm": "Alamat pengirim"
+        },
+        {
+          "en": "Recipient's address and date",
+          "bm": "Alamat penerima dan tarikh"
+        },
+        {
+          "en": "Salutation (Tuan/Puan,)",
+          "bm": "Kata panggilan (Tuan/Puan,)"
+        },
+        {
+          "en": "Title (perkara)",
+          "bm": "Tajuk (perkara)"
+        },
+        {
+          "en": "Numbered content",
+          "bm": "Isi bernombor"
+        },
+        {
+          "en": "Closing and signature",
+          "bm": "Penutup dan tandatangan"
+        }
+      ]
+    },
+    {
+      "id": "bm-06-q11",
+      "subtopicId": "bm-06-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each essay type with its feature.",
+        "bm": "Padankan jenis karangan dengan cirinya."
+      },
+      "explanation": {
+        "en": "Each type has its own format or features.",
+        "bm": "Setiap jenis ada format atau ciri tersendiri."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Report (laporan)",
+            "bm": "Laporan"
+          },
+          "right": {
+            "en": "Past tense facts of an event; title, prepared by",
+            "bm": "Fakta peristiwa yang telah berlaku; tajuk, disediakan oleh"
+          }
+        },
+        {
+          "left": {
+            "en": "Speech (ucapan)",
+            "bm": "Ucapan"
+          },
+          "right": {
+            "en": "Salutations to the audience at the start",
+            "bm": "Kata sapaan kepada hadirin di awal"
+          }
+        },
+        {
+          "left": {
+            "en": "Official letter",
+            "bm": "Surat rasmi"
+          },
+          "right": {
+            "en": "Addresses, title, numbered points",
+            "bm": "Alamat, tajuk, isi bernombor"
+          }
+        },
+        {
+          "left": {
+            "en": "Story (cerita)",
+            "bm": "Cerita"
+          },
+          "right": {
+            "en": "Plot, characters and setting",
+            "bm": "Plot, watak dan latar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-06-q12",
+      "subtopicId": "bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A speech (ucapan) begins with…",
+        "bm": "Ucapan dimulakan dengan…"
+      },
+      "explanation": {
+        "en": "E.g. \"Terima kasih saudara pengerusi majlis, Yang Berusaha Pengetua…\"",
+        "bm": "Cth. \"Terima kasih saudara pengerusi majlis, Yang Berusaha Pengetua…\""
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "salutations to the chairperson and audience",
+          "bm": "kata sapaan kepada pengerusi majlis dan hadirin"
+        },
+        {
+          "en": "a list of references",
+          "bm": "senarai rujukan"
+        },
+        {
+          "en": "the sender's address",
+          "bm": "alamat pengirim"
+        },
+        {
+          "en": "a summary",
+          "bm": "ringkasan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q13",
+      "subtopicId": "bm-06-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL ways to make writing more mature.",
+        "bm": "Pilih SEMUA cara menjadikan penulisan lebih matang."
+      },
+      "explanation": {
+        "en": "Variety shows language control.",
+        "bm": "Kepelbagaian menunjukkan penguasaan bahasa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Use varied penanda wacana",
+          "bm": "Menggunakan penanda wacana yang pelbagai"
+        },
+        {
+          "en": "Use suitable peribahasa",
+          "bm": "Menggunakan peribahasa yang sesuai"
+        },
+        {
+          "en": "Vary sentence types",
+          "bm": "Mempelbagaikan jenis ayat"
+        },
+        {
+          "en": "Repeat the same word often",
+          "bm": "Mengulang perkataan yang sama berkali-kali"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-06-q14",
+      "subtopicId": "bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence suits an official report?",
+        "bm": "Ayat manakah sesuai untuk laporan rasmi?"
+      },
+      "explanation": {
+        "en": "Formal, factual and in standard Malay.",
+        "bm": "Rasmi, berfakta dan dalam bahasa baku."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Program gotong-royong telah diadakan pada 5 Mac 2026 di kawasan sekolah.",
+          "bm": "Program gotong-royong telah diadakan pada 5 Mac 2026 di kawasan sekolah."
+        },
+        {
+          "en": "Wah, best gila program gotong-royong tu!",
+          "bm": "Wah, best gila program gotong-royong tu!"
+        },
+        {
+          "en": "Kitorang buat gotong-royong hari tu.",
+          "bm": "Kitorang buat gotong-royong hari tu."
+        },
+        {
+          "en": "Gotong-royong? Hmm, okeylah.",
+          "bm": "Gotong-royong? Hmm, okeylah."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q15",
+      "subtopicId": "bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good introduction should…",
+        "bm": "Pendahuluan yang baik patut…"
+      },
+      "explanation": {
+        "en": "Keep it short and relevant.",
+        "bm": "Ringkas dan relevan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "introduce the topic and link it to the title",
+          "bm": "memperkenalkan topik dan mengaitkannya dengan tajuk"
+        },
+        {
+          "en": "list all points in detail",
+          "bm": "menyenaraikan semua isi secara terperinci"
+        },
+        {
+          "en": "be the longest paragraph",
+          "bm": "menjadi perenggan paling panjang"
+        },
+        {
+          "en": "repeat the question word for word",
+          "bm": "mengulang soalan perkataan demi perkataan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q16",
+      "subtopicId": "bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which closing sentence is MOST suitable for an essay on saving the environment?",
+        "bm": "Ayat penutup manakah PALING sesuai untuk karangan tentang memelihara alam sekitar?"
+      },
+      "explanation": {
+        "en": "A closing summarises and gives a hope or call to action.",
+        "bm": "Penutup merumuskan dan memberi harapan atau seruan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kesimpulannya, semua pihak perlu berganding bahu memelihara alam sekitar demi generasi akan datang.",
+          "bm": "Kesimpulannya, semua pihak perlu berganding bahu memelihara alam sekitar demi generasi akan datang."
+        },
+        {
+          "en": "Akhir kata, saya lapar.",
+          "bm": "Akhir kata, saya lapar."
+        },
+        {
+          "en": "Sekian, jumpa lagi.",
+          "bm": "Sekian, jumpa lagi."
+        },
+        {
+          "en": "Itulah sahaja yang saya tahu.",
+          "bm": "Itulah sahaja yang saya tahu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q17",
+      "subtopicId": "bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A body paragraph has a topic sentence and an example but no elaboration. What is the effect?",
+        "bm": "Perenggan isi mempunyai ayat topik dan contoh tetapi tiada huraian. Apakah kesannya?"
+      },
+      "explanation": {
+        "en": "Elaboration shows understanding — examiners look for it.",
+        "bm": "Huraian menunjukkan kefahaman — pemeriksa mencarinya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The point is undeveloped, so it earns fewer content marks",
+          "bm": "Isi tidak dikembangkan, jadi markah isi berkurang"
+        },
+        {
+          "en": "No effect",
+          "bm": "Tiada kesan"
+        },
+        {
+          "en": "It gets extra marks",
+          "bm": "Mendapat markah tambahan"
+        },
+        {
+          "en": "The essay becomes formatted",
+          "bm": "Karangan menjadi berformat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q18",
+      "subtopicId": "bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "You must write an official letter to the principal, but you start with \"Hai cikgu!\". What is the problem?",
+        "bm": "Anda perlu menulis surat rasmi kepada pengetua tetapi memulakan dengan \"Hai cikgu!\". Apakah masalahnya?"
+      },
+      "explanation": {
+        "en": "Format and register are marked in formatted essays.",
+        "bm": "Format dan laras dinilai dalam karangan berformat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Wrong register and salutation — it should be \"Tuan/Puan,\"",
+          "bm": "Laras dan kata panggilan salah — sepatutnya \"Tuan/Puan,\""
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada yang salah"
+        },
+        {
+          "en": "It is too formal",
+          "bm": "Terlalu rasmi"
+        },
+        {
+          "en": "Letters have no salutation",
+          "bm": "Surat tiada kata panggilan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q19",
+      "subtopicId": "bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence shows the MOST mature language?",
+        "bm": "Ayat manakah menunjukkan bahasa yang PALING matang?"
+      },
+      "explanation": {
+        "en": "Uses a correlative conjunction (bukan sahaja… malah) and precise vocabulary.",
+        "bm": "Menggunakan kata hubung berpasangan (bukan sahaja… malah) dan kosa kata yang tepat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Remaja yang gemar membaca bukan sahaja berilmu malah lebih matang dalam membuat keputusan.",
+          "bm": "Remaja yang gemar membaca bukan sahaja berilmu malah lebih matang dalam membuat keputusan."
+        },
+        {
+          "en": "Membaca bagus.",
+          "bm": "Membaca bagus."
+        },
+        {
+          "en": "Remaja kena baca buku.",
+          "bm": "Remaja kena baca buku."
+        },
+        {
+          "en": "Buku ada banyak ilmu dan bagus dan baik.",
+          "bm": "Buku ada banyak ilmu dan bagus dan baik."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-06-q20",
+      "subtopicId": "bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should you plan points before writing an essay in an exam?",
+        "bm": "Mengapakah anda perlu merancang isi sebelum menulis karangan dalam peperiksaan?"
+      },
+      "explanation": {
+        "en": "5 minutes of planning saves rewriting later.",
+        "bm": "5 minit merancang menjimatkan masa menulis semula."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To keep the essay focused, organised and within time",
+          "bm": "Supaya karangan fokus, tersusun dan siap dalam masa"
+        },
+        {
+          "en": "Planning wastes time",
+          "bm": "Merancang membuang masa"
+        },
+        {
+          "en": "Examiners mark the plan only",
+          "bm": "Pemeriksa hanya menilai rancangan"
+        },
+        {
+          "en": "To write more words",
+          "bm": "Untuk menulis lebih banyak perkataan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

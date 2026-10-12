@@ -1,0 +1,867 @@
+{
+  "chapterId": "bi-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why does \"The wind howled\" feel scarier than \"It was windy\"? Writers choose words to make us feel. Literature lessons teach you to notice those choices — and explain them.",
+      "bm": "Mengapakah \"The wind howled\" terasa lebih menakutkan daripada \"It was windy\"? Penulis memilih perkataan untuk menggerakkan perasaan kita. Pelajaran sastera mengajar kita mengesan pilihan itu — dan menghuraikannya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Literary devices (simile, metaphor, personification, imagery) create pictures and feelings.",
+        "bm": "Unsur sastera (simile, metafora, personifikasi, imejan) mencipta gambaran dan perasaan."
+      },
+      {
+        "en": "Stories are analysed through plot, character, setting, conflict, theme and point of view.",
+        "bm": "Cerita dianalisis melalui plot, watak, latar, konflik, tema dan sudut pandangan."
+      },
+      {
+        "en": "Good responses use Point–Evidence–Explanation (PEE).",
+        "bm": "Respons yang baik menggunakan Isi–Bukti–Huraian (PEE)."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Analysing a story",
+          "bm": "Menganalisis cerita"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Plot",
+              "bm": "Plot"
+            },
+            "detail": {
+              "en": "Exposition → rising action → climax → falling action → resolution",
+              "bm": "Pengenalan → peningkatan → klimaks → penurunan → peleraian"
+            }
+          },
+          {
+            "label": {
+              "en": "Character",
+              "bm": "Watak"
+            },
+            "detail": {
+              "en": "Traits shown by actions, words, thoughts",
+              "bm": "Sifat ditunjukkan melalui tindakan, kata-kata, fikiran"
+            }
+          },
+          {
+            "label": {
+              "en": "Setting",
+              "bm": "Latar"
+            },
+            "detail": {
+              "en": "Time, place, atmosphere",
+              "bm": "Masa, tempat, suasana"
+            }
+          },
+          {
+            "label": {
+              "en": "Conflict",
+              "bm": "Konflik"
+            },
+            "detail": {
+              "en": "Person vs person / self / nature / society",
+              "bm": "Manusia lawan manusia / diri / alam / masyarakat"
+            }
+          },
+          {
+            "label": {
+              "en": "Theme",
+              "bm": "Tema"
+            },
+            "detail": {
+              "en": "The central message",
+              "bm": "Mesej utama"
+            }
+          },
+          {
+            "label": {
+              "en": "Point of view",
+              "bm": "Sudut pandangan"
+            },
+            "detail": {
+              "en": "First person (I) / third person (he, she)",
+              "bm": "Orang pertama (I) / orang ketiga (he, she)"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Simile",
+          "bm": "Simile"
+        },
+        "definition": {
+          "en": "Comparison using \"like\" or \"as\": as brave as a lion.",
+          "bm": "Perbandingan menggunakan \"like\" atau \"as\": as brave as a lion."
+        }
+      },
+      {
+        "term": {
+          "en": "Metaphor",
+          "bm": "Metafora"
+        },
+        "definition": {
+          "en": "Direct comparison without like/as: Time is a thief.",
+          "bm": "Perbandingan langsung tanpa like/as: Time is a thief."
+        }
+      },
+      {
+        "term": {
+          "en": "Personification",
+          "bm": "Personifikasi"
+        },
+        "definition": {
+          "en": "Giving human qualities to non-human things: The leaves danced.",
+          "bm": "Memberi sifat manusia kepada benda bukan manusia: The leaves danced."
+        }
+      },
+      {
+        "term": {
+          "en": "Imagery",
+          "bm": "Imejan"
+        },
+        "definition": {
+          "en": "Language appealing to the senses.",
+          "bm": "Bahasa yang merangsang pancaindera."
+        }
+      },
+      {
+        "term": {
+          "en": "Theme",
+          "bm": "Tema"
+        },
+        "definition": {
+          "en": "The central message about life.",
+          "bm": "Mesej utama tentang kehidupan."
+        }
+      },
+      {
+        "term": {
+          "en": "Conflict",
+          "bm": "Konflik"
+        },
+        "definition": {
+          "en": "The struggle that drives the plot.",
+          "bm": "Pertentangan yang menggerakkan plot."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain the effect of \"The classroom was a zoo when the teacher left.\"",
+        "bm": "Huraikan kesan \"The classroom was a zoo when the teacher left.\""
+      },
+      "steps": [
+        {
+          "en": "Point: the writer uses a metaphor.",
+          "bm": "Isi: penulis menggunakan metafora."
+        },
+        {
+          "en": "Evidence: \"The classroom was a zoo.\"",
+          "bm": "Bukti: \"The classroom was a zoo.\""
+        },
+        {
+          "en": "Explanation: comparing the class to a zoo suggests wild, noisy, uncontrolled behaviour — vivid and slightly humorous.",
+          "bm": "Huraian: membandingkan kelas dengan zoo menggambarkan kelakuan liar, bising dan tidak terkawal — jelas dan agak lucu."
+        }
+      ],
+      "answer": {
+        "en": "Device + quotation + effect on the reader = a complete response.",
+        "bm": "Unsur + petikan + kesan kepada pembaca = respons yang lengkap."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-06-q01",
+      "subtopicId": "bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Her smile was as bright as the sun\" is a…",
+        "bm": "\"Her smile was as bright as the sun\" ialah…"
+      },
+      "explanation": {
+        "en": "\"As…as\" signals a simile.",
+        "bm": "\"As…as\" menandakan simile."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "metaphor",
+          "bm": "metaphor"
+        },
+        {
+          "en": "personification",
+          "bm": "personification"
+        },
+        {
+          "en": "alliteration",
+          "bm": "alliteration"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q02",
+      "subtopicId": "bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Time is a thief\" is a…",
+        "bm": "\"Time is a thief\" ialah…"
+      },
+      "explanation": {
+        "en": "A direct comparison without like/as.",
+        "bm": "Perbandingan langsung tanpa like/as."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "metaphor",
+          "bm": "metaphor"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "onomatopoeia",
+          "bm": "onomatopoeia"
+        },
+        {
+          "en": "rhyme",
+          "bm": "rhyme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q03",
+      "subtopicId": "bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The wind whispered through the trees\" uses…",
+        "bm": "\"The wind whispered through the trees\" menggunakan…"
+      },
+      "explanation": {
+        "en": "Whispering is a human action.",
+        "bm": "Berbisik ialah perbuatan manusia."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "personification",
+          "bm": "personification"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "hyperbole",
+          "bm": "hyperbole"
+        },
+        {
+          "en": "rhyme",
+          "bm": "rhyme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q04",
+      "subtopicId": "bi-06-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Words that imitate sounds, like \"buzz\" and \"bang\", are called ______.",
+        "bm": "Perkataan yang meniru bunyi seperti \"buzz\" dan \"bang\" dipanggil ______."
+      },
+      "explanation": {
+        "en": "Onomatopoeia brings sound to writing.",
+        "bm": "Onomatopoeia menghidupkan bunyi dalam penulisan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "onomatopoeia",
+        "onomatopia"
+      ]
+    },
+    {
+      "id": "bi-06-q05",
+      "subtopicId": "bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The time and place of a story is its…",
+        "bm": "Masa dan tempat sesebuah cerita ialah…"
+      },
+      "explanation": {
+        "en": "Setting can also create mood.",
+        "bm": "Latar juga boleh mencipta suasana."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "setting",
+          "bm": "setting"
+        },
+        {
+          "en": "plot",
+          "bm": "plot"
+        },
+        {
+          "en": "theme",
+          "bm": "theme"
+        },
+        {
+          "en": "tone",
+          "bm": "tone"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q06",
+      "subtopicId": "bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A story told by a character using \"I\" is in…",
+        "bm": "Cerita yang diceritakan oleh watak menggunakan \"I\" ialah…"
+      },
+      "explanation": {
+        "en": "First person = \"I/we\".",
+        "bm": "Orang pertama = \"I/we\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "first-person point of view",
+          "bm": "first-person point of view"
+        },
+        {
+          "en": "third-person point of view",
+          "bm": "third-person point of view"
+        },
+        {
+          "en": "second-person point of view",
+          "bm": "second-person point of view"
+        },
+        {
+          "en": "no point of view",
+          "bm": "no point of view"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q07",
+      "subtopicId": "bi-06-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The struggle between opposing forces in a story is the ______.",
+        "bm": "Pertentangan antara dua kuasa dalam cerita ialah ______."
+      },
+      "explanation": {
+        "en": "Conflict drives the plot.",
+        "bm": "Konflik menggerakkan plot."
+      },
+      "difficulty": 1,
+      "answer": [
+        "conflict",
+        "konflik"
+      ]
+    },
+    {
+      "id": "bi-06-q08",
+      "subtopicId": "bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The central message of a story is its…",
+        "bm": "Mesej utama sesebuah cerita ialah…"
+      },
+      "explanation": {
+        "en": "E.g. \"Honesty is rewarded.\"",
+        "bm": "Cth. \"Kejujuran mendapat ganjaran.\""
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "theme",
+          "bm": "theme"
+        },
+        {
+          "en": "setting",
+          "bm": "setting"
+        },
+        {
+          "en": "title",
+          "bm": "title"
+        },
+        {
+          "en": "rhyme",
+          "bm": "rhyme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q09",
+      "subtopicId": "bi-06-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of a plot.",
+        "bm": "Susun peringkat plot."
+      },
+      "explanation": {
+        "en": "Exposition → rising action → climax → falling action → resolution.",
+        "bm": "Pengenalan → peningkatan aksi → klimaks → penurunan aksi → peleraian."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Exposition",
+          "bm": "Exposition"
+        },
+        {
+          "en": "Rising action",
+          "bm": "Rising action"
+        },
+        {
+          "en": "Climax",
+          "bm": "Climax"
+        },
+        {
+          "en": "Falling action",
+          "bm": "Falling action"
+        },
+        {
+          "en": "Resolution",
+          "bm": "Resolution"
+        }
+      ]
+    },
+    {
+      "id": "bi-06-q10",
+      "subtopicId": "bi-06-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each device with its example.",
+        "bm": "Padankan unsur dengan contohnya."
+      },
+      "explanation": {
+        "en": "Alliteration repeats first sounds; hyperbole exaggerates.",
+        "bm": "Aliterasi mengulang bunyi awal; hiperbola melampau."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Alliteration",
+            "bm": "Aliterasi"
+          },
+          "right": {
+            "en": "Peter picked purple plums",
+            "bm": "Peter picked purple plums"
+          }
+        },
+        {
+          "left": {
+            "en": "Hyperbole",
+            "bm": "Hiperbola"
+          },
+          "right": {
+            "en": "I have told you a million times",
+            "bm": "I have told you a million times"
+          }
+        },
+        {
+          "left": {
+            "en": "Simile",
+            "bm": "Simile"
+          },
+          "right": {
+            "en": "He ran like the wind",
+            "bm": "He ran like the wind"
+          }
+        },
+        {
+          "left": {
+            "en": "Imagery",
+            "bm": "Imejan"
+          },
+          "right": {
+            "en": "The crunchy golden leaves smelled of rain",
+            "bm": "The crunchy golden leaves smelled of rain"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-06-q11",
+      "subtopicId": "bi-06-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each conflict type with its example.",
+        "bm": "Padankan jenis konflik dengan contohnya."
+      },
+      "explanation": {
+        "en": "Identify who or what the character struggles against.",
+        "bm": "Kenal pasti siapa atau apa yang ditentang watak."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Person vs person",
+            "bm": "Manusia lawan manusia"
+          },
+          "right": {
+            "en": "Two rivals compete for captain",
+            "bm": "Dua pesaing berebut jawatan kapten"
+          }
+        },
+        {
+          "left": {
+            "en": "Person vs self",
+            "bm": "Manusia lawan diri"
+          },
+          "right": {
+            "en": "A girl struggles with her fear of failing",
+            "bm": "Seorang gadis bergelut dengan ketakutan untuk gagal"
+          }
+        },
+        {
+          "left": {
+            "en": "Person vs nature",
+            "bm": "Manusia lawan alam"
+          },
+          "right": {
+            "en": "Villagers survive a flood",
+            "bm": "Penduduk kampung menghadapi banjir"
+          }
+        },
+        {
+          "left": {
+            "en": "Person vs society",
+            "bm": "Manusia lawan masyarakat"
+          },
+          "right": {
+            "en": "A boy fights unfair village rules",
+            "bm": "Seorang budak menentang peraturan kampung yang tidak adil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-06-q12",
+      "subtopicId": "bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How do we learn about a character's traits?",
+        "bm": "Bagaimanakah kita mengetahui sifat watak?"
+      },
+      "explanation": {
+        "en": "Always support a trait with evidence from the text.",
+        "bm": "Sentiasa sokong sifat dengan bukti daripada teks."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Through their actions, words, thoughts and others' reactions",
+          "bm": "Melalui tindakan, kata-kata, fikiran dan reaksi watak lain"
+        },
+        {
+          "en": "Only from the title",
+          "bm": "Hanya daripada tajuk"
+        },
+        {
+          "en": "From the page number",
+          "bm": "Daripada nombor halaman"
+        },
+        {
+          "en": "From the font",
+          "bm": "Daripada fon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q13",
+      "subtopicId": "bi-06-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL parts of a PEE paragraph.",
+        "bm": "Pilih SEMUA bahagian perenggan PEE."
+      },
+      "explanation": {
+        "en": "Point–Evidence–Explanation.",
+        "bm": "Isi–Bukti–Huraian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Point",
+          "bm": "Isi"
+        },
+        {
+          "en": "Evidence (quotation)",
+          "bm": "Bukti (petikan)"
+        },
+        {
+          "en": "Explanation",
+          "bm": "Huraian"
+        },
+        {
+          "en": "Emoji",
+          "bm": "Emoji"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-06-q14",
+      "subtopicId": "bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The repetition of vowel sounds, e.g. \"the rain in Spain\", is…",
+        "bm": "Pengulangan bunyi vokal, cth. \"the rain in Spain\", ialah…"
+      },
+      "explanation": {
+        "en": "Assonance = vowels; alliteration = consonants at the start.",
+        "bm": "Asonansi = vokal; aliterasi = konsonan di awal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "assonance",
+          "bm": "assonance"
+        },
+        {
+          "en": "alliteration",
+          "bm": "alliteration"
+        },
+        {
+          "en": "onomatopoeia",
+          "bm": "onomatopoeia"
+        },
+        {
+          "en": "metaphor",
+          "bm": "metaphor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q15",
+      "subtopicId": "bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST statement of a theme?",
+        "bm": "Manakah pernyataan tema yang TERBAIK?"
+      },
+      "explanation": {
+        "en": "A theme is a full idea about life, not just one word or a fact from the story.",
+        "bm": "Tema ialah idea lengkap tentang kehidupan, bukan sekadar satu perkataan atau fakta cerita."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kindness can change people's lives.",
+          "bm": "Kindness can change people's lives."
+        },
+        {
+          "en": "Kindness.",
+          "bm": "Kindness."
+        },
+        {
+          "en": "A boy named Amir.",
+          "bm": "A boy named Amir."
+        },
+        {
+          "en": "It happened in Kedah.",
+          "bm": "It happened in Kedah."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q16",
+      "subtopicId": "bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A character returns a lost wallet even though no one is watching. Which value is shown?",
+        "bm": "Seorang watak memulangkan dompet yang hilang walaupun tiada sesiapa yang melihat. Nilai apakah yang ditunjukkan?"
+      },
+      "explanation": {
+        "en": "Doing the right thing when unobserved shows honesty (integrity).",
+        "bm": "Melakukan perkara betul walaupun tidak diperhatikan menunjukkan kejujuran (integriti)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "honesty",
+          "bm": "honesty"
+        },
+        {
+          "en": "jealousy",
+          "bm": "jealousy"
+        },
+        {
+          "en": "laziness",
+          "bm": "laziness"
+        },
+        {
+          "en": "pride",
+          "bm": "pride"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q17",
+      "subtopicId": "bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A poet describes a storm with \"angry clouds\" and \"roaring thunder\". What is the effect?",
+        "bm": "Penyair menggambarkan ribut dengan \"angry clouds\" dan \"roaring thunder\". Apakah kesannya?"
+      },
+      "explanation": {
+        "en": "Personification + strong verbs create a frightening mood.",
+        "bm": "Personifikasi + kata kerja yang kuat mencipta suasana menakutkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It makes the storm feel alive and threatening",
+          "bm": "Ia menjadikan ribut terasa hidup dan mengancam"
+        },
+        {
+          "en": "It makes the storm peaceful",
+          "bm": "Ia menjadikan ribut tenang"
+        },
+        {
+          "en": "It is a weather report",
+          "bm": "Ia laporan cuaca"
+        },
+        {
+          "en": "It has no effect",
+          "bm": "Tiada kesan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q18",
+      "subtopicId": "bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why might an author tell a story through the eyes of a child?",
+        "bm": "Mengapakah pengarang mungkin menceritakan kisah melalui pandangan kanak-kanak?"
+      },
+      "explanation": {
+        "en": "Point of view shapes what and how we learn.",
+        "bm": "Sudut pandangan menentukan apa dan bagaimana kita memahami cerita."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To show events with innocence, making the reader see what the child misses",
+          "bm": "Untuk memaparkan peristiwa dengan naif, membolehkan pembaca melihat apa yang terlepas daripada kanak-kanak itu"
+        },
+        {
+          "en": "Because adults cannot be narrators",
+          "bm": "Kerana orang dewasa tidak boleh menjadi pencerita"
+        },
+        {
+          "en": "To make it shorter",
+          "bm": "Untuk memendekkannya"
+        },
+        {
+          "en": "For no reason",
+          "bm": "Tiada sebab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q19",
+      "subtopicId": "bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which response about a character is STRONGEST?",
+        "bm": "Respons manakah tentang watak yang PALING kukuh?"
+      },
+      "explanation": {
+        "en": "Point + quotation + explanation (PEE).",
+        "bm": "Isi + petikan + huraian (PEE)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Mia is generous. When her friend lost his wallet, she \"gave him half of her savings without a second thought\", which shows she puts others before herself.",
+          "bm": "Mia is generous. When her friend lost his wallet, she \"gave him half of her savings without a second thought\", which shows she puts others before herself."
+        },
+        {
+          "en": "Mia is generous.",
+          "bm": "Mia is generous."
+        },
+        {
+          "en": "Mia is a girl in the story.",
+          "bm": "Mia is a girl in the story."
+        },
+        {
+          "en": "I like Mia a lot.",
+          "bm": "I like Mia a lot."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-06-q20",
+      "subtopicId": "bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A story ends without telling us what the hero decides. Why might the writer do this?",
+        "bm": "Sebuah cerita berakhir tanpa memberitahu keputusan wira. Mengapakah penulis berbuat demikian?"
+      },
+      "explanation": {
+        "en": "An open ending invites reflection and discussion.",
+        "bm": "Pengakhiran terbuka mengundang renungan dan perbincangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To make readers think and imagine their own ending (open ending)",
+          "bm": "Untuk membuat pembaca berfikir dan membayangkan pengakhiran sendiri (pengakhiran terbuka)"
+        },
+        {
+          "en": "The writer forgot",
+          "bm": "Penulis terlupa"
+        },
+        {
+          "en": "The pages were lost",
+          "bm": "Halaman hilang"
+        },
+        {
+          "en": "To make the story longer",
+          "bm": "Untuk memanjangkan cerita"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

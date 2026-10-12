@@ -25,6 +25,8 @@ export const RawChapterSchema = z.object({
 export const RawSubjectSchema = z.object({
   id: SubjectIdSchema,
   name: LangSchema,
+  // Short label for tight spaces such as chart axes; defaults to the first word of the name.
+  short: LangSchema.optional(),
   color: z.string().regex(/^#[0-9a-f]{6}$/i),
   source: z.string(),
   chapters: z.array(RawChapterSchema).min(1),
@@ -84,7 +86,7 @@ export type QuestionType = Question['type']
 
 // ---- Chapter learning content (content/<subject>/<chapter>.json) ----
 export const ChapterContentSchema = z.object({
-  chapterId: z.string().regex(/^(phy|chem|bio|addmath|math)-\d{2}$/),
+  chapterId: z.string().regex(/^(phy|chem|bio|addmath|math|sej|pi|bm|bi)-\d{2}$/),
   reviewed: z.boolean(),
   intro: z.object({
     hook: LangSchema,

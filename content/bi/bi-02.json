@@ -1,0 +1,843 @@
+{
+  "chapterId": "bi-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"If I win, I will…\" vs \"If I won, I would…\" — the first person believes it can happen; the second is dreaming. Small changes in structure change the whole meaning.",
+      "bm": "\"If I win, I will…\" berbanding \"If I won, I would…\" — orang pertama percaya ia boleh berlaku; orang kedua hanya berangan. Perubahan kecil dalam struktur mengubah keseluruhan makna."
+    },
+    "bigIdeas": [
+      {
+        "en": "Conditionals: zero (facts), first (real future), second (unreal present), third (unreal past).",
+        "bm": "Conditionals: zero (fakta), first (masa depan yang mungkin), second (andaian masa kini), third (andaian masa lalu)."
+      },
+      {
+        "en": "The passive (be + V3) focuses on the action or the receiver, not the doer.",
+        "bm": "Ayat pasif (be + V3) memberi tumpuan kepada tindakan atau penerima, bukan pelaku."
+      },
+      {
+        "en": "Reported speech moves tenses one step back and changes pronouns and time words.",
+        "bm": "Cakap pindah mengundurkan kala satu langkah dan mengubah kata ganti serta kata masa."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "If-clause",
+            "bm": "Klausa \"if\""
+          },
+          {
+            "en": "Main clause",
+            "bm": "Klausa utama"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Zero (facts)",
+              "bm": "Zero (fakta)"
+            },
+            "cells": [
+              {
+                "en": "If you heat ice,",
+                "bm": "If you heat ice,"
+              },
+              {
+                "en": "it melts.",
+                "bm": "it melts."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "First (real)",
+              "bm": "First (mungkin)"
+            },
+            "cells": [
+              {
+                "en": "If it rains,",
+                "bm": "If it rains,"
+              },
+              {
+                "en": "we will stay home.",
+                "bm": "we will stay home."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Second (unreal now)",
+              "bm": "Second (andaian kini)"
+            },
+            "cells": [
+              {
+                "en": "If I had wings,",
+                "bm": "If I had wings,"
+              },
+              {
+                "en": "I would fly.",
+                "bm": "I would fly."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Third (unreal past)",
+              "bm": "Third (andaian lalu)"
+            },
+            "cells": [
+              {
+                "en": "If she had studied,",
+                "bm": "If she had studied,"
+              },
+              {
+                "en": "she would have passed.",
+                "bm": "she would have passed."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Conditional",
+          "bm": "Conditional"
+        },
+        "definition": {
+          "en": "A sentence with a condition (if-clause) and a result.",
+          "bm": "Ayat dengan syarat (klausa if) dan akibat."
+        }
+      },
+      {
+        "term": {
+          "en": "Passive voice",
+          "bm": "Ayat pasif"
+        },
+        "definition": {
+          "en": "Object becomes subject; be + past participle (The cake was eaten).",
+          "bm": "Objek menjadi subjek; be + past participle (The cake was eaten)."
+        }
+      },
+      {
+        "term": {
+          "en": "Reported speech",
+          "bm": "Cakap pindah"
+        },
+        "definition": {
+          "en": "Reporting what someone said without quotation marks.",
+          "bm": "Melaporkan kata-kata seseorang tanpa tanda petik."
+        }
+      },
+      {
+        "term": {
+          "en": "Backshift",
+          "bm": "Anjakan kala"
+        },
+        "definition": {
+          "en": "Moving the tense one step back in reported speech (is → was).",
+          "bm": "Mengundurkan kala satu langkah dalam cakap pindah (is → was)."
+        }
+      },
+      {
+        "term": {
+          "en": "Relative pronoun",
+          "bm": "Kata ganti relatif"
+        },
+        "definition": {
+          "en": "who (people), which (things), whose (possession), where (places).",
+          "bm": "who (orang), which (benda), whose (milik), where (tempat)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Report: Aina said, \"I am revising my notes now.\"",
+        "bm": "Tukar ke cakap pindah: Aina said, \"I am revising my notes now.\""
+      },
+      "steps": [
+        {
+          "en": "Remove quotation marks; add \"that\" (optional).",
+          "bm": "Buang tanda petik; tambah \"that\" (pilihan)."
+        },
+        {
+          "en": "Pronoun: I → she. Tense: am revising → was revising.",
+          "bm": "Kata ganti: I → she. Kala: am revising → was revising."
+        },
+        {
+          "en": "Time word: now → then. Possessive: my → her.",
+          "bm": "Kata masa: now → then. Kata milik: my → her."
+        }
+      ],
+      "answer": {
+        "en": "Aina said (that) she was revising her notes then.",
+        "bm": "Aina said (that) she was revising her notes then."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-02-q01",
+      "subtopicId": "bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If you heat water to 100°C, it ___.",
+        "bm": "If you heat water to 100°C, it ___."
+      },
+      "explanation": {
+        "en": "Zero conditional for scientific facts: present + present.",
+        "bm": "Zero conditional untuk fakta sains: present + present."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "boils",
+          "bm": "boils"
+        },
+        {
+          "en": "will boiled",
+          "bm": "will boiled"
+        },
+        {
+          "en": "boiled",
+          "bm": "boiled"
+        },
+        {
+          "en": "would boil",
+          "bm": "would boil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q02",
+      "subtopicId": "bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If it rains tomorrow, we ___ the match.",
+        "bm": "If it rains tomorrow, we ___ the match."
+      },
+      "explanation": {
+        "en": "First conditional: if + present, will + base verb.",
+        "bm": "First conditional: if + present, will + kata kerja asal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "will postpone",
+          "bm": "will postpone"
+        },
+        {
+          "en": "postponed",
+          "bm": "postponed"
+        },
+        {
+          "en": "would have postponed",
+          "bm": "would have postponed"
+        },
+        {
+          "en": "postponing",
+          "bm": "postponing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q03",
+      "subtopicId": "bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If I ___ a bird, I would fly to Sabah.",
+        "bm": "If I ___ a bird, I would fly to Sabah."
+      },
+      "explanation": {
+        "en": "Second conditional (unreal): if + past (\"were\" for all persons in formal English).",
+        "bm": "Second conditional (andaian): if + past (\"were\" untuk semua subjek dalam bahasa formal)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "were",
+          "bm": "were"
+        },
+        {
+          "en": "am",
+          "bm": "am"
+        },
+        {
+          "en": "will be",
+          "bm": "will be"
+        },
+        {
+          "en": "have been",
+          "bm": "have been"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q04",
+      "subtopicId": "bi-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Passive: \"The window ___ (break) by the ball yesterday.\"",
+        "bm": "Pasif: \"The window ___ (break) by the ball yesterday.\""
+      },
+      "explanation": {
+        "en": "Past passive: was/were + V3.",
+        "bm": "Pasif lampau: was/were + V3."
+      },
+      "difficulty": 1,
+      "answer": [
+        "was broken"
+      ]
+    },
+    {
+      "id": "bi-02-q05",
+      "subtopicId": "bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is passive?",
+        "bm": "Ayat manakah ayat pasif?"
+      },
+      "explanation": {
+        "en": "be + V3, with the doer after \"by\".",
+        "bm": "be + V3, dengan pelaku selepas \"by\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "The letter was written by Mei Ling.",
+          "bm": "The letter was written by Mei Ling."
+        },
+        {
+          "en": "Mei Ling wrote the letter.",
+          "bm": "Mei Ling wrote the letter."
+        },
+        {
+          "en": "Mei Ling is writing.",
+          "bm": "Mei Ling is writing."
+        },
+        {
+          "en": "Mei Ling writes letters.",
+          "bm": "Mei Ling writes letters."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q06",
+      "subtopicId": "bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "He said, \"I am tired.\" → He said that he ___ tired.",
+        "bm": "He said, \"I am tired.\" → He said that he ___ tired."
+      },
+      "explanation": {
+        "en": "Backshift: am → was.",
+        "bm": "Anjakan kala: am → was."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "was",
+          "bm": "was"
+        },
+        {
+          "en": "is",
+          "bm": "is"
+        },
+        {
+          "en": "am",
+          "bm": "am"
+        },
+        {
+          "en": "were",
+          "bm": "were"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q07",
+      "subtopicId": "bi-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The girl ___ won the prize is my cousin.",
+        "bm": "The girl ___ won the prize is my cousin."
+      },
+      "explanation": {
+        "en": "\"Who\" for people.",
+        "bm": "\"Who\" untuk orang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "where",
+          "bm": "where"
+        },
+        {
+          "en": "whose",
+          "bm": "whose"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q08",
+      "subtopicId": "bi-02-04",
+      "type": "fill",
+      "prompt": {
+        "en": "This is the house ___ I was born. (relative word)",
+        "bm": "This is the house ___ I was born. (kata relatif)"
+      },
+      "explanation": {
+        "en": "\"Where\" for places.",
+        "bm": "\"Where\" untuk tempat."
+      },
+      "difficulty": 1,
+      "answer": [
+        "where",
+        "in which"
+      ]
+    },
+    {
+      "id": "bi-02-q09",
+      "subtopicId": "bi-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each conditional with its use.",
+        "bm": "Padankan conditional dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "Choose the conditional by how real the situation is.",
+        "bm": "Pilih conditional berdasarkan sejauh mana situasi itu nyata."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Zero",
+            "bm": "Zero"
+          },
+          "right": {
+            "en": "General truths",
+            "bm": "Kebenaran umum"
+          }
+        },
+        {
+          "left": {
+            "en": "First",
+            "bm": "First"
+          },
+          "right": {
+            "en": "Real future possibility",
+            "bm": "Kemungkinan sebenar masa depan"
+          }
+        },
+        {
+          "left": {
+            "en": "Second",
+            "bm": "Second"
+          },
+          "right": {
+            "en": "Unreal or imagined present",
+            "bm": "Andaian masa kini"
+          }
+        },
+        {
+          "left": {
+            "en": "Third",
+            "bm": "Third"
+          },
+          "right": {
+            "en": "Unreal past, regrets",
+            "bm": "Andaian masa lalu, penyesalan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-02-q10",
+      "subtopicId": "bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If she had left earlier, she ___ the bus.",
+        "bm": "If she had left earlier, she ___ the bus."
+      },
+      "explanation": {
+        "en": "Third conditional: if + past perfect, would have + V3.",
+        "bm": "Third conditional: if + past perfect, would have + V3."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "would have caught",
+          "bm": "would have caught"
+        },
+        {
+          "en": "will catch",
+          "bm": "will catch"
+        },
+        {
+          "en": "would catch",
+          "bm": "would catch"
+        },
+        {
+          "en": "catches",
+          "bm": "catches"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q11",
+      "subtopicId": "bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to passive: \"The council builds new parks every year.\"",
+        "bm": "Tukar ke pasif: \"The council builds new parks every year.\""
+      },
+      "explanation": {
+        "en": "Present passive: am/is/are + V3; plural \"parks\" → are.",
+        "bm": "Pasif kini: am/is/are + V3; \"parks\" jamak → are."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "New parks are built by the council every year.",
+          "bm": "New parks are built by the council every year."
+        },
+        {
+          "en": "New parks were built by the council every year.",
+          "bm": "New parks were built by the council every year."
+        },
+        {
+          "en": "New parks is built by the council every year.",
+          "bm": "New parks is built by the council every year."
+        },
+        {
+          "en": "New parks are build by the council every year.",
+          "bm": "New parks are build by the council every year."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q12",
+      "subtopicId": "bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the passive often used in science reports?",
+        "bm": "Mengapakah ayat pasif sering digunakan dalam laporan sains?"
+      },
+      "explanation": {
+        "en": "E.g. \"The solution was heated for five minutes.\"",
+        "bm": "Cth. \"The solution was heated for five minutes.\""
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The process matters more than who did it",
+          "bm": "Proses lebih penting daripada siapa yang melakukannya"
+        },
+        {
+          "en": "It is shorter",
+          "bm": "Ia lebih pendek"
+        },
+        {
+          "en": "It is informal",
+          "bm": "Ia tidak formal"
+        },
+        {
+          "en": "It hides mistakes",
+          "bm": "Ia menyembunyikan kesilapan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q13",
+      "subtopicId": "bi-02-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to change direct to reported speech.",
+        "bm": "Susun langkah menukar cakap ajuk kepada cakap pindah."
+      },
+      "explanation": {
+        "en": "Follow these steps in order to avoid missing a change.",
+        "bm": "Ikut langkah ini supaya tiada perubahan tertinggal."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Choose a reporting verb (said, told, asked)",
+          "bm": "Pilih kata kerja pelapor (said, told, asked)"
+        },
+        {
+          "en": "Remove quotation marks",
+          "bm": "Buang tanda petik"
+        },
+        {
+          "en": "Change pronouns",
+          "bm": "Tukar kata ganti"
+        },
+        {
+          "en": "Backshift tenses",
+          "bm": "Undurkan kala"
+        },
+        {
+          "en": "Change time and place words",
+          "bm": "Tukar kata masa dan tempat"
+        }
+      ]
+    },
+    {
+      "id": "bi-02-q14",
+      "subtopicId": "bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "She asked, \"Where do you live?\" → She asked me where ___.",
+        "bm": "She asked, \"Where do you live?\" → She asked me where ___."
+      },
+      "explanation": {
+        "en": "Reported questions use statement word order and no question mark.",
+        "bm": "Soalan dalam cakap pindah menggunakan susunan ayat penyata dan tiada tanda soal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "I lived",
+          "bm": "I lived"
+        },
+        {
+          "en": "did I live",
+          "bm": "did I live"
+        },
+        {
+          "en": "do I live",
+          "bm": "do I live"
+        },
+        {
+          "en": "I live?",
+          "bm": "I live?"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q15",
+      "subtopicId": "bi-02-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct time-word changes in reported speech.",
+        "bm": "Pilih SEMUA perubahan kata masa yang betul dalam cakap pindah."
+      },
+      "explanation": {
+        "en": "\"Now\" usually becomes \"then\".",
+        "bm": "\"Now\" biasanya menjadi \"then\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "today → that day",
+          "bm": "today → that day"
+        },
+        {
+          "en": "tomorrow → the next day",
+          "bm": "tomorrow → the next day"
+        },
+        {
+          "en": "yesterday → the day before",
+          "bm": "yesterday → the day before"
+        },
+        {
+          "en": "now → tomorrow",
+          "bm": "now → tomorrow"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-02-q16",
+      "subtopicId": "bi-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rashid, ___ father is a pilot, travels a lot.",
+        "bm": "Rashid, ___ father is a pilot, travels a lot."
+      },
+      "explanation": {
+        "en": "\"Whose\" shows possession.",
+        "bm": "\"Whose\" menunjukkan pemilikan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "whose",
+          "bm": "whose"
+        },
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "whom",
+          "bm": "whom"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q17",
+      "subtopicId": "bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"If I had studied harder, I would have passed.\" What does this tell us?",
+        "bm": "\"If I had studied harder, I would have passed.\" Apakah maksud ayat ini?"
+      },
+      "explanation": {
+        "en": "Third conditional describes the opposite of what happened.",
+        "bm": "Third conditional menerangkan sebaliknya daripada apa yang berlaku."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The speaker did not study hard and did not pass",
+          "bm": "Penutur tidak belajar bersungguh-sungguh dan tidak lulus"
+        },
+        {
+          "en": "The speaker passed",
+          "bm": "Penutur lulus"
+        },
+        {
+          "en": "The exam is tomorrow",
+          "bm": "Peperiksaan esok"
+        },
+        {
+          "en": "The speaker will study",
+          "bm": "Penutur akan belajar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q18",
+      "subtopicId": "bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which passive sentence is MOST appropriate for a school notice?",
+        "bm": "Ayat pasif manakah PALING sesuai untuk notis sekolah?"
+      },
+      "explanation": {
+        "en": "Formal notices use the passive to sound polite and impersonal.",
+        "bm": "Notis rasmi menggunakan ayat pasif supaya kedengaran sopan dan tidak peribadi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Students are reminded to wear their name tags.",
+          "bm": "Students are reminded to wear their name tags."
+        },
+        {
+          "en": "We remind you, students, wear name tags!",
+          "bm": "We remind you, students, wear name tags!"
+        },
+        {
+          "en": "Name tags wearing students reminded.",
+          "bm": "Name tags wearing students reminded."
+        },
+        {
+          "en": "The principal reminds that tags.",
+          "bm": "The principal reminds that tags."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q19",
+      "subtopicId": "bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Find the error: \"He told that he will come tomorrow.\"",
+        "bm": "Cari kesalahan: \"He told that he will come tomorrow.\""
+      },
+      "explanation": {
+        "en": "\"Tell\" needs an object (told me); backshift will → would; change time words.",
+        "bm": "\"Tell\" memerlukan objek (told me); anjakan will → would; tukar kata masa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "told → said; will → would; tomorrow → the next day",
+          "bm": "told → said; will → would; tomorrow → the next day"
+        },
+        {
+          "en": "No error",
+          "bm": "Tiada kesalahan"
+        },
+        {
+          "en": "He → She",
+          "bm": "He → She"
+        },
+        {
+          "en": "come → came only",
+          "bm": "come → came sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-02-q20",
+      "subtopicId": "bi-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Combine: \"I met a man. He had climbed Everest.\"",
+        "bm": "Gabungkan: \"I met a man. He had climbed Everest.\""
+      },
+      "explanation": {
+        "en": "\"Who\" replaces the person subject \"He\".",
+        "bm": "\"Who\" menggantikan subjek orang \"He\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "I met a man who had climbed Everest.",
+          "bm": "I met a man who had climbed Everest."
+        },
+        {
+          "en": "I met a man which had climbed Everest.",
+          "bm": "I met a man which had climbed Everest."
+        },
+        {
+          "en": "I met a man whose had climbed Everest.",
+          "bm": "I met a man whose had climbed Everest."
+        },
+        {
+          "en": "I met a man where had climbed Everest.",
+          "bm": "I met a man where had climbed Everest."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

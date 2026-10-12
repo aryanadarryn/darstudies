@@ -1,0 +1,822 @@
+{
+  "chapterId": "pi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "What is the shortest test of whether your faith is complete? The Prophet ﷺ gave one you can check every day: do you want for your friend what you want for yourself?",
+      "bm": "Apakah ujian paling ringkas untuk mengetahui sama ada iman kita sempurna? Rasulullah ﷺ memberikan ujian yang boleh kita semak setiap hari: adakah kita menyukai untuk saudara kita apa yang kita sukai untuk diri sendiri?"
+    },
+    "bigIdeas": [
+      {
+        "en": "Faith is not complete until you love for your brother what you love for yourself (al-Bukhari, Muslim).",
+        "bm": "Tidak sempurna iman seseorang sehingga dia mengasihi saudaranya seperti dia mengasihi dirinya sendiri (al-Bukhari, Muslim)."
+      },
+      {
+        "en": "A true Muslim is one from whose tongue and hand other Muslims are safe (al-Bukhari, Muslim).",
+        "bm": "Muslim sejati ialah orang yang Muslim lain selamat daripada lidah dan tangannya (al-Bukhari, Muslim)."
+      },
+      {
+        "en": "The Hadith of Jibril explains three levels of religion: Islam, Iman and Ihsan (Muslim).",
+        "bm": "Hadis Jibril menjelaskan tiga peringkat agama: Islam, Iman dan Ihsan (Muslim)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Islam",
+              "bm": "Islam"
+            },
+            "cells": [
+              {
+                "en": "Outward practice: the five pillars",
+                "bm": "Amalan zahir: lima rukun"
+              },
+              {
+                "en": "Syahadah, solat, zakat, puasa, haji",
+                "bm": "Syahadah, solat, zakat, puasa, haji"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Iman",
+              "bm": "Iman"
+            },
+            "cells": [
+              {
+                "en": "Inner belief: the six pillars",
+                "bm": "Kepercayaan batin: enam rukun"
+              },
+              {
+                "en": "Allah, angels, books, messengers, Last Day, qada' & qadar",
+                "bm": "Allah, malaikat, kitab, rasul, hari akhirat, qada' & qadar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ihsan",
+              "bm": "Ihsan"
+            },
+            "cells": [
+              {
+                "en": "Worship as if you see Allah; if not, He sees you",
+                "bm": "Beribadat seolah-olah melihat Allah; jika tidak, Dia melihatmu"
+              },
+              {
+                "en": "Khusyuk, sincerity, doing one's best",
+                "bm": "Khusyuk, ikhlas, melakukan yang terbaik"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hadith",
+          "bm": "Hadis"
+        },
+        "definition": {
+          "en": "Words, actions, approvals and qualities of the Prophet ﷺ.",
+          "bm": "Perkataan, perbuatan, pengakuan dan sifat Rasulullah ﷺ."
+        }
+      },
+      {
+        "term": {
+          "en": "Sanad",
+          "bm": "Sanad"
+        },
+        "definition": {
+          "en": "Chain of narrators of a hadith.",
+          "bm": "Rangkaian perawi hadis."
+        }
+      },
+      {
+        "term": {
+          "en": "Matan",
+          "bm": "Matan"
+        },
+        "definition": {
+          "en": "The text (content) of a hadith.",
+          "bm": "Teks (isi) hadis."
+        }
+      },
+      {
+        "term": {
+          "en": "Ihsan",
+          "bm": "Ihsan"
+        },
+        "definition": {
+          "en": "Worshipping Allah as though you see Him.",
+          "bm": "Beribadat kepada Allah seolah-olah melihat-Nya."
+        }
+      },
+      {
+        "term": {
+          "en": "Ukhuwah Islamiah",
+          "bm": "Ukhuwah Islamiah"
+        },
+        "definition": {
+          "en": "Brotherhood in Islam built on faith.",
+          "bm": "Persaudaraan dalam Islam berasaskan iman."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Give TWO practices that show you love for your friend what you love for yourself.",
+        "bm": "Berikan DUA amalan yang menunjukkan anda mengasihi rakan seperti diri sendiri."
+      },
+      "steps": [
+        {
+          "en": "Share useful notes before an exam instead of keeping them secret.",
+          "bm": "Berkongsi nota berguna sebelum peperiksaan dan bukan menyembunyikannya."
+        },
+        {
+          "en": "Be happy when a friend succeeds, without jealousy (hasad).",
+          "bm": "Gembira apabila rakan berjaya, tanpa hasad dengki."
+        }
+      ],
+      "answer": {
+        "en": "Any practice that wishes good for others the way you wish it for yourself is accepted.",
+        "bm": "Sebarang amalan yang menginginkan kebaikan untuk orang lain sebagaimana untuk diri sendiri diterima."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "pi-03-q01",
+      "subtopicId": "pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Complete the hadith: \"None of you truly believes until he loves for his brother…\"",
+        "bm": "Lengkapkan hadis: \"Tidak sempurna iman seseorang kamu sehingga dia mengasihi saudaranya…\""
+      },
+      "explanation": {
+        "en": "Narrated by al-Bukhari and Muslim from Anas bin Malik.",
+        "bm": "Diriwayatkan oleh al-Bukhari dan Muslim daripada Anas bin Malik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "what he loves for himself",
+          "bm": "seperti dia mengasihi dirinya sendiri"
+        },
+        {
+          "en": "more than his parents",
+          "bm": "lebih daripada ibu bapanya"
+        },
+        {
+          "en": "only on Fridays",
+          "bm": "pada hari Jumaat sahaja"
+        },
+        {
+          "en": "if he is rich",
+          "bm": "jika dia kaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q02",
+      "subtopicId": "pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "According to the hadith, a Muslim is one from whose ______ other Muslims are safe.",
+        "bm": "Menurut hadis, Muslim ialah orang yang Muslim lain selamat daripada ______nya."
+      },
+      "explanation": {
+        "en": "Harm can come from words and actions; both must be controlled.",
+        "bm": "Kemudaratan boleh datang daripada kata-kata dan perbuatan; kedua-duanya mesti dikawal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tongue and hand",
+          "bm": "lidah dan tangan"
+        },
+        {
+          "en": "wealth",
+          "bm": "harta"
+        },
+        {
+          "en": "house",
+          "bm": "rumah"
+        },
+        {
+          "en": "family",
+          "bm": "keluarga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q03",
+      "subtopicId": "pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Whoever believes in Allah and the Last Day should…\"",
+        "bm": "\"Sesiapa yang beriman kepada Allah dan hari akhirat, hendaklah…\""
+      },
+      "explanation": {
+        "en": "Narrated by al-Bukhari and Muslim from Abu Hurairah.",
+        "bm": "Diriwayatkan oleh al-Bukhari dan Muslim daripada Abu Hurairah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "say good or remain silent",
+          "bm": "berkata baik atau diam"
+        },
+        {
+          "en": "speak as much as possible",
+          "bm": "bercakap sebanyak mungkin"
+        },
+        {
+          "en": "argue to win",
+          "bm": "berdebat untuk menang"
+        },
+        {
+          "en": "never speak",
+          "bm": "tidak bercakap langsung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q04",
+      "subtopicId": "pi-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Worshipping Allah as though you see Him is called ______.",
+        "bm": "Beribadat kepada Allah seolah-olah melihat-Nya dipanggil ______."
+      },
+      "explanation": {
+        "en": "\"If you do not see Him, He surely sees you.\" — Hadith of Jibril.",
+        "bm": "\"Jika kamu tidak melihat-Nya, sesungguhnya Dia melihatmu.\" — Hadis Jibril."
+      },
+      "difficulty": 1,
+      "answer": [
+        "ihsan"
+      ]
+    },
+    {
+      "id": "pi-03-q05",
+      "subtopicId": "pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the Hadith of Jibril, how many pillars of Islam are mentioned?",
+        "bm": "Dalam Hadis Jibril, berapakah rukun Islam yang disebut?"
+      },
+      "explanation": {
+        "en": "Syahadah, solat, zakat, puasa Ramadan and haji.",
+        "bm": "Syahadah, solat, zakat, puasa Ramadan dan haji."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q06",
+      "subtopicId": "pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many pillars of Iman are there?",
+        "bm": "Berapakah rukun iman?"
+      },
+      "explanation": {
+        "en": "Allah, angels, books, messengers, the Last Day, and qada' & qadar.",
+        "bm": "Allah, malaikat, kitab, rasul, hari akhirat, serta qada' & qadar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "7",
+          "bm": "7"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q07",
+      "subtopicId": "pi-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The chain of narrators of a hadith is called the ______.",
+        "bm": "Rangkaian perawi hadis dipanggil ______."
+      },
+      "explanation": {
+        "en": "The text itself is the matan.",
+        "bm": "Teks hadis pula ialah matan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "sanad"
+      ]
+    },
+    {
+      "id": "pi-03-q08",
+      "subtopicId": "pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who narrated the hadith \"None of you truly believes…\" from the Prophet ﷺ?",
+        "bm": "Siapakah yang meriwayatkan hadis \"Tidak sempurna iman…\" daripada Rasulullah ﷺ?"
+      },
+      "explanation": {
+        "en": "Anas bin Malik served the Prophet ﷺ for about ten years.",
+        "bm": "Anas bin Malik berkhidmat kepada Rasulullah ﷺ kira-kira sepuluh tahun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Anas bin Malik",
+          "bm": "Anas bin Malik"
+        },
+        {
+          "en": "Abu Bakar",
+          "bm": "Abu Bakar"
+        },
+        {
+          "en": "Umar al-Khattab",
+          "bm": "Umar al-Khattab"
+        },
+        {
+          "en": "Khalid al-Walid",
+          "bm": "Khalid al-Walid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q09",
+      "subtopicId": "pi-03-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its description.",
+        "bm": "Padankan istilah dengan huraiannya."
+      },
+      "explanation": {
+        "en": "Islam, Iman and Ihsan together form the complete religion.",
+        "bm": "Islam, Iman dan Ihsan bersama membentuk agama yang lengkap."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Islam",
+            "bm": "Islam"
+          },
+          "right": {
+            "en": "Outward actions — five pillars",
+            "bm": "Amalan zahir — lima rukun"
+          }
+        },
+        {
+          "left": {
+            "en": "Iman",
+            "bm": "Iman"
+          },
+          "right": {
+            "en": "Inner beliefs — six pillars",
+            "bm": "Kepercayaan batin — enam rukun"
+          }
+        },
+        {
+          "left": {
+            "en": "Ihsan",
+            "bm": "Ihsan"
+          },
+          "right": {
+            "en": "Worship as if seeing Allah",
+            "bm": "Beribadat seolah-olah melihat Allah"
+          }
+        },
+        {
+          "left": {
+            "en": "Sanad",
+            "bm": "Sanad"
+          },
+          "right": {
+            "en": "Chain of narrators",
+            "bm": "Rangkaian perawi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pi-03-q10",
+      "subtopicId": "pi-03-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL actions that break the hadith about the tongue and hand.",
+        "bm": "Pilih SEMUA perbuatan yang melanggar hadis tentang lidah dan tangan."
+      },
+      "explanation": {
+        "en": "Typing online counts as the \"tongue\" today; harm by hand includes physical harm.",
+        "bm": "Menaip di talian dikira sebagai \"lidah\" hari ini; kemudaratan tangan termasuk mencederakan fizikal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Cyberbullying",
+          "bm": "Buli siber"
+        },
+        {
+          "en": "Spreading fake news",
+          "bm": "Menyebarkan berita palsu"
+        },
+        {
+          "en": "Hitting a classmate",
+          "bm": "Memukul rakan sekelas"
+        },
+        {
+          "en": "Giving salam",
+          "bm": "Memberi salam"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "pi-03-q11",
+      "subtopicId": "pi-03-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the pillars of Islam in their usual order.",
+        "bm": "Susun rukun Islam mengikut susunan biasa."
+      },
+      "explanation": {
+        "en": "As mentioned in the Hadith of Jibril.",
+        "bm": "Seperti yang disebut dalam Hadis Jibril."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Syahadah",
+          "bm": "Mengucap dua kalimah syahadah"
+        },
+        {
+          "en": "Prayer",
+          "bm": "Solat"
+        },
+        {
+          "en": "Zakat",
+          "bm": "Zakat"
+        },
+        {
+          "en": "Fasting in Ramadan",
+          "bm": "Puasa Ramadan"
+        },
+        {
+          "en": "Hajj",
+          "bm": "Haji"
+        }
+      ]
+    },
+    {
+      "id": "pi-03-q12",
+      "subtopicId": "pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which attitude is the OPPOSITE of the hadith on loving others?",
+        "bm": "Sikap manakah yang BERTENTANGAN dengan hadis tentang mengasihi orang lain?"
+      },
+      "explanation": {
+        "en": "Hasad wishes others to lose a blessing — the opposite of loving good for them.",
+        "bm": "Hasad mahu nikmat orang lain hilang — bertentangan dengan mengasihi kebaikan untuknya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Hasad (jealousy)",
+          "bm": "Hasad dengki"
+        },
+        {
+          "en": "Generosity",
+          "bm": "Pemurah"
+        },
+        {
+          "en": "Helping",
+          "bm": "Menolong"
+        },
+        {
+          "en": "Advising",
+          "bm": "Menasihati"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q13",
+      "subtopicId": "pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "When should a Muslim choose silence?",
+        "bm": "Bilakah seorang Muslim patut memilih untuk diam?"
+      },
+      "explanation": {
+        "en": "Speak good; otherwise stay silent.",
+        "bm": "Bercakap yang baik; jika tidak, diam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "When his words would not be good or useful",
+          "bm": "Apabila kata-katanya tidak baik atau tidak berfaedah"
+        },
+        {
+          "en": "When he must teach truth",
+          "bm": "Apabila dia perlu mengajar kebenaran"
+        },
+        {
+          "en": "When asked for help",
+          "bm": "Apabila diminta bantuan"
+        },
+        {
+          "en": "When giving salam",
+          "bm": "Apabila memberi salam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q14",
+      "subtopicId": "pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who came to the Prophet ﷺ in human form and asked about Islam, Iman and Ihsan?",
+        "bm": "Siapakah yang datang kepada Rasulullah ﷺ dalam rupa manusia dan bertanya tentang Islam, Iman dan Ihsan?"
+      },
+      "explanation": {
+        "en": "Narrated by Muslim from Umar al-Khattab.",
+        "bm": "Diriwayatkan oleh Muslim daripada Umar al-Khattab."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Angel Jibril",
+          "bm": "Malaikat Jibril"
+        },
+        {
+          "en": "Angel Mikail",
+          "bm": "Malaikat Mikail"
+        },
+        {
+          "en": "Abu Bakar",
+          "bm": "Abu Bakar"
+        },
+        {
+          "en": "A Roman king",
+          "bm": "Seorang raja Rom"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q15",
+      "subtopicId": "pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Not truly believing\" in the hadith means…",
+        "bm": "\"Tidak beriman\" dalam hadis bermaksud…"
+      },
+      "explanation": {
+        "en": "It denies the perfection of faith, not faith itself.",
+        "bm": "Ia menafikan kesempurnaan iman, bukan iman itu sendiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "faith is not yet complete",
+          "bm": "iman belum sempurna"
+        },
+        {
+          "en": "the person is a non-Muslim",
+          "bm": "orang itu bukan Islam"
+        },
+        {
+          "en": "prayer is cancelled",
+          "bm": "solat terbatal"
+        },
+        {
+          "en": "fasting is invalid",
+          "bm": "puasa tidak sah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q16",
+      "subtopicId": "pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an example of ihsan in school life?",
+        "bm": "Antara berikut, yang manakah contoh ihsan dalam kehidupan sekolah?"
+      },
+      "explanation": {
+        "en": "Ihsan means feeling Allah's watch at all times.",
+        "bm": "Ihsan bermaksud merasai pengawasan Allah setiap masa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Doing homework honestly even when no one checks",
+          "bm": "Membuat kerja rumah dengan jujur walaupun tiada yang memeriksa"
+        },
+        {
+          "en": "Copying when the teacher is away",
+          "bm": "Meniru apabila guru tiada"
+        },
+        {
+          "en": "Working only when praised",
+          "bm": "Bekerja hanya apabila dipuji"
+        },
+        {
+          "en": "Cleaning only when watched",
+          "bm": "Membersihkan hanya apabila diperhati"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q17",
+      "subtopicId": "pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the hadith mention the tongue BEFORE the hand?",
+        "bm": "Mengapakah hadis menyebut lidah SEBELUM tangan?"
+      },
+      "explanation": {
+        "en": "Words can hurt many people at once — especially online.",
+        "bm": "Kata-kata boleh menyakiti ramai orang serentak — terutamanya di talian."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Harm from words is more common and can spread further",
+          "bm": "Kemudaratan daripada kata-kata lebih kerap dan boleh tersebar lebih luas"
+        },
+        {
+          "en": "The hand is never harmful",
+          "bm": "Tangan tidak pernah memudaratkan"
+        },
+        {
+          "en": "It is random",
+          "bm": "Tiada sebab"
+        },
+        {
+          "en": "Words are always good",
+          "bm": "Kata-kata sentiasa baik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q18",
+      "subtopicId": "pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How would a society change if everyone practised \"love for your brother what you love for yourself\"?",
+        "bm": "Bagaimanakah masyarakat berubah jika semua mengamalkan \"kasihi saudaramu seperti dirimu\"?"
+      },
+      "explanation": {
+        "en": "No one would do to others what he would hate for himself.",
+        "bm": "Tiada siapa akan melakukan kepada orang lain apa yang dia benci untuk dirinya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Less cheating, jealousy and crime; more cooperation and trust",
+          "bm": "Kurang penipuan, hasad dan jenayah; lebih kerjasama dan kepercayaan"
+        },
+        {
+          "en": "More competition to harm others",
+          "bm": "Lebih persaingan untuk menjatuhkan orang"
+        },
+        {
+          "en": "No change",
+          "bm": "Tiada perubahan"
+        },
+        {
+          "en": "People would stop working",
+          "bm": "Orang berhenti bekerja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q19",
+      "subtopicId": "pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is ihsan called the highest level in the Hadith of Jibril?",
+        "bm": "Mengapakah ihsan disebut peringkat tertinggi dalam Hadis Jibril?"
+      },
+      "explanation": {
+        "en": "Ihsan perfects Islam and Iman.",
+        "bm": "Ihsan menyempurnakan Islam dan Iman."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It joins correct practice and belief with constant awareness of Allah",
+          "bm": "Ia menggabungkan amalan dan kepercayaan yang betul dengan kesedaran berterusan tentang Allah"
+        },
+        {
+          "en": "It replaces solat",
+          "bm": "Ia menggantikan solat"
+        },
+        {
+          "en": "It is only for angels",
+          "bm": "Hanya untuk malaikat"
+        },
+        {
+          "en": "It needs no belief",
+          "bm": "Tidak memerlukan kepercayaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-03-q20",
+      "subtopicId": "pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student posts an angry comment about a teacher, then deletes it after 10 minutes. Which statement is BEST?",
+        "bm": "Seorang pelajar memuat naik komen marah tentang guru, kemudian memadamnya selepas 10 minit. Pernyataan manakah TERBAIK?"
+      },
+      "explanation": {
+        "en": "Others may have read or screenshotted it; repentance includes asking forgiveness.",
+        "bm": "Orang lain mungkin sudah membaca atau merakamnya; taubat termasuk memohon maaf."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "He should still seek forgiveness, because harm may already have spread",
+          "bm": "Dia tetap perlu memohon maaf kerana kemudaratan mungkin sudah tersebar"
+        },
+        {
+          "en": "Deleting cancels all harm",
+          "bm": "Memadam menghapuskan semua kemudaratan"
+        },
+        {
+          "en": "Online words do not count",
+          "bm": "Kata-kata di talian tidak dikira"
+        },
+        {
+          "en": "Teachers cannot be hurt",
+          "bm": "Guru tidak boleh tersinggung"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

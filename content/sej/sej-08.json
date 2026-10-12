@@ -1,0 +1,819 @@
+{
+  "chapterId": "sej-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In 1955, for the first time, ordinary people in Malaya chose who would govern them. One coalition won 51 out of 52 seats. What did that landslide tell the British?",
+      "bm": "Pada 1955, buat pertama kali, rakyat biasa di Tanah Melayu memilih siapa yang akan memerintah mereka. Satu gabungan memenangi 51 daripada 52 kerusi. Apakah mesej kemenangan besar itu kepada British?"
+    },
+    "bigIdeas": [
+      {
+        "en": "Elections let people choose leaders — a key feature of democracy.",
+        "bm": "Pilihan raya membolehkan rakyat memilih pemimpin — ciri utama demokrasi."
+      },
+      {
+        "en": "Local elections started with George Town (1951) and Kuala Lumpur (1952).",
+        "bm": "Pilihan raya tempatan bermula di George Town (1951) dan Kuala Lumpur (1952)."
+      },
+      {
+        "en": "The first federal election (27 July 1955) gave the Alliance 51 of 52 seats and Tunku became Chief Minister.",
+        "bm": "Pilihan raya umum persekutuan pertama (27 Julai 1955) memberi Perikatan 51 daripada 52 kerusi dan Tunku menjadi Ketua Menteri."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Election",
+            "bm": "Pilihan raya"
+          },
+          {
+            "en": "Result / significance",
+            "bm": "Keputusan / kepentingan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "George Town, Dec 1951",
+              "bm": "George Town, Dis 1951"
+            },
+            "cells": [
+              {
+                "en": "First municipal election in Malaya",
+                "bm": "Pilihan raya perbandaran pertama di Tanah Melayu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Kuala Lumpur, Feb 1952",
+              "bm": "Kuala Lumpur, Feb 1952"
+            },
+            "cells": [
+              {
+                "en": "UMNO–MCA won 9 of 12 seats",
+                "bm": "UMNO–MCA menang 9 daripada 12 kerusi"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Federal, 27 Jul 1955",
+              "bm": "Persekutuan, 27 Jul 1955"
+            },
+            "cells": [
+              {
+                "en": "Alliance 51/52; PAS 1 seat",
+                "bm": "Perikatan 51/52; PAS 1 kerusi"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sarawak, 1959",
+              "bm": "Sarawak, 1959"
+            },
+            "cells": [
+              {
+                "en": "First district council elections",
+                "bm": "Pilihan raya majlis daerah pertama"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Election",
+          "bm": "Pilihan raya"
+        },
+        "definition": {
+          "en": "Process where voters choose representatives by secret ballot.",
+          "bm": "Proses pengundi memilih wakil secara undi rahsia."
+        }
+      },
+      {
+        "term": {
+          "en": "Democracy",
+          "bm": "Demokrasi"
+        },
+        "definition": {
+          "en": "Government by the people, usually through elected representatives.",
+          "bm": "Pemerintahan oleh rakyat, biasanya melalui wakil yang dipilih."
+        }
+      },
+      {
+        "term": {
+          "en": "Municipal election",
+          "bm": "Pilihan raya perbandaran"
+        },
+        "definition": {
+          "en": "Election for a town council.",
+          "bm": "Pilihan raya untuk majlis bandaran."
+        }
+      },
+      {
+        "term": {
+          "en": "Manifesto",
+          "bm": "Manifesto"
+        },
+        "definition": {
+          "en": "A party's written promises to voters.",
+          "bm": "Janji bertulis sesebuah parti kepada pengundi."
+        }
+      },
+      {
+        "term": {
+          "en": "Chief Minister",
+          "bm": "Ketua Menteri"
+        },
+        "definition": {
+          "en": "Leader of the elected government before independence — Tunku Abdul Rahman (1955).",
+          "bm": "Ketua kerajaan yang dipilih sebelum merdeka — Tunku Abdul Rahman (1955)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "State TWO reasons the Alliance won the 1955 election. (2 marks)",
+        "bm": "Nyatakan DUA sebab Perikatan menang pilihan raya 1955. (2 markah)"
+      },
+      "steps": [
+        {
+          "en": "Reason 1: inter-ethnic cooperation of UMNO, MCA and MIC.",
+          "bm": "Sebab 1: kerjasama antara kaum UMNO, MCA dan MIC."
+        },
+        {
+          "en": "Reason 2: a manifesto promising independence within four years.",
+          "bm": "Sebab 2: manifesto menjanjikan kemerdekaan dalam masa empat tahun."
+        }
+      ],
+      "answer": {
+        "en": "\"State\" questions need short, precise points — no long explanations.",
+        "bm": "Soalan \"nyatakan\" memerlukan isi ringkas dan tepat — tiada huraian panjang."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "sej-08-q01",
+      "subtopicId": "sej-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first municipal election in Malaya was held in…",
+        "bm": "Pilihan raya perbandaran pertama di Tanah Melayu diadakan di…"
+      },
+      "explanation": {
+        "en": "George Town, Penang, held it in December 1951.",
+        "bm": "George Town, Pulau Pinang, mengadakannya pada Disember 1951."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "George Town (1951)",
+          "bm": "George Town (1951)"
+        },
+        {
+          "en": "Kuala Lumpur (1952)",
+          "bm": "Kuala Lumpur (1952)"
+        },
+        {
+          "en": "Melaka (1953)",
+          "bm": "Melaka (1953)"
+        },
+        {
+          "en": "Ipoh (1955)",
+          "bm": "Ipoh (1955)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q02",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first federal general election was held on…",
+        "bm": "Pilihan raya umum persekutuan pertama diadakan pada…"
+      },
+      "explanation": {
+        "en": "Malayans voted on 27 July 1955.",
+        "bm": "Rakyat Tanah Melayu mengundi pada 27 Julai 1955."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "27 July 1955",
+          "bm": "27 July 1955"
+        },
+        {
+          "en": "31 August 1957",
+          "bm": "31 August 1957"
+        },
+        {
+          "en": "1 February 1948",
+          "bm": "1 February 1948"
+        },
+        {
+          "en": "16 September 1963",
+          "bm": "16 September 1963"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q03",
+      "subtopicId": "sej-08-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In 1955 the Alliance won ______ of the 52 seats.",
+        "bm": "Pada 1955 Perikatan memenangi ______ daripada 52 kerusi."
+      },
+      "explanation": {
+        "en": "Only one seat went to PAS.",
+        "bm": "Hanya satu kerusi dimenangi PAS."
+      },
+      "difficulty": 1,
+      "answer": [
+        "51"
+      ]
+    },
+    {
+      "id": "sej-08-q04",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "After the 1955 election, Tunku Abdul Rahman became…",
+        "bm": "Selepas pilihan raya 1955, Tunku Abdul Rahman menjadi…"
+      },
+      "explanation": {
+        "en": "He became Chief Minister and later the first Prime Minister.",
+        "bm": "Beliau menjadi Ketua Menteri dan kemudian Perdana Menteri pertama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Chief Minister",
+          "bm": "Ketua Menteri"
+        },
+        {
+          "en": "Yang di-Pertuan Agong",
+          "bm": "Yang di-Pertuan Agong"
+        },
+        {
+          "en": "High Commissioner",
+          "bm": "Pesuruhjaya Tinggi"
+        },
+        {
+          "en": "Governor",
+          "bm": "Gabenor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q05",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which party won the only non-Alliance seat in 1955?",
+        "bm": "Parti manakah memenangi satu-satunya kerusi bukan Perikatan pada 1955?"
+      },
+      "explanation": {
+        "en": "PAS won the Krian seat in Perak.",
+        "bm": "PAS memenangi kerusi Krian di Perak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "PAS",
+          "bm": "PAS"
+        },
+        {
+          "en": "IMP",
+          "bm": "IMP"
+        },
+        {
+          "en": "PKM",
+          "bm": "PKM"
+        },
+        {
+          "en": "MCA",
+          "bm": "MCA"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q06",
+      "subtopicId": "sej-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first elections in Sarawak (district councils) were held in…",
+        "bm": "Pilihan raya pertama di Sarawak (majlis daerah) diadakan pada…"
+      },
+      "explanation": {
+        "en": "Sarawak held district council elections in 1959.",
+        "bm": "Sarawak mengadakan pilihan raya majlis daerah pada 1959."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1959",
+          "bm": "1959"
+        },
+        {
+          "en": "1951",
+          "bm": "1951"
+        },
+        {
+          "en": "1946",
+          "bm": "1946"
+        },
+        {
+          "en": "1970",
+          "bm": "1970"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q07",
+      "subtopicId": "sej-08-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A party's written promises to voters are called its ______.",
+        "bm": "Janji bertulis parti kepada pengundi dipanggil ______."
+      },
+      "explanation": {
+        "en": "The Alliance manifesto promised independence within four years.",
+        "bm": "Manifesto Perikatan menjanjikan kemerdekaan dalam masa empat tahun."
+      },
+      "difficulty": 1,
+      "answer": [
+        "manifesto",
+        "manifestos"
+      ]
+    },
+    {
+      "id": "sej-08-q08",
+      "subtopicId": "sej-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which coalition won the 1952 Kuala Lumpur municipal election?",
+        "bm": "Gabungan manakah memenangi pilihan raya perbandaran Kuala Lumpur 1952?"
+      },
+      "explanation": {
+        "en": "UMNO–MCA won 9 of 12 seats.",
+        "bm": "UMNO–MCA memenangi 9 daripada 12 kerusi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "UMNO–MCA",
+          "bm": "UMNO–MCA"
+        },
+        {
+          "en": "IMP–PAS",
+          "bm": "IMP–PAS"
+        },
+        {
+          "en": "AMCJA–PUTERA",
+          "bm": "AMCJA–PUTERA"
+        },
+        {
+          "en": "MIC–IMP",
+          "bm": "MIC–IMP"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q09",
+      "subtopicId": "sej-08-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL reasons for the Alliance's 1955 win.",
+        "bm": "Pilih SEMUA sebab kemenangan Perikatan pada 1955."
+      },
+      "explanation": {
+        "en": "The PKM was a banned, armed group — it did not support the Alliance.",
+        "bm": "PKM ialah kumpulan bersenjata yang diharamkan — tidak menyokong Perikatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Inter-ethnic cooperation",
+          "bm": "Kerjasama antara kaum"
+        },
+        {
+          "en": "Manifesto promising independence",
+          "bm": "Manifesto menjanjikan kemerdekaan"
+        },
+        {
+          "en": "Strong leadership of Tunku",
+          "bm": "Kepimpinan Tunku yang kuat"
+        },
+        {
+          "en": "Support from the PKM",
+          "bm": "Sokongan PKM"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sej-08-q10",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What was the main promise in the Alliance manifesto?",
+        "bm": "Apakah janji utama dalam manifesto Perikatan?"
+      },
+      "explanation": {
+        "en": "Its slogan focused on independence and unity.",
+        "bm": "Slogannya memberi tumpuan kepada kemerdekaan dan perpaduan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Independence within four years",
+          "bm": "Kemerdekaan dalam masa empat tahun"
+        },
+        {
+          "en": "Return of the Malayan Union",
+          "bm": "Kembalinya Malayan Union"
+        },
+        {
+          "en": "Joining Japan",
+          "bm": "Menyertai Jepun"
+        },
+        {
+          "en": "Abolishing elections",
+          "bm": "Memansuhkan pilihan raya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q11",
+      "subtopicId": "sej-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why were municipal elections held before the federal election?",
+        "bm": "Mengapakah pilihan raya perbandaran diadakan sebelum pilihan raya persekutuan?"
+      },
+      "explanation": {
+        "en": "Local elections were practice before national self-government.",
+        "bm": "Pilihan raya tempatan ialah latihan sebelum pemerintahan sendiri peringkat kebangsaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To give people and parties experience of democracy step by step",
+          "bm": "Memberi pengalaman demokrasi kepada rakyat dan parti secara berperingkat"
+        },
+        {
+          "en": "Because federal elections were banned",
+          "bm": "Kerana pilihan raya persekutuan diharamkan"
+        },
+        {
+          "en": "To delay independence forever",
+          "bm": "Untuk melambatkan kemerdekaan selamanya"
+        },
+        {
+          "en": "Because Japan required it",
+          "bm": "Kerana Jepun mensyaratkannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q12",
+      "subtopicId": "sej-08-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the elections in time order.",
+        "bm": "Susun pilihan raya mengikut kronologi."
+      },
+      "explanation": {
+        "en": "1951 → 1952 → 1955 → 1959.",
+        "bm": "1951 → 1952 → 1955 → 1959."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "George Town municipal",
+          "bm": "Perbandaran George Town"
+        },
+        {
+          "en": "Kuala Lumpur municipal",
+          "bm": "Perbandaran Kuala Lumpur"
+        },
+        {
+          "en": "First federal election",
+          "bm": "Pilihan raya persekutuan pertama"
+        },
+        {
+          "en": "Sarawak district councils",
+          "bm": "Majlis daerah Sarawak"
+        }
+      ]
+    },
+    {
+      "id": "sej-08-q13",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Of the 98 seats in the Federal Legislative Council in 1955, how many were elected?",
+        "bm": "Daripada 98 kerusi Majlis Perundangan Persekutuan pada 1955, berapakah yang dipilih?"
+      },
+      "explanation": {
+        "en": "52 were elected; the rest were appointed.",
+        "bm": "52 dipilih; selebihnya dilantik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "52",
+          "bm": "52"
+        },
+        {
+          "en": "98",
+          "bm": "98"
+        },
+        {
+          "en": "12",
+          "bm": "12"
+        },
+        {
+          "en": "131",
+          "bm": "131"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q14",
+      "subtopicId": "sej-08-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each item with the 1955 election fact.",
+        "bm": "Padankan perkara dengan fakta pilihan raya 1955."
+      },
+      "explanation": {
+        "en": "These are the key facts of the first federal election.",
+        "bm": "Inilah fakta penting pilihan raya persekutuan pertama."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Date",
+            "bm": "Tarikh"
+          },
+          "right": {
+            "en": "27 July 1955",
+            "bm": "27 Julai 1955"
+          }
+        },
+        {
+          "left": {
+            "en": "Alliance seats",
+            "bm": "Kerusi Perikatan"
+          },
+          "right": {
+            "en": "51",
+            "bm": "51"
+          }
+        },
+        {
+          "left": {
+            "en": "PAS seat",
+            "bm": "Kerusi PAS"
+          },
+          "right": {
+            "en": "Krian",
+            "bm": "Krian"
+          }
+        },
+        {
+          "left": {
+            "en": "Chief Minister",
+            "bm": "Ketua Menteri"
+          },
+          "right": {
+            "en": "Tunku Abdul Rahman",
+            "bm": "Tunku Abdul Rahman"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sej-08-q15",
+      "subtopicId": "sej-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Elections in Sabah started with local council elections in…",
+        "bm": "Pilihan raya di Sabah bermula dengan pilihan raya majlis tempatan pada…"
+      },
+      "explanation": {
+        "en": "Sabah held its first local elections in 1962, just before Malaysia was formed.",
+        "bm": "Sabah mengadakan pilihan raya tempatan pertama pada 1962, sebelum Malaysia dibentuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1962",
+          "bm": "1962"
+        },
+        {
+          "en": "1951",
+          "bm": "1951"
+        },
+        {
+          "en": "1946",
+          "bm": "1946"
+        },
+        {
+          "en": "1980",
+          "bm": "1980"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q16",
+      "subtopicId": "sej-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A secret ballot means…",
+        "bm": "Undi rahsia bermaksud…"
+      },
+      "explanation": {
+        "en": "Secrecy protects voters from pressure.",
+        "bm": "Kerahsiaan melindungi pengundi daripada tekanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "No one else knows whom you voted for",
+          "bm": "Tiada orang lain tahu siapa yang anda undi"
+        },
+        {
+          "en": "Voting is by raising hands",
+          "bm": "Mengundi dengan mengangkat tangan"
+        },
+        {
+          "en": "Only leaders vote",
+          "bm": "Hanya pemimpin mengundi"
+        },
+        {
+          "en": "Votes are sold",
+          "bm": "Undi dijual"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q17",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What did the 1955 result prove to the British?",
+        "bm": "Apakah yang dibuktikan keputusan 1955 kepada British?"
+      },
+      "explanation": {
+        "en": "This strengthened Tunku's case in the London talks of 1956.",
+        "bm": "Ini menguatkan hujah Tunku dalam rundingan London 1956."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The people trusted a united multiracial leadership ready to govern",
+          "bm": "Rakyat mempercayai kepimpinan berbilang kaum yang bersatu dan bersedia memerintah"
+        },
+        {
+          "en": "Malaya wanted colonial rule",
+          "bm": "Tanah Melayu mahu terus dijajah"
+        },
+        {
+          "en": "The communists were most popular",
+          "bm": "Komunis paling popular"
+        },
+        {
+          "en": "Elections were a failure",
+          "bm": "Pilihan raya gagal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q18",
+      "subtopicId": "sej-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is voting a responsibility, not just a right, for citizens?",
+        "bm": "Mengapakah mengundi satu tanggungjawab, bukan sekadar hak, bagi rakyat?"
+      },
+      "explanation": {
+        "en": "Democracy works only when citizens participate wisely.",
+        "bm": "Demokrasi hanya berfungsi apabila rakyat terlibat dengan bijak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Voters decide who leads the country, which affects everyone",
+          "bm": "Pengundi menentukan siapa memimpin negara, yang memberi kesan kepada semua"
+        },
+        {
+          "en": "It is a holiday",
+          "bm": "Ia hari cuti"
+        },
+        {
+          "en": "Only the rich are affected",
+          "bm": "Hanya orang kaya terkesan"
+        },
+        {
+          "en": "Results never matter",
+          "bm": "Keputusan tidak penting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q19",
+      "subtopicId": "sej-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which BEST explains why Dato' Onn's new party failed in 1955 while the Alliance succeeded?",
+        "bm": "Manakah PALING menjelaskan mengapa parti baharu Dato' Onn gagal pada 1955 sedangkan Perikatan berjaya?"
+      },
+      "explanation": {
+        "en": "Parti Negara failed to win any seat; voters trusted the Alliance network.",
+        "bm": "Parti Negara gagal memenangi sebarang kerusi; pengundi mempercayai rangkaian Perikatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The Alliance had strong grassroots support in each community",
+          "bm": "Perikatan mempunyai sokongan akar umbi yang kuat dalam setiap kaum"
+        },
+        {
+          "en": "Onn was not allowed to stand",
+          "bm": "Onn tidak dibenarkan bertanding"
+        },
+        {
+          "en": "There was no election",
+          "bm": "Tiada pilihan raya"
+        },
+        {
+          "en": "The British supported only Onn",
+          "bm": "British hanya menyokong Onn"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-08-q20",
+      "subtopicId": "sej-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How did elections in Sabah and Sarawak relate to the formation of Malaysia?",
+        "bm": "Bagaimanakah pilihan raya di Sabah dan Sarawak berkait dengan pembentukan Malaysia?"
+      },
+      "explanation": {
+        "en": "Early elections helped local leaders take part in the Malaysia negotiations.",
+        "bm": "Pilihan raya awal membantu pemimpin tempatan terlibat dalam rundingan Malaysia."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They built political parties and awareness before joining Malaysia in 1963",
+          "bm": "Ia membina parti politik dan kesedaran sebelum menyertai Malaysia pada 1963"
+        },
+        {
+          "en": "They stopped Malaysia from forming",
+          "bm": "Ia menghalang pembentukan Malaysia"
+        },
+        {
+          "en": "They were held after 1990",
+          "bm": "Ia diadakan selepas 1990"
+        },
+        {
+          "en": "They had no effect",
+          "bm": "Tiada kesan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

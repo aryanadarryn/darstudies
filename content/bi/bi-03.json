@@ -1,0 +1,834 @@
+{
+  "chapterId": "bi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You \"make a mistake\" but \"do homework\". You \"give up\" a bad habit but \"give in\" to pressure. Native-like English is about which words go together.",
+      "bm": "Kita \"make a mistake\" tetapi \"do homework\". Kita \"give up\" tabiat buruk tetapi \"give in\" kepada tekanan. Bahasa Inggeris yang fasih bergantung pada perkataan yang sesuai digandingkan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Prefixes change meaning (un-, dis-, re-); suffixes change word class (-tion, -ful, -ly).",
+        "bm": "Imbuhan awalan mengubah makna (un-, dis-, re-); akhiran mengubah golongan kata (-tion, -ful, -ly)."
+      },
+      {
+        "en": "Collocations are natural word partners: heavy rain, make a decision, do research.",
+        "bm": "Kolokasi ialah gandingan perkataan yang lazim: heavy rain, make a decision, do research."
+      },
+      {
+        "en": "Phrasal verbs and idioms have meanings different from their separate words.",
+        "bm": "Kata kerja frasa dan simpulan bahasa mempunyai makna yang berbeza daripada perkataan asalnya."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Part",
+            "bm": "Bahagian"
+          },
+          {
+            "en": "Examples",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Negative prefix",
+              "bm": "Awalan negatif"
+            },
+            "cells": [
+              {
+                "en": "un-, dis-, im-, ir-, il-",
+                "bm": "un-, dis-, im-, ir-, il-"
+              },
+              {
+                "en": "unhappy, dishonest, impossible, irregular",
+                "bm": "unhappy, dishonest, impossible, irregular"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Noun suffix",
+              "bm": "Akhiran kata nama"
+            },
+            "cells": [
+              {
+                "en": "-tion, -ment, -ness, -ity",
+                "bm": "-tion, -ment, -ness, -ity"
+              },
+              {
+                "en": "decision, agreement, kindness, ability",
+                "bm": "decision, agreement, kindness, ability"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Adjective suffix",
+              "bm": "Akhiran adjektif"
+            },
+            "cells": [
+              {
+                "en": "-ful, -less, -ous, -able",
+                "bm": "-ful, -less, -ous, -able"
+              },
+              {
+                "en": "helpful, careless, dangerous, comfortable",
+                "bm": "helpful, careless, dangerous, comfortable"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Adverb suffix",
+              "bm": "Akhiran adverba"
+            },
+            "cells": [
+              {
+                "en": "-ly",
+                "bm": "-ly"
+              },
+              {
+                "en": "quickly, carefully",
+                "bm": "quickly, carefully"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Prefix",
+          "bm": "Awalan"
+        },
+        "definition": {
+          "en": "Letters added before a word: un-, re-, dis-.",
+          "bm": "Huruf yang ditambah di hadapan perkataan: un-, re-, dis-."
+        }
+      },
+      {
+        "term": {
+          "en": "Suffix",
+          "bm": "Akhiran"
+        },
+        "definition": {
+          "en": "Letters added after a word: -ness, -ful, -ly.",
+          "bm": "Huruf yang ditambah di belakang perkataan: -ness, -ful, -ly."
+        }
+      },
+      {
+        "term": {
+          "en": "Collocation",
+          "bm": "Kolokasi"
+        },
+        "definition": {
+          "en": "Words that naturally go together: strong coffee, take a photo.",
+          "bm": "Perkataan yang lazim digandingkan: strong coffee, take a photo."
+        }
+      },
+      {
+        "term": {
+          "en": "Phrasal verb",
+          "bm": "Kata kerja frasa"
+        },
+        "definition": {
+          "en": "Verb + particle with a new meaning: look after = take care of.",
+          "bm": "Kata kerja + partikel dengan makna baharu: look after = menjaga."
+        }
+      },
+      {
+        "term": {
+          "en": "Idiom",
+          "bm": "Simpulan bahasa"
+        },
+        "definition": {
+          "en": "Fixed expression with a figurative meaning: a piece of cake = very easy.",
+          "bm": "Ungkapan tetap bermakna kiasan: a piece of cake = sangat mudah."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Complete with the correct form of \"decide\": \"Making a quick ___ is not always wise.\"",
+        "bm": "Lengkapkan dengan bentuk \"decide\" yang betul: \"Making a quick ___ is not always wise.\""
+      },
+      "steps": [
+        {
+          "en": "After the adjective \"quick\" we need a noun.",
+          "bm": "Selepas adjektif \"quick\" kita perlukan kata nama."
+        },
+        {
+          "en": "decide (verb) → decision (noun).",
+          "bm": "decide (kata kerja) → decision (kata nama)."
+        }
+      ],
+      "answer": {
+        "en": "Making a quick decision is not always wise.",
+        "bm": "Making a quick decision is not always wise."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bi-03-q01",
+      "subtopicId": "bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The opposite of \"honest\" is…",
+        "bm": "Lawan bagi \"honest\" ialah…"
+      },
+      "explanation": {
+        "en": "dis- + honest.",
+        "bm": "dis- + honest."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dishonest",
+          "bm": "dishonest"
+        },
+        {
+          "en": "unhonest",
+          "bm": "unhonest"
+        },
+        {
+          "en": "imhonest",
+          "bm": "imhonest"
+        },
+        {
+          "en": "nonhonest",
+          "bm": "nonhonest"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q02",
+      "subtopicId": "bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The noun form of \"kind\" is…",
+        "bm": "Bentuk kata nama bagi \"kind\" ialah…"
+      },
+      "explanation": {
+        "en": "-ness forms nouns from adjectives.",
+        "bm": "-ness membentuk kata nama daripada adjektif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "kindness",
+          "bm": "kindness"
+        },
+        {
+          "en": "kindly",
+          "bm": "kindly"
+        },
+        {
+          "en": "kindful",
+          "bm": "kindful"
+        },
+        {
+          "en": "kinded",
+          "bm": "kinded"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q03",
+      "subtopicId": "bi-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Adjective of \"danger\": a ___ road.",
+        "bm": "Adjektif bagi \"danger\": a ___ road."
+      },
+      "explanation": {
+        "en": "-ous forms adjectives.",
+        "bm": "-ous membentuk adjektif."
+      },
+      "difficulty": 1,
+      "answer": [
+        "dangerous"
+      ]
+    },
+    {
+      "id": "bi-03-q04",
+      "subtopicId": "bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which collocation is correct?",
+        "bm": "Kolokasi manakah yang betul?"
+      },
+      "explanation": {
+        "en": "We \"make\" mistakes, decisions and noise.",
+        "bm": "Kita \"make\" mistakes, decisions dan noise."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "make a mistake",
+          "bm": "make a mistake"
+        },
+        {
+          "en": "do a mistake",
+          "bm": "do a mistake"
+        },
+        {
+          "en": "take a mistake",
+          "bm": "take a mistake"
+        },
+        {
+          "en": "have a mistake",
+          "bm": "have a mistake"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q05",
+      "subtopicId": "bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Look after\" means…",
+        "bm": "\"Look after\" bermaksud…"
+      },
+      "explanation": {
+        "en": "Phrasal verb: look after = take care of.",
+        "bm": "Kata kerja frasa: look after = menjaga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "take care of",
+          "bm": "menjaga"
+        },
+        {
+          "en": "search for",
+          "bm": "mencari"
+        },
+        {
+          "en": "admire",
+          "bm": "mengagumi"
+        },
+        {
+          "en": "ignore",
+          "bm": "mengabaikan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q06",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"It's a piece of cake\" means…",
+        "bm": "\"It's a piece of cake\" bermaksud…"
+      },
+      "explanation": {
+        "en": "An idiom with a figurative meaning.",
+        "bm": "Simpulan bahasa dengan makna kiasan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "it is very easy",
+          "bm": "ia sangat mudah"
+        },
+        {
+          "en": "it is delicious",
+          "bm": "ia sedap"
+        },
+        {
+          "en": "it is a birthday",
+          "bm": "ia hari jadi"
+        },
+        {
+          "en": "it is small",
+          "bm": "ia kecil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q07",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose: The rain will ___ the match.",
+        "bm": "Pilih: The rain will ___ the match."
+      },
+      "explanation": {
+        "en": "\"Affect\" is usually a verb; \"effect\" is usually a noun.",
+        "bm": "\"Affect\" biasanya kata kerja; \"effect\" biasanya kata nama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "affect",
+          "bm": "affect"
+        },
+        {
+          "en": "effect",
+          "bm": "effect"
+        },
+        {
+          "en": "affection",
+          "bm": "affection"
+        },
+        {
+          "en": "effective",
+          "bm": "effective"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q08",
+      "subtopicId": "bi-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Phrasal verb meaning \"stop doing something\": give ___.",
+        "bm": "Kata kerja frasa bermaksud \"berhenti melakukan sesuatu\": give ___."
+      },
+      "explanation": {
+        "en": "E.g. \"He gave up smoking.\"",
+        "bm": "Cth. \"He gave up smoking.\""
+      },
+      "difficulty": 1,
+      "answer": [
+        "up"
+      ]
+    },
+    {
+      "id": "bi-03-q09",
+      "subtopicId": "bi-03-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each phrasal verb with its meaning.",
+        "bm": "Padankan kata kerja frasa dengan maksudnya."
+      },
+      "explanation": {
+        "en": "Phrasal verbs are common in Paper 1 and in writing.",
+        "bm": "Kata kerja frasa kerap muncul dalam Kertas 1 dan penulisan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "put off",
+            "bm": "put off"
+          },
+          "right": {
+            "en": "postpone",
+            "bm": "menangguhkan"
+          }
+        },
+        {
+          "left": {
+            "en": "turn down",
+            "bm": "turn down"
+          },
+          "right": {
+            "en": "refuse",
+            "bm": "menolak"
+          }
+        },
+        {
+          "left": {
+            "en": "come across",
+            "bm": "come across"
+          },
+          "right": {
+            "en": "find by chance",
+            "bm": "terjumpa secara kebetulan"
+          }
+        },
+        {
+          "left": {
+            "en": "run out of",
+            "bm": "run out of"
+          },
+          "right": {
+            "en": "have none left",
+            "bm": "kehabisan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bi-03-q10",
+      "subtopicId": "bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: \"She spoke ___ to the frightened child.\"",
+        "bm": "Pilih perkataan yang betul: \"She spoke ___ to the frightened child.\""
+      },
+      "explanation": {
+        "en": "An adverb describes the verb \"spoke\".",
+        "bm": "Adverba menerangkan kata kerja \"spoke\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gently",
+          "bm": "gently"
+        },
+        {
+          "en": "gentle",
+          "bm": "gentle"
+        },
+        {
+          "en": "gentleness",
+          "bm": "gentleness"
+        },
+        {
+          "en": "gentler",
+          "bm": "gentler"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q11",
+      "subtopicId": "bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word has the negative prefix \"ir-\" correctly?",
+        "bm": "Perkataan manakah menggunakan awalan negatif \"ir-\" dengan betul?"
+      },
+      "explanation": {
+        "en": "ir- before words beginning with r: irregular, irresponsible.",
+        "bm": "ir- sebelum perkataan bermula dengan r: irregular, irresponsible."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "irresponsible",
+          "bm": "irresponsible"
+        },
+        {
+          "en": "irhappy",
+          "bm": "irhappy"
+        },
+        {
+          "en": "irpossible",
+          "bm": "irpossible"
+        },
+        {
+          "en": "irhonest",
+          "bm": "irhonest"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q12",
+      "subtopicId": "bi-03-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL natural collocations.",
+        "bm": "Pilih SEMUA kolokasi yang lazim."
+      },
+      "explanation": {
+        "en": "We say \"heavy rain\", not \"strong rain\".",
+        "bm": "Kita sebut \"heavy rain\", bukan \"strong rain\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "heavy rain",
+          "bm": "heavy rain"
+        },
+        {
+          "en": "do homework",
+          "bm": "do homework"
+        },
+        {
+          "en": "take a photo",
+          "bm": "take a photo"
+        },
+        {
+          "en": "strong rain",
+          "bm": "strong rain"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bi-03-q13",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Break the ice\" means…",
+        "bm": "\"Break the ice\" bermaksud…"
+      },
+      "explanation": {
+        "en": "Often used when meeting new people.",
+        "bm": "Sering digunakan apabila bertemu orang baharu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "start a conversation in an awkward situation",
+          "bm": "memulakan perbualan dalam situasi kekok"
+        },
+        {
+          "en": "damage something cold",
+          "bm": "merosakkan sesuatu yang sejuk"
+        },
+        {
+          "en": "be very angry",
+          "bm": "sangat marah"
+        },
+        {
+          "en": "go skating",
+          "bm": "bermain luncur ais"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q14",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose: \"I would like some ___ about the course.\"",
+        "bm": "Pilih: \"I would like some ___ about the course.\""
+      },
+      "explanation": {
+        "en": "\"Information\" is uncountable.",
+        "bm": "\"Information\" tidak boleh dikira."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "information",
+          "bm": "information"
+        },
+        {
+          "en": "informations",
+          "bm": "informations"
+        },
+        {
+          "en": "an information",
+          "bm": "an information"
+        },
+        {
+          "en": "informs",
+          "bm": "informs"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q15",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: \"The teacher gave me good ___.\"",
+        "bm": "Pilih perkataan yang betul: \"The teacher gave me good ___.\""
+      },
+      "explanation": {
+        "en": "advice (noun, uncountable) vs advise (verb).",
+        "bm": "advice (kata nama, tak boleh dikira) lawan advise (kata kerja)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "advice",
+          "bm": "advice"
+        },
+        {
+          "en": "advise",
+          "bm": "advise"
+        },
+        {
+          "en": "advices",
+          "bm": "advices"
+        },
+        {
+          "en": "advising",
+          "bm": "advising"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q16",
+      "subtopicId": "bi-03-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange from root to longest word.",
+        "bm": "Susun dari kata dasar hingga perkataan paling panjang."
+      },
+      "explanation": {
+        "en": "Suffixes build new word classes step by step.",
+        "bm": "Akhiran membina golongan kata baharu secara berperingkat."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "care",
+          "bm": "care"
+        },
+        {
+          "en": "careful",
+          "bm": "careful"
+        },
+        {
+          "en": "carefully",
+          "bm": "carefully"
+        },
+        {
+          "en": "carefulness",
+          "bm": "carefulness"
+        }
+      ]
+    },
+    {
+      "id": "bi-03-q17",
+      "subtopicId": "bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses a phrasal verb correctly?",
+        "bm": "Ayat manakah menggunakan kata kerja frasa dengan betul?"
+      },
+      "explanation": {
+        "en": "\"Run out of\" is a three-part phrasal verb kept together.",
+        "bm": "\"Run out of\" kata kerja frasa tiga bahagian yang tidak dipisahkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "We ran out of paper, so we bought more.",
+          "bm": "We ran out of paper, so we bought more."
+        },
+        {
+          "en": "We ran out paper of, so we bought more.",
+          "bm": "We ran out paper of, so we bought more."
+        },
+        {
+          "en": "We out ran of paper.",
+          "bm": "We out ran of paper."
+        },
+        {
+          "en": "We ran of out paper.",
+          "bm": "We ran of out paper."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q18",
+      "subtopicId": "bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The ___ of the new library brought joy to the community.\" Which word fits?",
+        "bm": "\"The ___ of the new library brought joy to the community.\" Perkataan manakah sesuai?"
+      },
+      "explanation": {
+        "en": "After \"the\" and before \"of\", a noun is needed.",
+        "bm": "Selepas \"the\" dan sebelum \"of\", kata nama diperlukan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "opening",
+          "bm": "opening"
+        },
+        {
+          "en": "open",
+          "bm": "open"
+        },
+        {
+          "en": "opened",
+          "bm": "opened"
+        },
+        {
+          "en": "openly",
+          "bm": "openly"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q19",
+      "subtopicId": "bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your friend writes: \"The haze has a big affect on our health.\" What should you suggest?",
+        "bm": "Rakan menulis: \"The haze has a big affect on our health.\" Apakah cadangan anda?"
+      },
+      "explanation": {
+        "en": "\"A big ___\" needs a noun → effect.",
+        "bm": "\"A big ___\" perlukan kata nama → effect."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Change \"affect\" to \"effect\" because a noun is needed",
+          "bm": "Tukar \"affect\" kepada \"effect\" kerana kata nama diperlukan"
+        },
+        {
+          "en": "No change",
+          "bm": "Tiada perubahan"
+        },
+        {
+          "en": "Change \"big\" to \"bigly\"",
+          "bm": "Tukar \"big\" kepada \"bigly\""
+        },
+        {
+          "en": "Remove \"has\"",
+          "bm": "Buang \"has\""
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bi-03-q20",
+      "subtopicId": "bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence sounds MOST natural?",
+        "bm": "Ayat manakah kedengaran PALING lazim?"
+      },
+      "explanation": {
+        "en": "\"Make a decision\" is the standard collocation.",
+        "bm": "\"Make a decision\" kolokasi yang standard."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "We need to make a decision soon.",
+          "bm": "We need to make a decision soon."
+        },
+        {
+          "en": "We need to do a decision soon.",
+          "bm": "We need to do a decision soon."
+        },
+        {
+          "en": "We need to take a deciding soon.",
+          "bm": "We need to take a deciding soon."
+        },
+        {
+          "en": "We need to have decide soon.",
+          "bm": "We need to have decide soon."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

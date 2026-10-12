@@ -1,0 +1,805 @@
+{
+  "chapterId": "pi-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "One forward button can spread a lie to a thousand phones in a minute. Islam gave a rule for checking news long before WhatsApp existed — it is called tabayyun.",
+      "bm": "Satu butang \"forward\" boleh menyebarkan pembohongan ke seribu telefon dalam seminit. Islam telah memberi peraturan menyemak berita lama sebelum WhatsApp wujud — ia dipanggil tabayyun."
+    },
+    "bigIdeas": [
+      {
+        "en": "Check news before believing or sharing it (tabayyun) — al-Hujurat: 6.",
+        "bm": "Selidiki berita sebelum mempercayai atau berkongsi (tabayyun) — al-Hujurat: 6."
+      },
+      {
+        "en": "Choose good friends: a friend can be like a perfume seller or a blacksmith (al-Bukhari, Muslim).",
+        "bm": "Pilih sahabat yang baik: sahabat seperti penjual minyak wangi atau tukang besi (al-Bukhari, Muslim)."
+      },
+      {
+        "en": "Good character (akhlak mahmudah) is the heaviest thing on the Mizan.",
+        "bm": "Akhlak terpuji (akhlak mahmudah) ialah perkara paling berat di neraca Mizan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Receive",
+              "bm": "Terima"
+            },
+            "detail": {
+              "en": "A message or news arrives",
+              "bm": "Mesej atau berita diterima"
+            }
+          },
+          {
+            "title": {
+              "en": "Pause",
+              "bm": "Berhenti"
+            },
+            "detail": {
+              "en": "Do not share immediately",
+              "bm": "Jangan kongsi serta-merta"
+            }
+          },
+          {
+            "title": {
+              "en": "Check",
+              "bm": "Semak"
+            },
+            "detail": {
+              "en": "Source, date, official confirmation",
+              "bm": "Sumber, tarikh, pengesahan rasmi"
+            }
+          },
+          {
+            "title": {
+              "en": "Decide",
+              "bm": "Putuskan"
+            },
+            "detail": {
+              "en": "Share only if true and beneficial",
+              "bm": "Kongsi hanya jika benar dan bermanfaat"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tabayyun",
+          "bm": "Tabayyun"
+        },
+        "definition": {
+          "en": "Verifying news before accepting or spreading it.",
+          "bm": "Menyelidik berita sebelum menerima atau menyebarkannya."
+        }
+      },
+      {
+        "term": {
+          "en": "Fitnah",
+          "bm": "Fitnah"
+        },
+        "definition": {
+          "en": "Spreading false accusations about someone.",
+          "bm": "Menyebarkan tuduhan palsu terhadap seseorang."
+        }
+      },
+      {
+        "term": {
+          "en": "Akhlak mahmudah",
+          "bm": "Akhlak mahmudah"
+        },
+        "definition": {
+          "en": "Praiseworthy character, e.g. honesty, patience, humility.",
+          "bm": "Akhlak terpuji, cth. jujur, sabar, rendah diri."
+        }
+      },
+      {
+        "term": {
+          "en": "Akhlak mazmumah",
+          "bm": "Akhlak mazmumah"
+        },
+        "definition": {
+          "en": "Blameworthy character, e.g. arrogance, envy, lying.",
+          "bm": "Akhlak tercela, cth. sombong, dengki, berbohong."
+        }
+      },
+      {
+        "term": {
+          "en": "Ithar",
+          "bm": "Ithar"
+        },
+        "definition": {
+          "en": "Putting others before oneself.",
+          "bm": "Mendahulukan orang lain daripada diri sendiri."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "You receive a message: \"School closed tomorrow — share now!\" What should you do?",
+        "bm": "Anda menerima mesej: \"Sekolah tutup esok — kongsi sekarang!\" Apakah yang patut dilakukan?"
+      },
+      "steps": [
+        {
+          "en": "Do not forward yet (pause).",
+          "bm": "Jangan majukan dahulu (berhenti)."
+        },
+        {
+          "en": "Check the school's official page or ask a teacher (check).",
+          "bm": "Semak laman rasmi sekolah atau tanya guru (semak)."
+        },
+        {
+          "en": "If false, tell the sender kindly; if true, share with the source (decide).",
+          "bm": "Jika palsu, beritahu penghantar dengan baik; jika benar, kongsi beserta sumber (putuskan)."
+        }
+      ],
+      "answer": {
+        "en": "This is tabayyun in action (al-Hujurat: 6).",
+        "bm": "Inilah amalan tabayyun (al-Hujurat: 6)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "pi-07-q01",
+      "subtopicId": "pi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Verifying news before sharing it is called…",
+        "bm": "Menyelidik berita sebelum berkongsi dipanggil…"
+      },
+      "explanation": {
+        "en": "Al-Hujurat: 6 commands believers to verify news from a fasiq.",
+        "bm": "Al-Hujurat: 6 memerintahkan orang beriman menyelidik berita daripada orang fasik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tabayyun",
+          "bm": "Tabayyun"
+        },
+        {
+          "en": "Ghibah",
+          "bm": "Ghibah"
+        },
+        {
+          "en": "Riak",
+          "bm": "Riak"
+        },
+        {
+          "en": "Ithar",
+          "bm": "Ithar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q02",
+      "subtopicId": "pi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which verse is the basis of tabayyun?",
+        "bm": "Ayat manakah menjadi asas tabayyun?"
+      },
+      "explanation": {
+        "en": "\"If a fasiq brings you news, verify it…\"",
+        "bm": "\"Jika datang kepada kamu orang fasik membawa berita, selidikilah…\""
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Al-Hujurat: 6",
+          "bm": "Al-Hujurat: 6"
+        },
+        {
+          "en": "Al-Fatihah: 1",
+          "bm": "Al-Fatihah: 1"
+        },
+        {
+          "en": "Al-Ikhlas: 1",
+          "bm": "Al-Ikhlas: 1"
+        },
+        {
+          "en": "An-Nas: 1",
+          "bm": "An-Nas: 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q03",
+      "subtopicId": "pi-07-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Spreading false accusations about someone is called ______.",
+        "bm": "Menyebarkan tuduhan palsu terhadap seseorang dipanggil ______."
+      },
+      "explanation": {
+        "en": "Fitnah is worse than ghibah because the claim is false.",
+        "bm": "Fitnah lebih buruk daripada ghibah kerana dakwaannya palsu."
+      },
+      "difficulty": 1,
+      "answer": [
+        "fitnah",
+        "slander"
+      ]
+    },
+    {
+      "id": "pi-07-q04",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the hadith, a good friend is compared to…",
+        "bm": "Dalam hadis, sahabat yang baik diumpamakan seperti…"
+      },
+      "explanation": {
+        "en": "Even if you buy nothing, you still smell the fragrance.",
+        "bm": "Walaupun tidak membeli, anda tetap mendapat bau harum."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a perfume seller",
+          "bm": "penjual minyak wangi"
+        },
+        {
+          "en": "a blacksmith",
+          "bm": "tukang besi"
+        },
+        {
+          "en": "a thief",
+          "bm": "pencuri"
+        },
+        {
+          "en": "a stranger",
+          "bm": "orang asing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q05",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A bad friend is compared to a blacksmith because…",
+        "bm": "Sahabat yang buruk diumpamakan seperti tukang besi kerana…"
+      },
+      "explanation": {
+        "en": "Bad company harms you even if you do not join in.",
+        "bm": "Sahabat buruk memudaratkan walaupun anda tidak terlibat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "you may get burned or smell the smoke",
+          "bm": "anda mungkin terbakar atau terhidu asap"
+        },
+        {
+          "en": "he gives gifts",
+          "bm": "dia memberi hadiah"
+        },
+        {
+          "en": "he teaches you",
+          "bm": "dia mengajar anda"
+        },
+        {
+          "en": "he is always quiet",
+          "bm": "dia sentiasa diam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q06",
+      "subtopicId": "pi-07-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Praiseworthy character is called akhlak ______.",
+        "bm": "Akhlak terpuji dipanggil akhlak ______."
+      },
+      "explanation": {
+        "en": "Blameworthy character is akhlak mazmumah.",
+        "bm": "Akhlak tercela ialah akhlak mazmumah."
+      },
+      "difficulty": 1,
+      "answer": [
+        "mahmudah"
+      ]
+    },
+    {
+      "id": "pi-07-q07",
+      "subtopicId": "pi-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is akhlak mazmumah?",
+        "bm": "Antara berikut, yang manakah akhlak mazmumah?"
+      },
+      "explanation": {
+        "en": "Takabbur is a blameworthy trait.",
+        "bm": "Takabbur ialah sifat tercela."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Arrogance (takabbur)",
+          "bm": "Sombong (takabbur)"
+        },
+        {
+          "en": "Patience",
+          "bm": "Sabar"
+        },
+        {
+          "en": "Honesty",
+          "bm": "Jujur"
+        },
+        {
+          "en": "Humility",
+          "bm": "Rendah diri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q08",
+      "subtopicId": "pi-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the heaviest thing on the Mizan, according to hadith?",
+        "bm": "Apakah perkara paling berat di neraca Mizan menurut hadis?"
+      },
+      "explanation": {
+        "en": "Narrated by Abu Dawud and at-Tirmizi.",
+        "bm": "Diriwayatkan oleh Abu Dawud dan at-Tirmizi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Good character",
+          "bm": "Akhlak yang baik"
+        },
+        {
+          "en": "Wealth",
+          "bm": "Harta"
+        },
+        {
+          "en": "Fame",
+          "bm": "Kemasyhuran"
+        },
+        {
+          "en": "Beauty",
+          "bm": "Kecantikan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q09",
+      "subtopicId": "pi-07-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL good etiquettes when using social media.",
+        "bm": "Pilih SEMUA adab yang baik ketika menggunakan media sosial."
+      },
+      "explanation": {
+        "en": "Exposing secrets is a form of betrayal.",
+        "bm": "Mendedahkan rahsia ialah satu bentuk khianat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Verify before sharing",
+          "bm": "Semak sebelum berkongsi"
+        },
+        {
+          "en": "Respect others' privacy",
+          "bm": "Hormati privasi orang lain"
+        },
+        {
+          "en": "Use polite language",
+          "bm": "Gunakan bahasa yang sopan"
+        },
+        {
+          "en": "Share others' secrets for likes",
+          "bm": "Kongsi rahsia orang untuk \"like\""
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "pi-07-q10",
+      "subtopicId": "pi-07-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the tabayyun steps.",
+        "bm": "Susun langkah tabayyun."
+      },
+      "explanation": {
+        "en": "Pause → check → confirm → decide.",
+        "bm": "Berhenti → semak → sahkan → putuskan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Pause before reacting",
+          "bm": "Berhenti sebelum bertindak"
+        },
+        {
+          "en": "Check the source",
+          "bm": "Semak sumber"
+        },
+        {
+          "en": "Confirm with an official party",
+          "bm": "Sahkan dengan pihak rasmi"
+        },
+        {
+          "en": "Share only if true and useful",
+          "bm": "Kongsi hanya jika benar dan bermanfaat"
+        }
+      ]
+    },
+    {
+      "id": "pi-07-q11",
+      "subtopicId": "pi-07-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each trait with its type.",
+        "bm": "Padankan sifat dengan jenisnya."
+      },
+      "explanation": {
+        "en": "Two are praiseworthy, two are blameworthy.",
+        "bm": "Dua terpuji, dua tercela."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Honesty (siddiq)",
+            "bm": "Jujur (siddiq)"
+          },
+          "right": {
+            "en": "Mahmudah",
+            "bm": "Mahmudah"
+          }
+        },
+        {
+          "left": {
+            "en": "Envy (hasad)",
+            "bm": "Dengki (hasad)"
+          },
+          "right": {
+            "en": "Mazmumah",
+            "bm": "Mazmumah"
+          }
+        },
+        {
+          "left": {
+            "en": "Patience (sabar)",
+            "bm": "Sabar"
+          },
+          "right": {
+            "en": "Mahmudah",
+            "bm": "Mahmudah"
+          }
+        },
+        {
+          "left": {
+            "en": "Lying (kizb)",
+            "bm": "Bohong (kizb)"
+          },
+          "right": {
+            "en": "Mazmumah",
+            "bm": "Mazmumah"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pi-07-q12",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a right of a friend in Islam?",
+        "bm": "Antara berikut, yang manakah hak sahabat dalam Islam?"
+      },
+      "explanation": {
+        "en": "Rights include answering salam, visiting the sick, accepting invitations, giving advice.",
+        "bm": "Hak termasuk menjawab salam, menziarahi yang sakit, memenuhi jemputan, memberi nasihat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Visiting him when he is sick",
+          "bm": "Menziarahinya ketika sakit"
+        },
+        {
+          "en": "Ignoring his salam",
+          "bm": "Mengabaikan salamnya"
+        },
+        {
+          "en": "Spreading his mistakes",
+          "bm": "Menyebarkan kesilapannya"
+        },
+        {
+          "en": "Avoiding his funeral",
+          "bm": "Mengelak jenazahnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q13",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"A person is upon the religion of his close friend\" teaches us to…",
+        "bm": "\"Seseorang itu mengikut agama sahabat karibnya\" mengajar kita supaya…"
+      },
+      "explanation": {
+        "en": "Narrated by Abu Dawud and at-Tirmizi.",
+        "bm": "Diriwayatkan oleh Abu Dawud dan at-Tirmizi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "choose friends carefully",
+          "bm": "memilih sahabat dengan teliti"
+        },
+        {
+          "en": "have no friends",
+          "bm": "tidak berkawan"
+        },
+        {
+          "en": "befriend only the rich",
+          "bm": "berkawan dengan orang kaya sahaja"
+        },
+        {
+          "en": "change friends weekly",
+          "bm": "menukar kawan setiap minggu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q14",
+      "subtopicId": "pi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Posting a photo of a friend without permission that embarrasses him breaks which etiquette?",
+        "bm": "Memuat naik gambar rakan tanpa izin yang memalukannya melanggar adab apa?"
+      },
+      "explanation": {
+        "en": "Islam protects a person's honour (maruah).",
+        "bm": "Islam melindungi maruah seseorang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Respecting privacy and dignity",
+          "bm": "Menghormati privasi dan maruah"
+        },
+        {
+          "en": "Giving salam",
+          "bm": "Memberi salam"
+        },
+        {
+          "en": "Eating with the right hand",
+          "bm": "Makan dengan tangan kanan"
+        },
+        {
+          "en": "Reading the Quran",
+          "bm": "Membaca al-Quran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q15",
+      "subtopicId": "pi-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST way to remove akhlak mazmumah?",
+        "bm": "Apakah cara TERBAIK untuk membuang akhlak mazmumah?"
+      },
+      "explanation": {
+        "en": "E.g. replace arrogance with humility (tawaduk).",
+        "bm": "Cth. gantikan sombong dengan rendah diri (tawaduk)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Recognise it, repent, and practise the opposite good trait",
+          "bm": "Mengenalinya, bertaubat dan mengamalkan sifat baik yang berlawanan"
+        },
+        {
+          "en": "Hide it",
+          "bm": "Menyembunyikannya"
+        },
+        {
+          "en": "Blame others",
+          "bm": "Menyalahkan orang lain"
+        },
+        {
+          "en": "Ignore it",
+          "bm": "Mengabaikannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q16",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Putting a friend's needs before your own is called…",
+        "bm": "Mendahulukan keperluan sahabat daripada diri sendiri dipanggil…"
+      },
+      "explanation": {
+        "en": "The Ansar are the best example of ithar.",
+        "bm": "Ansar contoh terbaik ithar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ithar",
+          "bm": "Ithar"
+        },
+        {
+          "en": "Riak",
+          "bm": "Riak"
+        },
+        {
+          "en": "Hasad",
+          "bm": "Hasad"
+        },
+        {
+          "en": "Takabbur",
+          "bm": "Takabbur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q17",
+      "subtopicId": "pi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A viral video accuses a shopkeeper of cheating, but there is no proof. What does Islam require?",
+        "bm": "Video tular menuduh peniaga menipu tanpa bukti. Apakah yang dituntut Islam?"
+      },
+      "explanation": {
+        "en": "Al-Hujurat: 6 warns that acting without checking leads to regret.",
+        "bm": "Al-Hujurat: 6 memberi amaran bahawa bertindak tanpa menyemak membawa penyesalan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Do not share; wait for verified facts, as you may harm an innocent person",
+          "bm": "Jangan kongsi; tunggu fakta yang disahkan kerana anda mungkin menganiaya orang yang tidak bersalah"
+        },
+        {
+          "en": "Share to warn everyone",
+          "bm": "Kongsi untuk memberi amaran kepada semua"
+        },
+        {
+          "en": "Add angry comments",
+          "bm": "Tambah komen marah"
+        },
+        {
+          "en": "Boycott at once",
+          "bm": "Pulaukan segera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q18",
+      "subtopicId": "pi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your close friend starts vaping and pressures you to try. What is the BEST action?",
+        "bm": "Sahabat karib anda mula merokok vape dan mendesak anda mencuba. Apakah tindakan TERBAIK?"
+      },
+      "explanation": {
+        "en": "A true friend advises (nasihat) — remember the blacksmith example.",
+        "bm": "Sahabat sejati menasihati — ingat perumpamaan tukang besi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Refuse firmly, advise him kindly, and seek help from a counsellor if needed",
+          "bm": "Menolak dengan tegas, menasihatinya dengan baik dan mendapatkan bantuan kaunselor jika perlu"
+        },
+        {
+          "en": "Try once to keep the friendship",
+          "bm": "Mencuba sekali untuk menjaga persahabatan"
+        },
+        {
+          "en": "Report him on social media",
+          "bm": "Melaporkannya di media sosial"
+        },
+        {
+          "en": "End all contact without a word",
+          "bm": "Memutuskan hubungan tanpa sepatah kata"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q19",
+      "subtopicId": "pi-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does Islam link good character so closely with faith?",
+        "bm": "Mengapakah Islam mengaitkan akhlak dengan iman dengan begitu rapat?"
+      },
+      "explanation": {
+        "en": "\"I was sent only to perfect good character.\" (al-Baihaqi, Ahmad)",
+        "bm": "\"Sesungguhnya aku diutus untuk menyempurnakan akhlak yang mulia.\" (al-Baihaqi, Ahmad)"
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "True faith shows in how we treat people; the Prophet ﷺ was sent to perfect character",
+          "bm": "Iman sebenar terzahir pada cara kita melayan manusia; Rasulullah ﷺ diutus untuk menyempurnakan akhlak"
+        },
+        {
+          "en": "Character does not matter if you pray",
+          "bm": "Akhlak tidak penting jika bersolat"
+        },
+        {
+          "en": "Faith is only in the heart",
+          "bm": "Iman hanya dalam hati"
+        },
+        {
+          "en": "Good character is only for adults",
+          "bm": "Akhlak baik hanya untuk orang dewasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-07-q20",
+      "subtopicId": "pi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which online habit BEST shows ihsan?",
+        "bm": "Tabiat dalam talian manakah PALING menunjukkan ihsan?"
+      },
+      "explanation": {
+        "en": "Anonymity does not hide anything from Allah.",
+        "bm": "Akaun tanpa nama tidak menyembunyikan apa-apa daripada Allah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Behaving the same online as offline because Allah sees everything",
+          "bm": "Berkelakuan sama di dalam dan luar talian kerana Allah melihat segalanya"
+        },
+        {
+          "en": "Using fake accounts to insult",
+          "bm": "Menggunakan akaun palsu untuk menghina"
+        },
+        {
+          "en": "Being polite only when known",
+          "bm": "Bersopan hanya apabila dikenali"
+        },
+        {
+          "en": "Deleting evidence of bad comments",
+          "bm": "Memadam bukti komen buruk"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

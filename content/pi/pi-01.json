@@ -1,0 +1,868 @@
+{
+  "chapterId": "pi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two people read the same verse. One stretches the sound for six beats, the other for two — and one of them has changed the meaning. Tajwid is the science of reading the Quran exactly as it was revealed.",
+      "bm": "Dua orang membaca ayat yang sama. Seorang memanjangkan bacaan enam harakat, seorang lagi dua harakat — dan salah seorang telah mengubah maknanya. Tajwid ialah ilmu membaca al-Quran tepat seperti yang diturunkan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Learning tajwid is fardu kifayah; reading the Quran with tajwid is fardu ain for every Muslim who reads it.",
+        "bm": "Mempelajari ilmu tajwid fardu kifayah; membaca al-Quran secara bertajwid fardu ain bagi setiap Muslim yang membacanya."
+      },
+      {
+        "en": "Mad means lengthening a sound. Mad asli is 2 harakat; mad far'i is longer because of a hamzah or sukun after it.",
+        "bm": "Mad bermaksud memanjangkan bunyi. Mad asli 2 harakat; mad far'i lebih panjang kerana hamzah atau sukun selepasnya."
+      },
+      {
+        "en": "Qalqalah is a bouncing sound on the letters ق ط ب ج د when they carry sukun.",
+        "bm": "Qalqalah ialah bunyi melantun pada huruf ق ط ب ج د apabila bertanda sukun."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Cause",
+            "bm": "Sebab"
+          },
+          {
+            "en": "Length (harakat)",
+            "bm": "Panjang (harakat)"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Mad asli (tabi'i)",
+              "bm": "Mad asli (tabi'i)"
+            },
+            "cells": [
+              {
+                "en": "No hamzah or sukun after the mad letter",
+                "bm": "Tiada hamzah atau sukun selepas huruf mad"
+              },
+              {
+                "en": "2",
+                "bm": "2"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mad wajib muttasil",
+              "bm": "Mad wajib muttasil"
+            },
+            "cells": [
+              {
+                "en": "Hamzah in the SAME word",
+                "bm": "Hamzah dalam perkataan YANG SAMA"
+              },
+              {
+                "en": "4 or 5",
+                "bm": "4 atau 5"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mad jaiz munfasil",
+              "bm": "Mad jaiz munfasil"
+            },
+            "cells": [
+              {
+                "en": "Hamzah at the start of the NEXT word",
+                "bm": "Hamzah di awal perkataan BERIKUTNYA"
+              },
+              {
+                "en": "2, 4 or 5",
+                "bm": "2, 4 atau 5"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mad 'arid lissukun",
+              "bm": "Mad 'arid lissukun"
+            },
+            "cells": [
+              {
+                "en": "Stopping (waqaf) after a mad letter",
+                "bm": "Berhenti (waqaf) selepas huruf mad"
+              },
+              {
+                "en": "2, 4 or 6",
+                "bm": "2, 4 atau 6"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mad lazim",
+              "bm": "Mad lazim"
+            },
+            "cells": [
+              {
+                "en": "Original sukun or syaddah after the mad letter",
+                "bm": "Sukun asli atau syaddah selepas huruf mad"
+              },
+              {
+                "en": "6",
+                "bm": "6"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tajwid",
+          "bm": "Tajwid"
+        },
+        "definition": {
+          "en": "The science of pronouncing every Quranic letter correctly with its rules.",
+          "bm": "Ilmu menyebut setiap huruf al-Quran dengan betul mengikut hukumnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Harakat",
+          "bm": "Harakat"
+        },
+        "definition": {
+          "en": "A unit of length, about the time to fold or open one finger.",
+          "bm": "Unit panjang bacaan, kira-kira tempoh melipat atau membuka satu jari."
+        }
+      },
+      {
+        "term": {
+          "en": "Mad letters",
+          "bm": "Huruf mad"
+        },
+        "definition": {
+          "en": "Alif after fathah, waw sukun after dhammah, ya sukun after kasrah.",
+          "bm": "Alif selepas fathah, wau sukun selepas dhammah, ya sukun selepas kasrah."
+        }
+      },
+      {
+        "term": {
+          "en": "Mad far'i",
+          "bm": "Mad far'i"
+        },
+        "definition": {
+          "en": "Lengthening beyond 2 harakat, caused by hamzah or sukun.",
+          "bm": "Panjang melebihi 2 harakat, disebabkan hamzah atau sukun."
+        }
+      },
+      {
+        "term": {
+          "en": "Qalqalah",
+          "bm": "Qalqalah"
+        },
+        "definition": {
+          "en": "Bouncing sound on ق ط ب ج د with sukun (qutbu jad).",
+          "bm": "Bunyi melantun pada ق ط ب ج د bersukun (qutbu jad)."
+        }
+      },
+      {
+        "term": {
+          "en": "Waqaf",
+          "bm": "Waqaf"
+        },
+        "definition": {
+          "en": "Stopping at the end of a word while reciting.",
+          "bm": "Berhenti pada hujung kalimah ketika membaca."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "How do you decide whether a mad is wajib muttasil or jaiz munfasil?",
+        "bm": "Bagaimanakah menentukan sama ada sesuatu mad itu wajib muttasil atau jaiz munfasil?"
+      },
+      "steps": [
+        {
+          "en": "Find the mad letter (e.g. alif after fathah).",
+          "bm": "Cari huruf mad (cth. alif selepas fathah)."
+        },
+        {
+          "en": "Look for a hamzah right after it.",
+          "bm": "Cari hamzah sejurus selepasnya."
+        },
+        {
+          "en": "Same word → wajib muttasil (4–5 harakat), e.g. جَاءَ.",
+          "bm": "Perkataan yang sama → wajib muttasil (4–5 harakat), cth. جَاءَ."
+        },
+        {
+          "en": "Next word → jaiz munfasil (2, 4 or 5 harakat), e.g. بِمَا أُنزِلَ.",
+          "bm": "Perkataan berikutnya → jaiz munfasil (2, 4 atau 5 harakat), cth. بِمَا أُنزِلَ."
+        }
+      ],
+      "answer": {
+        "en": "\"Muttasil\" = connected (same word); \"munfasil\" = separated (different words).",
+        "bm": "\"Muttasil\" = bersambung (satu kalimah); \"munfasil\" = terpisah (dua kalimah)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "pi-01-q01",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How long is mad asli (mad tabi'i)?",
+        "bm": "Berapakah panjang mad asli (mad tabi'i)?"
+      },
+      "explanation": {
+        "en": "Mad asli is always 2 harakat.",
+        "bm": "Mad asli sentiasa 2 harakat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2 harakat",
+          "bm": "2 harakat"
+        },
+        {
+          "en": "4 harakat",
+          "bm": "4 harakat"
+        },
+        {
+          "en": "6 harakat",
+          "bm": "6 harakat"
+        },
+        {
+          "en": "1 harakat",
+          "bm": "1 harakat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q02",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mad wajib muttasil happens when a mad letter is followed by a hamzah…",
+        "bm": "Mad wajib muttasil berlaku apabila huruf mad diikuti hamzah…"
+      },
+      "explanation": {
+        "en": "Muttasil means \"connected\" — the hamzah is in the same word, e.g. جَاءَ, السَّمَاءِ.",
+        "bm": "Muttasil bermaksud \"bersambung\" — hamzah dalam perkataan yang sama, cth. جَاءَ, السَّمَاءِ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "in the same word",
+          "bm": "dalam perkataan yang sama"
+        },
+        {
+          "en": "in the next word",
+          "bm": "dalam perkataan berikutnya"
+        },
+        {
+          "en": "with tanwin",
+          "bm": "bertanwin"
+        },
+        {
+          "en": "at the start of a surah",
+          "bm": "di awal surah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q03",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How long is mad lazim?",
+        "bm": "Berapakah panjang mad lazim?"
+      },
+      "explanation": {
+        "en": "Mad lazim is read 6 harakat, e.g. الضَّالِّينَ.",
+        "bm": "Mad lazim dibaca 6 harakat, cth. الضَّالِّينَ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "6 harakat",
+          "bm": "6 harakat"
+        },
+        {
+          "en": "2 harakat",
+          "bm": "2 harakat"
+        },
+        {
+          "en": "3 harakat",
+          "bm": "3 harakat"
+        },
+        {
+          "en": "5 harakat only",
+          "bm": "5 harakat sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q04",
+      "subtopicId": "pi-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The qalqalah letters are summarised in the phrase \"______ jad\".",
+        "bm": "Huruf qalqalah dihimpunkan dalam ungkapan \"______ jad\"."
+      },
+      "explanation": {
+        "en": "قُطْبُ جَدٍّ = ق ط ب ج د.",
+        "bm": "قُطْبُ جَدٍّ = ق ط ب ج د."
+      },
+      "difficulty": 1,
+      "answer": [
+        "qutbu",
+        "qutb",
+        "quthbu",
+        "qutub"
+      ]
+    },
+    {
+      "id": "pi-01-q05",
+      "subtopicId": "pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which letter is a qalqalah letter?",
+        "bm": "Huruf manakah huruf qalqalah?"
+      },
+      "explanation": {
+        "en": "The five letters are ق ط ب ج د.",
+        "bm": "Lima huruf qalqalah ialah ق ط ب ج د."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "د",
+          "bm": "د"
+        },
+        {
+          "en": "س",
+          "bm": "س"
+        },
+        {
+          "en": "م",
+          "bm": "م"
+        },
+        {
+          "en": "ل",
+          "bm": "ل"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q06",
+      "subtopicId": "pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Qalqalah kubra occurs when the qalqalah letter is…",
+        "bm": "Qalqalah kubra berlaku apabila huruf qalqalah…"
+      },
+      "explanation": {
+        "en": "Stopping on it gives a stronger bounce, e.g. الْفَلَقِ when stopping → الْفَلَقْ.",
+        "bm": "Berhenti padanya memberi lantunan lebih kuat, cth. الْفَلَقِ apabila waqaf → الْفَلَقْ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "at the end of a word where we stop",
+          "bm": "di hujung kalimah yang diwaqafkan"
+        },
+        {
+          "en": "in the middle of a word with sukun",
+          "bm": "di tengah kalimah bersukun"
+        },
+        {
+          "en": "carrying fathah",
+          "bm": "berbaris fathah"
+        },
+        {
+          "en": "doubled with syaddah in the middle",
+          "bm": "bersyaddah di tengah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q07",
+      "subtopicId": "pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a proper etiquette before reading the Quran?",
+        "bm": "Antara berikut, yang manakah adab sebelum membaca al-Quran?"
+      },
+      "explanation": {
+        "en": "Touching the mushaf requires wudu'; begin with a'uzubillahi minasy syaitanir rajim.",
+        "bm": "Menyentuh mushaf memerlukan wuduk; mulakan dengan a'uzubillahi minasy syaitanir rajim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Have wudu' and read ta'awwuz",
+          "bm": "Berwuduk dan membaca ta'awwuz"
+        },
+        {
+          "en": "Read while lying carelessly",
+          "bm": "Membaca sambil berbaring sambil lewa"
+        },
+        {
+          "en": "Place it on the floor",
+          "bm": "Meletakkannya di atas lantai"
+        },
+        {
+          "en": "Read as fast as possible",
+          "bm": "Membaca secepat mungkin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q08",
+      "subtopicId": "pi-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Reading the Quran slowly and clearly with tajwid is called ______.",
+        "bm": "Membaca al-Quran dengan perlahan dan jelas bertajwid dipanggil ______."
+      },
+      "explanation": {
+        "en": "Allah commands: \"and recite the Quran with tartil\" (al-Muzzammil: 4).",
+        "bm": "Allah berfirman: \"dan bacalah al-Quran dengan tartil\" (al-Muzzammil: 4)."
+      },
+      "difficulty": 1,
+      "answer": [
+        "tartil",
+        "tarteel"
+      ]
+    },
+    {
+      "id": "pi-01-q09",
+      "subtopicId": "pi-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each type of mad with its length.",
+        "bm": "Padankan jenis mad dengan panjangnya."
+      },
+      "explanation": {
+        "en": "Learn the lengths with the causes: hamzah → 4–5; sukun when stopping → 2/4/6; original sukun → 6.",
+        "bm": "Ingat panjang mengikut sebab: hamzah → 4–5; sukun kerana waqaf → 2/4/6; sukun asli → 6."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Mad asli",
+            "bm": "Mad asli"
+          },
+          "right": {
+            "en": "2 harakat",
+            "bm": "2 harakat"
+          }
+        },
+        {
+          "left": {
+            "en": "Mad wajib muttasil",
+            "bm": "Mad wajib muttasil"
+          },
+          "right": {
+            "en": "4 or 5 harakat",
+            "bm": "4 atau 5 harakat"
+          }
+        },
+        {
+          "left": {
+            "en": "Mad lazim",
+            "bm": "Mad lazim"
+          },
+          "right": {
+            "en": "6 harakat",
+            "bm": "6 harakat"
+          }
+        },
+        {
+          "left": {
+            "en": "Mad 'arid lissukun",
+            "bm": "Mad 'arid lissukun"
+          },
+          "right": {
+            "en": "2, 4 or 6 harakat",
+            "bm": "2, 4 atau 6 harakat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pi-01-q10",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stopping on نَسْتَعِينُ (reading نَسْتَعِينْ) produces which mad?",
+        "bm": "Berhenti pada نَسْتَعِينُ (dibaca نَسْتَعِينْ) menghasilkan mad apa?"
+      },
+      "explanation": {
+        "en": "The sukun appears only because of waqaf, so it is 'arid (temporary).",
+        "bm": "Sukun muncul hanya kerana waqaf, jadi ia 'arid (mendatang)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mad 'arid lissukun",
+          "bm": "Mad 'arid lissukun"
+        },
+        {
+          "en": "Mad lazim",
+          "bm": "Mad lazim"
+        },
+        {
+          "en": "Mad badal",
+          "bm": "Mad badal"
+        },
+        {
+          "en": "Mad wajib muttasil",
+          "bm": "Mad wajib muttasil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q11",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A hamzah that comes BEFORE a mad letter, e.g. ءَامَنُوا, gives…",
+        "bm": "Hamzah yang datang SEBELUM huruf mad, cth. ءَامَنُوا, menghasilkan…"
+      },
+      "explanation": {
+        "en": "Mad badal is read 2 harakat.",
+        "bm": "Mad badal dibaca 2 harakat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mad badal",
+          "bm": "Mad badal"
+        },
+        {
+          "en": "Mad jaiz munfasil",
+          "bm": "Mad jaiz munfasil"
+        },
+        {
+          "en": "Mad lin",
+          "bm": "Mad lin"
+        },
+        {
+          "en": "Mad 'iwad",
+          "bm": "Mad 'iwad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q12",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stopping on a word ending with tanwin fathah, e.g. عَلِيمًا → عَلِيمَا, is…",
+        "bm": "Berhenti pada kalimah bertanwin fathah, cth. عَلِيمًا → عَلِيمَا, ialah…"
+      },
+      "explanation": {
+        "en": "The tanwin is replaced by an alif, read 2 harakat.",
+        "bm": "Tanwin digantikan dengan alif, dibaca 2 harakat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mad 'iwad",
+          "bm": "Mad 'iwad"
+        },
+        {
+          "en": "Mad lazim",
+          "bm": "Mad lazim"
+        },
+        {
+          "en": "Mad silah",
+          "bm": "Mad silah"
+        },
+        {
+          "en": "Mad wajib muttasil",
+          "bm": "Mad wajib muttasil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q13",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Waw or ya with sukun preceded by fathah, e.g. خَوْف or بَيْت when stopping, is…",
+        "bm": "Wau atau ya bersukun didahului fathah, cth. خَوْف atau بَيْت ketika waqaf, ialah…"
+      },
+      "explanation": {
+        "en": "Mad lin is read 2, 4 or 6 harakat when stopping.",
+        "bm": "Mad lin dibaca 2, 4 atau 6 harakat ketika waqaf."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mad lin",
+          "bm": "Mad lin"
+        },
+        {
+          "en": "Mad asli",
+          "bm": "Mad asli"
+        },
+        {
+          "en": "Mad badal",
+          "bm": "Mad badal"
+        },
+        {
+          "en": "Mad 'iwad",
+          "bm": "Mad 'iwad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q14",
+      "subtopicId": "pi-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL words that contain a qalqalah letter with sukun.",
+        "bm": "Pilih SEMUA kalimah yang mengandungi huruf qalqalah bersukun."
+      },
+      "explanation": {
+        "en": "ق in يَقْطَعُونَ, ب in أَبْوَابٌ and ج in يَجْعَلُونَ have sukun. س is not a qalqalah letter.",
+        "bm": "ق dalam يَقْطَعُونَ, ب dalam أَبْوَابٌ dan ج dalam يَجْعَلُونَ bersukun. س bukan huruf qalqalah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "يَقْطَعُونَ",
+          "bm": "يَقْطَعُونَ"
+        },
+        {
+          "en": "أَبْوَابٌ",
+          "bm": "أَبْوَابٌ"
+        },
+        {
+          "en": "يَجْعَلُونَ",
+          "bm": "يَجْعَلُونَ"
+        },
+        {
+          "en": "يَسْمَعُونَ",
+          "bm": "يَسْمَعُونَ"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "pi-01-q15",
+      "subtopicId": "pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The letter ra' is read thick (tafkhim) when it carries…",
+        "bm": "Huruf ra' dibaca tebal (tafkhim) apabila berbaris…"
+      },
+      "explanation": {
+        "en": "Ra' with fathah/dhammah is thick; with kasrah it is thin (tarqiq).",
+        "bm": "Ra' berbaris fathah/dhammah dibaca tebal; berbaris kasrah dibaca nipis (tarqiq)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "fathah or dhammah",
+          "bm": "fathah atau dhammah"
+        },
+        {
+          "en": "kasrah",
+          "bm": "kasrah"
+        },
+        {
+          "en": "nothing ever",
+          "bm": "tiada langsung"
+        },
+        {
+          "en": "only syaddah with kasrah",
+          "bm": "syaddah berbaris kasrah sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q16",
+      "subtopicId": "pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement about the ruling of learning tajwid is correct?",
+        "bm": "Pernyataan manakah yang betul tentang hukum mempelajari tajwid?"
+      },
+      "explanation": {
+        "en": "Every reader must read correctly, even without knowing the technical names.",
+        "bm": "Setiap pembaca wajib membaca dengan betul walaupun tidak mengetahui nama istilahnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Learning its theory is fardu kifayah; practising it while reading is fardu ain",
+          "bm": "Mempelajari teorinya fardu kifayah; mengamalkannya ketika membaca fardu ain"
+        },
+        {
+          "en": "It is only sunat",
+          "bm": "Hanya sunat"
+        },
+        {
+          "en": "It is makruh",
+          "bm": "Makruh"
+        },
+        {
+          "en": "It is required only for imams",
+          "bm": "Wajib hanya untuk imam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q17",
+      "subtopicId": "pi-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these mad from shortest to longest standard length.",
+        "bm": "Susun mad ini daripada paling pendek hingga paling panjang mengikut kadar biasa."
+      },
+      "explanation": {
+        "en": "2 → 4–5 → 6.",
+        "bm": "2 → 4–5 → 6."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Mad asli (2)",
+          "bm": "Mad asli (2)"
+        },
+        {
+          "en": "Mad wajib muttasil (4–5)",
+          "bm": "Mad wajib muttasil (4–5)"
+        },
+        {
+          "en": "Mad lazim (6)",
+          "bm": "Mad lazim (6)"
+        }
+      ]
+    },
+    {
+      "id": "pi-01-q18",
+      "subtopicId": "pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A reader reads جَاءَ with only 2 harakat. What is the problem?",
+        "bm": "Seorang pembaca membaca جَاءَ dengan 2 harakat sahaja. Apakah masalahnya?"
+      },
+      "explanation": {
+        "en": "As the name \"wajib\" shows, it must be lengthened.",
+        "bm": "Seperti namanya \"wajib\", ia mesti dipanjangkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Mad wajib muttasil must be read 4–5 harakat, so the reading is incorrect",
+          "bm": "Mad wajib muttasil mesti dibaca 4–5 harakat, jadi bacaan itu salah"
+        },
+        {
+          "en": "No problem; 2 is always correct",
+          "bm": "Tiada masalah; 2 sentiasa betul"
+        },
+        {
+          "en": "It should be 6 harakat as mad lazim",
+          "bm": "Sepatutnya 6 harakat sebagai mad lazim"
+        },
+        {
+          "en": "Mad cannot appear in this word",
+          "bm": "Tiada mad dalam kalimah ini"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q19",
+      "subtopicId": "pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it important to read qalqalah clearly?",
+        "bm": "Mengapakah penting membaca qalqalah dengan jelas?"
+      },
+      "explanation": {
+        "en": "These letters are \"strong\"; with sukun they need a bounce to be heard correctly.",
+        "bm": "Huruf-huruf ini \"kuat\"; ketika bersukun ia perlu dilantunkan supaya didengar dengan betul."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Without the bounce, a letter with sukun can be lost or sound like a different word",
+          "bm": "Tanpa lantunan, huruf bersukun boleh hilang atau berbunyi seperti kalimah lain"
+        },
+        {
+          "en": "It makes reading faster",
+          "bm": "Menjadikan bacaan lebih cepat"
+        },
+        {
+          "en": "It is only for decoration",
+          "bm": "Hanya hiasan"
+        },
+        {
+          "en": "It replaces wudu'",
+          "bm": "Menggantikan wuduk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-01-q20",
+      "subtopicId": "pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your friend recites beautifully but often skips tajwid to finish fast. What is the BEST advice?",
+        "bm": "Rakan anda membaca dengan merdu tetapi sering mengabaikan tajwid untuk cepat habis. Apakah nasihat TERBAIK?"
+      },
+      "explanation": {
+        "en": "Errors that change meaning (lahn jali) are sinful; good melody cannot cover them.",
+        "bm": "Kesalahan yang mengubah makna (lahn jali) berdosa; lagu yang merdu tidak dapat menutupinya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Read with tartil — correctness comes before speed and melody",
+          "bm": "Bacalah dengan tartil — ketepatan didahulukan daripada kelajuan dan lagu"
+        },
+        {
+          "en": "Melody matters more than tajwid",
+          "bm": "Lagu lebih penting daripada tajwid"
+        },
+        {
+          "en": "Stop reading altogether",
+          "bm": "Berhenti membaca terus"
+        },
+        {
+          "en": "Read only in your heart",
+          "bm": "Baca dalam hati sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

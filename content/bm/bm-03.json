@@ -1,0 +1,865 @@
+{
+  "chapterId": "bm-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Buku itu dibaca oleh saya\" sounds fine to many students — but it is wrong. Malay passive sentences have a special rule for \"saya\", \"kami\" and \"awak\".",
+      "bm": "\"Buku itu dibaca oleh saya\" kedengaran betul bagi ramai pelajar — tetapi ia salah. Ayat pasif bahasa Melayu ada peraturan khas untuk \"saya\", \"kami\" dan \"awak\"."
+    },
+    "bigIdeas": [
+      {
+        "en": "Every basic sentence = subjek + predikat, in four patterns: FN+FN, FN+FK, FN+FA, FN+FS.",
+        "bm": "Setiap ayat dasar = subjek + predikat, dalam empat pola: FN+FN, FN+FK, FN+FA, FN+FS."
+      },
+      {
+        "en": "Compound sentences join clauses using conjunctions: gabungan (dan, tetapi), pancangan (yang, bahawa, kerana).",
+        "bm": "Ayat majmuk menggabungkan klausa dengan kata hubung: gabungan (dan, tetapi), pancangan (yang, bahawa, kerana)."
+      },
+      {
+        "en": "Passive with 1st/2nd-person pronouns has no \"di-\" and no \"oleh\": \"Buku itu saya baca.\"",
+        "bm": "Ayat pasif dengan ganti nama diri pertama/kedua tidak menggunakan \"di-\" dan \"oleh\": \"Buku itu saya baca.\""
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Pattern",
+            "bm": "Pola"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "FN + FN",
+              "bm": "FN + FN"
+            },
+            "cells": [
+              {
+                "en": "Noun phrase predicate",
+                "bm": "Predikat frasa nama"
+              },
+              {
+                "en": "Encik Ahmad guru sejarah.",
+                "bm": "Encik Ahmad guru sejarah."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "FN + FK",
+              "bm": "FN + FK"
+            },
+            "cells": [
+              {
+                "en": "Verb phrase predicate",
+                "bm": "Predikat frasa kerja"
+              },
+              {
+                "en": "Adik menangis.",
+                "bm": "Adik menangis."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "FN + FA",
+              "bm": "FN + FA"
+            },
+            "cells": [
+              {
+                "en": "Adjective phrase predicate",
+                "bm": "Predikat frasa adjektif"
+              },
+              {
+                "en": "Bunga itu sangat harum.",
+                "bm": "Bunga itu sangat harum."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "FN + FS",
+              "bm": "FN + FS"
+            },
+            "cells": [
+              {
+                "en": "Prepositional phrase predicate",
+                "bm": "Predikat frasa sendi nama"
+              },
+              {
+                "en": "Ayah ke pejabat.",
+                "bm": "Ayah ke pejabat."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Subjek",
+          "bm": "Subjek"
+        },
+        "definition": {
+          "en": "What the sentence is about.",
+          "bm": "Perkara yang diterangkan dalam ayat."
+        }
+      },
+      {
+        "term": {
+          "en": "Predikat",
+          "bm": "Predikat"
+        },
+        "definition": {
+          "en": "What is said about the subject.",
+          "bm": "Bahagian yang menerangkan subjek."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat majmuk gabungan",
+          "bm": "Ayat majmuk gabungan"
+        },
+        "definition": {
+          "en": "Two equal clauses joined by dan, tetapi, atau, lalu.",
+          "bm": "Dua klausa setara dicantumkan dengan dan, tetapi, atau, lalu."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat majmuk pancangan",
+          "bm": "Ayat majmuk pancangan"
+        },
+        "definition": {
+          "en": "A main clause with a dependent clause: relatif (yang), komplemen (bahawa), keterangan (kerana, apabila).",
+          "bm": "Klausa utama dengan klausa kecil: relatif (yang), komplemen (bahawa), keterangan (kerana, apabila)."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat pasif",
+          "bm": "Ayat pasif"
+        },
+        "definition": {
+          "en": "The object becomes the subject: \"Surat itu ditulis oleh Ali.\"",
+          "bm": "Objek menjadi subjek: \"Surat itu ditulis oleh Ali.\""
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat songsang",
+          "bm": "Ayat songsang"
+        },
+        "definition": {
+          "en": "Predicate comes before the subject: \"Cantik sungguh pemandangan itu.\"",
+          "bm": "Predikat mendahului subjek: \"Cantik sungguh pemandangan itu.\""
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Change into a passive sentence: \"Saya membeli buku itu.\"",
+        "bm": "Tukarkan kepada ayat pasif: \"Saya membeli buku itu.\""
+      },
+      "steps": [
+        {
+          "en": "Move the object to the front: \"Buku itu…\"",
+          "bm": "Bawa objek ke hadapan: \"Buku itu…\""
+        },
+        {
+          "en": "The doer is \"saya\" (1st person) → no \"di-\", no \"oleh\".",
+          "bm": "Pelaku \"saya\" (diri pertama) → tiada \"di-\", tiada \"oleh\"."
+        },
+        {
+          "en": "Place the pronoun directly before the root verb: \"saya beli\".",
+          "bm": "Letakkan ganti nama terus sebelum kata kerja dasar: \"saya beli\"."
+        }
+      ],
+      "answer": {
+        "en": "Buku itu saya beli.",
+        "bm": "Buku itu saya beli."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "bm-03-q01",
+      "subtopicId": "bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Adik menangis.\" follows which pattern?",
+        "bm": "\"Adik menangis.\" mengikut pola apa?"
+      },
+      "explanation": {
+        "en": "Predicate \"menangis\" is a frasa kerja.",
+        "bm": "Predikat \"menangis\" frasa kerja."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "FN + FK",
+          "bm": "FN + FK"
+        },
+        {
+          "en": "FN + FN",
+          "bm": "FN + FN"
+        },
+        {
+          "en": "FN + FA",
+          "bm": "FN + FA"
+        },
+        {
+          "en": "FN + FS",
+          "bm": "FN + FS"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q02",
+      "subtopicId": "bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Bunga itu harum.\" follows which pattern?",
+        "bm": "\"Bunga itu harum.\" mengikut pola apa?"
+      },
+      "explanation": {
+        "en": "\"Harum\" is an adjective.",
+        "bm": "\"Harum\" adjektif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "FN + FA",
+          "bm": "FN + FA"
+        },
+        {
+          "en": "FN + FK",
+          "bm": "FN + FK"
+        },
+        {
+          "en": "FN + FN",
+          "bm": "FN + FN"
+        },
+        {
+          "en": "FN + FS",
+          "bm": "FN + FS"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q03",
+      "subtopicId": "bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Ayah ke pejabat.\" follows which pattern?",
+        "bm": "\"Ayah ke pejabat.\" mengikut pola apa?"
+      },
+      "explanation": {
+        "en": "\"Ke pejabat\" is a frasa sendi nama.",
+        "bm": "\"Ke pejabat\" frasa sendi nama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "FN + FS",
+          "bm": "FN + FS"
+        },
+        {
+          "en": "FN + FA",
+          "bm": "FN + FA"
+        },
+        {
+          "en": "FN + FN",
+          "bm": "FN + FN"
+        },
+        {
+          "en": "FN + FK",
+          "bm": "FN + FK"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q04",
+      "subtopicId": "bm-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A sentence has two parts: subjek and ______.",
+        "bm": "Ayat terdiri daripada dua bahagian: subjek dan ______."
+      },
+      "explanation": {
+        "en": "Subjek + predikat.",
+        "bm": "Subjek + predikat."
+      },
+      "difficulty": 1,
+      "answer": [
+        "predikat",
+        "predicate"
+      ]
+    },
+    {
+      "id": "bm-03-q05",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an ayat majmuk gabungan?",
+        "bm": "Antara berikut, yang manakah ayat majmuk gabungan?"
+      },
+      "explanation": {
+        "en": "Two equal clauses joined by \"dan\".",
+        "bm": "Dua klausa setara dicantumkan dengan \"dan\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ali membaca dan Ahmad menulis.",
+          "bm": "Ali membaca dan Ahmad menulis."
+        },
+        {
+          "en": "Ali membaca.",
+          "bm": "Ali membaca."
+        },
+        {
+          "en": "Ali yang rajin itu membaca.",
+          "bm": "Ali yang rajin itu membaca."
+        },
+        {
+          "en": "Membaca Ali.",
+          "bm": "Membaca Ali."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q06",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which conjunction forms an ayat majmuk pancangan relatif?",
+        "bm": "Kata hubung manakah membentuk ayat majmuk pancangan relatif?"
+      },
+      "explanation": {
+        "en": "\"Yang\" introduces a relative clause.",
+        "bm": "\"Yang\" memperkenalkan klausa relatif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "yang",
+          "bm": "yang"
+        },
+        {
+          "en": "dan",
+          "bm": "dan"
+        },
+        {
+          "en": "tetapi",
+          "bm": "tetapi"
+        },
+        {
+          "en": "atau",
+          "bm": "atau"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q07",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a correct passive sentence?",
+        "bm": "Antara berikut, yang manakah ayat pasif yang betul?"
+      },
+      "explanation": {
+        "en": "1st-person passive: pronoun + root verb, no di- and no oleh.",
+        "bm": "Pasif diri pertama: ganti nama + kata kerja dasar, tanpa di- dan oleh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Buku itu saya baca.",
+          "bm": "Buku itu saya baca."
+        },
+        {
+          "en": "Buku itu dibaca oleh saya.",
+          "bm": "Buku itu dibaca oleh saya."
+        },
+        {
+          "en": "Buku itu dibaca saya.",
+          "bm": "Buku itu dibaca saya."
+        },
+        {
+          "en": "Buku itu saya dibaca.",
+          "bm": "Buku itu saya dibaca."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q08",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is an ayat songsang?",
+        "bm": "Ayat manakah ayat songsang?"
+      },
+      "explanation": {
+        "en": "The predicate \"cantik sungguh\" comes before the subject.",
+        "bm": "Predikat \"cantik sungguh\" mendahului subjek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Cantik sungguh pemandangan itu.",
+          "bm": "Cantik sungguh pemandangan itu."
+        },
+        {
+          "en": "Pemandangan itu cantik.",
+          "bm": "Pemandangan itu cantik."
+        },
+        {
+          "en": "Pemandangan itu sungguh cantik.",
+          "bm": "Pemandangan itu sungguh cantik."
+        },
+        {
+          "en": "Kami melihat pemandangan yang cantik.",
+          "bm": "Kami melihat pemandangan yang cantik."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q09",
+      "subtopicId": "bm-03-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange to form a correct passive sentence.",
+        "bm": "Susun untuk membentuk ayat pasif yang betul."
+      },
+      "explanation": {
+        "en": "Third-person passive uses di- + oleh: Surat itu ditulis oleh Kak Siti.",
+        "bm": "Pasif diri ketiga menggunakan di- + oleh: Surat itu ditulis oleh Kak Siti."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Surat itu",
+          "bm": "Surat itu"
+        },
+        {
+          "en": "ditulis",
+          "bm": "ditulis"
+        },
+        {
+          "en": "oleh",
+          "bm": "oleh"
+        },
+        {
+          "en": "Kak Siti",
+          "bm": "Kak Siti"
+        }
+      ]
+    },
+    {
+      "id": "bm-03-q10",
+      "subtopicId": "bm-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each sentence with its pattern.",
+        "bm": "Padankan ayat dengan polanya."
+      },
+      "explanation": {
+        "en": "Identify the head of the predicate.",
+        "bm": "Kenal pasti inti predikat."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Beliau doktor pakar.",
+            "bm": "Beliau doktor pakar."
+          },
+          "right": {
+            "en": "FN + FN",
+            "bm": "FN + FN"
+          }
+        },
+        {
+          "left": {
+            "en": "Murid-murid berlari.",
+            "bm": "Murid-murid berlari."
+          },
+          "right": {
+            "en": "FN + FK",
+            "bm": "FN + FK"
+          }
+        },
+        {
+          "left": {
+            "en": "Air sungai itu jernih.",
+            "bm": "Air sungai itu jernih."
+          },
+          "right": {
+            "en": "FN + FA",
+            "bm": "FN + FA"
+          }
+        },
+        {
+          "left": {
+            "en": "Hadiah itu untuk ibu.",
+            "bm": "Hadiah itu untuk ibu."
+          },
+          "right": {
+            "en": "FN + FS",
+            "bm": "FN + FS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bm-03-q11",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Dia tidak hadir kerana demam.\" is an ayat majmuk…",
+        "bm": "\"Dia tidak hadir kerana demam.\" ialah ayat majmuk…"
+      },
+      "explanation": {
+        "en": "\"Kerana demam\" explains the reason — an adverbial clause.",
+        "bm": "\"Kerana demam\" menerangkan sebab — klausa keterangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pancangan keterangan",
+          "bm": "pancangan keterangan"
+        },
+        {
+          "en": "gabungan",
+          "bm": "gabungan"
+        },
+        {
+          "en": "pancangan relatif",
+          "bm": "pancangan relatif"
+        },
+        {
+          "en": "songsang",
+          "bm": "songsang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q12",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Guru itu berkata bahawa ujian ditunda.\" is an ayat majmuk pancangan…",
+        "bm": "\"Guru itu berkata bahawa ujian ditunda.\" ialah ayat majmuk pancangan…"
+      },
+      "explanation": {
+        "en": "\"Bahawa\" introduces a complement clause.",
+        "bm": "\"Bahawa\" memperkenalkan klausa komplemen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "komplemen",
+          "bm": "komplemen"
+        },
+        {
+          "en": "relatif",
+          "bm": "relatif"
+        },
+        {
+          "en": "keterangan",
+          "bm": "keterangan"
+        },
+        {
+          "en": "gabungan",
+          "bm": "gabungan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q13",
+      "subtopicId": "bm-03-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct passive sentences.",
+        "bm": "Pilih SEMUA ayat pasif yang betul."
+      },
+      "explanation": {
+        "en": "\"dibina oleh kami\" is wrong: use \"kami bina\".",
+        "bm": "\"dibina oleh kami\" salah: gunakan \"kami bina\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kereta itu dibasuh oleh ayah.",
+          "bm": "Kereta itu dibasuh oleh ayah."
+        },
+        {
+          "en": "Kerja itu kami siapkan semalam.",
+          "bm": "Kerja itu kami siapkan semalam."
+        },
+        {
+          "en": "Soalan itu awak jawab dengan baik.",
+          "bm": "Soalan itu awak jawab dengan baik."
+        },
+        {
+          "en": "Rumah itu dibina oleh kami.",
+          "bm": "Rumah itu dibina oleh kami."
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bm-03-q14",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to active: \"Bola itu ditendang oleh Hafiz.\"",
+        "bm": "Tukarkan kepada aktif: \"Bola itu ditendang oleh Hafiz.\""
+      },
+      "explanation": {
+        "en": "Doer becomes subject; di- becomes meN-.",
+        "bm": "Pelaku menjadi subjek; di- menjadi meN-."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Hafiz menendang bola itu.",
+          "bm": "Hafiz menendang bola itu."
+        },
+        {
+          "en": "Hafiz ditendang bola itu.",
+          "bm": "Hafiz ditendang bola itu."
+        },
+        {
+          "en": "Bola itu menendang Hafiz.",
+          "bm": "Bola itu menendang Hafiz."
+        },
+        {
+          "en": "Hafiz tendang oleh bola itu.",
+          "bm": "Hafiz tendang oleh bola itu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q15",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"yang\" correctly?",
+        "bm": "Ayat manakah menggunakan \"yang\" dengan betul?"
+      },
+      "explanation": {
+        "en": "\"Yang\" comes right after the noun it describes.",
+        "bm": "\"Yang\" hadir sejurus selepas kata nama yang diterangkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Murid yang menang itu menerima hadiah.",
+          "bm": "Murid yang menang itu menerima hadiah."
+        },
+        {
+          "en": "Yang murid menang itu menerima hadiah.",
+          "bm": "Yang murid menang itu menerima hadiah."
+        },
+        {
+          "en": "Murid menang yang itu menerima hadiah.",
+          "bm": "Murid menang yang itu menerima hadiah."
+        },
+        {
+          "en": "Murid itu yang yang menang.",
+          "bm": "Murid itu yang yang menang."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q16",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a correct \"ter-\" passive sentence?",
+        "bm": "Antara berikut, yang manakah ayat pasif \"ter-\" yang betul?"
+      },
+      "explanation": {
+        "en": "\"Ter-\" shows an action that happens by itself or accidentally.",
+        "bm": "\"Ter-\" menunjukkan perbuatan yang berlaku dengan sendiri atau tidak sengaja."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Pintu itu terbuka luas.",
+          "bm": "Pintu itu terbuka luas."
+        },
+        {
+          "en": "Pintu itu terbuka oleh saya.",
+          "bm": "Pintu itu terbuka oleh saya."
+        },
+        {
+          "en": "Saya terbuka pintu itu.",
+          "bm": "Saya terbuka pintu itu."
+        },
+        {
+          "en": "Pintu terbuka itu saya.",
+          "bm": "Pintu terbuka itu saya."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q17",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is grammatically WRONG?",
+        "bm": "Ayat manakah SALAH dari segi tatabahasa?"
+      },
+      "explanation": {
+        "en": "\"Disemak oleh saya\" breaks the 1st-person passive rule; aspect words like \"telah\" come before the pronoun.",
+        "bm": "\"Disemak oleh saya\" melanggar peraturan pasif diri pertama; kata bantu seperti \"telah\" hadir sebelum ganti nama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Laporan itu telah disemak oleh saya.",
+          "bm": "Laporan itu telah disemak oleh saya."
+        },
+        {
+          "en": "Laporan itu telah saya semak.",
+          "bm": "Laporan itu telah saya semak."
+        },
+        {
+          "en": "Laporan itu telah disemak oleh guru.",
+          "bm": "Laporan itu telah disemak oleh guru."
+        },
+        {
+          "en": "Guru telah menyemak laporan itu.",
+          "bm": "Guru telah menyemak laporan itu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q18",
+      "subtopicId": "bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Combine using pancangan relatif: \"Pelajar itu cemerlang.\" + \"Pelajar itu mewakili sekolah.\"",
+        "bm": "Gabungkan secara pancangan relatif: \"Pelajar itu cemerlang.\" + \"Pelajar itu mewakili sekolah.\""
+      },
+      "explanation": {
+        "en": "Turn one sentence into a \"yang\" clause describing the shared noun.",
+        "bm": "Jadikan satu ayat sebagai klausa \"yang\" yang menerangkan kata nama yang dikongsi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Pelajar yang cemerlang itu mewakili sekolah.",
+          "bm": "Pelajar yang cemerlang itu mewakili sekolah."
+        },
+        {
+          "en": "Pelajar itu cemerlang dan pelajar itu mewakili sekolah.",
+          "bm": "Pelajar itu cemerlang dan pelajar itu mewakili sekolah."
+        },
+        {
+          "en": "Pelajar itu cemerlang kerana mewakili sekolah.",
+          "bm": "Pelajar itu cemerlang kerana mewakili sekolah."
+        },
+        {
+          "en": "Cemerlang pelajar itu mewakili sekolah.",
+          "bm": "Cemerlang pelajar itu mewakili sekolah."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q19",
+      "subtopicId": "bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is \"Kucing itu sedang tidur di atas sofa.\" still a basic pattern FN + FK?",
+        "bm": "Mengapakah \"Kucing itu sedang tidur di atas sofa.\" masih pola dasar FN + FK?"
+      },
+      "explanation": {
+        "en": "Find the head (inti) of the predicate to decide the pattern.",
+        "bm": "Cari inti predikat untuk menentukan pola."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The head of the predicate is the verb \"tidur\"; \"sedang\" and \"di atas sofa\" are extras",
+          "bm": "Inti predikat ialah kata kerja \"tidur\"; \"sedang\" dan \"di atas sofa\" hanyalah tambahan"
+        },
+        {
+          "en": "Because \"sofa\" is a noun",
+          "bm": "Kerana \"sofa\" kata nama"
+        },
+        {
+          "en": "Because it has a preposition",
+          "bm": "Kerana ada kata sendi"
+        },
+        {
+          "en": "It is not a sentence",
+          "bm": "Ia bukan ayat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "bm-03-q20",
+      "subtopicId": "bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which pronoun requires \"di-…oleh\" in a passive sentence?",
+        "bm": "Ganti nama manakah memerlukan \"di-…oleh\" dalam ayat pasif?"
+      },
+      "explanation": {
+        "en": "Third person (dia, beliau, mereka, nouns) uses di-…oleh; 1st and 2nd do not.",
+        "bm": "Diri ketiga (dia, beliau, mereka, kata nama) menggunakan di-…oleh; diri pertama dan kedua tidak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "mereka",
+          "bm": "mereka"
+        },
+        {
+          "en": "saya",
+          "bm": "saya"
+        },
+        {
+          "en": "kami",
+          "bm": "kami"
+        },
+        {
+          "en": "awak",
+          "bm": "awak"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

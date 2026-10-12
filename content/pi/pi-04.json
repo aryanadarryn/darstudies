@@ -1,0 +1,823 @@
+{
+  "chapterId": "pi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You studied hard but still scored lower than expected. Is it fate, or your fault — and how should a Muslim feel? Understanding qada' and qadar answers this.",
+      "bm": "Anda belajar bersungguh-sungguh tetapi markah tetap lebih rendah daripada jangkaan. Adakah ini takdir atau salah anda — dan bagaimanakah seorang Muslim patut berasa? Memahami qada' dan qadar menjawab persoalan ini."
+    },
+    "bigIdeas": [
+      {
+        "en": "Belief in qada' and qadar is the sixth pillar of iman: everything happens by Allah's knowledge and will.",
+        "bm": "Beriman kepada qada' dan qadar ialah rukun iman keenam: segala-galanya berlaku dengan ilmu dan kehendak Allah."
+      },
+      {
+        "en": "This belief goes together with effort (ikhtiar), prayer (doa) and trust (tawakal).",
+        "bm": "Kepercayaan ini seiring dengan usaha (ikhtiar), doa dan tawakal."
+      },
+      {
+        "en": "Syirik, khurafat and sihir damage aqidah; belief in the Last Day guides our actions.",
+        "bm": "Syirik, khurafat dan sihir merosakkan akidah; beriman kepada hari akhirat membimbing tindakan kita."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Ikhtiar",
+              "bm": "Ikhtiar"
+            },
+            "detail": {
+              "en": "Plan and work hard",
+              "bm": "Merancang dan berusaha bersungguh-sungguh"
+            }
+          },
+          {
+            "title": {
+              "en": "Doa",
+              "bm": "Doa"
+            },
+            "detail": {
+              "en": "Ask Allah for help",
+              "bm": "Memohon pertolongan Allah"
+            }
+          },
+          {
+            "title": {
+              "en": "Tawakal",
+              "bm": "Tawakal"
+            },
+            "detail": {
+              "en": "Leave the result to Allah",
+              "bm": "Menyerahkan keputusan kepada Allah"
+            }
+          },
+          {
+            "title": {
+              "en": "Redha",
+              "bm": "Redha"
+            },
+            "detail": {
+              "en": "Accept the outcome with patience or gratitude",
+              "bm": "Menerima keputusan dengan sabar atau syukur"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Qada'",
+          "bm": "Qada'"
+        },
+        "definition": {
+          "en": "Allah's decree and will from eternity (azali).",
+          "bm": "Ketetapan dan kehendak Allah sejak azali."
+        }
+      },
+      {
+        "term": {
+          "en": "Qadar",
+          "bm": "Qadar"
+        },
+        "definition": {
+          "en": "The happening of things according to Allah's decree and measure.",
+          "bm": "Berlakunya sesuatu mengikut ketetapan dan ukuran Allah."
+        }
+      },
+      {
+        "term": {
+          "en": "Tawakal",
+          "bm": "Tawakal"
+        },
+        "definition": {
+          "en": "Trusting Allah after making full effort.",
+          "bm": "Berserah kepada Allah selepas berusaha sepenuhnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Syirik",
+          "bm": "Syirik"
+        },
+        "definition": {
+          "en": "Associating partners with Allah — the greatest sin.",
+          "bm": "Menyekutukan Allah — dosa paling besar."
+        }
+      },
+      {
+        "term": {
+          "en": "Khurafat",
+          "bm": "Khurafat"
+        },
+        "definition": {
+          "en": "Superstitious beliefs not based on Islamic teaching.",
+          "bm": "Kepercayaan karut yang tidak berasaskan ajaran Islam."
+        }
+      },
+      {
+        "term": {
+          "en": "Riak",
+          "bm": "Riak"
+        },
+        "definition": {
+          "en": "Doing good to be seen by others — hidden syirik (syirik khafi).",
+          "bm": "Melakukan kebaikan untuk dilihat orang — syirik tersembunyi (syirik khafi)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Ali failed his test even though he prayed. His friend says, \"It is fate, so stop studying.\" Correct this view.",
+        "bm": "Ali gagal ujian walaupun berdoa. Rakannya berkata, \"Ini takdir, jadi berhenti belajar.\" Betulkan pandangan ini."
+      },
+      "steps": [
+        {
+          "en": "Qada' and qadar do not cancel effort — Allah commands ikhtiar.",
+          "bm": "Qada' dan qadar tidak membatalkan usaha — Allah memerintahkan ikhtiar."
+        },
+        {
+          "en": "We do not know our qadar in advance, so we must keep trying.",
+          "bm": "Kita tidak mengetahui takdir lebih awal, jadi kita mesti terus berusaha."
+        },
+        {
+          "en": "Ali should evaluate his methods, pray, study smarter and then tawakal.",
+          "bm": "Ali patut menilai cara belajar, berdoa, belajar dengan lebih bijak dan kemudian bertawakal."
+        }
+      ],
+      "answer": {
+        "en": "Belief in qadar makes us patient when we fail and humble when we succeed — not lazy.",
+        "bm": "Beriman kepada qadar menjadikan kita sabar ketika gagal dan rendah diri ketika berjaya — bukan malas."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "pi-04-q01",
+      "subtopicId": "pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Belief in qada' and qadar is which pillar of iman?",
+        "bm": "Beriman kepada qada' dan qadar ialah rukun iman yang ke…"
+      },
+      "explanation": {
+        "en": "It is the last of the six pillars of iman.",
+        "bm": "Ia rukun terakhir daripada enam rukun iman."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sixth",
+          "bm": "Keenam"
+        },
+        {
+          "en": "First",
+          "bm": "Pertama"
+        },
+        {
+          "en": "Third",
+          "bm": "Ketiga"
+        },
+        {
+          "en": "Fifth",
+          "bm": "Kelima"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q02",
+      "subtopicId": "pi-04-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Trusting Allah after making full effort is called ______.",
+        "bm": "Berserah kepada Allah selepas berusaha sepenuhnya dipanggil ______."
+      },
+      "explanation": {
+        "en": "Tawakal comes after ikhtiar, not instead of it.",
+        "bm": "Tawakal datang selepas ikhtiar, bukan menggantikannya."
+      },
+      "difficulty": 1,
+      "answer": [
+        "tawakal",
+        "tawakkal",
+        "tawakkul"
+      ]
+    },
+    {
+      "id": "pi-04-q03",
+      "subtopicId": "pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which attitude reflects correct belief in qadar after failing?",
+        "bm": "Sikap manakah mencerminkan kepercayaan yang betul kepada qadar selepas gagal?"
+      },
+      "explanation": {
+        "en": "A believer accepts with patience and continues to strive.",
+        "bm": "Orang beriman menerima dengan sabar dan terus berusaha."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Patience and trying again",
+          "bm": "Sabar dan berusaha semula"
+        },
+        {
+          "en": "Blaming Allah",
+          "bm": "Menyalahkan Allah"
+        },
+        {
+          "en": "Giving up forever",
+          "bm": "Berputus asa selamanya"
+        },
+        {
+          "en": "Blaming friends",
+          "bm": "Menyalahkan rakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q04",
+      "subtopicId": "pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Associating partners with Allah is called…",
+        "bm": "Menyekutukan Allah dipanggil…"
+      },
+      "explanation": {
+        "en": "Syirik is the greatest sin (an-Nisa': 48).",
+        "bm": "Syirik dosa paling besar (an-Nisa': 48)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Syirik",
+          "bm": "Syirik"
+        },
+        {
+          "en": "Tawakal",
+          "bm": "Tawakal"
+        },
+        {
+          "en": "Ikhlas",
+          "bm": "Ikhlas"
+        },
+        {
+          "en": "Ihsan",
+          "bm": "Ihsan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q05",
+      "subtopicId": "pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Believing that a black cat crossing your path brings bad luck is an example of…",
+        "bm": "Mempercayai kucing hitam melintas membawa sial ialah contoh…"
+      },
+      "explanation": {
+        "en": "Only Allah determines good and bad; such beliefs are superstition.",
+        "bm": "Hanya Allah menentukan baik dan buruk; kepercayaan seperti itu khurafat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Khurafat",
+          "bm": "Khurafat"
+        },
+        {
+          "en": "Ibadah",
+          "bm": "Ibadah"
+        },
+        {
+          "en": "Ihsan",
+          "bm": "Ihsan"
+        },
+        {
+          "en": "Tawakal",
+          "bm": "Tawakal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q06",
+      "subtopicId": "pi-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Doing good deeds to be praised by people is called ______.",
+        "bm": "Melakukan amalan untuk dipuji orang dipanggil ______."
+      },
+      "explanation": {
+        "en": "Riak is hidden syirik (syirik khafi).",
+        "bm": "Riak ialah syirik tersembunyi (syirik khafi)."
+      },
+      "difficulty": 1,
+      "answer": [
+        "riak",
+        "riya",
+        "riyak",
+        "riya'"
+      ]
+    },
+    {
+      "id": "pi-04-q07",
+      "subtopicId": "pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The life between death and the Day of Resurrection is called…",
+        "bm": "Alam antara kematian dan hari kebangkitan dipanggil…"
+      },
+      "explanation": {
+        "en": "Barzakh is the life of the grave.",
+        "bm": "Barzakh ialah alam kubur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Alam barzakh",
+          "bm": "Alam barzakh"
+        },
+        {
+          "en": "Mahsyar",
+          "bm": "Mahsyar"
+        },
+        {
+          "en": "Sirat",
+          "bm": "Sirat"
+        },
+        {
+          "en": "Mizan",
+          "bm": "Mizan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q08",
+      "subtopicId": "pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The scale that weighs deeds on the Day of Judgement is called…",
+        "bm": "Neraca yang menimbang amalan pada hari pembalasan dipanggil…"
+      },
+      "explanation": {
+        "en": "Mizan weighs good and bad deeds.",
+        "bm": "Mizan menimbang amalan baik dan buruk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Mizan",
+          "bm": "Mizan"
+        },
+        {
+          "en": "Sirat",
+          "bm": "Sirat"
+        },
+        {
+          "en": "Hisab",
+          "bm": "Hisab"
+        },
+        {
+          "en": "Barzakh",
+          "bm": "Barzakh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q09",
+      "subtopicId": "pi-04-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these events of the Hereafter in order.",
+        "bm": "Susun peristiwa alam akhirat ini mengikut urutan."
+      },
+      "explanation": {
+        "en": "Barzakh → Ba'th → Mahsyar → Hisab & Mizan → Sirat → Paradise or Hell.",
+        "bm": "Barzakh → Ba'th → Mahsyar → Hisab & Mizan → Sirat → Syurga atau Neraka."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Death and alam barzakh",
+          "bm": "Kematian dan alam barzakh"
+        },
+        {
+          "en": "Resurrection (ba'th)",
+          "bm": "Kebangkitan (ba'th)"
+        },
+        {
+          "en": "Gathering at Mahsyar",
+          "bm": "Perhimpunan di Mahsyar"
+        },
+        {
+          "en": "Reckoning (hisab) and Mizan",
+          "bm": "Hisab dan Mizan"
+        },
+        {
+          "en": "Crossing the Sirat",
+          "bm": "Melintasi Sirat"
+        }
+      ]
+    },
+    {
+      "id": "pi-04-q10",
+      "subtopicId": "pi-04-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its meaning.",
+        "bm": "Padankan istilah dengan maksudnya."
+      },
+      "explanation": {
+        "en": "All damage aqidah; open syirik takes a person out of Islam.",
+        "bm": "Semua merosakkan akidah; syirik jali mengeluarkan seseorang daripada Islam."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Syirik jali",
+            "bm": "Syirik jali"
+          },
+          "right": {
+            "en": "Open syirik, e.g. worshipping idols",
+            "bm": "Syirik nyata, cth. menyembah berhala"
+          }
+        },
+        {
+          "left": {
+            "en": "Syirik khafi",
+            "bm": "Syirik khafi"
+          },
+          "right": {
+            "en": "Hidden syirik, e.g. riak",
+            "bm": "Syirik tersembunyi, cth. riak"
+          }
+        },
+        {
+          "left": {
+            "en": "Khurafat",
+            "bm": "Khurafat"
+          },
+          "right": {
+            "en": "Superstition",
+            "bm": "Kepercayaan karut"
+          }
+        },
+        {
+          "left": {
+            "en": "Sihir",
+            "bm": "Sihir"
+          },
+          "right": {
+            "en": "Using help of jinn/devils to harm",
+            "bm": "Menggunakan bantuan jin/syaitan untuk memudaratkan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pi-04-q11",
+      "subtopicId": "pi-04-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL practices that damage aqidah.",
+        "bm": "Pilih SEMUA amalan yang merosakkan akidah."
+      },
+      "explanation": {
+        "en": "Praying (doa) to Allah is worship, not a threat to aqidah.",
+        "bm": "Berdoa kepada Allah ialah ibadah, bukan ancaman kepada akidah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Believing a charm (tangkal) protects you by itself",
+          "bm": "Percaya tangkal melindungi dengan sendirinya"
+        },
+        {
+          "en": "Consulting a fortune-teller about the future",
+          "bm": "Bertanya tukang tilik tentang masa depan"
+        },
+        {
+          "en": "Praying for success before an exam",
+          "bm": "Berdoa untuk berjaya sebelum peperiksaan"
+        },
+        {
+          "en": "Believing in unlucky numbers",
+          "bm": "Percaya nombor sial"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "pi-04-q12",
+      "subtopicId": "pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement is TRUE about qadar?",
+        "bm": "Pernyataan manakah BENAR tentang qadar?"
+      },
+      "explanation": {
+        "en": "Effort is one of the means Allah has decreed.",
+        "bm": "Usaha ialah salah satu sebab yang ditetapkan Allah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "We do not know our qadar, so we must make effort",
+          "bm": "Kita tidak mengetahui takdir kita, jadi kita mesti berusaha"
+        },
+        {
+          "en": "Qadar means effort is useless",
+          "bm": "Qadar bermaksud usaha sia-sia"
+        },
+        {
+          "en": "Humans create their own qadar",
+          "bm": "Manusia mencipta takdir sendiri"
+        },
+        {
+          "en": "Qadar only applies to good things",
+          "bm": "Qadar hanya untuk perkara baik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q13",
+      "subtopicId": "pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a wisdom (hikmah) of believing in qada' and qadar?",
+        "bm": "Apakah hikmah beriman kepada qada' dan qadar?"
+      },
+      "explanation": {
+        "en": "Success is from Allah (humility); tests are from Allah (patience).",
+        "bm": "Kejayaan daripada Allah (rendah diri); ujian daripada Allah (sabar)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It prevents arrogance when successful and despair when tested",
+          "bm": "Mengelak sombong ketika berjaya dan putus asa ketika diuji"
+        },
+        {
+          "en": "It makes us lazy",
+          "bm": "Menjadikan kita malas"
+        },
+        {
+          "en": "It removes responsibility",
+          "bm": "Menghapuskan tanggungjawab"
+        },
+        {
+          "en": "It stops us from planning",
+          "bm": "Menghalang kita merancang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q14",
+      "subtopicId": "pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The bridge over Hell that everyone must cross is…",
+        "bm": "Titian di atas neraka yang mesti dilalui semua orang ialah…"
+      },
+      "explanation": {
+        "en": "People cross it at speeds according to their deeds.",
+        "bm": "Manusia melintasinya dengan kelajuan mengikut amalan masing-masing."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sirat",
+          "bm": "Sirat"
+        },
+        {
+          "en": "Mizan",
+          "bm": "Mizan"
+        },
+        {
+          "en": "Barzakh",
+          "bm": "Barzakh"
+        },
+        {
+          "en": "Haudh",
+          "bm": "Haudh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q15",
+      "subtopicId": "pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Signs of the Hour that are small and occur before it (e.g. widespread ignorance) are called…",
+        "bm": "Tanda-tanda kiamat yang kecil dan berlaku lebih awal (cth. kejahilan berleluasa) dipanggil…"
+      },
+      "explanation": {
+        "en": "Major signs include the sun rising from the west.",
+        "bm": "Tanda besar termasuk matahari terbit dari barat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kiamat sughra signs (minor signs)",
+          "bm": "Tanda kiamat kecil"
+        },
+        {
+          "en": "Kiamat kubra signs",
+          "bm": "Tanda kiamat besar"
+        },
+        {
+          "en": "Mahsyar",
+          "bm": "Mahsyar"
+        },
+        {
+          "en": "Mizan",
+          "bm": "Mizan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q16",
+      "subtopicId": "pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is syirik the greatest sin?",
+        "bm": "Mengapakah syirik dosa paling besar?"
+      },
+      "explanation": {
+        "en": "An-Nisa': 48 — Allah does not forgive syirik but forgives other sins for whom He wills.",
+        "bm": "An-Nisa': 48 — Allah tidak mengampunkan syirik tetapi mengampunkan dosa lain bagi sesiapa yang dikehendaki-Nya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It denies Allah's oneness, the core of Islam, and is not forgiven if one dies upon it",
+          "bm": "Ia menafikan keesaan Allah, teras Islam, dan tidak diampunkan jika mati dalamnya"
+        },
+        {
+          "en": "It is only a small mistake",
+          "bm": "Hanya kesilapan kecil"
+        },
+        {
+          "en": "It harms only others",
+          "bm": "Hanya memudaratkan orang lain"
+        },
+        {
+          "en": "Because it is common",
+          "bm": "Kerana ia biasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q17",
+      "subtopicId": "pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two students both studied hard; one passed and one failed. What does a correct understanding of qadar suggest?",
+        "bm": "Dua pelajar sama-sama belajar bersungguh-sungguh; seorang lulus dan seorang gagal. Apakah yang dicadangkan pemahaman qadar yang betul?"
+      },
+      "explanation": {
+        "en": "Both have reward for effort; outcomes test gratitude and patience.",
+        "bm": "Kedua-duanya mendapat pahala usaha; keputusan menguji syukur dan sabar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Both did their duty; the one who passed should be grateful, the other patient and keep improving",
+          "bm": "Kedua-duanya telah menunaikan kewajipan; yang lulus bersyukur, yang gagal bersabar dan terus memperbaiki diri"
+        },
+        {
+          "en": "Effort is meaningless",
+          "bm": "Usaha tidak bermakna"
+        },
+        {
+          "en": "The one who failed is cursed",
+          "bm": "Yang gagal dilaknat"
+        },
+        {
+          "en": "The one who passed is better in Allah's sight",
+          "bm": "Yang lulus lebih mulia di sisi Allah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q18",
+      "subtopicId": "pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A social media post claims a \"lucky stone\" brings exam success. What is the BEST response?",
+        "bm": "Satu hantaran media sosial mendakwa \"batu bertuah\" membawa kejayaan peperiksaan. Apakah respons TERBAIK?"
+      },
+      "explanation": {
+        "en": "Relying on objects for benefit risks syirik.",
+        "bm": "Bergantung kepada objek untuk manfaat berisiko syirik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Reject it as khurafat; success comes from Allah through effort and doa",
+          "bm": "Menolaknya sebagai khurafat; kejayaan datang daripada Allah melalui usaha dan doa"
+        },
+        {
+          "en": "Buy one just in case",
+          "bm": "Beli satu sebagai langkah berjaga-jaga"
+        },
+        {
+          "en": "Share it widely",
+          "bm": "Kongsikan secara meluas"
+        },
+        {
+          "en": "Use it instead of studying",
+          "bm": "Gunakannya sebagai ganti belajar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q19",
+      "subtopicId": "pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How should belief in the Last Day affect how you use your phone?",
+        "bm": "Bagaimanakah beriman kepada hari akhirat mempengaruhi cara anda menggunakan telefon?"
+      },
+      "explanation": {
+        "en": "Deeds are written by Raqib and Atid and weighed on the Mizan.",
+        "bm": "Amalan dicatat oleh Raqib dan Atid dan ditimbang di Mizan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Knowing every action is recorded and will be judged makes you careful about what you watch and post",
+          "bm": "Mengetahui setiap perbuatan dicatat dan akan dihisab menjadikan anda berhati-hati tentang apa yang ditonton dan dihantar"
+        },
+        {
+          "en": "No connection at all",
+          "bm": "Tiada kaitan langsung"
+        },
+        {
+          "en": "Only offline actions count",
+          "bm": "Hanya perbuatan luar talian dikira"
+        },
+        {
+          "en": "Phones are not judged",
+          "bm": "Telefon tidak dihisab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "pi-04-q20",
+      "subtopicId": "pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is riak called \"hidden\" syirik?",
+        "bm": "Mengapakah riak dipanggil syirik \"tersembunyi\"?"
+      },
+      "explanation": {
+        "en": "Guard intentions: do deeds sincerely for Allah (ikhlas).",
+        "bm": "Jaga niat: lakukan amalan ikhlas kerana Allah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is in the heart and others may not notice, yet it spoils the reward",
+          "bm": "Ia dalam hati dan orang lain mungkin tidak sedar, namun ia merosakkan pahala"
+        },
+        {
+          "en": "It is always visible",
+          "bm": "Ia sentiasa nampak"
+        },
+        {
+          "en": "It is not sinful",
+          "bm": "Ia tidak berdosa"
+        },
+        {
+          "en": "It only happens at night",
+          "bm": "Ia hanya berlaku pada waktu malam"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

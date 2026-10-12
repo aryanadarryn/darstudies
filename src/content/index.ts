@@ -4,6 +4,10 @@ import chemRaw from '../../content/raw/chem.json'
 import bioRaw from '../../content/raw/bio.json'
 import addmathRaw from '../../content/raw/addmath.json'
 import mathRaw from '../../content/raw/math.json'
+import sejRaw from '../../content/raw/sej.json'
+import piRaw from '../../content/raw/pi.json'
+import bmRaw from '../../content/raw/bm.json'
+import biRaw from '../../content/raw/bi.json'
 import formulasJson from '../../content/formulas.json'
 import { chapterId, subtopicId, SUBJECT_IDS } from './ids'
 import type { Bridge, ChapterContent, Flashcard, Formula, Lang, NotesFile, Question, RawSubject, SubjectId } from './schema'
@@ -19,9 +23,9 @@ export interface Chapter {
   /** Has a written intro + questions (content/<subject>/<chapter>.json). */
   written: boolean
 }
-export interface Subject { id: SubjectId; name: Lang; color: string; chapters: Chapter[] }
+export interface Subject { id: SubjectId; name: Lang; short?: Lang; color: string; chapters: Chapter[] }
 
-const contentModules = import.meta.glob<{ default: ChapterContent }>('../../content/{phy,chem,bio,addmath,math}/*.json')
+const contentModules = import.meta.glob<{ default: ChapterContent }>('../../content/{phy,chem,bio,addmath,math,sej,pi,bm,bi}/*.json')
 const flashModules = import.meta.glob<{ default: { chapterId: string; cards: Flashcard[] } }>('../../content/flashcards/*.json')
 
 const fileId = (path: string) => path.split('/').pop()!.replace('.json', '')
@@ -31,6 +35,7 @@ const flashByChapter = Object.fromEntries(Object.entries(flashModules).map(([p, 
 const RAW: Record<SubjectId, RawSubject> = {
   phy: phyRaw as RawSubject, chem: chemRaw as RawSubject, bio: bioRaw as RawSubject,
   addmath: addmathRaw as RawSubject, math: mathRaw as RawSubject,
+  sej: sejRaw as RawSubject, pi: piRaw as RawSubject, bm: bmRaw as RawSubject, bi: biRaw as RawSubject,
 }
 
 export const SUBJECTS: Subject[] = SUBJECT_IDS.map((sid) => {
@@ -38,6 +43,7 @@ export const SUBJECTS: Subject[] = SUBJECT_IDS.map((sid) => {
   return {
     id: sid,
     name: raw.name,
+    short: raw.short,
     color: raw.color,
     chapters: raw.chapters.map((c) => {
       const id = chapterId(sid, c.number)
