@@ -30,6 +30,10 @@ Built from `../form4-study-app-plan.md`.
 - **Planner:** setup wizard, phases A–E, weighted round robin by confidence, budget/subject caps, rest days, exam sprint, "class is on chapter X", tap-to-move, reschedule / reset after missed days, weekly auto-refresh.
 - **Me:** XP/levels, streak with free rest day, badges, mastery & accuracy charts, EN/BM, dark mode, break & daily reminders, JSON backup/restore.
 
+## Accounts, trial & subscriptions (optional)
+
+Login (Google, Apple, Facebook, Microsoft, email link), a configurable free trial, locked subjects/features, CHIP payments (card, FPX, DuitNow QR, e-wallets) and an admin screen are built in, backed by Supabase. They switch on only when `SUPABASE_URL` / `SUPABASE_ANON_KEY` are set as GitHub repository variables; without them the app runs as before. With them on, lesson content is served from Supabase to permitted users only and is not bundled. Setup: [docs/ACCOUNTS-SETUP.md](docs/ACCOUNTS-SETUP.md). Database: `supabase/migrations/`; server functions: `supabase/functions/`.
+
 ## Adding content
 
 1. Structure lives in `content/raw/<subject>.json` (verify against the latest DSKP).

@@ -1,0 +1,11 @@
+# Only the settings this project relies on. `supabase link` + `supabase functions deploy` read this file.
+
+[functions.checkout]
+verify_jwt = true
+
+[functions.admin-users]
+verify_jwt = true
+
+# CHIP calls this without a Supabase token; the function re-checks every purchase with CHIP itself.
+[functions.chip-callback]
+verify_jwt = false

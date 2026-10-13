@@ -1,4 +1,5 @@
 // All writes to on-device data go through here.
+import { canNow } from '../auth/account'
 import { ALL_CHAPTERS, HAS_FLASHCARDS, loadAllFlashcards } from '../content'
 import type { Question } from '../content/schema'
 import { db, getKV, setKV, uid } from '../db/db'
@@ -79,8 +80,10 @@ export async function regeneratePlan(settings: Settings) {
   const drop = future.filter((t) => !keep.includes(t)).map((t) => t.id)
   const tasks = generatePlan({
     from: today, to: settings.planEnd, settings,
-    chapters: ALL_CHAPTERS.map((c) => ({ id: c.id, subjectId: c.subjectId, number: c.number, written: c.written })),
-    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS, existing: keep,
+    // Only plan subjects the user can open (everything when accounts are off).
+    chapters: ALL_CHAPTERS.filter((c) => canNow('learn', c.subjectId) || canNow('quiz', c.subjectId))
+      .map((c) => ({ id: c.id, subjectId: c.subjectId, number: c.number, written: c.written })),
+    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS && canNow('flashcards'), existing: keep,
   })
   await db.transaction('rw', db.tasks, db.kv, async () => {
     await db.tasks.bulkDelete(drop)

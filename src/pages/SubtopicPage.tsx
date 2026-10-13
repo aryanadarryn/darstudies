@@ -6,6 +6,8 @@ import { DraftBadge, MasteryRing, PageHeader } from '../components/ui'
 import { chapterById, FORMULAS, loadChapterContent, loadNotes, subjectById, subtopicById } from '../content'
 import { useT } from '../i18n/useT'
 import { useAsync, useFlashcards, useMastery } from '../lib/hooks'
+import { useCan } from '../auth/account'
+import { LockedPanel } from '../auth/Locked'
 
 function FlipRow({ front, back }: { front: string; back: string }) {
   const [open, setOpen] = useState(false)
@@ -24,14 +26,18 @@ function SubtopicView() {
   const [showAnswer, setShowAnswer] = useState(false)
   const mastery = useMastery()
   const flashcards = useFlashcards()
+  const can = useCan()
+  const allowed = can('learn', subtopicById[subtopicId]?.subjectId)
   const { data } = useAsync(async () => {
+    if (!allowed) return undefined
     const [notes, content] = await Promise.all([loadNotes(chapterId), loadChapterContent(chapterId)])
     return { notes, questions: (content?.questions ?? []).filter((q) => q.subtopicId === subtopicId).length }
-  }, [chapterId, subtopicId])
+  }, [chapterId, subtopicId, allowed])
 
   const st = subtopicById[subtopicId]
   const ch = chapterById[chapterId]
   if (!st || !ch || st.chapterId !== chapterId || ch.subjectId !== subjectId) return <Navigate to="/learn" replace />
+  if (!allowed) return <div><PageHeader back={`/learn/${ch.subjectId}/${ch.id}`} title={`${st.code} ${L(st.title)}`} subtitle={L2(st.title)} /><LockedPanel subject /></div>
 
   const color = subjectById[ch.subjectId].color
   const note = data?.notes?.subtopics[subtopicId]

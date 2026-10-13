@@ -7,11 +7,14 @@ import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { useMastery } from '../lib/hooks'
 import { SUBJECT_EMOJI } from './Learn'
+import { useCan } from '../auth/account'
+import { LockBadge } from '../auth/Locked'
 
 export default function SubjectPage() {
   const { subjectId } = useParams()
   const { t, L, L2 } = useT()
   const mastery = useMastery()
+  const can = useCan()
   const intros = useLiveQuery(() => db.intros.toArray(), [])
   const subject = subjectById[subjectId as SubjectId]
   if (!subject) return <Navigate to="/learn" replace />
@@ -41,7 +44,7 @@ export default function SubjectPage() {
                     {seen.has(c.id) && <Pill className="!bg-green-100 !text-green-800 dark:!bg-green-900/50 dark:!text-green-200">✓</Pill>}
                   </div>
                 </div>
-                <MasteryRing value={mastery?.chapter.get(c.id) ?? 0} />
+                {can('learn', subject.id) ? <MasteryRing value={mastery?.chapter.get(c.id) ?? 0} /> : <LockBadge className="text-lg" />}
               </Link>
             </li>
           )

@@ -12,6 +12,8 @@ import { buildMastery } from '../lib/progress'
 import { shuffle } from '../lib/quizCheck'
 import type { TaskType } from '../planner/types'
 import { SUBJECT_EMOJI } from './Learn'
+import { useCan } from '../auth/account'
+import { LockedPanel } from '../auth/Locked'
 
 const QUIZ_SIZE = 10
 
@@ -27,13 +29,14 @@ async function prioritise(qs: Question[], n: number) {
 
 function ScopePicker() {
   const { t, L } = useT()
+  const can = useCan()
   return (
     <div className="space-y-4">
       <p className="text-sm muted">{t('practice.chooseScope')}</p>
       <Link to="?mode=mixed" className="card flex items-center gap-3 font-semibold">🎲 {t('practice.mixed')}</Link>
       {SUBJECTS.map((s) => {
         const written = s.chapters.filter((c) => c.written)
-        if (!written.length) return null
+        if (!written.length || !can('quiz', s.id)) return null
         return (
           <section key={s.id} className="card space-y-2" style={{ borderLeft: `4px solid ${s.color}` }}>
             <Link to={`?subject=${s.id}`} className="flex items-center gap-2 font-bold">{SUBJECT_EMOJI[s.id]} {L(s.name)} →</Link>
@@ -57,9 +60,12 @@ export default function QuizPage() {
   const chapter = params.get('chapter'), subject = params.get('subject') as SubjectId | null
   const subtopic = params.get('subtopic'), mode = params.get('mode'), set = params.get('set'), taskId = params.get('task')
   const hasScope = !!(chapter || subject || subtopic || mode || set)
+  const can = useCan()
+  const scopeSubject = subject ?? (chapter ? chapterById[chapter]?.subjectId : subtopic ? subtopicById[subtopic]?.subjectId : undefined)
+  const locked = !!scopeSubject && !can('quiz', scopeSubject)
 
   const { data: questions, loading } = useAsync(async () => {
-    if (!hasScope) return []
+    if (!hasScope || locked) return []
     if (set === 'bridge') return prioritise((await loadBridge()).questions, QUIZ_SIZE)
     const all = await loadAllQuestions()
     if (chapter) return prioritise(all.filter((q) => q.subtopicId.startsWith(chapter + '-')), QUIZ_SIZE)
@@ -78,7 +84,7 @@ export default function QuizPage() {
       return picked.slice(0, QUIZ_SIZE)
     }
     return prioritise(all, QUIZ_SIZE)
-  }, [chapter, subject, subtopic, mode, set, round])
+  }, [chapter, subject, subtopic, mode, set, round, locked])
 
   let title: string = t('practice.quiz')
   let subtitle: string | undefined
@@ -112,6 +118,8 @@ export default function QuizPage() {
       <PageHeader back title={title} subtitle={subtitle} />
       {!hasScope ? (
         <ScopePicker />
+      ) : locked ? (
+        <LockedPanel subject />
       ) : loading ? (
         <div className="py-10 text-center muted">{t('common.loading')}</div>
       ) : !questions?.length ? (

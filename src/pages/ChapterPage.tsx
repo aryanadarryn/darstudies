@@ -9,6 +9,8 @@ import SubtopicList from '../components/SubtopicList'
 import { ToolEmbed, hasToolComponent } from '../components/tools/registry'
 import { DraftBadge, PageHeader, ProgressBar, toast } from '../components/ui'
 import { chapterById, formulaById, loadChapterContent, subjectById } from '../content'
+import { useCan } from '../auth/account'
+import { LockedPanel } from '../auth/Locked'
 import type { ChapterContent, Lang, Question } from '../content/schema'
 import { db } from '../db/db'
 import type { StringKey } from '../i18n/strings'
@@ -94,7 +96,9 @@ export default function ChapterPage() {
   const taskId = params.get('task')
   const { t, L, L2 } = useT()
   const ch = chapterById[chapterId]
-  const { data: content, loading } = useAsync(() => loadChapterContent(chapterId), [chapterId])
+  const can = useCan()
+  const allowed = !!ch && can('learn', ch.subjectId)
+  const { data: content, loading } = useAsync(() => (allowed ? loadChapterContent(chapterId) : Promise.resolve(undefined)), [chapterId, allowed])
   const progress = useLiveQuery(() => db.intros.get(chapterId), [chapterId])
   const [step, setStep] = useState<number | null>(null)
   const sectionRefs = useRef<(HTMLElement | null)[]>([])
@@ -116,6 +120,7 @@ export default function ChapterPage() {
   }, [step])
 
   if (!ch || ch.subjectId !== subjectId) return <Navigate to="/learn" replace />
+  if (!allowed) return <div><PageHeader back={`/learn/${ch.subjectId}`} title={`${ch.number}. ${L(ch.title)}`} subtitle={L2(ch.title)} /><LockedPanel subject /></div>
 
   const complete = async (i: number) => {
     let finished = false

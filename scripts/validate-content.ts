@@ -1,6 +1,6 @@
 // Validates all content JSON against the Zod schemas and checks cross-references.
 // Runs as `prebuild`, so the build fails on any content error.
-import { readFileSync, readdirSync, existsSync } from 'node:fs'
+import { readFileSync, readdirSync, existsSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import katex from 'katex'
 import type { z } from 'zod'
@@ -135,6 +135,20 @@ for (const name of existsSync(notesDir) ? readdirSync(notesDir).filter((n) => n.
     noteCount++
     if (!subtopicIds.has(sid) || !sid.startsWith(notes.chapterId + '-')) errors.push(`${file}: unknown subtopic ${sid}`)
   }
+}
+
+// ---- Manifest: which chapters have content (lets the app list chapters without bundling the content) ----
+const listIds = (dir: string) => (existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith('.json')).map((n) => n.replace('.json', '')).sort() : [])
+const manifest = {
+  written: SUBJECT_IDS.flatMap((s) => listIds(join(ROOT, s))),
+  notes: listIds(notesDir),
+  flashcards: listIds(flashDir),
+}
+const manifestFile = join(import.meta.dirname, '..', 'src', 'content', 'manifest.json')
+const manifestText = JSON.stringify(manifest, null, 2) + '\n'
+if (!existsSync(manifestFile) || readFileSync(manifestFile, 'utf8') !== manifestText) {
+  writeFileSync(manifestFile, manifestText)
+  console.log('Updated src/content/manifest.json')
 }
 
 // ---- Report ----

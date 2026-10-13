@@ -15,7 +15,7 @@ export default defineConfig({
       manifest: {
         name: 'Darstudies — Form 4 Study Companion',
         short_name: 'Darstudies',
-        description: 'Preview and revise the Form 4 KSSM science stream, with a daily study plan.',
+        description: 'Preview and revise Form 4 KSSM subjects, with a daily study plan.',
         theme_color: '#0f766e',
         background_color: '#f8fafc',
         display: 'standalone',

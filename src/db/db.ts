@@ -16,6 +16,8 @@ class StudyDB extends Dexie {
   cards!: Table<CardState, string>
   intros!: Table<IntroProgress, string>
   kv!: Table<KV, string>
+  /** Protected content fetched from the server, kept for offline use (not part of backups). */
+  contentCache!: Table<{ key: string; data: unknown; at: string }, string>
 
   constructor() {
     super('sainsku-f4')
@@ -26,6 +28,7 @@ class StudyDB extends Dexie {
       intros: 'chapterId',
       kv: 'key',
     })
+    this.version(2).stores({ contentCache: 'key' })
   }
 }
 

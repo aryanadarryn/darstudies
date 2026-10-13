@@ -5,18 +5,22 @@ import { SUBJECTS } from '../content'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { useMastery } from '../lib/hooks'
+import { useCan } from '../auth/account'
+import { LockBadge, TrialBanner } from '../auth/Locked'
 
 export const SUBJECT_EMOJI: Record<string, string> = { phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️' }
 
 export default function Learn() {
   const { t, L, L2 } = useT()
   const mastery = useMastery()
+  const can = useCan()
   const intros = useLiveQuery(() => db.intros.toArray(), [])
   const seen = new Set((intros ?? []).filter((i) => i.completedAt).map((i) => i.chapterId))
 
   return (
     <div>
       <PageHeader title={t('learn.title')} subtitle="Form 4 KSSM · DLP" />
+      <TrialBanner />
       <div className="grid grid-cols-2 gap-3 desk:grid-cols-3 desk:xl:grid-cols-5">
         {SUBJECTS.map((s) => {
           const seenCount = s.chapters.filter((c) => seen.has(c.id)).length
@@ -24,7 +28,7 @@ export default function Learn() {
             <Link key={s.id} to={`/learn/${s.id}`} className="card flex flex-col gap-2 transition active:scale-[.98]" style={{ borderTop: `4px solid ${s.color}` }}>
               <div className="flex items-start justify-between">
                 <span className="text-3xl" aria-hidden>{SUBJECT_EMOJI[s.id]}</span>
-                <MasteryRing value={mastery?.subject.get(s.id) ?? 0} size={40} />
+                {can('learn', s.id) || can('quiz', s.id) ? <MasteryRing value={mastery?.subject.get(s.id) ?? 0} size={40} /> : <LockBadge className="text-xl" />}
               </div>
               <div>
                 <div className="font-bold leading-tight">{L(s.name)}</div>

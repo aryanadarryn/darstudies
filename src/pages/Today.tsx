@@ -3,6 +3,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import FormulaCard from '../components/formula/FormulaCard'
 import InstallPrompt from '../components/InstallPrompt'
+import { TrialBanner } from '../auth/Locked'
 import TaskCard from '../components/TaskCard'
 import { Empty, ProgressBar, toast } from '../components/ui'
 import { FORMULAS } from '../content'
@@ -61,6 +62,7 @@ export default function Today() {
 
   return (
     <div className="space-y-4 pt-6">
+      <TrialBanner />
       <header className="flex items-start justify-between">
         <div>
           <p className="text-sm muted">{dateLabel}</p>

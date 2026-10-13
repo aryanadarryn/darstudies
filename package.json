@@ -11,9 +11,11 @@
     "icons": "node scripts/gen-icons.mjs",
     "preview": "vite preview",
     "test": "vitest run",
-    "extract-dskp": "tsx scripts/extract-dskp.ts"
+    "extract-dskp": "tsx scripts/extract-dskp.ts",
+    "upload-content": "tsx scripts/upload-content.ts"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
     "date-fns": "^4.4.0",
     "dexie": "^4.4.6",
     "dexie-react-hooks": "^4.4.0",

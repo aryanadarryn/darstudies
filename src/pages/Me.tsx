@@ -3,7 +3,8 @@ import { useRef } from 'react'
 import { Bar, BarChart, Cell, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
 import InstallPrompt from '../components/InstallPrompt'
 import { PageHeader, ProgressBar, Segmented, toast } from '../components/ui'
-import { SUBJECTS, subtopicById } from '../content'
+import { ALL_CHAPTERS, SUBJECTS, subtopicById } from '../content'
+import AccountCard from '../auth/AccountCard'
 import { downloadBlob, exportBackup, importBackup, resetAll } from '../db/backup'
 import { db, getKV } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -68,6 +69,7 @@ export default function Me() {
     <div>
       <PageHeader title={t('me.title')} />
       <div className="space-y-4 desk:grid desk:grid-cols-2 desk:items-start desk:gap-4 desk:space-y-0">
+      <AccountCard />
       <section className="card">
         <div className="mb-2 flex items-end justify-between">
           <div>
@@ -79,7 +81,7 @@ export default function Me() {
         <ProgressBar value={into / XP_PER_LEVEL} />
         <div className="mt-4 grid grid-cols-3 gap-2 text-center">
           <div><div className="text-xl font-bold">🔥 {streak}</div><div className="text-[11px] muted">{t('me.streak')}</div></div>
-          <div><div className="text-xl font-bold">{seen}/49</div><div className="text-[11px] muted">{t('me.intros')}</div></div>
+          <div><div className="text-xl font-bold">{seen}/{ALL_CHAPTERS.length}</div><div className="text-[11px] muted">{t('me.intros')}</div></div>
           <div><div className="text-xl font-bold">{attempts.length}</div><div className="text-[11px] muted">{t('me.quizzes')}</div></div>
         </div>
       </section>

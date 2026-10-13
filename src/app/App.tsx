@@ -1,5 +1,8 @@
 import { lazy, Suspense, useEffect } from 'react'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { useAccount } from '../auth/account'
+import { GatedPage } from '../auth/Locked'
+import { AUTH_ENABLED } from '../auth/supabase'
 import { getKV } from '../db/db'
 import { regeneratePlan } from '../lib/actions'
 import { addDays, todayISO } from '../planner/dates'
@@ -20,6 +23,15 @@ const ToolPage = lazy(() => import('../pages/ToolPage'))
 const Planner = lazy(() => import('../pages/Planner'))
 const PlannerSetup = lazy(() => import('../pages/PlannerSetup'))
 const Me = lazy(() => import('../pages/Me'))
+const Subscribe = lazy(() => import('../pages/Subscribe'))
+const Login = lazy(() => import('../auth/Login'))
+const Admin = lazy(() => import('../admin/Admin'))
+const AdminOverview = lazy(() => import('../admin/Admin').then((m) => ({ default: m.AdminOverview })))
+const AdminUsers = lazy(() => import('../admin/AdminUsers'))
+const AdminSubscriptions = lazy(() => import('../admin/AdminSubscriptions'))
+const AdminPayments = lazy(() => import('../admin/AdminPayments'))
+const AdminPlans = lazy(() => import('../admin/AdminPlans'))
+const AdminSettings = lazy(() => import('../admin/AdminSettings'))
 
 function useTheme() {
   const theme = useSettings((s) => s.settings.theme)
@@ -47,11 +59,17 @@ async function weeklyRefresh() {
 export default function App() {
   const { ready, load } = useSettings()
   const lang = useSettings((s) => s.settings.lang)
+  const { ready: accountReady, session, init } = useAccount()
   useTheme()
-  useEffect(() => { load().then(weeklyRefresh) }, [load])
+  useEffect(() => { init() }, [init])
+  // Plan generation depends on what the user may open, so wait for the account check.
+  useEffect(() => { if (accountReady) load().then(weeklyRefresh) }, [load, accountReady])
   useEffect(() => { document.documentElement.lang = lang === 'bm' ? 'ms' : 'en' }, [lang])
 
-  if (!ready) return null
+  if (!ready || !accountReady) return null
+  if (AUTH_ENABLED && !session) {
+    return <Suspense fallback={null}><Login /></Suspense>
+  }
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}>
       <Suspense fallback={<div className="p-8 text-center muted">…</div>}>
@@ -63,14 +81,25 @@ export default function App() {
             <Route path="learn/:subjectId/:chapterId" element={<ChapterPage />} />
             <Route path="learn/:subjectId/:chapterId/:subtopicId" element={<SubtopicPage />} />
             <Route path="practice" element={<Practice />} />
-            <Route path="practice/quiz" element={<QuizPage />} />
-            <Route path="practice/flashcards" element={<Flashcards />} />
-            <Route path="practice/drill" element={<FormulaDrill />} />
-            <Route path="practice/tools" element={<ToolsPage />} />
-            <Route path="practice/tools/:toolId" element={<ToolPage />} />
-            <Route path="planner" element={<Planner />} />
+            <Route path="practice/quiz" element={<GatedPage feature="quiz"><QuizPage /></GatedPage>} />
+            <Route path="practice/flashcards" element={<GatedPage feature="flashcards"><Flashcards /></GatedPage>} />
+            <Route path="practice/drill" element={<GatedPage feature="drill"><FormulaDrill /></GatedPage>} />
+            <Route path="practice/tools" element={<GatedPage feature="tools"><ToolsPage /></GatedPage>} />
+            <Route path="practice/tools/:toolId" element={<GatedPage feature="tools"><ToolPage /></GatedPage>} />
+            <Route path="planner" element={<GatedPage feature="planner"><Planner /></GatedPage>} />
             <Route path="planner/setup" element={<PlannerSetup />} />
             <Route path="me" element={<Me />} />
+            {AUTH_ENABLED && <Route path="subscribe" element={<Subscribe />} />}
+            {AUTH_ENABLED && (
+              <Route path="admin" element={<Admin />}>
+                <Route index element={<AdminOverview />} />
+                <Route path="users" element={<AdminUsers />} />
+                <Route path="subscriptions" element={<AdminSubscriptions />} />
+                <Route path="payments" element={<AdminPayments />} />
+                <Route path="plans" element={<AdminPlans />} />
+                <Route path="settings" element={<AdminSettings />} />
+              </Route>
+            )}
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>
