@@ -30,7 +30,7 @@ export default function ViewToggle({ className = '' }: { className?: string }) {
     <div role="group" aria-label={t('me.view')} className={`inline-flex rounded-full border border-slate-200 bg-white p-1 shadow-sm dark:border-slate-700 dark:bg-slate-900 ${className}`}>
       {options.map((o) => (
         <button key={o.v} aria-pressed={view === o.v} title={o.label} onClick={() => update({ viewMode: o.v })}
-          className={`flex min-h-9 items-center gap-1.5 rounded-full px-3 text-xs font-semibold transition ${view === o.v ? 'bg-teal-700 text-white' : 'muted hover:bg-slate-100 dark:hover:bg-slate-800'}`}>
+          className={`flex min-h-9 items-center gap-1.5 rounded-full px-3 text-xs font-semibold transition ${view === o.v ? 'bg-violet-700 text-white' : 'muted hover:bg-slate-100 dark:hover:bg-slate-800'}`}>
           <span aria-hidden>{o.icon}</span>{o.label}
         </button>
       ))}

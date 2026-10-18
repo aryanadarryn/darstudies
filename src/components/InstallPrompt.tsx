@@ -10,7 +10,7 @@ export default function InstallPrompt({ dismissible = false }: { dismissible?: b
     try { return dismissible && localStorage.getItem('install-dismissed') === '1' } catch { return false }
   })
   if (hidden) return null
-  if (installed) return dismissible ? null : <p className="text-sm text-teal-700 dark:text-teal-300">{t('me.installed')}</p>
+  if (installed) return dismissible ? null : <p className="text-sm text-violet-700 dark:text-violet-300">{t('me.installed')}</p>
   if (!installEvent && !isIOS()) return null
 
   const dismiss = () => {
@@ -19,7 +19,7 @@ export default function InstallPrompt({ dismissible = false }: { dismissible?: b
   }
 
   return (
-    <div className="card flex items-center gap-3 !bg-teal-50 dark:!bg-teal-950/40">
+    <div className="card flex items-center gap-3 !bg-violet-50 dark:!bg-violet-950/40">
       <img src={`${import.meta.env.BASE_URL}icon-192.png`} alt="" className="h-10 w-10 rounded-xl" />
       <div className="flex-1 text-sm">
         {installEvent ? <span>{t('me.installBody')}</span> : <span>{t('me.installIOS')}</span>}

@@ -61,7 +61,7 @@ export default function GraphPlotter() {
         {Math.abs(h) <= R && <line x1={sx(h)} y1={0} x2={sx(h)} y2={W} stroke="#7c3aed" strokeDasharray="4 4" strokeOpacity={0.6} />}
         <path d={path} fill="none" stroke="#7c3aed" strokeWidth={2.5} />
         {roots.filter((r) => Math.abs(r) <= R).map((r) => <circle key={r} cx={sx(r)} cy={sy(0)} r={5} fill="#ef4444" />)}
-        {Math.abs(h) <= R && Math.abs(k) <= R && <circle cx={sx(h)} cy={sy(k)} r={5} fill="#0f766e" />}
+        {Math.abs(h) <= R && Math.abs(k) <= R && <circle cx={sx(h)} cy={sy(k)} r={5} fill="#6d28d9" />}
         {Math.abs(c) <= R && <circle cx={sx(0)} cy={sy(c)} r={4} fill="#f59e0b" />}
       </svg>
       <div className="space-y-2">
@@ -71,7 +71,7 @@ export default function GraphPlotter() {
       </div>
       <dl className="grid grid-cols-2 gap-2 text-sm">
         <div className="card !p-3"><dt className="text-xs muted">{t('Shape', 'Bentuk')}</dt><dd className="font-semibold">{a > 0 ? t('∪ minimum point', '∪ titik minimum') : t('∩ maximum point', '∩ titik maksimum')}</dd></div>
-        <div className="card !p-3"><dt className="text-xs muted">{t('Turning point', 'Titik pusingan')} <span className="text-teal-700">●</span></dt><dd className="font-semibold">({num(h)}, {num(k)})</dd></div>
+        <div className="card !p-3"><dt className="text-xs muted">{t('Turning point', 'Titik pusingan')} <span className="text-violet-700">●</span></dt><dd className="font-semibold">({num(h)}, {num(k)})</dd></div>
         <div className="card !p-3"><dt className="text-xs muted">b² − 4ac</dt><dd className="font-semibold">{num(D)} → {rootsText}</dd></div>
         <div className="card !p-3"><dt className="text-xs muted">{t('Roots', 'Punca')} <span className="text-red-500">●</span></dt><dd className="font-semibold">{roots.length ? roots.map(num).join(', ') : '—'}</dd></div>
         <div className="card !p-3"><dt className="text-xs muted">{t('Axis of symmetry', 'Paksi simetri')}</dt><dd className="font-semibold">x = {num(h)}</dd></div>

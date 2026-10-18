@@ -109,7 +109,7 @@ export default function Me() {
                 <XAxis dataKey="week" tick={{ fontSize: 10 }} />
                 <YAxis domain={[0, 100]} tick={{ fontSize: 10 }} />
                 <Tooltip formatter={(v) => `${v}%`} />
-                <Line type="monotone" dataKey="value" stroke="#0f766e" strokeWidth={2.5} connectNulls dot={{ r: 3 }} />
+                <Line type="monotone" dataKey="value" stroke="#6d28d9" strokeWidth={2.5} connectNulls dot={{ r: 3 }} />
               </LineChart>
             </ResponsiveContainer>
           </div>

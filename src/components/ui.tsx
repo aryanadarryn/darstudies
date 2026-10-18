@@ -64,7 +64,7 @@ export function DraftBadge() {
   return <Pill className="!bg-amber-100 !text-amber-800 dark:!bg-amber-900/50 dark:!text-amber-200">{t('common.draft')}</Pill>
 }
 
-export function ProgressBar({ value, color = '#0f766e' }: { value: number; color?: string }) {
+export function ProgressBar({ value, color = '#6d28d9' }: { value: number; color?: string }) {
   return (
     <div className="h-2 w-full overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
       <div className="h-full rounded-full transition-all duration-500" style={{ width: `${Math.min(100, value * 100)}%`, backgroundColor: color }} />

@@ -48,12 +48,12 @@ export default function PeriodicTable() {
       <div className="flex gap-1.5 overflow-x-auto pb-1">
         {FILTERS.map((x) => (
           <button key={x.id} onClick={() => setFilter(x.id)}
-            className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-semibold ${filter === x.id ? 'bg-teal-700 text-white' : 'bg-slate-100 dark:bg-slate-800'}`}>
+            className={`shrink-0 rounded-full px-3 py-1.5 text-xs font-semibold ${filter === x.id ? 'bg-violet-700 text-white' : 'bg-slate-100 dark:bg-slate-800'}`}>
             {x[lang]}
           </button>
         ))}
       </div>
-      {f.note && <p className="rounded-xl bg-teal-50 p-3 text-sm dark:bg-teal-950/40">{f.note[lang]}</p>}
+      {f.note && <p className="rounded-xl bg-violet-50 p-3 text-sm dark:bg-violet-950/40">{f.note[lang]}</p>}
 
       <div className="card flex items-center gap-4">
         <div className="flex h-20 w-20 shrink-0 flex-col items-center justify-center rounded-2xl text-slate-900" style={{ backgroundColor: info.color }}>

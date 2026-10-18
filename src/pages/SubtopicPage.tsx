@@ -14,7 +14,7 @@ function FlipRow({ front, back }: { front: string; back: string }) {
   return (
     <button onClick={() => setOpen(!open)} className="w-full rounded-xl border border-slate-200 p-3 text-left text-sm dark:border-slate-700">
       <span className="font-semibold">{front}</span>
-      {open ? <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="mt-1 block text-teal-800 dark:text-teal-200">{back}</motion.span>
+      {open ? <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }} className="mt-1 block text-violet-800 dark:text-violet-200">{back}</motion.span>
         : <span className="ml-2 text-xs muted">↻</span>}
     </button>
   )

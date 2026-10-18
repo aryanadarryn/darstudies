@@ -88,7 +88,7 @@ export function TimeSection({ draft, set }: P) {
             const on = draft.studyDays.includes(i)
             return (
               <button key={i} aria-pressed={on} onClick={() => set({ ...draft, studyDays: on ? draft.studyDays.filter((x) => x !== i) : [...draft.studyDays, i].sort() })}
-                className={`h-11 flex-1 rounded-xl text-xs font-semibold ${on ? 'bg-teal-700 text-white' : 'bg-slate-100 muted dark:bg-slate-800'}`}>{d}</button>
+                className={`h-11 flex-1 rounded-xl text-xs font-semibold ${on ? 'bg-violet-700 text-white' : 'bg-slate-100 muted dark:bg-slate-800'}`}>{d}</button>
             )
           })}
         </div>

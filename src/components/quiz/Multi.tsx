@@ -14,7 +14,7 @@ export default function Multi({ q, value, onChange, submitted }: QProps<'multi'>
         return (
           <button key={i} role="checkbox" aria-checked={picked} disabled={submitted} onClick={() => toggle(i)}
             className={`flex min-h-12 w-full items-center gap-3 rounded-xl border-2 p-3 text-left text-sm transition ${optionClass(state)}`}>
-            <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-md border-2 ${picked ? 'border-teal-600 bg-teal-600 text-white' : 'border-slate-300 dark:border-slate-600'}`}>
+            <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-md border-2 ${picked ? 'border-violet-600 bg-violet-600 text-white' : 'border-slate-300 dark:border-slate-600'}`}>
               {picked && '✓'}
             </span>
             <span>{L(o)}</span>

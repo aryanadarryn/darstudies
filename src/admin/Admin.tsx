@@ -24,7 +24,7 @@ export default function Admin() {
         <ul className="flex gap-1">
           {TABS.map((t) => (
             <li key={t.to}>
-              <NavLink to={t.to} end={t.end} className={({ isActive }) => `block whitespace-nowrap rounded-full px-3 py-1.5 text-sm font-semibold ${isActive ? 'bg-teal-700 text-white' : 'bg-slate-200 text-slate-700 dark:bg-slate-800 dark:text-slate-200'}`}>
+              <NavLink to={t.to} end={t.end} className={({ isActive }) => `block whitespace-nowrap rounded-full px-3 py-1.5 text-sm font-semibold ${isActive ? 'bg-violet-700 text-white' : 'bg-slate-200 text-slate-700 dark:bg-slate-800 dark:text-slate-200'}`}>
                 {t.label}
               </NavLink>
             </li>

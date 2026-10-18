@@ -72,7 +72,7 @@ export default function AdminPayments() {
       <input className={inputCls} placeholder="Filter by email" value={search} onChange={(e) => setSearch(e.target.value)} aria-label="Filter payments by email" />
       <div className="flex flex-wrap items-center gap-2 text-sm">
         {['all', 'paid', 'pending', 'failed', 'refunded'].map((s) => (
-          <button key={s} onClick={() => setStatus(s)} className={`rounded-full px-3 py-1 font-semibold ${status === s ? 'bg-teal-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>{s}</button>
+          <button key={s} onClick={() => setStatus(s)} className={`rounded-full px-3 py-1 font-semibold ${status === s ? 'bg-violet-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>{s}</button>
         ))}
         <span className="ml-auto muted">{rows.length} · paid {rm(total)}</span>
         <button className="btn-ghost" onClick={() => downloadCsv('darstudies-payments.csv', rows.map(({ raw: _raw, ...r }) => r))}>Export CSV</button>

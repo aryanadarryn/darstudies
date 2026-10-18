@@ -11,7 +11,7 @@ export const TASK_ICON: Record<StudyTask['type'], string> = {
 
 export interface TaskInfo { icon: string; title: string; subtitle: string; color: string; href: string }
 
-const NEUTRAL = '#0f766e'
+const NEUTRAL = '#6d28d9'
 
 export function useTaskInfo() {
   const { t, L } = useT()

@@ -24,7 +24,7 @@ export default function AdminSubscriptions() {
     <div className="space-y-3">
       <div className="flex flex-wrap items-center gap-2 text-sm">
         {(['all', 'active', 'expiring', 'lapsed'] as const).map((f) => (
-          <button key={f} onClick={() => setFilter(f)} className={`rounded-full px-3 py-1 font-semibold ${filter === f ? 'bg-teal-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
+          <button key={f} onClick={() => setFilter(f)} className={`rounded-full px-3 py-1 font-semibold ${filter === f ? 'bg-violet-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
             {f === 'expiring' ? 'expiring in 7 days' : f}
           </button>
         ))}

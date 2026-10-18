@@ -100,14 +100,14 @@ export default function Login() {
             </>
           )}
 
-          {message && <p role="status" className={`text-center text-sm ${message.ok ? 'text-teal-700 dark:text-teal-300' : 'text-red-600'}`}>{message.text}</p>}
+          {message && <p role="status" className={`text-center text-sm ${message.ok ? 'text-violet-700 dark:text-violet-300' : 'text-red-600'}`}>{message.text}</p>}
         </div>
 
         <p className="text-center text-xs muted">{t('auth.trialNote')}</p>
         <div className="flex justify-center gap-2 text-xs">
           {(['en', 'bm'] as const).map((l) => (
             <button key={l} onClick={() => update({ lang: l })}
-              className={`rounded-full px-3 py-1 font-semibold ${settings.lang === l ? 'bg-teal-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
+              className={`rounded-full px-3 py-1 font-semibold ${settings.lang === l ? 'bg-violet-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
               {l === 'en' ? 'English' : 'Bahasa Melayu'}
             </button>
           ))}

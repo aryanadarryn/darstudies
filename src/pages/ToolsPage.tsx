@@ -21,7 +21,7 @@ export default function ToolsPage() {
                 <div className="font-semibold">{L(tool.name)}</div>
                 <div className="mt-1 flex flex-wrap gap-1">{chips}</div>
               </div>
-              {tool.built ? <span className="text-teal-700 dark:text-teal-300">→</span> : <Pill>{t('common.comingSoon')}</Pill>}
+              {tool.built ? <span className="text-violet-700 dark:text-violet-300">→</span> : <Pill>{t('common.comingSoon')}</Pill>}
             </>
           )
           return (

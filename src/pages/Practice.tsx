@@ -28,7 +28,7 @@ export default function Practice() {
       <Link to="/practice/flashcards" className="card flex items-center gap-4">
         <span className="text-3xl">🃏</span>
         <div className="flex-1"><div className="font-bold">{t('practice.flashcards')}</div><div className="text-sm muted">{due} {t('practice.due')}</div></div>
-        {due > 0 && <span className="rounded-full bg-teal-700 px-2.5 py-1 text-xs font-bold text-white">{due}</span>}
+        {due > 0 && <span className="rounded-full bg-violet-700 px-2.5 py-1 text-xs font-bold text-white">{due}</span>}
       </Link>
       <Link to="/practice/drill" className="card flex items-center gap-4">
         <span className="w-8 text-center text-3xl font-bold">∑</span>
@@ -60,7 +60,7 @@ export default function Practice() {
       <section>
         <div className="mb-2 mt-4 flex items-center justify-between">
           <h2 className="text-lg font-bold">🧪 {t('practice.tools')}</h2>
-          <Link to="/practice/tools" className="text-sm font-semibold text-teal-700 dark:text-teal-300">→</Link>
+          <Link to="/practice/tools" className="text-sm font-semibold text-violet-700 dark:text-violet-300">→</Link>
         </div>
         <div className="grid grid-cols-2 gap-2 desk:grid-cols-3">
           {TOOLS.filter((x) => x.built).map((tool) => (

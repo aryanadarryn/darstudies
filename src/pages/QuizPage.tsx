@@ -88,7 +88,7 @@ export default function QuizPage() {
 
   let title: string = t('practice.quiz')
   let subtitle: string | undefined
-  let color = '#0f766e'
+  let color = '#6d28d9'
   const name = (x: Lang) => L(x)
   if (chapter && chapterById[chapter]) {
     const c = chapterById[chapter]

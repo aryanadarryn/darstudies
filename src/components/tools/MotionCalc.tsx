@@ -52,7 +52,7 @@ export default function MotionCalc() {
               <span className="w-8 text-center font-mono text-xl font-bold italic">{k}</span>
               <span className="w-28 shrink-0 text-xs muted">{lang === 'en' ? en : bm}</span>
               <input
-                className={`input tabular-nums ${solved !== undefined ? '!border-teal-500 !bg-teal-50 font-bold dark:!bg-teal-950/40' : ''}`}
+                className={`input tabular-nums ${solved !== undefined ? '!border-violet-500 !bg-violet-50 font-bold dark:!bg-violet-950/40' : ''}`}
                 inputMode="decimal" placeholder={solved !== undefined ? fmt(solved) : '?'} value={inputs[k] ?? ''}
                 onChange={(e) => setInputs({ ...inputs, [k]: e.target.value })}
               />

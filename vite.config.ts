@@ -16,7 +16,7 @@ export default defineConfig({
         name: 'Darstudies — Form 4 Study Companion',
         short_name: 'Darstudies',
         description: 'Preview and revise Form 4 KSSM subjects, with a daily study plan.',
-        theme_color: '#0f766e',
+        theme_color: '#6d28d9',
         background_color: '#f8fafc',
         display: 'standalone',
         orientation: 'portrait',

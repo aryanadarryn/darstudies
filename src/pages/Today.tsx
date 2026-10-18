@@ -76,7 +76,7 @@ export default function Today() {
 
       <div className="flex flex-wrap gap-2">
         {toSchool > 0 && (
-          <span className="rounded-full bg-teal-100 px-3 py-1 text-xs font-semibold text-teal-800 dark:bg-teal-900/50 dark:text-teal-200">🏫 {toSchool} {t('today.daysToSchool')}</span>
+          <span className="rounded-full bg-violet-100 px-3 py-1 text-xs font-semibold text-violet-800 dark:bg-violet-900/50 dark:text-violet-200">🏫 {toSchool} {t('today.daysToSchool')}</span>
         )}
         {nextExam && (
           <span className="rounded-full bg-rose-100 px-3 py-1 text-xs font-semibold text-rose-800 dark:bg-rose-900/50 dark:text-rose-200">
@@ -89,10 +89,10 @@ export default function Today() {
       </div>
 
       {!settings.onboarded && (
-        <div className="card !bg-gradient-to-br from-teal-600 to-teal-800 !text-white !border-0">
+        <div className="card !bg-gradient-to-br from-violet-600 to-violet-800 !text-white !border-0">
           <h2 className="text-lg font-bold">{t('today.setup')}</h2>
           <p className="mb-3 text-sm opacity-90">{t('today.setupBody')}</p>
-          <Link to="/planner/setup" className="btn bg-white text-teal-800">{t('common.start')} →</Link>
+          <Link to="/planner/setup" className="btn bg-white text-violet-800">{t('common.start')} →</Link>
         </div>
       )}
 

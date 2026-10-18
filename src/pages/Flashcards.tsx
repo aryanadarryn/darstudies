@@ -46,7 +46,7 @@ export default function Flashcards() {
   const card = deck?.[i]
   const state = card && states?.find((s) => s.cardId === card.id)
   const ch = card ? chapterById[card.id.split('-').slice(0, 2).join('-')] : undefined
-  const color = ch ? subjectById[ch.subjectId].color : '#0f766e'
+  const color = ch ? subjectById[ch.subjectId].color : '#6d28d9'
 
   return (
     <div className="desk:mx-auto desk:max-w-xl">

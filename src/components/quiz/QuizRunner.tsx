@@ -36,7 +36,7 @@ function QuestionBody({ q, ...p }: { q: Question; value: QuizResponse | undefine
 
 export interface QuizResult { correct: number; total: number }
 
-export default function QuizRunner({ questions, color = '#0f766e', onFinish, onRestart, onDone }: {
+export default function QuizRunner({ questions, color = '#6d28d9', onFinish, onRestart, onDone }: {
   questions: Question[]
   color?: string
   onFinish?: (r: QuizResult) => void
@@ -116,7 +116,7 @@ export default function QuizRunner({ questions, color = '#0f766e', onFinish, onR
         <motion.div key={q.id} initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }} className="space-y-4">
           <div>
             <p className="text-base font-semibold leading-relaxed">{L(q.prompt)}</p>
-            <button className="mt-1 text-xs font-semibold text-teal-700 dark:text-teal-300" onClick={() => setShowOther((s) => !s)}>
+            <button className="mt-1 text-xs font-semibold text-violet-700 dark:text-violet-300" onClick={() => setShowOther((s) => !s)}>
               {showOther ? '−' : '+'} {lang === 'en' ? 'BM' : 'EN'}
             </button>
             {showOther && <p className="mt-1 text-sm muted">{L2(q.prompt)}</p>}

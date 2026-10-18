@@ -135,7 +135,7 @@ export default function AdminUsers() {
       </form>
       <div className="flex flex-wrap items-center gap-2 text-sm">
         {['all', 'trial', 'full', 'expired'].map((t) => (
-          <button key={t} onClick={() => setTier(t)} className={`rounded-full px-3 py-1 font-semibold ${tier === t ? 'bg-teal-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
+          <button key={t} onClick={() => setTier(t)} className={`rounded-full px-3 py-1 font-semibold ${tier === t ? 'bg-violet-700 text-white' : 'bg-slate-200 dark:bg-slate-800'}`}>
             {t === 'full' ? 'subscribed' : t}
           </button>
         ))}

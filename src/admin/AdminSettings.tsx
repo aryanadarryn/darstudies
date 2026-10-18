@@ -86,7 +86,7 @@ export default function AdminSettings() {
       <p className="text-xs muted">Subscribers and admins always have everything. A subject is usable only when both the subject and the feature are ticked.</p>
       <ErrorNote error={error} />
       <div className="flex items-center justify-end gap-3">
-        {saved && <span role="status" className="text-sm text-teal-700 dark:text-teal-300">Saved ✓</span>}
+        {saved && <span role="status" className="text-sm text-violet-700 dark:text-violet-300">Saved ✓</span>}
         <button className="btn-primary" disabled={busy || form.trial_days < 0} onClick={save}>{busy ? 'Saving…' : 'Save settings'}</button>
       </div>
     </div>

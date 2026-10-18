@@ -63,7 +63,7 @@ function DayBlock({ date, tasks, onMenu }: { date: string; tasks: StudyTask[]; o
   return (
     <section>
       <div className="mb-2 flex items-center gap-2">
-        <h3 className={`text-sm font-bold ${date === today ? 'text-teal-700 dark:text-teal-300' : ''}`}>
+        <h3 className={`text-sm font-bold ${date === today ? 'text-violet-700 dark:text-violet-300' : ''}`}>
           {fromISO(date).toLocaleDateString(lang === 'bm' ? 'ms-MY' : 'en-MY', { weekday: 'long', day: 'numeric', month: 'short' })}
         </h3>
         <span className="rounded-full bg-slate-200 px-2 py-0.5 text-[10px] font-semibold dark:bg-slate-800">{t(`planner.phase.${phase}`)}</span>
@@ -109,7 +109,7 @@ function MonthView({ onMenu }: { onMenu: (t: StudyTask) => void }) {
           const allDone = ts.length > 0 && ts.every((x) => x.status === 'done')
           return (
             <button key={d} onClick={() => setSelected(d)}
-              className={`flex aspect-square flex-col items-center justify-start rounded-lg pt-1 text-xs ${selected === d ? 'bg-teal-700 text-white' : d === today ? 'ring-2 ring-teal-600' : ''} ${inMonth ? '' : 'opacity-30'}`}>
+              className={`flex aspect-square flex-col items-center justify-start rounded-lg pt-1 text-xs ${selected === d ? 'bg-violet-700 text-white' : d === today ? 'ring-2 ring-violet-600' : ''} ${inMonth ? '' : 'opacity-30'}`}>
               <span className="font-semibold">{Number(d.slice(8))}{allDone ? '✓' : ''}</span>
               <span className="mt-0.5 flex flex-wrap justify-center gap-0.5 px-0.5">
                 {ts.slice(0, 6).map((x) => (

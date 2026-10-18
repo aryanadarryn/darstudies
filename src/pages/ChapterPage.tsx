@@ -34,7 +34,7 @@ function FlipCard({ front, sub, back }: { front: string; sub: string; back: stri
           <div className="font-bold">{front}</div>
           <div className="text-xs muted">{sub}</div>
         </div>
-        <div className="backface-hidden absolute inset-0 flex items-center rounded-xl bg-teal-700 p-3 text-sm text-white" style={{ transform: 'rotateY(180deg)' }}>{back}</div>
+        <div className="backface-hidden absolute inset-0 flex items-center rounded-xl bg-violet-700 p-3 text-sm text-white" style={{ transform: 'rotateY(180deg)' }}>{back}</div>
       </motion.div>
     </button>
   )
@@ -49,7 +49,7 @@ function WorkedExample({ ex }: { ex: NonNullable<ChapterContent['intro']['worked
       <ol className="space-y-2">
         {ex.steps.slice(0, shown).map((s, i) => (
           <motion.li key={i} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="flex gap-2 rounded-xl bg-slate-50 p-3 text-sm dark:bg-slate-800/60">
-            <span className="font-bold text-teal-700 dark:text-teal-300">{i + 1}.</span><span>{L(s)}</span>
+            <span className="font-bold text-violet-700 dark:text-violet-300">{i + 1}.</span><span>{L(s)}</span>
           </motion.li>
         ))}
       </ol>

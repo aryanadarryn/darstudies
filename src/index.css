@@ -26,7 +26,7 @@ body {
 }
 
 @utility btn-primary {
-  @apply btn bg-teal-700 text-white hover:bg-teal-800 dark:bg-teal-600 dark:hover:bg-teal-500;
+  @apply btn bg-violet-700 text-white hover:bg-violet-800 dark:bg-violet-600 dark:hover:bg-violet-500;
 }
 
 @utility btn-secondary {
@@ -34,11 +34,11 @@ body {
 }
 
 @utility btn-ghost {
-  @apply btn text-teal-700 hover:bg-teal-50 dark:text-teal-300 dark:hover:bg-slate-800;
+  @apply btn text-violet-700 hover:bg-violet-50 dark:text-violet-300 dark:hover:bg-slate-800;
 }
 
 @utility input {
-  @apply min-h-11 w-full rounded-xl border border-slate-300 bg-white px-3 text-base text-slate-900 outline-none focus:border-teal-600 focus:ring-2 focus:ring-teal-600/20 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100;
+  @apply min-h-11 w-full rounded-xl border border-slate-300 bg-white px-3 text-base text-slate-900 outline-none focus:border-violet-600 focus:ring-2 focus:ring-violet-600/20 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100;
 }
 
 @utility label {
@@ -59,4 +59,4 @@ body {
 .perspective { perspective: 1000px; }
 .backface-hidden { backface-visibility: hidden; -webkit-backface-visibility: hidden; }
 
-input[type="range"] { accent-color: #0f766e; }
+input[type="range"] { accent-color: #6d28d9; }

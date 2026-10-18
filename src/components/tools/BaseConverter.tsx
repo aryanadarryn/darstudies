@@ -40,7 +40,7 @@ export default function BaseConverter() {
           <div className="grid grid-cols-3 gap-2">
             {BASES.map((b) => (
               <button key={b} onClick={() => setTo(b)}
-                className={`rounded-xl border-2 p-2 text-left ${to === b ? 'border-teal-600 bg-teal-50 dark:bg-teal-950/40' : 'border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-900'}`}>
+                className={`rounded-xl border-2 p-2 text-left ${to === b ? 'border-violet-600 bg-violet-50 dark:bg-violet-950/40' : 'border-slate-200 bg-white dark:border-slate-700 dark:bg-slate-900'}`}>
                 <div className="text-[10px] muted">{t('base', 'asas')} {b}</div>
                 <div className="break-all font-mono font-semibold">{value.toString(b)}</div>
               </button>
@@ -65,7 +65,7 @@ export default function BaseConverter() {
                     <tr key={i} className="border-b border-slate-100 dark:border-slate-800">
                       <td className="py-1">{to} ) {d.n}</td>
                       <td className="py-1 text-right muted">{t('rem', 'baki')}</td>
-                      <td className="w-8 py-1 text-right font-bold text-teal-700 dark:text-teal-300">{d.r}</td>
+                      <td className="w-8 py-1 text-right font-bold text-violet-700 dark:text-violet-300">{d.r}</td>
                     </tr>
                   ))}
                 </tbody>

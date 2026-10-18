@@ -29,7 +29,7 @@ export default function BottomNav() {
               to={tab.to}
               end={tab.end}
               className={({ isActive }) =>
-                `flex min-h-14 flex-col items-center justify-center gap-0.5 text-[11px] font-semibold ${isActive ? 'text-teal-700 dark:text-teal-300' : 'text-slate-500 dark:text-slate-400'}`
+                `flex min-h-14 flex-col items-center justify-center gap-0.5 text-[11px] font-semibold ${isActive ? 'text-violet-700 dark:text-violet-300' : 'text-slate-500 dark:text-slate-400'}`
               }
             >
               <svg viewBox="0 0 24 24" className="h-6 w-6" fill="none" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" aria-hidden>

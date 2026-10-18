@@ -32,7 +32,7 @@ export default function Match({ q, value, onChange, submitted }: QProps<'match'>
             const ok = submitted && pairs[i] === i
             return (
               <button key={i} disabled={submitted} onClick={() => setActive(i)}
-                className={`flex min-h-12 w-full items-center gap-2 rounded-xl border-2 p-2 text-left text-sm ${active === i ? 'border-teal-600 ring-2 ring-teal-600/20' : 'border-slate-200 dark:border-slate-700'} ${submitted ? (ok ? 'bg-green-50 dark:bg-green-950/40' : 'bg-red-50 dark:bg-red-950/40') : 'bg-white dark:bg-slate-900'}`}>
+                className={`flex min-h-12 w-full items-center gap-2 rounded-xl border-2 p-2 text-left text-sm ${active === i ? 'border-violet-600 ring-2 ring-violet-600/20' : 'border-slate-200 dark:border-slate-700'} ${submitted ? (ok ? 'bg-green-50 dark:bg-green-950/40' : 'bg-red-50 dark:bg-red-950/40') : 'bg-white dark:bg-slate-900'}`}>
                 <span className="h-3 w-3 shrink-0 rounded-full" style={{ backgroundColor: pairs[i] >= 0 ? COLORS[i % COLORS.length] : 'transparent', border: '2px solid ' + COLORS[i % COLORS.length] }} />
                 <span className="flex-1">
                   {L(p.left)}
