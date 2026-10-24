@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { type Access, canUse, daysLeft } from './access'
+import { type Access, canInstall, canUse, daysLeft } from './access'
 
 const base: Access = {
   tier: 'trial', is_admin: false, email: 'a@b.c', full_name: null, trial_ends_at: '2030-01-01T00:00:00Z',
@@ -35,4 +35,20 @@ describe('daysLeft', () => {
   it('rounds part days up', () => expect(daysLeft('2026-10-14T06:00:00Z', now)).toBe(2))
   it('never goes negative', () => expect(daysLeft('2026-10-01T00:00:00Z', now)).toBe(0))
   it('treats a missing date as ended', () => expect(daysLeft(undefined, now)).toBe(0))
+})
+
+describe('canInstall', () => {
+  it('allows install when accounts are switched off', () => {
+    expect(canInstall(undefined)).toBe(true)
+  })
+  it('blocks install when signed out', () => {
+    expect(canInstall(null)).toBe(false)
+  })
+  it('follows the server flag', () => {
+    expect(canInstall({ ...base, can_install: true })).toBe(true)
+    expect(canInstall({ ...base, tier: 'full', can_install: false })).toBe(false)
+  })
+  it('keeps the old behaviour when the server sends no flag', () => {
+    expect(canInstall(base)).toBe(true)
+  })
 })

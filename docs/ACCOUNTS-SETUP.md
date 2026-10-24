@@ -80,6 +80,18 @@ Then **Actions → Deploy to GitHub Pages → Run workflow**. The deploy uploads
    ```
 3. Reload the app → **Me → Admin**. From there you can make other people admin too.
 
+## 6b. App install (yearly subscribers only)
+
+Installing Darstudies on the home screen is a paid perk. Run this once in Supabase **SQL Editor**:
+paste the whole file [`supabase/migrations/20261025000000_app_install_access.sql`](../supabase/migrations/20261025000000_app_install_access.sql) and click **Run**.
+
+- Plans get an **"Includes installing the app"** option (Admin → Plans). It starts ticked for plans of 365 days or more (the Yearly plan).
+- Each user gets an **"Install the app"** setting (Admin → Users): *Follow plan*, *Always allow* or *Always block*. Admins can always install.
+- Everyone else uses Darstudies in the browser: the app no longer tells the browser it can be installed, and an app installed earlier by someone without the perk shows a "continue in the browser / get the Yearly plan" screen.
+- Browsers still let anyone add a plain bookmark shortcut to the home screen; that opens the normal website, not the app.
+
+Until the SQL above is run, the site behaves as before (everyone may install).
+
 ## 7. Test a payment (test mode)
 
 1. Sign in with a second (non-admin) account → **Me → Subscribe** → choose a plan.

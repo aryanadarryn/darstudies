@@ -10,7 +10,9 @@ export interface Access {
   email: string | null
   full_name: string | null
   trial_ends_at: string
-  subscription: { status: string; current_period_end: string; plan: { name_en: string; name_bm: string } | null } | null
+  /** May install the app (PWA): admin, allowed by an admin, or on a plan with app install. Missing on servers without that migration. */
+  can_install?: boolean
+  subscription: { status: string; current_period_end: string; plan: { name_en: string; name_bm: string; allow_install?: boolean } | null } | null
   subjects: string[]
   features: Feature[]
 }
@@ -27,6 +29,16 @@ export function canUse(access: Access | null | undefined, feature: Feature, subj
   if (access.tier === 'full') return true
   if (subject ? subject.startsWith('f3') : form === 3 && feature !== 'tools') return true
   return access.features.includes(feature) && (subject === undefined || access.subjects.includes(subject))
+}
+
+/**
+ * Whether the app may be installed on this device. Open when accounts are off; closed when signed out.
+ * A server without the install migration sends no flag, so behaviour stays as before (allowed).
+ */
+export function canInstall(access: Access | null | undefined): boolean {
+  if (access === undefined) return true
+  if (!access) return false
+  return access.can_install !== false
 }
 
 /** Whole days left until an ISO date (0 when passed). */

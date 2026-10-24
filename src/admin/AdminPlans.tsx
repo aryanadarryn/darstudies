@@ -2,10 +2,10 @@ import { useState } from 'react'
 import { useAsync } from '../lib/hooks'
 import { db, ErrorNote, Field, inputCls, Modal, rm } from './shared'
 
-interface Plan { id: string; name_en: string; name_bm: string; price_sen: number; interval_days: number; active: boolean; sort: number }
-const EMPTY: Omit<Plan, 'id'> = { name_en: '', name_bm: '', price_sen: 1490, interval_days: 30, active: true, sort: 0 }
+interface Plan { id: string; name_en: string; name_bm: string; price_sen: number; interval_days: number; active: boolean; sort: number; allow_install?: boolean }
+const EMPTY: Omit<Plan, 'id'> = { name_en: '', name_bm: '', price_sen: 1490, interval_days: 30, active: true, sort: 0, allow_install: false }
 
-function PlanEditor({ plan, onClose, onSaved }: { plan: Plan | null; onClose: () => void; onSaved: () => void }) {
+function PlanEditor({ plan, hasInstall, onClose, onSaved }: { plan: Plan | null; hasInstall: boolean; onClose: () => void; onSaved: () => void }) {
   const [form, setForm] = useState({ ...EMPTY, ...plan, price: ((plan?.price_sen ?? EMPTY.price_sen) / 100).toFixed(2) })
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<unknown>(null)
@@ -17,7 +17,7 @@ function PlanEditor({ plan, onClose, onSaved }: { plan: Plan | null; onClose: ()
     if (!Number.isFinite(price_sen) || price_sen < 100) return setError(new Error('Price must be at least RM 1.00.'))
     if (!(form.interval_days > 0)) return setError(new Error('Days must be more than 0.'))
     setBusy(true)
-    const row = { name_en: form.name_en.trim(), name_bm: form.name_bm.trim(), price_sen, interval_days: form.interval_days, active: form.active, sort: form.sort }
+    const row = { name_en: form.name_en.trim(), name_bm: form.name_bm.trim(), price_sen, interval_days: form.interval_days, active: form.active, sort: form.sort, ...(hasInstall ? { allow_install: !!form.allow_install } : {}) }
     const { error } = plan ? await db().from('plans').update(row).eq('id', plan.id) : await db().from('plans').insert(row)
     setBusy(false)
     if (error) setError(error)
@@ -44,6 +44,7 @@ function PlanEditor({ plan, onClose, onSaved }: { plan: Plan | null; onClose: ()
           <Field label="Display order"><input className={inputCls} type="number" value={form.sort} onChange={(e) => set({ sort: Number(e.target.value) })} /></Field>
         </div>
         <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={form.active} onChange={(e) => set({ active: e.target.checked })} /> Available for purchase</label>
+        {hasInstall && <label className="flex items-center gap-2 text-sm"><input type="checkbox" checked={!!form.allow_install} onChange={(e) => set({ allow_install: e.target.checked })} /> 📲 Includes installing the app (home screen)</label>}
         <ErrorNote error={error} />
         <div className="flex justify-between gap-2">
           {plan ? <button className="btn-ghost text-red-600" disabled={busy} onClick={remove}>Delete</button> : <span />}
@@ -77,14 +78,14 @@ export default function AdminPlans() {
             <button className={`card flex w-full items-center gap-3 !py-3 text-left ${p.active ? '' : 'opacity-60'}`} onClick={() => setEditing(p)}>
               <div className="min-w-0 flex-1">
                 <div className="font-semibold">{p.name_en} <span className="font-normal muted">/ {p.name_bm}</span></div>
-                <div className="text-xs muted">{p.interval_days} days{p.active ? '' : ' · hidden'}</div>
+                <div className="text-xs muted">{p.interval_days} days{p.allow_install ? ' · 📲 app install' : ''}{p.active ? '' : ' · hidden'}</div>
               </div>
               <span className="font-bold tabular-nums">{rm(p.price_sen)}</span>
             </button>
           </li>
         ))}
       </ul>
-      {editing && <PlanEditor plan={editing === 'new' ? null : editing} onClose={() => setEditing(null)} onSaved={done} />}
+      {editing && <PlanEditor plan={editing === 'new' ? null : editing} hasInstall={!!data?.length && 'allow_install' in data[0]} onClose={() => setEditing(null)} onSaved={done} />}
     </div>
   )
 }

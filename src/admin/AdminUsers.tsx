@@ -9,7 +9,11 @@ export interface AdminUser {
   trial_ends_at: string; created_at: string; last_seen_at: string | null
   subscription_id: string | null; plan_id: string | null; plan_name: string | null; sub_status: string | null
   current_period_end: string | null; tier: string
+  /** null = follow the plan, true = always allow, false = always block. Missing before the install migration. */
+  install_override?: boolean | null; can_install?: boolean
 }
+
+const overrideValue = (v: boolean | null | undefined) => (v === true ? 'allow' : v === false ? 'block' : 'plan')
 export interface PlanOption { id: string; name_en: string; interval_days: number; active: boolean }
 
 export const loadPlans = async (): Promise<PlanOption[]> => {
@@ -23,6 +27,7 @@ export function UserEditor({ user, plans, onClose, onSaved }: { user: AdminUser;
   const me = useAccount((s) => s.session?.user.id)
   const [trialEnd, setTrialEnd] = useState(toDateInput(user.trial_ends_at))
   const [isAdmin, setIsAdmin] = useState(user.is_admin)
+  const [install, setInstall] = useState(overrideValue(user.install_override))
   const [planId, setPlanId] = useState(user.plan_id ?? plans[0]?.id ?? '')
   const [subStatus, setSubStatus] = useState(user.sub_status ?? 'active')
   const [subEnd, setSubEnd] = useState(toDateInput(user.current_period_end))
@@ -36,7 +41,10 @@ export function UserEditor({ user, plans, onClose, onSaved }: { user: AdminUser;
   }
 
   const save = () => run(async () => {
-    const p = await db().from('profiles').update({ trial_ends_at: fromDateInput(trialEnd), is_admin: isAdmin }).eq('id', user.id)
+    const profile: Record<string, unknown> = { trial_ends_at: fromDateInput(trialEnd), is_admin: isAdmin }
+    // Only send the install setting when the server has the column (it reports install_override).
+    if ('install_override' in user) profile.install_override = install === 'allow' ? true : install === 'block' ? false : null
+    const p = await db().from('profiles').update(profile).eq('id', user.id)
     if (p.error) throw p.error
     if (subEnd) {
       const row = { user_id: user.id, plan_id: planId || null, status: subStatus, current_period_end: fromDateInput(subEnd), updated_at: new Date().toISOString() }
@@ -96,6 +104,16 @@ export function UserEditor({ user, plans, onClose, onSaved }: { user: AdminUser;
           </div>
         </fieldset>
 
+        {'install_override' in user && (
+          <Field label="📲 Install the app" hint={`Now: ${user.can_install ? 'allowed' : 'not allowed'}. "Follow plan" allows it only on plans that include app install (Plans tab).`}>
+            <select className={inputCls} value={install} onChange={(e) => setInstall(e.target.value)}>
+              <option value="plan">Follow plan</option>
+              <option value="allow">Always allow</option>
+              <option value="block">Always block</option>
+            </select>
+          </Field>
+        )}
+
         <label className="flex items-center gap-2 text-sm">
           <input type="checkbox" checked={isAdmin} disabled={user.id === me} onChange={(e) => setIsAdmin(e.target.checked)} />
           Admin (full access + this admin screen)
@@ -148,7 +166,7 @@ export default function AdminUsers() {
           <li key={u.id}>
             <button className="card flex w-full items-center gap-3 !py-3 text-left" onClick={() => setEditing(u)}>
               <div className="min-w-0 flex-1">
-                <div className="truncate font-semibold">{u.email ?? '—'} {u.is_admin && <span className="text-xs">🛠️</span>}</div>
+                <div className="truncate font-semibold">{u.email ?? '—'} {u.is_admin && <span className="text-xs">🛠️</span>}{u.can_install && <span className="text-xs" title="May install the app">📲</span>}</div>
                 <div className="truncate text-xs muted">
                   {u.full_name ?? '—'} · {u.provider ?? '—'} · joined {fmtDate(u.created_at)}
                   {u.tier === 'trial' && ` · trial to ${fmtDate(u.trial_ends_at)}`}

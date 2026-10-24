@@ -12,22 +12,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
-      manifest: {
-        name: 'Darstudies — Form 4 Study Companion',
-        short_name: 'Darstudies',
-        description: 'Preview and revise Form 4 KSSM subjects, with a daily study plan.',
-        theme_color: '#6d28d9',
-        background_color: '#f8fafc',
-        display: 'standalone',
-        orientation: 'portrait',
-        start_url: '.',
-        scope: '.',
-        icons: [
-          { src: 'icon-192.png', sizes: '192x192', type: 'image/png' },
-          { src: 'icon-512.png', sizes: '512x512', type: 'image/png' },
-          { src: 'icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
-        ],
-      },
+      // The manifest is not linked from index.html: installing the app is a perk for eligible users, so
+      // src/lib/installability.ts adds the <link rel="manifest"> (public/manifest.webmanifest) only for them.
+      manifest: false,
       workbox: {
         // Content JSON is bundled into lazy JS chunks, so precaching every chunk makes the app fully offline.
         globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'],

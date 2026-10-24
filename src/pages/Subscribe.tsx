@@ -7,7 +7,7 @@ import { PageHeader } from '../components/ui'
 import { useT } from '../i18n/useT'
 import { useAsync } from '../lib/hooks'
 
-interface Plan { id: string; name_en: string; name_bm: string; price_sen: number; interval_days: number }
+interface Plan { id: string; name_en: string; name_bm: string; price_sen: number; interval_days: number; allow_install?: boolean }
 
 export const ringgit = (sen: number) => `RM ${(sen / 100).toFixed(2)}`
 
@@ -46,7 +46,8 @@ export default function Subscribe() {
   const [busy, setBusy] = useState<string | null>(null)
   const [error, setError] = useState<string | null>(null)
   const { data: plans, loading } = useAsync(async () => {
-    const { data, error } = await supabase!.from('plans').select('id, name_en, name_bm, price_sen, interval_days').eq('active', true).order('sort')
+    // '*' so the page keeps working on a database that does not have the allow_install column yet.
+    const { data, error } = await supabase!.from('plans').select('*').eq('active', true).order('sort')
     if (error) throw error
     return data as Plan[]
   }, [])
@@ -97,6 +98,7 @@ export default function Subscribe() {
               <div className="font-bold">{lang === 'bm' ? p.name_bm : p.name_en}</div>
               <div className="text-2xl font-bold">{ringgit(p.price_sen)}</div>
               <div className="text-xs muted">{p.interval_days} {t('sub.days')}</div>
+              {p.allow_install && <div className="text-xs font-semibold text-violet-700 dark:text-violet-300">📲 {t('sub.includesInstall')}</div>}
               <button className="btn-primary mt-auto disabled:opacity-60" disabled={!!busy} onClick={() => pay(p)}>
                 {busy === p.id ? t('sub.redirecting') : `${t('sub.pay')} ${ringgit(p.price_sen)}`}
               </button>

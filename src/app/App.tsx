@@ -1,7 +1,9 @@
 import { lazy, Suspense, useEffect } from 'react'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { canInstall } from '../auth/access'
 import { useAccount } from '../auth/account'
 import { GatedPage } from '../auth/Locked'
+import { isStandalone, setInstallable } from '../lib/installability'
 import { AUTH_ENABLED } from '../auth/supabase'
 import { getKV } from '../db/db'
 import { regeneratePlan } from '../lib/actions'
@@ -25,6 +27,7 @@ const PlannerSetup = lazy(() => import('../pages/PlannerSetup'))
 const Me = lazy(() => import('../pages/Me'))
 const Subscribe = lazy(() => import('../pages/Subscribe'))
 const Login = lazy(() => import('../auth/Login'))
+const InstallBlocked = lazy(() => import('../auth/InstallBlocked'))
 const Admin = lazy(() => import('../admin/Admin'))
 const AdminOverview = lazy(() => import('../admin/Admin').then((m) => ({ default: m.AdminOverview })))
 const AdminUsers = lazy(() => import('../admin/AdminUsers'))
@@ -59,9 +62,11 @@ async function weeklyRefresh() {
 export default function App() {
   const { ready, load } = useSettings()
   const lang = useSettings((s) => s.settings.lang)
-  const { ready: accountReady, session, init } = useAccount()
+  const { ready: accountReady, session, access, init } = useAccount()
   useTheme()
   useEffect(() => { init() }, [init])
+  // Only eligible users get the manifest, so only they are offered "Install app".
+  useEffect(() => { setInstallable(canInstall(access)) }, [access])
   // Plan generation depends on what the user may open, so wait for the account check.
   useEffect(() => { if (accountReady) load().then(weeklyRefresh) }, [load, accountReady])
   useEffect(() => { document.documentElement.lang = lang === 'bm' ? 'ms' : 'en' }, [lang])
@@ -69,6 +74,10 @@ export default function App() {
   if (!ready || !accountReady) return null
   if (AUTH_ENABLED && !session) {
     return <Suspense fallback={null}><Login /></Suspense>
+  }
+  // Installed earlier but not (or no longer) allowed to use the installed app: send them to the browser.
+  if (access && !canInstall(access) && isStandalone()) {
+    return <Suspense fallback={null}><InstallBlocked /></Suspense>
   }
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}>
