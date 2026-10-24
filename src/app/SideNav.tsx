@@ -12,7 +12,7 @@ export default function SideNav() {
         <img src={`${import.meta.env.BASE_URL}icon-192.png`} alt="" className="h-9 w-9 rounded-xl" />
         <div>
           <div className="font-bold leading-tight">Darstudies</div>
-          <div className="text-[11px] muted">Form 4 · KSSM</div>
+          <div className="text-[11px] muted">Learn with Ease, Stress Less</div>
         </div>
       </div>
       <nav className="flex-1">
