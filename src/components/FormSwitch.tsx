@@ -6,12 +6,12 @@ import { toast } from './ui'
 
 export const useForm = (): Form => useSettings((s) => s.settings.form ?? 4)
 
-/** "Form 3 | Form 4" toggle. Learn, Practice and the planner all follow the chosen form. */
-export default function FormSwitch({ className = '' }: { className?: string }) {
+/** Sets the study form (plan, Practice, Today) and rebuilds the plan if the user is onboarded. */
+export function useChooseForm() {
   const { t } = useT()
   const { settings, update } = useSettings()
   const form = settings.form ?? 4
-  const choose = async (f: Form) => {
+  return async (f: Form) => {
     if (f === form) return
     await update({ form: f })
     if (settings.onboarded) {
@@ -19,6 +19,13 @@ export default function FormSwitch({ className = '' }: { className?: string }) {
       toast(t('form.switched'))
     }
   }
+}
+
+/** "Form 3 | Form 4" toggle. Learn, Practice and the planner all follow the chosen form. */
+export default function FormSwitch({ className = '' }: { className?: string }) {
+  const { t } = useT()
+  const form = useForm()
+  const choose = useChooseForm()
   return (
     <div role="radiogroup" aria-label={t('form.label')} className={`inline-flex rounded-full bg-slate-200 p-0.5 text-xs font-semibold dark:bg-slate-800 ${className}`}>
       {([3, 4] as const).map((f) => (
