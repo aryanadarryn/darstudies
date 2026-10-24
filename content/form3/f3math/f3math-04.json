@@ -1,0 +1,633 @@
+{
+  "chapterId": "f3math-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A house plan fits on one sheet of paper, yet the builders know the exact length of every wall. The secret is the scale written in the corner.",
+      "bm": "Pelan rumah muat pada sehelai kertas, namun pembina tahu panjang tepat setiap dinding. Rahsianya ialah skala yang ditulis di penjuru."
+    },
+    "bigIdeas": [
+      {
+        "en": "A scale 1 : n means 1 unit on the drawing represents n of the same units in real life.",
+        "bm": "Skala 1 : n bermaksud 1 unit pada lukisan mewakili n unit yang sama dalam keadaan sebenar."
+      },
+      {
+        "en": "Drawing length = actual length ÷ n; actual length = drawing length × n.",
+        "bm": "Panjang lukisan = panjang sebenar ÷ n; panjang sebenar = panjang lukisan × n."
+      },
+      {
+        "en": "Angles do not change; areas change by the square of the scale factor.",
+        "bm": "Sudut tidak berubah; luas berubah mengikut kuasa dua faktor skala."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Drawing is…",
+            "bm": "Lukisan ialah…"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "1 : 1",
+              "bm": "1 : 1"
+            },
+            "cells": [
+              {
+                "en": "Same size",
+                "bm": "Saiz sama"
+              },
+              {
+                "en": "actual size",
+                "bm": "saiz sebenar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "1 : 100",
+              "bm": "1 : 100"
+            },
+            "cells": [
+              {
+                "en": "1 cm represents 100 cm (1 m)",
+                "bm": "1 cm mewakili 100 cm (1 m)"
+              },
+              {
+                "en": "smaller",
+                "bm": "lebih kecil"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "2 : 1",
+              "bm": "2 : 1"
+            },
+            "cells": [
+              {
+                "en": "2 cm represents 1 cm",
+                "bm": "2 cm mewakili 1 cm"
+              },
+              {
+                "en": "larger (enlarged)",
+                "bm": "lebih besar (dibesarkan)"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Scale drawing",
+          "bm": "Lukisan berskala"
+        },
+        "definition": {
+          "en": "A drawing of an object with all lengths changed in the same ratio.",
+          "bm": "Lukisan objek yang semua panjangnya diubah dengan nisbah yang sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Scale",
+          "bm": "Skala"
+        },
+        "definition": {
+          "en": "The ratio drawing length : actual length, e.g. 1 : 50.",
+          "bm": "Nisbah panjang lukisan : panjang sebenar, cth. 1 : 50."
+        }
+      },
+      {
+        "term": {
+          "en": "Scale factor",
+          "bm": "Faktor skala"
+        },
+        "definition": {
+          "en": "Drawing length ÷ actual length.",
+          "bm": "Panjang lukisan ÷ panjang sebenar."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-scale"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "On a map with scale 1 : 50 000, two towns are 6 cm apart. What is the actual distance in km?",
+        "bm": "Pada peta berskala 1 : 50 000, dua bandar berjarak 6 cm. Berapakah jarak sebenar dalam km?"
+      },
+      "steps": [
+        {
+          "en": "Actual = 6 × 50 000 = 300 000 cm.",
+          "bm": "Sebenar = 6 × 50 000 = 300 000 cm."
+        },
+        {
+          "en": "300 000 cm = 3000 m = 3 km.",
+          "bm": "300 000 cm = 3000 m = 3 km."
+        }
+      ],
+      "answer": {
+        "en": "3 km",
+        "bm": "3 km"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-04-q01",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A drawing has scale 1 : 100. A wall is 5 cm long on the drawing. What is its actual length in metres?",
+        "bm": "Sebuah lukisan berskala 1 : 100. Sebuah dinding sepanjang 5 cm pada lukisan. Berapakah panjang sebenarnya dalam meter?"
+      },
+      "explanation": {
+        "en": "5 × 100 = 500 cm = 5 m.",
+        "bm": "5 × 100 = 500 cm = 5 m."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "m"
+    },
+    {
+      "id": "f3math-04-q02",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car is 4 m long. Draw it with scale 1 : 50. How long is the drawing in cm?",
+        "bm": "Sebuah kereta sepanjang 4 m. Lukis dengan skala 1 : 50. Berapakah panjang lukisan dalam cm?"
+      },
+      "explanation": {
+        "en": "4 m = 400 cm; 400 ÷ 50 = 8 cm.",
+        "bm": "4 m = 400 cm; 400 ÷ 50 = 8 cm."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-04-q03",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Scale 1 : 50 means…",
+        "bm": "Skala 1 : 50 bermaksud…"
+      },
+      "explanation": {
+        "en": "The first number is the drawing, the second is the actual object.",
+        "bm": "Nombor pertama ialah lukisan, nombor kedua ialah objek sebenar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1 cm on the drawing represents 50 cm in reality",
+          "bm": "1 cm pada lukisan mewakili 50 cm sebenar"
+        },
+        {
+          "en": "50 cm on the drawing represents 1 cm",
+          "bm": "50 cm pada lukisan mewakili 1 cm"
+        },
+        {
+          "en": "the drawing is 50 times larger",
+          "bm": "lukisan 50 kali lebih besar"
+        },
+        {
+          "en": "every length increases by 50 cm",
+          "bm": "setiap panjang bertambah 50 cm"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q04",
+      "subtopicId": "f3math-04-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A drawing with scale 1 : 2 is ______ the actual size. (half / double)",
+        "bm": "Lukisan berskala 1 : 2 ialah ______ saiz sebenar. (separuh / dua kali)"
+      },
+      "explanation": {
+        "en": "Each drawn length is 1/2 of the actual length.",
+        "bm": "Setiap panjang lukisan ialah 1/2 daripada panjang sebenar."
+      },
+      "difficulty": 1,
+      "answer": [
+        "half",
+        "separuh"
+      ]
+    },
+    {
+      "id": "f3math-04-q05",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which scale gives the LARGEST drawing of the same object?",
+        "bm": "Skala manakah memberi lukisan PALING besar bagi objek yang sama?"
+      },
+      "explanation": {
+        "en": "1 : 20 shrinks the object the least.",
+        "bm": "1 : 20 mengecilkan objek paling sedikit."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1 : 20",
+          "bm": "1 : 20"
+        },
+        {
+          "en": "1 : 50",
+          "bm": "1 : 50"
+        },
+        {
+          "en": "1 : 100",
+          "bm": "1 : 100"
+        },
+        {
+          "en": "1 : 500",
+          "bm": "1 : 500"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q06",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map of scale 1 : 50 000, a road measures 4 cm. Find its actual length in km.",
+        "bm": "Pada peta berskala 1 : 50 000, sebatang jalan berukuran 4 cm. Cari panjang sebenarnya dalam km."
+      },
+      "explanation": {
+        "en": "4 × 50 000 = 200 000 cm = 2 km.",
+        "bm": "4 × 50 000 = 200 000 cm = 2 km."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f3math-04-q07",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An insect 2 cm long is drawn 10 cm long. What is the scale?",
+        "bm": "Seekor serangga sepanjang 2 cm dilukis sepanjang 10 cm. Apakah skalanya?"
+      },
+      "explanation": {
+        "en": "10 : 2 simplifies to 5 : 1 — an enlargement.",
+        "bm": "10 : 2 diringkaskan kepada 5 : 1 — pembesaran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "5 : 1",
+          "bm": "5 : 1"
+        },
+        {
+          "en": "1 : 5",
+          "bm": "1 : 5"
+        },
+        {
+          "en": "1 : 10",
+          "bm": "1 : 10"
+        },
+        {
+          "en": "10 : 2",
+          "bm": "10 : 2"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q08",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a scale drawing, what happens to the angles?",
+        "bm": "Dalam lukisan berskala, apakah yang berlaku kepada sudut?"
+      },
+      "explanation": {
+        "en": "Scale drawings keep the shape, so angles are unchanged.",
+        "bm": "Lukisan berskala mengekalkan bentuk, jadi sudut tidak berubah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "They stay the same",
+          "bm": "Kekal sama"
+        },
+        {
+          "en": "They double",
+          "bm": "Menjadi dua kali"
+        },
+        {
+          "en": "They shrink by the scale",
+          "bm": "Mengecil mengikut skala"
+        },
+        {
+          "en": "They become right angles",
+          "bm": "Menjadi sudut tegak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q09",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A room is 6 m by 4 m. It is drawn with scale 1 : 100. Find the AREA of the drawing in cm².",
+        "bm": "Sebuah bilik berukuran 6 m × 4 m. Ia dilukis dengan skala 1 : 100. Cari LUAS lukisan dalam cm²."
+      },
+      "explanation": {
+        "en": "Drawing: 6 cm × 4 cm = 24 cm².",
+        "bm": "Lukisan: 6 cm × 4 cm = 24 cm²."
+      },
+      "difficulty": 2,
+      "answer": 24,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f3math-04-q10",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map, 3 cm represents 1.5 km. If the scale is 1 : n, find n.",
+        "bm": "Pada peta, 3 cm mewakili 1.5 km. Jika skalanya 1 : n, cari n."
+      },
+      "explanation": {
+        "en": "1.5 km = 150 000 cm. 150 000 ÷ 3 = 50 000.",
+        "bm": "1.5 km = 150 000 cm. 150 000 ÷ 3 = 50 000."
+      },
+      "difficulty": 2,
+      "answer": 50000,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-04-q11",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A drawing with scale 1 : 200 has an area of 12 cm². Find the actual area in m².",
+        "bm": "Sebuah lukisan berskala 1 : 200 mempunyai luas 12 cm². Cari luas sebenar dalam m²."
+      },
+      "explanation": {
+        "en": "Area scales by 200² = 40 000: 12 × 40 000 = 480 000 cm² = 48 m².",
+        "bm": "Luas berubah mengikut 200² = 40 000: 12 × 40 000 = 480 000 cm² = 48 m²."
+      },
+      "difficulty": 2,
+      "answer": 48,
+      "tolerance": 0,
+      "unit": "m²"
+    },
+    {
+      "id": "f3math-04-q12",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A 12 m long field is drawn as 3 cm. What is the scale?",
+        "bm": "Padang sepanjang 12 m dilukis sepanjang 3 cm. Apakah skalanya?"
+      },
+      "explanation": {
+        "en": "12 m = 1200 cm; 3 : 1200 = 1 : 400.",
+        "bm": "12 m = 1200 cm; 3 : 1200 = 1 : 400."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1 : 400",
+          "bm": "1 : 400"
+        },
+        {
+          "en": "1 : 4",
+          "bm": "1 : 4"
+        },
+        {
+          "en": "1 : 40",
+          "bm": "1 : 40"
+        },
+        {
+          "en": "1 : 4000",
+          "bm": "1 : 4000"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q13",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A model car uses scale 1 : 18. The real car is 4.5 m long. How long is the model in cm?",
+        "bm": "Model kereta menggunakan skala 1 : 18. Kereta sebenar sepanjang 4.5 m. Berapakah panjang model dalam cm?"
+      },
+      "explanation": {
+        "en": "450 cm ÷ 18 = 25 cm.",
+        "bm": "450 cm ÷ 18 = 25 cm."
+      },
+      "difficulty": 2,
+      "answer": 25,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-04-q14",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A drawing is redrawn from scale 1 : 100 to 1 : 50. What happens to every length on the drawing?",
+        "bm": "Sebuah lukisan dilukis semula daripada skala 1 : 100 kepada 1 : 50. Apakah yang berlaku kepada setiap panjang lukisan?"
+      },
+      "explanation": {
+        "en": "1/50 is twice 1/100.",
+        "bm": "1/50 ialah dua kali 1/100."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It doubles",
+          "bm": "Menjadi dua kali ganda"
+        },
+        {
+          "en": "It halves",
+          "bm": "Menjadi separuh"
+        },
+        {
+          "en": "It stays the same",
+          "bm": "Kekal sama"
+        },
+        {
+          "en": "It becomes 50 times larger",
+          "bm": "Menjadi 50 kali lebih besar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q15",
+      "subtopicId": "f3math-04-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to draw a scale drawing.",
+        "bm": "Susun langkah melukis lukisan berskala."
+      },
+      "explanation": {
+        "en": "Measure → choose → calculate → draw → label.",
+        "bm": "Ukur → pilih → hitung → lukis → label."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Measure the actual lengths",
+          "bm": "Ukur panjang sebenar"
+        },
+        {
+          "en": "Choose a suitable scale",
+          "bm": "Pilih skala yang sesuai"
+        },
+        {
+          "en": "Calculate the drawing lengths",
+          "bm": "Hitung panjang lukisan"
+        },
+        {
+          "en": "Draw using a ruler and protractor",
+          "bm": "Lukis menggunakan pembaris dan protraktor"
+        },
+        {
+          "en": "Label the scale on the drawing",
+          "bm": "Labelkan skala pada lukisan"
+        }
+      ]
+    },
+    {
+      "id": "f3math-04-q16",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Using scale 1 : 25, a table drawn 6 cm wide is how wide in reality (cm)?",
+        "bm": "Dengan skala 1 : 25, sebuah meja yang dilukis selebar 6 cm sebenarnya berapa lebar (cm)?"
+      },
+      "explanation": {
+        "en": "6 × 25 = 150 cm.",
+        "bm": "6 × 25 = 150 cm."
+      },
+      "difficulty": 2,
+      "answer": 150,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-04-q17",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A rectangular garden is drawn 5 cm × 3 cm on a plan with scale 1 : 400. Fencing costs RM20 per metre. Find the cost to fence the whole garden (RM).",
+        "bm": "Sebuah taman segi empat tepat dilukis 5 cm × 3 cm pada pelan berskala 1 : 400. Pagar berharga RM20 semeter. Cari kos memagar seluruh taman (RM)."
+      },
+      "explanation": {
+        "en": "Actual: 5 × 400 = 2000 cm = 20 m; 3 × 400 = 1200 cm = 12 m. Perimeter = 2(20 + 12) = 64 m. Cost = 64 × 20 = RM1280.",
+        "bm": "Sebenar: 5 × 400 = 2000 cm = 20 m; 3 × 400 = 1200 cm = 12 m. Perimeter = 2(20 + 12) = 64 m. Kos = 64 × 20 = RM1280."
+      },
+      "difficulty": 3,
+      "answer": 1280,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-04-q18",
+      "subtopicId": "f3math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Two maps show the same lake. On map A (1 : 20 000) the lake is 9 cm long. How long is it on map B (1 : 60 000), in cm?",
+        "bm": "Dua peta menunjukkan tasik yang sama. Pada peta A (1 : 20 000) tasik sepanjang 9 cm. Berapakah panjangnya pada peta B (1 : 60 000), dalam cm?"
+      },
+      "explanation": {
+        "en": "Actual = 9 × 20 000 = 180 000 cm. Map B = 180 000 ÷ 60 000 = 3 cm.",
+        "bm": "Sebenar = 9 × 20 000 = 180 000 cm. Peta B = 180 000 ÷ 60 000 = 3 cm."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-04-q19",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A square room has an area of 16 m². With scale 1 : 200, what is the side of the drawn square?",
+        "bm": "Sebuah bilik segi empat sama berluas 16 m². Dengan skala 1 : 200, berapakah sisi segi empat sama yang dilukis?"
+      },
+      "explanation": {
+        "en": "Side = 4 m = 400 cm; 400 ÷ 200 = 2 cm.",
+        "bm": "Sisi = 4 m = 400 cm; 400 ÷ 200 = 2 cm."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "2 cm",
+          "bm": "2 cm"
+        },
+        {
+          "en": "8 cm",
+          "bm": "8 cm"
+        },
+        {
+          "en": "4 cm",
+          "bm": "4 cm"
+        },
+        {
+          "en": "0.08 cm",
+          "bm": "0.08 cm"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-04-q20",
+      "subtopicId": "f3math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An architect must fit a 30 m building on paper whose usable length is 20 cm. Which scale is the BEST choice?",
+        "bm": "Seorang arkitek perlu memuatkan bangunan 30 m pada kertas dengan panjang boleh guna 20 cm. Skala manakah PILIHAN TERBAIK?"
+      },
+      "explanation": {
+        "en": "1 : 200 gives 3000 ÷ 200 = 15 cm (fits, still large). 1 : 100 gives 30 cm (too big); 1 : 1000 gives 3 cm (too small).",
+        "bm": "1 : 200 memberi 3000 ÷ 200 = 15 cm (muat, masih besar). 1 : 100 memberi 30 cm (terlalu besar); 1 : 1000 memberi 3 cm (terlalu kecil)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "1 : 200",
+          "bm": "1 : 200"
+        },
+        {
+          "en": "1 : 100",
+          "bm": "1 : 100"
+        },
+        {
+          "en": "1 : 50",
+          "bm": "1 : 50"
+        },
+        {
+          "en": "1 : 1000",
+          "bm": "1 : 1000"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

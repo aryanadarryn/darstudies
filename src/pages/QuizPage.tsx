@@ -2,7 +2,9 @@ import { useState } from 'react'
 import { Link, useNavigate, useSearchParams } from 'react-router-dom'
 import QuizRunner from '../components/quiz/QuizRunner'
 import { Empty, PageHeader } from '../components/ui'
-import { chapterById, loadAllFlashcards, loadAllQuestions, loadBridge, SUBJECTS, subjectById, subtopicById } from '../content'
+import { chapterById, loadAllFlashcards, loadAllQuestions, loadBridge, subjectById, subjectsOf, subtopicById } from '../content'
+import { formOf } from '../content/ids'
+import { useForm } from '../components/FormSwitch'
 import type { Lang, Question, SubjectId } from '../content/schema'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -30,11 +32,12 @@ async function prioritise(qs: Question[], n: number) {
 function ScopePicker() {
   const { t, L } = useT()
   const can = useCan()
+  const form = useForm()
   return (
     <div className="space-y-4">
       <p className="text-sm muted">{t('practice.chooseScope')}</p>
       <Link to="?mode=mixed" className="card flex items-center gap-3 font-semibold">🎲 {t('practice.mixed')}</Link>
-      {SUBJECTS.map((s) => {
+      {subjectsOf(form).map((s) => {
         const written = s.chapters.filter((c) => c.written)
         if (!written.length || !can('quiz', s.id)) return null
         return (
@@ -61,13 +64,16 @@ export default function QuizPage() {
   const subtopic = params.get('subtopic'), mode = params.get('mode'), set = params.get('set'), taskId = params.get('task')
   const hasScope = !!(chapter || subject || subtopic || mode || set)
   const can = useCan()
+  const form = useForm()
   const scopeSubject = subject ?? (chapter ? chapterById[chapter]?.subjectId : subtopic ? subtopicById[subtopic]?.subjectId : undefined)
   const locked = !!scopeSubject && !can('quiz', scopeSubject)
 
   const { data: questions, loading } = useAsync(async () => {
     if (!hasScope || locked) return []
     if (set === 'bridge') return prioritise((await loadBridge()).questions, QUIZ_SIZE)
-    const all = await loadAllQuestions()
+    // Mixed, weak-topic and default quizzes use the chosen form only.
+    const every = await loadAllQuestions()
+    const all = chapter || subject || subtopic ? every : every.filter((q) => formOf(q.subtopicId) === form)
     if (chapter) return prioritise(all.filter((q) => q.subtopicId.startsWith(chapter + '-')), QUIZ_SIZE)
     if (subtopic) {
       const own = await prioritise(all.filter((q) => q.subtopicId === subtopic), QUIZ_SIZE)
@@ -84,7 +90,7 @@ export default function QuizPage() {
       return picked.slice(0, QUIZ_SIZE)
     }
     return prioritise(all, QUIZ_SIZE)
-  }, [chapter, subject, subtopic, mode, set, round, locked])
+  }, [chapter, subject, subtopic, mode, set, round, locked, form])
 
   let title: string = t('practice.quiz')
   let subtitle: string | undefined

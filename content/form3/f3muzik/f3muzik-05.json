@@ -1,0 +1,828 @@
+{
+  "chapterId": "f3muzik-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Many famous songs start with a short four-note idea repeated and changed. Composing is building something big from a small musical seed.",
+      "bm": "Banyak lagu terkenal bermula dengan idea pendek empat not yang diulang dan diubah. Mencipta lagu ialah membina sesuatu yang besar daripada benih muzik yang kecil."
+    },
+    "bigIdeas": [
+      {
+        "en": "A motif is a short musical idea; it can be repeated, sequenced or varied.",
+        "bm": "Motif ialah idea muzik yang pendek; ia boleh diulang, dijujukkan atau diubah."
+      },
+      {
+        "en": "An ostinato is a repeated pattern; call and response alternates a leader and a group.",
+        "bm": "Ostinato ialah corak yang berulang; panggilan dan sahutan berselang antara ketua dengan kumpulan."
+      },
+      {
+        "en": "Good performance needs correct posture, breathing, rehearsal and stage etiquette.",
+        "bm": "Persembahan yang baik memerlukan postur betul, pernafasan, latihan dan etika pentas."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Motif",
+              "bm": "Motif"
+            },
+            "detail": {
+              "en": "Create a short idea (2–4 notes).",
+              "bm": "Cipta idea pendek (2–4 not)."
+            }
+          },
+          {
+            "title": {
+              "en": "Develop",
+              "bm": "Kembangkan"
+            },
+            "detail": {
+              "en": "Repeat, sequence (move up/down) or vary it.",
+              "bm": "Ulang, jujukkan (naik/turun) atau ubah."
+            }
+          },
+          {
+            "title": {
+              "en": "Phrase",
+              "bm": "Frasa"
+            },
+            "detail": {
+              "en": "Join ideas into a musical sentence.",
+              "bm": "Gabungkan idea menjadi ayat muzik."
+            }
+          },
+          {
+            "title": {
+              "en": "Structure",
+              "bm": "Struktur"
+            },
+            "detail": {
+              "en": "Arrange phrases into a form (AB, ABA).",
+              "bm": "Susun frasa mengikut bentuk (AB, ABA)."
+            }
+          },
+          {
+            "title": {
+              "en": "Perform and refine",
+              "bm": "Persembah dan perhalusi"
+            },
+            "detail": {
+              "en": "Play, listen, improve.",
+              "bm": "Mainkan, dengar, perbaiki."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Motif",
+          "bm": "Motif"
+        },
+        "definition": {
+          "en": "A short, recognisable musical idea.",
+          "bm": "Idea muzik pendek yang mudah dikenali."
+        }
+      },
+      {
+        "term": {
+          "en": "Sequence",
+          "bm": "Jujukan"
+        },
+        "definition": {
+          "en": "Repeating a motif at a higher or lower pitch.",
+          "bm": "Mengulang motif pada pic lebih tinggi atau rendah."
+        }
+      },
+      {
+        "term": {
+          "en": "Ostinato",
+          "bm": "Ostinato"
+        },
+        "definition": {
+          "en": "A rhythm or melody pattern repeated many times.",
+          "bm": "Corak ritma atau melodi yang diulang berkali-kali."
+        }
+      },
+      {
+        "term": {
+          "en": "Improvisation",
+          "bm": "Improvisasi"
+        },
+        "definition": {
+          "en": "Making up music on the spot.",
+          "bm": "Mencipta muzik secara spontan."
+        }
+      },
+      {
+        "term": {
+          "en": "Call and response",
+          "bm": "Panggilan dan sahutan"
+        },
+        "definition": {
+          "en": "A leader sings or plays a phrase; the group answers.",
+          "bm": "Ketua menyanyi atau memainkan frasa; kumpulan menjawab."
+        }
+      },
+      {
+        "term": {
+          "en": "Diaphragm breathing",
+          "bm": "Pernafasan diafragma"
+        },
+        "definition": {
+          "en": "Deep breathing from the lower lungs for steady singing.",
+          "bm": "Pernafasan dalam dari bahagian bawah paru-paru untuk nyanyian yang stabil."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Your motif is C D E. Write a sequence of it one step higher.",
+        "bm": "Motif anda ialah C D E. Tulis jujukannya satu langkah lebih tinggi."
+      },
+      "steps": [
+        {
+          "en": "Move every note up one step.",
+          "bm": "Naikkan setiap not satu langkah."
+        },
+        {
+          "en": "C → D, D → E, E → F.",
+          "bm": "C → D, D → E, E → F."
+        }
+      ],
+      "answer": {
+        "en": "D E F",
+        "bm": "D E F"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3muzik-05-q01",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A short, recognisable musical idea is a…",
+        "bm": "Idea muzik pendek yang mudah dikenali ialah…"
+      },
+      "explanation": {
+        "en": "Motifs are building blocks of melodies.",
+        "bm": "Motif ialah binaan asas melodi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "motif",
+          "bm": "motif"
+        },
+        {
+          "en": "clef",
+          "bm": "klef"
+        },
+        {
+          "en": "bar line",
+          "bm": "garis bar"
+        },
+        {
+          "en": "rest",
+          "bm": "tanda rehat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q02",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pattern repeated many times throughout a piece is an…",
+        "bm": "Corak yang diulang berkali-kali sepanjang lagu ialah…"
+      },
+      "explanation": {
+        "en": "Used often as an accompaniment.",
+        "bm": "Sering digunakan sebagai iringan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ostinato",
+          "bm": "ostinato"
+        },
+        {
+          "en": "interval",
+          "bm": "jeda"
+        },
+        {
+          "en": "accent",
+          "bm": "aksen"
+        },
+        {
+          "en": "cadence",
+          "bm": "kadens"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q03",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Making up music on the spot is…",
+        "bm": "Mencipta muzik secara spontan ialah…"
+      },
+      "explanation": {
+        "en": "Common in jazz and traditional music.",
+        "bm": "Lazim dalam jaz dan muzik tradisional."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "improvisation",
+          "bm": "improvisasi"
+        },
+        {
+          "en": "notation",
+          "bm": "notasi"
+        },
+        {
+          "en": "transposition",
+          "bm": "transposisi"
+        },
+        {
+          "en": "memorisation",
+          "bm": "hafalan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q04",
+      "subtopicId": "f3muzik-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Repeating a motif at a higher or lower pitch is called a ______.",
+        "bm": "Mengulang motif pada pic lebih tinggi atau rendah dipanggil ______."
+      },
+      "explanation": {
+        "en": "e.g. C D E → D E F.",
+        "bm": "cth. C D E → D E F."
+      },
+      "difficulty": 1,
+      "answer": [
+        "sequence",
+        "jujukan"
+      ]
+    },
+    {
+      "id": "f3muzik-05-q05",
+      "subtopicId": "f3muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Good singing posture includes…",
+        "bm": "Postur nyanyian yang baik termasuk…"
+      },
+      "explanation": {
+        "en": "Good posture lets air flow freely.",
+        "bm": "Postur yang baik membolehkan udara mengalir bebas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "standing tall with relaxed shoulders",
+          "bm": "berdiri tegak dengan bahu yang santai"
+        },
+        {
+          "en": "slouching",
+          "bm": "membongkok"
+        },
+        {
+          "en": "looking at the floor",
+          "bm": "memandang lantai"
+        },
+        {
+          "en": "locking the knees tightly",
+          "bm": "mengunci lutut dengan ketat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q06",
+      "subtopicId": "f3muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Singers breathe deeply using the…",
+        "bm": "Penyanyi bernafas dalam menggunakan…"
+      },
+      "explanation": {
+        "en": "Diaphragm breathing supports long phrases.",
+        "bm": "Pernafasan diafragma menyokong frasa yang panjang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "diaphragm",
+          "bm": "diafragma"
+        },
+        {
+          "en": "shoulders only",
+          "bm": "bahu sahaja"
+        },
+        {
+          "en": "nose only, very fast",
+          "bm": "hidung sahaja, sangat cepat"
+        },
+        {
+          "en": "throat muscles",
+          "bm": "otot tekak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q07",
+      "subtopicId": "f3muzik-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "At the end of a performance, performers usually…",
+        "bm": "Di akhir persembahan, pemain biasanya…"
+      },
+      "explanation": {
+        "en": "Stage etiquette shows respect.",
+        "bm": "Etika pentas menunjukkan rasa hormat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "bow together to thank the audience",
+          "bm": "tunduk hormat bersama untuk berterima kasih kepada penonton"
+        },
+        {
+          "en": "walk off without stopping",
+          "bm": "terus keluar tanpa berhenti"
+        },
+        {
+          "en": "talk loudly",
+          "bm": "bercakap dengan kuat"
+        },
+        {
+          "en": "play random notes",
+          "bm": "memainkan not rawak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q08",
+      "subtopicId": "f3muzik-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "As an audience member during a concert, you should…",
+        "bm": "Sebagai penonton semasa konsert, anda patut…"
+      },
+      "explanation": {
+        "en": "Audiences also have etiquette.",
+        "bm": "Penonton juga mempunyai etika."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "stay quiet and clap at the end of pieces",
+          "bm": "diam dan bertepuk di akhir lagu"
+        },
+        {
+          "en": "use your phone with the sound on",
+          "bm": "menggunakan telefon dengan bunyi"
+        },
+        {
+          "en": "walk around during the music",
+          "bm": "berjalan-jalan semasa muzik dimainkan"
+        },
+        {
+          "en": "talk to friends",
+          "bm": "berbual dengan kawan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q09",
+      "subtopicId": "f3muzik-05-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of composing a short melody.",
+        "bm": "Susun langkah mencipta melodi pendek."
+      },
+      "explanation": {
+        "en": "Small ideas grow into a whole piece.",
+        "bm": "Idea kecil berkembang menjadi lagu lengkap."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Create a motif",
+          "bm": "Cipta motif"
+        },
+        {
+          "en": "Develop it (repeat, sequence, vary)",
+          "bm": "Kembangkan (ulang, jujukan, ubah)"
+        },
+        {
+          "en": "Join ideas into phrases",
+          "bm": "Gabungkan idea menjadi frasa"
+        },
+        {
+          "en": "Arrange phrases into a form",
+          "bm": "Susun frasa mengikut bentuk"
+        },
+        {
+          "en": "Perform and refine",
+          "bm": "Persembah dan perhalusi"
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-05-q10",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your motif is E F G. What is its sequence one step LOWER?",
+        "bm": "Motif anda ialah E F G. Apakah jujukannya satu langkah LEBIH RENDAH?"
+      },
+      "explanation": {
+        "en": "Every note moves down one step.",
+        "bm": "Setiap not turun satu langkah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "D E F",
+          "bm": "D E F"
+        },
+        {
+          "en": "F G A",
+          "bm": "F G A"
+        },
+        {
+          "en": "E F G",
+          "bm": "E F G"
+        },
+        {
+          "en": "C D E",
+          "bm": "C D E"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q11",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A song where a leader sings a line and the group answers uses…",
+        "bm": "Lagu di mana ketua menyanyi satu baris dan kumpulan menjawab menggunakan…"
+      },
+      "explanation": {
+        "en": "Dikir barat uses this idea.",
+        "bm": "Dikir barat menggunakan idea ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "call and response",
+          "bm": "panggilan dan sahutan"
+        },
+        {
+          "en": "canon",
+          "bm": "kanon"
+        },
+        {
+          "en": "ostinato only",
+          "bm": "ostinato sahaja"
+        },
+        {
+          "en": "monophony only",
+          "bm": "monofoni sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q12",
+      "subtopicId": "f3muzik-05-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each performance problem with a solution.",
+        "bm": "Padankan masalah persembahan dengan penyelesaiannya."
+      },
+      "explanation": {
+        "en": "Preparation solves most problems.",
+        "bm": "Persediaan menyelesaikan kebanyakan masalah."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Running out of breath",
+            "bm": "Kehabisan nafas"
+          },
+          "right": {
+            "en": "Breathe from the diaphragm at phrase ends",
+            "bm": "Bernafas dengan diafragma di hujung frasa"
+          }
+        },
+        {
+          "left": {
+            "en": "Group not together",
+            "bm": "Kumpulan tidak serentak"
+          },
+          "right": {
+            "en": "Watch the conductor and count in",
+            "bm": "Perhatikan konduktor dan kira masuk"
+          }
+        },
+        {
+          "left": {
+            "en": "Nervousness",
+            "bm": "Gementar"
+          },
+          "right": {
+            "en": "Rehearse often and breathe slowly",
+            "bm": "Berlatih kerap dan bernafas perlahan"
+          }
+        },
+        {
+          "left": {
+            "en": "Out of tune",
+            "bm": "Sumbang"
+          },
+          "right": {
+            "en": "Listen carefully and tune instruments first",
+            "bm": "Dengar dengan teliti dan tala alat dahulu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-05-q13",
+      "subtopicId": "f3muzik-05-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL good practices for warming up before singing.",
+        "bm": "Pilih SEMUA amalan yang baik untuk memanaskan badan sebelum menyanyi."
+      },
+      "explanation": {
+        "en": "Shouting can strain the voice.",
+        "bm": "Menjerit boleh mencederakan suara."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Humming",
+          "bm": "Bersenandung"
+        },
+        {
+          "en": "Lip trills",
+          "bm": "Getaran bibir"
+        },
+        {
+          "en": "Gentle scales",
+          "bm": "Skel yang lembut"
+        },
+        {
+          "en": "Shouting as loudly as possible",
+          "bm": "Menjerit sekuat mungkin"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3muzik-05-q14",
+      "subtopicId": "f3muzik-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do ensembles have a conductor or leader?",
+        "bm": "Mengapakah ensembel mempunyai konduktor atau ketua?"
+      },
+      "explanation": {
+        "en": "Everyone follows the same signals.",
+        "bm": "Semua orang mengikut isyarat yang sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To keep tempo, cues and dynamics together",
+          "bm": "Untuk menyelaraskan tempo, isyarat dan dinamik"
+        },
+        {
+          "en": "To play the loudest",
+          "bm": "Untuk bermain paling kuat"
+        },
+        {
+          "en": "To sell tickets",
+          "bm": "Untuk menjual tiket"
+        },
+        {
+          "en": "It is decoration only",
+          "bm": "Hanya sebagai hiasan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q15",
+      "subtopicId": "f3muzik-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Practising a piece many times before a show is called ______.",
+        "bm": "Mengamalkan lagu berkali-kali sebelum persembahan dipanggil ______."
+      },
+      "explanation": {
+        "en": "A full practice in costume is a dress rehearsal.",
+        "bm": "Latihan penuh berpakaian persembahan ialah raptai penuh."
+      },
+      "difficulty": 2,
+      "answer": [
+        "rehearsal",
+        "rehearsing",
+        "latihan",
+        "raptai"
+      ]
+    },
+    {
+      "id": "f3muzik-05-q16",
+      "subtopicId": "f3muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "When playing a recorder, a squeaky sound usually means…",
+        "bm": "Semasa bermain rekorder, bunyi melengking biasanya bermaksud…"
+      },
+      "explanation": {
+        "en": "Blow gently and seal the holes with finger pads.",
+        "bm": "Tiup perlahan dan tutup lubang dengan hujung jari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "you are blowing too hard or holes are not fully covered",
+          "bm": "anda meniup terlalu kuat atau lubang tidak ditutup sepenuhnya"
+        },
+        {
+          "en": "the recorder is broken forever",
+          "bm": "rekorder rosak selama-lamanya"
+        },
+        {
+          "en": "you are playing perfectly",
+          "bm": "anda bermain dengan sempurna"
+        },
+        {
+          "en": "the tempo is too slow",
+          "bm": "tempo terlalu perlahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q17",
+      "subtopicId": "f3muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student's melody uses the same note for eight bars. How can it be improved?",
+        "bm": "Melodi seorang murid menggunakan not yang sama selama lapan bar. Bagaimanakah ia boleh diperbaiki?"
+      },
+      "explanation": {
+        "en": "Contrast and shape keep melodies interesting.",
+        "bm": "Kontras dan bentuk menjadikan melodi menarik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Add movement by step and leap, and develop a motif",
+          "bm": "Tambah pergerakan secara langkah dan lompatan, dan kembangkan motif"
+        },
+        {
+          "en": "Make it louder only",
+          "bm": "Kuatkan sahaja"
+        },
+        {
+          "en": "Add more of the same note",
+          "bm": "Tambah lagi not yang sama"
+        },
+        {
+          "en": "Remove the rhythm",
+          "bm": "Buang ritma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q18",
+      "subtopicId": "f3muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is recording your rehearsal useful?",
+        "bm": "Mengapakah merakam latihan berguna?"
+      },
+      "explanation": {
+        "en": "Listening back is a powerful self-check.",
+        "bm": "Mendengar semula ialah semakan kendiri yang berkesan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "You can hear mistakes and balance that are hard to notice while playing",
+          "bm": "Anda boleh mendengar kesilapan dan imbangan yang sukar disedari semasa bermain"
+        },
+        {
+          "en": "It replaces practice",
+          "bm": "Ia menggantikan latihan"
+        },
+        {
+          "en": "It makes you play faster",
+          "bm": "Ia menjadikan anda bermain lebih cepat"
+        },
+        {
+          "en": "It is not useful",
+          "bm": "Ia tidak berguna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q19",
+      "subtopicId": "f3muzik-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A performer forgets a few bars on stage. What is the BEST action?",
+        "bm": "Seorang pemain terlupa beberapa bar di atas pentas. Apakah tindakan PALING baik?"
+      },
+      "explanation": {
+        "en": "Audiences rarely notice if you keep going.",
+        "bm": "Penonton jarang perasan jika anda teruskan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Keep the beat, rejoin at the next phrase and stay calm",
+          "bm": "Kekalkan detik, sertai semula pada frasa seterusnya dan bertenang"
+        },
+        {
+          "en": "Stop and leave the stage",
+          "bm": "Berhenti dan keluar dari pentas"
+        },
+        {
+          "en": "Start the whole piece again loudly",
+          "bm": "Mulakan semula seluruh lagu dengan kuat"
+        },
+        {
+          "en": "Blame the audience",
+          "bm": "Salahkan penonton"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-05-q20",
+      "subtopicId": "f3muzik-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a group composition project build teamwork?",
+        "bm": "Mengapakah projek mencipta lagu secara berkumpulan membina kerja berpasukan?"
+      },
+      "explanation": {
+        "en": "Music-making is a social activity.",
+        "bm": "Bermain muzik ialah aktiviti sosial."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Members share ideas, combine parts and listen to each other",
+          "bm": "Ahli berkongsi idea, menggabungkan bahagian dan saling mendengar"
+        },
+        {
+          "en": "One person does everything",
+          "bm": "Seorang melakukan semuanya"
+        },
+        {
+          "en": "Nobody needs to listen",
+          "bm": "Tiada siapa perlu mendengar"
+        },
+        {
+          "en": "It avoids performing",
+          "bm": "Ia mengelakkan persembahan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

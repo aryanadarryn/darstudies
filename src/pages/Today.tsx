@@ -6,7 +6,8 @@ import InstallPrompt from '../components/InstallPrompt'
 import { TrialBanner } from '../auth/Locked'
 import TaskCard from '../components/TaskCard'
 import { Empty, ProgressBar, toast } from '../components/ui'
-import { FORMULAS } from '../content'
+import { formulasOf } from '../content'
+import { useForm } from '../components/FormSwitch'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { rescheduleOverdue, resetPlanFromToday } from '../lib/actions'
@@ -30,7 +31,9 @@ export default function Today() {
   const hour = new Date().getHours()
   const greeting = t(hour < 12 ? 'today.greeting.morning' : hour < 19 ? 'today.greeting.afternoon' : 'today.greeting.evening')
   const dateLabel = fromISO(today).toLocaleDateString(lang === 'bm' ? 'ms-MY' : 'en-MY', { weekday: 'long', day: 'numeric', month: 'long' })
-  const formula = FORMULAS[dayIndex(today, FORMULAS.length)]
+  const form = useForm()
+  const FORMULAS = formulasOf(form)
+  const formula = FORMULAS.length ? FORMULAS[dayIndex(today, FORMULAS.length)] : undefined
 
   const tasks = useMemo(() => (todayTasks ?? []).filter((x) => x.status !== 'skipped'), [todayTasks])
   const planned = tasks.reduce((s, x) => s + x.minutes, 0)

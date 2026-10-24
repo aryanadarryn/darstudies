@@ -1,0 +1,877 @@
+{
+  "chapterId": "f3bm-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Pulau Pandan jauh ke tengah, / Gunung Daik bercabang tiga…\" — this pantun is centuries old, yet every Malaysian student can still finish it.",
+      "bm": "\"Pulau Pandan jauh ke tengah, / Gunung Daik bercabang tiga…\" — pantun ini berusia ratusan tahun, namun setiap murid Malaysia masih boleh menghabiskannya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Traditional poetry has fixed forms: pantun, syair, gurindam, seloka. Modern poetry (sajak) is free in form.",
+        "bm": "Puisi tradisional mempunyai bentuk tetap: pantun, syair, gurindam, seloka. Puisi moden (sajak) bebas bentuknya."
+      },
+      {
+        "en": "Prose works are analysed through tema, persoalan, watak, plot, latar, sudut pandangan, nilai and pengajaran.",
+        "bm": "Karya prosa dianalisis melalui tema, persoalan, watak, plot, latar, sudut pandangan, nilai dan pengajaran."
+      },
+      {
+        "en": "Literary devices (gaya bahasa) make writing vivid: simile, metafora, personifikasi, hiperbola, anafora, epifora, aliterasi, asonansi.",
+        "bm": "Gaya bahasa menjadikan karya lebih hidup: simile, metafora, personifikasi, hiperbola, anafora, epifora, aliterasi, asonansi."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Lines per stanza",
+            "bm": "Baris serangkap"
+          },
+          {
+            "en": "Rhyme / feature",
+            "bm": "Rima / ciri"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Pantun",
+              "bm": "Pantun"
+            },
+            "cells": [
+              {
+                "en": "Usually 4 (pembayang + maksud)",
+                "bm": "Lazimnya 4 (pembayang + maksud)"
+              },
+              {
+                "en": "a-b-a-b",
+                "bm": "a-b-a-b"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Syair",
+              "bm": "Syair"
+            },
+            "cells": [
+              {
+                "en": "4",
+                "bm": "4"
+              },
+              {
+                "en": "a-a-a-a; tells a story",
+                "bm": "a-a-a-a; bercerita"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Gurindam",
+              "bm": "Gurindam"
+            },
+            "cells": [
+              {
+                "en": "2",
+                "bm": "2"
+              },
+              {
+                "en": "a-a; line 1 condition, line 2 result",
+                "bm": "a-a; baris 1 syarat, baris 2 akibat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Seloka",
+              "bm": "Seloka"
+            },
+            "cells": [
+              {
+                "en": "Free",
+                "bm": "Bebas"
+              },
+              {
+                "en": "Satire or humour",
+                "bm": "Sindiran atau jenaka"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sajak",
+              "bm": "Sajak"
+            },
+            "cells": [
+              {
+                "en": "Free",
+                "bm": "Bebas"
+              },
+              {
+                "en": "Modern, free form",
+                "bm": "Moden, bentuk bebas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Pembayang",
+          "bm": "Pembayang"
+        },
+        "definition": {
+          "en": "The first half of a pantun, usually about nature, which hints at the meaning.",
+          "bm": "Separuh pertama pantun, lazimnya tentang alam, yang membayangkan maksud."
+        }
+      },
+      {
+        "term": {
+          "en": "Tema",
+          "bm": "Tema"
+        },
+        "definition": {
+          "en": "The central idea of a work.",
+          "bm": "Persoalan utama sesebuah karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Persoalan",
+          "bm": "Persoalan"
+        },
+        "definition": {
+          "en": "Smaller issues raised in the work.",
+          "bm": "Isu-isu kecil yang dibangkitkan dalam karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Latar",
+          "bm": "Latar"
+        },
+        "definition": {
+          "en": "Setting: place, time and society.",
+          "bm": "Latar tempat, masa dan masyarakat."
+        }
+      },
+      {
+        "term": {
+          "en": "Sudut pandangan",
+          "bm": "Sudut pandangan"
+        },
+        "definition": {
+          "en": "Point of view: first person (\"aku\") or third person (\"dia\").",
+          "bm": "Sudut pandangan orang pertama (\"aku\") atau orang ketiga (\"dia\")."
+        }
+      },
+      {
+        "term": {
+          "en": "Personifikasi",
+          "bm": "Personifikasi"
+        },
+        "definition": {
+          "en": "Giving human qualities to non-human things: angin berbisik.",
+          "bm": "Memberi sifat manusia kepada benda bukan manusia: angin berbisik."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Identify the gaya bahasa: \"Ombak memukul pantai dengan marah.\"",
+        "bm": "Kenal pasti gaya bahasa: \"Ombak memukul pantai dengan marah.\""
+      },
+      "steps": [
+        {
+          "en": "\"Marah\" is a human emotion.",
+          "bm": "\"Marah\" ialah perasaan manusia."
+        },
+        {
+          "en": "It is given to waves, which are not human.",
+          "bm": "Ia diberikan kepada ombak, yang bukan manusia."
+        }
+      ],
+      "answer": {
+        "en": "Personifikasi.",
+        "bm": "Personifikasi."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bm-06-q01",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A typical pantun has how many lines per stanza?",
+        "bm": "Pantun lazimnya mempunyai berapa baris serangkap?"
+      },
+      "explanation": {
+        "en": "Two lines pembayang and two lines maksud.",
+        "bm": "Dua baris pembayang dan dua baris maksud."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "8",
+          "bm": "8"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q02",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The rhyme scheme of a four-line pantun is…",
+        "bm": "Skema rima pantun empat kerat ialah…"
+      },
+      "explanation": {
+        "en": "Syair uses a-a-a-a.",
+        "bm": "Syair menggunakan a-a-a-a."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-a-b-b",
+          "bm": "a-a-b-b"
+        },
+        {
+          "en": "a-b-b-a",
+          "bm": "a-b-b-a"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q03",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A gurindam has how many lines per stanza?",
+        "bm": "Gurindam mempunyai berapa baris serangkap?"
+      },
+      "explanation": {
+        "en": "Line 1 is a condition; line 2 is the result.",
+        "bm": "Baris 1 syarat; baris 2 jawapan atau akibat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q04",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which poem form often tells a story, with every line carrying meaning (a-a-a-a)?",
+        "bm": "Bentuk puisi manakah lazimnya bercerita, dengan semua baris membawa maksud (a-a-a-a)?"
+      },
+      "explanation": {
+        "en": "Syair has no pembayang.",
+        "bm": "Syair tiada pembayang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "syair",
+          "bm": "syair"
+        },
+        {
+          "en": "pantun",
+          "bm": "pantun"
+        },
+        {
+          "en": "gurindam",
+          "bm": "gurindam"
+        },
+        {
+          "en": "sajak",
+          "bm": "sajak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q05",
+      "subtopicId": "f3bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The setting of time, place and society in a story is called…",
+        "bm": "Masa, tempat dan masyarakat dalam cerita dipanggil…"
+      },
+      "explanation": {
+        "en": "Latar tempat, latar masa, latar masyarakat.",
+        "bm": "Latar tempat, latar masa, latar masyarakat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "latar",
+          "bm": "latar"
+        },
+        {
+          "en": "plot",
+          "bm": "plot"
+        },
+        {
+          "en": "tema",
+          "bm": "tema"
+        },
+        {
+          "en": "watak",
+          "bm": "watak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q06",
+      "subtopicId": "f3bm-06-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A story told using \"aku\" uses the ______ person point of view.",
+        "bm": "Cerita yang menggunakan \"aku\" menggunakan sudut pandangan orang ______."
+      },
+      "explanation": {
+        "en": "Third person uses \"dia\" or names.",
+        "bm": "Orang ketiga menggunakan \"dia\" atau nama."
+      },
+      "difficulty": 1,
+      "answer": [
+        "first",
+        "pertama"
+      ]
+    },
+    {
+      "id": "f3bm-06-q07",
+      "subtopicId": "f3bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Wajahnya putih seperti kapas.\" This is…",
+        "bm": "\"Wajahnya putih seperti kapas.\" Ini ialah…"
+      },
+      "explanation": {
+        "en": "Simile compares using seperti/bagai/umpama.",
+        "bm": "Simile membandingkan menggunakan seperti/bagai/umpama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "metafora",
+          "bm": "metafora"
+        },
+        {
+          "en": "personifikasi",
+          "bm": "personifikasi"
+        },
+        {
+          "en": "hiperbola",
+          "bm": "hiperbola"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q08",
+      "subtopicId": "f3bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Lautan ilmu\" (an ocean of knowledge) is an example of…",
+        "bm": "\"Lautan ilmu\" ialah contoh…"
+      },
+      "explanation": {
+        "en": "Metafora compares directly without bagai/seperti.",
+        "bm": "Metafora membandingkan secara langsung tanpa bagai/seperti."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "metafora",
+          "bm": "metafora"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "epifora",
+          "bm": "epifora"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q09",
+      "subtopicId": "f3bm-06-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each gaya bahasa with its example.",
+        "bm": "Padankan gaya bahasa dengan contohnya."
+      },
+      "explanation": {
+        "en": "Each device creates a different effect.",
+        "bm": "Setiap gaya bahasa memberi kesan yang berbeza."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Personifikasi",
+            "bm": "Personifikasi"
+          },
+          "right": {
+            "en": "Angin berbisik di telingaku",
+            "bm": "Angin berbisik di telingaku"
+          }
+        },
+        {
+          "left": {
+            "en": "Hiperbola",
+            "bm": "Hiperbola"
+          },
+          "right": {
+            "en": "Suaranya membelah bumi",
+            "bm": "Suaranya membelah bumi"
+          }
+        },
+        {
+          "left": {
+            "en": "Simile",
+            "bm": "Simile"
+          },
+          "right": {
+            "en": "Matanya bersinar bagai bintang",
+            "bm": "Matanya bersinar bagai bintang"
+          }
+        },
+        {
+          "left": {
+            "en": "Metafora",
+            "bm": "Metafora"
+          },
+          "right": {
+            "en": "Lautan ilmu",
+            "bm": "Lautan ilmu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bm-06-q10",
+      "subtopicId": "f3bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Repeating a word at the BEGINNING of consecutive lines is called…",
+        "bm": "Pengulangan perkataan di AWAL baris berturutan dipanggil…"
+      },
+      "explanation": {
+        "en": "Epifora repeats words at the end of lines.",
+        "bm": "Epifora mengulang perkataan di akhir baris."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "epifora",
+          "bm": "epifora"
+        },
+        {
+          "en": "aliterasi",
+          "bm": "aliterasi"
+        },
+        {
+          "en": "asonansi",
+          "bm": "asonansi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q11",
+      "subtopicId": "f3bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Desir desau di dalam dusun\" repeats the consonant \"d\". This is…",
+        "bm": "\"Desir desau di dalam dusun\" mengulang konsonan \"d\". Ini ialah…"
+      },
+      "explanation": {
+        "en": "Asonansi repeats vowel sounds.",
+        "bm": "Asonansi mengulang bunyi vokal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "aliterasi",
+          "bm": "aliterasi"
+        },
+        {
+          "en": "asonansi",
+          "bm": "asonansi"
+        },
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q12",
+      "subtopicId": "f3bm-06-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of a plot.",
+        "bm": "Susun peringkat plot."
+      },
+      "explanation": {
+        "en": "Conflict rises to the klimaks and is resolved in the peleraian.",
+        "bm": "Konflik memuncak di klimaks dan diselesaikan dalam peleraian."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Permulaan",
+          "bm": "Permulaan"
+        },
+        {
+          "en": "Perkembangan",
+          "bm": "Perkembangan"
+        },
+        {
+          "en": "Klimaks",
+          "bm": "Klimaks"
+        },
+        {
+          "en": "Peleraian",
+          "bm": "Peleraian"
+        }
+      ]
+    },
+    {
+      "id": "f3bm-06-q13",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the pantun \"Pulau Pandan jauh ke tengah, / Gunung Daik bercabang tiga; / Hancur badan dikandung tanah, / Budi yang baik dikenang juga\", what is the message?",
+        "bm": "Dalam pantun \"Pulau Pandan jauh ke tengah, / Gunung Daik bercabang tiga; / Hancur badan dikandung tanah, / Budi yang baik dikenang juga\", apakah maksudnya?"
+      },
+      "explanation": {
+        "en": "The last two lines carry the meaning (maksud).",
+        "bm": "Dua baris terakhir membawa maksud."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Good deeds are remembered even after death",
+          "bm": "Budi baik tetap dikenang walaupun selepas mati"
+        },
+        {
+          "en": "Islands are far away",
+          "bm": "Pulau itu jauh"
+        },
+        {
+          "en": "Mountains have three peaks",
+          "bm": "Gunung bercabang tiga"
+        },
+        {
+          "en": "The body is strong",
+          "bm": "Badan itu kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q14",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Barang siapa tiada memegang agama, / Sekali-kali tiada boleh dibilangkan nama.\" This is a…",
+        "bm": "\"Barang siapa tiada memegang agama, / Sekali-kali tiada boleh dibilangkan nama.\" Ini ialah…"
+      },
+      "explanation": {
+        "en": "From Gurindam Dua Belas by Raja Ali Haji.",
+        "bm": "Daripada Gurindam Dua Belas karya Raja Ali Haji."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gurindam",
+          "bm": "gurindam"
+        },
+        {
+          "en": "pantun",
+          "bm": "pantun"
+        },
+        {
+          "en": "syair",
+          "bm": "syair"
+        },
+        {
+          "en": "seloka",
+          "bm": "seloka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q15",
+      "subtopicId": "f3bm-06-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL elements used to analyse a short story (cerpen).",
+        "bm": "Pilih SEMUA unsur yang digunakan untuk menganalisis cerpen."
+      },
+      "explanation": {
+        "en": "Rhyme scheme is for poetry.",
+        "bm": "Skema rima untuk puisi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tema",
+          "bm": "Tema"
+        },
+        {
+          "en": "Watak dan perwatakan",
+          "bm": "Watak dan perwatakan"
+        },
+        {
+          "en": "Latar",
+          "bm": "Latar"
+        },
+        {
+          "en": "Skema rima",
+          "bm": "Skema rima"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bm-06-q16",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which form is often humorous or satirical, e.g. about Pak Kaduk or Lebai Malang?",
+        "bm": "Bentuk manakah sering berunsur jenaka atau sindiran, cth. tentang Pak Kaduk atau Lebai Malang?"
+      },
+      "explanation": {
+        "en": "Seloka has a free form.",
+        "bm": "Seloka bebas bentuknya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "seloka",
+          "bm": "seloka"
+        },
+        {
+          "en": "gurindam",
+          "bm": "gurindam"
+        },
+        {
+          "en": "syair",
+          "bm": "syair"
+        },
+        {
+          "en": "pantun",
+          "bm": "pantun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q17",
+      "subtopicId": "f3bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the difference between tema and persoalan?",
+        "bm": "Apakah perbezaan antara tema dengan persoalan?"
+      },
+      "explanation": {
+        "en": "A work has one tema but several persoalan.",
+        "bm": "Sesebuah karya mempunyai satu tema tetapi beberapa persoalan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Tema is the central idea; persoalan are smaller issues supporting it",
+          "bm": "Tema ialah idea utama; persoalan ialah isu kecil yang menyokongnya"
+        },
+        {
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
+        },
+        {
+          "en": "Tema is the title",
+          "bm": "Tema ialah tajuk"
+        },
+        {
+          "en": "Persoalan is the setting",
+          "bm": "Persoalan ialah latar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q18",
+      "subtopicId": "f3bm-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do poets use personifikasi?",
+        "bm": "Mengapakah penyair menggunakan personifikasi?"
+      },
+      "explanation": {
+        "en": "Explain the effect, not just name the device.",
+        "bm": "Terangkan kesannya, bukan sekadar menamakan gaya bahasa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To make nature feel alive and help readers feel the emotion",
+          "bm": "Supaya alam terasa hidup dan membantu pembaca merasai emosi"
+        },
+        {
+          "en": "To make the poem shorter",
+          "bm": "Supaya puisi lebih pendek"
+        },
+        {
+          "en": "To add numbers",
+          "bm": "Untuk menambah nombor"
+        },
+        {
+          "en": "To confuse readers",
+          "bm": "Untuk mengelirukan pembaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q19",
+      "subtopicId": "f3bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A story is told by \"aku\", who sees only his own thoughts. What is a limitation of this point of view?",
+        "bm": "Sebuah cerita disampaikan oleh \"aku\" yang hanya mengetahui fikirannya sendiri. Apakah kekangan sudut pandangan ini?"
+      },
+      "explanation": {
+        "en": "But it feels more personal and close.",
+        "bm": "Namun ia terasa lebih peribadi dan dekat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Readers cannot directly know other characters' thoughts",
+          "bm": "Pembaca tidak dapat mengetahui fikiran watak lain secara langsung"
+        },
+        {
+          "en": "There is no main character",
+          "bm": "Tiada watak utama"
+        },
+        {
+          "en": "There is no setting",
+          "bm": "Tiada latar"
+        },
+        {
+          "en": "It cannot have a plot",
+          "bm": "Ia tidak boleh mempunyai plot"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-06-q20",
+      "subtopicId": "f3bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are traditional poems like pantun still important today?",
+        "bm": "Mengapakah puisi tradisional seperti pantun masih penting hari ini?"
+      },
+      "explanation": {
+        "en": "Pantun are still used in weddings, speeches and ceremonies.",
+        "bm": "Pantun masih digunakan dalam majlis perkahwinan, ucapan dan upacara."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They preserve Malay values, wisdom and identity",
+          "bm": "Ia memelihara nilai, kebijaksanaan dan jati diri Melayu"
+        },
+        {
+          "en": "They are only for old people",
+          "bm": "Ia hanya untuk orang tua"
+        },
+        {
+          "en": "They have no meaning",
+          "bm": "Ia tiada makna"
+        },
+        {
+          "en": "They are written in English",
+          "bm": "Ia ditulis dalam bahasa Inggeris"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

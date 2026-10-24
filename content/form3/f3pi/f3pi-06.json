@@ -1,0 +1,813 @@
+{
+  "chapterId": "f3pi-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You knock three times at a friend's door and no one answers. Islam has already told you what to do: go home politely and come back later.",
+      "bm": "Anda mengetuk pintu rumah kawan tiga kali dan tiada jawapan. Islam sudah memberitahu apa yang perlu dilakukan: pulang dengan sopan dan datang semula kemudian."
+    },
+    "bigIdeas": [
+      {
+        "en": "Honouring neighbours is a sign of faith (al-Bukhari and Muslim).",
+        "bm": "Memuliakan jiran ialah tanda iman (al-Bukhari dan Muslim)."
+      },
+      {
+        "en": "Ask permission and give salam before entering another's house (an-Nur: 27); if not allowed after three times, return.",
+        "bm": "Minta izin dan beri salam sebelum memasuki rumah orang lain (an-Nur: 27); jika tidak diizinkan selepas tiga kali, pulang."
+      },
+      {
+        "en": "Humans are khalifah who must not cause damage on earth (al-A'raf: 56).",
+        "bm": "Manusia ialah khalifah yang tidak boleh melakukan kerosakan di muka bumi (al-A'raf: 56)."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Good Adab",
+          "bm": "Adab Mulia"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Neighbours",
+              "bm": "Jiran"
+            },
+            "detail": {
+              "en": "Greet, share food, help, do not disturb",
+              "bm": "Beri salam, berkongsi makanan, membantu, tidak mengganggu"
+            }
+          },
+          {
+            "label": {
+              "en": "Asking permission",
+              "bm": "Meminta izin"
+            },
+            "detail": {
+              "en": "Salam, up to three times, stand to the side, accept \"no\"",
+              "bm": "Salam, hingga tiga kali, berdiri di tepi pintu, terima jika ditolak"
+            }
+          },
+          {
+            "label": {
+              "en": "Environment",
+              "bm": "Alam sekitar"
+            },
+            "detail": {
+              "en": "Do not pollute, save water, plant trees",
+              "bm": "Jangan mencemar, jimat air, tanam pokok"
+            }
+          },
+          {
+            "label": {
+              "en": "Khalifah",
+              "bm": "Khalifah"
+            },
+            "detail": {
+              "en": "Humans are trustees of the earth",
+              "bm": "Manusia pemegang amanah di bumi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Jiran",
+          "bm": "Jiran"
+        },
+        "definition": {
+          "en": "People living near us, Muslim or not.",
+          "bm": "Orang yang tinggal berhampiran kita, Muslim atau bukan."
+        }
+      },
+      {
+        "term": {
+          "en": "Isti'zan",
+          "bm": "Isti'zan"
+        },
+        "definition": {
+          "en": "Asking permission before entering.",
+          "bm": "Meminta izin sebelum masuk."
+        }
+      },
+      {
+        "term": {
+          "en": "Khalifah",
+          "bm": "Khalifah"
+        },
+        "definition": {
+          "en": "A trustee or vicegerent appointed to look after the earth.",
+          "bm": "Pemegang amanah yang dilantik untuk mentadbir bumi."
+        }
+      },
+      {
+        "term": {
+          "en": "Fasad",
+          "bm": "Fasad"
+        },
+        "definition": {
+          "en": "Corruption or damage on earth.",
+          "bm": "Kerosakan di muka bumi."
+        }
+      },
+      {
+        "term": {
+          "en": "Aurat",
+          "bm": "Aurat"
+        },
+        "definition": {
+          "en": "Parts of the body that must be covered; one reason to ask permission before entering.",
+          "bm": "Bahagian tubuh yang wajib ditutup; salah satu sebab perlu meminta izin sebelum masuk."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Your neighbour is non-Muslim and is ill. What should you do?",
+        "bm": "Jiran anda bukan Islam dan sedang sakit. Apakah yang patut anda lakukan?"
+      },
+      "steps": [
+        {
+          "en": "Islam commands kindness to all neighbours (an-Nisa': 36).",
+          "bm": "Islam memerintahkan berbuat baik kepada semua jiran (an-Nisa': 36)."
+        },
+        {
+          "en": "Visit them, offer help or food, and keep noise down.",
+          "bm": "Ziarahi mereka, tawarkan bantuan atau makanan, dan kurangkan bunyi bising."
+        }
+      ],
+      "answer": {
+        "en": "Show kindness and help — it is part of faith.",
+        "bm": "Tunjukkan kebaikan dan bantuan — ia sebahagian daripada iman."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pi-06-q01",
+      "subtopicId": "f3pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Whoever believes in Allah and the Last Day, let him honour his ___.\" Fill in the blank.",
+        "bm": "\"Sesiapa yang beriman kepada Allah dan hari akhirat, hendaklah dia memuliakan ___.\" Isikan tempat kosong."
+      },
+      "explanation": {
+        "en": "Narrated by al-Bukhari and Muslim.",
+        "bm": "Riwayat al-Bukhari dan Muslim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "neighbour",
+          "bm": "jirannya"
+        },
+        {
+          "en": "wealth",
+          "bm": "hartanya"
+        },
+        {
+          "en": "house",
+          "bm": "rumahnya"
+        },
+        {
+          "en": "car",
+          "bm": "keretanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q02",
+      "subtopicId": "f3pi-06-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL good manners towards neighbours.",
+        "bm": "Pilih SEMUA adab yang baik terhadap jiran."
+      },
+      "explanation": {
+        "en": "Blocking a neighbour's gate hurts them.",
+        "bm": "Menghalang pagar jiran menyakiti mereka."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sharing food",
+          "bm": "Berkongsi makanan"
+        },
+        {
+          "en": "Visiting when they are ill",
+          "bm": "Menziarahi ketika sakit"
+        },
+        {
+          "en": "Not making loud noise at night",
+          "bm": "Tidak membuat bising pada waktu malam"
+        },
+        {
+          "en": "Parking in front of their gate",
+          "bm": "Meletak kenderaan di hadapan pagar mereka"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pi-06-q03",
+      "subtopicId": "f3pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Islam commands us to be kind to…",
+        "bm": "Islam memerintahkan kita berbuat baik kepada…"
+      },
+      "explanation": {
+        "en": "An-Nisa': 36 mentions both near and distant neighbours.",
+        "bm": "An-Nisa': 36 menyebut jiran dekat dan jiran jauh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "all neighbours, Muslim and non-Muslim",
+          "bm": "semua jiran, Muslim dan bukan Muslim"
+        },
+        {
+          "en": "Muslim neighbours only",
+          "bm": "jiran Muslim sahaja"
+        },
+        {
+          "en": "rich neighbours only",
+          "bm": "jiran kaya sahaja"
+        },
+        {
+          "en": "relatives only",
+          "bm": "saudara-mara sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q04",
+      "subtopicId": "f3pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which surah and verse teaches asking permission and giving salam before entering others' houses?",
+        "bm": "Surah dan ayat manakah mengajar meminta izin dan memberi salam sebelum memasuki rumah orang lain?"
+      },
+      "explanation": {
+        "en": "Surah an-Nur contains many social rules.",
+        "bm": "Surah an-Nur mengandungi banyak peraturan sosial."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "An-Nur: 27",
+          "bm": "An-Nur: 27"
+        },
+        {
+          "en": "Al-Fatihah: 1",
+          "bm": "Al-Fatihah: 1"
+        },
+        {
+          "en": "Al-Ikhlas: 1",
+          "bm": "Al-Ikhlas: 1"
+        },
+        {
+          "en": "Yasin: 1",
+          "bm": "Yasin: 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q05",
+      "subtopicId": "f3pi-06-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Permission to enter should be asked at most ______ times; if there is no answer, return.",
+        "bm": "Izin untuk masuk sebaiknya diminta paling banyak ______ kali; jika tiada jawapan, pulang."
+      },
+      "explanation": {
+        "en": "Narrated by al-Bukhari and Muslim.",
+        "bm": "Riwayat al-Bukhari dan Muslim."
+      },
+      "difficulty": 1,
+      "answer": [
+        "3",
+        "three",
+        "tiga"
+      ]
+    },
+    {
+      "id": "f3pi-06-q06",
+      "subtopicId": "f3pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where should you stand when knocking at a door?",
+        "bm": "Di manakah anda patut berdiri semasa mengetuk pintu?"
+      },
+      "explanation": {
+        "en": "This protects the privacy and aurat of the people inside.",
+        "bm": "Ini menjaga privasi dan aurat penghuni."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "To the side of the door, not facing straight in",
+          "bm": "Di tepi pintu, tidak menghadap terus ke dalam"
+        },
+        {
+          "en": "Right in front, looking inside",
+          "bm": "Betul-betul di hadapan sambil menjenguk ke dalam"
+        },
+        {
+          "en": "Inside the house",
+          "bm": "Di dalam rumah"
+        },
+        {
+          "en": "On the roof",
+          "bm": "Di atas bumbung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q07",
+      "subtopicId": "f3pi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Humans are appointed on earth as…",
+        "bm": "Manusia dilantik di bumi sebagai…"
+      },
+      "explanation": {
+        "en": "Al-Baqarah: 30.",
+        "bm": "Al-Baqarah: 30."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "khalifah (trustees)",
+          "bm": "khalifah (pemegang amanah)"
+        },
+        {
+          "en": "owners who can do anything",
+          "bm": "pemilik yang boleh berbuat sesuka hati"
+        },
+        {
+          "en": "visitors with no duties",
+          "bm": "pelawat tanpa tanggungjawab"
+        },
+        {
+          "en": "angels",
+          "bm": "malaikat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q08",
+      "subtopicId": "f3pi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Do not cause corruption on the earth after it has been set right\" is from…",
+        "bm": "\"Janganlah kamu membuat kerosakan di muka bumi selepas Allah memperbaikinya\" ialah daripada…"
+      },
+      "explanation": {
+        "en": "Also see ar-Rum: 41.",
+        "bm": "Lihat juga ar-Rum: 41."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Al-A'raf: 56",
+          "bm": "Al-A'raf: 56"
+        },
+        {
+          "en": "An-Nas: 1",
+          "bm": "An-Nas: 1"
+        },
+        {
+          "en": "Al-Kafirun: 6",
+          "bm": "Al-Kafirun: 6"
+        },
+        {
+          "en": "Al-Falaq: 1",
+          "bm": "Al-Falaq: 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q09",
+      "subtopicId": "f3pi-06-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the manners of visiting a house.",
+        "bm": "Susun adab menziarahi rumah."
+      },
+      "explanation": {
+        "en": "If told to go back, go back — it is purer for you (an-Nur: 28).",
+        "bm": "Jika disuruh pulang, pulanglah — itu lebih suci bagimu (an-Nur: 28)."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Give salam and ask permission",
+          "bm": "Beri salam dan minta izin"
+        },
+        {
+          "en": "Wait; repeat up to three times",
+          "bm": "Tunggu; ulang hingga tiga kali"
+        },
+        {
+          "en": "Enter only when invited",
+          "bm": "Masuk hanya apabila dijemput"
+        },
+        {
+          "en": "Leave politely if not allowed",
+          "bm": "Pulang dengan sopan jika tidak diizinkan"
+        }
+      ]
+    },
+    {
+      "id": "f3pi-06-q10",
+      "subtopicId": "f3pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why must children ask permission before entering their parents' room at certain times?",
+        "bm": "Mengapakah anak-anak perlu meminta izin sebelum memasuki bilik ibu bapa pada waktu tertentu?"
+      },
+      "explanation": {
+        "en": "The three times: before Subuh, midday rest and after Isyak.",
+        "bm": "Tiga waktu: sebelum Subuh, waktu rehat tengah hari dan selepas Isyak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To respect privacy and protect aurat (an-Nur: 58)",
+          "bm": "Untuk menghormati privasi dan menjaga aurat (an-Nur: 58)"
+        },
+        {
+          "en": "Parents do not like children",
+          "bm": "Ibu bapa tidak suka anak-anak"
+        },
+        {
+          "en": "It is just a custom",
+          "bm": "Ia hanya adat"
+        },
+        {
+          "en": "There is no reason",
+          "bm": "Tiada sebab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q11",
+      "subtopicId": "f3pi-06-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each situation with the correct action.",
+        "bm": "Padankan situasi dengan tindakan yang betul."
+      },
+      "explanation": {
+        "en": "Small kindnesses build a caring community.",
+        "bm": "Kebaikan kecil membina masyarakat penyayang."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Neighbour is ill",
+            "bm": "Jiran sakit"
+          },
+          "right": {
+            "en": "Visit and help",
+            "bm": "Ziarah dan bantu"
+          }
+        },
+        {
+          "left": {
+            "en": "Cooking a big meal",
+            "bm": "Memasak hidangan besar"
+          },
+          "right": {
+            "en": "Share some with neighbours",
+            "bm": "Kongsi dengan jiran"
+          }
+        },
+        {
+          "left": {
+            "en": "Party at night",
+            "bm": "Majlis pada waktu malam"
+          },
+          "right": {
+            "en": "Keep the noise low",
+            "bm": "Kurangkan bunyi bising"
+          }
+        },
+        {
+          "left": {
+            "en": "Neighbour is away",
+            "bm": "Jiran tiada di rumah"
+          },
+          "right": {
+            "en": "Keep an eye on their house",
+            "bm": "Tolong perhatikan rumahnya"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pi-06-q12",
+      "subtopicId": "f3pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What happens to a person whose neighbour is not safe from his harm, according to hadith?",
+        "bm": "Apakah kedudukan orang yang jirannya tidak selamat daripada kejahatannya, menurut hadis?"
+      },
+      "explanation": {
+        "en": "The Prophet ﷺ warned strongly against harming neighbours (al-Bukhari).",
+        "bm": "Rasulullah ﷺ memberi amaran keras terhadap menyakiti jiran (al-Bukhari)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "His faith is not complete",
+          "bm": "Imannya tidak sempurna"
+        },
+        {
+          "en": "He gets extra reward",
+          "bm": "Dia mendapat pahala tambahan"
+        },
+        {
+          "en": "Nothing happens",
+          "bm": "Tiada apa-apa"
+        },
+        {
+          "en": "He becomes a leader",
+          "bm": "Dia menjadi pemimpin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q13",
+      "subtopicId": "f3pi-06-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL actions that show good adab towards the environment.",
+        "bm": "Pilih SEMUA tindakan yang menunjukkan adab yang baik terhadap alam sekitar."
+      },
+      "explanation": {
+        "en": "Open burning pollutes the air.",
+        "bm": "Pembakaran terbuka mencemarkan udara."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Saving water during wudhu",
+          "bm": "Menjimatkan air semasa berwuduk"
+        },
+        {
+          "en": "Planting trees",
+          "bm": "Menanam pokok"
+        },
+        {
+          "en": "Recycling",
+          "bm": "Mengitar semula"
+        },
+        {
+          "en": "Burning rubbish in the open",
+          "bm": "Membakar sampah secara terbuka"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pi-06-q14",
+      "subtopicId": "f3pi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Corruption has appeared on land and sea because of what people's hands have earned\" is…",
+        "bm": "\"Telah timbul kerosakan di darat dan di laut disebabkan perbuatan tangan manusia\" ialah…"
+      },
+      "explanation": {
+        "en": "It reminds us that pollution has human causes.",
+        "bm": "Ia mengingatkan bahawa pencemaran berpunca daripada manusia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ar-Rum: 41",
+          "bm": "Ar-Rum: 41"
+        },
+        {
+          "en": "Al-Asr: 1",
+          "bm": "Al-Asr: 1"
+        },
+        {
+          "en": "Al-Kauthar: 1",
+          "bm": "Al-Kauthar: 1"
+        },
+        {
+          "en": "Al-Lahab: 1",
+          "bm": "Al-Lahab: 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q15",
+      "subtopicId": "f3pi-06-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The Prophet ﷺ taught us not to waste water even when taking ______ at a flowing river.",
+        "bm": "Rasulullah ﷺ mengajar supaya tidak membazir air walaupun ketika mengambil ______ di sungai yang mengalir."
+      },
+      "explanation": {
+        "en": "Narrated by Ibn Majah.",
+        "bm": "Riwayat Ibn Majah."
+      },
+      "difficulty": 2,
+      "answer": [
+        "wudhu",
+        "wudu",
+        "wuduk",
+        "ablution"
+      ]
+    },
+    {
+      "id": "f3pi-06-q16",
+      "subtopicId": "f3pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student opens a classmate's bag without asking. Which adab is broken?",
+        "bm": "Seorang murid membuka beg rakan tanpa bertanya. Adab manakah yang dilanggar?"
+      },
+      "explanation": {
+        "en": "The principle of asking permission applies to belongings, phones and messages too.",
+        "bm": "Prinsip meminta izin juga terpakai pada barang, telefon dan mesej."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Asking permission (respecting others' property and privacy)",
+          "bm": "Meminta izin (menghormati harta dan privasi orang lain)"
+        },
+        {
+          "en": "Neighbourly manners only",
+          "bm": "Adab berjiran sahaja"
+        },
+        {
+          "en": "Eating manners",
+          "bm": "Adab makan"
+        },
+        {
+          "en": "None",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q17",
+      "subtopicId": "f3pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A neighbour often plays loud music late at night. What is the BEST Islamic response?",
+        "bm": "Seorang jiran kerap memasang muzik kuat lewat malam. Apakah tindakan PALING baik menurut Islam?"
+      },
+      "explanation": {
+        "en": "Good advice is given gently; escalate to the residents' committee only if needed.",
+        "bm": "Nasihat diberi dengan lembut; rujuk jawatankuasa penduduk hanya jika perlu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Speak to him politely and privately first, and stay kind",
+          "bm": "Bercakap dengannya secara sopan dan bersendirian terlebih dahulu, serta terus berbuat baik"
+        },
+        {
+          "en": "Shout at him from the window",
+          "bm": "Menjerit kepadanya dari tingkap"
+        },
+        {
+          "en": "Damage his car",
+          "bm": "Merosakkan keretanya"
+        },
+        {
+          "en": "Post insults online",
+          "bm": "Memuat naik hinaan dalam talian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q18",
+      "subtopicId": "f3pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does the rule of asking permission apply in the digital age?",
+        "bm": "Bagaimanakah adab meminta izin terpakai dalam era digital?"
+      },
+      "explanation": {
+        "en": "The aim — privacy and dignity — is the same.",
+        "bm": "Tujuannya — privasi dan maruah — tetap sama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Ask before sharing someone's photo or using their account",
+          "bm": "Minta izin sebelum berkongsi gambar seseorang atau menggunakan akaunnya"
+        },
+        {
+          "en": "It only applies to doors",
+          "bm": "Ia hanya untuk pintu"
+        },
+        {
+          "en": "Anything online is free to use",
+          "bm": "Apa sahaja dalam talian bebas digunakan"
+        },
+        {
+          "en": "Permission is never needed",
+          "bm": "Izin tidak pernah diperlukan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q19",
+      "subtopicId": "f3pi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is protecting the environment part of being a good Muslim?",
+        "bm": "Mengapakah memelihara alam sekitar sebahagian daripada menjadi Muslim yang baik?"
+      },
+      "explanation": {
+        "en": "Khalifah means responsibility, not ownership.",
+        "bm": "Khalifah bermaksud tanggungjawab, bukan pemilikan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The earth is an amanah from Allah, and damaging it harms other creatures and future generations",
+          "bm": "Bumi ialah amanah Allah, dan merosakkannya memudaratkan makhluk lain serta generasi akan datang"
+        },
+        {
+          "en": "Nature has no value",
+          "bm": "Alam tiada nilai"
+        },
+        {
+          "en": "It is only the government's job",
+          "bm": "Ia tugas kerajaan sahaja"
+        },
+        {
+          "en": "It has no link to religion",
+          "bm": "Ia tiada kaitan dengan agama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-06-q20",
+      "subtopicId": "f3pi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A factory releases waste into a river used by villagers. Based on al-A'raf: 56, this is…",
+        "bm": "Sebuah kilang melepaskan sisa ke sungai yang digunakan penduduk kampung. Berdasarkan al-A'raf: 56, ini ialah…"
+      },
+      "explanation": {
+        "en": "Harm to others and to nature is not allowed.",
+        "bm": "Memudaratkan orang lain dan alam tidak dibenarkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "causing corruption (fasad) on earth, which is forbidden",
+          "bm": "membuat kerosakan (fasad) di bumi, yang dilarang"
+        },
+        {
+          "en": "allowed if profitable",
+          "bm": "dibenarkan jika menguntungkan"
+        },
+        {
+          "en": "a good deed",
+          "bm": "amalan baik"
+        },
+        {
+          "en": "not related to Islam",
+          "bm": "tiada kaitan dengan Islam"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

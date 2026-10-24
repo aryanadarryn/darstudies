@@ -1,0 +1,185 @@
+{
+  "id": "f3ask",
+  "name": {
+    "en": "Basic Computer Science",
+    "bm": "Asas Sains Komputer"
+  },
+  "short": {
+    "en": "Comp. Sci.",
+    "bm": "ASK"
+  },
+  "color": "#2563eb",
+  "source": "Covers core Form 3 KSSM Asas Sains Komputer skills (computational thinking, Python programming, data representation, web development, digital citizenship). Chapter grouping and the programming language used may differ from your textbook — verify with the latest DSKP. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Computational Thinking and Algorithms",
+        "bm": "Pemikiran Komputasional dan Algoritma"
+      },
+      "theme": {
+        "en": "Algorithms",
+        "bm": "Algoritma"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Computational Thinking",
+            "bm": "Pemikiran Komputasional"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Flowcharts and Pseudocode",
+            "bm": "Carta Alir dan Pseudokod"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Control Structures",
+            "bm": "Struktur Kawalan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Programming with Python",
+        "bm": "Pengaturcaraan dengan Python"
+      },
+      "theme": {
+        "en": "Programming",
+        "bm": "Pengaturcaraan"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Variables, Data Types and Input/Output",
+            "bm": "Pemboleh Ubah, Jenis Data dan Input/Output"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Operators",
+            "bm": "Operator"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Selection and Loops in Python",
+            "bm": "Pilihan dan Gelung dalam Python"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Data Representation and Data Structures",
+        "bm": "Perwakilan Data dan Struktur Data"
+      },
+      "theme": {
+        "en": "Data",
+        "bm": "Data"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Binary Numbers and Data Units",
+            "bm": "Nombor Perduaan dan Unit Data"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Lists and Strings",
+            "bm": "Senarai dan Rentetan"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Searching and Sorting",
+            "bm": "Carian dan Isihan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Web Development: HTML and CSS",
+        "bm": "Pembangunan Web: HTML dan CSS"
+      },
+      "theme": {
+        "en": "Web Development",
+        "bm": "Pembangunan Web"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "HTML Structure and Tags",
+            "bm": "Struktur dan Tag HTML"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Links, Images, Lists and Tables",
+            "bm": "Pautan, Imej, Senarai dan Jadual"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Styling with CSS",
+            "bm": "Menggayakan dengan CSS"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Digital Safety, Ethics and the Law",
+        "bm": "Keselamatan Digital, Etika dan Undang-undang"
+      },
+      "theme": {
+        "en": "Digital Citizenship",
+        "bm": "Kewarganegaraan Digital"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Cyber Threats and Protection",
+            "bm": "Ancaman Siber dan Perlindungan"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Digital Footprint and Online Behaviour",
+            "bm": "Jejak Digital dan Tingkah Laku Dalam Talian"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Copyright and Cyber Laws",
+            "bm": "Hak Cipta dan Undang-undang Siber"
+          }
+        }
+      ]
+    }
+  ]
+}

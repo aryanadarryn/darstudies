@@ -1,0 +1,895 @@
+{
+  "chapterId": "f3sci-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your heart beats around 100 000 times a day and pumps blood through tens of thousands of kilometres of blood vessels. Plants move water up tall trees with no pump at all.",
+      "bm": "Jantung anda berdegup kira-kira 100 000 kali sehari dan mengepam darah melalui puluhan ribu kilometer salur darah. Tumbuhan pula mengangkut air ke puncak pokok yang tinggi tanpa sebarang pam."
+    },
+    "bigIdeas": [
+      {
+        "en": "Large organisms need a transport system to carry oxygen, nutrients and wastes.",
+        "bm": "Organisma besar memerlukan sistem pengangkutan untuk membawa oksigen, nutrien dan bahan buangan."
+      },
+      {
+        "en": "Humans have a closed, double circulatory system pumped by a four-chambered heart.",
+        "bm": "Manusia mempunyai sistem peredaran darah tertutup dan berganda yang dipam oleh jantung empat ruang."
+      },
+      {
+        "en": "Plants transport water in xylem (pulled by transpiration) and food in phloem.",
+        "bm": "Tumbuhan mengangkut air dalam xilem (ditarik oleh transpirasi) dan makanan dalam floem."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Artery",
+            "bm": "Arteri"
+          },
+          {
+            "en": "Vein",
+            "bm": "Vena"
+          },
+          {
+            "en": "Capillary",
+            "bm": "Kapilari"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Direction",
+              "bm": "Arah"
+            },
+            "cells": [
+              {
+                "en": "Away from the heart",
+                "bm": "Keluar dari jantung"
+              },
+              {
+                "en": "Back to the heart",
+                "bm": "Kembali ke jantung"
+              },
+              {
+                "en": "Links arteries and veins",
+                "bm": "Menghubungkan arteri dan vena"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Wall",
+              "bm": "Dinding"
+            },
+            "cells": [
+              {
+                "en": "Thick, muscular, elastic",
+                "bm": "Tebal, berotot, kenyal"
+              },
+              {
+                "en": "Thinner",
+                "bm": "Lebih nipis"
+              },
+              {
+                "en": "One cell thick",
+                "bm": "Setebal satu sel"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Pressure",
+              "bm": "Tekanan"
+            },
+            "cells": [
+              {
+                "en": "High",
+                "bm": "Tinggi"
+              },
+              {
+                "en": "Low",
+                "bm": "Rendah"
+              },
+              {
+                "en": "Low",
+                "bm": "Rendah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Valves",
+              "bm": "Injap"
+            },
+            "cells": [
+              {
+                "en": "No (except at the heart exit)",
+                "bm": "Tiada (kecuali di pangkal jantung)"
+              },
+              {
+                "en": "Yes",
+                "bm": "Ada"
+              },
+              {
+                "en": "No",
+                "bm": "Tiada"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Double circulation",
+          "bm": "Peredaran berganda"
+        },
+        "definition": {
+          "en": "Blood passes through the heart twice in one complete circuit (to the lungs and to the body).",
+          "bm": "Darah melalui jantung dua kali dalam satu kitaran lengkap (ke peparu dan ke badan)."
+        }
+      },
+      {
+        "term": {
+          "en": "Haemoglobin",
+          "bm": "Hemoglobin"
+        },
+        "definition": {
+          "en": "Red pigment in red blood cells that carries oxygen.",
+          "bm": "Pigmen merah dalam sel darah merah yang membawa oksigen."
+        }
+      },
+      {
+        "term": {
+          "en": "Xylem",
+          "bm": "Xilem"
+        },
+        "definition": {
+          "en": "Tissue carrying water and minerals up from the roots.",
+          "bm": "Tisu yang mengangkut air dan mineral dari akar ke atas."
+        }
+      },
+      {
+        "term": {
+          "en": "Phloem",
+          "bm": "Floem"
+        },
+        "definition": {
+          "en": "Tissue carrying food (sugars) from the leaves to other parts.",
+          "bm": "Tisu yang mengangkut makanan (gula) dari daun ke bahagian lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Transpiration",
+          "bm": "Transpirasi"
+        },
+        "definition": {
+          "en": "Loss of water vapour from leaves, mainly through stomata.",
+          "bm": "Kehilangan wap air dari daun, terutamanya melalui stoma."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Trace a red blood cell from the right atrium back to the right atrium.",
+        "bm": "Surih laluan sel darah merah dari atrium kanan kembali ke atrium kanan."
+      },
+      "steps": [
+        {
+          "en": "Right atrium → right ventricle → pulmonary artery → lungs (picks up O₂).",
+          "bm": "Atrium kanan → ventrikel kanan → arteri pulmonari → peparu (mengambil O₂)."
+        },
+        {
+          "en": "Lungs → pulmonary vein → left atrium → left ventricle → aorta → body.",
+          "bm": "Peparu → vena pulmonari → atrium kiri → ventrikel kiri → aorta → badan."
+        },
+        {
+          "en": "Body (gives up O₂) → vena cava → right atrium.",
+          "bm": "Badan (melepaskan O₂) → vena kava → atrium kanan."
+        }
+      ],
+      "answer": {
+        "en": "It passes through the heart twice — double circulation.",
+        "bm": "Ia melalui jantung dua kali — peredaran berganda."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-03-q01",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many chambers does the human heart have?",
+        "bm": "Berapakah ruang dalam jantung manusia?"
+      },
+      "explanation": {
+        "en": "Two atria and two ventricles.",
+        "bm": "Dua atrium dan dua ventrikel."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q02",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which blood vessel carries blood AWAY from the heart?",
+        "bm": "Salur darah manakah membawa darah KELUAR dari jantung?"
+      },
+      "explanation": {
+        "en": "Arteries carry blood away; veins return it.",
+        "bm": "Arteri membawa darah keluar; vena mengembalikannya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Artery",
+          "bm": "Arteri"
+        },
+        {
+          "en": "Vein",
+          "bm": "Vena"
+        },
+        {
+          "en": "Capillary only",
+          "bm": "Kapilari sahaja"
+        },
+        {
+          "en": "Lymph vessel",
+          "bm": "Salur limfa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q03",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which chamber has the thickest muscular wall?",
+        "bm": "Ruang manakah mempunyai dinding berotot paling tebal?"
+      },
+      "explanation": {
+        "en": "It pumps blood to the whole body through the aorta.",
+        "bm": "Ia mengepam darah ke seluruh badan melalui aorta."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Left ventricle",
+          "bm": "Ventrikel kiri"
+        },
+        {
+          "en": "Right atrium",
+          "bm": "Atrium kanan"
+        },
+        {
+          "en": "Left atrium",
+          "bm": "Atrium kiri"
+        },
+        {
+          "en": "Right ventricle",
+          "bm": "Ventrikel kanan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q04",
+      "subtopicId": "f3sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which blood component helps blood to clot?",
+        "bm": "Komponen darah manakah membantu darah membeku?"
+      },
+      "explanation": {
+        "en": "Platelets help form clots at wounds.",
+        "bm": "Platlet membantu membentuk beku darah di luka."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Platelets",
+          "bm": "Platlet"
+        },
+        {
+          "en": "Red blood cells",
+          "bm": "Sel darah merah"
+        },
+        {
+          "en": "Plasma water",
+          "bm": "Air plasma"
+        },
+        {
+          "en": "White blood cells",
+          "bm": "Sel darah putih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q05",
+      "subtopicId": "f3sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which blood cells fight infection?",
+        "bm": "Sel darah manakah melawan jangkitan?"
+      },
+      "explanation": {
+        "en": "White blood cells destroy pathogens and make antibodies.",
+        "bm": "Sel darah putih memusnahkan patogen dan menghasilkan antibodi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "White blood cells",
+          "bm": "Sel darah putih"
+        },
+        {
+          "en": "Red blood cells",
+          "bm": "Sel darah merah"
+        },
+        {
+          "en": "Platelets",
+          "bm": "Platlet"
+        },
+        {
+          "en": "None",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q06",
+      "subtopicId": "f3sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water is transported in plants by the…",
+        "bm": "Air diangkut dalam tumbuhan oleh…"
+      },
+      "explanation": {
+        "en": "Xylem carries water and minerals upward from the roots.",
+        "bm": "Xilem mengangkut air dan mineral ke atas dari akar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "xylem",
+          "bm": "xilem"
+        },
+        {
+          "en": "phloem",
+          "bm": "floem"
+        },
+        {
+          "en": "stomata",
+          "bm": "stoma"
+        },
+        {
+          "en": "cuticle",
+          "bm": "kutikel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q07",
+      "subtopicId": "f3sci-03-04",
+      "type": "fill",
+      "prompt": {
+        "en": "Loss of water vapour from the leaves is called ______.",
+        "bm": "Kehilangan wap air dari daun dipanggil ______."
+      },
+      "explanation": {
+        "en": "Transpiration pulls water up the xylem.",
+        "bm": "Transpirasi menarik air naik melalui xilem."
+      },
+      "difficulty": 1,
+      "answer": [
+        "transpiration",
+        "transpirasi"
+      ]
+    },
+    {
+      "id": "f3sci-03-q08",
+      "subtopicId": "f3sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does an amoeba NOT need a transport system?",
+        "bm": "Mengapakah ameba TIDAK memerlukan sistem pengangkutan?"
+      },
+      "explanation": {
+        "en": "Its large surface-area-to-volume ratio makes diffusion enough.",
+        "bm": "Nisbah luas permukaan kepada isi padu yang besar menjadikan resapan memadai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "It is unicellular, so substances can diffuse directly in and out",
+          "bm": "Ia unisel, jadi bahan boleh meresap terus masuk dan keluar"
+        },
+        {
+          "en": "It never needs oxygen",
+          "bm": "Ia tidak pernah memerlukan oksigen"
+        },
+        {
+          "en": "It has a heart",
+          "bm": "Ia mempunyai jantung"
+        },
+        {
+          "en": "It lives on land",
+          "bm": "Ia hidup di darat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q09",
+      "subtopicId": "f3sci-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of blood from the body back to the body (starting at the vena cava).",
+        "bm": "Susun laluan darah dari badan kembali ke badan (bermula di vena kava)."
+      },
+      "explanation": {
+        "en": "Right side → lungs → left side → body: double circulation.",
+        "bm": "Sisi kanan → peparu → sisi kiri → badan: peredaran berganda."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Vena cava",
+          "bm": "Vena kava"
+        },
+        {
+          "en": "Right atrium",
+          "bm": "Atrium kanan"
+        },
+        {
+          "en": "Right ventricle",
+          "bm": "Ventrikel kanan"
+        },
+        {
+          "en": "Pulmonary artery",
+          "bm": "Arteri pulmonari"
+        },
+        {
+          "en": "Lungs",
+          "bm": "Peparu"
+        },
+        {
+          "en": "Pulmonary vein",
+          "bm": "Vena pulmonari"
+        },
+        {
+          "en": "Left atrium",
+          "bm": "Atrium kiri"
+        },
+        {
+          "en": "Left ventricle",
+          "bm": "Ventrikel kiri"
+        },
+        {
+          "en": "Aorta",
+          "bm": "Aorta"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-03-q10",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The pulmonary artery is unusual because it carries…",
+        "bm": "Arteri pulmonari luar biasa kerana ia membawa…"
+      },
+      "explanation": {
+        "en": "It takes blood from the right ventricle to the lungs to collect oxygen.",
+        "bm": "Ia membawa darah dari ventrikel kanan ke peparu untuk mengambil oksigen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "deoxygenated blood",
+          "bm": "darah terdeoksigen"
+        },
+        {
+          "en": "oxygenated blood",
+          "bm": "darah beroksigen"
+        },
+        {
+          "en": "only plasma",
+          "bm": "plasma sahaja"
+        },
+        {
+          "en": "food from the gut",
+          "bm": "makanan dari usus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q11",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do veins have valves?",
+        "bm": "Mengapakah vena mempunyai injap?"
+      },
+      "explanation": {
+        "en": "Blood pressure in veins is low, so valves keep it moving towards the heart.",
+        "bm": "Tekanan darah dalam vena rendah, jadi injap memastikan darah bergerak ke arah jantung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To stop blood flowing backwards",
+          "bm": "Untuk menghalang darah mengalir ke belakang"
+        },
+        {
+          "en": "To increase blood pressure",
+          "bm": "Untuk meningkatkan tekanan darah"
+        },
+        {
+          "en": "To make blood cells",
+          "bm": "Untuk menghasilkan sel darah"
+        },
+        {
+          "en": "To carry oxygen",
+          "bm": "Untuk membawa oksigen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q12",
+      "subtopicId": "f3sci-03-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each blood group with who it can usually be given to (ABO system only).",
+        "bm": "Padankan kumpulan darah dengan siapa yang biasanya boleh menerimanya (sistem ABO sahaja)."
+      },
+      "explanation": {
+        "en": "Doctors also check other factors (e.g. Rhesus) before a transfusion.",
+        "bm": "Doktor turut menyemak faktor lain (cth. Rhesus) sebelum pemindahan darah."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "O",
+            "bm": "O"
+          },
+          "right": {
+            "en": "All groups (universal donor)",
+            "bm": "Semua kumpulan (penderma universal)"
+          }
+        },
+        {
+          "left": {
+            "en": "AB",
+            "bm": "AB"
+          },
+          "right": {
+            "en": "AB only (but can receive from all)",
+            "bm": "AB sahaja (tetapi boleh menerima daripada semua)"
+          }
+        },
+        {
+          "left": {
+            "en": "A",
+            "bm": "A"
+          },
+          "right": {
+            "en": "A and AB",
+            "bm": "A dan AB"
+          }
+        },
+        {
+          "left": {
+            "en": "B",
+            "bm": "B"
+          },
+          "right": {
+            "en": "B and AB",
+            "bm": "B dan AB"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-03-q13",
+      "subtopicId": "f3sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which feature of red blood cells helps them carry more oxygen?",
+        "bm": "Ciri sel darah merah manakah membantunya membawa lebih banyak oksigen?"
+      },
+      "explanation": {
+        "en": "More room for haemoglobin and a large surface area.",
+        "bm": "Lebih ruang untuk hemoglobin dan luas permukaan besar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "No nucleus and a biconcave shape with haemoglobin",
+          "bm": "Tiada nukleus dan bentuk dwicekung dengan hemoglobin"
+        },
+        {
+          "en": "A large nucleus",
+          "bm": "Nukleus yang besar"
+        },
+        {
+          "en": "Irregular shape that engulfs bacteria",
+          "bm": "Bentuk tidak sekata yang menelan bakteria"
+        },
+        {
+          "en": "Being colourless",
+          "bm": "Tidak berwarna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q14",
+      "subtopicId": "f3sci-03-04",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL conditions that INCREASE the rate of transpiration.",
+        "bm": "Pilih SEMUA keadaan yang MENINGKATKAN kadar transpirasi."
+      },
+      "explanation": {
+        "en": "Humid air reduces the difference in water vapour, slowing transpiration.",
+        "bm": "Udara lembap mengurangkan perbezaan wap air, melambatkan transpirasi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "High light intensity",
+          "bm": "Keamatan cahaya tinggi"
+        },
+        {
+          "en": "High temperature",
+          "bm": "Suhu tinggi"
+        },
+        {
+          "en": "Windy air",
+          "bm": "Udara berangin"
+        },
+        {
+          "en": "High humidity",
+          "bm": "Kelembapan tinggi"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-03-q15",
+      "subtopicId": "f3sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A ring of bark (with phloem) is removed from a stem. After some weeks the stem swells ABOVE the ring. Why?",
+        "bm": "Satu gelang kulit batang (bersama floem) dibuang. Selepas beberapa minggu batang membengkak DI ATAS gelang. Mengapa?"
+      },
+      "explanation": {
+        "en": "This shows phloem transports food.",
+        "bm": "Ini menunjukkan floem mengangkut makanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Food moving down in the phloem builds up above the cut",
+          "bm": "Makanan yang bergerak ke bawah dalam floem terkumpul di atas potongan"
+        },
+        {
+          "en": "Water collects there",
+          "bm": "Air terkumpul di situ"
+        },
+        {
+          "en": "Xylem is removed",
+          "bm": "Xilem dibuang"
+        },
+        {
+          "en": "The roots grow there",
+          "bm": "Akar tumbuh di situ"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q16",
+      "subtopicId": "f3sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fish have a SINGLE circulatory system. This means blood…",
+        "bm": "Ikan mempunyai sistem peredaran TUNGGAL. Ini bermaksud darah…"
+      },
+      "explanation": {
+        "en": "Heart → gills → body → heart.",
+        "bm": "Jantung → insang → badan → jantung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "passes through the heart once in each complete circuit",
+          "bm": "melalui jantung sekali dalam setiap kitaran lengkap"
+        },
+        {
+          "en": "never leaves the heart",
+          "bm": "tidak pernah keluar dari jantung"
+        },
+        {
+          "en": "passes through the heart twice",
+          "bm": "melalui jantung dua kali"
+        },
+        {
+          "en": "has no red blood cells",
+          "bm": "tiada sel darah merah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q17",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the left ventricle need a thicker wall than the right ventricle?",
+        "bm": "Mengapakah ventrikel kiri memerlukan dinding lebih tebal daripada ventrikel kanan?"
+      },
+      "explanation": {
+        "en": "Structure matches function.",
+        "bm": "Struktur sepadan dengan fungsi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It must pump blood at high pressure all around the body, not just to the nearby lungs",
+          "bm": "Ia perlu mengepam darah pada tekanan tinggi ke seluruh badan, bukan sekadar ke peparu yang berdekatan"
+        },
+        {
+          "en": "It holds more blood cells",
+          "bm": "Ia menyimpan lebih banyak sel darah"
+        },
+        {
+          "en": "It receives blood from the body",
+          "bm": "Ia menerima darah dari badan"
+        },
+        {
+          "en": "It has no valves",
+          "bm": "Ia tiada injap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q18",
+      "subtopicId": "f3sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A patient has blood group B. Which group can he safely receive (ABO system only)?",
+        "bm": "Seorang pesakit berkumpulan darah B. Kumpulan manakah boleh diterimanya dengan selamat (sistem ABO sahaja)?"
+      },
+      "explanation": {
+        "en": "Group B has anti-A antibodies, so A and AB blood would clump.",
+        "bm": "Kumpulan B mempunyai antibodi anti-A, jadi darah A dan AB akan beraglutinat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "B or O",
+          "bm": "B atau O"
+        },
+        {
+          "en": "A or AB",
+          "bm": "A atau AB"
+        },
+        {
+          "en": "AB only",
+          "bm": "AB sahaja"
+        },
+        {
+          "en": "Any group",
+          "bm": "Mana-mana kumpulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q19",
+      "subtopicId": "f3sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A potted plant in a hot, windy, sunny place wilts by afternoon. What is the BEST explanation?",
+        "bm": "Sebuah pokok pasu di tempat panas, berangin dan cerah menjadi layu menjelang petang. Apakah penjelasan TERBAIK?"
+      },
+      "explanation": {
+        "en": "Cells lose turgidity when water loss exceeds uptake.",
+        "bm": "Sel hilang kesegahan apabila kehilangan air melebihi penyerapan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Water lost by transpiration is faster than water absorbed by the roots",
+          "bm": "Kadar kehilangan air melalui transpirasi lebih cepat daripada penyerapan air oleh akar"
+        },
+        {
+          "en": "Phloem stops carrying water",
+          "bm": "Floem berhenti mengangkut air"
+        },
+        {
+          "en": "It is making too much food",
+          "bm": "Ia menghasilkan terlalu banyak makanan"
+        },
+        {
+          "en": "Its stomata are closed all day",
+          "bm": "Stomanya tertutup sepanjang hari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-03-q20",
+      "subtopicId": "f3sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Regular exercise and a low-fat diet help prevent heart disease mainly because they…",
+        "bm": "Senaman berkala dan diet rendah lemak membantu mencegah penyakit jantung terutamanya kerana…"
+      },
+      "explanation": {
+        "en": "Narrowed coronary arteries can cause heart attacks.",
+        "bm": "Arteri koronari yang sempit boleh menyebabkan serangan jantung."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "reduce fatty deposits that narrow arteries and keep the heart strong",
+          "bm": "mengurangkan mendapan lemak yang menyempitkan arteri dan menguatkan jantung"
+        },
+        {
+          "en": "increase blood cholesterol",
+          "bm": "meningkatkan kolesterol darah"
+        },
+        {
+          "en": "stop the heart from beating",
+          "bm": "menghentikan degupan jantung"
+        },
+        {
+          "en": "remove all platelets",
+          "bm": "membuang semua platlet"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

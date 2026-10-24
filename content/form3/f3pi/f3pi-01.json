@@ -1,0 +1,815 @@
+{
+  "chapterId": "f3pi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In قَدْ تَبَيَّنَ the letter د is written but not pronounced on its own — it merges into the ت. Tajwid tells us exactly when letters merge, hide or stay clear.",
+      "bm": "Dalam قَدْ تَبَيَّنَ huruf د ditulis tetapi tidak dibunyikan sendiri — ia dimasukkan ke dalam ت. Tajwid menerangkan dengan tepat bila huruf dimasukkan, disembunyikan atau dibaca jelas."
+    },
+    "bigIdeas": [
+      {
+        "en": "Idgham means merging a letter with sukun into the next letter.",
+        "bm": "Idgham bermaksud memasukkan huruf bersukun ke dalam huruf berikutnya."
+      },
+      {
+        "en": "Mim sakinah has three rules: ikhfa' syafawi (before ب), idgham mithlain (before م) and izhar syafawi (before other letters).",
+        "bm": "Mim sakinah mempunyai tiga hukum: ikhfa' syafawi (sebelum ب), idgham mithlain (sebelum م) dan izhar syafawi (sebelum huruf lain)."
+      },
+      {
+        "en": "Lam in the name of Allah is read thick after fathah or dhammah and thin after kasrah.",
+        "bm": "Lam pada lafaz Allah dibaca tebal selepas fathah atau dhammah dan nipis selepas kasrah."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Idgham mithlain",
+              "bm": "Idgham mithlain"
+            },
+            "cells": [
+              {
+                "en": "Two identical letters",
+                "bm": "Dua huruf yang sama"
+              },
+              {
+                "en": "اضْرِب بِّعَصَاكَ",
+                "bm": "اضْرِب بِّعَصَاكَ"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Idgham mutajanisain",
+              "bm": "Idgham mutajanisain"
+            },
+            "cells": [
+              {
+                "en": "Same point of articulation, different qualities",
+                "bm": "Makhraj sama, sifat berbeza"
+              },
+              {
+                "en": "قَد تَّبَيَّنَ",
+                "bm": "قَد تَّبَيَّنَ"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Idgham mutaqaribain",
+              "bm": "Idgham mutaqaribain"
+            },
+            "cells": [
+              {
+                "en": "Points of articulation close together",
+                "bm": "Makhraj berdekatan"
+              },
+              {
+                "en": "قُل رَّبِّ",
+                "bm": "قُل رَّبِّ"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Idgham",
+          "bm": "Idgham"
+        },
+        "definition": {
+          "en": "Merging a sukun letter into the following voweled letter.",
+          "bm": "Memasukkan huruf bersukun ke dalam huruf berbaris yang berikutnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Makhraj",
+          "bm": "Makhraj"
+        },
+        "definition": {
+          "en": "The place in the mouth or throat where a letter is produced.",
+          "bm": "Tempat keluar huruf di mulut atau tekak."
+        }
+      },
+      {
+        "term": {
+          "en": "Ikhfa' syafawi",
+          "bm": "Ikhfa' syafawi"
+        },
+        "definition": {
+          "en": "Mim sakinah before ب: read hidden with dengung (nasal sound).",
+          "bm": "Mim sakinah bertemu ب: dibaca samar dengan dengung."
+        }
+      },
+      {
+        "term": {
+          "en": "Izhar syafawi",
+          "bm": "Izhar syafawi"
+        },
+        "definition": {
+          "en": "Mim sakinah before any letter except ب and م: read clearly.",
+          "bm": "Mim sakinah bertemu huruf selain ب dan م: dibaca jelas."
+        }
+      },
+      {
+        "term": {
+          "en": "Lam jalalah",
+          "bm": "Lam jalalah"
+        },
+        "definition": {
+          "en": "The lam in the word Allah (اللّٰه).",
+          "bm": "Huruf lam pada lafaz Allah (اللّٰه)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "How is the lam in اللّٰه read in بِسْمِ اللّٰهِ and in قَالَ اللّٰهُ?",
+        "bm": "Bagaimanakah lam pada اللّٰه dibaca dalam بِسْمِ اللّٰهِ dan قَالَ اللّٰهُ?"
+      },
+      "steps": [
+        {
+          "en": "Look at the vowel before the word Allah.",
+          "bm": "Lihat baris sebelum lafaz Allah."
+        },
+        {
+          "en": "بِسْمِ اللّٰهِ: kasrah before it → thin (tarqiq).",
+          "bm": "بِسْمِ اللّٰهِ: kasrah sebelumnya → nipis (tarqiq)."
+        },
+        {
+          "en": "قَالَ اللّٰهُ: fathah before it → thick (tafkhim).",
+          "bm": "قَالَ اللّٰهُ: fathah sebelumnya → tebal (tafkhim)."
+        }
+      ],
+      "answer": {
+        "en": "Thin after kasrah; thick after fathah or dhammah.",
+        "bm": "Nipis selepas kasrah; tebal selepas fathah atau dhammah."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pi-01-q01",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Idgham means…",
+        "bm": "Idgham bermaksud…"
+      },
+      "explanation": {
+        "en": "The two letters are read as one stressed (syaddah) letter.",
+        "bm": "Dua huruf dibaca sebagai satu huruf bersyaddah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "merging a sukun letter into the next letter",
+          "bm": "memasukkan huruf bersukun ke dalam huruf berikutnya"
+        },
+        {
+          "en": "reading a letter clearly",
+          "bm": "membaca huruf dengan jelas"
+        },
+        {
+          "en": "stopping at the end of a verse",
+          "bm": "berhenti di hujung ayat"
+        },
+        {
+          "en": "lengthening a vowel",
+          "bm": "memanjangkan baris"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q02",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "اضْرِب بِّعَصَاكَ (ب sukun followed by ب) is an example of idgham…",
+        "bm": "اضْرِب بِّعَصَاكَ (ب sukun bertemu ب) ialah contoh idgham…"
+      },
+      "explanation": {
+        "en": "Mithlain = two identical letters.",
+        "bm": "Mithlain = dua huruf yang sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mithlain",
+          "bm": "mithlain"
+        },
+        {
+          "en": "mutajanisain",
+          "bm": "mutajanisain"
+        },
+        {
+          "en": "mutaqaribain",
+          "bm": "mutaqaribain"
+        },
+        {
+          "en": "syafawi only",
+          "bm": "syafawi only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q03",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "قَدْ تَبَيَّنَ (د sukun followed by ت) is an example of idgham…",
+        "bm": "قَدْ تَبَيَّنَ (د sukun bertemu ت) ialah contoh idgham…"
+      },
+      "explanation": {
+        "en": "د and ت share the same makhraj but differ in qualities.",
+        "bm": "د dan ت sama makhraj tetapi berbeza sifat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mutajanisain",
+          "bm": "mutajanisain"
+        },
+        {
+          "en": "mithlain",
+          "bm": "mithlain"
+        },
+        {
+          "en": "mutaqaribain",
+          "bm": "mutaqaribain"
+        },
+        {
+          "en": "ikhfa'",
+          "bm": "ikhfa'"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q04",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "قُلْ رَّبِّ (ل sukun followed by ر) is an example of idgham…",
+        "bm": "قُلْ رَّبِّ (ل sukun bertemu ر) ialah contoh idgham…"
+      },
+      "explanation": {
+        "en": "ل and ر have points of articulation close to each other.",
+        "bm": "ل dan ر mempunyai makhraj yang berdekatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mutaqaribain",
+          "bm": "mutaqaribain"
+        },
+        {
+          "en": "mithlain",
+          "bm": "mithlain"
+        },
+        {
+          "en": "mutajanisain",
+          "bm": "mutajanisain"
+        },
+        {
+          "en": "izhar",
+          "bm": "izhar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q05",
+      "subtopicId": "f3pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mim sakinah followed by ب is read with…",
+        "bm": "Mim sakinah bertemu ب dibaca secara…"
+      },
+      "explanation": {
+        "en": "Example: تَرْمِيهِم بِحِجَارَةٍ.",
+        "bm": "Contoh: تَرْمِيهِم بِحِجَارَةٍ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ikhfa' syafawi (hidden, with dengung)",
+          "bm": "ikhfa' syafawi (samar, berdengung)"
+        },
+        {
+          "en": "izhar syafawi (clear)",
+          "bm": "izhar syafawi (jelas)"
+        },
+        {
+          "en": "qalqalah",
+          "bm": "qalqalah"
+        },
+        {
+          "en": "mad lazim",
+          "bm": "mad lazim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q06",
+      "subtopicId": "f3pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mim sakinah followed by any letter other than ب or م is…",
+        "bm": "Mim sakinah bertemu huruf selain ب atau م ialah…"
+      },
+      "explanation": {
+        "en": "Read the mim clearly without dengung, e.g. لَهُمْ فِيهَا.",
+        "bm": "Baca mim dengan jelas tanpa dengung, cth. لَهُمْ فِيهَا."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "izhar syafawi",
+          "bm": "izhar syafawi"
+        },
+        {
+          "en": "ikhfa' syafawi",
+          "bm": "ikhfa' syafawi"
+        },
+        {
+          "en": "idgham mithlain",
+          "bm": "idgham mithlain"
+        },
+        {
+          "en": "mad far'i",
+          "bm": "mad far'i"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q07",
+      "subtopicId": "f3pi-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The lam in the word Allah after a kasrah is read ______ (thin/thick).",
+        "bm": "Lam pada lafaz Allah selepas kasrah dibaca ______ (nipis/tebal)."
+      },
+      "explanation": {
+        "en": "e.g. بِسْمِ اللّٰهِ.",
+        "bm": "cth. بِسْمِ اللّٰهِ."
+      },
+      "difficulty": 1,
+      "answer": [
+        "thin",
+        "nipis",
+        "tarqiq"
+      ]
+    },
+    {
+      "id": "f3pi-01-q08",
+      "subtopicId": "f3pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In قَالَ اللّٰهُ the lam of Allah is read…",
+        "bm": "Dalam قَالَ اللّٰهُ, lam pada lafaz Allah dibaca…"
+      },
+      "explanation": {
+        "en": "The letter before it has fathah.",
+        "bm": "Huruf sebelumnya berbaris fathah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "thick (tafkhim)",
+          "bm": "tebal (tafkhim)"
+        },
+        {
+          "en": "thin (tarqiq)",
+          "bm": "nipis (tarqiq)"
+        },
+        {
+          "en": "silently",
+          "bm": "tidak dibunyikan"
+        },
+        {
+          "en": "with qalqalah",
+          "bm": "dengan qalqalah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q09",
+      "subtopicId": "f3pi-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each type of idgham with its description.",
+        "bm": "Padankan jenis idgham dengan huraiannya."
+      },
+      "explanation": {
+        "en": "All three are read by merging the first letter into the second.",
+        "bm": "Ketiga-tiganya dibaca dengan memasukkan huruf pertama ke dalam huruf kedua."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Mithlain",
+            "bm": "Mithlain"
+          },
+          "right": {
+            "en": "Two identical letters",
+            "bm": "Dua huruf yang sama"
+          }
+        },
+        {
+          "left": {
+            "en": "Mutajanisain",
+            "bm": "Mutajanisain"
+          },
+          "right": {
+            "en": "Same makhraj, different qualities",
+            "bm": "Makhraj sama, sifat berbeza"
+          }
+        },
+        {
+          "left": {
+            "en": "Mutaqaribain",
+            "bm": "Mutaqaribain"
+          },
+          "right": {
+            "en": "Makhraj close together",
+            "bm": "Makhraj berdekatan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pi-01-q10",
+      "subtopicId": "f3pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mim sakinah followed by م (e.g. لَهُم مَّا) is read with…",
+        "bm": "Mim sakinah bertemu م (cth. لَهُم مَّا) dibaca secara…"
+      },
+      "explanation": {
+        "en": "Two mims merge into one with a held nasal sound.",
+        "bm": "Dua mim bercantum menjadi satu dengan dengung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "idgham mithlain with dengung",
+          "bm": "idgham mithlain dengan dengung"
+        },
+        {
+          "en": "izhar syafawi",
+          "bm": "izhar syafawi"
+        },
+        {
+          "en": "ikhfa' syafawi",
+          "bm": "ikhfa' syafawi"
+        },
+        {
+          "en": "qalqalah kubra",
+          "bm": "qalqalah kubra"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q11",
+      "subtopicId": "f3pi-01-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL examples of idgham mutajanisain.",
+        "bm": "Pilih SEMUA contoh idgham mutajanisain."
+      },
+      "explanation": {
+        "en": "د→ت, ت→ط and ذ→ظ share a makhraj. ل→ر is mutaqaribain.",
+        "bm": "د→ت, ت→ط dan ذ→ظ sama makhraj. ل→ر ialah mutaqaribain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "قَد تَّبَيَّنَ",
+          "bm": "قَد تَّبَيَّنَ"
+        },
+        {
+          "en": "قَالَت طَّائِفَةٌ",
+          "bm": "قَالَت طَّائِفَةٌ"
+        },
+        {
+          "en": "إِذ ظَّلَمُوا",
+          "bm": "إِذ ظَّلَمُوا"
+        },
+        {
+          "en": "قُل رَّبِّ",
+          "bm": "قُل رَّبِّ"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pi-01-q12",
+      "subtopicId": "f3pi-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The nasal sound held when reading ikhfa' or idgham with mim is called ______.",
+        "bm": "Bunyi sengau yang ditahan semasa membaca ikhfa' atau idgham dengan mim dipanggil ______."
+      },
+      "explanation": {
+        "en": "It lasts about two harakat.",
+        "bm": "Ia kira-kira dua harakat."
+      },
+      "difficulty": 2,
+      "answer": [
+        "dengung",
+        "ghunnah"
+      ]
+    },
+    {
+      "id": "f3pi-01-q13",
+      "subtopicId": "f3pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In رَسُولُ اللّٰهِ, the lam of Allah is read…",
+        "bm": "Dalam رَسُولُ اللّٰهِ, lam pada lafaz Allah dibaca…"
+      },
+      "explanation": {
+        "en": "Fathah or dhammah before → tafkhim.",
+        "bm": "Fathah atau dhammah sebelumnya → tafkhim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "thick, because of the dhammah before it",
+          "bm": "tebal, kerana dhammah sebelumnya"
+        },
+        {
+          "en": "thin, because of kasrah",
+          "bm": "nipis, kerana kasrah"
+        },
+        {
+          "en": "not at all",
+          "bm": "tidak dibaca"
+        },
+        {
+          "en": "with mad",
+          "bm": "dengan mad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q14",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is makhraj?",
+        "bm": "Apakah makhraj?"
+      },
+      "explanation": {
+        "en": "Knowing makhraj explains the types of idgham.",
+        "bm": "Memahami makhraj menerangkan jenis-jenis idgham."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The place where a letter is pronounced from",
+          "bm": "Tempat keluar sesuatu huruf"
+        },
+        {
+          "en": "The length of a vowel",
+          "bm": "Panjang baris"
+        },
+        {
+          "en": "A stop sign",
+          "bm": "Tanda berhenti"
+        },
+        {
+          "en": "A type of verse",
+          "bm": "Sejenis ayat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q15",
+      "subtopicId": "f3pi-01-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to decide the rule for a mim sakinah.",
+        "bm": "Susun langkah menentukan hukum mim sakinah."
+      },
+      "explanation": {
+        "en": "Only two letters change the reading.",
+        "bm": "Hanya dua huruf yang mengubah bacaan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Find the mim with sukun",
+          "bm": "Cari mim bersukun"
+        },
+        {
+          "en": "Look at the next letter",
+          "bm": "Lihat huruf berikutnya"
+        },
+        {
+          "en": "If ب → ikhfa' syafawi; if م → idgham mithlain",
+          "bm": "Jika ب → ikhfa' syafawi; jika م → idgham mithlain"
+        },
+        {
+          "en": "Otherwise → izhar syafawi",
+          "bm": "Selain itu → izhar syafawi"
+        }
+      ]
+    },
+    {
+      "id": "f3pi-01-q16",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is idgham mithlain the \"easiest\" idgham to recognise?",
+        "bm": "Mengapakah idgham mithlain paling \"mudah\" dikenal pasti?"
+      },
+      "explanation": {
+        "en": "e.g. وَقَد دَّخَلُوا (د and د).",
+        "bm": "cth. وَقَد دَّخَلُوا (د dan د)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The two letters are identical",
+          "bm": "Dua huruf itu sama"
+        },
+        {
+          "en": "It only happens at the end of a surah",
+          "bm": "Ia hanya berlaku di akhir surah"
+        },
+        {
+          "en": "It has no syaddah",
+          "bm": "Ia tiada syaddah"
+        },
+        {
+          "en": "It uses mad",
+          "bm": "Ia menggunakan mad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q17",
+      "subtopicId": "f3pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student reads أَمْ بِهِ with a clear mim and no dengung. What is wrong?",
+        "bm": "Seorang murid membaca أَمْ بِهِ dengan mim yang jelas tanpa dengung. Apakah kesilapannya?"
+      },
+      "explanation": {
+        "en": "Izhar is only for letters other than ب and م.",
+        "bm": "Izhar hanya untuk huruf selain ب dan م."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Mim sakinah before ب needs ikhfa' syafawi with dengung",
+          "bm": "Mim sakinah bertemu ب memerlukan ikhfa' syafawi dengan dengung"
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada kesilapan"
+        },
+        {
+          "en": "It should be qalqalah",
+          "bm": "Sepatutnya qalqalah"
+        },
+        {
+          "en": "It should be mad lazim",
+          "bm": "Sepatutnya mad lazim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q18",
+      "subtopicId": "f3pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the Quran have rules like idgham instead of pronouncing every letter separately?",
+        "bm": "Mengapakah al-Quran mempunyai hukum seperti idgham dan tidak menyebut setiap huruf secara berasingan?"
+      },
+      "explanation": {
+        "en": "Tajwid preserves the recitation passed down through generations (talaqqi).",
+        "bm": "Tajwid memelihara bacaan yang diwarisi turun-temurun (talaqqi)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The Quran is read as it was revealed and taught by the Prophet ﷺ, with smooth, correct sounds",
+          "bm": "Al-Quran dibaca sebagaimana diturunkan dan diajar oleh Rasulullah ﷺ, dengan bunyi yang lancar dan betul"
+        },
+        {
+          "en": "To make it shorter to write",
+          "bm": "Supaya lebih pendek ditulis"
+        },
+        {
+          "en": "There is no reason",
+          "bm": "Tiada sebab"
+        },
+        {
+          "en": "To change the meaning",
+          "bm": "Untuk mengubah makna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q19",
+      "subtopicId": "f3pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In هُوَ اللّٰهُ and in لِلّٰهِ, how is the lam of Allah read?",
+        "bm": "Dalam هُوَ اللّٰهُ dan لِلّٰهِ, bagaimanakah lam pada lafaz Allah dibaca?"
+      },
+      "explanation": {
+        "en": "Always check the vowel immediately before the lam.",
+        "bm": "Sentiasa semak baris sejurus sebelum lam."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Thick in هُوَ اللّٰهُ (fathah), thin in لِلّٰهِ (kasrah)",
+          "bm": "Tebal dalam هُوَ اللّٰهُ (fathah), nipis dalam لِلّٰهِ (kasrah)"
+        },
+        {
+          "en": "Both thick",
+          "bm": "Kedua-duanya tebal"
+        },
+        {
+          "en": "Both thin",
+          "bm": "Kedua-duanya nipis"
+        },
+        {
+          "en": "Thin then thick",
+          "bm": "Nipis kemudian tebal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-01-q20",
+      "subtopicId": "f3pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which BEST helps a student master these tajwid rules?",
+        "bm": "Manakah PALING membantu murid menguasai hukum tajwid ini?"
+      },
+      "explanation": {
+        "en": "Tajwid is a practical skill learned by listening and correction.",
+        "bm": "Tajwid ialah kemahiran amali yang dipelajari melalui mendengar dan pembetulan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Reading regularly with a qualified teacher (talaqqi musyafahah) and marking examples",
+          "bm": "Membaca secara berkala dengan guru bertauliah (talaqqi musyafahah) dan menandakan contoh"
+        },
+        {
+          "en": "Only memorising definitions",
+          "bm": "Menghafal definisi sahaja"
+        },
+        {
+          "en": "Reading as fast as possible",
+          "bm": "Membaca secepat mungkin"
+        },
+        {
+          "en": "Listening once only",
+          "bm": "Mendengar sekali sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

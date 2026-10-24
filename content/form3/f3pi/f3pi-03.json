@@ -1,0 +1,832 @@
+{
+  "chapterId": "f3pi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A family drives from Johor to Kedah for a wedding. Islam lets them combine and shorten their prayers on the way — a gift of ease (rukhsah) from Allah.",
+      "bm": "Sebuah keluarga memandu dari Johor ke Kedah untuk majlis perkahwinan. Islam membenarkan mereka menghimpun dan memendekkan solat dalam perjalanan — kemudahan (rukhsah) daripada Allah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Travellers (musafir) covering at least 2 marhalah (about 81 km) for a permitted purpose may combine (jamak) and shorten (qasar) prayers.",
+        "bm": "Musafir yang bergerak sekurang-kurangnya 2 marhalah (kira-kira 81 km) untuk tujuan yang harus boleh menghimpun (jamak) dan memendekkan (qasar) solat."
+      },
+      {
+        "en": "Qasar shortens four-rakaat prayers to two; Maghrib and Subuh cannot be shortened.",
+        "bm": "Qasar memendekkan solat empat rakaat kepada dua; Maghrib dan Subuh tidak boleh dipendekkan."
+      },
+      {
+        "en": "Managing the deceased (bathing, shrouding, praying, burying) is fardu kifayah.",
+        "bm": "Pengurusan jenazah (memandikan, mengkafankan, menyembahyangkan, mengebumikan) ialah fardu kifayah."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Can it be jamak?",
+            "bm": "Boleh jamak?"
+          },
+          {
+            "en": "Can it be qasar?",
+            "bm": "Boleh qasar?"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Subuh",
+              "bm": "Subuh"
+            },
+            "cells": [
+              {
+                "en": "No",
+                "bm": "Tidak"
+              },
+              {
+                "en": "No",
+                "bm": "Tidak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Zohor",
+              "bm": "Zohor"
+            },
+            "cells": [
+              {
+                "en": "Yes (with Asar)",
+                "bm": "Ya (dengan Asar)"
+              },
+              {
+                "en": "Yes — 4 → 2",
+                "bm": "Ya — 4 → 2"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Asar",
+              "bm": "Asar"
+            },
+            "cells": [
+              {
+                "en": "Yes (with Zohor)",
+                "bm": "Ya (dengan Zohor)"
+              },
+              {
+                "en": "Yes — 4 → 2",
+                "bm": "Ya — 4 → 2"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Maghrib",
+              "bm": "Maghrib"
+            },
+            "cells": [
+              {
+                "en": "Yes (with Isyak)",
+                "bm": "Ya (dengan Isyak)"
+              },
+              {
+                "en": "No (stays 3)",
+                "bm": "Tidak (kekal 3)"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Isyak",
+              "bm": "Isyak"
+            },
+            "cells": [
+              {
+                "en": "Yes (with Maghrib)",
+                "bm": "Ya (dengan Maghrib)"
+              },
+              {
+                "en": "Yes — 4 → 2",
+                "bm": "Ya — 4 → 2"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Rukhsah",
+          "bm": "Rukhsah"
+        },
+        "definition": {
+          "en": "A concession or ease given by Allah in certain situations.",
+          "bm": "Kelonggaran atau keringanan daripada Allah dalam keadaan tertentu."
+        }
+      },
+      {
+        "term": {
+          "en": "Jamak taqdim",
+          "bm": "Jamak taqdim"
+        },
+        "definition": {
+          "en": "Combining two prayers in the time of the first (e.g. Asar in Zohor time).",
+          "bm": "Menghimpun dua solat dalam waktu solat pertama (cth. Asar dalam waktu Zohor)."
+        }
+      },
+      {
+        "term": {
+          "en": "Jamak takhir",
+          "bm": "Jamak takhir"
+        },
+        "definition": {
+          "en": "Combining two prayers in the time of the second (e.g. Zohor in Asar time).",
+          "bm": "Menghimpun dua solat dalam waktu solat kedua (cth. Zohor dalam waktu Asar)."
+        }
+      },
+      {
+        "term": {
+          "en": "Qasar",
+          "bm": "Qasar"
+        },
+        "definition": {
+          "en": "Shortening a four-rakaat prayer to two rakaat while travelling.",
+          "bm": "Memendekkan solat empat rakaat kepada dua rakaat semasa musafir."
+        }
+      },
+      {
+        "term": {
+          "en": "Fardu kifayah",
+          "bm": "Fardu kifayah"
+        },
+        "definition": {
+          "en": "A duty on the community; if some do it, others are freed from sin.",
+          "bm": "Kewajipan ke atas masyarakat; jika sebahagian melaksanakannya, yang lain terlepas daripada dosa."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Ali travels 200 km to visit his grandmother. He leaves after Zohor time starts. How can he pray Zohor and Asar?",
+        "bm": "Ali musafir sejauh 200 km untuk melawat neneknya. Dia bertolak selepas masuk waktu Zohor. Bagaimanakah dia boleh menunaikan Zohor dan Asar?"
+      },
+      "steps": [
+        {
+          "en": "The journey is more than 2 marhalah and for a permitted purpose → rukhsah applies.",
+          "bm": "Perjalanan melebihi 2 marhalah dan untuk tujuan yang harus → rukhsah terpakai."
+        },
+        {
+          "en": "Option 1 (jamak taqdim): pray Zohor then Asar in Zohor time, each 2 rakaat (qasar), with the intention of jamak in Zohor.",
+          "bm": "Pilihan 1 (jamak taqdim): solat Zohor kemudian Asar dalam waktu Zohor, setiap satu 2 rakaat (qasar), dengan niat jamak dalam solat Zohor."
+        },
+        {
+          "en": "Option 2 (jamak takhir): intend in Zohor time to delay, then pray both in Asar time.",
+          "bm": "Pilihan 2 (jamak takhir): berniat dalam waktu Zohor untuk menangguhkan, kemudian solat kedua-duanya dalam waktu Asar."
+        }
+      ],
+      "answer": {
+        "en": "Jamak and qasar together: Zohor 2 + Asar 2.",
+        "bm": "Jamak dan qasar serentak: Zohor 2 + Asar 2."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pi-03-q01",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Qasar means…",
+        "bm": "Qasar bermaksud…"
+      },
+      "explanation": {
+        "en": "It applies to Zohor, Asar and Isyak.",
+        "bm": "Ia terpakai bagi Zohor, Asar dan Isyak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shortening a 4-rakaat prayer to 2 rakaat",
+          "bm": "memendekkan solat 4 rakaat kepada 2 rakaat"
+        },
+        {
+          "en": "combining two prayers",
+          "bm": "menghimpun dua solat"
+        },
+        {
+          "en": "delaying all prayers",
+          "bm": "menangguhkan semua solat"
+        },
+        {
+          "en": "praying while sitting",
+          "bm": "solat secara duduk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q02",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which prayer can NEVER be combined or shortened?",
+        "bm": "Solat manakah TIDAK BOLEH dijamak atau diqasar langsung?"
+      },
+      "explanation": {
+        "en": "Subuh is prayed in its own time, 2 rakaat.",
+        "bm": "Subuh ditunaikan dalam waktunya sendiri, 2 rakaat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Subuh",
+          "bm": "Subuh"
+        },
+        {
+          "en": "Zohor",
+          "bm": "Zohor"
+        },
+        {
+          "en": "Asar",
+          "bm": "Asar"
+        },
+        {
+          "en": "Isyak",
+          "bm": "Isyak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q03",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Maghrib can be combined but NOT…",
+        "bm": "Maghrib boleh dijamak tetapi TIDAK boleh…"
+      },
+      "explanation": {
+        "en": "It stays 3 rakaat.",
+        "bm": "Ia kekal 3 rakaat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shortened (qasar)",
+          "bm": "dipendekkan (qasar)"
+        },
+        {
+          "en": "prayed in congregation",
+          "bm": "ditunaikan berjemaah"
+        },
+        {
+          "en": "prayed at all",
+          "bm": "ditunaikan langsung"
+        },
+        {
+          "en": "prayed with Isyak",
+          "bm": "ditunaikan bersama Isyak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q04",
+      "subtopicId": "f3pi-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The minimum distance for jamak and qasar is 2 ______ (about 81 km).",
+        "bm": "Jarak minimum untuk jamak dan qasar ialah 2 ______ (kira-kira 81 km)."
+      },
+      "explanation": {
+        "en": "The purpose of the journey must also be permitted.",
+        "bm": "Tujuan perjalanan juga mesti harus."
+      },
+      "difficulty": 1,
+      "answer": [
+        "marhalah"
+      ]
+    },
+    {
+      "id": "f3pi-03-q05",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Praying Asar in Zohor time (together with Zohor) is called…",
+        "bm": "Menunaikan Asar dalam waktu Zohor (bersama Zohor) dipanggil…"
+      },
+      "explanation": {
+        "en": "Taqdim = brought forward.",
+        "bm": "Taqdim = didahulukan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "jamak taqdim",
+          "bm": "jamak taqdim"
+        },
+        {
+          "en": "jamak takhir",
+          "bm": "jamak takhir"
+        },
+        {
+          "en": "qasar",
+          "bm": "qasar"
+        },
+        {
+          "en": "qada'",
+          "bm": "qada'"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q06",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Managing the deceased is…",
+        "bm": "Pengurusan jenazah ialah…"
+      },
+      "explanation": {
+        "en": "If no one does it, the whole community is sinful.",
+        "bm": "Jika tiada yang melaksanakannya, seluruh masyarakat berdosa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fardu kifayah",
+          "bm": "fardu kifayah"
+        },
+        {
+          "en": "fardu ain",
+          "bm": "fardu ain"
+        },
+        {
+          "en": "sunat",
+          "bm": "sunat"
+        },
+        {
+          "en": "makruh",
+          "bm": "makruh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q07",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many takbir are there in solat jenazah?",
+        "bm": "Berapakah takbir dalam solat jenazah?"
+      },
+      "explanation": {
+        "en": "There is no ruku' or sujud.",
+        "bm": "Tiada rukuk atau sujud."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q08",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is read after the FIRST takbir of solat jenazah?",
+        "bm": "Apakah yang dibaca selepas takbir PERTAMA solat jenazah?"
+      },
+      "explanation": {
+        "en": "After the 2nd: selawat; after the 3rd and 4th: doa.",
+        "bm": "Selepas ke-2: selawat; selepas ke-3 dan ke-4: doa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Al-Fatihah",
+          "bm": "Al-Fatihah"
+        },
+        {
+          "en": "Selawat",
+          "bm": "Selawat"
+        },
+        {
+          "en": "Doa for the deceased",
+          "bm": "Doa untuk jenazah"
+        },
+        {
+          "en": "Tasyahhud",
+          "bm": "Tasyahhud"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q09",
+      "subtopicId": "f3pi-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of managing the deceased.",
+        "bm": "Susun langkah pengurusan jenazah."
+      },
+      "explanation": {
+        "en": "These four are fardu kifayah.",
+        "bm": "Keempat-empatnya fardu kifayah."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Bathing",
+          "bm": "Memandikan"
+        },
+        {
+          "en": "Shrouding",
+          "bm": "Mengkafankan"
+        },
+        {
+          "en": "Solat jenazah",
+          "bm": "Menyembahyangkan"
+        },
+        {
+          "en": "Burial",
+          "bm": "Mengebumikan"
+        }
+      ]
+    },
+    {
+      "id": "f3pi-03-q10",
+      "subtopicId": "f3pi-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange what is read after each takbir in solat jenazah.",
+        "bm": "Susun bacaan selepas setiap takbir dalam solat jenazah."
+      },
+      "explanation": {
+        "en": "Takbir 1 → 2 → 3 → 4, then salam.",
+        "bm": "Takbir 1 → 2 → 3 → 4, kemudian salam."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Al-Fatihah",
+          "bm": "Al-Fatihah"
+        },
+        {
+          "en": "Selawat on the Prophet ﷺ",
+          "bm": "Selawat ke atas Nabi ﷺ"
+        },
+        {
+          "en": "Doa for the deceased",
+          "bm": "Doa untuk jenazah"
+        },
+        {
+          "en": "Doa for the deceased and those left behind, then salam",
+          "bm": "Doa untuk jenazah dan yang ditinggalkan, kemudian salam"
+        }
+      ]
+    },
+    {
+      "id": "f3pi-03-q11",
+      "subtopicId": "f3pi-03-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL conditions for jamak and qasar while travelling.",
+        "bm": "Pilih SEMUA syarat jamak dan qasar semasa musafir."
+      },
+      "explanation": {
+        "en": "There is no day restriction.",
+        "bm": "Tiada syarat hari tertentu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Distance at least 2 marhalah",
+          "bm": "Jarak sekurang-kurangnya 2 marhalah"
+        },
+        {
+          "en": "The journey is for a permitted purpose (not sinful)",
+          "bm": "Perjalanan untuk tujuan yang harus (bukan maksiat)"
+        },
+        {
+          "en": "Has left the boundary of one's town",
+          "bm": "Telah keluar dari sempadan kariah"
+        },
+        {
+          "en": "Travelling only on Fridays",
+          "bm": "Bermusafir pada hari Jumaat sahaja"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pi-03-q12",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which pairs of prayers can be combined (jamak)?",
+        "bm": "Pasangan solat manakah boleh dijamak?"
+      },
+      "explanation": {
+        "en": "Only these two pairs.",
+        "bm": "Hanya dua pasangan ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Zohor + Asar and Maghrib + Isyak",
+          "bm": "Zohor + Asar dan Maghrib + Isyak"
+        },
+        {
+          "en": "Subuh + Zohor",
+          "bm": "Subuh + Zohor"
+        },
+        {
+          "en": "Asar + Maghrib",
+          "bm": "Asar + Maghrib"
+        },
+        {
+          "en": "Isyak + Subuh",
+          "bm": "Isyak + Subuh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q13",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "For jamak taqdim, which condition is required?",
+        "bm": "Bagi jamak taqdim, syarat manakah diperlukan?"
+      },
+      "explanation": {
+        "en": "These are tertib, niat and muwalat (continuity).",
+        "bm": "Inilah tertib, niat dan muwalat (berturut-turut)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Pray the first prayer first, intend jamak in it, and pray the second straight after",
+          "bm": "Solat pertama didahulukan, niat jamak di dalamnya, dan solat kedua ditunaikan terus selepasnya"
+        },
+        {
+          "en": "Pray the second prayer first",
+          "bm": "Solat kedua didahulukan"
+        },
+        {
+          "en": "Wait an hour between them",
+          "bm": "Tunggu sejam antara keduanya"
+        },
+        {
+          "en": "No intention is needed",
+          "bm": "Tidak perlu niat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q14",
+      "subtopicId": "f3pi-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A male deceased is usually shrouded in ______ layers of cloth.",
+        "bm": "Jenazah lelaki biasanya dikafankan dengan ______ lapis kain."
+      },
+      "explanation": {
+        "en": "A female is shrouded in five pieces.",
+        "bm": "Jenazah perempuan dikafankan dengan lima helai."
+      },
+      "difficulty": 2,
+      "answer": [
+        "3",
+        "three",
+        "tiga"
+      ]
+    },
+    {
+      "id": "f3pi-03-q15",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Solat jenazah differs from other prayers because it has…",
+        "bm": "Solat jenazah berbeza daripada solat lain kerana ia…"
+      },
+      "explanation": {
+        "en": "It is performed standing with four takbir.",
+        "bm": "Ia ditunaikan secara berdiri dengan empat takbir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "no ruku' and no sujud",
+          "bm": "tiada rukuk dan tiada sujud"
+        },
+        {
+          "en": "five rakaat",
+          "bm": "lima rakaat"
+        },
+        {
+          "en": "no takbir",
+          "bm": "tiada takbir"
+        },
+        {
+          "en": "no intention",
+          "bm": "tiada niat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q16",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Isyak prayed with qasar has how many rakaat?",
+        "bm": "Solat Isyak yang diqasar mempunyai berapa rakaat?"
+      },
+      "explanation": {
+        "en": "Four-rakaat prayers become two.",
+        "bm": "Solat empat rakaat menjadi dua."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q17",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Aminah travels 150 km to go shopping for something forbidden. Can she use jamak and qasar?",
+        "bm": "Aminah bermusafir 150 km untuk membeli sesuatu yang haram. Bolehkah dia menggunakan jamak dan qasar?"
+      },
+      "explanation": {
+        "en": "A permitted purpose is a condition of rukhsah.",
+        "bm": "Tujuan yang harus ialah syarat rukhsah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "No — the rukhsah is not for journeys with a sinful purpose",
+          "bm": "Tidak — rukhsah bukan untuk perjalanan bertujuan maksiat"
+        },
+        {
+          "en": "Yes — distance is enough",
+          "bm": "Ya — jarak sudah memadai"
+        },
+        {
+          "en": "Yes, but only Subuh",
+          "bm": "Ya, tetapi Subuh sahaja"
+        },
+        {
+          "en": "Only qasar Maghrib",
+          "bm": "Hanya qasar Maghrib"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q18",
+      "subtopicId": "f3pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What wisdom (hikmah) does jamak and qasar show?",
+        "bm": "Apakah hikmah jamak dan qasar?"
+      },
+      "explanation": {
+        "en": "Prayer is never dropped; it is made easier (al-Baqarah: 185).",
+        "bm": "Solat tidak pernah digugurkan; ia dipermudahkan (al-Baqarah: 185)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Islam makes religion easy and does not burden people beyond their ability",
+          "bm": "Islam memudahkan agama dan tidak membebankan melebihi kemampuan"
+        },
+        {
+          "en": "Prayer is not important when travelling",
+          "bm": "Solat tidak penting semasa musafir"
+        },
+        {
+          "en": "Travellers need not pray",
+          "bm": "Musafir tidak perlu solat"
+        },
+        {
+          "en": "It encourages missing prayers",
+          "bm": "Ia menggalakkan meninggalkan solat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q19",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is managing the deceased fardu kifayah and not fardu ain?",
+        "bm": "Mengapakah pengurusan jenazah fardu kifayah dan bukan fardu ain?"
+      },
+      "explanation": {
+        "en": "This encourages people to learn these skills for their community.",
+        "bm": "Ini menggalakkan orang ramai mempelajari kemahiran ini untuk masyarakat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is a community duty: once some people do it properly, the obligation is fulfilled for all",
+          "bm": "Ia tanggungjawab masyarakat: apabila sebahagian melaksanakannya dengan sempurna, kewajipan terlaksana bagi semua"
+        },
+        {
+          "en": "It is not important",
+          "bm": "Ia tidak penting"
+        },
+        {
+          "en": "Only family members are sinful",
+          "bm": "Hanya ahli keluarga berdosa"
+        },
+        {
+          "en": "It is only sunat",
+          "bm": "Ia sunat sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-03-q20",
+      "subtopicId": "f3pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it good for teenagers to learn how to manage the deceased?",
+        "bm": "Mengapakah baik untuk remaja mempelajari cara pengurusan jenazah?"
+      },
+      "explanation": {
+        "en": "It also reminds us of death and the Hereafter.",
+        "bm": "Ia juga mengingatkan kita tentang kematian dan akhirat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "So the community always has people able to fulfil this fardu kifayah",
+          "bm": "Supaya masyarakat sentiasa mempunyai orang yang mampu menunaikan fardu kifayah ini"
+        },
+        {
+          "en": "It is only for old people",
+          "bm": "Ia hanya untuk orang tua"
+        },
+        {
+          "en": "It is never needed",
+          "bm": "Ia tidak pernah diperlukan"
+        },
+        {
+          "en": "To earn money only",
+          "bm": "Untuk mendapat wang sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

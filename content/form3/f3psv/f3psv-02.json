@@ -1,0 +1,825 @@
+{
+  "chapterId": "f3psv-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why do fast-food logos use red and yellow, while hospitals prefer blue and green? Colours change how we feel — and designers use this on purpose.",
+      "bm": "Mengapakah logo makanan segera menggunakan merah dan kuning, sedangkan hospital memilih biru dan hijau? Warna mempengaruhi perasaan — dan pereka menggunakannya dengan sengaja."
+    },
+    "bigIdeas": [
+      {
+        "en": "Primary colours (red, yellow, blue) mix to make secondary colours (orange, green, purple).",
+        "bm": "Warna primer (merah, kuning, biru) dicampur untuk menghasilkan warna sekunder (jingga, hijau, ungu)."
+      },
+      {
+        "en": "Complementary colours sit opposite on the colour wheel and create strong contrast.",
+        "bm": "Warna pelengkap terletak bertentangan pada roda warna dan menghasilkan kontra yang kuat."
+      },
+      {
+        "en": "Adding white makes a tint, black makes a shade, and grey makes a tone.",
+        "bm": "Menambah putih menghasilkan tin, hitam menghasilkan syed, dan kelabu menghasilkan ton."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Mix",
+            "bm": "Campuran"
+          },
+          {
+            "en": "Complement",
+            "bm": "Warna pelengkap"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Orange",
+              "bm": "Jingga"
+            },
+            "cells": [
+              {
+                "en": "Red + yellow",
+                "bm": "Merah + kuning"
+              },
+              {
+                "en": "Blue",
+                "bm": "Biru"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Green",
+              "bm": "Hijau"
+            },
+            "cells": [
+              {
+                "en": "Yellow + blue",
+                "bm": "Kuning + biru"
+              },
+              {
+                "en": "Red",
+                "bm": "Merah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Purple",
+              "bm": "Ungu"
+            },
+            "cells": [
+              {
+                "en": "Blue + red",
+                "bm": "Biru + merah"
+              },
+              {
+                "en": "Yellow",
+                "bm": "Kuning"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Primary colours",
+          "bm": "Warna primer"
+        },
+        "definition": {
+          "en": "Red, yellow and blue — cannot be mixed from other colours.",
+          "bm": "Merah, kuning dan biru — tidak boleh dihasilkan daripada campuran warna lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Secondary colours",
+          "bm": "Warna sekunder"
+        },
+        "definition": {
+          "en": "Made by mixing two primaries: orange, green, purple.",
+          "bm": "Hasil campuran dua warna primer: jingga, hijau, ungu."
+        }
+      },
+      {
+        "term": {
+          "en": "Tertiary colours",
+          "bm": "Warna tertier"
+        },
+        "definition": {
+          "en": "A primary mixed with a neighbouring secondary, e.g. yellow-green.",
+          "bm": "Warna primer dicampur dengan warna sekunder bersebelahan, cth. kuning-hijau."
+        }
+      },
+      {
+        "term": {
+          "en": "Complementary colours",
+          "bm": "Warna pelengkap"
+        },
+        "definition": {
+          "en": "Opposites on the colour wheel: red–green, blue–orange, yellow–purple.",
+          "bm": "Bertentangan pada roda warna: merah–hijau, biru–jingga, kuning–ungu."
+        }
+      },
+      {
+        "term": {
+          "en": "Analogous colours",
+          "bm": "Warna analogus"
+        },
+        "definition": {
+          "en": "Neighbours on the wheel, e.g. yellow, yellow-orange, orange.",
+          "bm": "Bersebelahan pada roda warna, cth. kuning, kuning-jingga, jingga."
+        }
+      },
+      {
+        "term": {
+          "en": "Tint / shade",
+          "bm": "Tin / syed"
+        },
+        "definition": {
+          "en": "Colour + white / colour + black.",
+          "bm": "Warna + putih / warna + hitam."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A designer wants a calm poster for a spa. Which colour scheme is suitable?",
+        "bm": "Seorang pereka mahukan poster yang tenang untuk spa. Skema warna manakah sesuai?"
+      },
+      "steps": [
+        {
+          "en": "Cool colours (blue, green) feel calm.",
+          "bm": "Warna sejuk (biru, hijau) terasa tenang."
+        },
+        {
+          "en": "Analogous colours blend smoothly with little contrast.",
+          "bm": "Warna analogus bergabung dengan lancar dengan kontra yang rendah."
+        }
+      ],
+      "answer": {
+        "en": "An analogous scheme of cool colours such as blue, blue-green and green.",
+        "bm": "Skema analogus warna sejuk seperti biru, biru-hijau dan hijau."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3psv-02-q01",
+      "subtopicId": "f3psv-02-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL primary colours.",
+        "bm": "Pilih SEMUA warna primer."
+      },
+      "explanation": {
+        "en": "Green is a secondary colour.",
+        "bm": "Hijau ialah warna sekunder."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Red",
+          "bm": "Merah"
+        },
+        {
+          "en": "Yellow",
+          "bm": "Kuning"
+        },
+        {
+          "en": "Blue",
+          "bm": "Biru"
+        },
+        {
+          "en": "Green",
+          "bm": "Hijau"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-02-q02",
+      "subtopicId": "f3psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Red + yellow makes…",
+        "bm": "Merah + kuning menghasilkan…"
+      },
+      "explanation": {
+        "en": "Orange is a secondary colour.",
+        "bm": "Jingga ialah warna sekunder."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "orange",
+          "bm": "jingga"
+        },
+        {
+          "en": "green",
+          "bm": "hijau"
+        },
+        {
+          "en": "purple",
+          "bm": "ungu"
+        },
+        {
+          "en": "brown",
+          "bm": "perang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q03",
+      "subtopicId": "f3psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Blue + yellow makes…",
+        "bm": "Biru + kuning menghasilkan…"
+      },
+      "explanation": {
+        "en": "Secondary colour.",
+        "bm": "Warna sekunder."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "green",
+          "bm": "hijau"
+        },
+        {
+          "en": "orange",
+          "bm": "jingga"
+        },
+        {
+          "en": "purple",
+          "bm": "ungu"
+        },
+        {
+          "en": "pink",
+          "bm": "merah jambu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q04",
+      "subtopicId": "f3psv-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Blue + red makes ______.",
+        "bm": "Biru + merah menghasilkan ______."
+      },
+      "explanation": {
+        "en": "Purple is opposite yellow on the wheel.",
+        "bm": "Ungu bertentangan dengan kuning pada roda warna."
+      },
+      "difficulty": 1,
+      "answer": [
+        "purple",
+        "violet",
+        "ungu"
+      ]
+    },
+    {
+      "id": "f3psv-02-q05",
+      "subtopicId": "f3psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The complementary colour of red is…",
+        "bm": "Warna pelengkap bagi merah ialah…"
+      },
+      "explanation": {
+        "en": "Complements are opposite on the wheel.",
+        "bm": "Warna pelengkap bertentangan pada roda warna."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "green",
+          "bm": "hijau"
+        },
+        {
+          "en": "orange",
+          "bm": "jingga"
+        },
+        {
+          "en": "purple",
+          "bm": "ungu"
+        },
+        {
+          "en": "pink",
+          "bm": "merah jambu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q06",
+      "subtopicId": "f3psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which are warm colours?",
+        "bm": "Manakah warna panas?"
+      },
+      "explanation": {
+        "en": "They remind us of fire and the sun.",
+        "bm": "Ia mengingatkan kita kepada api dan matahari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Red, orange, yellow",
+          "bm": "Merah, jingga, kuning"
+        },
+        {
+          "en": "Blue, green, purple",
+          "bm": "Biru, hijau, ungu"
+        },
+        {
+          "en": "Black, white, grey",
+          "bm": "Hitam, putih, kelabu"
+        },
+        {
+          "en": "Silver, gold",
+          "bm": "Perak, emas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q07",
+      "subtopicId": "f3psv-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Adding white to a colour makes a…",
+        "bm": "Menambah putih kepada sesuatu warna menghasilkan…"
+      },
+      "explanation": {
+        "en": "e.g. red + white = pink.",
+        "bm": "cth. merah + putih = merah jambu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tint",
+          "bm": "tin"
+        },
+        {
+          "en": "shade",
+          "bm": "syed"
+        },
+        {
+          "en": "tone",
+          "bm": "ton"
+        },
+        {
+          "en": "complement",
+          "bm": "pelengkap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q08",
+      "subtopicId": "f3psv-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Adding black to a colour makes a…",
+        "bm": "Menambah hitam kepada sesuatu warna menghasilkan…"
+      },
+      "explanation": {
+        "en": "Shades are darker.",
+        "bm": "Syed lebih gelap."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shade",
+          "bm": "syed"
+        },
+        {
+          "en": "tint",
+          "bm": "tin"
+        },
+        {
+          "en": "tertiary colour",
+          "bm": "warna tertier"
+        },
+        {
+          "en": "primary colour",
+          "bm": "warna primer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q09",
+      "subtopicId": "f3psv-02-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each colour with its complement.",
+        "bm": "Padankan warna dengan warna pelengkapnya."
+      },
+      "explanation": {
+        "en": "Each primary's complement is the secondary made from the other two primaries.",
+        "bm": "Pelengkap setiap warna primer ialah warna sekunder daripada dua warna primer yang lain."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Red",
+            "bm": "Merah"
+          },
+          "right": {
+            "en": "Green",
+            "bm": "Hijau"
+          }
+        },
+        {
+          "left": {
+            "en": "Blue",
+            "bm": "Biru"
+          },
+          "right": {
+            "en": "Orange",
+            "bm": "Jingga"
+          }
+        },
+        {
+          "left": {
+            "en": "Yellow",
+            "bm": "Kuning"
+          },
+          "right": {
+            "en": "Purple",
+            "bm": "Ungu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3psv-02-q10",
+      "subtopicId": "f3psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yellow-green is a…",
+        "bm": "Kuning-hijau ialah warna…"
+      },
+      "explanation": {
+        "en": "Primary + neighbouring secondary.",
+        "bm": "Primer + sekunder bersebelahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tertiary colour",
+          "bm": "tertier"
+        },
+        {
+          "en": "primary colour",
+          "bm": "primer"
+        },
+        {
+          "en": "secondary colour",
+          "bm": "sekunder"
+        },
+        {
+          "en": "neutral colour",
+          "bm": "neutral"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q11",
+      "subtopicId": "f3psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Colours next to each other on the colour wheel are called…",
+        "bm": "Warna yang bersebelahan pada roda warna dipanggil…"
+      },
+      "explanation": {
+        "en": "They create harmony.",
+        "bm": "Ia menghasilkan harmoni."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "analogous colours",
+          "bm": "warna analogus"
+        },
+        {
+          "en": "complementary colours",
+          "bm": "warna pelengkap"
+        },
+        {
+          "en": "primary colours",
+          "bm": "warna primer"
+        },
+        {
+          "en": "neutral colours",
+          "bm": "warna neutral"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q12",
+      "subtopicId": "f3psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Using different tints and shades of only ONE colour is a…",
+        "bm": "Menggunakan pelbagai tin dan syed bagi SATU warna sahaja ialah skema…"
+      },
+      "explanation": {
+        "en": "Mono = one.",
+        "bm": "Mono = satu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "monochromatic scheme",
+          "bm": "monokromatik"
+        },
+        {
+          "en": "complementary scheme",
+          "bm": "pelengkap"
+        },
+        {
+          "en": "triadic scheme",
+          "bm": "triad"
+        },
+        {
+          "en": "warm scheme",
+          "bm": "panas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q13",
+      "subtopicId": "f3psv-02-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL cool colours.",
+        "bm": "Pilih SEMUA warna sejuk."
+      },
+      "explanation": {
+        "en": "Cool colours suggest water, sky and plants.",
+        "bm": "Warna sejuk mengingatkan air, langit dan tumbuhan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Blue",
+          "bm": "Biru"
+        },
+        {
+          "en": "Green",
+          "bm": "Hijau"
+        },
+        {
+          "en": "Purple",
+          "bm": "Ungu"
+        },
+        {
+          "en": "Orange",
+          "bm": "Jingga"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-02-q14",
+      "subtopicId": "f3psv-02-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Adding grey to a colour makes a ______.",
+        "bm": "Menambah kelabu kepada sesuatu warna menghasilkan ______."
+      },
+      "explanation": {
+        "en": "Tones are softer and less bright.",
+        "bm": "Ton lebih lembut dan kurang terang."
+      },
+      "difficulty": 2,
+      "answer": [
+        "tone",
+        "ton"
+      ]
+    },
+    {
+      "id": "f3psv-02-q15",
+      "subtopicId": "f3psv-02-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these from LIGHTEST to DARKEST.",
+        "bm": "Susun daripada PALING CERAH kepada PALING GELAP."
+      },
+      "explanation": {
+        "en": "Tints are lighter, shades are darker.",
+        "bm": "Tin lebih cerah, syed lebih gelap."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Light blue (tint)",
+          "bm": "Biru muda (tin)"
+        },
+        {
+          "en": "Pure blue",
+          "bm": "Biru tulen"
+        },
+        {
+          "en": "Dark blue (shade)",
+          "bm": "Biru tua (syed)"
+        },
+        {
+          "en": "Black",
+          "bm": "Hitam"
+        }
+      ]
+    },
+    {
+      "id": "f3psv-02-q16",
+      "subtopicId": "f3psv-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do many fast-food logos use red and yellow?",
+        "bm": "Mengapakah banyak logo makanan segera menggunakan merah dan kuning?"
+      },
+      "explanation": {
+        "en": "Colour psychology influences buyers.",
+        "bm": "Psikologi warna mempengaruhi pembeli."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Warm colours feel energetic and attract attention",
+          "bm": "Warna panas terasa bertenaga dan menarik perhatian"
+        },
+        {
+          "en": "They are the cheapest inks",
+          "bm": "Ia dakwat paling murah"
+        },
+        {
+          "en": "They are cool colours",
+          "bm": "Ia warna sejuk"
+        },
+        {
+          "en": "They are neutral",
+          "bm": "Ia warna neutral"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q17",
+      "subtopicId": "f3psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A road safety sign must be seen from far away. Which colour pair is BEST?",
+        "bm": "Papan tanda keselamatan jalan raya mesti dilihat dari jauh. Pasangan warna manakah PALING sesuai?"
+      },
+      "explanation": {
+        "en": "High value contrast improves visibility.",
+        "bm": "Kontra ton yang tinggi meningkatkan keterlihatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Black on yellow",
+          "bm": "Hitam di atas kuning"
+        },
+        {
+          "en": "Light grey on white",
+          "bm": "Kelabu cerah di atas putih"
+        },
+        {
+          "en": "Dark blue on black",
+          "bm": "Biru tua di atas hitam"
+        },
+        {
+          "en": "Pale yellow on white",
+          "bm": "Kuning pucat di atas putih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q18",
+      "subtopicId": "f3psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mixing all three primary paints together usually gives…",
+        "bm": "Mencampurkan ketiga-tiga cat warna primer biasanya menghasilkan…"
+      },
+      "explanation": {
+        "en": "Paint mixing is subtractive.",
+        "bm": "Campuran cat bersifat penolakan (subtraktif)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a dark brown or grey",
+          "bm": "perang gelap atau kelabu"
+        },
+        {
+          "en": "white",
+          "bm": "putih"
+        },
+        {
+          "en": "bright orange",
+          "bm": "jingga terang"
+        },
+        {
+          "en": "pure green",
+          "bm": "hijau tulen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q19",
+      "subtopicId": "f3psv-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An artist paints a sad, rainy scene. Which palette BEST supports the mood?",
+        "bm": "Seorang pelukis melukis suasana sedih pada hari hujan. Palet manakah PALING menyokong suasana itu?"
+      },
+      "explanation": {
+        "en": "Colour choice expresses emotion.",
+        "bm": "Pemilihan warna menyatakan emosi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Cool blues and greys with darker shades",
+          "bm": "Biru sejuk dan kelabu dengan syed yang gelap"
+        },
+        {
+          "en": "Bright orange and yellow",
+          "bm": "Jingga dan kuning terang"
+        },
+        {
+          "en": "Neon pink and green",
+          "bm": "Merah jambu dan hijau neon"
+        },
+        {
+          "en": "Pure red only",
+          "bm": "Merah tulen sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-02-q20",
+      "subtopicId": "f3psv-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does an orange fruit look more vivid on a blue background?",
+        "bm": "Mengapakah buah oren kelihatan lebih terang di atas latar biru?"
+      },
+      "explanation": {
+        "en": "Complementary contrast makes colours \"pop\".",
+        "bm": "Kontra pelengkap menyerlahkan warna."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Blue and orange are complementary, so they intensify each other",
+          "bm": "Biru dan jingga ialah warna pelengkap, jadi saling menyerlahkan"
+        },
+        {
+          "en": "Blue is a warm colour",
+          "bm": "Biru ialah warna panas"
+        },
+        {
+          "en": "They are analogous",
+          "bm": "Ia warna analogus"
+        },
+        {
+          "en": "Orange is a primary colour",
+          "bm": "Jingga ialah warna primer"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

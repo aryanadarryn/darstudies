@@ -1,0 +1,806 @@
+{
+  "chapterId": "f3geo-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Most Malaysians live on less than half of the country's land — in towns and plains near the west coast. Why do people crowd into some places and avoid others?",
+      "bm": "Kebanyakan rakyat Malaysia tinggal di kurang daripada separuh kawasan negara — di bandar dan dataran berhampiran pantai barat. Mengapakah penduduk berkumpul di sesetengah tempat dan mengelak tempat lain?"
+    },
+    "bigIdeas": [
+      {
+        "en": "Population is unevenly distributed: dense on flat, accessible land with jobs; sparse in mountains and thick forest.",
+        "bm": "Penduduk bertaburan tidak sekata: padat di tanah rata yang mudah dihubungi dan ada pekerjaan; jarang di gunung dan hutan tebal."
+      },
+      {
+        "en": "Settlements can be dispersed, linear or nucleated.",
+        "bm": "Petempatan boleh berselerak, berjajar atau berkelompok."
+      },
+      {
+        "en": "Urbanisation and rural–urban migration bring both opportunities and problems.",
+        "bm": "Perbandaran dan migrasi luar bandar–bandar membawa peluang dan masalah."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Shape",
+            "bm": "Bentuk"
+          },
+          {
+            "en": "Where found",
+            "bm": "Lokasi"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Dispersed",
+              "bm": "Berselerak"
+            },
+            "cells": [
+              {
+                "en": "Houses scattered far apart",
+                "bm": "Rumah bertaburan berjauhan"
+              },
+              {
+                "en": "Farming and estate areas",
+                "bm": "Kawasan pertanian dan ladang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Linear",
+              "bm": "Berjajar"
+            },
+            "cells": [
+              {
+                "en": "Houses in a line",
+                "bm": "Rumah dalam satu barisan"
+              },
+              {
+                "en": "Along roads, rivers, coasts",
+                "bm": "Di sepanjang jalan, sungai, pantai"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Nucleated",
+              "bm": "Berkelompok"
+            },
+            "cells": [
+              {
+                "en": "Houses grouped around a centre",
+                "bm": "Rumah berkumpul di sekitar pusat"
+              },
+              {
+                "en": "Crossroads, water sources, market towns",
+                "bm": "Persimpangan jalan, sumber air, pekan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Population density",
+          "bm": "Kepadatan penduduk"
+        },
+        "definition": {
+          "en": "Number of people per square kilometre.",
+          "bm": "Bilangan penduduk bagi setiap kilometer persegi."
+        }
+      },
+      {
+        "term": {
+          "en": "Settlement",
+          "bm": "Petempatan"
+        },
+        "definition": {
+          "en": "A place where people live, from a village to a city.",
+          "bm": "Tempat penduduk tinggal, dari kampung hingga bandar raya."
+        }
+      },
+      {
+        "term": {
+          "en": "Urbanisation",
+          "bm": "Perbandaran"
+        },
+        "definition": {
+          "en": "Growth in the share of people living in towns and cities.",
+          "bm": "Pertambahan peratusan penduduk yang tinggal di bandar."
+        }
+      },
+      {
+        "term": {
+          "en": "Rural–urban migration",
+          "bm": "Migrasi luar bandar–bandar"
+        },
+        "definition": {
+          "en": "People moving from the countryside to towns.",
+          "bm": "Penduduk berpindah dari luar bandar ke bandar."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain TWO factors that make the west coast of the Peninsula densely populated.",
+        "bm": "Jelaskan DUA faktor yang menjadikan pantai barat Semenanjung padat penduduk."
+      },
+      "steps": [
+        {
+          "en": "Flat lowland makes it easy to build houses, roads and industries.",
+          "bm": "Tanah pamah yang rata memudahkan pembinaan rumah, jalan raya dan industri."
+        },
+        {
+          "en": "Many economic activities (industries, ports, services) provide jobs.",
+          "bm": "Banyak kegiatan ekonomi (industri, pelabuhan, perkhidmatan) menyediakan pekerjaan."
+        }
+      ],
+      "answer": {
+        "en": "Also accepted: good transport links; history of tin and rubber towns.",
+        "bm": "Juga diterima: perhubungan pengangkutan yang baik; sejarah bandar bijih timah dan getah."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-04-q01",
+      "subtopicId": "f3geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Population density means…",
+        "bm": "Kepadatan penduduk bermaksud…"
+      },
+      "explanation": {
+        "en": "Density = population ÷ area.",
+        "bm": "Kepadatan = penduduk ÷ keluasan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "number of people per km²",
+          "bm": "bilangan penduduk bagi setiap km²"
+        },
+        {
+          "en": "total area of a country",
+          "bm": "jumlah keluasan negara"
+        },
+        {
+          "en": "number of houses",
+          "bm": "bilangan rumah"
+        },
+        {
+          "en": "birth rate",
+          "bm": "kadar kelahiran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q02",
+      "subtopicId": "f3geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which area is usually most densely populated?",
+        "bm": "Kawasan manakah biasanya paling padat penduduk?"
+      },
+      "explanation": {
+        "en": "Accessibility and jobs attract people.",
+        "bm": "Kebolehsampaian dan pekerjaan menarik penduduk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Flat lowland with towns and jobs",
+          "bm": "Tanah pamah rata dengan bandar dan pekerjaan"
+        },
+        {
+          "en": "Steep mountains",
+          "bm": "Gunung yang curam"
+        },
+        {
+          "en": "Thick rainforest",
+          "bm": "Hutan hujan tebal"
+        },
+        {
+          "en": "Swamps",
+          "bm": "Paya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q03",
+      "subtopicId": "f3geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Houses built in a line along a road form a…",
+        "bm": "Rumah yang dibina dalam satu barisan di sepanjang jalan membentuk petempatan…"
+      },
+      "explanation": {
+        "en": "Linear settlements follow roads, rivers or coasts.",
+        "bm": "Petempatan berjajar mengikut jalan, sungai atau pantai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "linear settlement",
+          "bm": "berjajar"
+        },
+        {
+          "en": "dispersed settlement",
+          "bm": "berselerak"
+        },
+        {
+          "en": "nucleated settlement",
+          "bm": "berkelompok"
+        },
+        {
+          "en": "new town",
+          "bm": "bandar baharu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q04",
+      "subtopicId": "f3geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Houses grouped closely around a crossroads form a…",
+        "bm": "Rumah yang berkumpul rapat di sekitar persimpangan jalan membentuk petempatan…"
+      },
+      "explanation": {
+        "en": "Nucleated = clustered around a centre.",
+        "bm": "Berkelompok = berkumpul di sekitar pusat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nucleated settlement",
+          "bm": "berkelompok"
+        },
+        {
+          "en": "linear settlement",
+          "bm": "berjajar"
+        },
+        {
+          "en": "dispersed settlement",
+          "bm": "berselerak"
+        },
+        {
+          "en": "plantation",
+          "bm": "ladang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q05",
+      "subtopicId": "f3geo-04-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The growth in the share of people living in towns is called ______.",
+        "bm": "Pertambahan peratusan penduduk yang tinggal di bandar dipanggil ______."
+      },
+      "explanation": {
+        "en": "Malaysia is now a highly urbanised country.",
+        "bm": "Malaysia kini negara yang tinggi kadar perbandarannya."
+      },
+      "difficulty": 1,
+      "answer": [
+        "urbanisation",
+        "urbanization",
+        "perbandaran"
+      ]
+    },
+    {
+      "id": "f3geo-04-q06",
+      "subtopicId": "f3geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rural–urban migration means people move…",
+        "bm": "Migrasi luar bandar–bandar bermaksud penduduk berpindah…"
+      },
+      "explanation": {
+        "en": "Mainly for jobs, education and facilities.",
+        "bm": "Terutamanya untuk pekerjaan, pendidikan dan kemudahan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "from the countryside to towns",
+          "bm": "dari luar bandar ke bandar"
+        },
+        {
+          "en": "from towns to villages",
+          "bm": "dari bandar ke kampung"
+        },
+        {
+          "en": "abroad only",
+          "bm": "ke luar negara sahaja"
+        },
+        {
+          "en": "between islands only",
+          "bm": "antara pulau sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q07",
+      "subtopicId": "f3geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Scattered houses far apart in a farming area form a…",
+        "bm": "Rumah bertaburan berjauhan di kawasan pertanian membentuk petempatan…"
+      },
+      "explanation": {
+        "en": "Each farmer lives near his land.",
+        "bm": "Setiap petani tinggal berhampiran tanahnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dispersed settlement",
+          "bm": "berselerak"
+        },
+        {
+          "en": "nucleated settlement",
+          "bm": "berkelompok"
+        },
+        {
+          "en": "linear settlement",
+          "bm": "berjajar"
+        },
+        {
+          "en": "city",
+          "bm": "bandar raya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q08",
+      "subtopicId": "f3geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are high mountain areas sparsely populated?",
+        "bm": "Mengapakah kawasan gunung tinggi jarang penduduk?"
+      },
+      "explanation": {
+        "en": "Relief limits farming, roads and buildings.",
+        "bm": "Bentuk muka bumi menghadkan pertanian, jalan dan bangunan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Steep land is hard to build on and reach",
+          "bm": "Tanah curam sukar dibina dan dihubungi"
+        },
+        {
+          "en": "They are too flat",
+          "bm": "Terlalu rata"
+        },
+        {
+          "en": "They have too many jobs",
+          "bm": "Terlalu banyak pekerjaan"
+        },
+        {
+          "en": "They are near the sea",
+          "bm": "Berhampiran laut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q09",
+      "subtopicId": "f3geo-04-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL factors that attract a dense population.",
+        "bm": "Pilih SEMUA faktor yang menarik penduduk padat."
+      },
+      "explanation": {
+        "en": "Steep slopes discourage settlement.",
+        "bm": "Cerun curam tidak menggalakkan petempatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Flat land",
+          "bm": "Tanah rata"
+        },
+        {
+          "en": "Job opportunities",
+          "bm": "Peluang pekerjaan"
+        },
+        {
+          "en": "Good transport links",
+          "bm": "Perhubungan pengangkutan yang baik"
+        },
+        {
+          "en": "Very steep slopes",
+          "bm": "Cerun yang sangat curam"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-04-q10",
+      "subtopicId": "f3geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A district has 50 000 people and an area of 250 km². What is its population density?",
+        "bm": "Sebuah daerah mempunyai 50 000 penduduk dan keluasan 250 km². Berapakah kepadatan penduduknya?"
+      },
+      "explanation": {
+        "en": "50 000 ÷ 250 = 200.",
+        "bm": "50 000 ÷ 250 = 200."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "200 people per km²",
+          "bm": "200 people per km²"
+        },
+        {
+          "en": "12 500 people per km²",
+          "bm": "12 500 people per km²"
+        },
+        {
+          "en": "50 people per km²",
+          "bm": "50 people per km²"
+        },
+        {
+          "en": "0.005 people per km²",
+          "bm": "0.005 people per km²"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q11",
+      "subtopicId": "f3geo-04-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each settlement pattern with a reason for it.",
+        "bm": "Padankan pola petempatan dengan sebabnya."
+      },
+      "explanation": {
+        "en": "Patterns reflect how people use the land.",
+        "bm": "Pola mencerminkan cara penduduk menggunakan tanah."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Linear",
+            "bm": "Berjajar"
+          },
+          "right": {
+            "en": "Following a road or river for transport",
+            "bm": "Mengikut jalan atau sungai untuk pengangkutan"
+          }
+        },
+        {
+          "left": {
+            "en": "Nucleated",
+            "bm": "Berkelompok"
+          },
+          "right": {
+            "en": "Sharing a water source or market",
+            "bm": "Berkongsi sumber air atau pasar"
+          }
+        },
+        {
+          "left": {
+            "en": "Dispersed",
+            "bm": "Berselerak"
+          },
+          "right": {
+            "en": "Living close to one's own farmland",
+            "bm": "Tinggal berhampiran tanah pertanian sendiri"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-04-q12",
+      "subtopicId": "f3geo-04-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL problems that can result from rapid urbanisation.",
+        "bm": "Pilih SEMUA masalah yang boleh berlaku akibat perbandaran pesat."
+      },
+      "explanation": {
+        "en": "Planning and public transport help reduce these problems.",
+        "bm": "Perancangan dan pengangkutan awam membantu mengurangkan masalah ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Traffic congestion",
+          "bm": "Kesesakan lalu lintas"
+        },
+        {
+          "en": "Squatter settlements",
+          "bm": "Petempatan setinggan"
+        },
+        {
+          "en": "Pollution",
+          "bm": "Pencemaran"
+        },
+        {
+          "en": "Too few people in cities",
+          "bm": "Terlalu sedikit penduduk di bandar"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-04-q13",
+      "subtopicId": "f3geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a \"push\" factor causing people to leave rural areas?",
+        "bm": "Antara berikut, yang manakah faktor \"tolakan\" yang menyebabkan penduduk meninggalkan luar bandar?"
+      },
+      "explanation": {
+        "en": "Push factors are in the origin; pull factors are in the destination.",
+        "bm": "Faktor tolakan di tempat asal; faktor tarikan di destinasi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Few job opportunities",
+          "bm": "Kurang peluang pekerjaan"
+        },
+        {
+          "en": "Better hospitals in the city",
+          "bm": "Hospital lebih baik di bandar"
+        },
+        {
+          "en": "City entertainment",
+          "bm": "Hiburan di bandar"
+        },
+        {
+          "en": "Higher city wages",
+          "bm": "Gaji bandar lebih tinggi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q14",
+      "subtopicId": "f3geo-04-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange settlements from smallest to largest.",
+        "bm": "Susun petempatan daripada terkecil hingga terbesar."
+      },
+      "explanation": {
+        "en": "A conurbation is several towns merged into one urban area.",
+        "bm": "Konurbasi ialah beberapa bandar yang bercantum menjadi satu kawasan bandar."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Village",
+          "bm": "Kampung"
+        },
+        {
+          "en": "Town",
+          "bm": "Pekan"
+        },
+        {
+          "en": "City",
+          "bm": "Bandar"
+        },
+        {
+          "en": "Conurbation (e.g. Klang Valley)",
+          "bm": "Konurbasi (cth. Lembah Klang)"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-04-q15",
+      "subtopicId": "f3geo-04-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Population density = population ÷ ______.",
+        "bm": "Kepadatan penduduk = penduduk ÷ ______."
+      },
+      "explanation": {
+        "en": "Usually expressed per km².",
+        "bm": "Biasanya dinyatakan per km²."
+      },
+      "difficulty": 2,
+      "answer": [
+        "area",
+        "keluasan",
+        "luas"
+      ]
+    },
+    {
+      "id": "f3geo-04-q16",
+      "subtopicId": "f3geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A fishing village stretched along the beach is an example of a…",
+        "bm": "Kampung nelayan yang memanjang di sepanjang pantai ialah contoh petempatan…"
+      },
+      "explanation": {
+        "en": "Houses follow the coastline for access to the sea.",
+        "bm": "Rumah mengikut garis pantai untuk akses ke laut."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "linear settlement",
+          "bm": "berjajar"
+        },
+        {
+          "en": "nucleated settlement",
+          "bm": "berkelompok"
+        },
+        {
+          "en": "dispersed settlement",
+          "bm": "berselerak"
+        },
+        {
+          "en": "new township",
+          "bm": "perbandaran baharu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q17",
+      "subtopicId": "f3geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Many young people leave a village for the city. What is a likely effect on the village?",
+        "bm": "Ramai golongan muda meninggalkan kampung ke bandar. Apakah kesan yang mungkin ke atas kampung?"
+      },
+      "explanation": {
+        "en": "Fewer workers remain to farm.",
+        "bm": "Kurang pekerja kekal untuk bertani."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "An ageing population and idle farmland",
+          "bm": "Penduduk semakin tua dan tanah pertanian terbiar"
+        },
+        {
+          "en": "More schools needed",
+          "bm": "Lebih banyak sekolah diperlukan"
+        },
+        {
+          "en": "Traffic jams",
+          "bm": "Kesesakan lalu lintas"
+        },
+        {
+          "en": "Rapid industrial growth",
+          "bm": "Pertumbuhan industri yang pesat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q18",
+      "subtopicId": "f3geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the interior of Sarawak much less densely populated than the Klang Valley?",
+        "bm": "Mengapakah pedalaman Sarawak jauh kurang padat penduduk berbanding Lembah Klang?"
+      },
+      "explanation": {
+        "en": "Rivers have long been the main transport routes there.",
+        "bm": "Sungai sejak dahulu menjadi laluan pengangkutan utama di sana."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Thick forest, rugged land and poor road links limit settlement and jobs",
+          "bm": "Hutan tebal, tanah berbukit-bukau dan perhubungan jalan yang lemah menghadkan petempatan dan pekerjaan"
+        },
+        {
+          "en": "It has more factories",
+          "bm": "Ia mempunyai lebih banyak kilang"
+        },
+        {
+          "en": "It is all desert",
+          "bm": "Semuanya gurun"
+        },
+        {
+          "en": "It has no rivers",
+          "bm": "Ia tiada sungai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q19",
+      "subtopicId": "f3geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which plan BEST reduces traffic congestion in a growing city?",
+        "bm": "Rancangan manakah PALING mengurangkan kesesakan lalu lintas di bandar yang berkembang?"
+      },
+      "explanation": {
+        "en": "Fewer private car trips reduce congestion and pollution.",
+        "bm": "Kurang perjalanan kereta persendirian mengurangkan kesesakan dan pencemaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Improve public transport (MRT, LRT, buses) and plan housing near jobs",
+          "bm": "Menambah baik pengangkutan awam (MRT, LRT, bas) dan merancang perumahan berhampiran tempat kerja"
+        },
+        {
+          "en": "Build more car parks only",
+          "bm": "Membina lebih banyak tempat letak kereta sahaja"
+        },
+        {
+          "en": "Remove all buses",
+          "bm": "Membuang semua bas"
+        },
+        {
+          "en": "Close roads permanently",
+          "bm": "Menutup jalan secara kekal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q20",
+      "subtopicId": "f3geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How can rural development reduce rural–urban migration?",
+        "bm": "Bagaimanakah pembangunan luar bandar dapat mengurangkan migrasi luar bandar–bandar?"
+      },
+      "explanation": {
+        "en": "This tackles push factors at the source.",
+        "bm": "Ini menangani faktor tolakan di punca."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "By creating local jobs and better facilities so people do not need to leave",
+          "bm": "Dengan mewujudkan pekerjaan tempatan dan kemudahan yang lebih baik supaya penduduk tidak perlu berpindah"
+        },
+        {
+          "en": "By closing village schools",
+          "bm": "Dengan menutup sekolah kampung"
+        },
+        {
+          "en": "By banning travel",
+          "bm": "Dengan mengharamkan perjalanan"
+        },
+        {
+          "en": "By building only in cities",
+          "bm": "Dengan membina di bandar sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

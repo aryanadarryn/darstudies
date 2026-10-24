@@ -86,7 +86,7 @@ export type QuestionType = Question['type']
 
 // ---- Chapter learning content (content/<subject>/<chapter>.json) ----
 export const ChapterContentSchema = z.object({
-  chapterId: z.string().regex(/^(phy|chem|bio|addmath|math|sej|pi|bm|bi)-\d{2}$/),
+  chapterId: z.string().regex(/^[a-z0-9]+-\d{2}$/),
   reviewed: z.boolean(),
   intro: z.object({
     hook: LangSchema,

@@ -1,0 +1,855 @@
+{
+  "chapterId": "f3geo-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every year from about November, families on Malaysia's east coast prepare for floods while fishermen bring their boats ashore. The Northeast Monsoon is arriving.",
+      "bm": "Setiap tahun mulai kira-kira November, keluarga di pantai timur Malaysia bersedia menghadapi banjir dan nelayan menaikkan bot ke darat. Monsun Timur Laut sedang tiba."
+    },
+    "bigIdeas": [
+      {
+        "en": "Weather is day-to-day conditions; climate is the average over many years.",
+        "bm": "Cuaca ialah keadaan harian; iklim ialah purata dalam tempoh bertahun-tahun."
+      },
+      {
+        "en": "Malaysia has an equatorial climate: hot, humid and wet all year.",
+        "bm": "Malaysia mempunyai iklim khatulistiwa: panas, lembap dan basah sepanjang tahun."
+      },
+      {
+        "en": "Monsoon winds (Southwest: about May–Sept; Northeast: about Nov–Mar) bring seasonal changes in rainfall.",
+        "bm": "Angin monsun (Barat Daya: kira-kira Mei–Sept; Timur Laut: kira-kira Nov–Mac) membawa perubahan hujan bermusim."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Instrument",
+            "bm": "Alat"
+          },
+          {
+            "en": "Unit",
+            "bm": "Unit"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Temperature",
+              "bm": "Suhu"
+            },
+            "cells": [
+              {
+                "en": "Thermometer (in a Stevenson screen)",
+                "bm": "Termometer (dalam skrin Stevenson)"
+              },
+              {
+                "en": "°C",
+                "bm": "°C"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Rainfall",
+              "bm": "Hujan"
+            },
+            "cells": [
+              {
+                "en": "Rain gauge",
+                "bm": "Tolok hujan"
+              },
+              {
+                "en": "mm",
+                "bm": "mm"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Humidity",
+              "bm": "Kelembapan"
+            },
+            "cells": [
+              {
+                "en": "Wet-and-dry bulb thermometer (hygrometer)",
+                "bm": "Termometer bebuli basah dan kering (higrometer)"
+              },
+              {
+                "en": "%",
+                "bm": "%"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Air pressure",
+              "bm": "Tekanan udara"
+            },
+            "cells": [
+              {
+                "en": "Barometer",
+                "bm": "Barometer"
+              },
+              {
+                "en": "hPa / mb",
+                "bm": "hPa / mb"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Wind speed / direction",
+              "bm": "Kelajuan / arah angin"
+            },
+            "cells": [
+              {
+                "en": "Anemometer / wind vane",
+                "bm": "Anemometer / ram-ram angin"
+              },
+              {
+                "en": "km/h / compass points",
+                "bm": "km/j / mata arah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Weather",
+          "bm": "Cuaca"
+        },
+        "definition": {
+          "en": "Atmospheric conditions at a place over a short time.",
+          "bm": "Keadaan atmosfera di sesuatu tempat dalam tempoh yang singkat."
+        }
+      },
+      {
+        "term": {
+          "en": "Climate",
+          "bm": "Iklim"
+        },
+        "definition": {
+          "en": "Average weather of a place over a long period (about 30 years).",
+          "bm": "Purata cuaca sesuatu tempat dalam tempoh yang panjang (kira-kira 30 tahun)."
+        }
+      },
+      {
+        "term": {
+          "en": "Monsoon",
+          "bm": "Monsun"
+        },
+        "definition": {
+          "en": "Seasonal wind that changes direction during the year.",
+          "bm": "Angin bermusim yang berubah arah dalam setahun."
+        }
+      },
+      {
+        "term": {
+          "en": "Convectional rain",
+          "bm": "Hujan perolakan"
+        },
+        "definition": {
+          "en": "Rain from rising hot, moist air, often in the afternoon.",
+          "bm": "Hujan daripada udara panas dan lembap yang naik, selalunya pada waktu petang."
+        }
+      },
+      {
+        "term": {
+          "en": "Relief rain",
+          "bm": "Hujan bukit"
+        },
+        "definition": {
+          "en": "Rain when moist air is forced up over mountains.",
+          "bm": "Hujan apabila udara lembap dipaksa naik melepasi gunung."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Why does the east coast of the Peninsula get heavy rain from November to March?",
+        "bm": "Mengapakah pantai timur Semenanjung menerima hujan lebat dari November hingga Mac?"
+      },
+      "steps": [
+        {
+          "en": "The Northeast Monsoon blows from the north-east across the South China Sea.",
+          "bm": "Monsun Timur Laut bertiup dari timur laut merentasi Laut China Selatan."
+        },
+        {
+          "en": "The winds pick up a lot of moisture over the sea.",
+          "bm": "Angin menyerap banyak wap air di atas laut."
+        },
+        {
+          "en": "They meet the east coast first and are forced up over the Main Range, giving heavy rain.",
+          "bm": "Angin itu tiba di pantai timur dahulu dan dipaksa naik melepasi Banjaran Titiwangsa, menurunkan hujan lebat."
+        }
+      ],
+      "answer": {
+        "en": "Moist Northeast Monsoon winds + relief → heavy rain and floods.",
+        "bm": "Angin Monsun Timur Laut yang lembap + bentuk muka bumi → hujan lebat dan banjir."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-03-q01",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which instrument measures rainfall?",
+        "bm": "Alat manakah mengukur hujan?"
+      },
+      "explanation": {
+        "en": "Rainfall is measured in millimetres.",
+        "bm": "Hujan diukur dalam milimeter."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Rain gauge",
+          "bm": "Tolok hujan"
+        },
+        {
+          "en": "Barometer",
+          "bm": "Barometer"
+        },
+        {
+          "en": "Anemometer",
+          "bm": "Anemometer"
+        },
+        {
+          "en": "Thermometer",
+          "bm": "Termometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q02",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which instrument measures air pressure?",
+        "bm": "Alat manakah mengukur tekanan udara?"
+      },
+      "explanation": {
+        "en": "Pressure is measured in hectopascals or millibars.",
+        "bm": "Tekanan diukur dalam hektopascal atau milibar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Barometer",
+          "bm": "Barometer"
+        },
+        {
+          "en": "Rain gauge",
+          "bm": "Tolok hujan"
+        },
+        {
+          "en": "Wind vane",
+          "bm": "Ram-ram angin"
+        },
+        {
+          "en": "Hygrometer",
+          "bm": "Higrometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q03",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An anemometer measures…",
+        "bm": "Anemometer mengukur…"
+      },
+      "explanation": {
+        "en": "A wind vane shows wind direction.",
+        "bm": "Ram-ram angin menunjukkan arah angin."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "wind speed",
+          "bm": "kelajuan angin"
+        },
+        {
+          "en": "wind direction",
+          "bm": "arah angin"
+        },
+        {
+          "en": "humidity",
+          "bm": "kelembapan"
+        },
+        {
+          "en": "rainfall",
+          "bm": "hujan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q04",
+      "subtopicId": "f3geo-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Thermometers at weather stations are kept in a white, louvred box called a ______ screen.",
+        "bm": "Termometer di stesen cuaca disimpan dalam kotak putih berlubang dipanggil skrin ______."
+      },
+      "explanation": {
+        "en": "It shades the thermometers so they measure air temperature accurately.",
+        "bm": "Ia melindungi termometer daripada cahaya matahari supaya suhu udara diukur dengan tepat."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Stevenson"
+      ]
+    },
+    {
+      "id": "f3geo-03-q05",
+      "subtopicId": "f3geo-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia's climate is described as…",
+        "bm": "Iklim Malaysia digambarkan sebagai…"
+      },
+      "explanation": {
+        "en": "Malaysia lies close to the Equator.",
+        "bm": "Malaysia terletak berhampiran Khatulistiwa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "equatorial — hot and wet all year",
+          "bm": "khatulistiwa — panas dan lembap sepanjang tahun"
+        },
+        {
+          "en": "desert",
+          "bm": "gurun"
+        },
+        {
+          "en": "polar",
+          "bm": "kutub"
+        },
+        {
+          "en": "four seasons",
+          "bm": "empat musim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q06",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Northeast Monsoon blows in Malaysia from about…",
+        "bm": "Monsun Timur Laut bertiup di Malaysia dari kira-kira…"
+      },
+      "explanation": {
+        "en": "It brings heavy rain to the east coast of the Peninsula.",
+        "bm": "Ia membawa hujan lebat ke pantai timur Semenanjung."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "November to March",
+          "bm": "November to March"
+        },
+        {
+          "en": "May to September",
+          "bm": "May to September"
+        },
+        {
+          "en": "April only",
+          "bm": "April only"
+        },
+        {
+          "en": "July to August",
+          "bm": "July to August"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q07",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Afternoon thunderstorms after a hot morning are usually…",
+        "bm": "Ribut petir pada waktu petang selepas pagi yang panas biasanya…"
+      },
+      "explanation": {
+        "en": "Hot air rises, cools and condenses into rain clouds.",
+        "bm": "Udara panas naik, menyejuk dan memeluwap menjadi awan hujan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "convectional rain",
+          "bm": "hujan perolakan"
+        },
+        {
+          "en": "relief rain",
+          "bm": "hujan bukit"
+        },
+        {
+          "en": "snow",
+          "bm": "salji"
+        },
+        {
+          "en": "frontal rain",
+          "bm": "hujan perenggan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q08",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Weather differs from climate because weather is…",
+        "bm": "Cuaca berbeza daripada iklim kerana cuaca ialah…"
+      },
+      "explanation": {
+        "en": "Climate is the long-term average.",
+        "bm": "Iklim ialah purata jangka panjang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "short-term conditions",
+          "bm": "keadaan jangka pendek"
+        },
+        {
+          "en": "a 30-year average",
+          "bm": "purata 30 tahun"
+        },
+        {
+          "en": "the same everywhere",
+          "bm": "sama di semua tempat"
+        },
+        {
+          "en": "only temperature",
+          "bm": "suhu sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q09",
+      "subtopicId": "f3geo-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each element with its instrument.",
+        "bm": "Padankan unsur dengan alatnya."
+      },
+      "explanation": {
+        "en": "Weather stations record all of these.",
+        "bm": "Stesen cuaca merekod semua ini."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Temperature",
+            "bm": "Suhu"
+          },
+          "right": {
+            "en": "Thermometer",
+            "bm": "Termometer"
+          }
+        },
+        {
+          "left": {
+            "en": "Humidity",
+            "bm": "Kelembapan"
+          },
+          "right": {
+            "en": "Wet-and-dry bulb thermometer",
+            "bm": "Termometer bebuli basah dan kering"
+          }
+        },
+        {
+          "left": {
+            "en": "Wind direction",
+            "bm": "Arah angin"
+          },
+          "right": {
+            "en": "Wind vane",
+            "bm": "Ram-ram angin"
+          }
+        },
+        {
+          "left": {
+            "en": "Wind speed",
+            "bm": "Kelajuan angin"
+          },
+          "right": {
+            "en": "Anemometer",
+            "bm": "Anemometer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-03-q10",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Southwest Monsoon (about May–September) is usually a drier period for most of the Peninsula because…",
+        "bm": "Monsun Barat Daya (kira-kira Mei–September) biasanya tempoh lebih kering bagi kebanyakan Semenanjung kerana…"
+      },
+      "explanation": {
+        "en": "The winds lose much moisture over Sumatra.",
+        "bm": "Angin kehilangan banyak wap air di atas Sumatera."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sumatra shelters the Peninsula from these winds",
+          "bm": "Sumatera melindungi Semenanjung daripada angin ini"
+        },
+        {
+          "en": "the sun disappears",
+          "bm": "matahari hilang"
+        },
+        {
+          "en": "it is winter",
+          "bm": "ia musim sejuk"
+        },
+        {
+          "en": "the sea is frozen",
+          "bm": "laut membeku"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q11",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Relief rain falls mostly on the…",
+        "bm": "Hujan bukit turun kebanyakannya di cerun…"
+      },
+      "explanation": {
+        "en": "The leeward side is drier — a rain shadow.",
+        "bm": "Cerun lindung angin lebih kering — kawasan bayangan hujan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "windward side of mountains",
+          "bm": "menghadap angin"
+        },
+        {
+          "en": "leeward side",
+          "bm": "lindung angin"
+        },
+        {
+          "en": "top of the sea",
+          "bm": "atas laut"
+        },
+        {
+          "en": "inside caves",
+          "bm": "dalam gua"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q12",
+      "subtopicId": "f3geo-03-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of Malaysia's climate.",
+        "bm": "Pilih SEMUA ciri iklim Malaysia."
+      },
+      "explanation": {
+        "en": "Malaysia does not get snow; highlands are only cooler.",
+        "bm": "Malaysia tidak menerima salji; tanah tinggi hanya lebih sejuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "High temperature all year (about 26–32 °C)",
+          "bm": "Suhu tinggi sepanjang tahun (kira-kira 26–32 °C)"
+        },
+        {
+          "en": "High rainfall (over 2 000 mm a year)",
+          "bm": "Hujan tinggi (melebihi 2 000 mm setahun)"
+        },
+        {
+          "en": "High humidity",
+          "bm": "Kelembapan tinggi"
+        },
+        {
+          "en": "Snow in December",
+          "bm": "Salji pada bulan Disember"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-03-q13",
+      "subtopicId": "f3geo-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The periods between the two monsoons are called the ______-monsoon periods.",
+        "bm": "Tempoh antara dua monsun dipanggil tempoh ______ monsun."
+      },
+      "explanation": {
+        "en": "Around April–May and October–November, with afternoon thunderstorms.",
+        "bm": "Sekitar April–Mei dan Oktober–November, dengan ribut petir pada waktu petang."
+      },
+      "difficulty": 2,
+      "answer": [
+        "inter",
+        "peralihan"
+      ]
+    },
+    {
+      "id": "f3geo-03-q14",
+      "subtopicId": "f3geo-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are places like Cameron Highlands cooler than Kuala Lumpur?",
+        "bm": "Mengapakah tempat seperti Cameron Highlands lebih sejuk daripada Kuala Lumpur?"
+      },
+      "explanation": {
+        "en": "Roughly 6 °C cooler for every 1 000 m of height.",
+        "bm": "Kira-kira 6 °C lebih sejuk bagi setiap 1 000 m ketinggian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Temperature falls as altitude increases",
+          "bm": "Suhu menurun apabila ketinggian bertambah"
+        },
+        {
+          "en": "They are nearer the Equator",
+          "bm": "Lebih dekat dengan Khatulistiwa"
+        },
+        {
+          "en": "They have no sun",
+          "bm": "Tiada matahari"
+        },
+        {
+          "en": "They are by the sea",
+          "bm": "Berada di tepi laut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q15",
+      "subtopicId": "f3geo-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of convectional rain.",
+        "bm": "Susun langkah hujan perolakan."
+      },
+      "explanation": {
+        "en": "Common in the afternoon in Malaysia.",
+        "bm": "Biasa berlaku pada waktu petang di Malaysia."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "The sun heats the ground strongly",
+          "bm": "Matahari memanaskan permukaan bumi dengan kuat"
+        },
+        {
+          "en": "Warm, moist air rises",
+          "bm": "Udara panas dan lembap naik"
+        },
+        {
+          "en": "The air cools and water vapour condenses into clouds",
+          "bm": "Udara menyejuk dan wap air memeluwap menjadi awan"
+        },
+        {
+          "en": "Heavy rain falls, often with thunder",
+          "bm": "Hujan lebat turun, selalunya dengan petir"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-03-q16",
+      "subtopicId": "f3geo-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement about humidity in Malaysia is TRUE?",
+        "bm": "Pernyataan manakah BENAR tentang kelembapan di Malaysia?"
+      },
+      "explanation": {
+        "en": "Hot air holds a lot of moisture from the seas and forests.",
+        "bm": "Udara panas membawa banyak wap air dari laut dan hutan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is high, often around 80% or more",
+          "bm": "Ia tinggi, selalunya sekitar 80% atau lebih"
+        },
+        {
+          "en": "It is close to 0%",
+          "bm": "Ia hampir 0%"
+        },
+        {
+          "en": "It never changes",
+          "bm": "Ia tidak pernah berubah"
+        },
+        {
+          "en": "It is measured with a rain gauge",
+          "bm": "Ia diukur dengan tolok hujan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q17",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A family plans a beach holiday in Terengganu. Which month is the RISKIEST, and why?",
+        "bm": "Sebuah keluarga merancang percutian pantai di Terengganu. Bulan manakah PALING berisiko, dan mengapa?"
+      },
+      "explanation": {
+        "en": "Many east-coast islands close during the monsoon.",
+        "bm": "Banyak pulau di pantai timur ditutup semasa monsun."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "December — Northeast Monsoon brings rough seas, heavy rain and floods",
+          "bm": "Disember — Monsun Timur Laut membawa laut bergelora, hujan lebat dan banjir"
+        },
+        {
+          "en": "June — snowstorms",
+          "bm": "Jun — ribut salji"
+        },
+        {
+          "en": "August — no sunlight",
+          "bm": "Ogos — tiada cahaya matahari"
+        },
+        {
+          "en": "May — the sea dries up",
+          "bm": "Mei — laut kering"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q18",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the Stevenson screen painted white and raised above the ground?",
+        "bm": "Mengapakah skrin Stevenson dicat putih dan dinaikkan dari tanah?"
+      },
+      "explanation": {
+        "en": "Louvres let air flow freely.",
+        "bm": "Bilah-bilah membolehkan udara mengalir bebas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "White reflects sunlight and height avoids heat from the ground, giving accurate air temperature",
+          "bm": "Putih memantulkan cahaya matahari dan ketinggian mengelakkan haba dari tanah, memberi suhu udara yang tepat"
+        },
+        {
+          "en": "To attract birds",
+          "bm": "Untuk menarik burung"
+        },
+        {
+          "en": "To store rainwater",
+          "bm": "Untuk menyimpan air hujan"
+        },
+        {
+          "en": "For decoration",
+          "bm": "Untuk hiasan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q19",
+      "subtopicId": "f3geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do floods on the east coast of the Peninsula often happen in November–January?",
+        "bm": "Mengapakah banjir di pantai timur Semenanjung sering berlaku pada November–Januari?"
+      },
+      "explanation": {
+        "en": "High tides can also slow rivers draining into the sea.",
+        "bm": "Air pasang besar juga boleh melambatkan aliran sungai ke laut."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Heavy Northeast Monsoon rain over days fills rivers beyond their capacity",
+          "bm": "Hujan lebat Monsun Timur Laut selama beberapa hari memenuhi sungai melebihi kapasiti"
+        },
+        {
+          "en": "Snow melts",
+          "bm": "Salji cair"
+        },
+        {
+          "en": "Dams always break then",
+          "bm": "Empangan sentiasa pecah ketika itu"
+        },
+        {
+          "en": "The sea level falls",
+          "bm": "Aras laut turun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-03-q20",
+      "subtopicId": "f3geo-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Climate change may make heavy rain events more intense. Which action BEST reduces flood risk for a town?",
+        "bm": "Perubahan iklim mungkin menjadikan hujan lebat lebih kuat. Tindakan manakah PALING mengurangkan risiko banjir bagi sebuah bandar?"
+      },
+      "explanation": {
+        "en": "Forests and wetlands absorb water and slow run-off.",
+        "bm": "Hutan dan tanah lembap menyerap air dan melambatkan air larian."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Keep drains clear, protect forests and wetlands, and avoid building on floodplains",
+          "bm": "Pastikan longkang bersih, lindungi hutan dan tanah lembap, dan elak membina di dataran banjir"
+        },
+        {
+          "en": "Cut down hill forests",
+          "bm": "Tebang hutan bukit"
+        },
+        {
+          "en": "Fill drains with concrete",
+          "bm": "Tutup longkang dengan konkrit"
+        },
+        {
+          "en": "Ignore weather warnings",
+          "bm": "Abaikan amaran cuaca"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

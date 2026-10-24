@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3ask-04",
+  "cards": [
+    {
+      "id": "f3ask-04-f01",
+      "subtopicId": "f3ask-04-01",
+      "front": {
+        "en": "HTML",
+        "bm": "HTML"
+      },
+      "back": {
+        "en": "HyperText Markup Language — page structure",
+        "bm": "HyperText Markup Language — struktur halaman"
+      }
+    },
+    {
+      "id": "f3ask-04-f02",
+      "subtopicId": "f3ask-04-01",
+      "front": {
+        "en": "Page skeleton",
+        "bm": "Rangka halaman"
+      },
+      "back": {
+        "en": "<!DOCTYPE html>, <html>, <head>, <body>",
+        "bm": "<!DOCTYPE html>, <html>, <head>, <body>"
+      }
+    },
+    {
+      "id": "f3ask-04-f03",
+      "subtopicId": "f3ask-04-01",
+      "front": {
+        "en": "<head> / <title>",
+        "bm": "<head> / <title>"
+      },
+      "back": {
+        "en": "Page info / browser tab text",
+        "bm": "Maklumat halaman / teks tab pelayar"
+      }
+    },
+    {
+      "id": "f3ask-04-f04",
+      "subtopicId": "f3ask-04-01",
+      "front": {
+        "en": "<h1>–<h6>",
+        "bm": "<h1>–<h6>"
+      },
+      "back": {
+        "en": "Headings; h1 largest",
+        "bm": "Tajuk; h1 paling besar"
+      }
+    },
+    {
+      "id": "f3ask-04-f05",
+      "subtopicId": "f3ask-04-01",
+      "front": {
+        "en": "<p> / <br>",
+        "bm": "<p> / <br>"
+      },
+      "back": {
+        "en": "Paragraph / line break (no closing tag)",
+        "bm": "Perenggan / pemisah baris (tiada tag penutup)"
+      }
+    },
+    {
+      "id": "f3ask-04-f06",
+      "subtopicId": "f3ask-04-02",
+      "front": {
+        "en": "<a href=\"…\">",
+        "bm": "<a href=\"…\">"
+      },
+      "back": {
+        "en": "Hyperlink",
+        "bm": "Hiperpautan"
+      }
+    },
+    {
+      "id": "f3ask-04-f07",
+      "subtopicId": "f3ask-04-02",
+      "front": {
+        "en": "<img src=\"…\" alt=\"…\">",
+        "bm": "<img src=\"…\" alt=\"…\">"
+      },
+      "back": {
+        "en": "Image + text description",
+        "bm": "Imej + penerangan teks"
+      }
+    },
+    {
+      "id": "f3ask-04-f08",
+      "subtopicId": "f3ask-04-02",
+      "front": {
+        "en": "<ul> / <ol> / <li>",
+        "bm": "<ul> / <ol> / <li>"
+      },
+      "back": {
+        "en": "Bullets / numbers / list item",
+        "bm": "Bulet / nombor / item senarai"
+      }
+    },
+    {
+      "id": "f3ask-04-f09",
+      "subtopicId": "f3ask-04-02",
+      "front": {
+        "en": "<table> <tr> <td> <th>",
+        "bm": "<table> <tr> <td> <th>"
+      },
+      "back": {
+        "en": "Table, row, cell, header cell",
+        "bm": "Jadual, baris, sel, sel pengepala"
+      }
+    },
+    {
+      "id": "f3ask-04-f10",
+      "subtopicId": "f3ask-04-02",
+      "front": {
+        "en": "Attribute",
+        "bm": "Atribut"
+      },
+      "back": {
+        "en": "Extra info in a tag: href, src, alt",
+        "bm": "Maklumat tambahan dalam tag: href, src, alt"
+      }
+    },
+    {
+      "id": "f3ask-04-f11",
+      "subtopicId": "f3ask-04-03",
+      "front": {
+        "en": "CSS",
+        "bm": "CSS"
+      },
+      "back": {
+        "en": "Cascading Style Sheets — appearance",
+        "bm": "Cascading Style Sheets — rupa"
+      }
+    },
+    {
+      "id": "f3ask-04-f12",
+      "subtopicId": "f3ask-04-03",
+      "front": {
+        "en": "CSS rule",
+        "bm": "Peraturan CSS"
+      },
+      "back": {
+        "en": "selector { property: value; }",
+        "bm": "pemilih { sifat: nilai; }"
+      }
+    },
+    {
+      "id": "f3ask-04-f13",
+      "subtopicId": "f3ask-04-03",
+      "front": {
+        "en": ".class / #id",
+        "bm": ".class / #id"
+      },
+      "back": {
+        "en": "Many elements / one unique element",
+        "bm": "Banyak elemen / satu elemen unik"
+      }
+    },
+    {
+      "id": "f3ask-04-f14",
+      "subtopicId": "f3ask-04-03",
+      "front": {
+        "en": "Ways to add CSS",
+        "bm": "Cara menambah CSS"
+      },
+      "back": {
+        "en": "Inline, internal <style>, external .css",
+        "bm": "Sebaris, dalaman <style>, luaran .css"
+      }
+    },
+    {
+      "id": "f3ask-04-f15",
+      "subtopicId": "f3ask-04-03",
+      "front": {
+        "en": "Common properties",
+        "bm": "Sifat lazim"
+      },
+      "back": {
+        "en": "color, background-color, font-size, text-align",
+        "bm": "color, background-color, font-size, text-align"
+      }
+    }
+  ]
+}

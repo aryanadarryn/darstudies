@@ -1,6 +1,7 @@
 // All writes to on-device data go through here.
 import { canNow } from '../auth/account'
 import { ALL_CHAPTERS, HAS_FLASHCARDS, loadAllFlashcards } from '../content'
+import { formOf } from '../content/ids'
 import type { Question } from '../content/schema'
 import { db, getKV, setKV, uid } from '../db/db'
 import { todayISO } from '../planner/dates'
@@ -74,16 +75,17 @@ export async function regeneratePlan(settings: Settings) {
     db.intros.toArray(), db.attempts.toArray(), db.cards.toArray(), loadAllFlashcards(),
   ])
   const introDone = Object.fromEntries(intros.filter((i) => i.completedAt).map((i) => [i.chapterId, i.completedAt!]))
-  const weak = buildMastery(attempts, cards, intros, flashcards).weak.map((w) => w.id)
+  const form = settings.form ?? 4
+  const weak = buildMastery(attempts, cards, intros, flashcards).weak.map((w) => w.id).filter((id) => formOf(id) === form)
   const future = await db.tasks.where('date').aboveOrEqual(today).toArray()
   const keep = future.filter((t) => t.status !== 'todo' || t.moved)
   const drop = future.filter((t) => !keep.includes(t)).map((t) => t.id)
   const tasks = generatePlan({
     from: today, to: settings.planEnd, settings,
     // Only plan subjects the user can open (everything when accounts are off).
-    chapters: ALL_CHAPTERS.filter((c) => canNow('learn', c.subjectId) || canNow('quiz', c.subjectId))
+    chapters: ALL_CHAPTERS.filter((c) => c.form === form && (canNow('learn', c.subjectId) || canNow('quiz', c.subjectId)))
       .map((c) => ({ id: c.id, subjectId: c.subjectId, number: c.number, written: c.written })),
-    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS && canNow('flashcards'), existing: keep,
+    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS && (form === 3 || canNow('flashcards')), existing: keep,
   })
   await db.transaction('rw', db.tasks, db.kv, async () => {
     await db.tasks.bulkDelete(drop)

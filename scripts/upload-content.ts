@@ -3,7 +3,7 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
 import { createClient } from '@supabase/supabase-js'
-import { SUBJECT_IDS } from '../src/content/ids.ts'
+import { F4_SUBJECT_IDS } from '../src/content/ids.ts'
 import type { ChapterContent, NotesFile } from '../src/content/schema.ts'
 
 const url = process.env.SUPABASE_URL, key = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -12,7 +12,8 @@ if (!url || !key) {
   process.exit(1)
 }
 const db = createClient(url, key, { auth: { persistSession: false } })
-const ROOT = join(import.meta.dirname, '..', 'content')
+// Only Form 4 is protected; Form 3 is free and ships inside the app.
+const ROOT = join(import.meta.dirname, '..', 'content', 'form4')
 const read = <T>(file: string) => JSON.parse(readFileSync(file, 'utf8')) as T
 const jsonFiles = (dir: string) => (existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith('.json')) : [])
 const subjectOf = (chapterId: string) => chapterId.split('-')[0]
@@ -23,7 +24,7 @@ const now = new Date().toISOString()
 const add = (kind: string, feature: string, chapterId: string, data: unknown) =>
   rows.push({ id: `${kind}:${chapterId}`, kind, feature, subject_id: subjectOf(chapterId), chapter_id: chapterId, data, updated_at: now })
 
-for (const s of SUBJECT_IDS) {
+for (const s of F4_SUBJECT_IDS) {
   for (const name of jsonFiles(join(ROOT, s))) {
     const ch = read<ChapterContent>(join(ROOT, s, name))
     add('intro', 'learn', ch.chapterId, { reviewed: ch.reviewed, intro: ch.intro })

@@ -1,0 +1,894 @@
+{
+  "chapterId": "f3rbt-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Chengal is famous for traditional Malay houses and boats because it resists rot. Choosing the right material is half of good design.",
+      "bm": "Cengal terkenal dalam pembinaan rumah tradisional Melayu dan perahu kerana tahan reput. Memilih bahan yang tepat ialah separuh daripada reka bentuk yang baik."
+    },
+    "bigIdeas": [
+      {
+        "en": "Hardwoods come from broad-leaved trees; softwoods come from conifers. Manufactured boards (plywood, MDF) are made from wood layers or fibres.",
+        "bm": "Kayu keras daripada pokok berdaun lebar; kayu lembut daripada pokok konifer. Papan buatan (papan lapis, MDF) dibuat daripada lapisan atau gentian kayu."
+      },
+      {
+        "en": "Ferrous metals contain iron and can rust; non-ferrous metals do not contain iron.",
+        "bm": "Logam ferus mengandungi besi dan boleh berkarat; logam bukan ferus tidak mengandungi besi."
+      },
+      {
+        "en": "Thermoplastics can be reheated and reshaped; thermosetting plastics cannot.",
+        "bm": "Termoplastik boleh dipanaskan dan dibentuk semula; plastik termoset tidak boleh."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Examples",
+            "bm": "Contoh"
+          },
+          {
+            "en": "Key property",
+            "bm": "Sifat utama"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Hardwood",
+              "bm": "Kayu keras"
+            },
+            "cells": [
+              {
+                "en": "chengal, meranti, teak (jati)",
+                "bm": "cengal, meranti, jati"
+              },
+              {
+                "en": "Strong, durable",
+                "bm": "Kuat, tahan lama"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Softwood",
+              "bm": "Kayu lembut"
+            },
+            "cells": [
+              {
+                "en": "pine",
+                "bm": "pain"
+              },
+              {
+                "en": "Light, easy to work",
+                "bm": "Ringan, mudah dikerjakan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ferrous metal",
+              "bm": "Logam ferus"
+            },
+            "cells": [
+              {
+                "en": "mild steel, cast iron",
+                "bm": "keluli lembut, besi tuang"
+              },
+              {
+                "en": "Contains iron; can rust",
+                "bm": "Mengandungi besi; boleh berkarat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Non-ferrous metal",
+              "bm": "Logam bukan ferus"
+            },
+            "cells": [
+              {
+                "en": "aluminium, copper, brass",
+                "bm": "aluminium, kuprum, loyang"
+              },
+              {
+                "en": "No iron; resists rust",
+                "bm": "Tiada besi; tahan karat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Thermoplastic",
+              "bm": "Termoplastik"
+            },
+            "cells": [
+              {
+                "en": "acrylic, PVC",
+                "bm": "akrilik, PVC"
+              },
+              {
+                "en": "Can be reshaped with heat",
+                "bm": "Boleh dibentuk semula dengan haba"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Thermoset",
+              "bm": "Termoset"
+            },
+            "cells": [
+              {
+                "en": "melamine, epoxy resin",
+                "bm": "melamin, resin epoksi"
+              },
+              {
+                "en": "Sets permanently",
+                "bm": "Mengeras secara kekal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hardwood",
+          "bm": "Kayu keras"
+        },
+        "definition": {
+          "en": "Wood from broad-leaved (flowering) trees.",
+          "bm": "Kayu daripada pokok berdaun lebar (berbunga)."
+        }
+      },
+      {
+        "term": {
+          "en": "Softwood",
+          "bm": "Kayu lembut"
+        },
+        "definition": {
+          "en": "Wood from conifers (cone-bearing trees).",
+          "bm": "Kayu daripada pokok konifer (berkon)."
+        }
+      },
+      {
+        "term": {
+          "en": "Manufactured board",
+          "bm": "Papan buatan"
+        },
+        "definition": {
+          "en": "Plywood, MDF, chipboard — made from wood layers, fibres or chips.",
+          "bm": "Papan lapis, MDF, papan serpai — dibuat daripada lapisan, gentian atau serpihan kayu."
+        }
+      },
+      {
+        "term": {
+          "en": "Ferrous",
+          "bm": "Ferus"
+        },
+        "definition": {
+          "en": "Contains iron.",
+          "bm": "Mengandungi besi."
+        }
+      },
+      {
+        "term": {
+          "en": "Alloy",
+          "bm": "Aloi"
+        },
+        "definition": {
+          "en": "A mixture of metals, e.g. brass = copper + zinc.",
+          "bm": "Campuran logam, cth. loyang = kuprum + zink."
+        }
+      },
+      {
+        "term": {
+          "en": "PPE",
+          "bm": "PPE"
+        },
+        "definition": {
+          "en": "Personal protective equipment: goggles, apron, gloves.",
+          "bm": "Peralatan pelindung diri: gogal, apron, sarung tangan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Choose a material for an outdoor garden bench and give a reason.",
+        "bm": "Pilih bahan untuk bangku taman luar dan beri sebab."
+      },
+      "steps": [
+        {
+          "en": "It must survive rain and sun.",
+          "bm": "Ia mesti tahan hujan dan panas."
+        },
+        {
+          "en": "Chengal (hardwood) resists rot; aluminium resists rust.",
+          "bm": "Cengal (kayu keras) tahan reput; aluminium tahan karat."
+        }
+      ],
+      "answer": {
+        "en": "Chengal, because it is strong and resists rot outdoors.",
+        "bm": "Cengal, kerana kuat dan tahan reput di luar."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3rbt-03-q01",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hardwoods come from…",
+        "bm": "Kayu keras berasal daripada…"
+      },
+      "explanation": {
+        "en": "e.g. chengal, meranti, teak.",
+        "bm": "cth. cengal, meranti, jati."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "broad-leaved trees",
+          "bm": "pokok berdaun lebar"
+        },
+        {
+          "en": "conifers",
+          "bm": "pokok konifer"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        },
+        {
+          "en": "metal ore",
+          "bm": "bijih logam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q02",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a softwood?",
+        "bm": "Antara berikut, yang manakah kayu lembut?"
+      },
+      "explanation": {
+        "en": "Pine is a conifer.",
+        "bm": "Pain ialah pokok konifer."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Pine",
+          "bm": "Pain"
+        },
+        {
+          "en": "Chengal",
+          "bm": "Cengal"
+        },
+        {
+          "en": "Teak",
+          "bm": "Jati"
+        },
+        {
+          "en": "Meranti",
+          "bm": "Meranti"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q03",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Plywood is a…",
+        "bm": "Papan lapis ialah…"
+      },
+      "explanation": {
+        "en": "Layers are glued with grains at right angles for strength.",
+        "bm": "Lapisan dilekatkan dengan ira bersilang untuk kekuatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "manufactured board made of thin wood layers glued together",
+          "bm": "papan buatan daripada lapisan kayu nipis yang dilekatkan"
+        },
+        {
+          "en": "natural hardwood",
+          "bm": "kayu keras semula jadi"
+        },
+        {
+          "en": "metal",
+          "bm": "logam"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q04",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ferrous metals contain…",
+        "bm": "Logam ferus mengandungi…"
+      },
+      "explanation": {
+        "en": "So most ferrous metals can rust.",
+        "bm": "Jadi kebanyakan logam ferus boleh berkarat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "iron",
+          "bm": "besi"
+        },
+        {
+          "en": "copper",
+          "bm": "kuprum"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        },
+        {
+          "en": "wood",
+          "bm": "kayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q05",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a non-ferrous metal?",
+        "bm": "Antara berikut, yang manakah logam bukan ferus?"
+      },
+      "explanation": {
+        "en": "Stainless steel contains iron, so it is ferrous.",
+        "bm": "Keluli tahan karat mengandungi besi, jadi ia ferus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        },
+        {
+          "en": "Mild steel",
+          "bm": "Keluli lembut"
+        },
+        {
+          "en": "Cast iron",
+          "bm": "Besi tuang"
+        },
+        {
+          "en": "Stainless steel",
+          "bm": "Keluli tahan karat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q06",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A plastic that can be reheated and reshaped many times is a…",
+        "bm": "Plastik yang boleh dipanaskan dan dibentuk semula berkali-kali ialah…"
+      },
+      "explanation": {
+        "en": "e.g. acrylic, PVC.",
+        "bm": "cth. akrilik, PVC."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "thermoplastic",
+          "bm": "termoplastik"
+        },
+        {
+          "en": "thermoset",
+          "bm": "termoset"
+        },
+        {
+          "en": "hardwood",
+          "bm": "kayu keras"
+        },
+        {
+          "en": "alloy",
+          "bm": "aloi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q07",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which tool checks that a corner is 90°?",
+        "bm": "Alatan manakah menyemak sudut 90°?"
+      },
+      "explanation": {
+        "en": "Also used to mark lines across wood.",
+        "bm": "Juga digunakan untuk menanda garisan merentas kayu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Try square",
+          "bm": "Sesiku L"
+        },
+        {
+          "en": "Hacksaw",
+          "bm": "Gergaji besi"
+        },
+        {
+          "en": "File",
+          "bm": "Kikir"
+        },
+        {
+          "en": "G-clamp",
+          "bm": "Pengapit G"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q08",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which saw is used to cut metal?",
+        "bm": "Gergaji manakah digunakan untuk memotong logam?"
+      },
+      "explanation": {
+        "en": "Tenon and coping saws are for wood (coping saws for curves).",
+        "bm": "Gergaji tenon dan koping untuk kayu (koping untuk lengkungan)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hacksaw",
+          "bm": "Gergaji besi"
+        },
+        {
+          "en": "Tenon saw",
+          "bm": "Gergaji tenon"
+        },
+        {
+          "en": "Coping saw",
+          "bm": "Gergaji koping"
+        },
+        {
+          "en": "Rip saw",
+          "bm": "Gergaji belah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q09",
+      "subtopicId": "f3rbt-03-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each material with its group.",
+        "bm": "Padankan bahan dengan kumpulannya."
+      },
+      "explanation": {
+        "en": "Brass = copper + zinc.",
+        "bm": "Loyang = kuprum + zink."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Brass",
+            "bm": "Loyang"
+          },
+          "right": {
+            "en": "Non-ferrous alloy",
+            "bm": "Aloi bukan ferus"
+          }
+        },
+        {
+          "left": {
+            "en": "Mild steel",
+            "bm": "Keluli lembut"
+          },
+          "right": {
+            "en": "Ferrous metal",
+            "bm": "Logam ferus"
+          }
+        },
+        {
+          "left": {
+            "en": "Acrylic",
+            "bm": "Akrilik"
+          },
+          "right": {
+            "en": "Thermoplastic",
+            "bm": "Termoplastik"
+          }
+        },
+        {
+          "left": {
+            "en": "Melamine",
+            "bm": "Melamin"
+          },
+          "right": {
+            "en": "Thermoset",
+            "bm": "Termoset"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-03-q10",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is MDF often used for flat-pack furniture?",
+        "bm": "Mengapakah MDF sering digunakan untuk perabot pasang siap?"
+      },
+      "explanation": {
+        "en": "MDF swells if it gets wet.",
+        "bm": "MDF mengembang jika basah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is cheap, flat, smooth and stable",
+          "bm": "Ia murah, rata, licin dan stabil"
+        },
+        {
+          "en": "It is waterproof",
+          "bm": "Ia kalis air"
+        },
+        {
+          "en": "It is a metal",
+          "bm": "Ia logam"
+        },
+        {
+          "en": "It is the strongest hardwood",
+          "bm": "Ia kayu keras paling kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q11",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Balsa wood is very soft but is classified as a hardwood. Why?",
+        "bm": "Kayu balsa sangat lembut tetapi dikelaskan sebagai kayu keras. Mengapa?"
+      },
+      "explanation": {
+        "en": "Hardwood/softwood is a botanical grouping.",
+        "bm": "Kayu keras/lembut ialah pengelasan botani."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The classification is by tree type (broad-leaved), not by hardness",
+          "bm": "Pengelasan berdasarkan jenis pokok (berdaun lebar), bukan kekerasan"
+        },
+        {
+          "en": "It is a mistake",
+          "bm": "Ia satu kesilapan"
+        },
+        {
+          "en": "It is heavy",
+          "bm": "Ia berat"
+        },
+        {
+          "en": "It comes from conifers",
+          "bm": "Ia daripada pokok konifer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q12",
+      "subtopicId": "f3rbt-03-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct workshop safety rules.",
+        "bm": "Pilih SEMUA peraturan keselamatan bengkel yang betul."
+      },
+      "explanation": {
+        "en": "Never run in a workshop.",
+        "bm": "Jangan berlari di bengkel."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Wear safety goggles when cutting or drilling",
+          "bm": "Pakai gogal semasa memotong atau menggerudi"
+        },
+        {
+          "en": "Tie back long hair",
+          "bm": "Ikat rambut panjang"
+        },
+        {
+          "en": "Clamp work securely",
+          "bm": "Kapit bahan kerja dengan kukuh"
+        },
+        {
+          "en": "Run in the workshop",
+          "bm": "Berlari di bengkel"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3rbt-03-q13",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which tool is used to cut curves in thin wood?",
+        "bm": "Alatan manakah digunakan untuk memotong lengkungan pada kayu nipis?"
+      },
+      "explanation": {
+        "en": "Its thin blade can turn.",
+        "bm": "Bilahnya yang nipis boleh berpusing."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Coping saw",
+          "bm": "Gergaji koping"
+        },
+        {
+          "en": "Tenon saw",
+          "bm": "Gergaji tenon"
+        },
+        {
+          "en": "Hacksaw",
+          "bm": "Gergaji besi"
+        },
+        {
+          "en": "Chisel",
+          "bm": "Pahat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q14",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A G-clamp is used to…",
+        "bm": "Pengapit G digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Secure work prevents accidents.",
+        "bm": "Bahan yang dikapit mengelakkan kemalangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "hold work firmly while cutting or gluing",
+          "bm": "memegang bahan dengan kukuh semasa memotong atau melekat"
+        },
+        {
+          "en": "measure angles",
+          "bm": "mengukur sudut"
+        },
+        {
+          "en": "cut metal",
+          "bm": "memotong logam"
+        },
+        {
+          "en": "smooth surfaces",
+          "bm": "melicinkan permukaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q15",
+      "subtopicId": "f3rbt-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Brass is an alloy of copper and ______.",
+        "bm": "Loyang ialah aloi kuprum dan ______."
+      },
+      "explanation": {
+        "en": "Bronze is copper and tin.",
+        "bm": "Gangsa ialah kuprum dan timah."
+      },
+      "difficulty": 2,
+      "answer": [
+        "zinc",
+        "zink"
+      ]
+    },
+    {
+      "id": "f3rbt-03-q16",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why can't a thermoset plastic like melamine be recycled by melting?",
+        "bm": "Mengapakah plastik termoset seperti melamin tidak boleh dikitar semula dengan dileburkan?"
+      },
+      "explanation": {
+        "en": "That is why melamine plates resist heat.",
+        "bm": "Itulah sebabnya pinggan melamin tahan haba."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Its molecules form permanent cross-links when it sets",
+          "bm": "Molekulnya membentuk ikatan silang kekal apabila mengeras"
+        },
+        {
+          "en": "It is a metal",
+          "bm": "Ia logam"
+        },
+        {
+          "en": "It is too soft",
+          "bm": "Ia terlalu lembut"
+        },
+        {
+          "en": "It dissolves in water",
+          "bm": "Ia larut dalam air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q17",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A designer needs a light, rust-resistant frame for a bicycle basket. Which material is BEST?",
+        "bm": "Pereka memerlukan rangka ringan dan tahan karat untuk bakul basikal. Bahan manakah PALING sesuai?"
+      },
+      "explanation": {
+        "en": "Aluminium is light and non-ferrous.",
+        "bm": "Aluminium ringan dan bukan ferus."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        },
+        {
+          "en": "Cast iron",
+          "bm": "Besi tuang"
+        },
+        {
+          "en": "MDF",
+          "bm": "MDF"
+        },
+        {
+          "en": "Mild steel without coating",
+          "bm": "Keluli lembut tanpa salutan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q18",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are traditional Malay houses often built from chengal?",
+        "bm": "Mengapakah rumah tradisional Melayu sering dibina daripada cengal?"
+      },
+      "explanation": {
+        "en": "Material choice depends on the environment.",
+        "bm": "Pemilihan bahan bergantung pada persekitaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is a very durable hardwood that resists rot and termites",
+          "bm": "Ia kayu keras yang sangat tahan lama, tahan reput dan anai-anai"
+        },
+        {
+          "en": "It is the cheapest softwood",
+          "bm": "Ia kayu lembut paling murah"
+        },
+        {
+          "en": "It is a plastic",
+          "bm": "Ia plastik"
+        },
+        {
+          "en": "It bends easily",
+          "bm": "Ia mudah dibengkokkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q19",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student's acrylic sheet cracks while being drilled. What is the BEST improvement?",
+        "bm": "Kepingan akrilik murid retak semasa digerudi. Apakah penambahbaikan PALING baik?"
+      },
+      "explanation": {
+        "en": "Support and slow speed reduce cracking.",
+        "bm": "Sokongan dan kelajuan perlahan mengurangkan retakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Clamp it on scrap wood, drill slowly, and keep the protective film on",
+          "bm": "Kapit di atas kayu buangan, gerudi perlahan dan kekalkan filem pelindung"
+        },
+        {
+          "en": "Drill faster",
+          "bm": "Gerudi lebih laju"
+        },
+        {
+          "en": "Hold it by hand",
+          "bm": "Pegang dengan tangan"
+        },
+        {
+          "en": "Use a hammer",
+          "bm": "Gunakan tukul"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q20",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should you never use a tool you have not been shown how to use?",
+        "bm": "Mengapakah anda tidak boleh menggunakan alatan yang belum diajar cara penggunaannya?"
+      },
+      "explanation": {
+        "en": "Always follow the teacher's instructions.",
+        "bm": "Sentiasa ikut arahan guru."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Incorrect use can cause serious injury and damage",
+          "bm": "Penggunaan yang salah boleh menyebabkan kecederaan serius dan kerosakan"
+        },
+        {
+          "en": "It wastes time only",
+          "bm": "Ia membuang masa sahaja"
+        },
+        {
+          "en": "Tools are expensive",
+          "bm": "Alatan mahal"
+        },
+        {
+          "en": "It is not important",
+          "bm": "Tidak penting"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

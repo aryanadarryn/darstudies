@@ -1,0 +1,46 @@
+{
+  "chapterId": "f3rbt-05",
+  "reviewed": false,
+  "subtopics": {
+    "f3rbt-05-01": {
+      "keyPoints": [
+        {
+          "en": "LED: long leg anode (+), flat side cathode (−); always use a series resistor.",
+          "bm": "LED: kaki panjang anod (+), sisi rata katod (−); sentiasa gunakan perintang bersiri."
+        },
+        {
+          "en": "LDR resistance falls as light increases. Systems: input → process → output.",
+          "bm": "Rintangan LDR berkurang apabila cahaya bertambah. Sistem: input → proses → output."
+        }
+      ]
+    },
+    "f3rbt-05-02": {
+      "keyPoints": [
+        {
+          "en": "Series: one path, same current, voltage shared, R = R₁ + R₂ + …; one fails → all off.",
+          "bm": "Bersiri: satu laluan, arus sama, voltan dikongsi, R = R₁ + R₂ + …; satu rosak → semua padam."
+        },
+        {
+          "en": "Parallel: branches, same voltage each, current splits; others stay on.",
+          "bm": "Selari: bercabang, voltan sama setiap cabang, arus terbahagi; yang lain kekal menyala."
+        }
+      ]
+    },
+    "f3rbt-05-03": {
+      "keyPoints": [
+        {
+          "en": "V = I × R. LED resistor: R = (Vsupply − VLED) ÷ I, e.g. (9 − 2) ÷ 0.02 = 350 Ω.",
+          "bm": "V = I × R. Perintang LED: R = (Vbekalan − VLED) ÷ I, cth. (9 − 2) ÷ 0.02 = 350 Ω."
+        },
+        {
+          "en": "Colour code: brown-black-red = 1, 0, ×100 = 1 kΩ. Choose the next standard value up.",
+          "bm": "Kod warna: perang-hitam-merah = 1, 0, ×100 = 1 kΩ. Pilih nilai piawai seterusnya yang lebih tinggi."
+        }
+      ],
+      "tip": {
+        "en": "Convert mA to A before using Ohm's law.",
+        "bm": "Tukar mA kepada A sebelum menggunakan hukum Ohm."
+      }
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "chapterId": "f3bm-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Almari\", \"kitab\", \"agama\", \"kedai\" and \"komputer\" are all Malay words today — but they came from Portuguese, Arabic, Sanskrit, Tamil and English.",
+      "bm": "\"Almari\", \"kitab\", \"agama\", \"kedai\" dan \"komputer\" semuanya perkataan bahasa Melayu hari ini — tetapi asalnya daripada bahasa Portugis, Arab, Sanskrit, Tamil dan Inggeris."
+    },
+    "bigIdeas": [
+      {
+        "en": "Malay has borrowed words through trade, religion and colonisation.",
+        "bm": "Bahasa Melayu meminjam perkataan melalui perdagangan, agama dan penjajahan."
+      },
+      {
+        "en": "Homonim: same spelling and sound, different meaning. Homograf: same spelling, different sound. Homofon: same sound, different spelling.",
+        "bm": "Homonim: ejaan dan sebutan sama, maksud berbeza. Homograf: ejaan sama, sebutan berbeza. Homofon: sebutan sama, ejaan berbeza."
+      },
+      {
+        "en": "Synonyms let you vary your writing; antonyms help show contrast.",
+        "bm": "Sinonim mempelbagaikan penulisan; antonim membantu menunjukkan perbezaan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Spelling",
+            "bm": "Ejaan"
+          },
+          {
+            "en": "Pronunciation",
+            "bm": "Sebutan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Homonim (bisa, bulan)",
+              "bm": "Homonim (bisa, bulan)"
+            },
+            "cells": [
+              {
+                "en": "Same",
+                "bm": "Sama"
+              },
+              {
+                "en": "Same",
+                "bm": "Sama"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Homograf (perang, semak)",
+              "bm": "Homograf (perang, semak)"
+            },
+            "cells": [
+              {
+                "en": "Same",
+                "bm": "Sama"
+              },
+              {
+                "en": "Different",
+                "bm": "Berbeza"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Homofon (bank/bang, masa/massa)",
+              "bm": "Homofon (bank/bang, masa/massa)"
+            },
+            "cells": [
+              {
+                "en": "Different",
+                "bm": "Berbeza"
+              },
+              {
+                "en": "Same",
+                "bm": "Sama"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata pinjaman",
+          "bm": "Kata pinjaman"
+        },
+        "definition": {
+          "en": "Words taken from other languages.",
+          "bm": "Perkataan yang diambil daripada bahasa lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Homonim",
+          "bm": "Homonim"
+        },
+        "definition": {
+          "en": "Same spelling and pronunciation, different meaning: bisa (venom / able).",
+          "bm": "Ejaan dan sebutan sama, maksud berbeza: bisa (racun / boleh)."
+        }
+      },
+      {
+        "term": {
+          "en": "Homograf",
+          "bm": "Homograf"
+        },
+        "definition": {
+          "en": "Same spelling, different pronunciation and meaning: perang (war / brown).",
+          "bm": "Ejaan sama, sebutan dan maksud berbeza: perang (peperangan / warna perang)."
+        }
+      },
+      {
+        "term": {
+          "en": "Homofon",
+          "bm": "Homofon"
+        },
+        "definition": {
+          "en": "Same pronunciation, different spelling and meaning: bank / bang.",
+          "bm": "Sebutan sama, ejaan dan maksud berbeza: bank / bang."
+        }
+      },
+      {
+        "term": {
+          "en": "Sinonim",
+          "bm": "Sinonim"
+        },
+        "definition": {
+          "en": "Words with similar meaning: cantik — indah.",
+          "bm": "Perkataan yang maksudnya sama atau hampir sama: cantik — indah."
+        }
+      },
+      {
+        "term": {
+          "en": "Antonim",
+          "bm": "Antonim"
+        },
+        "definition": {
+          "en": "Words with opposite meaning: rajin — malas.",
+          "bm": "Perkataan yang berlawanan maksud: rajin — malas."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain \"perang\" in: \"Rambutnya berwarna perang\" and \"Perang itu memusnahkan bandar\".",
+        "bm": "Terangkan \"perang\" dalam: \"Rambutnya berwarna perang\" dan \"Perang itu memusnahkan bandar\"."
+      },
+      "steps": [
+        {
+          "en": "Same spelling, but in the first the e is pronounced like \"e\" in \"merah\" (e taling); in the second like \"e\" in \"emak\" (e pepet).",
+          "bm": "Ejaan sama, tetapi yang pertama disebut dengan e taling (seperti \"merah\"); yang kedua dengan e pepet (seperti \"emak\")."
+        },
+        {
+          "en": "Meanings differ: a brown colour vs war.",
+          "bm": "Maksud berbeza: warna coklat kemerahan vs peperangan."
+        }
+      ],
+      "answer": {
+        "en": "\"Perang\" is a homograf.",
+        "bm": "\"Perang\" ialah homograf."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bm-03-q01",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Almari\", \"garpu\" and \"bendera\" are loanwords from…",
+        "bm": "\"Almari\", \"garpu\" dan \"bendera\" ialah kata pinjaman daripada bahasa…"
+      },
+      "explanation": {
+        "en": "They entered Malay after the Portuguese came to Melaka in 1511.",
+        "bm": "Ia masuk ke dalam bahasa Melayu selepas Portugis datang ke Melaka pada 1511."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Portuguese",
+          "bm": "Portuguese"
+        },
+        {
+          "en": "Arabic",
+          "bm": "Arabic"
+        },
+        {
+          "en": "Sanskrit",
+          "bm": "Sanskrit"
+        },
+        {
+          "en": "Chinese",
+          "bm": "Chinese"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q02",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Kitab\", \"ilmu\" and \"masjid\" are loanwords from…",
+        "bm": "\"Kitab\", \"ilmu\" dan \"masjid\" ialah kata pinjaman daripada bahasa…"
+      },
+      "explanation": {
+        "en": "They came with the spread of Islam.",
+        "bm": "Ia datang bersama penyebaran Islam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Arabic",
+          "bm": "Arabic"
+        },
+        {
+          "en": "Portuguese",
+          "bm": "Portuguese"
+        },
+        {
+          "en": "English",
+          "bm": "English"
+        },
+        {
+          "en": "Tamil",
+          "bm": "Tamil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q03",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Agama\", \"bahasa\" and \"syurga\" are loanwords from…",
+        "bm": "\"Agama\", \"bahasa\" dan \"syurga\" ialah kata pinjaman daripada bahasa…"
+      },
+      "explanation": {
+        "en": "They came through Hindu-Buddhist influence.",
+        "bm": "Ia datang melalui pengaruh Hindu-Buddha."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sanskrit",
+          "bm": "Sanskrit"
+        },
+        {
+          "en": "Arabic",
+          "bm": "Arabic"
+        },
+        {
+          "en": "English",
+          "bm": "English"
+        },
+        {
+          "en": "Portuguese",
+          "bm": "Portuguese"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q04",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Kedai\" and \"kapal\" are loanwords from…",
+        "bm": "\"Kedai\" dan \"kapal\" ialah kata pinjaman daripada bahasa…"
+      },
+      "explanation": {
+        "en": "Tamil traders brought these words.",
+        "bm": "Pedagang Tamil membawa perkataan ini."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tamil",
+          "bm": "Tamil"
+        },
+        {
+          "en": "Portuguese",
+          "bm": "Portuguese"
+        },
+        {
+          "en": "Arabic",
+          "bm": "Arabic"
+        },
+        {
+          "en": "English",
+          "bm": "English"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q05",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Bulan\" (moon) and \"bulan\" (month) is an example of…",
+        "bm": "\"Bulan\" (cakerawala) dan \"bulan\" (tempoh masa) ialah contoh…"
+      },
+      "explanation": {
+        "en": "Same spelling and pronunciation.",
+        "bm": "Ejaan dan sebutan sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "homonim",
+          "bm": "homonim"
+        },
+        {
+          "en": "homograf",
+          "bm": "homograf"
+        },
+        {
+          "en": "homofon",
+          "bm": "homofon"
+        },
+        {
+          "en": "antonim",
+          "bm": "antonim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q06",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Bank\" and \"bang\" is an example of…",
+        "bm": "\"Bank\" dan \"bang\" ialah contoh…"
+      },
+      "explanation": {
+        "en": "They sound the same but are spelled differently.",
+        "bm": "Sebutannya sama tetapi ejaannya berbeza."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "homofon",
+          "bm": "homofon"
+        },
+        {
+          "en": "homograf",
+          "bm": "homograf"
+        },
+        {
+          "en": "homonim",
+          "bm": "homonim"
+        },
+        {
+          "en": "sinonim",
+          "bm": "sinonim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q07",
+      "subtopicId": "f3bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The antonym of \"rajin\" is…",
+        "bm": "Antonim bagi \"rajin\" ialah…"
+      },
+      "explanation": {
+        "en": "Tekun and gigih are synonyms of rajin.",
+        "bm": "Tekun dan gigih ialah sinonim rajin."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "malas",
+          "bm": "malas"
+        },
+        {
+          "en": "tekun",
+          "bm": "tekun"
+        },
+        {
+          "en": "gigih",
+          "bm": "gigih"
+        },
+        {
+          "en": "cergas",
+          "bm": "cergas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q08",
+      "subtopicId": "f3bm-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "A synonym of \"cantik\" is ______.",
+        "bm": "Sinonim bagi \"cantik\" ialah ______."
+      },
+      "explanation": {
+        "en": "Choose a synonym that suits the context.",
+        "bm": "Pilih sinonim yang sesuai dengan konteks."
+      },
+      "difficulty": 1,
+      "answer": [
+        "indah",
+        "jelita",
+        "molek",
+        "elok",
+        "ayu",
+        "lawa"
+      ]
+    },
+    {
+      "id": "f3bm-03-q09",
+      "subtopicId": "f3bm-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each loanword with its source language.",
+        "bm": "Padankan kata pinjaman dengan bahasa sumbernya."
+      },
+      "explanation": {
+        "en": "Malay borrowed from many languages through trade and contact.",
+        "bm": "Bahasa Melayu meminjam daripada banyak bahasa melalui perdagangan dan hubungan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "komputer",
+            "bm": "komputer"
+          },
+          "right": {
+            "en": "English",
+            "bm": "Inggeris"
+          }
+        },
+        {
+          "left": {
+            "en": "mentega",
+            "bm": "mentega"
+          },
+          "right": {
+            "en": "Portuguese",
+            "bm": "Portugis"
+          }
+        },
+        {
+          "left": {
+            "en": "hakim",
+            "bm": "hakim"
+          },
+          "right": {
+            "en": "Arabic",
+            "bm": "Arab"
+          }
+        },
+        {
+          "left": {
+            "en": "teh",
+            "bm": "teh"
+          },
+          "right": {
+            "en": "Chinese",
+            "bm": "Cina"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bm-03-q10",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Semak\" (bushes) and \"semak\" (to check) is an example of…",
+        "bm": "\"Semak\" (belukar) dan \"semak\" (memeriksa) ialah contoh…"
+      },
+      "explanation": {
+        "en": "Same spelling; e pepet in \"semak samun\", e taling in \"semak kerja\".",
+        "bm": "Ejaan sama; e pepet dalam \"semak samun\", e taling dalam \"semak kerja\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "homograf",
+          "bm": "homograf"
+        },
+        {
+          "en": "homofon",
+          "bm": "homofon"
+        },
+        {
+          "en": "homonim",
+          "bm": "homonim"
+        },
+        {
+          "en": "antonim",
+          "bm": "antonim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q11",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Bisa ular itu boleh membunuh\" and \"Dia bisa menyanyi\". \"Bisa\" is…",
+        "bm": "\"Bisa ular itu boleh membunuh\" dan \"Dia bisa menyanyi\". \"Bisa\" ialah…"
+      },
+      "explanation": {
+        "en": "Venom / able — same spelling, same pronunciation.",
+        "bm": "Racun / boleh — ejaan dan sebutan sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "homonim",
+          "bm": "homonim"
+        },
+        {
+          "en": "homofon",
+          "bm": "homofon"
+        },
+        {
+          "en": "homograf",
+          "bm": "homograf"
+        },
+        {
+          "en": "sinonim",
+          "bm": "sinonim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q12",
+      "subtopicId": "f3bm-03-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL pairs that are homofon.",
+        "bm": "Pilih SEMUA pasangan homofon."
+      },
+      "explanation": {
+        "en": "Bulan is homonim; perang is homograf.",
+        "bm": "Bulan ialah homonim; perang ialah homograf."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "bank — bang",
+          "bm": "bank — bang"
+        },
+        {
+          "en": "masa — massa",
+          "bm": "masa — massa"
+        },
+        {
+          "en": "bulan — bulan",
+          "bm": "bulan — bulan"
+        },
+        {
+          "en": "perang — perang",
+          "bm": "perang — perang"
+        }
+      ],
+      "answer": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "f3bm-03-q13",
+      "subtopicId": "f3bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which pair is NOT a pair of antonyms?",
+        "bm": "Pasangan manakah BUKAN antonim?"
+      },
+      "explanation": {
+        "en": "Gembira and riang are synonyms.",
+        "bm": "Gembira dan riang ialah sinonim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gembira — riang",
+          "bm": "gembira — riang"
+        },
+        {
+          "en": "tinggi — rendah",
+          "bm": "tinggi — rendah"
+        },
+        {
+          "en": "murah — mahal",
+          "bm": "murah — mahal"
+        },
+        {
+          "en": "luas — sempit",
+          "bm": "luas — sempit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q14",
+      "subtopicId": "f3bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the best synonym for \"gigih\" in: \"Dia gigih berusaha untuk berjaya.\"",
+        "bm": "Pilih sinonim terbaik bagi \"gigih\" dalam: \"Dia gigih berusaha untuk berjaya.\""
+      },
+      "explanation": {
+        "en": "Tekun means hardworking and persistent.",
+        "bm": "Tekun bermaksud bersungguh-sungguh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tekun",
+          "bm": "tekun"
+        },
+        {
+          "en": "malas",
+          "bm": "malas"
+        },
+        {
+          "en": "lemah",
+          "bm": "lemah"
+        },
+        {
+          "en": "leka",
+          "bm": "leka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q15",
+      "subtopicId": "f3bm-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The antonym of \"kusut\" (tangled) is ______.",
+        "bm": "Antonim bagi \"kusut\" ialah ______."
+      },
+      "explanation": {
+        "en": "e.g. rambut kusut — rambut kemas.",
+        "bm": "cth. rambut kusut — rambut kemas."
+      },
+      "difficulty": 2,
+      "answer": [
+        "kemas",
+        "rapi",
+        "teratur"
+      ]
+    },
+    {
+      "id": "f3bm-03-q16",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which of these is a loanword from English?",
+        "bm": "Antara berikut, yang manakah kata pinjaman daripada bahasa Inggeris?"
+      },
+      "explanation": {
+        "en": "Jendela is Portuguese, kitab is Arabic, syurga is Sanskrit.",
+        "bm": "Jendela daripada Portugis, kitab daripada Arab, syurga daripada Sanskrit."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "televisyen",
+          "bm": "televisyen"
+        },
+        {
+          "en": "jendela",
+          "bm": "jendela"
+        },
+        {
+          "en": "kitab",
+          "bm": "kitab"
+        },
+        {
+          "en": "syurga",
+          "bm": "syurga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q17",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Pokok rendang itu meneduhkan kami\" and \"Ibu memasak rendang\". Why is \"rendang\" a homograf?",
+        "bm": "\"Pokok rendang itu meneduhkan kami\" dan \"Ibu memasak rendang\". Mengapakah \"rendang\" ialah homograf?"
+      },
+      "explanation": {
+        "en": "Shady tree vs a spicy dish.",
+        "bm": "Pokok rimbun vs masakan berempah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Same spelling, but the e is pronounced differently (pepet vs taling) and the meaning differs",
+          "bm": "Ejaan sama, tetapi e disebut berbeza (pepet vs taling) dan maksudnya berbeza"
+        },
+        {
+          "en": "Different spelling, same sound",
+          "bm": "Ejaan berbeza, sebutan sama"
+        },
+        {
+          "en": "Same sound and spelling, same meaning",
+          "bm": "Sebutan dan ejaan sama, maksud sama"
+        },
+        {
+          "en": "They are opposites",
+          "bm": "Kedua-duanya berlawanan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q18",
+      "subtopicId": "f3bm-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What do loanwords from Arabic, Sanskrit and Portuguese tell us about Malay history?",
+        "bm": "Apakah yang ditunjukkan oleh kata pinjaman daripada bahasa Arab, Sanskrit dan Portugis tentang sejarah bahasa Melayu?"
+      },
+      "explanation": {
+        "en": "Malay was the lingua franca of the region.",
+        "bm": "Bahasa Melayu ialah lingua franca rantau ini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The Malay world had long contact with other civilisations through trade, religion and colonisation",
+          "bm": "Alam Melayu mempunyai hubungan lama dengan tamadun lain melalui perdagangan, agama dan penjajahan"
+        },
+        {
+          "en": "Malay has no words of its own",
+          "bm": "Bahasa Melayu tiada perkataan sendiri"
+        },
+        {
+          "en": "Malay was never used in trade",
+          "bm": "Bahasa Melayu tidak pernah digunakan dalam perdagangan"
+        },
+        {
+          "en": "Only English influenced Malay",
+          "bm": "Hanya bahasa Inggeris mempengaruhi bahasa Melayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q19",
+      "subtopicId": "f3bm-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the synonym that BEST fits: \"Ucapan pengetua itu sangat ___ sehingga semua murid terharu.\"",
+        "bm": "Pilih sinonim yang PALING sesuai: \"Ucapan pengetua itu sangat ___ sehingga semua murid terharu.\""
+      },
+      "explanation": {
+        "en": "\"Terharu\" means deeply moved.",
+        "bm": "\"Terharu\" bermaksud tersentuh perasaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "menyentuh hati",
+          "bm": "menyentuh hati"
+        },
+        {
+          "en": "menyakitkan hati",
+          "bm": "menyakitkan hati"
+        },
+        {
+          "en": "membosankan",
+          "bm": "membosankan"
+        },
+        {
+          "en": "meletihkan",
+          "bm": "meletihkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-03-q20",
+      "subtopicId": "f3bm-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it important to know homografs when reading aloud?",
+        "bm": "Mengapakah penting mengetahui homograf semasa membaca dengan kuat?"
+      },
+      "explanation": {
+        "en": "Reading \"perang\" with the wrong e changes \"war\" into \"brown\".",
+        "bm": "Membaca \"perang\" dengan e yang salah mengubah \"peperangan\" kepada \"warna perang\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Context decides the pronunciation, so we read the correct meaning",
+          "bm": "Konteks menentukan sebutan, jadi kita membaca dengan maksud yang betul"
+        },
+        {
+          "en": "They are always spelled differently",
+          "bm": "Ia sentiasa dieja berbeza"
+        },
+        {
+          "en": "They have only one meaning",
+          "bm": "Ia hanya satu maksud"
+        },
+        {
+          "en": "It does not matter",
+          "bm": "Tidak penting"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

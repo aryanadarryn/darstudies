@@ -1,0 +1,846 @@
+{
+  "chapterId": "f3sci-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You touch a hot pan and pull your hand away before you even feel the pain. That speed comes from a shortcut in your nervous system called a reflex arc.",
+      "bm": "Anda tersentuh kuali panas dan menarik tangan sebelum sempat terasa sakit. Kepantasan itu datang daripada jalan pintas dalam sistem saraf yang dipanggil arka refleks."
+    },
+    "bigIdeas": [
+      {
+        "en": "The nervous system has the central nervous system (brain and spinal cord) and the peripheral nervous system (nerves).",
+        "bm": "Sistem saraf terdiri daripada sistem saraf pusat (otak dan saraf tunjang) dan sistem saraf periferi (saraf-saraf)."
+      },
+      {
+        "en": "Sense organs detect stimuli; nerves carry impulses; effectors (muscles, glands) respond.",
+        "bm": "Organ deria mengesan rangsangan; saraf membawa impuls; efektor (otot, kelenjar) bertindak balas."
+      },
+      {
+        "en": "Plants respond with tropisms and nastic movements; animals' eye position gives stereoscopic or monocular vision.",
+        "bm": "Tumbuhan bergerak balas melalui tropisme dan gerak balas nastik; kedudukan mata haiwan memberi penglihatan stereoskopik atau monokular."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Stimulus",
+              "bm": "Rangsangan"
+            },
+            "detail": {
+              "en": "e.g. heat from a hot pan",
+              "bm": "cth. haba daripada kuali panas"
+            }
+          },
+          {
+            "title": {
+              "en": "Receptor",
+              "bm": "Reseptor"
+            },
+            "detail": {
+              "en": "Skin detects it",
+              "bm": "Kulit mengesannya"
+            }
+          },
+          {
+            "title": {
+              "en": "Afferent neurone",
+              "bm": "Neuron aferen"
+            },
+            "detail": {
+              "en": "Carries the impulse to the spinal cord",
+              "bm": "Membawa impuls ke saraf tunjang"
+            }
+          },
+          {
+            "title": {
+              "en": "Interneurone",
+              "bm": "Neuron perantaraan"
+            },
+            "detail": {
+              "en": "In the spinal cord",
+              "bm": "Dalam saraf tunjang"
+            }
+          },
+          {
+            "title": {
+              "en": "Efferent neurone",
+              "bm": "Neuron eferen"
+            },
+            "detail": {
+              "en": "Carries the impulse to the muscle",
+              "bm": "Membawa impuls ke otot"
+            }
+          },
+          {
+            "title": {
+              "en": "Effector",
+              "bm": "Efektor"
+            },
+            "detail": {
+              "en": "Muscle contracts — hand pulls away",
+              "bm": "Otot mengecut — tangan ditarik"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Stimulus",
+          "bm": "Rangsangan"
+        },
+        "definition": {
+          "en": "A change in the surroundings that an organism detects.",
+          "bm": "Perubahan di persekitaran yang dikesan oleh organisma."
+        }
+      },
+      {
+        "term": {
+          "en": "Response",
+          "bm": "Gerak balas"
+        },
+        "definition": {
+          "en": "The reaction of an organism to a stimulus.",
+          "bm": "Tindak balas organisma terhadap rangsangan."
+        }
+      },
+      {
+        "term": {
+          "en": "Reflex action",
+          "bm": "Tindakan refleks"
+        },
+        "definition": {
+          "en": "A fast, automatic response that does not involve the brain thinking first.",
+          "bm": "Gerak balas pantas dan automatik yang tidak melibatkan otak berfikir dahulu."
+        }
+      },
+      {
+        "term": {
+          "en": "Tropism",
+          "bm": "Tropisme"
+        },
+        "definition": {
+          "en": "Growth of part of a plant towards or away from a stimulus.",
+          "bm": "Pertumbuhan bahagian tumbuhan ke arah atau menjauhi rangsangan."
+        }
+      },
+      {
+        "term": {
+          "en": "Stereoscopic vision",
+          "bm": "Penglihatan stereoskopik"
+        },
+        "definition": {
+          "en": "Both eyes see the same object from slightly different angles, giving depth perception.",
+          "bm": "Kedua-dua mata melihat objek yang sama dari sudut sedikit berbeza, memberi persepsi kedalaman."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain why an owl has stereoscopic vision but a rabbit has monocular vision.",
+        "bm": "Terangkan mengapa burung hantu mempunyai penglihatan stereoskopik tetapi arnab mempunyai penglihatan monokular."
+      },
+      "steps": [
+        {
+          "en": "Owl's eyes face forward → fields overlap → judges distance accurately to catch prey.",
+          "bm": "Mata burung hantu menghadap ke hadapan → medan bertindih → menganggar jarak dengan tepat untuk menangkap mangsa."
+        },
+        {
+          "en": "Rabbit's eyes are on the sides → wide field of view → spots predators from many directions.",
+          "bm": "Mata arnab di sisi kepala → medan penglihatan luas → mengesan pemangsa dari pelbagai arah."
+        }
+      ],
+      "answer": {
+        "en": "Predators need depth; prey need a wide view.",
+        "bm": "Pemangsa memerlukan kedalaman; mangsa memerlukan pandangan luas."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-01-q01",
+      "subtopicId": "f3sci-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The central nervous system consists of…",
+        "bm": "Sistem saraf pusat terdiri daripada…"
+      },
+      "explanation": {
+        "en": "Nerves outside these form the peripheral nervous system.",
+        "bm": "Saraf di luar bahagian ini membentuk sistem saraf periferi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the brain and spinal cord",
+          "bm": "otak dan saraf tunjang"
+        },
+        {
+          "en": "cranial and spinal nerves",
+          "bm": "saraf kranium dan saraf spina"
+        },
+        {
+          "en": "the eyes and ears",
+          "bm": "mata dan telinga"
+        },
+        {
+          "en": "muscles and glands",
+          "bm": "otot dan kelenjar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q02",
+      "subtopicId": "f3sci-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which part of the brain controls balance and coordination?",
+        "bm": "Bahagian otak manakah mengawal keseimbangan dan koordinasi?"
+      },
+      "explanation": {
+        "en": "The cerebellum coordinates movement and balance.",
+        "bm": "Serebelum mengkoordinasi pergerakan dan keseimbangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Cerebellum",
+          "bm": "Serebelum"
+        },
+        {
+          "en": "Cerebrum",
+          "bm": "Serebrum"
+        },
+        {
+          "en": "Medulla oblongata",
+          "bm": "Medula oblongata"
+        },
+        {
+          "en": "Spinal cord",
+          "bm": "Saraf tunjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q03",
+      "subtopicId": "f3sci-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which part of the brain controls heartbeat and breathing?",
+        "bm": "Bahagian otak manakah mengawal denyutan jantung dan pernafasan?"
+      },
+      "explanation": {
+        "en": "The medulla oblongata controls involuntary actions.",
+        "bm": "Medula oblongata mengawal tindakan luar kawal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Medulla oblongata",
+          "bm": "Medula oblongata"
+        },
+        {
+          "en": "Cerebrum",
+          "bm": "Serebrum"
+        },
+        {
+          "en": "Cerebellum",
+          "bm": "Serebelum"
+        },
+        {
+          "en": "Pupil",
+          "bm": "Pupil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q04",
+      "subtopicId": "f3sci-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The neurone that carries impulses from receptors to the central nervous system is the ______ neurone.",
+        "bm": "Neuron yang membawa impuls dari reseptor ke sistem saraf pusat ialah neuron ______."
+      },
+      "explanation": {
+        "en": "Afferent (sensory) neurones carry impulses in; efferent (motor) neurones carry them out.",
+        "bm": "Neuron aferen (deria) membawa impuls masuk; neuron eferen (motor) membawanya keluar."
+      },
+      "difficulty": 1,
+      "answer": [
+        "afferent",
+        "aferen",
+        "sensory",
+        "deria"
+      ]
+    },
+    {
+      "id": "f3sci-01-q05",
+      "subtopicId": "f3sci-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The range of sounds humans can usually hear is about…",
+        "bm": "Julat bunyi yang biasanya boleh didengar manusia ialah kira-kira…"
+      },
+      "explanation": {
+        "en": "Below 20 Hz is infrasound; above 20 000 Hz is ultrasound.",
+        "bm": "Bawah 20 Hz ialah infrabunyi; atas 20 000 Hz ialah ultrabunyi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "20 Hz – 20 000 Hz",
+          "bm": "20 Hz – 20 000 Hz"
+        },
+        {
+          "en": "1 Hz – 100 Hz",
+          "bm": "1 Hz – 100 Hz"
+        },
+        {
+          "en": "50 000 Hz – 100 000 Hz",
+          "bm": "50 000 Hz – 100 000 Hz"
+        },
+        {
+          "en": "0 Hz – 5 Hz",
+          "bm": "0 Hz – 5 Hz"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q06",
+      "subtopicId": "f3sci-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which part of the ear helps us keep our balance?",
+        "bm": "Bahagian telinga manakah membantu kita mengekalkan keseimbangan?"
+      },
+      "explanation": {
+        "en": "The semicircular canals detect head movement.",
+        "bm": "Salur separuh bulat mengesan pergerakan kepala."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Semicircular canals",
+          "bm": "Salur separuh bulat"
+        },
+        {
+          "en": "Eardrum",
+          "bm": "Gegendang telinga"
+        },
+        {
+          "en": "Pinna",
+          "bm": "Cuping telinga"
+        },
+        {
+          "en": "Ossicles",
+          "bm": "Osikel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q07",
+      "subtopicId": "f3sci-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A plant shoot grows towards light. This is…",
+        "bm": "Pucuk tumbuhan tumbuh ke arah cahaya. Ini ialah…"
+      },
+      "explanation": {
+        "en": "Photo = light; growth towards it is positive.",
+        "bm": "Foto = cahaya; tumbuh ke arahnya ialah positif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "positive phototropism",
+          "bm": "fototropisme positif"
+        },
+        {
+          "en": "negative geotropism only",
+          "bm": "geotropisme negatif sahaja"
+        },
+        {
+          "en": "hydrotropism",
+          "bm": "hidrotropisme"
+        },
+        {
+          "en": "thigmotropism",
+          "bm": "tigmotropisme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q08",
+      "subtopicId": "f3sci-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The leaves of Mimosa pudica (semalu) fold when touched. This is a…",
+        "bm": "Daun pokok semalu menguncup apabila disentuh. Ini ialah…"
+      },
+      "explanation": {
+        "en": "Nastic movements do not depend on the direction of the stimulus.",
+        "bm": "Gerak balas nastik tidak bergantung pada arah rangsangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nastic movement",
+          "bm": "gerak balas nastik"
+        },
+        {
+          "en": "phototropism",
+          "bm": "fototropisme"
+        },
+        {
+          "en": "geotropism",
+          "bm": "geotropisme"
+        },
+        {
+          "en": "reflex arc",
+          "bm": "arka refleks"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q09",
+      "subtopicId": "f3sci-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of impulses in a reflex arc.",
+        "bm": "Susun laluan impuls dalam arka refleks."
+      },
+      "explanation": {
+        "en": "The brain is not needed for the response, which makes it fast.",
+        "bm": "Otak tidak diperlukan untuk gerak balas, menjadikannya pantas."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Receptor",
+          "bm": "Reseptor"
+        },
+        {
+          "en": "Afferent neurone",
+          "bm": "Neuron aferen"
+        },
+        {
+          "en": "Interneurone (spinal cord)",
+          "bm": "Neuron perantaraan (saraf tunjang)"
+        },
+        {
+          "en": "Efferent neurone",
+          "bm": "Neuron eferen"
+        },
+        {
+          "en": "Effector",
+          "bm": "Efektor"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-01-q10",
+      "subtopicId": "f3sci-01-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of light through the eye to the brain.",
+        "bm": "Susun laluan cahaya melalui mata ke otak."
+      },
+      "explanation": {
+        "en": "Light is focused onto the retina; impulses go to the brain via the optic nerve.",
+        "bm": "Cahaya difokuskan pada retina; impuls dihantar ke otak melalui saraf optik."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Cornea",
+          "bm": "Kornea"
+        },
+        {
+          "en": "Pupil",
+          "bm": "Pupil"
+        },
+        {
+          "en": "Lens",
+          "bm": "Kanta"
+        },
+        {
+          "en": "Retina",
+          "bm": "Retina"
+        },
+        {
+          "en": "Optic nerve",
+          "bm": "Saraf optik"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-01-q11",
+      "subtopicId": "f3sci-01-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each sense organ with its stimulus.",
+        "bm": "Padankan organ deria dengan rangsangannya."
+      },
+      "explanation": {
+        "en": "Each sense organ has receptors for particular stimuli.",
+        "bm": "Setiap organ deria mempunyai reseptor untuk rangsangan tertentu."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Eye",
+            "bm": "Mata"
+          },
+          "right": {
+            "en": "Light",
+            "bm": "Cahaya"
+          }
+        },
+        {
+          "left": {
+            "en": "Ear",
+            "bm": "Telinga"
+          },
+          "right": {
+            "en": "Sound",
+            "bm": "Bunyi"
+          }
+        },
+        {
+          "left": {
+            "en": "Nose",
+            "bm": "Hidung"
+          },
+          "right": {
+            "en": "Chemicals in the air (smell)",
+            "bm": "Bahan kimia dalam udara (bau)"
+          }
+        },
+        {
+          "left": {
+            "en": "Skin",
+            "bm": "Kulit"
+          },
+          "right": {
+            "en": "Touch, pressure, heat, cold, pain",
+            "bm": "Sentuhan, tekanan, panas, sejuk, sakit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-01-q12",
+      "subtopicId": "f3sci-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A short-sighted person sees near objects clearly but not far ones. Which lens corrects this?",
+        "bm": "Seseorang rabun jauh dapat melihat objek dekat dengan jelas tetapi tidak objek jauh. Kanta manakah membetulkannya?"
+      },
+      "explanation": {
+        "en": "A concave lens spreads light so the image falls on the retina.",
+        "bm": "Kanta cekung menyebarkan cahaya supaya imej jatuh tepat pada retina."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Concave lens",
+          "bm": "Kanta cekung"
+        },
+        {
+          "en": "Convex lens",
+          "bm": "Kanta cembung"
+        },
+        {
+          "en": "Cylindrical lens",
+          "bm": "Kanta silinder"
+        },
+        {
+          "en": "No lens",
+          "bm": "Tiada kanta"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q13",
+      "subtopicId": "f3sci-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a VOLUNTARY action?",
+        "bm": "Antara berikut, yang manakah tindakan TERKAWAL?"
+      },
+      "explanation": {
+        "en": "Voluntary actions are controlled consciously by the cerebrum.",
+        "bm": "Tindakan terkawal dikawal secara sedar oleh serebrum."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Writing an essay",
+          "bm": "Menulis karangan"
+        },
+        {
+          "en": "Heartbeat",
+          "bm": "Denyutan jantung"
+        },
+        {
+          "en": "Blinking when dust enters the eye",
+          "bm": "Berkelip apabila habuk masuk ke mata"
+        },
+        {
+          "en": "Knee-jerk reflex",
+          "bm": "Refleks sentakan lutut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q14",
+      "subtopicId": "f3sci-01-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct responses of plant roots.",
+        "bm": "Pilih SEMUA gerak balas akar tumbuhan yang betul."
+      },
+      "explanation": {
+        "en": "Roots grow down (gravity), towards water and away from light.",
+        "bm": "Akar tumbuh ke bawah (graviti), ke arah air dan menjauhi cahaya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Positive geotropism",
+          "bm": "Geotropisme positif"
+        },
+        {
+          "en": "Positive hydrotropism",
+          "bm": "Hidrotropisme positif"
+        },
+        {
+          "en": "Negative phototropism",
+          "bm": "Fototropisme negatif"
+        },
+        {
+          "en": "Positive phototropism",
+          "bm": "Fototropisme positif"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-01-q15",
+      "subtopicId": "f3sci-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which animal has MONOCULAR vision?",
+        "bm": "Haiwan manakah mempunyai penglihatan MONOKULAR?"
+      },
+      "explanation": {
+        "en": "Eyes on the sides of the head give a wide field of view.",
+        "bm": "Mata di sisi kepala memberi medan penglihatan yang luas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rabbit",
+          "bm": "Arnab"
+        },
+        {
+          "en": "Owl",
+          "bm": "Burung hantu"
+        },
+        {
+          "en": "Tiger",
+          "bm": "Harimau"
+        },
+        {
+          "en": "Eagle",
+          "bm": "Helang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q16",
+      "subtopicId": "f3sci-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "An advantage of stereoscopic vision is…",
+        "bm": "Kelebihan penglihatan stereoskopik ialah…"
+      },
+      "explanation": {
+        "en": "Overlapping images from both eyes give depth perception.",
+        "bm": "Imej bertindih dari kedua-dua mata memberi persepsi kedalaman."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "judging distance accurately",
+          "bm": "menganggar jarak dengan tepat"
+        },
+        {
+          "en": "seeing behind the head",
+          "bm": "melihat ke belakang kepala"
+        },
+        {
+          "en": "a 360° field of view",
+          "bm": "medan penglihatan 360°"
+        },
+        {
+          "en": "seeing in complete darkness",
+          "bm": "melihat dalam gelap sepenuhnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q17",
+      "subtopicId": "f3sci-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A boy's spinal cord is injured in the neck. Why might he be unable to move his legs?",
+        "bm": "Saraf tunjang seorang budak tercedera di leher. Mengapakah dia mungkin tidak dapat menggerakkan kakinya?"
+      },
+      "explanation": {
+        "en": "The spinal cord links the brain with the nerves of the lower body.",
+        "bm": "Saraf tunjang menghubungkan otak dengan saraf bahagian bawah badan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Impulses from the brain cannot pass the injury to reach the leg muscles",
+          "bm": "Impuls dari otak tidak dapat melepasi kecederaan untuk sampai ke otot kaki"
+        },
+        {
+          "en": "His leg muscles disappear",
+          "bm": "Otot kakinya hilang"
+        },
+        {
+          "en": "His eyes stop working",
+          "bm": "Matanya berhenti berfungsi"
+        },
+        {
+          "en": "His heart stops",
+          "bm": "Jantungnya berhenti"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q18",
+      "subtopicId": "f3sci-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A seedling is placed horizontally in the dark. After a few days the shoot bends upward. Which response explains this?",
+        "bm": "Anak benih diletakkan secara mengufuk dalam gelap. Selepas beberapa hari pucuk membengkok ke atas. Gerak balas manakah menerangkannya?"
+      },
+      "explanation": {
+        "en": "There is no light, so the shoot is responding to gravity by growing away from it.",
+        "bm": "Tiada cahaya, jadi pucuk bergerak balas terhadap graviti dengan tumbuh menjauhinya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Negative geotropism",
+          "bm": "Geotropisme negatif"
+        },
+        {
+          "en": "Positive phototropism",
+          "bm": "Fototropisme positif"
+        },
+        {
+          "en": "Positive hydrotropism",
+          "bm": "Hidrotropisme positif"
+        },
+        {
+          "en": "Nastic movement",
+          "bm": "Gerak balas nastik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q19",
+      "subtopicId": "f3sci-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it dangerous to listen to very loud music through earphones for long periods?",
+        "bm": "Mengapakah berbahaya mendengar muzik yang sangat kuat melalui fon telinga dalam tempoh yang lama?"
+      },
+      "explanation": {
+        "en": "Hearing loss from noise is often permanent.",
+        "bm": "Kehilangan pendengaran akibat bunyi selalunya kekal."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Loud sound can permanently damage the hair cells in the cochlea",
+          "bm": "Bunyi kuat boleh merosakkan sel rambut dalam koklea secara kekal"
+        },
+        {
+          "en": "It improves hearing",
+          "bm": "Ia memperbaik pendengaran"
+        },
+        {
+          "en": "It only affects the pinna",
+          "bm": "Ia hanya menjejaskan cuping telinga"
+        },
+        {
+          "en": "Sound cannot travel into the ear",
+          "bm": "Bunyi tidak boleh masuk ke telinga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-01-q20",
+      "subtopicId": "f3sci-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A deer and a lion are in the same grassland. Which statement BEST compares their vision?",
+        "bm": "Seekor rusa dan singa berada di padang rumput yang sama. Pernyataan manakah PALING tepat membandingkan penglihatan mereka?"
+      },
+      "explanation": {
+        "en": "Eye position matches each animal's way of life.",
+        "bm": "Kedudukan mata sesuai dengan cara hidup setiap haiwan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The lion judges distance better to hunt; the deer sees a wider area to spot danger",
+          "bm": "Singa menganggar jarak lebih baik untuk memburu; rusa melihat kawasan lebih luas untuk mengesan bahaya"
+        },
+        {
+          "en": "Both have the same vision",
+          "bm": "Kedua-duanya mempunyai penglihatan yang sama"
+        },
+        {
+          "en": "The deer judges distance better",
+          "bm": "Rusa menganggar jarak lebih baik"
+        },
+        {
+          "en": "The lion has a 360° view",
+          "bm": "Singa mempunyai pandangan 360°"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

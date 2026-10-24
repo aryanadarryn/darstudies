@@ -6,6 +6,7 @@ import { resetContentMemo } from '../content'
 import { clearContentCache } from '../content/remote'
 import { type Access, canUse, type Feature } from './access'
 import { AUTH_ENABLED, supabase } from './supabase'
+import { useSettings } from '../store/settings'
 
 const CACHE_KEY = 'darstudies-access'
 
@@ -93,8 +94,10 @@ export const useAccount = create<AccountState>((set, get) => ({
 /** `can('quiz', 'phy')` — true when the signed-in user may use a feature (for a subject). */
 export function useCan() {
   const access = useAccount((s) => s.access)
-  return useCallback((feature: Feature, subject?: string) => canUse(access, feature, subject), [access])
+  const form = useSettings((s) => s.settings.form ?? 4)
+  return useCallback((feature: Feature, subject?: string) => canUse(access, feature, subject, form), [access, form])
 }
 
 /** Non-hook version for plain functions (e.g. plan generation). */
-export const canNow = (feature: Feature, subject?: string) => canUse(useAccount.getState().access, feature, subject)
+export const canNow = (feature: Feature, subject?: string) =>
+  canUse(useAccount.getState().access, feature, subject, useSettings.getState().settings.form ?? 4)

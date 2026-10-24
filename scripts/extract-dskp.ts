@@ -1,10 +1,10 @@
 // One-off: DSKP PDFs → syllabus structure (plan §4). Run: npm run extract-dskp
 //
 // 1. Download the Form 4 DSKP PDFs from the BPK website by hand.
-// 2. Save them as content/dskp/<subject>.pdf  (phy, chem, bio, addmath, math).
-// 3. Run this script. It writes content/raw/extracted/<subject>.json plus a review report.
+// 2. Save them as content/form4/dskp/<subject>.pdf  (phy, chem, bio, addmath, math).
+// 3. Run this script. It writes content/form4/raw/extracted/<subject>.json plus a review report.
 //
-// It never overwrites content/raw/<subject>.json: copy learning standards across by hand after review.
+// It never overwrites content/form4/raw/<subject>.json: copy learning standards across by hand after review.
 // Only STRUCTURE is taken (numbers, titles, learning standards) — never notes or questions.
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -12,7 +12,7 @@ import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs'
 import { SUBJECT_IDS } from '../src/content/ids.ts'
 import type { RawSubject } from '../src/content/schema.ts'
 
-const ROOT = join(import.meta.dirname, '..', 'content')
+const ROOT = join(import.meta.dirname, '..', 'content', 'form4')
 const OUT = join(ROOT, 'raw', 'extracted')
 
 async function pdfLines(file: string): Promise<string[]> {
@@ -94,4 +94,4 @@ for (const sid of SUBJECT_IDS) {
   writeFileSync(join(OUT, `${sid}.report.txt`), report.join('\n') || 'No issues found.')
   console.log(`${sid}: ${subtopics.length} subtopics, ${subtopics.reduce((n, s) => n + s.learningStandards.length, 0)} learning standards, ${report.length} issue(s) → raw/extracted/${sid}.report.txt`)
 }
-if (!found) console.log('No PDFs found. Save DSKP files as content/dskp/<phy|chem|bio|addmath|math>.pdf and run again.')
+if (!found) console.log('No PDFs found. Save DSKP files as content/form4/dskp/<phy|chem|bio|addmath|math>.pdf and run again.')

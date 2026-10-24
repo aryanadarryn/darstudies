@@ -1,0 +1,877 @@
+{
+  "chapterId": "f3muzik-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "From the bright gongs of the Malay gamelan to the gentle sape of the Orang Ulu, Malaysia's music is as diverse as its people.",
+      "bm": "Daripada gong gamelan Melayu yang gemersik hingga sape Orang Ulu yang lembut, muzik Malaysia sepelbagai rakyatnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Peninsular ensembles include the Malay gamelan, caklempong (Negeri Sembilan) and kompang.",
+        "bm": "Ensembel Semenanjung termasuk gamelan Melayu, caklempong (Negeri Sembilan) dan kompang."
+      },
+      {
+        "en": "Sabah and Sarawak have the kulintangan, sompoton and sape.",
+        "bm": "Sabah dan Sarawak mempunyai kulintangan, sompoton dan sape."
+      },
+      {
+        "en": "Dikir barat and Mak Yong from Kelantan combine singing, music and performance; Mak Yong is recognised by UNESCO.",
+        "bm": "Dikir barat dan Mak Yong dari Kelantan menggabungkan nyanyian, muzik dan persembahan; Mak Yong diiktiraf oleh UNESCO."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Origin",
+            "bm": "Asal"
+          },
+          {
+            "en": "Main feature",
+            "bm": "Ciri utama"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Malay gamelan",
+              "bm": "Gamelan Melayu"
+            },
+            "cells": [
+              {
+                "en": "Terengganu (royal courts), Pahang",
+                "bm": "Terengganu (istana), Pahang"
+              },
+              {
+                "en": "Gongs, saron, gambang and gendang",
+                "bm": "Gong, saron, gambang dan gendang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Caklempong",
+              "bm": "Caklempong"
+            },
+            "cells": [
+              {
+                "en": "Negeri Sembilan (Minangkabau)",
+                "bm": "Negeri Sembilan (Minangkabau)"
+              },
+              {
+                "en": "Rows of small bronze gongs",
+                "bm": "Barisan gong gangsa kecil"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Kompang",
+              "bm": "Kompang"
+            },
+            "cells": [
+              {
+                "en": "Malay communities",
+                "bm": "Masyarakat Melayu"
+              },
+              {
+                "en": "Frame drums; interlocking rhythms at weddings",
+                "bm": "Gendang bingkai; rentak berjalin semasa perkahwinan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Kulintangan",
+              "bm": "Kulintangan"
+            },
+            "cells": [
+              {
+                "en": "Sabah",
+                "bm": "Sabah"
+              },
+              {
+                "en": "Row of small gongs on a frame",
+                "bm": "Deretan gong kecil di atas rangka"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sape",
+              "bm": "Sape"
+            },
+            "cells": [
+              {
+                "en": "Sarawak (Orang Ulu)",
+                "bm": "Sarawak (Orang Ulu)"
+              },
+              {
+                "en": "Plucked boat-shaped lute",
+                "bm": "Alat bertali dipetik berbentuk perahu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Dikir barat",
+              "bm": "Dikir barat"
+            },
+            "cells": [
+              {
+                "en": "Kelantan",
+                "bm": "Kelantan"
+              },
+              {
+                "en": "Tok juara, tukang karut and chorus (awok-awok)",
+                "bm": "Tok juara, tukang karut dan awok-awok"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Gamelan",
+          "bm": "Gamelan"
+        },
+        "definition": {
+          "en": "An ensemble mainly of gongs and metallophones, with drums.",
+          "bm": "Ensembel yang kebanyakannya terdiri daripada gong dan metalofon, bersama gendang."
+        }
+      },
+      {
+        "term": {
+          "en": "Caklempong",
+          "bm": "Caklempong"
+        },
+        "definition": {
+          "en": "Bronze gong-chime ensemble from Negeri Sembilan.",
+          "bm": "Ensembel gong berderet gangsa dari Negeri Sembilan."
+        }
+      },
+      {
+        "term": {
+          "en": "Tukang karut",
+          "bm": "Tukang karut"
+        },
+        "definition": {
+          "en": "The singer in dikir barat who improvises witty verses.",
+          "bm": "Penyanyi dalam dikir barat yang mencipta pantun spontan secara jenaka."
+        }
+      },
+      {
+        "term": {
+          "en": "Tok juara",
+          "bm": "Tok juara"
+        },
+        "definition": {
+          "en": "The lead singer of a dikir barat group.",
+          "bm": "Penyanyi utama kumpulan dikir barat."
+        }
+      },
+      {
+        "term": {
+          "en": "Mak Yong",
+          "bm": "Mak Yong"
+        },
+        "definition": {
+          "en": "Kelantanese dance-drama with singing, acting and music (rebab, gendang, gong).",
+          "bm": "Teater tari Kelantan dengan nyanyian, lakonan dan muzik (rebab, gendang, gong)."
+        }
+      },
+      {
+        "term": {
+          "en": "Oral tradition",
+          "bm": "Tradisi lisan"
+        },
+        "definition": {
+          "en": "Music passed down by listening and imitation rather than notation.",
+          "bm": "Muzik yang diwarisi melalui pendengaran dan peniruan, bukan notasi."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "At a Malay wedding, a group plays frame drums in interlocking patterns while the groom arrives. Which ensemble is it?",
+        "bm": "Di majlis perkahwinan Melayu, satu kumpulan memalu gendang bingkai dengan corak berjalin semasa pengantin lelaki tiba. Ensembel apakah ini?"
+      },
+      "steps": [
+        {
+          "en": "Frame drums with stretched skin → membranophones.",
+          "bm": "Gendang bingkai berkulit regang → membranofon."
+        },
+        {
+          "en": "Used to welcome the groom in a procession.",
+          "bm": "Digunakan untuk menyambut pengantin dalam perarakan."
+        }
+      ],
+      "answer": {
+        "en": "Kompang.",
+        "bm": "Kompang."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3muzik-04-q01",
+      "subtopicId": "f3muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The caklempong ensemble is associated with…",
+        "bm": "Ensembel caklempong dikaitkan dengan…"
+      },
+      "explanation": {
+        "en": "It reflects Minangkabau heritage.",
+        "bm": "Ia mencerminkan warisan Minangkabau."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Negeri Sembilan",
+          "bm": "Negeri Sembilan"
+        },
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q02",
+      "subtopicId": "f3muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Malay gamelan developed in the royal courts of…",
+        "bm": "Gamelan Melayu berkembang di istana…"
+      },
+      "explanation": {
+        "en": "It is also linked to Pahang.",
+        "bm": "Ia juga dikaitkan dengan Pahang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Terengganu",
+          "bm": "Terengganu"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Penang",
+          "bm": "Pulau Pinang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q03",
+      "subtopicId": "f3muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The kompang is MOST often played at…",
+        "bm": "Kompang PALING kerap dimainkan semasa…"
+      },
+      "explanation": {
+        "en": "Players create interlocking rhythms.",
+        "bm": "Pemain menghasilkan rentak berjalin."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "weddings and welcoming ceremonies",
+          "bm": "majlis perkahwinan dan sambutan"
+        },
+        {
+          "en": "funerals only",
+          "bm": "pengebumian sahaja"
+        },
+        {
+          "en": "football matches only",
+          "bm": "perlawanan bola sepak sahaja"
+        },
+        {
+          "en": "classical concerts only",
+          "bm": "konsert klasik sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q04",
+      "subtopicId": "f3muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The kulintangan, a row of small gongs, is found mainly in…",
+        "bm": "Kulintangan, deretan gong kecil, terdapat terutamanya di…"
+      },
+      "explanation": {
+        "en": "It is played in many Sabahan communities.",
+        "bm": "Ia dimainkan oleh banyak masyarakat di Sabah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Kedah",
+          "bm": "Kedah"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        },
+        {
+          "en": "Selangor",
+          "bm": "Selangor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q05",
+      "subtopicId": "f3muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The sape is a traditional instrument of the…",
+        "bm": "Sape ialah alat muzik tradisional masyarakat…"
+      },
+      "explanation": {
+        "en": "Its melodies are often calm and repetitive.",
+        "bm": "Melodinya sering tenang dan berulang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Orang Ulu of Sarawak",
+          "bm": "Orang Ulu di Sarawak"
+        },
+        {
+          "en": "Minangkabau of Negeri Sembilan",
+          "bm": "Minangkabau di Negeri Sembilan"
+        },
+        {
+          "en": "Baba Nyonya of Melaka",
+          "bm": "Baba Nyonya di Melaka"
+        },
+        {
+          "en": "Malays of Kedah",
+          "bm": "Melayu di Kedah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q06",
+      "subtopicId": "f3muzik-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The bamboo mouth organ from Sabah is called the ______.",
+        "bm": "Organ mulut buluh dari Sabah dipanggil ______."
+      },
+      "explanation": {
+        "en": "It uses a dried gourd as an air chamber.",
+        "bm": "Ia menggunakan labu kering sebagai ruang udara."
+      },
+      "difficulty": 1,
+      "answer": [
+        "sompoton"
+      ]
+    },
+    {
+      "id": "f3muzik-04-q07",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dikir barat comes from…",
+        "bm": "Dikir barat berasal dari…"
+      },
+      "explanation": {
+        "en": "It is performed by a seated group with clapping and actions.",
+        "bm": "Ia dipersembahkan oleh kumpulan yang duduk sambil bertepuk dan beraksi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        },
+        {
+          "en": "Negeri Sembilan",
+          "bm": "Negeri Sembilan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q08",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mak Yong is a traditional…",
+        "bm": "Mak Yong ialah…"
+      },
+      "explanation": {
+        "en": "It is recognised by UNESCO as intangible cultural heritage.",
+        "bm": "Ia diiktiraf oleh UNESCO sebagai warisan budaya tidak ketara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dance-drama from Kelantan",
+          "bm": "teater tari dari Kelantan"
+        },
+        {
+          "en": "kite festival",
+          "bm": "pesta wau"
+        },
+        {
+          "en": "type of drum",
+          "bm": "sejenis gendang"
+        },
+        {
+          "en": "wedding food",
+          "bm": "makanan perkahwinan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q09",
+      "subtopicId": "f3muzik-04-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each ensemble or instrument with its state.",
+        "bm": "Padankan ensembel atau alat muzik dengan negerinya."
+      },
+      "explanation": {
+        "en": "Music reflects local cultures.",
+        "bm": "Muzik mencerminkan budaya setempat."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Caklempong",
+            "bm": "Caklempong"
+          },
+          "right": {
+            "en": "Negeri Sembilan",
+            "bm": "Negeri Sembilan"
+          }
+        },
+        {
+          "left": {
+            "en": "Sape",
+            "bm": "Sape"
+          },
+          "right": {
+            "en": "Sarawak",
+            "bm": "Sarawak"
+          }
+        },
+        {
+          "left": {
+            "en": "Kulintangan",
+            "bm": "Kulintangan"
+          },
+          "right": {
+            "en": "Sabah",
+            "bm": "Sabah"
+          }
+        },
+        {
+          "left": {
+            "en": "Dikir barat",
+            "bm": "Dikir barat"
+          },
+          "right": {
+            "en": "Kelantan",
+            "bm": "Kelantan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-04-q10",
+      "subtopicId": "f3muzik-04-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL instruments usually found in a Malay gamelan.",
+        "bm": "Pilih SEMUA alat muzik yang lazim dalam gamelan Melayu."
+      },
+      "explanation": {
+        "en": "Sape belongs to Sarawak.",
+        "bm": "Sape milik Sarawak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Gong",
+          "bm": "Gong"
+        },
+        {
+          "en": "Saron",
+          "bm": "Saron"
+        },
+        {
+          "en": "Gendang",
+          "bm": "Gendang"
+        },
+        {
+          "en": "Sape",
+          "bm": "Sape"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3muzik-04-q11",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In dikir barat, the singer who improvises witty verses is the…",
+        "bm": "Dalam dikir barat, penyanyi yang mencipta pantun jenaka secara spontan ialah…"
+      },
+      "explanation": {
+        "en": "Tok juara leads; awok-awok is the chorus.",
+        "bm": "Tok juara mengetuai; awok-awok ialah korus."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tukang karut",
+          "bm": "tukang karut"
+        },
+        {
+          "en": "tok juara",
+          "bm": "tok juara"
+        },
+        {
+          "en": "pak yong",
+          "bm": "pak yong"
+        },
+        {
+          "en": "dalang",
+          "bm": "dalang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q12",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which instrument is a key melodic instrument in Mak Yong?",
+        "bm": "Alat muzik manakah menjadi alat melodi utama dalam Mak Yong?"
+      },
+      "explanation": {
+        "en": "The rebab is a bowed string instrument.",
+        "bm": "Rebab ialah alat bertali yang digesek."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rebab",
+          "bm": "Rebab"
+        },
+        {
+          "en": "Sape",
+          "bm": "Sape"
+        },
+        {
+          "en": "Sompoton",
+          "bm": "Sompoton"
+        },
+        {
+          "en": "Angklung",
+          "bm": "Angklung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q13",
+      "subtopicId": "f3muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Most traditional Malaysian music was passed down through…",
+        "bm": "Kebanyakan muzik tradisional Malaysia diwarisi melalui…"
+      },
+      "explanation": {
+        "en": "Teachers demonstrate and students copy.",
+        "bm": "Guru menunjuk cara dan murid meniru."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "oral tradition — listening and imitating",
+          "bm": "tradisi lisan — mendengar dan meniru"
+        },
+        {
+          "en": "printed scores only",
+          "bm": "skor bercetak sahaja"
+        },
+        {
+          "en": "the internet",
+          "bm": "internet"
+        },
+        {
+          "en": "radio only",
+          "bm": "radio sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q14",
+      "subtopicId": "f3muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The caklempong mainly uses…",
+        "bm": "Caklempong terutamanya menggunakan…"
+      },
+      "explanation": {
+        "en": "Different gongs play melody and accompaniment.",
+        "bm": "Gong berbeza memainkan melodi dan iringan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "small bronze gongs (idiophones)",
+          "bm": "gong gangsa kecil (idiofon)"
+        },
+        {
+          "en": "bowed strings",
+          "bm": "tali yang digesek"
+        },
+        {
+          "en": "bamboo flutes",
+          "bm": "seruling buluh"
+        },
+        {
+          "en": "electric keyboards",
+          "bm": "papan kekunci elektrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q15",
+      "subtopicId": "f3muzik-04-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps a kompang group usually follows in a wedding procession.",
+        "bm": "Susun langkah yang biasanya diikuti kumpulan kompang dalam perarakan perkahwinan."
+      },
+      "explanation": {
+        "en": "Coordination is key in kompang.",
+        "bm": "Penyelarasan amat penting dalam kompang."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Gather and tune the skins",
+          "bm": "Berkumpul dan menegangkan kulit"
+        },
+        {
+          "en": "Start the basic rhythm together",
+          "bm": "Mulakan rentak asas bersama"
+        },
+        {
+          "en": "Add interlocking patterns while walking",
+          "bm": "Tambah corak berjalin sambil berjalan"
+        },
+        {
+          "en": "End together when the couple is seated",
+          "bm": "Tamatkan serentak apabila pengantin duduk"
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-04-q16",
+      "subtopicId": "f3muzik-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The chorus in dikir barat is called the ______.",
+        "bm": "Korus dalam dikir barat dipanggil ______."
+      },
+      "explanation": {
+        "en": "They respond with clapping and body movements.",
+        "bm": "Mereka membalas dengan tepukan dan gerakan badan."
+      },
+      "difficulty": 2,
+      "answer": [
+        "awok-awok",
+        "awok awok"
+      ]
+    },
+    {
+      "id": "f3muzik-04-q17",
+      "subtopicId": "f3muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do many traditional ensembles use interlocking or repeated patterns?",
+        "bm": "Mengapakah banyak ensembel tradisional menggunakan corak berjalin atau berulang?"
+      },
+      "explanation": {
+        "en": "This reflects community and cooperation.",
+        "bm": "Ini mencerminkan semangat kemasyarakatan dan kerjasama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Players share the music, so each part depends on the others to make the whole",
+          "bm": "Pemain berkongsi muzik, jadi setiap bahagian bergantung pada yang lain untuk membentuk keseluruhan"
+        },
+        {
+          "en": "They forgot the melody",
+          "bm": "Mereka terlupa melodi"
+        },
+        {
+          "en": "Repetition is not musical",
+          "bm": "Pengulangan bukan muzik"
+        },
+        {
+          "en": "To finish faster",
+          "bm": "Supaya cepat tamat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q18",
+      "subtopicId": "f3muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the BEST way for a school to preserve traditional music?",
+        "bm": "Apakah cara PALING baik untuk sekolah memelihara muzik tradisional?"
+      },
+      "explanation": {
+        "en": "Living traditions need performers and audiences.",
+        "bm": "Tradisi yang hidup memerlukan pemain dan penonton."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Form ensembles, invite master musicians and record performances",
+          "bm": "Menubuhkan ensembel, menjemput pemuzik mahir dan merakam persembahan"
+        },
+        {
+          "en": "Ban modern music",
+          "bm": "Mengharamkan muzik moden"
+        },
+        {
+          "en": "Only read about it",
+          "bm": "Hanya membaca tentangnya"
+        },
+        {
+          "en": "Wait for others to do it",
+          "bm": "Menunggu orang lain melakukannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q19",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is Mak Yong's UNESCO recognition important?",
+        "bm": "Mengapakah pengiktirafan UNESCO terhadap Mak Yong penting?"
+      },
+      "explanation": {
+        "en": "Recognition encourages documentation and teaching.",
+        "bm": "Pengiktirafan menggalakkan dokumentasi dan pengajaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It highlights the need to safeguard a rare art form for future generations",
+          "bm": "Ia menonjolkan keperluan memelihara seni yang jarang ditemui untuk generasi akan datang"
+        },
+        {
+          "en": "It makes Mak Yong illegal",
+          "bm": "Ia menjadikan Mak Yong haram"
+        },
+        {
+          "en": "It replaces local performers",
+          "bm": "Ia menggantikan pemain tempatan"
+        },
+        {
+          "en": "It has no effect",
+          "bm": "Ia tiada kesan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-04-q20",
+      "subtopicId": "f3muzik-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A composer mixes sape melodies with modern electronic beats. This shows…",
+        "bm": "Seorang komposer menggabungkan melodi sape dengan rentak elektronik moden. Ini menunjukkan…"
+      },
+      "explanation": {
+        "en": "Fusion can introduce heritage to young listeners.",
+        "bm": "Gabungan boleh memperkenalkan warisan kepada pendengar muda."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "fusion — traditional music adapting to new audiences",
+          "bm": "gabungan (fusion) — muzik tradisional menyesuaikan diri dengan khalayak baharu"
+        },
+        {
+          "en": "the sape is an electrophone",
+          "bm": "sape ialah elektrofon"
+        },
+        {
+          "en": "tradition is lost",
+          "bm": "tradisi hilang"
+        },
+        {
+          "en": "electronic music is banned",
+          "bm": "muzik elektronik diharamkan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

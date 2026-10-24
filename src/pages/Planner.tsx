@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom'
 import { ConfidenceSection, DatesSection, TimeSection, type Draft } from '../components/PlanSettingsForm'
 import TaskCard from '../components/TaskCard'
 import { Empty, PageHeader, Segmented, Sheet, toast } from '../components/ui'
-import { SUBJECTS, subjectById } from '../content'
+import { subjectById, subjectsOf } from '../content'
+import { useForm } from '../components/FormSwitch'
 import type { SubjectId } from '../content/schema'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -150,6 +151,7 @@ function ClassProgress() {
   const { t, L } = useT()
   const { settings, update } = useSettings()
   const today = useToday()
+  const form = useForm()
   const set = async (sid: SubjectId, chapterId: string) => {
     const currentChapters = { ...settings.currentChapters }
     if (chapterId) currentChapters[sid] = { chapterId, since: today }
@@ -161,7 +163,7 @@ function ClassProgress() {
   return (
     <section className="card space-y-2">
       <h2 className="font-bold">🏫 {t('planner.atSchool')}</h2>
-      {SUBJECTS.map((s) => (
+      {subjectsOf(form).map((s) => (
         <label key={s.id} className="flex items-center gap-2">
           <span className="w-24 shrink-0 text-sm font-semibold" style={{ color: s.color }}>{L(s.name)}</span>
           <select className="input !min-h-10 text-sm" value={settings.currentChapters[s.id]?.chapterId ?? ''} onChange={(e) => set(s.id, e.target.value)}>

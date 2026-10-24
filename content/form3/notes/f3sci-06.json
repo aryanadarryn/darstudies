@@ -1,0 +1,66 @@
+{
+  "chapterId": "f3sci-06",
+  "reviewed": false,
+  "subtopics": {
+    "f3sci-06-01": {
+      "keyPoints": [
+        {
+          "en": "Generators use electromagnetic induction; turbines are turned by steam, water or wind.",
+          "bm": "Penjana menggunakan aruhan elektromagnet; turbin diputar oleh stim, air atau angin."
+        },
+        {
+          "en": "Sources: renewable (solar, hydro, wind, biomass) and non-renewable (coal, gas, oil, nuclear fuel).",
+          "bm": "Sumber: boleh diperbaharui (suria, hidro, angin, biojisim) dan tidak boleh diperbaharui (arang batu, gas, minyak, bahan api nuklear)."
+        }
+      ]
+    },
+    "f3sci-06-02": {
+      "keyPoints": [
+        {
+          "en": "Transformer: primary coil, secondary coil, soft-iron core; works with a.c. only.",
+          "bm": "Transformer: gegelung primer, gegelung sekunder, teras besi lembut; berfungsi dengan a.u. sahaja."
+        },
+        {
+          "en": "Vs/Vp = Ns/Np. Step-up: Ns > Np. Step-down: Ns < Np.",
+          "bm": "Vs/Vp = Ns/Np. Injak naik: Ns > Np. Injak turun: Ns < Np."
+        }
+      ]
+    },
+    "f3sci-06-03": {
+      "keyPoints": [
+        {
+          "en": "Transmit at high voltage (lower current) to reduce heat loss; step down at substations.",
+          "bm": "Hantar pada voltan tinggi (arus lebih rendah) untuk mengurangkan kehilangan haba; turunkan di pencawang."
+        },
+        {
+          "en": "Homes get 240 V. Wires: live (brown), neutral (blue), earth (green-yellow).",
+          "bm": "Rumah menerima 240 V. Wayar: hidup (perang), neutral (biru), bumi (hijau-kuning)."
+        },
+        {
+          "en": "Safety: fuse, MCB, earth wire, residual-current device; never overload sockets.",
+          "bm": "Keselamatan: fius, MCB, wayar bumi, peranti arus baki; jangan bebankan soket."
+        }
+      ]
+    },
+    "f3sci-06-04": {
+      "keyPoints": [
+        {
+          "en": "P = VI; choose a fuse rated just above the normal current.",
+          "bm": "P = VI; pilih fius berkadar sedikit melebihi arus biasa."
+        },
+        {
+          "en": "E = Pt; with P in kW and t in hours, E is in kWh.",
+          "bm": "E = Pt; dengan P dalam kW dan t dalam jam, E dalam kWj."
+        },
+        {
+          "en": "Cost = kWh × rate. Save energy: switch off, use efficient appliances.",
+          "bm": "Kos = kWj × kadar. Jimat tenaga: tutup suis, guna perkakas cekap."
+        }
+      ],
+      "tip": {
+        "en": "Convert W to kW (÷ 1000) and minutes to hours (÷ 60) before calculating kWh.",
+        "bm": "Tukar W kepada kW (÷ 1000) dan minit kepada jam (÷ 60) sebelum mengira kWj."
+      }
+    }
+  }
+}

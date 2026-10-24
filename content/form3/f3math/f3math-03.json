@@ -1,0 +1,743 @@
+{
+  "chapterId": "f3math-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two friends save RM100 a month. One keeps it in a drawer; the other earns compound interest. After 10 years the second friend has noticeably more — without saving a single extra ringgit.",
+      "bm": "Dua sahabat menyimpan RM100 sebulan. Seorang menyimpan dalam laci; seorang lagi mendapat faedah kompaun. Selepas 10 tahun, sahabat kedua mempunyai jauh lebih banyak — tanpa menyimpan seringgit tambahan pun."
+    },
+    "bigIdeas": [
+      {
+        "en": "Savings earn interest: simple interest I = Prt, or compound interest MV = P(1 + r/n)ⁿᵗ.",
+        "bm": "Simpanan memperoleh faedah: faedah mudah I = Prt, atau faedah kompaun MV = P(1 + r/n)ⁿᵗ."
+      },
+      {
+        "en": "Investments (shares, unit trusts, property) can earn more but carry risk; compare return, risk and liquidity.",
+        "bm": "Pelaburan (saham, amanah saham, hartanah) boleh memberi pulangan lebih tinggi tetapi berisiko; bandingkan pulangan, risiko dan kecairan."
+      },
+      {
+        "en": "Credit and loans cost money (interest); use them wisely and pay on time.",
+        "bm": "Kredit dan pinjaman ada kosnya (faedah); gunakan dengan bijak dan bayar tepat pada masanya."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Return",
+            "bm": "Pulangan"
+          },
+          {
+            "en": "Risk",
+            "bm": "Risiko"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Savings account",
+              "bm": "Akaun simpanan"
+            },
+            "cells": [
+              {
+                "en": "Low interest",
+                "bm": "Faedah rendah"
+              },
+              {
+                "en": "Very low",
+                "bm": "Sangat rendah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Fixed deposit",
+              "bm": "Simpanan tetap"
+            },
+            "cells": [
+              {
+                "en": "Higher fixed interest",
+                "bm": "Faedah tetap lebih tinggi"
+              },
+              {
+                "en": "Low",
+                "bm": "Rendah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Unit trust",
+              "bm": "Amanah saham"
+            },
+            "cells": [
+              {
+                "en": "Dividends, unit price changes",
+                "bm": "Dividen, harga unit berubah"
+              },
+              {
+                "en": "Medium",
+                "bm": "Sederhana"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Shares",
+              "bm": "Saham"
+            },
+            "cells": [
+              {
+                "en": "Dividends + capital gain",
+                "bm": "Dividen + keuntungan modal"
+              },
+              {
+                "en": "High",
+                "bm": "Tinggi"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Property",
+              "bm": "Hartanah"
+            },
+            "cells": [
+              {
+                "en": "Rent + capital gain",
+                "bm": "Sewa + keuntungan modal"
+              },
+              {
+                "en": "Medium–high; low liquidity",
+                "bm": "Sederhana–tinggi; kecairan rendah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Principal (P)",
+          "bm": "Prinsipal (P)"
+        },
+        "definition": {
+          "en": "The original amount saved or borrowed.",
+          "bm": "Jumlah asal yang disimpan atau dipinjam."
+        }
+      },
+      {
+        "term": {
+          "en": "Simple interest",
+          "bm": "Faedah mudah"
+        },
+        "definition": {
+          "en": "Interest on the principal only: I = Prt.",
+          "bm": "Faedah atas prinsipal sahaja: I = Prt."
+        }
+      },
+      {
+        "term": {
+          "en": "Compound interest",
+          "bm": "Faedah kompaun"
+        },
+        "definition": {
+          "en": "Interest also earned on earlier interest.",
+          "bm": "Faedah turut diperoleh atas faedah terdahulu."
+        }
+      },
+      {
+        "term": {
+          "en": "Return on investment (ROI)",
+          "bm": "Pulangan pelaburan (ROI)"
+        },
+        "definition": {
+          "en": "Total return ÷ initial investment × 100%.",
+          "bm": "Jumlah pulangan ÷ pelaburan awal × 100%."
+        }
+      },
+      {
+        "term": {
+          "en": "Liquidity",
+          "bm": "Kecairan"
+        },
+        "definition": {
+          "en": "How quickly an asset can be turned into cash.",
+          "bm": "Seberapa cepat aset boleh ditukar kepada tunai."
+        }
+      },
+      {
+        "term": {
+          "en": "Flat interest rate",
+          "bm": "Kadar faedah sama rata"
+        },
+        "definition": {
+          "en": "Loan interest calculated on the original principal for the whole period.",
+          "bm": "Faedah pinjaman dikira atas prinsipal asal bagi seluruh tempoh."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-si",
+      "f3-ci",
+      "f3-roi",
+      "f3-loan"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "RM5000 is saved at 4% per annum, compounded every 6 months. Find the amount after 2 years.",
+        "bm": "RM5000 disimpan pada kadar 4% setahun, dikompaun setiap 6 bulan. Cari jumlahnya selepas 2 tahun."
+      },
+      "steps": [
+        {
+          "en": "P = 5000, r = 0.04, n = 2 (twice a year), t = 2.",
+          "bm": "P = 5000, r = 0.04, n = 2 (dua kali setahun), t = 2."
+        },
+        {
+          "en": "MV = 5000(1 + 0.04/2)^(2×2) = 5000(1.02)⁴.",
+          "bm": "MV = 5000(1 + 0.04/2)^(2×2) = 5000(1.02)⁴."
+        },
+        {
+          "en": "= RM5412.16",
+          "bm": "= RM5412.16"
+        }
+      ],
+      "answer": {
+        "en": "RM5412.16",
+        "bm": "RM5412.16"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-03-q01",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "RM2000 is saved at 4% simple interest per annum for 3 years. Find the interest (RM).",
+        "bm": "RM2000 disimpan pada kadar faedah mudah 4% setahun selama 3 tahun. Cari faedahnya (RM)."
+      },
+      "explanation": {
+        "en": "I = Prt = 2000 × 0.04 × 3 = RM240.",
+        "bm": "I = Prt = 2000 × 0.04 × 3 = RM240."
+      },
+      "difficulty": 1,
+      "answer": 240,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q02",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "RM5000 earns 5% per annum compounded annually. Find the amount after 2 years (RM).",
+        "bm": "RM5000 memperoleh 5% setahun dikompaun setiap tahun. Cari jumlah selepas 2 tahun (RM)."
+      },
+      "explanation": {
+        "en": "MV = 5000(1.05)² = RM5512.50.",
+        "bm": "MV = 5000(1.05)² = RM5512.50."
+      },
+      "difficulty": 1,
+      "answer": 5512.5,
+      "tolerance": 0.0005,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q03",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which account usually lets you write cheques?",
+        "bm": "Akaun manakah biasanya membolehkan anda menulis cek?"
+      },
+      "explanation": {
+        "en": "A current account is for frequent transactions and cheques.",
+        "bm": "Akaun semasa untuk transaksi kerap dan cek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Current account",
+          "bm": "Akaun semasa"
+        },
+        {
+          "en": "Fixed deposit",
+          "bm": "Simpanan tetap"
+        },
+        {
+          "en": "Unit trust",
+          "bm": "Amanah saham"
+        },
+        {
+          "en": "Shares",
+          "bm": "Saham"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q04",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dividends are mainly earned by owning…",
+        "bm": "Dividen terutamanya diperoleh dengan memiliki…"
+      },
+      "explanation": {
+        "en": "A dividend is a share of profits paid to investors.",
+        "bm": "Dividen ialah bahagian keuntungan yang dibayar kepada pelabur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shares or unit trusts",
+          "bm": "saham atau amanah saham"
+        },
+        {
+          "en": "a credit card",
+          "bm": "kad kredit"
+        },
+        {
+          "en": "a personal loan",
+          "bm": "pinjaman peribadi"
+        },
+        {
+          "en": "a current account only",
+          "bm": "akaun semasa sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q05",
+      "subtopicId": "f3math-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "In general, investments with a higher potential return also carry a higher ______.",
+        "bm": "Secara umum, pelaburan dengan potensi pulangan lebih tinggi juga membawa ______ yang lebih tinggi."
+      },
+      "explanation": {
+        "en": "Higher return usually means higher risk.",
+        "bm": "Pulangan lebih tinggi biasanya bermaksud risiko lebih tinggi."
+      },
+      "difficulty": 1,
+      "answer": [
+        "risk",
+        "risiko"
+      ]
+    },
+    {
+      "id": "f3math-03-q06",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Liquidity\" of an investment means…",
+        "bm": "\"Kecairan\" sesuatu pelaburan bermaksud…"
+      },
+      "explanation": {
+        "en": "Savings are very liquid; property is not.",
+        "bm": "Simpanan sangat cair; hartanah tidak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "how easily it can be turned into cash",
+          "bm": "betapa mudah ia ditukar kepada tunai"
+        },
+        {
+          "en": "how much profit it makes",
+          "bm": "berapa banyak untungnya"
+        },
+        {
+          "en": "how risky it is",
+          "bm": "betapa berisikonya"
+        },
+        {
+          "en": "how old it is",
+          "bm": "berapa lama usianya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q07",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rental income is a return from investing in…",
+        "bm": "Pendapatan sewa ialah pulangan daripada pelaburan dalam…"
+      },
+      "explanation": {
+        "en": "Property can give rent and capital gain.",
+        "bm": "Hartanah boleh memberi sewa dan keuntungan modal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "property",
+          "bm": "hartanah"
+        },
+        {
+          "en": "fixed deposits",
+          "bm": "simpanan tetap"
+        },
+        {
+          "en": "credit cards",
+          "bm": "kad kredit"
+        },
+        {
+          "en": "current accounts",
+          "bm": "akaun semasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q08",
+      "subtopicId": "f3math-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "When is interest charged on a credit card balance?",
+        "bm": "Bilakah faedah dikenakan atas baki kad kredit?"
+      },
+      "explanation": {
+        "en": "Paying the full statement balance on time avoids finance charges on purchases.",
+        "bm": "Membayar baki penyata sepenuhnya tepat pada masa mengelakkan caj kewangan atas pembelian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "When the balance is not paid in full by the due date",
+          "bm": "Apabila baki tidak dijelaskan sepenuhnya sebelum tarikh akhir"
+        },
+        {
+          "en": "Every time you use the card, always",
+          "bm": "Setiap kali kad digunakan, sentiasa"
+        },
+        {
+          "en": "Never",
+          "bm": "Tidak pernah"
+        },
+        {
+          "en": "Only when you pay in full",
+          "bm": "Hanya apabila dibayar penuh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q09",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "RM10 000 earns 6% per annum compounded monthly. Find the amount after 1 year (RM, 2 d.p.).",
+        "bm": "RM10 000 memperoleh 6% setahun dikompaun setiap bulan. Cari jumlah selepas 1 tahun (RM, 2 t.p.)."
+      },
+      "explanation": {
+        "en": "MV = 10 000(1 + 0.06/12)¹² = 10 000(1.005)¹² = RM10616.78.",
+        "bm": "MV = 10 000(1 + 0.06/12)¹² = 10 000(1.005)¹² = RM10616.78."
+      },
+      "difficulty": 2,
+      "answer": 10616.78,
+      "tolerance": 0.0005,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q10",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Aina buys shares for RM5000, receives RM300 in dividends and later sells them for RM5600. Find her return on investment (%).",
+        "bm": "Aina membeli saham bernilai RM5000, menerima dividen RM300 dan kemudian menjualnya pada harga RM5600. Cari pulangan pelaburannya (%)."
+      },
+      "explanation": {
+        "en": "Total return = 300 + (5600 − 5000) = RM900. ROI = 900/5000 × 100% = 18%.",
+        "bm": "Jumlah pulangan = 300 + (5600 − 5000) = RM900. ROI = 900/5000 × 100% = 18%."
+      },
+      "difficulty": 2,
+      "answer": 18,
+      "tolerance": 0,
+      "unit": "%"
+    },
+    {
+      "id": "f3math-03-q11",
+      "subtopicId": "f3math-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A personal loan of RM20 000 has a flat interest rate of 5% per annum for 5 years. Find the monthly instalment (RM, 2 d.p.).",
+        "bm": "Pinjaman peribadi RM20 000 dikenakan kadar faedah sama rata 5% setahun selama 5 tahun. Cari ansuran bulanan (RM, 2 t.p.)."
+      },
+      "explanation": {
+        "en": "Total = 20 000 + 20 000 × 0.05 × 5 = RM25000. Monthly = 25000 ÷ 60 = RM416.67.",
+        "bm": "Jumlah = 20 000 + 20 000 × 0.05 × 5 = RM25000. Bulanan = 25000 ÷ 60 = RM416.67."
+      },
+      "difficulty": 2,
+      "answer": 416.67,
+      "tolerance": 0.001,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q12",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "For the same rate and time, which compounding gives the MOST interest?",
+        "bm": "Bagi kadar dan masa yang sama, pengkompaunan manakah memberi faedah PALING banyak?"
+      },
+      "explanation": {
+        "en": "More frequent compounding adds interest to the balance sooner.",
+        "bm": "Pengkompaunan lebih kerap menambah faedah ke baki lebih awal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Monthly",
+          "bm": "Bulanan"
+        },
+        {
+          "en": "Quarterly",
+          "bm": "Suku tahunan"
+        },
+        {
+          "en": "Every 6 months",
+          "bm": "Setiap 6 bulan"
+        },
+        {
+          "en": "Yearly",
+          "bm": "Tahunan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q13",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "RM4000 earns simple interest of 3% per annum for 6 months. Find the interest (RM).",
+        "bm": "RM4000 memperoleh faedah mudah 3% setahun selama 6 bulan. Cari faedahnya (RM)."
+      },
+      "explanation": {
+        "en": "t = 6/12 = 0.5 year. I = 4000 × 0.03 × 0.5 = RM60.",
+        "bm": "t = 6/12 = 0.5 tahun. I = 4000 × 0.03 × 0.5 = RM60."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q14",
+      "subtopicId": "f3math-03-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of a fixed deposit.",
+        "bm": "Pilih SEMUA ciri simpanan tetap."
+      },
+      "explanation": {
+        "en": "Cheques come from current accounts.",
+        "bm": "Cek datang daripada akaun semasa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Money is kept for a fixed period",
+          "bm": "Wang disimpan untuk tempoh tetap"
+        },
+        {
+          "en": "Usually higher interest than a savings account",
+          "bm": "Biasanya faedah lebih tinggi daripada akaun simpanan"
+        },
+        {
+          "en": "Withdrawing early may lose some interest",
+          "bm": "Pengeluaran awal mungkin kehilangan sebahagian faedah"
+        },
+        {
+          "en": "You can write cheques from it",
+          "bm": "Anda boleh menulis cek daripadanya"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3math-03-q15",
+      "subtopicId": "f3math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A unit trust fund is…",
+        "bm": "Dana amanah saham ialah…"
+      },
+      "explanation": {
+        "en": "Pooling spreads risk across many investments.",
+        "bm": "Pengumpulan dana menyebarkan risiko ke banyak pelaburan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "money pooled from many investors and managed by professional fund managers",
+          "bm": "wang yang dikumpul daripada ramai pelabur dan diurus oleh pengurus dana profesional"
+        },
+        {
+          "en": "a type of loan",
+          "bm": "sejenis pinjaman"
+        },
+        {
+          "en": "a government tax",
+          "bm": "cukai kerajaan"
+        },
+        {
+          "en": "a current account",
+          "bm": "akaun semasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-03-q16",
+      "subtopicId": "f3math-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its meaning.",
+        "bm": "Padankan istilah dengan maksudnya."
+      },
+      "explanation": {
+        "en": "These terms appear in savings and investment questions.",
+        "bm": "Istilah ini muncul dalam soalan simpanan dan pelaburan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Dividend",
+            "bm": "Dividen"
+          },
+          "right": {
+            "en": "Share of a company's profit paid to investors",
+            "bm": "Bahagian keuntungan syarikat yang dibayar kepada pelabur"
+          }
+        },
+        {
+          "left": {
+            "en": "Capital gain",
+            "bm": "Keuntungan modal"
+          },
+          "right": {
+            "en": "Profit from selling at a higher price than bought",
+            "bm": "Untung daripada menjual pada harga lebih tinggi daripada harga beli"
+          }
+        },
+        {
+          "left": {
+            "en": "Principal",
+            "bm": "Prinsipal"
+          },
+          "right": {
+            "en": "The original amount saved or borrowed",
+            "bm": "Jumlah asal yang disimpan atau dipinjam"
+          }
+        },
+        {
+          "left": {
+            "en": "Maturity value",
+            "bm": "Nilai matang"
+          },
+          "right": {
+            "en": "Total amount at the end of the period",
+            "bm": "Jumlah keseluruhan pada akhir tempoh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-03-q17",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How much must be deposited now to get RM12 100 after 2 years at 10% per annum compounded annually? (RM)",
+        "bm": "Berapakah yang perlu disimpan sekarang untuk mendapat RM12 100 selepas 2 tahun pada 10% setahun dikompaun setiap tahun? (RM)"
+      },
+      "explanation": {
+        "en": "12 100 = P(1.1)² = 1.21P, so P = 12 100 ÷ 1.21 = RM10 000.",
+        "bm": "12 100 = P(1.1)² = 1.21P, jadi P = 12 100 ÷ 1.21 = RM10 000."
+      },
+      "difficulty": 3,
+      "answer": 10000,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q18",
+      "subtopicId": "f3math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Ravi invests RM300 every month in a unit trust. The unit prices in three months are RM1.00, RM1.50 and RM0.75. Find his average cost per unit (RM).",
+        "bm": "Ravi melabur RM300 setiap bulan dalam amanah saham. Harga unit dalam tiga bulan ialah RM1.00, RM1.50 dan RM0.75. Cari purata kos seunit (RM)."
+      },
+      "explanation": {
+        "en": "Units = 300 + 200 + 400 = 900. Average cost = RM900 ÷ 900 = RM1.00 (lower than the average price) — this is ringgit cost averaging.",
+        "bm": "Unit = 300 + 200 + 400 = 900. Purata kos = RM900 ÷ 900 = RM1.00 (lebih rendah daripada purata harga) — inilah purata kos ringgit."
+      },
+      "difficulty": 3,
+      "answer": 1,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q19",
+      "subtopicId": "f3math-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A credit card balance of RM3000 is not paid. The interest rate is 18% per annum. Estimate the interest for one month (RM).",
+        "bm": "Baki kad kredit RM3000 tidak dibayar. Kadar faedah ialah 18% setahun. Anggarkan faedah bagi satu bulan (RM)."
+      },
+      "explanation": {
+        "en": "Monthly rate = 18% ÷ 12 = 1.5%. 3000 × 0.015 = RM45.",
+        "bm": "Kadar bulanan = 18% ÷ 12 = 1.5%. 3000 × 0.015 = RM45."
+      },
+      "difficulty": 3,
+      "answer": 45,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3math-03-q20",
+      "subtopicId": "f3math-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the WISEST way to use a credit card?",
+        "bm": "Apakah cara PALING bijak menggunakan kad kredit?"
+      },
+      "explanation": {
+        "en": "Minimum payments leave a balance that keeps growing with interest.",
+        "bm": "Bayaran minimum meninggalkan baki yang terus bertambah dengan faedah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Spend only what you can repay and pay the full balance by the due date",
+          "bm": "Belanja hanya apa yang mampu dibayar dan jelaskan baki penuh sebelum tarikh akhir"
+        },
+        {
+          "en": "Pay only the minimum every month",
+          "bm": "Bayar minimum sahaja setiap bulan"
+        },
+        {
+          "en": "Use it to pay other debts",
+          "bm": "Gunakannya untuk membayar hutang lain"
+        },
+        {
+          "en": "Withdraw cash often",
+          "bm": "Kerap mengeluarkan tunai"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

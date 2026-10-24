@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3ask-02",
+  "cards": [
+    {
+      "id": "f3ask-02-f01",
+      "subtopicId": "f3ask-02-01",
+      "front": {
+        "en": "int / float",
+        "bm": "int / float"
+      },
+      "back": {
+        "en": "Whole number / decimal",
+        "bm": "Nombor bulat / perpuluhan"
+      }
+    },
+    {
+      "id": "f3ask-02-f02",
+      "subtopicId": "f3ask-02-01",
+      "front": {
+        "en": "str / bool",
+        "bm": "str / bool"
+      },
+      "back": {
+        "en": "Text in quotes / True or False",
+        "bm": "Teks dalam tanda petik / True atau False"
+      }
+    },
+    {
+      "id": "f3ask-02-f03",
+      "subtopicId": "f3ask-02-01",
+      "front": {
+        "en": "input()",
+        "bm": "input()"
+      },
+      "back": {
+        "en": "Always returns a string",
+        "bm": "Sentiasa memulangkan rentetan"
+      }
+    },
+    {
+      "id": "f3ask-02-f04",
+      "subtopicId": "f3ask-02-01",
+      "front": {
+        "en": "int(input())",
+        "bm": "int(input())"
+      },
+      "back": {
+        "en": "Read a whole number",
+        "bm": "Baca nombor bulat"
+      }
+    },
+    {
+      "id": "f3ask-02-f05",
+      "subtopicId": "f3ask-02-01",
+      "front": {
+        "en": "Variable names",
+        "bm": "Nama pemboleh ubah"
+      },
+      "back": {
+        "en": "Letters, digits, _; cannot start with a digit",
+        "bm": "Huruf, digit, _; tidak boleh bermula dengan digit"
+      }
+    },
+    {
+      "id": "f3ask-02-f06",
+      "subtopicId": "f3ask-02-02",
+      "front": {
+        "en": "17 // 5",
+        "bm": "17 // 5"
+      },
+      "back": {
+        "en": "3",
+        "bm": "3"
+      }
+    },
+    {
+      "id": "f3ask-02-f07",
+      "subtopicId": "f3ask-02-02",
+      "front": {
+        "en": "17 % 5",
+        "bm": "17 % 5"
+      },
+      "back": {
+        "en": "2",
+        "bm": "2"
+      }
+    },
+    {
+      "id": "f3ask-02-f08",
+      "subtopicId": "f3ask-02-02",
+      "front": {
+        "en": "2 ** 3",
+        "bm": "2 ** 3"
+      },
+      "back": {
+        "en": "8",
+        "bm": "8"
+      }
+    },
+    {
+      "id": "f3ask-02-f09",
+      "subtopicId": "f3ask-02-02",
+      "front": {
+        "en": "7 / 2",
+        "bm": "7 / 2"
+      },
+      "back": {
+        "en": "3.5",
+        "bm": "3.5"
+      }
+    },
+    {
+      "id": "f3ask-02-f10",
+      "subtopicId": "f3ask-02-02",
+      "front": {
+        "en": "== vs =",
+        "bm": "== vs ="
+      },
+      "back": {
+        "en": "Compare vs assign",
+        "bm": "Bandingkan vs umpukkan"
+      }
+    },
+    {
+      "id": "f3ask-02-f11",
+      "subtopicId": "f3ask-02-03",
+      "front": {
+        "en": "range(5)",
+        "bm": "range(5)"
+      },
+      "back": {
+        "en": "0, 1, 2, 3, 4",
+        "bm": "0, 1, 2, 3, 4"
+      }
+    },
+    {
+      "id": "f3ask-02-f12",
+      "subtopicId": "f3ask-02-03",
+      "front": {
+        "en": "range(1, 6)",
+        "bm": "range(1, 6)"
+      },
+      "back": {
+        "en": "1, 2, 3, 4, 5",
+        "bm": "1, 2, 3, 4, 5"
+      }
+    },
+    {
+      "id": "f3ask-02-f13",
+      "subtopicId": "f3ask-02-03",
+      "front": {
+        "en": "if / elif / else",
+        "bm": "if / elif / else"
+      },
+      "back": {
+        "en": "Selection; needs colons and indentation",
+        "bm": "Pilihan; perlukan titik bertindih dan inden"
+      }
+    },
+    {
+      "id": "f3ask-02-f14",
+      "subtopicId": "f3ask-02-03",
+      "front": {
+        "en": "while",
+        "bm": "while"
+      },
+      "back": {
+        "en": "Repeats while the condition is True",
+        "bm": "Berulang selagi syarat True"
+      }
+    },
+    {
+      "id": "f3ask-02-f15",
+      "subtopicId": "f3ask-02-03",
+      "front": {
+        "en": "Even number test",
+        "bm": "Ujian nombor genap"
+      },
+      "back": {
+        "en": "n % 2 == 0",
+        "bm": "n % 2 == 0"
+      }
+    }
+  ]
+}

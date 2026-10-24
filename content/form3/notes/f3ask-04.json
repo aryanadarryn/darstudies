@@ -1,0 +1,42 @@
+{
+  "chapterId": "f3ask-04",
+  "reviewed": false,
+  "subtopics": {
+    "f3ask-04-01": {
+      "keyPoints": [
+        {
+          "en": "<!DOCTYPE html> → <html> → <head> (<title>) → <body> (visible content).",
+          "bm": "<!DOCTYPE html> → <html> → <head> (<title>) → <body> (kandungan dipaparkan)."
+        },
+        {
+          "en": "Most tags come in pairs (<p>…</p>); <br> and <img> have no closing tag.",
+          "bm": "Kebanyakan tag berpasangan (<p>…</p>); <br> dan <img> tiada tag penutup."
+        }
+      ]
+    },
+    "f3ask-04-02": {
+      "keyPoints": [
+        {
+          "en": "<a href=\"…\">text</a>; <img src=\"…\" alt=\"…\">; <ul>/<ol> with <li>; <table> with <tr>, <th>, <td>.",
+          "bm": "<a href=\"…\">teks</a>; <img src=\"…\" alt=\"…\">; <ul>/<ol> dengan <li>; <table> dengan <tr>, <th>, <td>."
+        }
+      ],
+      "tip": {
+        "en": "Always add alt text to images.",
+        "bm": "Sentiasa tambah teks alt pada imej."
+      }
+    },
+    "f3ask-04-03": {
+      "keyPoints": [
+        {
+          "en": "selector { property: value; } — e.g. p { color: blue; font-size: 18px; }.",
+          "bm": "pemilih { sifat: nilai; } — cth. p { color: blue; font-size: 18px; }."
+        },
+        {
+          "en": ".class for groups, #id for one element. Inline, internal or external (best for big sites).",
+          "bm": ".class untuk kumpulan, #id untuk satu elemen. Sebaris, dalaman atau luaran (terbaik untuk laman besar)."
+        }
+      ]
+    }
+  }
+}

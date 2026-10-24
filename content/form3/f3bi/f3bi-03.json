@@ -1,0 +1,851 @@
+{
+  "chapterId": "f3bi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Look up\", \"look after\" and \"look forward to\" all start with \"look\" but mean completely different things. Learning words in chunks makes English sound natural.",
+      "bm": "\"Look up\", \"look after\" dan \"look forward to\" semuanya bermula dengan \"look\" tetapi maksudnya sangat berbeza. Mempelajari perkataan secara rangkai menjadikan bahasa Inggeris kedengaran asli."
+    },
+    "bigIdeas": [
+      {
+        "en": "A phrasal verb = verb + particle, often with a new meaning (give up = stop trying).",
+        "bm": "Phrasal verb = kata kerja + partikel, selalunya dengan maksud baharu (give up = berhenti mencuba)."
+      },
+      {
+        "en": "Collocations are natural word partners: make a mistake, do homework, heavy rain.",
+        "bm": "Kolokasi ialah pasangan perkataan yang lazim: make a mistake, do homework, heavy rain."
+      },
+      {
+        "en": "Prefixes change meaning (un-, dis-, re-); suffixes change word class (-ness, -ful, -ly, -tion).",
+        "bm": "Awalan mengubah maksud (un-, dis-, re-); akhiran mengubah golongan kata (-ness, -ful, -ly, -tion)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "un- / dis- / im-",
+              "bm": "un- / dis- / im-"
+            },
+            "cells": [
+              {
+                "en": "not",
+                "bm": "tidak"
+              },
+              {
+                "en": "unhappy, dislike, impossible",
+                "bm": "unhappy, dislike, impossible"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "re-",
+              "bm": "re-"
+            },
+            "cells": [
+              {
+                "en": "again",
+                "bm": "semula"
+              },
+              {
+                "en": "rewrite, replay",
+                "bm": "rewrite, replay"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "-ful / -less",
+              "bm": "-ful / -less"
+            },
+            "cells": [
+              {
+                "en": "full of / without",
+                "bm": "penuh / tanpa"
+              },
+              {
+                "en": "careful, careless",
+                "bm": "careful, careless"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "-ness / -tion",
+              "bm": "-ness / -tion"
+            },
+            "cells": [
+              {
+                "en": "makes a noun",
+                "bm": "membentuk kata nama"
+              },
+              {
+                "en": "kindness, education",
+                "bm": "kindness, education"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "-ly",
+              "bm": "-ly"
+            },
+            "cells": [
+              {
+                "en": "makes an adverb",
+                "bm": "membentuk kata keterangan"
+              },
+              {
+                "en": "quickly, happily",
+                "bm": "quickly, happily"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Phrasal verb",
+          "bm": "Phrasal verb"
+        },
+        "definition": {
+          "en": "Verb + adverb/preposition with its own meaning.",
+          "bm": "Kata kerja + adverba/kata sendi dengan maksud tersendiri."
+        }
+      },
+      {
+        "term": {
+          "en": "Collocation",
+          "bm": "Kolokasi"
+        },
+        "definition": {
+          "en": "Words that naturally go together.",
+          "bm": "Perkataan yang lazim digunakan bersama."
+        }
+      },
+      {
+        "term": {
+          "en": "Prefix",
+          "bm": "Awalan"
+        },
+        "definition": {
+          "en": "Added to the front of a word: un-, re-.",
+          "bm": "Ditambah di hadapan perkataan: un-, re-."
+        }
+      },
+      {
+        "term": {
+          "en": "Suffix",
+          "bm": "Akhiran"
+        },
+        "definition": {
+          "en": "Added to the end of a word: -ful, -ness.",
+          "bm": "Ditambah di hujung perkataan: -ful, -ness."
+        }
+      },
+      {
+        "term": {
+          "en": "Word family",
+          "bm": "Keluarga kata"
+        },
+        "definition": {
+          "en": "Related forms: success, succeed, successful, successfully.",
+          "bm": "Bentuk berkaitan: success, succeed, successful, successfully."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Complete with the correct word form: \"She answered the question ___.\" (confidence)",
+        "bm": "Lengkapkan dengan bentuk kata yang betul: \"She answered the question ___.\" (confidence)"
+      },
+      "steps": [
+        {
+          "en": "The gap describes how she answered → an adverb.",
+          "bm": "Ruang itu menerangkan cara dia menjawab → adverba."
+        },
+        {
+          "en": "confidence → confident (adjective) → confidently (adverb).",
+          "bm": "confidence → confident (adjektif) → confidently (adverba)."
+        }
+      ],
+      "answer": {
+        "en": "confidently",
+        "bm": "confidently"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bi-03-q01",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Don't ___ ! You can solve this problem.",
+        "bm": "Don't ___ ! You can solve this problem."
+      },
+      "explanation": {
+        "en": "\"Give up\" = stop trying.",
+        "bm": "\"Give up\" = berhenti mencuba."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "give up",
+          "bm": "give up"
+        },
+        {
+          "en": "give in to",
+          "bm": "give in to"
+        },
+        {
+          "en": "give out",
+          "bm": "give out"
+        },
+        {
+          "en": "give back",
+          "bm": "give back"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q02",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Can you ___ my cat while I am away?",
+        "bm": "Can you ___ my cat while I am away?"
+      },
+      "explanation": {
+        "en": "\"Look after\" = take care of.",
+        "bm": "\"Look after\" = menjaga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "look after",
+          "bm": "look after"
+        },
+        {
+          "en": "look up",
+          "bm": "look up"
+        },
+        {
+          "en": "look for",
+          "bm": "look for"
+        },
+        {
+          "en": "look out",
+          "bm": "look out"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q03",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If you don't know a word, ___ it ___ in the dictionary.",
+        "bm": "If you don't know a word, ___ it ___ in the dictionary."
+      },
+      "explanation": {
+        "en": "\"Look up\" = search for information.",
+        "bm": "\"Look up\" = mencari maklumat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "look … up",
+          "bm": "look … up"
+        },
+        {
+          "en": "look … after",
+          "bm": "look … after"
+        },
+        {
+          "en": "give … up",
+          "bm": "give … up"
+        },
+        {
+          "en": "turn … down",
+          "bm": "turn … down"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q04",
+      "subtopicId": "f3bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "I always ___ my homework after dinner.",
+        "bm": "I always ___ my homework after dinner."
+      },
+      "explanation": {
+        "en": "We say \"do homework\".",
+        "bm": "Kita sebut \"do homework\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "do",
+          "bm": "do"
+        },
+        {
+          "en": "make",
+          "bm": "make"
+        },
+        {
+          "en": "take",
+          "bm": "take"
+        },
+        {
+          "en": "have",
+          "bm": "have"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q05",
+      "subtopicId": "f3bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Everyone ___ mistakes sometimes.",
+        "bm": "Everyone ___ mistakes sometimes."
+      },
+      "explanation": {
+        "en": "We say \"make a mistake\".",
+        "bm": "Kita sebut \"make a mistake\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "makes",
+          "bm": "makes"
+        },
+        {
+          "en": "does",
+          "bm": "does"
+        },
+        {
+          "en": "takes",
+          "bm": "takes"
+        },
+        {
+          "en": "has",
+          "bm": "has"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q06",
+      "subtopicId": "f3bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "There was ___ rain last night, so the roads flooded.",
+        "bm": "There was ___ rain last night, so the roads flooded."
+      },
+      "explanation": {
+        "en": "\"Heavy rain\" is the natural collocation.",
+        "bm": "\"Heavy rain\" ialah kolokasi yang lazim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "heavy",
+          "bm": "heavy"
+        },
+        {
+          "en": "strong",
+          "bm": "strong"
+        },
+        {
+          "en": "big",
+          "bm": "big"
+        },
+        {
+          "en": "thick",
+          "bm": "thick"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q07",
+      "subtopicId": "f3bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The opposite of \"honest\" is…",
+        "bm": "The opposite of \"honest\" is…"
+      },
+      "explanation": {
+        "en": "dis- + honest.",
+        "bm": "dis- + honest."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dishonest",
+          "bm": "dishonest"
+        },
+        {
+          "en": "unhonest",
+          "bm": "unhonest"
+        },
+        {
+          "en": "inhonest",
+          "bm": "inhonest"
+        },
+        {
+          "en": "nonhonest",
+          "bm": "nonhonest"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q08",
+      "subtopicId": "f3bi-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Add a suffix: kind → ___ (noun)",
+        "bm": "Add a suffix: kind → ___ (noun)"
+      },
+      "explanation": {
+        "en": "-ness forms nouns from adjectives.",
+        "bm": "-ness membentuk kata nama daripada adjektif."
+      },
+      "difficulty": 1,
+      "answer": [
+        "kindness"
+      ]
+    },
+    {
+      "id": "f3bi-03-q09",
+      "subtopicId": "f3bi-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each phrasal verb with its meaning.",
+        "bm": "Match each phrasal verb with its meaning."
+      },
+      "explanation": {
+        "en": "Learn phrasal verbs in example sentences.",
+        "bm": "Pelajari phrasal verb melalui contoh ayat."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "turn down",
+            "bm": "turn down"
+          },
+          "right": {
+            "en": "refuse",
+            "bm": "menolak"
+          }
+        },
+        {
+          "left": {
+            "en": "find out",
+            "bm": "find out"
+          },
+          "right": {
+            "en": "discover",
+            "bm": "mengetahui"
+          }
+        },
+        {
+          "left": {
+            "en": "put off",
+            "bm": "put off"
+          },
+          "right": {
+            "en": "postpone",
+            "bm": "menangguhkan"
+          }
+        },
+        {
+          "left": {
+            "en": "run out of",
+            "bm": "run out of"
+          },
+          "right": {
+            "en": "have none left",
+            "bm": "kehabisan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bi-03-q10",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The match was ___ because of the storm.",
+        "bm": "The match was ___ because of the storm."
+      },
+      "explanation": {
+        "en": "\"Call off\" = cancel.",
+        "bm": "\"Call off\" = membatalkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "called off",
+          "bm": "called off"
+        },
+        {
+          "en": "called up",
+          "bm": "called up"
+        },
+        {
+          "en": "called in",
+          "bm": "called in"
+        },
+        {
+          "en": "called for",
+          "bm": "called for"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q11",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "I am looking forward to ___ you.",
+        "bm": "I am looking forward to ___ you."
+      },
+      "explanation": {
+        "en": "\"Look forward to\" is followed by a gerund.",
+        "bm": "\"Look forward to\" diikuti gerund."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "seeing",
+          "bm": "seeing"
+        },
+        {
+          "en": "see",
+          "bm": "see"
+        },
+        {
+          "en": "saw",
+          "bm": "saw"
+        },
+        {
+          "en": "seen",
+          "bm": "seen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q12",
+      "subtopicId": "f3bi-03-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct collocations.",
+        "bm": "Select ALL correct collocations."
+      },
+      "explanation": {
+        "en": "We say \"make a noise\".",
+        "bm": "Kita sebut \"make a noise\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "take a photo",
+          "bm": "take a photo"
+        },
+        {
+          "en": "make a decision",
+          "bm": "make a decision"
+        },
+        {
+          "en": "pay attention",
+          "bm": "pay attention"
+        },
+        {
+          "en": "do a noise",
+          "bm": "do a noise"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bi-03-q13",
+      "subtopicId": "f3bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "She has a ___ interest in science.",
+        "bm": "She has a ___ interest in science."
+      },
+      "explanation": {
+        "en": "\"Keen interest\" is a common collocation.",
+        "bm": "\"Keen interest\" ialah kolokasi yang lazim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "keen",
+          "bm": "keen"
+        },
+        {
+          "en": "sharp",
+          "bm": "sharp"
+        },
+        {
+          "en": "big",
+          "bm": "big"
+        },
+        {
+          "en": "high",
+          "bm": "high"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q14",
+      "subtopicId": "f3bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word means \"not possible\"?",
+        "bm": "Which word means \"not possible\"?"
+      },
+      "explanation": {
+        "en": "im- before p: impossible, impatient.",
+        "bm": "im- sebelum p: impossible, impatient."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "impossible",
+          "bm": "impossible"
+        },
+        {
+          "en": "unpossible",
+          "bm": "unpossible"
+        },
+        {
+          "en": "dispossible",
+          "bm": "dispossible"
+        },
+        {
+          "en": "inpossible",
+          "bm": "inpossible"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q15",
+      "subtopicId": "f3bi-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete: \"Please be ___ when you cross the road.\" (care)",
+        "bm": "Complete: \"Please be ___ when you cross the road.\" (care)"
+      },
+      "explanation": {
+        "en": "-ful forms an adjective: careful.",
+        "bm": "-ful membentuk adjektif: careful."
+      },
+      "difficulty": 2,
+      "answer": [
+        "careful"
+      ]
+    },
+    {
+      "id": "f3bi-03-q16",
+      "subtopicId": "f3bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct form: \"He is a very ___ student.\" (success)",
+        "bm": "Choose the correct form: \"He is a very ___ student.\" (success)"
+      },
+      "explanation": {
+        "en": "An adjective describes the noun \"student\".",
+        "bm": "Adjektif menerangkan kata nama \"student\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "successful",
+          "bm": "successful"
+        },
+        {
+          "en": "success",
+          "bm": "success"
+        },
+        {
+          "en": "successfully",
+          "bm": "successfully"
+        },
+        {
+          "en": "succeed",
+          "bm": "succeed"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q17",
+      "subtopicId": "f3bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses a phrasal verb INCORRECTLY?",
+        "bm": "Which sentence uses a phrasal verb INCORRECTLY?"
+      },
+      "explanation": {
+        "en": "\"Run into\" (meet by chance) cannot be split: \"I ran into him.\"",
+        "bm": "\"Run into\" (bertemu secara kebetulan) tidak boleh dipisahkan: \"I ran into him.\""
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "I ran an old friend into at the mall.",
+          "bm": "I ran an old friend into at the mall."
+        },
+        {
+          "en": "We set off early in the morning.",
+          "bm": "We set off early in the morning."
+        },
+        {
+          "en": "Please turn off the lights.",
+          "bm": "Please turn off the lights."
+        },
+        {
+          "en": "She takes after her mother.",
+          "bm": "She takes after her mother."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q18",
+      "subtopicId": "f3bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Complete: \"The ___ of the new library made the community happy.\" (open)",
+        "bm": "Complete: \"The ___ of the new library made the community happy.\" (open)"
+      },
+      "explanation": {
+        "en": "After \"the\", a noun is needed.",
+        "bm": "Selepas \"the\", perlukan kata nama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "opening",
+          "bm": "opening"
+        },
+        {
+          "en": "opened",
+          "bm": "opened"
+        },
+        {
+          "en": "openly",
+          "bm": "openly"
+        },
+        {
+          "en": "opens",
+          "bm": "opens"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q19",
+      "subtopicId": "f3bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word BEST completes: \"The teacher gave us some ___ advice before the exam.\"",
+        "bm": "Which word BEST completes: \"The teacher gave us some ___ advice before the exam.\""
+      },
+      "explanation": {
+        "en": "\"Useful advice\" is natural; \"advice\" is uncountable.",
+        "bm": "\"Useful advice\" lazim; \"advice\" tidak boleh dibilang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "useful",
+          "bm": "useful"
+        },
+        {
+          "en": "heavy",
+          "bm": "heavy"
+        },
+        {
+          "en": "strong",
+          "bm": "strong"
+        },
+        {
+          "en": "tall",
+          "bm": "tall"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-03-q20",
+      "subtopicId": "f3bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A reviewer writes: \"The ending was ___; nobody expected it.\" (predict)",
+        "bm": "A reviewer writes: \"The ending was ___; nobody expected it.\" (predict)"
+      },
+      "explanation": {
+        "en": "\"Nobody expected it\" means NOT predictable → un- + predictable.",
+        "bm": "\"Nobody expected it\" bermaksud TIDAK dapat diramal → un- + predictable."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "unpredictable",
+          "bm": "unpredictable"
+        },
+        {
+          "en": "predictable",
+          "bm": "predictable"
+        },
+        {
+          "en": "predicted",
+          "bm": "predicted"
+        },
+        {
+          "en": "prediction",
+          "bm": "prediction"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "chapterId": "f3bm-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Seekor kucing\", \"sebuah rumah\", \"sepucuk surat\" — Malay counts things with special classifier words. Choose the wrong one and the sentence sounds odd to every native speaker.",
+      "bm": "\"Seekor kucing\", \"sebuah rumah\", \"sepucuk surat\" — bahasa Melayu membilang benda dengan penjodoh bilangan yang khusus. Salah pilih, ayat itu kedengaran janggal kepada penutur jati."
+    },
+    "bigIdeas": [
+      {
+        "en": "Kata bilangan shows quantity or order: tentu, tak tentu, himpunan, pecahan, pisahan and ordinal.",
+        "bm": "Kata bilangan menunjukkan jumlah atau urutan: tentu, tak tentu, himpunan, pecahan, pisahan dan ordinal."
+      },
+      {
+        "en": "Penjodoh bilangan is used between a numeral and a noun and depends on the shape or type of the noun.",
+        "bm": "Penjodoh bilangan digunakan antara kata bilangan dengan kata nama dan bergantung pada bentuk atau jenis benda."
+      },
+      {
+        "en": "A noun after a plural numeral (semua, beberapa, para, banyak) is NOT reduplicated.",
+        "bm": "Kata nama selepas kata bilangan jamak (semua, beberapa, para, banyak) TIDAK digandakan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Used for",
+            "bm": "Digunakan untuk"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "seekor",
+              "bm": "seekor"
+            },
+            "cells": [
+              {
+                "en": "Animals",
+                "bm": "Haiwan"
+              },
+              {
+                "en": "seekor kucing",
+                "bm": "seekor kucing"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "seorang",
+              "bm": "seorang"
+            },
+            "cells": [
+              {
+                "en": "People",
+                "bm": "Manusia"
+              },
+              {
+                "en": "seorang guru",
+                "bm": "seorang guru"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "sebuah",
+              "bm": "sebuah"
+            },
+            "cells": [
+              {
+                "en": "Large or box-like objects",
+                "bm": "Benda besar atau berbentuk kotak"
+              },
+              {
+                "en": "sebuah rumah",
+                "bm": "sebuah rumah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "sebatang",
+              "bm": "sebatang"
+            },
+            "cells": [
+              {
+                "en": "Long, rod-like objects",
+                "bm": "Benda panjang dan bulat"
+              },
+              {
+                "en": "sebatang pen",
+                "bm": "sebatang pen"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "sehelai",
+              "bm": "sehelai"
+            },
+            "cells": [
+              {
+                "en": "Thin, flat objects",
+                "bm": "Benda nipis dan leper"
+              },
+              {
+                "en": "sehelai kertas",
+                "bm": "sehelai kertas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "sebiji",
+              "bm": "sebiji"
+            },
+            "cells": [
+              {
+                "en": "Small round objects",
+                "bm": "Benda kecil dan bulat"
+              },
+              {
+                "en": "sebiji bola",
+                "bm": "sebiji bola"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata bilangan tentu",
+          "bm": "Kata bilangan tentu"
+        },
+        "definition": {
+          "en": "Exact numbers: satu, dua, sepuluh, seratus.",
+          "bm": "Bilangan yang tepat: satu, dua, sepuluh, seratus."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata bilangan tak tentu",
+          "bm": "Kata bilangan tak tentu"
+        },
+        "definition": {
+          "en": "Inexact amounts: beberapa, semua, segala, para, banyak.",
+          "bm": "Jumlah tidak tepat: beberapa, semua, segala, para, banyak."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata bilangan himpunan",
+          "bm": "Kata bilangan himpunan"
+        },
+        "definition": {
+          "en": "Groups: kedua-dua, ketiga-tiga, beribu-ribu, berjam-jam.",
+          "bm": "Kumpulan: kedua-dua, ketiga-tiga, beribu-ribu, berjam-jam."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata bilangan pecahan",
+          "bm": "Kata bilangan pecahan"
+        },
+        "definition": {
+          "en": "Fractions: setengah, separuh, suku, dua pertiga.",
+          "bm": "Pecahan: setengah, separuh, suku, dua pertiga."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata bilangan pisahan",
+          "bm": "Kata bilangan pisahan"
+        },
+        "definition": {
+          "en": "Each/every: setiap, tiap-tiap, masing-masing.",
+          "bm": "Setiap satu: setiap, tiap-tiap, masing-masing."
+        }
+      },
+      {
+        "term": {
+          "en": "Penjodoh bilangan",
+          "bm": "Penjodoh bilangan"
+        },
+        "definition": {
+          "en": "Classifier word: ekor, orang, buah, batang, helai, biji, pucuk, bilah, kuntum, utas.",
+          "bm": "Kata yang menjodohkan bilangan dengan benda: ekor, orang, buah, batang, helai, biji, pucuk, bilah, kuntum, utas."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Correct the sentence: \"Semua murid-murid diminta berkumpul di dewan.\"",
+        "bm": "Betulkan ayat: \"Semua murid-murid diminta berkumpul di dewan.\""
+      },
+      "steps": [
+        {
+          "en": "\"Semua\" is already a plural numeral (kata bilangan tak tentu).",
+          "bm": "\"Semua\" sudah menunjukkan jamak (kata bilangan tak tentu)."
+        },
+        {
+          "en": "The noun after it must not be reduplicated.",
+          "bm": "Kata nama selepasnya tidak boleh digandakan."
+        }
+      ],
+      "answer": {
+        "en": "Semua murid diminta berkumpul di dewan.",
+        "bm": "Semua murid diminta berkumpul di dewan."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bm-01-q01",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a kata bilangan tak tentu?",
+        "bm": "Antara berikut, yang manakah kata bilangan tak tentu?"
+      },
+      "explanation": {
+        "en": "\"Beberapa\" does not give an exact number.",
+        "bm": "\"Beberapa\" tidak menyatakan jumlah yang tepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "beberapa",
+          "bm": "beberapa"
+        },
+        {
+          "en": "lima",
+          "bm": "lima"
+        },
+        {
+          "en": "kedua-dua",
+          "bm": "kedua-dua"
+        },
+        {
+          "en": "suku",
+          "bm": "suku"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q02",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Kedua-dua\" is a kata bilangan…",
+        "bm": "\"Kedua-dua\" ialah kata bilangan…"
+      },
+      "explanation": {
+        "en": "It refers to both of a group.",
+        "bm": "Ia merujuk kedua-dua anggota kumpulan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "himpunan",
+          "bm": "himpunan"
+        },
+        {
+          "en": "pecahan",
+          "bm": "pecahan"
+        },
+        {
+          "en": "pisahan",
+          "bm": "pisahan"
+        },
+        {
+          "en": "tak tentu",
+          "bm": "tak tentu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q03",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Separuh\" is a kata bilangan…",
+        "bm": "\"Separuh\" ialah kata bilangan…"
+      },
+      "explanation": {
+        "en": "It shows part of a whole.",
+        "bm": "Ia menunjukkan sebahagian daripada keseluruhan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pecahan",
+          "bm": "pecahan"
+        },
+        {
+          "en": "himpunan",
+          "bm": "himpunan"
+        },
+        {
+          "en": "tentu",
+          "bm": "tentu"
+        },
+        {
+          "en": "ordinal",
+          "bm": "ordinal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q04",
+      "subtopicId": "f3bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct classifier: Ibu membeli ___ ikan.",
+        "bm": "Pilih penjodoh bilangan yang betul: Ibu membeli ___ ikan."
+      },
+      "explanation": {
+        "en": "\"Ekor\" is for animals.",
+        "bm": "\"Ekor\" untuk haiwan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "seekor",
+          "bm": "seekor"
+        },
+        {
+          "en": "sebuah",
+          "bm": "sebuah"
+        },
+        {
+          "en": "sebatang",
+          "bm": "sebatang"
+        },
+        {
+          "en": "sehelai",
+          "bm": "sehelai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q05",
+      "subtopicId": "f3bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct classifier: Ali menerima ___ surat.",
+        "bm": "Pilih penjodoh bilangan yang betul: Ali menerima ___ surat."
+      },
+      "explanation": {
+        "en": "\"Pucuk\" is used for letters (and guns).",
+        "bm": "\"Pucuk\" digunakan untuk surat (dan senapang)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sepucuk",
+          "bm": "sepucuk"
+        },
+        {
+          "en": "sebiji",
+          "bm": "sebiji"
+        },
+        {
+          "en": "seekor",
+          "bm": "seekor"
+        },
+        {
+          "en": "sekuntum",
+          "bm": "sekuntum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q06",
+      "subtopicId": "f3bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct classifier: Kakak memetik ___ bunga mawar.",
+        "bm": "Pilih penjodoh bilangan yang betul: Kakak memetik ___ bunga mawar."
+      },
+      "explanation": {
+        "en": "\"Kuntum\" is for flowers.",
+        "bm": "\"Kuntum\" untuk bunga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sekuntum",
+          "bm": "sekuntum"
+        },
+        {
+          "en": "sebatang",
+          "bm": "sebatang"
+        },
+        {
+          "en": "sebilah",
+          "bm": "sebilah"
+        },
+        {
+          "en": "sepucuk",
+          "bm": "sepucuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q07",
+      "subtopicId": "f3bm-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete: se___ pisau (classifier for knives and swords).",
+        "bm": "Lengkapkan: se___ pisau (penjodoh bilangan untuk pisau dan parang)."
+      },
+      "explanation": {
+        "en": "Sebilah pisau, sebilah keris.",
+        "bm": "Sebilah pisau, sebilah keris."
+      },
+      "difficulty": 1,
+      "answer": [
+        "bilah"
+      ]
+    },
+    {
+      "id": "f3bm-01-q08",
+      "subtopicId": "f3bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which phrase is correct?",
+        "bm": "Frasa manakah betul?"
+      },
+      "explanation": {
+        "en": "\"Para\" already shows plural.",
+        "bm": "\"Para\" sudah menunjukkan jamak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "para guru",
+          "bm": "para guru"
+        },
+        {
+          "en": "para guru-guru",
+          "bm": "para guru-guru"
+        },
+        {
+          "en": "para-para guru",
+          "bm": "para-para guru"
+        },
+        {
+          "en": "guru-guru para",
+          "bm": "guru-guru para"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q09",
+      "subtopicId": "f3bm-01-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each classifier with a suitable noun.",
+        "bm": "Padankan penjodoh bilangan dengan kata nama yang sesuai."
+      },
+      "explanation": {
+        "en": "Each classifier fits the shape or nature of the object.",
+        "bm": "Setiap penjodoh bilangan sesuai dengan bentuk atau sifat benda."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "seutas",
+            "bm": "seutas"
+          },
+          "right": {
+            "en": "rantai",
+            "bm": "rantai"
+          }
+        },
+        {
+          "left": {
+            "en": "sebentuk",
+            "bm": "sebentuk"
+          },
+          "right": {
+            "en": "cincin",
+            "bm": "cincin"
+          }
+        },
+        {
+          "left": {
+            "en": "sekeping",
+            "bm": "sekeping"
+          },
+          "right": {
+            "en": "gambar",
+            "bm": "gambar"
+          }
+        },
+        {
+          "left": {
+            "en": "seulas",
+            "bm": "seulas"
+          },
+          "right": {
+            "en": "durian",
+            "bm": "durian"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bm-01-q10",
+      "subtopicId": "f3bm-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL nouns that use \"sebatang\".",
+        "bm": "Pilih SEMUA kata nama yang menggunakan \"sebatang\"."
+      },
+      "explanation": {
+        "en": "\"Batang\" is for long objects; animals use \"ekor\".",
+        "bm": "\"Batang\" untuk benda panjang; haiwan menggunakan \"ekor\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pokok",
+          "bm": "pokok"
+        },
+        {
+          "en": "sungai",
+          "bm": "sungai"
+        },
+        {
+          "en": "jalan",
+          "bm": "jalan"
+        },
+        {
+          "en": "kucing",
+          "bm": "kucing"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bm-01-q11",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Setiap\", \"tiap-tiap\" and \"masing-masing\" are kata bilangan…",
+        "bm": "\"Setiap\", \"tiap-tiap\" dan \"masing-masing\" ialah kata bilangan…"
+      },
+      "explanation": {
+        "en": "They refer to each one separately.",
+        "bm": "Ia merujuk setiap satu secara berasingan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pisahan",
+          "bm": "pisahan"
+        },
+        {
+          "en": "himpunan",
+          "bm": "himpunan"
+        },
+        {
+          "en": "pecahan",
+          "bm": "pecahan"
+        },
+        {
+          "en": "tentu",
+          "bm": "tentu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q12",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the difference between \"kedua-dua orang murid\" and \"murid kedua\"?",
+        "bm": "Apakah perbezaan antara \"kedua-dua orang murid\" dengan \"murid kedua\"?"
+      },
+      "explanation": {
+        "en": "\"Kedua\" after a noun is ordinal (urutan).",
+        "bm": "\"Kedua\" selepas kata nama ialah bilangan ordinal (urutan)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Both students vs the second student",
+          "bm": "Dua-dua murid vs murid yang nombor dua"
+        },
+        {
+          "en": "They mean the same",
+          "bm": "Maksudnya sama"
+        },
+        {
+          "en": "Two classes vs two students",
+          "bm": "Dua kelas vs dua murid"
+        },
+        {
+          "en": "The first is wrong",
+          "bm": "Yang pertama salah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q13",
+      "subtopicId": "f3bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Ayat manakah betul?"
+      },
+      "explanation": {
+        "en": "After \"banyak\", the noun is not reduplicated.",
+        "bm": "Selepas \"banyak\", kata nama tidak digandakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Banyak rumah musnah dalam banjir itu.",
+          "bm": "Banyak rumah musnah dalam banjir itu."
+        },
+        {
+          "en": "Banyak rumah-rumah musnah dalam banjir itu.",
+          "bm": "Banyak rumah-rumah musnah dalam banjir itu."
+        },
+        {
+          "en": "Rumah-rumah banyak-banyak musnah.",
+          "bm": "Rumah-rumah banyak-banyak musnah."
+        },
+        {
+          "en": "Banyak-banyak rumah-rumah musnah.",
+          "bm": "Banyak-banyak rumah-rumah musnah."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q14",
+      "subtopicId": "f3bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Find the error: \"Segala pertolongan daripada para-para dermawan amat dihargai.\"",
+        "bm": "Cari kesalahan: \"Segala pertolongan daripada para-para dermawan amat dihargai.\""
+      },
+      "explanation": {
+        "en": "\"Para\" is never reduplicated.",
+        "bm": "\"Para\" tidak digandakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "\"para-para\" should be \"para\"",
+          "bm": "\"para-para\" sepatutnya \"para\""
+        },
+        {
+          "en": "\"segala\" should be \"segala-gala\"",
+          "bm": "\"segala\" sepatutnya \"segala-gala\""
+        },
+        {
+          "en": "\"daripada\" should be \"dari\"",
+          "bm": "\"daripada\" sepatutnya \"dari\""
+        },
+        {
+          "en": "No error",
+          "bm": "Tiada kesalahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q15",
+      "subtopicId": "f3bm-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Write the ordinal for \"tiga\": ______.",
+        "bm": "Tulis bentuk ordinal bagi \"tiga\": ______."
+      },
+      "explanation": {
+        "en": "Ordinal numbers use ke- (kedua, ketiga); \"pertama\" is the exception for one.",
+        "bm": "Bilangan ordinal menggunakan ke- (kedua, ketiga); \"pertama\" pengecualian untuk satu."
+      },
+      "difficulty": 2,
+      "answer": [
+        "ketiga"
+      ]
+    },
+    {
+      "id": "f3bm-01-q16",
+      "subtopicId": "f3bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which pair is correct?",
+        "bm": "Pasangan manakah betul?"
+      },
+      "explanation": {
+        "en": "\"Pasang\" is for things in pairs.",
+        "bm": "\"Pasang\" untuk benda yang berpasangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sepasang kasut",
+          "bm": "sepasang kasut"
+        },
+        {
+          "en": "sekuntum kereta",
+          "bm": "sekuntum kereta"
+        },
+        {
+          "en": "sebilah kertas",
+          "bm": "sebilah kertas"
+        },
+        {
+          "en": "seekor guru",
+          "bm": "seekor guru"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q17",
+      "subtopicId": "f3bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence has NO error?",
+        "bm": "Ayat manakah TIDAK mengandungi kesalahan?"
+      },
+      "explanation": {
+        "en": "Check both the classifier and the plural rule.",
+        "bm": "Semak penjodoh bilangan dan peraturan jamak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Kedua-dua orang pelajar itu mendapat sebuah hadiah dan sehelai sijil.",
+          "bm": "Kedua-dua orang pelajar itu mendapat sebuah hadiah dan sehelai sijil."
+        },
+        {
+          "en": "Semua pelajar-pelajar mendapat sebuah sijil.",
+          "bm": "Semua pelajar-pelajar mendapat sebuah sijil."
+        },
+        {
+          "en": "Beberapa ekor murid hadir.",
+          "bm": "Beberapa ekor murid hadir."
+        },
+        {
+          "en": "Para guru-guru menerima sepucuk bunga.",
+          "bm": "Para guru-guru menerima sepucuk bunga."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q18",
+      "subtopicId": "f3bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is \"sebuah\" used for \"rumah\", \"kereta\" and \"buku\" although they look different?",
+        "bm": "Mengapakah \"sebuah\" digunakan untuk \"rumah\", \"kereta\" dan \"buku\" walaupun bentuknya berbeza?"
+      },
+      "explanation": {
+        "en": "\"Buah\" is also used for abstract things like \"sebuah cerita\".",
+        "bm": "\"Buah\" juga digunakan untuk benda abstrak seperti \"sebuah cerita\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "\"Buah\" is a general classifier for many large or box-like objects",
+          "bm": "\"Buah\" ialah penjodoh bilangan umum untuk banyak benda besar atau berbentuk kotak"
+        },
+        {
+          "en": "It is a mistake",
+          "bm": "Ia satu kesilapan"
+        },
+        {
+          "en": "They are all animals",
+          "bm": "Semuanya haiwan"
+        },
+        {
+          "en": "Because they are round",
+          "bm": "Kerana semuanya bulat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q19",
+      "subtopicId": "f3bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Beribu-ribu penonton hadir.\" The word \"beribu-ribu\" shows…",
+        "bm": "\"Beribu-ribu penonton hadir.\" Perkataan \"beribu-ribu\" menunjukkan…"
+      },
+      "explanation": {
+        "en": "It emphasises a large, uncounted number.",
+        "bm": "Ia menekankan jumlah besar yang tidak dikira."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a very large group (kata bilangan himpunan)",
+          "bm": "kumpulan yang sangat besar (kata bilangan himpunan)"
+        },
+        {
+          "en": "an exact 1,000",
+          "bm": "tepat 1,000"
+        },
+        {
+          "en": "a fraction",
+          "bm": "pecahan"
+        },
+        {
+          "en": "an order",
+          "bm": "urutan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-01-q20",
+      "subtopicId": "f3bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A notice reads: \"Semua ibu bapa-ibu bapa dijemput hadir.\" Give the BEST correction.",
+        "bm": "Satu notis tertulis: \"Semua ibu bapa-ibu bapa dijemput hadir.\" Berikan pembetulan PALING tepat."
+      },
+      "explanation": {
+        "en": "\"Semua\" already shows plural; do not reduplicate the noun.",
+        "bm": "\"Semua\" sudah menunjukkan jamak; jangan gandakan kata nama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Semua ibu bapa dijemput hadir.",
+          "bm": "Semua ibu bapa dijemput hadir."
+        },
+        {
+          "en": "Semua-semua ibu bapa dijemput hadir.",
+          "bm": "Semua-semua ibu bapa dijemput hadir."
+        },
+        {
+          "en": "Ibu bapa-ibu bapa semua dijemput hadir.",
+          "bm": "Ibu bapa-ibu bapa semua dijemput hadir."
+        },
+        {
+          "en": "Para-para ibu bapa dijemput hadir.",
+          "bm": "Para-para ibu bapa dijemput hadir."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -24,6 +24,7 @@ export const defaultSettings = (): Settings => ({
   reminderTime: '20:00',
   breakMinutes: 25,
   viewMode: 'auto',
+  form: 4,
 })
 
 interface SettingsState {

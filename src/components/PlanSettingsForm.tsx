@@ -1,6 +1,6 @@
 // Plan settings sections, shared by the setup wizard and the Planner settings sheet.
 import { useState } from 'react'
-import { SUBJECTS } from '../content'
+import { subjectsOf } from '../content'
 import { uid } from '../db/db'
 import { useT } from '../i18n/useT'
 import type { Settings } from '../planner/types'
@@ -113,7 +113,7 @@ export function ConfidenceSection({ draft, set }: P) {
   return (
     <div className="space-y-4">
       <p className="text-sm muted">{t('planner.confidence')}</p>
-      {SUBJECTS.map((s) => (
+      {subjectsOf(draft.form ?? 4).map((s) => (
         <div key={s.id}>
           <div className="mb-1 text-sm font-semibold" style={{ color: s.color }}>{L(s.name)}</div>
           <div className="flex gap-1">

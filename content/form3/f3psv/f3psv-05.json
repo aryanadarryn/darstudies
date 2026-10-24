@@ -1,0 +1,876 @@
+{
+  "chapterId": "f3psv-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A songket cloth from Terengganu, a labu sayong from Perak and a wau bulan from Kelantan carry centuries of skill, belief and identity.",
+      "bm": "Kain songket dari Terengganu, labu sayong dari Perak dan wau bulan dari Kelantan membawa kemahiran, kepercayaan dan jati diri berabad lamanya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Traditional crafts include batik, songket, labu sayong, wau, wood carving (ukiran kayu), anyaman and tekat.",
+        "bm": "Kraf tradisional termasuk batik, songket, labu sayong, wau, ukiran kayu, anyaman dan tekat."
+      },
+      {
+        "en": "Malaysian artists such as Syed Ahmad Jamal, Abdul Latiff Mohidin, Chuah Thean Teng, Ibrahim Hussein and Abdullah Ariff shaped the nation's art.",
+        "bm": "Pelukis Malaysia seperti Syed Ahmad Jamal, Abdul Latiff Mohidin, Chuah Thean Teng, Ibrahim Hussein dan Abdullah Ariff membentuk seni negara."
+      },
+      {
+        "en": "Feldman's method criticises art in four steps: description, analysis, interpretation and judgement.",
+        "bm": "Kaedah Feldman mengkritik karya dalam empat langkah: huraian, analisis, interpretasi dan penilaian."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Main material / tool",
+            "bm": "Bahan / alat utama"
+          },
+          {
+            "en": "Associated with",
+            "bm": "Dikaitkan dengan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Batik",
+              "bm": "Batik"
+            },
+            "cells": [
+              {
+                "en": "Wax (lilin), canting or block (blok/terap), dye",
+                "bm": "Lilin, canting atau blok (terap), pewarna"
+              },
+              {
+                "en": "Kelantan, Terengganu",
+                "bm": "Kelantan, Terengganu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Songket",
+              "bm": "Songket"
+            },
+            "cells": [
+              {
+                "en": "Silk or cotton woven with gold/silver thread",
+                "bm": "Sutera atau kapas ditenun dengan benang emas/perak"
+              },
+              {
+                "en": "Terengganu, Kelantan",
+                "bm": "Terengganu, Kelantan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Labu sayong",
+              "bm": "Labu sayong"
+            },
+            "cells": [
+              {
+                "en": "Clay, fired and blackened",
+                "bm": "Tanah liat, dibakar dan dihitamkan"
+              },
+              {
+                "en": "Kampung Sayong, Kuala Kangsar, Perak",
+                "bm": "Kampung Sayong, Kuala Kangsar, Perak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Wau",
+              "bm": "Wau"
+            },
+            "cells": [
+              {
+                "en": "Bamboo frame and coloured paper",
+                "bm": "Rangka buluh dan kertas berwarna"
+              },
+              {
+                "en": "Kelantan (wau bulan)",
+                "bm": "Kelantan (wau bulan)"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ukiran kayu",
+              "bm": "Ukiran kayu"
+            },
+            "cells": [
+              {
+                "en": "Hardwood and chisels",
+                "bm": "Kayu keras dan pahat"
+              },
+              {
+                "en": "Terengganu, Kelantan",
+                "bm": "Terengganu, Kelantan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Canting",
+          "bm": "Canting"
+        },
+        "definition": {
+          "en": "A small tool with a copper spout used to draw wax lines in batik.",
+          "bm": "Alat kecil bermuncung tembaga untuk melukis garisan lilin dalam batik."
+        }
+      },
+      {
+        "term": {
+          "en": "Batik terap (blok)",
+          "bm": "Batik terap (blok)"
+        },
+        "definition": {
+          "en": "Batik made by stamping wax with a metal block.",
+          "bm": "Batik yang dihasilkan dengan mengecap lilin menggunakan blok logam."
+        }
+      },
+      {
+        "term": {
+          "en": "Motif",
+          "bm": "Motif"
+        },
+        "definition": {
+          "en": "A repeated design element, often from plants (flora) or nature.",
+          "bm": "Unsur reka corak yang berulang, sering daripada tumbuhan (flora) atau alam."
+        }
+      },
+      {
+        "term": {
+          "en": "Art criticism",
+          "bm": "Kritikan seni"
+        },
+        "definition": {
+          "en": "A structured way to describe, analyse, interpret and judge artwork.",
+          "bm": "Cara berstruktur untuk menghurai, menganalisis, mentafsir dan menilai karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Abstract art",
+          "bm": "Seni abstrak"
+        },
+        "definition": {
+          "en": "Art that uses shapes, colours and lines rather than realistic pictures.",
+          "bm": "Seni yang menggunakan rupa, warna dan garisan dan bukan gambaran realistik."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Use Feldman's method on a batik painting of fishermen. What do you write first?",
+        "bm": "Gunakan kaedah Feldman pada lukisan batik nelayan. Apakah yang ditulis dahulu?"
+      },
+      "steps": [
+        {
+          "en": "Description: what you see — title, artist, medium, subject (fishermen, boats, sea).",
+          "bm": "Huraian: apa yang dilihat — tajuk, pelukis, media, subjek (nelayan, perahu, laut)."
+        },
+        {
+          "en": "Analysis: how elements and principles are used (colours, lines, balance).",
+          "bm": "Analisis: bagaimana unsur dan prinsip digunakan (warna, garisan, imbangan)."
+        },
+        {
+          "en": "Interpretation: the meaning (hard work, coastal life).",
+          "bm": "Interpretasi: makna (kerja keras, kehidupan pesisir)."
+        },
+        {
+          "en": "Judgement: your reasoned opinion of its success.",
+          "bm": "Penilaian: pendapat beralasan tentang kejayaannya."
+        }
+      ],
+      "answer": {
+        "en": "Description comes first.",
+        "bm": "Huraian ditulis dahulu."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3psv-05-q01",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The tool used to draw wax lines in hand-drawn batik is the…",
+        "bm": "Alat untuk melukis garisan lilin dalam batik lukis ialah…"
+      },
+      "explanation": {
+        "en": "The copper spout holds hot wax.",
+        "bm": "Muncung tembaga menyimpan lilin panas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "canting",
+          "bm": "canting"
+        },
+        {
+          "en": "chisel",
+          "bm": "pahat"
+        },
+        {
+          "en": "loom",
+          "bm": "kek (alat tenun)"
+        },
+        {
+          "en": "kiln",
+          "bm": "tanur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q02",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Songket is a cloth woven with…",
+        "bm": "Songket ialah kain yang ditenun dengan…"
+      },
+      "explanation": {
+        "en": "Traditionally worn for ceremonies.",
+        "bm": "Secara tradisi dipakai untuk majlis rasmi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "gold or silver thread",
+          "bm": "benang emas atau perak"
+        },
+        {
+          "en": "plastic strips",
+          "bm": "jalur plastik"
+        },
+        {
+          "en": "clay",
+          "bm": "tanah liat"
+        },
+        {
+          "en": "bamboo",
+          "bm": "buluh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q03",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Labu sayong is a traditional craft made from…",
+        "bm": "Labu sayong ialah kraf tradisional yang dibuat daripada…"
+      },
+      "explanation": {
+        "en": "It comes from Kampung Sayong, Kuala Kangsar, Perak.",
+        "bm": "Ia berasal dari Kampung Sayong, Kuala Kangsar, Perak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "clay",
+          "bm": "tanah liat"
+        },
+        {
+          "en": "wood",
+          "bm": "kayu"
+        },
+        {
+          "en": "metal",
+          "bm": "logam"
+        },
+        {
+          "en": "mengkuang leaves",
+          "bm": "daun mengkuang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q04",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Wau bulan is a traditional kite closely associated with…",
+        "bm": "Wau bulan ialah layang-layang tradisional yang sinonim dengan…"
+      },
+      "explanation": {
+        "en": "Its tail shape looks like a crescent moon.",
+        "bm": "Bahagian ekornya berbentuk bulan sabit."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q05",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Chuah Thean Teng is known as the pioneer of…",
+        "bm": "Chuah Thean Teng dikenali sebagai perintis…"
+      },
+      "explanation": {
+        "en": "He used batik as a fine-art painting medium.",
+        "bm": "Beliau menggunakan batik sebagai media seni halus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "batik painting",
+          "bm": "lukisan batik"
+        },
+        {
+          "en": "abstract sculpture",
+          "bm": "arca abstrak"
+        },
+        {
+          "en": "songket weaving",
+          "bm": "tenunan songket"
+        },
+        {
+          "en": "digital art",
+          "bm": "seni digital"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q06",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Abdul Latiff Mohidin is famous for his painting series…",
+        "bm": "Abdul Latiff Mohidin terkenal dengan siri lukisan…"
+      },
+      "explanation": {
+        "en": "He is also a well-known poet.",
+        "bm": "Beliau juga penyair yang terkenal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Pago-Pago",
+          "bm": "Pago-Pago"
+        },
+        {
+          "en": "Mona Lisa",
+          "bm": "Mona Lisa"
+        },
+        {
+          "en": "Starry Night",
+          "bm": "Starry Night"
+        },
+        {
+          "en": "Guernica",
+          "bm": "Guernica"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q07",
+      "subtopicId": "f3psv-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The first step of Feldman's art criticism is ______.",
+        "bm": "Langkah pertama kritikan seni Feldman ialah ______."
+      },
+      "explanation": {
+        "en": "Then analysis, interpretation and judgement.",
+        "bm": "Kemudian analisis, interpretasi dan penilaian."
+      },
+      "difficulty": 1,
+      "answer": [
+        "description",
+        "huraian",
+        "describe"
+      ]
+    },
+    {
+      "id": "f3psv-05-q08",
+      "subtopicId": "f3psv-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The final step of Feldman's method is…",
+        "bm": "Langkah terakhir kaedah Feldman ialah…"
+      },
+      "explanation": {
+        "en": "Give a reasoned opinion.",
+        "bm": "Beri pendapat yang beralasan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "judgement",
+          "bm": "penilaian"
+        },
+        {
+          "en": "description",
+          "bm": "huraian"
+        },
+        {
+          "en": "analysis",
+          "bm": "analisis"
+        },
+        {
+          "en": "sketching",
+          "bm": "melakar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q09",
+      "subtopicId": "f3psv-05-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of Feldman's art criticism.",
+        "bm": "Susun langkah kritikan seni Feldman."
+      },
+      "explanation": {
+        "en": "Describe → analyse → interpret → judge.",
+        "bm": "Huraikan → analisis → tafsir → nilai."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Description",
+          "bm": "Huraian"
+        },
+        {
+          "en": "Analysis",
+          "bm": "Analisis"
+        },
+        {
+          "en": "Interpretation",
+          "bm": "Interpretasi"
+        },
+        {
+          "en": "Judgement",
+          "bm": "Penilaian"
+        }
+      ]
+    },
+    {
+      "id": "f3psv-05-q10",
+      "subtopicId": "f3psv-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each craft with its main material.",
+        "bm": "Padankan kraf dengan bahan utamanya."
+      },
+      "explanation": {
+        "en": "Crafts use materials from the local environment.",
+        "bm": "Kraf menggunakan bahan daripada persekitaran tempatan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Batik",
+            "bm": "Batik"
+          },
+          "right": {
+            "en": "Wax and dye on cloth",
+            "bm": "Lilin dan pewarna pada kain"
+          }
+        },
+        {
+          "left": {
+            "en": "Labu sayong",
+            "bm": "Labu sayong"
+          },
+          "right": {
+            "en": "Clay",
+            "bm": "Tanah liat"
+          }
+        },
+        {
+          "left": {
+            "en": "Wau",
+            "bm": "Wau"
+          },
+          "right": {
+            "en": "Bamboo and paper",
+            "bm": "Buluh dan kertas"
+          }
+        },
+        {
+          "left": {
+            "en": "Anyaman",
+            "bm": "Anyaman"
+          },
+          "right": {
+            "en": "Pandan or mengkuang leaves",
+            "bm": "Daun pandan atau mengkuang"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3psv-05-q11",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Batik made by stamping wax with a metal block is called…",
+        "bm": "Batik yang dihasilkan dengan mengecap lilin menggunakan blok logam dipanggil…"
+      },
+      "explanation": {
+        "en": "Batik lukis is drawn by hand with a canting.",
+        "bm": "Batik lukis dilukis dengan tangan menggunakan canting."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "batik terap (block batik)",
+          "bm": "batik terap (batik blok)"
+        },
+        {
+          "en": "batik lukis",
+          "bm": "batik lukis"
+        },
+        {
+          "en": "songket",
+          "bm": "songket"
+        },
+        {
+          "en": "tekat",
+          "bm": "tekat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q12",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ibrahim Hussein is known for developing a technique called…",
+        "bm": "Ibrahim Hussein dikenali kerana menghasilkan teknik yang dipanggil…"
+      },
+      "explanation": {
+        "en": "A museum dedicated to him is in Langkawi.",
+        "bm": "Muzium khas untuk beliau terletak di Langkawi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "printage",
+          "bm": "printage"
+        },
+        {
+          "en": "impasto",
+          "bm": "impasto"
+        },
+        {
+          "en": "batik terap",
+          "bm": "batik terap"
+        },
+        {
+          "en": "pointillism",
+          "bm": "pointillism"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q13",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Abdullah Ariff from Penang is remembered as a pioneer of…",
+        "bm": "Abdullah Ariff dari Pulau Pinang dikenang sebagai perintis…"
+      },
+      "explanation": {
+        "en": "He painted local landscapes.",
+        "bm": "Beliau melukis landskap tempatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "watercolour painting in Malaya",
+          "bm": "catan cat air di Tanah Melayu"
+        },
+        {
+          "en": "batik painting",
+          "bm": "lukisan batik"
+        },
+        {
+          "en": "sculpture",
+          "bm": "arca"
+        },
+        {
+          "en": "songket",
+          "bm": "songket"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q14",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Syed Ahmad Jamal, a National Artist (Seniman Negara), is best known for…",
+        "bm": "Syed Ahmad Jamal, Seniman Negara, paling dikenali kerana…"
+      },
+      "explanation": {
+        "en": "His work shaped modern Malaysian art.",
+        "bm": "Karyanya membentuk seni moden Malaysia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "abstract paintings",
+          "bm": "lukisan abstrak"
+        },
+        {
+          "en": "songket weaving",
+          "bm": "tenunan songket"
+        },
+        {
+          "en": "clay pottery",
+          "bm": "tembikar tanah liat"
+        },
+        {
+          "en": "kite making",
+          "bm": "membuat wau"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q15",
+      "subtopicId": "f3psv-05-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL things that belong in the ANALYSIS step of Feldman's method.",
+        "bm": "Pilih SEMUA perkara yang termasuk dalam langkah ANALISIS kaedah Feldman."
+      },
+      "explanation": {
+        "en": "Analysis looks at elements and principles; buying is personal opinion.",
+        "bm": "Analisis meneliti unsur dan prinsip; membeli ialah pendapat peribadi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "How colour creates contrast",
+          "bm": "Bagaimana warna menghasilkan kontra"
+        },
+        {
+          "en": "How balance is achieved",
+          "bm": "Bagaimana imbangan dicapai"
+        },
+        {
+          "en": "Where the focal point is",
+          "bm": "Di mana titik fokus"
+        },
+        {
+          "en": "Whether you would buy it",
+          "bm": "Sama ada anda akan membelinya"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-05-q16",
+      "subtopicId": "f3psv-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The dark colours suggest sadness and loss.\" This statement belongs to…",
+        "bm": "\"Warna gelap membayangkan kesedihan dan kehilangan.\" Pernyataan ini tergolong dalam…"
+      },
+      "explanation": {
+        "en": "Interpretation explains meaning.",
+        "bm": "Interpretasi menerangkan makna."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "interpretation",
+          "bm": "interpretasi"
+        },
+        {
+          "en": "description",
+          "bm": "huraian"
+        },
+        {
+          "en": "analysis",
+          "bm": "analisis"
+        },
+        {
+          "en": "judgement",
+          "bm": "penilaian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q17",
+      "subtopicId": "f3psv-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are motifs in Malay crafts often taken from plants rather than humans or animals?",
+        "bm": "Mengapakah motif dalam kraf Melayu sering diambil daripada tumbuhan dan bukan manusia atau haiwan?"
+      },
+      "explanation": {
+        "en": "Motifs also reflect the natural environment.",
+        "bm": "Motif juga mencerminkan alam sekitar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Islamic influence encouraged non-figurative motifs such as flora and geometry",
+          "bm": "Pengaruh Islam menggalakkan motif bukan figura seperti flora dan geometri"
+        },
+        {
+          "en": "Plants are easier to see",
+          "bm": "Tumbuhan lebih mudah dilihat"
+        },
+        {
+          "en": "Animals were unknown",
+          "bm": "Haiwan tidak diketahui"
+        },
+        {
+          "en": "There is no reason",
+          "bm": "Tiada sebab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q18",
+      "subtopicId": "f3psv-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How can young people help preserve traditional crafts?",
+        "bm": "Bagaimanakah golongan muda boleh membantu memelihara kraf tradisional?"
+      },
+      "explanation": {
+        "en": "Crafts survive when they are used and valued.",
+        "bm": "Kraf terus hidup apabila digunakan dan dihargai."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Learn from craftspeople, buy local crafts and create modern designs using traditional motifs",
+          "bm": "Belajar daripada tukang, membeli kraf tempatan dan mencipta reka bentuk moden menggunakan motif tradisional"
+        },
+        {
+          "en": "Ignore them",
+          "bm": "Mengabaikannya"
+        },
+        {
+          "en": "Only buy imported goods",
+          "bm": "Membeli barangan import sahaja"
+        },
+        {
+          "en": "Copy them without credit for profit",
+          "bm": "Meniru tanpa penghargaan untuk keuntungan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q19",
+      "subtopicId": "f3psv-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a well-supported JUDGEMENT in art criticism?",
+        "bm": "Manakah PENILAIAN yang disokong dengan baik dalam kritikan seni?"
+      },
+      "explanation": {
+        "en": "Judgement needs reasons from earlier steps.",
+        "bm": "Penilaian memerlukan alasan daripada langkah sebelumnya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The work succeeds because its strong contrast and rhythm clearly express the energy of the market.",
+          "bm": "Karya ini berjaya kerana kontra dan ritma yang kuat jelas menyampaikan kesibukan pasar."
+        },
+        {
+          "en": "I don't like it.",
+          "bm": "Saya tidak suka."
+        },
+        {
+          "en": "It is blue.",
+          "bm": "Ia berwarna biru."
+        },
+        {
+          "en": "It is 60 cm wide.",
+          "bm": "Ia selebar 60 cm."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-05-q20",
+      "subtopicId": "f3psv-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do art critics describe and analyse BEFORE giving a judgement?",
+        "bm": "Mengapakah pengkritik seni menghurai dan menganalisis SEBELUM memberi penilaian?"
+      },
+      "explanation": {
+        "en": "Careful looking leads to fair opinions.",
+        "bm": "Pemerhatian teliti membawa kepada pendapat yang adil."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "So the judgement is based on evidence, not first impressions",
+          "bm": "Supaya penilaian berdasarkan bukti, bukan tanggapan pertama"
+        },
+        {
+          "en": "To make the essay longer",
+          "bm": "Untuk memanjangkan karangan"
+        },
+        {
+          "en": "Judgement is not needed",
+          "bm": "Penilaian tidak perlu"
+        },
+        {
+          "en": "It is a random order",
+          "bm": "Ia susunan rawak"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

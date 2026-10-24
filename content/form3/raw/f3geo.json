@@ -1,0 +1,219 @@
+{
+  "id": "f3geo",
+  "name": {
+    "en": "Geography",
+    "bm": "Geografi"
+  },
+  "short": {
+    "en": "Geography",
+    "bm": "Geografi"
+  },
+  "color": "#0d9488",
+  "source": "Covers Form 3 KSSM Geografi skills and themes (map skills, physical geography, human geography, environment). Chapter grouping may differ from your textbook — verify with the latest DSKP. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Map Skills: Topographic Maps",
+        "bm": "Kemahiran Peta: Peta Topografi"
+      },
+      "theme": {
+        "en": "Geographical Skills",
+        "bm": "Kemahiran Geografi"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Grid References, Direction and Bearing",
+            "bm": "Rujukan Grid, Arah dan Bearing"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Scale and Distance",
+            "bm": "Skala dan Jarak"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Contours and Relief",
+            "bm": "Kontur dan Bentuk Muka Bumi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Landforms and Processes",
+        "bm": "Bentuk Muka Bumi dan Proses"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Weathering",
+            "bm": "Luluhawa"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "River Landforms",
+            "bm": "Bentuk Muka Bumi Sungai"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Coastal and Limestone Landforms",
+            "bm": "Bentuk Muka Bumi Pinggir Laut dan Batu Kapur"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Weather and Climate of Malaysia",
+        "bm": "Cuaca dan Iklim Malaysia"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Elements of Weather and Instruments",
+            "bm": "Unsur Cuaca dan Alat"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Monsoons and Rainfall",
+            "bm": "Monsun dan Hujan"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Climate of Malaysia",
+            "bm": "Iklim Malaysia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Population and Settlement",
+        "bm": "Penduduk dan Petempatan"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Population Distribution",
+            "bm": "Taburan Penduduk"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Settlement Patterns",
+            "bm": "Pola Petempatan"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Urbanisation and Migration",
+            "bm": "Perbandaran dan Migrasi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Economic Activities in Malaysia",
+        "bm": "Kegiatan Ekonomi di Malaysia"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Primary Activities",
+            "bm": "Kegiatan Primer"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Secondary Activities",
+            "bm": "Kegiatan Sekunder"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Tertiary Activities and Tourism",
+            "bm": "Kegiatan Tertier dan Pelancongan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Resources and Environmental Issues",
+        "bm": "Sumber dan Isu Alam Sekitar"
+      },
+      "theme": {
+        "en": "Environmental Geography",
+        "bm": "Geografi Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Natural Resources",
+            "bm": "Sumber Alam"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Environmental Issues",
+            "bm": "Isu Alam Sekitar"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Sustainable Development",
+            "bm": "Pembangunan Lestari"
+          }
+        }
+      ]
+    }
+  ]
+}

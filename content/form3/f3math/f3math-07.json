@@ -1,0 +1,872 @@
+{
+  "chapterId": "f3math-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Furniture makers, architects and engineers describe a 3-D object on flat paper using three views: from the top, the front and the side. With them, anyone can build it.",
+      "bm": "Pembuat perabot, arkitek dan jurutera menerangkan objek 3-D di atas kertas rata menggunakan tiga pandangan: dari atas, hadapan dan sisi. Dengan pandangan itu, sesiapa sahaja boleh membinanya."
+    },
+    "bigIdeas": [
+      {
+        "en": "An orthogonal projection is a view made with projection lines perpendicular to the plane.",
+        "bm": "Unjuran ortogon ialah pandangan yang dibuat dengan garis unjuran berserenjang dengan satah."
+      },
+      {
+        "en": "The plan is the view from above; the front and side elevations are views from the front and side.",
+        "bm": "Pelan ialah pandangan dari atas; dongakan depan dan dongakan sisi ialah pandangan dari hadapan dan sisi."
+      },
+      {
+        "en": "Visible edges are solid lines; hidden edges are dashed lines.",
+        "bm": "Tepi yang kelihatan ialah garis penuh; tepi tersembunyi ialah garis putus-putus."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Plan (top)",
+            "bm": "Pelan (atas)"
+          },
+          {
+            "en": "Front elevation",
+            "bm": "Dongakan depan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Cube",
+              "bm": "Kubus"
+            },
+            "cells": [
+              {
+                "en": "Square",
+                "bm": "Segi empat sama"
+              },
+              {
+                "en": "Square",
+                "bm": "Segi empat sama"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Cylinder (standing)",
+              "bm": "Silinder (tegak)"
+            },
+            "cells": [
+              {
+                "en": "Circle",
+                "bm": "Bulatan"
+              },
+              {
+                "en": "Rectangle",
+                "bm": "Segi empat tepat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Cone (standing)",
+              "bm": "Kon (tegak)"
+            },
+            "cells": [
+              {
+                "en": "Circle with a centre point",
+                "bm": "Bulatan dengan titik pusat"
+              },
+              {
+                "en": "Triangle",
+                "bm": "Segi tiga"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Square pyramid",
+              "bm": "Piramid tapak segi empat sama"
+            },
+            "cells": [
+              {
+                "en": "Square with diagonals",
+                "bm": "Segi empat sama dengan pepenjuru"
+              },
+              {
+                "en": "Triangle",
+                "bm": "Segi tiga"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sphere",
+              "bm": "Sfera"
+            },
+            "cells": [
+              {
+                "en": "Circle",
+                "bm": "Bulatan"
+              },
+              {
+                "en": "Circle",
+                "bm": "Bulatan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Orthogonal projection",
+          "bm": "Unjuran ortogon"
+        },
+        "definition": {
+          "en": "Image formed on a plane by lines perpendicular to that plane.",
+          "bm": "Imej pada satah yang dibentuk oleh garis berserenjang dengan satah itu."
+        }
+      },
+      {
+        "term": {
+          "en": "Plan",
+          "bm": "Pelan"
+        },
+        "definition": {
+          "en": "Orthogonal projection on a horizontal plane (view from above).",
+          "bm": "Unjuran ortogon pada satah mengufuk (pandangan dari atas)."
+        }
+      },
+      {
+        "term": {
+          "en": "Front elevation",
+          "bm": "Dongakan depan"
+        },
+        "definition": {
+          "en": "Orthogonal projection on a vertical plane, seen from the front.",
+          "bm": "Unjuran ortogon pada satah mencancang, dilihat dari hadapan."
+        }
+      },
+      {
+        "term": {
+          "en": "Side elevation",
+          "bm": "Dongakan sisi"
+        },
+        "definition": {
+          "en": "Orthogonal projection on a vertical plane, seen from the side.",
+          "bm": "Unjuran ortogon pada satah mencancang, dilihat dari sisi."
+        }
+      },
+      {
+        "term": {
+          "en": "Hidden edge",
+          "bm": "Tepi tersembunyi"
+        },
+        "definition": {
+          "en": "An edge that cannot be seen from the viewing direction; drawn dashed.",
+          "bm": "Tepi yang tidak kelihatan dari arah pandangan; dilukis putus-putus."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A cylinder stands upright with diameter 4 cm and height 6 cm. Describe its plan and front elevation.",
+        "bm": "Sebuah silinder berdiri tegak dengan diameter 4 cm dan tinggi 6 cm. Huraikan pelan dan dongakan depannya."
+      },
+      "steps": [
+        {
+          "en": "From above you see the circular top: plan = circle of diameter 4 cm.",
+          "bm": "Dari atas anda melihat permukaan bulat: pelan = bulatan berdiameter 4 cm."
+        },
+        {
+          "en": "From the front you see its full width and height: front elevation = rectangle 4 cm × 6 cm.",
+          "bm": "Dari hadapan anda melihat lebar dan tinggi penuh: dongakan depan = segi empat tepat 4 cm × 6 cm."
+        }
+      ],
+      "answer": {
+        "en": "Plan: circle (d = 4 cm). Front elevation: 4 cm × 6 cm rectangle.",
+        "bm": "Pelan: bulatan (d = 4 cm). Dongakan depan: segi empat tepat 4 cm × 6 cm."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-07-q01",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The plan of a solid is the view from…",
+        "bm": "Pelan sesuatu pepejal ialah pandangan dari…"
+      },
+      "explanation": {
+        "en": "A plan is the projection on a horizontal plane, seen from above.",
+        "bm": "Pelan ialah unjuran pada satah mengufuk, dilihat dari atas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "above",
+          "bm": "atas"
+        },
+        {
+          "en": "the front",
+          "bm": "hadapan"
+        },
+        {
+          "en": "the side",
+          "bm": "sisi"
+        },
+        {
+          "en": "below",
+          "bm": "bawah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q02",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hidden edges in plans and elevations are drawn as…",
+        "bm": "Tepi tersembunyi dalam pelan dan dongakan dilukis sebagai…"
+      },
+      "explanation": {
+        "en": "Dashed lines show edges that are behind and cannot be seen.",
+        "bm": "Garis putus-putus menunjukkan tepi di belakang yang tidak kelihatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dashed lines",
+          "bm": "garis putus-putus"
+        },
+        {
+          "en": "thick solid lines",
+          "bm": "garis penuh tebal"
+        },
+        {
+          "en": "dotted circles",
+          "bm": "bulatan bertitik"
+        },
+        {
+          "en": "they are not drawn",
+          "bm": "tidak dilukis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q03",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the plan of an upright cylinder?",
+        "bm": "Apakah pelan bagi silinder yang tegak?"
+      },
+      "explanation": {
+        "en": "From above you see the circular top.",
+        "bm": "Dari atas anda melihat permukaan bulat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "A circle",
+          "bm": "Bulatan"
+        },
+        {
+          "en": "A rectangle",
+          "bm": "Segi empat tepat"
+        },
+        {
+          "en": "A triangle",
+          "bm": "Segi tiga"
+        },
+        {
+          "en": "A square",
+          "bm": "Segi empat sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q04",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the front elevation of an upright cone?",
+        "bm": "Apakah dongakan depan bagi kon yang tegak?"
+      },
+      "explanation": {
+        "en": "Seen from the front, a cone looks like a triangle.",
+        "bm": "Dilihat dari hadapan, kon kelihatan seperti segi tiga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "A triangle",
+          "bm": "Segi tiga"
+        },
+        {
+          "en": "A circle",
+          "bm": "Bulatan"
+        },
+        {
+          "en": "A rectangle",
+          "bm": "Segi empat tepat"
+        },
+        {
+          "en": "A square",
+          "bm": "Segi empat sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q05",
+      "subtopicId": "f3math-07-01",
+      "type": "fill",
+      "prompt": {
+        "en": "In an orthogonal projection, the projection lines are ______ to the plane. (perpendicular / parallel)",
+        "bm": "Dalam unjuran ortogon, garis unjuran adalah ______ dengan satah. (berserenjang / selari)"
+      },
+      "explanation": {
+        "en": "Orthogonal means at right angles.",
+        "bm": "Ortogon bermaksud bersudut tegak."
+      },
+      "difficulty": 1,
+      "answer": [
+        "perpendicular",
+        "berserenjang",
+        "serenjang"
+      ]
+    },
+    {
+      "id": "f3math-07-q06",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which solid has a circle for its plan, front elevation AND side elevation?",
+        "bm": "Pepejal manakah mempunyai bulatan sebagai pelan, dongakan depan DAN dongakan sisi?"
+      },
+      "explanation": {
+        "en": "A sphere looks the same from every direction.",
+        "bm": "Sfera kelihatan sama dari semua arah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sphere",
+          "bm": "Sfera"
+        },
+        {
+          "en": "Cylinder",
+          "bm": "Silinder"
+        },
+        {
+          "en": "Cone",
+          "bm": "Kon"
+        },
+        {
+          "en": "Cube",
+          "bm": "Kubus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q07",
+      "subtopicId": "f3math-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The front elevation is projected onto a…",
+        "bm": "Dongakan depan diunjurkan pada satah…"
+      },
+      "explanation": {
+        "en": "Elevations are on vertical planes; plans are on horizontal planes.",
+        "bm": "Dongakan pada satah mencancang; pelan pada satah mengufuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "vertical plane",
+          "bm": "mencancang"
+        },
+        {
+          "en": "horizontal plane",
+          "bm": "mengufuk"
+        },
+        {
+          "en": "curved surface",
+          "bm": "melengkung"
+        },
+        {
+          "en": "sloping plane",
+          "bm": "condong"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q08",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the plan of a cube?",
+        "bm": "Apakah pelan bagi kubus?"
+      },
+      "explanation": {
+        "en": "Every face of a cube is a square.",
+        "bm": "Setiap muka kubus ialah segi empat sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "A square",
+          "bm": "Segi empat sama"
+        },
+        {
+          "en": "A triangle",
+          "bm": "Segi tiga"
+        },
+        {
+          "en": "A circle",
+          "bm": "Bulatan"
+        },
+        {
+          "en": "A hexagon",
+          "bm": "Heksagon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q09",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A square-based pyramid stands on its base. Its plan is…",
+        "bm": "Sebuah piramid tapak segi empat sama berdiri di atas tapaknya. Pelannya ialah…"
+      },
+      "explanation": {
+        "en": "The four slanting edges meet at the apex, seen from above as the diagonals.",
+        "bm": "Empat tepi condong bertemu di puncak, dilihat dari atas sebagai pepenjuru."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a square with both diagonals drawn",
+          "bm": "segi empat sama dengan kedua-dua pepenjuru"
+        },
+        {
+          "en": "a triangle",
+          "bm": "segi tiga"
+        },
+        {
+          "en": "a plain square",
+          "bm": "segi empat sama kosong"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q10",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A cylinder is lying on its side (horizontal). Its plan is…",
+        "bm": "Sebuah silinder berbaring (mengufuk). Pelannya ialah…"
+      },
+      "explanation": {
+        "en": "From above you see its length and diameter.",
+        "bm": "Dari atas anda melihat panjang dan diameternya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a rectangle",
+          "bm": "segi empat tepat"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a triangle",
+          "bm": "segi tiga"
+        },
+        {
+          "en": "an ellipse",
+          "bm": "elips"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q11",
+      "subtopicId": "f3math-07-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL correct statements about drawing plans and elevations.",
+        "bm": "Pilih SEMUA pernyataan yang betul tentang melukis pelan dan dongakan."
+      },
+      "explanation": {
+        "en": "Orthogonal views are line drawings; depth is shown by other views, not shading.",
+        "bm": "Pandangan ortogon ialah lukisan garis; kedalaman ditunjukkan oleh pandangan lain, bukan lorekan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Draw to the correct measurements or scale",
+          "bm": "Lukis mengikut ukuran atau skala yang betul"
+        },
+        {
+          "en": "Use dashed lines for hidden edges",
+          "bm": "Guna garis putus-putus untuk tepi tersembunyi"
+        },
+        {
+          "en": "Each view shows the true length of edges parallel to that plane",
+          "bm": "Setiap pandangan menunjukkan panjang sebenar tepi yang selari dengan satah itu"
+        },
+        {
+          "en": "Shade the faces to show depth",
+          "bm": "Lorek muka untuk menunjukkan kedalaman"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3math-07-q12",
+      "subtopicId": "f3math-07-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each solid (standing upright) with its front elevation.",
+        "bm": "Padankan pepejal (berdiri tegak) dengan dongakan depannya."
+      },
+      "explanation": {
+        "en": "Picture each solid from the front.",
+        "bm": "Bayangkan setiap pepejal dari hadapan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Cylinder",
+            "bm": "Silinder"
+          },
+          "right": {
+            "en": "Rectangle",
+            "bm": "Segi empat tepat"
+          }
+        },
+        {
+          "left": {
+            "en": "Cone",
+            "bm": "Kon"
+          },
+          "right": {
+            "en": "Triangle",
+            "bm": "Segi tiga"
+          }
+        },
+        {
+          "left": {
+            "en": "Sphere",
+            "bm": "Sfera"
+          },
+          "right": {
+            "en": "Circle",
+            "bm": "Bulatan"
+          }
+        },
+        {
+          "left": {
+            "en": "Cube",
+            "bm": "Kubus"
+          },
+          "right": {
+            "en": "Square",
+            "bm": "Segi empat sama"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-07-q13",
+      "subtopicId": "f3math-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are three views (plan, front and side elevation) often needed?",
+        "bm": "Mengapakah tiga pandangan (pelan, dongakan depan dan sisi) sering diperlukan?"
+      },
+      "explanation": {
+        "en": "Each orthogonal view shows only two of the three dimensions.",
+        "bm": "Setiap pandangan ortogon hanya menunjukkan dua daripada tiga dimensi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "One view cannot show length, width and height together",
+          "bm": "Satu pandangan tidak dapat menunjukkan panjang, lebar dan tinggi serentak"
+        },
+        {
+          "en": "To make the drawing colourful",
+          "bm": "Supaya lukisan berwarna"
+        },
+        {
+          "en": "Because one view is always wrong",
+          "bm": "Kerana satu pandangan sentiasa salah"
+        },
+        {
+          "en": "To avoid using a ruler",
+          "bm": "Untuk mengelak menggunakan pembaris"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q14",
+      "subtopicId": "f3math-07-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to draw the plan of a solid.",
+        "bm": "Susun langkah melukis pelan sesuatu pepejal."
+      },
+      "explanation": {
+        "en": "Identify → measure → outline → hidden edges → label.",
+        "bm": "Kenal pasti → ukur → garis luar → tepi tersembunyi → label."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Identify the view from above",
+          "bm": "Kenal pasti pandangan dari atas"
+        },
+        {
+          "en": "Measure the edges seen from above",
+          "bm": "Ukur tepi yang dilihat dari atas"
+        },
+        {
+          "en": "Draw the outline with solid lines",
+          "bm": "Lukis garis luar dengan garis penuh"
+        },
+        {
+          "en": "Add hidden edges as dashed lines",
+          "bm": "Tambah tepi tersembunyi dengan garis putus-putus"
+        },
+        {
+          "en": "Label the view",
+          "bm": "Labelkan pandangan"
+        }
+      ]
+    },
+    {
+      "id": "f3math-07-q15",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A triangular prism lies with one rectangular face on the ground and its triangular end facing you. Its front elevation is…",
+        "bm": "Sebuah prisma segi tiga berbaring dengan satu muka segi empat tepat di atas tanah dan hujung segi tiganya menghadap anda. Dongakan depannya ialah…"
+      },
+      "explanation": {
+        "en": "You are looking straight at the triangular cross-section.",
+        "bm": "Anda melihat terus ke keratan rentas segi tiga."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a triangle",
+          "bm": "segi tiga"
+        },
+        {
+          "en": "a rectangle",
+          "bm": "segi empat tepat"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a pentagon",
+          "bm": "pentagon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q16",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the plan of a cone standing upright, the apex appears as…",
+        "bm": "Dalam pelan kon yang berdiri tegak, puncaknya kelihatan sebagai…"
+      },
+      "explanation": {
+        "en": "Looking down, the apex is directly above the centre of the base.",
+        "bm": "Dilihat dari atas, puncak berada tepat di atas pusat tapak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a point at the centre of the circle",
+          "bm": "titik di pusat bulatan"
+        },
+        {
+          "en": "a line",
+          "bm": "garis"
+        },
+        {
+          "en": "a triangle",
+          "bm": "segi tiga"
+        },
+        {
+          "en": "it does not appear",
+          "bm": "tidak kelihatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q17",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A solid has a circular plan and a rectangular front elevation and side elevation. What is it?",
+        "bm": "Sesuatu pepejal mempunyai pelan bulatan dan dongakan depan serta sisi berbentuk segi empat tepat. Apakah pepejal itu?"
+      },
+      "explanation": {
+        "en": "Circle from above + rectangle from front and side = upright cylinder.",
+        "bm": "Bulatan dari atas + segi empat tepat dari hadapan dan sisi = silinder tegak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "An upright cylinder",
+          "bm": "Silinder tegak"
+        },
+        {
+          "en": "A cone",
+          "bm": "Kon"
+        },
+        {
+          "en": "A sphere",
+          "bm": "Sfera"
+        },
+        {
+          "en": "A cube",
+          "bm": "Kubus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q18",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A cuboid 6 cm long, 4 cm wide and 3 cm high has a 2 cm × 2 cm square hole drilled straight down through it. Which view shows the hole as a solid-line square?",
+        "bm": "Sebuah kuboid 6 cm panjang, 4 cm lebar dan 3 cm tinggi ditebuk lubang segi empat sama 2 cm × 2 cm terus ke bawah. Pandangan manakah menunjukkan lubang itu sebagai segi empat sama bergaris penuh?"
+      },
+      "explanation": {
+        "en": "From above the hole is visible (solid lines); in the elevations it is hidden and drawn dashed.",
+        "bm": "Dari atas lubang kelihatan (garis penuh); dalam dongakan ia tersembunyi dan dilukis putus-putus."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The plan",
+          "bm": "Pelan"
+        },
+        {
+          "en": "The front elevation",
+          "bm": "Dongakan depan"
+        },
+        {
+          "en": "The side elevation",
+          "bm": "Dongakan sisi"
+        },
+        {
+          "en": "None of them",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q19",
+      "subtopicId": "f3math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two different solids can have the SAME plan. Which pair is an example?",
+        "bm": "Dua pepejal berbeza boleh mempunyai pelan yang SAMA. Pasangan manakah contohnya?"
+      },
+      "explanation": {
+        "en": "Both give a circle from above (the cone adds a centre point), so elevations are needed to tell them apart.",
+        "bm": "Kedua-duanya memberi bulatan dari atas (kon menambah titik pusat), jadi dongakan diperlukan untuk membezakannya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "An upright cylinder and an upright cone of the same base",
+          "bm": "Silinder tegak dan kon tegak dengan tapak sama"
+        },
+        {
+          "en": "A cube and a sphere",
+          "bm": "Kubus dan sfera"
+        },
+        {
+          "en": "A cone and a cube",
+          "bm": "Kon dan kubus"
+        },
+        {
+          "en": "A sphere and a cuboid",
+          "bm": "Sfera dan kuboid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-07-q20",
+      "subtopicId": "f3math-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement explains why an edge drawn in the plan may look SHORTER than the real edge?",
+        "bm": "Pernyataan manakah menerangkan mengapa tepi dalam pelan mungkin kelihatan LEBIH PENDEK daripada tepi sebenar?"
+      },
+      "explanation": {
+        "en": "Only edges parallel to the projection plane appear at true length.",
+        "bm": "Hanya tepi yang selari dengan satah unjuran kelihatan pada panjang sebenar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The edge slopes, so it is not parallel to the horizontal plane",
+          "bm": "Tepi itu condong, jadi tidak selari dengan satah mengufuk"
+        },
+        {
+          "en": "The drawing is wrong",
+          "bm": "Lukisan salah"
+        },
+        {
+          "en": "Plans always halve lengths",
+          "bm": "Pelan sentiasa membahagi dua panjang"
+        },
+        {
+          "en": "Hidden edges are shorter",
+          "bm": "Tepi tersembunyi lebih pendek"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

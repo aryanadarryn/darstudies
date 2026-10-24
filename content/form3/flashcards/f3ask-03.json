@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3ask-03",
+  "cards": [
+    {
+      "id": "f3ask-03-f01",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "Bit / byte",
+        "bm": "Bit / bait"
+      },
+      "back": {
+        "en": "0 or 1 / 8 bits",
+        "bm": "0 atau 1 / 8 bit"
+      }
+    },
+    {
+      "id": "f3ask-03-f02",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "Binary place values",
+        "bm": "Nilai tempat perduaan"
+      },
+      "back": {
+        "en": "…16, 8, 4, 2, 1",
+        "bm": "…16, 8, 4, 2, 1"
+      }
+    },
+    {
+      "id": "f3ask-03-f03",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "1011₂",
+        "bm": "1011₂"
+      },
+      "back": {
+        "en": "11",
+        "bm": "11"
+      }
+    },
+    {
+      "id": "f3ask-03-f04",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "25",
+        "bm": "25"
+      },
+      "back": {
+        "en": "11001₂",
+        "bm": "11001₂"
+      }
+    },
+    {
+      "id": "f3ask-03-f05",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "Largest 8-bit value",
+        "bm": "Nilai 8 bit terbesar"
+      },
+      "back": {
+        "en": "255",
+        "bm": "255"
+      }
+    },
+    {
+      "id": "f3ask-03-f06",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "Data units",
+        "bm": "Unit data"
+      },
+      "back": {
+        "en": "byte < KB < MB < GB < TB",
+        "bm": "bait < KB < MB < GB < TB"
+      }
+    },
+    {
+      "id": "f3ask-03-f07",
+      "subtopicId": "f3ask-03-02",
+      "front": {
+        "en": "First index",
+        "bm": "Indeks pertama"
+      },
+      "back": {
+        "en": "0",
+        "bm": "0"
+      }
+    },
+    {
+      "id": "f3ask-03-f08",
+      "subtopicId": "f3ask-03-02",
+      "front": {
+        "en": "Last item",
+        "bm": "Item terakhir"
+      },
+      "back": {
+        "en": "list[-1]",
+        "bm": "list[-1]"
+      }
+    },
+    {
+      "id": "f3ask-03-f09",
+      "subtopicId": "f3ask-03-02",
+      "front": {
+        "en": "len()",
+        "bm": "len()"
+      },
+      "back": {
+        "en": "Number of items or characters",
+        "bm": "Bilangan item atau aksara"
+      }
+    },
+    {
+      "id": "f3ask-03-f10",
+      "subtopicId": "f3ask-03-02",
+      "front": {
+        "en": ".append(x)",
+        "bm": ".append(x)"
+      },
+      "back": {
+        "en": "Add x to the end",
+        "bm": "Tambah x di hujung"
+      }
+    },
+    {
+      "id": "f3ask-03-f11",
+      "subtopicId": "f3ask-03-02",
+      "front": {
+        "en": "Slicing",
+        "bm": "Hirisan"
+      },
+      "back": {
+        "en": "\"Python\"[1:4] = \"yth\"",
+        "bm": "\"Python\"[1:4] = \"yth\""
+      }
+    },
+    {
+      "id": "f3ask-03-f12",
+      "subtopicId": "f3ask-03-03",
+      "front": {
+        "en": "Linear search",
+        "bm": "Carian linear"
+      },
+      "back": {
+        "en": "One by one; any list",
+        "bm": "Satu demi satu; mana-mana senarai"
+      }
+    },
+    {
+      "id": "f3ask-03-f13",
+      "subtopicId": "f3ask-03-03",
+      "front": {
+        "en": "Binary search",
+        "bm": "Carian perduaan"
+      },
+      "back": {
+        "en": "Halve each step; list must be sorted",
+        "bm": "Bahagi dua setiap langkah; senarai mesti terisih"
+      }
+    },
+    {
+      "id": "f3ask-03-f14",
+      "subtopicId": "f3ask-03-03",
+      "front": {
+        "en": "Bubble sort",
+        "bm": "Isihan buih"
+      },
+      "back": {
+        "en": "Swap neighbours; largest moves to the end each pass",
+        "bm": "Tukar jiran; terbesar ke hujung setiap laluan"
+      }
+    },
+    {
+      "id": "f3ask-03-f15",
+      "subtopicId": "f3ask-03-03",
+      "front": {
+        "en": "Ascending / descending",
+        "bm": "Menaik / menurun"
+      },
+      "back": {
+        "en": "Small → large / large → small",
+        "bm": "Kecil → besar / besar → kecil"
+      }
+    }
+  ]
+}

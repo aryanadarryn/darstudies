@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3geo-01",
+  "cards": [
+    {
+      "id": "f3geo-01-f01",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "Grid reference order",
+        "bm": "Susunan rujukan grid"
+      },
+      "back": {
+        "en": "Easting first, then northing",
+        "bm": "Timuran dahulu, kemudian utaraan"
+      }
+    },
+    {
+      "id": "f3geo-01-f02",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "4-figure reference",
+        "bm": "Rujukan 4 angka"
+      },
+      "back": {
+        "en": "Locates a grid square",
+        "bm": "Menentukan petak grid"
+      }
+    },
+    {
+      "id": "f3geo-01-f03",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "6-figure reference",
+        "bm": "Rujukan 6 angka"
+      },
+      "back": {
+        "en": "Locates a point within the square",
+        "bm": "Menentukan titik dalam petak"
+      }
+    },
+    {
+      "id": "f3geo-01-f04",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "Bearing",
+        "bm": "Bearing"
+      },
+      "back": {
+        "en": "Degrees clockwise from north, 3 digits",
+        "bm": "Darjah mengikut arah jam dari utara, 3 digit"
+      }
+    },
+    {
+      "id": "f3geo-01-f05",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "N / E / S / W bearings",
+        "bm": "Bearing U / T / S / B"
+      },
+      "back": {
+        "en": "000° / 090° / 180° / 270°",
+        "bm": "000° / 090° / 180° / 270°"
+      }
+    },
+    {
+      "id": "f3geo-01-f06",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "NE / SE / SW / NW",
+        "bm": "TL / TG / BD / BL"
+      },
+      "back": {
+        "en": "045° / 135° / 225° / 315°",
+        "bm": "045° / 135° / 225° / 315°"
+      }
+    },
+    {
+      "id": "f3geo-01-f07",
+      "subtopicId": "f3geo-01-01",
+      "front": {
+        "en": "Back bearing",
+        "bm": "Bearing songsang"
+      },
+      "back": {
+        "en": "± 180°",
+        "bm": "± 180°"
+      }
+    },
+    {
+      "id": "f3geo-01-f08",
+      "subtopicId": "f3geo-01-02",
+      "front": {
+        "en": "1 : 50 000",
+        "bm": "1 : 50 000"
+      },
+      "back": {
+        "en": "1 cm = 0.5 km; 2 cm = 1 km",
+        "bm": "1 cm = 0.5 km; 2 cm = 1 km"
+      }
+    },
+    {
+      "id": "f3geo-01-f09",
+      "subtopicId": "f3geo-01-02",
+      "front": {
+        "en": "1 : 25 000",
+        "bm": "1 : 25 000"
+      },
+      "back": {
+        "en": "1 cm = 250 m; 4 cm = 1 km",
+        "bm": "1 cm = 250 m; 4 cm = 1 km"
+      }
+    },
+    {
+      "id": "f3geo-01-f10",
+      "subtopicId": "f3geo-01-02",
+      "front": {
+        "en": "Measuring curved distance",
+        "bm": "Mengukur jarak berliku"
+      },
+      "back": {
+        "en": "Use string or paper edge along the route",
+        "bm": "Guna benang atau tepi kertas mengikut laluan"
+      }
+    },
+    {
+      "id": "f3geo-01-f11",
+      "subtopicId": "f3geo-01-03",
+      "front": {
+        "en": "Contour line",
+        "bm": "Garisan kontur"
+      },
+      "back": {
+        "en": "Joins places of equal height",
+        "bm": "Menyambungkan tempat sama tinggi"
+      }
+    },
+    {
+      "id": "f3geo-01-f12",
+      "subtopicId": "f3geo-01-03",
+      "front": {
+        "en": "Close contours",
+        "bm": "Kontur rapat"
+      },
+      "back": {
+        "en": "Steep slope",
+        "bm": "Cerun curam"
+      }
+    },
+    {
+      "id": "f3geo-01-f13",
+      "subtopicId": "f3geo-01-03",
+      "front": {
+        "en": "Widely spaced contours",
+        "bm": "Kontur jarang"
+      },
+      "back": {
+        "en": "Gentle slope",
+        "bm": "Cerun landai"
+      }
+    },
+    {
+      "id": "f3geo-01-f14",
+      "subtopicId": "f3geo-01-03",
+      "front": {
+        "en": "Closed rings rising inward",
+        "bm": "Gelang tertutup meninggi ke dalam"
+      },
+      "back": {
+        "en": "Hill",
+        "bm": "Bukit"
+      }
+    },
+    {
+      "id": "f3geo-01-f15",
+      "subtopicId": "f3geo-01-03",
+      "front": {
+        "en": "V-shape pointing uphill",
+        "bm": "Bentuk V menghala ke tanah tinggi"
+      },
+      "back": {
+        "en": "Valley",
+        "bm": "Lembah"
+      }
+    }
+  ]
+}

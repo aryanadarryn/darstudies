@@ -1,0 +1,716 @@
+{
+  "chapterId": "f3math-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A single bacterium splits into two every 20 minutes. After 10 splits there are 2¹⁰ = 1024 bacteria. Indices let us write huge repeated multiplications in a few characters.",
+      "bm": "Satu bakteria membahagi kepada dua setiap 20 minit. Selepas 10 kali pembahagian terdapat 2¹⁰ = 1024 bakteria. Indeks membolehkan pendaraban berulang yang besar ditulis dengan ringkas."
+    },
+    "bigIdeas": [
+      {
+        "en": "aⁿ means a multiplied by itself n times; a is the base and n is the index.",
+        "bm": "aⁿ bermaksud a didarab dengan dirinya sendiri sebanyak n kali; a ialah asas dan n ialah indeks."
+      },
+      {
+        "en": "Multiply → add indices; divide → subtract indices; power of a power → multiply indices.",
+        "bm": "Darab → tambah indeks; bahagi → tolak indeks; kuasa bagi kuasa → darab indeks."
+      },
+      {
+        "en": "a⁰ = 1, a⁻ⁿ = 1/aⁿ and a^(1/n) = ⁿ√a (a ≠ 0).",
+        "bm": "a⁰ = 1, a⁻ⁿ = 1/aⁿ dan a^(1/n) = ⁿ√a (a ≠ 0)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Law",
+            "bm": "Hukum"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Multiplication",
+              "bm": "Pendaraban"
+            },
+            "cells": [
+              {
+                "en": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+                "bm": "aᵐ × aⁿ = aᵐ⁺ⁿ"
+              },
+              {
+                "en": "2³ × 2⁴ = 2⁷",
+                "bm": "2³ × 2⁴ = 2⁷"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Division",
+              "bm": "Pembahagian"
+            },
+            "cells": [
+              {
+                "en": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ",
+                "bm": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ"
+              },
+              {
+                "en": "5⁶ ÷ 5² = 5⁴",
+                "bm": "5⁶ ÷ 5² = 5⁴"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Power of a power",
+              "bm": "Kuasa bagi kuasa"
+            },
+            "cells": [
+              {
+                "en": "(aᵐ)ⁿ = aᵐⁿ",
+                "bm": "(aᵐ)ⁿ = aᵐⁿ"
+              },
+              {
+                "en": "(3²)³ = 3⁶",
+                "bm": "(3²)³ = 3⁶"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Zero index",
+              "bm": "Indeks sifar"
+            },
+            "cells": [
+              {
+                "en": "a⁰ = 1",
+                "bm": "a⁰ = 1"
+              },
+              {
+                "en": "7⁰ = 1",
+                "bm": "7⁰ = 1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Negative index",
+              "bm": "Indeks negatif"
+            },
+            "cells": [
+              {
+                "en": "a⁻ⁿ = 1/aⁿ",
+                "bm": "a⁻ⁿ = 1/aⁿ"
+              },
+              {
+                "en": "2⁻³ = 1/8",
+                "bm": "2⁻³ = 1/8"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Fractional index",
+              "bm": "Indeks pecahan"
+            },
+            "cells": [
+              {
+                "en": "a^(m/n) = (ⁿ√a)ᵐ",
+                "bm": "a^(m/n) = (ⁿ√a)ᵐ"
+              },
+              {
+                "en": "8^(2/3) = 4",
+                "bm": "8^(2/3) = 4"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Base",
+          "bm": "Asas"
+        },
+        "definition": {
+          "en": "The number being multiplied repeatedly (a in aⁿ).",
+          "bm": "Nombor yang didarab berulang kali (a dalam aⁿ)."
+        }
+      },
+      {
+        "term": {
+          "en": "Index",
+          "bm": "Indeks"
+        },
+        "definition": {
+          "en": "How many times the base is multiplied (n in aⁿ).",
+          "bm": "Bilangan kali asas didarab (n dalam aⁿ)."
+        }
+      },
+      {
+        "term": {
+          "en": "Index notation",
+          "bm": "Tatatanda indeks"
+        },
+        "definition": {
+          "en": "Writing repeated multiplication as aⁿ.",
+          "bm": "Menulis pendaraban berulang sebagai aⁿ."
+        }
+      },
+      {
+        "term": {
+          "en": "Negative index",
+          "bm": "Indeks negatif"
+        },
+        "definition": {
+          "en": "a⁻ⁿ is the reciprocal of aⁿ.",
+          "bm": "a⁻ⁿ ialah salingan bagi aⁿ."
+        }
+      },
+      {
+        "term": {
+          "en": "Fractional index",
+          "bm": "Indeks pecahan"
+        },
+        "definition": {
+          "en": "a^(1/n) is the nth root of a.",
+          "bm": "a^(1/n) ialah punca kuasa n bagi a."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-idx-mul",
+      "f3-idx-div",
+      "f3-idx-pow",
+      "f3-idx-neg",
+      "f3-idx-frac"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Simplify (2a³b)² × a⁻⁴.",
+        "bm": "Ringkaskan (2a³b)² × a⁻⁴."
+      },
+      "steps": [
+        {
+          "en": "Power of a power: (2a³b)² = 2²a⁶b² = 4a⁶b².",
+          "bm": "Kuasa bagi kuasa: (2a³b)² = 2²a⁶b² = 4a⁶b²."
+        },
+        {
+          "en": "Multiply: 4a⁶b² × a⁻⁴ = 4a⁶⁺⁽⁻⁴⁾b² = 4a²b².",
+          "bm": "Darab: 4a⁶b² × a⁻⁴ = 4a⁶⁺⁽⁻⁴⁾b² = 4a²b²."
+        }
+      ],
+      "answer": {
+        "en": "4a²b²",
+        "bm": "4a²b²"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-01-q01",
+      "subtopicId": "f3math-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Write 2 × 2 × 2 × 2 × 2 in index notation.",
+        "bm": "Tulis 2 × 2 × 2 × 2 × 2 dalam tatatanda indeks."
+      },
+      "explanation": {
+        "en": "The base 2 is multiplied 5 times, so the index is 5.",
+        "bm": "Asas 2 didarab 5 kali, jadi indeksnya 5."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2⁵",
+          "bm": "2⁵"
+        },
+        {
+          "en": "5²",
+          "bm": "5²"
+        },
+        {
+          "en": "2 × 5",
+          "bm": "2 × 5"
+        },
+        {
+          "en": "10",
+          "bm": "10"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q02",
+      "subtopicId": "f3math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 3⁴.",
+        "bm": "Cari nilai 3⁴."
+      },
+      "explanation": {
+        "en": "3 × 3 × 3 × 3 = 81.",
+        "bm": "3 × 3 × 3 × 3 = 81."
+      },
+      "difficulty": 1,
+      "answer": 81,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q03",
+      "subtopicId": "f3math-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "In 7⁵, the number 7 is called the ______.",
+        "bm": "Dalam 7⁵, nombor 7 dipanggil ______."
+      },
+      "explanation": {
+        "en": "7 is the base and 5 is the index.",
+        "bm": "7 ialah asas dan 5 ialah indeks."
+      },
+      "difficulty": 1,
+      "answer": [
+        "base",
+        "asas"
+      ]
+    },
+    {
+      "id": "f3math-01-q04",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 5⁰.",
+        "bm": "Cari nilai 5⁰."
+      },
+      "explanation": {
+        "en": "Any non-zero number to the power 0 equals 1.",
+        "bm": "Sebarang nombor bukan sifar berkuasa 0 bersamaan 1."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q05",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify a³ × a⁴.",
+        "bm": "Ringkaskan a³ × a⁴."
+      },
+      "explanation": {
+        "en": "Same base, multiply → add indices: 3 + 4 = 7.",
+        "bm": "Asas sama, darab → tambah indeks: 3 + 4 = 7."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a⁷",
+          "bm": "a⁷"
+        },
+        {
+          "en": "a¹²",
+          "bm": "a¹²"
+        },
+        {
+          "en": "2a⁷",
+          "bm": "2a⁷"
+        },
+        {
+          "en": "a",
+          "bm": "a"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q06",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify a⁹ ÷ a³.",
+        "bm": "Ringkaskan a⁹ ÷ a³."
+      },
+      "explanation": {
+        "en": "Divide → subtract indices: 9 − 3 = 6.",
+        "bm": "Bahagi → tolak indeks: 9 − 3 = 6."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a⁶",
+          "bm": "a⁶"
+        },
+        {
+          "en": "a³",
+          "bm": "a³"
+        },
+        {
+          "en": "a¹²",
+          "bm": "a¹²"
+        },
+        {
+          "en": "a²⁷",
+          "bm": "a²⁷"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q07",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify (a²)⁵.",
+        "bm": "Ringkaskan (a²)⁵."
+      },
+      "explanation": {
+        "en": "Power of a power → multiply indices: 2 × 5 = 10.",
+        "bm": "Kuasa bagi kuasa → darab indeks: 2 × 5 = 10."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a¹⁰",
+          "bm": "a¹⁰"
+        },
+        {
+          "en": "a⁷",
+          "bm": "a⁷"
+        },
+        {
+          "en": "a²⁵",
+          "bm": "a²⁵"
+        },
+        {
+          "en": "5a²",
+          "bm": "5a²"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q08",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 2⁻³ as a decimal.",
+        "bm": "Cari nilai 2⁻³ dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "2⁻³ = 1/2³ = 1/8 = 0.125.",
+        "bm": "2⁻³ = 1/2³ = 1/8 = 0.125."
+      },
+      "difficulty": 1,
+      "answer": 0.125,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q09",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 16^(1/2).",
+        "bm": "Cari nilai 16^(1/2)."
+      },
+      "explanation": {
+        "en": "16^(1/2) = √16 = 4.",
+        "bm": "16^(1/2) = √16 = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q10",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 27^(2/3).",
+        "bm": "Cari nilai 27^(2/3)."
+      },
+      "explanation": {
+        "en": "27^(2/3) = (∛27)² = 3² = 9.",
+        "bm": "27^(2/3) = (∛27)² = 3² = 9."
+      },
+      "difficulty": 2,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q11",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify (2x³)².",
+        "bm": "Ringkaskan (2x³)²."
+      },
+      "explanation": {
+        "en": "Square both factors: 2² = 4 and (x³)² = x⁶.",
+        "bm": "Kuasa duakan kedua-dua faktor: 2² = 4 dan (x³)² = x⁶."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "4x⁶",
+          "bm": "4x⁶"
+        },
+        {
+          "en": "2x⁶",
+          "bm": "2x⁶"
+        },
+        {
+          "en": "4x⁵",
+          "bm": "4x⁵"
+        },
+        {
+          "en": "2x⁹",
+          "bm": "2x⁹"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q12",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of 3⁵ × 3⁻² ÷ 3.",
+        "bm": "Cari nilai 3⁵ × 3⁻² ÷ 3."
+      },
+      "explanation": {
+        "en": "Indices: 5 + (−2) − 1 = 2, so 3² = 9.",
+        "bm": "Indeks: 5 + (−2) − 1 = 2, jadi 3² = 9."
+      },
+      "difficulty": 2,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q13",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which expression equals 1/a⁴?",
+        "bm": "Ungkapan manakah bersamaan dengan 1/a⁴?"
+      },
+      "explanation": {
+        "en": "A negative index means the reciprocal.",
+        "bm": "Indeks negatif bermaksud salingan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a⁻⁴",
+          "bm": "a⁻⁴"
+        },
+        {
+          "en": "−a⁴",
+          "bm": "−a⁴"
+        },
+        {
+          "en": "a^(1/4)",
+          "bm": "a^(1/4)"
+        },
+        {
+          "en": "4a",
+          "bm": "4a"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q14",
+      "subtopicId": "f3math-01-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each expression with its simplified form.",
+        "bm": "Padankan ungkapan dengan bentuk ringkasnya."
+      },
+      "explanation": {
+        "en": "Add, subtract or multiply indices; any non-zero base to the power 0 is 1.",
+        "bm": "Tambah, tolak atau darab indeks; asas bukan sifar berkuasa 0 ialah 1."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "x² × x⁵",
+            "bm": "x² × x⁵"
+          },
+          "right": {
+            "en": "x⁷",
+            "bm": "x⁷"
+          }
+        },
+        {
+          "left": {
+            "en": "x⁸ ÷ x²",
+            "bm": "x⁸ ÷ x²"
+          },
+          "right": {
+            "en": "x⁶",
+            "bm": "x⁶"
+          }
+        },
+        {
+          "left": {
+            "en": "(x³)³",
+            "bm": "(x³)³"
+          },
+          "right": {
+            "en": "x⁹",
+            "bm": "x⁹"
+          }
+        },
+        {
+          "left": {
+            "en": "x⁰",
+            "bm": "x⁰"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-01-q15",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Solve 2ˣ = 32.",
+        "bm": "Selesaikan 2ˣ = 32."
+      },
+      "explanation": {
+        "en": "32 = 2⁵, so x = 5.",
+        "bm": "32 = 2⁵, jadi x = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q16",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify (m²n³)² × mn.",
+        "bm": "Ringkaskan (m²n³)² × mn."
+      },
+      "explanation": {
+        "en": "(m²n³)² = m⁴n⁶; then × mn gives m⁵n⁷.",
+        "bm": "(m²n³)² = m⁴n⁶; kemudian × mn memberi m⁵n⁷."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "m⁵n⁷",
+          "bm": "m⁵n⁷"
+        },
+        {
+          "en": "m⁴n⁶",
+          "bm": "m⁴n⁶"
+        },
+        {
+          "en": "m⁵n⁶",
+          "bm": "m⁵n⁶"
+        },
+        {
+          "en": "m³n⁷",
+          "bm": "m³n⁷"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-01-q17",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Solve 3ˣ⁺¹ = 81.",
+        "bm": "Selesaikan 3ˣ⁺¹ = 81."
+      },
+      "explanation": {
+        "en": "81 = 3⁴, so x + 1 = 4 and x = 3.",
+        "bm": "81 = 3⁴, jadi x + 1 = 4 dan x = 3."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q18",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Solve 4ˣ = 8.",
+        "bm": "Selesaikan 4ˣ = 8."
+      },
+      "explanation": {
+        "en": "Write both with base 2: 2²ˣ = 2³, so 2x = 3 and x = 1.5.",
+        "bm": "Tulis dengan asas 2: 2²ˣ = 2³, jadi 2x = 3 dan x = 1.5."
+      },
+      "difficulty": 3,
+      "answer": 1.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q19",
+      "subtopicId": "f3math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of (8^(1/3) × 9^(1/2))².",
+        "bm": "Cari nilai (8^(1/3) × 9^(1/2))²."
+      },
+      "explanation": {
+        "en": "8^(1/3) = 2 and 9^(1/2) = 3, so (2 × 3)² = 36.",
+        "bm": "8^(1/3) = 2 dan 9^(1/2) = 3, jadi (2 × 3)² = 36."
+      },
+      "difficulty": 3,
+      "answer": 36,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-01-q20",
+      "subtopicId": "f3math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is equal to 81^(3/4)?",
+        "bm": "Antara berikut, yang manakah bersamaan dengan 81^(3/4)?"
+      },
+      "explanation": {
+        "en": "Fourth root of 81 is 3; 3³ = 27.",
+        "bm": "Punca kuasa empat bagi 81 ialah 3; 3³ = 27."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "27",
+          "bm": "27"
+        },
+        {
+          "en": "60.75",
+          "bm": "60.75"
+        },
+        {
+          "en": "243",
+          "bm": "243"
+        },
+        {
+          "en": "9",
+          "bm": "9"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

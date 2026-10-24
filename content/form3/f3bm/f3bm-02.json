@@ -1,0 +1,854 @@
+{
+  "chapterId": "f3bm-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Kek itu dimakan oleh saya\" sounds natural to many students — but it is wrong in standard Malay. The correct form is \"Kek itu saya makan\".",
+      "bm": "\"Kek itu dimakan oleh saya\" kedengaran biasa kepada ramai murid — tetapi ia salah dalam bahasa Melayu baku. Bentuk yang betul ialah \"Kek itu saya makan\"."
+    },
+    "bigIdeas": [
+      {
+        "en": "Only active transitive sentences (with an object) can be changed into passive sentences.",
+        "bm": "Hanya ayat aktif transitif (yang mempunyai objek) boleh ditukarkan kepada ayat pasif."
+      },
+      {
+        "en": "With first and second person pronouns, the passive uses pronoun + base verb (Buku itu saya baca).",
+        "bm": "Bagi kata ganti nama diri pertama dan kedua, ayat pasif menggunakan kata ganti nama + kata dasar (Buku itu saya baca)."
+      },
+      {
+        "en": "Indirect speech removes quotation marks and changes pronouns, place and time words.",
+        "bm": "Cakap pindah membuang tanda petikan serta menukar kata ganti nama, kata tempat dan kata waktu."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Direct speech (cakap ajuk)",
+            "bm": "Cakap ajuk"
+          },
+          {
+            "en": "Indirect speech (cakap pindah)",
+            "bm": "Cakap pindah"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Pronoun",
+              "bm": "Kata ganti nama"
+            },
+            "cells": [
+              {
+                "en": "saya / kami",
+                "bm": "saya / kami"
+              },
+              {
+                "en": "dia / mereka",
+                "bm": "dia / mereka"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Place",
+              "bm": "Tempat"
+            },
+            "cells": [
+              {
+                "en": "ini / sini",
+                "bm": "ini / sini"
+              },
+              {
+                "en": "itu / sana",
+                "bm": "itu / sana"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Time",
+              "bm": "Masa"
+            },
+            "cells": [
+              {
+                "en": "esok / semalam",
+                "bm": "esok / semalam"
+              },
+              {
+                "en": "keesokan harinya / sehari sebelumnya",
+                "bm": "keesokan harinya / sehari sebelumnya"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Linking word",
+              "bm": "Kata penghubung"
+            },
+            "cells": [
+              {
+                "en": "— (quotation marks)",
+                "bm": "— (tanda petikan)"
+              },
+              {
+                "en": "bahawa / supaya / sama ada",
+                "bm": "bahawa / supaya / sama ada"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Ayat aktif",
+          "bm": "Ayat aktif"
+        },
+        "definition": {
+          "en": "The subject does the action: Ali menendang bola.",
+          "bm": "Subjek melakukan perbuatan: Ali menendang bola."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat pasif",
+          "bm": "Ayat pasif"
+        },
+        "definition": {
+          "en": "The object is brought to the front: Bola ditendang oleh Ali.",
+          "bm": "Objek dikedepankan: Bola ditendang oleh Ali."
+        }
+      },
+      {
+        "term": {
+          "en": "Cakap ajuk",
+          "bm": "Cakap ajuk"
+        },
+        "definition": {
+          "en": "The speaker's exact words inside quotation marks.",
+          "bm": "Kata-kata asal penutur dalam tanda petikan."
+        }
+      },
+      {
+        "term": {
+          "en": "Cakap pindah",
+          "bm": "Cakap pindah"
+        },
+        "definition": {
+          "en": "Reported speech without quotation marks.",
+          "bm": "Percakapan yang dilaporkan tanpa tanda petikan."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat perintah",
+          "bm": "Ayat perintah"
+        },
+        "definition": {
+          "en": "Commands: suruhan, larangan, silaan, permintaan.",
+          "bm": "Arahan: suruhan, larangan, silaan, permintaan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Change to indirect speech: Aminah berkata, \"Saya akan ke Ipoh esok.\"",
+        "bm": "Tukarkan kepada cakap pindah: Aminah berkata, \"Saya akan ke Ipoh esok.\""
+      },
+      "steps": [
+        {
+          "en": "Remove the quotation marks and add \"bahawa\".",
+          "bm": "Buang tanda petikan dan tambah \"bahawa\"."
+        },
+        {
+          "en": "Change \"saya\" → \"dia\".",
+          "bm": "Tukar \"saya\" → \"dia\"."
+        },
+        {
+          "en": "Change \"esok\" → \"pada keesokan harinya\".",
+          "bm": "Tukar \"esok\" → \"pada keesokan harinya\"."
+        }
+      ],
+      "answer": {
+        "en": "Aminah berkata bahawa dia akan ke Ipoh pada keesokan harinya.",
+        "bm": "Aminah berkata bahawa dia akan ke Ipoh pada keesokan harinya."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bm-02-q01",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an active sentence?",
+        "bm": "Antara berikut, yang manakah ayat aktif?"
+      },
+      "explanation": {
+        "en": "The subject (ibu) does the action.",
+        "bm": "Subjek (ibu) melakukan perbuatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ibu memasak nasi.",
+          "bm": "Ibu memasak nasi."
+        },
+        {
+          "en": "Nasi dimasak oleh ibu.",
+          "bm": "Nasi dimasak oleh ibu."
+        },
+        {
+          "en": "Nasi itu saya masak.",
+          "bm": "Nasi itu saya masak."
+        },
+        {
+          "en": "Pencuri itu tertangkap.",
+          "bm": "Pencuri itu tertangkap."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q02",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to passive: \"Ali membaca buku itu.\"",
+        "bm": "Tukarkan kepada ayat pasif: \"Ali membaca buku itu.\""
+      },
+      "explanation": {
+        "en": "Third-person nouns use di-…oleh.",
+        "bm": "Kata nama orang ketiga menggunakan di-…oleh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Buku itu dibaca oleh Ali.",
+          "bm": "Buku itu dibaca oleh Ali."
+        },
+        {
+          "en": "Buku itu Ali baca oleh.",
+          "bm": "Buku itu Ali baca oleh."
+        },
+        {
+          "en": "Buku itu membaca Ali.",
+          "bm": "Buku itu membaca Ali."
+        },
+        {
+          "en": "Ali dibaca buku itu.",
+          "bm": "Ali dibaca buku itu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q03",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which passive sentence is correct?",
+        "bm": "Ayat pasif manakah betul?"
+      },
+      "explanation": {
+        "en": "First-person pronoun + base verb, without di- or oleh.",
+        "bm": "Kata ganti nama diri pertama + kata dasar, tanpa di- atau oleh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Surat itu saya tulis.",
+          "bm": "Surat itu saya tulis."
+        },
+        {
+          "en": "Surat itu ditulis oleh saya.",
+          "bm": "Surat itu ditulis oleh saya."
+        },
+        {
+          "en": "Surat itu disaya tulis.",
+          "bm": "Surat itu disaya tulis."
+        },
+        {
+          "en": "Surat itu tulis saya.",
+          "bm": "Surat itu tulis saya."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q04",
+      "subtopicId": "f3bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Direct speech is written…",
+        "bm": "Cakap ajuk ditulis…"
+      },
+      "explanation": {
+        "en": "It shows the speaker's exact words.",
+        "bm": "Ia menunjukkan kata-kata asal penutur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "inside quotation marks",
+          "bm": "dalam tanda petikan"
+        },
+        {
+          "en": "without punctuation",
+          "bm": "tanpa tanda baca"
+        },
+        {
+          "en": "only in brackets",
+          "bm": "dalam kurungan sahaja"
+        },
+        {
+          "en": "in capital letters",
+          "bm": "dengan huruf besar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q05",
+      "subtopicId": "f3bm-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In indirect speech, \"esok\" becomes \"pada ______ harinya\".",
+        "bm": "Dalam cakap pindah, \"esok\" menjadi \"pada ______ harinya\"."
+      },
+      "explanation": {
+        "en": "\"Semalam\" becomes \"sehari sebelumnya\".",
+        "bm": "\"Semalam\" menjadi \"sehari sebelumnya\"."
+      },
+      "difficulty": 1,
+      "answer": [
+        "keesokan"
+      ]
+    },
+    {
+      "id": "f3bm-02-q06",
+      "subtopicId": "f3bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In indirect speech, \"sini\" becomes…",
+        "bm": "Dalam cakap pindah, \"sini\" menjadi…"
+      },
+      "explanation": {
+        "en": "\"Ini\" becomes \"itu\".",
+        "bm": "\"Ini\" menjadi \"itu\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sana",
+          "bm": "sana"
+        },
+        {
+          "en": "situ",
+          "bm": "situ"
+        },
+        {
+          "en": "ini",
+          "bm": "ini"
+        },
+        {
+          "en": "kami",
+          "bm": "kami"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q07",
+      "subtopicId": "f3bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Jangan buang sampah di sini.\" This is an ayat perintah of type…",
+        "bm": "\"Jangan buang sampah di sini.\" Ini ayat perintah jenis…"
+      },
+      "explanation": {
+        "en": "\"Jangan\" shows a prohibition.",
+        "bm": "\"Jangan\" menunjukkan larangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "larangan",
+          "bm": "larangan"
+        },
+        {
+          "en": "suruhan",
+          "bm": "suruhan"
+        },
+        {
+          "en": "silaan",
+          "bm": "silaan"
+        },
+        {
+          "en": "permintaan",
+          "bm": "permintaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q08",
+      "subtopicId": "f3bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Sila duduk.\" This is an ayat perintah of type…",
+        "bm": "\"Sila duduk.\" Ini ayat perintah jenis…"
+      },
+      "explanation": {
+        "en": "\"Sila\" and \"jemput\" are silaan.",
+        "bm": "\"Sila\" dan \"jemput\" ialah silaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "silaan",
+          "bm": "silaan"
+        },
+        {
+          "en": "larangan",
+          "bm": "larangan"
+        },
+        {
+          "en": "suruhan",
+          "bm": "suruhan"
+        },
+        {
+          "en": "seruan",
+          "bm": "seruan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q09",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence CANNOT be changed into a passive sentence?",
+        "bm": "Ayat manakah TIDAK BOLEH ditukarkan kepada ayat pasif?"
+      },
+      "explanation": {
+        "en": "\"Menangis\" is intransitive — there is no object.",
+        "bm": "\"Menangis\" kata kerja tak transitif — tiada objek."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Adik menangis.",
+          "bm": "Adik menangis."
+        },
+        {
+          "en": "Adik memukul gendang.",
+          "bm": "Adik memukul gendang."
+        },
+        {
+          "en": "Kakak menjahit baju.",
+          "bm": "Kakak menjahit baju."
+        },
+        {
+          "en": "Ayah membaiki kereta.",
+          "bm": "Ayah membaiki kereta."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q10",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to passive: \"Kami membersihkan kelas itu.\"",
+        "bm": "Tukarkan kepada ayat pasif: \"Kami membersihkan kelas itu.\""
+      },
+      "explanation": {
+        "en": "\"Kami\" is first person: pronoun + base verb (with suffix kept).",
+        "bm": "\"Kami\" diri pertama: kata ganti nama + kata kerja tanpa awalan meN-."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kelas itu kami bersihkan.",
+          "bm": "Kelas itu kami bersihkan."
+        },
+        {
+          "en": "Kelas itu dibersihkan oleh kami.",
+          "bm": "Kelas itu dibersihkan oleh kami."
+        },
+        {
+          "en": "Kelas itu kami membersihkan.",
+          "bm": "Kelas itu kami membersihkan."
+        },
+        {
+          "en": "Kami dibersihkan kelas itu.",
+          "bm": "Kami dibersihkan kelas itu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q11",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Pencuri itu tertangkap.\" The passive here uses the prefix…",
+        "bm": "\"Pencuri itu tertangkap.\" Ayat pasif ini menggunakan awalan…"
+      },
+      "explanation": {
+        "en": "Ter- shows an action that happened unintentionally or is completed.",
+        "bm": "Ter- menunjukkan perbuatan yang berlaku tanpa sengaja atau telah selesai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ter-",
+          "bm": "ter-"
+        },
+        {
+          "en": "di-",
+          "bm": "di-"
+        },
+        {
+          "en": "ke-…-an",
+          "bm": "ke-…-an"
+        },
+        {
+          "en": "meN-",
+          "bm": "meN-"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q12",
+      "subtopicId": "f3bm-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to change direct speech to indirect speech.",
+        "bm": "Susun langkah menukar cakap ajuk kepada cakap pindah."
+      },
+      "explanation": {
+        "en": "Then check the full stop at the end.",
+        "bm": "Kemudian semak noktah di hujung ayat."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Remove the quotation marks",
+          "bm": "Buang tanda petikan"
+        },
+        {
+          "en": "Add a linking word such as \"bahawa\"",
+          "bm": "Tambah kata hubung seperti \"bahawa\""
+        },
+        {
+          "en": "Change pronouns",
+          "bm": "Tukar kata ganti nama"
+        },
+        {
+          "en": "Change place and time words",
+          "bm": "Tukar kata tempat dan masa"
+        }
+      ]
+    },
+    {
+      "id": "f3bm-02-q13",
+      "subtopicId": "f3bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to indirect speech: Guru berkata kepada kami, \"Siapkan kerja rumah ini.\"",
+        "bm": "Tukarkan kepada cakap pindah: Guru berkata kepada kami, \"Siapkan kerja rumah ini.\""
+      },
+      "explanation": {
+        "en": "Commands use verbs like \"menyuruh\" or \"meminta\"; \"ini\" → \"itu\".",
+        "bm": "Ayat perintah menggunakan kata kerja seperti \"menyuruh\" atau \"meminta\"; \"ini\" → \"itu\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Guru menyuruh kami menyiapkan kerja rumah itu.",
+          "bm": "Guru menyuruh kami menyiapkan kerja rumah itu."
+        },
+        {
+          "en": "Guru berkata bahawa siapkan kerja rumah ini.",
+          "bm": "Guru berkata bahawa siapkan kerja rumah ini."
+        },
+        {
+          "en": "Guru berkata, siapkan kerja rumah itu.",
+          "bm": "Guru berkata, siapkan kerja rumah itu."
+        },
+        {
+          "en": "Kami menyuruh guru menyiapkan kerja rumah.",
+          "bm": "Kami menyuruh guru menyiapkan kerja rumah."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q14",
+      "subtopicId": "f3bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to indirect speech: Ali bertanya, \"Adakah kamu sudah makan?\"",
+        "bm": "Tukarkan kepada cakap pindah: Ali bertanya, \"Adakah kamu sudah makan?\""
+      },
+      "explanation": {
+        "en": "Yes/no questions use \"sama ada\"; the question mark is removed.",
+        "bm": "Soalan ya/tidak menggunakan \"sama ada\"; tanda soal dibuang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ali bertanya sama ada saya sudah makan.",
+          "bm": "Ali bertanya sama ada saya sudah makan."
+        },
+        {
+          "en": "Ali bertanya bahawa adakah kamu sudah makan.",
+          "bm": "Ali bertanya bahawa adakah kamu sudah makan."
+        },
+        {
+          "en": "Ali bertanya, saya sudah makan?",
+          "bm": "Ali bertanya, saya sudah makan?"
+        },
+        {
+          "en": "Ali sudah makan.",
+          "bm": "Ali sudah makan."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q15",
+      "subtopicId": "f3bm-02-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each sentence with its type.",
+        "bm": "Padankan ayat dengan jenisnya."
+      },
+      "explanation": {
+        "en": "Sentences are grouped by purpose.",
+        "bm": "Ayat dikelaskan mengikut tujuan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Wah, cantiknya pemandangan ini!",
+            "bm": "Wah, cantiknya pemandangan ini!"
+          },
+          "right": {
+            "en": "Seruan",
+            "bm": "Seruan"
+          }
+        },
+        {
+          "left": {
+            "en": "Bilakah kamu tiba?",
+            "bm": "Bilakah kamu tiba?"
+          },
+          "right": {
+            "en": "Tanya",
+            "bm": "Tanya"
+          }
+        },
+        {
+          "left": {
+            "en": "Tolong angkat beg ini.",
+            "bm": "Tolong angkat beg ini."
+          },
+          "right": {
+            "en": "Perintah — permintaan",
+            "bm": "Perintah — permintaan"
+          }
+        },
+        {
+          "left": {
+            "en": "Ayah bekerja di Ipoh.",
+            "bm": "Ayah bekerja di Ipoh."
+          },
+          "right": {
+            "en": "Penyata",
+            "bm": "Penyata"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bm-02-q16",
+      "subtopicId": "f3bm-02-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL words that begin a request (ayat permintaan).",
+        "bm": "Pilih SEMUA perkataan yang memulakan ayat permintaan."
+      },
+      "explanation": {
+        "en": "\"Jangan\" is a prohibition (larangan).",
+        "bm": "\"Jangan\" ialah larangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tolong",
+          "bm": "tolong"
+        },
+        {
+          "en": "minta",
+          "bm": "minta"
+        },
+        {
+          "en": "harap",
+          "bm": "harap"
+        },
+        {
+          "en": "jangan",
+          "bm": "jangan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bm-02-q17",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Find the error: \"Kerja rumah itu telah disiapkan oleh kamu semalam.\"",
+        "bm": "Cari kesalahan: \"Kerja rumah itu telah disiapkan oleh kamu semalam.\""
+      },
+      "explanation": {
+        "en": "Second-person pronouns follow the same rule as first person; the aspect word comes before the pronoun.",
+        "bm": "Kata ganti nama diri kedua mengikut peraturan yang sama dengan diri pertama; kata bantu hadir sebelum kata ganti nama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Should be \"Kerja rumah itu telah kamu siapkan semalam.\"",
+          "bm": "Sepatutnya \"Kerja rumah itu telah kamu siapkan semalam.\""
+        },
+        {
+          "en": "\"Semalam\" should be \"esok\"",
+          "bm": "\"Semalam\" sepatutnya \"esok\""
+        },
+        {
+          "en": "\"Telah\" must be removed",
+          "bm": "\"Telah\" mesti dibuang"
+        },
+        {
+          "en": "No error",
+          "bm": "Tiada kesalahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q18",
+      "subtopicId": "f3bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Change to indirect speech: Mak Cik Salmah berkata, \"Kami datang ke sini semalam.\"",
+        "bm": "Tukarkan kepada cakap pindah: Mak Cik Salmah berkata, \"Kami datang ke sini semalam.\""
+      },
+      "explanation": {
+        "en": "Three changes: kami→mereka, sini→sana, semalam→sehari sebelumnya.",
+        "bm": "Tiga perubahan: kami→mereka, sini→sana, semalam→sehari sebelumnya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Mak Cik Salmah berkata bahawa mereka datang ke sana sehari sebelumnya.",
+          "bm": "Mak Cik Salmah berkata bahawa mereka datang ke sana sehari sebelumnya."
+        },
+        {
+          "en": "Mak Cik Salmah berkata bahawa kami datang ke sini semalam.",
+          "bm": "Mak Cik Salmah berkata bahawa kami datang ke sini semalam."
+        },
+        {
+          "en": "Mak Cik Salmah berkata mereka datang ke sini esok.",
+          "bm": "Mak Cik Salmah berkata mereka datang ke sini esok."
+        },
+        {
+          "en": "Mak Cik Salmah datang semalam.",
+          "bm": "Mak Cik Salmah datang semalam."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q19",
+      "subtopicId": "f3bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do news reports often use passive sentences like \"Seorang lelaki ditahan polis\"?",
+        "bm": "Mengapakah laporan berita kerap menggunakan ayat pasif seperti \"Seorang lelaki ditahan polis\"?"
+      },
+      "explanation": {
+        "en": "Choosing aktif or pasif changes the focus of the sentence.",
+        "bm": "Pemilihan ayat aktif atau pasif mengubah fokus ayat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To focus on the person or thing affected",
+          "bm": "Untuk memberi tumpuan kepada orang atau benda yang terlibat"
+        },
+        {
+          "en": "Passive sentences are always shorter",
+          "bm": "Ayat pasif sentiasa lebih pendek"
+        },
+        {
+          "en": "Active sentences are wrong",
+          "bm": "Ayat aktif salah"
+        },
+        {
+          "en": "To hide all information",
+          "bm": "Untuk menyembunyikan semua maklumat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bm-02-q20",
+      "subtopicId": "f3bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A notice must stop students from running in the lab politely but firmly. Which is BEST?",
+        "bm": "Satu notis perlu melarang murid berlari di makmal dengan sopan tetapi tegas. Manakah PALING sesuai?"
+      },
+      "explanation": {
+        "en": "\"Dilarang\" or \"Jangan\" signals larangan.",
+        "bm": "\"Dilarang\" atau \"Jangan\" menandakan larangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Dilarang berlari di dalam makmal.",
+          "bm": "Dilarang berlari di dalam makmal."
+        },
+        {
+          "en": "Sila berlari di dalam makmal.",
+          "bm": "Sila berlari di dalam makmal."
+        },
+        {
+          "en": "Wah, berlari di makmal!",
+          "bm": "Wah, berlari di makmal!"
+        },
+        {
+          "en": "Adakah kamu berlari?",
+          "bm": "Adakah kamu berlari?"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

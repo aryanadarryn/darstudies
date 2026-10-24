@@ -1,0 +1,879 @@
+{
+  "chapterId": "f3sci-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You breathe about 20 000 times a day without thinking. Each breath brings oxygen to millions of tiny air sacs, thinner than a sheet of tissue paper.",
+      "bm": "Anda bernafas kira-kira 20 000 kali sehari tanpa berfikir. Setiap nafas membawa oksigen ke berjuta-juta kantung udara kecil yang lebih nipis daripada sehelai kertas tisu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Air passes through the nose, trachea, bronchi and bronchioles to the alveoli, where gases are exchanged by diffusion.",
+        "bm": "Udara melalui hidung, trakea, bronkus dan bronkiol ke alveolus, tempat gas ditukar secara resapan."
+      },
+      {
+        "en": "Breathing in and out works by changing the volume and pressure in the chest cavity.",
+        "bm": "Menarik dan menghembus nafas berlaku melalui perubahan isi padu dan tekanan dalam rongga dada."
+      },
+      {
+        "en": "Cells use oxygen to release energy from glucose (cellular respiration); smoking and pollution harm the system.",
+        "bm": "Sel menggunakan oksigen untuk membebaskan tenaga daripada glukosa (respirasi sel); merokok dan pencemaran memudaratkan sistem ini."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Inhalation",
+            "bm": "Tarik nafas"
+          },
+          {
+            "en": "Exhalation",
+            "bm": "Hembus nafas"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "External intercostal muscles",
+              "bm": "Otot interkosta luar"
+            },
+            "cells": [
+              {
+                "en": "Contract",
+                "bm": "Mengecut"
+              },
+              {
+                "en": "Relax",
+                "bm": "Mengendur"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Rib cage",
+              "bm": "Sangkar rusuk"
+            },
+            "cells": [
+              {
+                "en": "Moves up and out",
+                "bm": "Bergerak ke atas dan ke luar"
+              },
+              {
+                "en": "Moves down and in",
+                "bm": "Bergerak ke bawah dan ke dalam"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Diaphragm",
+              "bm": "Diafragma"
+            },
+            "cells": [
+              {
+                "en": "Contracts, flattens",
+                "bm": "Mengecut, mendatar"
+              },
+              {
+                "en": "Relaxes, curves up",
+                "bm": "Mengendur, melengkung ke atas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Chest volume",
+              "bm": "Isi padu dada"
+            },
+            "cells": [
+              {
+                "en": "Increases",
+                "bm": "Bertambah"
+              },
+              {
+                "en": "Decreases",
+                "bm": "Berkurang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Air pressure inside",
+              "bm": "Tekanan udara di dalam"
+            },
+            "cells": [
+              {
+                "en": "Decreases → air rushes in",
+                "bm": "Berkurang → udara masuk"
+              },
+              {
+                "en": "Increases → air is pushed out",
+                "bm": "Bertambah → udara ditolak keluar"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Alveolus",
+          "bm": "Alveolus"
+        },
+        "definition": {
+          "en": "Tiny air sac in the lungs where gaseous exchange takes place.",
+          "bm": "Kantung udara kecil dalam peparu tempat pertukaran gas berlaku."
+        }
+      },
+      {
+        "term": {
+          "en": "Diffusion",
+          "bm": "Resapan"
+        },
+        "definition": {
+          "en": "Movement of particles from high to low concentration.",
+          "bm": "Pergerakan zarah dari kepekatan tinggi ke rendah."
+        }
+      },
+      {
+        "term": {
+          "en": "Oxyhaemoglobin",
+          "bm": "Oksihemoglobin"
+        },
+        "definition": {
+          "en": "Oxygen combined with haemoglobin in red blood cells.",
+          "bm": "Oksigen yang bergabung dengan hemoglobin dalam sel darah merah."
+        }
+      },
+      {
+        "term": {
+          "en": "Cellular respiration",
+          "bm": "Respirasi sel"
+        },
+        "definition": {
+          "en": "Glucose + oxygen → carbon dioxide + water + energy.",
+          "bm": "Glukosa + oksigen → karbon dioksida + air + tenaga."
+        }
+      },
+      {
+        "term": {
+          "en": "Stoma (stomata)",
+          "bm": "Stoma (liang stoma)"
+        },
+        "definition": {
+          "en": "Pores on leaves for gaseous exchange.",
+          "bm": "Liang pada daun untuk pertukaran gas."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain TWO ways the alveolus is adapted for gaseous exchange.",
+        "bm": "Terangkan DUA cara alveolus disesuaikan untuk pertukaran gas."
+      },
+      "steps": [
+        {
+          "en": "Its wall is only one cell thick, so gases diffuse a short distance quickly.",
+          "bm": "Dindingnya setebal satu sel sahaja, jadi gas meresap dalam jarak pendek dengan cepat."
+        },
+        {
+          "en": "It is surrounded by many blood capillaries, which carry gases away and keep the concentration difference high.",
+          "bm": "Ia dikelilingi banyak kapilari darah, yang membawa gas pergi dan mengekalkan perbezaan kepekatan yang tinggi."
+        }
+      ],
+      "answer": {
+        "en": "Also accepted: moist inner surface; very large total surface area.",
+        "bm": "Juga diterima: permukaan dalam yang lembap; jumlah luas permukaan yang sangat besar."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-02-q01",
+      "subtopicId": "f3sci-02-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of air from the nose to the lungs.",
+        "bm": "Susun laluan udara dari hidung ke peparu."
+      },
+      "explanation": {
+        "en": "The airways branch into smaller and smaller tubes.",
+        "bm": "Saluran udara bercabang menjadi tiub yang semakin kecil."
+      },
+      "difficulty": 1,
+      "items": [
+        {
+          "en": "Nasal cavity",
+          "bm": "Rongga hidung"
+        },
+        {
+          "en": "Trachea",
+          "bm": "Trakea"
+        },
+        {
+          "en": "Bronchus",
+          "bm": "Bronkus"
+        },
+        {
+          "en": "Bronchiole",
+          "bm": "Bronkiol"
+        },
+        {
+          "en": "Alveolus",
+          "bm": "Alveolus"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-02-q02",
+      "subtopicId": "f3sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where does gaseous exchange take place in the lungs?",
+        "bm": "Di manakah pertukaran gas berlaku dalam peparu?"
+      },
+      "explanation": {
+        "en": "Alveoli are surrounded by capillaries.",
+        "bm": "Alveolus dikelilingi kapilari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Alveoli",
+          "bm": "Alveolus"
+        },
+        {
+          "en": "Trachea",
+          "bm": "Trakea"
+        },
+        {
+          "en": "Nasal cavity",
+          "bm": "Rongga hidung"
+        },
+        {
+          "en": "Diaphragm",
+          "bm": "Diafragma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q03",
+      "subtopicId": "f3sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "During inhalation, the diaphragm…",
+        "bm": "Semasa tarik nafas, diafragma…"
+      },
+      "explanation": {
+        "en": "This increases the volume of the chest cavity.",
+        "bm": "Ini menambah isi padu rongga dada."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "contracts and flattens",
+          "bm": "mengecut dan mendatar"
+        },
+        {
+          "en": "relaxes and curves up",
+          "bm": "mengendur dan melengkung ke atas"
+        },
+        {
+          "en": "does not move",
+          "bm": "tidak bergerak"
+        },
+        {
+          "en": "moves into the throat",
+          "bm": "bergerak ke tekak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q04",
+      "subtopicId": "f3sci-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Gases move between the alveoli and the blood by ______.",
+        "bm": "Gas bergerak antara alveolus dan darah secara ______."
+      },
+      "explanation": {
+        "en": "From high concentration to low concentration.",
+        "bm": "Dari kepekatan tinggi ke kepekatan rendah."
+      },
+      "difficulty": 1,
+      "answer": [
+        "diffusion",
+        "resapan"
+      ]
+    },
+    {
+      "id": "f3sci-02-q05",
+      "subtopicId": "f3sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Oxygen is carried in red blood cells as…",
+        "bm": "Oksigen diangkut dalam sel darah merah sebagai…"
+      },
+      "explanation": {
+        "en": "Haemoglobin combines with oxygen in the lungs.",
+        "bm": "Hemoglobin bergabung dengan oksigen dalam peparu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "oxyhaemoglobin",
+          "bm": "oksihemoglobin"
+        },
+        {
+          "en": "carbon dioxide",
+          "bm": "karbon dioksida"
+        },
+        {
+          "en": "glucose",
+          "bm": "glukosa"
+        },
+        {
+          "en": "plasma",
+          "bm": "plasma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q06",
+      "subtopicId": "f3sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which test shows that exhaled air has more carbon dioxide?",
+        "bm": "Ujian manakah menunjukkan udara hembusan mengandungi lebih karbon dioksida?"
+      },
+      "explanation": {
+        "en": "Carbon dioxide turns lime water cloudy (milky).",
+        "bm": "Karbon dioksida menjadikan air kapur keruh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Lime water turns cloudy faster",
+          "bm": "Air kapur menjadi keruh lebih cepat"
+        },
+        {
+          "en": "A glowing splint relights",
+          "bm": "Kayu uji berbara menyala semula"
+        },
+        {
+          "en": "Blue litmus turns white",
+          "bm": "Litmus biru menjadi putih"
+        },
+        {
+          "en": "Iodine turns blue-black",
+          "bm": "Iodin menjadi biru gelap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q07",
+      "subtopicId": "f3sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which substance in cigarette smoke causes cancer?",
+        "bm": "Bahan manakah dalam asap rokok menyebabkan kanser?"
+      },
+      "explanation": {
+        "en": "Tar is carcinogenic and also coats the airways.",
+        "bm": "Tar bersifat karsinogen dan menyaluti saluran udara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tar",
+          "bm": "Tar"
+        },
+        {
+          "en": "Oxygen",
+          "bm": "Oksigen"
+        },
+        {
+          "en": "Water vapour",
+          "bm": "Wap air"
+        },
+        {
+          "en": "Nitrogen",
+          "bm": "Nitrogen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q08",
+      "subtopicId": "f3sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fish take in oxygen through their…",
+        "bm": "Ikan mengambil oksigen melalui…"
+      },
+      "explanation": {
+        "en": "Gills absorb oxygen dissolved in water.",
+        "bm": "Insang menyerap oksigen yang terlarut dalam air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "gills",
+          "bm": "insang"
+        },
+        {
+          "en": "lungs",
+          "bm": "peparu"
+        },
+        {
+          "en": "spiracles",
+          "bm": "spirakel"
+        },
+        {
+          "en": "stomata",
+          "bm": "stoma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q09",
+      "subtopicId": "f3sci-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete: glucose + oxygen → carbon dioxide + ______ + energy.",
+        "bm": "Lengkapkan: glukosa + oksigen → karbon dioksida + ______ + tenaga."
+      },
+      "explanation": {
+        "en": "This is cellular (aerobic) respiration.",
+        "bm": "Ini ialah respirasi sel (aerob)."
+      },
+      "difficulty": 2,
+      "answer": [
+        "water",
+        "air"
+      ]
+    },
+    {
+      "id": "f3sci-02-q10",
+      "subtopicId": "f3sci-02-02",
+      "type": "match",
+      "prompt": {
+        "en": "Compare inhaled and exhaled air.",
+        "bm": "Bandingkan udara sedutan dengan udara hembusan."
+      },
+      "explanation": {
+        "en": "The body uses oxygen and produces carbon dioxide and water.",
+        "bm": "Badan menggunakan oksigen dan menghasilkan karbon dioksida serta air."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Oxygen",
+            "bm": "Oksigen"
+          },
+          "right": {
+            "en": "More in inhaled air",
+            "bm": "Lebih dalam udara sedutan"
+          }
+        },
+        {
+          "left": {
+            "en": "Carbon dioxide",
+            "bm": "Karbon dioksida"
+          },
+          "right": {
+            "en": "More in exhaled air",
+            "bm": "Lebih dalam udara hembusan"
+          }
+        },
+        {
+          "left": {
+            "en": "Water vapour",
+            "bm": "Wap air"
+          },
+          "right": {
+            "en": "Usually more in exhaled air",
+            "bm": "Biasanya lebih dalam udara hembusan"
+          }
+        },
+        {
+          "left": {
+            "en": "Nitrogen",
+            "bm": "Nitrogen"
+          },
+          "right": {
+            "en": "About the same",
+            "bm": "Lebih kurang sama"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-02-q11",
+      "subtopicId": "f3sci-02-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL adaptations of the alveolus.",
+        "bm": "Pilih SEMUA penyesuaian alveolus."
+      },
+      "explanation": {
+        "en": "A thick wall would slow diffusion.",
+        "bm": "Dinding tebal akan melambatkan resapan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Wall one cell thick",
+          "bm": "Dinding setebal satu sel"
+        },
+        {
+          "en": "Moist surface",
+          "bm": "Permukaan lembap"
+        },
+        {
+          "en": "Many blood capillaries",
+          "bm": "Banyak kapilari darah"
+        },
+        {
+          "en": "Thick muscular wall",
+          "bm": "Dinding berotot yang tebal"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-02-q12",
+      "subtopicId": "f3sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Carbon monoxide from smoke is dangerous because it…",
+        "bm": "Karbon monoksida daripada asap berbahaya kerana ia…"
+      },
+      "explanation": {
+        "en": "Haemoglobin binds carbon monoxide more strongly than oxygen.",
+        "bm": "Hemoglobin bergabung dengan karbon monoksida dengan lebih kuat berbanding oksigen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "binds to haemoglobin, reducing oxygen transport",
+          "bm": "bergabung dengan hemoglobin, mengurangkan pengangkutan oksigen"
+        },
+        {
+          "en": "adds oxygen to the blood",
+          "bm": "menambah oksigen ke dalam darah"
+        },
+        {
+          "en": "cleans the lungs",
+          "bm": "membersihkan peparu"
+        },
+        {
+          "en": "is a source of energy",
+          "bm": "ialah sumber tenaga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q13",
+      "subtopicId": "f3sci-02-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each respiratory disease with its description.",
+        "bm": "Padankan penyakit respirasi dengan huraiannya."
+      },
+      "explanation": {
+        "en": "Smoking and air pollution increase the risk of all of these.",
+        "bm": "Merokok dan pencemaran udara meningkatkan risiko kesemuanya."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Asthma",
+            "bm": "Asma"
+          },
+          "right": {
+            "en": "Airways narrow, causing wheezing",
+            "bm": "Saluran udara menyempit, menyebabkan berdehit"
+          }
+        },
+        {
+          "left": {
+            "en": "Bronchitis",
+            "bm": "Bronkitis"
+          },
+          "right": {
+            "en": "Inflamed bronchi with lots of mucus",
+            "bm": "Bronkus radang dengan banyak mukus"
+          }
+        },
+        {
+          "left": {
+            "en": "Emphysema",
+            "bm": "Emfisema"
+          },
+          "right": {
+            "en": "Alveolar walls damaged, less surface area",
+            "bm": "Dinding alveolus rosak, luas permukaan berkurang"
+          }
+        },
+        {
+          "left": {
+            "en": "Lung cancer",
+            "bm": "Kanser peparu"
+          },
+          "right": {
+            "en": "Uncontrolled growth of cells in the lungs",
+            "bm": "Pertumbuhan sel yang tidak terkawal dalam peparu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-02-q14",
+      "subtopicId": "f3sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Insects take in air through small openings on their body called…",
+        "bm": "Serangga mengambil udara melalui liang kecil pada badan yang dipanggil…"
+      },
+      "explanation": {
+        "en": "Spiracles lead into a system of tracheal tubes.",
+        "bm": "Spirakel menuju ke sistem tiub trakea."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "spiracles",
+          "bm": "spirakel"
+        },
+        {
+          "en": "gills",
+          "bm": "insang"
+        },
+        {
+          "en": "alveoli",
+          "bm": "alveolus"
+        },
+        {
+          "en": "stomata",
+          "bm": "stoma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q15",
+      "subtopicId": "f3sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A frog can exchange gases through its…",
+        "bm": "Katak boleh melakukan pertukaran gas melalui…"
+      },
+      "explanation": {
+        "en": "Its skin is thin, moist and has many capillaries.",
+        "bm": "Kulitnya nipis, lembap dan mempunyai banyak kapilari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "moist skin and lungs",
+          "bm": "kulit yang lembap dan peparu"
+        },
+        {
+          "en": "gills only, as an adult",
+          "bm": "insang sahaja, semasa dewasa"
+        },
+        {
+          "en": "spiracles",
+          "bm": "spirakel"
+        },
+        {
+          "en": "stomata",
+          "bm": "stoma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q16",
+      "subtopicId": "f3sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stomata on a leaf usually open when…",
+        "bm": "Stoma pada daun biasanya terbuka apabila…"
+      },
+      "explanation": {
+        "en": "Turgid guard cells curve apart and open the pore.",
+        "bm": "Sel pengawal yang segah melengkung dan membuka liang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "there is light and the guard cells are turgid",
+          "bm": "ada cahaya dan sel pengawal segah"
+        },
+        {
+          "en": "it is dark",
+          "bm": "gelap"
+        },
+        {
+          "en": "the plant is wilting",
+          "bm": "tumbuhan layu"
+        },
+        {
+          "en": "the leaf is dry",
+          "bm": "daun kering"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q17",
+      "subtopicId": "f3sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A runner breathes faster and deeper during a race. Why?",
+        "bm": "Seorang pelari bernafas lebih cepat dan dalam semasa perlumbaan. Mengapa?"
+      },
+      "explanation": {
+        "en": "More energy is released through more cellular respiration.",
+        "bm": "Lebih banyak tenaga dibebaskan melalui lebih banyak respirasi sel."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Muscles need more oxygen for respiration and must remove more carbon dioxide",
+          "bm": "Otot memerlukan lebih oksigen untuk respirasi dan perlu menyingkirkan lebih karbon dioksida"
+        },
+        {
+          "en": "To cool the lungs only",
+          "bm": "Untuk menyejukkan peparu sahaja"
+        },
+        {
+          "en": "To take in more nitrogen",
+          "bm": "Untuk mengambil lebih nitrogen"
+        },
+        {
+          "en": "Because the diaphragm stops working",
+          "bm": "Kerana diafragma berhenti berfungsi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q18",
+      "subtopicId": "f3sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do people with emphysema get tired easily?",
+        "bm": "Mengapakah pesakit emfisema mudah letih?"
+      },
+      "explanation": {
+        "en": "Less oxygen reaches the cells, so less energy is released.",
+        "bm": "Kurang oksigen sampai ke sel, jadi kurang tenaga dibebaskan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Damaged alveoli reduce the surface area for oxygen uptake",
+          "bm": "Alveolus yang rosak mengurangkan luas permukaan untuk penyerapan oksigen"
+        },
+        {
+          "en": "Their blood has too much oxygen",
+          "bm": "Darah mereka terlalu banyak oksigen"
+        },
+        {
+          "en": "Their bones are weak",
+          "bm": "Tulang mereka lemah"
+        },
+        {
+          "en": "Their diaphragm is too strong",
+          "bm": "Diafragma mereka terlalu kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q19",
+      "subtopicId": "f3sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a model of the chest using a bell jar and balloons, pulling the rubber sheet down makes the balloons inflate. Which part does the rubber sheet represent?",
+        "bm": "Dalam model dada menggunakan balang loceng dan belon, menarik kepingan getah ke bawah menyebabkan belon mengembang. Bahagian manakah diwakili oleh kepingan getah?"
+      },
+      "explanation": {
+        "en": "Pulling it down increases the volume and lowers the pressure inside, like inhalation.",
+        "bm": "Menariknya ke bawah menambah isi padu dan mengurangkan tekanan di dalam, seperti tarik nafas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Diaphragm",
+          "bm": "Diafragma"
+        },
+        {
+          "en": "Lungs",
+          "bm": "Peparu"
+        },
+        {
+          "en": "Trachea",
+          "bm": "Trakea"
+        },
+        {
+          "en": "Rib cage",
+          "bm": "Sangkar rusuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-02-q20",
+      "subtopicId": "f3sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which action BEST protects the respiratory system on a hazy day?",
+        "bm": "Tindakan manakah PALING melindungi sistem respirasi pada hari berjerebu?"
+      },
+      "explanation": {
+        "en": "Haze particles irritate and damage the airways.",
+        "bm": "Zarah jerebu merengsa dan merosakkan saluran udara."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Stay indoors and wear a suitable face mask outdoors",
+          "bm": "Kekal di dalam rumah dan pakai pelitup muka yang sesuai di luar"
+        },
+        {
+          "en": "Exercise hard outdoors",
+          "bm": "Bersenam kuat di luar rumah"
+        },
+        {
+          "en": "Burn rubbish",
+          "bm": "Membakar sampah"
+        },
+        {
+          "en": "Open all windows",
+          "bm": "Membuka semua tingkap"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

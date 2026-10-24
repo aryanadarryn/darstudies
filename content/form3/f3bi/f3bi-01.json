@@ -1,0 +1,873 @@
+{
+  "chapterId": "f3bi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"You must wear a helmet\" and \"You should wear a helmet\" — one is a rule, the other is advice. Small modal verbs change the whole message.",
+      "bm": "\"You must wear a helmet\" dan \"You should wear a helmet\" — satu ialah peraturan, satu lagi nasihat. Kata kerja modal yang kecil mengubah keseluruhan mesej."
+    },
+    "bigIdeas": [
+      {
+        "en": "Modals (can, could, may, might, must, should, will, would) are followed by the base form of the verb.",
+        "bm": "Modal (can, could, may, might, must, should, will, would) diikuti kata kerja bentuk dasar."
+      },
+      {
+        "en": "Some verbs take a gerund (enjoy reading), some take a to-infinitive (decide to go).",
+        "bm": "Sesetengah kata kerja diikuti gerund (enjoy reading), sesetengahnya to-infinitive (decide to go)."
+      },
+      {
+        "en": "A question tag uses the opposite polarity: positive statement → negative tag.",
+        "bm": "Question tag menggunakan bentuk berlawanan: ayat positif → tag negatif."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Use",
+            "bm": "Kegunaan"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "must",
+              "bm": "must"
+            },
+            "cells": [
+              {
+                "en": "Strong obligation / rule",
+                "bm": "Kewajipan / peraturan"
+              },
+              {
+                "en": "You must stop at a red light.",
+                "bm": "You must stop at a red light."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "should",
+              "bm": "should"
+            },
+            "cells": [
+              {
+                "en": "Advice",
+                "bm": "Nasihat"
+              },
+              {
+                "en": "You should drink more water.",
+                "bm": "You should drink more water."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "can",
+              "bm": "can"
+            },
+            "cells": [
+              {
+                "en": "Ability / permission",
+                "bm": "Kebolehan / kebenaran"
+              },
+              {
+                "en": "She can swim.",
+                "bm": "She can swim."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "may / might",
+              "bm": "may / might"
+            },
+            "cells": [
+              {
+                "en": "Possibility",
+                "bm": "Kemungkinan"
+              },
+              {
+                "en": "It might rain later.",
+                "bm": "It might rain later."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "mustn't",
+              "bm": "mustn't"
+            },
+            "cells": [
+              {
+                "en": "Prohibition",
+                "bm": "Larangan"
+              },
+              {
+                "en": "You mustn't use phones in the exam.",
+                "bm": "You mustn't use phones in the exam."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Modal verb",
+          "bm": "Kata kerja modal"
+        },
+        "definition": {
+          "en": "A helping verb that shows ability, permission, advice, obligation or possibility.",
+          "bm": "Kata kerja bantu yang menunjukkan kebolehan, kebenaran, nasihat, kewajipan atau kemungkinan."
+        }
+      },
+      {
+        "term": {
+          "en": "Gerund",
+          "bm": "Gerund"
+        },
+        "definition": {
+          "en": "A verb + -ing used as a noun: Swimming is fun.",
+          "bm": "Kata kerja + -ing yang berfungsi sebagai kata nama: Swimming is fun."
+        }
+      },
+      {
+        "term": {
+          "en": "Infinitive",
+          "bm": "Infinitif"
+        },
+        "definition": {
+          "en": "to + base verb: I want to learn.",
+          "bm": "to + kata kerja dasar: I want to learn."
+        }
+      },
+      {
+        "term": {
+          "en": "Question tag",
+          "bm": "Question tag"
+        },
+        "definition": {
+          "en": "A short question at the end of a statement: It's hot, isn't it?",
+          "bm": "Soalan pendek di hujung ayat: It's hot, isn't it?"
+        }
+      },
+      {
+        "term": {
+          "en": "Base form",
+          "bm": "Bentuk dasar"
+        },
+        "definition": {
+          "en": "The verb without -s, -ed or -ing: go, eat, play.",
+          "bm": "Kata kerja tanpa -s, -ed atau -ing: go, eat, play."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Add the question tag: \"She has finished her project, ___?\"",
+        "bm": "Tambah question tag: \"She has finished her project, ___?\""
+      },
+      "steps": [
+        {
+          "en": "The auxiliary verb is \"has\".",
+          "bm": "Kata kerja bantu ialah \"has\"."
+        },
+        {
+          "en": "The statement is positive, so the tag is negative: \"hasn't\".",
+          "bm": "Ayat positif, jadi tag negatif: \"hasn't\"."
+        },
+        {
+          "en": "Use a pronoun for the subject: \"she\".",
+          "bm": "Gunakan kata ganti nama untuk subjek: \"she\"."
+        }
+      ],
+      "answer": {
+        "en": "She has finished her project, hasn't she?",
+        "bm": "She has finished her project, hasn't she?"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bi-01-q01",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You ___ wear a seat belt. It is the law.",
+        "bm": "You ___ wear a seat belt. It is the law."
+      },
+      "explanation": {
+        "en": "A law is a strong obligation → must.",
+        "bm": "Undang-undang ialah kewajipan → must."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "might",
+          "bm": "might"
+        },
+        {
+          "en": "could",
+          "bm": "could"
+        },
+        {
+          "en": "may",
+          "bm": "may"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q02",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You look tired. You ___ go to bed early.",
+        "bm": "You look tired. You ___ go to bed early."
+      },
+      "explanation": {
+        "en": "Advice → should.",
+        "bm": "Nasihat → should."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "should",
+          "bm": "should"
+        },
+        {
+          "en": "mustn't",
+          "bm": "mustn't"
+        },
+        {
+          "en": "can't",
+          "bm": "can't"
+        },
+        {
+          "en": "would",
+          "bm": "would"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q03",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct sentence.",
+        "bm": "Choose the correct sentence."
+      },
+      "explanation": {
+        "en": "Modal + base verb, no -s.",
+        "bm": "Modal + kata kerja dasar, tanpa -s."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "She can speak three languages.",
+          "bm": "She can speak three languages."
+        },
+        {
+          "en": "She can speaks three languages.",
+          "bm": "She can speaks three languages."
+        },
+        {
+          "en": "She can to speak three languages.",
+          "bm": "She can to speak three languages."
+        },
+        {
+          "en": "She cans speak three languages.",
+          "bm": "She cans speak three languages."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q04",
+      "subtopicId": "f3bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "I enjoy ___ detective stories.",
+        "bm": "I enjoy ___ detective stories."
+      },
+      "explanation": {
+        "en": "\"Enjoy\" is followed by a gerund.",
+        "bm": "\"Enjoy\" diikuti gerund."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reading",
+          "bm": "reading"
+        },
+        {
+          "en": "to read",
+          "bm": "to read"
+        },
+        {
+          "en": "read",
+          "bm": "read"
+        },
+        {
+          "en": "reads",
+          "bm": "reads"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q05",
+      "subtopicId": "f3bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "We decided ___ the museum on Saturday.",
+        "bm": "We decided ___ the museum on Saturday."
+      },
+      "explanation": {
+        "en": "\"Decide\" is followed by a to-infinitive.",
+        "bm": "\"Decide\" diikuti to-infinitive."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "to visit",
+          "bm": "to visit"
+        },
+        {
+          "en": "visiting",
+          "bm": "visiting"
+        },
+        {
+          "en": "visit",
+          "bm": "visit"
+        },
+        {
+          "en": "visited",
+          "bm": "visited"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q06",
+      "subtopicId": "f3bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "It is a beautiful day, ___?",
+        "bm": "It is a beautiful day, ___?"
+      },
+      "explanation": {
+        "en": "Positive statement with \"is\" → \"isn't it?\"",
+        "bm": "Ayat positif dengan \"is\" → \"isn't it?\""
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "isn't it",
+          "bm": "isn't it"
+        },
+        {
+          "en": "is it",
+          "bm": "is it"
+        },
+        {
+          "en": "doesn't it",
+          "bm": "doesn't it"
+        },
+        {
+          "en": "wasn't it",
+          "bm": "wasn't it"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q07",
+      "subtopicId": "f3bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "They don't like spicy food, ___?",
+        "bm": "They don't like spicy food, ___?"
+      },
+      "explanation": {
+        "en": "Negative statement → positive tag.",
+        "bm": "Ayat negatif → tag positif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "do they",
+          "bm": "do they"
+        },
+        {
+          "en": "don't they",
+          "bm": "don't they"
+        },
+        {
+          "en": "are they",
+          "bm": "are they"
+        },
+        {
+          "en": "did they",
+          "bm": "did they"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q08",
+      "subtopicId": "f3bi-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "You can swim, ___ you?",
+        "bm": "You can swim, ___ you?"
+      },
+      "explanation": {
+        "en": "The tag repeats the modal in the negative.",
+        "bm": "Tag mengulang modal dalam bentuk negatif."
+      },
+      "difficulty": 1,
+      "answer": [
+        "can't",
+        "cannot",
+        "can not"
+      ]
+    },
+    {
+      "id": "f3bi-01-q09",
+      "subtopicId": "f3bi-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each modal with its meaning.",
+        "bm": "Match each modal with its meaning."
+      },
+      "explanation": {
+        "en": "Choose the modal that fits the message.",
+        "bm": "Pilih modal yang sesuai dengan mesej."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "mustn't",
+            "bm": "mustn't"
+          },
+          "right": {
+            "en": "prohibition",
+            "bm": "larangan"
+          }
+        },
+        {
+          "left": {
+            "en": "might",
+            "bm": "might"
+          },
+          "right": {
+            "en": "possibility",
+            "bm": "kemungkinan"
+          }
+        },
+        {
+          "left": {
+            "en": "could (past)",
+            "bm": "could (past)"
+          },
+          "right": {
+            "en": "past ability",
+            "bm": "kebolehan pada masa lalu"
+          }
+        },
+        {
+          "left": {
+            "en": "should",
+            "bm": "should"
+          },
+          "right": {
+            "en": "advice",
+            "bm": "nasihat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bi-01-q10",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the difference between \"You mustn't eat here\" and \"You don't have to eat here\"?",
+        "bm": "What is the difference between \"You mustn't eat here\" and \"You don't have to eat here\"?"
+      },
+      "explanation": {
+        "en": "A very common exam trap.",
+        "bm": "Perangkap peperiksaan yang lazim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The first is forbidden; the second means it is not necessary",
+          "bm": "Yang pertama dilarang; yang kedua bermaksud tidak perlu"
+        },
+        {
+          "en": "They mean the same",
+          "bm": "Maksudnya sama"
+        },
+        {
+          "en": "The first is advice",
+          "bm": "Yang pertama nasihat"
+        },
+        {
+          "en": "The second is forbidden",
+          "bm": "Yang kedua dilarang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q11",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "When I was five, I ___ ride a bicycle.",
+        "bm": "When I was five, I ___ ride a bicycle."
+      },
+      "explanation": {
+        "en": "\"Could\" is the past form of \"can\" for ability.",
+        "bm": "\"Could\" bentuk lampau \"can\" untuk kebolehan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "could",
+          "bm": "could"
+        },
+        {
+          "en": "can",
+          "bm": "can"
+        },
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "should",
+          "bm": "should"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q12",
+      "subtopicId": "f3bi-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL verbs that are followed by a gerund (-ing).",
+        "bm": "Select ALL verbs that are followed by a gerund (-ing)."
+      },
+      "explanation": {
+        "en": "\"Want\" takes a to-infinitive: want to go.",
+        "bm": "\"Want\" diikuti to-infinitive: want to go."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "enjoy",
+          "bm": "enjoy"
+        },
+        {
+          "en": "avoid",
+          "bm": "avoid"
+        },
+        {
+          "en": "finish",
+          "bm": "finish"
+        },
+        {
+          "en": "want",
+          "bm": "want"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bi-01-q13",
+      "subtopicId": "f3bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "___ is a good form of exercise.",
+        "bm": "___ is a good form of exercise."
+      },
+      "explanation": {
+        "en": "A gerund can be the subject of a sentence.",
+        "bm": "Gerund boleh menjadi subjek ayat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Swimming",
+          "bm": "Swimming"
+        },
+        {
+          "en": "Swim",
+          "bm": "Swim"
+        },
+        {
+          "en": "To swimming",
+          "bm": "To swimming"
+        },
+        {
+          "en": "Swims",
+          "bm": "Swims"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q14",
+      "subtopicId": "f3bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "She is interested ___ learning photography.",
+        "bm": "She is interested ___ learning photography."
+      },
+      "explanation": {
+        "en": "After a preposition, use a gerund: interested in learning.",
+        "bm": "Selepas kata sendi, gunakan gerund: interested in learning."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "in",
+          "bm": "in"
+        },
+        {
+          "en": "to",
+          "bm": "to"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "for",
+          "bm": "for"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q15",
+      "subtopicId": "f3bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Let's go to the park, ___?",
+        "bm": "Let's go to the park, ___?"
+      },
+      "explanation": {
+        "en": "\"Let's…\" always takes \"shall we?\"",
+        "bm": "\"Let's…\" sentiasa menggunakan \"shall we?\""
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "shall we",
+          "bm": "shall we"
+        },
+        {
+          "en": "will we",
+          "bm": "will we"
+        },
+        {
+          "en": "don't we",
+          "bm": "don't we"
+        },
+        {
+          "en": "let we",
+          "bm": "let we"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q16",
+      "subtopicId": "f3bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "I am late, ___?",
+        "bm": "I am late, ___?"
+      },
+      "explanation": {
+        "en": "\"I am\" takes the special tag \"aren't I?\"",
+        "bm": "\"I am\" menggunakan tag khas \"aren't I?\""
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "aren't I",
+          "bm": "aren't I"
+        },
+        {
+          "en": "amn't I",
+          "bm": "amn't I"
+        },
+        {
+          "en": "am I",
+          "bm": "am I"
+        },
+        {
+          "en": "isn't I",
+          "bm": "isn't I"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q17",
+      "subtopicId": "f3bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Nobody called while I was out, ___?",
+        "bm": "Nobody called while I was out, ___?"
+      },
+      "explanation": {
+        "en": "\"Nobody\" is negative, so the tag is positive; it uses \"they\".",
+        "bm": "\"Nobody\" bermakna negatif, jadi tag positif; ia menggunakan \"they\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "did they",
+          "bm": "did they"
+        },
+        {
+          "en": "didn't they",
+          "bm": "didn't they"
+        },
+        {
+          "en": "did he",
+          "bm": "did he"
+        },
+        {
+          "en": "was it",
+          "bm": "was it"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q18",
+      "subtopicId": "f3bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence changes meaning depending on gerund or infinitive?",
+        "bm": "Which sentence changes meaning depending on gerund or infinitive?"
+      },
+      "explanation": {
+        "en": "Stop + to = pause in order to do; stop + -ing = no longer do it.",
+        "bm": "Stop + to = berhenti untuk melakukan; stop + -ing = tidak lagi melakukannya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "I stopped to buy a drink. / I stopped buying drinks.",
+          "bm": "I stopped to buy a drink. / I stopped buying drinks."
+        },
+        {
+          "en": "I enjoy singing. / I enjoy to sing.",
+          "bm": "I enjoy singing. / I enjoy to sing."
+        },
+        {
+          "en": "I want to go. / I want going.",
+          "bm": "I want to go. / I want going."
+        },
+        {
+          "en": "She can swim. / She can swimming.",
+          "bm": "She can swim. / She can swimming."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q19",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A sign at the pool says \"Children under 12 ___ be with an adult.\" Which modal is BEST?",
+        "bm": "A sign at the pool says \"Children under 12 ___ be with an adult.\" Which modal is BEST?"
+      },
+      "explanation": {
+        "en": "It is a rule, not a possibility.",
+        "bm": "Ia peraturan, bukan kemungkinan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "might",
+          "bm": "might"
+        },
+        {
+          "en": "could",
+          "bm": "could"
+        },
+        {
+          "en": "would",
+          "bm": "would"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-01-q20",
+      "subtopicId": "f3bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your friend says, \"I have a fever and a headache.\" Which reply gives polite advice?",
+        "bm": "Your friend says, \"I have a fever and a headache.\" Which reply gives polite advice?"
+      },
+      "explanation": {
+        "en": "\"Should\" softens advice; \"might to\" is ungrammatical.",
+        "bm": "\"Should\" melembutkan nasihat; \"might to\" salah tatabahasa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "You should see a doctor.",
+          "bm": "You should see a doctor."
+        },
+        {
+          "en": "You must not see a doctor.",
+          "bm": "You must not see a doctor."
+        },
+        {
+          "en": "You can't see a doctor.",
+          "bm": "You can't see a doctor."
+        },
+        {
+          "en": "You might to see a doctor.",
+          "bm": "You might to see a doctor."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

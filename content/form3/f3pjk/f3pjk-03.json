@@ -1,0 +1,814 @@
+{
+  "chapterId": "f3pjk-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A 100 m sprint is won or lost in the first few seconds — reaction to the gun and a powerful start matter as much as top speed.",
+      "bm": "Lari pecut 100 m boleh ditentukan dalam beberapa saat pertama — tindak balas kepada tembakan pistol dan permulaan yang kuat sama penting dengan kelajuan maksimum."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sprints use a crouch start: \"On your marks\", \"Set\", then the gun.",
+        "bm": "Lari pecut menggunakan permulaan duduk (crouch): \"Di garisan anda\", \"Sedia\", kemudian tembakan pistol."
+      },
+      {
+        "en": "Jumps have phases: approach, take-off, flight and landing; the triple jump is hop, step and jump.",
+        "bm": "Lompatan mempunyai fasa: larian landas, lonjakan, layangan dan mendarat; lompat kijang ialah engkek, langkah dan lompat."
+      },
+      {
+        "en": "In shot put the shot is pushed from the neck, not thrown.",
+        "bm": "Dalam lontar peluru, peluru ditolak dari leher, bukan dibaling."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Approach run",
+              "bm": "Larian landas"
+            },
+            "detail": {
+              "en": "Build up controlled speed.",
+              "bm": "Membina kelajuan yang terkawal."
+            }
+          },
+          {
+            "title": {
+              "en": "Take-off",
+              "bm": "Lonjakan"
+            },
+            "detail": {
+              "en": "Plant the take-off foot on the board and drive up.",
+              "bm": "Jejak kaki lonjakan pada papan dan lonjak ke atas."
+            }
+          },
+          {
+            "title": {
+              "en": "Flight",
+              "bm": "Layangan"
+            },
+            "detail": {
+              "en": "Keep balance; prepare the legs for landing.",
+              "bm": "Kekalkan imbangan; sediakan kaki untuk mendarat."
+            }
+          },
+          {
+            "title": {
+              "en": "Landing",
+              "bm": "Mendarat"
+            },
+            "detail": {
+              "en": "Land with feet forward and fall forward, not back.",
+              "bm": "Mendarat dengan kaki ke hadapan dan jatuh ke depan, bukan ke belakang."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Crouch start",
+          "bm": "Permulaan duduk"
+        },
+        "definition": {
+          "en": "A low start from blocks used for sprints.",
+          "bm": "Permulaan rendah dari blok yang digunakan untuk lari pecut."
+        }
+      },
+      {
+        "term": {
+          "en": "Baton exchange",
+          "bm": "Pertukaran baton"
+        },
+        "definition": {
+          "en": "Passing the baton within the changeover zone in a relay.",
+          "bm": "Menghantar baton dalam zon pertukaran semasa lari berganti-ganti."
+        }
+      },
+      {
+        "term": {
+          "en": "Take-off board",
+          "bm": "Papan lonjakan"
+        },
+        "definition": {
+          "en": "Board from which long and triple jumpers take off.",
+          "bm": "Papan tempat pelompat jauh dan pelompat kijang melonjak."
+        }
+      },
+      {
+        "term": {
+          "en": "Fosbury flop",
+          "bm": "Gaya Fosbury"
+        },
+        "definition": {
+          "en": "High jump technique going over the bar back-first.",
+          "bm": "Teknik lompat tinggi melepasi palang dengan belakang badan dahulu."
+        }
+      },
+      {
+        "term": {
+          "en": "Field events",
+          "bm": "Acara padang"
+        },
+        "definition": {
+          "en": "Jumps and throws.",
+          "bm": "Acara lompat dan lontar."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Why must a long jumper land falling forward?",
+        "bm": "Mengapakah pelompat jauh perlu mendarat dan jatuh ke hadapan?"
+      },
+      "steps": [
+        {
+          "en": "The jump is measured from the board to the nearest mark in the sand.",
+          "bm": "Lompatan diukur dari papan ke kesan terdekat di dalam pasir."
+        },
+        {
+          "en": "Falling back leaves a mark closer to the board.",
+          "bm": "Jatuh ke belakang meninggalkan kesan lebih dekat dengan papan."
+        }
+      ],
+      "answer": {
+        "en": "To avoid losing distance from a mark behind the feet.",
+        "bm": "Untuk mengelakkan jarak berkurang akibat kesan di belakang kaki."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pjk-03-q01",
+      "subtopicId": "f3pjk-03-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the starter's commands for a sprint.",
+        "bm": "Susun arahan pelepas bagi lari pecut."
+      },
+      "explanation": {
+        "en": "Moving before the gun is a false start.",
+        "bm": "Bergerak sebelum tembakan ialah permulaan salah."
+      },
+      "difficulty": 1,
+      "items": [
+        {
+          "en": "\"On your marks\"",
+          "bm": "\"Di garisan anda\""
+        },
+        {
+          "en": "\"Set\"",
+          "bm": "\"Sedia\""
+        },
+        {
+          "en": "Gun / \"Go\"",
+          "bm": "Tembakan pistol / \"Lari\""
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-03-q02",
+      "subtopicId": "f3pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which start is used for the 100 m?",
+        "bm": "Permulaan manakah digunakan untuk acara 100 m?"
+      },
+      "explanation": {
+        "en": "Starting blocks help push off.",
+        "bm": "Blok permulaan membantu menolak badan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Crouch start",
+          "bm": "Permulaan duduk (crouch)"
+        },
+        {
+          "en": "Standing start",
+          "bm": "Permulaan berdiri"
+        },
+        {
+          "en": "Rolling start",
+          "bm": "Permulaan bergolek"
+        },
+        {
+          "en": "Sitting start",
+          "bm": "Permulaan duduk di lantai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q03",
+      "subtopicId": "f3pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Moving before the starting gun is a…",
+        "bm": "Bergerak sebelum tembakan pistol ialah…"
+      },
+      "explanation": {
+        "en": "It can lead to disqualification.",
+        "bm": "Ia boleh menyebabkan atlet dibatalkan penyertaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "false start",
+          "bm": "permulaan salah"
+        },
+        {
+          "en": "relay",
+          "bm": "lari berganti-ganti"
+        },
+        {
+          "en": "foul throw",
+          "bm": "lontaran batal"
+        },
+        {
+          "en": "fair start",
+          "bm": "permulaan sah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q04",
+      "subtopicId": "f3pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The three phases of the triple jump are…",
+        "bm": "Tiga fasa lompat kijang ialah…"
+      },
+      "explanation": {
+        "en": "Hop and step land on the take-off leg, then the other leg.",
+        "bm": "Engkek mendarat dengan kaki lonjakan, langkah dengan kaki yang satu lagi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "hop, step and jump",
+          "bm": "engkek, langkah dan lompat"
+        },
+        {
+          "en": "run, throw, land",
+          "bm": "lari, lontar, mendarat"
+        },
+        {
+          "en": "jump, jump, jump",
+          "bm": "lompat, lompat, lompat"
+        },
+        {
+          "en": "step, step, hop",
+          "bm": "langkah, langkah, engkek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q05",
+      "subtopicId": "f3pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The high jump technique of going over the bar back-first is the…",
+        "bm": "Teknik lompat tinggi melepasi palang dengan belakang badan dahulu ialah…"
+      },
+      "explanation": {
+        "en": "Named after Dick Fosbury.",
+        "bm": "Dinamakan sempena Dick Fosbury."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Fosbury flop",
+          "bm": "gaya Fosbury"
+        },
+        {
+          "en": "scissors",
+          "bm": "gaya gunting"
+        },
+        {
+          "en": "hitch-kick",
+          "bm": "gaya kayuh di udara"
+        },
+        {
+          "en": "hang style",
+          "bm": "gaya gantung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q06",
+      "subtopicId": "f3pjk-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In shot put, the shot must be…",
+        "bm": "Dalam lontar peluru, peluru mesti…"
+      },
+      "explanation": {
+        "en": "Throwing it is a foul.",
+        "bm": "Membalingnya ialah lontaran batal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pushed from the neck with one hand",
+          "bm": "ditolak dari leher dengan sebelah tangan"
+        },
+        {
+          "en": "thrown overarm like a ball",
+          "bm": "dibaling dari atas bahu seperti bola"
+        },
+        {
+          "en": "rolled",
+          "bm": "digolekkan"
+        },
+        {
+          "en": "kicked",
+          "bm": "disepak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q07",
+      "subtopicId": "f3pjk-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Shot put, discus and javelin are ______ events.",
+        "bm": "Lontar peluru, lempar cakera dan rejam lembing ialah acara ______."
+      },
+      "explanation": {
+        "en": "They are part of field events.",
+        "bm": "Ia sebahagian daripada acara padang."
+      },
+      "difficulty": 1,
+      "answer": [
+        "throwing",
+        "field",
+        "lontar",
+        "padang"
+      ]
+    },
+    {
+      "id": "f3pjk-03-q08",
+      "subtopicId": "f3pjk-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A javelin is thrown…",
+        "bm": "Lembing direjam…"
+      },
+      "explanation": {
+        "en": "The tip must land first for a valid throw.",
+        "bm": "Mata lembing mesti mendarat dahulu untuk rejaman sah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "overarm, above the shoulder",
+          "bm": "dari atas bahu"
+        },
+        {
+          "en": "underarm",
+          "bm": "dari bawah"
+        },
+        {
+          "en": "with two hands from the chest",
+          "bm": "dengan dua tangan dari dada"
+        },
+        {
+          "en": "while spinning on the spot",
+          "bm": "sambil berpusing di tempat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q09",
+      "subtopicId": "f3pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a relay, the baton must be passed…",
+        "bm": "Dalam lari berganti-ganti, baton mesti dihantar…"
+      },
+      "explanation": {
+        "en": "Passing outside the zone leads to disqualification.",
+        "bm": "Menghantar di luar zon menyebabkan pembatalan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "within the changeover zone",
+          "bm": "dalam zon pertukaran"
+        },
+        {
+          "en": "anywhere on the track",
+          "bm": "di mana-mana sahaja di trek"
+        },
+        {
+          "en": "after the finish line",
+          "bm": "selepas garisan penamat"
+        },
+        {
+          "en": "by throwing it",
+          "bm": "dengan membalingnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q10",
+      "subtopicId": "f3pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the 4 × 100 m relay, the receiver starts running before the baton arrives because…",
+        "bm": "Dalam lari berganti-ganti 4 × 100 m, penerima mula berlari sebelum baton tiba kerana…"
+      },
+      "explanation": {
+        "en": "A check mark tells the receiver when to go.",
+        "bm": "Tanda semak memberitahu penerima bila hendak berlari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the baton keeps moving fast through the exchange",
+          "bm": "baton terus bergerak laju semasa pertukaran"
+        },
+        {
+          "en": "it is a rule to start early",
+          "bm": "peraturan mewajibkannya"
+        },
+        {
+          "en": "the receiver is tired",
+          "bm": "penerima letih"
+        },
+        {
+          "en": "to avoid touching the baton",
+          "bm": "untuk mengelak menyentuh baton"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q11",
+      "subtopicId": "f3pjk-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the phases of the long jump.",
+        "bm": "Susun fasa lompat jauh."
+      },
+      "explanation": {
+        "en": "Each phase affects the distance.",
+        "bm": "Setiap fasa mempengaruhi jarak."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Approach run",
+          "bm": "Larian landas"
+        },
+        {
+          "en": "Take-off",
+          "bm": "Lonjakan"
+        },
+        {
+          "en": "Flight",
+          "bm": "Layangan"
+        },
+        {
+          "en": "Landing",
+          "bm": "Mendarat"
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-03-q12",
+      "subtopicId": "f3pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A long jump is measured from…",
+        "bm": "Lompat jauh diukur dari…"
+      },
+      "explanation": {
+        "en": "Land falling forward.",
+        "bm": "Mendarat dan jatuh ke hadapan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the take-off line to the nearest mark in the sand",
+          "bm": "garisan lonjakan ke kesan terdekat di pasir"
+        },
+        {
+          "en": "the start of the run-up",
+          "bm": "permulaan larian landas"
+        },
+        {
+          "en": "the furthest mark in the sand",
+          "bm": "kesan paling jauh di pasir"
+        },
+        {
+          "en": "the jumper's head",
+          "bm": "kepala pelompat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q13",
+      "subtopicId": "f3pjk-03-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each event with a key technique point.",
+        "bm": "Padankan acara dengan teknik utama."
+      },
+      "explanation": {
+        "en": "Technique improves performance and safety.",
+        "bm": "Teknik meningkatkan prestasi dan keselamatan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Sprint",
+            "bm": "Lari pecut"
+          },
+          "right": {
+            "en": "Drive arms and lean slightly forward",
+            "bm": "Hayun tangan dan condong sedikit ke hadapan"
+          }
+        },
+        {
+          "left": {
+            "en": "High jump",
+            "bm": "Lompat tinggi"
+          },
+          "right": {
+            "en": "Curved approach and back over the bar",
+            "bm": "Larian melengkung dan belakang melepasi palang"
+          }
+        },
+        {
+          "left": {
+            "en": "Shot put",
+            "bm": "Lontar peluru"
+          },
+          "right": {
+            "en": "Push from the neck",
+            "bm": "Tolak dari leher"
+          }
+        },
+        {
+          "left": {
+            "en": "Discus",
+            "bm": "Lempar cakera"
+          },
+          "right": {
+            "en": "Spin and release from the fingers",
+            "bm": "Berpusing dan lepas dari jari"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-03-q14",
+      "subtopicId": "f3pjk-03-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL safety rules for throwing events.",
+        "bm": "Pilih SEMUA peraturan keselamatan untuk acara lontar."
+      },
+      "explanation": {
+        "en": "Carry implements back; never throw them back.",
+        "bm": "Bawa peralatan kembali; jangan membalingnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Throw only when the teacher signals",
+          "bm": "Lontar hanya apabila guru memberi isyarat"
+        },
+        {
+          "en": "Never stand in the throwing sector",
+          "bm": "Jangan berdiri di sektor lontaran"
+        },
+        {
+          "en": "Walk, don't run, to collect implements",
+          "bm": "Berjalan, jangan berlari, untuk mengambil peralatan"
+        },
+        {
+          "en": "Throw implements back to the thrower",
+          "bm": "Membaling peralatan kembali kepada pelontar"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pjk-03-q15",
+      "subtopicId": "f3pjk-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In shot put, a throw is a foul if the athlete…",
+        "bm": "Dalam lontar peluru, lontaran batal jika atlet…"
+      },
+      "explanation": {
+        "en": "Exit from the back half after the shot lands.",
+        "bm": "Keluar dari separuh belakang selepas peluru mendarat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "steps on or over the stop board or leaves from the front of the circle",
+          "bm": "memijak atau melepasi papan penahan atau keluar dari hadapan bulatan"
+        },
+        {
+          "en": "uses the correct push",
+          "bm": "menggunakan tolakan betul"
+        },
+        {
+          "en": "exits from the back half of the circle",
+          "bm": "keluar dari separuh belakang bulatan"
+        },
+        {
+          "en": "keeps the shot at the neck",
+          "bm": "mengekalkan peluru di leher"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q16",
+      "subtopicId": "f3pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "High jumpers using the Fosbury flop land on…",
+        "bm": "Pelompat tinggi yang menggunakan gaya Fosbury mendarat di…"
+      },
+      "explanation": {
+        "en": "A proper landing mat is essential for safety.",
+        "bm": "Tilam pendaratan yang sesuai amat penting untuk keselamatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "their upper back and shoulders on a thick mat",
+          "bm": "bahagian atas belakang dan bahu di atas tilam tebal"
+        },
+        {
+          "en": "their feet in sand",
+          "bm": "kaki di dalam pasir"
+        },
+        {
+          "en": "their knees on grass",
+          "bm": "lutut di atas rumput"
+        },
+        {
+          "en": "their hands",
+          "bm": "tangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q17",
+      "subtopicId": "f3pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A sprinter is fast but slow off the blocks. What should they train?",
+        "bm": "Seorang pelari pecut laju tetapi lambat bermula dari blok. Apakah yang patut dilatih?"
+      },
+      "explanation": {
+        "en": "Practise starts with a partner's signal.",
+        "bm": "Latih permulaan dengan isyarat rakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Reaction time and explosive starts",
+          "bm": "Masa tindak balas dan permulaan yang eksplosif"
+        },
+        {
+          "en": "Long slow jogging only",
+          "bm": "Joging perlahan yang lama sahaja"
+        },
+        {
+          "en": "Flexibility only",
+          "bm": "Kelenturan sahaja"
+        },
+        {
+          "en": "Throwing technique",
+          "bm": "Teknik lontaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q18",
+      "subtopicId": "f3pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A long jumper keeps fouling at the board. What is the BEST solution?",
+        "bm": "Seorang pelompat jauh kerap batal di papan. Apakah penyelesaian PALING baik?"
+      },
+      "explanation": {
+        "en": "A consistent run-up hits the board accurately.",
+        "bm": "Larian landas yang konsisten mengenai papan dengan tepat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Measure and adjust the run-up start mark",
+          "bm": "Ukur dan ubah suai tanda mula larian landas"
+        },
+        {
+          "en": "Run faster without checking",
+          "bm": "Lari lebih laju tanpa menyemak"
+        },
+        {
+          "en": "Jump from anywhere",
+          "bm": "Melompat dari mana-mana"
+        },
+        {
+          "en": "Close eyes at take-off",
+          "bm": "Pejam mata semasa lonjakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q19",
+      "subtopicId": "f3pjk-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do discus throwers spin before release?",
+        "bm": "Mengapakah pelempar cakera berpusing sebelum melepaskan cakera?"
+      },
+      "explanation": {
+        "en": "Rotation adds speed at release.",
+        "bm": "Putaran menambah kelajuan semasa dilepaskan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To build speed and momentum for a longer throw",
+          "bm": "Untuk membina kelajuan dan momentum bagi lemparan lebih jauh"
+        },
+        {
+          "en": "To confuse the judges",
+          "bm": "Untuk mengelirukan hakim"
+        },
+        {
+          "en": "It is only for style",
+          "bm": "Ia hanya untuk gaya"
+        },
+        {
+          "en": "To slow the discus",
+          "bm": "Untuk memperlahankan cakera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-03-q20",
+      "subtopicId": "f3pjk-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are athletes told never to throw implements back to the throwing area?",
+        "bm": "Mengapakah atlet dilarang membaling peralatan kembali ke kawasan lontaran?"
+      },
+      "explanation": {
+        "en": "Safety first in all field events.",
+        "bm": "Keselamatan diutamakan dalam semua acara padang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Heavy implements can seriously injure someone who is not looking",
+          "bm": "Peralatan berat boleh mencederakan orang yang tidak melihat dengan teruk"
+        },
+        {
+          "en": "It damages the grass",
+          "bm": "Ia merosakkan rumput"
+        },
+        {
+          "en": "It is slower",
+          "bm": "Ia lebih lambat"
+        },
+        {
+          "en": "It is allowed in competitions",
+          "bm": "Ia dibenarkan dalam pertandingan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

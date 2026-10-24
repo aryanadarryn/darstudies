@@ -1,0 +1,828 @@
+{
+  "chapterId": "f3rbt-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A builder in Johor can make exactly the cabinet a designer drew in Penang — if the drawing follows the same rules. Technical drawing is a universal language.",
+      "bm": "Tukang di Johor boleh membina kabinet sama seperti yang dilukis pereka di Pulau Pinang — jika lukisan mengikut peraturan yang sama. Lukisan teknik ialah bahasa sejagat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sketches communicate ideas quickly; technical drawings give exact information for making.",
+        "bm": "Lakaran menyampaikan idea dengan cepat; lukisan teknik memberi maklumat tepat untuk pembuatan."
+      },
+      {
+        "en": "Isometric drawing uses lines at 30° to the horizontal; oblique drawing has a flat front with depth lines at 45°.",
+        "bm": "Lukisan isometrik menggunakan garisan 30° dari ufuk; lukisan oblik mempunyai muka hadapan rata dengan garisan kedalaman 45°."
+      },
+      {
+        "en": "Orthographic drawing shows separate views (front, top, side) with standard line types.",
+        "bm": "Lukisan ortografik menunjukkan pandangan berasingan (hadapan, atas, sisi) dengan jenis garisan piawai."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Line",
+            "bm": "Garisan"
+          },
+          {
+            "en": "Used for",
+            "bm": "Kegunaan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Outline",
+              "bm": "Garis luar"
+            },
+            "cells": [
+              {
+                "en": "Thick continuous",
+                "bm": "Tebal berterusan"
+              },
+              {
+                "en": "Visible edges",
+                "bm": "Sisi yang kelihatan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Hidden detail",
+              "bm": "Butiran tersembunyi"
+            },
+            "cells": [
+              {
+                "en": "Thin dashed",
+                "bm": "Putus-putus nipis"
+              },
+              {
+                "en": "Edges that cannot be seen",
+                "bm": "Sisi yang tidak kelihatan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Centre line",
+              "bm": "Garis tengah"
+            },
+            "cells": [
+              {
+                "en": "Thin chain (long–short dash)",
+                "bm": "Rantai nipis (sengkang panjang–pendek)"
+              },
+              {
+                "en": "Centres of holes and symmetry",
+                "bm": "Pusat lubang dan simetri"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Dimension line",
+              "bm": "Garis dimensi"
+            },
+            "cells": [
+              {
+                "en": "Thin continuous with arrowheads",
+                "bm": "Nipis berterusan dengan anak panah"
+              },
+              {
+                "en": "Showing sizes",
+                "bm": "Menunjukkan ukuran"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Freehand sketch",
+          "bm": "Lakaran bebas"
+        },
+        "definition": {
+          "en": "A quick drawing without instruments.",
+          "bm": "Lukisan pantas tanpa alatan."
+        }
+      },
+      {
+        "term": {
+          "en": "Isometric drawing",
+          "bm": "Lukisan isometrik"
+        },
+        "definition": {
+          "en": "3D view with vertical lines and lines at 30° to the horizontal.",
+          "bm": "Pandangan 3D dengan garisan menegak dan garisan 30° dari ufuk."
+        }
+      },
+      {
+        "term": {
+          "en": "Oblique drawing",
+          "bm": "Lukisan oblik"
+        },
+        "definition": {
+          "en": "True front face with receding lines at 45°.",
+          "bm": "Muka hadapan sebenar dengan garisan ke belakang pada 45°."
+        }
+      },
+      {
+        "term": {
+          "en": "Orthographic drawing",
+          "bm": "Lukisan ortografik"
+        },
+        "definition": {
+          "en": "2D views of an object: front, plan (top) and side (end) views.",
+          "bm": "Pandangan 2D objek: pandangan hadapan, pelan (atas) dan sisi."
+        }
+      },
+      {
+        "term": {
+          "en": "Dimension",
+          "bm": "Dimensi"
+        },
+        "definition": {
+          "en": "A size shown on a drawing, usually in millimetres.",
+          "bm": "Ukuran yang ditunjukkan pada lukisan, biasanya dalam milimeter."
+        }
+      },
+      {
+        "term": {
+          "en": "Scale",
+          "bm": "Skala"
+        },
+        "definition": {
+          "en": "Ratio of drawing size to real size, e.g. 1:2.",
+          "bm": "Nisbah saiz lukisan kepada saiz sebenar, cth. 1:2."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A box is 200 mm long. It is drawn at a scale of 1:2. How long is it on paper?",
+        "bm": "Sebuah kotak sepanjang 200 mm. Ia dilukis pada skala 1:2. Berapakah panjangnya di atas kertas?"
+      },
+      "steps": [
+        {
+          "en": "1:2 means the drawing is half the real size.",
+          "bm": "1:2 bermaksud lukisan separuh daripada saiz sebenar."
+        },
+        {
+          "en": "200 ÷ 2 = 100 mm.",
+          "bm": "200 ÷ 2 = 100 mm."
+        }
+      ],
+      "answer": {
+        "en": "100 mm (the dimension written on the drawing is still 200).",
+        "bm": "100 mm (dimensi yang ditulis pada lukisan tetap 200)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3rbt-02-q01",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A freehand sketch is drawn…",
+        "bm": "Lakaran bebas dilukis…"
+      },
+      "explanation": {
+        "en": "Sketches explore and communicate ideas.",
+        "bm": "Lakaran meneroka dan menyampaikan idea."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "quickly, without drawing instruments",
+          "bm": "dengan cepat, tanpa alatan lukisan"
+        },
+        {
+          "en": "only with a computer",
+          "bm": "dengan komputer sahaja"
+        },
+        {
+          "en": "with exact measurements only",
+          "bm": "dengan ukuran tepat sahaja"
+        },
+        {
+          "en": "in ink only",
+          "bm": "dengan dakwat sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q02",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which helps sketches look 3D?",
+        "bm": "Manakah membantu lakaran kelihatan 3D?"
+      },
+      "explanation": {
+        "en": "Light and shadow show form.",
+        "bm": "Cahaya dan bayang menunjukkan bentuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Shading and tone",
+          "bm": "Lorekan dan ton"
+        },
+        {
+          "en": "Only straight lines",
+          "bm": "Garisan lurus sahaja"
+        },
+        {
+          "en": "Writing the title",
+          "bm": "Menulis tajuk"
+        },
+        {
+          "en": "Using one colour",
+          "bm": "Menggunakan satu warna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q03",
+      "subtopicId": "f3rbt-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In isometric drawing, the receding lines are drawn at ___° to the horizontal.",
+        "bm": "Dalam lukisan isometrik, garisan sisi dilukis pada ___° dari garisan ufuk."
+      },
+      "explanation": {
+        "en": "Vertical lines stay vertical.",
+        "bm": "Garisan menegak kekal menegak."
+      },
+      "difficulty": 1,
+      "answer": [
+        "30"
+      ]
+    },
+    {
+      "id": "f3rbt-02-q04",
+      "subtopicId": "f3rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In oblique drawing, the front face is…",
+        "bm": "Dalam lukisan oblik, muka hadapan…"
+      },
+      "explanation": {
+        "en": "Depth lines go back at 45°.",
+        "bm": "Garisan kedalaman ke belakang pada 45°."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "drawn true shape and size",
+          "bm": "dilukis mengikut bentuk dan saiz sebenar"
+        },
+        {
+          "en": "drawn at 30°",
+          "bm": "dilukis pada 30°"
+        },
+        {
+          "en": "hidden",
+          "bm": "disembunyikan"
+        },
+        {
+          "en": "drawn as a circle",
+          "bm": "dilukis sebagai bulatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q05",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hidden edges in an orthographic drawing are shown with…",
+        "bm": "Sisi tersembunyi dalam lukisan ortografik ditunjukkan dengan…"
+      },
+      "explanation": {
+        "en": "Dashed = hidden.",
+        "bm": "Putus-putus = tersembunyi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "thin dashed lines",
+          "bm": "garisan putus-putus nipis"
+        },
+        {
+          "en": "thick continuous lines",
+          "bm": "garisan tebal berterusan"
+        },
+        {
+          "en": "chain lines",
+          "bm": "garisan rantai"
+        },
+        {
+          "en": "wavy lines",
+          "bm": "garisan beralun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q06",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A centre line is drawn as…",
+        "bm": "Garis tengah dilukis sebagai…"
+      },
+      "explanation": {
+        "en": "Used for holes and lines of symmetry.",
+        "bm": "Digunakan untuk lubang dan paksi simetri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a thin chain line (long and short dashes)",
+          "bm": "garisan rantai nipis (sengkang panjang dan pendek)"
+        },
+        {
+          "en": "a thick line",
+          "bm": "garisan tebal"
+        },
+        {
+          "en": "a dotted line",
+          "bm": "garisan bertitik"
+        },
+        {
+          "en": "a double line",
+          "bm": "garisan berganda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q07",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The view from directly above an object is called the…",
+        "bm": "Pandangan dari atas objek dipanggil…"
+      },
+      "explanation": {
+        "en": "Orthographic views: front, plan, side.",
+        "bm": "Pandangan ortografik: hadapan, pelan, sisi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "plan (top view)",
+          "bm": "pelan (pandangan atas)"
+        },
+        {
+          "en": "front view",
+          "bm": "pandangan hadapan"
+        },
+        {
+          "en": "side view",
+          "bm": "pandangan sisi"
+        },
+        {
+          "en": "isometric view",
+          "bm": "pandangan isometrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q08",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dimensions on technical drawings are usually in…",
+        "bm": "Dimensi pada lukisan teknik biasanya dalam…"
+      },
+      "explanation": {
+        "en": "Millimetres are the standard unit.",
+        "bm": "Milimeter ialah unit piawai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mm",
+          "bm": "mm"
+        },
+        {
+          "en": "km",
+          "bm": "km"
+        },
+        {
+          "en": "m²",
+          "bm": "m²"
+        },
+        {
+          "en": "kg",
+          "bm": "kg"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q09",
+      "subtopicId": "f3rbt-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A shelf is 600 mm long. It is drawn at a scale of 1:5. How long is the line on paper (mm)?",
+        "bm": "Sebuah rak sepanjang 600 mm. Ia dilukis pada skala 1:5. Berapakah panjang garisan di atas kertas (mm)?"
+      },
+      "explanation": {
+        "en": "600 ÷ 5 = 120 mm.",
+        "bm": "600 ÷ 5 = 120 mm."
+      },
+      "difficulty": 2,
+      "answer": 120,
+      "tolerance": 0,
+      "unit": "mm"
+    },
+    {
+      "id": "f3rbt-02-q10",
+      "subtopicId": "f3rbt-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A part is drawn 40 mm long at a scale of 2:1 (enlarged). What is its real length (mm)?",
+        "bm": "Satu komponen dilukis sepanjang 40 mm pada skala 2:1 (dibesarkan). Berapakah panjang sebenarnya (mm)?"
+      },
+      "explanation": {
+        "en": "2:1 means the drawing is twice the real size: 40 ÷ 2 = 20 mm.",
+        "bm": "2:1 bermaksud lukisan dua kali saiz sebenar: 40 ÷ 2 = 20 mm."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "mm"
+    },
+    {
+      "id": "f3rbt-02-q11",
+      "subtopicId": "f3rbt-02-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each line type with its use.",
+        "bm": "Padankan jenis garisan dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "Standard lines make drawings readable by anyone.",
+        "bm": "Garisan piawai menjadikan lukisan boleh dibaca oleh sesiapa."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Thick continuous",
+            "bm": "Tebal berterusan"
+          },
+          "right": {
+            "en": "Visible outline",
+            "bm": "Garis luar yang kelihatan"
+          }
+        },
+        {
+          "left": {
+            "en": "Thin dashed",
+            "bm": "Putus-putus nipis"
+          },
+          "right": {
+            "en": "Hidden detail",
+            "bm": "Butiran tersembunyi"
+          }
+        },
+        {
+          "left": {
+            "en": "Thin chain",
+            "bm": "Rantai nipis"
+          },
+          "right": {
+            "en": "Centre line",
+            "bm": "Garis tengah"
+          }
+        },
+        {
+          "left": {
+            "en": "Thin with arrowheads",
+            "bm": "Nipis dengan anak panah"
+          },
+          "right": {
+            "en": "Dimension",
+            "bm": "Dimensi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-02-q12",
+      "subtopicId": "f3rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the main difference between isometric and oblique drawing?",
+        "bm": "Apakah perbezaan utama antara lukisan isometrik dengan oblik?"
+      },
+      "explanation": {
+        "en": "Both are pictorial (3D) drawings.",
+        "bm": "Kedua-duanya lukisan bergambar (3D)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Isometric uses 30° on both sides; oblique has a flat front and depth at 45°",
+          "bm": "Isometrik menggunakan 30° pada kedua-dua sisi; oblik mempunyai muka hadapan rata dan kedalaman 45°"
+        },
+        {
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
+        },
+        {
+          "en": "Oblique is 2D only",
+          "bm": "Oblik hanya 2D"
+        },
+        {
+          "en": "Isometric has no vertical lines",
+          "bm": "Isometrik tiada garisan menegak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q13",
+      "subtopicId": "f3rbt-02-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL views in a standard orthographic drawing.",
+        "bm": "Pilih SEMUA pandangan dalam lukisan ortografik piawai."
+      },
+      "explanation": {
+        "en": "An isometric view is a pictorial drawing.",
+        "bm": "Pandangan isometrik ialah lukisan bergambar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Front view",
+          "bm": "Pandangan hadapan"
+        },
+        {
+          "en": "Plan (top view)",
+          "bm": "Pelan (pandangan atas)"
+        },
+        {
+          "en": "Side (end) view",
+          "bm": "Pandangan sisi"
+        },
+        {
+          "en": "Isometric view",
+          "bm": "Pandangan isometrik"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3rbt-02-q14",
+      "subtopicId": "f3rbt-02-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps of sketching a box in 3D.",
+        "bm": "Susun langkah melakar kotak dalam 3D."
+      },
+      "explanation": {
+        "en": "Start light so mistakes are easy to fix.",
+        "bm": "Mulakan dengan garisan halus supaya mudah dibetulkan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Draw light construction lines",
+          "bm": "Lukis garisan binaan yang halus"
+        },
+        {
+          "en": "Draw the basic box shape",
+          "bm": "Lukis bentuk asas kotak"
+        },
+        {
+          "en": "Darken the final outlines",
+          "bm": "Tebalkan garis luar akhir"
+        },
+        {
+          "en": "Add shading",
+          "bm": "Tambah lorekan"
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-02-q15",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do designers add notes and arrows to sketches (annotation)?",
+        "bm": "Mengapakah pereka menambah nota dan anak panah pada lakaran (anotasi)?"
+      },
+      "explanation": {
+        "en": "Annotation turns a picture into a design explanation.",
+        "bm": "Anotasi menjadikan gambar satu penerangan reka bentuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To explain materials, functions and ideas",
+          "bm": "Untuk menerangkan bahan, fungsi dan idea"
+        },
+        {
+          "en": "To decorate",
+          "bm": "Untuk hiasan"
+        },
+        {
+          "en": "To fill space",
+          "bm": "Untuk mengisi ruang"
+        },
+        {
+          "en": "It is not needed",
+          "bm": "Tidak perlu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q16",
+      "subtopicId": "f3rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A circle on the front of an isometric box appears as…",
+        "bm": "Bulatan pada muka isometrik kotak kelihatan sebagai…"
+      },
+      "explanation": {
+        "en": "Circles on angled faces look like ellipses.",
+        "bm": "Bulatan pada muka condong kelihatan seperti elips."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "an ellipse",
+          "bm": "elips"
+        },
+        {
+          "en": "a perfect circle",
+          "bm": "bulatan sempurna"
+        },
+        {
+          "en": "a square",
+          "bm": "segi empat sama"
+        },
+        {
+          "en": "a triangle",
+          "bm": "segi tiga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q17",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "On a drawing at scale 1:2, a dimension line shows \"300\". What is the real size?",
+        "bm": "Pada lukisan berskala 1:2, garisan dimensi menunjukkan \"300\". Berapakah saiz sebenar?"
+      },
+      "explanation": {
+        "en": "Dimensions always show the REAL size, whatever the scale.",
+        "bm": "Dimensi sentiasa menunjukkan saiz SEBENAR, walau apa pun skala."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "300 mm",
+          "bm": "300 mm"
+        },
+        {
+          "en": "150 mm",
+          "bm": "150 mm"
+        },
+        {
+          "en": "600 mm",
+          "bm": "600 mm"
+        },
+        {
+          "en": "30 mm",
+          "bm": "30 mm"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q18",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which drawing is BEST for showing a client what a product looks like?",
+        "bm": "Lukisan manakah PALING sesuai untuk menunjukkan rupa produk kepada pelanggan?"
+      },
+      "explanation": {
+        "en": "Orthographic drawings are for makers.",
+        "bm": "Lukisan ortografik untuk pembuat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A shaded, coloured pictorial (3D) drawing",
+          "bm": "Lukisan bergambar (3D) berlorek dan berwarna"
+        },
+        {
+          "en": "An orthographic drawing with hidden lines",
+          "bm": "Lukisan ortografik dengan garisan tersembunyi"
+        },
+        {
+          "en": "A table of dimensions",
+          "bm": "Jadual dimensi"
+        },
+        {
+          "en": "A cutting list",
+          "bm": "Senarai potongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q19",
+      "subtopicId": "f3rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is orthographic drawing preferred for manufacturing?",
+        "bm": "Mengapakah lukisan ortografik lebih sesuai untuk pembuatan?"
+      },
+      "explanation": {
+        "en": "Pictorial views distort angles and lengths.",
+        "bm": "Pandangan bergambar mengherotkan sudut dan panjang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Each view shows true shapes and exact dimensions",
+          "bm": "Setiap pandangan menunjukkan bentuk sebenar dan dimensi tepat"
+        },
+        {
+          "en": "It looks more realistic",
+          "bm": "Ia kelihatan lebih realistik"
+        },
+        {
+          "en": "It is faster to sketch",
+          "bm": "Ia lebih cepat dilakar"
+        },
+        {
+          "en": "It needs no dimensions",
+          "bm": "Ia tidak memerlukan dimensi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-02-q20",
+      "subtopicId": "f3rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A drawing of a box shows a dashed circle in the front view. What does it mean?",
+        "bm": "Lukisan kotak menunjukkan bulatan putus-putus pada pandangan hadapan. Apakah maksudnya?"
+      },
+      "explanation": {
+        "en": "Dashed lines mean hidden detail.",
+        "bm": "Garisan putus-putus bermaksud butiran tersembunyi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "There is a hole or round feature that cannot be seen from the front",
+          "bm": "Terdapat lubang atau bahagian bulat yang tidak kelihatan dari hadapan"
+        },
+        {
+          "en": "A sticker on the front",
+          "bm": "Pelekat di hadapan"
+        },
+        {
+          "en": "A mistake",
+          "bm": "Satu kesilapan"
+        },
+        {
+          "en": "The centre line",
+          "bm": "Garis tengah"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

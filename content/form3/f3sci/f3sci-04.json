@@ -1,0 +1,820 @@
+{
+  "chapterId": "f3sci-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Gold can be found as shiny nuggets in a river, but iron is never found pure. Why? It all depends on how reactive each metal is.",
+      "bm": "Emas boleh dijumpai sebagai ketulan berkilat di sungai, tetapi besi tidak pernah dijumpai dalam keadaan tulen. Mengapa? Semuanya bergantung pada kereaktifan logam itu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Minerals are natural elements or compounds; most metals occur as compounds (oxides, sulfides, carbonates).",
+        "bm": "Mineral ialah unsur atau sebatian semula jadi; kebanyakan logam wujud sebagai sebatian (oksida, sulfida, karbonat)."
+      },
+      {
+        "en": "Metals can be arranged in a reactivity series by how vigorously they react with oxygen.",
+        "bm": "Logam boleh disusun dalam siri kereaktifan berdasarkan kecergasan tindak balas dengan oksigen."
+      },
+      {
+        "en": "Metals less reactive than carbon are extracted by heating their oxides with carbon; more reactive ones need electrolysis.",
+        "bm": "Logam yang kurang reaktif daripada karbon diekstrak dengan memanaskan oksidanya bersama karbon; logam lebih reaktif memerlukan elektrolisis."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "K",
+              "bm": "K"
+            },
+            "detail": {
+              "en": "Potassium — most reactive",
+              "bm": "Kalium — paling reaktif"
+            }
+          },
+          {
+            "title": {
+              "en": "Na, Ca, Mg, Al",
+              "bm": "Na, Ca, Mg, Al"
+            },
+            "detail": {
+              "en": "Very reactive",
+              "bm": "Sangat reaktif"
+            }
+          },
+          {
+            "title": {
+              "en": "(C)",
+              "bm": "(C)"
+            },
+            "detail": {
+              "en": "Carbon — reference point",
+              "bm": "Karbon — titik rujukan"
+            }
+          },
+          {
+            "title": {
+              "en": "Zn, Fe, Sn, Pb",
+              "bm": "Zn, Fe, Sn, Pb"
+            },
+            "detail": {
+              "en": "Moderately reactive",
+              "bm": "Sederhana reaktif"
+            }
+          },
+          {
+            "title": {
+              "en": "Cu, Hg, Ag, Au",
+              "bm": "Cu, Hg, Ag, Au"
+            },
+            "detail": {
+              "en": "Least reactive (Au least of all)",
+              "bm": "Paling kurang reaktif (Au paling kurang)"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Mineral",
+          "bm": "Mineral"
+        },
+        "definition": {
+          "en": "A naturally occurring element or compound found in the Earth's crust.",
+          "bm": "Unsur atau sebatian semula jadi yang terdapat dalam kerak Bumi."
+        }
+      },
+      {
+        "term": {
+          "en": "Ore",
+          "bm": "Bijih"
+        },
+        "definition": {
+          "en": "A rock containing enough of a metal compound to extract the metal profitably.",
+          "bm": "Batuan yang mengandungi cukup sebatian logam untuk diekstrak secara menguntungkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Reactivity series",
+          "bm": "Siri kereaktifan"
+        },
+        "definition": {
+          "en": "A list of metals in order of how readily they react.",
+          "bm": "Senarai logam mengikut kecergasan tindak balasnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Reduction",
+          "bm": "Penurunan"
+        },
+        "definition": {
+          "en": "Removal of oxygen from a compound, e.g. carbon removing oxygen from a metal oxide.",
+          "bm": "Penyingkiran oksigen daripada sebatian, cth. karbon menyingkirkan oksigen daripada oksida logam."
+        }
+      },
+      {
+        "term": {
+          "en": "Electrolysis",
+          "bm": "Elektrolisis"
+        },
+        "definition": {
+          "en": "Using electricity to break down a compound, e.g. to extract aluminium.",
+          "bm": "Menggunakan elektrik untuk menguraikan sebatian, cth. untuk mengekstrak aluminium."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain how tin is extracted from cassiterite.",
+        "bm": "Terangkan cara timah diekstrak daripada kasiterit."
+      },
+      "steps": [
+        {
+          "en": "Cassiterite contains tin(IV) oxide.",
+          "bm": "Kasiterit mengandungi timah(IV) oksida."
+        },
+        {
+          "en": "Tin is less reactive than carbon, so the ore is heated strongly with carbon (coke) in a furnace.",
+          "bm": "Timah kurang reaktif daripada karbon, jadi bijih dipanaskan dengan kuat bersama karbon (kok) dalam relau."
+        },
+        {
+          "en": "Carbon removes oxygen: tin(IV) oxide + carbon → tin + carbon dioxide.",
+          "bm": "Karbon menyingkirkan oksigen: timah(IV) oksida + karbon → timah + karbon dioksida."
+        }
+      ],
+      "answer": {
+        "en": "Reduction of tin oxide by carbon at high temperature.",
+        "bm": "Penurunan timah oksida oleh karbon pada suhu tinggi."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-04-q01",
+      "subtopicId": "f3sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which metal is usually found as a free element in nature?",
+        "bm": "Logam manakah biasanya dijumpai sebagai unsur bebas dalam alam?"
+      },
+      "explanation": {
+        "en": "Gold is so unreactive that it does not easily form compounds.",
+        "bm": "Emas sangat tidak reaktif sehingga sukar membentuk sebatian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Gold",
+          "bm": "Emas"
+        },
+        {
+          "en": "Iron",
+          "bm": "Besi"
+        },
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        },
+        {
+          "en": "Sodium",
+          "bm": "Natrium"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q02",
+      "subtopicId": "f3sci-04-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each mineral with the metal compound it contains.",
+        "bm": "Padankan mineral dengan sebatian logam yang dikandunginya."
+      },
+      "explanation": {
+        "en": "These are common ores.",
+        "bm": "Ini bijih yang biasa."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Bauxite",
+            "bm": "Bauksit"
+          },
+          "right": {
+            "en": "Aluminium oxide",
+            "bm": "Aluminium oksida"
+          }
+        },
+        {
+          "left": {
+            "en": "Haematite",
+            "bm": "Hematit"
+          },
+          "right": {
+            "en": "Iron oxide",
+            "bm": "Ferum oksida"
+          }
+        },
+        {
+          "left": {
+            "en": "Cassiterite",
+            "bm": "Kasiterit"
+          },
+          "right": {
+            "en": "Tin oxide",
+            "bm": "Timah oksida"
+          }
+        },
+        {
+          "left": {
+            "en": "Galena",
+            "bm": "Galena"
+          },
+          "right": {
+            "en": "Lead sulfide",
+            "bm": "Plumbum sulfida"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-04-q03",
+      "subtopicId": "f3sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Limestone is mainly…",
+        "bm": "Batu kapur terutamanya ialah…"
+      },
+      "explanation": {
+        "en": "Limestone (and marble) are forms of calcium carbonate.",
+        "bm": "Batu kapur (dan marmar) ialah bentuk kalsium karbonat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "calcium carbonate",
+          "bm": "kalsium karbonat"
+        },
+        {
+          "en": "iron oxide",
+          "bm": "ferum oksida"
+        },
+        {
+          "en": "tin oxide",
+          "bm": "timah oksida"
+        },
+        {
+          "en": "aluminium oxide",
+          "bm": "aluminium oksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q04",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the MOST reactive metal in this list?",
+        "bm": "Logam manakah PALING reaktif dalam senarai ini?"
+      },
+      "explanation": {
+        "en": "Potassium is at the top of the reactivity series.",
+        "bm": "Kalium berada di puncak siri kereaktifan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Potassium",
+          "bm": "Kalium"
+        },
+        {
+          "en": "Iron",
+          "bm": "Ferum"
+        },
+        {
+          "en": "Copper",
+          "bm": "Kuprum"
+        },
+        {
+          "en": "Zinc",
+          "bm": "Zink"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q05",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A more reactive metal heated in oxygen…",
+        "bm": "Logam yang lebih reaktif apabila dipanaskan dalam oksigen…"
+      },
+      "explanation": {
+        "en": "Reactivity is judged by how vigorous the reaction is.",
+        "bm": "Kereaktifan dinilai berdasarkan kecergasan tindak balas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "burns more brightly and vigorously",
+          "bm": "terbakar dengan lebih terang dan cergas"
+        },
+        {
+          "en": "does not change",
+          "bm": "tidak berubah"
+        },
+        {
+          "en": "melts without burning",
+          "bm": "melebur tanpa terbakar"
+        },
+        {
+          "en": "turns into gold",
+          "bm": "menjadi emas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q06",
+      "subtopicId": "f3sci-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Metal + oxygen → metal ______.",
+        "bm": "Logam + oksigen → ______ logam."
+      },
+      "explanation": {
+        "en": "Metals react with oxygen to form metal oxides.",
+        "bm": "Logam bertindak balas dengan oksigen membentuk oksida logam."
+      },
+      "difficulty": 1,
+      "answer": [
+        "oxide",
+        "oksida"
+      ]
+    },
+    {
+      "id": "f3sci-04-q07",
+      "subtopicId": "f3sci-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Aluminium is extracted from its ore by…",
+        "bm": "Aluminium diekstrak daripada bijihnya melalui…"
+      },
+      "explanation": {
+        "en": "Aluminium is more reactive than carbon, so carbon cannot remove its oxygen.",
+        "bm": "Aluminium lebih reaktif daripada karbon, jadi karbon tidak dapat menyingkirkan oksigennya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "electrolysis",
+          "bm": "elektrolisis"
+        },
+        {
+          "en": "heating with carbon",
+          "bm": "pemanasan bersama karbon"
+        },
+        {
+          "en": "panning in rivers",
+          "bm": "mendulang di sungai"
+        },
+        {
+          "en": "dissolving in water",
+          "bm": "melarutkan dalam air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q08",
+      "subtopicId": "f3sci-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the blast furnace, iron is extracted from…",
+        "bm": "Dalam relau bagas, besi diekstrak daripada…"
+      },
+      "explanation": {
+        "en": "Haematite is iron oxide.",
+        "bm": "Hematit ialah ferum oksida."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "haematite",
+          "bm": "hematit"
+        },
+        {
+          "en": "bauxite",
+          "bm": "bauksit"
+        },
+        {
+          "en": "galena",
+          "bm": "galena"
+        },
+        {
+          "en": "cassiterite",
+          "bm": "kasiterit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q09",
+      "subtopicId": "f3sci-04-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these metals from MOST to LEAST reactive.",
+        "bm": "Susun logam ini daripada PALING kepada PALING KURANG reaktif."
+      },
+      "explanation": {
+        "en": "Mg > Al > Zn > Fe > Cu.",
+        "bm": "Mg > Al > Zn > Fe > Cu."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Magnesium",
+          "bm": "Magnesium"
+        },
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        },
+        {
+          "en": "Zinc",
+          "bm": "Zink"
+        },
+        {
+          "en": "Iron",
+          "bm": "Ferum"
+        },
+        {
+          "en": "Copper",
+          "bm": "Kuprum"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-04-q10",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where is carbon placed in the reactivity series?",
+        "bm": "Di manakah karbon diletakkan dalam siri kereaktifan?"
+      },
+      "explanation": {
+        "en": "Carbon can reduce oxides of zinc and below, but not aluminium and above.",
+        "bm": "Karbon boleh menurunkan oksida zink dan ke bawah, tetapi tidak aluminium dan ke atas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Between aluminium and zinc",
+          "bm": "Antara aluminium dan zink"
+        },
+        {
+          "en": "Above potassium",
+          "bm": "Di atas kalium"
+        },
+        {
+          "en": "Below gold",
+          "bm": "Di bawah emas"
+        },
+        {
+          "en": "Between copper and silver",
+          "bm": "Antara kuprum dan argentum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q11",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the school experiment, why is potassium manganate(VII) heated with the metal powder?",
+        "bm": "Dalam eksperimen sekolah, mengapakah kalium manganat(VII) dipanaskan bersama serbuk logam?"
+      },
+      "explanation": {
+        "en": "It provides oxygen for the metal to react with.",
+        "bm": "Ia membekalkan oksigen untuk bertindak balas dengan logam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It releases oxygen when heated",
+          "bm": "Ia membebaskan oksigen apabila dipanaskan"
+        },
+        {
+          "en": "It is the fuel",
+          "bm": "Ia ialah bahan api"
+        },
+        {
+          "en": "It cools the metal",
+          "bm": "Ia menyejukkan logam"
+        },
+        {
+          "en": "It is a catalyst that makes gold",
+          "bm": "Ia mangkin yang menghasilkan emas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q12",
+      "subtopicId": "f3sci-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is limestone added to the blast furnace?",
+        "bm": "Mengapakah batu kapur ditambah ke dalam relau bagas?"
+      },
+      "explanation": {
+        "en": "Limestone reacts with sandy impurities to form slag, which floats on molten iron.",
+        "bm": "Batu kapur bertindak balas dengan bendasing berpasir membentuk sanga yang terapung di atas besi lebur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To remove impurities as slag",
+          "bm": "Untuk menyingkirkan bendasing sebagai sanga"
+        },
+        {
+          "en": "To provide iron",
+          "bm": "Untuk membekalkan besi"
+        },
+        {
+          "en": "To cool the furnace",
+          "bm": "Untuk menyejukkan relau"
+        },
+        {
+          "en": "To make the iron shiny",
+          "bm": "Untuk menjadikan besi berkilat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q13",
+      "subtopicId": "f3sci-04-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL metals that can be extracted by heating their oxide with carbon.",
+        "bm": "Pilih SEMUA logam yang boleh diekstrak dengan memanaskan oksidanya bersama karbon."
+      },
+      "explanation": {
+        "en": "These are below carbon in the reactivity series; aluminium is above it.",
+        "bm": "Logam ini di bawah karbon dalam siri kereaktifan; aluminium di atasnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Iron",
+          "bm": "Ferum"
+        },
+        {
+          "en": "Tin",
+          "bm": "Timah"
+        },
+        {
+          "en": "Zinc",
+          "bm": "Zink"
+        },
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-04-q14",
+      "subtopicId": "f3sci-04-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Removing oxygen from a metal oxide is called ______.",
+        "bm": "Menyingkirkan oksigen daripada oksida logam dipanggil ______."
+      },
+      "explanation": {
+        "en": "Carbon acts as the reducing agent.",
+        "bm": "Karbon bertindak sebagai agen penurunan."
+      },
+      "difficulty": 2,
+      "answer": [
+        "reduction",
+        "penurunan"
+      ]
+    },
+    {
+      "id": "f3sci-04-q15",
+      "subtopicId": "f3sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia was historically a major producer of which metal, especially from the Kinta Valley?",
+        "bm": "Malaysia pernah menjadi pengeluar utama logam manakah, terutamanya dari Lembah Kinta?"
+      },
+      "explanation": {
+        "en": "Tin mining shaped towns like Ipoh.",
+        "bm": "Perlombongan bijih timah membentuk bandar seperti Ipoh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tin",
+          "bm": "Timah"
+        },
+        {
+          "en": "Gold",
+          "bm": "Emas"
+        },
+        {
+          "en": "Aluminium",
+          "bm": "Aluminium"
+        },
+        {
+          "en": "Uranium",
+          "bm": "Uranium"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q16",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which metal is LEAST reactive?",
+        "bm": "Logam manakah PALING KURANG reaktif?"
+      },
+      "explanation": {
+        "en": "Gold is at the bottom of the series.",
+        "bm": "Emas berada di bawah sekali dalam siri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Gold",
+          "bm": "Emas"
+        },
+        {
+          "en": "Silver",
+          "bm": "Argentum"
+        },
+        {
+          "en": "Copper",
+          "bm": "Kuprum"
+        },
+        {
+          "en": "Lead",
+          "bm": "Plumbum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q17",
+      "subtopicId": "f3sci-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Can magnesium oxide be reduced by heating with carbon?",
+        "bm": "Bolehkah magnesium oksida diturunkan dengan memanaskannya bersama karbon?"
+      },
+      "explanation": {
+        "en": "Carbon can only take oxygen from metals less reactive than itself.",
+        "bm": "Karbon hanya boleh mengambil oksigen daripada logam yang kurang reaktif daripadanya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "No — magnesium is more reactive than carbon",
+          "bm": "Tidak — magnesium lebih reaktif daripada karbon"
+        },
+        {
+          "en": "Yes — carbon reduces all oxides",
+          "bm": "Ya — karbon menurunkan semua oksida"
+        },
+        {
+          "en": "Yes, but only in water",
+          "bm": "Ya, tetapi hanya dalam air"
+        },
+        {
+          "en": "No — magnesium has no oxide",
+          "bm": "Tidak — magnesium tiada oksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q18",
+      "subtopicId": "f3sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Metal X burns with a bright flame in oxygen; metal Y only glows dimly; metal Z does not change. Which order of reactivity is correct?",
+        "bm": "Logam X terbakar dengan nyalaan terang dalam oksigen; logam Y hanya membara malap; logam Z tidak berubah. Susunan kereaktifan manakah betul?"
+      },
+      "explanation": {
+        "en": "A brighter, more vigorous reaction means a more reactive metal.",
+        "bm": "Tindak balas yang lebih terang dan cergas bermaksud logam lebih reaktif."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "X > Y > Z",
+          "bm": "X > Y > Z"
+        },
+        {
+          "en": "Z > Y > X",
+          "bm": "Z > Y > X"
+        },
+        {
+          "en": "Y > X > Z",
+          "bm": "Y > X > Z"
+        },
+        {
+          "en": "X > Z > Y",
+          "bm": "X > Z > Y"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q19",
+      "subtopicId": "f3sci-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is aluminium more expensive to extract than iron, even though it is more common in the Earth's crust?",
+        "bm": "Mengapakah pengekstrakan aluminium lebih mahal daripada besi walaupun aluminium lebih banyak dalam kerak Bumi?"
+      },
+      "explanation": {
+        "en": "This is why recycling aluminium cans saves so much energy.",
+        "bm": "Inilah sebabnya kitar semula tin aluminium menjimatkan banyak tenaga."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Electrolysis uses a large amount of electricity",
+          "bm": "Elektrolisis menggunakan tenaga elektrik yang sangat banyak"
+        },
+        {
+          "en": "Aluminium is rare",
+          "bm": "Aluminium jarang dijumpai"
+        },
+        {
+          "en": "Carbon is expensive",
+          "bm": "Karbon mahal"
+        },
+        {
+          "en": "Aluminium is found as pure metal",
+          "bm": "Aluminium dijumpai sebagai logam tulen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-04-q20",
+      "subtopicId": "f3sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST reason to recycle metals?",
+        "bm": "Apakah sebab TERBAIK untuk mengitar semula logam?"
+      },
+      "explanation": {
+        "en": "Ores are non-renewable resources.",
+        "bm": "Bijih ialah sumber yang tidak boleh diperbaharui."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It saves ores and energy and reduces mining damage",
+          "bm": "Menjimatkan bijih dan tenaga serta mengurangkan kerosakan akibat perlombongan"
+        },
+        {
+          "en": "Recycled metals are always gold",
+          "bm": "Logam kitar semula sentiasa menjadi emas"
+        },
+        {
+          "en": "It increases pollution",
+          "bm": "Meningkatkan pencemaran"
+        },
+        {
+          "en": "Ores are unlimited",
+          "bm": "Bijih tidak terhad"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

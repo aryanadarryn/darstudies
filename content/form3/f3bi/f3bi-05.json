@@ -1,0 +1,853 @@
+{
+  "chapterId": "f3bi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An email to a friend, a story for a magazine and a review of a film each have a different reader — so each needs a different tone, layout and opening.",
+      "bm": "E-mel kepada kawan, cerita untuk majalah dan ulasan filem masing-masing mempunyai pembaca yang berbeza — jadi setiap satu memerlukan nada, susun atur dan permulaan yang berbeza."
+    },
+    "bigIdeas": [
+      {
+        "en": "Always think about purpose, audience and format before writing.",
+        "bm": "Sentiasa fikirkan tujuan, pembaca dan format sebelum menulis."
+      },
+      {
+        "en": "Informal emails are friendly: greeting, chatty paragraphs, contractions, friendly closing.",
+        "bm": "E-mel tidak formal bersifat mesra: sapaan, perenggan santai, kontraksi, penutup mesra."
+      },
+      {
+        "en": "Stories need a hook, a problem, a climax and a resolution; articles need a catchy title and an engaging opening.",
+        "bm": "Cerita memerlukan permulaan menarik, masalah, klimaks dan penyelesaian; rencana memerlukan tajuk menarik dan pembukaan yang memikat."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Opening",
+            "bm": "Pembukaan"
+          },
+          {
+            "en": "Closing",
+            "bm": "Penutup"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Informal email",
+              "bm": "E-mel tidak formal"
+            },
+            "cells": [
+              {
+                "en": "Hi Aina, / Dear Aina,",
+                "bm": "Hi Aina, / Dear Aina,"
+              },
+              {
+                "en": "Take care, / Best wishes,",
+                "bm": "Take care, / Best wishes,"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Story",
+              "bm": "Cerita"
+            },
+            "cells": [
+              {
+                "en": "Action, dialogue or a question",
+                "bm": "Aksi, dialog atau soalan"
+              },
+              {
+                "en": "Resolution and a lesson or twist",
+                "bm": "Penyelesaian dan pengajaran atau kejutan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Article",
+              "bm": "Rencana"
+            },
+            "cells": [
+              {
+                "en": "Catchy title + question to the reader",
+                "bm": "Tajuk menarik + soalan kepada pembaca"
+              },
+              {
+                "en": "Summary and call to action",
+                "bm": "Rumusan dan seruan bertindak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Review",
+              "bm": "Ulasan"
+            },
+            "cells": [
+              {
+                "en": "Name, type, basic details",
+                "bm": "Nama, jenis, butiran asas"
+              },
+              {
+                "en": "Rating and recommendation",
+                "bm": "Penilaian dan cadangan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Audience",
+          "bm": "Pembaca sasaran"
+        },
+        "definition": {
+          "en": "The person or group you are writing for.",
+          "bm": "Orang atau kumpulan yang anda tulis untuknya."
+        }
+      },
+      {
+        "term": {
+          "en": "Tone",
+          "bm": "Nada"
+        },
+        "definition": {
+          "en": "The attitude of the writing: friendly, formal, persuasive.",
+          "bm": "Sikap dalam penulisan: mesra, formal, memujuk."
+        }
+      },
+      {
+        "term": {
+          "en": "Hook",
+          "bm": "Cangkuk"
+        },
+        "definition": {
+          "en": "An opening that grabs the reader's attention.",
+          "bm": "Pembukaan yang menarik perhatian pembaca."
+        }
+      },
+      {
+        "term": {
+          "en": "Climax",
+          "bm": "Klimaks"
+        },
+        "definition": {
+          "en": "The most exciting or tense point of a story.",
+          "bm": "Titik paling mendebarkan dalam cerita."
+        }
+      },
+      {
+        "term": {
+          "en": "Call to action",
+          "bm": "Seruan bertindak"
+        },
+        "definition": {
+          "en": "Ending that tells readers what to do.",
+          "bm": "Penutup yang memberitahu pembaca apa yang perlu dilakukan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Write an opening for a story titled \"The Locked Door\".",
+        "bm": "Tulis pembukaan untuk cerita bertajuk \"The Locked Door\"."
+      },
+      "steps": [
+        {
+          "en": "Start with action or sound to hook the reader.",
+          "bm": "Mulakan dengan aksi atau bunyi untuk menarik pembaca."
+        },
+        {
+          "en": "Introduce the main character and the problem quickly.",
+          "bm": "Perkenalkan watak utama dan masalah dengan cepat."
+        }
+      ],
+      "answer": {
+        "en": "\"Click.\" Hana spun around. The storeroom door had locked behind her, and the lights were flickering.",
+        "bm": "\"Click.\" Hana spun around. The storeroom door had locked behind her, and the lights were flickering."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bi-05-q01",
+      "subtopicId": "f3bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST greeting for an email to a close friend?",
+        "bm": "Which is the BEST greeting for an email to a close friend?"
+      },
+      "explanation": {
+        "en": "Informal greeting for a friend.",
+        "bm": "Sapaan tidak formal untuk kawan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hi Daniel,",
+          "bm": "Hi Daniel,"
+        },
+        {
+          "en": "Dear Sir,",
+          "bm": "Dear Sir,"
+        },
+        {
+          "en": "To whom it may concern,",
+          "bm": "To whom it may concern,"
+        },
+        {
+          "en": "Respected Principal,",
+          "bm": "Respected Principal,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q02",
+      "subtopicId": "f3bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which closing suits an informal email?",
+        "bm": "Which closing suits an informal email?"
+      },
+      "explanation": {
+        "en": "Other closings are more formal.",
+        "bm": "Penutup lain lebih formal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Take care,",
+          "bm": "Take care,"
+        },
+        {
+          "en": "Yours faithfully,",
+          "bm": "Yours faithfully,"
+        },
+        {
+          "en": "Yours sincerely, (to an officer)",
+          "bm": "Yours sincerely, (to an officer)"
+        },
+        {
+          "en": "Thank you for your attention,",
+          "bm": "Thank you for your attention,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q03",
+      "subtopicId": "f3bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Informal emails often use…",
+        "bm": "Informal emails often use…"
+      },
+      "explanation": {
+        "en": "They sound like natural speech.",
+        "bm": "Ia kedengaran seperti percakapan biasa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "contractions like \"I'm\" and \"can't\"",
+          "bm": "contractions like \"I'm\" and \"can't\""
+        },
+        {
+          "en": "very formal vocabulary only",
+          "bm": "very formal vocabulary only"
+        },
+        {
+          "en": "numbered points",
+          "bm": "numbered points"
+        },
+        {
+          "en": "the recipient's official address",
+          "bm": "the recipient's official address"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q04",
+      "subtopicId": "f3bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The most exciting or tense point in a story is the…",
+        "bm": "The most exciting or tense point in a story is the…"
+      },
+      "explanation": {
+        "en": "After the climax comes the resolution.",
+        "bm": "Selepas klimaks diikuti penyelesaian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "climax",
+          "bm": "climax"
+        },
+        {
+          "en": "introduction",
+          "bm": "introduction"
+        },
+        {
+          "en": "title",
+          "bm": "title"
+        },
+        {
+          "en": "setting",
+          "bm": "setting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q05",
+      "subtopicId": "f3bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which story opening is the MOST interesting?",
+        "bm": "Which story opening is the MOST interesting?"
+      },
+      "explanation": {
+        "en": "Dialogue and action create a hook.",
+        "bm": "Dialog dan aksi mewujudkan cangkuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "\"Run!\" shouted Arif as the ground began to shake.",
+          "bm": "\"Run!\" shouted Arif as the ground began to shake."
+        },
+        {
+          "en": "One day I went to school.",
+          "bm": "One day I went to school."
+        },
+        {
+          "en": "This is my story.",
+          "bm": "This is my story."
+        },
+        {
+          "en": "I want to tell you a story.",
+          "bm": "I want to tell you a story."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q06",
+      "subtopicId": "f3bi-05-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The time and place of a story is called the ___.",
+        "bm": "The time and place of a story is called the ___."
+      },
+      "explanation": {
+        "en": "e.g. a rainy night in a kampung.",
+        "bm": "cth. malam hujan di kampung."
+      },
+      "difficulty": 1,
+      "answer": [
+        "setting"
+      ]
+    },
+    {
+      "id": "f3bi-05-q07",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An article for a school magazine should start with…",
+        "bm": "An article for a school magazine should start with…"
+      },
+      "explanation": {
+        "en": "Articles need to attract readers.",
+        "bm": "Rencana perlu menarik pembaca."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a catchy title and an engaging opening",
+          "bm": "a catchy title and an engaging opening"
+        },
+        {
+          "en": "the writer's home address",
+          "bm": "the writer's home address"
+        },
+        {
+          "en": "\"Yours faithfully\"",
+          "bm": "\"Yours faithfully\""
+        },
+        {
+          "en": "a list of numbers",
+          "bm": "a list of numbers"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q08",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A review of a film usually ends with…",
+        "bm": "A review of a film usually ends with…"
+      },
+      "explanation": {
+        "en": "Tell readers whether they should watch it.",
+        "bm": "Beritahu pembaca sama ada mereka patut menonton."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a rating and recommendation",
+          "bm": "a rating and recommendation"
+        },
+        {
+          "en": "the writer's address",
+          "bm": "the writer's address"
+        },
+        {
+          "en": "a question tag",
+          "bm": "a question tag"
+        },
+        {
+          "en": "a greeting",
+          "bm": "a greeting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q09",
+      "subtopicId": "f3bi-05-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the parts of an informal email.",
+        "bm": "Arrange the parts of an informal email."
+      },
+      "explanation": {
+        "en": "Keep paragraphs short and friendly.",
+        "bm": "Pastikan perenggan ringkas dan mesra."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Greeting",
+          "bm": "Greeting"
+        },
+        {
+          "en": "Opening line asking about the reader",
+          "bm": "Opening line asking about the reader"
+        },
+        {
+          "en": "Main paragraphs",
+          "bm": "Main paragraphs"
+        },
+        {
+          "en": "Closing line",
+          "bm": "Closing line"
+        },
+        {
+          "en": "Sign-off and name",
+          "bm": "Sign-off and name"
+        }
+      ]
+    },
+    {
+      "id": "f3bi-05-q10",
+      "subtopicId": "f3bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your friend asked about your holiday. Which opening line is BEST?",
+        "bm": "Your friend asked about your holiday. Which opening line is BEST?"
+      },
+      "explanation": {
+        "en": "It responds to the friend and introduces the topic.",
+        "bm": "Ia membalas kawan dan memperkenalkan topik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Thanks for your email! I'm so excited to tell you about my trip to Langkawi.",
+          "bm": "Thanks for your email! I'm so excited to tell you about my trip to Langkawi."
+        },
+        {
+          "en": "I am writing to complain about my holiday.",
+          "bm": "I am writing to complain about my holiday."
+        },
+        {
+          "en": "With reference to the above matter…",
+          "bm": "With reference to the above matter…"
+        },
+        {
+          "en": "Holiday.",
+          "bm": "Holiday."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q11",
+      "subtopicId": "f3bi-05-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of a story.",
+        "bm": "Arrange the stages of a story."
+      },
+      "explanation": {
+        "en": "Plan these four before writing.",
+        "bm": "Rancang empat peringkat ini sebelum menulis."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Opening (hook and setting)",
+          "bm": "Opening (hook and setting)"
+        },
+        {
+          "en": "Problem",
+          "bm": "Problem"
+        },
+        {
+          "en": "Climax",
+          "bm": "Climax"
+        },
+        {
+          "en": "Resolution",
+          "bm": "Resolution"
+        }
+      ]
+    },
+    {
+      "id": "f3bi-05-q12",
+      "subtopicId": "f3bi-05-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL ways to make a story more vivid.",
+        "bm": "Select ALL ways to make a story more vivid."
+      },
+      "explanation": {
+        "en": "Varied sentence starters keep readers interested.",
+        "bm": "Permulaan ayat yang pelbagai mengekalkan minat pembaca."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Use the five senses",
+          "bm": "Use the five senses"
+        },
+        {
+          "en": "Use dialogue",
+          "bm": "Use dialogue"
+        },
+        {
+          "en": "Use strong verbs (dashed, whispered)",
+          "bm": "Use strong verbs (dashed, whispered)"
+        },
+        {
+          "en": "Repeat \"and then\" in every sentence",
+          "bm": "Repeat \"and then\" in every sentence"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bi-05-q13",
+      "subtopicId": "f3bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"show, don't tell\" BEST?",
+        "bm": "Which sentence uses \"show, don't tell\" BEST?"
+      },
+      "explanation": {
+        "en": "Actions show the feeling.",
+        "bm": "Tindakan menunjukkan perasaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Her hands trembled as she opened the envelope.",
+          "bm": "Her hands trembled as she opened the envelope."
+        },
+        {
+          "en": "She was nervous.",
+          "bm": "She was nervous."
+        },
+        {
+          "en": "She felt very very nervous.",
+          "bm": "She felt very very nervous."
+        },
+        {
+          "en": "Nervous she was.",
+          "bm": "Nervous she was."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q14",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST title for an article about reducing plastic waste?",
+        "bm": "Which is the BEST title for an article about reducing plastic waste?"
+      },
+      "explanation": {
+        "en": "Catchy and shows the topic.",
+        "bm": "Menarik dan menunjukkan topik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Say No to Plastic: Small Steps, Big Change",
+          "bm": "Say No to Plastic: Small Steps, Big Change"
+        },
+        {
+          "en": "Plastic",
+          "bm": "Plastic"
+        },
+        {
+          "en": "My Article",
+          "bm": "My Article"
+        },
+        {
+          "en": "Something About Rubbish",
+          "bm": "Something About Rubbish"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q15",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is a good call to action at the end of an article?",
+        "bm": "Which sentence is a good call to action at the end of an article?"
+      },
+      "explanation": {
+        "en": "It tells readers what to do.",
+        "bm": "Ia memberitahu pembaca apa yang perlu dilakukan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "So, bring your own bag the next time you go shopping!",
+          "bm": "So, bring your own bag the next time you go shopping!"
+        },
+        {
+          "en": "That is all.",
+          "bm": "That is all."
+        },
+        {
+          "en": "I am tired now.",
+          "bm": "I am tired now."
+        },
+        {
+          "en": "Plastic was invented long ago.",
+          "bm": "Plastic was invented long ago."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q16",
+      "subtopicId": "f3bi-05-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each text type with its main purpose.",
+        "bm": "Match each text type with its main purpose."
+      },
+      "explanation": {
+        "en": "Purpose decides tone and layout.",
+        "bm": "Tujuan menentukan nada dan susun atur."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Review",
+            "bm": "Review"
+          },
+          "right": {
+            "en": "evaluate and recommend",
+            "bm": "menilai dan mencadangkan"
+          }
+        },
+        {
+          "left": {
+            "en": "Article",
+            "bm": "Article"
+          },
+          "right": {
+            "en": "inform or persuade readers",
+            "bm": "memberi maklumat atau memujuk pembaca"
+          }
+        },
+        {
+          "left": {
+            "en": "Story",
+            "bm": "Story"
+          },
+          "right": {
+            "en": "entertain",
+            "bm": "menghiburkan"
+          }
+        },
+        {
+          "left": {
+            "en": "Informal email",
+            "bm": "Informal email"
+          },
+          "right": {
+            "en": "share news with a friend",
+            "bm": "berkongsi berita dengan kawan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bi-05-q17",
+      "subtopicId": "f3bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student writes to a friend: \"I am writing to inform you that I have obtained excellent results.\" What is the problem?",
+        "bm": "A student writes to a friend: \"I am writing to inform you that I have obtained excellent results.\" What is the problem?"
+      },
+      "explanation": {
+        "en": "Better: \"Guess what? I got great results!\"",
+        "bm": "Lebih baik: \"Guess what? I got great results!\""
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The tone is too formal for a friend",
+          "bm": "Nadanya terlalu formal untuk kawan"
+        },
+        {
+          "en": "There is a spelling mistake",
+          "bm": "Ada kesalahan ejaan"
+        },
+        {
+          "en": "It is too informal",
+          "bm": "Ia terlalu tidak formal"
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada masalah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q18",
+      "subtopicId": "f3bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which ending makes a story MOST satisfying?",
+        "bm": "Which ending makes a story MOST satisfying?"
+      },
+      "explanation": {
+        "en": "Overused endings lose marks for originality.",
+        "bm": "Penutup yang terlalu biasa kurang asli."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The problem is solved and the character learns something",
+          "bm": "Masalah diselesaikan dan watak mempelajari sesuatu"
+        },
+        {
+          "en": "\"Then I woke up. It was all a dream.\" every time",
+          "bm": "\"Then I woke up. It was all a dream.\" setiap kali"
+        },
+        {
+          "en": "The story stops suddenly",
+          "bm": "Cerita berhenti tiba-tiba"
+        },
+        {
+          "en": "A new problem is introduced and left",
+          "bm": "Masalah baharu diperkenalkan dan dibiarkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q19",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a film review, which sentence gives a balanced evaluation?",
+        "bm": "In a film review, which sentence gives a balanced evaluation?"
+      },
+      "explanation": {
+        "en": "Strengths and weaknesses make a review fair.",
+        "bm": "Kekuatan dan kelemahan menjadikan ulasan adil."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The acting was brilliant, although the story was a little slow in the middle.",
+          "bm": "The acting was brilliant, although the story was a little slow in the middle."
+        },
+        {
+          "en": "It is the worst film ever made.",
+          "bm": "It is the worst film ever made."
+        },
+        {
+          "en": "The film is two hours long.",
+          "bm": "The film is two hours long."
+        },
+        {
+          "en": "I watched it.",
+          "bm": "I watched it."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-05-q20",
+      "subtopicId": "f3bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "You are writing an article for teenagers about healthy sleep. Which opening BEST engages the audience?",
+        "bm": "You are writing an article for teenagers about healthy sleep. Which opening BEST engages the audience?"
+      },
+      "explanation": {
+        "en": "A relatable question speaks directly to the reader.",
+        "bm": "Soalan yang dekat dengan pembaca bercakap terus kepada mereka."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Do you scroll your phone until 2 a.m. and then struggle to wake up? You are not alone.",
+          "bm": "Do you scroll your phone until 2 a.m. and then struggle to wake up? You are not alone."
+        },
+        {
+          "en": "Sleep is a biological process.",
+          "bm": "Sleep is a biological process."
+        },
+        {
+          "en": "Dear Sir, I wish to discuss sleep.",
+          "bm": "Dear Sir, I wish to discuss sleep."
+        },
+        {
+          "en": "This article is about sleep.",
+          "bm": "This article is about sleep."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+{
+  "chapterId": "f3psv-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Artists and designers share one visual \"alphabet\": line, shape, form, texture, space and colour. The principles of design are its grammar.",
+      "bm": "Pelukis dan pereka berkongsi satu \"abjad\" visual: garisan, rupa, bentuk, jalinan, ruang dan warna. Prinsip rekaan pula ialah tatabahasanya."
+    },
+    "bigIdeas": [
+      {
+        "en": "The elements of art are line, shape, form, texture, space and colour (with tone/value).",
+        "bm": "Unsur seni ialah garisan, rupa, bentuk, jalinan, ruang dan warna (termasuk ton)."
+      },
+      {
+        "en": "Principles of design — harmony, contrast, balance, emphasis, variety, unity, movement, rhythm and repetition — organise the elements.",
+        "bm": "Prinsip rekaan — harmoni, kontra, imbangan, penegasan, kepelbagaian, kesatuan, pergerakan, ritma dan pengulangan — menyusun unsur seni."
+      },
+      {
+        "en": "Good artwork uses elements deliberately to create meaning and effect.",
+        "bm": "Karya yang baik menggunakan unsur seni secara terancang untuk mencipta makna dan kesan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Elements of art",
+          "bm": "Unsur seni"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Line",
+              "bm": "Garisan"
+            },
+            "detail": {
+              "en": "Straight, curved, zigzag; shows direction and movement",
+              "bm": "Lurus, melengkung, zig-zag; menunjukkan arah dan pergerakan"
+            }
+          },
+          {
+            "label": {
+              "en": "Shape",
+              "bm": "Rupa"
+            },
+            "detail": {
+              "en": "2D: flat, has length and width",
+              "bm": "2D: rata, ada panjang dan lebar"
+            }
+          },
+          {
+            "label": {
+              "en": "Form",
+              "bm": "Bentuk"
+            },
+            "detail": {
+              "en": "3D: has length, width and depth",
+              "bm": "3D: ada panjang, lebar dan tebal"
+            }
+          },
+          {
+            "label": {
+              "en": "Texture",
+              "bm": "Jalinan"
+            },
+            "detail": {
+              "en": "Real (felt) or implied (seen)",
+              "bm": "Sebenar (dirasa) atau tampak (dilihat)"
+            }
+          },
+          {
+            "label": {
+              "en": "Space",
+              "bm": "Ruang"
+            },
+            "detail": {
+              "en": "Positive and negative, near and far",
+              "bm": "Positif dan negatif, dekat dan jauh"
+            }
+          },
+          {
+            "label": {
+              "en": "Colour",
+              "bm": "Warna"
+            },
+            "detail": {
+              "en": "Hue, tone, warm and cool",
+              "bm": "Rona, ton, panas dan sejuk"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Shape (rupa)",
+          "bm": "Rupa"
+        },
+        "definition": {
+          "en": "A flat, two-dimensional area.",
+          "bm": "Kawasan rata dua dimensi."
+        }
+      },
+      {
+        "term": {
+          "en": "Form (bentuk)",
+          "bm": "Bentuk"
+        },
+        "definition": {
+          "en": "A three-dimensional object with volume.",
+          "bm": "Objek tiga dimensi yang mempunyai isi padu."
+        }
+      },
+      {
+        "term": {
+          "en": "Texture (jalinan)",
+          "bm": "Jalinan"
+        },
+        "definition": {
+          "en": "How a surface feels or looks like it feels.",
+          "bm": "Sifat permukaan yang dirasa atau kelihatan seperti dirasa."
+        }
+      },
+      {
+        "term": {
+          "en": "Negative space",
+          "bm": "Ruang negatif"
+        },
+        "definition": {
+          "en": "The empty area around the subject.",
+          "bm": "Kawasan kosong di sekeliling subjek."
+        }
+      },
+      {
+        "term": {
+          "en": "Contrast",
+          "bm": "Kontra"
+        },
+        "definition": {
+          "en": "Strong differences (light/dark, big/small) that create interest.",
+          "bm": "Perbezaan ketara (terang/gelap, besar/kecil) yang menarik perhatian."
+        }
+      },
+      {
+        "term": {
+          "en": "Emphasis",
+          "bm": "Penegasan"
+        },
+        "definition": {
+          "en": "Making one part the focal point.",
+          "bm": "Menjadikan satu bahagian sebagai fokus."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A poster shows one red umbrella among many grey ones. Which principle is used?",
+        "bm": "Sebuah poster menunjukkan satu payung merah di antara banyak payung kelabu. Prinsip apakah yang digunakan?"
+      },
+      "steps": [
+        {
+          "en": "The red umbrella stands out from the rest.",
+          "bm": "Payung merah menonjol berbanding yang lain."
+        },
+        {
+          "en": "Colour contrast creates a focal point.",
+          "bm": "Kontra warna mewujudkan titik fokus."
+        }
+      ],
+      "answer": {
+        "en": "Emphasis (through contrast).",
+        "bm": "Penegasan (melalui kontra)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3psv-01-q01",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A flat, two-dimensional area is called…",
+        "bm": "Kawasan rata dua dimensi dipanggil…"
+      },
+      "explanation": {
+        "en": "Form is three-dimensional.",
+        "bm": "Bentuk ialah tiga dimensi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shape (rupa)",
+          "bm": "rupa"
+        },
+        {
+          "en": "form (bentuk)",
+          "bm": "bentuk"
+        },
+        {
+          "en": "texture",
+          "bm": "jalinan"
+        },
+        {
+          "en": "space",
+          "bm": "ruang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q02",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A sculpture you can walk around has…",
+        "bm": "Arca yang boleh dilihat dari sekelilingnya mempunyai…"
+      },
+      "explanation": {
+        "en": "Form has length, width and depth.",
+        "bm": "Bentuk ada panjang, lebar dan tebal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "form (3D)",
+          "bm": "bentuk (3D)"
+        },
+        {
+          "en": "shape only (2D)",
+          "bm": "rupa sahaja (2D)"
+        },
+        {
+          "en": "no space",
+          "bm": "tiada ruang"
+        },
+        {
+          "en": "only colour",
+          "bm": "warna sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q03",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The roughness of tree bark that you can feel is…",
+        "bm": "Kekasaran kulit pokok yang boleh dirasa ialah…"
+      },
+      "explanation": {
+        "en": "Implied texture only looks rough in a drawing.",
+        "bm": "Jalinan tampak hanya kelihatan kasar dalam lukisan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "real (actual) texture",
+          "bm": "jalinan sebenar"
+        },
+        {
+          "en": "implied texture",
+          "bm": "jalinan tampak"
+        },
+        {
+          "en": "negative space",
+          "bm": "ruang negatif"
+        },
+        {
+          "en": "a shape",
+          "bm": "rupa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q04",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The empty area around a subject is…",
+        "bm": "Kawasan kosong di sekeliling subjek ialah…"
+      },
+      "explanation": {
+        "en": "The subject itself is positive space.",
+        "bm": "Subjek itu sendiri ialah ruang positif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "negative space",
+          "bm": "ruang negatif"
+        },
+        {
+          "en": "positive space",
+          "bm": "ruang positif"
+        },
+        {
+          "en": "form",
+          "bm": "bentuk"
+        },
+        {
+          "en": "tone",
+          "bm": "ton"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q05",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Strong differences such as black against white create…",
+        "bm": "Perbezaan ketara seperti hitam berlawanan putih menghasilkan…"
+      },
+      "explanation": {
+        "en": "Contrast attracts attention.",
+        "bm": "Kontra menarik perhatian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "contrast",
+          "bm": "kontra"
+        },
+        {
+          "en": "harmony",
+          "bm": "harmoni"
+        },
+        {
+          "en": "unity",
+          "bm": "kesatuan"
+        },
+        {
+          "en": "repetition",
+          "bm": "pengulangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q06",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Making one part of an artwork the centre of attention is…",
+        "bm": "Menjadikan satu bahagian karya sebagai tumpuan ialah…"
+      },
+      "explanation": {
+        "en": "This part is the focal point.",
+        "bm": "Bahagian ini ialah titik fokus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "emphasis",
+          "bm": "penegasan"
+        },
+        {
+          "en": "variety",
+          "bm": "kepelbagaian"
+        },
+        {
+          "en": "balance",
+          "bm": "imbangan"
+        },
+        {
+          "en": "rhythm",
+          "bm": "ritma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q07",
+      "subtopicId": "f3psv-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "When both sides of an artwork are the same, it has ______ balance.",
+        "bm": "Apabila kedua-dua belah karya sama, ia mempunyai imbangan ______."
+      },
+      "explanation": {
+        "en": "Different but equal visual weight is asymmetrical balance.",
+        "bm": "Berat visual yang berbeza tetapi seimbang ialah imbangan asimetri."
+      },
+      "difficulty": 1,
+      "answer": [
+        "symmetrical",
+        "simetri",
+        "formal"
+      ]
+    },
+    {
+      "id": "f3psv-01-q08",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Using similar colours and shapes that go well together creates…",
+        "bm": "Menggunakan warna dan rupa yang serasi menghasilkan…"
+      },
+      "explanation": {
+        "en": "Harmony gives a calm, pleasing effect.",
+        "bm": "Harmoni memberi kesan tenang dan menyenangkan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "harmony",
+          "bm": "harmoni"
+        },
+        {
+          "en": "contrast",
+          "bm": "kontra"
+        },
+        {
+          "en": "emphasis",
+          "bm": "penegasan"
+        },
+        {
+          "en": "tension",
+          "bm": "ketegangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q09",
+      "subtopicId": "f3psv-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each element with an example.",
+        "bm": "Padankan unsur seni dengan contohnya."
+      },
+      "explanation": {
+        "en": "Each element plays a different role.",
+        "bm": "Setiap unsur seni memainkan peranan berbeza."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Line",
+            "bm": "Garisan"
+          },
+          "right": {
+            "en": "A zigzag border",
+            "bm": "Sempadan zig-zag"
+          }
+        },
+        {
+          "left": {
+            "en": "Shape",
+            "bm": "Rupa"
+          },
+          "right": {
+            "en": "A flat paper circle",
+            "bm": "Bulatan kertas rata"
+          }
+        },
+        {
+          "left": {
+            "en": "Form",
+            "bm": "Bentuk"
+          },
+          "right": {
+            "en": "A clay pot",
+            "bm": "Labu tanah liat"
+          }
+        },
+        {
+          "left": {
+            "en": "Texture",
+            "bm": "Jalinan"
+          },
+          "right": {
+            "en": "Rough sandpaper",
+            "bm": "Kertas pasir yang kasar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3psv-01-q10",
+      "subtopicId": "f3psv-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL principles of design.",
+        "bm": "Pilih SEMUA prinsip rekaan."
+      },
+      "explanation": {
+        "en": "Texture is an element, not a principle.",
+        "bm": "Jalinan ialah unsur seni, bukan prinsip rekaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Balance",
+          "bm": "Imbangan"
+        },
+        {
+          "en": "Rhythm",
+          "bm": "Ritma"
+        },
+        {
+          "en": "Unity",
+          "bm": "Kesatuan"
+        },
+        {
+          "en": "Texture",
+          "bm": "Jalinan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-01-q11",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A batik design repeats the same leaf motif in a regular pattern. Which principles are used?",
+        "bm": "Reka corak batik mengulang motif daun yang sama secara teratur. Prinsip apakah yang digunakan?"
+      },
+      "explanation": {
+        "en": "Repeated motifs create visual rhythm.",
+        "bm": "Motif berulang menghasilkan ritma visual."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Repetition and rhythm",
+          "bm": "Pengulangan dan ritma"
+        },
+        {
+          "en": "Contrast only",
+          "bm": "Kontra sahaja"
+        },
+        {
+          "en": "Emphasis only",
+          "bm": "Penegasan sahaja"
+        },
+        {
+          "en": "Negative space only",
+          "bm": "Ruang negatif sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q12",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How can an artist show distance (space) in a landscape drawing?",
+        "bm": "Bagaimanakah pelukis menunjukkan jarak (ruang) dalam lukisan landskap?"
+      },
+      "explanation": {
+        "en": "Overlapping also shows what is in front.",
+        "bm": "Pertindihan juga menunjukkan objek di hadapan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Draw far objects smaller, higher and lighter",
+          "bm": "Lukis objek jauh lebih kecil, lebih tinggi dan lebih cerah"
+        },
+        {
+          "en": "Draw everything the same size",
+          "bm": "Lukis semua sama saiz"
+        },
+        {
+          "en": "Use only thick lines",
+          "bm": "Gunakan garisan tebal sahaja"
+        },
+        {
+          "en": "Avoid overlapping",
+          "bm": "Elakkan pertindihan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q13",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Asymmetrical balance means…",
+        "bm": "Imbangan asimetri bermaksud…"
+      },
+      "explanation": {
+        "en": "e.g. one large shape balanced by several small ones.",
+        "bm": "cth. satu rupa besar diimbangi beberapa rupa kecil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "both sides look different but feel equally weighted",
+          "bm": "kedua-dua belah berbeza tetapi kelihatan seimbang"
+        },
+        {
+          "en": "both sides are identical",
+          "bm": "kedua-dua belah sama"
+        },
+        {
+          "en": "there is no balance",
+          "bm": "tiada imbangan"
+        },
+        {
+          "en": "only one colour is used",
+          "bm": "hanya satu warna digunakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q14",
+      "subtopicId": "f3psv-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Diagonal and curved lines in a painting of a storm mainly create…",
+        "bm": "Garisan pepenjuru dan melengkung dalam lukisan ribut terutamanya menghasilkan…"
+      },
+      "explanation": {
+        "en": "Horizontal lines usually feel calm.",
+        "bm": "Garisan mengufuk biasanya terasa tenang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "movement",
+          "bm": "pergerakan"
+        },
+        {
+          "en": "stillness",
+          "bm": "ketenangan"
+        },
+        {
+          "en": "symmetry",
+          "bm": "simetri"
+        },
+        {
+          "en": "negative space",
+          "bm": "ruang negatif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q15",
+      "subtopicId": "f3psv-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Using different shapes, sizes and colours to avoid a boring artwork is the principle of ______.",
+        "bm": "Menggunakan rupa, saiz dan warna yang berbeza untuk mengelakkan karya membosankan ialah prinsip ______."
+      },
+      "explanation": {
+        "en": "Too much variety without unity looks messy.",
+        "bm": "Kepelbagaian tanpa kesatuan kelihatan bercelaru."
+      },
+      "difficulty": 2,
+      "answer": [
+        "variety",
+        "kepelbagaian"
+      ]
+    },
+    {
+      "id": "f3psv-01-q16",
+      "subtopicId": "f3psv-01-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to plan an artwork.",
+        "bm": "Susun langkah merancang karya."
+      },
+      "explanation": {
+        "en": "Planning saves time and materials.",
+        "bm": "Perancangan menjimatkan masa dan bahan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Choose a theme",
+          "bm": "Pilih tema"
+        },
+        {
+          "en": "Make thumbnail sketches",
+          "bm": "Buat lakaran kecil"
+        },
+        {
+          "en": "Decide the composition using principles of design",
+          "bm": "Tentukan gubahan menggunakan prinsip rekaan"
+        },
+        {
+          "en": "Produce the final artwork",
+          "bm": "Hasilkan karya akhir"
+        }
+      ]
+    },
+    {
+      "id": "f3psv-01-q17",
+      "subtopicId": "f3psv-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student's poster has many colours, fonts and pictures but looks messy. Which principle should be improved?",
+        "bm": "Poster murid mempunyai banyak warna, fon dan gambar tetapi kelihatan bercelaru. Prinsip manakah perlu diperbaiki?"
+      },
+      "explanation": {
+        "en": "Limit colours and fonts so all parts belong together.",
+        "bm": "Hadkan warna dan fon supaya semua bahagian kelihatan bersatu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Unity",
+          "bm": "Kesatuan"
+        },
+        {
+          "en": "Variety",
+          "bm": "Kepelbagaian"
+        },
+        {
+          "en": "Movement",
+          "bm": "Pergerakan"
+        },
+        {
+          "en": "Texture",
+          "bm": "Jalinan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q18",
+      "subtopicId": "f3psv-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why might an artist leave large areas of negative space?",
+        "bm": "Mengapakah pelukis mungkin membiarkan kawasan ruang negatif yang luas?"
+      },
+      "explanation": {
+        "en": "Empty space is a deliberate choice.",
+        "bm": "Ruang kosong ialah pilihan yang disengajakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To make the subject stand out and create a calm or lonely mood",
+          "bm": "Untuk menonjolkan subjek dan mencipta suasana tenang atau sunyi"
+        },
+        {
+          "en": "Because they ran out of paint",
+          "bm": "Kerana kehabisan cat"
+        },
+        {
+          "en": "Negative space has no effect",
+          "bm": "Ruang negatif tiada kesan"
+        },
+        {
+          "en": "To fill the paper",
+          "bm": "Untuk memenuhi kertas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q19",
+      "subtopicId": "f3psv-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which combination BEST creates emphasis on a product in an advertisement?",
+        "bm": "Gabungan manakah PALING menghasilkan penegasan pada produk dalam iklan?"
+      },
+      "explanation": {
+        "en": "Size, position and contrast all create emphasis.",
+        "bm": "Saiz, kedudukan dan kontra menghasilkan penegasan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Place it large, in the centre, in a contrasting colour",
+          "bm": "Letakkan besar, di tengah, dengan warna berkontra"
+        },
+        {
+          "en": "Make it small in a corner",
+          "bm": "Jadikannya kecil di sudut"
+        },
+        {
+          "en": "Use the same colour as the background",
+          "bm": "Gunakan warna sama dengan latar"
+        },
+        {
+          "en": "Hide it behind text",
+          "bm": "Sembunyikan di belakang teks"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-01-q20",
+      "subtopicId": "f3psv-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How do the motifs in Malay wood carving (ukiran kayu) usually show harmony?",
+        "bm": "Bagaimanakah motif ukiran kayu Melayu biasanya menunjukkan harmoni?"
+      },
+      "explanation": {
+        "en": "Traditional carving often uses plant motifs (flora).",
+        "bm": "Ukiran tradisional sering menggunakan motif tumbuhan (flora)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Flowing plant motifs repeat and connect smoothly",
+          "bm": "Motif tumbuhan yang berlingkar berulang dan bersambung dengan lancar"
+        },
+        {
+          "en": "Sharp clashing colours",
+          "bm": "Warna yang bertembung"
+        },
+        {
+          "en": "Random unrelated pictures",
+          "bm": "Gambar rawak yang tidak berkaitan"
+        },
+        {
+          "en": "Only straight lines",
+          "bm": "Garisan lurus sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

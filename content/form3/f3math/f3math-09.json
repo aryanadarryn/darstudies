@@ -1,0 +1,663 @@
+{
+  "chapterId": "f3math-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A taxi charges RM4 to start plus RM1.50 per km. Plot fare against distance and you get a straight line — its steepness is the rate per km, and where it starts is the RM4.",
+      "bm": "Teksi mengenakan RM4 tambang permulaan dan RM1.50 sekilometer. Plot tambang melawan jarak dan anda mendapat garis lurus — kecuraman ialah kadar per km, dan titik mula ialah RM4."
+    },
+    "bigIdeas": [
+      {
+        "en": "The gradient m measures steepness: m = (y₂ − y₁)/(x₂ − x₁).",
+        "bm": "Kecerunan m mengukur kecuraman: m = (y₂ − y₁)/(x₂ − x₁)."
+      },
+      {
+        "en": "Every non-vertical straight line can be written as y = mx + c, where c is the y-intercept.",
+        "bm": "Setiap garis lurus yang tidak mencancang boleh ditulis sebagai y = mx + c, dengan c ialah pintasan-y."
+      },
+      {
+        "en": "Parallel lines have equal gradients; two lines meet where their equations are both true.",
+        "bm": "Garis selari mempunyai kecerunan sama; dua garis bersilang di titik yang memenuhi kedua-dua persamaan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Gradient",
+            "bm": "Kecerunan"
+          },
+          {
+            "en": "Picture",
+            "bm": "Gambaran"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Positive",
+              "bm": "Positif"
+            },
+            "cells": [
+              {
+                "en": "m > 0",
+                "bm": "m > 0"
+              },
+              {
+                "en": "Rises to the right ↗",
+                "bm": "Naik ke kanan ↗"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Negative",
+              "bm": "Negatif"
+            },
+            "cells": [
+              {
+                "en": "m < 0",
+                "bm": "m < 0"
+              },
+              {
+                "en": "Falls to the right ↘",
+                "bm": "Turun ke kanan ↘"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Zero",
+              "bm": "Sifar"
+            },
+            "cells": [
+              {
+                "en": "m = 0",
+                "bm": "m = 0"
+              },
+              {
+                "en": "Horizontal: y = a",
+                "bm": "Mengufuk: y = a"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Undefined",
+              "bm": "Tidak tertakrif"
+            },
+            "cells": [
+              {
+                "en": "—",
+                "bm": "—"
+              },
+              {
+                "en": "Vertical: x = a",
+                "bm": "Mencancang: x = a"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Gradient",
+          "bm": "Kecerunan"
+        },
+        "definition": {
+          "en": "Vertical change ÷ horizontal change between two points.",
+          "bm": "Perubahan mencancang ÷ perubahan mengufuk antara dua titik."
+        }
+      },
+      {
+        "term": {
+          "en": "y-intercept",
+          "bm": "Pintasan-y"
+        },
+        "definition": {
+          "en": "Where the line crosses the y-axis (x = 0).",
+          "bm": "Tempat garis memotong paksi-y (x = 0)."
+        }
+      },
+      {
+        "term": {
+          "en": "x-intercept",
+          "bm": "Pintasan-x"
+        },
+        "definition": {
+          "en": "Where the line crosses the x-axis (y = 0).",
+          "bm": "Tempat garis memotong paksi-x (y = 0)."
+        }
+      },
+      {
+        "term": {
+          "en": "Point of intersection",
+          "bm": "Titik persilangan"
+        },
+        "definition": {
+          "en": "The point shared by two lines.",
+          "bm": "Titik yang dikongsi oleh dua garis."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-gradient",
+      "f3-gradient-int",
+      "f3-line"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the equation of the line through (1, 2) and (4, 11).",
+        "bm": "Cari persamaan garis lurus yang melalui (1, 2) dan (4, 11)."
+      },
+      "steps": [
+        {
+          "en": "m = (11 − 2)/(4 − 1) = 3.",
+          "bm": "m = (11 − 2)/(4 − 1) = 3."
+        },
+        {
+          "en": "Substitute (1, 2) into y = mx + c: 2 = 3(1) + c → c = -1.",
+          "bm": "Gantikan (1, 2) ke dalam y = mx + c: 2 = 3(1) + c → c = -1."
+        }
+      ],
+      "answer": {
+        "en": "y = 3x − 1",
+        "bm": "y = 3x − 1"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-09-q01",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (1, 2) and (4, 11).",
+        "bm": "Cari kecerunan garis yang melalui (1, 2) dan (4, 11)."
+      },
+      "explanation": {
+        "en": "m = (11 − 2)/(4 − 1) = 9/3 = 3.",
+        "bm": "m = (11 − 2)/(4 − 1) = 9/3 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q02",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "State the y-intercept of y = 5x − 7.",
+        "bm": "Nyatakan pintasan-y bagi y = 5x − 7."
+      },
+      "explanation": {
+        "en": "In y = mx + c, c = −7.",
+        "bm": "Dalam y = mx + c, c = −7."
+      },
+      "difficulty": 1,
+      "answer": -7,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q03",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "State the gradient of y = −2x + 9.",
+        "bm": "Nyatakan kecerunan bagi y = −2x + 9."
+      },
+      "explanation": {
+        "en": "m is the coefficient of x: −2.",
+        "bm": "m ialah pekali x: −2."
+      },
+      "difficulty": 1,
+      "answer": -2,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q04",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the gradient of a horizontal line?",
+        "bm": "Apakah kecerunan garis mengufuk?"
+      },
+      "explanation": {
+        "en": "No vertical change, so m = 0.",
+        "bm": "Tiada perubahan mencancang, jadi m = 0."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "−1",
+          "bm": "−1"
+        },
+        {
+          "en": "Undefined",
+          "bm": "Tidak tertakrif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q05",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The line x = 4 is…",
+        "bm": "Garis x = 4 ialah…"
+      },
+      "explanation": {
+        "en": "Every point has x = 4, so the line is vertical.",
+        "bm": "Setiap titik mempunyai x = 4, jadi garis itu mencancang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "vertical",
+          "bm": "mencancang"
+        },
+        {
+          "en": "horizontal",
+          "bm": "mengufuk"
+        },
+        {
+          "en": "through the origin",
+          "bm": "melalui asalan"
+        },
+        {
+          "en": "sloping upwards",
+          "bm": "condong ke atas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q06",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A line rises from left to right. Its gradient is…",
+        "bm": "Sebuah garis naik dari kiri ke kanan. Kecerunannya…"
+      },
+      "explanation": {
+        "en": "Rising to the right → positive gradient.",
+        "bm": "Naik ke kanan → kecerunan positif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "positive",
+          "bm": "positif"
+        },
+        {
+          "en": "negative",
+          "bm": "negatif"
+        },
+        {
+          "en": "zero",
+          "bm": "sifar"
+        },
+        {
+          "en": "undefined",
+          "bm": "tidak tertakrif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q07",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the x-intercept of y = 2x − 6.",
+        "bm": "Cari pintasan-x bagi y = 2x − 6."
+      },
+      "explanation": {
+        "en": "Set y = 0: 2x = 6 → x = 3.",
+        "bm": "Gantikan y = 0: 2x = 6 → x = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q08",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Does the point (2, 7) lie on y = 3x + 1?",
+        "bm": "Adakah titik (2, 7) terletak pada y = 3x + 1?"
+      },
+      "explanation": {
+        "en": "3(2) + 1 = 7 ✓",
+        "bm": "3(2) + 1 = 7 ✓"
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Yes",
+          "bm": "Ya"
+        },
+        {
+          "en": "No",
+          "bm": "Tidak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q09",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of 3x + 2y = 12.",
+        "bm": "Cari kecerunan bagi 3x + 2y = 12."
+      },
+      "explanation": {
+        "en": "2y = −3x + 12 → y = −1.5x + 6, so m = −1.5.",
+        "bm": "2y = −3x + 12 → y = −1.5x + 6, jadi m = −1.5."
+      },
+      "difficulty": 2,
+      "answer": -1.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q10",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the y-intercept of 3x + 2y = 12.",
+        "bm": "Cari pintasan-y bagi 3x + 2y = 12."
+      },
+      "explanation": {
+        "en": "Set x = 0: 2y = 12 → y = 6.",
+        "bm": "Gantikan x = 0: 2y = 12 → y = 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q11",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line has x-intercept 4 and y-intercept 8. Find its gradient.",
+        "bm": "Sebuah garis mempunyai pintasan-x 4 dan pintasan-y 8. Cari kecerunannya."
+      },
+      "explanation": {
+        "en": "m = −(y-intercept)/(x-intercept) = −8/4 = −2.",
+        "bm": "m = −(pintasan-y)/(pintasan-x) = −8/4 = −2."
+      },
+      "difficulty": 2,
+      "answer": -2,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q12",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which line is parallel to y = 4x − 3?",
+        "bm": "Garis manakah selari dengan y = 4x − 3?"
+      },
+      "explanation": {
+        "en": "Parallel lines have the same gradient (4).",
+        "bm": "Garis selari mempunyai kecerunan yang sama (4)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "y = 4x + 10",
+          "bm": "y = 4x + 10"
+        },
+        {
+          "en": "y = −4x − 3",
+          "bm": "y = −4x − 3"
+        },
+        {
+          "en": "y = ¼x − 3",
+          "bm": "y = ¼x − 3"
+        },
+        {
+          "en": "y = 3x + 4",
+          "bm": "y = 3x + 4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q13",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Find the equation of the line through (2, 9) parallel to y = 4x − 3.",
+        "bm": "Cari persamaan garis yang melalui (2, 9) dan selari dengan y = 4x − 3."
+      },
+      "explanation": {
+        "en": "m = 4. 9 = 4(2) + c → c = 1.",
+        "bm": "m = 4. 9 = 4(2) + c → c = 1."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "y = 4x + 1",
+          "bm": "y = 4x + 1"
+        },
+        {
+          "en": "y = 4x − 3",
+          "bm": "y = 4x − 3"
+        },
+        {
+          "en": "y = 9x + 2",
+          "bm": "y = 9x + 2"
+        },
+        {
+          "en": "y = −4x + 17",
+          "bm": "y = −4x + 17"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q14",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The lines y = 2x + 1 and y = −x + 7 intersect at (x, y). Find x.",
+        "bm": "Garis y = 2x + 1 dan y = −x + 7 bersilang di (x, y). Cari x."
+      },
+      "explanation": {
+        "en": "2x + 1 = −x + 7 → 3x = 6 → x = 2.",
+        "bm": "2x + 1 = −x + 7 → 3x = 6 → x = 2."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q15",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "For the same two lines, find y at the intersection.",
+        "bm": "Bagi dua garis yang sama, cari y di titik persilangan."
+      },
+      "explanation": {
+        "en": "y = 2(2) + 1 = 5.",
+        "bm": "y = 2(2) + 1 = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q16",
+      "subtopicId": "f3math-09-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each equation with its description.",
+        "bm": "Padankan persamaan dengan huraiannya."
+      },
+      "explanation": {
+        "en": "Read m and c from each equation.",
+        "bm": "Baca m dan c daripada setiap persamaan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "y = 3",
+            "bm": "y = 3"
+          },
+          "right": {
+            "en": "Horizontal line",
+            "bm": "Garis mengufuk"
+          }
+        },
+        {
+          "left": {
+            "en": "x = −2",
+            "bm": "x = −2"
+          },
+          "right": {
+            "en": "Vertical line",
+            "bm": "Garis mencancang"
+          }
+        },
+        {
+          "left": {
+            "en": "y = 2x",
+            "bm": "y = 2x"
+          },
+          "right": {
+            "en": "Passes through the origin",
+            "bm": "Melalui asalan"
+          }
+        },
+        {
+          "left": {
+            "en": "y = −x + 5",
+            "bm": "y = −x + 5"
+          },
+          "right": {
+            "en": "Negative gradient",
+            "bm": "Kecerunan negatif"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-09-q17",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A taxi fare is RM4 plus RM1.50 per km. Which equation gives fare F for d km?",
+        "bm": "Tambang teksi ialah RM4 ditambah RM1.50 sekilometer. Persamaan manakah memberi tambang F bagi d km?"
+      },
+      "explanation": {
+        "en": "Gradient = rate per km (1.5); intercept = starting charge (4).",
+        "bm": "Kecerunan = kadar sekilometer (1.5); pintasan = caj permulaan (4)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "F = 1.5d + 4",
+          "bm": "F = 1.5d + 4"
+        },
+        {
+          "en": "F = 4d + 1.5",
+          "bm": "F = 4d + 1.5"
+        },
+        {
+          "en": "F = 5.5d",
+          "bm": "F = 5.5d"
+        },
+        {
+          "en": "F = 1.5d − 4",
+          "bm": "F = 1.5d − 4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-09-q18",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Using F = 1.5d + 4, how many km can you travel for RM19?",
+        "bm": "Menggunakan F = 1.5d + 4, berapa km boleh dilalui dengan RM19?"
+      },
+      "explanation": {
+        "en": "19 = 1.5d + 4 → 1.5d = 15 → d = 10 km.",
+        "bm": "19 = 1.5d + 4 → 1.5d = 15 → d = 10 km."
+      },
+      "difficulty": 3,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f3math-09-q19",
+      "subtopicId": "f3math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The points (1, 3), (3, 7) and (5, k) lie on one straight line. Find k.",
+        "bm": "Titik (1, 3), (3, 7) dan (5, k) terletak pada satu garis lurus. Cari k."
+      },
+      "explanation": {
+        "en": "m = (7 − 3)/(3 − 1) = 2. From (3, 7): k = 7 + 2 × 2 = 11.",
+        "bm": "m = (7 − 3)/(3 − 1) = 2. Dari (3, 7): k = 7 + 2 × 2 = 11."
+      },
+      "difficulty": 3,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-09-q20",
+      "subtopicId": "f3math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lines y = 3x + 2 and y = 3x − 5 are drawn. How many points of intersection do they have?",
+        "bm": "Garis y = 3x + 2 dan y = 3x − 5 dilukis. Berapakah titik persilangannya?"
+      },
+      "explanation": {
+        "en": "Same gradient, different intercepts → parallel, never meet.",
+        "bm": "Kecerunan sama, pintasan berbeza → selari, tidak bertemu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "Infinitely many",
+          "bm": "Tak terhingga"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

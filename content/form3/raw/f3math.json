@@ -1,0 +1,251 @@
+{
+  "id": "f3math",
+  "name": {
+    "en": "Mathematics",
+    "bm": "Matematik"
+  },
+  "short": {
+    "en": "Maths",
+    "bm": "Mate"
+  },
+  "color": "#0891b2",
+  "source": "Chapter titles follow the KSSM Mathematics Form 3 textbook (9 chapters). All numeric answers are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Indices",
+        "bm": "Indeks"
+      },
+      "theme": {
+        "en": "Numbers and Operations",
+        "bm": "Nombor dan Operasi"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Index Notation",
+            "bm": "Tatatanda Indeks"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Law of Indices",
+            "bm": "Hukum Indeks"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Standard Form",
+        "bm": "Bentuk Piawai"
+      },
+      "theme": {
+        "en": "Numbers and Operations",
+        "bm": "Nombor dan Operasi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Significant Figures",
+            "bm": "Angka Bererti"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Standard Form",
+            "bm": "Bentuk Piawai"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Consumer Mathematics: Savings and Investments, Credit and Debt",
+        "bm": "Matematik Pengguna: Simpanan dan Pelaburan, Kredit dan Hutang"
+      },
+      "theme": {
+        "en": "Numbers and Operations",
+        "bm": "Nombor dan Operasi"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Savings and Investments",
+            "bm": "Simpanan dan Pelaburan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Credit and Debt Management",
+            "bm": "Pengurusan Kredit dan Hutang"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Scale Drawings",
+        "bm": "Lukisan Berskala"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Scale Drawings",
+            "bm": "Lukisan Berskala"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Trigonometric Ratios",
+        "bm": "Nisbah Trigonometri"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Sine, Cosine and Tangent of Acute Angles in Right-angled Triangles",
+            "bm": "Sinus, Kosinus dan Tangen bagi Sudut Tirus dalam Segi Tiga Bersudut Tegak"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Angles and Tangents of Circles",
+        "bm": "Sudut dan Tangen bagi Bulatan"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Angle at the Circumference and Central Angle Subtended by an Arc",
+            "bm": "Sudut pada Lilitan dan Sudut Pusat yang Dicangkum oleh Suatu Lengkok"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Cyclic Quadrilaterals",
+            "bm": "Sisi Empat Kitaran"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Tangents to Circles",
+            "bm": "Tangen kepada Bulatan"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Angles and Tangents of Circles",
+            "bm": "Sudut dan Tangen bagi Bulatan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Plans and Elevations",
+        "bm": "Pelan dan Dongakan"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Orthogonal Projections",
+            "bm": "Unjuran Ortogon"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Plans and Elevations",
+            "bm": "Pelan dan Dongakan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Loci in Two Dimensions",
+        "bm": "Lokus dalam Dua Dimensi"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Loci",
+            "bm": "Lokus"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Loci in Two Dimensions",
+            "bm": "Lokus dalam Dua Dimensi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Straight Lines",
+        "bm": "Garis Lurus"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Straight Lines",
+            "bm": "Garis Lurus"
+          }
+        }
+      ]
+    }
+  ]
+}

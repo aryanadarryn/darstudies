@@ -1,0 +1,778 @@
+{
+  "chapterId": "f3pjk-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Football, netball and hockey look different, but they share one idea: invade the other team's half and score. Knowing the category helps you understand the tactics.",
+      "bm": "Bola sepak, bola jaring dan hoki kelihatan berbeza, tetapi berkongsi satu idea: menyerang kawasan pihak lawan dan menjaringkan gol. Memahami kategori membantu memahami taktik."
+    },
+    "bigIdeas": [
+      {
+        "en": "Games are grouped as invasion, net/wall, striking/fielding and target games.",
+        "bm": "Permainan dikelaskan sebagai serangan, jaring/dinding, memukul/memadang dan sasaran."
+      },
+      {
+        "en": "Invasion games: football (11 players), hockey (11), netball (7), basketball (5).",
+        "bm": "Permainan serangan: bola sepak (11 pemain), hoki (11), bola jaring (7), bola keranjang (5)."
+      },
+      {
+        "en": "Net games: badminton (rally to 21), volleyball (6 per side), sepak takraw (3 per side).",
+        "bm": "Permainan jaring: badminton (mata rali 21), bola tampar (6 sepasukan), sepak takraw (3 sepasukan)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Aim",
+            "bm": "Matlamat"
+          },
+          {
+            "en": "Examples",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Invasion",
+              "bm": "Serangan"
+            },
+            "cells": [
+              {
+                "en": "Enter the opponents' area to score",
+                "bm": "Memasuki kawasan lawan untuk menjaring"
+              },
+              {
+                "en": "football, netball, hockey, basketball",
+                "bm": "bola sepak, bola jaring, hoki, bola keranjang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Net / wall",
+              "bm": "Jaring / dinding"
+            },
+            "cells": [
+              {
+                "en": "Send the object where opponents cannot return it",
+                "bm": "Menghantar objek ke tempat yang sukar dikembalikan lawan"
+              },
+              {
+                "en": "badminton, volleyball, sepak takraw",
+                "bm": "badminton, bola tampar, sepak takraw"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Striking / fielding",
+              "bm": "Memukul / memadang"
+            },
+            "cells": [
+              {
+                "en": "Hit the ball and run; fielders try to stop runs",
+                "bm": "Memukul bola dan berlari; pemadang menghalang larian"
+              },
+              {
+                "en": "cricket, softball, rounders",
+                "bm": "kriket, sofbol, rounders"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Target",
+              "bm": "Sasaran"
+            },
+            "cells": [
+              {
+                "en": "Get an object closest to or into a target",
+                "bm": "Menghantar objek paling hampir atau ke dalam sasaran"
+              },
+              {
+                "en": "bowling, golf, archery",
+                "bm": "boling, golf, memanah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Invasion game",
+          "bm": "Permainan serangan"
+        },
+        "definition": {
+          "en": "Teams attack and defend goals in a shared area.",
+          "bm": "Pasukan menyerang dan mempertahankan gol dalam kawasan yang dikongsi."
+        }
+      },
+      {
+        "term": {
+          "en": "Net game",
+          "bm": "Permainan jaring"
+        },
+        "definition": {
+          "en": "Teams are separated by a net.",
+          "bm": "Pasukan dipisahkan oleh jaring."
+        }
+      },
+      {
+        "term": {
+          "en": "Rally scoring",
+          "bm": "Sistem mata rali"
+        },
+        "definition": {
+          "en": "A point is won on every rally, whoever served.",
+          "bm": "Mata diberikan untuk setiap rali, tanpa mengira siapa yang membuat servis."
+        }
+      },
+      {
+        "term": {
+          "en": "Marking",
+          "bm": "Mengawal pemain"
+        },
+        "definition": {
+          "en": "Staying close to an opponent to stop them receiving the ball.",
+          "bm": "Berada dekat dengan lawan untuk menghalangnya menerima bola."
+        }
+      },
+      {
+        "term": {
+          "en": "Tekong",
+          "bm": "Tekong"
+        },
+        "definition": {
+          "en": "The server in sepak takraw.",
+          "bm": "Pemain yang membuat servis dalam sepak takraw."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "In netball, which players can score a goal?",
+        "bm": "Dalam bola jaring, pemain manakah boleh menjaringkan gol?"
+      },
+      "steps": [
+        {
+          "en": "Netball has 7 positions: GS, GA, WA, C, WD, GD, GK.",
+          "bm": "Bola jaring mempunyai 7 posisi: GS, GA, WA, C, WD, GD, GK."
+        },
+        {
+          "en": "Only the shooters may shoot, from inside the goal circle.",
+          "bm": "Hanya penjaring boleh menjaring, dari dalam bulatan gol."
+        }
+      ],
+      "answer": {
+        "en": "Goal Shooter (GS) and Goal Attack (GA).",
+        "bm": "Penjaring Gol (GS) dan Penyerang Gol (GA)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pjk-02-q01",
+      "subtopicId": "f3pjk-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many players does a football team have on the field?",
+        "bm": "Berapakah pemain sepasukan bola sepak di padang?"
+      },
+      "explanation": {
+        "en": "Including the goalkeeper.",
+        "bm": "Termasuk penjaga gol."
+      },
+      "difficulty": 1,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f3pjk-02-q02",
+      "subtopicId": "f3pjk-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many players does a netball team have on court?",
+        "bm": "Berapakah pemain sepasukan bola jaring di gelanggang?"
+      },
+      "explanation": {
+        "en": "GS, GA, WA, C, WD, GD, GK.",
+        "bm": "GS, GA, WA, C, WD, GD, GK."
+      },
+      "difficulty": 1,
+      "answer": 7,
+      "tolerance": 0
+    },
+    {
+      "id": "f3pjk-02-q03",
+      "subtopicId": "f3pjk-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many players are on court for one sepak takraw team (regu)?",
+        "bm": "Berapakah pemain di gelanggang bagi satu regu sepak takraw?"
+      },
+      "explanation": {
+        "en": "Tekong, apit kiri and apit kanan.",
+        "bm": "Tekong, apit kiri dan apit kanan."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3pjk-02-q04",
+      "subtopicId": "f3pjk-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many players does a volleyball team have on court?",
+        "bm": "Berapakah pemain sepasukan bola tampar di gelanggang?"
+      },
+      "explanation": {
+        "en": "Players rotate positions after winning back the serve.",
+        "bm": "Pemain berputar kedudukan selepas memenangi semula servis."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f3pjk-02-q05",
+      "subtopicId": "f3pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Badminton belongs to which category of games?",
+        "bm": "Badminton tergolong dalam kategori permainan…"
+      },
+      "explanation": {
+        "en": "Players are separated by a net.",
+        "bm": "Pemain dipisahkan oleh jaring."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Net",
+          "bm": "jaring"
+        },
+        {
+          "en": "Invasion",
+          "bm": "serangan"
+        },
+        {
+          "en": "Target",
+          "bm": "sasaran"
+        },
+        {
+          "en": "Striking/fielding",
+          "bm": "memukul/memadang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q06",
+      "subtopicId": "f3pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Cricket and softball are…",
+        "bm": "Kriket dan sofbol ialah permainan…"
+      },
+      "explanation": {
+        "en": "Batters hit and run; fielders defend.",
+        "bm": "Pemukul memukul dan berlari; pemadang bertahan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "striking/fielding games",
+          "bm": "memukul/memadang"
+        },
+        {
+          "en": "invasion games",
+          "bm": "serangan"
+        },
+        {
+          "en": "net games",
+          "bm": "jaring"
+        },
+        {
+          "en": "target games",
+          "bm": "sasaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q07",
+      "subtopicId": "f3pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bowling and archery are…",
+        "bm": "Boling dan memanah ialah permainan…"
+      },
+      "explanation": {
+        "en": "Accuracy is the key skill.",
+        "bm": "Ketepatan ialah kemahiran utama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "target games",
+          "bm": "sasaran"
+        },
+        {
+          "en": "invasion games",
+          "bm": "serangan"
+        },
+        {
+          "en": "net games",
+          "bm": "jaring"
+        },
+        {
+          "en": "fielding games",
+          "bm": "memadang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q08",
+      "subtopicId": "f3pjk-02-03",
+      "type": "fill",
+      "prompt": {
+        "en": "A badminton game is won by the first player to reach ______ points (with a 2-point lead).",
+        "bm": "Satu set badminton dimenangi oleh pemain pertama yang mencapai ______ mata (dengan kelebihan 2 mata)."
+      },
+      "explanation": {
+        "en": "At 29–29, the next point wins (30).",
+        "bm": "Pada 29–29, mata seterusnya menang (30)."
+      },
+      "difficulty": 1,
+      "answer": [
+        "21"
+      ]
+    },
+    {
+      "id": "f3pjk-02-q09",
+      "subtopicId": "f3pjk-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each game with its category.",
+        "bm": "Padankan permainan dengan kategorinya."
+      },
+      "explanation": {
+        "en": "The aim of the game decides its category.",
+        "bm": "Matlamat permainan menentukan kategorinya."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Hockey",
+            "bm": "Hoki"
+          },
+          "right": {
+            "en": "Invasion",
+            "bm": "Serangan"
+          }
+        },
+        {
+          "left": {
+            "en": "Sepak takraw",
+            "bm": "Sepak takraw"
+          },
+          "right": {
+            "en": "Net",
+            "bm": "Jaring"
+          }
+        },
+        {
+          "left": {
+            "en": "Rounders",
+            "bm": "Rounders"
+          },
+          "right": {
+            "en": "Striking/fielding",
+            "bm": "Memukul/memadang"
+          }
+        },
+        {
+          "left": {
+            "en": "Golf",
+            "bm": "Golf"
+          },
+          "right": {
+            "en": "Target",
+            "bm": "Sasaran"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-02-q10",
+      "subtopicId": "f3pjk-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In netball, which players may shoot at goal?",
+        "bm": "Dalam bola jaring, pemain manakah boleh menjaring?"
+      },
+      "explanation": {
+        "en": "They must be inside the goal circle.",
+        "bm": "Mereka mesti berada dalam bulatan gol."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "GS and GA only",
+          "bm": "GS dan GA sahaja"
+        },
+        {
+          "en": "All players",
+          "bm": "Semua pemain"
+        },
+        {
+          "en": "C and WA",
+          "bm": "C dan WA"
+        },
+        {
+          "en": "GK and GD",
+          "bm": "GK dan GD"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q11",
+      "subtopicId": "f3pjk-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Marking\" in an invasion game means…",
+        "bm": "\"Mengawal pemain\" dalam permainan serangan bermaksud…"
+      },
+      "explanation": {
+        "en": "Man-to-man marking is a defence tactic.",
+        "bm": "Kawalan individu ialah taktik pertahanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "staying close to an opponent to stop them getting the ball",
+          "bm": "berada dekat dengan lawan untuk menghalangnya mendapat bola"
+        },
+        {
+          "en": "drawing lines on the field",
+          "bm": "melukis garisan di padang"
+        },
+        {
+          "en": "keeping score",
+          "bm": "mencatat mata"
+        },
+        {
+          "en": "taking a free kick",
+          "bm": "mengambil sepakan percuma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q12",
+      "subtopicId": "f3pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In sepak takraw, the player who serves is the…",
+        "bm": "Dalam sepak takraw, pemain yang membuat servis ialah…"
+      },
+      "explanation": {
+        "en": "The tekong serves from the service circle.",
+        "bm": "Tekong membuat servis dari bulatan servis."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tekong",
+          "bm": "tekong"
+        },
+        {
+          "en": "apit kiri",
+          "bm": "apit kiri"
+        },
+        {
+          "en": "apit kanan",
+          "bm": "apit kanan"
+        },
+        {
+          "en": "libero",
+          "bm": "libero"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q13",
+      "subtopicId": "f3pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In volleyball, the maximum number of touches per side before sending the ball over is…",
+        "bm": "Dalam bola tampar, bilangan sentuhan maksimum sepasukan sebelum menghantar bola ke gelanggang lawan ialah…"
+      },
+      "explanation": {
+        "en": "Usually dig, set and spike.",
+        "bm": "Biasanya menerima, mengumpan dan merejam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q14",
+      "subtopicId": "f3pjk-02-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL attacking principles in invasion games.",
+        "bm": "Pilih SEMUA prinsip menyerang dalam permainan serangan."
+      },
+      "explanation": {
+        "en": "Movement off the ball is vital.",
+        "bm": "Pergerakan tanpa bola amat penting."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Create space",
+          "bm": "Mewujudkan ruang"
+        },
+        {
+          "en": "Move into open space to receive a pass",
+          "bm": "Bergerak ke ruang kosong untuk menerima hantaran"
+        },
+        {
+          "en": "Pass quickly and accurately",
+          "bm": "Menghantar dengan cepat dan tepat"
+        },
+        {
+          "en": "Stand still all the time",
+          "bm": "Berdiri diam sepanjang masa"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pjk-02-q15",
+      "subtopicId": "f3pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Badminton and volleyball use rally scoring, which means…",
+        "bm": "Badminton dan bola tampar menggunakan sistem mata rali, yang bermaksud…"
+      },
+      "explanation": {
+        "en": "This keeps games shorter and exciting.",
+        "bm": "Ini menjadikan permainan lebih singkat dan menarik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a point is scored on every rally",
+          "bm": "mata diberikan pada setiap rali"
+        },
+        {
+          "en": "only the server can score",
+          "bm": "hanya pembuat servis boleh mendapat mata"
+        },
+        {
+          "en": "points are only scored at the end",
+          "bm": "mata hanya diberi di akhir"
+        },
+        {
+          "en": "there are no points",
+          "bm": "tiada mata"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q16",
+      "subtopicId": "f3pjk-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the usual three-touch attack in volleyball.",
+        "bm": "Susun serangan tiga sentuhan yang lazim dalam bola tampar."
+      },
+      "explanation": {
+        "en": "Teamwork is built into the rules.",
+        "bm": "Kerja berpasukan terkandung dalam peraturan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Dig (receive)",
+          "bm": "Menerima (dig)"
+        },
+        {
+          "en": "Set",
+          "bm": "Mengumpan (set)"
+        },
+        {
+          "en": "Spike (attack)",
+          "bm": "Merejam (spike)"
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-02-q17",
+      "subtopicId": "f3pjk-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your football team is losing possession often in midfield. Which tactic is BEST?",
+        "bm": "Pasukan bola sepak anda kerap kehilangan bola di tengah padang. Taktik manakah PALING sesuai?"
+      },
+      "explanation": {
+        "en": "Support and passing keep possession.",
+        "bm": "Sokongan dan hantaran mengekalkan penguasaan bola."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Make short, accurate passes and move to support the ball carrier",
+          "bm": "Buat hantaran pendek yang tepat dan bergerak menyokong pembawa bola"
+        },
+        {
+          "en": "Kick the ball as far as possible every time",
+          "bm": "Sepak bola sejauh mungkin setiap kali"
+        },
+        {
+          "en": "Everyone runs to the ball",
+          "bm": "Semua pemain mengejar bola"
+        },
+        {
+          "en": "Stop running",
+          "bm": "Berhenti berlari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q18",
+      "subtopicId": "f3pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In net games, why do players aim for spaces far from the opponent?",
+        "bm": "Dalam permainan jaring, mengapakah pemain menyasarkan ruang jauh daripada lawan?"
+      },
+      "explanation": {
+        "en": "Use the whole court: front, back and sides.",
+        "bm": "Gunakan seluruh gelanggang: depan, belakang dan sisi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The opponent must move further and may not return the shot",
+          "bm": "Lawan terpaksa bergerak lebih jauh dan mungkin gagal mengembalikan pukulan"
+        },
+        {
+          "en": "It is required by the rules",
+          "bm": "Ia diwajibkan peraturan"
+        },
+        {
+          "en": "To rest",
+          "bm": "Untuk berehat"
+        },
+        {
+          "en": "To slow the game",
+          "bm": "Untuk memperlahankan permainan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q19",
+      "subtopicId": "f3pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a badminton game the score reaches 20–20. What happens next?",
+        "bm": "Dalam satu set badminton, mata mencapai 20–20. Apakah yang berlaku seterusnya?"
+      },
+      "explanation": {
+        "en": "At 29–29 the next point wins.",
+        "bm": "Pada 29–29 mata seterusnya menang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Play continues until one side leads by 2 points, up to a maximum of 30",
+          "bm": "Permainan diteruskan sehingga satu pihak mendahului 2 mata, maksimum 30"
+        },
+        {
+          "en": "The next point wins immediately",
+          "bm": "Mata seterusnya terus menang"
+        },
+        {
+          "en": "The game is a draw",
+          "bm": "Permainan seri"
+        },
+        {
+          "en": "Both players lose a point",
+          "bm": "Kedua-dua pemain hilang satu mata"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-02-q20",
+      "subtopicId": "f3pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does good sportsmanship matter even in competitive games?",
+        "bm": "Mengapakah semangat kesukanan penting walaupun dalam permainan kompetitif?"
+      },
+      "explanation": {
+        "en": "Shake hands and accept decisions.",
+        "bm": "Bersalaman dan terima keputusan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It builds respect, safety and enjoyment for everyone",
+          "bm": "Ia membina rasa hormat, keselamatan dan keseronokan untuk semua"
+        },
+        {
+          "en": "It makes you lose",
+          "bm": "Ia menyebabkan anda kalah"
+        },
+        {
+          "en": "Referees do not care",
+          "bm": "Pengadil tidak peduli"
+        },
+        {
+          "en": "It is only for professionals",
+          "bm": "Ia hanya untuk profesional"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

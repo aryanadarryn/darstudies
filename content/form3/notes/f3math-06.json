@@ -1,0 +1,80 @@
+{
+  "chapterId": "f3math-06",
+  "reviewed": false,
+  "subtopics": {
+    "f3math-06-01": {
+      "keyPoints": [
+        {
+          "en": "Angles at the circumference standing on the same arc are equal.",
+          "bm": "Sudut pada lilitan yang dicangkum oleh lengkok yang sama adalah sama."
+        },
+        {
+          "en": "Angle at the centre = 2 × angle at the circumference (same arc).",
+          "bm": "Sudut pusat = 2 × sudut pada lilitan (lengkok sama)."
+        },
+        {
+          "en": "Angle in a semicircle = 90°.",
+          "bm": "Sudut dalam semibulatan = 90°."
+        },
+        {
+          "en": "Equal chords (or equal arcs) subtend equal angles.",
+          "bm": "Perentas (atau lengkok) yang sama panjang mencangkum sudut yang sama."
+        }
+      ]
+    },
+    "f3math-06-02": {
+      "keyPoints": [
+        {
+          "en": "Opposite angles of a cyclic quadrilateral sum to 180°.",
+          "bm": "Sudut bertentangan sisi empat kitaran berjumlah 180°."
+        },
+        {
+          "en": "The exterior angle equals the interior opposite angle.",
+          "bm": "Sudut peluaran sama dengan sudut pedalaman bertentangan."
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "∠A = 2x, ∠C = x + 30° in cyclic ABCD. Find x.",
+          "bm": "∠A = 2x, ∠C = x + 30° dalam ABCD kitaran. Cari x."
+        },
+        "answer": {
+          "en": "3x + 30° = 180° → x = 50°.",
+          "bm": "3x + 30° = 180° → x = 50°."
+        }
+      }
+    },
+    "f3math-06-03": {
+      "keyPoints": [
+        {
+          "en": "A tangent touches the circle at one point and is perpendicular to the radius there.",
+          "bm": "Tangen menyentuh bulatan pada satu titik dan berserenjang dengan jejari di situ."
+        },
+        {
+          "en": "Tangents from an external point are equal; the line to the centre bisects the angle between them.",
+          "bm": "Tangen dari titik luar adalah sama panjang; garis ke pusat membahagi dua sudut antaranya."
+        },
+        {
+          "en": "Right angles appear → use Pythagoras' theorem.",
+          "bm": "Sudut tegak muncul → guna teorem Pythagoras."
+        }
+      ]
+    },
+    "f3math-06-04": {
+      "keyPoints": [
+        {
+          "en": "Alternate segment theorem: tangent–chord angle = angle in the alternate segment.",
+          "bm": "Teorem tembereng selang-seli: sudut tangen–perentas = sudut dalam tembereng selang-seli."
+        },
+        {
+          "en": "Common tangents of two circles: separate 4, touching externally 3, intersecting 2, touching internally 1, one inside the other 0.",
+          "bm": "Tangen sepunya dua bulatan: terpisah 4, bersentuhan di luar 3, bersilang 2, bersentuhan di dalam 1, satu di dalam yang lain 0."
+        }
+      ],
+      "tip": {
+        "en": "Mark every 90° (radius–tangent, semicircle) on the diagram first; they unlock most problems.",
+        "bm": "Tandakan semua 90° (jejari–tangen, semibulatan) pada rajah dahulu; ia menyelesaikan kebanyakan masalah."
+      }
+    }
+  }
+}

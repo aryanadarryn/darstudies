@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3math-01",
+  "cards": [
+    {
+      "id": "f3math-01-f01",
+      "subtopicId": "f3math-01-01",
+      "front": {
+        "en": "aⁿ",
+        "bm": "aⁿ"
+      },
+      "back": {
+        "en": "a multiplied by itself n times",
+        "bm": "a didarab dengan dirinya n kali"
+      }
+    },
+    {
+      "id": "f3math-01-f02",
+      "subtopicId": "f3math-01-01",
+      "front": {
+        "en": "Base / index",
+        "bm": "Asas / indeks"
+      },
+      "back": {
+        "en": "In aⁿ: a is the base, n is the index",
+        "bm": "Dalam aⁿ: a asas, n indeks"
+      }
+    },
+    {
+      "id": "f3math-01-f03",
+      "subtopicId": "f3math-01-01",
+      "front": {
+        "en": "2⁵",
+        "bm": "2⁵"
+      },
+      "back": {
+        "en": "32",
+        "bm": "32"
+      }
+    },
+    {
+      "id": "f3math-01-f04",
+      "subtopicId": "f3math-01-01",
+      "front": {
+        "en": "10³",
+        "bm": "10³"
+      },
+      "back": {
+        "en": "1000",
+        "bm": "1000"
+      }
+    },
+    {
+      "id": "f3math-01-f05",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "aᵐ × aⁿ",
+        "bm": "aᵐ × aⁿ"
+      },
+      "back": {
+        "en": "aᵐ⁺ⁿ",
+        "bm": "aᵐ⁺ⁿ"
+      }
+    },
+    {
+      "id": "f3math-01-f06",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "aᵐ ÷ aⁿ",
+        "bm": "aᵐ ÷ aⁿ"
+      },
+      "back": {
+        "en": "aᵐ⁻ⁿ",
+        "bm": "aᵐ⁻ⁿ"
+      }
+    },
+    {
+      "id": "f3math-01-f07",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "(aᵐ)ⁿ",
+        "bm": "(aᵐ)ⁿ"
+      },
+      "back": {
+        "en": "aᵐⁿ",
+        "bm": "aᵐⁿ"
+      }
+    },
+    {
+      "id": "f3math-01-f08",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "(ab)ⁿ",
+        "bm": "(ab)ⁿ"
+      },
+      "back": {
+        "en": "aⁿbⁿ",
+        "bm": "aⁿbⁿ"
+      }
+    },
+    {
+      "id": "f3math-01-f09",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "a⁰ (a ≠ 0)",
+        "bm": "a⁰ (a ≠ 0)"
+      },
+      "back": {
+        "en": "1",
+        "bm": "1"
+      }
+    },
+    {
+      "id": "f3math-01-f10",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "a⁻ⁿ",
+        "bm": "a⁻ⁿ"
+      },
+      "back": {
+        "en": "1/aⁿ",
+        "bm": "1/aⁿ"
+      }
+    },
+    {
+      "id": "f3math-01-f11",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "a^(1/n)",
+        "bm": "a^(1/n)"
+      },
+      "back": {
+        "en": "ⁿ√a",
+        "bm": "ⁿ√a"
+      }
+    },
+    {
+      "id": "f3math-01-f12",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "a^(m/n)",
+        "bm": "a^(m/n)"
+      },
+      "back": {
+        "en": "(ⁿ√a)ᵐ or ⁿ√(aᵐ)",
+        "bm": "(ⁿ√a)ᵐ atau ⁿ√(aᵐ)"
+      }
+    },
+    {
+      "id": "f3math-01-f13",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "Solving 2ˣ = 2⁵",
+        "bm": "Selesaikan 2ˣ = 2⁵"
+      },
+      "back": {
+        "en": "Same base → equate indices: x = 5",
+        "bm": "Asas sama → samakan indeks: x = 5"
+      }
+    },
+    {
+      "id": "f3math-01-f14",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "Common mistake",
+        "bm": "Kesilapan biasa"
+      },
+      "back": {
+        "en": "a³ × a⁴ ≠ a¹² (add, do not multiply)",
+        "bm": "a³ × a⁴ ≠ a¹² (tambah, bukan darab)"
+      }
+    },
+    {
+      "id": "f3math-01-f15",
+      "subtopicId": "f3math-01-02",
+      "front": {
+        "en": "(−2)⁴ vs −2⁴",
+        "bm": "(−2)⁴ lawan −2⁴"
+      },
+      "back": {
+        "en": "16 vs −16",
+        "bm": "16 lawan −16"
+      }
+    }
+  ]
+}

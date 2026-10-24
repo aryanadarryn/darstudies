@@ -1,0 +1,219 @@
+{
+  "id": "f3rbt",
+  "name": {
+    "en": "Design and Technology",
+    "bm": "Reka Bentuk dan Teknologi"
+  },
+  "short": {
+    "en": "D&T",
+    "bm": "RBT"
+  },
+  "color": "#ea580c",
+  "source": "Covers core Form 3 KSSM Reka Bentuk dan Teknologi skills (design process, drawing, materials, product design, electronics, packaging and costing). The RBT syllabus groups these into project-based units, so chapter titles may differ from your textbook — verify with the latest DSKP. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "The Design Process and Design Thinking",
+        "bm": "Proses Reka Bentuk dan Pemikiran Reka Bentuk"
+      },
+      "theme": {
+        "en": "Design",
+        "bm": "Reka Bentuk"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Design Thinking",
+            "bm": "Pemikiran Reka Bentuk"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Design Briefs and Specifications",
+            "bm": "Taklimat dan Spesifikasi Reka Bentuk"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Evaluating a Design",
+            "bm": "Menilai Reka Bentuk"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Sketching and Technical Drawing",
+        "bm": "Lakaran dan Lukisan Teknik"
+      },
+      "theme": {
+        "en": "Communication",
+        "bm": "Komunikasi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Freehand Sketching",
+            "bm": "Lakaran Bebas"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Isometric and Oblique Drawing",
+            "bm": "Lukisan Isometrik dan Oblik"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Orthographic Drawing and Line Types",
+            "bm": "Lukisan Ortografik dan Jenis Garisan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Materials, Tools and Workshop Safety",
+        "bm": "Bahan, Alatan dan Keselamatan Bengkel"
+      },
+      "theme": {
+        "en": "Materials",
+        "bm": "Bahan"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Wood and Manufactured Boards",
+            "bm": "Kayu dan Papan Buatan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Metals and Plastics",
+            "bm": "Logam dan Plastik"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Hand Tools and Workshop Safety",
+            "bm": "Alatan Tangan dan Keselamatan Bengkel"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Product Design and Ergonomics",
+        "bm": "Reka Bentuk Produk dan Ergonomik"
+      },
+      "theme": {
+        "en": "Design",
+        "bm": "Reka Bentuk"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Ergonomics and Anthropometrics",
+            "bm": "Ergonomik dan Antropometrik"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Function, Aesthetics and Safety",
+            "bm": "Fungsi, Estetik dan Keselamatan"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Sustainable Design",
+            "bm": "Reka Bentuk Lestari"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Basic Electronics for Design",
+        "bm": "Elektronik Asas untuk Reka Bentuk"
+      },
+      "theme": {
+        "en": "Electronics",
+        "bm": "Elektronik"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Components and Symbols",
+            "bm": "Komponen dan Simbol"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Series and Parallel Circuits",
+            "bm": "Litar Bersiri dan Selari"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Resistors and Ohm's Law",
+            "bm": "Perintang dan Hukum Ohm"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Packaging Design and Product Costing",
+        "bm": "Reka Bentuk Pembungkusan dan Pengekosan Produk"
+      },
+      "theme": {
+        "en": "Enterprise",
+        "bm": "Keusahawanan"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Functions of Packaging",
+            "bm": "Fungsi Pembungkusan"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Labels and Nets",
+            "bm": "Label dan Bentangan"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Costing and Pricing",
+            "bm": "Pengekosan dan Penetapan Harga"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "chapterId": "f3muzik-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The same melody can sound peaceful or thrilling just by changing how fast and how loud it is played.",
+      "bm": "Melodi yang sama boleh kedengaran tenang atau mendebarkan hanya dengan mengubah kelajuan dan kekuatan bunyinya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tempo is the speed of music (largo → presto); dynamics is loudness (pp → ff).",
+        "bm": "Tempo ialah kelajuan muzik (largo → presto); dinamik ialah kekuatan bunyi (pp → ff)."
+      },
+      {
+        "en": "Timbre is the \"colour\" of a sound; texture is how many layers of sound are heard together.",
+        "bm": "Warna ton ialah \"warna\" bunyi; tekstur ialah bilangan lapisan bunyi yang didengar serentak."
+      },
+      {
+        "en": "Form is the structure of a piece: binary (AB), ternary (ABA) and rondo (ABACA).",
+        "bm": "Bentuk ialah struktur lagu: binari (AB), ternari (ABA) dan rondo (ABACA)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Type",
+            "bm": "Jenis"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Largo",
+              "bm": "Largo"
+            },
+            "cells": [
+              {
+                "en": "Very slow and broad",
+                "bm": "Sangat perlahan"
+              },
+              {
+                "en": "Tempo",
+                "bm": "Tempo"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Andante",
+              "bm": "Andante"
+            },
+            "cells": [
+              {
+                "en": "Walking pace",
+                "bm": "Kelajuan berjalan"
+              },
+              {
+                "en": "Tempo",
+                "bm": "Tempo"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Allegro",
+              "bm": "Allegro"
+            },
+            "cells": [
+              {
+                "en": "Fast and lively",
+                "bm": "Cepat dan riang"
+              },
+              {
+                "en": "Tempo",
+                "bm": "Tempo"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "p (piano)",
+              "bm": "p (piano)"
+            },
+            "cells": [
+              {
+                "en": "Soft",
+                "bm": "Lembut"
+              },
+              {
+                "en": "Dynamics",
+                "bm": "Dinamik"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "f (forte)",
+              "bm": "f (forte)"
+            },
+            "cells": [
+              {
+                "en": "Loud",
+                "bm": "Kuat"
+              },
+              {
+                "en": "Dynamics",
+                "bm": "Dinamik"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Crescendo",
+              "bm": "Crescendo"
+            },
+            "cells": [
+              {
+                "en": "Gradually louder",
+                "bm": "Beransur kuat"
+              },
+              {
+                "en": "Dynamics",
+                "bm": "Dinamik"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tempo",
+          "bm": "Tempo"
+        },
+        "definition": {
+          "en": "The speed of the beat.",
+          "bm": "Kelajuan detik."
+        }
+      },
+      {
+        "term": {
+          "en": "Dynamics",
+          "bm": "Dinamik"
+        },
+        "definition": {
+          "en": "How loud or soft the music is.",
+          "bm": "Kekuatan atau kelembutan bunyi muzik."
+        }
+      },
+      {
+        "term": {
+          "en": "Pitch",
+          "bm": "Pic"
+        },
+        "definition": {
+          "en": "How high or low a sound is.",
+          "bm": "Tinggi atau rendah sesuatu bunyi."
+        }
+      },
+      {
+        "term": {
+          "en": "Timbre",
+          "bm": "Warna ton"
+        },
+        "definition": {
+          "en": "The unique quality of a voice or instrument.",
+          "bm": "Kualiti unik suara atau alat muzik."
+        }
+      },
+      {
+        "term": {
+          "en": "Texture",
+          "bm": "Tekstur"
+        },
+        "definition": {
+          "en": "Monophonic (one line), homophonic (melody + chords), polyphonic (several melodies).",
+          "bm": "Monofoni (satu garisan), homofoni (melodi + kord), polifoni (beberapa melodi)."
+        }
+      },
+      {
+        "term": {
+          "en": "Form",
+          "bm": "Bentuk"
+        },
+        "definition": {
+          "en": "The order of sections in a piece: AB, ABA, ABACA.",
+          "bm": "Susunan bahagian dalam lagu: AB, ABA, ABACA."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A song has sections: verse A, chorus B, verse A again. What is its form?",
+        "bm": "Sebuah lagu mempunyai bahagian: A, B, kemudian A semula. Apakah bentuknya?"
+      },
+      "steps": [
+        {
+          "en": "Label each section with a letter.",
+          "bm": "Labelkan setiap bahagian dengan huruf."
+        },
+        {
+          "en": "A B A — the first section returns at the end.",
+          "bm": "A B A — bahagian pertama kembali di akhir."
+        }
+      ],
+      "answer": {
+        "en": "Ternary form (ABA).",
+        "bm": "Bentuk ternari (ABA)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3muzik-01-q01",
+      "subtopicId": "f3muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tempo means…",
+        "bm": "Tempo bermaksud…"
+      },
+      "explanation": {
+        "en": "Measured in beats per minute (bpm).",
+        "bm": "Diukur dalam detik seminit (bpm)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the speed of the music",
+          "bm": "kelajuan muzik"
+        },
+        {
+          "en": "how loud the music is",
+          "bm": "kekuatan bunyi muzik"
+        },
+        {
+          "en": "how high a note is",
+          "bm": "tinggi rendah not"
+        },
+        {
+          "en": "the type of instrument",
+          "bm": "jenis alat muzik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q02",
+      "subtopicId": "f3muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Allegro\" means…",
+        "bm": "\"Allegro\" bermaksud…"
+      },
+      "explanation": {
+        "en": "Presto is even faster.",
+        "bm": "Presto lebih cepat lagi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fast and lively",
+          "bm": "cepat dan riang"
+        },
+        {
+          "en": "very slow",
+          "bm": "sangat perlahan"
+        },
+        {
+          "en": "walking pace",
+          "bm": "kelajuan berjalan"
+        },
+        {
+          "en": "gradually softer",
+          "bm": "beransur lembut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q03",
+      "subtopicId": "f3muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The dynamic marking \"f\" (forte) means…",
+        "bm": "Tanda dinamik \"f\" (forte) bermaksud…"
+      },
+      "explanation": {
+        "en": "ff (fortissimo) = very loud.",
+        "bm": "ff (fortissimo) = sangat kuat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "loud",
+          "bm": "kuat"
+        },
+        {
+          "en": "soft",
+          "bm": "lembut"
+        },
+        {
+          "en": "fast",
+          "bm": "cepat"
+        },
+        {
+          "en": "slow",
+          "bm": "perlahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q04",
+      "subtopicId": "f3muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Crescendo\" means…",
+        "bm": "\"Crescendo\" bermaksud…"
+      },
+      "explanation": {
+        "en": "Diminuendo or decrescendo = gradually softer.",
+        "bm": "Diminuendo atau dekresendo = beransur lembut."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "gradually louder",
+          "bm": "beransur kuat"
+        },
+        {
+          "en": "gradually softer",
+          "bm": "beransur lembut"
+        },
+        {
+          "en": "gradually faster",
+          "bm": "beransur cepat"
+        },
+        {
+          "en": "stop suddenly",
+          "bm": "berhenti tiba-tiba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q05",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How high or low a sound is, is called…",
+        "bm": "Tinggi atau rendah sesuatu bunyi dipanggil…"
+      },
+      "explanation": {
+        "en": "A flute has a higher pitch than a tuba.",
+        "bm": "Seruling mempunyai pic lebih tinggi daripada tuba."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pitch",
+          "bm": "pic"
+        },
+        {
+          "en": "tempo",
+          "bm": "tempo"
+        },
+        {
+          "en": "dynamics",
+          "bm": "dinamik"
+        },
+        {
+          "en": "form",
+          "bm": "bentuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q06",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "You can tell a violin from a trumpet playing the same note because of…",
+        "bm": "Anda boleh membezakan biola dengan trompet yang memainkan not yang sama kerana…"
+      },
+      "explanation": {
+        "en": "Each instrument has a unique sound quality.",
+        "bm": "Setiap alat muzik mempunyai kualiti bunyi unik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "timbre (tone colour)",
+          "bm": "warna ton"
+        },
+        {
+          "en": "tempo",
+          "bm": "tempo"
+        },
+        {
+          "en": "form",
+          "bm": "bentuk"
+        },
+        {
+          "en": "time signature",
+          "bm": "meter"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q07",
+      "subtopicId": "f3muzik-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "A piece with sections A B A is in ______ form.",
+        "bm": "Lagu yang mempunyai bahagian A B A berbentuk ______."
+      },
+      "explanation": {
+        "en": "Binary is AB.",
+        "bm": "Binari ialah AB."
+      },
+      "difficulty": 1,
+      "answer": [
+        "ternary",
+        "ternari"
+      ]
+    },
+    {
+      "id": "f3muzik-01-q08",
+      "subtopicId": "f3muzik-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A piece with sections A B is in…",
+        "bm": "Lagu dengan bahagian A B berbentuk…"
+      },
+      "explanation": {
+        "en": "Two contrasting sections.",
+        "bm": "Dua bahagian yang berbeza."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "binary form",
+          "bm": "binari"
+        },
+        {
+          "en": "ternary form",
+          "bm": "ternari"
+        },
+        {
+          "en": "rondo form",
+          "bm": "rondo"
+        },
+        {
+          "en": "canon",
+          "bm": "kanon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q09",
+      "subtopicId": "f3muzik-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these tempo terms from SLOWEST to FASTEST.",
+        "bm": "Susun istilah tempo daripada PALING PERLAHAN kepada PALING CEPAT."
+      },
+      "explanation": {
+        "en": "Andante is a walking pace, moderato is moderate.",
+        "bm": "Andante kelajuan berjalan, moderato sederhana."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Largo",
+          "bm": "Largo"
+        },
+        {
+          "en": "Adagio",
+          "bm": "Adagio"
+        },
+        {
+          "en": "Andante",
+          "bm": "Andante"
+        },
+        {
+          "en": "Moderato",
+          "bm": "Moderato"
+        },
+        {
+          "en": "Allegro",
+          "bm": "Allegro"
+        },
+        {
+          "en": "Presto",
+          "bm": "Presto"
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-01-q10",
+      "subtopicId": "f3muzik-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these dynamics from SOFTEST to LOUDEST.",
+        "bm": "Susun dinamik daripada PALING LEMBUT kepada PALING KUAT."
+      },
+      "explanation": {
+        "en": "m = mezzo (moderately).",
+        "bm": "m = mezzo (sederhana)."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "pp",
+          "bm": "pp"
+        },
+        {
+          "en": "p",
+          "bm": "p"
+        },
+        {
+          "en": "mp",
+          "bm": "mp"
+        },
+        {
+          "en": "mf",
+          "bm": "mf"
+        },
+        {
+          "en": "f",
+          "bm": "f"
+        },
+        {
+          "en": "ff",
+          "bm": "ff"
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-01-q11",
+      "subtopicId": "f3muzik-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its meaning.",
+        "bm": "Padankan istilah dengan maksudnya."
+      },
+      "explanation": {
+        "en": "Two are about tempo, two about dynamics.",
+        "bm": "Dua tentang tempo, dua tentang dinamik."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Accelerando",
+            "bm": "Accelerando"
+          },
+          "right": {
+            "en": "Gradually faster",
+            "bm": "Beransur cepat"
+          }
+        },
+        {
+          "left": {
+            "en": "Ritardando",
+            "bm": "Ritardando"
+          },
+          "right": {
+            "en": "Gradually slower",
+            "bm": "Beransur perlahan"
+          }
+        },
+        {
+          "left": {
+            "en": "Diminuendo",
+            "bm": "Diminuendo"
+          },
+          "right": {
+            "en": "Gradually softer",
+            "bm": "Beransur lembut"
+          }
+        },
+        {
+          "left": {
+            "en": "Crescendo",
+            "bm": "Crescendo"
+          },
+          "right": {
+            "en": "Gradually louder",
+            "bm": "Beransur kuat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-01-q12",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A single melody sung with no accompaniment has a texture that is…",
+        "bm": "Satu melodi yang dinyanyikan tanpa iringan mempunyai tekstur…"
+      },
+      "explanation": {
+        "en": "Mono = one.",
+        "bm": "Mono = satu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "monophonic",
+          "bm": "monofoni"
+        },
+        {
+          "en": "homophonic",
+          "bm": "homofoni"
+        },
+        {
+          "en": "polyphonic",
+          "bm": "polifoni"
+        },
+        {
+          "en": "rondo",
+          "bm": "rondo"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q13",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A singer accompanied by guitar chords is an example of…",
+        "bm": "Penyanyi diiringi kord gitar ialah contoh tekstur…"
+      },
+      "explanation": {
+        "en": "Melody + chords.",
+        "bm": "Melodi + kord."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "homophonic texture",
+          "bm": "homofoni"
+        },
+        {
+          "en": "monophonic texture",
+          "bm": "monofoni"
+        },
+        {
+          "en": "polyphonic texture",
+          "bm": "polifoni"
+        },
+        {
+          "en": "binary form",
+          "bm": "bentuk binari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q14",
+      "subtopicId": "f3muzik-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A B A C A is…",
+        "bm": "A B A C A ialah bentuk…"
+      },
+      "explanation": {
+        "en": "The main theme A keeps returning.",
+        "bm": "Tema utama A sentiasa kembali."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "rondo form",
+          "bm": "rondo"
+        },
+        {
+          "en": "binary form",
+          "bm": "binari"
+        },
+        {
+          "en": "ternary form",
+          "bm": "ternari"
+        },
+        {
+          "en": "strophic form",
+          "bm": "strofik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q15",
+      "subtopicId": "f3muzik-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL that describe TEXTURE.",
+        "bm": "Pilih SEMUA yang menerangkan TEKSTUR."
+      },
+      "explanation": {
+        "en": "Allegro is a tempo term.",
+        "bm": "Allegro ialah istilah tempo."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Monophonic",
+          "bm": "Monofoni"
+        },
+        {
+          "en": "Homophonic",
+          "bm": "Homofoni"
+        },
+        {
+          "en": "Polyphonic",
+          "bm": "Polifoni"
+        },
+        {
+          "en": "Allegro",
+          "bm": "Allegro"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3muzik-01-q16",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A round such as \"Row, Row, Row Your Boat\", where voices enter one after another with the same melody, is…",
+        "bm": "Lagu pusingan seperti \"Row, Row, Row Your Boat\", di mana suara masuk satu demi satu dengan melodi yang sama, ialah…"
+      },
+      "explanation": {
+        "en": "Several independent melody lines overlap.",
+        "bm": "Beberapa garisan melodi bertindih."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "polyphonic",
+          "bm": "polifoni"
+        },
+        {
+          "en": "monophonic",
+          "bm": "monofoni"
+        },
+        {
+          "en": "homophonic",
+          "bm": "homofoni"
+        },
+        {
+          "en": "silent",
+          "bm": "senyap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q17",
+      "subtopicId": "f3muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A film composer wants a chase scene to build excitement. Which choice is BEST?",
+        "bm": "Komposer filem mahu babak kejar-mengejar semakin mendebarkan. Pilihan manakah PALING sesuai?"
+      },
+      "explanation": {
+        "en": "Getting faster and louder builds tension.",
+        "bm": "Semakin cepat dan kuat membina ketegangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Accelerando with a crescendo",
+          "bm": "Accelerando bersama crescendo"
+        },
+        {
+          "en": "Largo with pianissimo",
+          "bm": "Largo dengan pianissimo"
+        },
+        {
+          "en": "Ritardando and diminuendo",
+          "bm": "Ritardando dan diminuendo"
+        },
+        {
+          "en": "Silence throughout",
+          "bm": "Senyap sepanjang babak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q18",
+      "subtopicId": "f3muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A lullaby is usually performed…",
+        "bm": "Lagu dodoi biasanya dipersembahkan secara…"
+      },
+      "explanation": {
+        "en": "Tempo and dynamics match the purpose of the song.",
+        "bm": "Tempo dan dinamik sesuai dengan tujuan lagu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "slowly and softly (adagio, p)",
+          "bm": "perlahan dan lembut (adagio, p)"
+        },
+        {
+          "en": "fast and loud (presto, ff)",
+          "bm": "cepat dan kuat (presto, ff)"
+        },
+        {
+          "en": "with sudden loud accents",
+          "bm": "dengan aksen kuat yang tiba-tiba"
+        },
+        {
+          "en": "with a fast march rhythm",
+          "bm": "dengan rentak kawad yang cepat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q19",
+      "subtopicId": "f3muzik-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do composers repeat section A at the end of ternary form?",
+        "bm": "Mengapakah komposer mengulang bahagian A di akhir bentuk ternari?"
+      },
+      "explanation": {
+        "en": "Contrast (B) followed by return (A) is satisfying.",
+        "bm": "Kontras (B) diikuti kembali (A) memberi kepuasan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It gives balance and a sense of returning home",
+          "bm": "Ia memberi imbangan dan rasa kembali ke asal"
+        },
+        {
+          "en": "They ran out of ideas",
+          "bm": "Mereka kehabisan idea"
+        },
+        {
+          "en": "It is required by law",
+          "bm": "Ia diwajibkan undang-undang"
+        },
+        {
+          "en": "To make it shorter",
+          "bm": "Untuk memendekkannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-01-q20",
+      "subtopicId": "f3muzik-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pop song goes: verse, chorus, verse, chorus, bridge, chorus. Which section works like the \"A\" that keeps returning?",
+        "bm": "Sebuah lagu pop: korus berselang dengan bait dan jambatan. Bahagian manakah berfungsi seperti \"A\" yang sentiasa kembali?"
+      },
+      "explanation": {
+        "en": "A returning chorus is similar to rondo thinking.",
+        "bm": "Korus yang berulang menyerupai idea rondo."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The chorus",
+          "bm": "Korus"
+        },
+        {
+          "en": "The bridge",
+          "bm": "Jambatan (bridge)"
+        },
+        {
+          "en": "The first verse only",
+          "bm": "Bait pertama sahaja"
+        },
+        {
+          "en": "None",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

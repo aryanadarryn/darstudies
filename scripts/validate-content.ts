@@ -1,17 +1,18 @@
 // Validates all content JSON against the Zod schemas and checks cross-references.
 // Runs as `prebuild`, so the build fails on any content error.
 import { readFileSync, readdirSync, existsSync, writeFileSync } from 'node:fs'
-import { join } from 'node:path'
+import { basename, join } from 'node:path'
 import katex from 'katex'
 import type { z } from 'zod'
 import {
-  RawSubjectSchema, ChapterContentSchema, FormulasFileSchema, FlashcardFileSchema, BridgeSchema, NotesFileSchema, SUBJECT_IDS,
+  RawSubjectSchema, ChapterContentSchema, FormulasFileSchema, FlashcardFileSchema, BridgeSchema, NotesFileSchema,
   type Question,
 } from '../src/content/schema.ts'
-import { chapterId, subtopicId } from '../src/content/ids.ts'
+import { chapterId, formDir, FORMS, subjectsOfForm, subtopicId } from '../src/content/ids.ts'
 import { TOOL_IDS } from '../src/content/toolIds.ts'
 
-const ROOT = join(import.meta.dirname, '..', 'content')
+// content/form3 and content/form4 each hold raw/, <subject>/, notes/, flashcards/ and formulas.json.
+const CONTENT = join(import.meta.dirname, '..', 'content')
 const errors: string[] = []
 const warnings: string[] = []
 
@@ -34,7 +35,8 @@ function load<T extends z.ZodType>(file: string, schema: T): z.infer<T> | undefi
 // ---- Structure ----
 const chapterIds = new Set<string>()
 const subtopicIds = new Set<string>()
-for (const s of SUBJECT_IDS) {
+for (const form of FORMS) for (const s of subjectsOfForm(form)) {
+  const ROOT = join(CONTENT, formDir(form))
   const file = join(ROOT, 'raw', `${s}.json`)
   const subj = load(file, RawSubjectSchema)
   if (!subj) continue
@@ -54,7 +56,10 @@ for (const s of SUBJECT_IDS) {
 }
 
 // ---- Formulas ----
-const formulas = load(join(ROOT, 'formulas.json'), FormulasFileSchema) ?? []
+const formulas = FORMS.flatMap((form) => {
+  const file = join(CONTENT, formDir(form), 'formulas.json')
+  return existsSync(file) ? load(file, FormulasFileSchema) ?? [] : []
+})
 const formulaIds = new Set<string>()
 for (const f of formulas) {
   if (formulaIds.has(f.id)) errors.push(`formulas.json: duplicate id ${f.id}`)
@@ -77,13 +82,20 @@ function checkQuestions(file: string, qs: Question[], validSubtopics: Set<string
     if (!validSubtopics.has(q.subtopicId)) errors.push(`${file}: ${q.id} → unknown subtopic ${q.subtopicId}`)
     if (q.type === 'mcq' && q.answer >= q.options.length) errors.push(`${file}: ${q.id} answer index out of range`)
     if (q.type === 'multi' && q.answer.some((a) => a >= q.options.length)) errors.push(`${file}: ${q.id} answer index out of range`)
+    if (q.type === 'mcq' || q.type === 'multi') {
+      for (const lang of ['en', 'bm'] as const) {
+        const texts = q.options.map((o) => o[lang].trim().toLowerCase())
+        if (new Set(texts).size !== texts.length) errors.push(`${file}: ${q.id} has duplicate options (${lang})`)
+      }
+    }
+    if (q.type === 'match' && new Set(q.pairs.map((p) => p.right.en)).size !== q.pairs.length) errors.push(`${file}: ${q.id} has duplicate match answers`)
   }
 }
 
 // ---- Chapter content ----
 let written = 0
-for (const s of SUBJECT_IDS) {
-  const dir = join(ROOT, s)
+for (const form of FORMS) for (const s of subjectsOfForm(form)) {
+  const dir = join(CONTENT, formDir(form), s)
   if (!existsSync(dir)) continue
   for (const name of readdirSync(dir).filter((n) => n.endsWith('.json'))) {
     const file = join(dir, name)
@@ -94,6 +106,10 @@ for (const s of SUBJECT_IDS) {
     if (!chapterIds.has(ch.chapterId)) errors.push(`${file}: chapter ${ch.chapterId} not in syllabus structure`)
     for (const fid of ch.intro.formulaIds) if (!formulaIds.has(fid)) errors.push(`${file}: unknown formulaId ${fid}`)
     if (ch.intro.toolId && !TOOL_IDS.includes(ch.intro.toolId)) errors.push(`${file}: unknown toolId ${ch.intro.toolId}`)
+    const g = ch.intro.infographic
+    if (g?.kind === 'compare') for (const r of g.data.rows) {
+      if (r.cells.length !== g.data.headers.length) errors.push(`${file}: compare row "${r.label.en}" has ${r.cells.length} cells for ${g.data.headers.length} headers`)
+    }
     checkQuestions(file, ch.questions, subtopicIds)
     for (const q of ch.questions) if (!q.subtopicId.startsWith(ch.chapterId + '-')) errors.push(`${file}: ${q.id} belongs to another chapter`)
     if (ch.questions.length < 20) warnings.push(`${ch.chapterId}: ${ch.questions.length} questions (target ≥ 20)`)
@@ -103,9 +119,13 @@ for (const s of SUBJECT_IDS) {
 
 // ---- Flashcards ----
 const cardIds = new Set<string>()
-const flashDir = join(ROOT, 'flashcards')
-for (const name of existsSync(flashDir) ? readdirSync(flashDir).filter((n) => n.endsWith('.json')) : []) {
-  const file = join(flashDir, name)
+const flashFiles: string[] = []
+for (const form of FORMS) {
+  const flashDir = join(CONTENT, formDir(form), 'flashcards')
+  for (const name of existsSync(flashDir) ? readdirSync(flashDir).filter((n) => n.endsWith('.json')) : []) flashFiles.push(join(flashDir, name))
+}
+for (const file of flashFiles) {
+  const name = basename(file)
   const deck = load(file, FlashcardFileSchema)
   if (!deck) continue
   if (`${deck.chapterId}.json` !== name) errors.push(`${file}: chapterId does not match file name`)
@@ -119,31 +139,40 @@ for (const name of existsSync(flashDir) ? readdirSync(flashDir).filter((n) => n.
 }
 
 // ---- Bridge ----
-const bridge = load(join(ROOT, 'bridge.json'), BridgeSchema)
+const bridge = load(join(CONTENT, 'form4', 'bridge.json'), BridgeSchema)
 if (bridge) checkQuestions('bridge.json', bridge.questions, new Set(bridge.subtopics.map((s) => s.id)))
 
 // ---- Subtopic notes ----
 let noteCount = 0
-const notesDir = join(ROOT, 'notes')
-for (const name of existsSync(notesDir) ? readdirSync(notesDir).filter((n) => n.endsWith('.json')) : []) {
-  const file = join(notesDir, name)
+const noteFiles: string[] = []
+for (const form of FORMS) {
+  const notesDir = join(CONTENT, formDir(form), 'notes')
+  for (const name of existsSync(notesDir) ? readdirSync(notesDir).filter((n) => n.endsWith('.json')) : []) noteFiles.push(join(notesDir, name))
+}
+const notedSubtopics = new Set<string>()
+for (const file of noteFiles) {
+  const name = basename(file)
   const notes = load(file, NotesFileSchema)
   if (!notes) continue
   if (`${notes.chapterId}.json` !== name) errors.push(`${file}: chapterId does not match file name`)
   if (!chapterIds.has(notes.chapterId)) errors.push(`${file}: unknown chapter ${notes.chapterId}`)
   for (const sid of Object.keys(notes.subtopics)) {
     noteCount++
+    notedSubtopics.add(sid)
     if (!subtopicIds.has(sid) || !sid.startsWith(notes.chapterId + '-')) errors.push(`${file}: unknown subtopic ${sid}`)
   }
 }
 
 // ---- Manifest: which chapters have content (lets the app list chapters without bundling the content) ----
 const listIds = (dir: string) => (existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith('.json')).map((n) => n.replace('.json', '')).sort() : [])
+const fromForms = (sub: (form: (typeof FORMS)[number]) => string) => FORMS.flatMap((form) => listIds(join(CONTENT, formDir(form), sub(form)))).sort()
 const manifest = {
-  written: SUBJECT_IDS.flatMap((s) => listIds(join(ROOT, s))),
-  notes: listIds(notesDir),
-  flashcards: listIds(flashDir),
+  written: FORMS.flatMap((form) => subjectsOfForm(form).flatMap((s) => listIds(join(CONTENT, formDir(form), s)))).sort(),
+  notes: fromForms(() => 'notes'),
+  flashcards: fromForms(() => 'flashcards'),
 }
+// Every subtopic of a written chapter should have notes.
+for (const cid of manifest.written) for (const sid of subtopicIds) if (sid.startsWith(cid + '-') && !notedSubtopics.has(sid)) warnings.push(`${sid}: no subtopic notes`)
 const manifestFile = join(import.meta.dirname, '..', 'src', 'content', 'manifest.json')
 const manifestText = JSON.stringify(manifest, null, 2) + '\n'
 if (!existsSync(manifestFile) || readFileSync(manifestFile, 'utf8') !== manifestText) {

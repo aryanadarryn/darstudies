@@ -2,6 +2,8 @@ import { useLiveQuery } from 'dexie-react-hooks'
 import { Link } from 'react-router-dom'
 import { MasteryRing, PageHeader } from '../components/ui'
 import { subtopicById } from '../content'
+import { formOf } from '../content/ids'
+import FormSwitch, { useForm } from '../components/FormSwitch'
 import { TOOLS } from '../content/toolIds'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -11,16 +13,17 @@ import { isDue } from '../planner/leitner'
 export default function Practice() {
   const { t, L } = useT()
   const today = useToday()
-  const cards = useFlashcards()
+  const form = useForm()
+  const cards = useFlashcards()?.filter((c) => formOf(c.id) === form)
   const states = useLiveQuery(() => db.cards.toArray(), [])
   const mastery = useMastery()
   const stateMap = new Map((states ?? []).map((s) => [s.cardId, s]))
   const due = (cards ?? []).filter((c) => isDue(stateMap.get(c.id), today)).length
-  const weak = (mastery?.weak ?? []).slice().sort((a, b) => a.mastery - b.mastery).slice(0, 4)
+  const weak = (mastery?.weak ?? []).filter((w) => formOf(w.id) === form).slice().sort((a, b) => a.mastery - b.mastery).slice(0, 4)
 
   return (
     <div className="space-y-3">
-      <PageHeader title={t('practice.title')} />
+      <PageHeader title={t('practice.title')} right={<FormSwitch />} />
       <Link to="/practice/quiz" className="card flex items-center gap-4">
         <span className="text-3xl">❓</span>
         <div className="flex-1"><div className="font-bold">{t('practice.quiz')}</div><div className="text-sm muted">{t('practice.quizBody')}</div></div>

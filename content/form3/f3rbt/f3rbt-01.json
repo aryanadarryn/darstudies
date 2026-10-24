@@ -1,0 +1,817 @@
+{
+  "chapterId": "f3rbt-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every product around you — your school bag, a water bottle, a phone stand — started as a problem someone noticed and decided to solve.",
+      "bm": "Setiap produk di sekeliling anda — beg sekolah, botol air, pemegang telefon — bermula sebagai masalah yang disedari seseorang lalu diselesaikan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Design thinking has five stages: empathise, define, ideate, prototype and test.",
+        "bm": "Pemikiran reka bentuk mempunyai lima peringkat: empati, definisi, idea, prototaip dan uji."
+      },
+      {
+        "en": "A design brief states the problem; specifications list measurable requirements.",
+        "bm": "Taklimat reka bentuk menyatakan masalah; spesifikasi menyenaraikan keperluan yang boleh diukur."
+      },
+      {
+        "en": "Designs are evaluated against the specifications and improved through iteration.",
+        "bm": "Reka bentuk dinilai berdasarkan spesifikasi dan ditambah baik secara berulang (iterasi)."
+      }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Empathise",
+              "bm": "Empati"
+            },
+            "detail": {
+              "en": "Understand the user's needs.",
+              "bm": "Fahami keperluan pengguna."
+            }
+          },
+          {
+            "title": {
+              "en": "Define",
+              "bm": "Definisi"
+            },
+            "detail": {
+              "en": "State the problem clearly.",
+              "bm": "Nyatakan masalah dengan jelas."
+            }
+          },
+          {
+            "title": {
+              "en": "Ideate",
+              "bm": "Idea"
+            },
+            "detail": {
+              "en": "Generate many possible solutions.",
+              "bm": "Hasilkan banyak penyelesaian."
+            }
+          },
+          {
+            "title": {
+              "en": "Prototype",
+              "bm": "Prototaip"
+            },
+            "detail": {
+              "en": "Build a simple model.",
+              "bm": "Bina model ringkas."
+            }
+          },
+          {
+            "title": {
+              "en": "Test",
+              "bm": "Uji"
+            },
+            "detail": {
+              "en": "Try it with users and improve.",
+              "bm": "Cuba dengan pengguna dan tambah baik."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Design brief",
+          "bm": "Taklimat reka bentuk"
+        },
+        "definition": {
+          "en": "A short statement of the problem and who the product is for.",
+          "bm": "Kenyataan ringkas tentang masalah dan pengguna produk."
+        }
+      },
+      {
+        "term": {
+          "en": "Specification",
+          "bm": "Spesifikasi"
+        },
+        "definition": {
+          "en": "A list of requirements the product must meet (size, cost, material).",
+          "bm": "Senarai keperluan yang mesti dipenuhi produk (saiz, kos, bahan)."
+        }
+      },
+      {
+        "term": {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        "definition": {
+          "en": "An early model used to test an idea.",
+          "bm": "Model awal untuk menguji idea."
+        }
+      },
+      {
+        "term": {
+          "en": "Iteration",
+          "bm": "Iterasi"
+        },
+        "definition": {
+          "en": "Repeating the cycle to improve a design.",
+          "bm": "Mengulang kitaran untuk menambah baik reka bentuk."
+        }
+      },
+      {
+        "term": {
+          "en": "User",
+          "bm": "Pengguna"
+        },
+        "definition": {
+          "en": "The person who will use the product.",
+          "bm": "Orang yang akan menggunakan produk."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Write one measurable specification for a pencil holder.",
+        "bm": "Tulis satu spesifikasi yang boleh diukur untuk bekas pensel."
+      },
+      "steps": [
+        {
+          "en": "A specification must be checkable.",
+          "bm": "Spesifikasi mesti boleh disemak."
+        },
+        {
+          "en": "\"Looks nice\" cannot be measured; \"holds at least 10 pencils\" can.",
+          "bm": "\"Nampak cantik\" tidak boleh diukur; \"memuatkan sekurang-kurangnya 10 batang pensel\" boleh."
+        }
+      ],
+      "answer": {
+        "en": "The holder must hold at least 10 pencils and cost less than RM10 to make.",
+        "bm": "Bekas itu mesti memuatkan sekurang-kurangnya 10 batang pensel dan kos membuatnya kurang daripada RM10."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3rbt-01-q01",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first stage of design thinking is…",
+        "bm": "Peringkat pertama pemikiran reka bentuk ialah…"
+      },
+      "explanation": {
+        "en": "Start by understanding the user.",
+        "bm": "Mulakan dengan memahami pengguna."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Empathise",
+          "bm": "Empati"
+        },
+        {
+          "en": "Test",
+          "bm": "Uji"
+        },
+        {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        {
+          "en": "Sell",
+          "bm": "Jual"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q02",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Building a simple model to test an idea is called…",
+        "bm": "Membina model ringkas untuk menguji idea dipanggil…"
+      },
+      "explanation": {
+        "en": "Prototypes can be made of cardboard, clay or 3D prints.",
+        "bm": "Prototaip boleh dibuat daripada kadbod, tanah liat atau cetakan 3D."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "prototyping",
+          "bm": "membina prototaip"
+        },
+        {
+          "en": "empathising",
+          "bm": "berempati"
+        },
+        {
+          "en": "defining",
+          "bm": "mendefinisi"
+        },
+        {
+          "en": "marketing",
+          "bm": "memasarkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q03",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the \"ideate\" stage, designers…",
+        "bm": "Dalam peringkat \"idea\", pereka…"
+      },
+      "explanation": {
+        "en": "Brainstorming and sketching are used.",
+        "bm": "Sumbang saran dan lakaran digunakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "generate many possible solutions",
+          "bm": "menjana banyak penyelesaian"
+        },
+        {
+          "en": "sell the product",
+          "bm": "menjual produk"
+        },
+        {
+          "en": "throw away ideas",
+          "bm": "membuang idea"
+        },
+        {
+          "en": "only test the final product",
+          "bm": "menguji produk akhir sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q04",
+      "subtopicId": "f3rbt-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "How many stages are there in the design thinking model?",
+        "bm": "Berapakah peringkat dalam model pemikiran reka bentuk?"
+      },
+      "explanation": {
+        "en": "Empathise, define, ideate, prototype, test.",
+        "bm": "Empati, definisi, idea, prototaip, uji."
+      },
+      "difficulty": 1,
+      "answer": [
+        "5",
+        "five",
+        "lima"
+      ]
+    },
+    {
+      "id": "f3rbt-01-q05",
+      "subtopicId": "f3rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A design brief…",
+        "bm": "Taklimat reka bentuk…"
+      },
+      "explanation": {
+        "en": "It guides the whole project.",
+        "bm": "Ia membimbing keseluruhan projek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "states the problem and the target user",
+          "bm": "menyatakan masalah dan pengguna sasaran"
+        },
+        {
+          "en": "lists the final price only",
+          "bm": "menyenaraikan harga akhir sahaja"
+        },
+        {
+          "en": "is the finished product",
+          "bm": "ialah produk siap"
+        },
+        {
+          "en": "is a sketch",
+          "bm": "ialah lakaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q06",
+      "subtopicId": "f3rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a measurable specification?",
+        "bm": "Antara berikut, yang manakah spesifikasi yang boleh diukur?"
+      },
+      "explanation": {
+        "en": "Measurements can be checked.",
+        "bm": "Ukuran boleh disemak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Height no more than 30 cm",
+          "bm": "Tinggi tidak melebihi 30 cm"
+        },
+        {
+          "en": "Looks beautiful",
+          "bm": "Kelihatan cantik"
+        },
+        {
+          "en": "Very nice",
+          "bm": "Sangat bagus"
+        },
+        {
+          "en": "Modern feeling",
+          "bm": "Rasa moden"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q07",
+      "subtopicId": "f3rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Testing a prototype with users helps the designer to…",
+        "bm": "Menguji prototaip dengan pengguna membantu pereka untuk…"
+      },
+      "explanation": {
+        "en": "Feedback leads to iteration.",
+        "bm": "Maklum balas membawa kepada iterasi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "find problems and improve the design",
+          "bm": "mengesan masalah dan menambah baik reka bentuk"
+        },
+        {
+          "en": "avoid all changes",
+          "bm": "mengelakkan sebarang perubahan"
+        },
+        {
+          "en": "finish faster without feedback",
+          "bm": "siap lebih cepat tanpa maklum balas"
+        },
+        {
+          "en": "increase the price",
+          "bm": "menaikkan harga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q08",
+      "subtopicId": "f3rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Repeating the design cycle to improve a product is called…",
+        "bm": "Mengulang kitaran reka bentuk untuk menambah baik produk dipanggil…"
+      },
+      "explanation": {
+        "en": "Most products go through many iterations.",
+        "bm": "Kebanyakan produk melalui banyak iterasi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "iteration",
+          "bm": "iterasi"
+        },
+        {
+          "en": "ergonomics",
+          "bm": "ergonomik"
+        },
+        {
+          "en": "packaging",
+          "bm": "pembungkusan"
+        },
+        {
+          "en": "costing",
+          "bm": "pengekosan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q09",
+      "subtopicId": "f3rbt-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of design thinking.",
+        "bm": "Susun peringkat pemikiran reka bentuk."
+      },
+      "explanation": {
+        "en": "The process can loop back after testing.",
+        "bm": "Proses boleh kembali semula selepas pengujian."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Empathise",
+          "bm": "Empati"
+        },
+        {
+          "en": "Define",
+          "bm": "Definisi"
+        },
+        {
+          "en": "Ideate",
+          "bm": "Idea"
+        },
+        {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        {
+          "en": "Test",
+          "bm": "Uji"
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-01-q10",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Interviewing elderly people about difficulties opening jars belongs to which stage?",
+        "bm": "Menemu bual warga emas tentang kesukaran membuka balang tergolong dalam peringkat manakah?"
+      },
+      "explanation": {
+        "en": "Understanding users' problems is empathy.",
+        "bm": "Memahami masalah pengguna ialah empati."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Empathise",
+          "bm": "Empati"
+        },
+        {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        {
+          "en": "Test",
+          "bm": "Uji"
+        },
+        {
+          "en": "Ideate",
+          "bm": "Idea"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q11",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST problem statement (define stage)?",
+        "bm": "Manakah pernyataan masalah PALING baik (peringkat definisi)?"
+      },
+      "explanation": {
+        "en": "It names the user and the need.",
+        "bm": "Ia menyebut pengguna dan keperluan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Students need a way to carry heavy books without back pain.",
+          "bm": "Murid memerlukan cara membawa buku berat tanpa sakit belakang."
+        },
+        {
+          "en": "Make a bag.",
+          "bm": "Buat beg."
+        },
+        {
+          "en": "Bags are nice.",
+          "bm": "Beg itu cantik."
+        },
+        {
+          "en": "I like blue.",
+          "bm": "Saya suka biru."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q12",
+      "subtopicId": "f3rbt-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL items usually included in a specification.",
+        "bm": "Pilih SEMUA perkara yang lazim dalam spesifikasi."
+      },
+      "explanation": {
+        "en": "Safety, function and appearance are also common.",
+        "bm": "Keselamatan, fungsi dan rupa juga lazim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Size",
+          "bm": "Saiz"
+        },
+        {
+          "en": "Material",
+          "bm": "Bahan"
+        },
+        {
+          "en": "Maximum cost",
+          "bm": "Kos maksimum"
+        },
+        {
+          "en": "The designer's favourite food",
+          "bm": "Makanan kegemaran pereka"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3rbt-01-q13",
+      "subtopicId": "f3rbt-01-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its meaning.",
+        "bm": "Padankan istilah dengan maksudnya."
+      },
+      "explanation": {
+        "en": "These terms appear in every design folio.",
+        "bm": "Istilah ini terdapat dalam setiap folio reka bentuk."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Design brief",
+            "bm": "Taklimat reka bentuk"
+          },
+          "right": {
+            "en": "Statement of the problem",
+            "bm": "Pernyataan masalah"
+          }
+        },
+        {
+          "left": {
+            "en": "Specification",
+            "bm": "Spesifikasi"
+          },
+          "right": {
+            "en": "List of requirements",
+            "bm": "Senarai keperluan"
+          }
+        },
+        {
+          "left": {
+            "en": "Prototype",
+            "bm": "Prototaip"
+          },
+          "right": {
+            "en": "Early test model",
+            "bm": "Model ujian awal"
+          }
+        },
+        {
+          "left": {
+            "en": "Evaluation",
+            "bm": "Penilaian"
+          },
+          "right": {
+            "en": "Judging against the specification",
+            "bm": "Menilai berdasarkan spesifikasi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-01-q14",
+      "subtopicId": "f3rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A designer evaluates a lamp. What should it be checked against?",
+        "bm": "Seorang pereka menilai sebuah lampu. Ia patut dinilai berdasarkan apa?"
+      },
+      "explanation": {
+        "en": "Each requirement is checked: met or not met.",
+        "bm": "Setiap keperluan disemak: dipenuhi atau tidak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The specification",
+          "bm": "Spesifikasi"
+        },
+        {
+          "en": "The designer's mood",
+          "bm": "Emosi pereka"
+        },
+        {
+          "en": "A random product",
+          "bm": "Produk rawak"
+        },
+        {
+          "en": "The weather",
+          "bm": "Cuaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q15",
+      "subtopicId": "f3rbt-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "In a design evaluation, the comments and suggestions from users are called ______.",
+        "bm": "Dalam penilaian reka bentuk, komen dan cadangan pengguna dipanggil maklum ______."
+      },
+      "explanation": {
+        "en": "Feedback guides the next iteration.",
+        "bm": "Maklum balas membimbing iterasi seterusnya."
+      },
+      "difficulty": 2,
+      "answer": [
+        "feedback",
+        "balas"
+      ]
+    },
+    {
+      "id": "f3rbt-01-q16",
+      "subtopicId": "f3rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why use cardboard for a first prototype?",
+        "bm": "Mengapakah kadbod digunakan untuk prototaip pertama?"
+      },
+      "explanation": {
+        "en": "Early prototypes test ideas, not final quality.",
+        "bm": "Prototaip awal menguji idea, bukan kualiti akhir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is cheap and quick to shape and change",
+          "bm": "Ia murah serta cepat dibentuk dan diubah"
+        },
+        {
+          "en": "It is the strongest material",
+          "bm": "Ia bahan paling kuat"
+        },
+        {
+          "en": "It is waterproof",
+          "bm": "Ia kalis air"
+        },
+        {
+          "en": "It is the final material",
+          "bm": "Ia bahan akhir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q17",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Users say a new chair is comfortable but too heavy to move. What should the designer do?",
+        "bm": "Pengguna berkata kerusi baharu selesa tetapi terlalu berat untuk dialihkan. Apakah yang patut dilakukan pereka?"
+      },
+      "explanation": {
+        "en": "Keep what works, fix what does not.",
+        "bm": "Kekalkan yang berfungsi, baiki yang tidak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Iterate: try a lighter material or frame and test again",
+          "bm": "Iterasi: cuba bahan atau rangka yang lebih ringan dan uji semula"
+        },
+        {
+          "en": "Ignore the comment",
+          "bm": "Abaikan komen itu"
+        },
+        {
+          "en": "Add more weight",
+          "bm": "Tambah berat"
+        },
+        {
+          "en": "Stop the project",
+          "bm": "Hentikan projek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q18",
+      "subtopicId": "f3rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a specification like \"durable\" less useful than \"survives a 1 m drop test\"?",
+        "bm": "Mengapakah spesifikasi \"tahan lasak\" kurang berguna berbanding \"tahan ujian jatuh 1 m\"?"
+      },
+      "explanation": {
+        "en": "Good specifications are measurable.",
+        "bm": "Spesifikasi yang baik boleh diukur."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The second can be tested objectively",
+          "bm": "Yang kedua boleh diuji secara objektif"
+        },
+        {
+          "en": "The first is longer",
+          "bm": "Yang pertama lebih panjang"
+        },
+        {
+          "en": "Durability does not matter",
+          "bm": "Ketahanan tidak penting"
+        },
+        {
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q19",
+      "subtopicId": "f3rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which evaluation method gives the MOST reliable information about a school bag?",
+        "bm": "Kaedah penilaian manakah memberi maklumat PALING boleh dipercayai tentang beg sekolah?"
+      },
+      "explanation": {
+        "en": "Real use by real users gives better evidence.",
+        "bm": "Penggunaan sebenar oleh pengguna sebenar memberi bukti yang lebih baik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Several students use it for a week and record problems",
+          "bm": "Beberapa murid menggunakannya selama seminggu dan merekod masalah"
+        },
+        {
+          "en": "The designer looks at it once",
+          "bm": "Pereka melihatnya sekali"
+        },
+        {
+          "en": "Ask one friend who has not used it",
+          "bm": "Tanya seorang kawan yang belum menggunakannya"
+        },
+        {
+          "en": "Guess",
+          "bm": "Meneka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-01-q20",
+      "subtopicId": "f3rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does empathy lead to better products?",
+        "bm": "Bagaimanakah empati menghasilkan produk yang lebih baik?"
+      },
+      "explanation": {
+        "en": "Products fail when they solve the wrong problem.",
+        "bm": "Produk gagal apabila menyelesaikan masalah yang salah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The design solves real problems that users actually have",
+          "bm": "Reka bentuk menyelesaikan masalah sebenar yang dihadapi pengguna"
+        },
+        {
+          "en": "It makes products more expensive",
+          "bm": "Ia menjadikan produk lebih mahal"
+        },
+        {
+          "en": "It removes the need to test",
+          "bm": "Ia menghapuskan keperluan menguji"
+        },
+        {
+          "en": "It is only for artists",
+          "bm": "Ia hanya untuk artis"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

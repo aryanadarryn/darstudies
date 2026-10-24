@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3math-02",
+  "cards": [
+    {
+      "id": "f3math-02-f01",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "Non-zero digits",
+        "bm": "Digit bukan sifar"
+      },
+      "back": {
+        "en": "Always significant",
+        "bm": "Sentiasa bererti"
+      }
+    },
+    {
+      "id": "f3math-02-f02",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "Zeros between digits (5006)",
+        "bm": "Sifar di antara digit (5006)"
+      },
+      "back": {
+        "en": "Significant → 4 s.f.",
+        "bm": "Bererti → 4 a.b."
+      }
+    },
+    {
+      "id": "f3math-02-f03",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "Leading zeros (0.003)",
+        "bm": "Sifar di hadapan (0.003)"
+      },
+      "back": {
+        "en": "Not significant → 1 s.f.",
+        "bm": "Tidak bererti → 1 a.b."
+      }
+    },
+    {
+      "id": "f3math-02-f04",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "Trailing zeros after the decimal point (2.50)",
+        "bm": "Sifar di belakang selepas titik (2.50)"
+      },
+      "back": {
+        "en": "Significant → 3 s.f.",
+        "bm": "Bererti → 3 a.b."
+      }
+    },
+    {
+      "id": "f3math-02-f05",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "Rounding rule",
+        "bm": "Peraturan pembundaran"
+      },
+      "back": {
+        "en": "Next digit ≥ 5 → round up; < 5 → keep",
+        "bm": "Digit seterusnya ≥ 5 → bundar ke atas; < 5 → kekal"
+      }
+    },
+    {
+      "id": "f3math-02-f06",
+      "subtopicId": "f3math-02-01",
+      "front": {
+        "en": "3.14159 to 3 s.f.",
+        "bm": "3.14159 kepada 3 a.b."
+      },
+      "back": {
+        "en": "3.14",
+        "bm": "3.14"
+      }
+    },
+    {
+      "id": "f3math-02-f07",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Standard form",
+        "bm": "Bentuk piawai"
+      },
+      "back": {
+        "en": "A × 10ⁿ, 1 ≤ A < 10, n integer",
+        "bm": "A × 10ⁿ, 1 ≤ A < 10, n integer"
+      }
+    },
+    {
+      "id": "f3math-02-f08",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Large number",
+        "bm": "Nombor besar"
+      },
+      "back": {
+        "en": "Positive index: 52 000 = 5.2 × 10⁴",
+        "bm": "Indeks positif: 52 000 = 5.2 × 10⁴"
+      }
+    },
+    {
+      "id": "f3math-02-f09",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Small number",
+        "bm": "Nombor kecil"
+      },
+      "back": {
+        "en": "Negative index: 0.006 = 6 × 10⁻³",
+        "bm": "Indeks negatif: 0.006 = 6 × 10⁻³"
+      }
+    },
+    {
+      "id": "f3math-02-f10",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Multiplying in standard form",
+        "bm": "Darab dalam bentuk piawai"
+      },
+      "back": {
+        "en": "Multiply A values, add indices",
+        "bm": "Darab nilai A, tambah indeks"
+      }
+    },
+    {
+      "id": "f3math-02-f11",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Dividing in standard form",
+        "bm": "Bahagi dalam bentuk piawai"
+      },
+      "back": {
+        "en": "Divide A values, subtract indices",
+        "bm": "Bahagi nilai A, tolak indeks"
+      }
+    },
+    {
+      "id": "f3math-02-f12",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "Adding in standard form",
+        "bm": "Tambah dalam bentuk piawai"
+      },
+      "back": {
+        "en": "Make the indices equal first (or convert to ordinary numbers)",
+        "bm": "Samakan indeks dahulu (atau tukar kepada nombor tunggal)"
+      }
+    },
+    {
+      "id": "f3math-02-f13",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "20 × 10⁵ in standard form",
+        "bm": "20 × 10⁵ dalam bentuk piawai"
+      },
+      "back": {
+        "en": "2 × 10⁶",
+        "bm": "2 × 10⁶"
+      }
+    },
+    {
+      "id": "f3math-02-f14",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "1 km in cm",
+        "bm": "1 km dalam cm"
+      },
+      "back": {
+        "en": "1 × 10⁵ cm",
+        "bm": "1 × 10⁵ cm"
+      }
+    },
+    {
+      "id": "f3math-02-f15",
+      "subtopicId": "f3math-02-02",
+      "front": {
+        "en": "1 mm in m",
+        "bm": "1 mm dalam m"
+      },
+      "back": {
+        "en": "1 × 10⁻³ m",
+        "bm": "1 × 10⁻³ m"
+      }
+    }
+  ]
+}

@@ -48,6 +48,11 @@ export default function PlannerSetup() {
         <span className="label">{t('setup.language')}</span>
         <Segmented value={draft.lang} onChange={setLang} options={[{ value: 'en', label: 'English (DLP)' }, { value: 'bm', label: 'Bahasa Melayu' }]} />
       </div>
+      <div className="text-left">
+        <span className="label">{t('form.label')}</span>
+        <Segmented value={String(draft.form ?? 4)} onChange={(v) => setDraft({ ...draft, form: v === '3' ? 3 : 4 })}
+          options={[{ value: '3', label: t('form.3') }, { value: '4', label: t('form.4') }]} />
+      </div>
     </div>,
     <div key="1"><h2 className="mb-1 text-xl font-bold">📅 {t('setup.dates')}</h2><p className="mb-4 text-sm muted">{t('setup.dateHint')}</p><DatesSection draft={draft} set={setDraft} /></div>,
     <div key="2"><h2 className="mb-4 text-xl font-bold">⏱️ {t('setup.time')}</h2><TimeSection draft={draft} set={setDraft} /></div>,

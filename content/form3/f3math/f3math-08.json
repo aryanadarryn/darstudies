@@ -1,0 +1,845 @@
+{
+  "chapterId": "f3math-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A goat is tied to a pole with a 3 m rope. Which grass can it reach? The answer is a locus — every point that obeys one rule.",
+      "bm": "Seekor kambing ditambat pada tiang dengan tali 3 m. Rumput manakah yang dapat dicapainya? Jawapannya ialah lokus — semua titik yang mematuhi satu syarat."
+    },
+    "bigIdeas": [
+      {
+        "en": "A locus is the path or set of all points that satisfy a given condition.",
+        "bm": "Lokus ialah lintasan atau set semua titik yang memenuhi syarat tertentu."
+      },
+      {
+        "en": "Four basic 2-D loci: circle, perpendicular bisector, parallel lines and angle bisector.",
+        "bm": "Empat lokus asas 2-D: bulatan, pembahagi dua sama serenjang, garis selari dan pembahagi dua sudut."
+      },
+      {
+        "en": "Where two loci meet, the points satisfy both conditions.",
+        "bm": "Di persilangan dua lokus, titik-titiknya memenuhi kedua-dua syarat."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Condition",
+            "bm": "Syarat"
+          },
+          {
+            "en": "Locus",
+            "bm": "Lokus"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "1",
+              "bm": "1"
+            },
+            "cells": [
+              {
+                "en": "Constant distance from a fixed point",
+                "bm": "Jarak tetap dari satu titik tetap"
+              },
+              {
+                "en": "Circle",
+                "bm": "Bulatan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "2",
+              "bm": "2"
+            },
+            "cells": [
+              {
+                "en": "Equidistant from two fixed points",
+                "bm": "Sama jarak dari dua titik tetap"
+              },
+              {
+                "en": "Perpendicular bisector of the line joining them",
+                "bm": "Pembahagi dua sama serenjang garis yang menyambungkannya"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "3",
+              "bm": "3"
+            },
+            "cells": [
+              {
+                "en": "Constant distance from a straight line",
+                "bm": "Jarak tetap dari satu garis lurus"
+              },
+              {
+                "en": "Pair of parallel lines",
+                "bm": "Sepasang garis selari"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "4",
+              "bm": "4"
+            },
+            "cells": [
+              {
+                "en": "Equidistant from two intersecting lines",
+                "bm": "Sama jarak dari dua garis bersilang"
+              },
+              {
+                "en": "Bisectors of the angles between them",
+                "bm": "Pembahagi dua sudut antaranya"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Locus",
+          "bm": "Lokus"
+        },
+        "definition": {
+          "en": "The set of all points satisfying a condition.",
+          "bm": "Set semua titik yang memenuhi sesuatu syarat."
+        }
+      },
+      {
+        "term": {
+          "en": "Perpendicular bisector",
+          "bm": "Pembahagi dua sama serenjang"
+        },
+        "definition": {
+          "en": "Line that cuts a segment in half at 90°.",
+          "bm": "Garis yang membahagi dua sama suatu tembereng garis pada 90°."
+        }
+      },
+      {
+        "term": {
+          "en": "Angle bisector",
+          "bm": "Pembahagi dua sudut"
+        },
+        "definition": {
+          "en": "Line that divides an angle into two equal angles.",
+          "bm": "Garis yang membahagi sudut kepada dua sudut yang sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Equidistant",
+          "bm": "Sama jarak"
+        },
+        "definition": {
+          "en": "The same distance from two things.",
+          "bm": "Jarak yang sama dari dua benda."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "P moves so that it is always 3 cm from point O and equidistant from points A and B. How do you find P?",
+        "bm": "P bergerak supaya sentiasa 3 cm dari titik O dan sama jarak dari titik A dan B. Bagaimanakah P ditentukan?"
+      },
+      "steps": [
+        {
+          "en": "Locus 1: circle centre O, radius 3 cm.",
+          "bm": "Lokus 1: bulatan berpusat O, jejari 3 cm."
+        },
+        {
+          "en": "Locus 2: perpendicular bisector of AB.",
+          "bm": "Lokus 2: pembahagi dua sama serenjang AB."
+        },
+        {
+          "en": "P is where they intersect (0, 1 or 2 points).",
+          "bm": "P ialah titik persilangannya (0, 1 atau 2 titik)."
+        }
+      ],
+      "answer": {
+        "en": "Construct both loci; P is at their intersection points.",
+        "bm": "Bina kedua-dua lokus; P berada di titik persilangannya."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-08-q01",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The locus of points 4 cm from a fixed point O is…",
+        "bm": "Lokus titik yang berjarak 4 cm dari titik tetap O ialah…"
+      },
+      "explanation": {
+        "en": "Constant distance from a point → circle.",
+        "bm": "Jarak tetap dari satu titik → bulatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a circle with centre O and radius 4 cm",
+          "bm": "bulatan berpusat O dengan jejari 4 cm"
+        },
+        {
+          "en": "a straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "two parallel lines",
+          "bm": "dua garis selari"
+        },
+        {
+          "en": "a square",
+          "bm": "segi empat sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q02",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The locus of points equidistant from A and B is…",
+        "bm": "Lokus titik yang sama jarak dari A dan B ialah…"
+      },
+      "explanation": {
+        "en": "Every point on the perpendicular bisector is the same distance from A and B.",
+        "bm": "Setiap titik pada pembahagi dua sama serenjang berjarak sama dari A dan B."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the perpendicular bisector of AB",
+          "bm": "pembahagi dua sama serenjang AB"
+        },
+        {
+          "en": "a circle through A and B",
+          "bm": "bulatan melalui A dan B"
+        },
+        {
+          "en": "line AB itself",
+          "bm": "garis AB itu sendiri"
+        },
+        {
+          "en": "two parallel lines",
+          "bm": "dua garis selari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q03",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The locus of points 2 cm from a straight line is…",
+        "bm": "Lokus titik yang berjarak 2 cm dari satu garis lurus ialah…"
+      },
+      "explanation": {
+        "en": "Points can be on either side of the line.",
+        "bm": "Titik boleh berada di kedua-dua sisi garis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a pair of lines parallel to it, 2 cm on each side",
+          "bm": "sepasang garis selari dengannya, 2 cm di setiap sisi"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "one line only",
+          "bm": "satu garis sahaja"
+        },
+        {
+          "en": "a point",
+          "bm": "satu titik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q04",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The locus of points equidistant from two intersecting lines is…",
+        "bm": "Lokus titik yang sama jarak dari dua garis bersilang ialah…"
+      },
+      "explanation": {
+        "en": "Each angle bisector is equidistant from both lines.",
+        "bm": "Setiap pembahagi dua sudut sama jarak dari kedua-dua garis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the bisectors of the angles between the lines",
+          "bm": "pembahagi dua sudut antara garis-garis itu"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a single parallel line",
+          "bm": "satu garis selari"
+        },
+        {
+          "en": "the perpendicular bisector",
+          "bm": "pembahagi dua sama serenjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q05",
+      "subtopicId": "f3math-08-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A locus is the set of all ______ that satisfy a given condition.",
+        "bm": "Lokus ialah set semua ______ yang memenuhi syarat tertentu."
+      },
+      "explanation": {
+        "en": "A locus can be a line, a curve or a region made of points.",
+        "bm": "Lokus boleh berbentuk garis, lengkung atau rantau yang terdiri daripada titik."
+      },
+      "difficulty": 1,
+      "answer": [
+        "points",
+        "titik"
+      ]
+    },
+    {
+      "id": "f3math-08-q06",
+      "subtopicId": "f3math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A goat tied to a pole with a 3 m rope can graze…",
+        "bm": "Seekor kambing yang ditambat pada tiang dengan tali 3 m boleh meragut…"
+      },
+      "explanation": {
+        "en": "At most 3 m from the pole → the disc of radius 3 m.",
+        "bm": "Paling jauh 3 m dari tiang → cakera berjejari 3 m."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "inside and on a circle of radius 3 m",
+          "bm": "di dalam dan pada bulatan berjejari 3 m"
+        },
+        {
+          "en": "along a straight line only",
+          "bm": "di sepanjang garis lurus sahaja"
+        },
+        {
+          "en": "outside a circle of radius 3 m",
+          "bm": "di luar bulatan berjejari 3 m"
+        },
+        {
+          "en": "on a square",
+          "bm": "pada segi empat sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q07",
+      "subtopicId": "f3math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A point moves so that it is always 5 cm from a fixed point in SPACE (3-D). Its locus is…",
+        "bm": "Satu titik bergerak supaya sentiasa 5 cm dari titik tetap dalam RUANG (3-D). Lokusnya ialah…"
+      },
+      "explanation": {
+        "en": "In three dimensions, constant distance from a point gives a sphere.",
+        "bm": "Dalam tiga dimensi, jarak tetap dari satu titik membentuk sfera."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a sphere",
+          "bm": "sfera"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a cylinder",
+          "bm": "silinder"
+        },
+        {
+          "en": "a cube",
+          "bm": "kubus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q08",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The locus of points equidistant from two PARALLEL lines is…",
+        "bm": "Lokus titik yang sama jarak dari dua garis SELARI ialah…"
+      },
+      "explanation": {
+        "en": "Halfway between the two lines, all along.",
+        "bm": "Di tengah-tengah antara dua garis itu, sepanjang masa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a line parallel to both, midway between them",
+          "bm": "garis selari dengan kedua-duanya, di tengah-tengah"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a perpendicular line",
+          "bm": "garis berserenjang"
+        },
+        {
+          "en": "two lines",
+          "bm": "dua garis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q09",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many points are 3 cm from O AND on a line that passes through O?",
+        "bm": "Berapakah titik yang berjarak 3 cm dari O DAN berada pada garis yang melalui O?"
+      },
+      "explanation": {
+        "en": "A line through the centre cuts the circle at two points.",
+        "bm": "Garis yang melalui pusat memotong bulatan pada dua titik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q10",
+      "subtopicId": "f3math-08-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each condition with its locus.",
+        "bm": "Padankan syarat dengan lokusnya."
+      },
+      "explanation": {
+        "en": "These are the four basic loci in two dimensions.",
+        "bm": "Inilah empat lokus asas dalam dua dimensi."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Fixed distance from a point",
+            "bm": "Jarak tetap dari satu titik"
+          },
+          "right": {
+            "en": "Circle",
+            "bm": "Bulatan"
+          }
+        },
+        {
+          "left": {
+            "en": "Equidistant from two points",
+            "bm": "Sama jarak dari dua titik"
+          },
+          "right": {
+            "en": "Perpendicular bisector",
+            "bm": "Pembahagi dua sama serenjang"
+          }
+        },
+        {
+          "left": {
+            "en": "Fixed distance from a line",
+            "bm": "Jarak tetap dari satu garis"
+          },
+          "right": {
+            "en": "Two parallel lines",
+            "bm": "Dua garis selari"
+          }
+        },
+        {
+          "left": {
+            "en": "Equidistant from two intersecting lines",
+            "bm": "Sama jarak dari dua garis bersilang"
+          },
+          "right": {
+            "en": "Angle bisectors",
+            "bm": "Pembahagi dua sudut"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-08-q11",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a square ABCD, the locus of points equidistant from A and C is…",
+        "bm": "Dalam segi empat sama ABCD, lokus titik yang sama jarak dari A dan C ialah…"
+      },
+      "explanation": {
+        "en": "The diagonals of a square are perpendicular bisectors of each other, so BD bisects AC at 90°.",
+        "bm": "Pepenjuru segi empat sama ialah pembahagi dua sama serenjang antara satu sama lain, jadi BD membahagi dua AC pada 90°."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the diagonal BD",
+          "bm": "pepenjuru BD"
+        },
+        {
+          "en": "the diagonal AC",
+          "bm": "pepenjuru AC"
+        },
+        {
+          "en": "side AB",
+          "bm": "sisi AB"
+        },
+        {
+          "en": "a circle centre A",
+          "bm": "bulatan berpusat A"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q12",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a square ABCD, the locus of points equidistant from sides AB and AD is…",
+        "bm": "Dalam segi empat sama ABCD, lokus titik yang sama jarak dari sisi AB dan AD ialah…"
+      },
+      "explanation": {
+        "en": "AB and AD meet at A; the bisector of angle DAB is the diagonal AC.",
+        "bm": "AB dan AD bertemu di A; pembahagi dua sudut DAB ialah pepenjuru AC."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the diagonal AC",
+          "bm": "pepenjuru AC"
+        },
+        {
+          "en": "the diagonal BD",
+          "bm": "pepenjuru BD"
+        },
+        {
+          "en": "side CD",
+          "bm": "sisi CD"
+        },
+        {
+          "en": "a circle centre C",
+          "bm": "bulatan berpusat C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q13",
+      "subtopicId": "f3math-08-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to construct the perpendicular bisector of AB with compasses.",
+        "bm": "Susun langkah membina pembahagi dua sama serenjang AB dengan jangka lukis."
+      },
+      "explanation": {
+        "en": "The same radius from both ends guarantees equal distances.",
+        "bm": "Jejari yang sama dari kedua-dua hujung menjamin jarak yang sama."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Open the compasses to more than half of AB",
+          "bm": "Buka jangka lukis lebih daripada separuh AB"
+        },
+        {
+          "en": "Draw arcs above and below AB from A",
+          "bm": "Lukis lengkok di atas dan bawah AB dari A"
+        },
+        {
+          "en": "Repeat from B with the same radius",
+          "bm": "Ulang dari B dengan jejari yang sama"
+        },
+        {
+          "en": "Join the two intersection points",
+          "bm": "Sambungkan dua titik persilangan"
+        }
+      ]
+    },
+    {
+      "id": "f3math-08-q14",
+      "subtopicId": "f3math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The tip of a clock's minute hand traces which locus?",
+        "bm": "Hujung jarum minit jam melukis lokus apa?"
+      },
+      "explanation": {
+        "en": "The tip stays a fixed distance from the centre.",
+        "bm": "Hujungnya kekal pada jarak tetap dari pusat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "A circle",
+          "bm": "Bulatan"
+        },
+        {
+          "en": "A straight line",
+          "bm": "Garis lurus"
+        },
+        {
+          "en": "A parabola",
+          "bm": "Parabola"
+        },
+        {
+          "en": "Two parallel lines",
+          "bm": "Dua garis selari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q15",
+      "subtopicId": "f3math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A wheel rolls along flat ground. The locus of its CENTRE is…",
+        "bm": "Sebuah roda bergolek di atas tanah rata. Lokus PUSATnya ialah…"
+      },
+      "explanation": {
+        "en": "The centre stays at a constant height (the radius) above the ground.",
+        "bm": "Pusat kekal pada ketinggian tetap (jejari) di atas tanah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a straight line parallel to the ground",
+          "bm": "garis lurus selari dengan tanah"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a wavy curve",
+          "bm": "lengkung beralun"
+        },
+        {
+          "en": "a single point",
+          "bm": "satu titik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q16",
+      "subtopicId": "f3math-08-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL loci that are straight lines.",
+        "bm": "Pilih SEMUA lokus yang berbentuk garis lurus."
+      },
+      "explanation": {
+        "en": "A fixed distance from a point is a circle.",
+        "bm": "Jarak tetap dari satu titik ialah bulatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Equidistant from two points",
+          "bm": "Sama jarak dari dua titik"
+        },
+        {
+          "en": "Equidistant from two parallel lines",
+          "bm": "Sama jarak dari dua garis selari"
+        },
+        {
+          "en": "Fixed distance from a straight line",
+          "bm": "Jarak tetap dari satu garis lurus"
+        },
+        {
+          "en": "Fixed distance from a point",
+          "bm": "Jarak tetap dari satu titik"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3math-08-q17",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A and B are 6 cm apart. How many points are 4 cm from A AND equidistant from A and B?",
+        "bm": "A dan B berjarak 6 cm. Berapakah titik yang berjarak 4 cm dari A DAN sama jarak dari A dan B?"
+      },
+      "explanation": {
+        "en": "The perpendicular bisector is 3 cm from A; a circle of radius 4 cm (> 3 cm) cuts it at 2 points.",
+        "bm": "Pembahagi dua sama serenjang berjarak 3 cm dari A; bulatan berjejari 4 cm (> 3 cm) memotongnya pada 2 titik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q18",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A and B are 6 cm apart. How many points are 2 cm from A AND equidistant from A and B?",
+        "bm": "A dan B berjarak 6 cm. Berapakah titik yang berjarak 2 cm dari A DAN sama jarak dari A dan B?"
+      },
+      "explanation": {
+        "en": "The bisector is 3 cm from A; a 2 cm circle never reaches it.",
+        "bm": "Pembahagi dua berjarak 3 cm dari A; bulatan 2 cm tidak sampai kepadanya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q19",
+      "subtopicId": "f3math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A lamp must be equidistant from three houses A, B and C (not in a line). Where should it go?",
+        "bm": "Sebuah lampu mesti sama jarak dari tiga rumah A, B dan C (tidak segaris). Di manakah ia patut diletakkan?"
+      },
+      "explanation": {
+        "en": "That point is equidistant from all three (the centre of the circle through A, B and C).",
+        "bm": "Titik itu sama jarak dari ketiga-tiganya (pusat bulatan yang melalui A, B dan C)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Where the perpendicular bisectors of AB and BC meet",
+          "bm": "Di persilangan pembahagi dua sama serenjang AB dan BC"
+        },
+        {
+          "en": "At the midpoint of AB",
+          "bm": "Di titik tengah AB"
+        },
+        {
+          "en": "On the angle bisector of ∠ABC only",
+          "bm": "Pada pembahagi dua sudut ∠ABC sahaja"
+        },
+        {
+          "en": "At house B",
+          "bm": "Di rumah B"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-08-q20",
+      "subtopicId": "f3math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A dog is tied at corner A of a 10 m × 6 m shed (outside) with a 4 m rope. Which describes the area it can reach?",
+        "bm": "Seekor anjing ditambat di penjuru A sebuah bangsal 10 m × 6 m (di luar) dengan tali 4 m. Manakah menerangkan kawasan yang boleh dicapainya?"
+      },
+      "explanation": {
+        "en": "The shed blocks the 90° corner, leaving 270° = ¾ of the circle (the rope is shorter than both walls, so it cannot go round them).",
+        "bm": "Bangsal menghalang sudut 90°, meninggalkan 270° = ¾ bulatan (tali lebih pendek daripada kedua-dua dinding, jadi tidak dapat mengelilinginya)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Three-quarters of a circle of radius 4 m, outside the shed",
+          "bm": "Tiga suku bulatan berjejari 4 m, di luar bangsal"
+        },
+        {
+          "en": "A full circle of radius 4 m",
+          "bm": "Bulatan penuh berjejari 4 m"
+        },
+        {
+          "en": "A quarter circle only",
+          "bm": "Suku bulatan sahaja"
+        },
+        {
+          "en": "The whole shed",
+          "bm": "Seluruh bangsal"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

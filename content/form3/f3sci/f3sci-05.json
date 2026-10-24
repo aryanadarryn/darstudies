@@ -1,0 +1,814 @@
+{
+  "chapterId": "f3sci-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Squeeze an instant cold pack and it turns icy; snap a hand warmer and it gets hot. Both are chemical reactions — one takes in heat, the other gives it out.",
+      "bm": "Picit pek sejuk segera dan ia menjadi dingin; patahkan pemanas tangan dan ia menjadi panas. Kedua-duanya tindak balas kimia — satu menyerap haba, satu lagi membebaskannya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Exothermic reactions release heat to the surroundings, so the temperature rises.",
+        "bm": "Tindak balas eksotermik membebaskan haba ke persekitaran, jadi suhu meningkat."
+      },
+      {
+        "en": "Endothermic reactions absorb heat from the surroundings, so the temperature falls.",
+        "bm": "Tindak balas endotermik menyerap haba dari persekitaran, jadi suhu menurun."
+      },
+      {
+        "en": "We use both in daily life: fuels and hot packs (exothermic), cold packs and photosynthesis (endothermic).",
+        "bm": "Kita menggunakan kedua-duanya dalam kehidupan: bahan api dan pek panas (eksotermik), pek sejuk dan fotosintesis (endotermik)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Exothermic",
+            "bm": "Eksotermik"
+          },
+          {
+            "en": "Endothermic",
+            "bm": "Endotermik"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Heat",
+              "bm": "Haba"
+            },
+            "cells": [
+              {
+                "en": "Released",
+                "bm": "Dibebaskan"
+              },
+              {
+                "en": "Absorbed",
+                "bm": "Diserap"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Surroundings",
+              "bm": "Persekitaran"
+            },
+            "cells": [
+              {
+                "en": "Get hotter",
+                "bm": "Menjadi lebih panas"
+              },
+              {
+                "en": "Get colder",
+                "bm": "Menjadi lebih sejuk"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Examples",
+              "bm": "Contoh"
+            },
+            "cells": [
+              {
+                "en": "Burning fuel, respiration, neutralisation, rusting, dissolving sodium hydroxide",
+                "bm": "Pembakaran bahan api, respirasi, peneutralan, pengaratan, melarutkan natrium hidroksida"
+              },
+              {
+                "en": "Photosynthesis, dissolving ammonium chloride/nitrate, heating calcium carbonate",
+                "bm": "Fotosintesis, melarutkan ammonium klorida/nitrat, memanaskan kalsium karbonat"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Thermochemistry",
+          "bm": "Termokimia"
+        },
+        "definition": {
+          "en": "Study of heat changes in chemical reactions.",
+          "bm": "Kajian perubahan haba dalam tindak balas kimia."
+        }
+      },
+      {
+        "term": {
+          "en": "Exothermic reaction",
+          "bm": "Tindak balas eksotermik"
+        },
+        "definition": {
+          "en": "A reaction that releases heat to the surroundings.",
+          "bm": "Tindak balas yang membebaskan haba ke persekitaran."
+        }
+      },
+      {
+        "term": {
+          "en": "Endothermic reaction",
+          "bm": "Tindak balas endotermik"
+        },
+        "definition": {
+          "en": "A reaction that absorbs heat from the surroundings.",
+          "bm": "Tindak balas yang menyerap haba dari persekitaran."
+        }
+      },
+      {
+        "term": {
+          "en": "Neutralisation",
+          "bm": "Peneutralan"
+        },
+        "definition": {
+          "en": "Reaction of an acid with an alkali — exothermic.",
+          "bm": "Tindak balas asid dengan alkali — eksotermik."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A student dissolves a salt in water. The temperature drops from 28 °C to 21 °C. Classify the process.",
+        "bm": "Seorang murid melarutkan sejenis garam dalam air. Suhu turun dari 28 °C ke 21 °C. Kelaskan proses itu."
+      },
+      "steps": [
+        {
+          "en": "The surroundings (water) got colder.",
+          "bm": "Persekitaran (air) menjadi lebih sejuk."
+        },
+        {
+          "en": "Heat was absorbed from the surroundings.",
+          "bm": "Haba diserap dari persekitaran."
+        }
+      ],
+      "answer": {
+        "en": "Endothermic (temperature fell by 7 °C).",
+        "bm": "Endotermik (suhu turun sebanyak 7 °C)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-05-q01",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An exothermic reaction…",
+        "bm": "Tindak balas eksotermik…"
+      },
+      "explanation": {
+        "en": "\"Exo\" means out.",
+        "bm": "\"Ekso\" bermaksud keluar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "releases heat to the surroundings",
+          "bm": "membebaskan haba ke persekitaran"
+        },
+        {
+          "en": "absorbs heat from the surroundings",
+          "bm": "menyerap haba dari persekitaran"
+        },
+        {
+          "en": "never changes temperature",
+          "bm": "tidak pernah mengubah suhu"
+        },
+        {
+          "en": "only happens in plants",
+          "bm": "hanya berlaku dalam tumbuhan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q02",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "During an endothermic reaction, the temperature of the surroundings…",
+        "bm": "Semasa tindak balas endotermik, suhu persekitaran…"
+      },
+      "explanation": {
+        "en": "Heat is taken in from the surroundings.",
+        "bm": "Haba diserap dari persekitaran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "falls",
+          "bm": "menurun"
+        },
+        {
+          "en": "rises",
+          "bm": "meningkat"
+        },
+        {
+          "en": "stays the same",
+          "bm": "kekal sama"
+        },
+        {
+          "en": "doubles",
+          "bm": "menjadi dua kali ganda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q03",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Burning petrol is…",
+        "bm": "Pembakaran petrol ialah…"
+      },
+      "explanation": {
+        "en": "Combustion releases heat.",
+        "bm": "Pembakaran membebaskan haba."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "exothermic",
+          "bm": "eksotermik"
+        },
+        {
+          "en": "endothermic",
+          "bm": "endotermik"
+        },
+        {
+          "en": "neither",
+          "bm": "kedua-duanya bukan"
+        },
+        {
+          "en": "both",
+          "bm": "kedua-duanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q04",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Photosynthesis is…",
+        "bm": "Fotosintesis ialah…"
+      },
+      "explanation": {
+        "en": "It absorbs light energy.",
+        "bm": "Ia menyerap tenaga cahaya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "endothermic",
+          "bm": "endotermik"
+        },
+        {
+          "en": "exothermic",
+          "bm": "eksotermik"
+        },
+        {
+          "en": "a type of combustion",
+          "bm": "sejenis pembakaran"
+        },
+        {
+          "en": "a neutralisation",
+          "bm": "peneutralan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q05",
+      "subtopicId": "f3sci-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The reaction between an acid and an alkali is called ______.",
+        "bm": "Tindak balas antara asid dan alkali dipanggil ______."
+      },
+      "explanation": {
+        "en": "Neutralisation is exothermic.",
+        "bm": "Peneutralan adalah eksotermik."
+      },
+      "difficulty": 1,
+      "answer": [
+        "neutralisation",
+        "neutralization",
+        "peneutralan"
+      ]
+    },
+    {
+      "id": "f3sci-05-q06",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Cellular respiration in our cells is…",
+        "bm": "Respirasi sel dalam badan kita ialah…"
+      },
+      "explanation": {
+        "en": "It releases energy, keeping our body warm.",
+        "bm": "Ia membebaskan tenaga, memanaskan badan kita."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "exothermic",
+          "bm": "eksotermik"
+        },
+        {
+          "en": "endothermic",
+          "bm": "endotermik"
+        },
+        {
+          "en": "not a chemical reaction",
+          "bm": "bukan tindak balas kimia"
+        },
+        {
+          "en": "photosynthesis",
+          "bm": "fotosintesis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q07",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dissolving ammonium chloride in water makes the beaker feel…",
+        "bm": "Melarutkan ammonium klorida dalam air menjadikan bikar terasa…"
+      },
+      "explanation": {
+        "en": "This process is endothermic.",
+        "bm": "Proses ini endotermik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cold",
+          "bm": "sejuk"
+        },
+        {
+          "en": "hot",
+          "bm": "panas"
+        },
+        {
+          "en": "no different",
+          "bm": "tiada perbezaan"
+        },
+        {
+          "en": "sticky",
+          "bm": "melekit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q08",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which instrument is used to measure the temperature change in these experiments?",
+        "bm": "Alat manakah digunakan untuk mengukur perubahan suhu dalam eksperimen ini?"
+      },
+      "explanation": {
+        "en": "Record the initial and highest/lowest temperature.",
+        "bm": "Catat suhu awal dan suhu tertinggi/terendah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Thermometer",
+          "bm": "Termometer"
+        },
+        {
+          "en": "Ammeter",
+          "bm": "Ammeter"
+        },
+        {
+          "en": "Barometer",
+          "bm": "Barometer"
+        },
+        {
+          "en": "Voltmeter",
+          "bm": "Voltmeter"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q09",
+      "subtopicId": "f3sci-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Classify each process.",
+        "bm": "Kelaskan setiap proses."
+      },
+      "explanation": {
+        "en": "Check whether the surroundings warm up or cool down.",
+        "bm": "Semak sama ada persekitaran menjadi panas atau sejuk."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Rusting of iron",
+            "bm": "Pengaratan besi"
+          },
+          "right": {
+            "en": "Exothermic",
+            "bm": "Eksotermik"
+          }
+        },
+        {
+          "left": {
+            "en": "Heating calcium carbonate to break it down",
+            "bm": "Memanaskan kalsium karbonat untuk menguraikannya"
+          },
+          "right": {
+            "en": "Endothermic",
+            "bm": "Endotermik"
+          }
+        },
+        {
+          "left": {
+            "en": "Dissolving sodium hydroxide in water",
+            "bm": "Melarutkan natrium hidroksida dalam air"
+          },
+          "right": {
+            "en": "Exothermic (gets hot)",
+            "bm": "Eksotermik (menjadi panas)"
+          }
+        },
+        {
+          "left": {
+            "en": "Dissolving ammonium nitrate in water",
+            "bm": "Melarutkan ammonium nitrat dalam air"
+          },
+          "right": {
+            "en": "Endothermic (gets cold)",
+            "bm": "Endotermik (menjadi sejuk)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-05-q10",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An instant cold pack works because…",
+        "bm": "Pek sejuk segera berfungsi kerana…"
+      },
+      "explanation": {
+        "en": "Many cold packs use ammonium nitrate dissolving in water.",
+        "bm": "Banyak pek sejuk menggunakan ammonium nitrat yang melarut dalam air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a substance inside dissolves endothermically",
+          "bm": "bahan di dalamnya melarut secara endotermik"
+        },
+        {
+          "en": "it contains ice from a factory",
+          "bm": "ia mengandungi ais dari kilang"
+        },
+        {
+          "en": "it burns slowly",
+          "bm": "ia terbakar perlahan-lahan"
+        },
+        {
+          "en": "it releases heat",
+          "bm": "ia membebaskan haba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q11",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A reaction starts at 27 °C and rises to 35 °C. The change in temperature and type of reaction are…",
+        "bm": "Satu tindak balas bermula pada 27 °C dan naik ke 35 °C. Perubahan suhu dan jenis tindak balas ialah…"
+      },
+      "explanation": {
+        "en": "35 − 27 = 8 °C rise → heat released.",
+        "bm": "35 − 27 = 8 °C naik → haba dibebaskan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "+8 °C, exothermic",
+          "bm": "+8 °C, eksotermik"
+        },
+        {
+          "en": "−8 °C, endothermic",
+          "bm": "−8 °C, endotermik"
+        },
+        {
+          "en": "+8 °C, endothermic",
+          "bm": "+8 °C, endotermik"
+        },
+        {
+          "en": "+62 °C, exothermic",
+          "bm": "+62 °C, eksotermik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q12",
+      "subtopicId": "f3sci-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL exothermic processes.",
+        "bm": "Pilih SEMUA proses eksotermik."
+      },
+      "explanation": {
+        "en": "Photosynthesis absorbs light energy.",
+        "bm": "Fotosintesis menyerap tenaga cahaya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Burning charcoal",
+          "bm": "Membakar arang"
+        },
+        {
+          "en": "Neutralisation",
+          "bm": "Peneutralan"
+        },
+        {
+          "en": "Respiration",
+          "bm": "Respirasi"
+        },
+        {
+          "en": "Photosynthesis",
+          "bm": "Fotosintesis"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-05-q13",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a polystyrene cup often used for these experiments?",
+        "bm": "Mengapakah cawan polistirena sering digunakan dalam eksperimen ini?"
+      },
+      "explanation": {
+        "en": "This makes the temperature reading more accurate.",
+        "bm": "Ini menjadikan bacaan suhu lebih tepat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is a good heat insulator, so less heat is lost or gained",
+          "bm": "Ia penebat haba yang baik, jadi kurang haba hilang atau diterima"
+        },
+        {
+          "en": "It conducts heat well",
+          "bm": "Ia mengalirkan haba dengan baik"
+        },
+        {
+          "en": "It reacts with the chemicals",
+          "bm": "Ia bertindak balas dengan bahan kimia"
+        },
+        {
+          "en": "It is heavy",
+          "bm": "Ia berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q14",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Melting ice absorbs heat. Classify this process.",
+        "bm": "Ais melebur menyerap haba. Kelaskan proses ini."
+      },
+      "explanation": {
+        "en": "It is a physical change that absorbs heat.",
+        "bm": "Ia perubahan fizikal yang menyerap haba."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Endothermic process",
+          "bm": "Proses endotermik"
+        },
+        {
+          "en": "Exothermic process",
+          "bm": "Proses eksotermik"
+        },
+        {
+          "en": "Neutralisation",
+          "bm": "Peneutralan"
+        },
+        {
+          "en": "Combustion",
+          "bm": "Pembakaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q15",
+      "subtopicId": "f3sci-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "In an exothermic reaction, the thermometer reading ______. (rises / falls)",
+        "bm": "Dalam tindak balas eksotermik, bacaan termometer ______. (naik / turun)"
+      },
+      "explanation": {
+        "en": "Heat is given out to the solution and container.",
+        "bm": "Haba dibebaskan ke larutan dan bekas."
+      },
+      "difficulty": 2,
+      "answer": [
+        "rises",
+        "increases",
+        "naik",
+        "meningkat"
+      ]
+    },
+    {
+      "id": "f3sci-05-q16",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Self-heating food cans use…",
+        "bm": "Tin makanan yang memanaskan sendiri menggunakan…"
+      },
+      "explanation": {
+        "en": "A reaction in a separate compartment releases heat to warm the food.",
+        "bm": "Tindak balas dalam ruang berasingan membebaskan haba untuk memanaskan makanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "an exothermic reaction",
+          "bm": "tindak balas eksotermik"
+        },
+        {
+          "en": "an endothermic reaction",
+          "bm": "tindak balas endotermik"
+        },
+        {
+          "en": "photosynthesis",
+          "bm": "fotosintesis"
+        },
+        {
+          "en": "melting ice",
+          "bm": "ais melebur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q17",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two students do the same exothermic experiment. One uses a glass beaker, the other a polystyrene cup. Who will record the HIGHER temperature rise, and why?",
+        "bm": "Dua murid menjalankan eksperimen eksotermik yang sama. Seorang menggunakan bikar kaca, seorang lagi cawan polistirena. Siapakah yang mencatat kenaikan suhu LEBIH TINGGI, dan mengapa?"
+      },
+      "explanation": {
+        "en": "Glass conducts heat away, so some heat is lost.",
+        "bm": "Kaca mengalirkan haba keluar, jadi sebahagian haba hilang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The polystyrene cup — less heat escapes to the surroundings",
+          "bm": "Cawan polistirena — kurang haba terbebas ke persekitaran"
+        },
+        {
+          "en": "The glass beaker — glass makes heat",
+          "bm": "Bikar kaca — kaca menghasilkan haba"
+        },
+        {
+          "en": "Both the same always",
+          "bm": "Sentiasa sama"
+        },
+        {
+          "en": "The glass beaker — it insulates better",
+          "bm": "Bikar kaca — ia menebat lebih baik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q18",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A first-aid kit for sports injuries should contain which pack, and why?",
+        "bm": "Kit pertolongan cemas untuk kecederaan sukan patut mengandungi pek apa, dan mengapa?"
+      },
+      "explanation": {
+        "en": "Cold reduces swelling soon after an injury.",
+        "bm": "Sejuk mengurangkan bengkak sejurus selepas kecederaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A cold pack (endothermic) to reduce swelling",
+          "bm": "Pek sejuk (endotermik) untuk mengurangkan bengkak"
+        },
+        {
+          "en": "A hot pack (exothermic) for new swelling",
+          "bm": "Pek panas (eksotermik) untuk bengkak baharu"
+        },
+        {
+          "en": "Burning charcoal",
+          "bm": "Arang terbakar"
+        },
+        {
+          "en": "A neutralisation pack to make acid",
+          "bm": "Pek peneutralan untuk menghasilkan asid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q19",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do our bodies feel warm after exercise?",
+        "bm": "Mengapakah badan terasa panas selepas bersenam?"
+      },
+      "explanation": {
+        "en": "Sweating then helps remove that heat.",
+        "bm": "Peluh kemudian membantu menyingkirkan haba itu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "More cellular respiration releases more heat (exothermic)",
+          "bm": "Lebih banyak respirasi sel membebaskan lebih banyak haba (eksotermik)"
+        },
+        {
+          "en": "Muscles absorb heat from the air",
+          "bm": "Otot menyerap haba dari udara"
+        },
+        {
+          "en": "Sweat makes heat",
+          "bm": "Peluh menghasilkan haba"
+        },
+        {
+          "en": "Exercise is endothermic",
+          "bm": "Senaman adalah endotermik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-05-q20",
+      "subtopicId": "f3sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement about heat changes is CORRECT?",
+        "bm": "Pernyataan manakah tentang perubahan haba yang BETUL?"
+      },
+      "explanation": {
+        "en": "The energy difference is released as heat.",
+        "bm": "Perbezaan tenaga dibebaskan sebagai haba."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "In an exothermic reaction the products have less energy than the reactants",
+          "bm": "Dalam tindak balas eksotermik, hasil mempunyai tenaga kurang daripada bahan tindak balas"
+        },
+        {
+          "en": "Endothermic reactions make the surroundings hotter",
+          "bm": "Tindak balas endotermik menjadikan persekitaran lebih panas"
+        },
+        {
+          "en": "All reactions are exothermic",
+          "bm": "Semua tindak balas eksotermik"
+        },
+        {
+          "en": "Heat is never involved in reactions",
+          "bm": "Haba tidak pernah terlibat dalam tindak balas"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

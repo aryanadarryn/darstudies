@@ -1,0 +1,46 @@
+{
+  "chapterId": "f3ask-03",
+  "reviewed": false,
+  "subtopics": {
+    "f3ask-03-01": {
+      "keyPoints": [
+        {
+          "en": "Binary place values: 16, 8, 4, 2, 1. 1011₂ = 11; 25 = 11001₂.",
+          "bm": "Nilai tempat perduaan: 16, 8, 4, 2, 1. 1011₂ = 11; 25 = 11001₂."
+        },
+        {
+          "en": "8 bits = 1 byte (0–255). byte < KB < MB < GB < TB.",
+          "bm": "8 bit = 1 bait (0–255). bait < KB < MB < GB < TB."
+        }
+      ]
+    },
+    "f3ask-03-02": {
+      "keyPoints": [
+        {
+          "en": "Lists: marks = [70, 85, 92]; marks[0] = 70; marks[-1] = 92; len(marks) = 3; marks.append(60).",
+          "bm": "Senarai: marks = [70, 85, 92]; marks[0] = 70; marks[-1] = 92; len(marks) = 3; marks.append(60)."
+        },
+        {
+          "en": "Strings can be indexed and sliced: \"Python\"[1:4] = \"yth\".",
+          "bm": "Rentetan boleh diindeks dan dihiris: \"Python\"[1:4] = \"yth\"."
+        }
+      ]
+    },
+    "f3ask-03-03": {
+      "keyPoints": [
+        {
+          "en": "Linear search: any list, checks one by one. Binary search: sorted list, halves each step.",
+          "bm": "Carian linear: mana-mana senarai, semak satu demi satu. Carian perduaan: senarai terisih, bahagi dua setiap langkah."
+        },
+        {
+          "en": "Bubble sort swaps neighbouring items; after each pass the largest item reaches the end.",
+          "bm": "Isihan buih menukar item bersebelahan; selepas setiap laluan item terbesar sampai ke hujung."
+        }
+      ],
+      "tip": {
+        "en": "Binary search on unsorted data gives wrong answers.",
+        "bm": "Carian perduaan pada data tidak terisih memberi jawapan salah."
+      }
+    }
+  }
+}

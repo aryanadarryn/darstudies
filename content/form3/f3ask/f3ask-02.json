@@ -1,0 +1,809 @@
+{
+  "chapterId": "f3ask-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Three lines of Python can ask your name and greet you. A few more lines can grade a whole class's marks in a second.",
+      "bm": "Tiga baris Python boleh bertanya nama anda dan memberi salam. Beberapa baris lagi boleh menggred markah seluruh kelas dalam sesaat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Variables store data; common types are int, float, str and bool.",
+        "bm": "Pemboleh ubah menyimpan data; jenis lazim ialah int, float, str dan bool."
+      },
+      {
+        "en": "input() always returns a string; use int() or float() to convert.",
+        "bm": "input() sentiasa memulangkan rentetan; gunakan int() atau float() untuk menukar."
+      },
+      {
+        "en": "Python uses indentation to group code inside if, for and while.",
+        "bm": "Python menggunakan inden untuk mengumpulkan kod dalam if, for dan while."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "+  −  *  /",
+              "bm": "+  −  *  /"
+            },
+            "cells": [
+              {
+                "en": "Add, subtract, multiply, divide",
+                "bm": "Tambah, tolak, darab, bahagi"
+              },
+              {
+                "en": "7 / 2 → 3.5",
+                "bm": "7 / 2 → 3.5"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "//",
+              "bm": "//"
+            },
+            "cells": [
+              {
+                "en": "Floor (whole-number) division",
+                "bm": "Bahagi integer"
+              },
+              {
+                "en": "17 // 5 → 3",
+                "bm": "17 // 5 → 3"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "%",
+              "bm": "%"
+            },
+            "cells": [
+              {
+                "en": "Remainder (modulus)",
+                "bm": "Baki (modulus)"
+              },
+              {
+                "en": "17 % 5 → 2",
+                "bm": "17 % 5 → 2"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "**",
+              "bm": "**"
+            },
+            "cells": [
+              {
+                "en": "Power",
+                "bm": "Kuasa"
+              },
+              {
+                "en": "2 ** 3 → 8",
+                "bm": "2 ** 3 → 8"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "==  !=",
+              "bm": "==  !="
+            },
+            "cells": [
+              {
+                "en": "Equal / not equal",
+                "bm": "Sama / tidak sama"
+              },
+              {
+                "en": "5 == 5 → True",
+                "bm": "5 == 5 → True"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Variable",
+          "bm": "Pemboleh ubah"
+        },
+        "definition": {
+          "en": "A named place to store a value: score = 10.",
+          "bm": "Tempat bernama untuk menyimpan nilai: score = 10."
+        }
+      },
+      {
+        "term": {
+          "en": "int / float",
+          "bm": "int / float"
+        },
+        "definition": {
+          "en": "Whole number / decimal number.",
+          "bm": "Nombor bulat / nombor perpuluhan."
+        }
+      },
+      {
+        "term": {
+          "en": "str",
+          "bm": "str"
+        },
+        "definition": {
+          "en": "Text (string) in quotes: \"Malaysia\".",
+          "bm": "Teks (rentetan) dalam tanda petik: \"Malaysia\"."
+        }
+      },
+      {
+        "term": {
+          "en": "bool",
+          "bm": "bool"
+        },
+        "definition": {
+          "en": "True or False.",
+          "bm": "True atau False."
+        }
+      },
+      {
+        "term": {
+          "en": "Indentation",
+          "bm": "Inden"
+        },
+        "definition": {
+          "en": "Spaces at the start of a line that show which block it belongs to.",
+          "bm": "Ruang di awal baris yang menunjukkan blok kod."
+        }
+      },
+      {
+        "term": {
+          "en": "Syntax error",
+          "bm": "Ralat sintaks"
+        },
+        "definition": {
+          "en": "Code that breaks the language rules, e.g. a missing colon.",
+          "bm": "Kod yang melanggar peraturan bahasa, cth. tertinggal titik bertindih."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "What is printed? for i in range(3): print(i * 2)",
+        "bm": "Apakah yang dicetak? for i in range(3): print(i * 2)"
+      },
+      "steps": [
+        {
+          "en": "range(3) gives 0, 1, 2.",
+          "bm": "range(3) memberi 0, 1, 2."
+        },
+        {
+          "en": "i * 2 gives 0, 2, 4.",
+          "bm": "i * 2 memberi 0, 2, 4."
+        }
+      ],
+      "answer": {
+        "en": "0, 2, 4 (each on a new line).",
+        "bm": "0, 2, 4 (setiap satu pada baris baharu)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3ask-02-q01",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which data type stores the value 3.14?",
+        "bm": "Jenis data manakah menyimpan nilai 3.14?"
+      },
+      "explanation": {
+        "en": "Decimal numbers are float.",
+        "bm": "Nombor perpuluhan ialah float."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "float",
+          "bm": "float"
+        },
+        {
+          "en": "int",
+          "bm": "int"
+        },
+        {
+          "en": "str",
+          "bm": "str"
+        },
+        {
+          "en": "bool",
+          "bm": "bool"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q02",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What type is \"25\" (with quotes)?",
+        "bm": "Apakah jenis \"25\" (dengan tanda petik)?"
+      },
+      "explanation": {
+        "en": "Anything in quotes is a string.",
+        "bm": "Apa sahaja dalam tanda petik ialah rentetan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "str",
+          "bm": "str"
+        },
+        {
+          "en": "int",
+          "bm": "int"
+        },
+        {
+          "en": "float",
+          "bm": "float"
+        },
+        {
+          "en": "bool",
+          "bm": "bool"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q03",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "input() returns a value of type…",
+        "bm": "input() memulangkan nilai jenis…"
+      },
+      "explanation": {
+        "en": "Convert with int(input()) for numbers.",
+        "bm": "Tukar dengan int(input()) untuk nombor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "str",
+          "bm": "str"
+        },
+        {
+          "en": "int",
+          "bm": "int"
+        },
+        {
+          "en": "float",
+          "bm": "float"
+        },
+        {
+          "en": "bool",
+          "bm": "bool"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q04",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which line displays text on the screen?",
+        "bm": "Baris manakah memaparkan teks pada skrin?"
+      },
+      "explanation": {
+        "en": "print() outputs data.",
+        "bm": "print() memaparkan data."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "print(\"Hello\")",
+          "bm": "print(\"Hello\")"
+        },
+        {
+          "en": "input(\"Hello\")",
+          "bm": "input(\"Hello\")"
+        },
+        {
+          "en": "show \"Hello\"",
+          "bm": "show \"Hello\""
+        },
+        {
+          "en": "display Hello",
+          "bm": "display Hello"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q05",
+      "subtopicId": "f3ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the value of 17 // 5 in Python?",
+        "bm": "Apakah nilai 17 // 5 dalam Python?"
+      },
+      "explanation": {
+        "en": "// gives the whole-number part: 3.",
+        "bm": "// memberi bahagian nombor bulat: 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-02-q06",
+      "subtopicId": "f3ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the value of 17 % 5 in Python?",
+        "bm": "Apakah nilai 17 % 5 dalam Python?"
+      },
+      "explanation": {
+        "en": "% gives the remainder: 17 = 3 × 5 + 2.",
+        "bm": "% memberi baki: 17 = 3 × 5 + 2."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-02-q07",
+      "subtopicId": "f3ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the value of 2 ** 3 in Python?",
+        "bm": "Apakah nilai 2 ** 3 dalam Python?"
+      },
+      "explanation": {
+        "en": "** is power: 2 × 2 × 2 = 8.",
+        "bm": "** ialah kuasa: 2 × 2 × 2 = 8."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-02-q08",
+      "subtopicId": "f3ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which values does range(5) produce?",
+        "bm": "Apakah nilai yang dihasilkan oleh range(5)?"
+      },
+      "explanation": {
+        "en": "range(n) starts at 0 and stops before n.",
+        "bm": "range(n) bermula 0 dan berhenti sebelum n."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "0, 1, 2, 3, 4",
+          "bm": "0, 1, 2, 3, 4"
+        },
+        {
+          "en": "1, 2, 3, 4, 5",
+          "bm": "1, 2, 3, 4, 5"
+        },
+        {
+          "en": "0, 1, 2, 3, 4, 5",
+          "bm": "0, 1, 2, 3, 4, 5"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q09",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "age = input(\"Age: \") then print(age + 1) gives an error. Why?",
+        "bm": "age = input(\"Umur: \") kemudian print(age + 1) memberi ralat. Mengapa?"
+      },
+      "explanation": {
+        "en": "Fix: age = int(input(\"Age: \")).",
+        "bm": "Pembetulan: age = int(input(\"Umur: \"))."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "age is a string; it must be converted with int()",
+          "bm": "age ialah rentetan; ia mesti ditukar dengan int()"
+        },
+        {
+          "en": "print cannot show numbers",
+          "bm": "print tidak boleh memaparkan nombor"
+        },
+        {
+          "en": "1 is a string",
+          "bm": "1 ialah rentetan"
+        },
+        {
+          "en": "input() is not a Python function",
+          "bm": "input() bukan fungsi Python"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q10",
+      "subtopicId": "f3ask-02-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each operator with its result for 9 and 4.",
+        "bm": "Padankan operator dengan hasilnya bagi 9 dan 4."
+      },
+      "explanation": {
+        "en": "Learn the difference between /, // and %.",
+        "bm": "Fahami perbezaan antara /, // dan %."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "9 // 4",
+            "bm": "9 // 4"
+          },
+          "right": {
+            "en": "2",
+            "bm": "2"
+          }
+        },
+        {
+          "left": {
+            "en": "9 % 4",
+            "bm": "9 % 4"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        },
+        {
+          "left": {
+            "en": "9 / 4",
+            "bm": "9 / 4"
+          },
+          "right": {
+            "en": "2.25",
+            "bm": "2.25"
+          }
+        },
+        {
+          "left": {
+            "en": "9 ** 2",
+            "bm": "9 ** 2"
+          },
+          "right": {
+            "en": "81",
+            "bm": "81"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3ask-02-q11",
+      "subtopicId": "f3ask-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What does 5 == 5.0 evaluate to?",
+        "bm": "Apakah hasil 5 == 5.0?"
+      },
+      "explanation": {
+        "en": "The values are equal even though the types differ.",
+        "bm": "Nilainya sama walaupun jenis berbeza."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "True",
+          "bm": "True"
+        },
+        {
+          "en": "False",
+          "bm": "False"
+        },
+        {
+          "en": "Error",
+          "bm": "Error"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q12",
+      "subtopicId": "f3ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which values does range(1, 6) produce?",
+        "bm": "Apakah nilai yang dihasilkan oleh range(1, 6)?"
+      },
+      "explanation": {
+        "en": "Start at 1, stop BEFORE 6.",
+        "bm": "Mula 1, berhenti SEBELUM 6."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1, 2, 3, 4, 5",
+          "bm": "1, 2, 3, 4, 5"
+        },
+        {
+          "en": "1, 2, 3, 4, 5, 6",
+          "bm": "1, 2, 3, 4, 5, 6"
+        },
+        {
+          "en": "0, 1, 2, 3, 4, 5",
+          "bm": "0, 1, 2, 3, 4, 5"
+        },
+        {
+          "en": "2, 3, 4, 5, 6",
+          "bm": "2, 3, 4, 5, 6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q13",
+      "subtopicId": "f3ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is missing? if mark >= 40 print(\"Pass\")",
+        "bm": "Apakah yang tertinggal? if mark >= 40 print(\"Pass\")"
+      },
+      "explanation": {
+        "en": "Correct: if mark >= 40:  then an indented print.",
+        "bm": "Betul: if mark >= 40:  kemudian print yang berinden."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "A colon (:) after the condition and an indented block",
+          "bm": "Titik bertindih (:) selepas syarat dan blok berinden"
+        },
+        {
+          "en": "Quotes around mark",
+          "bm": "Tanda petik pada mark"
+        },
+        {
+          "en": "A semicolon",
+          "bm": "Koma bertitik"
+        },
+        {
+          "en": "Nothing",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q14",
+      "subtopicId": "f3ask-02-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL valid Python variable names.",
+        "bm": "Pilih SEMUA nama pemboleh ubah Python yang sah."
+      },
+      "explanation": {
+        "en": "Names cannot start with a digit.",
+        "bm": "Nama tidak boleh bermula dengan digit."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "total_marks",
+          "bm": "total_marks"
+        },
+        {
+          "en": "score2",
+          "bm": "score2"
+        },
+        {
+          "en": "_count",
+          "bm": "_count"
+        },
+        {
+          "en": "2score",
+          "bm": "2score"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3ask-02-q15",
+      "subtopicId": "f3ask-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many times does this loop print? for i in range(2, 10, 2): print(i)",
+        "bm": "Berapa kali gelung ini mencetak? for i in range(2, 10, 2): print(i)"
+      },
+      "explanation": {
+        "en": "Values 2, 4, 6, 8 → 4 times.",
+        "bm": "Nilai 2, 4, 6, 8 → 4 kali."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-02-q16",
+      "subtopicId": "f3ask-02-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The keyword used for \"else if\" in Python is ______.",
+        "bm": "Kata kunci untuk \"else if\" dalam Python ialah ______."
+      },
+      "explanation": {
+        "en": "if … elif … else.",
+        "bm": "if … elif … else."
+      },
+      "difficulty": 2,
+      "answer": [
+        "elif"
+      ]
+    },
+    {
+      "id": "f3ask-02-q17",
+      "subtopicId": "f3ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "x = 0; while x < 3: x = x + 1. What is x after the loop?",
+        "bm": "x = 0; while x < 3: x = x + 1. Apakah nilai x selepas gelung?"
+      },
+      "explanation": {
+        "en": "x becomes 1, 2, 3; then 3 < 3 is False and the loop stops.",
+        "bm": "x menjadi 1, 2, 3; kemudian 3 < 3 False dan gelung berhenti."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q18",
+      "subtopicId": "f3ask-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which expression checks whether a number n is even?",
+        "bm": "Ungkapan manakah menyemak sama ada nombor n genap?"
+      },
+      "explanation": {
+        "en": "Even numbers leave remainder 0 when divided by 2.",
+        "bm": "Nombor genap berbaki 0 apabila dibahagi 2."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "n % 2 == 0",
+          "bm": "n % 2 == 0"
+        },
+        {
+          "en": "n // 2 == 0",
+          "bm": "n // 2 == 0"
+        },
+        {
+          "en": "n / 2 == 1",
+          "bm": "n / 2 == 1"
+        },
+        {
+          "en": "n ** 2 == 0",
+          "bm": "n ** 2 == 0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q19",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is printed? name = \"Ali\"; print(\"Hi \" + name * 2)",
+        "bm": "Apakah yang dicetak? name = \"Ali\"; print(\"Hi \" + name * 2)"
+      },
+      "explanation": {
+        "en": "Multiplying a string repeats it; * is done before +.",
+        "bm": "Mendarab rentetan mengulangnya; * dilakukan sebelum +."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Hi AliAli",
+          "bm": "Hi AliAli"
+        },
+        {
+          "en": "Hi Ali 2",
+          "bm": "Hi Ali 2"
+        },
+        {
+          "en": "Error",
+          "bm": "Error"
+        },
+        {
+          "en": "Hi Ali Ali",
+          "bm": "Hi Ali Ali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q20",
+      "subtopicId": "f3ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "mark = 75. if mark >= 80: g = \"A\" / elif mark >= 60: g = \"B\" / else: g = \"C\". What is g?",
+        "bm": "mark = 75. if mark >= 80: g = \"A\" / elif mark >= 60: g = \"B\" / else: g = \"C\". Apakah g?"
+      },
+      "explanation": {
+        "en": "75 is not ≥ 80, but is ≥ 60 → \"B\".",
+        "bm": "75 tidak ≥ 80, tetapi ≥ 60 → \"B\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "B",
+          "bm": "B"
+        },
+        {
+          "en": "A",
+          "bm": "A"
+        },
+        {
+          "en": "C",
+          "bm": "C"
+        },
+        {
+          "en": "Error",
+          "bm": "Error"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

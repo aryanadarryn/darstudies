@@ -1,0 +1,773 @@
+{
+  "chapterId": "f3sej-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Three ports, hundreds of kilometres apart, ruled as one unit by a company in India and later by London. Why did the British group Penang, Melaka and Singapore together?",
+      "bm": "Tiga pelabuhan yang berjauhan ratusan kilometer, ditadbir sebagai satu unit oleh syarikat di India dan kemudian oleh London. Mengapakah British menyatukan Pulau Pinang, Melaka dan Singapura?"
+    },
+    "bigIdeas": [
+      {
+        "en": "The Straits Settlements (1826) united Penang, Melaka and Singapore under one British administration.",
+        "bm": "Negeri-negeri Selat (1826) menyatukan Pulau Pinang, Melaka dan Singapura di bawah satu pentadbiran British."
+      },
+      {
+        "en": "The capital moved to Singapore in 1832; in 1867 it became a Crown Colony ruled from London.",
+        "bm": "Pusat pentadbiran berpindah ke Singapura pada 1832; pada 1867 ia menjadi Tanah Jajahan Mahkota yang ditadbir dari London."
+      },
+      {
+        "en": "Free ports and trade made the settlements grow and attracted immigrants.",
+        "bm": "Pelabuhan bebas dan perdagangan menjadikan negeri-negeri ini berkembang serta menarik imigran."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "1826",
+              "bm": "1826"
+            },
+            "detail": {
+              "en": "Straits Settlements formed under the East India Company",
+              "bm": "Negeri-negeri Selat dibentuk di bawah SHTI"
+            }
+          },
+          {
+            "title": {
+              "en": "1832",
+              "bm": "1832"
+            },
+            "detail": {
+              "en": "Capital moves from Penang to Singapore",
+              "bm": "Pusat pentadbiran berpindah dari Pulau Pinang ke Singapura"
+            }
+          },
+          {
+            "title": {
+              "en": "1867",
+              "bm": "1867"
+            },
+            "detail": {
+              "en": "Becomes a Crown Colony under the Colonial Office, London",
+              "bm": "Menjadi Tanah Jajahan Mahkota di bawah Pejabat Tanah Jajahan, London"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Straits Settlements",
+          "bm": "Negeri-negeri Selat"
+        },
+        "definition": {
+          "en": "Penang, Melaka and Singapore ruled as one unit by the British.",
+          "bm": "Pulau Pinang, Melaka dan Singapura ditadbir sebagai satu unit oleh British."
+        }
+      },
+      {
+        "term": {
+          "en": "Governor",
+          "bm": "Gabenor"
+        },
+        "definition": {
+          "en": "Head of the Straits Settlements administration.",
+          "bm": "Ketua pentadbiran Negeri-negeri Selat."
+        }
+      },
+      {
+        "term": {
+          "en": "Crown Colony",
+          "bm": "Tanah Jajahan Mahkota"
+        },
+        "definition": {
+          "en": "Territory ruled directly by the British government through the Colonial Office.",
+          "bm": "Wilayah yang ditadbir terus oleh kerajaan British melalui Pejabat Tanah Jajahan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Why did the Straits Settlements become a Crown Colony in 1867?",
+        "bm": "Mengapakah Negeri-negeri Selat menjadi Tanah Jajahan Mahkota pada 1867?"
+      },
+      "steps": [
+        {
+          "en": "Traders were unhappy with rule from India, which they felt ignored local needs.",
+          "bm": "Pedagang tidak berpuas hati dengan pemerintahan dari India yang dianggap mengabaikan keperluan tempatan."
+        },
+        {
+          "en": "They asked to be ruled directly from London through the Colonial Office.",
+          "bm": "Mereka meminta ditadbir terus dari London melalui Pejabat Tanah Jajahan."
+        }
+      ],
+      "answer": {
+        "en": "To get better administration focused on local trade and security.",
+        "bm": "Untuk mendapat pentadbiran yang lebih baik yang memberi tumpuan kepada perdagangan dan keselamatan tempatan."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sej-02-q01",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Straits Settlements were formed in…",
+        "bm": "Negeri-negeri Selat dibentuk pada…"
+      },
+      "explanation": {
+        "en": "Two years after the Anglo-Dutch Treaty.",
+        "bm": "Dua tahun selepas Perjanjian Inggeris-Belanda."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1826",
+          "bm": "1826"
+        },
+        {
+          "en": "1824",
+          "bm": "1824"
+        },
+        {
+          "en": "1867",
+          "bm": "1867"
+        },
+        {
+          "en": "1896",
+          "bm": "1896"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q02",
+      "subtopicId": "f3sej-02-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL members of the Straits Settlements.",
+        "bm": "Pilih SEMUA anggota Negeri-negeri Selat."
+      },
+      "explanation": {
+        "en": "Johor was a Malay state, not part of the Straits Settlements.",
+        "bm": "Johor ialah negeri Melayu, bukan sebahagian Negeri-negeri Selat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Penang",
+          "bm": "Pulau Pinang"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Singapore",
+          "bm": "Singapura"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sej-02-q03",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The capital of the Straits Settlements moved to Singapore in…",
+        "bm": "Pusat pentadbiran Negeri-negeri Selat berpindah ke Singapura pada…"
+      },
+      "explanation": {
+        "en": "Penang was the first capital.",
+        "bm": "Pulau Pinang ialah pusat pentadbiran pertama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1832",
+          "bm": "1832"
+        },
+        {
+          "en": "1826",
+          "bm": "1826"
+        },
+        {
+          "en": "1867",
+          "bm": "1867"
+        },
+        {
+          "en": "1819",
+          "bm": "1819"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q04",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The head of the Straits Settlements was the…",
+        "bm": "Ketua Negeri-negeri Selat ialah…"
+      },
+      "explanation": {
+        "en": "Each settlement also had a Resident Councillor.",
+        "bm": "Setiap negeri juga mempunyai Residen Konsilor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Governor",
+          "bm": "Gabenor"
+        },
+        {
+          "en": "Sultan",
+          "bm": "Sultan"
+        },
+        {
+          "en": "Resident",
+          "bm": "Residen"
+        },
+        {
+          "en": "Bendahara",
+          "bm": "Bendahara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q05",
+      "subtopicId": "f3sej-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In 1867 the Straits Settlements became a Crown ______.",
+        "bm": "Pada 1867 Negeri-negeri Selat menjadi Tanah Jajahan ______."
+      },
+      "explanation": {
+        "en": "Ruled from London by the Colonial Office.",
+        "bm": "Ditadbir dari London oleh Pejabat Tanah Jajahan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Colony",
+        "Mahkota"
+      ]
+    },
+    {
+      "id": "f3sej-02-q06",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Before 1867 the Straits Settlements were administered from…",
+        "bm": "Sebelum 1867 Negeri-negeri Selat ditadbir dari…"
+      },
+      "explanation": {
+        "en": "Under the East India Company and later the British government of India.",
+        "bm": "Di bawah Syarikat Hindia Timur Inggeris dan kemudian kerajaan British di India."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "India",
+          "bm": "India"
+        },
+        {
+          "en": "Siam",
+          "bm": "Siam"
+        },
+        {
+          "en": "Batavia",
+          "bm": "Batavia"
+        },
+        {
+          "en": "Lisbon",
+          "bm": "Lisbon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q07",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which policy made Singapore a busy trading centre?",
+        "bm": "Dasar manakah menjadikan Singapura pusat perdagangan yang sibuk?"
+      },
+      "explanation": {
+        "en": "Traders from many countries were attracted by low costs.",
+        "bm": "Pedagang dari banyak negara tertarik dengan kos rendah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Free port",
+          "bm": "Pelabuhan bebas"
+        },
+        {
+          "en": "High taxes",
+          "bm": "Cukai tinggi"
+        },
+        {
+          "en": "Closing the port",
+          "bm": "Menutup pelabuhan"
+        },
+        {
+          "en": "Banning Chinese traders",
+          "bm": "Melarang pedagang Cina"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q08",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A major group of immigrants who came to work and trade in the Straits Settlements were…",
+        "bm": "Golongan imigran utama yang datang bekerja dan berniaga di Negeri-negeri Selat ialah…"
+      },
+      "explanation": {
+        "en": "They helped build a multi-ethnic society.",
+        "bm": "Mereka membantu membentuk masyarakat berbilang kaum."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Chinese and Indians",
+          "bm": "Orang Cina dan India"
+        },
+        {
+          "en": "Portuguese soldiers only",
+          "bm": "Askar Portugis sahaja"
+        },
+        {
+          "en": "Japanese farmers",
+          "bm": "Petani Jepun"
+        },
+        {
+          "en": "Dutch officials",
+          "bm": "Pegawai Belanda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q09",
+      "subtopicId": "f3sej-02-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these events in order.",
+        "bm": "Susun peristiwa ini mengikut urutan."
+      },
+      "explanation": {
+        "en": "1824 → 1826 → 1832 → 1867.",
+        "bm": "1824 → 1826 → 1832 → 1867."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Anglo-Dutch Treaty",
+          "bm": "Perjanjian Inggeris-Belanda"
+        },
+        {
+          "en": "Straits Settlements formed",
+          "bm": "Negeri-negeri Selat dibentuk"
+        },
+        {
+          "en": "Capital moved to Singapore",
+          "bm": "Pusat pentadbiran berpindah ke Singapura"
+        },
+        {
+          "en": "Crown Colony status",
+          "bm": "Taraf Tanah Jajahan Mahkota"
+        }
+      ]
+    },
+    {
+      "id": "f3sej-02-q10",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did the British combine the three settlements into one unit?",
+        "bm": "Mengapakah British menyatukan tiga negeri itu menjadi satu unit?"
+      },
+      "explanation": {
+        "en": "One government for three ports reduced costs.",
+        "bm": "Satu kerajaan untuk tiga pelabuhan mengurangkan kos."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To make administration easier and cheaper",
+          "bm": "Untuk memudahkan dan menjimatkan pentadbiran"
+        },
+        {
+          "en": "Because they were next to each other",
+          "bm": "Kerana ia bersebelahan"
+        },
+        {
+          "en": "Because the Sultan asked",
+          "bm": "Kerana Sultan meminta"
+        },
+        {
+          "en": "To give them independence",
+          "bm": "Untuk memberi kemerdekaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q11",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why was the capital moved from Penang to Singapore in 1832?",
+        "bm": "Mengapakah pusat pentadbiran dipindahkan dari Pulau Pinang ke Singapura pada 1832?"
+      },
+      "explanation": {
+        "en": "Its central location and free port boosted growth.",
+        "bm": "Kedudukan di tengah dan pelabuhan bebas meningkatkan perkembangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Singapore had become the busiest port with the most trade",
+          "bm": "Singapura telah menjadi pelabuhan paling sibuk dengan perdagangan paling banyak"
+        },
+        {
+          "en": "Penang was destroyed",
+          "bm": "Pulau Pinang musnah"
+        },
+        {
+          "en": "Melaka refused",
+          "bm": "Melaka menolak"
+        },
+        {
+          "en": "The Dutch demanded it",
+          "bm": "Belanda menuntutnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q12",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Traders in the Straits Settlements disliked rule from India because…",
+        "bm": "Pedagang di Negeri-negeri Selat tidak suka pemerintahan dari India kerana…"
+      },
+      "explanation": {
+        "en": "This led to calls for direct rule from London.",
+        "bm": "Ini membawa kepada desakan untuk pemerintahan terus dari London."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "decisions were slow and did not focus on local trade needs",
+          "bm": "keputusan lambat dan tidak memberi tumpuan kepada keperluan perdagangan tempatan"
+        },
+        {
+          "en": "India banned trade",
+          "bm": "India melarang perdagangan"
+        },
+        {
+          "en": "India was too close",
+          "bm": "India terlalu dekat"
+        },
+        {
+          "en": "India used Malay law",
+          "bm": "India menggunakan undang-undang Melayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q13",
+      "subtopicId": "f3sej-02-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its meaning.",
+        "bm": "Padankan istilah dengan maksudnya."
+      },
+      "explanation": {
+        "en": "Know the officials and their roles.",
+        "bm": "Ketahui pegawai dan peranan mereka."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Governor",
+            "bm": "Gabenor"
+          },
+          "right": {
+            "en": "Head of the Straits Settlements",
+            "bm": "Ketua Negeri-negeri Selat"
+          }
+        },
+        {
+          "left": {
+            "en": "Resident Councillor",
+            "bm": "Residen Konsilor"
+          },
+          "right": {
+            "en": "Official in charge of one settlement",
+            "bm": "Pegawai yang mentadbir satu negeri"
+          }
+        },
+        {
+          "left": {
+            "en": "Colonial Office",
+            "bm": "Pejabat Tanah Jajahan"
+          },
+          "right": {
+            "en": "London department ruling Crown Colonies",
+            "bm": "Jabatan di London yang mentadbir Tanah Jajahan Mahkota"
+          }
+        },
+        {
+          "left": {
+            "en": "Free port",
+            "bm": "Pelabuhan bebas"
+          },
+          "right": {
+            "en": "Port with little or no tax",
+            "bm": "Pelabuhan dengan sedikit atau tiada cukai"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sej-02-q14",
+      "subtopicId": "f3sej-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The first capital of the Straits Settlements was ______.",
+        "bm": "Pusat pentadbiran pertama Negeri-negeri Selat ialah ______."
+      },
+      "explanation": {
+        "en": "It moved to Singapore in 1832.",
+        "bm": "Ia berpindah ke Singapura pada 1832."
+      },
+      "difficulty": 2,
+      "answer": [
+        "Penang",
+        "Pulau Pinang",
+        "George Town"
+      ]
+    },
+    {
+      "id": "f3sej-02-q15",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which was an effect of the growth of the Straits Settlements?",
+        "bm": "Antara berikut, yang manakah kesan perkembangan Negeri-negeri Selat?"
+      },
+      "explanation": {
+        "en": "Chinese, Indian, Malay and other communities lived and traded together.",
+        "bm": "Masyarakat Cina, India, Melayu dan lain-lain hidup dan berniaga bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "A multi-ethnic urban society grew",
+          "bm": "Masyarakat bandar berbilang kaum berkembang"
+        },
+        {
+          "en": "Trade declined",
+          "bm": "Perdagangan merosot"
+        },
+        {
+          "en": "The British left",
+          "bm": "British berundur"
+        },
+        {
+          "en": "Melaka became Dutch again",
+          "bm": "Melaka menjadi milik Belanda semula"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q16",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which treaty made it possible to form the Straits Settlements by giving Melaka to Britain?",
+        "bm": "Perjanjian manakah membolehkan Negeri-negeri Selat dibentuk dengan menyerahkan Melaka kepada British?"
+      },
+      "explanation": {
+        "en": "With Melaka, Britain held three ports along the Strait.",
+        "bm": "Dengan Melaka, British memiliki tiga pelabuhan di sepanjang Selat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Anglo-Dutch Treaty 1824",
+          "bm": "Perjanjian Inggeris-Belanda 1824"
+        },
+        {
+          "en": "Pangkor Treaty 1874",
+          "bm": "Perjanjian Pangkor 1874"
+        },
+        {
+          "en": "Bangkok Treaty 1909",
+          "bm": "Perjanjian Bangkok 1909"
+        },
+        {
+          "en": "London Agreement 1956",
+          "bm": "Perjanjian London 1956"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q17",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How did the Straits Settlements later help Britain intervene in the Malay states?",
+        "bm": "Bagaimanakah Negeri-negeri Selat kemudiannya membantu British campur tangan di negeri-negeri Melayu?"
+      },
+      "explanation": {
+        "en": "Straits traders invested in tin mining and wanted stability.",
+        "bm": "Pedagang Negeri-negeri Selat melabur dalam perlombongan bijih timah dan mahukan kestabilan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They were bases from which traders and officials pushed for control of tin-rich states",
+          "bm": "Ia menjadi pangkalan bagi pedagang dan pegawai mendesak penguasaan negeri kaya bijih timah"
+        },
+        {
+          "en": "They had no connection",
+          "bm": "Tiada kaitan"
+        },
+        {
+          "en": "They stopped British trade",
+          "bm": "Ia menghentikan perdagangan British"
+        },
+        {
+          "en": "They were ruled by Malays",
+          "bm": "Ia ditadbir orang Melayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q18",
+      "subtopicId": "f3sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement BEST describes British rule in the Straits Settlements?",
+        "bm": "Pernyataan manakah PALING tepat menggambarkan pemerintahan British di Negeri-negeri Selat?"
+      },
+      "explanation": {
+        "en": "Unlike the later Malay states, there were no sultans in charge.",
+        "bm": "Tidak seperti negeri-negeri Melayu kemudiannya, tiada sultan yang memerintah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Direct British rule over British-owned territories",
+          "bm": "Pemerintahan British secara langsung ke atas wilayah milik British"
+        },
+        {
+          "en": "Indirect rule through Malay sultans",
+          "bm": "Pemerintahan tidak langsung melalui sultan Melayu"
+        },
+        {
+          "en": "Rule by the Dutch",
+          "bm": "Pemerintahan oleh Belanda"
+        },
+        {
+          "en": "Self-government by local people",
+          "bm": "Pemerintahan sendiri oleh penduduk tempatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q19",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Singapore is now a major world port. Which early decision contributed MOST to this?",
+        "bm": "Singapura kini pelabuhan utama dunia. Keputusan awal manakah paling banyak menyumbang kepada perkara ini?"
+      },
+      "explanation": {
+        "en": "Location plus open trade policies attract shipping.",
+        "bm": "Kedudukan serta dasar perdagangan terbuka menarik perkapalan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Making it a free port on a strategic route",
+          "bm": "Menjadikannya pelabuhan bebas di laluan strategik"
+        },
+        {
+          "en": "Closing it to foreigners",
+          "bm": "Menutupnya kepada orang asing"
+        },
+        {
+          "en": "Making it a farming village",
+          "bm": "Menjadikannya kampung pertanian"
+        },
+        {
+          "en": "Giving it to Portugal",
+          "bm": "Menyerahkannya kepada Portugis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-02-q20",
+      "subtopicId": "f3sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What long-term effect did immigration to the Straits Settlements have on Malaysia today?",
+        "bm": "Apakah kesan jangka panjang imigrasi ke Negeri-negeri Selat terhadap Malaysia hari ini?"
+      },
+      "explanation": {
+        "en": "Many Malaysian families trace their roots to these migrations.",
+        "bm": "Banyak keluarga di Malaysia berasal daripada penghijrahan ini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It helped form today's multi-ethnic society, which makes unity and tolerance important",
+          "bm": "Ia membantu membentuk masyarakat berbilang kaum hari ini, menjadikan perpaduan dan toleransi penting"
+        },
+        {
+          "en": "It left Malaysia with one ethnic group only",
+          "bm": "Malaysia hanya mempunyai satu kaum"
+        },
+        {
+          "en": "It ended trade in Malaysia",
+          "bm": "Ia menamatkan perdagangan di Malaysia"
+        },
+        {
+          "en": "It had no effect",
+          "bm": "Tiada kesan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "chapterId": "f3math-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "How tall is the school flagpole? You don't need to climb it — measure how far you stand from it and the angle up to the top, and trigonometry does the rest.",
+      "bm": "Berapakah tinggi tiang bendera sekolah? Anda tidak perlu memanjatnya — ukur jarak anda dari tiang dan sudut ke puncaknya, dan trigonometri menyelesaikan yang selebihnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "In a right-angled triangle, the sides are named from the angle θ: opposite, adjacent and hypotenuse.",
+        "bm": "Dalam segi tiga bersudut tegak, sisi dinamakan berdasarkan sudut θ: sisi bertentangan, sisi bersebelahan dan hipotenus."
+      },
+      {
+        "en": "sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse, tan θ = opposite/adjacent (SOH CAH TOA).",
+        "bm": "sin θ = bertentangan/hipotenus, kos θ = bersebelahan/hipotenus, tan θ = bertentangan/bersebelahan."
+      },
+      {
+        "en": "The ratios depend only on the angle, not on the size of the triangle.",
+        "bm": "Nisbah hanya bergantung pada sudut, bukan saiz segi tiga."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "sin θ",
+            "bm": "sin θ"
+          },
+          {
+            "en": "cos θ",
+            "bm": "kos θ"
+          },
+          {
+            "en": "tan θ",
+            "bm": "tan θ"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "30°",
+              "bm": "30°"
+            },
+            "cells": [
+              {
+                "en": "1/2",
+                "bm": "1/2"
+              },
+              {
+                "en": "√3/2",
+                "bm": "√3/2"
+              },
+              {
+                "en": "1/√3",
+                "bm": "1/√3"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "45°",
+              "bm": "45°"
+            },
+            "cells": [
+              {
+                "en": "√2/2",
+                "bm": "√2/2"
+              },
+              {
+                "en": "√2/2",
+                "bm": "√2/2"
+              },
+              {
+                "en": "1",
+                "bm": "1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "60°",
+              "bm": "60°"
+            },
+            "cells": [
+              {
+                "en": "√3/2",
+                "bm": "√3/2"
+              },
+              {
+                "en": "1/2",
+                "bm": "1/2"
+              },
+              {
+                "en": "√3",
+                "bm": "√3"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hypotenuse",
+          "bm": "Hipotenus"
+        },
+        "definition": {
+          "en": "The longest side, opposite the right angle.",
+          "bm": "Sisi terpanjang, bertentangan dengan sudut tegak."
+        }
+      },
+      {
+        "term": {
+          "en": "Opposite side",
+          "bm": "Sisi bertentangan"
+        },
+        "definition": {
+          "en": "The side across from angle θ.",
+          "bm": "Sisi yang bertentangan dengan sudut θ."
+        }
+      },
+      {
+        "term": {
+          "en": "Adjacent side",
+          "bm": "Sisi bersebelahan"
+        },
+        "definition": {
+          "en": "The side next to θ that is not the hypotenuse.",
+          "bm": "Sisi di sebelah θ yang bukan hipotenus."
+        }
+      },
+      {
+        "term": {
+          "en": "Angle of elevation",
+          "bm": "Sudut dongakan"
+        },
+        "definition": {
+          "en": "Angle measured upward from the horizontal.",
+          "bm": "Sudut yang diukur ke atas dari garis mengufuk."
+        }
+      },
+      {
+        "term": {
+          "en": "Angle of depression",
+          "bm": "Sudut tunduk"
+        },
+        "definition": {
+          "en": "Angle measured downward from the horizontal.",
+          "bm": "Sudut yang diukur ke bawah dari garis mengufuk."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-sin",
+      "f3-cos",
+      "f3-tan"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "You stand 20 m from a tree. The angle of elevation to its top is 32°. How tall is the tree?",
+        "bm": "Anda berdiri 20 m dari sebatang pokok. Sudut dongakan ke puncaknya ialah 32°. Berapakah tinggi pokok itu?"
+      },
+      "steps": [
+        {
+          "en": "Height is opposite θ; 20 m is adjacent → use tan.",
+          "bm": "Tinggi ialah sisi bertentangan θ; 20 m sisi bersebelahan → guna tan."
+        },
+        {
+          "en": "tan 32° = h/20 → h = 20 tan 32°.",
+          "bm": "tan 32° = h/20 → h = 20 tan 32°."
+        },
+        {
+          "en": "h ≈ 12.5 m.",
+          "bm": "h ≈ 12.5 m."
+        }
+      ],
+      "answer": {
+        "en": "About 12.5 m (ignoring your eye height).",
+        "bm": "Kira-kira 12.5 m (tanpa mengambil kira ketinggian mata)."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-05-q01",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which side of a right-angled triangle is the hypotenuse?",
+        "bm": "Sisi manakah hipotenus bagi segi tiga bersudut tegak?"
+      },
+      "explanation": {
+        "en": "The hypotenuse is always opposite the 90° angle.",
+        "bm": "Hipotenus sentiasa bertentangan dengan sudut 90°."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "The longest side, opposite the right angle",
+          "bm": "Sisi terpanjang, bertentangan dengan sudut tegak"
+        },
+        {
+          "en": "The shortest side",
+          "bm": "Sisi terpendek"
+        },
+        {
+          "en": "The side next to θ",
+          "bm": "Sisi di sebelah θ"
+        },
+        {
+          "en": "Any side",
+          "bm": "Mana-mana sisi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q02",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "sin θ = ?",
+        "bm": "sin θ = ?"
+      },
+      "explanation": {
+        "en": "SOH: Sine = Opposite / Hypotenuse.",
+        "bm": "SOH: Sinus = Bertentangan / Hipotenus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "opposite / hypotenuse",
+          "bm": "bertentangan / hipotenus"
+        },
+        {
+          "en": "adjacent / hypotenuse",
+          "bm": "bersebelahan / hipotenus"
+        },
+        {
+          "en": "opposite / adjacent",
+          "bm": "bertentangan / bersebelahan"
+        },
+        {
+          "en": "hypotenuse / opposite",
+          "bm": "hipotenus / bertentangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q03",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "cos θ = ?",
+        "bm": "kos θ = ?"
+      },
+      "explanation": {
+        "en": "CAH: Cosine = Adjacent / Hypotenuse.",
+        "bm": "CAH: Kosinus = Bersebelahan / Hipotenus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "adjacent / hypotenuse",
+          "bm": "bersebelahan / hipotenus"
+        },
+        {
+          "en": "opposite / hypotenuse",
+          "bm": "bertentangan / hipotenus"
+        },
+        {
+          "en": "opposite / adjacent",
+          "bm": "bertentangan / bersebelahan"
+        },
+        {
+          "en": "adjacent / opposite",
+          "bm": "bersebelahan / bertentangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q04",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "tan θ = ?",
+        "bm": "tan θ = ?"
+      },
+      "explanation": {
+        "en": "TOA: Tangent = Opposite / Adjacent.",
+        "bm": "TOA: Tangen = Bertentangan / Bersebelahan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "opposite / adjacent",
+          "bm": "bertentangan / bersebelahan"
+        },
+        {
+          "en": "adjacent / opposite",
+          "bm": "bersebelahan / bertentangan"
+        },
+        {
+          "en": "opposite / hypotenuse",
+          "bm": "bertentangan / hipotenus"
+        },
+        {
+          "en": "hypotenuse / adjacent",
+          "bm": "hipotenus / bersebelahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q05",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of tan 45°.",
+        "bm": "Cari nilai tan 45°."
+      },
+      "explanation": {
+        "en": "In a right isosceles triangle opposite = adjacent, so tan 45° = 1.",
+        "bm": "Dalam segi tiga sama kaki bersudut tegak, bertentangan = bersebelahan, jadi tan 45° = 1."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-05-q06",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the value of sin 30°.",
+        "bm": "Cari nilai sin 30°."
+      },
+      "explanation": {
+        "en": "sin 30° = 1/2 = 0.5.",
+        "bm": "sin 30° = 1/2 = 0.5."
+      },
+      "difficulty": 1,
+      "answer": 0.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-05-q07",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "In a right-angled triangle, opposite = 3 cm, adjacent = 4 cm and hypotenuse = 5 cm. Find tan θ.",
+        "bm": "Dalam segi tiga bersudut tegak, bertentangan = 3 cm, bersebelahan = 4 cm dan hipotenus = 5 cm. Cari tan θ."
+      },
+      "explanation": {
+        "en": "tan θ = 3/4 = 0.75.",
+        "bm": "tan θ = 3/4 = 0.75."
+      },
+      "difficulty": 1,
+      "answer": 0.75,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-05-q08",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Using the 3-4-5 triangle above, find sin θ (θ is opposite the 3 cm side).",
+        "bm": "Menggunakan segi tiga 3-4-5 di atas, cari sin θ (θ bertentangan dengan sisi 3 cm)."
+      },
+      "explanation": {
+        "en": "sin θ = 3/5 = 0.6.",
+        "bm": "sin θ = 3/5 = 0.6."
+      },
+      "difficulty": 1,
+      "answer": 0.6,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-05-q09",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The hypotenuse is 10 cm and θ = 30°. Find the side opposite θ (cm).",
+        "bm": "Hipotenus ialah 10 cm dan θ = 30°. Cari sisi bertentangan θ (cm)."
+      },
+      "explanation": {
+        "en": "opposite = 10 × sin 30° = 10 × 0.5 = 5 cm.",
+        "bm": "bertentangan = 10 × sin 30° = 10 × 0.5 = 5 cm."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-05-q10",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The side opposite θ = 35° is 7 cm. Find the hypotenuse (cm, 2 d.p.).",
+        "bm": "Sisi bertentangan θ = 35° ialah 7 cm. Cari hipotenus (cm, 2 t.p.)."
+      },
+      "explanation": {
+        "en": "hypotenuse = 7 ÷ sin 35° ≈ 12.2 cm.",
+        "bm": "hipotenus = 7 ÷ sin 35° ≈ 12.2 cm."
+      },
+      "difficulty": 2,
+      "answer": 12.2,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-05-q11",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The hypotenuse is 12 cm and θ = 40°. Find the adjacent side (cm, 2 d.p.).",
+        "bm": "Hipotenus ialah 12 cm dan θ = 40°. Cari sisi bersebelahan (cm, 2 t.p.)."
+      },
+      "explanation": {
+        "en": "adjacent = 12 × cos 40° ≈ 9.19 cm.",
+        "bm": "bersebelahan = 12 × kos 40° ≈ 9.19 cm."
+      },
+      "difficulty": 2,
+      "answer": 9.19,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-05-q12",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "opposite = 5 cm and adjacent = 12 cm. Find θ in degrees (2 d.p.).",
+        "bm": "bertentangan = 5 cm dan bersebelahan = 12 cm. Cari θ dalam darjah (2 t.p.)."
+      },
+      "explanation": {
+        "en": "tan θ = 5/12, so θ = tan⁻¹(5/12) ≈ 22.62°.",
+        "bm": "tan θ = 5/12, jadi θ = tan⁻¹(5/12) ≈ 22.62°."
+      },
+      "difficulty": 2,
+      "answer": 22.62,
+      "tolerance": 0.01,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-05-q13",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement is TRUE for any acute angle θ?",
+        "bm": "Pernyataan manakah BENAR bagi sebarang sudut tirus θ?"
+      },
+      "explanation": {
+        "en": "The hypotenuse is the longest side, so sin and cos are below 1; tan can exceed 1 (tan 60° ≈ 1.73).",
+        "bm": "Hipotenus sisi terpanjang, jadi sin dan kos kurang daripada 1; tan boleh melebihi 1 (tan 60° ≈ 1.73)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sin θ and cos θ are always between 0 and 1",
+          "bm": "sin θ dan kos θ sentiasa antara 0 dan 1"
+        },
+        {
+          "en": "tan θ is always less than 1",
+          "bm": "tan θ sentiasa kurang daripada 1"
+        },
+        {
+          "en": "sin θ is always greater than 1",
+          "bm": "sin θ sentiasa lebih daripada 1"
+        },
+        {
+          "en": "cos θ increases as θ increases",
+          "bm": "kos θ bertambah apabila θ bertambah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q14",
+      "subtopicId": "f3math-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each angle with its exact value.",
+        "bm": "Padankan sudut dengan nilai tepatnya."
+      },
+      "explanation": {
+        "en": "Learn these special angle values by heart.",
+        "bm": "Hafal nilai sudut khas ini."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "sin 30°",
+            "bm": "sin 30°"
+          },
+          "right": {
+            "en": "1/2",
+            "bm": "1/2"
+          }
+        },
+        {
+          "left": {
+            "en": "cos 30°",
+            "bm": "cos 30°"
+          },
+          "right": {
+            "en": "√3/2",
+            "bm": "√3/2"
+          }
+        },
+        {
+          "left": {
+            "en": "tan 45°",
+            "bm": "tan 45°"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        },
+        {
+          "left": {
+            "en": "tan 60°",
+            "bm": "tan 60°"
+          },
+          "right": {
+            "en": "√3",
+            "bm": "√3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-05-q15",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If sin θ = cos θ for an acute angle, θ = ?",
+        "bm": "Jika sin θ = kos θ bagi sudut tirus, θ = ?"
+      },
+      "explanation": {
+        "en": "Opposite = adjacent only when θ = 45°.",
+        "bm": "Bertentangan = bersebelahan hanya apabila θ = 45°."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "45°",
+          "bm": "45°"
+        },
+        {
+          "en": "30°",
+          "bm": "30°"
+        },
+        {
+          "en": "60°",
+          "bm": "60°"
+        },
+        {
+          "en": "90°",
+          "bm": "90°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q16",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A ladder makes an angle with the ground. Which angle is the angle of elevation of its top from the foot?",
+        "bm": "Sebuah tangga membuat sudut dengan tanah. Sudut manakah sudut dongakan puncaknya dari kaki tangga?"
+      },
+      "explanation": {
+        "en": "Elevation is measured up from the horizontal (the ground).",
+        "bm": "Dongakan diukur ke atas dari garis mengufuk (tanah)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The angle between the ground and the ladder",
+          "bm": "Sudut antara tanah dan tangga"
+        },
+        {
+          "en": "The angle between the wall and the ladder",
+          "bm": "Sudut antara dinding dan tangga"
+        },
+        {
+          "en": "The right angle at the wall",
+          "bm": "Sudut tegak di dinding"
+        },
+        {
+          "en": "None of these",
+          "bm": "Tiada antaranya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q17",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 6 m ladder leans against a wall, making 70° with the ground. How high up the wall does it reach (m, 2 d.p.)?",
+        "bm": "Tangga 6 m bersandar pada dinding, membuat sudut 70° dengan tanah. Berapa tinggikah ia mencapai dinding (m, 2 t.p.)?"
+      },
+      "explanation": {
+        "en": "height = 6 × sin 70° ≈ 5.64 m.",
+        "bm": "tinggi = 6 × sin 70° ≈ 5.64 m."
+      },
+      "difficulty": 3,
+      "answer": 5.64,
+      "tolerance": 0.01,
+      "unit": "m"
+    },
+    {
+      "id": "f3math-05-q18",
+      "subtopicId": "f3math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "You stand 20 m from a tree; the angle of elevation to the top is 32°. Find the tree's height (m, 2 d.p.).",
+        "bm": "Anda berdiri 20 m dari pokok; sudut dongakan ke puncak ialah 32°. Cari tinggi pokok (m, 2 t.p.)."
+      },
+      "explanation": {
+        "en": "h = 20 tan 32° ≈ 12.5 m.",
+        "bm": "h = 20 tan 32° ≈ 12.5 m."
+      },
+      "difficulty": 3,
+      "answer": 12.5,
+      "tolerance": 0.01,
+      "unit": "m"
+    },
+    {
+      "id": "f3math-05-q19",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A boy says tan 50° = 1.19 means the side opposite 50° is always 1.19 cm. What is wrong?",
+        "bm": "Seorang budak berkata tan 50° = 1.19 bermaksud sisi bertentangan 50° sentiasa 1.19 cm. Apakah yang salah?"
+      },
+      "explanation": {
+        "en": "Trigonometric ratios compare two sides; they are not lengths.",
+        "bm": "Nisbah trigonometri membandingkan dua sisi; ia bukan panjang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "tan is a RATIO: opposite is 1.19 times the adjacent, whatever the triangle size",
+          "bm": "tan ialah NISBAH: bertentangan ialah 1.19 kali bersebelahan, tidak kira saiz segi tiga"
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada yang salah"
+        },
+        {
+          "en": "tan 50° is always less than 1",
+          "bm": "tan 50° sentiasa kurang daripada 1"
+        },
+        {
+          "en": "tan only works for 45°",
+          "bm": "tan hanya untuk 45°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-05-q20",
+      "subtopicId": "f3math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "From the top of a 30 m tower, the angle of depression to a car is 30°. How far is the car from the foot of the tower?",
+        "bm": "Dari puncak menara 30 m, sudut tunduk ke sebuah kereta ialah 30°. Berapa jauhkah kereta dari kaki menara?"
+      },
+      "explanation": {
+        "en": "The angle at the car is also 30° (alternate angles). tan 30° = 30/d → d = 30 ÷ (1/√3) = 30√3 ≈ 51.96 m.",
+        "bm": "Sudut di kereta juga 30° (sudut selang-seli). tan 30° = 30/d → d = 30 ÷ (1/√3) = 30√3 ≈ 51.96 m."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "30√3 m (≈ 51.96 m)",
+          "bm": "30√3 m (≈ 51.96 m)"
+        },
+        {
+          "en": "15 m",
+          "bm": "15 m"
+        },
+        {
+          "en": "30 m",
+          "bm": "30 m"
+        },
+        {
+          "en": "10√3 m (≈ 17.32 m)",
+          "bm": "10√3 m (≈ 17.32 m)"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

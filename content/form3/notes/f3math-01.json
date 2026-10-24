@@ -1,0 +1,56 @@
+{
+  "chapterId": "f3math-01",
+  "reviewed": false,
+  "subtopics": {
+    "f3math-01-01": {
+      "keyPoints": [
+        {
+          "en": "aⁿ = a × a × … × a (n factors). a is the base, n the index.",
+          "bm": "aⁿ = a × a × … × a (n faktor). a ialah asas, n ialah indeks."
+        },
+        {
+          "en": "Read 5³ as \"5 to the power of 3\" or \"5 cubed\".",
+          "bm": "Baca 5³ sebagai \"5 kuasa 3\" atau \"5 kuasa tiga\"."
+        },
+        {
+          "en": "Brackets matter: (−3)² = 9 but −3² = −9.",
+          "bm": "Kurungan penting: (−3)² = 9 tetapi −3² = −9."
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Write 0.1 × 0.1 × 0.1 in index notation.",
+          "bm": "Tulis 0.1 × 0.1 × 0.1 dalam tatatanda indeks."
+        },
+        "answer": {
+          "en": "(0.1)³",
+          "bm": "(0.1)³"
+        }
+      }
+    },
+    "f3math-01-02": {
+      "keyPoints": [
+        {
+          "en": "aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ (same base only).",
+          "bm": "aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; (aᵐ)ⁿ = aᵐⁿ (asas sama sahaja)."
+        },
+        {
+          "en": "(ab)ⁿ = aⁿbⁿ and (a/b)ⁿ = aⁿ/bⁿ.",
+          "bm": "(ab)ⁿ = aⁿbⁿ dan (a/b)ⁿ = aⁿ/bⁿ."
+        },
+        {
+          "en": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a; a^(m/n) = (ⁿ√a)ᵐ.",
+          "bm": "a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a; a^(m/n) = (ⁿ√a)ᵐ."
+        },
+        {
+          "en": "To solve index equations, write both sides with the same base, then equate the indices.",
+          "bm": "Untuk menyelesaikan persamaan indeks, tulis kedua-dua belah dengan asas yang sama, kemudian samakan indeks."
+        }
+      ],
+      "tip": {
+        "en": "For a^(m/n), take the root first — the numbers stay small.",
+        "bm": "Untuk a^(m/n), cari punca kuasa dahulu — nombornya kekal kecil."
+      }
+    }
+  }
+}

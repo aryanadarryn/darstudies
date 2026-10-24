@@ -1,0 +1,729 @@
+{
+  "chapterId": "f3sci-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The electricity that charges your phone may have been generated hundreds of kilometres away, then stepped up to very high voltage and back down to 240 V before reaching your home.",
+      "bm": "Tenaga elektrik yang mengecas telefon anda mungkin dijana ratusan kilometer jauhnya, kemudian dinaikkan ke voltan yang sangat tinggi dan diturunkan semula ke 240 V sebelum sampai ke rumah anda."
+    },
+    "bigIdeas": [
+      {
+        "en": "Generators produce electricity by electromagnetic induction: a magnet and coil moving relative to each other.",
+        "bm": "Penjana menghasilkan elektrik melalui aruhan elektromagnet: magnet dan gegelung bergerak relatif antara satu sama lain."
+      },
+      {
+        "en": "Transformers change alternating voltages: Vs/Vp = Ns/Np. Electricity is transmitted at high voltage to reduce energy loss.",
+        "bm": "Transformer mengubah voltan ulang-alik: Vs/Vp = Ns/Np. Tenaga elektrik dihantar pada voltan tinggi untuk mengurangkan kehilangan tenaga."
+      },
+      {
+        "en": "Energy used = power × time (kWh); cost = kWh × rate. Safety devices protect users.",
+        "bm": "Tenaga digunakan = kuasa × masa (kWj); kos = kWj × kadar. Alat keselamatan melindungi pengguna."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Power station",
+              "bm": "Stesen janakuasa"
+            },
+            "detail": {
+              "en": "Turbine turns a generator",
+              "bm": "Turbin memutarkan penjana"
+            }
+          },
+          {
+            "title": {
+              "en": "Step-up transformer",
+              "bm": "Transformer injak naik"
+            },
+            "detail": {
+              "en": "Raises voltage (e.g. to 132–500 kV)",
+              "bm": "Menaikkan voltan (cth. ke 132–500 kV)"
+            }
+          },
+          {
+            "title": {
+              "en": "National Grid",
+              "bm": "Grid Nasional"
+            },
+            "detail": {
+              "en": "High-voltage transmission lines",
+              "bm": "Talian penghantaran voltan tinggi"
+            }
+          },
+          {
+            "title": {
+              "en": "Step-down transformers",
+              "bm": "Transformer injak turun"
+            },
+            "detail": {
+              "en": "At substations, lower the voltage",
+              "bm": "Di pencawang, menurunkan voltan"
+            }
+          },
+          {
+            "title": {
+              "en": "Homes",
+              "bm": "Rumah"
+            },
+            "detail": {
+              "en": "240 V supply",
+              "bm": "Bekalan 240 V"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Electromagnetic induction",
+          "bm": "Aruhan elektromagnet"
+        },
+        "definition": {
+          "en": "Producing a current by moving a conductor in a magnetic field (or the field around a conductor).",
+          "bm": "Menghasilkan arus dengan menggerakkan konduktor dalam medan magnet (atau medan di sekeliling konduktor)."
+        }
+      },
+      {
+        "term": {
+          "en": "Alternating current (a.c.)",
+          "bm": "Arus ulang-alik (a.u.)"
+        },
+        "definition": {
+          "en": "Current that changes direction regularly; needed by transformers.",
+          "bm": "Arus yang berubah arah secara berkala; diperlukan oleh transformer."
+        }
+      },
+      {
+        "term": {
+          "en": "Step-up transformer",
+          "bm": "Transformer injak naik"
+        },
+        "definition": {
+          "en": "More turns in the secondary coil; raises voltage.",
+          "bm": "Lebih banyak lilitan gegelung sekunder; menaikkan voltan."
+        }
+      },
+      {
+        "term": {
+          "en": "National Grid",
+          "bm": "Grid Nasional"
+        },
+        "definition": {
+          "en": "Network of cables and substations linking power stations to users.",
+          "bm": "Rangkaian kabel dan pencawang yang menghubungkan stesen janakuasa dengan pengguna."
+        }
+      },
+      {
+        "term": {
+          "en": "Kilowatt-hour (kWh)",
+          "bm": "Kilowatt-jam (kWj)"
+        },
+        "definition": {
+          "en": "Energy used by a 1 kW appliance in 1 hour (one \"unit\").",
+          "bm": "Tenaga yang digunakan perkakas 1 kW dalam 1 jam (satu \"unit\")."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-transformer",
+      "f3-power-vi",
+      "f3-energy-pt",
+      "f3-cost"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "A 2 kW air-conditioner runs 3 hours a day for 30 days. The rate is 30 sen per kWh. Find the cost.",
+        "bm": "Penghawa dingin 2 kW digunakan 3 jam sehari selama 30 hari. Kadarnya 30 sen per kWj. Cari kosnya."
+      },
+      "steps": [
+        {
+          "en": "Energy = 2 kW × (3 × 30) h = 180 kWh.",
+          "bm": "Tenaga = 2 kW × (3 × 30) j = 180 kWj."
+        },
+        {
+          "en": "Cost = 180 × RM0.30 = RM54.00.",
+          "bm": "Kos = 180 × RM0.30 = RM54.00."
+        }
+      ],
+      "answer": {
+        "en": "RM54.00",
+        "bm": "RM54.00"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-06-q01",
+      "subtopicId": "f3sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A generator produces electricity by…",
+        "bm": "Penjana menghasilkan tenaga elektrik melalui…"
+      },
+      "explanation": {
+        "en": "Rotating a coil in a magnetic field induces a current.",
+        "bm": "Memutarkan gegelung dalam medan magnet mengaruhkan arus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "electromagnetic induction",
+          "bm": "aruhan elektromagnet"
+        },
+        {
+          "en": "static electricity",
+          "bm": "elektrik statik"
+        },
+        {
+          "en": "chemical reactions only",
+          "bm": "tindak balas kimia sahaja"
+        },
+        {
+          "en": "heating a wire",
+          "bm": "memanaskan dawai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q02",
+      "subtopicId": "f3sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a RENEWABLE energy source for generating electricity?",
+        "bm": "Antara berikut, yang manakah sumber tenaga BOLEH DIPERBAHARUI untuk menjana elektrik?"
+      },
+      "explanation": {
+        "en": "Solar, hydro, wind and biomass can be replaced naturally.",
+        "bm": "Suria, hidro, angin dan biojisim boleh diganti secara semula jadi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Solar",
+          "bm": "Suria"
+        },
+        {
+          "en": "Coal",
+          "bm": "Arang batu"
+        },
+        {
+          "en": "Natural gas",
+          "bm": "Gas asli"
+        },
+        {
+          "en": "Petroleum",
+          "bm": "Petroleum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q03",
+      "subtopicId": "f3sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A transformer works only with…",
+        "bm": "Transformer hanya berfungsi dengan…"
+      },
+      "explanation": {
+        "en": "A changing current is needed to produce a changing magnetic field.",
+        "bm": "Arus yang berubah diperlukan untuk menghasilkan medan magnet yang berubah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "alternating current",
+          "bm": "arus ulang-alik"
+        },
+        {
+          "en": "direct current",
+          "bm": "arus terus"
+        },
+        {
+          "en": "batteries",
+          "bm": "bateri"
+        },
+        {
+          "en": "static charges",
+          "bm": "cas statik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q04",
+      "subtopicId": "f3sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A step-up transformer has…",
+        "bm": "Transformer injak naik mempunyai…"
+      },
+      "explanation": {
+        "en": "Ns > Np raises the voltage.",
+        "bm": "Ns > Np menaikkan voltan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "more turns in the secondary coil",
+          "bm": "lebih banyak lilitan dalam gegelung sekunder"
+        },
+        {
+          "en": "fewer turns in the secondary coil",
+          "bm": "kurang lilitan dalam gegelung sekunder"
+        },
+        {
+          "en": "no iron core",
+          "bm": "tiada teras besi"
+        },
+        {
+          "en": "only one coil",
+          "bm": "satu gegelung sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q05",
+      "subtopicId": "f3sci-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 1000 W iron is used for 2 hours. How many kWh are used?",
+        "bm": "Seterika 1000 W digunakan selama 2 jam. Berapakah kWj yang digunakan?"
+      },
+      "explanation": {
+        "en": "1000 W = 1 kW; 1 kW × 2 h = 2 kWh.",
+        "bm": "1000 W = 1 kW; 1 kW × 2 j = 2 kWj."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0,
+      "unit": "kWh"
+    },
+    {
+      "id": "f3sci-06-q06",
+      "subtopicId": "f3sci-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the voltage of the domestic electricity supply in Malaysia?",
+        "bm": "Berapakah voltan bekalan elektrik domestik di Malaysia?"
+      },
+      "explanation": {
+        "en": "Homes receive about 240 V a.c.",
+        "bm": "Rumah menerima kira-kira 240 V a.u."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "240 V",
+          "bm": "240 V"
+        },
+        {
+          "en": "12 V",
+          "bm": "12 V"
+        },
+        {
+          "en": "110 V",
+          "bm": "110 V"
+        },
+        {
+          "en": "11 000 V",
+          "bm": "11 000 V"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q07",
+      "subtopicId": "f3sci-06-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each wire in a three-pin plug with its colour (current standard).",
+        "bm": "Padankan setiap wayar dalam plag tiga pin dengan warnanya (piawaian semasa)."
+      },
+      "explanation": {
+        "en": "Older wiring may use red (live), black (neutral) and green (earth).",
+        "bm": "Pendawaian lama mungkin menggunakan merah (hidup), hitam (neutral) dan hijau (bumi)."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Live",
+            "bm": "Hidup"
+          },
+          "right": {
+            "en": "Brown",
+            "bm": "Perang"
+          }
+        },
+        {
+          "left": {
+            "en": "Neutral",
+            "bm": "Neutral"
+          },
+          "right": {
+            "en": "Blue",
+            "bm": "Biru"
+          }
+        },
+        {
+          "left": {
+            "en": "Earth",
+            "bm": "Bumi"
+          },
+          "right": {
+            "en": "Green and yellow",
+            "bm": "Hijau dan kuning"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-06-q08",
+      "subtopicId": "f3sci-06-03",
+      "type": "fill",
+      "prompt": {
+        "en": "A safety device that melts when too much current flows is a ______.",
+        "bm": "Alat keselamatan yang melebur apabila arus terlalu tinggi mengalir ialah ______."
+      },
+      "explanation": {
+        "en": "The fuse breaks the circuit to prevent overheating and fire.",
+        "bm": "Fius memutuskan litar untuk mengelakkan pemanasan lampau dan kebakaran."
+      },
+      "difficulty": 1,
+      "answer": [
+        "fuse",
+        "fius"
+      ]
+    },
+    {
+      "id": "f3sci-06-q09",
+      "subtopicId": "f3sci-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A transformer has 1000 turns in the primary coil and 50 turns in the secondary coil. The primary voltage is 240 V. Find the secondary voltage.",
+        "bm": "Sebuah transformer mempunyai 1000 lilitan gegelung primer dan 50 lilitan gegelung sekunder. Voltan primer ialah 240 V. Cari voltan sekunder."
+      },
+      "explanation": {
+        "en": "Vs = Vp × Ns/Np = 240 × 50/1000 = 12 V (step-down).",
+        "bm": "Vs = Vp × Ns/Np = 240 × 50/1000 = 12 V (injak turun)."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0,
+      "unit": "V"
+    },
+    {
+      "id": "f3sci-06-q10",
+      "subtopicId": "f3sci-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A step-up transformer changes 240 V to 2400 V. The primary coil has 100 turns. How many turns does the secondary have?",
+        "bm": "Transformer injak naik mengubah 240 V kepada 2400 V. Gegelung primer mempunyai 100 lilitan. Berapakah lilitan gegelung sekunder?"
+      },
+      "explanation": {
+        "en": "Ns = Np × Vs/Vp = 100 × 2400/240 = 1000 turns.",
+        "bm": "Ns = Np × Vs/Vp = 100 × 2400/240 = 1000 lilitan."
+      },
+      "difficulty": 2,
+      "answer": 1000,
+      "tolerance": 0
+    },
+    {
+      "id": "f3sci-06-q11",
+      "subtopicId": "f3sci-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 2400 W kettle is connected to 240 V. What current does it draw?",
+        "bm": "Cerek 2400 W disambungkan kepada 240 V. Berapakah arus yang digunakan?"
+      },
+      "explanation": {
+        "en": "I = P/V = 2400/240 = 10 A, so a 13 A fuse is suitable.",
+        "bm": "I = P/V = 2400/240 = 10 A, jadi fius 13 A sesuai."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "A"
+    },
+    {
+      "id": "f3sci-06-q12",
+      "subtopicId": "f3sci-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Using the iron above (2 kWh), find the cost if 1 kWh costs 25 sen (RM).",
+        "bm": "Menggunakan seterika di atas (2 kWj), cari kos jika 1 kWj berharga 25 sen (RM)."
+      },
+      "explanation": {
+        "en": "2 × RM0.25 = RM0.50.",
+        "bm": "2 × RM0.25 = RM0.50."
+      },
+      "difficulty": 2,
+      "answer": 0.5,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3sci-06-q13",
+      "subtopicId": "f3sci-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is electricity transmitted at very high voltage?",
+        "bm": "Mengapakah tenaga elektrik dihantar pada voltan yang sangat tinggi?"
+      },
+      "explanation": {
+        "en": "For the same power, higher voltage means lower current and less heating.",
+        "bm": "Bagi kuasa yang sama, voltan lebih tinggi bermaksud arus lebih rendah dan kurang pemanasan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "A smaller current flows, so less energy is lost as heat in the cables",
+          "bm": "Arus yang lebih kecil mengalir, jadi kurang tenaga hilang sebagai haba dalam kabel"
+        },
+        {
+          "en": "It travels faster",
+          "bm": "Ia bergerak lebih laju"
+        },
+        {
+          "en": "Homes need high voltage",
+          "bm": "Rumah memerlukan voltan tinggi"
+        },
+        {
+          "en": "It is safer to touch",
+          "bm": "Lebih selamat disentuh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q14",
+      "subtopicId": "f3sci-06-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages of supplying electricity to a home.",
+        "bm": "Susun peringkat membekalkan tenaga elektrik ke rumah."
+      },
+      "explanation": {
+        "en": "High voltage for long distances, low voltage for safe use.",
+        "bm": "Voltan tinggi untuk jarak jauh, voltan rendah untuk kegunaan selamat."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Power station generates electricity",
+          "bm": "Stesen janakuasa menjana elektrik"
+        },
+        {
+          "en": "Step-up transformer raises voltage",
+          "bm": "Transformer injak naik menaikkan voltan"
+        },
+        {
+          "en": "Transmission through the National Grid",
+          "bm": "Penghantaran melalui Grid Nasional"
+        },
+        {
+          "en": "Step-down transformers at substations",
+          "bm": "Transformer injak turun di pencawang"
+        },
+        {
+          "en": "Distribution to homes at 240 V",
+          "bm": "Pengagihan ke rumah pada 240 V"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-06-q15",
+      "subtopicId": "f3sci-06-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL safety devices in household wiring.",
+        "bm": "Pilih SEMUA alat keselamatan dalam pendawaian rumah."
+      },
+      "explanation": {
+        "en": "Overloading adaptors is a fire risk, not a safety device.",
+        "bm": "Penyesuai yang terbeban ialah risiko kebakaran, bukan alat keselamatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Fuse",
+          "bm": "Fius"
+        },
+        {
+          "en": "Miniature circuit breaker (MCB)",
+          "bm": "Pemutus litar kecil (MCB)"
+        },
+        {
+          "en": "Earth wire",
+          "bm": "Wayar bumi"
+        },
+        {
+          "en": "Extra multi-plug adaptors",
+          "bm": "Penyesuai berbilang palam tambahan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-06-q16",
+      "subtopicId": "f3sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a hydroelectric power station, which energy change takes place?",
+        "bm": "Dalam stesen janakuasa hidroelektrik, perubahan tenaga apakah yang berlaku?"
+      },
+      "explanation": {
+        "en": "Water stored high in a dam flows down to turn turbines.",
+        "bm": "Air yang disimpan tinggi dalam empangan mengalir turun untuk memutarkan turbin."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Gravitational potential energy → kinetic energy → electrical energy",
+          "bm": "Tenaga keupayaan graviti → tenaga kinetik → tenaga elektrik"
+        },
+        {
+          "en": "Chemical energy → light energy",
+          "bm": "Tenaga kimia → tenaga cahaya"
+        },
+        {
+          "en": "Nuclear energy → sound energy",
+          "bm": "Tenaga nuklear → tenaga bunyi"
+        },
+        {
+          "en": "Electrical → chemical energy",
+          "bm": "Tenaga elektrik → tenaga kimia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q17",
+      "subtopicId": "f3sci-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 2 kW air-conditioner runs 3 hours a day for 30 days at 30 sen per kWh. Find the cost (RM).",
+        "bm": "Penghawa dingin 2 kW digunakan 3 jam sehari selama 30 hari pada 30 sen per kWj. Cari kosnya (RM)."
+      },
+      "explanation": {
+        "en": "Energy = 2 × 3 × 30 = 180 kWh; cost = 180 × 0.30 = RM54.00.",
+        "bm": "Tenaga = 2 × 3 × 30 = 180 kWj; kos = 180 × 0.30 = RM54.00."
+      },
+      "difficulty": 3,
+      "answer": 54,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f3sci-06-q18",
+      "subtopicId": "f3sci-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A 1500 W heater is used on 240 V. Which fuse should be fitted: 3 A, 5 A or 13 A?",
+        "bm": "Pemanas 1500 W digunakan pada 240 V. Fius manakah patut dipasang: 3 A, 5 A atau 13 A?"
+      },
+      "explanation": {
+        "en": "I = 1500/240 = 6.25 A. Choose the fuse just above this: 13 A.",
+        "bm": "I = 1500/240 = 6.25 A. Pilih fius yang sedikit melebihi nilai ini: 13 A."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "13 A",
+          "bm": "13 A"
+        },
+        {
+          "en": "3 A",
+          "bm": "3 A"
+        },
+        {
+          "en": "5 A",
+          "bm": "5 A"
+        },
+        {
+          "en": "No fuse",
+          "bm": "Tiada fius"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q19",
+      "subtopicId": "f3sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia generates most of its electricity from natural gas and coal. What is the BEST long-term plan?",
+        "bm": "Malaysia menjana kebanyakan elektriknya daripada gas asli dan arang batu. Apakah rancangan jangka panjang TERBAIK?"
+      },
+      "explanation": {
+        "en": "Fossil fuels are non-renewable and release carbon dioxide.",
+        "bm": "Bahan api fosil tidak boleh diperbaharui dan membebaskan karbon dioksida."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Increase renewable sources such as solar and hydro, and use energy efficiently",
+          "bm": "Meningkatkan sumber boleh diperbaharui seperti suria dan hidro, serta menggunakan tenaga dengan cekap"
+        },
+        {
+          "en": "Use more coal only",
+          "bm": "Menggunakan lebih banyak arang batu sahaja"
+        },
+        {
+          "en": "Stop using electricity",
+          "bm": "Berhenti menggunakan elektrik"
+        },
+        {
+          "en": "Leave lights on all day",
+          "bm": "Membiarkan lampu menyala sepanjang hari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-06-q20",
+      "subtopicId": "f3sci-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the metal case of a washing machine connected to the earth wire?",
+        "bm": "Mengapakah bekas logam mesin basuh disambungkan kepada wayar bumi?"
+      },
+      "explanation": {
+        "en": "The earth wire gives the current a safe, low-resistance path.",
+        "bm": "Wayar bumi memberi laluan rintangan rendah yang selamat kepada arus."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "If a live wire touches the case, current flows to earth and the fuse blows, preventing electric shock",
+          "bm": "Jika wayar hidup tersentuh bekas, arus mengalir ke bumi dan fius terputus, mengelakkan renjatan elektrik"
+        },
+        {
+          "en": "To make it run faster",
+          "bm": "Supaya ia bergerak lebih laju"
+        },
+        {
+          "en": "To save electricity",
+          "bm": "Untuk menjimatkan elektrik"
+        },
+        {
+          "en": "To produce static electricity",
+          "bm": "Untuk menghasilkan elektrik statik"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

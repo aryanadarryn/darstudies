@@ -1,0 +1,816 @@
+{
+  "chapterId": "f3sej-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Ipoh, Taiping and Kuala Lumpur grew from tin mines. Rubber trees from Brazil covered the hills. Schools taught in four languages. Western rule reshaped the land and its people.",
+      "bm": "Ipoh, Taiping dan Kuala Lumpur berkembang daripada lombong bijih timah. Pokok getah dari Brazil memenuhi bukit-bukau. Sekolah mengajar dalam empat bahasa. Pemerintahan Barat mengubah bentuk tanah air dan rakyatnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tin mining and rubber planting became the backbone of the colonial economy.",
+        "bm": "Perlombongan bijih timah dan penanaman getah menjadi tulang belakang ekonomi kolonial."
+      },
+      {
+        "en": "Roads, railways and ports were built mainly to carry tin and rubber to the coast.",
+        "bm": "Jalan raya, landasan kereta api dan pelabuhan dibina terutamanya untuk membawa bijih timah dan getah ke pantai."
+      },
+      {
+        "en": "Immigration of Chinese and Indian workers created a plural society; vernacular schools followed separate paths.",
+        "bm": "Kemasukan pekerja Cina dan India membentuk masyarakat majmuk; sekolah vernakular mengikut haluan masing-masing."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Effects of Western rule",
+          "bm": "Kesan pemerintahan Barat"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Tin mining",
+              "bm": "Perlombongan bijih timah"
+            },
+            "detail": {
+              "en": "Larut, Kinta; new towns",
+              "bm": "Larut, Kinta; bandar baharu"
+            }
+          },
+          {
+            "label": {
+              "en": "Rubber",
+              "bm": "Getah"
+            },
+            "detail": {
+              "en": "Estates; H.N. Ridley promoted it",
+              "bm": "Ladang; dipromosi oleh H.N. Ridley"
+            }
+          },
+          {
+            "label": {
+              "en": "Transport",
+              "bm": "Pengangkutan"
+            },
+            "detail": {
+              "en": "First railway Taiping–Port Weld, 1885",
+              "bm": "Landasan pertama Taiping–Port Weld, 1885"
+            }
+          },
+          {
+            "label": {
+              "en": "Immigration",
+              "bm": "Imigrasi"
+            },
+            "detail": {
+              "en": "Chinese (mines), Indians (estates)",
+              "bm": "Cina (lombong), India (ladang)"
+            }
+          },
+          {
+            "label": {
+              "en": "Education",
+              "bm": "Pendidikan"
+            },
+            "detail": {
+              "en": "Malay, Chinese, Tamil and English schools",
+              "bm": "Sekolah Melayu, Cina, Tamil dan Inggeris"
+            }
+          },
+          {
+            "label": {
+              "en": "Plural society",
+              "bm": "Masyarakat majmuk"
+            },
+            "detail": {
+              "en": "Ethnic groups linked to different jobs and places",
+              "bm": "Kaum dikaitkan dengan pekerjaan dan tempat berbeza"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Plural society",
+          "bm": "Masyarakat majmuk"
+        },
+        "definition": {
+          "en": "A society of several ethnic groups living side by side.",
+          "bm": "Masyarakat yang terdiri daripada beberapa kaum yang hidup bersebelahan."
+        }
+      },
+      {
+        "term": {
+          "en": "Vernacular school",
+          "bm": "Sekolah vernakular"
+        },
+        "definition": {
+          "en": "School teaching in a community's own language (Malay, Chinese, Tamil).",
+          "bm": "Sekolah yang mengajar dalam bahasa ibunda sesuatu kaum (Melayu, Cina, Tamil)."
+        }
+      },
+      {
+        "term": {
+          "en": "Dual economy",
+          "bm": "Ekonomi dualisme"
+        },
+        "definition": {
+          "en": "Modern commercial sector beside traditional rural farming.",
+          "bm": "Sektor komersial moden bersebelahan pertanian luar bandar tradisional."
+        }
+      },
+      {
+        "term": {
+          "en": "Kangani system",
+          "bm": "Sistem kangani"
+        },
+        "definition": {
+          "en": "Recruitment of Indian estate workers through a foreman (kangani).",
+          "bm": "Pengambilan pekerja ladang India melalui seorang mandur (kangani)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain TWO social effects of British rule.",
+        "bm": "Jelaskan DUA kesan sosial pemerintahan British."
+      },
+      "steps": [
+        {
+          "en": "Plural society: immigrants from China and India settled, creating a multi-ethnic population.",
+          "bm": "Masyarakat majmuk: imigran dari China dan India menetap, membentuk penduduk berbilang kaum."
+        },
+        {
+          "en": "Education: separate vernacular schools (Malay, Chinese, Tamil) and English schools developed.",
+          "bm": "Pendidikan: sekolah vernakular berasingan (Melayu, Cina, Tamil) dan sekolah Inggeris berkembang."
+        }
+      ],
+      "answer": {
+        "en": "Also accepted: growth of towns; ethnic groups linked to different occupations.",
+        "bm": "Juga diterima: perkembangan bandar; kaum dikaitkan dengan pekerjaan berbeza."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sej-06-q01",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which two products were the backbone of the colonial economy in Malaya?",
+        "bm": "Dua hasil manakah menjadi tulang belakang ekonomi kolonial di Tanah Melayu?"
+      },
+      "explanation": {
+        "en": "Both were in great demand by industries in the West.",
+        "bm": "Kedua-duanya sangat diperlukan oleh industri di Barat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tin and rubber",
+          "bm": "Bijih timah dan getah"
+        },
+        {
+          "en": "Gold and coffee",
+          "bm": "Emas dan kopi"
+        },
+        {
+          "en": "Oil and gas",
+          "bm": "Minyak dan gas"
+        },
+        {
+          "en": "Rice and pepper",
+          "bm": "Beras dan lada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q02",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first railway in Malaya (1885) linked…",
+        "bm": "Landasan kereta api pertama di Tanah Melayu (1885) menghubungkan…"
+      },
+      "explanation": {
+        "en": "It carried tin from Larut to the coast.",
+        "bm": "Ia membawa bijih timah dari Larut ke pantai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Taiping and Port Weld",
+          "bm": "Taiping and Port Weld"
+        },
+        {
+          "en": "Kuala Lumpur and Klang",
+          "bm": "Kuala Lumpur and Klang"
+        },
+        {
+          "en": "Ipoh and Penang",
+          "bm": "Ipoh and Penang"
+        },
+        {
+          "en": "Johor Bahru and Singapore",
+          "bm": "Johor Bahru and Singapore"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q03",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who promoted rubber planting and a better tapping method in Malaya?",
+        "bm": "Siapakah yang mempromosi penanaman getah dan kaedah menoreh yang lebih baik di Tanah Melayu?"
+      },
+      "explanation": {
+        "en": "He was director of the Singapore Botanic Gardens.",
+        "bm": "Beliau pengarah Taman Botani Singapura."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "H.N. Ridley",
+          "bm": "H.N. Ridley"
+        },
+        {
+          "en": "Frank Swettenham",
+          "bm": "Frank Swettenham"
+        },
+        {
+          "en": "J.W.W. Birch",
+          "bm": "J.W.W. Birch"
+        },
+        {
+          "en": "Francis Light",
+          "bm": "Francis Light"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q04",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Most Chinese immigrants in the 19th century came to work in…",
+        "bm": "Kebanyakan imigran Cina pada abad ke-19 datang bekerja di…"
+      },
+      "explanation": {
+        "en": "Many also became traders.",
+        "bm": "Ramai juga menjadi peniaga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tin mines",
+          "bm": "lombong bijih timah"
+        },
+        {
+          "en": "rubber estates only",
+          "bm": "ladang getah sahaja"
+        },
+        {
+          "en": "government offices",
+          "bm": "pejabat kerajaan"
+        },
+        {
+          "en": "paddy fields",
+          "bm": "sawah padi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q05",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Most Indian immigrants came to work in…",
+        "bm": "Kebanyakan imigran India datang bekerja di…"
+      },
+      "explanation": {
+        "en": "Many were recruited through the kangani system.",
+        "bm": "Ramai diambil melalui sistem kangani."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rubber estates",
+          "bm": "ladang getah"
+        },
+        {
+          "en": "tin mines only",
+          "bm": "lombong bijih timah sahaja"
+        },
+        {
+          "en": "fishing villages",
+          "bm": "kampung nelayan"
+        },
+        {
+          "en": "the navy",
+          "bm": "tentera laut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q06",
+      "subtopicId": "f3sej-06-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A society made up of several ethnic groups living side by side is a ______ society.",
+        "bm": "Masyarakat yang terdiri daripada beberapa kaum yang hidup bersebelahan ialah masyarakat ______."
+      },
+      "explanation": {
+        "en": "This is a lasting effect of colonial immigration.",
+        "bm": "Ini kesan berkekalan imigrasi zaman kolonial."
+      },
+      "difficulty": 1,
+      "answer": [
+        "plural",
+        "majmuk",
+        "multi-ethnic"
+      ]
+    },
+    {
+      "id": "f3sej-06-q07",
+      "subtopicId": "f3sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Malay College Kuala Kangsar (MCKK) was opened in…",
+        "bm": "Maktab Melayu Kuala Kangsar (MCKK) dibuka pada…"
+      },
+      "explanation": {
+        "en": "It trained sons of Malay royalty and nobles for administrative posts.",
+        "bm": "Ia melatih anak-anak raja dan pembesar Melayu untuk jawatan pentadbiran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1905",
+          "bm": "1905"
+        },
+        {
+          "en": "1922",
+          "bm": "1922"
+        },
+        {
+          "en": "1874",
+          "bm": "1874"
+        },
+        {
+          "en": "1957",
+          "bm": "1957"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q08",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which town grew rapidly because of tin mining in the Kinta Valley?",
+        "bm": "Bandar manakah berkembang pesat kerana perlombongan bijih timah di Lembah Kinta?"
+      },
+      "explanation": {
+        "en": "Kuala Lumpur and Taiping also grew from tin.",
+        "bm": "Kuala Lumpur dan Taiping juga berkembang kerana bijih timah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ipoh",
+          "bm": "Ipoh"
+        },
+        {
+          "en": "Kota Bharu",
+          "bm": "Kota Bharu"
+        },
+        {
+          "en": "Alor Setar",
+          "bm": "Alor Setar"
+        },
+        {
+          "en": "Kuala Terengganu",
+          "bm": "Kuala Terengganu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q09",
+      "subtopicId": "f3sej-06-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL types of school that developed under British rule.",
+        "bm": "Pilih SEMUA jenis sekolah yang berkembang di bawah pemerintahan British."
+      },
+      "explanation": {
+        "en": "English schools also existed. A single national system came only after independence.",
+        "bm": "Sekolah Inggeris juga wujud. Sistem kebangsaan tunggal hanya wujud selepas merdeka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Malay vernacular",
+          "bm": "Vernakular Melayu"
+        },
+        {
+          "en": "Chinese vernacular",
+          "bm": "Vernakular Cina"
+        },
+        {
+          "en": "Tamil vernacular",
+          "bm": "Vernakular Tamil"
+        },
+        {
+          "en": "A single national school for all",
+          "bm": "Satu sekolah kebangsaan untuk semua"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sej-06-q10",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why were most roads and railways built on the west coast?",
+        "bm": "Mengapakah kebanyakan jalan raya dan landasan kereta api dibina di pantai barat?"
+      },
+      "explanation": {
+        "en": "This caused uneven development between regions.",
+        "bm": "Ini menyebabkan pembangunan tidak seimbang antara wilayah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To carry tin and rubber from mines and estates to the ports",
+          "bm": "Untuk membawa bijih timah dan getah dari lombong dan ladang ke pelabuhan"
+        },
+        {
+          "en": "Because the east coast had no people",
+          "bm": "Kerana pantai timur tiada penduduk"
+        },
+        {
+          "en": "To help paddy farmers only",
+          "bm": "Untuk membantu pesawah sahaja"
+        },
+        {
+          "en": "For tourism",
+          "bm": "Untuk pelancongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q11",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Dual economy\" under the British means…",
+        "bm": "\"Ekonomi dualisme\" di bawah British bermaksud…"
+      },
+      "explanation": {
+        "en": "Many Malays stayed in traditional farming and fishing.",
+        "bm": "Ramai orang Melayu kekal dalam pertanian dan perikanan tradisional."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a modern commercial sector beside a traditional rural sector",
+          "bm": "sektor komersial moden bersebelahan sektor luar bandar tradisional"
+        },
+        {
+          "en": "two currencies",
+          "bm": "dua mata wang"
+        },
+        {
+          "en": "two governments",
+          "bm": "dua kerajaan"
+        },
+        {
+          "en": "two ports",
+          "bm": "dua pelabuhan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q12",
+      "subtopicId": "f3sej-06-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each economic activity with the group most involved during colonial times.",
+        "bm": "Padankan kegiatan ekonomi dengan kaum yang paling terlibat semasa zaman kolonial."
+      },
+      "explanation": {
+        "en": "This \"divide by occupation\" affected unity.",
+        "bm": "Pembahagian mengikut pekerjaan ini menjejaskan perpaduan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Tin mining",
+            "bm": "Perlombongan bijih timah"
+          },
+          "right": {
+            "en": "Chinese",
+            "bm": "Cina"
+          }
+        },
+        {
+          "left": {
+            "en": "Rubber estate work",
+            "bm": "Kerja ladang getah"
+          },
+          "right": {
+            "en": "Indians",
+            "bm": "India"
+          }
+        },
+        {
+          "left": {
+            "en": "Paddy farming and fishing",
+            "bm": "Penanaman padi dan perikanan"
+          },
+          "right": {
+            "en": "Malays",
+            "bm": "Melayu"
+          }
+        },
+        {
+          "left": {
+            "en": "Large estates and trading firms",
+            "bm": "Ladang besar dan firma perdagangan"
+          },
+          "right": {
+            "en": "Europeans",
+            "bm": "Eropah"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sej-06-q13",
+      "subtopicId": "f3sej-06-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Indian estate workers were often recruited through the ______ system.",
+        "bm": "Pekerja ladang India sering diambil melalui sistem ______."
+      },
+      "explanation": {
+        "en": "A kangani (foreman) recruited workers from his home area in South India.",
+        "bm": "Kangani (mandur) mengambil pekerja dari kawasan asalnya di India Selatan."
+      },
+      "difficulty": 2,
+      "answer": [
+        "kangani"
+      ]
+    },
+    {
+      "id": "f3sej-06-q14",
+      "subtopicId": "f3sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which social effect created challenges for unity after independence?",
+        "bm": "Kesan sosial manakah menimbulkan cabaran kepada perpaduan selepas merdeka?"
+      },
+      "explanation": {
+        "en": "National policies later tried to bring communities together.",
+        "bm": "Dasar kebangsaan kemudian cuba menyatukan masyarakat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ethnic groups lived and worked separately with separate schools",
+          "bm": "Kaum tinggal dan bekerja secara berasingan dengan sekolah berasingan"
+        },
+        {
+          "en": "Everyone spoke one language",
+          "bm": "Semua bertutur satu bahasa"
+        },
+        {
+          "en": "There were no towns",
+          "bm": "Tiada bandar"
+        },
+        {
+          "en": "There was no immigration",
+          "bm": "Tiada imigrasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q15",
+      "subtopicId": "f3sej-06-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of tin from mine to world market under British rule.",
+        "bm": "Susun perjalanan bijih timah dari lombong ke pasaran dunia di bawah British."
+      },
+      "explanation": {
+        "en": "Infrastructure served the export economy.",
+        "bm": "Infrastruktur memenuhi keperluan ekonomi eksport."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Mined in Larut or Kinta",
+          "bm": "Dilombong di Larut atau Kinta"
+        },
+        {
+          "en": "Carried by railway",
+          "bm": "Dibawa dengan kereta api"
+        },
+        {
+          "en": "Shipped from a port",
+          "bm": "Dihantar dari pelabuhan"
+        },
+        {
+          "en": "Used by industries in Europe",
+          "bm": "Digunakan oleh industri di Eropah"
+        }
+      ]
+    },
+    {
+      "id": "f3sej-06-q16",
+      "subtopicId": "f3sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Sultan Idris Training College (1922) mainly trained…",
+        "bm": "Maktab Perguruan Sultan Idris (1922) terutamanya melatih…"
+      },
+      "explanation": {
+        "en": "It later produced many Malay nationalists.",
+        "bm": "Ia kemudian melahirkan ramai nasionalis Melayu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Malay school teachers",
+          "bm": "guru sekolah Melayu"
+        },
+        {
+          "en": "British officers",
+          "bm": "pegawai British"
+        },
+        {
+          "en": "tin miners",
+          "bm": "pelombong bijih timah"
+        },
+        {
+          "en": "doctors",
+          "bm": "doktor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q17",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did British infrastructure benefit the colonial economy more than ordinary rural people?",
+        "bm": "Mengapakah infrastruktur British lebih menguntungkan ekonomi kolonial berbanding penduduk luar bandar biasa?"
+      },
+      "explanation": {
+        "en": "The east coast and rural areas were left behind.",
+        "bm": "Pantai timur dan kawasan luar bandar ketinggalan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It linked mines and estates to ports, not most rural villages",
+          "bm": "Ia menghubungkan lombong dan ladang dengan pelabuhan, bukan kebanyakan kampung luar bandar"
+        },
+        {
+          "en": "It was built only in villages",
+          "bm": "Ia dibina di kampung sahaja"
+        },
+        {
+          "en": "It was free for farmers only",
+          "bm": "Ia percuma untuk petani sahaja"
+        },
+        {
+          "en": "It was never used",
+          "bm": "Ia tidak pernah digunakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q18",
+      "subtopicId": "f3sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did the British give Malays mainly basic vernacular education?",
+        "bm": "Mengapakah British memberi orang Melayu kebanyakannya pendidikan vernakular asas sahaja?"
+      },
+      "explanation": {
+        "en": "MCKK served the elite; most village schools taught basic literacy.",
+        "bm": "MCKK untuk golongan elit; kebanyakan sekolah kampung mengajar asas membaca dan menulis."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To keep most Malays as farmers and fishermen while training a small elite for administration",
+          "bm": "Untuk mengekalkan kebanyakan orang Melayu sebagai petani dan nelayan sambil melatih golongan elit kecil untuk pentadbiran"
+        },
+        {
+          "en": "Because Malays did not want schools",
+          "bm": "Kerana orang Melayu tidak mahu sekolah"
+        },
+        {
+          "en": "To prepare all Malays for university",
+          "bm": "Untuk menyediakan semua orang Melayu ke universiti"
+        },
+        {
+          "en": "There was no reason",
+          "bm": "Tiada sebab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q19",
+      "subtopicId": "f3sej-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which present-day Malaysian feature is a direct legacy of colonial economic policy?",
+        "bm": "Ciri Malaysia masa kini manakah warisan langsung dasar ekonomi kolonial?"
+      },
+      "explanation": {
+        "en": "The plantation model began in the colonial period.",
+        "bm": "Model perladangan bermula pada zaman kolonial."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Large plantation sectors such as rubber and oil palm",
+          "bm": "Sektor perladangan besar seperti getah dan kelapa sawit"
+        },
+        {
+          "en": "The national anthem",
+          "bm": "Lagu kebangsaan"
+        },
+        {
+          "en": "Islam as the religion of the Federation",
+          "bm": "Islam sebagai agama Persekutuan"
+        },
+        {
+          "en": "The Malay rulers",
+          "bm": "Raja-raja Melayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-06-q20",
+      "subtopicId": "f3sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What can Malaysians today learn from the colonial \"divide by occupation\" pattern?",
+        "bm": "Apakah yang boleh dipelajari rakyat Malaysia daripada corak \"pembahagian mengikut pekerjaan\" zaman kolonial?"
+      },
+      "explanation": {
+        "en": "Separation can create misunderstanding; mixing builds trust.",
+        "bm": "Pengasingan boleh menimbulkan salah faham; pergaulan membina kepercayaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Shared schools, workplaces and opportunities help build unity",
+          "bm": "Sekolah, tempat kerja dan peluang yang dikongsi membantu membina perpaduan"
+        },
+        {
+          "en": "Each race should stay separate",
+          "bm": "Setiap kaum patut berasingan"
+        },
+        {
+          "en": "Only one group should work",
+          "bm": "Hanya satu kaum patut bekerja"
+        },
+        {
+          "en": "History has no lessons",
+          "bm": "Sejarah tiada pengajaran"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

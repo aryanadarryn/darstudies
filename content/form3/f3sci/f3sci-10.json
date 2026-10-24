@@ -1,0 +1,825 @@
+{
+  "chapterId": "f3sci-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In 1609 Galileo pointed a simple telescope at the sky and saw moons going around Jupiter. Today the James Webb Space Telescope photographs galaxies formed billions of years ago.",
+      "bm": "Pada 1609 Galileo menghalakan teleskop ringkas ke langit dan melihat bulan-bulan mengelilingi Musytari. Kini Teleskop Angkasa James Webb merakam galaksi yang terbentuk berbilion tahun dahulu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Ideas about the universe changed from the geocentric (Earth-centred) model to the heliocentric (Sun-centred) model.",
+        "bm": "Idea tentang alam semesta berubah daripada model geosentrik (Bumi di pusat) kepada model heliosentrik (Matahari di pusat)."
+      },
+      {
+        "en": "Telescopes, rockets, satellites, probes and space stations let us explore space.",
+        "bm": "Teleskop, roket, satelit, kuar dan stesen angkasa membolehkan kita meneroka angkasa."
+      },
+      {
+        "en": "Space technology helps daily life: communication, weather forecasting, GPS and remote sensing.",
+        "bm": "Teknologi angkasa membantu kehidupan harian: komunikasi, ramalan cuaca, GPS dan penderiaan jauh."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "1543",
+              "bm": "1543"
+            },
+            "detail": {
+              "en": "Copernicus publishes the heliocentric model",
+              "bm": "Copernicus menerbitkan model heliosentrik"
+            }
+          },
+          {
+            "title": {
+              "en": "1609–1610",
+              "bm": "1609–1610"
+            },
+            "detail": {
+              "en": "Galileo observes with a telescope",
+              "bm": "Galileo membuat cerapan dengan teleskop"
+            }
+          },
+          {
+            "title": {
+              "en": "1957",
+              "bm": "1957"
+            },
+            "detail": {
+              "en": "Sputnik 1 — first artificial satellite",
+              "bm": "Sputnik 1 — satelit buatan pertama"
+            }
+          },
+          {
+            "title": {
+              "en": "1961",
+              "bm": "1961"
+            },
+            "detail": {
+              "en": "Yuri Gagarin — first human in space",
+              "bm": "Yuri Gagarin — manusia pertama di angkasa"
+            }
+          },
+          {
+            "title": {
+              "en": "1969",
+              "bm": "1969"
+            },
+            "detail": {
+              "en": "Apollo 11 — first humans on the Moon",
+              "bm": "Apollo 11 — manusia pertama di Bulan"
+            }
+          },
+          {
+            "title": {
+              "en": "2007",
+              "bm": "2007"
+            },
+            "detail": {
+              "en": "Sheikh Muszaphar Shukor — first Malaysian in space",
+              "bm": "Sheikh Muszaphar Shukor — rakyat Malaysia pertama di angkasa"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Geocentric model",
+          "bm": "Model geosentrik"
+        },
+        "definition": {
+          "en": "Old idea that Earth is at the centre of the universe (Ptolemy).",
+          "bm": "Idea lama bahawa Bumi di pusat alam semesta (Ptolemy)."
+        }
+      },
+      {
+        "term": {
+          "en": "Heliocentric model",
+          "bm": "Model heliosentrik"
+        },
+        "definition": {
+          "en": "The planets orbit the Sun (Copernicus).",
+          "bm": "Planet mengorbit Matahari (Copernicus)."
+        }
+      },
+      {
+        "term": {
+          "en": "Satellite",
+          "bm": "Satelit"
+        },
+        "definition": {
+          "en": "An object that orbits a planet; artificial ones are launched by rockets.",
+          "bm": "Objek yang mengorbit planet; satelit buatan dilancarkan oleh roket."
+        }
+      },
+      {
+        "term": {
+          "en": "Space probe",
+          "bm": "Kuar angkasa"
+        },
+        "definition": {
+          "en": "Uncrewed spacecraft sent to study other bodies in space.",
+          "bm": "Kapal angkasa tanpa awak yang dihantar untuk mengkaji jasad lain di angkasa."
+        }
+      },
+      {
+        "term": {
+          "en": "Remote sensing",
+          "bm": "Penderiaan jauh"
+        },
+        "definition": {
+          "en": "Collecting information about Earth from satellites.",
+          "bm": "Mengumpul maklumat tentang Bumi daripada satelit."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Give TWO ways satellites help people in Malaysia.",
+        "bm": "Berikan DUA cara satelit membantu rakyat Malaysia."
+      },
+      "steps": [
+        {
+          "en": "Communication satellites (e.g. MEASAT) carry TV and phone signals.",
+          "bm": "Satelit komunikasi (cth. MEASAT) membawa isyarat TV dan telefon."
+        },
+        {
+          "en": "Weather satellites help forecast heavy rain and monsoon floods.",
+          "bm": "Satelit cuaca membantu meramal hujan lebat dan banjir monsun."
+        }
+      ],
+      "answer": {
+        "en": "Also accepted: GPS navigation; remote sensing for agriculture, forests and disasters.",
+        "bm": "Juga diterima: navigasi GPS; penderiaan jauh untuk pertanian, hutan dan bencana."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-10-q01",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who proposed that the planets move around the Sun (heliocentric model) in 1543?",
+        "bm": "Siapakah yang mencadangkan planet bergerak mengelilingi Matahari (model heliosentrik) pada 1543?"
+      },
+      "explanation": {
+        "en": "Ptolemy's older model was geocentric.",
+        "bm": "Model Ptolemy yang lebih awal adalah geosentrik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Nicolaus Copernicus",
+          "bm": "Nicolaus Copernicus"
+        },
+        {
+          "en": "Ptolemy",
+          "bm": "Ptolemy"
+        },
+        {
+          "en": "Isaac Newton",
+          "bm": "Isaac Newton"
+        },
+        {
+          "en": "Yuri Gagarin",
+          "bm": "Yuri Gagarin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q02",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Galileo used a telescope to discover…",
+        "bm": "Galileo menggunakan teleskop untuk menemui…"
+      },
+      "explanation": {
+        "en": "This supported the idea that not everything orbits Earth.",
+        "bm": "Ini menyokong idea bahawa bukan semua objek mengorbit Bumi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "moons orbiting Jupiter",
+          "bm": "bulan-bulan yang mengorbit Musytari"
+        },
+        {
+          "en": "the first satellite",
+          "bm": "satelit pertama"
+        },
+        {
+          "en": "radioactivity",
+          "bm": "keradioaktifan"
+        },
+        {
+          "en": "X-rays",
+          "bm": "sinar-X"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q03",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first artificial satellite, launched in 1957, was…",
+        "bm": "Satelit buatan pertama yang dilancarkan pada 1957 ialah…"
+      },
+      "explanation": {
+        "en": "It was launched by the Soviet Union.",
+        "bm": "Ia dilancarkan oleh Kesatuan Soviet."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sputnik 1",
+          "bm": "Sputnik 1"
+        },
+        {
+          "en": "Apollo 11",
+          "bm": "Apollo 11"
+        },
+        {
+          "en": "Hubble",
+          "bm": "Hubble"
+        },
+        {
+          "en": "MEASAT-1",
+          "bm": "MEASAT-1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q04",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who was the first human in space (1961)?",
+        "bm": "Siapakah manusia pertama di angkasa (1961)?"
+      },
+      "explanation": {
+        "en": "Gagarin orbited Earth in Vostok 1.",
+        "bm": "Gagarin mengorbit Bumi dalam Vostok 1."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Yuri Gagarin",
+          "bm": "Yuri Gagarin"
+        },
+        {
+          "en": "Neil Armstrong",
+          "bm": "Neil Armstrong"
+        },
+        {
+          "en": "Galileo Galilei",
+          "bm": "Galileo Galilei"
+        },
+        {
+          "en": "Sheikh Muszaphar Shukor",
+          "bm": "Sheikh Muszaphar Shukor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q05",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which mission first landed humans on the Moon in 1969?",
+        "bm": "Misi manakah pertama kali mendaratkan manusia di Bulan pada 1969?"
+      },
+      "explanation": {
+        "en": "Neil Armstrong was the first to step onto the Moon.",
+        "bm": "Neil Armstrong orang pertama menjejakkan kaki di Bulan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Apollo 11",
+          "bm": "Apollo 11"
+        },
+        {
+          "en": "Sputnik 1",
+          "bm": "Sputnik 1"
+        },
+        {
+          "en": "Voyager 1",
+          "bm": "Voyager 1"
+        },
+        {
+          "en": "Soyuz TMA-11",
+          "bm": "Soyuz TMA-11"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q06",
+      "subtopicId": "f3sci-10-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The first Malaysian to go into space (2007) was Dato' Dr Sheikh Muszaphar ______.",
+        "bm": "Rakyat Malaysia pertama ke angkasa (2007) ialah Dato' Dr Sheikh Muszaphar ______."
+      },
+      "explanation": {
+        "en": "He flew to the International Space Station.",
+        "bm": "Beliau terbang ke Stesen Angkasa Antarabangsa."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Shukor"
+      ]
+    },
+    {
+      "id": "f3sci-10-q07",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The idea that Earth is at the centre of the universe is called the…",
+        "bm": "Idea bahawa Bumi berada di pusat alam semesta dipanggil model…"
+      },
+      "explanation": {
+        "en": "Geo = Earth; helio = Sun.",
+        "bm": "Geo = Bumi; helio = Matahari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "geocentric model",
+          "bm": "geosentrik"
+        },
+        {
+          "en": "heliocentric model",
+          "bm": "heliosentrik"
+        },
+        {
+          "en": "Big Bang",
+          "bm": "Letupan Besar"
+        },
+        {
+          "en": "solar cycle",
+          "bm": "kitaran suria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q08",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is used to launch satellites into orbit?",
+        "bm": "Apakah yang digunakan untuk melancarkan satelit ke orbit?"
+      },
+      "explanation": {
+        "en": "Rockets carry their own fuel and oxidiser, so they work in space.",
+        "bm": "Roket membawa bahan api dan pengoksidanya sendiri, jadi ia berfungsi di angkasa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "A rocket",
+          "bm": "Roket"
+        },
+        {
+          "en": "A hot-air balloon",
+          "bm": "Belon udara panas"
+        },
+        {
+          "en": "An aeroplane only",
+          "bm": "Kapal terbang sahaja"
+        },
+        {
+          "en": "A submarine",
+          "bm": "Kapal selam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q09",
+      "subtopicId": "f3sci-10-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these events in time order.",
+        "bm": "Susun peristiwa ini mengikut kronologi."
+      },
+      "explanation": {
+        "en": "1543 → 1609 → 1957 → 1969 → 2007.",
+        "bm": "1543 → 1609 → 1957 → 1969 → 2007."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Copernicus's heliocentric model",
+          "bm": "Model heliosentrik Copernicus"
+        },
+        {
+          "en": "Galileo's telescope observations",
+          "bm": "Cerapan teleskop Galileo"
+        },
+        {
+          "en": "Sputnik 1 launched",
+          "bm": "Sputnik 1 dilancarkan"
+        },
+        {
+          "en": "Apollo 11 Moon landing",
+          "bm": "Pendaratan Apollo 11 di Bulan"
+        },
+        {
+          "en": "First Malaysian in space",
+          "bm": "Rakyat Malaysia pertama di angkasa"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-10-q10",
+      "subtopicId": "f3sci-10-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each space technology with its use.",
+        "bm": "Padankan teknologi angkasa dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "Each has a different job in orbit.",
+        "bm": "Setiap satu mempunyai tugas berbeza di orbit."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Communication satellite",
+            "bm": "Satelit komunikasi"
+          },
+          "right": {
+            "en": "TV, phone and internet signals",
+            "bm": "Isyarat TV, telefon dan internet"
+          }
+        },
+        {
+          "left": {
+            "en": "Weather satellite",
+            "bm": "Satelit cuaca"
+          },
+          "right": {
+            "en": "Forecasting storms and monsoons",
+            "bm": "Meramal ribut dan monsun"
+          }
+        },
+        {
+          "left": {
+            "en": "GPS satellites",
+            "bm": "Satelit GPS"
+          },
+          "right": {
+            "en": "Finding position and navigation",
+            "bm": "Menentukan kedudukan dan navigasi"
+          }
+        },
+        {
+          "left": {
+            "en": "Space telescope",
+            "bm": "Teleskop angkasa"
+          },
+          "right": {
+            "en": "Observing distant stars and galaxies",
+            "bm": "Mencerap bintang dan galaksi yang jauh"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-10-q11",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do space telescopes like Hubble give clearer images than telescopes on the ground?",
+        "bm": "Mengapakah teleskop angkasa seperti Hubble memberi imej lebih jelas daripada teleskop di Bumi?"
+      },
+      "explanation": {
+        "en": "The atmosphere's movement and absorption reduce image quality.",
+        "bm": "Pergerakan dan penyerapan atmosfera mengurangkan kualiti imej."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They are above the atmosphere, which blurs and absorbs light",
+          "bm": "Ia berada di atas atmosfera, yang mengaburkan dan menyerap cahaya"
+        },
+        {
+          "en": "They are closer to the stars by a big distance",
+          "bm": "Ia jauh lebih dekat dengan bintang"
+        },
+        {
+          "en": "They have no mirrors",
+          "bm": "Ia tiada cermin"
+        },
+        {
+          "en": "They only work at night on Earth",
+          "bm": "Ia hanya berfungsi pada waktu malam di Bumi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q12",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which was Malaysia's first microsatellite, launched in 2000?",
+        "bm": "Manakah satelit mikro pertama Malaysia, dilancarkan pada 2000?"
+      },
+      "explanation": {
+        "en": "Malaysia later launched RazakSAT (2009) for remote sensing.",
+        "bm": "Malaysia kemudian melancarkan RazakSAT (2009) untuk penderiaan jauh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "TiungSAT-1",
+          "bm": "TiungSAT-1"
+        },
+        {
+          "en": "Sputnik 1",
+          "bm": "Sputnik 1"
+        },
+        {
+          "en": "Hubble",
+          "bm": "Hubble"
+        },
+        {
+          "en": "Voyager 2",
+          "bm": "Voyager 2"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q13",
+      "subtopicId": "f3sci-10-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL everyday uses of space technology.",
+        "bm": "Pilih SEMUA kegunaan harian teknologi angkasa."
+      },
+      "explanation": {
+        "en": "Many inventions such as memory foam and water filters also came from space research.",
+        "bm": "Banyak ciptaan seperti busa memori dan penapis air juga berasal daripada penyelidikan angkasa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "GPS navigation in phones",
+          "bm": "Navigasi GPS dalam telefon"
+        },
+        {
+          "en": "Satellite TV",
+          "bm": "TV satelit"
+        },
+        {
+          "en": "Weather forecasts",
+          "bm": "Ramalan cuaca"
+        },
+        {
+          "en": "Cooking rice",
+          "bm": "Memasak nasi"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-10-q14",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Early Muslim astronomers such as al-Battani and al-Biruni contributed by…",
+        "bm": "Ahli astronomi Islam awal seperti al-Battani dan al-Biruni menyumbang dengan…"
+      },
+      "explanation": {
+        "en": "Their work helped later astronomers in Europe.",
+        "bm": "Usaha mereka membantu ahli astronomi kemudian di Eropah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "making accurate observations and calculations of the motions of the Sun, Moon and planets",
+          "bm": "membuat cerapan dan pengiraan yang tepat tentang gerakan Matahari, Bulan dan planet"
+        },
+        {
+          "en": "launching rockets",
+          "bm": "melancarkan roket"
+        },
+        {
+          "en": "building space stations",
+          "bm": "membina stesen angkasa"
+        },
+        {
+          "en": "discovering radioactivity",
+          "bm": "menemui keradioaktifan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q15",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The International Space Station (ISS) is…",
+        "bm": "Stesen Angkasa Antarabangsa (ISS) ialah…"
+      },
+      "explanation": {
+        "en": "Astronauts from many countries live and do experiments there.",
+        "bm": "Angkasawan dari banyak negara tinggal dan menjalankan eksperimen di situ."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a crewed laboratory orbiting Earth",
+          "bm": "makmal berawak yang mengorbit Bumi"
+        },
+        {
+          "en": "a telescope on the Moon",
+          "bm": "teleskop di Bulan"
+        },
+        {
+          "en": "a rocket factory in Malaysia",
+          "bm": "kilang roket di Malaysia"
+        },
+        {
+          "en": "a satellite around Mars",
+          "bm": "satelit di sekeliling Marikh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q16",
+      "subtopicId": "f3sci-10-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Collecting information about Earth's surface from satellites is called remote ______.",
+        "bm": "Mengumpul maklumat tentang permukaan Bumi dari satelit dipanggil ______ jauh."
+      },
+      "explanation": {
+        "en": "Used for mapping forests, crops, floods and haze.",
+        "bm": "Digunakan untuk memetakan hutan, tanaman, banjir dan jerebu."
+      },
+      "difficulty": 2,
+      "answer": [
+        "sensing",
+        "penderiaan"
+      ]
+    },
+    {
+      "id": "f3sci-10-q17",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why was Galileo's discovery of Jupiter's moons important?",
+        "bm": "Mengapakah penemuan bulan-bulan Musytari oleh Galileo penting?"
+      },
+      "explanation": {
+        "en": "Evidence from observation changed scientific ideas.",
+        "bm": "Bukti daripada cerapan mengubah idea saintifik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It showed that not everything orbits Earth, supporting the heliocentric model",
+          "bm": "Ia menunjukkan bahawa bukan semua objek mengorbit Bumi, menyokong model heliosentrik"
+        },
+        {
+          "en": "It proved the Moon is made of rock",
+          "bm": "Ia membuktikan Bulan diperbuat daripada batu"
+        },
+        {
+          "en": "It led directly to the first satellite",
+          "bm": "Ia terus membawa kepada satelit pertama"
+        },
+        {
+          "en": "It showed Jupiter is a star",
+          "bm": "Ia menunjukkan Musytari ialah bintang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q18",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How can remote sensing satellites help during the monsoon season in Malaysia?",
+        "bm": "Bagaimanakah satelit penderiaan jauh boleh membantu semasa musim monsun di Malaysia?"
+      },
+      "explanation": {
+        "en": "Satellite images show large areas quickly.",
+        "bm": "Imej satelit menunjukkan kawasan luas dengan cepat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "By mapping flooded areas so rescuers know where to go",
+          "bm": "Dengan memetakan kawasan banjir supaya penyelamat tahu ke mana perlu pergi"
+        },
+        {
+          "en": "By stopping the rain",
+          "bm": "Dengan menghentikan hujan"
+        },
+        {
+          "en": "By pumping water out",
+          "bm": "Dengan mengepam air keluar"
+        },
+        {
+          "en": "By cooling the sea",
+          "bm": "Dengan menyejukkan laut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q19",
+      "subtopicId": "f3sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is a major problem caused by thousands of old satellites and rocket parts in orbit?",
+        "bm": "Apakah masalah utama akibat beribu-ribu satelit lama dan serpihan roket di orbit?"
+      },
+      "explanation": {
+        "en": "Even small debris moves at very high speed.",
+        "bm": "Serpihan kecil pun bergerak pada kelajuan yang sangat tinggi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Space debris can collide with working satellites and spacecraft",
+          "bm": "Sampah angkasa boleh berlanggar dengan satelit dan kapal angkasa yang masih berfungsi"
+        },
+        {
+          "en": "They make the Earth heavier",
+          "bm": "Ia menjadikan Bumi lebih berat"
+        },
+        {
+          "en": "They cause earthquakes",
+          "bm": "Ia menyebabkan gempa bumi"
+        },
+        {
+          "en": "They block all sunlight",
+          "bm": "Ia menghalang semua cahaya matahari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-10-q20",
+      "subtopicId": "f3sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Some people say space exploration wastes money. Which is the STRONGEST counter-argument?",
+        "bm": "Sesetengah orang berkata penerokaan angkasa membazir wang. Hujah balas manakah PALING KUAT?"
+      },
+      "explanation": {
+        "en": "Benefits reach daily life, the economy and safety.",
+        "bm": "Manfaatnya sampai kepada kehidupan harian, ekonomi dan keselamatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It produces technologies used daily (GPS, weather forecasts, communications) and new knowledge",
+          "bm": "Ia menghasilkan teknologi yang digunakan setiap hari (GPS, ramalan cuaca, komunikasi) dan ilmu baharu"
+        },
+        {
+          "en": "Rockets are pretty",
+          "bm": "Roket cantik"
+        },
+        {
+          "en": "Space is close",
+          "bm": "Angkasa dekat"
+        },
+        {
+          "en": "It has no benefits",
+          "bm": "Ia tiada manfaat"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

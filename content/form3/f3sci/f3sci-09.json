@@ -1,0 +1,834 @@
+{
+  "chapterId": "f3sci-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In 1989 a burst of charged particles from the Sun caused a blackout across Quebec, Canada for about nine hours. Weather in space can affect life on Earth.",
+      "bm": "Pada 1989, letusan zarah bercas dari Matahari menyebabkan gangguan bekalan elektrik di seluruh Quebec, Kanada selama kira-kira sembilan jam. Cuaca di angkasa boleh menjejaskan kehidupan di Bumi."
+    },
+    "bigIdeas": [
+      {
+        "en": "The Sun has layers (core, radiative zone, convective zone, photosphere, chromosphere, corona) and is very active.",
+        "bm": "Matahari mempunyai lapisan (teras, zon radiasi, zon olakan, fotosfera, kromosfera, korona) dan sangat aktif."
+      },
+      {
+        "en": "Sunspots, solar flares, prominences, coronal mass ejections and the solar wind send energy and particles into space.",
+        "bm": "Tompok matahari, nyalaan suria, prominen, lentingan jisim korona dan angin suria menghantar tenaga dan zarah ke angkasa."
+      },
+      {
+        "en": "Space weather can disturb satellites, GPS, radio and power grids, and causes auroras near the poles.",
+        "bm": "Cuaca angkasa boleh mengganggu satelit, GPS, radio dan grid elektrik, serta menghasilkan aurora berhampiran kutub."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Core",
+              "bm": "Teras"
+            },
+            "detail": {
+              "en": "Nuclear fusion; about 15 million °C",
+              "bm": "Pelakuran nuklear; kira-kira 15 juta °C"
+            }
+          },
+          {
+            "title": {
+              "en": "Radiative zone",
+              "bm": "Zon radiasi"
+            },
+            "detail": {
+              "en": "Energy moves outward as radiation",
+              "bm": "Tenaga bergerak keluar sebagai sinaran"
+            }
+          },
+          {
+            "title": {
+              "en": "Convective zone",
+              "bm": "Zon olakan"
+            },
+            "detail": {
+              "en": "Hot gas rises and sinks",
+              "bm": "Gas panas naik dan turun"
+            }
+          },
+          {
+            "title": {
+              "en": "Photosphere",
+              "bm": "Fotosfera"
+            },
+            "detail": {
+              "en": "Visible surface, about 5 500 °C; sunspots",
+              "bm": "Permukaan yang kelihatan, kira-kira 5 500 °C; tompok matahari"
+            }
+          },
+          {
+            "title": {
+              "en": "Chromosphere & corona",
+              "bm": "Kromosfera & korona"
+            },
+            "detail": {
+              "en": "Outer atmosphere; corona over 1 million °C",
+              "bm": "Atmosfera luar; korona melebihi 1 juta °C"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Sunspot",
+          "bm": "Tompok matahari"
+        },
+        "definition": {
+          "en": "Darker, cooler area on the photosphere caused by strong magnetic fields.",
+          "bm": "Kawasan lebih gelap dan sejuk pada fotosfera akibat medan magnet yang kuat."
+        }
+      },
+      {
+        "term": {
+          "en": "Solar flare",
+          "bm": "Nyalaan suria"
+        },
+        "definition": {
+          "en": "A sudden, intense burst of radiation from the Sun.",
+          "bm": "Letusan sinaran yang tiba-tiba dan kuat dari Matahari."
+        }
+      },
+      {
+        "term": {
+          "en": "Coronal mass ejection (CME)",
+          "bm": "Lentingan jisim korona (CME)"
+        },
+        "definition": {
+          "en": "Huge cloud of charged particles thrown out from the corona.",
+          "bm": "Awan besar zarah bercas yang dilontar dari korona."
+        }
+      },
+      {
+        "term": {
+          "en": "Solar wind",
+          "bm": "Angin suria"
+        },
+        "definition": {
+          "en": "Continuous stream of charged particles from the Sun.",
+          "bm": "Aliran berterusan zarah bercas dari Matahari."
+        }
+      },
+      {
+        "term": {
+          "en": "Aurora",
+          "bm": "Aurora"
+        },
+        "definition": {
+          "en": "Coloured lights in the sky near the poles when charged particles hit the atmosphere.",
+          "bm": "Cahaya berwarna di langit berhampiran kutub apabila zarah bercas menghentam atmosfera."
+        }
+      },
+      {
+        "term": {
+          "en": "Magnetosphere",
+          "bm": "Magnetosfera"
+        },
+        "definition": {
+          "en": "Earth's magnetic field region that shields us from much of the solar wind.",
+          "bm": "Kawasan medan magnet Bumi yang melindungi kita daripada kebanyakan angin suria."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Why are auroras seen mainly near the North and South Poles?",
+        "bm": "Mengapakah aurora kebanyakannya dilihat berhampiran Kutub Utara dan Kutub Selatan?"
+      },
+      "steps": [
+        {
+          "en": "Charged particles from the Sun are guided by Earth's magnetic field.",
+          "bm": "Zarah bercas dari Matahari dipandu oleh medan magnet Bumi."
+        },
+        {
+          "en": "The field lines bring them into the atmosphere near the magnetic poles.",
+          "bm": "Garis medan membawanya masuk ke atmosfera berhampiran kutub magnet."
+        },
+        {
+          "en": "They collide with gas particles, which give off coloured light.",
+          "bm": "Zarah itu berlanggar dengan zarah gas, yang memancarkan cahaya berwarna."
+        }
+      ],
+      "answer": {
+        "en": "Earth's magnetic field channels the particles towards the poles.",
+        "bm": "Medan magnet Bumi menyalurkan zarah ke arah kutub."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-09-q01",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which layer is the visible surface of the Sun?",
+        "bm": "Lapisan manakah permukaan Matahari yang kelihatan?"
+      },
+      "explanation": {
+        "en": "The photosphere is where sunspots are seen.",
+        "bm": "Fotosfera ialah tempat tompok matahari dilihat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Photosphere",
+          "bm": "Fotosfera"
+        },
+        {
+          "en": "Core",
+          "bm": "Teras"
+        },
+        {
+          "en": "Corona",
+          "bm": "Korona"
+        },
+        {
+          "en": "Radiative zone",
+          "bm": "Zon radiasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q02",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where does nuclear fusion take place in the Sun?",
+        "bm": "Di manakah pelakuran nuklear berlaku dalam Matahari?"
+      },
+      "explanation": {
+        "en": "Hydrogen nuclei fuse into helium in the core.",
+        "bm": "Nukleus hidrogen bercantum menjadi helium dalam teras."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Core",
+          "bm": "Teras"
+        },
+        {
+          "en": "Corona",
+          "bm": "Korona"
+        },
+        {
+          "en": "Photosphere",
+          "bm": "Fotosfera"
+        },
+        {
+          "en": "Chromosphere",
+          "bm": "Kromosfera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q03",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sunspots appear dark because they are…",
+        "bm": "Tompok matahari kelihatan gelap kerana ia…"
+      },
+      "explanation": {
+        "en": "They are still extremely hot, just cooler than nearby areas.",
+        "bm": "Ia masih sangat panas, cuma lebih sejuk daripada kawasan berhampiran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cooler than the surrounding surface",
+          "bm": "lebih sejuk daripada permukaan sekelilingnya"
+        },
+        {
+          "en": "holes in the Sun",
+          "bm": "lubang pada Matahari"
+        },
+        {
+          "en": "made of rock",
+          "bm": "diperbuat daripada batu"
+        },
+        {
+          "en": "shadows of planets",
+          "bm": "bayang-bayang planet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q04",
+      "subtopicId": "f3sci-09-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The continuous stream of charged particles from the Sun is called the solar ______.",
+        "bm": "Aliran berterusan zarah bercas dari Matahari dipanggil ______ suria."
+      },
+      "explanation": {
+        "en": "The solar wind flows out through the solar system.",
+        "bm": "Angin suria mengalir ke seluruh sistem suria."
+      },
+      "difficulty": 1,
+      "answer": [
+        "wind",
+        "angin"
+      ]
+    },
+    {
+      "id": "f3sci-09-q05",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The number of sunspots rises and falls in a cycle of about…",
+        "bm": "Bilangan tompok matahari meningkat dan menurun dalam kitaran kira-kira…"
+      },
+      "explanation": {
+        "en": "This is the solar cycle.",
+        "bm": "Inilah kitaran suria."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "11 years",
+          "bm": "11 years"
+        },
+        {
+          "en": "1 year",
+          "bm": "1 year"
+        },
+        {
+          "en": "100 years",
+          "bm": "100 years"
+        },
+        {
+          "en": "1 month",
+          "bm": "1 month"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q06",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Auroras are seen mostly near…",
+        "bm": "Aurora kebanyakannya dilihat berhampiran…"
+      },
+      "explanation": {
+        "en": "Earth's magnetic field guides particles to the poles.",
+        "bm": "Medan magnet Bumi memandu zarah ke kutub."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the North and South Poles",
+          "bm": "Kutub Utara dan Kutub Selatan"
+        },
+        {
+          "en": "the Equator",
+          "bm": "Khatulistiwa"
+        },
+        {
+          "en": "deserts",
+          "bm": "gurun"
+        },
+        {
+          "en": "the Moon",
+          "bm": "Bulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q07",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What protects Earth from most of the solar wind?",
+        "bm": "Apakah yang melindungi Bumi daripada kebanyakan angin suria?"
+      },
+      "explanation": {
+        "en": "Earth's magnetic field deflects charged particles.",
+        "bm": "Medan magnet Bumi memesongkan zarah bercas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "The magnetosphere",
+          "bm": "Magnetosfera"
+        },
+        {
+          "en": "The Moon",
+          "bm": "Bulan"
+        },
+        {
+          "en": "Clouds",
+          "bm": "Awan"
+        },
+        {
+          "en": "Oceans",
+          "bm": "Lautan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q08",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The outermost layer of the Sun's atmosphere is the…",
+        "bm": "Lapisan paling luar atmosfera Matahari ialah…"
+      },
+      "explanation": {
+        "en": "It is visible during a total solar eclipse.",
+        "bm": "Ia kelihatan semasa gerhana matahari penuh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "corona",
+          "bm": "korona"
+        },
+        {
+          "en": "core",
+          "bm": "teras"
+        },
+        {
+          "en": "photosphere",
+          "bm": "fotosfera"
+        },
+        {
+          "en": "convective zone",
+          "bm": "zon olakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q09",
+      "subtopicId": "f3sci-09-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the layers of the Sun from the centre outward.",
+        "bm": "Susun lapisan Matahari dari pusat ke luar."
+      },
+      "explanation": {
+        "en": "The first three are inside; the last three form the solar atmosphere and surface.",
+        "bm": "Tiga yang pertama di bahagian dalam; tiga terakhir membentuk permukaan dan atmosfera suria."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Core",
+          "bm": "Teras"
+        },
+        {
+          "en": "Radiative zone",
+          "bm": "Zon radiasi"
+        },
+        {
+          "en": "Convective zone",
+          "bm": "Zon olakan"
+        },
+        {
+          "en": "Photosphere",
+          "bm": "Fotosfera"
+        },
+        {
+          "en": "Chromosphere",
+          "bm": "Kromosfera"
+        },
+        {
+          "en": "Corona",
+          "bm": "Korona"
+        }
+      ]
+    },
+    {
+      "id": "f3sci-09-q10",
+      "subtopicId": "f3sci-09-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each solar activity with its description.",
+        "bm": "Padankan aktiviti suria dengan huraiannya."
+      },
+      "explanation": {
+        "en": "These activities are linked to the Sun's magnetic field.",
+        "bm": "Aktiviti ini berkait dengan medan magnet Matahari."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Sunspot",
+            "bm": "Tompok matahari"
+          },
+          "right": {
+            "en": "Darker, cooler patch on the photosphere",
+            "bm": "Tompok lebih gelap dan sejuk pada fotosfera"
+          }
+        },
+        {
+          "left": {
+            "en": "Solar flare",
+            "bm": "Nyalaan suria"
+          },
+          "right": {
+            "en": "Sudden burst of radiation",
+            "bm": "Letusan sinaran yang tiba-tiba"
+          }
+        },
+        {
+          "left": {
+            "en": "Prominence",
+            "bm": "Prominen"
+          },
+          "right": {
+            "en": "Loop of glowing gas from the surface",
+            "bm": "Gelung gas bercahaya dari permukaan"
+          }
+        },
+        {
+          "left": {
+            "en": "CME",
+            "bm": "CME"
+          },
+          "right": {
+            "en": "Huge cloud of charged particles ejected into space",
+            "bm": "Awan besar zarah bercas dilontar ke angkasa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-09-q11",
+      "subtopicId": "f3sci-09-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL effects of a strong solar storm on Earth.",
+        "bm": "Pilih SEMUA kesan ribut suria yang kuat ke atas Bumi."
+      },
+      "explanation": {
+        "en": "Solar storms do not cause earthquakes.",
+        "bm": "Ribut suria tidak menyebabkan gempa bumi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Disrupted satellite and GPS signals",
+          "bm": "Isyarat satelit dan GPS terganggu"
+        },
+        {
+          "en": "Radio communication problems",
+          "bm": "Masalah komunikasi radio"
+        },
+        {
+          "en": "Power grid failures",
+          "bm": "Kegagalan grid elektrik"
+        },
+        {
+          "en": "Earthquakes",
+          "bm": "Gempa bumi"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-09-q12",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do astronauts need extra protection during a solar storm?",
+        "bm": "Mengapakah angkasawan memerlukan perlindungan tambahan semasa ribut suria?"
+      },
+      "explanation": {
+        "en": "On Earth, the atmosphere and magnetosphere shield us.",
+        "bm": "Di Bumi, atmosfera dan magnetosfera melindungi kita."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They face more harmful radiation outside Earth's protective atmosphere",
+          "bm": "Mereka menghadapi lebih banyak sinaran berbahaya di luar atmosfera Bumi yang melindungi"
+        },
+        {
+          "en": "It is colder",
+          "bm": "Lebih sejuk"
+        },
+        {
+          "en": "There is more oxygen",
+          "bm": "Ada lebih oksigen"
+        },
+        {
+          "en": "Gravity disappears",
+          "bm": "Graviti hilang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q13",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Space weather is…",
+        "bm": "Cuaca angkasa ialah…"
+      },
+      "explanation": {
+        "en": "It includes the solar wind, flares and CMEs.",
+        "bm": "Ia termasuk angin suria, nyalaan dan CME."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "conditions in space caused mainly by the Sun's activity",
+          "bm": "keadaan di angkasa yang disebabkan terutamanya oleh aktiviti Matahari"
+        },
+        {
+          "en": "rain in space",
+          "bm": "hujan di angkasa"
+        },
+        {
+          "en": "weather on the Moon only",
+          "bm": "cuaca di Bulan sahaja"
+        },
+        {
+          "en": "clouds above Malaysia",
+          "bm": "awan di atas Malaysia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q14",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Approximately how hot is the Sun's core?",
+        "bm": "Kira-kira berapakah suhu teras Matahari?"
+      },
+      "explanation": {
+        "en": "The photosphere is about 5 500 °C.",
+        "bm": "Fotosfera kira-kira 5 500 °C."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "15 million °C",
+          "bm": "15 juta °C"
+        },
+        {
+          "en": "5 500 °C",
+          "bm": "5 500 °C"
+        },
+        {
+          "en": "100 °C",
+          "bm": "100 °C"
+        },
+        {
+          "en": "1 000 °C",
+          "bm": "1 000 °C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q15",
+      "subtopicId": "f3sci-09-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The region around Earth controlled by its magnetic field is the ______.",
+        "bm": "Kawasan di sekeliling Bumi yang dikawal oleh medan magnetnya ialah ______."
+      },
+      "explanation": {
+        "en": "It deflects much of the solar wind.",
+        "bm": "Ia memesongkan kebanyakan angin suria."
+      },
+      "difficulty": 2,
+      "answer": [
+        "magnetosphere",
+        "magnetosfera"
+      ]
+    },
+    {
+      "id": "f3sci-09-q16",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which agency monitors space weather and space activities for Malaysia?",
+        "bm": "Agensi manakah memantau cuaca angkasa dan aktiviti angkasa bagi Malaysia?"
+      },
+      "explanation": {
+        "en": "MYSA (formerly ANGKASA and MRSA) handles national space matters.",
+        "bm": "MYSA (dahulunya ANGKASA dan MRSA) mengendalikan hal ehwal angkasa negara."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Malaysian Space Agency (MYSA)",
+          "bm": "Agensi Angkasa Malaysia (MYSA)"
+        },
+        {
+          "en": "Malaysian Meteorological Department only for rain",
+          "bm": "Jabatan Meteorologi Malaysia hanya untuk hujan"
+        },
+        {
+          "en": "Road Transport Department",
+          "bm": "Jabatan Pengangkutan Jalan"
+        },
+        {
+          "en": "Fire and Rescue Department",
+          "bm": "Jabatan Bomba dan Penyelamat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q17",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "GPS in a car gives a wrong position during a strong solar storm. What is the most likely reason?",
+        "bm": "GPS dalam kereta memberi kedudukan salah semasa ribut suria yang kuat. Apakah sebab paling mungkin?"
+      },
+      "explanation": {
+        "en": "Satellite signals travel through the ionosphere, which solar storms disturb.",
+        "bm": "Isyarat satelit melalui ionosfera, yang diganggu oleh ribut suria."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Charged particles disturb the upper atmosphere, affecting satellite signals",
+          "bm": "Zarah bercas mengganggu atmosfera atas, menjejaskan isyarat satelit"
+        },
+        {
+          "en": "The car engine is too hot",
+          "bm": "Enjin kereta terlalu panas"
+        },
+        {
+          "en": "The road is wet",
+          "bm": "Jalan basah"
+        },
+        {
+          "en": "The Moon blocks the satellite",
+          "bm": "Bulan menghalang satelit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q18",
+      "subtopicId": "f3sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Scientists count sunspots to forecast space weather. Why is this useful?",
+        "bm": "Saintis mengira tompok matahari untuk meramal cuaca angkasa. Mengapakah ini berguna?"
+      },
+      "explanation": {
+        "en": "Warnings allow satellites to be put in safe mode.",
+        "bm": "Amaran membolehkan satelit diletakkan dalam mod selamat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "More sunspots usually mean more flares and CMEs, so operators can protect satellites and grids",
+          "bm": "Lebih banyak tompok matahari biasanya bermaksud lebih banyak nyalaan dan CME, jadi pengendali boleh melindungi satelit dan grid"
+        },
+        {
+          "en": "Sunspots cause rain in Malaysia",
+          "bm": "Tompok matahari menyebabkan hujan di Malaysia"
+        },
+        {
+          "en": "Sunspots make the Sun smaller",
+          "bm": "Tompok matahari mengecilkan Matahari"
+        },
+        {
+          "en": "It is not useful",
+          "bm": "Tidak berguna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q19",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why can people in Malaysia rarely see auroras?",
+        "bm": "Mengapakah rakyat Malaysia jarang dapat melihat aurora?"
+      },
+      "explanation": {
+        "en": "Auroras occur mainly in high-latitude regions.",
+        "bm": "Aurora berlaku terutamanya di kawasan latitud tinggi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Malaysia is near the Equator, far from the magnetic poles where particles enter",
+          "bm": "Malaysia berhampiran Khatulistiwa, jauh dari kutub magnet tempat zarah masuk"
+        },
+        {
+          "en": "Malaysia has too many clouds every night",
+          "bm": "Malaysia mempunyai terlalu banyak awan setiap malam"
+        },
+        {
+          "en": "Auroras only happen at noon",
+          "bm": "Aurora hanya berlaku pada tengah hari"
+        },
+        {
+          "en": "Auroras are not real",
+          "bm": "Aurora tidak wujud"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-09-q20",
+      "subtopicId": "f3sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A power company hears a large CME is heading to Earth. What is a sensible action?",
+        "bm": "Sebuah syarikat elektrik dimaklumkan bahawa CME besar menuju ke Bumi. Apakah tindakan yang wajar?"
+      },
+      "explanation": {
+        "en": "Strong geomagnetic storms can damage transformers.",
+        "bm": "Ribut geomagnet yang kuat boleh merosakkan transformer."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Prepare the grid (e.g. reduce load, protect transformers) and monitor closely",
+          "bm": "Bersedia (cth. kurangkan beban, lindungi transformer) dan pantau dengan teliti"
+        },
+        {
+          "en": "Switch everything to maximum",
+          "bm": "Hidupkan semuanya ke tahap maksimum"
+        },
+        {
+          "en": "Ignore it",
+          "bm": "Abaikan"
+        },
+        {
+          "en": "Launch more satellites immediately",
+          "bm": "Lancarkan lebih banyak satelit dengan segera"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

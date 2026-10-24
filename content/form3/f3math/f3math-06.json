@@ -1,0 +1,669 @@
+{
+  "chapterId": "f3math-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Stand anywhere on the edge of a round pond and look at the same two trees on the opposite edge — the angle between them is the same from every spot on that side. Circles hide surprising rules.",
+      "bm": "Berdiri di mana-mana tepi kolam bulat dan lihat dua pokok yang sama di tepi bertentangan — sudut antara keduanya sama dari setiap tempat di sisi itu. Bulatan menyimpan peraturan yang mengejutkan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Angles at the circumference standing on the same arc are equal; the angle at the centre is twice the angle at the circumference.",
+        "bm": "Sudut pada lilitan yang dicangkum oleh lengkok yang sama adalah sama; sudut pusat ialah dua kali sudut pada lilitan."
+      },
+      {
+        "en": "In a cyclic quadrilateral, opposite angles add up to 180°.",
+        "bm": "Dalam sisi empat kitaran, sudut bertentangan berjumlah 180°."
+      },
+      {
+        "en": "A tangent is perpendicular to the radius at the point of contact; the angle between a tangent and a chord equals the angle in the alternate segment.",
+        "bm": "Tangen berserenjang dengan jejari di titik sentuhan; sudut antara tangen dan perentas sama dengan sudut dalam tembereng selang-seli."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Circle theorems",
+          "bm": "Teorem bulatan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Same arc",
+              "bm": "Lengkok sama"
+            },
+            "detail": {
+              "en": "Angles at circumference are equal",
+              "bm": "Sudut pada lilitan sama"
+            }
+          },
+          {
+            "label": {
+              "en": "Centre",
+              "bm": "Pusat"
+            },
+            "detail": {
+              "en": "Central angle = 2 × circumference angle",
+              "bm": "Sudut pusat = 2 × sudut lilitan"
+            }
+          },
+          {
+            "label": {
+              "en": "Semicircle",
+              "bm": "Semibulatan"
+            },
+            "detail": {
+              "en": "Angle in a semicircle = 90°",
+              "bm": "Sudut dalam semibulatan = 90°"
+            }
+          },
+          {
+            "label": {
+              "en": "Cyclic quadrilateral",
+              "bm": "Sisi empat kitaran"
+            },
+            "detail": {
+              "en": "Opposite angles sum to 180°",
+              "bm": "Sudut bertentangan berjumlah 180°"
+            }
+          },
+          {
+            "label": {
+              "en": "Tangent",
+              "bm": "Tangen"
+            },
+            "detail": {
+              "en": "⊥ radius; two tangents from a point are equal",
+              "bm": "⊥ jejari; dua tangen dari satu titik sama panjang"
+            }
+          },
+          {
+            "label": {
+              "en": "Alternate segment",
+              "bm": "Tembereng selang-seli"
+            },
+            "detail": {
+              "en": "Tangent–chord angle = angle in alternate segment",
+              "bm": "Sudut tangen–perentas = sudut dalam tembereng selang-seli"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Arc",
+          "bm": "Lengkok"
+        },
+        "definition": {
+          "en": "Part of the circumference.",
+          "bm": "Sebahagian daripada lilitan."
+        }
+      },
+      {
+        "term": {
+          "en": "Chord",
+          "bm": "Perentas"
+        },
+        "definition": {
+          "en": "A straight line joining two points on the circle.",
+          "bm": "Garis lurus yang menyambungkan dua titik pada bulatan."
+        }
+      },
+      {
+        "term": {
+          "en": "Cyclic quadrilateral",
+          "bm": "Sisi empat kitaran"
+        },
+        "definition": {
+          "en": "A quadrilateral with all four vertices on a circle.",
+          "bm": "Sisi empat yang keempat-empat bucunya berada pada bulatan."
+        }
+      },
+      {
+        "term": {
+          "en": "Tangent",
+          "bm": "Tangen"
+        },
+        "definition": {
+          "en": "A straight line that touches a circle at exactly one point.",
+          "bm": "Garis lurus yang menyentuh bulatan pada satu titik sahaja."
+        }
+      },
+      {
+        "term": {
+          "en": "Common tangent",
+          "bm": "Tangen sepunya"
+        },
+        "definition": {
+          "en": "A line that is a tangent to two circles.",
+          "bm": "Garis yang menjadi tangen kepada dua bulatan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "ABCD is a cyclic quadrilateral with ∠A = 75° and ∠B = 110°. Find ∠C and ∠D.",
+        "bm": "ABCD ialah sisi empat kitaran dengan ∠A = 75° dan ∠B = 110°. Cari ∠C dan ∠D."
+      },
+      "steps": [
+        {
+          "en": "Opposite angles add up to 180°.",
+          "bm": "Sudut bertentangan berjumlah 180°."
+        },
+        {
+          "en": "∠C = 180° − 75° = 105°.",
+          "bm": "∠C = 180° − 75° = 105°."
+        },
+        {
+          "en": "∠D = 180° − 110° = 70°.",
+          "bm": "∠D = 180° − 110° = 70°."
+        }
+      ],
+      "answer": {
+        "en": "∠C = 105°, ∠D = 70°",
+        "bm": "∠C = 105°, ∠D = 70°"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-06-q01",
+      "subtopicId": "f3math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The angle at the centre subtended by an arc is 110°. Find the angle at the circumference subtended by the same arc (°).",
+        "bm": "Sudut pusat yang dicangkum oleh suatu lengkok ialah 110°. Cari sudut pada lilitan yang dicangkum oleh lengkok yang sama (°)."
+      },
+      "explanation": {
+        "en": "Angle at circumference = ½ × 110° = 55°.",
+        "bm": "Sudut pada lilitan = ½ × 110° = 55°."
+      },
+      "difficulty": 1,
+      "answer": 55,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q02",
+      "subtopicId": "f3math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the angle in a semicircle (°)?",
+        "bm": "Berapakah sudut dalam semibulatan (°)?"
+      },
+      "explanation": {
+        "en": "The diameter subtends 180° at the centre, so 90° at the circumference.",
+        "bm": "Diameter mencangkum 180° di pusat, jadi 90° pada lilitan."
+      },
+      "difficulty": 1,
+      "answer": 90,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q03",
+      "subtopicId": "f3math-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two angles at the circumference stand on the same arc. One is 40°. The other is…",
+        "bm": "Dua sudut pada lilitan dicangkum oleh lengkok yang sama. Satu ialah 40°. Yang lain ialah…"
+      },
+      "explanation": {
+        "en": "Angles subtended by the same arc at the circumference are equal.",
+        "bm": "Sudut yang dicangkum oleh lengkok yang sama pada lilitan adalah sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "40°",
+          "bm": "40°"
+        },
+        {
+          "en": "80°",
+          "bm": "80°"
+        },
+        {
+          "en": "20°",
+          "bm": "20°"
+        },
+        {
+          "en": "140°",
+          "bm": "140°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-06-q04",
+      "subtopicId": "f3math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "In cyclic quadrilateral PQRS, ∠P = 72°. Find ∠R (°).",
+        "bm": "Dalam sisi empat kitaran PQRS, ∠P = 72°. Cari ∠R (°)."
+      },
+      "explanation": {
+        "en": "Opposite angles: ∠R = 180° − 72° = 108°.",
+        "bm": "Sudut bertentangan: ∠R = 180° − 72° = 108°."
+      },
+      "difficulty": 1,
+      "answer": 108,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q05",
+      "subtopicId": "f3math-06-03",
+      "type": "fill",
+      "prompt": {
+        "en": "A tangent meets the radius at the point of contact at ______ degrees.",
+        "bm": "Tangen bertemu jejari di titik sentuhan pada sudut ______ darjah."
+      },
+      "explanation": {
+        "en": "Tangent ⊥ radius.",
+        "bm": "Tangen ⊥ jejari."
+      },
+      "difficulty": 1,
+      "answer": [
+        "90"
+      ]
+    },
+    {
+      "id": "f3math-06-q06",
+      "subtopicId": "f3math-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many points does a tangent share with a circle?",
+        "bm": "Berapakah titik yang dikongsi tangen dengan bulatan?"
+      },
+      "explanation": {
+        "en": "A tangent touches the circle at exactly one point.",
+        "bm": "Tangen menyentuh bulatan pada satu titik sahaja."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "Infinitely many",
+          "bm": "Infinitely many"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-06-q07",
+      "subtopicId": "f3math-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two tangents are drawn to a circle from an external point. Their lengths are…",
+        "bm": "Dua tangen dilukis ke bulatan dari satu titik luar. Panjangnya…"
+      },
+      "explanation": {
+        "en": "Tangents from the same external point are equal in length.",
+        "bm": "Tangen dari titik luar yang sama adalah sama panjang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "equal",
+          "bm": "sama"
+        },
+        {
+          "en": "always different",
+          "bm": "sentiasa berbeza"
+        },
+        {
+          "en": "in the ratio 1 : 2",
+          "bm": "dalam nisbah 1 : 2"
+        },
+        {
+          "en": "equal to the diameter",
+          "bm": "sama dengan diameter"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-06-q08",
+      "subtopicId": "f3math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A quadrilateral whose four vertices lie on a circle is called…",
+        "bm": "Sisi empat yang keempat-empat bucunya terletak pada bulatan dipanggil…"
+      },
+      "explanation": {
+        "en": "\"Cyclic\" means its vertices lie on a circle.",
+        "bm": "\"Kitaran\" bermaksud bucunya terletak pada bulatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a cyclic quadrilateral",
+          "bm": "sisi empat kitaran"
+        },
+        {
+          "en": "a kite",
+          "bm": "lelayang"
+        },
+        {
+          "en": "a trapezium",
+          "bm": "trapezium"
+        },
+        {
+          "en": "a rhombus",
+          "bm": "rombus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-06-q09",
+      "subtopicId": "f3math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The angle at the circumference is 38°. Find the angle at the centre subtended by the same arc (°).",
+        "bm": "Sudut pada lilitan ialah 38°. Cari sudut pusat yang dicangkum oleh lengkok yang sama (°)."
+      },
+      "explanation": {
+        "en": "Central angle = 2 × 38° = 76°.",
+        "bm": "Sudut pusat = 2 × 38° = 76°."
+      },
+      "difficulty": 2,
+      "answer": 76,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q10",
+      "subtopicId": "f3math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "The exterior angle of a cyclic quadrilateral at vertex C is 95°. Find the interior opposite angle at A (°).",
+        "bm": "Sudut peluaran sisi empat kitaran di bucu C ialah 95°. Cari sudut pedalaman bertentangan di A (°)."
+      },
+      "explanation": {
+        "en": "The exterior angle equals the interior opposite angle: 95°.",
+        "bm": "Sudut peluaran sama dengan sudut pedalaman bertentangan: 95°."
+      },
+      "difficulty": 2,
+      "answer": 95,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q11",
+      "subtopicId": "f3math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "O is the centre, OA = 5 cm is a radius and PA is a tangent at A with PA = 12 cm. Find OP (cm).",
+        "bm": "O ialah pusat, OA = 5 cm ialah jejari dan PA ialah tangen di A dengan PA = 12 cm. Cari OP (cm)."
+      },
+      "explanation": {
+        "en": "∠OAP = 90°, so OP = √(5² + 12²) = √169 = 13 cm.",
+        "bm": "∠OAP = 90°, jadi OP = √(5² + 12²) = √169 = 13 cm."
+      },
+      "difficulty": 2,
+      "answer": 13,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-06-q12",
+      "subtopicId": "f3math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A tangent at T and chord TA make an angle of 50°. Find the angle subtended by TA at a point B on the circumference in the alternate segment (°).",
+        "bm": "Tangen di T dan perentas TA membentuk sudut 50°. Cari sudut yang dicangkum oleh TA pada titik B pada lilitan dalam tembereng selang-seli (°)."
+      },
+      "explanation": {
+        "en": "Alternate segment theorem: the angle is also 50°.",
+        "bm": "Teorem tembereng selang-seli: sudut itu juga 50°."
+      },
+      "difficulty": 2,
+      "answer": 50,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q13",
+      "subtopicId": "f3math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "PA and PB are tangents from P to a circle with centre O. ∠APB = 40°. Find ∠AOB (°).",
+        "bm": "PA dan PB ialah tangen dari P ke bulatan berpusat O. ∠APB = 40°. Cari ∠AOB (°)."
+      },
+      "explanation": {
+        "en": "In quadrilateral PAOB, ∠OAP = ∠OBP = 90°, so ∠AOB = 360° − 90° − 90° − 40° = 140°.",
+        "bm": "Dalam sisi empat PAOB, ∠OAP = ∠OBP = 90°, jadi ∠AOB = 360° − 90° − 90° − 40° = 140°."
+      },
+      "difficulty": 2,
+      "answer": 140,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q14",
+      "subtopicId": "f3math-06-04",
+      "type": "match",
+      "prompt": {
+        "en": "Match the position of two circles with the number of common tangents.",
+        "bm": "Padankan kedudukan dua bulatan dengan bilangan tangen sepunya."
+      },
+      "explanation": {
+        "en": "One circle completely inside another (not touching) has no common tangents.",
+        "bm": "Satu bulatan di dalam bulatan lain sepenuhnya (tidak bersentuhan) tiada tangen sepunya."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Separate (far apart)",
+            "bm": "Terpisah (berjauhan)"
+          },
+          "right": {
+            "en": "4",
+            "bm": "4"
+          }
+        },
+        {
+          "left": {
+            "en": "Touching externally",
+            "bm": "Bersentuhan di luar"
+          },
+          "right": {
+            "en": "3",
+            "bm": "3"
+          }
+        },
+        {
+          "left": {
+            "en": "Intersecting at two points",
+            "bm": "Bersilang pada dua titik"
+          },
+          "right": {
+            "en": "2",
+            "bm": "2"
+          }
+        },
+        {
+          "left": {
+            "en": "Touching internally",
+            "bm": "Bersentuhan di dalam"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3math-06-q15",
+      "subtopicId": "f3math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "ABCD is a cyclic quadrilateral. ∠A = 2x and ∠C = x + 30°. Find x.",
+        "bm": "ABCD ialah sisi empat kitaran. ∠A = 2x dan ∠C = x + 30°. Cari x."
+      },
+      "explanation": {
+        "en": "2x + x + 30° = 180° → 3x = 150° → x = 50°.",
+        "bm": "2x + x + 30° = 180° → 3x = 150° → x = 50°."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "50°",
+          "bm": "50°"
+        },
+        {
+          "en": "30°",
+          "bm": "30°"
+        },
+        {
+          "en": "60°",
+          "bm": "60°"
+        },
+        {
+          "en": "75°",
+          "bm": "75°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-06-q16",
+      "subtopicId": "f3math-06-01",
+      "type": "multi",
+      "prompt": {
+        "en": "AB is a diameter and C is on the circle. Select ALL true statements.",
+        "bm": "AB ialah diameter dan C berada pada bulatan. Pilih SEMUA pernyataan yang benar."
+      },
+      "explanation": {
+        "en": "Angle in a semicircle is 90°, so the other two angles of triangle ABC add to 90°. The diameter is the longest chord.",
+        "bm": "Sudut dalam semibulatan 90°, jadi dua sudut lain segi tiga ABC berjumlah 90°. Diameter ialah perentas terpanjang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "∠ACB = 90°",
+          "bm": "∠ACB = 90°"
+        },
+        {
+          "en": "∠CAB + ∠CBA = 90°",
+          "bm": "∠CAB + ∠CBA = 90°"
+        },
+        {
+          "en": "AB is the longest chord",
+          "bm": "AB ialah perentas terpanjang"
+        },
+        {
+          "en": "∠ACB = 180°",
+          "bm": "∠ACB = 180°"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3math-06-q17",
+      "subtopicId": "f3math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "PT is a tangent at T. Chord TA makes ∠PTA = 65°, and B is a point on the circle in the alternate segment. In triangle TAB, ∠TAB = 70°. Find ∠ATB (°).",
+        "bm": "PT ialah tangen di T. Perentas TA membentuk ∠PTA = 65°, dan B ialah titik pada bulatan dalam tembereng selang-seli. Dalam segi tiga TAB, ∠TAB = 70°. Cari ∠ATB (°)."
+      },
+      "explanation": {
+        "en": "Alternate segment: ∠TBA = ∠PTA = 65°. ∠ATB = 180° − 65° − 70° = 45°.",
+        "bm": "Tembereng selang-seli: ∠TBA = ∠PTA = 65°. ∠ATB = 180° − 65° − 70° = 45°."
+      },
+      "difficulty": 3,
+      "answer": 45,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q18",
+      "subtopicId": "f3math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "O is the centre. ∠AOB = 130° (on minor arc AB). C is on the MINOR arc AB. Find ∠ACB (°).",
+        "bm": "O ialah pusat. ∠AOB = 130° (pada lengkok minor AB). C berada pada lengkok MINOR AB. Cari ∠ACB (°)."
+      },
+      "explanation": {
+        "en": "C is on the minor arc, so ∠ACB stands on the MAJOR arc whose central (reflex) angle is 360° − 130° = 230°. ∠ACB = 230° ÷ 2 = 115°. (Also: a point on the major arc gives 65°, and 65° + 115° = 180° — a cyclic quadrilateral.)",
+        "bm": "C berada pada lengkok minor, jadi ∠ACB dicangkum oleh lengkok MAJOR yang sudut pusat (refleks) ialah 360° − 130° = 230°. ∠ACB = 230° ÷ 2 = 115°. (Juga: titik pada lengkok major memberi 65°, dan 65° + 115° = 180° — sisi empat kitaran.)"
+      },
+      "difficulty": 3,
+      "answer": 115,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3math-06-q19",
+      "subtopicId": "f3math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Tangents from P touch a circle at A and B. PA = 3x − 2 and PB = x + 8. Find PA (cm).",
+        "bm": "Tangen dari P menyentuh bulatan di A dan B. PA = 3x − 2 dan PB = x + 8. Cari PA (cm)."
+      },
+      "explanation": {
+        "en": "PA = PB → 3x − 2 = x + 8 → x = 5, so PA = 13 cm.",
+        "bm": "PA = PB → 3x − 2 = x + 8 → x = 5, jadi PA = 13 cm."
+      },
+      "difficulty": 3,
+      "answer": 13,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f3math-06-q20",
+      "subtopicId": "f3math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A quadrilateral has angles 80°, 95°, 100° and 85° in order. Can it be cyclic?",
+        "bm": "Sebuah sisi empat mempunyai sudut 80°, 95°, 100° dan 85° mengikut urutan. Bolehkah ia sisi empat kitaran?"
+      },
+      "explanation": {
+        "en": "80° + 100° = 180° and 95° + 85° = 180°, so it can be cyclic.",
+        "bm": "80° + 100° = 180° dan 95° + 85° = 180°, jadi ia boleh menjadi kitaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Yes — both pairs of opposite angles sum to 180°",
+          "bm": "Ya — kedua-dua pasangan sudut bertentangan berjumlah 180°"
+        },
+        {
+          "en": "No — the angles are all different",
+          "bm": "Tidak — semua sudut berbeza"
+        },
+        {
+          "en": "No — angles must be 90°",
+          "bm": "Tidak — sudut mesti 90°"
+        },
+        {
+          "en": "Only if it is a square",
+          "bm": "Hanya jika ia segi empat sama"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

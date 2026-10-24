@@ -2,7 +2,9 @@ import { useMemo, useState } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 import Katex from '../components/formula/Katex'
 import { PageHeader, ProgressBar } from '../components/ui'
-import { FORMULAS } from '../content'
+import { formulasOf } from '../content'
+import type { Form } from '../content/ids'
+import { useForm } from '../components/FormSwitch'
 import type { Formula } from '../content/schema'
 import { useT } from '../i18n/useT'
 import { addDrillRounds, completeMatching } from '../lib/actions'
@@ -12,7 +14,8 @@ const ROUNDS = 8
 
 interface Round { target: Formula; options: Formula[] }
 
-function buildRounds(subject: string | null): Round[] {
+function buildRounds(subject: string | null, form: Form): Round[] {
+  const FORMULAS = formulasOf(form)
   const pool = subject ? FORMULAS.filter((f) => f.subtopicId.startsWith(subject + '-')) : FORMULAS
   return shuffle(pool).slice(0, ROUNDS).map((target) => {
     // Distractors from the same subject look alike, which makes the drill meaningful.
@@ -28,7 +31,8 @@ export default function FormulaDrill() {
   const nav = useNavigate()
   const [params] = useSearchParams()
   const [seed, setSeed] = useState(0)
-  const rounds = useMemo(() => buildRounds(params.get('subject')), [params, seed]) // eslint-disable-line react-hooks/exhaustive-deps
+  const form = useForm()
+  const rounds = useMemo(() => buildRounds(params.get('subject'), form), [params, seed, form]) // eslint-disable-line react-hooks/exhaustive-deps
   const [i, setI] = useState(0)
   const [picked, setPicked] = useState<string | null>(null)
   const [score, setScore] = useState(0)

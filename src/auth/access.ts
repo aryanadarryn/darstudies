@@ -18,12 +18,14 @@ export interface Access {
 /**
  * access === undefined → accounts are switched off: everything is open.
  * access === null → signed out or not loaded: everything is locked.
- * subject is omitted for features that are not tied to a subject (drill, tools, planner).
+ * subject is omitted for features that are not tied to a subject (drill, tools, planner); then `form` is the form
+ * being studied. Form 3 is free for every signed-in user.
  */
-export function canUse(access: Access | null | undefined, feature: Feature, subject?: string): boolean {
+export function canUse(access: Access | null | undefined, feature: Feature, subject?: string, form?: 3 | 4): boolean {
   if (access === undefined) return true
   if (!access) return false
   if (access.tier === 'full') return true
+  if (subject ? subject.startsWith('f3') : form === 3 && feature !== 'tools') return true
   return access.features.includes(feature) && (subject === undefined || access.subjects.includes(subject))
 }
 

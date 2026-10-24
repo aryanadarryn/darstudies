@@ -1,28 +1,33 @@
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Link } from 'react-router-dom'
 import { MasteryRing, PageHeader } from '../components/ui'
-import { SUBJECTS } from '../content'
+import { subjectsOf } from '../content'
+import FormSwitch, { useForm } from '../components/FormSwitch'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { useMastery } from '../lib/hooks'
 import { useCan } from '../auth/account'
 import { LockBadge, TrialBanner } from '../auth/Locked'
 
-export const SUBJECT_EMOJI: Record<string, string> = { phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️' }
+export const SUBJECT_EMOJI: Record<string, string> = {
+  phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️',
+  f3bm: '📖', f3bi: '🗣️', f3math: '🔢', f3sci: '🔬', f3sej: '🏛️', f3geo: '🌏', f3pi: '🕌', f3rbt: '🛠️', f3ask: '💻', f3psv: '🎨', f3muzik: '🎵', f3pjk: '🏃',
+}
 
 export default function Learn() {
   const { t, L, L2 } = useT()
   const mastery = useMastery()
   const can = useCan()
+  const form = useForm()
   const intros = useLiveQuery(() => db.intros.toArray(), [])
   const seen = new Set((intros ?? []).filter((i) => i.completedAt).map((i) => i.chapterId))
 
   return (
     <div>
-      <PageHeader title={t('learn.title')} subtitle="Form 4 KSSM · DLP" />
+      <PageHeader title={t('learn.title')} subtitle={`${t(form === 3 ? 'form.3' : 'form.4')} KSSM · DLP`} right={<FormSwitch />} />
       <TrialBanner />
       <div className="grid grid-cols-2 gap-3 desk:grid-cols-3 desk:xl:grid-cols-5">
-        {SUBJECTS.map((s) => {
+        {subjectsOf(form).map((s) => {
           const seenCount = s.chapters.filter((c) => seen.has(c.id)).length
           return (
             <Link key={s.id} to={`/learn/${s.id}`} className="card flex flex-col gap-2 transition active:scale-[.98]" style={{ borderTop: `4px solid ${s.color}` }}>

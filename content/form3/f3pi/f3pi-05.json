@@ -1,0 +1,810 @@
+{
+  "chapterId": "f3pi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A clean classroom, a teacher who explains patiently, a student who keeps learning — three short hadith describe all of these.",
+      "bm": "Kelas yang bersih, guru yang menerangkan dengan sabar, murid yang terus belajar — tiga hadis ringkas menggambarkan semuanya."
+    },
+    "bigIdeas": [
+      {
+        "en": "\"Purity is half of faith\" (Muslim): cleanliness of body, clothes, place and heart.",
+        "bm": "\"Kebersihan itu separuh daripada iman\" (Muslim): kebersihan tubuh, pakaian, tempat dan hati."
+      },
+      {
+        "en": "\"Make things easy and do not make them difficult\" (al-Bukhari and Muslim).",
+        "bm": "\"Permudahkanlah dan jangan menyusahkan\" (al-Bukhari dan Muslim)."
+      },
+      {
+        "en": "\"Seeking knowledge is an obligation on every Muslim\" (Ibn Majah).",
+        "bm": "\"Menuntut ilmu itu wajib ke atas setiap Muslim\" (Ibn Majah)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Narrated by",
+            "bm": "Riwayat"
+          },
+          {
+            "en": "Main message",
+            "bm": "Mesej utama"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+              "bm": "الطُّهُورُ شَطْرُ الْإِيمَانِ"
+            },
+            "cells": [
+              {
+                "en": "Muslim",
+                "bm": "Muslim"
+              },
+              {
+                "en": "Cleanliness is part of faith",
+                "bm": "Kebersihan sebahagian daripada iman"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+              "bm": "يَسِّرُوا وَلَا تُعَسِّرُوا"
+            },
+            "cells": [
+              {
+                "en": "al-Bukhari & Muslim",
+                "bm": "al-Bukhari & Muslim"
+              },
+              {
+                "en": "Make things easy",
+                "bm": "Permudahkan urusan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "طَلَبُ الْعِلْمِ فَرِيضَةٌ",
+              "bm": "طَلَبُ الْعِلْمِ فَرِيضَةٌ"
+            },
+            "cells": [
+              {
+                "en": "Ibn Majah",
+                "bm": "Ibn Majah"
+              },
+              {
+                "en": "Seeking knowledge is obligatory",
+                "bm": "Menuntut ilmu wajib"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hadis",
+          "bm": "Hadis"
+        },
+        "definition": {
+          "en": "The words, actions and approvals of the Prophet ﷺ.",
+          "bm": "Perkataan, perbuatan dan pengakuan Rasulullah ﷺ."
+        }
+      },
+      {
+        "term": {
+          "en": "Taharah",
+          "bm": "Taharah"
+        },
+        "definition": {
+          "en": "Purity — cleanliness from najis and hadas.",
+          "bm": "Bersuci — bersih daripada najis dan hadas."
+        }
+      },
+      {
+        "term": {
+          "en": "Perawi",
+          "bm": "Perawi"
+        },
+        "definition": {
+          "en": "A narrator who passes on a hadith.",
+          "bm": "Orang yang meriwayatkan hadis."
+        }
+      },
+      {
+        "term": {
+          "en": "Fardu ain",
+          "bm": "Fardu ain"
+        },
+        "definition": {
+          "en": "A duty on every individual, such as basic religious knowledge.",
+          "bm": "Kewajipan ke atas setiap individu, seperti ilmu asas agama."
+        }
+      },
+      {
+        "term": {
+          "en": "Tabsyir",
+          "bm": "Tabsyir"
+        },
+        "definition": {
+          "en": "Giving good news and encouragement (بَشِّرُوا).",
+          "bm": "Memberi khabar gembira dan galakan (بَشِّرُوا)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A prefect scolds younger students harshly for small mistakes until they avoid the surau. Which hadith should guide him?",
+        "bm": "Seorang pengawas memarahi pelajar junior dengan kasar atas kesilapan kecil sehingga mereka menjauhi surau. Hadis manakah patut membimbingnya?"
+      },
+      "steps": [
+        {
+          "en": "The hadith يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا.",
+          "bm": "Hadis يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا."
+        },
+        {
+          "en": "It means: make things easy, not difficult; give good news, do not drive people away.",
+          "bm": "Maksudnya: permudahkan, jangan menyusahkan; gembirakan, jangan menyebabkan orang lari."
+        }
+      ],
+      "answer": {
+        "en": "He should correct them gently and encourage them.",
+        "bm": "Dia patut menegur dengan lembut dan memberi galakan."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pi-05-q01",
+      "subtopicId": "f3pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Complete the hadith: \"الطُّهُورُ شَطْرُ …\"",
+        "bm": "Lengkapkan hadis: \"الطُّهُورُ شَطْرُ …\""
+      },
+      "explanation": {
+        "en": "Purity is half of faith (narrated by Muslim).",
+        "bm": "Kebersihan itu separuh daripada iman (riwayat Muslim)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "الْإِيمَانِ",
+          "bm": "الْإِيمَانِ"
+        },
+        {
+          "en": "الصَّلَاةِ",
+          "bm": "الصَّلَاةِ"
+        },
+        {
+          "en": "الْعِلْمِ",
+          "bm": "الْعِلْمِ"
+        },
+        {
+          "en": "الدِّينِ",
+          "bm": "الدِّينِ"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q02",
+      "subtopicId": "f3pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hadith \"Purity is half of faith\" was narrated by…",
+        "bm": "Hadis \"Kebersihan itu separuh daripada iman\" diriwayatkan oleh…"
+      },
+      "explanation": {
+        "en": "It is in Sahih Muslim.",
+        "bm": "Ia terdapat dalam Sahih Muslim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Muslim",
+          "bm": "Muslim"
+        },
+        {
+          "en": "Ibn Majah",
+          "bm": "Ibn Majah"
+        },
+        {
+          "en": "at-Tirmizi",
+          "bm": "at-Tirmizi"
+        },
+        {
+          "en": "Abu Daud",
+          "bm": "Abu Daud"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q03",
+      "subtopicId": "f3pi-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL types of cleanliness taught in Islam.",
+        "bm": "Pilih SEMUA jenis kebersihan yang diajar dalam Islam."
+      },
+      "explanation": {
+        "en": "The heart must also be clean from bad traits.",
+        "bm": "Hati juga mesti bersih daripada sifat mazmumah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Body",
+          "bm": "Tubuh badan"
+        },
+        {
+          "en": "Clothes",
+          "bm": "Pakaian"
+        },
+        {
+          "en": "Surroundings",
+          "bm": "Persekitaran"
+        },
+        {
+          "en": "Only on Fridays",
+          "bm": "Hanya pada hari Jumaat"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pi-05-q04",
+      "subtopicId": "f3pi-05-02",
+      "type": "fill",
+      "prompt": {
+        "en": "يَسِّرُوا وَلَا ______ means \"make things easy and do not make them difficult\".",
+        "bm": "يَسِّرُوا وَلَا ______ bermaksud \"permudahkan dan jangan menyusahkan\"."
+      },
+      "explanation": {
+        "en": "Narrated by al-Bukhari and Muslim.",
+        "bm": "Riwayat al-Bukhari dan Muslim."
+      },
+      "difficulty": 1,
+      "answer": [
+        "تُعَسِّرُوا",
+        "tu'assiru",
+        "tuassiru"
+      ]
+    },
+    {
+      "id": "f3pi-05-q05",
+      "subtopicId": "f3pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "وَبَشِّرُوا وَلَا تُنَفِّرُوا means…",
+        "bm": "وَبَشِّرُوا وَلَا تُنَفِّرُوا bermaksud…"
+      },
+      "explanation": {
+        "en": "Dakwah should attract, not repel.",
+        "bm": "Dakwah sepatutnya menarik, bukan menolak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "give good news and do not drive people away",
+          "bm": "gembirakan dan jangan menyebabkan orang lari"
+        },
+        {
+          "en": "pray and fast",
+          "bm": "solat dan berpuasa"
+        },
+        {
+          "en": "read and write",
+          "bm": "membaca dan menulis"
+        },
+        {
+          "en": "eat and drink",
+          "bm": "makan dan minum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q06",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ\" means seeking knowledge is…",
+        "bm": "\"طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ\" bermaksud menuntut ilmu itu…"
+      },
+      "explanation": {
+        "en": "\"Every Muslim\" includes men and women.",
+        "bm": "\"Setiap Muslim\" merangkumi lelaki dan perempuan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "an obligation on every Muslim",
+          "bm": "wajib ke atas setiap Muslim"
+        },
+        {
+          "en": "only for scholars",
+          "bm": "hanya untuk ulama"
+        },
+        {
+          "en": "optional",
+          "bm": "pilihan"
+        },
+        {
+          "en": "only for men",
+          "bm": "hanya untuk lelaki"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q07",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hadith on seeking knowledge above was narrated by…",
+        "bm": "Hadis tentang menuntut ilmu di atas diriwayatkan oleh…"
+      },
+      "explanation": {
+        "en": "Sunan Ibn Majah.",
+        "bm": "Sunan Ibn Majah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ibn Majah",
+          "bm": "Ibn Majah"
+        },
+        {
+          "en": "Muslim only",
+          "bm": "Muslim only"
+        },
+        {
+          "en": "Malik",
+          "bm": "Malik"
+        },
+        {
+          "en": "an-Nasa'i",
+          "bm": "an-Nasa'i"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q08",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which knowledge is fardu ain (required of every individual)?",
+        "bm": "Ilmu manakah fardu ain (wajib bagi setiap individu)?"
+      },
+      "explanation": {
+        "en": "Specialist knowledge that society needs is fardu kifayah.",
+        "bm": "Ilmu pengkhususan yang diperlukan masyarakat ialah fardu kifayah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Basic knowledge of aqidah, ibadah and akhlak",
+          "bm": "Ilmu asas akidah, ibadah dan akhlak"
+        },
+        {
+          "en": "Aircraft engineering",
+          "bm": "Kejuruteraan pesawat"
+        },
+        {
+          "en": "Advanced surgery",
+          "bm": "Pembedahan lanjutan"
+        },
+        {
+          "en": "Astronomy research",
+          "bm": "Penyelidikan astronomi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q09",
+      "subtopicId": "f3pi-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each hadith with its narrator.",
+        "bm": "Padankan hadis dengan perawinya."
+      },
+      "explanation": {
+        "en": "Knowing the narrator shows the source of the hadith.",
+        "bm": "Mengetahui perawi menunjukkan sumber hadis."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+            "bm": "الطُّهُورُ شَطْرُ الْإِيمَانِ"
+          },
+          "right": {
+            "en": "Muslim",
+            "bm": "Muslim"
+          }
+        },
+        {
+          "left": {
+            "en": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+            "bm": "يَسِّرُوا وَلَا تُعَسِّرُوا"
+          },
+          "right": {
+            "en": "al-Bukhari & Muslim",
+            "bm": "al-Bukhari & Muslim"
+          }
+        },
+        {
+          "left": {
+            "en": "طَلَبُ الْعِلْمِ فَرِيضَةٌ",
+            "bm": "طَلَبُ الْعِلْمِ فَرِيضَةٌ"
+          },
+          "right": {
+            "en": "Ibn Majah",
+            "bm": "Ibn Majah"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pi-05-q10",
+      "subtopicId": "f3pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is cleanliness linked to faith?",
+        "bm": "Mengapakah kebersihan dikaitkan dengan iman?"
+      },
+      "explanation": {
+        "en": "See al-Baqarah: 222.",
+        "bm": "Lihat al-Baqarah: 222."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ibadah such as solat requires purity, and Allah loves those who purify themselves",
+          "bm": "Ibadah seperti solat memerlukan kesucian, dan Allah mengasihi orang yang menyucikan diri"
+        },
+        {
+          "en": "It is only about looking good",
+          "bm": "Ia hanya tentang penampilan"
+        },
+        {
+          "en": "It is a modern idea",
+          "bm": "Ia idea moden"
+        },
+        {
+          "en": "It has no link to worship",
+          "bm": "Tiada kaitan dengan ibadah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q11",
+      "subtopicId": "f3pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which action BEST practises the hadith on cleanliness at school?",
+        "bm": "Tindakan manakah PALING mengamalkan hadis kebersihan di sekolah?"
+      },
+      "explanation": {
+        "en": "Practice turns a hadith into character.",
+        "bm": "Amalan menjadikan hadis sebahagian daripada akhlak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Doing class cleaning duty and not littering",
+          "bm": "Menjalankan tugas kebersihan kelas dan tidak membuang sampah merata-rata"
+        },
+        {
+          "en": "Leaving food wrappers on desks",
+          "bm": "Meninggalkan bungkusan makanan di atas meja"
+        },
+        {
+          "en": "Writing on walls",
+          "bm": "Menconteng dinding"
+        },
+        {
+          "en": "Wasting water in the toilet",
+          "bm": "Membazir air di tandas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q12",
+      "subtopicId": "f3pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which shows \"making things easy\" in Islamic law?",
+        "bm": "Manakah menunjukkan \"kemudahan\" dalam syariat Islam?"
+      },
+      "explanation": {
+        "en": "Jamak, qasar and praying sitting when ill are other examples.",
+        "bm": "Jamak, qasar dan solat duduk ketika sakit ialah contoh lain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tayammum when water cannot be used",
+          "bm": "Tayamum apabila air tidak dapat digunakan"
+        },
+        {
+          "en": "Fasting while very ill",
+          "bm": "Berpuasa ketika sakit teruk"
+        },
+        {
+          "en": "Praying Subuh with 4 rakaat",
+          "bm": "Solat Subuh 4 rakaat"
+        },
+        {
+          "en": "Refusing all rukhsah",
+          "bm": "Menolak semua rukhsah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q13",
+      "subtopicId": "f3pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A teacher explains a hard topic step by step with examples. This applies…",
+        "bm": "Seorang guru menerangkan topik sukar langkah demi langkah dengan contoh. Ini mengamalkan…"
+      },
+      "explanation": {
+        "en": "Making learning easy is part of this hadith.",
+        "bm": "Memudahkan pembelajaran termasuk dalam hadis ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "يَسِّرُوا وَلَا تُعَسِّرُوا",
+          "bm": "يَسِّرُوا وَلَا تُعَسِّرُوا"
+        },
+        {
+          "en": "ignoring students",
+          "bm": "mengabaikan murid"
+        },
+        {
+          "en": "punishing every mistake",
+          "bm": "menghukum setiap kesilapan"
+        },
+        {
+          "en": "speaking only once",
+          "bm": "bercakap sekali sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q14",
+      "subtopicId": "f3pi-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Knowledge that only some people in the community must learn, such as medicine, is fardu ______.",
+        "bm": "Ilmu yang wajib dipelajari oleh sebahagian anggota masyarakat sahaja, seperti perubatan, ialah fardu ______."
+      },
+      "explanation": {
+        "en": "If no one learns it, the whole community is sinful.",
+        "bm": "Jika tiada yang mempelajarinya, seluruh masyarakat berdosa."
+      },
+      "difficulty": 2,
+      "answer": [
+        "kifayah"
+      ]
+    },
+    {
+      "id": "f3pi-05-q15",
+      "subtopicId": "f3pi-05-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange a good routine for seeking knowledge.",
+        "bm": "Susun rutin yang baik untuk menuntut ilmu."
+      },
+      "explanation": {
+        "en": "Knowledge should lead to action.",
+        "bm": "Ilmu sepatutnya membawa kepada amalan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Make the right intention",
+          "bm": "Betulkan niat"
+        },
+        {
+          "en": "Pay attention in class",
+          "bm": "Beri perhatian di dalam kelas"
+        },
+        {
+          "en": "Revise and practise",
+          "bm": "Ulang kaji dan berlatih"
+        },
+        {
+          "en": "Apply and share the knowledge",
+          "bm": "Amalkan dan sebarkan ilmu"
+        }
+      ]
+    },
+    {
+      "id": "f3pi-05-q16",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is NOT a manner (adab) of a student?",
+        "bm": "Antara berikut, yang manakah BUKAN adab penuntut ilmu?"
+      },
+      "explanation": {
+        "en": "Blessed knowledge comes with good manners.",
+        "bm": "Ilmu yang berkat datang bersama adab yang baik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mocking the teacher",
+          "bm": "Mempersendakan guru"
+        },
+        {
+          "en": "Respecting the teacher",
+          "bm": "Menghormati guru"
+        },
+        {
+          "en": "Being patient while learning",
+          "bm": "Bersabar ketika belajar"
+        },
+        {
+          "en": "Practising what is learned",
+          "bm": "Mengamalkan ilmu yang dipelajari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q17",
+      "subtopicId": "f3pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "During a dengue outbreak, how does the hadith on cleanliness guide the community?",
+        "bm": "Semasa wabak denggi, bagaimanakah hadis kebersihan membimbing masyarakat?"
+      },
+      "explanation": {
+        "en": "Effort plus tawakal is the Islamic way.",
+        "bm": "Usaha bersama tawakal ialah cara Islam."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Join gotong-royong to remove stagnant water — cleanliness protects life, part of faith",
+          "bm": "Menyertai gotong-royong membuang air bertakung — kebersihan memelihara nyawa, sebahagian daripada iman"
+        },
+        {
+          "en": "Wait for others to clean",
+          "bm": "Tunggu orang lain membersihkan"
+        },
+        {
+          "en": "Cleanliness is unrelated to health",
+          "bm": "Kebersihan tiada kaitan dengan kesihatan"
+        },
+        {
+          "en": "Only pray and do nothing",
+          "bm": "Berdoa sahaja tanpa usaha"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q18",
+      "subtopicId": "f3pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does Islam reject making religion harder than it is?",
+        "bm": "Mengapakah Islam menolak usaha menyusahkan agama melebihi apa yang ditetapkan?"
+      },
+      "explanation": {
+        "en": "Ease is not neglecting obligations; it is following the concessions Allah gives.",
+        "bm": "Kemudahan bukan mengabaikan kewajipan; ia mengikut keringanan yang Allah berikan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It drives people away and goes against \"Allah wants ease for you\" (al-Baqarah: 185)",
+          "bm": "Ia menyebabkan orang lari dan bercanggah dengan \"Allah menghendaki kemudahan bagimu\" (al-Baqarah: 185)"
+        },
+        {
+          "en": "Hard rules make people better",
+          "bm": "Peraturan sukar menjadikan orang lebih baik"
+        },
+        {
+          "en": "Ease means no rules at all",
+          "bm": "Kemudahan bermaksud tiada peraturan"
+        },
+        {
+          "en": "It is not mentioned in Islam",
+          "bm": "Ia tidak disebut dalam Islam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q19",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does Islam encourage learning both religious and worldly knowledge?",
+        "bm": "Mengapakah Islam menggalakkan mempelajari ilmu agama dan ilmu dunia?"
+      },
+      "explanation": {
+        "en": "The first revelation began with \"Iqra'\" — read (al-'Alaq: 1).",
+        "bm": "Wahyu pertama bermula dengan \"Iqra'\" — bacalah (al-'Alaq: 1)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Religious knowledge guides life, and worldly knowledge builds a strong, useful ummah",
+          "bm": "Ilmu agama membimbing kehidupan, dan ilmu dunia membina ummah yang kuat dan bermanfaat"
+        },
+        {
+          "en": "Worldly knowledge is forbidden",
+          "bm": "Ilmu dunia haram"
+        },
+        {
+          "en": "Only religious knowledge is useful",
+          "bm": "Hanya ilmu agama berguna"
+        },
+        {
+          "en": "Knowledge is not needed",
+          "bm": "Ilmu tidak diperlukan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pi-05-q20",
+      "subtopicId": "f3pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which attitude BEST reflects the hadith on seeking knowledge?",
+        "bm": "Sikap manakah PALING mencerminkan hadis menuntut ilmu?"
+      },
+      "explanation": {
+        "en": "Intention and consistency matter.",
+        "bm": "Niat dan istiqamah amat penting."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Lifelong learning — continuing to learn after school",
+          "bm": "Belajar sepanjang hayat — terus belajar selepas tamat sekolah"
+        },
+        {
+          "en": "Stop learning after exams",
+          "bm": "Berhenti belajar selepas peperiksaan"
+        },
+        {
+          "en": "Learning only to show off",
+          "bm": "Belajar hanya untuk menunjuk-nunjuk"
+        },
+        {
+          "en": "Copying others' work",
+          "bm": "Meniru kerja orang lain"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

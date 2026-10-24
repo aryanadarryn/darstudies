@@ -1,0 +1,755 @@
+{
+  "chapterId": "f3muzik-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Musicians in Kuala Lumpur and Kuching can play the same piece perfectly from a page — because staff notation is a shared language.",
+      "bm": "Pemuzik di Kuala Lumpur dan Kuching boleh memainkan lagu yang sama dengan tepat daripada satu halaman — kerana notasi baluk ialah bahasa yang dikongsi."
+    },
+    "bigIdeas": [
+      {
+        "en": "In 4/4 time a semibreve = 4 beats, minim = 2, crotchet = 1, quaver = ½, semiquaver = ¼.",
+        "bm": "Dalam meter 4/4, semibrif = 4 detik, minim = 2, krocet = 1, kuaver = ½, semikuaver = ¼."
+      },
+      {
+        "en": "A dot after a note adds half its value (dotted minim = 3 beats).",
+        "bm": "Titik selepas not menambah separuh nilainya (minim bertitik = 3 detik)."
+      },
+      {
+        "en": "Treble clef lines are E G B D F; spaces are F A C E.",
+        "bm": "Garisan klef trebel ialah E G B D F; ruang ialah F A C E."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Beats",
+            "bm": "Detik"
+          },
+          {
+            "en": "Equal to",
+            "bm": "Sama dengan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Semibreve",
+              "bm": "Semibrif"
+            },
+            "cells": [
+              {
+                "en": "4",
+                "bm": "4"
+              },
+              {
+                "en": "2 minims",
+                "bm": "2 minim"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Minim",
+              "bm": "Minim"
+            },
+            "cells": [
+              {
+                "en": "2",
+                "bm": "2"
+              },
+              {
+                "en": "2 crotchets",
+                "bm": "2 krocet"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Crotchet",
+              "bm": "Krocet"
+            },
+            "cells": [
+              {
+                "en": "1",
+                "bm": "1"
+              },
+              {
+                "en": "2 quavers",
+                "bm": "2 kuaver"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Quaver",
+              "bm": "Kuaver"
+            },
+            "cells": [
+              {
+                "en": "½",
+                "bm": "½"
+              },
+              {
+                "en": "2 semiquavers",
+                "bm": "2 semikuaver"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Semiquaver",
+              "bm": "Semikuaver"
+            },
+            "cells": [
+              {
+                "en": "¼",
+                "bm": "¼"
+              },
+              {
+                "en": "—",
+                "bm": "—"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Stave (staff)",
+          "bm": "Baluk"
+        },
+        "definition": {
+          "en": "Five lines and four spaces on which notes are written.",
+          "bm": "Lima garisan dan empat ruang tempat not ditulis."
+        }
+      },
+      {
+        "term": {
+          "en": "Treble clef",
+          "bm": "Klef trebel"
+        },
+        "definition": {
+          "en": "Clef for higher notes; also called the G clef.",
+          "bm": "Klef untuk not tinggi; juga dipanggil klef G."
+        }
+      },
+      {
+        "term": {
+          "en": "Bass clef",
+          "bm": "Klef bes"
+        },
+        "definition": {
+          "en": "Clef for lower notes; also called the F clef.",
+          "bm": "Klef untuk not rendah; juga dipanggil klef F."
+        }
+      },
+      {
+        "term": {
+          "en": "Time signature",
+          "bm": "Meter"
+        },
+        "definition": {
+          "en": "Top number = beats per bar; bottom 4 = crotchet beat.",
+          "bm": "Nombor atas = detik setiap bar; nombor bawah 4 = detik krocet."
+        }
+      },
+      {
+        "term": {
+          "en": "Bar line",
+          "bm": "Garis bar"
+        },
+        "definition": {
+          "en": "Vertical line that divides music into bars (measures).",
+          "bm": "Garisan menegak yang membahagikan muzik kepada bar."
+        }
+      },
+      {
+        "term": {
+          "en": "Rest",
+          "bm": "Tanda rehat"
+        },
+        "definition": {
+          "en": "A symbol for silence of a set length.",
+          "bm": "Simbol senyap bagi tempoh tertentu."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "In 4/4 time, a bar has a minim, a crotchet and two quavers. Is the bar complete?",
+        "bm": "Dalam meter 4/4, satu bar mengandungi satu minim, satu krocet dan dua kuaver. Adakah bar itu lengkap?"
+      },
+      "steps": [
+        {
+          "en": "Minim = 2, crotchet = 1, two quavers = ½ + ½ = 1.",
+          "bm": "Minim = 2, krocet = 1, dua kuaver = ½ + ½ = 1."
+        },
+        {
+          "en": "Total = 2 + 1 + 1 = 4 beats.",
+          "bm": "Jumlah = 2 + 1 + 1 = 4 detik."
+        }
+      ],
+      "answer": {
+        "en": "Yes — 4 beats fill a 4/4 bar.",
+        "bm": "Ya — 4 detik memenuhi bar 4/4."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3muzik-02-q01",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a semibreve worth in 4/4 time?",
+        "bm": "Berapakah nilai detik semibrif dalam meter 4/4?"
+      },
+      "explanation": {
+        "en": "Semibreve = whole note = 4 beats.",
+        "bm": "Semibrif = 4 detik."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q02",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a minim worth?",
+        "bm": "Berapakah nilai detik minim?"
+      },
+      "explanation": {
+        "en": "Minim = half note = 2 beats.",
+        "bm": "Minim = 2 detik."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q03",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a quaver worth?",
+        "bm": "Berapakah nilai detik kuaver?"
+      },
+      "explanation": {
+        "en": "Quaver = ½ beat; two quavers = 1 crotchet.",
+        "bm": "Kuaver = ½ detik; dua kuaver = 1 krocet."
+      },
+      "difficulty": 1,
+      "answer": 0.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q04",
+      "subtopicId": "f3muzik-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A crotchet is worth…",
+        "bm": "Krocet bernilai…"
+      },
+      "explanation": {
+        "en": "The crotchet is the beat in 4/4.",
+        "bm": "Krocet ialah detik dalam 4/4."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1 beat",
+          "bm": "1 detik"
+        },
+        {
+          "en": "2 beats",
+          "bm": "2 detik"
+        },
+        {
+          "en": "4 beats",
+          "bm": "4 detik"
+        },
+        {
+          "en": "½ beat",
+          "bm": "½ detik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q05",
+      "subtopicId": "f3muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A stave has…",
+        "bm": "Baluk mempunyai…"
+      },
+      "explanation": {
+        "en": "Count lines from the bottom.",
+        "bm": "Kira garisan dari bawah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "5 lines and 4 spaces",
+          "bm": "5 garisan dan 4 ruang"
+        },
+        {
+          "en": "4 lines and 5 spaces",
+          "bm": "4 garisan dan 5 ruang"
+        },
+        {
+          "en": "6 lines",
+          "bm": "6 garisan"
+        },
+        {
+          "en": "3 lines and 2 spaces",
+          "bm": "3 garisan dan 2 ruang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q06",
+      "subtopicId": "f3muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The notes on the SPACES of the treble clef (bottom to top) spell…",
+        "bm": "Not pada RUANG klef trebel (bawah ke atas) membentuk…"
+      },
+      "explanation": {
+        "en": "\"FACE\" is easy to remember.",
+        "bm": "\"FACE\" mudah diingat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "F A C E",
+          "bm": "F A C E"
+        },
+        {
+          "en": "E G B D F",
+          "bm": "E G B D F"
+        },
+        {
+          "en": "G B D F A",
+          "bm": "G B D F A"
+        },
+        {
+          "en": "A C E G",
+          "bm": "A C E G"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q07",
+      "subtopicId": "f3muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The notes on the LINES of the treble clef (bottom to top) are…",
+        "bm": "Not pada GARISAN klef trebel (bawah ke atas) ialah…"
+      },
+      "explanation": {
+        "en": "\"Every Good Boy Deserves Fruit\".",
+        "bm": "\"Every Good Boy Deserves Fruit\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "E G B D F",
+          "bm": "E G B D F"
+        },
+        {
+          "en": "F A C E",
+          "bm": "F A C E"
+        },
+        {
+          "en": "G B D F A",
+          "bm": "G B D F A"
+        },
+        {
+          "en": "C D E F G",
+          "bm": "C D E F G"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q08",
+      "subtopicId": "f3muzik-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In 3/4 time, each bar has…",
+        "bm": "Dalam meter 3/4, setiap bar mempunyai…"
+      },
+      "explanation": {
+        "en": "Waltzes are often in 3/4.",
+        "bm": "Waltz biasanya dalam 3/4."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "3 crotchet beats",
+          "bm": "3 detik krocet"
+        },
+        {
+          "en": "4 crotchet beats",
+          "bm": "4 detik krocet"
+        },
+        {
+          "en": "3 minim beats",
+          "bm": "3 detik minim"
+        },
+        {
+          "en": "2 crotchet beats",
+          "bm": "2 detik krocet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q09",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a dotted minim worth?",
+        "bm": "Berapakah nilai detik minim bertitik?"
+      },
+      "explanation": {
+        "en": "2 + half of 2 (1) = 3.",
+        "bm": "2 + separuh daripada 2 (1) = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q10",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a dotted crotchet worth?",
+        "bm": "Berapakah nilai detik krocet bertitik?"
+      },
+      "explanation": {
+        "en": "1 + ½ = 1½.",
+        "bm": "1 + ½ = 1½."
+      },
+      "difficulty": 2,
+      "answer": 1.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q11",
+      "subtopicId": "f3muzik-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many quavers equal one semibreve?",
+        "bm": "Berapakah kuaver yang sama dengan satu semibrif?"
+      },
+      "explanation": {
+        "en": "4 ÷ ½ = 8.",
+        "bm": "4 ÷ ½ = 8."
+      },
+      "difficulty": 2,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q12",
+      "subtopicId": "f3muzik-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bar has a minim, a crotchet and two quavers. How many beats in total?",
+        "bm": "Satu bar mengandungi satu minim, satu krocet dan dua kuaver. Berapakah jumlah detik?"
+      },
+      "explanation": {
+        "en": "2 + 1 + ½ + ½ = 4.",
+        "bm": "2 + 1 + ½ + ½ = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f3muzik-02-q13",
+      "subtopicId": "f3muzik-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each note with its value in beats.",
+        "bm": "Padankan not dengan nilai detiknya."
+      },
+      "explanation": {
+        "en": "Each note is half the one before it.",
+        "bm": "Setiap not separuh daripada not sebelumnya."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Semibreve",
+            "bm": "Semibrif"
+          },
+          "right": {
+            "en": "4",
+            "bm": "4"
+          }
+        },
+        {
+          "left": {
+            "en": "Minim",
+            "bm": "Minim"
+          },
+          "right": {
+            "en": "2",
+            "bm": "2"
+          }
+        },
+        {
+          "left": {
+            "en": "Crotchet",
+            "bm": "Krocet"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        },
+        {
+          "left": {
+            "en": "Semiquaver",
+            "bm": "Semikuaver"
+          },
+          "right": {
+            "en": "¼",
+            "bm": "¼"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3muzik-02-q14",
+      "subtopicId": "f3muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The bass clef is also called the…",
+        "bm": "Klef bes juga dipanggil…"
+      },
+      "explanation": {
+        "en": "Its two dots surround the F line.",
+        "bm": "Dua titiknya mengapit garisan F."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "F clef",
+          "bm": "klef F"
+        },
+        {
+          "en": "G clef",
+          "bm": "klef G"
+        },
+        {
+          "en": "C clef",
+          "bm": "klef C"
+        },
+        {
+          "en": "treble clef",
+          "bm": "klef trebel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q15",
+      "subtopicId": "f3muzik-02-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The time signature 4/4 is also called ______ time.",
+        "bm": "Meter 4/4 juga dipanggil meter ______."
+      },
+      "explanation": {
+        "en": "It is sometimes written as a large C.",
+        "bm": "Kadangkala ditulis sebagai huruf C besar."
+      },
+      "difficulty": 2,
+      "answer": [
+        "common",
+        "biasa"
+      ]
+    },
+    {
+      "id": "f3muzik-02-q16",
+      "subtopicId": "f3muzik-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The pattern of tones (T) and semitones (S) in a major scale is…",
+        "bm": "Corak ton (T) dan semiton (S) dalam skel major ialah…"
+      },
+      "explanation": {
+        "en": "C major uses only white keys and follows this pattern.",
+        "bm": "C major hanya menggunakan kekunci putih dan mengikut corak ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "T T S T T T S",
+          "bm": "T T S T T T S"
+        },
+        {
+          "en": "T S T T S T T",
+          "bm": "T S T T S T T"
+        },
+        {
+          "en": "S T T T S T T",
+          "bm": "S T T T S T T"
+        },
+        {
+          "en": "T T T S T T S",
+          "bm": "T T T S T T S"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q17",
+      "subtopicId": "f3muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student writes a 3/4 bar with a minim and two crotchets. What is wrong?",
+        "bm": "Seorang murid menulis bar 3/4 dengan satu minim dan dua krocet. Apakah kesilapannya?"
+      },
+      "explanation": {
+        "en": "2 + 1 + 1 = 4, but 3/4 needs 3.",
+        "bm": "2 + 1 + 1 = 4, tetapi 3/4 memerlukan 3."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It has 4 beats — one too many",
+          "bm": "Ia ada 4 detik — terlebih satu"
+        },
+        {
+          "en": "It has too few beats",
+          "bm": "Ia kurang detik"
+        },
+        {
+          "en": "Minims are not allowed in 3/4",
+          "bm": "Minim tidak dibenarkan dalam 3/4"
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada kesilapan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q18",
+      "subtopicId": "f3muzik-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which combination fills a 4/4 bar exactly?",
+        "bm": "Gabungan manakah memenuhi bar 4/4 dengan tepat?"
+      },
+      "explanation": {
+        "en": "3 + 1 = 4.",
+        "bm": "3 + 1 = 4."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Dotted minim + crotchet",
+          "bm": "Minim bertitik + krocet"
+        },
+        {
+          "en": "Minim + minim + crotchet",
+          "bm": "Minim + minim + krocet"
+        },
+        {
+          "en": "Semibreve + quaver",
+          "bm": "Semibrif + kuaver"
+        },
+        {
+          "en": "Crotchet + crotchet",
+          "bm": "Krocet + krocet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q19",
+      "subtopicId": "f3muzik-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In solfa, the notes of a major scale are…",
+        "bm": "Dalam solfa, not skel major ialah…"
+      },
+      "explanation": {
+        "en": "Solfa helps singers learn intervals.",
+        "bm": "Solfa membantu penyanyi mempelajari jeda."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "do re mi fa so la ti do",
+          "bm": "do re mi fa so la ti do"
+        },
+        {
+          "en": "do mi so do",
+          "bm": "do mi so do"
+        },
+        {
+          "en": "la ti do re mi fa so la",
+          "bm": "la ti do re mi fa so la"
+        },
+        {
+          "en": "do re fa so la do",
+          "bm": "do re fa so la do"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3muzik-02-q20",
+      "subtopicId": "f3muzik-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a song in 2/4 often feel like a march?",
+        "bm": "Mengapakah lagu dalam meter 2/4 sering terasa seperti kawad?"
+      },
+      "explanation": {
+        "en": "Metre shapes how music feels for movement.",
+        "bm": "Meter membentuk rasa muzik untuk pergerakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Two strong-weak beats per bar match left-right steps",
+          "bm": "Dua detik kuat-lemah setiap bar sepadan dengan langkah kiri-kanan"
+        },
+        {
+          "en": "It has no beat",
+          "bm": "Ia tiada detik"
+        },
+        {
+          "en": "It is always slow",
+          "bm": "Ia sentiasa perlahan"
+        },
+        {
+          "en": "It has three beats",
+          "bm": "Ia ada tiga detik"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

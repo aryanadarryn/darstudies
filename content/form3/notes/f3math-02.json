@@ -1,0 +1,50 @@
+{
+  "chapterId": "f3math-02",
+  "reviewed": false,
+  "subtopics": {
+    "f3math-02-01": {
+      "keyPoints": [
+        {
+          "en": "Non-zero digits and zeros between them are significant.",
+          "bm": "Digit bukan sifar dan sifar di antaranya adalah bererti."
+        },
+        {
+          "en": "Leading zeros (0.00…) are never significant.",
+          "bm": "Sifar di hadapan (0.00…) tidak pernah bererti."
+        },
+        {
+          "en": "Zeros at the end after a decimal point are significant (2.50 has 3 s.f.).",
+          "bm": "Sifar di hujung selepas titik perpuluhan adalah bererti (2.50 mempunyai 3 a.b.)."
+        },
+        {
+          "en": "Round by looking at the next digit: 5 or more rounds up.",
+          "bm": "Bundarkan dengan melihat digit seterusnya: 5 atau lebih dibundarkan ke atas."
+        }
+      ],
+      "tip": {
+        "en": "When rounding a whole number, keep its size: 72 649 to 2 s.f. is 73 000, not 73.",
+        "bm": "Apabila membundarkan nombor bulat, kekalkan saiznya: 72 649 kepada 2 a.b. ialah 73 000, bukan 73."
+      }
+    },
+    "f3math-02-02": {
+      "keyPoints": [
+        {
+          "en": "Standard form: A × 10ⁿ with 1 ≤ A < 10 and n an integer.",
+          "bm": "Bentuk piawai: A × 10ⁿ dengan 1 ≤ A < 10 dan n integer."
+        },
+        {
+          "en": "Numbers ≥ 10 → n positive; numbers between 0 and 1 → n negative.",
+          "bm": "Nombor ≥ 10 → n positif; nombor antara 0 dan 1 → n negatif."
+        },
+        {
+          "en": "× : multiply A, add indices. ÷ : divide A, subtract indices. Then re-adjust A if needed.",
+          "bm": "× : darab A, tambah indeks. ÷ : bahagi A, tolak indeks. Kemudian laraskan A jika perlu."
+        },
+        {
+          "en": "+ / − : write both with the same power of 10 first.",
+          "bm": "+ / − : tulis kedua-duanya dengan kuasa 10 yang sama dahulu."
+        }
+      ]
+    }
+  }
+}

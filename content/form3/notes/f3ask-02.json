@@ -1,0 +1,46 @@
+{
+  "chapterId": "f3ask-02",
+  "reviewed": false,
+  "subtopics": {
+    "f3ask-02-01": {
+      "keyPoints": [
+        {
+          "en": "Types: int, float, str, bool. input() returns str — convert with int() or float().",
+          "bm": "Jenis: int, float, str, bool. input() memulangkan str — tukar dengan int() atau float()."
+        },
+        {
+          "en": "print() displays output. Variable names cannot start with a digit.",
+          "bm": "print() memaparkan output. Nama pemboleh ubah tidak boleh bermula dengan digit."
+        }
+      ]
+    },
+    "f3ask-02-02": {
+      "keyPoints": [
+        {
+          "en": "/ divide (3.5), // floor division (17 // 5 = 3), % remainder (17 % 5 = 2), ** power (2 ** 3 = 8).",
+          "bm": "/ bahagi (3.5), // bahagi integer (17 // 5 = 3), % baki (17 % 5 = 2), ** kuasa (2 ** 3 = 8)."
+        },
+        {
+          "en": "Comparison: == != < > <= >=. Use = to assign, == to compare.",
+          "bm": "Perbandingan: == != < > <= >=. Gunakan = untuk umpukan, == untuk perbandingan."
+        }
+      ]
+    },
+    "f3ask-02-03": {
+      "keyPoints": [
+        {
+          "en": "if / elif / else need a colon and an indented block.",
+          "bm": "if / elif / else perlukan titik bertindih dan blok berinden."
+        },
+        {
+          "en": "range(5) → 0–4; range(1, 6) → 1–5; range(2, 10, 2) → 2, 4, 6, 8. while repeats until the condition is False.",
+          "bm": "range(5) → 0–4; range(1, 6) → 1–5; range(2, 10, 2) → 2, 4, 6, 8. while berulang sehingga syarat False."
+        }
+      ],
+      "tip": {
+        "en": "Trace loops on paper, one line at a time.",
+        "bm": "Surih gelung di atas kertas, satu baris demi satu baris."
+      }
+    }
+  }
+}

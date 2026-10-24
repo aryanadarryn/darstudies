@@ -1,0 +1,42 @@
+{
+  "chapterId": "f3ask-01",
+  "reviewed": false,
+  "subtopics": {
+    "f3ask-01-01": {
+      "keyPoints": [
+        {
+          "en": "Decomposition, pattern recognition, abstraction, algorithms.",
+          "bm": "Leraian, pengecaman corak, peniskalaan, algoritma."
+        },
+        {
+          "en": "An algorithm is precise, ordered and finite.",
+          "bm": "Algoritma adalah tepat, tersusun dan terhingga."
+        }
+      ]
+    },
+    "f3ask-01-02": {
+      "keyPoints": [
+        {
+          "en": "Flowchart: oval (start/end), parallelogram (input/output), rectangle (process), diamond (decision), arrows (flow).",
+          "bm": "Carta alir: bujur (mula/tamat), segi empat selari (input/output), segi empat tepat (proses), rombus (keputusan), anak panah (aliran)."
+        },
+        {
+          "en": "Pseudocode uses keywords like INPUT, DISPLAY, IF, FOR, WHILE.",
+          "bm": "Pseudokod menggunakan kata kunci seperti INPUT, PAPAR, IF, FOR, WHILE."
+        }
+      ]
+    },
+    "f3ask-01-03": {
+      "keyPoints": [
+        {
+          "en": "Sequence (in order), selection (IF…ELSE), repetition (FOR, WHILE).",
+          "bm": "Urutan (mengikut turutan), pilihan (IF…ELSE), pengulangan (FOR, WHILE)."
+        }
+      ],
+      "tip": {
+        "en": "Trace algorithms by hand with a table of variable values.",
+        "bm": "Surih algoritma secara manual dengan jadual nilai pemboleh ubah."
+      }
+    }
+  }
+}

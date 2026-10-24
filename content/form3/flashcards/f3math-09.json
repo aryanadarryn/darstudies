@@ -1,0 +1,185 @@
+{
+  "chapterId": "f3math-09",
+  "cards": [
+    {
+      "id": "f3math-09-f01",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Gradient formula",
+        "bm": "Rumus kecerunan"
+      },
+      "back": {
+        "en": "m = (y₂ − y₁)/(x₂ − x₁)",
+        "bm": "m = (y₂ − y₁)/(x₂ − x₁)"
+      }
+    },
+    {
+      "id": "f3math-09-f02",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Gradient from intercepts",
+        "bm": "Kecerunan dari pintasan"
+      },
+      "back": {
+        "en": "m = −(y-intercept)/(x-intercept)",
+        "bm": "m = −(pintasan-y)/(pintasan-x)"
+      }
+    },
+    {
+      "id": "f3math-09-f03",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Equation of a line",
+        "bm": "Persamaan garis lurus"
+      },
+      "back": {
+        "en": "y = mx + c",
+        "bm": "y = mx + c"
+      }
+    },
+    {
+      "id": "f3math-09-f04",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "c in y = mx + c",
+        "bm": "c dalam y = mx + c"
+      },
+      "back": {
+        "en": "y-intercept",
+        "bm": "Pintasan-y"
+      }
+    },
+    {
+      "id": "f3math-09-f05",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Finding the x-intercept",
+        "bm": "Mencari pintasan-x"
+      },
+      "back": {
+        "en": "Put y = 0",
+        "bm": "Gantikan y = 0"
+      }
+    },
+    {
+      "id": "f3math-09-f06",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Finding the y-intercept",
+        "bm": "Mencari pintasan-y"
+      },
+      "back": {
+        "en": "Put x = 0",
+        "bm": "Gantikan x = 0"
+      }
+    },
+    {
+      "id": "f3math-09-f07",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Positive gradient",
+        "bm": "Kecerunan positif"
+      },
+      "back": {
+        "en": "Rises to the right",
+        "bm": "Naik ke kanan"
+      }
+    },
+    {
+      "id": "f3math-09-f08",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Negative gradient",
+        "bm": "Kecerunan negatif"
+      },
+      "back": {
+        "en": "Falls to the right",
+        "bm": "Turun ke kanan"
+      }
+    },
+    {
+      "id": "f3math-09-f09",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Horizontal line",
+        "bm": "Garis mengufuk"
+      },
+      "back": {
+        "en": "y = a, gradient 0",
+        "bm": "y = a, kecerunan 0"
+      }
+    },
+    {
+      "id": "f3math-09-f10",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Vertical line",
+        "bm": "Garis mencancang"
+      },
+      "back": {
+        "en": "x = a, gradient undefined",
+        "bm": "x = a, kecerunan tidak tertakrif"
+      }
+    },
+    {
+      "id": "f3math-09-f11",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Parallel lines",
+        "bm": "Garis selari"
+      },
+      "back": {
+        "en": "Equal gradients",
+        "bm": "Kecerunan sama"
+      }
+    },
+    {
+      "id": "f3math-09-f12",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "ax + by = c → gradient",
+        "bm": "ax + by = c → kecerunan"
+      },
+      "back": {
+        "en": "m = −a/b",
+        "bm": "m = −a/b"
+      }
+    },
+    {
+      "id": "f3math-09-f13",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Point on a line?",
+        "bm": "Titik pada garis?"
+      },
+      "back": {
+        "en": "Substitute — both sides must be equal",
+        "bm": "Gantikan — kedua-dua belah mesti sama"
+      }
+    },
+    {
+      "id": "f3math-09-f14",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Intersection",
+        "bm": "Persilangan"
+      },
+      "back": {
+        "en": "Solve the two equations simultaneously",
+        "bm": "Selesaikan kedua-dua persamaan serentak"
+      }
+    },
+    {
+      "id": "f3math-09-f15",
+      "subtopicId": "f3math-09-01",
+      "front": {
+        "en": "Line through the origin",
+        "bm": "Garis melalui asalan"
+      },
+      "back": {
+        "en": "y = mx (c = 0)",
+        "bm": "y = mx (c = 0)"
+      }
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import type { Form } from '../content/ids'
 import type { SubjectId } from '../content/schema'
 
 export type TaskType = 'intro' | 'quiz' | 'flashcards' | 'formula-drill' | 'tool' | 'review' | 'rest'
@@ -44,7 +45,8 @@ export interface Settings {
   dailyCap: number
   /** 0 = Sunday … 6 = Saturday */
   studyDays: number[]
-  confidence: Record<SubjectId, number>
+  /** Missing subjects count as 3 (neutral). */
+  confidence: Partial<Record<SubjectId, number>>
   /** "Class is now on chapter X" markers for the term companion phase. */
   currentChapters: Partial<Record<SubjectId, { chapterId: string; since: string }>>
   reminderTime?: string
@@ -52,4 +54,6 @@ export interface Settings {
   breakMinutes: number
   /** Layout: phone-style or wide browser layout; 'auto' picks by screen width. */
   viewMode: 'auto' | 'mobile' | 'desktop'
+  /** Which form's subjects Learn, Practice and the planner show. */
+  form: Form
 }

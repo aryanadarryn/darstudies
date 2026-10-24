@@ -1,0 +1,362 @@
+{
+  "id": "f3sci",
+  "name": {
+    "en": "Science",
+    "bm": "Sains"
+  },
+  "short": {
+    "en": "Science",
+    "bm": "Sains"
+  },
+  "color": "#16a34a",
+  "source": "Chapter titles follow the KSSM Science Form 3 textbook (10 chapters, 4 themes). Calculated answers are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Stimuli and Responses",
+        "bm": "Rangsangan dan Gerak Balas"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Human Nervous System",
+            "bm": "Sistem Saraf Manusia"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Stimuli and Responses in Humans",
+            "bm": "Rangsangan dan Gerak Balas dalam Manusia"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Stimuli and Responses in Plants",
+            "bm": "Rangsangan dan Gerak Balas dalam Tumbuhan"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Stereoscopic and Monocular Vision in Animals",
+            "bm": "Penglihatan Stereoskopik dan Monokular dalam Haiwan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Respiration",
+        "bm": "Respirasi"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Human Respiratory System",
+            "bm": "Sistem Respirasi Manusia"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Movement and Exchange of Gases in the Human Body",
+            "bm": "Pergerakan dan Pertukaran Gas dalam Badan Manusia"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Health of the Human Respiratory System",
+            "bm": "Kesihatan Sistem Respirasi Manusia"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Adaptations and Gaseous Exchange in Other Organisms and Plants",
+            "bm": "Penyesuaian dan Pertukaran Gas dalam Organisma Lain dan Tumbuhan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Transportation",
+        "bm": "Pengangkutan"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Transport System in Organisms",
+            "bm": "Sistem Pengangkutan dalam Organisma"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Blood Circulatory System",
+            "bm": "Sistem Peredaran Darah"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Human Blood",
+            "bm": "Darah Manusia"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "Transport in Plants",
+            "bm": "Pengangkutan dalam Tumbuhan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Reactivity of Metals",
+        "bm": "Kereaktifan Logam"
+      },
+      "theme": {
+        "en": "Exploration of Elements in Nature",
+        "bm": "Penerokaan Unsur dalam Alam"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Variety of Minerals",
+            "bm": "Kepelbagaian Mineral"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Reactivity Series of Metals",
+            "bm": "Siri Kereaktifan Logam"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Extraction of Metals from Their Ores",
+            "bm": "Pengekstrakan Logam daripada Bijihnya"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Thermochemistry",
+        "bm": "Termokimia"
+      },
+      "theme": {
+        "en": "Exploration of Elements in Nature",
+        "bm": "Penerokaan Unsur dalam Alam"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Endothermic and Exothermic Reactions",
+            "bm": "Tindak Balas Endotermik dan Eksotermik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Electricity and Magnetism",
+        "bm": "Keelektrikan dan Kemagnetan"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Generation of Electricity",
+            "bm": "Penjanaan Tenaga Elektrik"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Transformer",
+            "bm": "Transformer"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Transmission and Distribution of Electricity",
+            "bm": "Penghantaran dan Pengagihan Tenaga Elektrik"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Cost of Electricity Consumption",
+            "bm": "Kos Penggunaan Tenaga Elektrik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Energy and Power",
+        "bm": "Tenaga dan Kuasa"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Work, Energy and Power",
+            "bm": "Kerja, Tenaga dan Kuasa"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Potential Energy and Kinetic Energy",
+            "bm": "Tenaga Keupayaan dan Tenaga Kinetik"
+          }
+        },
+        {
+          "code": "7.3",
+          "title": {
+            "en": "Principle of Conservation of Energy",
+            "bm": "Prinsip Keabadian Tenaga"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Radioactivity",
+        "bm": "Keradioaktifan"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Discovery of Radioactivity",
+            "bm": "Penemuan Keradioaktifan"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Atom and Nucleus",
+            "bm": "Atom dan Nukleus"
+          }
+        },
+        {
+          "code": "8.3",
+          "title": {
+            "en": "Ionising and Non-ionising Radiation",
+            "bm": "Sinaran Mengion dan Sinaran Tidak Mengion"
+          }
+        },
+        {
+          "code": "8.4",
+          "title": {
+            "en": "Uses of Radioactive Radiation",
+            "bm": "Kegunaan Sinaran Radioaktif"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Space Weather",
+        "bm": "Cuaca Angkasa"
+      },
+      "theme": {
+        "en": "Earth and Space Exploration",
+        "bm": "Penerokaan Bumi dan Angkasa Lepas"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Activities of the Sun that Affect the Earth",
+            "bm": "Aktiviti Matahari yang Memberi Kesan kepada Bumi"
+          }
+        },
+        {
+          "code": "9.2",
+          "title": {
+            "en": "Space Weather",
+            "bm": "Cuaca Angkasa"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Space Exploration",
+        "bm": "Penerokaan Angkasa Lepas"
+      },
+      "theme": {
+        "en": "Earth and Space Exploration",
+        "bm": "Penerokaan Bumi dan Angkasa Lepas"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Development in Astronomy",
+            "bm": "Perkembangan dalam Astronomi"
+          }
+        },
+        {
+          "code": "10.2",
+          "title": {
+            "en": "Technology and Its Application in Space Exploration",
+            "bm": "Teknologi dan Aplikasinya dalam Penerokaan Angkasa Lepas"
+          }
+        }
+      ]
+    }
+  ]
+}

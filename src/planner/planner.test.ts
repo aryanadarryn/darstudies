@@ -24,7 +24,7 @@ const settings = (over: Partial<Settings> = {}): Settings => ({
   minutes: { holiday: 60, school: 45, weekend: 90 }, dailyCap: 90,
   studyDays: [1, 2, 3, 4, 5, 6], // Sunday light
   confidence: { phy: 3, chem: 3, bio: 3, addmath: 3, math: 3, sej: 3, pi: 3, bm: 3, bi: 3 },
-  currentChapters: {}, breakMinutes: 25, viewMode: 'auto',
+  currentChapters: {}, breakMinutes: 25, viewMode: 'auto', form: 4,
   ...over,
 })
 

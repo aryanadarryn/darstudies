@@ -1,0 +1,861 @@
+{
+  "chapterId": "f3sci-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In 1896 Henri Becquerel left uranium salt on a wrapped photographic plate in a drawer. When he developed the plate, it was fogged — the uranium had given off invisible radiation by itself.",
+      "bm": "Pada 1896 Henri Becquerel meninggalkan garam uranium di atas plat fotografi berbalut dalam laci. Apabila plat itu dicuci, ia berkabus — uranium telah memancarkan sinaran yang tidak kelihatan dengan sendirinya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Radioactivity is the spontaneous emission of radiation by unstable nuclei.",
+        "bm": "Keradioaktifan ialah pemancaran sinaran secara spontan oleh nukleus yang tidak stabil."
+      },
+      {
+        "en": "Alpha, beta and gamma radiation differ in charge, penetrating power and ionising power.",
+        "bm": "Sinaran alfa, beta dan gama berbeza dari segi cas, kuasa penembusan dan kuasa pengionan."
+      },
+      {
+        "en": "Radiation is useful in medicine, industry, agriculture and archaeology, but must be handled safely.",
+        "bm": "Sinaran berguna dalam perubatan, industri, pertanian dan arkeologi, tetapi mesti dikendalikan dengan selamat."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Alpha (α)",
+            "bm": "Alfa (α)"
+          },
+          {
+            "en": "Beta (β)",
+            "bm": "Beta (β)"
+          },
+          {
+            "en": "Gamma (γ)",
+            "bm": "Gama (γ)"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Nature",
+              "bm": "Sifat"
+            },
+            "cells": [
+              {
+                "en": "Helium nucleus (2p + 2n)",
+                "bm": "Nukleus helium (2p + 2n)"
+              },
+              {
+                "en": "Fast electron",
+                "bm": "Elektron laju"
+              },
+              {
+                "en": "Electromagnetic wave",
+                "bm": "Gelombang elektromagnet"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Charge",
+              "bm": "Cas"
+            },
+            "cells": [
+              {
+                "en": "+2",
+                "bm": "+2"
+              },
+              {
+                "en": "−1",
+                "bm": "−1"
+              },
+              {
+                "en": "0",
+                "bm": "0"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Stopped by",
+              "bm": "Dihalang oleh"
+            },
+            "cells": [
+              {
+                "en": "Paper / a few cm of air",
+                "bm": "Kertas / beberapa cm udara"
+              },
+              {
+                "en": "A few mm of aluminium",
+                "bm": "Beberapa mm aluminium"
+              },
+              {
+                "en": "Thick lead or concrete (reduced)",
+                "bm": "Plumbum atau konkrit tebal (dikurangkan)"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ionising power",
+              "bm": "Kuasa pengionan"
+            },
+            "cells": [
+              {
+                "en": "Highest",
+                "bm": "Paling tinggi"
+              },
+              {
+                "en": "Medium",
+                "bm": "Sederhana"
+              },
+              {
+                "en": "Lowest",
+                "bm": "Paling rendah"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Radioactivity",
+          "bm": "Keradioaktifan"
+        },
+        "definition": {
+          "en": "Spontaneous emission of radiation from unstable nuclei.",
+          "bm": "Pemancaran sinaran secara spontan dari nukleus yang tidak stabil."
+        }
+      },
+      {
+        "term": {
+          "en": "Proton number",
+          "bm": "Nombor proton"
+        },
+        "definition": {
+          "en": "Number of protons in the nucleus.",
+          "bm": "Bilangan proton dalam nukleus."
+        }
+      },
+      {
+        "term": {
+          "en": "Nucleon number",
+          "bm": "Nombor nukleon"
+        },
+        "definition": {
+          "en": "Number of protons + neutrons.",
+          "bm": "Bilangan proton + neutron."
+        }
+      },
+      {
+        "term": {
+          "en": "Isotopes",
+          "bm": "Isotop"
+        },
+        "definition": {
+          "en": "Atoms of the same element with different numbers of neutrons.",
+          "bm": "Atom unsur yang sama dengan bilangan neutron yang berbeza."
+        }
+      },
+      {
+        "term": {
+          "en": "Half-life",
+          "bm": "Separuh hayat"
+        },
+        "definition": {
+          "en": "Time for half of the radioactive nuclei in a sample to decay.",
+          "bm": "Masa untuk separuh nukleus radioaktif dalam sampel mereput."
+        }
+      },
+      {
+        "term": {
+          "en": "Ionising radiation",
+          "bm": "Sinaran mengion"
+        },
+        "definition": {
+          "en": "Radiation with enough energy to knock electrons off atoms.",
+          "bm": "Sinaran yang mempunyai tenaga cukup untuk menyingkirkan elektron daripada atom."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A sample has 800 radioactive nuclei and a half-life of 5 days. How many remain after 15 days?",
+        "bm": "Sampel mempunyai 800 nukleus radioaktif dan separuh hayat 5 hari. Berapa yang tinggal selepas 15 hari?"
+      },
+      "steps": [
+        {
+          "en": "15 days = 3 half-lives.",
+          "bm": "15 hari = 3 separuh hayat."
+        },
+        {
+          "en": "800 → 400 → 200 → 100.",
+          "bm": "800 → 400 → 200 → 100."
+        }
+      ],
+      "answer": {
+        "en": "100 nuclei",
+        "bm": "100 nukleus"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-08-q01",
+      "subtopicId": "f3sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who discovered radioactivity in 1896?",
+        "bm": "Siapakah yang menemui keradioaktifan pada 1896?"
+      },
+      "explanation": {
+        "en": "Becquerel found that uranium salts emit radiation.",
+        "bm": "Becquerel mendapati garam uranium memancarkan sinaran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Henri Becquerel",
+          "bm": "Henri Becquerel"
+        },
+        {
+          "en": "Isaac Newton",
+          "bm": "Isaac Newton"
+        },
+        {
+          "en": "Albert Einstein",
+          "bm": "Albert Einstein"
+        },
+        {
+          "en": "Galileo Galilei",
+          "bm": "Galileo Galilei"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q02",
+      "subtopicId": "f3sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Marie and Pierre Curie discovered which two radioactive elements?",
+        "bm": "Marie dan Pierre Curie menemui dua unsur radioaktif yang manakah?"
+      },
+      "explanation": {
+        "en": "They were discovered in 1898.",
+        "bm": "Kedua-duanya ditemui pada 1898."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Polonium and radium",
+          "bm": "Polonium dan radium"
+        },
+        {
+          "en": "Gold and silver",
+          "bm": "Emas dan perak"
+        },
+        {
+          "en": "Hydrogen and helium",
+          "bm": "Hidrogen dan helium"
+        },
+        {
+          "en": "Iron and copper",
+          "bm": "Besi dan kuprum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q03",
+      "subtopicId": "f3sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SI unit of radioactivity is the…",
+        "bm": "Unit SI keradioaktifan ialah…"
+      },
+      "explanation": {
+        "en": "1 Bq = one decay per second.",
+        "bm": "1 Bq = satu reputan sesaat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "becquerel (Bq)",
+          "bm": "becquerel (Bq)"
+        },
+        {
+          "en": "watt (W)",
+          "bm": "watt (W)"
+        },
+        {
+          "en": "joule (J)",
+          "bm": "joule (J)"
+        },
+        {
+          "en": "volt (V)",
+          "bm": "volt (V)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q04",
+      "subtopicId": "f3sci-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which particles are found in the nucleus?",
+        "bm": "Zarah manakah terdapat dalam nukleus?"
+      },
+      "explanation": {
+        "en": "Electrons move around the nucleus.",
+        "bm": "Elektron bergerak mengelilingi nukleus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Protons and neutrons",
+          "bm": "Proton dan neutron"
+        },
+        {
+          "en": "Electrons only",
+          "bm": "Elektron sahaja"
+        },
+        {
+          "en": "Protons and electrons",
+          "bm": "Proton dan elektron"
+        },
+        {
+          "en": "Neutrons and electrons",
+          "bm": "Neutron dan elektron"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q05",
+      "subtopicId": "f3sci-08-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Atoms of the same element with different numbers of neutrons are called ______.",
+        "bm": "Atom unsur yang sama dengan bilangan neutron berbeza dipanggil ______."
+      },
+      "explanation": {
+        "en": "e.g. carbon-12 and carbon-14.",
+        "bm": "cth. karbon-12 dan karbon-14."
+      },
+      "difficulty": 1,
+      "answer": [
+        "isotopes",
+        "isotop"
+      ]
+    },
+    {
+      "id": "f3sci-08-q06",
+      "subtopicId": "f3sci-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which radiation is stopped by a sheet of paper?",
+        "bm": "Sinaran manakah dihalang oleh sehelai kertas?"
+      },
+      "explanation": {
+        "en": "Alpha particles are large and heavily ionising, so they are easily stopped.",
+        "bm": "Zarah alfa besar dan sangat mengion, jadi mudah dihalang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Alpha",
+          "bm": "Alfa"
+        },
+        {
+          "en": "Beta",
+          "bm": "Beta"
+        },
+        {
+          "en": "Gamma",
+          "bm": "Gama"
+        },
+        {
+          "en": "X-rays",
+          "bm": "Sinar-X"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q07",
+      "subtopicId": "f3sci-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which radiation has NO charge?",
+        "bm": "Sinaran manakah TIDAK bercas?"
+      },
+      "explanation": {
+        "en": "Gamma rays are electromagnetic waves.",
+        "bm": "Sinar gama ialah gelombang elektromagnet."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Gamma",
+          "bm": "Gama"
+        },
+        {
+          "en": "Alpha",
+          "bm": "Alfa"
+        },
+        {
+          "en": "Beta",
+          "bm": "Beta"
+        },
+        {
+          "en": "All are charged",
+          "bm": "Semuanya bercas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q08",
+      "subtopicId": "f3sci-08-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which isotope is used to date ancient remains (up to tens of thousands of years)?",
+        "bm": "Isotop manakah digunakan untuk menentukan usia tinggalan purba (hingga puluhan ribu tahun)?"
+      },
+      "explanation": {
+        "en": "Living things contain carbon-14, which decays after death at a known rate.",
+        "bm": "Benda hidup mengandungi karbon-14, yang mereput selepas mati pada kadar yang diketahui."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Carbon-14",
+          "bm": "Karbon-14"
+        },
+        {
+          "en": "Iodine-131",
+          "bm": "Iodin-131"
+        },
+        {
+          "en": "Cobalt-60",
+          "bm": "Kobalt-60"
+        },
+        {
+          "en": "Sodium-24",
+          "bm": "Natrium-24"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q09",
+      "subtopicId": "f3sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "An atom has 11 protons and 12 neutrons. Find its nucleon number.",
+        "bm": "Satu atom mempunyai 11 proton dan 12 neutron. Cari nombor nukleonnya."
+      },
+      "explanation": {
+        "en": "Nucleon number = protons + neutrons = 23.",
+        "bm": "Nombor nukleon = proton + neutron = 23."
+      },
+      "difficulty": 2,
+      "answer": 23,
+      "tolerance": 0
+    },
+    {
+      "id": "f3sci-08-q10",
+      "subtopicId": "f3sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A sample has 800 radioactive nuclei and a half-life of 5 days. How many remain after 15 days?",
+        "bm": "Sampel mempunyai 800 nukleus radioaktif dan separuh hayat 5 hari. Berapa yang tinggal selepas 15 hari?"
+      },
+      "explanation": {
+        "en": "3 half-lives: 800 → 400 → 200 → 100.",
+        "bm": "3 separuh hayat: 800 → 400 → 200 → 100."
+      },
+      "difficulty": 2,
+      "answer": 100,
+      "tolerance": 0
+    },
+    {
+      "id": "f3sci-08-q11",
+      "subtopicId": "f3sci-08-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each radiation with what stops it.",
+        "bm": "Padankan sinaran dengan bahan yang menghalangnya."
+      },
+      "explanation": {
+        "en": "Penetrating power increases from alpha to gamma.",
+        "bm": "Kuasa penembusan meningkat dari alfa ke gama."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Alpha",
+            "bm": "Alfa"
+          },
+          "right": {
+            "en": "Paper",
+            "bm": "Kertas"
+          }
+        },
+        {
+          "left": {
+            "en": "Beta",
+            "bm": "Beta"
+          },
+          "right": {
+            "en": "A few mm of aluminium",
+            "bm": "Beberapa mm aluminium"
+          }
+        },
+        {
+          "left": {
+            "en": "Gamma",
+            "bm": "Gama"
+          },
+          "right": {
+            "en": "Thick lead (reduces it greatly)",
+            "bm": "Plumbum tebal (mengurangkannya dengan banyak)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-08-q12",
+      "subtopicId": "f3sci-08-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL types of IONISING radiation.",
+        "bm": "Pilih SEMUA jenis sinaran MENGION."
+      },
+      "explanation": {
+        "en": "Radio waves, microwaves, infrared and visible light are non-ionising.",
+        "bm": "Gelombang radio, gelombang mikro, inframerah dan cahaya nampak adalah tidak mengion."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Alpha",
+          "bm": "Alfa"
+        },
+        {
+          "en": "Gamma rays",
+          "bm": "Sinar gama"
+        },
+        {
+          "en": "X-rays",
+          "bm": "Sinar-X"
+        },
+        {
+          "en": "Radio waves",
+          "bm": "Gelombang radio"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-08-q13",
+      "subtopicId": "f3sci-08-04",
+      "type": "match",
+      "prompt": {
+        "en": "Match each radioisotope with its use.",
+        "bm": "Padankan radioisotop dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "Each isotope suits its job by its radiation type and half-life.",
+        "bm": "Setiap isotop sesuai dengan tugasnya berdasarkan jenis sinaran dan separuh hayat."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Cobalt-60",
+            "bm": "Kobalt-60"
+          },
+          "right": {
+            "en": "Radiotherapy for cancer; sterilising equipment",
+            "bm": "Radioterapi kanser; mensteril peralatan"
+          }
+        },
+        {
+          "left": {
+            "en": "Iodine-131",
+            "bm": "Iodin-131"
+          },
+          "right": {
+            "en": "Studying/treating the thyroid gland",
+            "bm": "Mengkaji/merawat kelenjar tiroid"
+          }
+        },
+        {
+          "left": {
+            "en": "Sodium-24",
+            "bm": "Natrium-24"
+          },
+          "right": {
+            "en": "Finding leaks in underground pipes",
+            "bm": "Mengesan kebocoran paip bawah tanah"
+          }
+        },
+        {
+          "left": {
+            "en": "Carbon-14",
+            "bm": "Karbon-14"
+          },
+          "right": {
+            "en": "Dating archaeological remains",
+            "bm": "Menentukan usia tinggalan arkeologi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-08-q14",
+      "subtopicId": "f3sci-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a natural source of background radiation?",
+        "bm": "Antara berikut, yang manakah sumber semula jadi sinaran latar belakang?"
+      },
+      "explanation": {
+        "en": "Other natural sources: cosmic rays, soil, food.",
+        "bm": "Sumber semula jadi lain: sinar kosmik, tanah, makanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Radon gas from rocks",
+          "bm": "Gas radon dari batuan"
+        },
+        {
+          "en": "Television remote control",
+          "bm": "Alat kawalan jauh televisyen"
+        },
+        {
+          "en": "Microwave oven when off",
+          "bm": "Ketuhar gelombang mikro yang dimatikan"
+        },
+        {
+          "en": "Mobile phone screen",
+          "bm": "Skrin telefon bimbit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q15",
+      "subtopicId": "f3sci-08-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are workers who handle radioactive materials given film badges (dosimeters)?",
+        "bm": "Mengapakah pekerja yang mengendalikan bahan radioaktif diberi lencana filem (dosimeter)?"
+      },
+      "explanation": {
+        "en": "This keeps their total dose within safe limits.",
+        "bm": "Ini memastikan jumlah dos mereka dalam had selamat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To measure the radiation dose they receive",
+          "bm": "Untuk mengukur dos sinaran yang diterima"
+        },
+        {
+          "en": "As a name tag",
+          "bm": "Sebagai tanda nama"
+        },
+        {
+          "en": "To block all radiation",
+          "bm": "Untuk menghalang semua sinaran"
+        },
+        {
+          "en": "To make radiation",
+          "bm": "Untuk menghasilkan sinaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q16",
+      "subtopicId": "f3sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who discovered X-rays in 1895?",
+        "bm": "Siapakah yang menemui sinar-X pada 1895?"
+      },
+      "explanation": {
+        "en": "X-rays are ionising electromagnetic waves.",
+        "bm": "Sinar-X ialah gelombang elektromagnet yang mengion."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Wilhelm Röntgen",
+          "bm": "Wilhelm Röntgen"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "bm": "Ernest Rutherford"
+        },
+        {
+          "en": "Marie Curie",
+          "bm": "Marie Curie"
+        },
+        {
+          "en": "Henri Becquerel",
+          "bm": "Henri Becquerel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q17",
+      "subtopicId": "f3sci-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A factory uses a radioactive source to check the thickness of paper sheets. Which radiation is most suitable?",
+        "bm": "Sebuah kilang menggunakan sumber radioaktif untuk memeriksa ketebalan kertas. Sinaran manakah paling sesuai?"
+      },
+      "explanation": {
+        "en": "Alpha would be stopped completely; gamma would pass almost unchanged.",
+        "bm": "Alfa akan dihalang sepenuhnya; gama akan menembusi hampir tanpa perubahan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Beta — partly absorbed by paper, so readings change with thickness",
+          "bm": "Beta — sebahagiannya diserap oleh kertas, jadi bacaan berubah mengikut ketebalan"
+        },
+        {
+          "en": "Alpha — passes through thick metal",
+          "bm": "Alfa — menembusi logam tebal"
+        },
+        {
+          "en": "Gamma — stopped completely by paper",
+          "bm": "Gama — dihalang sepenuhnya oleh kertas"
+        },
+        {
+          "en": "Radio waves",
+          "bm": "Gelombang radio"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q18",
+      "subtopicId": "f3sci-08-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a radioisotope with a SHORT half-life chosen as a medical tracer inside the body?",
+        "bm": "Mengapakah radioisotop dengan separuh hayat PENDEK dipilih sebagai penyurih perubatan dalam badan?"
+      },
+      "explanation": {
+        "en": "It lasts long enough to take measurements, then fades quickly.",
+        "bm": "Ia bertahan cukup lama untuk pengukuran, kemudian berkurang dengan cepat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It decays quickly, so the patient is exposed to radiation for less time",
+          "bm": "Ia mereput dengan cepat, jadi pesakit terdedah kepada sinaran untuk masa yang singkat"
+        },
+        {
+          "en": "It is cheaper to make forever",
+          "bm": "Ia lebih murah selama-lamanya"
+        },
+        {
+          "en": "It never decays",
+          "bm": "Ia tidak pernah mereput"
+        },
+        {
+          "en": "It has no radiation",
+          "bm": "Ia tiada sinaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q19",
+      "subtopicId": "f3sci-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which safety rule is MOST important when handling radioactive sources in a lab?",
+        "bm": "Peraturan keselamatan manakah PALING penting semasa mengendalikan sumber radioaktif di makmal?"
+      },
+      "explanation": {
+        "en": "Distance, shielding and short exposure time reduce the dose.",
+        "bm": "Jarak, perisai dan masa pendedahan yang singkat mengurangkan dos."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Use tongs, keep the source far from the body and store it in a lead box",
+          "bm": "Guna penyepit, jauhkan sumber dari badan dan simpan dalam kotak plumbum"
+        },
+        {
+          "en": "Hold it in your hand to feel it",
+          "bm": "Pegang dengan tangan untuk merasainya"
+        },
+        {
+          "en": "Leave it open on the bench",
+          "bm": "Biarkannya terbuka di atas meja"
+        },
+        {
+          "en": "Point it at others",
+          "bm": "Halakan kepada orang lain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-08-q20",
+      "subtopicId": "f3sci-08-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gamma rays are used to preserve some foods. Why does this NOT make the food radioactive?",
+        "bm": "Sinar gama digunakan untuk mengawet sesetengah makanan. Mengapakah ini TIDAK menjadikan makanan radioaktif?"
+      },
+      "explanation": {
+        "en": "Exposure to radiation is different from contamination with a radioactive substance.",
+        "bm": "Pendedahan kepada sinaran berbeza dengan pencemaran oleh bahan radioaktif."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The rays pass through and kill microbes but do not leave radioactive material behind",
+          "bm": "Sinar menembusi dan membunuh mikrob tetapi tidak meninggalkan bahan radioaktif"
+        },
+        {
+          "en": "Food absorbs the source",
+          "bm": "Makanan menyerap sumber"
+        },
+        {
+          "en": "Gamma rays are not radiation",
+          "bm": "Sinar gama bukan sinaran"
+        },
+        {
+          "en": "The food becomes lead",
+          "bm": "Makanan menjadi plumbum"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

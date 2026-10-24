@@ -1,0 +1,727 @@
+{
+  "chapterId": "f3sci-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two friends carry identical bags up the same stairs. One runs, one walks. They do the same work — but the runner has more power.",
+      "bm": "Dua sahabat membawa beg yang sama menaiki tangga yang sama. Seorang berlari, seorang berjalan. Kerja yang dilakukan sama — tetapi yang berlari mempunyai kuasa lebih tinggi."
+    },
+    "bigIdeas": [
+      {
+        "en": "Work is done when a force moves an object in its direction: W = Fs (joules).",
+        "bm": "Kerja dilakukan apabila daya menggerakkan objek pada arahnya: W = Fs (joule)."
+      },
+      {
+        "en": "Power is the rate of doing work: P = W/t (watts).",
+        "bm": "Kuasa ialah kadar melakukan kerja: P = W/t (watt)."
+      },
+      {
+        "en": "Energy cannot be created or destroyed, only changed from one form to another (Ep = mgh, Ek = ½mv²).",
+        "bm": "Tenaga tidak boleh dicipta atau dimusnahkan, hanya berubah bentuk (Ep = mgh, Ek = ½mv²)."
+      }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Top of swing",
+              "bm": "Puncak ayunan"
+            },
+            "detail": {
+              "en": "Maximum potential energy, zero kinetic energy",
+              "bm": "Tenaga keupayaan maksimum, tenaga kinetik sifar"
+            }
+          },
+          {
+            "title": {
+              "en": "Moving down",
+              "bm": "Bergerak turun"
+            },
+            "detail": {
+              "en": "Potential → kinetic",
+              "bm": "Keupayaan → kinetik"
+            }
+          },
+          {
+            "title": {
+              "en": "Lowest point",
+              "bm": "Titik terendah"
+            },
+            "detail": {
+              "en": "Maximum kinetic energy",
+              "bm": "Tenaga kinetik maksimum"
+            }
+          },
+          {
+            "title": {
+              "en": "Moving up",
+              "bm": "Bergerak naik"
+            },
+            "detail": {
+              "en": "Kinetic → potential",
+              "bm": "Kinetik → keupayaan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Work",
+          "bm": "Kerja"
+        },
+        "definition": {
+          "en": "Force × displacement in the direction of the force (J).",
+          "bm": "Daya × sesaran pada arah daya (J)."
+        }
+      },
+      {
+        "term": {
+          "en": "Power",
+          "bm": "Kuasa"
+        },
+        "definition": {
+          "en": "Rate of doing work (W = J/s).",
+          "bm": "Kadar melakukan kerja (W = J/s)."
+        }
+      },
+      {
+        "term": {
+          "en": "Gravitational potential energy",
+          "bm": "Tenaga keupayaan graviti"
+        },
+        "definition": {
+          "en": "Energy stored because of height: mgh.",
+          "bm": "Tenaga yang tersimpan kerana ketinggian: mgh."
+        }
+      },
+      {
+        "term": {
+          "en": "Kinetic energy",
+          "bm": "Tenaga kinetik"
+        },
+        "definition": {
+          "en": "Energy of motion: ½mv².",
+          "bm": "Tenaga gerakan: ½mv²."
+        }
+      },
+      {
+        "term": {
+          "en": "Principle of conservation of energy",
+          "bm": "Prinsip keabadian tenaga"
+        },
+        "definition": {
+          "en": "Energy cannot be created or destroyed; it changes form.",
+          "bm": "Tenaga tidak boleh dicipta atau dimusnahkan; ia berubah bentuk."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-work",
+      "f3-power-wt",
+      "f3-gpe",
+      "f3-ke"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "A 60 kg student climbs 3 m of stairs in 6 s. Find the power (g = 10 N/kg).",
+        "bm": "Seorang murid 60 kg menaiki tangga setinggi 3 m dalam 6 s. Cari kuasanya (g = 10 N/kg)."
+      },
+      "steps": [
+        {
+          "en": "Work = mgh = 60 × 10 × 3 = 1800 J.",
+          "bm": "Kerja = mgh = 60 × 10 × 3 = 1800 J."
+        },
+        {
+          "en": "Power = W/t = 1800 ÷ 6 = 300 W.",
+          "bm": "Kuasa = W/t = 1800 ÷ 6 = 300 W."
+        }
+      ],
+      "answer": {
+        "en": "300 W",
+        "bm": "300 W"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3sci-07-q01",
+      "subtopicId": "f3sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SI unit of work is the…",
+        "bm": "Unit SI bagi kerja ialah…"
+      },
+      "explanation": {
+        "en": "1 J = 1 N × 1 m.",
+        "bm": "1 J = 1 N × 1 m."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "joule (J)",
+          "bm": "joule (J)"
+        },
+        {
+          "en": "watt (W)",
+          "bm": "watt (W)"
+        },
+        {
+          "en": "newton (N)",
+          "bm": "newton (N)"
+        },
+        {
+          "en": "metre (m)",
+          "bm": "meter (m)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q02",
+      "subtopicId": "f3sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SI unit of power is the…",
+        "bm": "Unit SI bagi kuasa ialah…"
+      },
+      "explanation": {
+        "en": "1 W = 1 J per second.",
+        "bm": "1 W = 1 J sesaat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "watt (W)",
+          "bm": "watt (W)"
+        },
+        {
+          "en": "joule (J)",
+          "bm": "joule (J)"
+        },
+        {
+          "en": "volt (V)",
+          "bm": "volt (V)"
+        },
+        {
+          "en": "kilogram (kg)",
+          "bm": "kilogram (kg)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q03",
+      "subtopicId": "f3sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A force of 50 N pushes a box 4 m. Find the work done (J).",
+        "bm": "Daya 50 N menolak sebuah kotak sejauh 4 m. Cari kerja yang dilakukan (J)."
+      },
+      "explanation": {
+        "en": "W = Fs = 50 × 4 = 200 J.",
+        "bm": "W = Fs = 50 × 4 = 200 J."
+      },
+      "difficulty": 1,
+      "answer": 200,
+      "tolerance": 0,
+      "unit": "J"
+    },
+    {
+      "id": "f3sci-07-q04",
+      "subtopicId": "f3sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A motor does 1200 J of work in 60 s. Find its power (W).",
+        "bm": "Sebuah motor melakukan kerja 1200 J dalam 60 s. Cari kuasanya (W)."
+      },
+      "explanation": {
+        "en": "P = W/t = 1200/60 = 20 W.",
+        "bm": "P = W/t = 1200/60 = 20 W."
+      },
+      "difficulty": 1,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "W"
+    },
+    {
+      "id": "f3sci-07-q05",
+      "subtopicId": "f3sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 2 kg book is lifted 5 m. Find its gravitational potential energy (J). Take g = 10 N/kg.",
+        "bm": "Sebuah buku 2 kg diangkat setinggi 5 m. Cari tenaga keupayaan gravitinya (J). Ambil g = 10 N/kg."
+      },
+      "explanation": {
+        "en": "Ep = mgh = 2 × 10 × 5 = 100 J.",
+        "bm": "Ep = mgh = 2 × 10 × 5 = 100 J."
+      },
+      "difficulty": 1,
+      "answer": 100,
+      "tolerance": 0,
+      "unit": "J"
+    },
+    {
+      "id": "f3sci-07-q06",
+      "subtopicId": "f3sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 4 kg ball moves at 3 m/s. Find its kinetic energy (J).",
+        "bm": "Sebiji bola 4 kg bergerak pada 3 m/s. Cari tenaga kinetiknya (J)."
+      },
+      "explanation": {
+        "en": "Ek = ½mv² = ½ × 4 × 3² = 18 J.",
+        "bm": "Ek = ½mv² = ½ × 4 × 3² = 18 J."
+      },
+      "difficulty": 1,
+      "answer": 18,
+      "tolerance": 0,
+      "unit": "J"
+    },
+    {
+      "id": "f3sci-07-q07",
+      "subtopicId": "f3sci-07-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Energy cannot be created or destroyed. This is the principle of ______ of energy.",
+        "bm": "Tenaga tidak boleh dicipta atau dimusnahkan. Ini ialah prinsip ______ tenaga."
+      },
+      "explanation": {
+        "en": "Energy only changes from one form to another.",
+        "bm": "Tenaga hanya berubah dari satu bentuk ke bentuk lain."
+      },
+      "difficulty": 1,
+      "answer": [
+        "conservation",
+        "keabadian"
+      ]
+    },
+    {
+      "id": "f3sci-07-q08",
+      "subtopicId": "f3sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In which case is NO work done on the object?",
+        "bm": "Dalam keadaan manakah TIADA kerja dilakukan ke atas objek?"
+      },
+      "explanation": {
+        "en": "No displacement → no work, however tired you feel.",
+        "bm": "Tiada sesaran → tiada kerja, walaupun anda berasa letih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Pushing a wall that does not move",
+          "bm": "Menolak dinding yang tidak bergerak"
+        },
+        {
+          "en": "Lifting a bag",
+          "bm": "Mengangkat beg"
+        },
+        {
+          "en": "Pulling a cart along a road",
+          "bm": "Menarik kereta sorong di jalan"
+        },
+        {
+          "en": "Pushing a trolley",
+          "bm": "Menolak troli"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q09",
+      "subtopicId": "f3sci-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If the speed of a car doubles, its kinetic energy becomes…",
+        "bm": "Jika laju kereta menjadi dua kali ganda, tenaga kinetiknya menjadi…"
+      },
+      "explanation": {
+        "en": "Ek ∝ v², so 2² = 4.",
+        "bm": "Ek ∝ v², jadi 2² = 4."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "4 times as large",
+          "bm": "4 kali ganda"
+        },
+        {
+          "en": "2 times as large",
+          "bm": "2 kali ganda"
+        },
+        {
+          "en": "the same",
+          "bm": "sama"
+        },
+        {
+          "en": "half",
+          "bm": "separuh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q10",
+      "subtopicId": "f3sci-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 1 kg stone is dropped from 5 m. Ignoring air resistance, find its speed just before hitting the ground (m/s, 2 d.p.). g = 10 N/kg.",
+        "bm": "Sebiji batu 1 kg dijatuhkan dari ketinggian 5 m. Abaikan rintangan udara, cari lajunya sejurus sebelum mencecah tanah (m/s, 2 t.p.). g = 10 N/kg."
+      },
+      "explanation": {
+        "en": "mgh = ½mv² → v = √(2gh) = √100 = 10 m/s.",
+        "bm": "mgh = ½mv² → v = √(2gh) = √100 = 10 m/s."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "m/s"
+    },
+    {
+      "id": "f3sci-07-q11",
+      "subtopicId": "f3sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 60 kg student climbs 3 m of stairs in 6 s. Find the power (W). g = 10 N/kg.",
+        "bm": "Seorang murid 60 kg menaiki tangga setinggi 3 m dalam 6 s. Cari kuasanya (W). g = 10 N/kg."
+      },
+      "explanation": {
+        "en": "W = mgh = 1800 J; P = 1800/6 = 300 W.",
+        "bm": "W = mgh = 1800 J; P = 1800/6 = 300 W."
+      },
+      "difficulty": 2,
+      "answer": 300,
+      "tolerance": 0,
+      "unit": "W"
+    },
+    {
+      "id": "f3sci-07-q12",
+      "subtopicId": "f3sci-07-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each device with its main energy change.",
+        "bm": "Padankan alat dengan perubahan tenaga utamanya."
+      },
+      "explanation": {
+        "en": "Energy changes form; the total stays the same.",
+        "bm": "Tenaga berubah bentuk; jumlahnya kekal sama."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Electric fan",
+            "bm": "Kipas elektrik"
+          },
+          "right": {
+            "en": "Electrical → kinetic",
+            "bm": "Elektrik → kinetik"
+          }
+        },
+        {
+          "left": {
+            "en": "Solar cell",
+            "bm": "Sel suria"
+          },
+          "right": {
+            "en": "Light → electrical",
+            "bm": "Cahaya → elektrik"
+          }
+        },
+        {
+          "left": {
+            "en": "Battery-powered torch",
+            "bm": "Lampu suluh berbateri"
+          },
+          "right": {
+            "en": "Chemical → electrical → light",
+            "bm": "Kimia → elektrik → cahaya"
+          }
+        },
+        {
+          "left": {
+            "en": "Loudspeaker",
+            "bm": "Pembesar suara"
+          },
+          "right": {
+            "en": "Electrical → sound",
+            "bm": "Elektrik → bunyi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sci-07-q13",
+      "subtopicId": "f3sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "At the lowest point of a swinging pendulum, which energy is greatest?",
+        "bm": "Pada titik terendah bandul berayun, tenaga manakah paling tinggi?"
+      },
+      "explanation": {
+        "en": "It moves fastest at the bottom.",
+        "bm": "Ia bergerak paling laju di bawah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Kinetic energy",
+          "bm": "Tenaga kinetik"
+        },
+        {
+          "en": "Potential energy",
+          "bm": "Tenaga keupayaan"
+        },
+        {
+          "en": "Chemical energy",
+          "bm": "Tenaga kimia"
+        },
+        {
+          "en": "Sound energy",
+          "bm": "Tenaga bunyi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q14",
+      "subtopicId": "f3sci-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which object has the MOST gravitational potential energy?",
+        "bm": "Objek manakah mempunyai tenaga keupayaan graviti PALING tinggi?"
+      },
+      "explanation": {
+        "en": "Ep = mgh: 500 J, 100 J, 100 J, 100 J (g = 10).",
+        "bm": "Ep = mgh: 500 J, 100 J, 100 J, 100 J (g = 10)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "5 kg at 10 m",
+          "bm": "5 kg pada 10 m"
+        },
+        {
+          "en": "5 kg at 2 m",
+          "bm": "5 kg pada 2 m"
+        },
+        {
+          "en": "1 kg at 10 m",
+          "bm": "1 kg pada 10 m"
+        },
+        {
+          "en": "2 kg at 5 m",
+          "bm": "2 kg pada 5 m"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q15",
+      "subtopicId": "f3sci-07-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL objects that have kinetic energy.",
+        "bm": "Pilih SEMUA objek yang mempunyai tenaga kinetik."
+      },
+      "explanation": {
+        "en": "A resting book has potential energy, not kinetic.",
+        "bm": "Buku yang diam mempunyai tenaga keupayaan, bukan kinetik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "A moving car",
+          "bm": "Kereta yang bergerak"
+        },
+        {
+          "en": "Flowing river water",
+          "bm": "Air sungai yang mengalir"
+        },
+        {
+          "en": "A flying bird",
+          "bm": "Burung yang terbang"
+        },
+        {
+          "en": "A book resting on a shelf",
+          "bm": "Buku yang terletak di rak"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sci-07-q16",
+      "subtopicId": "f3sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A 1000 W kettle and a 2000 W kettle boil the same amount of water. Which is faster, and why?",
+        "bm": "Cerek 1000 W dan cerek 2000 W mendidihkan jumlah air yang sama. Yang manakah lebih cepat, dan mengapa?"
+      },
+      "explanation": {
+        "en": "Same energy needed; more power → less time.",
+        "bm": "Tenaga sama diperlukan; kuasa lebih tinggi → masa lebih singkat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The 2000 W kettle — it transfers energy at a higher rate",
+          "bm": "Cerek 2000 W — ia memindahkan tenaga pada kadar lebih tinggi"
+        },
+        {
+          "en": "The 1000 W kettle — less power is better",
+          "bm": "Cerek 1000 W — kuasa rendah lebih baik"
+        },
+        {
+          "en": "Same time",
+          "bm": "Masa sama"
+        },
+        {
+          "en": "Neither boils water",
+          "bm": "Kedua-duanya tidak mendidihkan air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q17",
+      "subtopicId": "f3sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pendulum swings lower and lower and finally stops. Does this break the conservation of energy?",
+        "bm": "Bandul berayun semakin rendah dan akhirnya berhenti. Adakah ini melanggar prinsip keabadian tenaga?"
+      },
+      "explanation": {
+        "en": "The total energy is the same; some becomes less useful forms.",
+        "bm": "Jumlah tenaga sama; sebahagian menjadi bentuk yang kurang berguna."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "No — energy is changed to heat and sound by air resistance and friction",
+          "bm": "Tidak — tenaga berubah kepada haba dan bunyi akibat rintangan udara dan geseran"
+        },
+        {
+          "en": "Yes — energy disappeared",
+          "bm": "Ya — tenaga hilang"
+        },
+        {
+          "en": "Yes — energy was created",
+          "bm": "Ya — tenaga dicipta"
+        },
+        {
+          "en": "No — the pendulum stores it forever",
+          "bm": "Tidak — bandul menyimpannya selama-lamanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q18",
+      "subtopicId": "f3sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A roller coaster car starts at rest at the top of a 20 m hill. Ignoring friction, what is its speed at the bottom? (g = 10 N/kg)",
+        "bm": "Kereta roller coaster bermula pegun di puncak bukit setinggi 20 m. Abaikan geseran, berapakah lajunya di bawah? (g = 10 N/kg)"
+      },
+      "explanation": {
+        "en": "v = √(2gh) = √(2 × 10 × 20) = √400 = 20 m/s (the mass cancels out).",
+        "bm": "v = √(2gh) = √(2 × 10 × 20) = √400 = 20 m/s (jisim terbatal)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "20 m/s",
+          "bm": "20 m/s"
+        },
+        {
+          "en": "10 m/s",
+          "bm": "10 m/s"
+        },
+        {
+          "en": "200 m/s",
+          "bm": "200 m/s"
+        },
+        {
+          "en": "40 m/s",
+          "bm": "40 m/s"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q19",
+      "subtopicId": "f3sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two cranes lift the same 500 kg load to 10 m. Crane A takes 20 s, crane B takes 40 s. Which statement is correct?",
+        "bm": "Dua kren mengangkat beban 500 kg yang sama ke 10 m. Kren A mengambil 20 s, kren B 40 s. Pernyataan manakah betul?"
+      },
+      "explanation": {
+        "en": "W = mgh = 50 000 J for both; P_A = 2500 W, P_B = 1250 W.",
+        "bm": "W = mgh = 50 000 J bagi kedua-duanya; P_A = 2500 W, P_B = 1250 W."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Both do the same work; A has twice the power of B",
+          "bm": "Kedua-duanya melakukan kerja yang sama; kuasa A dua kali kuasa B"
+        },
+        {
+          "en": "A does more work",
+          "bm": "A melakukan lebih banyak kerja"
+        },
+        {
+          "en": "B has more power",
+          "bm": "B mempunyai kuasa lebih tinggi"
+        },
+        {
+          "en": "They have equal power",
+          "bm": "Kuasa mereka sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sci-07-q20",
+      "subtopicId": "f3sci-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do heavy lorries need much longer distances to stop than cars at the same speed?",
+        "bm": "Mengapakah lori berat memerlukan jarak berhenti yang jauh lebih panjang berbanding kereta pada laju yang sama?"
+      },
+      "explanation": {
+        "en": "Ek = ½mv² — a larger mass gives a larger kinetic energy.",
+        "bm": "Ek = ½mv² — jisim lebih besar memberi tenaga kinetik lebih besar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They have much more kinetic energy that the brakes must remove",
+          "bm": "Ia mempunyai tenaga kinetik yang jauh lebih banyak yang perlu disingkirkan oleh brek"
+        },
+        {
+          "en": "They have less mass",
+          "bm": "Jisimnya kurang"
+        },
+        {
+          "en": "They have no kinetic energy",
+          "bm": "Ia tiada tenaga kinetik"
+        },
+        {
+          "en": "Their potential energy is zero",
+          "bm": "Tenaga keupayaannya sifar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

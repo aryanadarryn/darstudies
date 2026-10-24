@@ -9,6 +9,8 @@ import { db } from '../db/db'
 import { useT } from '../i18n/useT'
 import { completeMatching, gradeFlashcard } from '../lib/actions'
 import { useFlashcards, useToday } from '../lib/hooks'
+import { formOf } from '../content/ids'
+import { useForm } from '../components/FormSwitch'
 import { dueCards } from '../planner/leitner'
 
 const SESSION_SIZE = 15
@@ -19,6 +21,7 @@ export default function Flashcards() {
   const [params] = useSearchParams()
   const chapter = params.get('chapter'), taskId = params.get('task')
   const today = useToday()
+  const form = useForm()
   const all = useFlashcards()
   const states = useLiveQuery(() => db.cards.toArray(), [])
   const [deck, setDeck] = useState<Flashcard[] | null>(null)
@@ -29,9 +32,9 @@ export default function Flashcards() {
   // Build the session once, when data is ready, so grading doesn't reshuffle it.
   useEffect(() => {
     if (deck || !all || !states) return
-    const pool = chapter ? all.filter((c) => c.id.startsWith(chapter + '-')) : all
+    const pool = chapter ? all.filter((c) => c.id.startsWith(chapter + '-')) : all.filter((c) => formOf(c.id) === form)
     setDeck(dueCards(pool, new Map(states.map((s) => [s.cardId, s])), today, SESSION_SIZE))
-  }, [all, states, chapter, today, deck])
+  }, [all, states, chapter, today, deck, form])
 
   const grade = async (correct: boolean) => {
     const card = deck![i]

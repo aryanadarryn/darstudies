@@ -39,7 +39,7 @@ export default function AdminSettings() {
   useEffect(() => { if (data) setForm(data) }, [data])
 
   if (loading || !form) return loadError ? <ErrorNote error={loadError} /> : <p className="py-6 text-center muted">Loading…</p>
-  const subjects = SUBJECTS.map((s) => ({ id: s.id, label: s.name.en }))
+  const subjects = SUBJECTS.filter((s) => s.form === 4).map((s) => ({ id: s.id, label: s.name.en }))
   const features = FEATURES.map((f) => ({ id: f, label: FEATURE_LABEL[f] }))
   const set = (patch: Partial<Settings>) => { setForm({ ...form, ...patch }); setSaved(false) }
 

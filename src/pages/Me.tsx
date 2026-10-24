@@ -3,7 +3,9 @@ import { useRef } from 'react'
 import { Bar, BarChart, Cell, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
 import InstallPrompt from '../components/InstallPrompt'
 import { PageHeader, ProgressBar, Segmented, toast } from '../components/ui'
-import { ALL_CHAPTERS, SUBJECTS, subtopicById } from '../content'
+import { subjectsOf, subtopicById } from '../content'
+import { formOf } from '../content/ids'
+import FormSwitch, { useForm } from '../components/FormSwitch'
 import AccountCard from '../auth/AccountCard'
 import { downloadBlob, exportBackup, importBackup, resetAll } from '../db/backup'
 import { db, getKV } from '../db/db'
@@ -20,6 +22,8 @@ export default function Me() {
   const { settings, update, load } = useSettings()
   const today = useToday()
   const mastery = useMastery()
+  const form = useForm()
+  const formChapters = subjectsOf(form).reduce((n, s) => n + s.chapters.length, 0)
   const fileRef = useRef<HTMLInputElement>(null)
 
   const data = useLiveQuery(async () => {
@@ -34,9 +38,9 @@ export default function Me() {
   const active = activeDates(tasks, attempts)
   const streak = streakNow(active, today)
   const badges = earnedBadges(intros, active, drills)
-  const seen = intros.filter((i) => i.completedAt).length
+  const seen = intros.filter((i) => i.completedAt && formOf(i.chapterId) === form).length
 
-  const masteryData = SUBJECTS.map((s) => ({ name: s.short ? L(s.short) : L(s.name).split(' ')[0], value: Math.round((mastery?.subject.get(s.id) ?? 0) * 100), color: s.color }))
+  const masteryData = subjectsOf(form).map((s) => ({ name: s.short ? L(s.short) : L(s.name).split(' ')[0], value: Math.round((mastery?.subject.get(s.id) ?? 0) * 100), color: s.color }))
   const weeks = Array.from({ length: 8 }, (_, i) => addDays(weekStart(today), -7 * (7 - i)))
   const accuracy = weeks.map((w) => {
     const inWeek = attempts.filter((a) => {
@@ -45,7 +49,7 @@ export default function Me() {
     })
     return { week: fromISO(w).toLocaleDateString(lang === 'bm' ? 'ms-MY' : 'en-MY', { day: 'numeric', month: 'short' }), value: inWeek.length ? Math.round((inWeek.filter((a) => a.correct).length / inWeek.length) * 100) : null }
   })
-  const weakest = (mastery?.weak ?? []).slice().sort((a, b) => a.mastery - b.mastery).slice(0, 5)
+  const weakest = (mastery?.weak ?? []).filter((w) => formOf(w.id) === form).slice().sort((a, b) => a.mastery - b.mastery).slice(0, 5)
 
   const doExport = async () => downloadBlob(await exportBackup(), `darstudies-backup-${today}.json`)
   const doImport = async (f?: File) => {
@@ -81,7 +85,7 @@ export default function Me() {
         <ProgressBar value={into / XP_PER_LEVEL} />
         <div className="mt-4 grid grid-cols-3 gap-2 text-center">
           <div><div className="text-xl font-bold">🔥 {streak}</div><div className="text-[11px] muted">{t('me.streak')}</div></div>
-          <div><div className="text-xl font-bold">{seen}/{ALL_CHAPTERS.length}</div><div className="text-[11px] muted">{t('me.intros')}</div></div>
+          <div><div className="text-xl font-bold">{seen}/{formChapters}</div><div className="text-[11px] muted">{t('me.intros')}</div></div>
           <div><div className="text-xl font-bold">{attempts.length}</div><div className="text-[11px] muted">{t('me.quizzes')}</div></div>
         </div>
       </section>
@@ -147,6 +151,10 @@ export default function Me() {
           <span className="label">{t('me.view')}</span>
           <Segmented value={settings.viewMode} onChange={(viewMode) => update({ viewMode })}
             options={[{ value: 'auto', label: t('me.view.auto') }, { value: 'mobile', label: `📱 ${t('me.view.mobile')}` }, { value: 'desktop', label: `🖥️ ${t('me.view.desktop')}` }]} />
+        </div>
+        <div>
+          <span className="label">{t('form.label')}</span>
+          <FormSwitch />
         </div>
         <div>
           <span className="label">{t('me.language')}</span>

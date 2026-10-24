@@ -1,0 +1,821 @@
+{
+  "chapterId": "f3pjk-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two students can both be \"fit\" — one runs 5 km easily, the other does 40 push-ups. Fitness has several components, and each can be trained.",
+      "bm": "Dua murid boleh sama-sama \"cergas\" — seorang mudah berlari 5 km, seorang lagi boleh melakukan 40 tekan tubi. Kecergasan mempunyai beberapa komponen, dan setiap satu boleh dilatih."
+    },
+    "bigIdeas": [
+      {
+        "en": "Health-related fitness: cardiovascular endurance, muscular strength, muscular endurance, flexibility and body composition.",
+        "bm": "Kecergasan berasaskan kesihatan: daya tahan kardiovaskular, kekuatan otot, daya tahan otot, kelenturan dan komposisi badan."
+      },
+      {
+        "en": "Skill-related fitness: agility, balance, coordination, power, reaction time and speed.",
+        "bm": "Kecergasan berasaskan lakuan motor: ketangkasan, imbangan, koordinasi, kuasa, masa tindak balas dan kelajuan."
+      },
+      {
+        "en": "FITT (frequency, intensity, time, type) guides safe, effective training.",
+        "bm": "FITT (kekerapan, intensiti, masa, jenis) membimbing latihan yang selamat dan berkesan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Component measured",
+            "bm": "Komponen diukur"
+          },
+          {
+            "en": "How",
+            "bm": "Cara"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Step-up test",
+              "bm": "Naik turun bangku"
+            },
+            "cells": [
+              {
+                "en": "Cardiovascular endurance",
+                "bm": "Daya tahan kardiovaskular"
+              },
+              {
+                "en": "3 minutes, then count pulse",
+                "bm": "3 minit, kemudian kira nadi"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Push-up",
+              "bm": "Tekan tubi"
+            },
+            "cells": [
+              {
+                "en": "Muscular strength and endurance (upper body)",
+                "bm": "Kekuatan dan daya tahan otot (bahagian atas)"
+              },
+              {
+                "en": "As many as possible with correct form",
+                "bm": "Sebanyak mungkin dengan teknik betul"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Partial curl-up",
+              "bm": "Ringkuk tubi separa"
+            },
+            "cells": [
+              {
+                "en": "Abdominal muscular endurance",
+                "bm": "Daya tahan otot abdomen"
+              },
+              {
+                "en": "Curl up in time with a beat",
+                "bm": "Ringkuk mengikut rentak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sit and reach",
+              "bm": "Jangkauan melunjur"
+            },
+            "cells": [
+              {
+                "en": "Flexibility",
+                "bm": "Kelenturan"
+              },
+              {
+                "en": "Reach forward along a box",
+                "bm": "Menjangkau ke hadapan di atas kotak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "BMI",
+              "bm": "IJT"
+            },
+            "cells": [
+              {
+                "en": "Body composition (estimate)",
+                "bm": "Komposisi badan (anggaran)"
+              },
+              {
+                "en": "kg ÷ m²",
+                "bm": "kg ÷ m²"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Cardiovascular endurance",
+          "bm": "Daya tahan kardiovaskular"
+        },
+        "definition": {
+          "en": "Ability of the heart and lungs to supply oxygen during long activity.",
+          "bm": "Keupayaan jantung dan paru-paru membekalkan oksigen semasa aktiviti yang lama."
+        }
+      },
+      {
+        "term": {
+          "en": "Muscular strength",
+          "bm": "Kekuatan otot"
+        },
+        "definition": {
+          "en": "The maximum force a muscle can produce once.",
+          "bm": "Daya maksimum yang dapat dihasilkan otot sekali."
+        }
+      },
+      {
+        "term": {
+          "en": "Flexibility",
+          "bm": "Kelenturan"
+        },
+        "definition": {
+          "en": "Range of movement around a joint.",
+          "bm": "Julat pergerakan pada sendi."
+        }
+      },
+      {
+        "term": {
+          "en": "Agility",
+          "bm": "Ketangkasan"
+        },
+        "definition": {
+          "en": "Changing direction quickly with control.",
+          "bm": "Menukar arah dengan cepat dan terkawal."
+        }
+      },
+      {
+        "term": {
+          "en": "FITT",
+          "bm": "FITT"
+        },
+        "definition": {
+          "en": "Frequency, Intensity, Time, Type.",
+          "bm": "Kekerapan, Intensiti, Masa, Jenis."
+        }
+      },
+      {
+        "term": {
+          "en": "BMI",
+          "bm": "Indeks Jisim Tubuh (IJT)"
+        },
+        "definition": {
+          "en": "Body mass (kg) ÷ height² (m²).",
+          "bm": "Jisim badan (kg) ÷ tinggi² (m²)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Aina has a mass of 50 kg and a height of 1.6 m. Calculate her BMI.",
+        "bm": "Aina mempunyai jisim 50 kg dan tinggi 1.6 m. Hitung IJT beliau."
+      },
+      "steps": [
+        {
+          "en": "Height² = 1.6 × 1.6 = 2.56 m².",
+          "bm": "Tinggi² = 1.6 × 1.6 = 2.56 m²."
+        },
+        {
+          "en": "BMI = 50 ÷ 2.56 ≈ 19.5.",
+          "bm": "IJT = 50 ÷ 2.56 ≈ 19.5."
+        },
+        {
+          "en": "For teenagers, BMI is compared with age-and-sex charts; your teacher or clinic will interpret it.",
+          "bm": "Bagi remaja, IJT dibandingkan dengan carta mengikut umur dan jantina; guru atau klinik akan mentafsirnya."
+        }
+      ],
+      "answer": {
+        "en": "About 19.5 kg/m².",
+        "bm": "Kira-kira 19.5 kg/m²."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3pjk-01-q01",
+      "subtopicId": "f3pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The ability of the heart and lungs to supply oxygen during long exercise is…",
+        "bm": "Keupayaan jantung dan paru-paru membekalkan oksigen semasa senaman yang lama ialah…"
+      },
+      "explanation": {
+        "en": "Trained by jogging, swimming and cycling.",
+        "bm": "Dilatih melalui joging, berenang dan berbasikal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cardiovascular endurance",
+          "bm": "daya tahan kardiovaskular"
+        },
+        {
+          "en": "flexibility",
+          "bm": "kelenturan"
+        },
+        {
+          "en": "agility",
+          "bm": "ketangkasan"
+        },
+        {
+          "en": "power",
+          "bm": "kuasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q02",
+      "subtopicId": "f3pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Range of movement around a joint is…",
+        "bm": "Julat pergerakan pada sendi ialah…"
+      },
+      "explanation": {
+        "en": "Improved by stretching.",
+        "bm": "Diperbaiki melalui regangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "flexibility",
+          "bm": "kelenturan"
+        },
+        {
+          "en": "strength",
+          "bm": "kekuatan"
+        },
+        {
+          "en": "speed",
+          "bm": "kelajuan"
+        },
+        {
+          "en": "balance",
+          "bm": "imbangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q03",
+      "subtopicId": "f3pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Changing direction quickly and with control is…",
+        "bm": "Menukar arah dengan cepat dan terkawal ialah…"
+      },
+      "explanation": {
+        "en": "Important in badminton and football.",
+        "bm": "Penting dalam badminton dan bola sepak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "agility",
+          "bm": "ketangkasan"
+        },
+        {
+          "en": "flexibility",
+          "bm": "kelenturan"
+        },
+        {
+          "en": "muscular endurance",
+          "bm": "daya tahan otot"
+        },
+        {
+          "en": "body composition",
+          "bm": "komposisi badan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q04",
+      "subtopicId": "f3pjk-01-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL health-related fitness components.",
+        "bm": "Pilih SEMUA komponen kecergasan berasaskan kesihatan."
+      },
+      "explanation": {
+        "en": "Reaction time is skill-related.",
+        "bm": "Masa tindak balas berasaskan lakuan motor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Muscular strength",
+          "bm": "Kekuatan otot"
+        },
+        {
+          "en": "Flexibility",
+          "bm": "Kelenturan"
+        },
+        {
+          "en": "Body composition",
+          "bm": "Komposisi badan"
+        },
+        {
+          "en": "Reaction time",
+          "bm": "Masa tindak balas"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pjk-01-q05",
+      "subtopicId": "f3pjk-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In FITT, the letter \"F\" stands for ______.",
+        "bm": "Dalam FITT, huruf \"F\" mewakili ______."
+      },
+      "explanation": {
+        "en": "How often you train each week.",
+        "bm": "Berapa kerap berlatih setiap minggu."
+      },
+      "difficulty": 1,
+      "answer": [
+        "frequency",
+        "kekerapan"
+      ]
+    },
+    {
+      "id": "f3pjk-01-q06",
+      "subtopicId": "f3pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In FITT, \"Intensity\" means…",
+        "bm": "Dalam FITT, \"Intensiti\" bermaksud…"
+      },
+      "explanation": {
+        "en": "Often checked using heart rate.",
+        "bm": "Sering disemak menggunakan kadar nadi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "how hard you work",
+          "bm": "seberapa berat usaha"
+        },
+        {
+          "en": "how long you train",
+          "bm": "berapa lama berlatih"
+        },
+        {
+          "en": "the type of exercise",
+          "bm": "jenis senaman"
+        },
+        {
+          "en": "how often you train",
+          "bm": "berapa kerap berlatih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q07",
+      "subtopicId": "f3pjk-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SEGAK test that measures flexibility is…",
+        "bm": "Ujian SEGAK yang mengukur kelenturan ialah…"
+      },
+      "explanation": {
+        "en": "It measures lower back and hamstring flexibility.",
+        "bm": "Ia mengukur kelenturan bahagian bawah belakang dan otot hamstring."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sit and reach",
+          "bm": "jangkauan melunjur"
+        },
+        {
+          "en": "push-up",
+          "bm": "tekan tubi"
+        },
+        {
+          "en": "step-up",
+          "bm": "naik turun bangku"
+        },
+        {
+          "en": "partial curl-up",
+          "bm": "ringkuk tubi separa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q08",
+      "subtopicId": "f3pjk-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "BMI is calculated as…",
+        "bm": "IJT dikira sebagai…"
+      },
+      "explanation": {
+        "en": "Units: kg/m².",
+        "bm": "Unit: kg/m²."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mass (kg) ÷ height² (m²)",
+          "bm": "jisim (kg) ÷ tinggi² (m²)"
+        },
+        {
+          "en": "height ÷ mass",
+          "bm": "tinggi ÷ jisim"
+        },
+        {
+          "en": "mass × height",
+          "bm": "jisim × tinggi"
+        },
+        {
+          "en": "age ÷ height",
+          "bm": "umur ÷ tinggi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q09",
+      "subtopicId": "f3pjk-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each activity with the main component it trains.",
+        "bm": "Padankan aktiviti dengan komponen utama yang dilatih."
+      },
+      "explanation": {
+        "en": "Power = strength × speed.",
+        "bm": "Kuasa = kekuatan × kelajuan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Jogging 20 minutes",
+            "bm": "Joging 20 minit"
+          },
+          "right": {
+            "en": "Cardiovascular endurance",
+            "bm": "Daya tahan kardiovaskular"
+          }
+        },
+        {
+          "left": {
+            "en": "Stretching",
+            "bm": "Regangan"
+          },
+          "right": {
+            "en": "Flexibility",
+            "bm": "Kelenturan"
+          }
+        },
+        {
+          "left": {
+            "en": "Ladder drills",
+            "bm": "Latihan tangga ketangkasan"
+          },
+          "right": {
+            "en": "Agility",
+            "bm": "Ketangkasan"
+          }
+        },
+        {
+          "left": {
+            "en": "Standing long jump",
+            "bm": "Lompat jauh berdiri"
+          },
+          "right": {
+            "en": "Power",
+            "bm": "Kuasa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-01-q10",
+      "subtopicId": "f3pjk-01-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the parts of a training session.",
+        "bm": "Susun bahagian sesi latihan."
+      },
+      "explanation": {
+        "en": "Warm-up reduces injury; cool-down helps recovery.",
+        "bm": "Memanaskan badan mengurangkan kecederaan; menyejukkan badan membantu pemulihan."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Warm-up",
+          "bm": "Memanaskan badan"
+        },
+        {
+          "en": "Stretching",
+          "bm": "Regangan"
+        },
+        {
+          "en": "Main activity",
+          "bm": "Aktiviti utama"
+        },
+        {
+          "en": "Cool-down",
+          "bm": "Menyejukkan badan"
+        }
+      ]
+    },
+    {
+      "id": "f3pjk-01-q11",
+      "subtopicId": "f3pjk-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A student has a mass of 50 kg and a height of 1.6 m. Calculate the BMI (1 decimal place).",
+        "bm": "Seorang murid berjisim 50 kg dan tinggi 1.6 m. Hitung IJT (1 tempat perpuluhan)."
+      },
+      "explanation": {
+        "en": "50 ÷ (1.6 × 1.6) = 50 ÷ 2.56 = 19.5.",
+        "bm": "50 ÷ (1.6 × 1.6) = 50 ÷ 2.56 = 19.5."
+      },
+      "difficulty": 2,
+      "answer": 19.5,
+      "tolerance": 0.01,
+      "unit": "kg/m²"
+    },
+    {
+      "id": "f3pjk-01-q12",
+      "subtopicId": "f3pjk-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Using the formula 220 − age, find the estimated maximum heart rate of a 15-year-old (beats per minute).",
+        "bm": "Menggunakan formula 220 − umur, cari anggaran kadar nadi maksimum murid berumur 15 tahun (denyutan seminit)."
+      },
+      "explanation": {
+        "en": "220 − 15 = 205 bpm.",
+        "bm": "220 − 15 = 205 dsm."
+      },
+      "difficulty": 2,
+      "answer": 205,
+      "tolerance": 0,
+      "unit": "bpm"
+    },
+    {
+      "id": "f3pjk-01-q13",
+      "subtopicId": "f3pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "To apply \"progressive overload\", an athlete should…",
+        "bm": "Untuk mengaplikasikan \"beban ansur maju\", atlet patut…"
+      },
+      "explanation": {
+        "en": "Too much too soon causes injury.",
+        "bm": "Terlalu banyak terlalu awal menyebabkan kecederaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gradually increase the training load",
+          "bm": "menambah beban latihan secara beransur-ansur"
+        },
+        {
+          "en": "train at maximum on day one",
+          "bm": "berlatih secara maksimum pada hari pertama"
+        },
+        {
+          "en": "never change the routine",
+          "bm": "tidak pernah mengubah rutin"
+        },
+        {
+          "en": "stop training often",
+          "bm": "kerap berhenti berlatih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q14",
+      "subtopicId": "f3pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A goalkeeper diving to save a fast shot mainly uses…",
+        "bm": "Penjaga gol yang menerkam untuk menyelamatkan tendangan pantas terutamanya menggunakan…"
+      },
+      "explanation": {
+        "en": "Skill-related components.",
+        "bm": "Komponen berasaskan lakuan motor."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "reaction time and power",
+          "bm": "masa tindak balas dan kuasa"
+        },
+        {
+          "en": "flexibility only",
+          "bm": "kelenturan sahaja"
+        },
+        {
+          "en": "body composition",
+          "bm": "komposisi badan"
+        },
+        {
+          "en": "cardiovascular endurance only",
+          "bm": "daya tahan kardiovaskular sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q15",
+      "subtopicId": "f3pjk-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SEGAK step-up test mainly measures…",
+        "bm": "Ujian SEGAK naik turun bangku terutamanya mengukur…"
+      },
+      "explanation": {
+        "en": "Pulse is counted after stepping.",
+        "bm": "Nadi dikira selepas ujian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "cardiovascular endurance",
+          "bm": "daya tahan kardiovaskular"
+        },
+        {
+          "en": "flexibility",
+          "bm": "kelenturan"
+        },
+        {
+          "en": "upper body strength",
+          "bm": "kekuatan bahagian atas badan"
+        },
+        {
+          "en": "balance",
+          "bm": "imbangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q16",
+      "subtopicId": "f3pjk-01-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL skill-related fitness components.",
+        "bm": "Pilih SEMUA komponen kecergasan berasaskan lakuan motor."
+      },
+      "explanation": {
+        "en": "Flexibility is health-related.",
+        "bm": "Kelenturan berasaskan kesihatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Balance",
+          "bm": "Imbangan"
+        },
+        {
+          "en": "Coordination",
+          "bm": "Koordinasi"
+        },
+        {
+          "en": "Speed",
+          "bm": "Kelajuan"
+        },
+        {
+          "en": "Flexibility",
+          "bm": "Kelenturan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3pjk-01-q17",
+      "subtopicId": "f3pjk-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 15-year-old wants to train at 70% of maximum heart rate (220 − age). What is the target heart rate, to the nearest whole number?",
+        "bm": "Seorang remaja 15 tahun mahu berlatih pada 70% kadar nadi maksimum (220 − umur). Berapakah kadar nadi sasaran, kepada nombor bulat terdekat?"
+      },
+      "explanation": {
+        "en": "205 × 0.7 = 143.5 ≈ 144 bpm.",
+        "bm": "205 × 0.7 = 143.5 ≈ 144 dsm."
+      },
+      "difficulty": 3,
+      "answer": 144,
+      "tolerance": 0.01,
+      "unit": "bpm"
+    },
+    {
+      "id": "f3pjk-01-q18",
+      "subtopicId": "f3pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student jogs once a week for 10 minutes and sees no improvement. Using FITT, what is the BEST advice?",
+        "bm": "Seorang murid berjoging seminggu sekali selama 10 minit dan tiada peningkatan. Berdasarkan FITT, apakah nasihat PALING baik?"
+      },
+      "explanation": {
+        "en": "Change F and T gradually.",
+        "bm": "Ubah F dan T secara beransur."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Increase frequency to 3 times a week and time to at least 20–30 minutes",
+          "bm": "Tingkatkan kekerapan kepada 3 kali seminggu dan masa sekurang-kurangnya 20–30 minit"
+        },
+        {
+          "en": "Stop jogging",
+          "bm": "Berhenti berjoging"
+        },
+        {
+          "en": "Sprint at maximum once a month",
+          "bm": "Pecut maksimum sebulan sekali"
+        },
+        {
+          "en": "Only stretch",
+          "bm": "Regangan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3pjk-01-q19",
+      "subtopicId": "f3pjk-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "An adult has a mass of 72 kg and a height of 1.7 m. Calculate the BMI (1 decimal place).",
+        "bm": "Seorang dewasa berjisim 72 kg dan tinggi 1.7 m. Hitung IJT (1 tempat perpuluhan)."
+      },
+      "explanation": {
+        "en": "72 ÷ 2.89 = 24.9 — within the adult normal range 18.5–24.9 (WHO).",
+        "bm": "72 ÷ 2.89 = 24.9 — dalam julat normal dewasa 18.5–24.9 (WHO)."
+      },
+      "difficulty": 3,
+      "answer": 24.9,
+      "tolerance": 0.01,
+      "unit": "kg/m²"
+    },
+    {
+      "id": "f3pjk-01-q20",
+      "subtopicId": "f3pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is BMI alone not a perfect measure of health?",
+        "bm": "Mengapakah IJT sahaja bukan ukuran kesihatan yang sempurna?"
+      },
+      "explanation": {
+        "en": "A muscular athlete may have a high BMI but low body fat.",
+        "bm": "Atlet berotot mungkin mempunyai IJT tinggi tetapi lemak badan rendah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It does not separate muscle from fat",
+          "bm": "Ia tidak membezakan otot daripada lemak"
+        },
+        {
+          "en": "It uses height",
+          "bm": "Ia menggunakan ketinggian"
+        },
+        {
+          "en": "It is too easy",
+          "bm": "Ia terlalu mudah"
+        },
+        {
+          "en": "It is only for adults",
+          "bm": "Ia hanya untuk dewasa"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

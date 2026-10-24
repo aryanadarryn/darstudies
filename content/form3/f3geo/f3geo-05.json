@@ -1,0 +1,816 @@
+{
+  "chapterId": "f3geo-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The cooking oil in your kitchen, the chips in your phone and the hotel you stayed in on holiday all come from different kinds of economic activity — primary, secondary and tertiary.",
+      "bm": "Minyak masak di dapur, cip dalam telefon dan hotel tempat anda menginap semasa bercuti datang daripada jenis kegiatan ekonomi yang berbeza — primer, sekunder dan tertier."
+    },
+    "bigIdeas": [
+      {
+        "en": "Primary activities take resources from nature: farming, mining, forestry and fishing.",
+        "bm": "Kegiatan primer mengambil sumber daripada alam: pertanian, perlombongan, perhutanan dan perikanan."
+      },
+      {
+        "en": "Secondary activities process raw materials into goods (manufacturing).",
+        "bm": "Kegiatan sekunder memproses bahan mentah menjadi barangan (perkilangan)."
+      },
+      {
+        "en": "Tertiary activities provide services, including tourism — now a large part of Malaysia's economy.",
+        "bm": "Kegiatan tertier menyediakan perkhidmatan, termasuk pelancongan — kini sebahagian besar ekonomi Malaysia."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "What it does",
+            "bm": "Apa yang dilakukan"
+          },
+          {
+            "en": "Malaysian examples",
+            "bm": "Contoh di Malaysia"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Primary",
+              "bm": "Primer"
+            },
+            "cells": [
+              {
+                "en": "Takes natural resources",
+                "bm": "Mengambil sumber semula jadi"
+              },
+              {
+                "en": "Oil palm, rubber, padi, petroleum, fishing, timber",
+                "bm": "Kelapa sawit, getah, padi, petroleum, perikanan, balak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Secondary",
+              "bm": "Sekunder"
+            },
+            "cells": [
+              {
+                "en": "Makes products",
+                "bm": "Menghasilkan barangan"
+              },
+              {
+                "en": "Electronics, cars, palm oil refining, food processing",
+                "bm": "Elektronik, kereta, penapisan minyak sawit, pemprosesan makanan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tertiary",
+              "bm": "Tertier"
+            },
+            "cells": [
+              {
+                "en": "Provides services",
+                "bm": "Menyediakan perkhidmatan"
+              },
+              {
+                "en": "Tourism, banking, transport, education, health",
+                "bm": "Pelancongan, perbankan, pengangkutan, pendidikan, kesihatan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Primary activity",
+          "bm": "Kegiatan primer"
+        },
+        "definition": {
+          "en": "Obtaining natural resources directly from the environment.",
+          "bm": "Mendapatkan sumber semula jadi secara langsung dari alam sekitar."
+        }
+      },
+      {
+        "term": {
+          "en": "Secondary activity",
+          "bm": "Kegiatan sekunder"
+        },
+        "definition": {
+          "en": "Processing raw materials into finished goods.",
+          "bm": "Memproses bahan mentah menjadi barangan siap."
+        }
+      },
+      {
+        "term": {
+          "en": "Tertiary activity",
+          "bm": "Kegiatan tertier"
+        },
+        "definition": {
+          "en": "Providing services to people and businesses.",
+          "bm": "Menyediakan perkhidmatan kepada orang ramai dan perniagaan."
+        }
+      },
+      {
+        "term": {
+          "en": "Ecotourism",
+          "bm": "Eko-pelancongan"
+        },
+        "definition": {
+          "en": "Responsible travel to natural areas that conserves the environment.",
+          "bm": "Pelancongan bertanggungjawab ke kawasan semula jadi yang memelihara alam sekitar."
+        }
+      },
+      {
+        "term": {
+          "en": "Rice bowl",
+          "bm": "Jelapang padi"
+        },
+        "definition": {
+          "en": "Major padi-growing area, e.g. the MADA area in Kedah and Perlis.",
+          "bm": "Kawasan utama penanaman padi, cth. kawasan MADA di Kedah dan Perlis."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Classify the journey of palm oil from farm to kitchen.",
+        "bm": "Kelaskan perjalanan minyak sawit dari ladang ke dapur."
+      },
+      "steps": [
+        {
+          "en": "Harvesting fresh fruit bunches on a plantation → primary.",
+          "bm": "Menuai tandan buah segar di ladang → primer."
+        },
+        {
+          "en": "Refining the oil into cooking oil in a factory → secondary.",
+          "bm": "Menapis minyak menjadi minyak masak di kilang → sekunder."
+        },
+        {
+          "en": "Transporting and selling it in a supermarket → tertiary.",
+          "bm": "Mengangkut dan menjualnya di pasar raya → tertier."
+        }
+      ],
+      "answer": {
+        "en": "One product can involve all three sectors.",
+        "bm": "Satu produk boleh melibatkan ketiga-tiga sektor."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-05-q01",
+      "subtopicId": "f3geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fishing is a…",
+        "bm": "Perikanan ialah kegiatan…"
+      },
+      "explanation": {
+        "en": "It takes resources directly from nature.",
+        "bm": "Ia mengambil sumber terus daripada alam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "primary activity",
+          "bm": "primer"
+        },
+        {
+          "en": "secondary activity",
+          "bm": "sekunder"
+        },
+        {
+          "en": "tertiary activity",
+          "bm": "tertier"
+        },
+        {
+          "en": "service",
+          "bm": "perkhidmatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q02",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Assembling cars in a factory is a…",
+        "bm": "Memasang kereta di kilang ialah kegiatan…"
+      },
+      "explanation": {
+        "en": "Manufacturing turns parts and materials into products.",
+        "bm": "Perkilangan mengubah komponen dan bahan menjadi produk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "secondary activity",
+          "bm": "sekunder"
+        },
+        {
+          "en": "primary activity",
+          "bm": "primer"
+        },
+        {
+          "en": "tertiary activity",
+          "bm": "tertier"
+        },
+        {
+          "en": "mining activity",
+          "bm": "perlombongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q03",
+      "subtopicId": "f3geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A tour guide works in the…",
+        "bm": "Pemandu pelancong bekerja dalam sektor…"
+      },
+      "explanation": {
+        "en": "Tourism is a service.",
+        "bm": "Pelancongan ialah perkhidmatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tertiary sector",
+          "bm": "tertier"
+        },
+        {
+          "en": "primary sector",
+          "bm": "primer"
+        },
+        {
+          "en": "secondary sector",
+          "bm": "sekunder"
+        },
+        {
+          "en": "mining sector",
+          "bm": "perlombongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q04",
+      "subtopicId": "f3geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia is one of the world's largest producers of…",
+        "bm": "Malaysia ialah antara pengeluar terbesar dunia bagi…"
+      },
+      "explanation": {
+        "en": "Malaysia is the second largest producer after Indonesia.",
+        "bm": "Malaysia pengeluar kedua terbesar selepas Indonesia."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "palm oil",
+          "bm": "minyak sawit"
+        },
+        {
+          "en": "wheat",
+          "bm": "gandum"
+        },
+        {
+          "en": "coffee",
+          "bm": "kopi"
+        },
+        {
+          "en": "wool",
+          "bm": "bulu biri-biri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q05",
+      "subtopicId": "f3geo-05-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The MADA area in Kedah and Perlis is known as Malaysia's ______ bowl.",
+        "bm": "Kawasan MADA di Kedah dan Perlis dikenali sebagai jelapang ______ Malaysia."
+      },
+      "explanation": {
+        "en": "Irrigation allows two padi crops a year.",
+        "bm": "Pengairan membolehkan dua kali tanaman padi setahun."
+      },
+      "difficulty": 1,
+      "answer": [
+        "rice",
+        "padi"
+      ]
+    },
+    {
+      "id": "f3geo-05-q06",
+      "subtopicId": "f3geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where is most of Malaysia's petroleum produced?",
+        "bm": "Di manakah kebanyakan petroleum Malaysia dihasilkan?"
+      },
+      "explanation": {
+        "en": "Petronas was set up in 1974 to manage petroleum resources.",
+        "bm": "Petronas ditubuhkan pada 1974 untuk mengurus sumber petroleum."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Offshore of Terengganu, Sabah and Sarawak",
+          "bm": "Luar pesisir Terengganu, Sabah dan Sarawak"
+        },
+        {
+          "en": "In Kuala Lumpur",
+          "bm": "Di Kuala Lumpur"
+        },
+        {
+          "en": "In Cameron Highlands",
+          "bm": "Di Cameron Highlands"
+        },
+        {
+          "en": "In Melaka town",
+          "bm": "Di bandar Melaka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q07",
+      "subtopicId": "f3geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a UNESCO World Heritage Site in Sabah?",
+        "bm": "Manakah Tapak Warisan Dunia UNESCO di Sabah?"
+      },
+      "explanation": {
+        "en": "Kinabalu Park was listed in 2000.",
+        "bm": "Taman Kinabalu disenaraikan pada 2000."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kinabalu Park",
+          "bm": "Kinabalu Park"
+        },
+        {
+          "en": "Taman Negara",
+          "bm": "Taman Negara"
+        },
+        {
+          "en": "Batu Caves",
+          "bm": "Batu Caves"
+        },
+        {
+          "en": "Tasik Kenyir",
+          "bm": "Tasik Kenyir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q08",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bayan Lepas in Penang is well known for…",
+        "bm": "Bayan Lepas di Pulau Pinang terkenal dengan…"
+      },
+      "explanation": {
+        "en": "Its free industrial zone attracted many electronics firms.",
+        "bm": "Zon perindustrian bebasnya menarik banyak syarikat elektronik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "electronics manufacturing",
+          "bm": "perkilangan elektronik"
+        },
+        {
+          "en": "tin mining",
+          "bm": "perlombongan bijih timah"
+        },
+        {
+          "en": "padi farming",
+          "bm": "penanaman padi"
+        },
+        {
+          "en": "oil drilling",
+          "bm": "penggerudian minyak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q09",
+      "subtopicId": "f3geo-05-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages from a rubber tree to a glove sold in a shop.",
+        "bm": "Susun peringkat daripada pokok getah hingga sarung tangan dijual di kedai."
+      },
+      "explanation": {
+        "en": "Primary → secondary → secondary → tertiary.",
+        "bm": "Primer → sekunder → sekunder → tertier."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Tapping latex",
+          "bm": "Menoreh susu getah"
+        },
+        {
+          "en": "Processing latex in a factory",
+          "bm": "Memproses susu getah di kilang"
+        },
+        {
+          "en": "Making gloves",
+          "bm": "Membuat sarung tangan"
+        },
+        {
+          "en": "Selling gloves in shops",
+          "bm": "Menjual sarung tangan di kedai"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-05-q10",
+      "subtopicId": "f3geo-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each activity with its sector.",
+        "bm": "Padankan kegiatan dengan sektornya."
+      },
+      "explanation": {
+        "en": "Ask: taking, making or serving?",
+        "bm": "Tanya: mengambil, membuat atau berkhidmat?"
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Logging timber",
+            "bm": "Membalak"
+          },
+          "right": {
+            "en": "Primary",
+            "bm": "Primer"
+          }
+        },
+        {
+          "left": {
+            "en": "Making furniture",
+            "bm": "Membuat perabot"
+          },
+          "right": {
+            "en": "Secondary",
+            "bm": "Sekunder"
+          }
+        },
+        {
+          "left": {
+            "en": "Selling furniture online",
+            "bm": "Menjual perabot dalam talian"
+          },
+          "right": {
+            "en": "Tertiary",
+            "bm": "Tertier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-05-q11",
+      "subtopicId": "f3geo-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL primary activities.",
+        "bm": "Pilih SEMUA kegiatan primer."
+      },
+      "explanation": {
+        "en": "Teaching is a tertiary service.",
+        "bm": "Mengajar ialah perkhidmatan tertier."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rubber tapping",
+          "bm": "Menoreh getah"
+        },
+        {
+          "en": "Fishing",
+          "bm": "Menangkap ikan"
+        },
+        {
+          "en": "Quarrying stone",
+          "bm": "Mengkuari batu"
+        },
+        {
+          "en": "Teaching",
+          "bm": "Mengajar"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-05-q12",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do many factories locate near ports such as Port Klang?",
+        "bm": "Mengapakah banyak kilang terletak berhampiran pelabuhan seperti Pelabuhan Klang?"
+      },
+      "explanation": {
+        "en": "Transport cost is a key location factor.",
+        "bm": "Kos pengangkutan ialah faktor lokasi yang penting."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To import raw materials and export products cheaply",
+          "bm": "Untuk mengimport bahan mentah dan mengeksport produk dengan kos rendah"
+        },
+        {
+          "en": "Because ports are quiet",
+          "bm": "Kerana pelabuhan sunyi"
+        },
+        {
+          "en": "To avoid workers",
+          "bm": "Untuk mengelak pekerja"
+        },
+        {
+          "en": "Because land is free",
+          "bm": "Kerana tanah percuma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q13",
+      "subtopicId": "f3geo-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Responsible travel to natural areas that conserves the environment is called ______.",
+        "bm": "Pelancongan bertanggungjawab ke kawasan semula jadi yang memelihara alam sekitar dipanggil ______."
+      },
+      "explanation": {
+        "en": "Examples: Taman Negara, Gunung Mulu, Kinabalu Park.",
+        "bm": "Contoh: Taman Negara, Gunung Mulu, Taman Kinabalu."
+      },
+      "difficulty": 2,
+      "answer": [
+        "ecotourism",
+        "eco-tourism",
+        "eko-pelancongan",
+        "ekopelancongan"
+      ]
+    },
+    {
+      "id": "f3geo-05-q14",
+      "subtopicId": "f3geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "George Town and Melaka were listed together as a UNESCO World Heritage Site in…",
+        "bm": "George Town dan Melaka disenaraikan bersama sebagai Tapak Warisan Dunia UNESCO pada…"
+      },
+      "explanation": {
+        "en": "They are historic cities of the Straits of Malacca.",
+        "bm": "Kedua-duanya bandar bersejarah Selat Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2008",
+          "bm": "2008"
+        },
+        {
+          "en": "1957",
+          "bm": "1957"
+        },
+        {
+          "en": "1990",
+          "bm": "1990"
+        },
+        {
+          "en": "2020",
+          "bm": "2020"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q15",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an advantage of manufacturing for Malaysia?",
+        "bm": "Antara berikut, yang manakah kelebihan perkilangan kepada Malaysia?"
+      },
+      "explanation": {
+        "en": "Processed goods earn more than raw materials.",
+        "bm": "Barangan yang diproses lebih menguntungkan daripada bahan mentah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It adds value to raw materials and creates jobs",
+          "bm": "Ia menambah nilai bahan mentah dan mewujudkan pekerjaan"
+        },
+        {
+          "en": "It needs no workers",
+          "bm": "Ia tidak memerlukan pekerja"
+        },
+        {
+          "en": "It always reduces pollution",
+          "bm": "Ia sentiasa mengurangkan pencemaran"
+        },
+        {
+          "en": "It stops exports",
+          "bm": "Ia menghentikan eksport"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q16",
+      "subtopicId": "f3geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does padi farming in the MADA area produce two crops a year?",
+        "bm": "Mengapakah penanaman padi di kawasan MADA menghasilkan dua kali tuaian setahun?"
+      },
+      "explanation": {
+        "en": "Dams and canals control water supply.",
+        "bm": "Empangan dan terusan mengawal bekalan air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Irrigation supplies water all year",
+          "bm": "Pengairan membekalkan air sepanjang tahun"
+        },
+        {
+          "en": "It snows in winter",
+          "bm": "Salji turun pada musim sejuk"
+        },
+        {
+          "en": "There is no sunlight",
+          "bm": "Tiada cahaya matahari"
+        },
+        {
+          "en": "It never rains",
+          "bm": "Hujan tidak pernah turun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q17",
+      "subtopicId": "f3geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A rainforest park becomes very popular with tourists. Which plan BEST balances income and conservation?",
+        "bm": "Sebuah taman hutan hujan menjadi sangat popular dalam kalangan pelancong. Rancangan manakah PALING mengimbangi pendapatan dan pemuliharaan?"
+      },
+      "explanation": {
+        "en": "Ecotourism protects the very attraction that brings income.",
+        "bm": "Eko-pelancongan melindungi tarikan yang membawa pendapatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Limit visitor numbers, use marked trails and employ local guides",
+          "bm": "Hadkan bilangan pelawat, guna denai bertanda dan ambil pemandu tempatan"
+        },
+        {
+          "en": "Build large hotels deep in the forest",
+          "bm": "Bina hotel besar jauh di dalam hutan"
+        },
+        {
+          "en": "Allow unlimited visitors",
+          "bm": "Benarkan pelawat tanpa had"
+        },
+        {
+          "en": "Close it forever",
+          "bm": "Tutup selama-lamanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q18",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why has Malaysia moved from depending mainly on tin and rubber to manufacturing and services?",
+        "bm": "Mengapakah Malaysia beralih daripada bergantung terutamanya kepada bijih timah dan getah kepada perkilangan dan perkhidmatan?"
+      },
+      "explanation": {
+        "en": "A varied economy is more stable.",
+        "bm": "Ekonomi yang pelbagai lebih stabil."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To reduce reliance on raw-material prices and create higher-value jobs",
+          "bm": "Untuk mengurangkan pergantungan kepada harga bahan mentah dan mewujudkan pekerjaan bernilai tinggi"
+        },
+        {
+          "en": "Because tin and rubber no longer exist",
+          "bm": "Kerana bijih timah dan getah tidak lagi wujud"
+        },
+        {
+          "en": "Because farming is banned",
+          "bm": "Kerana pertanian diharamkan"
+        },
+        {
+          "en": "For no reason",
+          "bm": "Tiada sebab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q19",
+      "subtopicId": "f3geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Clearing forest for new oil palm estates brings income. What is a key concern?",
+        "bm": "Membersihkan hutan untuk ladang kelapa sawit baharu membawa pendapatan. Apakah kebimbangan utama?"
+      },
+      "explanation": {
+        "en": "Certification schemes such as MSPO aim for sustainable palm oil.",
+        "bm": "Skim pensijilan seperti MSPO bertujuan menghasilkan minyak sawit lestari."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Loss of habitat and biodiversity, and more erosion",
+          "bm": "Kehilangan habitat dan biodiversiti, serta lebih banyak hakisan"
+        },
+        {
+          "en": "Too much rain",
+          "bm": "Terlalu banyak hujan"
+        },
+        {
+          "en": "Fewer roads",
+          "bm": "Kurang jalan raya"
+        },
+        {
+          "en": "Cooler cities",
+          "bm": "Bandar lebih sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-05-q20",
+      "subtopicId": "f3geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which factor is MOST important for high-technology industries choosing a location?",
+        "bm": "Faktor manakah PALING penting bagi industri berteknologi tinggi memilih lokasi?"
+      },
+      "explanation": {
+        "en": "They rely more on knowledge than on raw materials.",
+        "bm": "Industri ini lebih bergantung kepada ilmu berbanding bahan mentah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Skilled workers and good infrastructure",
+          "bm": "Pekerja mahir dan infrastruktur yang baik"
+        },
+        {
+          "en": "Being far from all towns",
+          "bm": "Jauh dari semua bandar"
+        },
+        {
+          "en": "Large forests",
+          "bm": "Hutan yang luas"
+        },
+        {
+          "en": "Steep land",
+          "bm": "Tanah curam"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

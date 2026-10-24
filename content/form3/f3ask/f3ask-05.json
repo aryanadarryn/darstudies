@@ -1,0 +1,860 @@
+{
+  "chapterId": "f3ask-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Your parcel is stuck — click here to pay RM2.50.\" One click on a fake link like this can give scammers your bank details.",
+      "bm": "\"Bungkusan anda tersekat — klik di sini untuk bayar RM2.50.\" Satu klik pada pautan palsu seperti ini boleh memberi penipu butiran bank anda."
+    },
+    "bigIdeas": [
+      {
+        "en": "Common threats include phishing, malware (viruses, worms, trojans, ransomware) and weak passwords.",
+        "bm": "Ancaman lazim termasuk pancingan data (phishing), perisian hasad (virus, cecacing, trojan, perisian tebusan) dan kata laluan lemah."
+      },
+      {
+        "en": "Everything you post forms a digital footprint that can be hard to erase.",
+        "bm": "Semua yang anda kongsi membentuk jejak digital yang sukar dipadam."
+      },
+      {
+        "en": "Malaysian laws such as the Computer Crimes Act 1997 and the Personal Data Protection Act 2010 protect users and data.",
+        "bm": "Undang-undang Malaysia seperti Akta Jenayah Komputer 1997 dan Akta Perlindungan Data Peribadi 2010 melindungi pengguna dan data."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "What it does",
+            "bm": "Apa yang dilakukan"
+          },
+          {
+            "en": "Protection",
+            "bm": "Perlindungan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Phishing",
+              "bm": "Pancingan data"
+            },
+            "cells": [
+              {
+                "en": "Fake messages trick you into giving data",
+                "bm": "Mesej palsu memperdaya anda memberi data"
+              },
+              {
+                "en": "Check the sender; do not click unknown links",
+                "bm": "Semak pengirim; jangan klik pautan tidak dikenali"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Virus / worm",
+              "bm": "Virus / cecacing"
+            },
+            "cells": [
+              {
+                "en": "Damages files; worms spread by themselves",
+                "bm": "Merosakkan fail; cecacing merebak sendiri"
+              },
+              {
+                "en": "Antivirus and updates",
+                "bm": "Antivirus dan kemas kini"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Trojan",
+              "bm": "Trojan"
+            },
+            "cells": [
+              {
+                "en": "Hides inside a \"useful\" program",
+                "bm": "Bersembunyi dalam atur cara yang kelihatan berguna"
+              },
+              {
+                "en": "Download only from trusted sources",
+                "bm": "Muat turun daripada sumber dipercayai sahaja"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ransomware",
+              "bm": "Perisian tebusan"
+            },
+            "cells": [
+              {
+                "en": "Locks files and demands payment",
+                "bm": "Mengunci fail dan menuntut bayaran"
+              },
+              {
+                "en": "Regular backups",
+                "bm": "Sandaran berkala"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Phishing",
+          "bm": "Pancingan data"
+        },
+        "definition": {
+          "en": "Fake emails, SMS or websites that steal personal information.",
+          "bm": "E-mel, SMS atau laman web palsu yang mencuri maklumat peribadi."
+        }
+      },
+      {
+        "term": {
+          "en": "Malware",
+          "bm": "Perisian hasad"
+        },
+        "definition": {
+          "en": "Software designed to harm: viruses, worms, trojans, ransomware, spyware.",
+          "bm": "Perisian yang direka untuk memudaratkan: virus, cecacing, trojan, perisian tebusan, perisian intip."
+        }
+      },
+      {
+        "term": {
+          "en": "Two-factor authentication (2FA)",
+          "bm": "Pengesahan dua faktor (2FA)"
+        },
+        "definition": {
+          "en": "A second check, such as a code on your phone, after the password.",
+          "bm": "Semakan kedua, seperti kod di telefon, selepas kata laluan."
+        }
+      },
+      {
+        "term": {
+          "en": "Digital footprint",
+          "bm": "Jejak digital"
+        },
+        "definition": {
+          "en": "The trail of data you leave online.",
+          "bm": "Jejak data yang anda tinggalkan dalam talian."
+        }
+      },
+      {
+        "term": {
+          "en": "Copyright",
+          "bm": "Hak cipta"
+        },
+        "definition": {
+          "en": "Legal right of creators over their work.",
+          "bm": "Hak undang-undang pencipta ke atas karyanya."
+        }
+      },
+      {
+        "term": {
+          "en": "Cyberbullying",
+          "bm": "Buli siber"
+        },
+        "definition": {
+          "en": "Using digital technology to hurt, threaten or embarrass someone.",
+          "bm": "Menggunakan teknologi digital untuk menyakiti, mengugut atau memalukan seseorang."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Which is the strongest password: \"ali2010\", \"password\", \"Kucing#Biru!92\" or \"12345678\"?",
+        "bm": "Kata laluan manakah paling kuat: \"ali2010\", \"password\", \"Kucing#Biru!92\" atau \"12345678\"?"
+      },
+      "steps": [
+        {
+          "en": "Strong passwords are long and mix upper and lower case, numbers and symbols.",
+          "bm": "Kata laluan kuat panjang dan mencampurkan huruf besar, huruf kecil, nombor dan simbol."
+        },
+        {
+          "en": "Avoid names, birth years and common words.",
+          "bm": "Elakkan nama, tahun lahir dan perkataan biasa."
+        }
+      ],
+      "answer": {
+        "en": "\"Kucing#Biru!92\"",
+        "bm": "\"Kucing#Biru!92\""
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3ask-05-q01",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A fake SMS asking you to click a link and enter your bank PIN is…",
+        "bm": "SMS palsu yang meminta anda klik pautan dan memasukkan PIN bank ialah…"
+      },
+      "explanation": {
+        "en": "Banks never ask for your PIN by SMS.",
+        "bm": "Bank tidak pernah meminta PIN melalui SMS."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "phishing",
+          "bm": "pancingan data"
+        },
+        {
+          "en": "backup",
+          "bm": "sandaran"
+        },
+        {
+          "en": "encryption",
+          "bm": "penyulitan"
+        },
+        {
+          "en": "copyright",
+          "bm": "hak cipta"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q02",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malware that locks your files and demands payment is…",
+        "bm": "Perisian hasad yang mengunci fail dan menuntut bayaran ialah…"
+      },
+      "explanation": {
+        "en": "Backups reduce the damage.",
+        "bm": "Sandaran mengurangkan kerosakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ransomware",
+          "bm": "perisian tebusan"
+        },
+        {
+          "en": "a firewall",
+          "bm": "tembok api"
+        },
+        {
+          "en": "an antivirus",
+          "bm": "antivirus"
+        },
+        {
+          "en": "a browser",
+          "bm": "pelayar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q03",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the STRONGEST password?",
+        "bm": "Kata laluan manakah PALING kuat?"
+      },
+      "explanation": {
+        "en": "Long + mixed characters.",
+        "bm": "Panjang + aksara bercampur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kucing#Biru!92",
+          "bm": "Kucing#Biru!92"
+        },
+        {
+          "en": "ali2010",
+          "bm": "ali2010"
+        },
+        {
+          "en": "password",
+          "bm": "password"
+        },
+        {
+          "en": "12345678",
+          "bm": "12345678"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q04",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two-factor authentication (2FA) adds…",
+        "bm": "Pengesahan dua faktor (2FA) menambah…"
+      },
+      "explanation": {
+        "en": "Even if a password is stolen, the account stays protected.",
+        "bm": "Walaupun kata laluan dicuri, akaun masih dilindungi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a second check such as a code sent to your phone",
+          "bm": "semakan kedua seperti kod yang dihantar ke telefon"
+        },
+        {
+          "en": "a second password that is the same",
+          "bm": "kata laluan kedua yang sama"
+        },
+        {
+          "en": "more advertisements",
+          "bm": "lebih banyak iklan"
+        },
+        {
+          "en": "a faster internet",
+          "bm": "internet yang lebih laju"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q05",
+      "subtopicId": "f3ask-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your digital footprint is…",
+        "bm": "Jejak digital anda ialah…"
+      },
+      "explanation": {
+        "en": "Posts, comments, photos and searches all add to it.",
+        "bm": "Hantaran, komen, gambar dan carian semuanya menambahnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the trail of data you leave online",
+          "bm": "jejak data yang anda tinggalkan dalam talian"
+        },
+        {
+          "en": "your shoe size",
+          "bm": "saiz kasut anda"
+        },
+        {
+          "en": "your computer's weight",
+          "bm": "berat komputer anda"
+        },
+        {
+          "en": "your Wi-Fi speed",
+          "bm": "kelajuan Wi-Fi anda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q06",
+      "subtopicId": "f3ask-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Repeatedly sending hurtful messages to a classmate online is…",
+        "bm": "Menghantar mesej yang menyakitkan kepada rakan sekelas berulang kali dalam talian ialah…"
+      },
+      "explanation": {
+        "en": "Report it and do not reply.",
+        "bm": "Laporkan dan jangan balas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cyberbullying",
+          "bm": "buli siber"
+        },
+        {
+          "en": "netiquette",
+          "bm": "etiket internet"
+        },
+        {
+          "en": "backup",
+          "bm": "sandaran"
+        },
+        {
+          "en": "coding",
+          "bm": "pengekodan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q07",
+      "subtopicId": "f3ask-05-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The Malaysian Personal Data Protection Act was passed in the year ______.",
+        "bm": "Akta Perlindungan Data Peribadi Malaysia diluluskan pada tahun ______."
+      },
+      "explanation": {
+        "en": "It controls how organisations handle personal data.",
+        "bm": "Ia mengawal cara organisasi mengendalikan data peribadi."
+      },
+      "difficulty": 1,
+      "answer": [
+        "2010"
+      ]
+    },
+    {
+      "id": "f3ask-05-q08",
+      "subtopicId": "f3ask-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Copying a classmate's essay from the internet and submitting it as your own is…",
+        "bm": "Menyalin karangan rakan dari internet dan menghantarnya sebagai karya sendiri ialah…"
+      },
+      "explanation": {
+        "en": "Always credit your sources.",
+        "bm": "Sentiasa nyatakan sumber."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "plagiarism",
+          "bm": "plagiarisme"
+        },
+        {
+          "en": "research",
+          "bm": "penyelidikan"
+        },
+        {
+          "en": "citation",
+          "bm": "petikan"
+        },
+        {
+          "en": "encryption",
+          "bm": "penyulitan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q09",
+      "subtopicId": "f3ask-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each threat with its description.",
+        "bm": "Padankan ancaman dengan huraiannya."
+      },
+      "explanation": {
+        "en": "Different threats need different defences.",
+        "bm": "Ancaman berbeza memerlukan pertahanan berbeza."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Worm",
+            "bm": "Cecacing"
+          },
+          "right": {
+            "en": "Spreads by itself across networks",
+            "bm": "Merebak sendiri melalui rangkaian"
+          }
+        },
+        {
+          "left": {
+            "en": "Trojan",
+            "bm": "Trojan"
+          },
+          "right": {
+            "en": "Hides inside a program that looks useful",
+            "bm": "Bersembunyi dalam atur cara yang kelihatan berguna"
+          }
+        },
+        {
+          "left": {
+            "en": "Spyware",
+            "bm": "Perisian intip"
+          },
+          "right": {
+            "en": "Secretly records your activity",
+            "bm": "Merekod aktiviti anda secara rahsia"
+          }
+        },
+        {
+          "left": {
+            "en": "Phishing",
+            "bm": "Pancingan data"
+          },
+          "right": {
+            "en": "Fake messages that steal data",
+            "bm": "Mesej palsu yang mencuri data"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3ask-05-q10",
+      "subtopicId": "f3ask-05-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL signs that an email may be phishing.",
+        "bm": "Pilih SEMUA tanda e-mel mungkin pancingan data."
+      },
+      "explanation": {
+        "en": "When in doubt, contact the organisation through its official channel.",
+        "bm": "Jika ragu-ragu, hubungi organisasi melalui saluran rasmi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Urgent warnings like \"Your account will be closed today!\"",
+          "bm": "Amaran mendesak seperti \"Akaun anda akan ditutup hari ini!\""
+        },
+        {
+          "en": "A strange sender address",
+          "bm": "Alamat pengirim yang pelik"
+        },
+        {
+          "en": "Requests for passwords or PINs",
+          "bm": "Permintaan kata laluan atau PIN"
+        },
+        {
+          "en": "A message from your teacher about tomorrow's class sent through the school system",
+          "bm": "Mesej guru tentang kelas esok melalui sistem sekolah"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3ask-05-q11",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should you install software updates promptly?",
+        "bm": "Mengapakah kemas kini perisian patut dipasang segera?"
+      },
+      "explanation": {
+        "en": "Outdated software is a common way in for malware.",
+        "bm": "Perisian lapuk ialah laluan lazim bagi perisian hasad."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They fix security holes that attackers use",
+          "bm": "Ia membaiki kelemahan keselamatan yang digunakan penyerang"
+        },
+        {
+          "en": "They always make the device slower",
+          "bm": "Ia sentiasa memperlahankan peranti"
+        },
+        {
+          "en": "They delete all your files",
+          "bm": "Ia memadam semua fail"
+        },
+        {
+          "en": "They are only for games",
+          "bm": "Ia hanya untuk permainan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q12",
+      "subtopicId": "f3ask-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Before posting a photo of your friends, you should…",
+        "bm": "Sebelum memuat naik gambar kawan-kawan, anda patut…"
+      },
+      "explanation": {
+        "en": "Respect others' privacy.",
+        "bm": "Hormati privasi orang lain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ask their permission",
+          "bm": "meminta izin mereka"
+        },
+        {
+          "en": "add their home address",
+          "bm": "menambah alamat rumah mereka"
+        },
+        {
+          "en": "tag their location live",
+          "bm": "menanda lokasi mereka secara langsung"
+        },
+        {
+          "en": "post it immediately",
+          "bm": "terus memuat naik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q13",
+      "subtopicId": "f3ask-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which information should you NOT share publicly online?",
+        "bm": "Maklumat manakah TIDAK patut dikongsi secara terbuka dalam talian?"
+      },
+      "explanation": {
+        "en": "Personal identifiers can be used for fraud.",
+        "bm": "Pengenal peribadi boleh digunakan untuk penipuan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Your IC number and home address",
+          "bm": "Nombor MyKad dan alamat rumah"
+        },
+        {
+          "en": "Your favourite colour",
+          "bm": "Warna kegemaran"
+        },
+        {
+          "en": "A book you enjoyed",
+          "bm": "Buku yang anda gemari"
+        },
+        {
+          "en": "Your school's name in a club achievement post",
+          "bm": "Nama sekolah dalam hantaran pencapaian kelab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q14",
+      "subtopicId": "f3ask-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gaining unauthorised access to someone else's computer is an offence under Malaysia's…",
+        "bm": "Mengakses komputer orang lain tanpa kebenaran ialah kesalahan di bawah…"
+      },
+      "explanation": {
+        "en": "\"Hacking\" for fun is still a crime.",
+        "bm": "\"Menggodam\" untuk suka-suka tetap jenayah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Computer Crimes Act 1997",
+          "bm": "Akta Jenayah Komputer 1997"
+        },
+        {
+          "en": "Road Transport Act",
+          "bm": "Akta Pengangkutan Jalan"
+        },
+        {
+          "en": "Education Act only",
+          "bm": "Akta Pendidikan sahaja"
+        },
+        {
+          "en": "There is no such law",
+          "bm": "Tiada undang-undang sedemikian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q15",
+      "subtopicId": "f3ask-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Using a photo from the internet in your project is acceptable when…",
+        "bm": "Menggunakan gambar dari internet dalam projek anda boleh diterima apabila…"
+      },
+      "explanation": {
+        "en": "Creative Commons and public-domain images are good choices.",
+        "bm": "Imej Creative Commons dan domain awam ialah pilihan yang baik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "its licence allows it and you credit the creator",
+          "bm": "lesennya membenarkan dan anda menyatakan pencipta"
+        },
+        {
+          "en": "you remove the watermark",
+          "bm": "anda membuang tera air"
+        },
+        {
+          "en": "nobody will notice",
+          "bm": "tiada siapa perasan"
+        },
+        {
+          "en": "it is any photo found on Google",
+          "bm": "ia sebarang gambar di Google"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q16",
+      "subtopicId": "f3ask-05-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps if you receive a suspicious link from an unknown number.",
+        "bm": "Susun langkah jika anda menerima pautan mencurigakan daripada nombor tidak dikenali."
+      },
+      "explanation": {
+        "en": "In Malaysia, scams can be reported to the National Scam Response Centre at 997.",
+        "bm": "Di Malaysia, penipuan boleh dilaporkan kepada Pusat Respons Scam Kebangsaan di talian 997."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Do not click the link",
+          "bm": "Jangan klik pautan"
+        },
+        {
+          "en": "Check with the organisation through its official website or hotline",
+          "bm": "Semak dengan organisasi melalui laman web atau talian rasmi"
+        },
+        {
+          "en": "Report or block the sender",
+          "bm": "Laporkan atau sekat pengirim"
+        },
+        {
+          "en": "Delete the message",
+          "bm": "Padam mesej"
+        }
+      ]
+    },
+    {
+      "id": "f3ask-05-q17",
+      "subtopicId": "f3ask-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A future employer searches your name online. Why does your digital footprint matter?",
+        "bm": "Majikan masa depan mencari nama anda dalam talian. Mengapakah jejak digital anda penting?"
+      },
+      "explanation": {
+        "en": "Think before you post.",
+        "bm": "Fikir sebelum memuat naik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Old posts can affect how others judge your character",
+          "bm": "Hantaran lama boleh mempengaruhi tanggapan orang terhadap peribadi anda"
+        },
+        {
+          "en": "It does not matter at all",
+          "bm": "Langsung tidak penting"
+        },
+        {
+          "en": "Employers cannot use the internet",
+          "bm": "Majikan tidak boleh menggunakan internet"
+        },
+        {
+          "en": "Posts disappear after a day",
+          "bm": "Hantaran hilang selepas sehari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q18",
+      "subtopicId": "f3ask-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which practice protects your school files BEST against ransomware?",
+        "bm": "Amalan manakah PALING melindungi fail sekolah anda daripada perisian tebusan?"
+      },
+      "explanation": {
+        "en": "Backups let you restore files without paying.",
+        "bm": "Sandaran membolehkan fail dipulihkan tanpa membayar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Keep regular backups on a separate drive or cloud, and keep software updated",
+          "bm": "Simpan sandaran berkala dalam pemacu berasingan atau awan, dan kemas kini perisian"
+        },
+        {
+          "en": "Pay the attackers",
+          "bm": "Bayar penyerang"
+        },
+        {
+          "en": "Use the same password everywhere",
+          "bm": "Gunakan kata laluan yang sama di semua tempat"
+        },
+        {
+          "en": "Turn off antivirus",
+          "bm": "Matikan antivirus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q19",
+      "subtopicId": "f3ask-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A classmate shares a screenshot of a private chat to embarrass someone. What is the BEST response?",
+        "bm": "Seorang rakan berkongsi tangkap layar perbualan peribadi untuk memalukan seseorang. Apakah tindakan PALING baik?"
+      },
+      "explanation": {
+        "en": "Bystanders can stop cyberbullying.",
+        "bm": "Pemerhati boleh menghentikan buli siber."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Do not share it further, support the victim and report it to a teacher",
+          "bm": "Jangan kongsi lagi, sokong mangsa dan laporkan kepada guru"
+        },
+        {
+          "en": "Forward it to more friends",
+          "bm": "Hantar kepada lebih ramai kawan"
+        },
+        {
+          "en": "Add a funny comment",
+          "bm": "Tambah komen lucu"
+        },
+        {
+          "en": "Ignore it completely",
+          "bm": "Abaikan sepenuhnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-05-q20",
+      "subtopicId": "f3ask-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the Personal Data Protection Act 2010 matter to ordinary users?",
+        "bm": "Mengapakah Akta Perlindungan Data Peribadi 2010 penting kepada pengguna biasa?"
+      },
+      "explanation": {
+        "en": "Users have rights over how their data is used.",
+        "bm": "Pengguna mempunyai hak terhadap penggunaan data mereka."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It requires organisations to collect and use personal data responsibly",
+          "bm": "Ia mewajibkan organisasi mengumpul dan menggunakan data peribadi secara bertanggungjawab"
+        },
+        {
+          "en": "It bans the internet",
+          "bm": "Ia mengharamkan internet"
+        },
+        {
+          "en": "It allows anyone to sell your data",
+          "bm": "Ia membenarkan sesiapa menjual data anda"
+        },
+        {
+          "en": "It only applies to games",
+          "bm": "Ia hanya untuk permainan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

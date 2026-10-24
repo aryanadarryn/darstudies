@@ -1,0 +1,850 @@
+{
+  "chapterId": "f3psv-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A good logo can be recognised in under a second — even without words. Graphic design is the art of sending a message fast.",
+      "bm": "Logo yang baik boleh dikenali dalam masa kurang sesaat — walaupun tanpa perkataan. Reka bentuk grafik ialah seni menyampaikan mesej dengan pantas."
+    },
+    "bigIdeas": [
+      {
+        "en": "A logo should be simple, memorable, suitable and work in black and white and at small sizes.",
+        "bm": "Logo patut ringkas, mudah diingat, sesuai dan berfungsi dalam hitam putih serta saiz kecil."
+      },
+      {
+        "en": "Typography (choice of fonts) and layout control how easily a message is read.",
+        "bm": "Tipografi (pemilihan fon) dan susun atur mengawal kemudahan mesej dibaca."
+      },
+      {
+        "en": "A poster needs a clear headline, a strong image, key information and visual hierarchy.",
+        "bm": "Poster memerlukan tajuk yang jelas, imej yang kuat, maklumat penting dan hierarki visual."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Brief",
+              "bm": "Taklimat"
+            },
+            "detail": {
+              "en": "Who is it for? What is the message?",
+              "bm": "Untuk siapa? Apakah mesejnya?"
+            }
+          },
+          {
+            "title": {
+              "en": "Research",
+              "bm": "Kajian"
+            },
+            "detail": {
+              "en": "Look at examples and the audience.",
+              "bm": "Lihat contoh dan khalayak."
+            }
+          },
+          {
+            "title": {
+              "en": "Thumbnail sketches",
+              "bm": "Lakaran kecil"
+            },
+            "detail": {
+              "en": "Try many quick ideas.",
+              "bm": "Cuba banyak idea pantas."
+            }
+          },
+          {
+            "title": {
+              "en": "Develop",
+              "bm": "Pemurnian"
+            },
+            "detail": {
+              "en": "Refine one idea: colour, font, layout.",
+              "bm": "Perhalusi satu idea: warna, fon, susun atur."
+            }
+          },
+          {
+            "title": {
+              "en": "Final design",
+              "bm": "Reka bentuk akhir"
+            },
+            "detail": {
+              "en": "Produce and present it.",
+              "bm": "Hasilkan dan persembahkan."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Logo",
+          "bm": "Logo"
+        },
+        "definition": {
+          "en": "A symbol or design that identifies a brand or organisation.",
+          "bm": "Simbol atau reka bentuk yang mengenal pasti jenama atau organisasi."
+        }
+      },
+      {
+        "term": {
+          "en": "Typography",
+          "bm": "Tipografi"
+        },
+        "definition": {
+          "en": "The art of choosing and arranging fonts.",
+          "bm": "Seni memilih dan menyusun fon."
+        }
+      },
+      {
+        "term": {
+          "en": "Serif / sans-serif",
+          "bm": "Serif / sans-serif"
+        },
+        "definition": {
+          "en": "Fonts with small strokes at the ends / without them.",
+          "bm": "Fon dengan garisan kecil di hujung huruf / tanpanya."
+        }
+      },
+      {
+        "term": {
+          "en": "Layout",
+          "bm": "Susun atur"
+        },
+        "definition": {
+          "en": "Arrangement of text and images on a page.",
+          "bm": "Susunan teks dan imej pada halaman."
+        }
+      },
+      {
+        "term": {
+          "en": "Visual hierarchy",
+          "bm": "Hierarki visual"
+        },
+        "definition": {
+          "en": "Ordering elements by importance using size, colour and position.",
+          "bm": "Menyusun unsur mengikut kepentingan menggunakan saiz, warna dan kedudukan."
+        }
+      },
+      {
+        "term": {
+          "en": "White space",
+          "bm": "Ruang putih"
+        },
+        "definition": {
+          "en": "Empty space that makes designs clear and uncluttered.",
+          "bm": "Ruang kosong yang menjadikan reka bentuk jelas dan tidak sesak."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Design a poster for a school recycling campaign. What should be the biggest element?",
+        "bm": "Reka poster untuk kempen kitar semula sekolah. Apakah unsur yang paling besar?"
+      },
+      "steps": [
+        {
+          "en": "Decide the single most important message.",
+          "bm": "Tentukan satu mesej paling penting."
+        },
+        {
+          "en": "Make the headline (e.g. \"Kitar Semula, Selamatkan Bumi!\") or main image largest.",
+          "bm": "Jadikan tajuk (cth. \"Kitar Semula, Selamatkan Bumi!\") atau imej utama paling besar."
+        },
+        {
+          "en": "Put date and place smaller but clear.",
+          "bm": "Letakkan tarikh dan tempat dengan saiz lebih kecil tetapi jelas."
+        }
+      ],
+      "answer": {
+        "en": "The headline or main image — this creates visual hierarchy.",
+        "bm": "Tajuk atau imej utama — ini mewujudkan hierarki visual."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3psv-04-q01",
+      "subtopicId": "f3psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logo is used mainly to…",
+        "bm": "Logo digunakan terutamanya untuk…"
+      },
+      "explanation": {
+        "en": "e.g. a school badge.",
+        "bm": "cth. lencana sekolah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "identify a brand or organisation",
+          "bm": "mengenal pasti jenama atau organisasi"
+        },
+        {
+          "en": "decorate a wall",
+          "bm": "menghias dinding"
+        },
+        {
+          "en": "replace all text",
+          "bm": "menggantikan semua teks"
+        },
+        {
+          "en": "show the price",
+          "bm": "menunjukkan harga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q02",
+      "subtopicId": "f3psv-04-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of a good logo.",
+        "bm": "Pilih SEMUA ciri logo yang baik."
+      },
+      "explanation": {
+        "en": "Too many fonts make it confusing.",
+        "bm": "Terlalu banyak fon mengelirukan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Simple",
+          "bm": "Ringkas"
+        },
+        {
+          "en": "Memorable",
+          "bm": "Mudah diingat"
+        },
+        {
+          "en": "Works at small sizes",
+          "bm": "Jelas pada saiz kecil"
+        },
+        {
+          "en": "Uses ten different fonts",
+          "bm": "Menggunakan sepuluh fon berbeza"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-04-q03",
+      "subtopicId": "f3psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logo made only of the brand name in a special font is a…",
+        "bm": "Logo yang hanya terdiri daripada nama jenama dalam fon khas ialah…"
+      },
+      "explanation": {
+        "en": "Other logos combine a symbol and text.",
+        "bm": "Logo lain menggabungkan simbol dan teks."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "wordmark (logotype)",
+          "bm": "tanda perkataan (logotaip)"
+        },
+        {
+          "en": "pictogram",
+          "bm": "piktogram"
+        },
+        {
+          "en": "poster",
+          "bm": "poster"
+        },
+        {
+          "en": "mascot",
+          "bm": "maskot"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q04",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Typography is the art of…",
+        "bm": "Tipografi ialah seni…"
+      },
+      "explanation": {
+        "en": "Fonts affect mood and readability.",
+        "bm": "Fon mempengaruhi suasana dan kebolehbacaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "choosing and arranging fonts",
+          "bm": "memilih dan menyusun fon"
+        },
+        {
+          "en": "mixing paint",
+          "bm": "mencampur cat"
+        },
+        {
+          "en": "carving wood",
+          "bm": "mengukir kayu"
+        },
+        {
+          "en": "weaving cloth",
+          "bm": "menenun kain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q05",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fonts without small strokes at the ends of letters are called…",
+        "bm": "Fon tanpa garisan kecil di hujung huruf dipanggil…"
+      },
+      "explanation": {
+        "en": "Sans = without.",
+        "bm": "Sans = tanpa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sans-serif",
+          "bm": "sans-serif"
+        },
+        {
+          "en": "serif",
+          "bm": "serif"
+        },
+        {
+          "en": "script",
+          "bm": "script"
+        },
+        {
+          "en": "gothic",
+          "bm": "gothic"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q06",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Empty space around text and images in a design is called…",
+        "bm": "Ruang kosong di sekeliling teks dan imej dalam reka bentuk dipanggil…"
+      },
+      "explanation": {
+        "en": "It does not have to be white.",
+        "bm": "Ia tidak semestinya putih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "white space",
+          "bm": "ruang putih"
+        },
+        {
+          "en": "background noise",
+          "bm": "hingar latar"
+        },
+        {
+          "en": "texture",
+          "bm": "jalinan"
+        },
+        {
+          "en": "a margin error",
+          "bm": "ralat jidar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q07",
+      "subtopicId": "f3psv-04-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The largest and most noticeable text on a poster is usually the ______.",
+        "bm": "Teks paling besar dan menonjol pada poster biasanya ialah ______."
+      },
+      "explanation": {
+        "en": "It states the main message.",
+        "bm": "Ia menyatakan mesej utama."
+      },
+      "difficulty": 1,
+      "answer": [
+        "headline",
+        "title",
+        "tajuk"
+      ]
+    },
+    {
+      "id": "f3psv-04-q08",
+      "subtopicId": "f3psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which information is MOST important on an event poster?",
+        "bm": "Maklumat manakah PALING penting pada poster acara?"
+      },
+      "explanation": {
+        "en": "Readers need the key facts quickly.",
+        "bm": "Pembaca memerlukan fakta penting dengan cepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "What, when and where",
+          "bm": "Apa, bila dan di mana"
+        },
+        {
+          "en": "The designer's hobbies",
+          "bm": "Hobi pereka"
+        },
+        {
+          "en": "A long history of the school",
+          "bm": "Sejarah panjang sekolah"
+        },
+        {
+          "en": "Unrelated jokes",
+          "bm": "Jenaka yang tidak berkaitan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q09",
+      "subtopicId": "f3psv-04-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the graphic design process.",
+        "bm": "Susun proses reka bentuk grafik."
+      },
+      "explanation": {
+        "en": "Thumbnails let you test many ideas quickly.",
+        "bm": "Lakaran kecil membolehkan banyak idea diuji dengan cepat."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Read the brief",
+          "bm": "Baca taklimat"
+        },
+        {
+          "en": "Research",
+          "bm": "Kajian"
+        },
+        {
+          "en": "Thumbnail sketches",
+          "bm": "Lakaran kecil"
+        },
+        {
+          "en": "Develop one idea",
+          "bm": "Murnikan satu idea"
+        },
+        {
+          "en": "Final design",
+          "bm": "Reka bentuk akhir"
+        }
+      ]
+    },
+    {
+      "id": "f3psv-04-q10",
+      "subtopicId": "f3psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should a logo also work in black and white?",
+        "bm": "Mengapakah logo juga perlu berfungsi dalam hitam putih?"
+      },
+      "explanation": {
+        "en": "A strong shape works in any colour.",
+        "bm": "Rupa yang kuat berfungsi dalam apa-apa warna."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It may be printed in one colour, stamped or faxed",
+          "bm": "Ia mungkin dicetak satu warna, dicop atau difotokopi"
+        },
+        {
+          "en": "Colour is not allowed",
+          "bm": "Warna tidak dibenarkan"
+        },
+        {
+          "en": "Black and white is cheaper to design",
+          "bm": "Hitam putih lebih murah direka"
+        },
+        {
+          "en": "It does not matter",
+          "bm": "Tidak penting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q11",
+      "subtopicId": "f3psv-04-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each font style with a suitable use.",
+        "bm": "Padankan gaya fon dengan kegunaan yang sesuai."
+      },
+      "explanation": {
+        "en": "Match the font to the audience and mood.",
+        "bm": "Padankan fon dengan khalayak dan suasana."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Bold sans-serif",
+            "bm": "Sans-serif tebal"
+          },
+          "right": {
+            "en": "Clear road signs and headlines",
+            "bm": "Papan tanda dan tajuk yang jelas"
+          }
+        },
+        {
+          "left": {
+            "en": "Elegant script",
+            "bm": "Skrip anggun"
+          },
+          "right": {
+            "en": "Wedding invitations",
+            "bm": "Kad jemputan perkahwinan"
+          }
+        },
+        {
+          "left": {
+            "en": "Serif",
+            "bm": "Serif"
+          },
+          "right": {
+            "en": "Long printed text in books",
+            "bm": "Teks panjang dalam buku bercetak"
+          }
+        },
+        {
+          "left": {
+            "en": "Playful rounded font",
+            "bm": "Fon bulat ceria"
+          },
+          "right": {
+            "en": "Children's event posters",
+            "bm": "Poster acara kanak-kanak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3psv-04-q12",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A poster uses six different fonts. What is the likely problem?",
+        "bm": "Sebuah poster menggunakan enam fon berbeza. Apakah masalah yang mungkin?"
+      },
+      "explanation": {
+        "en": "Two or three fonts are usually enough.",
+        "bm": "Dua atau tiga fon biasanya memadai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It looks messy and is hard to read",
+          "bm": "Ia kelihatan bercelaru dan sukar dibaca"
+        },
+        {
+          "en": "It is too simple",
+          "bm": "Ia terlalu ringkas"
+        },
+        {
+          "en": "It has too much white space",
+          "bm": "Ia mempunyai terlalu banyak ruang putih"
+        },
+        {
+          "en": "Nothing",
+          "bm": "Tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q13",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Visual hierarchy is created mainly by…",
+        "bm": "Hierarki visual diwujudkan terutamanya melalui…"
+      },
+      "explanation": {
+        "en": "The eye goes to the biggest, boldest element first.",
+        "bm": "Mata tertumpu pada unsur paling besar dan tebal dahulu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "size, colour, contrast and position",
+          "bm": "saiz, warna, kontra dan kedudukan"
+        },
+        {
+          "en": "random placement",
+          "bm": "kedudukan rawak"
+        },
+        {
+          "en": "using one size for everything",
+          "bm": "satu saiz untuk semua"
+        },
+        {
+          "en": "hiding the headline",
+          "bm": "menyembunyikan tajuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q14",
+      "subtopicId": "f3psv-04-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL ways to make poster text easy to read from a distance.",
+        "bm": "Pilih SEMUA cara menjadikan teks poster mudah dibaca dari jauh."
+      },
+      "explanation": {
+        "en": "Busy backgrounds reduce readability.",
+        "bm": "Latar yang sesak mengurangkan kebolehbacaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Large font size",
+          "bm": "Saiz fon besar"
+        },
+        {
+          "en": "Strong contrast with the background",
+          "bm": "Kontra kuat dengan latar"
+        },
+        {
+          "en": "Short, clear phrases",
+          "bm": "Frasa pendek dan jelas"
+        },
+        {
+          "en": "Thin light text on a busy photo",
+          "bm": "Teks nipis cerah di atas foto yang sesak"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3psv-04-q15",
+      "subtopicId": "f3psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A digital banner for a website should be…",
+        "bm": "Sepanduk digital untuk laman web patut…"
+      },
+      "explanation": {
+        "en": "Design for the screen it will appear on.",
+        "bm": "Reka mengikut skrin yang akan memaparkannya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the right pixel size, clear and quick to load",
+          "bm": "bersaiz piksel yang betul, jelas dan cepat dimuatkan"
+        },
+        {
+          "en": "as large a file as possible",
+          "bm": "bersaiz fail sebesar mungkin"
+        },
+        {
+          "en": "full of tiny text",
+          "bm": "penuh dengan teks kecil"
+        },
+        {
+          "en": "blurry",
+          "bm": "kabur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q16",
+      "subtopicId": "f3psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pictogram, like a toilet sign, is effective because…",
+        "bm": "Piktogram, seperti tanda tandas, berkesan kerana…"
+      },
+      "explanation": {
+        "en": "Useful for visitors who speak different languages.",
+        "bm": "Berguna untuk pelawat yang bertutur bahasa berbeza."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "people understand it without reading words",
+          "bm": "orang memahaminya tanpa membaca perkataan"
+        },
+        {
+          "en": "it has many colours",
+          "bm": "ia berwarna-warni"
+        },
+        {
+          "en": "it is very detailed",
+          "bm": "ia sangat terperinci"
+        },
+        {
+          "en": "it uses long sentences",
+          "bm": "ia menggunakan ayat panjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q17",
+      "subtopicId": "f3psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A café run by a Malaysian family wants a logo showing local identity. Which idea is BEST?",
+        "bm": "Sebuah kafe milik keluarga Malaysia mahukan logo yang menunjukkan identiti tempatan. Idea manakah PALING baik?"
+      },
+      "explanation": {
+        "en": "Simple + meaningful + original.",
+        "bm": "Ringkas + bermakna + asli."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A simple coffee cup combined with a stylised hibiscus or wau shape",
+          "bm": "Cawan kopi ringkas digabungkan dengan bentuk bunga raya atau wau yang digayakan"
+        },
+        {
+          "en": "A complex photo of the whole café",
+          "bm": "Gambar terperinci seluruh kafe"
+        },
+        {
+          "en": "Ten fonts and many colours",
+          "bm": "Sepuluh fon dan banyak warna"
+        },
+        {
+          "en": "A copy of a famous brand's logo",
+          "bm": "Tiruan logo jenama terkenal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q18",
+      "subtopicId": "f3psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do designers make several thumbnail sketches before the final design?",
+        "bm": "Mengapakah pereka membuat beberapa lakaran kecil sebelum reka bentuk akhir?"
+      },
+      "explanation": {
+        "en": "The first idea is rarely the best.",
+        "bm": "Idea pertama jarang menjadi yang terbaik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To explore and compare ideas quickly before committing",
+          "bm": "Untuk meneroka dan membandingkan idea dengan cepat sebelum membuat keputusan"
+        },
+        {
+          "en": "To waste paper",
+          "bm": "Untuk membazir kertas"
+        },
+        {
+          "en": "Clients require exactly ten",
+          "bm": "Pelanggan mewajibkan tepat sepuluh"
+        },
+        {
+          "en": "Thumbnails are the final product",
+          "bm": "Lakaran kecil ialah produk akhir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q19",
+      "subtopicId": "f3psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A safety poster has small grey text on a dark blue background. How should it be improved?",
+        "bm": "Poster keselamatan mempunyai teks kelabu kecil di atas latar biru gelap. Bagaimanakah ia patut diperbaiki?"
+      },
+      "explanation": {
+        "en": "Contrast and size improve readability.",
+        "bm": "Kontra dan saiz meningkatkan kebolehbacaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Use larger white or yellow text for stronger contrast",
+          "bm": "Gunakan teks putih atau kuning yang lebih besar untuk kontra yang lebih kuat"
+        },
+        {
+          "en": "Make the text smaller",
+          "bm": "Kecilkan teks"
+        },
+        {
+          "en": "Change the text to dark blue",
+          "bm": "Tukar teks kepada biru gelap"
+        },
+        {
+          "en": "Remove the headline",
+          "bm": "Buang tajuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3psv-04-q20",
+      "subtopicId": "f3psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is copying another company's logo wrong even if you change the colour?",
+        "bm": "Mengapakah meniru logo syarikat lain salah walaupun warnanya diubah?"
+      },
+      "explanation": {
+        "en": "Logos are protected as trademarks.",
+        "bm": "Logo dilindungi sebagai cap dagangan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It breaks intellectual property rights and confuses customers",
+          "bm": "Ia melanggar hak harta intelek dan mengelirukan pelanggan"
+        },
+        {
+          "en": "Colours cannot be changed",
+          "bm": "Warna tidak boleh diubah"
+        },
+        {
+          "en": "Logos are free to use",
+          "bm": "Logo bebas digunakan"
+        },
+        {
+          "en": "It is always allowed",
+          "bm": "Ia sentiasa dibenarkan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

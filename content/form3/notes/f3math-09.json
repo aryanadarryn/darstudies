@@ -1,0 +1,40 @@
+{
+  "chapterId": "f3math-09",
+  "reviewed": false,
+  "subtopics": {
+    "f3math-09-01": {
+      "keyPoints": [
+        {
+          "en": "Gradient m = (y₂ − y₁)/(x₂ − x₁) = −(y-intercept)/(x-intercept).",
+          "bm": "Kecerunan m = (y₂ − y₁)/(x₂ − x₁) = −(pintasan-y)/(pintasan-x)."
+        },
+        {
+          "en": "y = mx + c: m is the gradient, c is the y-intercept. Rearrange ax + by = c into this form to read m.",
+          "bm": "y = mx + c: m ialah kecerunan, c ialah pintasan-y. Susun semula ax + by = c ke bentuk ini untuk membaca m."
+        },
+        {
+          "en": "Horizontal: y = a (m = 0). Vertical: x = a (m undefined).",
+          "bm": "Mengufuk: y = a (m = 0). Mencancang: x = a (m tidak tertakrif)."
+        },
+        {
+          "en": "Parallel lines have the same gradient. Find intersections by solving simultaneously.",
+          "bm": "Garis selari mempunyai kecerunan sama. Cari persilangan dengan menyelesaikan secara serentak."
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Equation of the line with gradient 3 through (1, 2)?",
+          "bm": "Persamaan garis berkecerunan 3 melalui (1, 2)?"
+        },
+        "answer": {
+          "en": "2 = 3(1) + c → c = −1, so y = 3x − 1.",
+          "bm": "2 = 3(1) + c → c = −1, jadi y = 3x − 1."
+        }
+      },
+      "tip": {
+        "en": "Keep the same order of points on top and bottom when finding the gradient.",
+        "bm": "Kekalkan susunan titik yang sama di atas dan bawah semasa mencari kecerunan."
+      }
+    }
+  }
+}

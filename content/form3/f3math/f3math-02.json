@@ -1,0 +1,709 @@
+{
+  "chapterId": "f3math-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The Sun is about 150 000 000 km away and a red blood cell is about 0.000 008 m wide. Writing so many zeros is slow and risky — standard form fixes that.",
+      "bm": "Matahari berjarak kira-kira 150 000 000 km dan sel darah merah berlebar kira-kira 0.000 008 m. Menulis banyak sifar lambat dan berisiko — bentuk piawai menyelesaikannya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Significant figures show how precise a number is.",
+        "bm": "Angka bererti menunjukkan kejituan sesuatu nombor."
+      },
+      {
+        "en": "Standard form is A × 10ⁿ where 1 ≤ A < 10 and n is an integer.",
+        "bm": "Bentuk piawai ialah A × 10ⁿ dengan 1 ≤ A < 10 dan n ialah integer."
+      },
+      {
+        "en": "Large numbers have a positive n; small numbers (less than 1) have a negative n.",
+        "bm": "Nombor besar mempunyai n positif; nombor kecil (kurang daripada 1) mempunyai n negatif."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Is it significant?",
+            "bm": "Bererti?"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Non-zero digits",
+              "bm": "Digit bukan sifar"
+            },
+            "cells": [
+              {
+                "en": "Always",
+                "bm": "Sentiasa"
+              },
+              {
+                "en": "47.3 → 3 s.f.",
+                "bm": "47.3 → 3 a.b."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Zeros between non-zero digits",
+              "bm": "Sifar di antara digit bukan sifar"
+            },
+            "cells": [
+              {
+                "en": "Always",
+                "bm": "Sentiasa"
+              },
+              {
+                "en": "5 006 → 4 s.f.",
+                "bm": "5 006 → 4 a.b."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Leading zeros",
+              "bm": "Sifar di hadapan"
+            },
+            "cells": [
+              {
+                "en": "Never",
+                "bm": "Tidak"
+              },
+              {
+                "en": "0.003 2 → 2 s.f.",
+                "bm": "0.003 2 → 2 a.b."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Trailing zeros after the decimal point",
+              "bm": "Sifar di belakang selepas titik perpuluhan"
+            },
+            "cells": [
+              {
+                "en": "Always",
+                "bm": "Sentiasa"
+              },
+              {
+                "en": "2.50 → 3 s.f.",
+                "bm": "2.50 → 3 a.b."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Significant figures (s.f.)",
+          "bm": "Angka bererti (a.b.)"
+        },
+        "definition": {
+          "en": "Digits that carry meaning about the precision of a number.",
+          "bm": "Digit yang memberi makna tentang kejituan nombor."
+        }
+      },
+      {
+        "term": {
+          "en": "Standard form",
+          "bm": "Bentuk piawai"
+        },
+        "definition": {
+          "en": "A × 10ⁿ, 1 ≤ A < 10, n an integer.",
+          "bm": "A × 10ⁿ, 1 ≤ A < 10, n integer."
+        }
+      },
+      {
+        "term": {
+          "en": "Rounding",
+          "bm": "Pembundaran"
+        },
+        "definition": {
+          "en": "Shortening a number to a given number of significant figures.",
+          "bm": "Memendekkan nombor kepada bilangan angka bererti tertentu."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f3-std"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Write 0.000 405 6 in standard form correct to 3 significant figures.",
+        "bm": "Tulis 0.000 405 6 dalam bentuk piawai betul kepada 3 angka bererti."
+      },
+      "steps": [
+        {
+          "en": "Round to 3 s.f.: 0.000 405 6 → 0.000 406 (the 4th s.f. is 6, so round up).",
+          "bm": "Bundarkan kepada 3 a.b.: 0.000 405 6 → 0.000 406 (a.b. ke-4 ialah 6, jadi bundar ke atas)."
+        },
+        {
+          "en": "Move the decimal point 4 places right to get 4.06.",
+          "bm": "Gerakkan titik perpuluhan 4 tempat ke kanan untuk mendapat 4.06."
+        },
+        {
+          "en": "The number is less than 1, so the index is −4.",
+          "bm": "Nombor kurang daripada 1, jadi indeksnya −4."
+        }
+      ],
+      "answer": {
+        "en": "4.06 × 10⁻⁴",
+        "bm": "4.06 × 10⁻⁴"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3math-02-q01",
+      "subtopicId": "f3math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many significant figures are in 2.507?",
+        "bm": "Berapakah angka bererti dalam 2.507?"
+      },
+      "explanation": {
+        "en": "All four digits count; the zero is between non-zero digits.",
+        "bm": "Keempat-empat digit dikira; sifar berada di antara digit bukan sifar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q02",
+      "subtopicId": "f3math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many significant figures are in 0.006 20?",
+        "bm": "Berapakah angka bererti dalam 0.006 20?"
+      },
+      "explanation": {
+        "en": "Leading zeros do not count; 6, 2 and the final 0 (after the decimal point) do.",
+        "bm": "Sifar di hadapan tidak dikira; 6, 2 dan sifar terakhir (selepas titik perpuluhan) dikira."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q03",
+      "subtopicId": "f3math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Round 4.786 to 2 significant figures.",
+        "bm": "Bundarkan 4.786 kepada 2 angka bererti."
+      },
+      "explanation": {
+        "en": "The third digit is 8 (≥ 5), so 4.7 rounds up to 4.8.",
+        "bm": "Digit ketiga ialah 8 (≥ 5), jadi 4.7 dibundarkan kepada 4.8."
+      },
+      "difficulty": 1,
+      "answer": 4.8,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-02-q04",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Write 45 000 in standard form.",
+        "bm": "Tulis 45 000 dalam bentuk piawai."
+      },
+      "explanation": {
+        "en": "Move the decimal point 4 places left: 4.5 × 10⁴.",
+        "bm": "Gerakkan titik perpuluhan 4 tempat ke kiri: 4.5 × 10⁴."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4.5 × 10⁴",
+          "bm": "4.5 × 10⁴"
+        },
+        {
+          "en": "45 × 10³",
+          "bm": "45 × 10³"
+        },
+        {
+          "en": "4.5 × 10³",
+          "bm": "4.5 × 10³"
+        },
+        {
+          "en": "0.45 × 10⁵",
+          "bm": "0.45 × 10⁵"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q05",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Write 0.000 32 in standard form.",
+        "bm": "Tulis 0.000 32 dalam bentuk piawai."
+      },
+      "explanation": {
+        "en": "Move the decimal point 4 places right; the number is less than 1 so the index is negative.",
+        "bm": "Gerakkan titik perpuluhan 4 tempat ke kanan; nombor kurang daripada 1 jadi indeksnya negatif."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "3.2 × 10⁻⁴",
+          "bm": "3.2 × 10⁻⁴"
+        },
+        {
+          "en": "3.2 × 10⁴",
+          "bm": "3.2 × 10⁴"
+        },
+        {
+          "en": "32 × 10⁻⁵",
+          "bm": "32 × 10⁻⁵"
+        },
+        {
+          "en": "3.2 × 10⁻³",
+          "bm": "3.2 × 10⁻³"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q06",
+      "subtopicId": "f3math-02-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In standard form A × 10ⁿ, A must satisfy 1 ≤ A < ______.",
+        "bm": "Dalam bentuk piawai A × 10ⁿ, A mesti memenuhi 1 ≤ A < ______."
+      },
+      "explanation": {
+        "en": "A is at least 1 and less than 10.",
+        "bm": "A sekurang-kurangnya 1 dan kurang daripada 10."
+      },
+      "difficulty": 1,
+      "answer": [
+        "10"
+      ]
+    },
+    {
+      "id": "f3math-02-q07",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which number is written in standard form?",
+        "bm": "Nombor manakah ditulis dalam bentuk piawai?"
+      },
+      "explanation": {
+        "en": "Only 7.2 × 10⁵ has 1 ≤ A < 10 and a power of 10.",
+        "bm": "Hanya 7.2 × 10⁵ mempunyai 1 ≤ A < 10 dan kuasa 10."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "7.2 × 10⁵",
+          "bm": "7.2 × 10⁵"
+        },
+        {
+          "en": "72 × 10⁴",
+          "bm": "72 × 10⁴"
+        },
+        {
+          "en": "0.72 × 10⁶",
+          "bm": "0.72 × 10⁶"
+        },
+        {
+          "en": "7.2 × 5¹⁰",
+          "bm": "7.2 × 5¹⁰"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q08",
+      "subtopicId": "f3math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Write 6.1 × 10³ as an ordinary number.",
+        "bm": "Tulis 6.1 × 10³ sebagai nombor tunggal."
+      },
+      "explanation": {
+        "en": "Move the decimal point 3 places right: 6100.",
+        "bm": "Gerakkan titik perpuluhan 3 tempat ke kanan: 6100."
+      },
+      "difficulty": 1,
+      "answer": 6100,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-02-q09",
+      "subtopicId": "f3math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Round 0.004 568 to 3 significant figures.",
+        "bm": "Bundarkan 0.004 568 kepada 3 angka bererti."
+      },
+      "explanation": {
+        "en": "The significant digits are 4, 5, 6, 8; the 4th (8) rounds the 6 up: 0.004 57.",
+        "bm": "Digit bererti ialah 4, 5, 6, 8; digit ke-4 (8) membundarkan 6 ke atas: 0.004 57."
+      },
+      "difficulty": 2,
+      "answer": 0.00457,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-02-q10",
+      "subtopicId": "f3math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Round 72 649 to 2 significant figures.",
+        "bm": "Bundarkan 72 649 kepada 2 angka bererti."
+      },
+      "explanation": {
+        "en": "The third digit is 6 (≥ 5), so 72 becomes 73, and the other places become zeros: 73 000.",
+        "bm": "Digit ketiga ialah 6 (≥ 5), jadi 72 menjadi 73, dan tempat lain menjadi sifar: 73 000."
+      },
+      "difficulty": 2,
+      "answer": 73000,
+      "tolerance": 0
+    },
+    {
+      "id": "f3math-02-q11",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Calculate (3 × 10⁴) × (2 × 10³).",
+        "bm": "Hitung (3 × 10⁴) × (2 × 10³)."
+      },
+      "explanation": {
+        "en": "Multiply 3 × 2 = 6 and add the indices 4 + 3 = 7.",
+        "bm": "Darab 3 × 2 = 6 dan tambah indeks 4 + 3 = 7."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "6 × 10⁷",
+          "bm": "6 × 10⁷"
+        },
+        {
+          "en": "6 × 10¹²",
+          "bm": "6 × 10¹²"
+        },
+        {
+          "en": "5 × 10⁷",
+          "bm": "5 × 10⁷"
+        },
+        {
+          "en": "6 × 10¹",
+          "bm": "6 × 10¹"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q12",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Calculate (8 × 10⁶) ÷ (4 × 10²).",
+        "bm": "Hitung (8 × 10⁶) ÷ (4 × 10²)."
+      },
+      "explanation": {
+        "en": "8 ÷ 4 = 2 and 6 − 2 = 4.",
+        "bm": "8 ÷ 4 = 2 dan 6 − 2 = 4."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2 × 10⁴",
+          "bm": "2 × 10⁴"
+        },
+        {
+          "en": "2 × 10³",
+          "bm": "2 × 10³"
+        },
+        {
+          "en": "4 × 10⁴",
+          "bm": "4 × 10⁴"
+        },
+        {
+          "en": "2 × 10⁸",
+          "bm": "2 × 10⁸"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q13",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Calculate (5 × 10³) × (4 × 10²). Give the answer in standard form.",
+        "bm": "Hitung (5 × 10³) × (4 × 10²). Beri jawapan dalam bentuk piawai."
+      },
+      "explanation": {
+        "en": "20 × 10⁵ is not standard form; 20 = 2 × 10¹, so the answer is 2 × 10⁶.",
+        "bm": "20 × 10⁵ bukan bentuk piawai; 20 = 2 × 10¹, jadi jawapannya 2 × 10⁶."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2 × 10⁶",
+          "bm": "2 × 10⁶"
+        },
+        {
+          "en": "20 × 10⁵",
+          "bm": "20 × 10⁵"
+        },
+        {
+          "en": "2 × 10⁵",
+          "bm": "2 × 10⁵"
+        },
+        {
+          "en": "9 × 10⁵",
+          "bm": "9 × 10⁵"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q14",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Calculate 3.2 × 10⁴ + 5 × 10³.",
+        "bm": "Hitung 3.2 × 10⁴ + 5 × 10³."
+      },
+      "explanation": {
+        "en": "32 000 + 5 000 = 37 000 = 3.7 × 10⁴.",
+        "bm": "32 000 + 5 000 = 37 000 = 3.7 × 10⁴."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "3.7 × 10⁴",
+          "bm": "3.7 × 10⁴"
+        },
+        {
+          "en": "8.2 × 10⁴",
+          "bm": "8.2 × 10⁴"
+        },
+        {
+          "en": "8.2 × 10⁷",
+          "bm": "8.2 × 10⁷"
+        },
+        {
+          "en": "3.25 × 10⁴",
+          "bm": "3.25 × 10⁴"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q15",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Express 2.5 km in centimetres, in standard form.",
+        "bm": "Ungkapkan 2.5 km dalam sentimeter, dalam bentuk piawai."
+      },
+      "explanation": {
+        "en": "1 km = 1000 m = 100 000 cm, so 2.5 km = 250 000 cm = 2.5 × 10⁵ cm.",
+        "bm": "1 km = 1000 m = 100 000 cm, jadi 2.5 km = 250 000 cm = 2.5 × 10⁵ cm."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2.5 × 10⁵ cm",
+          "bm": "2.5 × 10⁵ cm"
+        },
+        {
+          "en": "2.5 × 10³ cm",
+          "bm": "2.5 × 10³ cm"
+        },
+        {
+          "en": "2.5 × 10⁴ cm",
+          "bm": "2.5 × 10⁴ cm"
+        },
+        {
+          "en": "2.5 × 10⁶ cm",
+          "bm": "2.5 × 10⁶ cm"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q16",
+      "subtopicId": "f3math-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange from smallest to largest.",
+        "bm": "Susun daripada terkecil hingga terbesar."
+      },
+      "explanation": {
+        "en": "0.031 < 0.29 < 1.5 < 400.",
+        "bm": "0.031 < 0.29 < 1.5 < 400."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "3.1 × 10⁻²",
+          "bm": "3.1 × 10⁻²"
+        },
+        {
+          "en": "2.9 × 10⁻¹",
+          "bm": "2.9 × 10⁻¹"
+        },
+        {
+          "en": "1.5 × 10⁰",
+          "bm": "1.5 × 10⁰"
+        },
+        {
+          "en": "4 × 10²",
+          "bm": "4 × 10²"
+        }
+      ]
+    },
+    {
+      "id": "f3math-02-q17",
+      "subtopicId": "f3math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Light travels about 3 × 10⁵ km per second. The Sun is about 1.5 × 10⁸ km from Earth. How many seconds does sunlight take to reach Earth?",
+        "bm": "Cahaya bergerak kira-kira 3 × 10⁵ km sesaat. Matahari berjarak kira-kira 1.5 × 10⁸ km dari Bumi. Berapa saatkah cahaya matahari mengambil masa untuk sampai ke Bumi?"
+      },
+      "explanation": {
+        "en": "Time = distance ÷ speed = (1.5 × 10⁸) ÷ (3 × 10⁵) = 0.5 × 10³ = 500 s (about 8 minutes).",
+        "bm": "Masa = jarak ÷ laju = (1.5 × 10⁸) ÷ (3 × 10⁵) = 0.5 × 10³ = 500 s (kira-kira 8 minit)."
+      },
+      "difficulty": 3,
+      "answer": 500,
+      "tolerance": 0,
+      "unit": "s"
+    },
+    {
+      "id": "f3math-02-q18",
+      "subtopicId": "f3math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A rectangle measures 4 × 10³ cm by 2.5 × 10² cm. Find its area in cm² (as an ordinary number).",
+        "bm": "Sebuah segi empat tepat berukuran 4 × 10³ cm dan 2.5 × 10² cm. Cari luasnya dalam cm² (sebagai nombor tunggal)."
+      },
+      "explanation": {
+        "en": "4 × 2.5 = 10 and 10³ × 10² = 10⁵, so 10 × 10⁵ = 10⁶ = 1 000 000 cm².",
+        "bm": "4 × 2.5 = 10 dan 10³ × 10² = 10⁵, jadi 10 × 10⁵ = 10⁶ = 1 000 000 cm²."
+      },
+      "difficulty": 3,
+      "answer": 1000000,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f3math-02-q19",
+      "subtopicId": "f3math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Calculate (6.4 × 10⁻³) ÷ (1.6 × 10⁻⁵).",
+        "bm": "Hitung (6.4 × 10⁻³) ÷ (1.6 × 10⁻⁵)."
+      },
+      "explanation": {
+        "en": "6.4 ÷ 1.6 = 4 and −3 − (−5) = 2.",
+        "bm": "6.4 ÷ 1.6 = 4 dan −3 − (−5) = 2."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "4 × 10²",
+          "bm": "4 × 10²"
+        },
+        {
+          "en": "4 × 10⁻⁸",
+          "bm": "4 × 10⁻⁸"
+        },
+        {
+          "en": "4 × 10⁻²",
+          "bm": "4 × 10⁻²"
+        },
+        {
+          "en": "4 × 10⁸",
+          "bm": "4 × 10⁸"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3math-02-q20",
+      "subtopicId": "f3math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A student says 0.050 5 has 4 significant figures. What is correct?",
+        "bm": "Seorang murid berkata 0.050 5 mempunyai 4 angka bererti. Apakah yang betul?"
+      },
+      "explanation": {
+        "en": "Count from the first non-zero digit: 5, 0, 5 → 3 s.f.",
+        "bm": "Kira dari digit bukan sifar pertama: 5, 0, 5 → 3 a.b."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It has 3 s.f.: leading zeros are not significant",
+          "bm": "Ia mempunyai 3 a.b.: sifar di hadapan tidak bererti"
+        },
+        {
+          "en": "It has 4 s.f.",
+          "bm": "Ia mempunyai 4 a.b."
+        },
+        {
+          "en": "It has 5 s.f.",
+          "bm": "Ia mempunyai 5 a.b."
+        },
+        {
+          "en": "It has 2 s.f.",
+          "bm": "Ia mempunyai 2 a.b."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

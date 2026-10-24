@@ -1,0 +1,822 @@
+{
+  "chapterId": "f3bi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Good readers do not read every word with the same attention. They hunt for the main idea, check facts against opinions, and read between the lines.",
+      "bm": "Pembaca yang baik tidak membaca setiap perkataan dengan perhatian yang sama. Mereka mencari idea utama, membezakan fakta dan pendapat, serta membaca maksud tersirat."
+    },
+    "bigIdeas": [
+      {
+        "en": "The main idea is what the whole paragraph is about; supporting details explain or prove it.",
+        "bm": "Idea utama ialah perkara yang dibincangkan oleh keseluruhan perenggan; butiran sokongan menerangkan atau membuktikannya."
+      },
+      {
+        "en": "A fact can be checked; an opinion shows a feeling or belief (I think, the best, delicious).",
+        "bm": "Fakta boleh disemak; pendapat menunjukkan perasaan atau kepercayaan (I think, the best, delicious)."
+      },
+      {
+        "en": "Inference means using clues in the text to work out what is not stated directly.",
+        "bm": "Inferens bermaksud menggunakan petunjuk dalam teks untuk memahami perkara yang tidak dinyatakan secara langsung."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Skim",
+              "bm": "Baca luncur"
+            },
+            "detail": {
+              "en": "Read the title, first and last lines for the gist.",
+              "bm": "Baca tajuk, ayat pertama dan terakhir untuk gambaran umum."
+            }
+          },
+          {
+            "title": {
+              "en": "Scan",
+              "bm": "Baca imbas"
+            },
+            "detail": {
+              "en": "Look quickly for names, numbers and keywords.",
+              "bm": "Cari nama, nombor dan kata kunci dengan cepat."
+            }
+          },
+          {
+            "title": {
+              "en": "Read closely",
+              "bm": "Baca teliti"
+            },
+            "detail": {
+              "en": "Find the main idea and supporting details.",
+              "bm": "Cari idea utama dan butiran sokongan."
+            }
+          },
+          {
+            "title": {
+              "en": "Infer",
+              "bm": "Buat inferens"
+            },
+            "detail": {
+              "en": "Use clues to understand hidden meaning.",
+              "bm": "Gunakan petunjuk untuk memahami maksud tersirat."
+            }
+          },
+          {
+            "title": {
+              "en": "Summarise",
+              "bm": "Meringkaskan"
+            },
+            "detail": {
+              "en": "Rewrite the key points in your own words.",
+              "bm": "Tulis semula isi penting dengan perkataan sendiri."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Skimming",
+          "bm": "Baca luncur"
+        },
+        "definition": {
+          "en": "Reading quickly for the general idea.",
+          "bm": "Membaca dengan cepat untuk idea umum."
+        }
+      },
+      {
+        "term": {
+          "en": "Scanning",
+          "bm": "Baca imbas"
+        },
+        "definition": {
+          "en": "Searching for specific information.",
+          "bm": "Mencari maklumat khusus."
+        }
+      },
+      {
+        "term": {
+          "en": "Topic sentence",
+          "bm": "Ayat topik"
+        },
+        "definition": {
+          "en": "The sentence that states the main idea.",
+          "bm": "Ayat yang menyatakan idea utama."
+        }
+      },
+      {
+        "term": {
+          "en": "Fact",
+          "bm": "Fakta"
+        },
+        "definition": {
+          "en": "A statement that can be proved true.",
+          "bm": "Kenyataan yang boleh dibuktikan benar."
+        }
+      },
+      {
+        "term": {
+          "en": "Opinion",
+          "bm": "Pendapat"
+        },
+        "definition": {
+          "en": "A personal view or feeling.",
+          "bm": "Pandangan atau perasaan peribadi."
+        }
+      },
+      {
+        "term": {
+          "en": "Inference",
+          "bm": "Inferens"
+        },
+        "definition": {
+          "en": "A logical conclusion from clues.",
+          "bm": "Kesimpulan logik daripada petunjuk."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Read: \"Durians are often called the \"King of Fruits\" in Malaysia. Malaysia exports durians to several countries, including China. Many people think the Musang King variety is the most delicious. However, the fruit's strong smell means it is banned on many buses and in some hotels.\" Which sentence is an opinion?",
+        "bm": "Baca: \"Durians are often called the \"King of Fruits\" in Malaysia. Malaysia exports durians to several countries, including China. Many people think the Musang King variety is the most delicious. However, the fruit's strong smell means it is banned on many buses and in some hotels.\" Ayat manakah pendapat?"
+      },
+      "steps": [
+        {
+          "en": "Check each sentence: can it be proved?",
+          "bm": "Semak setiap ayat: bolehkah ia dibuktikan?"
+        },
+        {
+          "en": "\"Malaysia exports durians to China\" can be checked in trade records → fact.",
+          "bm": "\"Malaysia exports durians to China\" boleh disemak dalam rekod perdagangan → fakta."
+        },
+        {
+          "en": "\"Musang King is the most delicious\" depends on taste → opinion.",
+          "bm": "\"Musang King is the most delicious\" bergantung pada citarasa → pendapat."
+        }
+      ],
+      "answer": {
+        "en": "Many people think the Musang King variety is the most delicious.",
+        "bm": "Many people think the Musang King variety is the most delicious."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bi-04-q01",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Reading quickly to get the general idea of a text is called…",
+        "bm": "Reading quickly to get the general idea of a text is called…"
+      },
+      "explanation": {
+        "en": "Scanning is for specific details.",
+        "bm": "Scanning untuk butiran khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "skimming",
+          "bm": "skimming"
+        },
+        {
+          "en": "scanning",
+          "bm": "scanning"
+        },
+        {
+          "en": "summarising",
+          "bm": "summarising"
+        },
+        {
+          "en": "predicting",
+          "bm": "predicting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q02",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You look through a timetable to find when the next train leaves. This is…",
+        "bm": "You look through a timetable to find when the next train leaves. This is…"
+      },
+      "explanation": {
+        "en": "You are searching for one specific piece of information.",
+        "bm": "Anda mencari satu maklumat khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "scanning",
+          "bm": "scanning"
+        },
+        {
+          "en": "skimming",
+          "bm": "skimming"
+        },
+        {
+          "en": "inferring",
+          "bm": "inferring"
+        },
+        {
+          "en": "summarising",
+          "bm": "summarising"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q03",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The sentence that states the main idea of a paragraph is the…",
+        "bm": "The sentence that states the main idea of a paragraph is the…"
+      },
+      "explanation": {
+        "en": "It is often the first sentence.",
+        "bm": "Ia sering ayat pertama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "topic sentence",
+          "bm": "topic sentence"
+        },
+        {
+          "en": "supporting detail",
+          "bm": "supporting detail"
+        },
+        {
+          "en": "conclusion only",
+          "bm": "conclusion only"
+        },
+        {
+          "en": "title",
+          "bm": "title"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q04",
+      "subtopicId": "f3bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a FACT?",
+        "bm": "Which is a FACT?"
+      },
+      "explanation": {
+        "en": "It can be checked.",
+        "bm": "Ia boleh disemak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kuala Lumpur is the capital of Malaysia.",
+          "bm": "Kuala Lumpur is the capital of Malaysia."
+        },
+        {
+          "en": "Kuala Lumpur is the best city in the world.",
+          "bm": "Kuala Lumpur is the best city in the world."
+        },
+        {
+          "en": "Everyone loves Kuala Lumpur.",
+          "bm": "Everyone loves Kuala Lumpur."
+        },
+        {
+          "en": "Kuala Lumpur is too crowded.",
+          "bm": "Kuala Lumpur is too crowded."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q05",
+      "subtopicId": "f3bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an OPINION?",
+        "bm": "Which is an OPINION?"
+      },
+      "explanation": {
+        "en": "\"Most exciting\" is a personal view.",
+        "bm": "\"Most exciting\" pandangan peribadi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Football is the most exciting sport.",
+          "bm": "Football is the most exciting sport."
+        },
+        {
+          "en": "A football team has eleven players on the field.",
+          "bm": "A football team has eleven players on the field."
+        },
+        {
+          "en": "The World Cup is held every four years.",
+          "bm": "The World Cup is held every four years."
+        },
+        {
+          "en": "Football is played with a ball.",
+          "bm": "Football is played with a ball."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q06",
+      "subtopicId": "f3bi-04-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL words or phrases that often signal an opinion.",
+        "bm": "Select ALL words or phrases that often signal an opinion."
+      },
+      "explanation": {
+        "en": "Dates are usually facts.",
+        "bm": "Tarikh biasanya fakta."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "I think",
+          "bm": "I think"
+        },
+        {
+          "en": "the best",
+          "bm": "the best"
+        },
+        {
+          "en": "beautiful",
+          "bm": "beautiful"
+        },
+        {
+          "en": "in 2023",
+          "bm": "in 2023"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bi-04-q07",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Siti grabbed her umbrella and looked at the dark clouds.\" What can you infer?",
+        "bm": "\"Siti grabbed her umbrella and looked at the dark clouds.\" What can you infer?"
+      },
+      "explanation": {
+        "en": "Dark clouds + umbrella → rain.",
+        "bm": "Awan gelap + payung → hujan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "It might rain soon.",
+          "bm": "It might rain soon."
+        },
+        {
+          "en": "It is a sunny day.",
+          "bm": "It is a sunny day."
+        },
+        {
+          "en": "Siti is going swimming.",
+          "bm": "Siti is going swimming."
+        },
+        {
+          "en": "Siti lost her umbrella.",
+          "bm": "Siti lost her umbrella."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q08",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A summary should…",
+        "bm": "A summary should…"
+      },
+      "explanation": {
+        "en": "Keep it short and accurate.",
+        "bm": "Pastikan ringkas dan tepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "include only the key points in your own words",
+          "bm": "include only the key points in your own words"
+        },
+        {
+          "en": "copy the whole text",
+          "bm": "copy the whole text"
+        },
+        {
+          "en": "add your opinions",
+          "bm": "add your opinions"
+        },
+        {
+          "en": "include every example",
+          "bm": "include every example"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q09",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Read the passage: \"Durians are often called the \"King of Fruits\" in Malaysia. Malaysia exports durians to several countries, including China. Many people think the Musang King variety is the most delicious. However, the fruit's strong smell means it is banned on many buses and in some hotels.\" What is the main idea?",
+        "bm": "Read the passage: \"Durians are often called the \"King of Fruits\" in Malaysia. Malaysia exports durians to several countries, including China. Many people think the Musang King variety is the most delicious. However, the fruit's strong smell means it is banned on many buses and in some hotels.\" What is the main idea?"
+      },
+      "explanation": {
+        "en": "The whole paragraph is about durians.",
+        "bm": "Keseluruhan perenggan tentang durian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Durians are a popular but strong-smelling Malaysian fruit.",
+          "bm": "Durians are a popular but strong-smelling Malaysian fruit."
+        },
+        {
+          "en": "Hotels in Malaysia are strict.",
+          "bm": "Hotels in Malaysia are strict."
+        },
+        {
+          "en": "China imports many fruits.",
+          "bm": "China imports many fruits."
+        },
+        {
+          "en": "Buses are uncomfortable.",
+          "bm": "Buses are uncomfortable."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q10",
+      "subtopicId": "f3bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the passage, which statement is a FACT?",
+        "bm": "In the passage, which statement is a FACT?"
+      },
+      "explanation": {
+        "en": "Export figures can be checked.",
+        "bm": "Data eksport boleh disemak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Malaysia exports durians to several countries.",
+          "bm": "Malaysia exports durians to several countries."
+        },
+        {
+          "en": "Musang King is the most delicious.",
+          "bm": "Musang King is the most delicious."
+        },
+        {
+          "en": "Durians taste wonderful.",
+          "bm": "Durians taste wonderful."
+        },
+        {
+          "en": "Everyone should eat durians.",
+          "bm": "Everyone should eat durians."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q11",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are durians banned on many buses, according to the passage?",
+        "bm": "Why are durians banned on many buses, according to the passage?"
+      },
+      "explanation": {
+        "en": "The answer is stated after \"However\".",
+        "bm": "Jawapannya dinyatakan selepas \"However\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Because of their strong smell",
+          "bm": "Because of their strong smell"
+        },
+        {
+          "en": "Because they are expensive",
+          "bm": "Because they are expensive"
+        },
+        {
+          "en": "Because they are exported",
+          "bm": "Because they are exported"
+        },
+        {
+          "en": "Because they are the King of Fruits",
+          "bm": "Because they are the King of Fruits"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q12",
+      "subtopicId": "f3bi-04-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the events of this story in the correct sequence.",
+        "bm": "Arrange the events of this story in the correct sequence."
+      },
+      "explanation": {
+        "en": "Use time clues and cause and effect.",
+        "bm": "Gunakan petunjuk masa dan sebab-akibat."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Amir woke up late.",
+          "bm": "Amir woke up late."
+        },
+        {
+          "en": "He ran to the bus stop.",
+          "bm": "He ran to the bus stop."
+        },
+        {
+          "en": "The bus had already left.",
+          "bm": "The bus had already left."
+        },
+        {
+          "en": "His father drove him to school.",
+          "bm": "His father drove him to school."
+        }
+      ]
+    },
+    {
+      "id": "f3bi-04-q13",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Supporting details in a paragraph…",
+        "bm": "Supporting details in a paragraph…"
+      },
+      "explanation": {
+        "en": "They answer how, why or what for the main idea.",
+        "bm": "Ia menjawab bagaimana, mengapa atau apa bagi idea utama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "explain or give examples of the main idea",
+          "bm": "explain or give examples of the main idea"
+        },
+        {
+          "en": "introduce a new topic",
+          "bm": "introduce a new topic"
+        },
+        {
+          "en": "are always opinions",
+          "bm": "are always opinions"
+        },
+        {
+          "en": "must be the first sentence",
+          "bm": "must be the first sentence"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q14",
+      "subtopicId": "f3bi-04-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL statements that are FACTS.",
+        "bm": "Select ALL statements that are FACTS."
+      },
+      "explanation": {
+        "en": "Ask: can it be proved?",
+        "bm": "Tanya: bolehkah ia dibuktikan?"
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Water boils at 100 °C at sea level.",
+          "bm": "Water boils at 100 °C at sea level."
+        },
+        {
+          "en": "Malaysia has 13 states.",
+          "bm": "Malaysia has 13 states."
+        },
+        {
+          "en": "Mathematics is boring.",
+          "bm": "Mathematics is boring."
+        },
+        {
+          "en": "Cats make the best pets.",
+          "bm": "Cats make the best pets."
+        }
+      ],
+      "answer": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "f3bi-04-q15",
+      "subtopicId": "f3bi-04-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Using clues to work out meaning that is not stated directly is called ___.",
+        "bm": "Using clues to work out meaning that is not stated directly is called ___."
+      },
+      "explanation": {
+        "en": "\"Reading between the lines.\"",
+        "bm": "\"Membaca maksud tersirat.\""
+      },
+      "difficulty": 2,
+      "answer": [
+        "inference",
+        "inferring",
+        "making inferences"
+      ]
+    },
+    {
+      "id": "f3bi-04-q16",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The word 'banned' in the passage is closest in meaning to…\"",
+        "bm": "\"The word 'banned' in the passage is closest in meaning to…\""
+      },
+      "explanation": {
+        "en": "Use context: the smell is a problem.",
+        "bm": "Gunakan konteks: baunya menjadi masalah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "not allowed",
+          "bm": "not allowed"
+        },
+        {
+          "en": "sold",
+          "bm": "sold"
+        },
+        {
+          "en": "welcomed",
+          "bm": "welcomed"
+        },
+        {
+          "en": "cooked",
+          "bm": "cooked"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q17",
+      "subtopicId": "f3bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A paragraph says: \"Many students skip breakfast. They feel tired by 10 a.m. Their marks often drop.\" What is the writer suggesting?",
+        "bm": "A paragraph says: \"Many students skip breakfast. They feel tired by 10 a.m. Their marks often drop.\" What is the writer suggesting?"
+      },
+      "explanation": {
+        "en": "The details lead to an unstated main idea.",
+        "bm": "Butiran membawa kepada idea utama yang tersirat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Eating breakfast helps students perform better",
+          "bm": "Bersarapan membantu murid berprestasi lebih baik"
+        },
+        {
+          "en": "Students should sleep in class",
+          "bm": "Murid patut tidur di kelas"
+        },
+        {
+          "en": "Marks are not important",
+          "bm": "Markah tidak penting"
+        },
+        {
+          "en": "Breakfast causes tiredness",
+          "bm": "Sarapan menyebabkan keletihan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q18",
+      "subtopicId": "f3bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An advertisement says: \"Our shoes are the most comfortable in the world!\" Why should readers be careful?",
+        "bm": "An advertisement says: \"Our shoes are the most comfortable in the world!\" Why should readers be careful?"
+      },
+      "explanation": {
+        "en": "Critical readers look for evidence.",
+        "bm": "Pembaca kritis mencari bukti."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is an opinion presented as if it were a fact",
+          "bm": "Ia pendapat yang disampaikan seolah-olah fakta"
+        },
+        {
+          "en": "It is a scientific fact",
+          "bm": "Ia fakta saintifik"
+        },
+        {
+          "en": "Advertisements never lie",
+          "bm": "Iklan tidak pernah menipu"
+        },
+        {
+          "en": "It gives a price",
+          "bm": "Ia memberi harga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q19",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST one-sentence summary of the durian passage?",
+        "bm": "Which is the BEST one-sentence summary of the durian passage?"
+      },
+      "explanation": {
+        "en": "A good summary covers the key points without opinion.",
+        "bm": "Ringkasan yang baik merangkumi isi penting tanpa pendapat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Durians are a popular Malaysian export, though their strong smell leads to bans in some places.",
+          "bm": "Durians are a popular Malaysian export, though their strong smell leads to bans in some places."
+        },
+        {
+          "en": "Durians smell.",
+          "bm": "Durians smell."
+        },
+        {
+          "en": "Musang King is delicious and everyone should buy it.",
+          "bm": "Musang King is delicious and everyone should buy it."
+        },
+        {
+          "en": "In 2023 China bought fruit.",
+          "bm": "In 2023 China bought fruit."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-04-q20",
+      "subtopicId": "f3bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"When the teacher announced the results, Mei's face lit up and she hugged her friend.\" How did Mei probably feel?",
+        "bm": "\"When the teacher announced the results, Mei's face lit up and she hugged her friend.\" How did Mei probably feel?"
+      },
+      "explanation": {
+        "en": "\"Face lit up\" and hugging are clues to joy.",
+        "bm": "\"Face lit up\" dan pelukan ialah petunjuk kegembiraan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Delighted",
+          "bm": "Delighted"
+        },
+        {
+          "en": "Disappointed",
+          "bm": "Disappointed"
+        },
+        {
+          "en": "Bored",
+          "bm": "Bored"
+        },
+        {
+          "en": "Angry",
+          "bm": "Angry"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

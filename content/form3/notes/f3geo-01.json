@@ -1,0 +1,46 @@
+{
+  "chapterId": "f3geo-01",
+  "reviewed": false,
+  "subtopics": {
+    "f3geo-01-01": {
+      "keyPoints": [
+        {
+          "en": "Grid reference: easting first, then northing (4 figures = square, 6 figures = point).",
+          "bm": "Rujukan grid: timuran dahulu, kemudian utaraan (4 angka = petak, 6 angka = titik)."
+        },
+        {
+          "en": "Bearing: degrees clockwise from north, written with 3 digits (e.g. 045°). Back bearing = ±180°.",
+          "bm": "Bearing: darjah mengikut arah jam dari utara, ditulis 3 digit (cth. 045°). Bearing songsang = ±180°."
+        }
+      ]
+    },
+    "f3geo-01-02": {
+      "keyPoints": [
+        {
+          "en": "Scale 1 : 50 000 → 1 cm = 0.5 km. Scale 1 : 25 000 → 1 cm = 250 m.",
+          "bm": "Skala 1 : 50 000 → 1 cm = 0.5 km. Skala 1 : 25 000 → 1 cm = 250 m."
+        },
+        {
+          "en": "Measure curved routes with a string or paper edge, then use the scale.",
+          "bm": "Ukur laluan berliku dengan benang atau tepi kertas, kemudian guna skala."
+        }
+      ]
+    },
+    "f3geo-01-03": {
+      "keyPoints": [
+        {
+          "en": "Contours join points of equal height; the contour interval is the height difference between them.",
+          "bm": "Kontur menyambungkan titik sama tinggi; sela kontur ialah beza ketinggian antaranya."
+        },
+        {
+          "en": "Close = steep; wide = gentle. Closed rings = hill; V pointing uphill = valley.",
+          "bm": "Rapat = curam; jarang = landai. Gelang tertutup = bukit; V menghala ke tanah tinggi = lembah."
+        }
+      ],
+      "tip": {
+        "en": "Read contour numbers to see which way the land rises.",
+        "bm": "Baca nombor kontur untuk melihat arah tanah meninggi."
+      }
+    }
+  }
+}

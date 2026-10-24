@@ -1,0 +1,810 @@
+{
+  "chapterId": "f3ask-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every photo, song and message on your phone is stored as 0s and 1s. Organising those bits into lists is how programs find things fast.",
+      "bm": "Setiap gambar, lagu dan mesej dalam telefon anda disimpan sebagai 0 dan 1. Menyusun bit itu ke dalam senarai membolehkan atur cara mencari maklumat dengan pantas."
+    },
+    "bigIdeas": [
+      {
+        "en": "Computers store data in binary (base 2); 8 bits = 1 byte.",
+        "bm": "Komputer menyimpan data dalam perduaan (asas 2); 8 bit = 1 bait."
+      },
+      {
+        "en": "A list stores many values in order; Python indexes start at 0.",
+        "bm": "Senarai menyimpan banyak nilai mengikut turutan; indeks Python bermula dengan 0."
+      },
+      {
+        "en": "Linear search checks every item; binary search is faster but needs a sorted list.",
+        "bm": "Carian linear menyemak setiap item; carian perduaan lebih pantas tetapi memerlukan senarai yang telah diisih."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Place value",
+            "bm": "Nilai tempat"
+          },
+          {
+            "en": "Bit in 1011",
+            "bm": "Bit dalam 1011"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "2³",
+              "bm": "2³"
+            },
+            "cells": [
+              {
+                "en": "8",
+                "bm": "8"
+              },
+              {
+                "en": "1",
+                "bm": "1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "2²",
+              "bm": "2²"
+            },
+            "cells": [
+              {
+                "en": "4",
+                "bm": "4"
+              },
+              {
+                "en": "0",
+                "bm": "0"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "2¹",
+              "bm": "2¹"
+            },
+            "cells": [
+              {
+                "en": "2",
+                "bm": "2"
+              },
+              {
+                "en": "1",
+                "bm": "1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "2⁰",
+              "bm": "2⁰"
+            },
+            "cells": [
+              {
+                "en": "1",
+                "bm": "1"
+              },
+              {
+                "en": "1",
+                "bm": "1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Total",
+              "bm": "Jumlah"
+            },
+            "cells": [
+              {
+                "en": "8 + 2 + 1",
+                "bm": "8 + 2 + 1"
+              },
+              {
+                "en": "= 11",
+                "bm": "= 11"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Bit",
+          "bm": "Bit"
+        },
+        "definition": {
+          "en": "A single binary digit, 0 or 1.",
+          "bm": "Satu digit perduaan, 0 atau 1."
+        }
+      },
+      {
+        "term": {
+          "en": "Byte",
+          "bm": "Bait"
+        },
+        "definition": {
+          "en": "8 bits.",
+          "bm": "8 bit."
+        }
+      },
+      {
+        "term": {
+          "en": "List",
+          "bm": "Senarai"
+        },
+        "definition": {
+          "en": "An ordered collection: marks = [70, 85, 92].",
+          "bm": "Koleksi tersusun: marks = [70, 85, 92]."
+        }
+      },
+      {
+        "term": {
+          "en": "Index",
+          "bm": "Indeks"
+        },
+        "definition": {
+          "en": "Position of an item; the first is 0.",
+          "bm": "Kedudukan item; yang pertama ialah 0."
+        }
+      },
+      {
+        "term": {
+          "en": "Linear search",
+          "bm": "Carian linear"
+        },
+        "definition": {
+          "en": "Check items one by one from the start.",
+          "bm": "Semak item satu demi satu dari awal."
+        }
+      },
+      {
+        "term": {
+          "en": "Binary search",
+          "bm": "Carian perduaan"
+        },
+        "definition": {
+          "en": "Repeatedly halve a SORTED list.",
+          "bm": "Bahagi dua senarai TERISIH berulang kali."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Convert 25 to binary.",
+        "bm": "Tukarkan 25 kepada nombor perduaan."
+      },
+      "steps": [
+        {
+          "en": "Place values: 16, 8, 4, 2, 1.",
+          "bm": "Nilai tempat: 16, 8, 4, 2, 1."
+        },
+        {
+          "en": "25 = 16 + 8 + 1.",
+          "bm": "25 = 16 + 8 + 1."
+        },
+        {
+          "en": "16→1, 8→1, 4→0, 2→0, 1→1.",
+          "bm": "16→1, 8→1, 4→0, 2→0, 1→1."
+        }
+      ],
+      "answer": {
+        "en": "11001₂",
+        "bm": "11001₂"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3ask-03-q01",
+      "subtopicId": "f3ask-03-01",
+      "type": "fill",
+      "prompt": {
+        "en": "How many bits are in 1 byte?",
+        "bm": "Berapakah bit dalam 1 bait?"
+      },
+      "explanation": {
+        "en": "A byte can store values 0–255.",
+        "bm": "Satu bait boleh menyimpan nilai 0–255."
+      },
+      "difficulty": 1,
+      "answer": [
+        "8",
+        "eight",
+        "lapan"
+      ]
+    },
+    {
+      "id": "f3ask-03-q02",
+      "subtopicId": "f3ask-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Binary uses base…",
+        "bm": "Sistem perduaan menggunakan asas…"
+      },
+      "explanation": {
+        "en": "Only the digits 0 and 1.",
+        "bm": "Hanya digit 0 dan 1."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "8",
+          "bm": "8"
+        },
+        {
+          "en": "10",
+          "bm": "10"
+        },
+        {
+          "en": "16",
+          "bm": "16"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q03",
+      "subtopicId": "f3ask-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 1011₂ to decimal.",
+        "bm": "Tukarkan 1011₂ kepada nombor perpuluhan."
+      },
+      "explanation": {
+        "en": "8 + 0 + 2 + 1 = 11.",
+        "bm": "8 + 0 + 2 + 1 = 11."
+      },
+      "difficulty": 1,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-03-q04",
+      "subtopicId": "f3ask-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is larger?",
+        "bm": "Manakah lebih besar?"
+      },
+      "explanation": {
+        "en": "byte < KB < MB < GB < TB.",
+        "bm": "bait < KB < MB < GB < TB."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1 GB",
+          "bm": "1 GB"
+        },
+        {
+          "en": "1 MB",
+          "bm": "1 MB"
+        },
+        {
+          "en": "1 KB",
+          "bm": "1 KB"
+        },
+        {
+          "en": "1 byte",
+          "bm": "1 byte"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q05",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In Python, marks = [70, 85, 92]. What is marks[0]?",
+        "bm": "Dalam Python, marks = [70, 85, 92]. Apakah marks[0]?"
+      },
+      "explanation": {
+        "en": "Indexes start at 0.",
+        "bm": "Indeks bermula 0."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "70",
+          "bm": "70"
+        },
+        {
+          "en": "85",
+          "bm": "85"
+        },
+        {
+          "en": "92",
+          "bm": "92"
+        },
+        {
+          "en": "Error",
+          "bm": "Error"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q06",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which function gives the number of items in a list?",
+        "bm": "Fungsi manakah memberi bilangan item dalam senarai?"
+      },
+      "explanation": {
+        "en": "len([70, 85, 92]) = 3.",
+        "bm": "len([70, 85, 92]) = 3."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "len()",
+          "bm": "len()"
+        },
+        {
+          "en": "count()",
+          "bm": "count()"
+        },
+        {
+          "en": "size()",
+          "bm": "size()"
+        },
+        {
+          "en": "sum()",
+          "bm": "sum()"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q07",
+      "subtopicId": "f3ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Checking items one by one from the start is…",
+        "bm": "Menyemak item satu demi satu dari awal ialah…"
+      },
+      "explanation": {
+        "en": "Works on unsorted lists.",
+        "bm": "Berfungsi pada senarai yang belum diisih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "linear search",
+          "bm": "carian linear"
+        },
+        {
+          "en": "binary search",
+          "bm": "carian perduaan"
+        },
+        {
+          "en": "bubble sort",
+          "bm": "isihan buih"
+        },
+        {
+          "en": "abstraction",
+          "bm": "peniskalaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q08",
+      "subtopicId": "f3ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Binary search only works on a list that is…",
+        "bm": "Carian perduaan hanya berfungsi pada senarai yang…"
+      },
+      "explanation": {
+        "en": "It compares with the middle item and discards half.",
+        "bm": "Ia membandingkan dengan item tengah dan membuang separuh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sorted",
+          "bm": "telah diisih"
+        },
+        {
+          "en": "empty",
+          "bm": "kosong"
+        },
+        {
+          "en": "made of text only",
+          "bm": "mengandungi teks sahaja"
+        },
+        {
+          "en": "very short",
+          "bm": "sangat pendek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q09",
+      "subtopicId": "f3ask-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 11001₂ to decimal.",
+        "bm": "Tukarkan 11001₂ kepada nombor perpuluhan."
+      },
+      "explanation": {
+        "en": "16 + 8 + 0 + 0 + 1 = 25.",
+        "bm": "16 + 8 + 0 + 0 + 1 = 25."
+      },
+      "difficulty": 2,
+      "answer": 25,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-03-q10",
+      "subtopicId": "f3ask-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the largest decimal value one byte (8 bits) can store?",
+        "bm": "Apakah nilai perpuluhan terbesar yang boleh disimpan oleh satu bait (8 bit)?"
+      },
+      "explanation": {
+        "en": "11111111₂ = 255.",
+        "bm": "11111111₂ = 255."
+      },
+      "difficulty": 2,
+      "answer": 255,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-03-q11",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "fruits = [\"durian\", \"rambutan\", \"manggis\"]. What is fruits[-1]?",
+        "bm": "fruits = [\"durian\", \"rambutan\", \"manggis\"]. Apakah fruits[-1]?"
+      },
+      "explanation": {
+        "en": "Negative indexes count from the end.",
+        "bm": "Indeks negatif dikira dari hujung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "\"manggis\"",
+          "bm": "\"manggis\""
+        },
+        {
+          "en": "\"durian\"",
+          "bm": "\"durian\""
+        },
+        {
+          "en": "\"rambutan\"",
+          "bm": "\"rambutan\""
+        },
+        {
+          "en": "Error",
+          "bm": "Error"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q12",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What does marks.append(60) do?",
+        "bm": "Apakah yang dilakukan oleh marks.append(60)?"
+      },
+      "explanation": {
+        "en": "The list grows by one.",
+        "bm": "Senarai bertambah satu item."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Adds 60 to the end of the list",
+          "bm": "Menambah 60 di hujung senarai"
+        },
+        {
+          "en": "Removes 60",
+          "bm": "Membuang 60"
+        },
+        {
+          "en": "Sorts the list",
+          "bm": "Mengisih senarai"
+        },
+        {
+          "en": "Replaces the first item",
+          "bm": "Menggantikan item pertama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q13",
+      "subtopicId": "f3ask-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is len(\"Malaysia\")?",
+        "bm": "Apakah len(\"Malaysia\")?"
+      },
+      "explanation": {
+        "en": "M-a-l-a-y-s-i-a = 8 characters.",
+        "bm": "M-a-l-a-y-s-i-a = 8 aksara."
+      },
+      "difficulty": 2,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f3ask-03-q14",
+      "subtopicId": "f3ask-03-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each term with its description.",
+        "bm": "Padankan istilah dengan huraiannya."
+      },
+      "explanation": {
+        "en": "These are core algorithms.",
+        "bm": "Ini ialah algoritma teras."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Linear search",
+            "bm": "Carian linear"
+          },
+          "right": {
+            "en": "Check each item in turn",
+            "bm": "Semak setiap item mengikut giliran"
+          }
+        },
+        {
+          "left": {
+            "en": "Binary search",
+            "bm": "Carian perduaan"
+          },
+          "right": {
+            "en": "Halve a sorted list each step",
+            "bm": "Bahagi dua senarai terisih setiap langkah"
+          }
+        },
+        {
+          "left": {
+            "en": "Bubble sort",
+            "bm": "Isihan buih"
+          },
+          "right": {
+            "en": "Swap neighbouring items that are out of order",
+            "bm": "Tukar item bersebelahan yang tidak tersusun"
+          }
+        },
+        {
+          "left": {
+            "en": "Index",
+            "bm": "Indeks"
+          },
+          "right": {
+            "en": "Position of an item",
+            "bm": "Kedudukan item"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3ask-03-q15",
+      "subtopicId": "f3ask-03-03",
+      "type": "order",
+      "prompt": {
+        "en": "Sort these numbers in ascending order: 42, 7, 19, 3",
+        "bm": "Isih nombor ini secara menaik: 42, 7, 19, 3"
+      },
+      "explanation": {
+        "en": "Ascending = smallest to largest.",
+        "bm": "Menaik = terkecil ke terbesar."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "7",
+          "bm": "7"
+        },
+        {
+          "en": "19",
+          "bm": "19"
+        },
+        {
+          "en": "42",
+          "bm": "42"
+        }
+      ]
+    },
+    {
+      "id": "f3ask-03-q16",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is \"Python\"[1:4]?",
+        "bm": "Apakah \"Python\"[1:4]?"
+      },
+      "explanation": {
+        "en": "Slice from index 1 up to (not including) 4.",
+        "bm": "Hirisan dari indeks 1 hingga (tidak termasuk) 4."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "\"yth\"",
+          "bm": "\"yth\""
+        },
+        {
+          "en": "\"Pyt\"",
+          "bm": "\"Pyt\""
+        },
+        {
+          "en": "\"ytho\"",
+          "bm": "\"ytho\""
+        },
+        {
+          "en": "\"tho\"",
+          "bm": "\"tho\""
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q17",
+      "subtopicId": "f3ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Using binary search on a sorted list of 16 items, what is the MAXIMUM number of comparisons needed?",
+        "bm": "Menggunakan carian perduaan pada senarai terisih 16 item, berapakah bilangan perbandingan MAKSIMUM yang diperlukan?"
+      },
+      "explanation": {
+        "en": "16 → 8 → 4 → 2 → 1: four halvings, plus the final check = 5.",
+        "bm": "16 → 8 → 4 → 2 → 1: empat kali dibahagi dua, ditambah semakan akhir = 5."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "16",
+          "bm": "16"
+        },
+        {
+          "en": "8",
+          "bm": "8"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q18",
+      "subtopicId": "f3ask-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A 3-bit number can represent how many different values?",
+        "bm": "Nombor 3 bit boleh mewakili berapa nilai yang berbeza?"
+      },
+      "explanation": {
+        "en": "2³ = 8 values (0–7).",
+        "bm": "2³ = 8 nilai (0–7)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "8",
+          "bm": "8"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "9",
+          "bm": "9"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q19",
+      "subtopicId": "f3ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "After ONE full pass of bubble sort on [5, 1, 4, 2], the list is…",
+        "bm": "Selepas SATU laluan penuh isihan buih pada [5, 1, 4, 2], senarai menjadi…"
+      },
+      "explanation": {
+        "en": "5↔1 → [1,5,4,2]; 5↔4 → [1,4,5,2]; 5↔2 → [1,4,2,5]. The largest \"bubbles\" to the end.",
+        "bm": "5↔1 → [1,5,4,2]; 5↔4 → [1,4,5,2]; 5↔2 → [1,4,2,5]. Nilai terbesar \"naik\" ke hujung."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "[1, 4, 2, 5]",
+          "bm": "[1, 4, 2, 5]"
+        },
+        {
+          "en": "[1, 2, 4, 5]",
+          "bm": "[1, 2, 4, 5]"
+        },
+        {
+          "en": "[5, 4, 2, 1]",
+          "bm": "[5, 4, 2, 1]"
+        },
+        {
+          "en": "[1, 5, 4, 2]",
+          "bm": "[1, 5, 4, 2]"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-03-q20",
+      "subtopicId": "f3ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why use a list instead of 30 separate variables for 30 students' marks?",
+        "bm": "Mengapakah senarai digunakan dan bukan 30 pemboleh ubah berasingan untuk markah 30 murid?"
+      },
+      "explanation": {
+        "en": "e.g. total = sum(marks).",
+        "bm": "cth. total = sum(marks)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A loop can process every item, so the code is shorter and easier to change",
+          "bm": "Gelung boleh memproses setiap item, jadi kod lebih pendek dan mudah diubah"
+        },
+        {
+          "en": "Lists use no memory",
+          "bm": "Senarai tidak menggunakan memori"
+        },
+        {
+          "en": "Variables cannot store numbers",
+          "bm": "Pemboleh ubah tidak boleh menyimpan nombor"
+        },
+        {
+          "en": "It is required by Python",
+          "bm": "Ia diwajibkan Python"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

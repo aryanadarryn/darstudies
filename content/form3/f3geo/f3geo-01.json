@@ -1,0 +1,787 @@
+{
+  "chapterId": "f3geo-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A hiker lost on Gunung Ledang has only a paper map and a compass. Grid references, bearings and contour lines can still guide her safely down.",
+      "bm": "Seorang pendaki yang sesat di Gunung Ledang hanya mempunyai peta kertas dan kompas. Rujukan grid, bearing dan garisan kontur masih boleh membimbingnya turun dengan selamat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Grid references locate places; read the easting (across) first, then the northing (up).",
+        "bm": "Rujukan grid menentukan lokasi; baca timuran (melintang) dahulu, kemudian utaraan (menegak)."
+      },
+      {
+        "en": "Scale converts map distance to real distance; bearings give exact directions clockwise from north.",
+        "bm": "Skala menukar jarak peta kepada jarak sebenar; bearing memberi arah tepat mengikut arah jam dari utara."
+      },
+      {
+        "en": "Contour lines join places of equal height; close contours mean steep slopes.",
+        "bm": "Garisan kontur menyambungkan tempat yang sama tinggi; kontur yang rapat bermaksud cerun curam."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Bearing",
+            "bm": "Bearing"
+          },
+          {
+            "en": "Direction",
+            "bm": "Arah"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "N",
+              "bm": "N"
+            },
+            "cells": [
+              {
+                "en": "000°",
+                "bm": "000°"
+              },
+              {
+                "en": "North",
+                "bm": "Utara"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "E",
+              "bm": "E"
+            },
+            "cells": [
+              {
+                "en": "090°",
+                "bm": "090°"
+              },
+              {
+                "en": "East",
+                "bm": "Timur"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "S",
+              "bm": "S"
+            },
+            "cells": [
+              {
+                "en": "180°",
+                "bm": "180°"
+              },
+              {
+                "en": "South",
+                "bm": "Selatan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "W",
+              "bm": "W"
+            },
+            "cells": [
+              {
+                "en": "270°",
+                "bm": "270°"
+              },
+              {
+                "en": "West",
+                "bm": "Barat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "NE",
+              "bm": "NE"
+            },
+            "cells": [
+              {
+                "en": "045°",
+                "bm": "045°"
+              },
+              {
+                "en": "North-east",
+                "bm": "Timur laut"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Grid reference",
+          "bm": "Rujukan grid"
+        },
+        "definition": {
+          "en": "Numbers that locate a place using the grid lines on a map.",
+          "bm": "Nombor yang menentukan lokasi menggunakan garis grid pada peta."
+        }
+      },
+      {
+        "term": {
+          "en": "Easting",
+          "bm": "Timuran"
+        },
+        "definition": {
+          "en": "Vertical grid lines, numbered increasing to the east; read first.",
+          "bm": "Garis grid menegak, nombornya bertambah ke timur; dibaca dahulu."
+        }
+      },
+      {
+        "term": {
+          "en": "Bearing",
+          "bm": "Bearing"
+        },
+        "definition": {
+          "en": "Direction in degrees measured clockwise from north (three digits).",
+          "bm": "Arah dalam darjah yang diukur mengikut arah jam dari utara (tiga digit)."
+        }
+      },
+      {
+        "term": {
+          "en": "Contour line",
+          "bm": "Garisan kontur"
+        },
+        "definition": {
+          "en": "Line joining places of the same height above sea level.",
+          "bm": "Garis yang menyambungkan tempat yang sama tinggi dari aras laut."
+        }
+      },
+      {
+        "term": {
+          "en": "Contour interval",
+          "bm": "Sela kontur"
+        },
+        "definition": {
+          "en": "Difference in height between two neighbouring contour lines.",
+          "bm": "Perbezaan ketinggian antara dua garisan kontur bersebelahan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "On a 1 : 50 000 map, two villages are 6 cm apart. What is the real distance?",
+        "bm": "Pada peta 1 : 50 000, dua kampung berjarak 6 cm. Berapakah jarak sebenar?"
+      },
+      "steps": [
+        {
+          "en": "1 cm represents 50 000 cm = 0.5 km.",
+          "bm": "1 cm mewakili 50 000 cm = 0.5 km."
+        },
+        {
+          "en": "6 cm × 0.5 km = 3 km.",
+          "bm": "6 cm × 0.5 km = 3 km."
+        }
+      ],
+      "answer": {
+        "en": "3 km",
+        "bm": "3 km"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-01-q01",
+      "subtopicId": "f3geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "When giving a grid reference, which do you read first?",
+        "bm": "Semasa memberi rujukan grid, yang manakah dibaca dahulu?"
+      },
+      "explanation": {
+        "en": "\"Along the corridor, then up the stairs.\"",
+        "bm": "\"Sepanjang koridor, kemudian naik tangga.\""
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Easting (across)",
+          "bm": "Timuran (melintang)"
+        },
+        {
+          "en": "Northing (up)",
+          "bm": "Utaraan (menegak)"
+        },
+        {
+          "en": "Either",
+          "bm": "Mana-mana"
+        },
+        {
+          "en": "The title",
+          "bm": "Tajuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q02",
+      "subtopicId": "f3geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A bearing of 090° points…",
+        "bm": "Bearing 090° menghala ke…"
+      },
+      "explanation": {
+        "en": "Bearings start at north (000°) and go clockwise.",
+        "bm": "Bearing bermula dari utara (000°) mengikut arah jam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "East",
+          "bm": "Timur"
+        },
+        {
+          "en": "North",
+          "bm": "Utara"
+        },
+        {
+          "en": "South",
+          "bm": "Selatan"
+        },
+        {
+          "en": "West",
+          "bm": "Barat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q03",
+      "subtopicId": "f3geo-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the bearing of due south (°)?",
+        "bm": "Berapakah bearing bagi arah selatan (°)?"
+      },
+      "explanation": {
+        "en": "South is half a turn from north: 180°.",
+        "bm": "Selatan ialah separuh pusingan dari utara: 180°."
+      },
+      "difficulty": 1,
+      "answer": 180,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3geo-01-q04",
+      "subtopicId": "f3geo-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a 1 : 50 000 map, how many km does 2 cm represent?",
+        "bm": "Pada peta 1 : 50 000, berapakah km diwakili oleh 2 cm?"
+      },
+      "explanation": {
+        "en": "2 × 50 000 = 100 000 cm = 1 km.",
+        "bm": "2 × 50 000 = 100 000 cm = 1 km."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f3geo-01-q05",
+      "subtopicId": "f3geo-01-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Lines joining places of equal height are called ______ lines.",
+        "bm": "Garis yang menyambungkan tempat yang sama tinggi dipanggil garisan ______."
+      },
+      "explanation": {
+        "en": "They show the shape and height of the land.",
+        "bm": "Ia menunjukkan bentuk dan ketinggian tanah."
+      },
+      "difficulty": 1,
+      "answer": [
+        "contour",
+        "kontur"
+      ]
+    },
+    {
+      "id": "f3geo-01-q06",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Contour lines that are very close together show…",
+        "bm": "Garisan kontur yang sangat rapat menunjukkan…"
+      },
+      "explanation": {
+        "en": "Height changes quickly over a short distance.",
+        "bm": "Ketinggian berubah dengan cepat dalam jarak yang pendek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a steep slope",
+          "bm": "cerun curam"
+        },
+        {
+          "en": "flat land",
+          "bm": "tanah rata"
+        },
+        {
+          "en": "a river",
+          "bm": "sungai"
+        },
+        {
+          "en": "a road",
+          "bm": "jalan raya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q07",
+      "subtopicId": "f3geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A map scale of 1 : 25 000 means 1 cm on the map represents…",
+        "bm": "Skala peta 1 : 25 000 bermaksud 1 cm pada peta mewakili…"
+      },
+      "explanation": {
+        "en": "25 000 cm = 250 m.",
+        "bm": "25 000 cm = 250 m."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "250 m",
+          "bm": "250 m"
+        },
+        {
+          "en": "25 m",
+          "bm": "25 m"
+        },
+        {
+          "en": "2.5 km",
+          "bm": "2.5 km"
+        },
+        {
+          "en": "25 km",
+          "bm": "25 km"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q08",
+      "subtopicId": "f3geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A four-figure grid reference locates…",
+        "bm": "Rujukan grid empat angka menentukan…"
+      },
+      "explanation": {
+        "en": "A six-figure reference locates a more exact point.",
+        "bm": "Rujukan enam angka menentukan titik yang lebih tepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a grid square",
+          "bm": "satu petak grid"
+        },
+        {
+          "en": "an exact point",
+          "bm": "satu titik tepat"
+        },
+        {
+          "en": "a country",
+          "bm": "sebuah negara"
+        },
+        {
+          "en": "a contour",
+          "bm": "satu kontur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q09",
+      "subtopicId": "f3geo-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A road measures 7 cm on a 1 : 50 000 map. Find its real length in km.",
+        "bm": "Sebatang jalan berukuran 7 cm pada peta 1 : 50 000. Cari panjang sebenarnya dalam km."
+      },
+      "explanation": {
+        "en": "7 × 0.5 km = 3.5 km.",
+        "bm": "7 × 0.5 km = 3.5 km."
+      },
+      "difficulty": 2,
+      "answer": 3.5,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f3geo-01-q10",
+      "subtopicId": "f3geo-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the bearing of north-west (°)?",
+        "bm": "Berapakah bearing bagi arah barat laut (°)?"
+      },
+      "explanation": {
+        "en": "Halfway between west (270°) and north (360°): 315°.",
+        "bm": "Di tengah antara barat (270°) dan utara (360°): 315°."
+      },
+      "difficulty": 2,
+      "answer": 315,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3geo-01-q11",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Contours at 100 m, 200 m, 300 m… The contour interval is…",
+        "bm": "Kontur pada 100 m, 200 m, 300 m… Sela konturnya ialah…"
+      },
+      "explanation": {
+        "en": "The difference between neighbouring contours.",
+        "bm": "Perbezaan antara kontur bersebelahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "100 m",
+          "bm": "100 m"
+        },
+        {
+          "en": "300 m",
+          "bm": "300 m"
+        },
+        {
+          "en": "10 m",
+          "bm": "10 m"
+        },
+        {
+          "en": "1 000 m",
+          "bm": "1 000 m"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q12",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Contours forming closed rings that get higher towards the centre show a…",
+        "bm": "Kontur membentuk gelang tertutup yang semakin tinggi ke tengah menunjukkan…"
+      },
+      "explanation": {
+        "en": "The highest ring marks the summit.",
+        "bm": "Gelang paling tinggi menandakan puncak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "hill",
+          "bm": "bukit"
+        },
+        {
+          "en": "valley",
+          "bm": "lembah"
+        },
+        {
+          "en": "plain",
+          "bm": "dataran"
+        },
+        {
+          "en": "lake",
+          "bm": "tasik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q13",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "V-shaped contours pointing UPHILL (towards higher land) usually show…",
+        "bm": "Kontur berbentuk V yang menghala ke ARAH TANAH TINGGI biasanya menunjukkan…"
+      },
+      "explanation": {
+        "en": "Rivers flow in valleys, so V-shapes point upstream.",
+        "bm": "Sungai mengalir di lembah, jadi bentuk V menghala ke hulu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a valley",
+          "bm": "lembah"
+        },
+        {
+          "en": "a ridge",
+          "bm": "rabung"
+        },
+        {
+          "en": "a plateau",
+          "bm": "dataran tinggi"
+        },
+        {
+          "en": "a coast",
+          "bm": "pantai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q14",
+      "subtopicId": "f3geo-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each direction with its bearing.",
+        "bm": "Padankan arah dengan bearingnya."
+      },
+      "explanation": {
+        "en": "Each 45° step is one point of the 8-point compass.",
+        "bm": "Setiap 45° ialah satu mata arah pada kompas 8 mata arah."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "North-east",
+            "bm": "Timur laut"
+          },
+          "right": {
+            "en": "045°",
+            "bm": "045°"
+          }
+        },
+        {
+          "left": {
+            "en": "South-east",
+            "bm": "Tenggara"
+          },
+          "right": {
+            "en": "135°",
+            "bm": "135°"
+          }
+        },
+        {
+          "left": {
+            "en": "South-west",
+            "bm": "Barat daya"
+          },
+          "right": {
+            "en": "225°",
+            "bm": "225°"
+          }
+        },
+        {
+          "left": {
+            "en": "West",
+            "bm": "Barat"
+          },
+          "right": {
+            "en": "270°",
+            "bm": "270°"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-01-q15",
+      "subtopicId": "f3geo-01-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to give a six-figure grid reference.",
+        "bm": "Susun langkah memberi rujukan grid enam angka."
+      },
+      "explanation": {
+        "en": "Easting (3 digits) then northing (3 digits).",
+        "bm": "Timuran (3 digit) kemudian utaraan (3 digit)."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Find the easting line to the left of the place",
+          "bm": "Cari garis timuran di sebelah kiri tempat itu"
+        },
+        {
+          "en": "Estimate tenths across the square",
+          "bm": "Anggar persepuluh melintang petak"
+        },
+        {
+          "en": "Find the northing line below the place",
+          "bm": "Cari garis utaraan di bawah tempat itu"
+        },
+        {
+          "en": "Estimate tenths up the square",
+          "bm": "Anggar persepuluh menegak petak"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-01-q16",
+      "subtopicId": "f3geo-01-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL information a topographic map can show.",
+        "bm": "Pilih SEMUA maklumat yang boleh ditunjukkan peta topografi."
+      },
+      "explanation": {
+        "en": "Weather changes daily and is not shown on topographic maps.",
+        "bm": "Cuaca berubah setiap hari dan tidak ditunjukkan pada peta topografi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Height of land",
+          "bm": "Ketinggian tanah"
+        },
+        {
+          "en": "Rivers and roads",
+          "bm": "Sungai dan jalan raya"
+        },
+        {
+          "en": "Settlements",
+          "bm": "Petempatan"
+        },
+        {
+          "en": "Today's weather",
+          "bm": "Cuaca hari ini"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-01-q17",
+      "subtopicId": "f3geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two hills are 4 cm apart on a 1 : 25 000 map. A hiker walks at 4 km/h. Roughly how long is the straight-line walk?",
+        "bm": "Dua bukit berjarak 4 cm pada peta 1 : 25 000. Seorang pendaki berjalan 4 km/j. Kira-kira berapa lama perjalanan garis lurus itu?"
+      },
+      "explanation": {
+        "en": "4 × 250 m = 1 km; 1 km ÷ 4 km/h = 0.25 h = 15 minutes (real paths are usually longer).",
+        "bm": "4 × 250 m = 1 km; 1 km ÷ 4 km/j = 0.25 j = 15 minit (laluan sebenar biasanya lebih panjang)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "15 minutes",
+          "bm": "15 minutes"
+        },
+        {
+          "en": "1 hour",
+          "bm": "1 hour"
+        },
+        {
+          "en": "4 hours",
+          "bm": "4 hours"
+        },
+        {
+          "en": "30 minutes",
+          "bm": "30 minutes"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q18",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A farmer wants a gentle slope for crops. Where on the map should he look?",
+        "bm": "Seorang petani mahukan cerun landai untuk tanaman. Di manakah dia patut mencari pada peta?"
+      },
+      "explanation": {
+        "en": "Widely spaced contours mean gentle slopes, which reduce soil erosion.",
+        "bm": "Kontur yang jarang bermaksud cerun landai, yang mengurangkan hakisan tanih."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Where contour lines are widely spaced",
+          "bm": "Di tempat garisan kontur jarang"
+        },
+        {
+          "en": "Where contours are very close",
+          "bm": "Di tempat kontur sangat rapat"
+        },
+        {
+          "en": "Where contours form tight rings",
+          "bm": "Di tempat kontur membentuk gelang rapat"
+        },
+        {
+          "en": "On cliffs",
+          "bm": "Di cenuram"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q19",
+      "subtopicId": "f3geo-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The bearing from A to B is 060°. What is the bearing from B back to A (°)?",
+        "bm": "Bearing dari A ke B ialah 060°. Berapakah bearing dari B kembali ke A (°)?"
+      },
+      "explanation": {
+        "en": "A back bearing differs by 180°: 060° + 180° = 240°.",
+        "bm": "Bearing songsang berbeza 180°: 060° + 180° = 240°."
+      },
+      "difficulty": 3,
+      "answer": 240,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3geo-01-q20",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why might a dam be built where contours show a narrow valley with steep sides?",
+        "bm": "Mengapakah empangan mungkin dibina di tempat kontur menunjukkan lembah sempit bercerun curam?"
+      },
+      "explanation": {
+        "en": "Steep sides contain the water; a narrow gap reduces construction cost.",
+        "bm": "Cerun curam menakung air; celah sempit mengurangkan kos pembinaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A short dam wall can hold back a large, deep reservoir",
+          "bm": "Tembok empangan yang pendek boleh menakung takungan yang besar dan dalam"
+        },
+        {
+          "en": "Narrow valleys have no rivers",
+          "bm": "Lembah sempit tiada sungai"
+        },
+        {
+          "en": "Flat land is too high",
+          "bm": "Tanah rata terlalu tinggi"
+        },
+        {
+          "en": "Contours do not matter",
+          "bm": "Kontur tidak penting"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

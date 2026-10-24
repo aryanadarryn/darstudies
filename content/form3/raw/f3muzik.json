@@ -1,0 +1,185 @@
+{
+  "id": "f3muzik",
+  "name": {
+    "en": "Music",
+    "bm": "Pendidikan Muzik"
+  },
+  "short": {
+    "en": "Music",
+    "bm": "Muzik"
+  },
+  "color": "#7c3aed",
+  "source": "Covers core Form 3 KSSM Pendidikan Muzik knowledge (elements of music, notation, instrument classification, Malaysian traditional music, creating and performing). Chapter grouping may differ from your textbook — verify with the latest DSKP. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Elements of Music",
+        "bm": "Elemen Muzik"
+      },
+      "theme": {
+        "en": "Music Concepts",
+        "bm": "Konsep Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Tempo and Dynamics",
+            "bm": "Tempo dan Dinamik"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Pitch, Timbre and Texture",
+            "bm": "Pic, Warna Ton dan Tekstur"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Musical Form",
+            "bm": "Bentuk Muzik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Music Notation and Rhythm",
+        "bm": "Notasi Muzik dan Ritma"
+      },
+      "theme": {
+        "en": "Music Literacy",
+        "bm": "Literasi Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Note and Rest Values",
+            "bm": "Nilai Not dan Tanda Rehat"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "The Stave and Clefs",
+            "bm": "Baluk dan Klef"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Time Signatures and Scales",
+            "bm": "Meter dan Skel"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Classification of Musical Instruments",
+        "bm": "Pengelasan Alat Muzik"
+      },
+      "theme": {
+        "en": "Instruments",
+        "bm": "Alat Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Aerophones and Chordophones",
+            "bm": "Aerofon dan Kordofon"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Membranophones and Idiophones",
+            "bm": "Membranofon dan Idiofon"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Electrophones and Ensembles",
+            "bm": "Elektrofon dan Ensembel"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Malaysian Traditional Music",
+        "bm": "Muzik Tradisional Malaysia"
+      },
+      "theme": {
+        "en": "Music and Culture",
+        "bm": "Muzik dan Budaya"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Ensembles of the Peninsula",
+            "bm": "Ensembel Semenanjung"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Music of Sabah and Sarawak",
+            "bm": "Muzik Sabah dan Sarawak"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Vocal and Theatre Traditions",
+            "bm": "Tradisi Vokal dan Teater"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Creating and Performing Music",
+        "bm": "Mencipta dan Mempersembahkan Muzik"
+      },
+      "theme": {
+        "en": "Musical Creativity",
+        "bm": "Kreativiti Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Composing Melodies and Rhythms",
+            "bm": "Mencipta Melodi dan Ritma"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Singing and Playing Technique",
+            "bm": "Teknik Nyanyian dan Permainan"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Rehearsal and Performance",
+            "bm": "Latihan dan Persembahan"
+          }
+        }
+      ]
+    }
+  ]
+}

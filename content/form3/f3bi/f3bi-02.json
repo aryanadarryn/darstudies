@@ -1,0 +1,870 @@
+{
+  "chapterId": "f3bi-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Kinabalu is the highest mountain in Malaysia.\" \"Kinabalu is higher than Tahan.\" One adjective, two forms, and a big difference in meaning.",
+      "bm": "\"Kinabalu is the highest mountain in Malaysia.\" \"Kinabalu is higher than Tahan.\" Satu kata adjektif, dua bentuk, dan perbezaan maksud yang besar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Short adjectives add -er/-est; long adjectives use more/most.",
+        "bm": "Adjektif pendek menambah -er/-est; adjektif panjang menggunakan more/most."
+      },
+      {
+        "en": "At, on and in follow patterns for time and place: at 7 p.m., on Monday, in June.",
+        "bm": "At, on dan in mengikut pola masa dan tempat: at 7 p.m., on Monday, in June."
+      },
+      {
+        "en": "Conjunctions join ideas: and (add), but (contrast), because (reason), so (result), although (concession).",
+        "bm": "Kata hubung menggabungkan idea: and (tambah), but (bertentangan), because (sebab), so (akibat), although (walaupun)."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Comparative",
+            "bm": "Perbandingan"
+          },
+          {
+            "en": "Superlative",
+            "bm": "Superlatif"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "tall",
+              "bm": "tall"
+            },
+            "cells": [
+              {
+                "en": "taller",
+                "bm": "taller"
+              },
+              {
+                "en": "the tallest",
+                "bm": "the tallest"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "big",
+              "bm": "big"
+            },
+            "cells": [
+              {
+                "en": "bigger",
+                "bm": "bigger"
+              },
+              {
+                "en": "the biggest",
+                "bm": "the biggest"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "happy",
+              "bm": "happy"
+            },
+            "cells": [
+              {
+                "en": "happier",
+                "bm": "happier"
+              },
+              {
+                "en": "the happiest",
+                "bm": "the happiest"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "beautiful",
+              "bm": "beautiful"
+            },
+            "cells": [
+              {
+                "en": "more beautiful",
+                "bm": "more beautiful"
+              },
+              {
+                "en": "the most beautiful",
+                "bm": "the most beautiful"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "good / bad",
+              "bm": "good / bad"
+            },
+            "cells": [
+              {
+                "en": "better / worse",
+                "bm": "better / worse"
+              },
+              {
+                "en": "the best / the worst",
+                "bm": "the best / the worst"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Comparative",
+          "bm": "Bentuk perbandingan"
+        },
+        "definition": {
+          "en": "Compares two things: taller than.",
+          "bm": "Membandingkan dua perkara: taller than."
+        }
+      },
+      {
+        "term": {
+          "en": "Superlative",
+          "bm": "Superlatif"
+        },
+        "definition": {
+          "en": "The extreme in a group: the tallest.",
+          "bm": "Paling dalam satu kumpulan: the tallest."
+        }
+      },
+      {
+        "term": {
+          "en": "Preposition",
+          "bm": "Kata sendi"
+        },
+        "definition": {
+          "en": "A word showing time, place or direction: at, on, in, under.",
+          "bm": "Perkataan yang menunjukkan masa, tempat atau arah: at, on, in, under."
+        }
+      },
+      {
+        "term": {
+          "en": "Conjunction",
+          "bm": "Kata hubung"
+        },
+        "definition": {
+          "en": "A word joining clauses: and, but, because, although.",
+          "bm": "Perkataan yang menghubungkan klausa: and, but, because, although."
+        }
+      },
+      {
+        "term": {
+          "en": "Irregular adjective",
+          "bm": "Adjektif tak sekata"
+        },
+        "definition": {
+          "en": "good–better–best; bad–worse–worst; far–farther/further.",
+          "bm": "good–better–best; bad–worse–worst; far–farther/further."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Combine using \"although\": \"It was raining. We played football.\"",
+        "bm": "Gabungkan menggunakan \"although\": \"It was raining. We played football.\""
+      },
+      "steps": [
+        {
+          "en": "\"Although\" shows a surprising contrast.",
+          "bm": "\"Although\" menunjukkan perbezaan yang mengejutkan."
+        },
+        {
+          "en": "Put it before the clause with the problem.",
+          "bm": "Letakkan sebelum klausa yang menyatakan halangan."
+        },
+        {
+          "en": "Do not add \"but\" as well.",
+          "bm": "Jangan tambah \"but\" juga."
+        }
+      ],
+      "answer": {
+        "en": "Although it was raining, we played football.",
+        "bm": "Although it was raining, we played football."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3bi-02-q01",
+      "subtopicId": "f3bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An elephant is ___ than a horse.",
+        "bm": "An elephant is ___ than a horse."
+      },
+      "explanation": {
+        "en": "One-syllable adjective ending consonant-vowel-consonant: double the consonant + -er.",
+        "bm": "Adjektif satu suku kata berakhir konsonan-vokal-konsonan: gandakan konsonan + -er."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "bigger",
+          "bm": "bigger"
+        },
+        {
+          "en": "more big",
+          "bm": "more big"
+        },
+        {
+          "en": "biggest",
+          "bm": "biggest"
+        },
+        {
+          "en": "the bigger",
+          "bm": "the bigger"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q02",
+      "subtopicId": "f3bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "This is ___ book I have ever read.",
+        "bm": "This is ___ book I have ever read."
+      },
+      "explanation": {
+        "en": "Long adjective → the most.",
+        "bm": "Adjektif panjang → the most."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the most interesting",
+          "bm": "the most interesting"
+        },
+        {
+          "en": "more interesting",
+          "bm": "more interesting"
+        },
+        {
+          "en": "the interestingest",
+          "bm": "the interestingest"
+        },
+        {
+          "en": "most interesting than",
+          "bm": "most interesting than"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q03",
+      "subtopicId": "f3bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "My handwriting is bad, but Ali's is even ___.",
+        "bm": "My handwriting is bad, but Ali's is even ___."
+      },
+      "explanation": {
+        "en": "bad → worse → worst.",
+        "bm": "bad → worse → worst."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "worse",
+          "bm": "worse"
+        },
+        {
+          "en": "badder",
+          "bm": "badder"
+        },
+        {
+          "en": "worst",
+          "bm": "worst"
+        },
+        {
+          "en": "more bad",
+          "bm": "more bad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q04",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The class starts ___ 8 o'clock.",
+        "bm": "The class starts ___ 8 o'clock."
+      },
+      "explanation": {
+        "en": "At + clock time.",
+        "bm": "At + waktu jam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "on",
+          "bm": "on"
+        },
+        {
+          "en": "in",
+          "bm": "in"
+        },
+        {
+          "en": "by",
+          "bm": "by"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q05",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "My birthday is ___ 5 May.",
+        "bm": "My birthday is ___ 5 May."
+      },
+      "explanation": {
+        "en": "On + dates and days.",
+        "bm": "On + tarikh dan hari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "on",
+          "bm": "on"
+        },
+        {
+          "en": "in",
+          "bm": "in"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "to",
+          "bm": "to"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q06",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "We go on holiday ___ December.",
+        "bm": "We go on holiday ___ December."
+      },
+      "explanation": {
+        "en": "In + months, years, seasons.",
+        "bm": "In + bulan, tahun, musim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "in",
+          "bm": "in"
+        },
+        {
+          "en": "on",
+          "bm": "on"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "since",
+          "bm": "since"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q07",
+      "subtopicId": "f3bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "I was hungry, ___ I ate a sandwich.",
+        "bm": "I was hungry, ___ I ate a sandwich."
+      },
+      "explanation": {
+        "en": "\"So\" shows a result.",
+        "bm": "\"So\" menunjukkan akibat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "so",
+          "bm": "so"
+        },
+        {
+          "en": "but",
+          "bm": "but"
+        },
+        {
+          "en": "because",
+          "bm": "because"
+        },
+        {
+          "en": "although",
+          "bm": "although"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q08",
+      "subtopicId": "f3bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "She stayed at home ___ she was sick.",
+        "bm": "She stayed at home ___ she was sick."
+      },
+      "explanation": {
+        "en": "\"Because\" gives a reason.",
+        "bm": "\"Because\" memberi sebab."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "because",
+          "bm": "because"
+        },
+        {
+          "en": "so",
+          "bm": "so"
+        },
+        {
+          "en": "but",
+          "bm": "but"
+        },
+        {
+          "en": "or",
+          "bm": "or"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q09",
+      "subtopicId": "f3bi-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete: happy → happier → the ___",
+        "bm": "Complete: happy → happier → the ___"
+      },
+      "explanation": {
+        "en": "Change y to i, then add -est.",
+        "bm": "Tukar y kepada i, kemudian tambah -est."
+      },
+      "difficulty": 2,
+      "answer": [
+        "happiest"
+      ]
+    },
+    {
+      "id": "f3bi-02-q10",
+      "subtopicId": "f3bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct sentence.",
+        "bm": "Choose the correct sentence."
+      },
+      "explanation": {
+        "en": "\"as + adjective + as\" shows equality.",
+        "bm": "\"as + adjektif + as\" menunjukkan persamaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ahmad is as tall as his father.",
+          "bm": "Ahmad is as tall as his father."
+        },
+        {
+          "en": "Ahmad is as taller as his father.",
+          "bm": "Ahmad is as taller as his father."
+        },
+        {
+          "en": "Ahmad is as tall than his father.",
+          "bm": "Ahmad is as tall than his father."
+        },
+        {
+          "en": "Ahmad is so tall as than his father.",
+          "bm": "Ahmad is so tall as than his father."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q11",
+      "subtopicId": "f3bi-02-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each preposition with the correct phrase.",
+        "bm": "Match each preposition with the correct phrase."
+      },
+      "explanation": {
+        "en": "\"At night\" but \"in the evening\"; \"since\" + starting point.",
+        "bm": "\"At night\" tetapi \"in the evening\"; \"since\" + titik permulaan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "at",
+            "bm": "at"
+          },
+          "right": {
+            "en": "at night",
+            "bm": "at night"
+          }
+        },
+        {
+          "left": {
+            "en": "on",
+            "bm": "on"
+          },
+          "right": {
+            "en": "on Friday morning",
+            "bm": "on Friday morning"
+          }
+        },
+        {
+          "left": {
+            "en": "in",
+            "bm": "in"
+          },
+          "right": {
+            "en": "in the evening",
+            "bm": "in the evening"
+          }
+        },
+        {
+          "left": {
+            "en": "since",
+            "bm": "since"
+          },
+          "right": {
+            "en": "since 2020",
+            "bm": "since 2020"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3bi-02-q12",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The cat is hiding ___ the table.",
+        "bm": "The cat is hiding ___ the table."
+      },
+      "explanation": {
+        "en": "\"Under\" = below something.",
+        "bm": "\"Under\" = di bawah sesuatu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "under",
+          "bm": "under"
+        },
+        {
+          "en": "on",
+          "bm": "on"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "since",
+          "bm": "since"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q13",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "I have lived here ___ ten years.",
+        "bm": "I have lived here ___ ten years."
+      },
+      "explanation": {
+        "en": "For + a period; since + a starting point.",
+        "bm": "For + tempoh; since + titik mula."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "for",
+          "bm": "for"
+        },
+        {
+          "en": "since",
+          "bm": "since"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        },
+        {
+          "en": "in",
+          "bm": "in"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q14",
+      "subtopicId": "f3bi-02-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL linking words that show contrast.",
+        "bm": "Select ALL linking words that show contrast."
+      },
+      "explanation": {
+        "en": "\"Therefore\" shows result.",
+        "bm": "\"Therefore\" menunjukkan akibat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "however",
+          "bm": "however"
+        },
+        {
+          "en": "although",
+          "bm": "although"
+        },
+        {
+          "en": "but",
+          "bm": "but"
+        },
+        {
+          "en": "therefore",
+          "bm": "therefore"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3bi-02-q15",
+      "subtopicId": "f3bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Which sentence is correct?"
+      },
+      "explanation": {
+        "en": "Do not use \"although\" and \"but\" together.",
+        "bm": "Jangan gunakan \"although\" dan \"but\" bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Although he was tired, he finished his work.",
+          "bm": "Although he was tired, he finished his work."
+        },
+        {
+          "en": "Although he was tired, but he finished his work.",
+          "bm": "Although he was tired, but he finished his work."
+        },
+        {
+          "en": "Although tired but he finished.",
+          "bm": "Although tired but he finished."
+        },
+        {
+          "en": "He was tired although but finished.",
+          "bm": "He was tired although but finished."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q16",
+      "subtopicId": "f3bi-02-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these words to show the sequence of a process.",
+        "bm": "Arrange these words to show the sequence of a process."
+      },
+      "explanation": {
+        "en": "Sequence connectors help readers follow steps.",
+        "bm": "Penanda urutan membantu pembaca mengikuti langkah."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "First",
+          "bm": "First"
+        },
+        {
+          "en": "Next",
+          "bm": "Next"
+        },
+        {
+          "en": "Then",
+          "bm": "Then"
+        },
+        {
+          "en": "Finally",
+          "bm": "Finally"
+        }
+      ]
+    },
+    {
+      "id": "f3bi-02-q17",
+      "subtopicId": "f3bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses comparison correctly?",
+        "bm": "Which sentence uses comparison correctly?"
+      },
+      "explanation": {
+        "en": "\"Of all…\" signals a superlative.",
+        "bm": "\"Of all…\" menandakan superlatif."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Of all the students, Mei Ling is the most hardworking.",
+          "bm": "Of all the students, Mei Ling is the most hardworking."
+        },
+        {
+          "en": "Of all the students, Mei Ling is more hardworking.",
+          "bm": "Of all the students, Mei Ling is more hardworking."
+        },
+        {
+          "en": "Mei Ling is the most hardworking than all students.",
+          "bm": "Mei Ling is the most hardworking than all students."
+        },
+        {
+          "en": "Mei Ling is hardworkinger.",
+          "bm": "Mei Ling is hardworkinger."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q18",
+      "subtopicId": "f3bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the BEST word: \"The road was flooded; ___, the school was closed.\"",
+        "bm": "Choose the BEST word: \"The road was flooded; ___, the school was closed.\""
+      },
+      "explanation": {
+        "en": "The second clause is the result.",
+        "bm": "Klausa kedua ialah akibat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "therefore",
+          "bm": "therefore"
+        },
+        {
+          "en": "however",
+          "bm": "however"
+        },
+        {
+          "en": "although",
+          "bm": "although"
+        },
+        {
+          "en": "because",
+          "bm": "because"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q19",
+      "subtopicId": "f3bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Which sentence is correct?"
+      },
+      "explanation": {
+        "en": "at + point/place, on + day, at + time.",
+        "bm": "at + titik/tempat, on + hari, at + waktu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "I will meet you at the bus stop on Monday at 3 p.m.",
+          "bm": "I will meet you at the bus stop on Monday at 3 p.m."
+        },
+        {
+          "en": "I will meet you in the bus stop at Monday on 3 p.m.",
+          "bm": "I will meet you in the bus stop at Monday on 3 p.m."
+        },
+        {
+          "en": "I will meet you on the bus stop in Monday at 3 p.m.",
+          "bm": "I will meet you on the bus stop in Monday at 3 p.m."
+        },
+        {
+          "en": "I will meet you at the bus stop in Monday in 3 p.m.",
+          "bm": "I will meet you at the bus stop in Monday in 3 p.m."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3bi-02-q20",
+      "subtopicId": "f3bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rewrite using \"unless\": \"If you don't study, you will fail.\"",
+        "bm": "Rewrite using \"unless\": \"If you don't study, you will fail.\""
+      },
+      "explanation": {
+        "en": "\"Unless\" already means \"if not\".",
+        "bm": "\"Unless\" sudah bermaksud \"if not\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Unless you study, you will fail.",
+          "bm": "Unless you study, you will fail."
+        },
+        {
+          "en": "Unless you don't study, you will fail.",
+          "bm": "Unless you don't study, you will fail."
+        },
+        {
+          "en": "Unless you study, you won't fail.",
+          "bm": "Unless you study, you won't fail."
+        },
+        {
+          "en": "You will fail unless you don't study.",
+          "bm": "You will fail unless you don't study."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}
