@@ -18,6 +18,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Secrets can't be tested directly in `if:`, so expose whether the key is set.
+      HAS_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -35,11 +38,14 @@ jobs:
           VITE_SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
           VITE_AUTH_PROVIDERS: ${{ vars.AUTH_PROVIDERS }}
       - name: Upload protected content to Supabase
-        if: ${{ vars.SUPABASE_URL != '' }}
+        if: ${{ vars.SUPABASE_URL != '' && env.HAS_SERVICE_KEY == 'true' }}
         run: npm run upload-content
         env:
           SUPABASE_URL: ${{ vars.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      - name: Warn when content upload was skipped
+        if: ${{ vars.SUPABASE_URL != '' && env.HAS_SERVICE_KEY != 'true' }}
+        run: echo "::warning::SUPABASE_SERVICE_ROLE_KEY is not set, so Form 4 lessons were not uploaded to Supabase. The site still works with content uploaded earlier."
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
