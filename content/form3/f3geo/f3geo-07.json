@@ -1,0 +1,832 @@
+{
+  "chapterId": "f3geo-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A farmer in Kedah grows padi, a factory in Penang makes microchips, and a tour guide in Langkawi shows visitors around. All three are part of Malaysia's economy.",
+      "bm": "Seorang petani di Kedah menanam padi, kilang di Pulau Pinang menghasilkan cip mikro dan pemandu pelancong di Langkawi membawa pelawat bersiar-siar. Ketiga-tiganya sebahagian ekonomi Malaysia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Primary activities take resources from nature; secondary activities process them in factories; tertiary activities provide services.",
+        "bm": "Kegiatan primer mengambil sumber daripada alam; kegiatan sekunder memprosesnya di kilang; kegiatan tertier menyediakan perkhidmatan."
+      },
+      {
+        "en": "Activities are spread according to physical and human factors.",
+        "bm": "Kegiatan ekonomi tertabur mengikut faktor fizikal dan manusia."
+      },
+      {
+        "en": "Economic activities bring income, jobs, foreign exchange and development.",
+        "bm": "Kegiatan ekonomi membawa pendapatan, pekerjaan, pertukaran wang asing dan pembangunan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "What it involves",
+            "bm": "Apa yang terlibat"
+          },
+          {
+            "en": "Examples in Malaysia",
+            "bm": "Contoh di Malaysia"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Primary",
+              "bm": "Primer"
+            },
+            "cells": [
+              {
+                "en": "Taking resources from nature",
+                "bm": "Mengambil sumber daripada alam"
+              },
+              {
+                "en": "Padi (MADA, Kedah/Perlis), oil palm, rubber, fishing, mining, logging",
+                "bm": "Padi (MADA, Kedah/Perlis), kelapa sawit, getah, perikanan, perlombongan, pembalakan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Secondary",
+              "bm": "Sekunder"
+            },
+            "cells": [
+              {
+                "en": "Manufacturing and processing",
+                "bm": "Pembuatan dan pemprosesan"
+              },
+              {
+                "en": "Electronics (Penang), cars, palm oil refining",
+                "bm": "Elektronik (Pulau Pinang), kereta, penapisan minyak sawit"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tertiary",
+              "bm": "Tertier"
+            },
+            "cells": [
+              {
+                "en": "Services",
+                "bm": "Perkhidmatan"
+              },
+              {
+                "en": "Tourism (Langkawi, Melaka), banking, transport, education",
+                "bm": "Pelancongan (Langkawi, Melaka), perbankan, pengangkutan, pendidikan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Primary activity",
+          "bm": "Kegiatan primer"
+        },
+        "definition": {
+          "en": "Obtaining raw materials directly from nature.",
+          "bm": "Mendapatkan bahan mentah terus daripada alam."
+        }
+      },
+      {
+        "term": {
+          "en": "Secondary activity",
+          "bm": "Kegiatan sekunder"
+        },
+        "definition": {
+          "en": "Processing raw materials into goods.",
+          "bm": "Memproses bahan mentah menjadi barangan."
+        }
+      },
+      {
+        "term": {
+          "en": "Tertiary activity",
+          "bm": "Kegiatan tertier"
+        },
+        "definition": {
+          "en": "Providing services to people and businesses.",
+          "bm": "Menyediakan perkhidmatan kepada orang ramai dan perniagaan."
+        }
+      },
+      {
+        "term": {
+          "en": "Granary area",
+          "bm": "Jelapang padi"
+        },
+        "definition": {
+          "en": "A major padi-growing area, e.g. MADA in Kedah and Perlis.",
+          "bm": "Kawasan utama penanaman padi, cth. MADA di Kedah dan Perlis."
+        }
+      },
+      {
+        "term": {
+          "en": "Free trade zone",
+          "bm": "Zon perdagangan bebas"
+        },
+        "definition": {
+          "en": "An area with tax benefits for export industries, e.g. Bayan Lepas.",
+          "bm": "Kawasan dengan faedah cukai untuk industri eksport, cth. Bayan Lepas."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Classify: tapping rubber, making rubber gloves, selling gloves online.",
+        "bm": "Kelaskan: menoreh getah, membuat sarung tangan getah, menjual sarung tangan dalam talian."
+      },
+      "steps": [
+        {
+          "en": "Tapping rubber takes latex from trees → primary.",
+          "bm": "Menoreh getah mengambil susu getah daripada pokok → primer."
+        },
+        {
+          "en": "Making gloves in a factory → secondary.",
+          "bm": "Membuat sarung tangan di kilang → sekunder."
+        },
+        {
+          "en": "Selling online is a service → tertiary.",
+          "bm": "Menjual dalam talian ialah perkhidmatan → tertier."
+        }
+      ],
+      "answer": {
+        "en": "Primary → secondary → tertiary.",
+        "bm": "Primer → sekunder → tertier."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-07-q01",
+      "subtopicId": "f3geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fishing is an example of a…",
+        "bm": "Perikanan ialah contoh kegiatan…"
+      },
+      "explanation": {
+        "en": "It takes resources from nature.",
+        "bm": "Ia mengambil sumber daripada alam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "primary activity",
+          "bm": "primer"
+        },
+        {
+          "en": "secondary activity",
+          "bm": "sekunder"
+        },
+        {
+          "en": "tertiary activity",
+          "bm": "tertier"
+        },
+        {
+          "en": "service industry",
+          "bm": "perkhidmatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q02",
+      "subtopicId": "f3geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Making cars in a factory is a…",
+        "bm": "Membuat kereta di kilang ialah kegiatan…"
+      },
+      "explanation": {
+        "en": "Manufacturing processes materials.",
+        "bm": "Pembuatan memproses bahan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "secondary activity",
+          "bm": "sekunder"
+        },
+        {
+          "en": "primary activity",
+          "bm": "primer"
+        },
+        {
+          "en": "tertiary activity",
+          "bm": "tertier"
+        },
+        {
+          "en": "mining activity",
+          "bm": "perlombongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q03",
+      "subtopicId": "f3geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tourism and banking are…",
+        "bm": "Pelancongan dan perbankan ialah kegiatan…"
+      },
+      "explanation": {
+        "en": "They provide services.",
+        "bm": "Ia menyediakan perkhidmatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tertiary activities",
+          "bm": "tertier"
+        },
+        {
+          "en": "primary activities",
+          "bm": "primer"
+        },
+        {
+          "en": "secondary activities",
+          "bm": "sekunder"
+        },
+        {
+          "en": "farming",
+          "bm": "pertanian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q04",
+      "subtopicId": "f3geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The largest padi granary area in Malaysia is MADA in…",
+        "bm": "Jelapang padi terbesar di Malaysia ialah MADA di…"
+      },
+      "explanation": {
+        "en": "Other granaries: KADA (Kelantan), Kerian (Perak), Sekinchan (Selangor).",
+        "bm": "Jelapang lain: KADA (Kelantan), Kerian (Perak), Sekinchan (Selangor)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kedah and Perlis",
+          "bm": "Kedah dan Perlis"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        },
+        {
+          "en": "Pahang",
+          "bm": "Pahang"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q05",
+      "subtopicId": "f3geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The state with the largest oil palm planted area is…",
+        "bm": "Negeri yang mempunyai kawasan tanaman kelapa sawit terbesar ialah…"
+      },
+      "explanation": {
+        "en": "Sabah also has very large areas.",
+        "bm": "Sabah juga mempunyai kawasan yang sangat luas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Pulau Pinang",
+          "bm": "Pulau Pinang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q06",
+      "subtopicId": "f3geo-07-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A major electronics manufacturing area in Penang is the Bayan ______ Free Industrial Zone.",
+        "bm": "Kawasan pembuatan elektronik utama di Pulau Pinang ialah Zon Perindustrian Bebas Bayan ______."
+      },
+      "explanation": {
+        "en": "Many multinational companies are based there.",
+        "bm": "Banyak syarikat multinasional berpangkalan di situ."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Lepas"
+      ]
+    },
+    {
+      "id": "f3geo-07-q07",
+      "subtopicId": "f3geo-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a PHYSICAL factor influencing agriculture?",
+        "bm": "Antara berikut, yang manakah faktor FIZIKAL yang mempengaruhi pertanian?"
+      },
+      "explanation": {
+        "en": "Others are human factors.",
+        "bm": "Yang lain faktor manusia."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Fertile soil and suitable climate",
+          "bm": "Tanih subur dan iklim sesuai"
+        },
+        {
+          "en": "Government loans",
+          "bm": "Pinjaman kerajaan"
+        },
+        {
+          "en": "Labour",
+          "bm": "Tenaga buruh"
+        },
+        {
+          "en": "Market demand",
+          "bm": "Permintaan pasaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q08",
+      "subtopicId": "f3geo-07-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "One importance of economic activities is…",
+        "bm": "Salah satu kepentingan kegiatan ekonomi ialah…"
+      },
+      "explanation": {
+        "en": "They raise the standard of living.",
+        "bm": "Ia meningkatkan taraf hidup."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "providing jobs and income",
+          "bm": "menyediakan pekerjaan dan pendapatan"
+        },
+        {
+          "en": "causing unemployment",
+          "bm": "menyebabkan pengangguran"
+        },
+        {
+          "en": "reducing trade",
+          "bm": "mengurangkan perdagangan"
+        },
+        {
+          "en": "stopping development",
+          "bm": "menghentikan pembangunan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q09",
+      "subtopicId": "f3geo-07-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each activity with its type.",
+        "bm": "Padankan kegiatan dengan jenisnya."
+      },
+      "explanation": {
+        "en": "Ask: nature, factory or service?",
+        "bm": "Tanya: alam, kilang atau perkhidmatan?"
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Logging",
+            "bm": "Pembalakan"
+          },
+          "right": {
+            "en": "Primary",
+            "bm": "Primer"
+          }
+        },
+        {
+          "left": {
+            "en": "Palm oil refining",
+            "bm": "Penapisan minyak sawit"
+          },
+          "right": {
+            "en": "Secondary",
+            "bm": "Sekunder"
+          }
+        },
+        {
+          "left": {
+            "en": "Hotel services",
+            "bm": "Perkhidmatan hotel"
+          },
+          "right": {
+            "en": "Tertiary",
+            "bm": "Tertier"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-07-q10",
+      "subtopicId": "f3geo-07-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each place with its main economic activity.",
+        "bm": "Padankan tempat dengan kegiatan ekonomi utamanya."
+      },
+      "explanation": {
+        "en": "Location depends on resources and facilities.",
+        "bm": "Lokasi bergantung pada sumber dan kemudahan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Langkawi",
+            "bm": "Langkawi"
+          },
+          "right": {
+            "en": "Tourism",
+            "bm": "Pelancongan"
+          }
+        },
+        {
+          "left": {
+            "en": "Kerteh",
+            "bm": "Kerteh"
+          },
+          "right": {
+            "en": "Petroleum and petrochemicals",
+            "bm": "Petroleum dan petrokimia"
+          }
+        },
+        {
+          "left": {
+            "en": "Bayan Lepas",
+            "bm": "Bayan Lepas"
+          },
+          "right": {
+            "en": "Electronics manufacturing",
+            "bm": "Pembuatan elektronik"
+          }
+        },
+        {
+          "left": {
+            "en": "Cameron Highlands",
+            "bm": "Cameron Highlands"
+          },
+          "right": {
+            "en": "Tea and vegetable farming",
+            "bm": "Penanaman teh dan sayur"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-07-q11",
+      "subtopicId": "f3geo-07-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL human factors influencing economic activities.",
+        "bm": "Pilih SEMUA faktor manusia yang mempengaruhi kegiatan ekonomi."
+      },
+      "explanation": {
+        "en": "Rainfall is a physical factor.",
+        "bm": "Hujan ialah faktor fizikal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Labour",
+          "bm": "Tenaga buruh"
+        },
+        {
+          "en": "Capital",
+          "bm": "Modal"
+        },
+        {
+          "en": "Transport and infrastructure",
+          "bm": "Pengangkutan dan infrastruktur"
+        },
+        {
+          "en": "Rainfall",
+          "bm": "Hujan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-07-q12",
+      "subtopicId": "f3geo-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are many factories located near ports such as Port Klang?",
+        "bm": "Mengapakah banyak kilang terletak berhampiran pelabuhan seperti Pelabuhan Klang?"
+      },
+      "explanation": {
+        "en": "Transport reduces costs.",
+        "bm": "Pengangkutan mengurangkan kos."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Easy to import raw materials and export products",
+          "bm": "Mudah mengimport bahan mentah dan mengeksport produk"
+        },
+        {
+          "en": "There is more rain",
+          "bm": "Lebih banyak hujan"
+        },
+        {
+          "en": "Land is always free",
+          "bm": "Tanah sentiasa percuma"
+        },
+        {
+          "en": "Ports have no workers",
+          "bm": "Pelabuhan tiada pekerja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q13",
+      "subtopicId": "f3geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which state is famous for heritage tourism, listed by UNESCO together with George Town?",
+        "bm": "Negeri manakah terkenal dengan pelancongan warisan, disenaraikan UNESCO bersama George Town?"
+      },
+      "explanation": {
+        "en": "Listed as a World Heritage Site in 2008.",
+        "bm": "Disenaraikan sebagai Tapak Warisan Dunia pada 2008."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        },
+        {
+          "en": "Terengganu",
+          "bm": "Terengganu"
+        },
+        {
+          "en": "Kedah",
+          "bm": "Kedah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q14",
+      "subtopicId": "f3geo-07-04",
+      "type": "fill",
+      "prompt": {
+        "en": "Money earned from selling goods to other countries is called foreign ______.",
+        "bm": "Wang yang diperoleh daripada menjual barangan ke negara lain dipanggil pertukaran wang ______."
+      },
+      "explanation": {
+        "en": "Exports earn foreign exchange.",
+        "bm": "Eksport menjana pertukaran wang asing."
+      },
+      "difficulty": 2,
+      "answer": [
+        "exchange",
+        "asing"
+      ]
+    },
+    {
+      "id": "f3geo-07-q15",
+      "subtopicId": "f3geo-07-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does tourism help local communities?",
+        "bm": "Bagaimanakah pelancongan membantu masyarakat setempat?"
+      },
+      "explanation": {
+        "en": "Homestays are one example.",
+        "bm": "Inap desa ialah satu contoh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Creates jobs in hotels, transport, food and handicrafts",
+          "bm": "Mewujudkan pekerjaan di hotel, pengangkutan, makanan dan kraf tangan"
+        },
+        {
+          "en": "Closes local shops",
+          "bm": "Menutup kedai tempatan"
+        },
+        {
+          "en": "Reduces income",
+          "bm": "Mengurangkan pendapatan"
+        },
+        {
+          "en": "Has no benefits",
+          "bm": "Tiada faedah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q16",
+      "subtopicId": "f3geo-07-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the stages for palm oil from farm to customer.",
+        "bm": "Susun peringkat minyak sawit dari ladang kepada pelanggan."
+      },
+      "explanation": {
+        "en": "One product links all three sectors.",
+        "bm": "Satu produk menghubungkan ketiga-tiga sektor."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Harvesting fruit bunches (primary)",
+          "bm": "Menuai tandan buah (primer)"
+        },
+        {
+          "en": "Processing at a mill and refinery (secondary)",
+          "bm": "Diproses di kilang dan kilang penapisan (sekunder)"
+        },
+        {
+          "en": "Transport and selling (tertiary)",
+          "bm": "Pengangkutan dan jualan (tertier)"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-07-q17",
+      "subtopicId": "f3geo-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is padi mainly grown on flat coastal plains such as in Kedah?",
+        "bm": "Mengapakah padi ditanam terutamanya di dataran pantai yang rata seperti di Kedah?"
+      },
+      "explanation": {
+        "en": "Irrigation schemes like MADA supply water.",
+        "bm": "Skim pengairan seperti MADA membekalkan air."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Flat land, fertile alluvial soil and irrigation make padi farming easier",
+          "bm": "Tanah rata, tanih aluvium yang subur dan pengairan memudahkan penanaman padi"
+        },
+        {
+          "en": "Mountains are better for padi",
+          "bm": "Gunung lebih sesuai untuk padi"
+        },
+        {
+          "en": "It needs dry, sandy soil",
+          "bm": "Ia memerlukan tanih berpasir yang kering"
+        },
+        {
+          "en": "There are no farmers elsewhere",
+          "bm": "Tiada petani di tempat lain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q18",
+      "subtopicId": "f3geo-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why has the Klang Valley become Malaysia's main economic region?",
+        "bm": "Mengapakah Lembah Klang menjadi wilayah ekonomi utama Malaysia?"
+      },
+      "explanation": {
+        "en": "Human factors attract industries and services.",
+        "bm": "Faktor manusia menarik industri dan perkhidmatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Good infrastructure, a large labour force, capital, a major port and government offices",
+          "bm": "Infrastruktur yang baik, tenaga buruh yang ramai, modal, pelabuhan utama dan pejabat kerajaan"
+        },
+        {
+          "en": "It has the most rain",
+          "bm": "Ia mempunyai hujan paling banyak"
+        },
+        {
+          "en": "It has no population",
+          "bm": "Ia tiada penduduk"
+        },
+        {
+          "en": "It is far from ports",
+          "bm": "Ia jauh dari pelabuhan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q19",
+      "subtopicId": "f3geo-07-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "As Malaysia develops, which change in economic activities is MOST likely?",
+        "bm": "Apabila Malaysia membangun, perubahan kegiatan ekonomi manakah PALING mungkin?"
+      },
+      "explanation": {
+        "en": "Developed countries have large service sectors.",
+        "bm": "Negara maju mempunyai sektor perkhidmatan yang besar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A larger share of jobs moves to secondary and tertiary sectors",
+          "bm": "Lebih banyak pekerjaan beralih ke sektor sekunder dan tertier"
+        },
+        {
+          "en": "Everyone returns to farming only",
+          "bm": "Semua orang kembali bertani sahaja"
+        },
+        {
+          "en": "Services disappear",
+          "bm": "Perkhidmatan hilang"
+        },
+        {
+          "en": "Factories close completely",
+          "bm": "Kilang ditutup sepenuhnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-07-q20",
+      "subtopicId": "f3geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is Sabah and Sarawak's economy closely linked to primary activities?",
+        "bm": "Mengapakah ekonomi Sabah dan Sarawak berkait rapat dengan kegiatan primer?"
+      },
+      "explanation": {
+        "en": "Tourism is also growing there.",
+        "bm": "Pelancongan juga berkembang di sana."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They have large areas of land, forests, oil and gas, suitable for plantations, logging and petroleum",
+          "bm": "Ia mempunyai kawasan tanah, hutan, minyak dan gas yang luas, sesuai untuk perladangan, pembalakan dan petroleum"
+        },
+        {
+          "en": "They have no land",
+          "bm": "Ia tiada tanah"
+        },
+        {
+          "en": "They ban factories",
+          "bm": "Ia mengharamkan kilang"
+        },
+        {
+          "en": "They have no resources",
+          "bm": "Ia tiada sumber"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

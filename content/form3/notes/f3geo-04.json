@@ -5,42 +5,42 @@
     "f3geo-04-01": {
       "keyPoints": [
         {
-          "en": "Density = population ÷ area. Malaysia's population is concentrated on the west coast of the Peninsula.",
-          "bm": "Kepadatan = penduduk ÷ keluasan. Penduduk Malaysia tertumpu di pantai barat Semenanjung."
+          "en": "Tropical rainforest: lowland dipterocarp (<300 m), hill and upper dipterocarp, montane (>1,200 m). Layers: emergent, canopy, understorey, shrub, floor.",
+          "bm": "Hutan hujan tropika: dipterokarpa tanah pamah (<300 m), dipterokarpa bukit dan atas, pergunungan (>1,200 m). Lapisan: teratas, silara, bawah silara, renek, lantai."
         },
         {
-          "en": "Factors: relief, resources, economic activities, transport, history.",
-          "bm": "Faktor: bentuk muka bumi, sumber, kegiatan ekonomi, pengangkutan, sejarah."
+          "en": "Mangrove (muddy coasts, e.g. Matang), freshwater and peat swamp (waterlogged land), beach forest (rhu, ketapang).",
+          "bm": "Paya bakau (pantai berlumpur, cth. Matang), paya air tawar dan gambut (tanah bertakung), hutan pantai (rhu, ketapang)."
         }
       ]
     },
     "f3geo-04-02": {
       "keyPoints": [
         {
-          "en": "Dispersed (scattered, farming), linear (along routes), nucleated (around a centre).",
-          "bm": "Berselerak (bertaburan, pertanian), berjajar (di sepanjang laluan), berkelompok (di sekitar pusat)."
-        },
-        {
-          "en": "Hierarchy: village → town → city → conurbation.",
-          "bm": "Hierarki: kampung → pekan → bandar → konurbasi."
+          "en": "Climate (hot, wet), altitude (cooler higher up), soil and drainage decide which forest type grows where.",
+          "bm": "Iklim (panas, lembap), altitud (lebih sejuk di tempat tinggi), tanih dan saliran menentukan jenis hutan di sesuatu tempat."
         }
       ]
     },
     "f3geo-04-03": {
       "keyPoints": [
         {
-          "en": "Urbanisation is driven by rural–urban migration (push and pull factors).",
-          "bm": "Perbandaran didorong oleh migrasi luar bandar–bandar (faktor tolakan dan tarikan)."
-        },
-        {
-          "en": "Problems: congestion, squatters, pollution; villages face ageing populations.",
-          "bm": "Masalah: kesesakan, setinggan, pencemaran; kampung menghadapi penduduk yang semakin tua."
-        },
-        {
-          "en": "Solutions: public transport, urban planning, rural development.",
-          "bm": "Penyelesaian: pengangkutan awam, perancangan bandar, pembangunan luar bandar."
+          "en": "Oxygen and carbon storage, wildlife habitat, water catchment, prevents erosion, timber and medicine, tourism and research; mangroves protect coasts.",
+          "bm": "Oksigen dan simpanan karbon, habitat hidupan liar, kawasan tadahan air, mencegah hakisan, kayu balak dan ubat, pelancongan dan penyelidikan; bakau melindungi pantai."
         }
       ]
+    },
+    "f3geo-04-04": {
+      "keyPoints": [
+        {
+          "en": "Logging, agriculture, housing and mining cause erosion, landslides, floods, sedimentation, loss of habitat and haze from peat fires.",
+          "bm": "Pembalakan, pertanian, perumahan dan perlombongan menyebabkan hakisan, tanah runtuh, banjir, pemendapan, kehilangan habitat dan jerebu daripada kebakaran gambut."
+        }
+      ],
+      "tip": {
+        "en": "Always link a human activity to its effect.",
+        "bm": "Sentiasa kaitkan kegiatan manusia dengan kesannya."
+      }
     }
   }
 }

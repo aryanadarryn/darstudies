@@ -5,42 +5,22 @@
     "f3geo-03-01": {
       "keyPoints": [
         {
-          "en": "Weather = short-term; climate = long-term average (about 30 years).",
-          "bm": "Cuaca = jangka pendek; iklim = purata jangka panjang (kira-kira 30 tahun)."
+          "en": "Climate (temperature, rainfall, sunlight) is the main factor; hot and wet → dense rainforest; dry → grass or desert plants.",
+          "bm": "Iklim (suhu, hujan, cahaya matahari) faktor utama; panas dan lembap → hutan hujan tebal; kering → rumput atau tumbuhan gurun."
         },
         {
-          "en": "Instruments: thermometer (Stevenson screen), rain gauge, wet-and-dry bulb thermometer, barometer, anemometer, wind vane.",
-          "bm": "Alat: termometer (skrin Stevenson), tolok hujan, termometer bebuli basah dan kering, barometer, anemometer, ram-ram angin."
+          "en": "Relief/altitude: about −0.6 °C per 100 m, so higher areas have montane forest.",
+          "bm": "Bentuk muka bumi/altitud: kira-kira −0.6 °C setiap 100 m, jadi kawasan tinggi mempunyai hutan pergunungan."
+        },
+        {
+          "en": "Soil and drainage: waterlogged land → swamp; salty muddy coasts → mangrove. Vegetation provides food and habitat for wildlife.",
+          "bm": "Tanih dan saliran: tanah bertakung → paya; pantai berlumpur masin → bakau. Tumbuhan menyediakan makanan dan habitat kepada hidupan liar."
         }
-      ]
-    },
-    "f3geo-03-02": {
-      "keyPoints": [
-        {
-          "en": "Northeast Monsoon (about Nov–Mar): heavy rain and floods on the east coast.",
-          "bm": "Monsun Timur Laut (kira-kira Nov–Mac): hujan lebat dan banjir di pantai timur."
-        },
-        {
-          "en": "Southwest Monsoon (about May–Sept): drier for much of the Peninsula (sheltered by Sumatra).",
-          "bm": "Monsun Barat Daya (kira-kira Mei–Sept): lebih kering bagi kebanyakan Semenanjung (dilindungi Sumatera)."
-        },
-        {
-          "en": "Inter-monsoon: afternoon convectional thunderstorms. Relief rain falls on windward slopes.",
-          "bm": "Peralihan monsun: ribut petir perolakan pada waktu petang. Hujan bukit turun di cerun menghadap angin."
-        }
-      ]
-    },
-    "f3geo-03-03": {
-      "keyPoints": [
-        {
-          "en": "Equatorial climate: about 26–32 °C, over 2 000 mm rain, humidity around 80%.",
-          "bm": "Iklim khatulistiwa: kira-kira 26–32 °C, melebihi 2 000 mm hujan, kelembapan sekitar 80%."
-        },
-        {
-          "en": "Highlands are cooler because temperature falls with altitude.",
-          "bm": "Tanah tinggi lebih sejuk kerana suhu menurun dengan ketinggian."
-        }
-      ]
+      ],
+      "tip": {
+        "en": "Altitude questions: subtract 6 °C for every 1,000 m.",
+        "bm": "Soalan altitud: tolak 6 °C bagi setiap 1,000 m."
+      }
     }
   }
 }

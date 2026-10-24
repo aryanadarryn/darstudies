@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "A hiker lost on Gunung Ledang has only a paper map and a compass. Grid references, bearings and contour lines can still guide her safely down.",
-      "bm": "Seorang pendaki yang sesat di Gunung Ledang hanya mempunyai peta kertas dan kompas. Rujukan grid, bearing dan garisan kontur masih boleh membimbingnya turun dengan selamat."
+      "en": "A weather station records rainfall every day for a year. As a list of 365 numbers it means little — as a graph, the monsoon jumps out instantly.",
+      "bm": "Stesen cuaca merekod hujan setiap hari selama setahun. Sebagai senarai 365 nombor ia sukar difahami — sebagai graf, musim monsun terus kelihatan."
     },
     "bigIdeas": [
       {
-        "en": "Grid references locate places; read the easting (across) first, then the northing (up).",
-        "bm": "Rujukan grid menentukan lokasi; baca timuran (melintang) dahulu, kemudian utaraan (menegak)."
+        "en": "Tables organise data in rows and columns with a title, headings, units and source.",
+        "bm": "Jadual menyusun data dalam baris dan lajur dengan tajuk, tajuk lajur, unit dan sumber."
       },
       {
-        "en": "Scale converts map distance to real distance; bearings give exact directions clockwise from north.",
-        "bm": "Skala menukar jarak peta kepada jarak sebenar; bearing memberi arah tepat mengikut arah jam dari utara."
+        "en": "Bar graphs compare amounts; line graphs show change over time; combined graphs show two sets of data together (e.g. rainfall bars and temperature line).",
+        "bm": "Graf bar membandingkan jumlah; graf garisan menunjukkan perubahan mengikut masa; graf gabungan menunjukkan dua set data bersama (cth. bar hujan dan garisan suhu)."
       },
       {
-        "en": "Contour lines join places of equal height; close contours mean steep slopes.",
-        "bm": "Garisan kontur menyambungkan tempat yang sama tinggi; kontur yang rapat bermaksud cerun curam."
+        "en": "Interpreting means describing patterns, highest and lowest values, trends and differences.",
+        "bm": "Mentafsir bermaksud menghuraikan pola, nilai tertinggi dan terendah, trend dan perbezaan."
       }
     ],
     "infographic": {
@@ -25,92 +25,76 @@
       "data": {
         "headers": [
           {
-            "en": "Bearing",
-            "bm": "Bearing"
+            "en": "Best for",
+            "bm": "Paling sesuai untuk"
           },
           {
-            "en": "Direction",
-            "bm": "Arah"
+            "en": "Example",
+            "bm": "Contoh"
           }
         ],
         "rows": [
           {
             "label": {
-              "en": "N",
-              "bm": "N"
+              "en": "Table",
+              "bm": "Jadual"
             },
             "cells": [
               {
-                "en": "000°",
-                "bm": "000°"
+                "en": "Exact values in an organised form",
+                "bm": "Nilai tepat dalam bentuk tersusun"
               },
               {
-                "en": "North",
-                "bm": "Utara"
+                "en": "Population of each state",
+                "bm": "Penduduk setiap negeri"
               }
             ]
           },
           {
             "label": {
-              "en": "E",
-              "bm": "E"
+              "en": "Simple bar graph",
+              "bm": "Graf bar mudah"
             },
             "cells": [
               {
-                "en": "090°",
-                "bm": "090°"
+                "en": "Comparing amounts",
+                "bm": "Membandingkan jumlah"
               },
               {
-                "en": "East",
-                "bm": "Timur"
+                "en": "Rice output of four states",
+                "bm": "Pengeluaran padi empat negeri"
               }
             ]
           },
           {
             "label": {
-              "en": "S",
-              "bm": "S"
+              "en": "Simple line graph",
+              "bm": "Graf garisan mudah"
             },
             "cells": [
               {
-                "en": "180°",
-                "bm": "180°"
+                "en": "Change over time",
+                "bm": "Perubahan mengikut masa"
               },
               {
-                "en": "South",
-                "bm": "Selatan"
+                "en": "Monthly temperature",
+                "bm": "Suhu bulanan"
               }
             ]
           },
           {
             "label": {
-              "en": "W",
-              "bm": "W"
+              "en": "Combined graph",
+              "bm": "Graf gabungan"
             },
             "cells": [
               {
-                "en": "270°",
-                "bm": "270°"
+                "en": "Two related data sets",
+                "bm": "Dua set data berkaitan"
               },
               {
-                "en": "West",
-                "bm": "Barat"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "NE",
-              "bm": "NE"
-            },
-            "cells": [
-              {
-                "en": "045°",
-                "bm": "045°"
-              },
-              {
-                "en": "North-east",
-                "bm": "Timur laut"
+                "en": "Rainfall (bars) + temperature (line)",
+                "bm": "Hujan (bar) + suhu (garisan)"
               }
             ]
           }
@@ -120,74 +104,84 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Grid reference",
-          "bm": "Rujukan grid"
+          "en": "Table",
+          "bm": "Jadual"
         },
         "definition": {
-          "en": "Numbers that locate a place using the grid lines on a map.",
-          "bm": "Nombor yang menentukan lokasi menggunakan garis grid pada peta."
+          "en": "Data arranged in rows and columns.",
+          "bm": "Data yang disusun dalam baris dan lajur."
         }
       },
       {
         "term": {
-          "en": "Easting",
-          "bm": "Timuran"
+          "en": "Axis",
+          "bm": "Paksi"
         },
         "definition": {
-          "en": "Vertical grid lines, numbered increasing to the east; read first.",
-          "bm": "Garis grid menegak, nombornya bertambah ke timur; dibaca dahulu."
+          "en": "The horizontal (x) and vertical (y) lines of a graph.",
+          "bm": "Garisan mengufuk (x) dan menegak (y) pada graf."
         }
       },
       {
         "term": {
-          "en": "Bearing",
-          "bm": "Bearing"
+          "en": "Scale",
+          "bm": "Skala"
         },
         "definition": {
-          "en": "Direction in degrees measured clockwise from north (three digits).",
-          "bm": "Arah dalam darjah yang diukur mengikut arah jam dari utara (tiga digit)."
+          "en": "The value each division on an axis represents.",
+          "bm": "Nilai yang diwakili oleh setiap senggatan pada paksi."
         }
       },
       {
         "term": {
-          "en": "Contour line",
-          "bm": "Garisan kontur"
+          "en": "Key (legend)",
+          "bm": "Petunjuk"
         },
         "definition": {
-          "en": "Line joining places of the same height above sea level.",
-          "bm": "Garis yang menyambungkan tempat yang sama tinggi dari aras laut."
+          "en": "Explains the colours or symbols used.",
+          "bm": "Menerangkan warna atau simbol yang digunakan."
         }
       },
       {
         "term": {
-          "en": "Contour interval",
-          "bm": "Sela kontur"
+          "en": "Trend",
+          "bm": "Trend"
         },
         "definition": {
-          "en": "Difference in height between two neighbouring contour lines.",
-          "bm": "Perbezaan ketinggian antara dua garisan kontur bersebelahan."
+          "en": "The general direction of change in data.",
+          "bm": "Arah umum perubahan data."
+        }
+      },
+      {
+        "term": {
+          "en": "Source",
+          "bm": "Sumber"
+        },
+        "definition": {
+          "en": "Where the data came from.",
+          "bm": "Asal data diperoleh."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "On a 1 : 50 000 map, two villages are 6 cm apart. What is the real distance?",
-        "bm": "Pada peta 1 : 50 000, dua kampung berjarak 6 cm. Berapakah jarak sebenar?"
+        "en": "Rainfall for four months is 250, 180, 210 and 160 mm. Find the total and the average.",
+        "bm": "Hujan bagi empat bulan ialah 250, 180, 210 dan 160 mm. Cari jumlah dan purata."
       },
       "steps": [
         {
-          "en": "1 cm represents 50 000 cm = 0.5 km.",
-          "bm": "1 cm mewakili 50 000 cm = 0.5 km."
+          "en": "Total = 250 + 180 + 210 + 160 = 800 mm.",
+          "bm": "Jumlah = 250 + 180 + 210 + 160 = 800 mm."
         },
         {
-          "en": "6 cm × 0.5 km = 3 km.",
-          "bm": "6 cm × 0.5 km = 3 km."
+          "en": "Average = 800 ÷ 4 = 200 mm.",
+          "bm": "Purata = 800 ÷ 4 = 200 mm."
         }
       ],
       "answer": {
-        "en": "3 km",
-        "bm": "3 km"
+        "en": "800 mm in total; 200 mm per month on average.",
+        "bm": "800 mm kesemuanya; purata 200 mm sebulan."
       }
     }
   },
@@ -197,30 +191,30 @@
       "subtopicId": "f3geo-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "When giving a grid reference, which do you read first?",
-        "bm": "Semasa memberi rujukan grid, yang manakah dibaca dahulu?"
+        "en": "Which feature should every table have?",
+        "bm": "Ciri manakah perlu ada pada setiap jadual?"
       },
       "explanation": {
-        "en": "\"Along the corridor, then up the stairs.\"",
-        "bm": "\"Sepanjang koridor, kemudian naik tangga.\""
+        "en": "A source is also usually included.",
+        "bm": "Sumber juga biasanya disertakan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Easting (across)",
-          "bm": "Timuran (melintang)"
+          "en": "A title, column headings and units",
+          "bm": "Tajuk, tajuk lajur dan unit"
         },
         {
-          "en": "Northing (up)",
-          "bm": "Utaraan (menegak)"
+          "en": "Only pictures",
+          "bm": "Gambar sahaja"
         },
         {
-          "en": "Either",
-          "bm": "Mana-mana"
+          "en": "No headings",
+          "bm": "Tiada tajuk"
         },
         {
-          "en": "The title",
-          "bm": "Tajuk"
+          "en": "A pie chart",
+          "bm": "Carta pai"
         }
       ],
       "answer": 0
@@ -230,435 +224,419 @@
       "subtopicId": "f3geo-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "A bearing of 090° points…",
-        "bm": "Bearing 090° menghala ke…"
+        "en": "The main use of a table is to…",
+        "bm": "Kegunaan utama jadual ialah…"
       },
       "explanation": {
-        "en": "Bearings start at north (000°) and go clockwise.",
-        "bm": "Bearing bermula dari utara (000°) mengikut arah jam."
+        "en": "Exact values are easy to read.",
+        "bm": "Nilai tepat mudah dibaca."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "East",
-          "bm": "Timur"
+          "en": "organise data clearly in rows and columns",
+          "bm": "menyusun data dengan jelas dalam baris dan lajur"
         },
         {
-          "en": "North",
-          "bm": "Utara"
+          "en": "draw maps",
+          "bm": "melukis peta"
         },
         {
-          "en": "South",
-          "bm": "Selatan"
+          "en": "show only percentages",
+          "bm": "menunjukkan peratus sahaja"
         },
         {
-          "en": "West",
-          "bm": "Barat"
+          "en": "decorate a report",
+          "bm": "menghias laporan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-01-q03",
-      "subtopicId": "f3geo-01-01",
-      "type": "numeric",
-      "prompt": {
-        "en": "What is the bearing of due south (°)?",
-        "bm": "Berapakah bearing bagi arah selatan (°)?"
-      },
-      "explanation": {
-        "en": "South is half a turn from north: 180°.",
-        "bm": "Selatan ialah separuh pusingan dari utara: 180°."
-      },
-      "difficulty": 1,
-      "answer": 180,
-      "tolerance": 0,
-      "unit": "°"
-    },
-    {
-      "id": "f3geo-01-q04",
       "subtopicId": "f3geo-01-02",
-      "type": "numeric",
-      "prompt": {
-        "en": "On a 1 : 50 000 map, how many km does 2 cm represent?",
-        "bm": "Pada peta 1 : 50 000, berapakah km diwakili oleh 2 cm?"
-      },
-      "explanation": {
-        "en": "2 × 50 000 = 100 000 cm = 1 km.",
-        "bm": "2 × 50 000 = 100 000 cm = 1 km."
-      },
-      "difficulty": 1,
-      "answer": 1,
-      "tolerance": 0,
-      "unit": "km"
-    },
-    {
-      "id": "f3geo-01-q05",
-      "subtopicId": "f3geo-01-03",
-      "type": "fill",
-      "prompt": {
-        "en": "Lines joining places of equal height are called ______ lines.",
-        "bm": "Garis yang menyambungkan tempat yang sama tinggi dipanggil garisan ______."
-      },
-      "explanation": {
-        "en": "They show the shape and height of the land.",
-        "bm": "Ia menunjukkan bentuk dan ketinggian tanah."
-      },
-      "difficulty": 1,
-      "answer": [
-        "contour",
-        "kontur"
-      ]
-    },
-    {
-      "id": "f3geo-01-q06",
-      "subtopicId": "f3geo-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "Contour lines that are very close together show…",
-        "bm": "Garisan kontur yang sangat rapat menunjukkan…"
+        "en": "Which graph BEST shows change in temperature over 12 months?",
+        "bm": "Graf manakah PALING sesuai menunjukkan perubahan suhu selama 12 bulan?"
       },
       "explanation": {
-        "en": "Height changes quickly over a short distance.",
-        "bm": "Ketinggian berubah dengan cepat dalam jarak yang pendek."
+        "en": "Lines show trends over time.",
+        "bm": "Garisan menunjukkan trend mengikut masa."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "a steep slope",
-          "bm": "cerun curam"
+          "en": "Line graph",
+          "bm": "Graf garisan"
         },
         {
-          "en": "flat land",
-          "bm": "tanah rata"
+          "en": "Pie chart",
+          "bm": "Carta pai"
         },
         {
-          "en": "a river",
-          "bm": "sungai"
+          "en": "Table only",
+          "bm": "Jadual sahaja"
         },
         {
-          "en": "a road",
-          "bm": "jalan raya"
+          "en": "Pictogram",
+          "bm": "Piktograf"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3geo-01-q07",
+      "id": "f3geo-01-q04",
       "subtopicId": "f3geo-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "A map scale of 1 : 25 000 means 1 cm on the map represents…",
-        "bm": "Skala peta 1 : 25 000 bermaksud 1 cm pada peta mewakili…"
+        "en": "Which graph BEST compares the rice output of four states?",
+        "bm": "Graf manakah PALING sesuai membandingkan pengeluaran padi empat negeri?"
       },
       "explanation": {
-        "en": "25 000 cm = 250 m.",
-        "bm": "25 000 cm = 250 m."
+        "en": "Bars compare separate categories.",
+        "bm": "Bar membandingkan kategori berasingan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "250 m",
-          "bm": "250 m"
+          "en": "Simple bar graph",
+          "bm": "Graf bar mudah"
         },
         {
-          "en": "25 m",
-          "bm": "25 m"
+          "en": "Line graph",
+          "bm": "Graf garisan"
         },
         {
-          "en": "2.5 km",
-          "bm": "2.5 km"
+          "en": "Climograph",
+          "bm": "Klimograf"
         },
         {
-          "en": "25 km",
-          "bm": "25 km"
+          "en": "Topographic map",
+          "bm": "Peta topografi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q05",
+      "subtopicId": "f3geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A graph showing rainfall as bars and temperature as a line is a…",
+        "bm": "Graf yang menunjukkan hujan sebagai bar dan suhu sebagai garisan ialah…"
+      },
+      "explanation": {
+        "en": "It uses two vertical axes.",
+        "bm": "Ia menggunakan dua paksi menegak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "combined graph",
+          "bm": "graf gabungan"
+        },
+        {
+          "en": "pie chart",
+          "bm": "carta pai"
+        },
+        {
+          "en": "simple bar graph",
+          "bm": "graf bar mudah"
+        },
+        {
+          "en": "table",
+          "bm": "jadual"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q06",
+      "subtopicId": "f3geo-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The part of a graph that explains its colours or symbols is the ______.",
+        "bm": "Bahagian graf yang menerangkan warna atau simbol ialah ______."
+      },
+      "explanation": {
+        "en": "Needed when more than one data set is shown.",
+        "bm": "Diperlukan apabila lebih daripada satu set data ditunjukkan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "key",
+        "legend",
+        "petunjuk"
+      ]
+    },
+    {
+      "id": "f3geo-01-q07",
+      "subtopicId": "f3geo-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first step in constructing a table is to…",
+        "bm": "Langkah pertama membina jadual ialah…"
+      },
+      "explanation": {
+        "en": "Then enter the data neatly with units.",
+        "bm": "Kemudian masukkan data dengan kemas berserta unit."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "decide the title and the headings for rows and columns",
+          "bm": "menentukan tajuk serta tajuk baris dan lajur"
+        },
+        {
+          "en": "colour the cells",
+          "bm": "mewarna petak"
+        },
+        {
+          "en": "draw a pie chart",
+          "bm": "melukis carta pai"
+        },
+        {
+          "en": "write the conclusion",
+          "bm": "menulis rumusan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-01-q08",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "A four-figure grid reference locates…",
-        "bm": "Rujukan grid empat angka menentukan…"
+        "en": "Before plotting a graph, you must choose a suitable…",
+        "bm": "Sebelum memplot graf, anda mesti memilih…"
       },
       "explanation": {
-        "en": "A six-figure reference locates a more exact point.",
-        "bm": "Rujukan enam angka menentukan titik yang lebih tepat."
+        "en": "The scale must fit the highest value.",
+        "bm": "Skala mesti memuatkan nilai tertinggi."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "a grid square",
-          "bm": "satu petak grid"
+          "en": "scale for each axis",
+          "bm": "skala yang sesuai bagi setiap paksi"
         },
         {
-          "en": "an exact point",
-          "bm": "satu titik tepat"
+          "en": "colour for the title only",
+          "bm": "warna untuk tajuk sahaja"
         },
         {
-          "en": "a country",
-          "bm": "sebuah negara"
+          "en": "font size",
+          "bm": "saiz fon"
         },
         {
-          "en": "a contour",
-          "bm": "satu kontur"
+          "en": "map projection",
+          "bm": "unjuran peta"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-01-q09",
-      "subtopicId": "f3geo-01-02",
-      "type": "numeric",
+      "subtopicId": "f3geo-01-04",
+      "type": "order",
       "prompt": {
-        "en": "A road measures 7 cm on a 1 : 50 000 map. Find its real length in km.",
-        "bm": "Sebatang jalan berukuran 7 cm pada peta 1 : 50 000. Cari panjang sebenarnya dalam km."
+        "en": "Arrange the steps to draw a simple bar graph.",
+        "bm": "Susun langkah melukis graf bar mudah."
       },
       "explanation": {
-        "en": "7 × 0.5 km = 3.5 km.",
-        "bm": "7 × 0.5 km = 3.5 km."
+        "en": "Bars should have equal gaps.",
+        "bm": "Bar mesti mempunyai jarak yang sama."
       },
       "difficulty": 2,
-      "answer": 3.5,
-      "tolerance": 0,
-      "unit": "km"
+      "items": [
+        {
+          "en": "Draw and label the axes",
+          "bm": "Lukis dan labelkan paksi"
+        },
+        {
+          "en": "Choose a suitable scale",
+          "bm": "Pilih skala yang sesuai"
+        },
+        {
+          "en": "Draw bars of equal width",
+          "bm": "Lukis bar sama lebar"
+        },
+        {
+          "en": "Add the title, key and source",
+          "bm": "Tambah tajuk, petunjuk dan sumber"
+        }
+      ]
     },
     {
       "id": "f3geo-01-q10",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-05",
       "type": "numeric",
       "prompt": {
-        "en": "What is the bearing of north-west (°)?",
-        "bm": "Berapakah bearing bagi arah barat laut (°)?"
+        "en": "Rainfall for four months is 250, 180, 210 and 160 mm. What is the total (mm)?",
+        "bm": "Hujan bagi empat bulan ialah 250, 180, 210 dan 160 mm. Berapakah jumlahnya (mm)?"
       },
       "explanation": {
-        "en": "Halfway between west (270°) and north (360°): 315°.",
-        "bm": "Di tengah antara barat (270°) dan utara (360°): 315°."
+        "en": "250 + 180 + 210 + 160 = 800 mm.",
+        "bm": "250 + 180 + 210 + 160 = 800 mm."
       },
       "difficulty": 2,
-      "answer": 315,
+      "answer": 800,
       "tolerance": 0,
-      "unit": "°"
+      "unit": "mm"
     },
     {
       "id": "f3geo-01-q11",
-      "subtopicId": "f3geo-01-03",
-      "type": "mcq",
+      "subtopicId": "f3geo-01-05",
+      "type": "numeric",
       "prompt": {
-        "en": "Contours at 100 m, 200 m, 300 m… The contour interval is…",
-        "bm": "Kontur pada 100 m, 200 m, 300 m… Sela konturnya ialah…"
+        "en": "Using the same data, what is the average monthly rainfall (mm)?",
+        "bm": "Menggunakan data yang sama, berapakah purata hujan bulanan (mm)?"
       },
       "explanation": {
-        "en": "The difference between neighbouring contours.",
-        "bm": "Perbezaan antara kontur bersebelahan."
+        "en": "800 ÷ 4 = 200 mm.",
+        "bm": "800 ÷ 4 = 200 mm."
       },
       "difficulty": 2,
-      "options": [
-        {
-          "en": "100 m",
-          "bm": "100 m"
-        },
-        {
-          "en": "300 m",
-          "bm": "300 m"
-        },
-        {
-          "en": "10 m",
-          "bm": "10 m"
-        },
-        {
-          "en": "1 000 m",
-          "bm": "1 000 m"
-        }
-      ],
-      "answer": 0
+      "answer": 200,
+      "tolerance": 0,
+      "unit": "mm"
     },
     {
       "id": "f3geo-01-q12",
-      "subtopicId": "f3geo-01-03",
-      "type": "mcq",
+      "subtopicId": "f3geo-01-05",
+      "type": "numeric",
       "prompt": {
-        "en": "Contours forming closed rings that get higher towards the centre show a…",
-        "bm": "Kontur membentuk gelang tertutup yang semakin tinggi ke tengah menunjukkan…"
+        "en": "The highest temperature is 32 °C and the lowest 23 °C. What is the temperature range (°C)?",
+        "bm": "Suhu tertinggi ialah 32 °C dan terendah 23 °C. Berapakah julat suhu (°C)?"
       },
       "explanation": {
-        "en": "The highest ring marks the summit.",
-        "bm": "Gelang paling tinggi menandakan puncak."
+        "en": "Range = highest − lowest = 32 − 23 = 9 °C.",
+        "bm": "Julat = tertinggi − terendah = 32 − 23 = 9 °C."
       },
       "difficulty": 2,
-      "options": [
-        {
-          "en": "hill",
-          "bm": "bukit"
-        },
-        {
-          "en": "valley",
-          "bm": "lembah"
-        },
-        {
-          "en": "plain",
-          "bm": "dataran"
-        },
-        {
-          "en": "lake",
-          "bm": "tasik"
-        }
-      ],
-      "answer": 0
+      "answer": 9,
+      "tolerance": 0,
+      "unit": "°C"
     },
     {
       "id": "f3geo-01-q13",
-      "subtopicId": "f3geo-01-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "V-shaped contours pointing UPHILL (towards higher land) usually show…",
-        "bm": "Kontur berbentuk V yang menghala ke ARAH TANAH TINGGI biasanya menunjukkan…"
-      },
-      "explanation": {
-        "en": "Rivers flow in valleys, so V-shapes point upstream.",
-        "bm": "Sungai mengalir di lembah, jadi bentuk V menghala ke hulu."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "a valley",
-          "bm": "lembah"
-        },
-        {
-          "en": "a ridge",
-          "bm": "rabung"
-        },
-        {
-          "en": "a plateau",
-          "bm": "dataran tinggi"
-        },
-        {
-          "en": "a coast",
-          "bm": "pantai"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-01-q14",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-02",
       "type": "match",
       "prompt": {
-        "en": "Match each direction with its bearing.",
-        "bm": "Padankan arah dengan bearingnya."
+        "en": "Match each data set with the best way to show it.",
+        "bm": "Padankan set data dengan cara terbaik mempersembahkannya."
       },
       "explanation": {
-        "en": "Each 45° step is one point of the 8-point compass.",
-        "bm": "Setiap 45° ialah satu mata arah pada kompas 8 mata arah."
+        "en": "Choose by the purpose of the data.",
+        "bm": "Pilih mengikut tujuan data."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "North-east",
-            "bm": "Timur laut"
+            "en": "Population over 50 years",
+            "bm": "Penduduk dalam 50 tahun"
           },
           "right": {
-            "en": "045°",
-            "bm": "045°"
+            "en": "Line graph",
+            "bm": "Graf garisan"
           }
         },
         {
           "left": {
-            "en": "South-east",
-            "bm": "Tenggara"
+            "en": "Number of tourists in four cities",
+            "bm": "Bilangan pelancong di empat bandar"
           },
           "right": {
-            "en": "135°",
-            "bm": "135°"
+            "en": "Bar graph",
+            "bm": "Graf bar"
           }
         },
         {
           "left": {
-            "en": "South-west",
-            "bm": "Barat daya"
+            "en": "Rainfall and temperature of a town",
+            "bm": "Hujan dan suhu sebuah bandar"
           },
           "right": {
-            "en": "225°",
-            "bm": "225°"
+            "en": "Combined graph",
+            "bm": "Graf gabungan"
           }
         },
         {
           "left": {
-            "en": "West",
-            "bm": "Barat"
+            "en": "Exact population of every district",
+            "bm": "Penduduk tepat setiap daerah"
           },
           "right": {
-            "en": "270°",
-            "bm": "270°"
+            "en": "Table",
+            "bm": "Jadual"
           }
         }
       ]
     },
     {
-      "id": "f3geo-01-q15",
-      "subtopicId": "f3geo-01-01",
-      "type": "order",
+      "id": "f3geo-01-q14",
+      "subtopicId": "f3geo-01-04",
+      "type": "mcq",
       "prompt": {
-        "en": "Arrange the steps to give a six-figure grid reference.",
-        "bm": "Susun langkah memberi rujukan grid enam angka."
+        "en": "In a combined graph of a climate station, which axis usually shows rainfall?",
+        "bm": "Dalam graf gabungan stesen iklim, paksi manakah biasanya menunjukkan hujan?"
       },
       "explanation": {
-        "en": "Easting (3 digits) then northing (3 digits).",
-        "bm": "Timuran (3 digit) kemudian utaraan (3 digit)."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Find the easting line to the left of the place",
-          "bm": "Cari garis timuran di sebelah kiri tempat itu"
-        },
-        {
-          "en": "Estimate tenths across the square",
-          "bm": "Anggar persepuluh melintang petak"
-        },
-        {
-          "en": "Find the northing line below the place",
-          "bm": "Cari garis utaraan di bawah tempat itu"
-        },
-        {
-          "en": "Estimate tenths up the square",
-          "bm": "Anggar persepuluh menegak petak"
-        }
-      ]
-    },
-    {
-      "id": "f3geo-01-q16",
-      "subtopicId": "f3geo-01-03",
-      "type": "multi",
-      "prompt": {
-        "en": "Select ALL information a topographic map can show.",
-        "bm": "Pilih SEMUA maklumat yang boleh ditunjukkan peta topografi."
-      },
-      "explanation": {
-        "en": "Weather changes daily and is not shown on topographic maps.",
-        "bm": "Cuaca berubah setiap hari dan tidak ditunjukkan pada peta topografi."
+        "en": "Temperature uses the other vertical axis with a line.",
+        "bm": "Suhu menggunakan paksi menegak yang lain dengan garisan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Height of land",
-          "bm": "Ketinggian tanah"
+          "en": "One vertical axis, with bars",
+          "bm": "Satu paksi menegak, dengan bar"
         },
         {
-          "en": "Rivers and roads",
-          "bm": "Sungai dan jalan raya"
+          "en": "The horizontal axis",
+          "bm": "Paksi mengufuk"
         },
         {
-          "en": "Settlements",
-          "bm": "Petempatan"
+          "en": "No axis",
+          "bm": "Tiada paksi"
         },
         {
-          "en": "Today's weather",
-          "bm": "Cuaca hari ini"
+          "en": "The key only",
+          "bm": "Petunjuk sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q15",
+      "subtopicId": "f3geo-01-05",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL things to describe when interpreting a graph.",
+        "bm": "Pilih SEMUA perkara yang perlu dihuraikan semasa mentafsir graf."
+      },
+      "explanation": {
+        "en": "Always quote values with units.",
+        "bm": "Sentiasa nyatakan nilai berserta unit."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Highest and lowest values",
+          "bm": "Nilai tertinggi dan terendah"
+        },
+        {
+          "en": "The overall trend",
+          "bm": "Trend keseluruhan"
+        },
+        {
+          "en": "Differences between data",
+          "bm": "Perbezaan antara data"
+        },
+        {
+          "en": "The colour of the paper",
+          "bm": "Warna kertas"
         }
       ],
       "answer": [
@@ -668,117 +646,150 @@
       ]
     },
     {
-      "id": "f3geo-01-q17",
-      "subtopicId": "f3geo-01-02",
+      "id": "f3geo-01-q16",
+      "subtopicId": "f3geo-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Two hills are 4 cm apart on a 1 : 25 000 map. A hiker walks at 4 km/h. Roughly how long is the straight-line walk?",
-        "bm": "Dua bukit berjarak 4 cm pada peta 1 : 25 000. Seorang pendaki berjalan 4 km/j. Kira-kira berapa lama perjalanan garis lurus itu?"
+        "en": "Why should a table state its source?",
+        "bm": "Mengapakah jadual perlu menyatakan sumbernya?"
       },
       "explanation": {
-        "en": "4 × 250 m = 1 km; 1 km ÷ 4 km/h = 0.25 h = 15 minutes (real paths are usually longer).",
-        "bm": "4 × 250 m = 1 km; 1 km ÷ 4 km/j = 0.25 j = 15 minit (laluan sebenar biasanya lebih panjang)."
+        "en": "e.g. Jabatan Meteorologi Malaysia.",
+        "bm": "cth. Jabatan Meteorologi Malaysia."
       },
-      "difficulty": 3,
+      "difficulty": 2,
       "options": [
         {
-          "en": "15 minutes",
-          "bm": "15 minutes"
+          "en": "So readers know where the data came from and can trust it",
+          "bm": "Supaya pembaca tahu asal data dan boleh mempercayainya"
         },
         {
-          "en": "1 hour",
-          "bm": "1 hour"
+          "en": "To make it longer",
+          "bm": "Supaya lebih panjang"
         },
         {
-          "en": "4 hours",
-          "bm": "4 hours"
+          "en": "It is not needed",
+          "bm": "Tidak perlu"
         },
         {
-          "en": "30 minutes",
-          "bm": "30 minutes"
+          "en": "To hide the data",
+          "bm": "Untuk menyembunyikan data"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3geo-01-q18",
-      "subtopicId": "f3geo-01-03",
-      "type": "mcq",
+      "id": "f3geo-01-q17",
+      "subtopicId": "f3geo-01-05",
+      "type": "numeric",
       "prompt": {
-        "en": "A farmer wants a gentle slope for crops. Where on the map should he look?",
-        "bm": "Seorang petani mahukan cerun landai untuk tanaman. Di manakah dia patut mencari pada peta?"
+        "en": "Tourist arrivals rose from 2,000 to 2,500. What is the percentage increase (%)?",
+        "bm": "Kedatangan pelancong meningkat daripada 2,000 kepada 2,500. Berapakah peratus peningkatan (%)?"
       },
       "explanation": {
-        "en": "Widely spaced contours mean gentle slopes, which reduce soil erosion.",
-        "bm": "Kontur yang jarang bermaksud cerun landai, yang mengurangkan hakisan tanih."
+        "en": "(2,500 − 2,000) ÷ 2,000 × 100 = 25%.",
+        "bm": "(2,500 − 2,000) ÷ 2,000 × 100 = 25%."
+      },
+      "difficulty": 3,
+      "answer": 25,
+      "tolerance": 0.01,
+      "unit": "%"
+    },
+    {
+      "id": "f3geo-01-q18",
+      "subtopicId": "f3geo-01-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A combined graph shows the highest rainfall in November–December. What can you infer about the climate?",
+        "bm": "Graf gabungan menunjukkan hujan tertinggi pada November–Disember. Apakah inferens tentang iklim?"
+      },
+      "explanation": {
+        "en": "Many east-coast towns show this pattern.",
+        "bm": "Banyak bandar pantai timur menunjukkan pola ini."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Where contour lines are widely spaced",
-          "bm": "Di tempat garisan kontur jarang"
+          "en": "The place receives heavy rain during the Northeast Monsoon",
+          "bm": "Tempat itu menerima hujan lebat semasa Monsun Timur Laut"
         },
         {
-          "en": "Where contours are very close",
-          "bm": "Di tempat kontur sangat rapat"
+          "en": "It is a desert",
+          "bm": "Ia padang pasir"
         },
         {
-          "en": "Where contours form tight rings",
-          "bm": "Di tempat kontur membentuk gelang rapat"
+          "en": "It never rains",
+          "bm": "Hujan tidak pernah turun"
         },
         {
-          "en": "On cliffs",
-          "bm": "Di cenuram"
+          "en": "Temperature is below 0 °C",
+          "bm": "Suhu di bawah 0 °C"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-01-q19",
-      "subtopicId": "f3geo-01-01",
-      "type": "numeric",
-      "prompt": {
-        "en": "The bearing from A to B is 060°. What is the bearing from B back to A (°)?",
-        "bm": "Bearing dari A ke B ialah 060°. Berapakah bearing dari B kembali ke A (°)?"
-      },
-      "explanation": {
-        "en": "A back bearing differs by 180°: 060° + 180° = 240°.",
-        "bm": "Bearing songsang berbeza 180°: 060° + 180° = 240°."
-      },
-      "difficulty": 3,
-      "answer": 240,
-      "tolerance": 0,
-      "unit": "°"
-    },
-    {
-      "id": "f3geo-01-q20",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "Why might a dam be built where contours show a narrow valley with steep sides?",
-        "bm": "Mengapakah empangan mungkin dibina di tempat kontur menunjukkan lembah sempit bercerun curam?"
+        "en": "A student's line graph has uneven gaps between months on the x-axis. Why is this a problem?",
+        "bm": "Graf garisan seorang murid mempunyai jarak tidak sama antara bulan pada paksi-x. Mengapakah ini masalah?"
       },
       "explanation": {
-        "en": "Steep sides contain the water; a narrow gap reduces construction cost.",
-        "bm": "Cerun curam menakung air; celah sempit mengurangkan kos pembinaan."
+        "en": "Equal intervals are essential.",
+        "bm": "Selang yang sama amat penting."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "A short dam wall can hold back a large, deep reservoir",
-          "bm": "Tembok empangan yang pendek boleh menakung takungan yang besar dan dalam"
+          "en": "It distorts the trend and makes the graph misleading",
+          "bm": "Ia mengherotkan trend dan menjadikan graf mengelirukan"
         },
         {
-          "en": "Narrow valleys have no rivers",
-          "bm": "Lembah sempit tiada sungai"
+          "en": "It makes the graph more accurate",
+          "bm": "Ia menjadikan graf lebih tepat"
         },
         {
-          "en": "Flat land is too high",
-          "bm": "Tanah rata terlalu tinggi"
+          "en": "It has no effect",
+          "bm": "Ia tiada kesan"
         },
         {
-          "en": "Contours do not matter",
-          "bm": "Kontur tidak penting"
+          "en": "Graphs need uneven gaps",
+          "bm": "Graf memerlukan jarak tidak sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-01-q20",
+      "subtopicId": "f3geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why might a geographer use a graph instead of a table to present data?",
+        "bm": "Mengapakah ahli geografi mungkin menggunakan graf dan bukan jadual untuk mempersembahkan data?"
+      },
+      "explanation": {
+        "en": "Tables are better for exact values.",
+        "bm": "Jadual lebih baik untuk nilai tepat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Patterns and trends are easier to see at a glance",
+          "bm": "Pola dan trend lebih mudah dilihat sepintas lalu"
+        },
+        {
+          "en": "Graphs give more exact values",
+          "bm": "Graf memberi nilai lebih tepat"
+        },
+        {
+          "en": "Tables are not allowed",
+          "bm": "Jadual tidak dibenarkan"
+        },
+        {
+          "en": "Graphs need no data",
+          "bm": "Graf tidak memerlukan data"
         }
       ],
       "answer": 0

@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "The towering limestone hills around Ipoh and the caves of Gunung Mulu were shaped by rainwater over millions of years. Slow processes build spectacular landscapes.",
-      "bm": "Bukit batu kapur yang menjulang di sekitar Ipoh dan gua-gua di Gunung Mulu dibentuk oleh air hujan selama berjuta-juta tahun. Proses yang perlahan membina landskap yang menakjubkan."
+      "en": "If a school's students travel by bus, car, bicycle and on foot, a pie chart shows at a glance which slice is biggest.",
+      "bm": "Jika murid sekolah datang dengan bas, kereta, basikal dan berjalan kaki, carta pai menunjukkan sepintas lalu bahagian mana paling besar."
     },
     "bigIdeas": [
       {
-        "en": "Weathering breaks rocks down in place; erosion wears them away and transports the material.",
-        "bm": "Luluhawa memecahkan batuan di tempatnya; hakisan menghakis dan mengangkut bahan tersebut."
+        "en": "A pie chart shows how a whole is divided into parts (proportions or percentages).",
+        "bm": "Carta pai menunjukkan cara keseluruhan dibahagikan kepada bahagian (kadar atau peratus)."
       },
       {
-        "en": "Rivers form V-shaped valleys and waterfalls upstream, meanders in the middle, and floodplains and deltas downstream.",
-        "bm": "Sungai membentuk lurah V dan air terjun di hulu, meander di bahagian tengah, serta dataran banjir dan delta di hilir."
+        "en": "Angle of each sector = (value ÷ total) × 360°.",
+        "bm": "Sudut setiap sektor = (nilai ÷ jumlah) × 360°."
       },
       {
-        "en": "Waves erode headlands into caves, arches and stacks and deposit beaches and spits; rainwater dissolves limestone to make caves.",
-        "bm": "Ombak menghakis tanjung menjadi gua, gerbang laut dan batu tunggul, serta memendapkan pantai dan anak tanjung; air hujan melarutkan batu kapur membentuk gua."
+        "en": "Interpreting means comparing sector sizes and converting angles back to values or percentages.",
+        "bm": "Mentafsir bermaksud membandingkan saiz sektor dan menukar sudut kepada nilai atau peratus."
       }
     ],
     "infographic": {
@@ -26,42 +26,52 @@
         "steps": [
           {
             "title": {
-              "en": "Upper course",
-              "bm": "Hulu"
+              "en": "Find the total",
+              "bm": "Cari jumlah"
             },
             "detail": {
-              "en": "V-shaped valley, waterfalls, rapids",
-              "bm": "Lurah V, air terjun, jeram"
+              "en": "Add all values.",
+              "bm": "Jumlahkan semua nilai."
             }
           },
           {
             "title": {
-              "en": "Middle course",
-              "bm": "Bahagian tengah"
+              "en": "Calculate angles",
+              "bm": "Kira sudut"
             },
             "detail": {
-              "en": "Meanders",
-              "bm": "Meander (liku sungai)"
+              "en": "(value ÷ total) × 360°.",
+              "bm": "(nilai ÷ jumlah) × 360°."
             }
           },
           {
             "title": {
-              "en": "Lower course",
-              "bm": "Hilir"
+              "en": "Draw the circle",
+              "bm": "Lukis bulatan"
             },
             "detail": {
-              "en": "Floodplain, oxbow lake",
-              "bm": "Dataran banjir, tasik ladam"
+              "en": "Draw a radius as the starting line.",
+              "bm": "Lukis jejari sebagai garisan permulaan."
             }
           },
           {
             "title": {
-              "en": "Mouth",
-              "bm": "Muara"
+              "en": "Draw sectors",
+              "bm": "Lukis sektor"
             },
             "detail": {
-              "en": "Delta or estuary",
-              "bm": "Delta atau kuala"
+              "en": "Use a protractor, largest first, clockwise.",
+              "bm": "Gunakan protraktor, terbesar dahulu, ikut arah jam."
+            }
+          },
+          {
+            "title": {
+              "en": "Label",
+              "bm": "Label"
+            },
+            "detail": {
+              "en": "Add title, key or labels with percentages, and source.",
+              "bm": "Tambah tajuk, petunjuk atau label dengan peratus, dan sumber."
             }
           }
         ]
@@ -70,88 +80,74 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Weathering",
-          "bm": "Luluhawa"
+          "en": "Pie chart",
+          "bm": "Carta pai"
         },
         "definition": {
-          "en": "Breakdown of rocks in place by physical, chemical or biological action.",
-          "bm": "Pemecahan batuan di tempatnya oleh tindakan fizikal, kimia atau biologi."
+          "en": "A circle divided into sectors showing parts of a whole.",
+          "bm": "Bulatan yang dibahagikan kepada sektor bagi menunjukkan bahagian daripada keseluruhan."
         }
       },
       {
         "term": {
-          "en": "Erosion",
-          "bm": "Hakisan"
+          "en": "Sector",
+          "bm": "Sektor"
         },
         "definition": {
-          "en": "Wearing away and removal of rock and soil by water, wind or ice.",
-          "bm": "Penghakisan dan pemindahan batuan dan tanih oleh air, angin atau ais."
+          "en": "One \"slice\" of the pie chart.",
+          "bm": "Satu \"potongan\" carta pai."
         }
       },
       {
         "term": {
-          "en": "Deposition",
-          "bm": "Pemendapan"
+          "en": "Proportion",
+          "bm": "Kadar"
         },
         "definition": {
-          "en": "Dropping of material when water or wind loses energy.",
-          "bm": "Pengendapan bahan apabila air atau angin kehilangan tenaga."
+          "en": "A part compared with the whole.",
+          "bm": "Sebahagian berbanding keseluruhan."
         }
       },
       {
         "term": {
-          "en": "Meander",
-          "bm": "Meander"
+          "en": "Protractor",
+          "bm": "Protraktor"
         },
         "definition": {
-          "en": "A bend in a river.",
-          "bm": "Liku sungai."
+          "en": "A tool for measuring angles.",
+          "bm": "Alat untuk mengukur sudut."
         }
       },
       {
         "term": {
-          "en": "Oxbow lake",
-          "bm": "Tasik ladam"
+          "en": "360°",
+          "bm": "360°"
         },
         "definition": {
-          "en": "Lake formed when a meander is cut off.",
-          "bm": "Tasik yang terbentuk apabila meander terputus."
-        }
-      },
-      {
-        "term": {
-          "en": "Stalactite",
-          "bm": "Stalaktit"
-        },
-        "definition": {
-          "en": "Limestone column hanging from a cave ceiling.",
-          "bm": "Tiang batu kapur yang tergantung dari bumbung gua."
+          "en": "The total angle of a circle (= 100%).",
+          "bm": "Jumlah sudut bulatan (= 100%)."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Explain how an oxbow lake forms.",
-        "bm": "Terangkan bagaimana tasik ladam terbentuk."
+        "en": "120 of 400 students come by bus. What is the angle of the \"bus\" sector?",
+        "bm": "120 daripada 400 murid datang dengan bas. Berapakah sudut sektor \"bas\"?"
       },
       "steps": [
         {
-          "en": "Erosion on the outer bend and deposition on the inner bend make the meander loop tighter.",
-          "bm": "Hakisan di tebing luar dan pemendapan di tebing dalam menjadikan gelung meander semakin rapat."
+          "en": "Angle = (120 ÷ 400) × 360°.",
+          "bm": "Sudut = (120 ÷ 400) × 360°."
         },
         {
-          "en": "The neck of the loop narrows; during a flood the river cuts straight through.",
-          "bm": "Leher gelung semakin sempit; semasa banjir sungai memotong terus melaluinya."
-        },
-        {
-          "en": "Deposition seals off the old loop, leaving an oxbow lake.",
-          "bm": "Pemendapan menutup gelung lama, meninggalkan tasik ladam."
+          "en": "= 0.3 × 360° = 108°.",
+          "bm": "= 0.3 × 360° = 108°."
         }
       ],
       "answer": {
-        "en": "Meander → narrow neck → cut-through in flood → sealed loop = oxbow lake.",
-        "bm": "Meander → leher sempit → terpotong semasa banjir → gelung tertutup = tasik ladam."
+        "en": "108° (30%).",
+        "bm": "108° (30%)."
       }
     }
   },
@@ -161,30 +157,30 @@
       "subtopicId": "f3geo-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Breaking down of rocks in their place is called…",
-        "bm": "Pemecahan batuan di tempatnya dipanggil…"
+        "en": "A pie chart is used to show…",
+        "bm": "Carta pai digunakan untuk menunjukkan…"
       },
       "explanation": {
-        "en": "Erosion involves moving the material away.",
-        "bm": "Hakisan melibatkan pemindahan bahan."
+        "en": "e.g. land use by percentage.",
+        "bm": "cth. guna tanah mengikut peratus."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "weathering",
-          "bm": "luluhawa"
+          "en": "parts of a whole",
+          "bm": "bahagian daripada keseluruhan"
         },
         {
-          "en": "erosion",
-          "bm": "hakisan"
+          "en": "change over time",
+          "bm": "perubahan mengikut masa"
         },
         {
-          "en": "deposition",
-          "bm": "pemendapan"
+          "en": "height of land",
+          "bm": "ketinggian tanah"
         },
         {
-          "en": "transportation",
-          "bm": "pengangkutan"
+          "en": "exact daily values",
+          "bm": "nilai harian yang tepat"
         }
       ],
       "answer": 0
@@ -192,65 +188,49 @@
     {
       "id": "f3geo-02-q02",
       "subtopicId": "f3geo-02-01",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "Tree roots growing into cracks and splitting rocks is…",
-        "bm": "Akar pokok yang tumbuh ke dalam rekahan dan memecahkan batuan ialah…"
+        "en": "The total angle of a pie chart is ______ degrees.",
+        "bm": "Jumlah sudut carta pai ialah ______ darjah."
       },
       "explanation": {
-        "en": "Living things cause biological weathering.",
-        "bm": "Benda hidup menyebabkan luluhawa biologi."
+        "en": "360° represents 100%.",
+        "bm": "360° mewakili 100%."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "biological weathering",
-          "bm": "luluhawa biologi"
-        },
-        {
-          "en": "chemical weathering",
-          "bm": "luluhawa kimia"
-        },
-        {
-          "en": "deposition",
-          "bm": "pemendapan"
-        },
-        {
-          "en": "a delta",
-          "bm": "delta"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "360"
+      ]
     },
     {
       "id": "f3geo-02-q03",
-      "subtopicId": "f3geo-02-02",
+      "subtopicId": "f3geo-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Waterfalls and rapids are usually found in a river's…",
-        "bm": "Air terjun dan jeram biasanya terdapat di bahagian sungai…"
+        "en": "Each \"slice\" of a pie chart is called a…",
+        "bm": "Setiap \"potongan\" carta pai dipanggil…"
       },
       "explanation": {
-        "en": "Steep land and hard rock produce these features.",
-        "bm": "Tanah curam dan batuan keras menghasilkan ciri ini."
+        "en": "Larger sectors mean larger shares.",
+        "bm": "Sektor lebih besar bermakna bahagian lebih besar."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "upper course",
-          "bm": "hulu"
+          "en": "sector",
+          "bm": "sektor"
         },
         {
-          "en": "lower course",
-          "bm": "hilir"
+          "en": "bar",
+          "bm": "bar"
         },
         {
-          "en": "mouth",
-          "bm": "muara"
+          "en": "axis",
+          "bm": "paksi"
         },
         {
-          "en": "floodplain",
-          "bm": "dataran banjir"
+          "en": "contour",
+          "bm": "kontur"
         }
       ],
       "answer": 0
@@ -258,82 +238,98 @@
     {
       "id": "f3geo-02-q04",
       "subtopicId": "f3geo-02-02",
-      "type": "fill",
+      "type": "mcq",
       "prompt": {
-        "en": "A bend in a river is called a ______.",
-        "bm": "Liku sungai dipanggil ______."
+        "en": "The formula for a sector angle is…",
+        "bm": "Rumus sudut sektor ialah…"
       },
       "explanation": {
-        "en": "Meanders are common in the middle and lower course.",
-        "bm": "Meander biasa di bahagian tengah dan hilir."
+        "en": "For percentages: (value ÷ total) × 100%.",
+        "bm": "Untuk peratus: (nilai ÷ jumlah) × 100%."
       },
       "difficulty": 1,
-      "answer": [
-        "meander"
-      ]
+      "options": [
+        {
+          "en": "(value ÷ total) × 360°",
+          "bm": "(nilai ÷ jumlah) × 360°"
+        },
+        {
+          "en": "value × 100",
+          "bm": "nilai × 100"
+        },
+        {
+          "en": "total ÷ 360",
+          "bm": "jumlah ÷ 360"
+        },
+        {
+          "en": "value + 360",
+          "bm": "nilai + 360"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3geo-02-q05",
       "subtopicId": "f3geo-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "A fan-shaped landform at a river mouth made of deposited sediment is a…",
-        "bm": "Bentuk muka bumi seperti kipas di muara sungai yang terbentuk daripada mendapan ialah…"
+        "en": "Which tool is used to draw the sectors accurately?",
+        "bm": "Alat manakah digunakan untuk melukis sektor dengan tepat?"
       },
       "explanation": {
-        "en": "It forms where the river slows down on entering the sea.",
-        "bm": "Ia terbentuk apabila sungai menjadi perlahan apabila memasuki laut."
+        "en": "A compass draws the circle.",
+        "bm": "Jangka lukis digunakan untuk melukis bulatan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "delta",
-          "bm": "delta"
+          "en": "Protractor",
+          "bm": "Protraktor"
         },
         {
-          "en": "stack",
-          "bm": "stack"
+          "en": "Compass only",
+          "bm": "Jangka lukis sahaja"
         },
         {
-          "en": "waterfall",
-          "bm": "waterfall"
+          "en": "Thermometer",
+          "bm": "Termometer"
         },
         {
-          "en": "spit",
-          "bm": "spit"
+          "en": "Rain gauge",
+          "bm": "Tolok hujan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-02-q06",
-      "subtopicId": "f3geo-02-03",
+      "subtopicId": "f3geo-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "A limestone column hanging from a cave ceiling is a…",
-        "bm": "Tiang batu kapur yang tergantung dari bumbung gua ialah…"
+        "en": "A sector of 180° represents what percentage?",
+        "bm": "Sektor 180° mewakili berapa peratus?"
       },
       "explanation": {
-        "en": "Stalagmites grow up from the floor.",
-        "bm": "Stalagmit tumbuh dari lantai gua."
+        "en": "180 ÷ 360 = ½.",
+        "bm": "180 ÷ 360 = ½."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "stalactite",
-          "bm": "stalactite"
+          "en": "50%",
+          "bm": "50%"
         },
         {
-          "en": "stalagmite",
-          "bm": "stalagmite"
+          "en": "25%",
+          "bm": "25%"
         },
         {
-          "en": "stack",
-          "bm": "stack"
+          "en": "18%",
+          "bm": "18%"
         },
         {
-          "en": "arch",
-          "bm": "arch"
+          "en": "100%",
+          "bm": "100%"
         }
       ],
       "answer": 0
@@ -343,254 +339,272 @@
       "subtopicId": "f3geo-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "Which Malaysian site is famous for its limestone caves?",
-        "bm": "Tapak manakah di Malaysia terkenal dengan gua batu kapurnya?"
+        "en": "In a pie chart, the largest sector shows…",
+        "bm": "Dalam carta pai, sektor terbesar menunjukkan…"
       },
       "explanation": {
-        "en": "Gunung Mulu National Park is a UNESCO World Heritage Site.",
-        "bm": "Taman Negara Gunung Mulu ialah Tapak Warisan Dunia UNESCO."
+        "en": "Compare sector sizes to interpret.",
+        "bm": "Bandingkan saiz sektor untuk mentafsir."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Gunung Mulu (Sarawak)",
-          "bm": "Gunung Mulu (Sarawak)"
+          "en": "the biggest share of the total",
+          "bm": "bahagian terbesar daripada jumlah"
         },
         {
-          "en": "Pulau Langkawi beaches only",
-          "bm": "Pulau Langkawi beaches only"
+          "en": "the smallest value",
+          "bm": "nilai terkecil"
         },
         {
-          "en": "Tasik Kenyir dam wall",
-          "bm": "Tasik Kenyir dam wall"
+          "en": "the oldest data",
+          "bm": "data paling lama"
         },
         {
-          "en": "Cameron Highlands tea estates",
-          "bm": "Cameron Highlands tea estates"
+          "en": "an error",
+          "bm": "kesilapan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-02-q08",
-      "subtopicId": "f3geo-02-03",
+      "subtopicId": "f3geo-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Sand deposited by waves along the shore forms a…",
-        "bm": "Pasir yang dimendapkan ombak di sepanjang pesisir membentuk…"
+        "en": "Which data is MOST suitable for a pie chart?",
+        "bm": "Data manakah PALING sesuai untuk carta pai?"
       },
       "explanation": {
-        "en": "Beaches form in sheltered bays where waves lose energy.",
-        "bm": "Pantai terbentuk di teluk terlindung tempat ombak kehilangan tenaga."
+        "en": "The parts must add up to one whole.",
+        "bm": "Bahagian mesti menjumlah kepada satu keseluruhan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "beach",
-          "bm": "beach"
+          "en": "Percentage of land use in a district",
+          "bm": "Peratus guna tanah di sebuah daerah"
         },
         {
-          "en": "cliff",
-          "bm": "cliff"
+          "en": "Daily temperature for a month",
+          "bm": "Suhu harian sebulan"
         },
         {
-          "en": "cave",
-          "bm": "cave"
+          "en": "Population growth over 50 years",
+          "bm": "Pertumbuhan penduduk selama 50 tahun"
         },
         {
-          "en": "arch",
-          "bm": "arch"
+          "en": "Heights of mountains",
+          "bm": "Ketinggian gunung"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-02-q09",
-      "subtopicId": "f3geo-02-03",
-      "type": "order",
+      "subtopicId": "f3geo-02-02",
+      "type": "numeric",
       "prompt": {
-        "en": "Arrange how a headland is eroded over time.",
-        "bm": "Susun bagaimana tanjung terhakis dari masa ke masa."
+        "en": "120 of 400 students travel by bus. Calculate the angle of the bus sector (°).",
+        "bm": "120 daripada 400 murid menaiki bas. Hitung sudut sektor bas (°)."
       },
       "explanation": {
-        "en": "Waves widen cracks into caves, cut through to make arches, and the roof collapses to leave stacks.",
-        "bm": "Ombak membesarkan rekahan menjadi gua, menembusinya menjadi gerbang laut, dan bumbung runtuh meninggalkan batu tunggul."
+        "en": "(120 ÷ 400) × 360 = 108°.",
+        "bm": "(120 ÷ 400) × 360 = 108°."
       },
       "difficulty": 2,
-      "items": [
-        {
-          "en": "Crack",
-          "bm": "Rekahan"
-        },
-        {
-          "en": "Cave",
-          "bm": "Gua"
-        },
-        {
-          "en": "Arch",
-          "bm": "Gerbang laut"
-        },
-        {
-          "en": "Stack",
-          "bm": "Batu tunggul"
-        },
-        {
-          "en": "Stump",
-          "bm": "Tunggul batu"
-        }
-      ]
+      "answer": 108,
+      "tolerance": 0,
+      "unit": "°"
     },
     {
       "id": "f3geo-02-q10",
       "subtopicId": "f3geo-02-02",
-      "type": "match",
+      "type": "numeric",
       "prompt": {
-        "en": "Match each river course with its typical landform.",
-        "bm": "Padankan bahagian sungai dengan bentuk muka bumi tipikalnya."
+        "en": "45 of 180 hectares are padi fields. What is the sector angle (°)?",
+        "bm": "45 daripada 180 hektar ialah sawah padi. Berapakah sudut sektor (°)?"
       },
       "explanation": {
-        "en": "The river loses energy and deposits more as it moves downstream.",
-        "bm": "Sungai kehilangan tenaga dan lebih banyak memendap semasa mengalir ke hilir."
+        "en": "(45 ÷ 180) × 360 = 90°.",
+        "bm": "(45 ÷ 180) × 360 = 90°."
+      },
+      "difficulty": 2,
+      "answer": 90,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f3geo-02-q11",
+      "subtopicId": "f3geo-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A sector has an angle of 72°. What percentage does it represent (%)?",
+        "bm": "Satu sektor bersudut 72°. Berapakah peratus yang diwakilinya (%)?"
+      },
+      "explanation": {
+        "en": "72 ÷ 360 × 100 = 20%.",
+        "bm": "72 ÷ 360 × 100 = 20%."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "%"
+    },
+    {
+      "id": "f3geo-02-q12",
+      "subtopicId": "f3geo-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to construct a pie chart.",
+        "bm": "Susun langkah membina carta pai."
+      },
+      "explanation": {
+        "en": "Check that the angles add up to 360°.",
+        "bm": "Pastikan sudut menjumlah 360°."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Find the total",
+          "bm": "Cari jumlah"
+        },
+        {
+          "en": "Calculate each angle",
+          "bm": "Kira setiap sudut"
+        },
+        {
+          "en": "Draw the circle and a starting radius",
+          "bm": "Lukis bulatan dan jejari permulaan"
+        },
+        {
+          "en": "Draw the sectors with a protractor",
+          "bm": "Lukis sektor dengan protraktor"
+        },
+        {
+          "en": "Add labels, title and source",
+          "bm": "Tambah label, tajuk dan sumber"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-02-q13",
+      "subtopicId": "f3geo-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "After calculating, the angles add up to 358°. What should you do?",
+        "bm": "Selepas dikira, jumlah sudut ialah 358°. Apakah yang patut dilakukan?"
+      },
+      "explanation": {
+        "en": "Rounding can cause small errors.",
+        "bm": "Pembundaran boleh menyebabkan ralat kecil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Check calculations and rounding until the total is 360°",
+          "bm": "Semak pengiraan dan pembundaran sehingga jumlahnya 360°"
+        },
+        {
+          "en": "Draw it anyway",
+          "bm": "Lukis sahaja"
+        },
+        {
+          "en": "Add a blank sector",
+          "bm": "Tambah sektor kosong"
+        },
+        {
+          "en": "Use a bar graph",
+          "bm": "Gunakan graf bar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-02-q14",
+      "subtopicId": "f3geo-02-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each angle with its percentage.",
+        "bm": "Padankan sudut dengan peratusnya."
+      },
+      "explanation": {
+        "en": "% = angle ÷ 360 × 100.",
+        "bm": "% = sudut ÷ 360 × 100."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "Upper course",
-            "bm": "Hulu"
+            "en": "90°",
+            "bm": "90°"
           },
           "right": {
-            "en": "V-shaped valley",
-            "bm": "Lurah V"
+            "en": "25%",
+            "bm": "25%"
           }
         },
         {
           "left": {
-            "en": "Middle course",
-            "bm": "Bahagian tengah"
+            "en": "36°",
+            "bm": "36°"
           },
           "right": {
-            "en": "Meander",
-            "bm": "Meander"
+            "en": "10%",
+            "bm": "10%"
           }
         },
         {
           "left": {
-            "en": "Lower course",
-            "bm": "Hilir"
+            "en": "180°",
+            "bm": "180°"
           },
           "right": {
-            "en": "Oxbow lake",
-            "bm": "Tasik ladam"
+            "en": "50%",
+            "bm": "50%"
           }
         },
         {
           "left": {
-            "en": "Mouth",
-            "bm": "Muara"
+            "en": "270°",
+            "bm": "270°"
           },
           "right": {
-            "en": "Delta",
-            "bm": "Delta"
+            "en": "75%",
+            "bm": "75%"
           }
         }
       ]
     },
     {
-      "id": "f3geo-02-q11",
+      "id": "f3geo-02-q15",
       "subtopicId": "f3geo-02-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Rainwater containing carbon dioxide dissolves limestone. This is…",
-        "bm": "Air hujan yang mengandungi karbon dioksida melarutkan batu kapur. Ini ialah…"
-      },
-      "explanation": {
-        "en": "The weak acid reacts with calcium carbonate.",
-        "bm": "Asid lemah bertindak balas dengan kalsium karbonat."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "chemical weathering",
-          "bm": "luluhawa kimia"
-        },
-        {
-          "en": "biological weathering",
-          "bm": "luluhawa biologi"
-        },
-        {
-          "en": "physical weathering",
-          "bm": "luluhawa fizikal"
-        },
-        {
-          "en": "deposition",
-          "bm": "pemendapan"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-02-q12",
-      "subtopicId": "f3geo-02-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "In Malaysia's hot, wet climate, which weathering is most common?",
-        "bm": "Dalam iklim panas dan lembap Malaysia, luluhawa manakah paling biasa?"
-      },
-      "explanation": {
-        "en": "Heat and moisture speed up chemical reactions.",
-        "bm": "Haba dan kelembapan mempercepat tindak balas kimia."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Chemical weathering",
-          "bm": "Luluhawa kimia"
-        },
-        {
-          "en": "Frost action",
-          "bm": "Tindakan fros"
-        },
-        {
-          "en": "Ice wedging",
-          "bm": "Baji ais"
-        },
-        {
-          "en": "None",
-          "bm": "Tiada"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-02-q13",
-      "subtopicId": "f3geo-02-02",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL features found on a river's floodplain.",
-        "bm": "Pilih SEMUA ciri di dataran banjir sungai."
+        "en": "Select ALL features of a complete pie chart.",
+        "bm": "Pilih SEMUA ciri carta pai yang lengkap."
       },
       "explanation": {
-        "en": "Waterfalls are typical of the upper course.",
-        "bm": "Air terjun tipikal di bahagian hulu."
+        "en": "Pie charts have no axes.",
+        "bm": "Carta pai tiada paksi."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Meanders",
-          "bm": "Meander"
+          "en": "Title",
+          "bm": "Tajuk"
         },
         {
-          "en": "Oxbow lakes",
-          "bm": "Tasik ladam"
+          "en": "Labels or key for each sector",
+          "bm": "Label atau petunjuk setiap sektor"
         },
         {
-          "en": "Fertile alluvial soil",
-          "bm": "Tanih aluvium yang subur"
+          "en": "Source of data",
+          "bm": "Sumber data"
         },
         {
-          "en": "Waterfalls",
-          "bm": "Air terjun"
+          "en": "An x-axis",
+          "bm": "Paksi-x"
         }
       ],
       "answer": [
@@ -600,151 +614,68 @@
       ]
     },
     {
-      "id": "f3geo-02-q14",
-      "subtopicId": "f3geo-02-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "A narrow ridge of sand extending from the coast into the sea is a…",
-        "bm": "Rabung pasir sempit yang menganjur dari pantai ke laut ialah…"
-      },
-      "explanation": {
-        "en": "Longshore drift carries sand along the coast.",
-        "bm": "Hanyutan pesisir membawa pasir di sepanjang pantai."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "spit",
-          "bm": "anak tanjung"
-        },
-        {
-          "en": "stack",
-          "bm": "batu tunggul"
-        },
-        {
-          "en": "cave",
-          "bm": "gua"
-        },
-        {
-          "en": "cliff",
-          "bm": "cenuram"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-02-q15",
+      "id": "f3geo-02-q16",
       "subtopicId": "f3geo-02-03",
       "type": "fill",
       "prompt": {
-        "en": "A limestone column growing up from the cave floor is a ______.",
-        "bm": "Tiang batu kapur yang tumbuh dari lantai gua ialah ______."
+        "en": "A pie chart cannot show change over ______ well; use a line graph instead.",
+        "bm": "Carta pai tidak sesuai menunjukkan perubahan mengikut ______; gunakan graf garisan."
       },
       "explanation": {
-        "en": "When it joins a stalactite, it forms a pillar.",
-        "bm": "Apabila bercantum dengan stalaktit, ia membentuk tiang."
+        "en": "Use two pie charts to compare two years.",
+        "bm": "Gunakan dua carta pai untuk membandingkan dua tahun."
       },
       "difficulty": 2,
       "answer": [
-        "stalagmite",
-        "stalagmit"
+        "time",
+        "masa"
       ]
     },
     {
-      "id": "f3geo-02-q16",
-      "subtopicId": "f3geo-02-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "On the outer bend of a meander, the river mainly…",
-        "bm": "Di tebing luar meander, sungai terutamanya…"
-      },
-      "explanation": {
-        "en": "Water flows fastest on the outer bend.",
-        "bm": "Air mengalir paling laju di tebing luar."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "erodes",
-          "bm": "menghakis"
-        },
-        {
-          "en": "deposits",
-          "bm": "memendap"
-        },
-        {
-          "en": "stops flowing",
-          "bm": "berhenti mengalir"
-        },
-        {
-          "en": "freezes",
-          "bm": "membeku"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "f3geo-02-q17",
-      "subtopicId": "f3geo-02-02",
-      "type": "mcq",
+      "subtopicId": "f3geo-02-03",
+      "type": "numeric",
       "prompt": {
-        "en": "Why are floodplains and deltas often used for paddy farming in Malaysia?",
-        "bm": "Mengapakah dataran banjir dan delta sering digunakan untuk penanaman padi di Malaysia?"
+        "en": "A pie chart shows the total population of a town as 2,000. A sector of 90° represents how many people?",
+        "bm": "Carta pai menunjukkan jumlah penduduk sebuah bandar ialah 2,000. Sektor 90° mewakili berapa orang?"
       },
       "explanation": {
-        "en": "Examples include the Kedah–Perlis plain.",
-        "bm": "Contohnya dataran Kedah–Perlis."
+        "en": "90 ÷ 360 × 2,000 = 500.",
+        "bm": "90 ÷ 360 × 2,000 = 500."
       },
       "difficulty": 3,
-      "options": [
-        {
-          "en": "They are flat with fertile alluvial soil and plenty of water",
-          "bm": "Ia rata dengan tanih aluvium subur dan banyak air"
-        },
-        {
-          "en": "They are mountainous",
-          "bm": "Ia bergunung-ganang"
-        },
-        {
-          "en": "They have no rain",
-          "bm": "Ia tiada hujan"
-        },
-        {
-          "en": "They are made of limestone",
-          "bm": "Ia diperbuat daripada batu kapur"
-        }
-      ],
-      "answer": 0
+      "answer": 500,
+      "tolerance": 0
     },
     {
       "id": "f3geo-02-q18",
       "subtopicId": "f3geo-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "Why can a sea arch eventually become a stack?",
-        "bm": "Mengapakah gerbang laut akhirnya boleh menjadi batu tunggul?"
+        "en": "Two pie charts show land use in 2000 and 2020. Forest fell from 60% to 40%. What is the BEST interpretation?",
+        "bm": "Dua carta pai menunjukkan guna tanah tahun 2000 dan 2020. Hutan berkurang daripada 60% kepada 40%. Apakah tafsiran PALING tepat?"
       },
       "explanation": {
-        "en": "Wave attack and weathering continue all the time.",
-        "bm": "Serangan ombak dan luluhawa berterusan sepanjang masa."
+        "en": "Link the change to human activities.",
+        "bm": "Kaitkan perubahan dengan kegiatan manusia."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Continued erosion weakens the arch roof until it collapses",
-          "bm": "Hakisan berterusan melemahkan bumbung gerbang sehingga runtuh"
+          "en": "Forest area fell by 20 percentage points, probably cleared for other uses",
+          "bm": "Kawasan hutan berkurang 20 mata peratus, mungkin ditebang untuk kegunaan lain"
         },
         {
-          "en": "Sand builds it up",
-          "bm": "Pasir membinanya"
+          "en": "Forest increased",
+          "bm": "Hutan bertambah"
         },
         {
-          "en": "Coral grows on it",
-          "bm": "Karang tumbuh di atasnya"
+          "en": "Nothing changed",
+          "bm": "Tiada perubahan"
         },
         {
-          "en": "Rivers deposit on it",
-          "bm": "Sungai memendap di atasnya"
+          "en": "The town disappeared",
+          "bm": "Bandar itu hilang"
         }
       ],
       "answer": 0
@@ -754,30 +685,30 @@
       "subtopicId": "f3geo-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Clearing forest on steep slopes in a wet climate can lead to…",
-        "bm": "Membersihkan hutan di cerun curam dalam iklim lembap boleh menyebabkan…"
+        "en": "Why is a pie chart unsuitable when the parts do not add up to one whole?",
+        "bm": "Mengapakah carta pai tidak sesuai jika bahagian tidak menjumlah kepada satu keseluruhan?"
       },
       "explanation": {
-        "en": "Roots hold soil; without them, heavy rain washes soil away.",
-        "bm": "Akar memegang tanih; tanpanya, hujan lebat menghanyutkan tanih."
+        "en": "e.g. monthly rainfall for different towns is not one whole.",
+        "bm": "cth. hujan bulanan bandar berbeza bukan satu keseluruhan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "more soil erosion and landslides",
-          "bm": "lebih banyak hakisan tanih dan tanah runtuh"
+          "en": "Sectors represent shares of 100%, so the data must form a complete total",
+          "bm": "Sektor mewakili bahagian daripada 100%, jadi data mesti membentuk jumlah yang lengkap"
         },
         {
-          "en": "more stalactites",
-          "bm": "lebih banyak stalaktit"
+          "en": "Pie charts need negative values",
+          "bm": "Carta pai memerlukan nilai negatif"
         },
         {
-          "en": "less rain",
-          "bm": "kurang hujan"
+          "en": "Circles are hard to draw",
+          "bm": "Bulatan sukar dilukis"
         },
         {
-          "en": "new deltas inland",
-          "bm": "delta baharu di pedalaman"
+          "en": "It is always suitable",
+          "bm": "Ia sentiasa sesuai"
         }
       ],
       "answer": 0
@@ -787,30 +718,30 @@
       "subtopicId": "f3geo-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "A town is built on the inner bend of a meander. Why might this be safer than the outer bend?",
-        "bm": "Sebuah bandar dibina di tebing dalam meander. Mengapakah ini mungkin lebih selamat daripada tebing luar?"
+        "en": "Why are sectors usually drawn from the largest to the smallest, clockwise?",
+        "bm": "Mengapakah sektor biasanya dilukis daripada terbesar kepada terkecil, mengikut arah jam?"
       },
       "explanation": {
-        "en": "Buildings on the outer bank risk being undercut by erosion (floods can still happen anywhere on a floodplain).",
-        "bm": "Bangunan di tebing luar berisiko terhakis (banjir masih boleh berlaku di mana-mana di dataran banjir)."
+        "en": "A neat order helps interpretation.",
+        "bm": "Susunan kemas membantu tafsiran."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The inner bend has deposition, while the outer bend is being eroded",
-          "bm": "Tebing dalam mengalami pemendapan, manakala tebing luar dihakis"
+          "en": "It makes the chart easier to read and compare",
+          "bm": "Ia memudahkan carta dibaca dan dibandingkan"
         },
         {
-          "en": "The inner bend never floods",
-          "bm": "Tebing dalam tidak pernah banjir"
+          "en": "It is required for the angles to work",
+          "bm": "Ia diperlukan supaya sudut betul"
         },
         {
-          "en": "The outer bend has no water",
-          "bm": "Tebing luar tiada air"
+          "en": "Small sectors cannot be drawn",
+          "bm": "Sektor kecil tidak boleh dilukis"
         },
         {
-          "en": "There is no difference",
-          "bm": "Tiada perbezaan"
+          "en": "It has no purpose",
+          "bm": "Tiada tujuan"
         }
       ],
       "answer": 0

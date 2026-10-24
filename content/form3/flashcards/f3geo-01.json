@@ -5,180 +5,180 @@
       "id": "f3geo-01-f01",
       "subtopicId": "f3geo-01-01",
       "front": {
-        "en": "Grid reference order",
-        "bm": "Susunan rujukan grid"
+        "en": "Table features",
+        "bm": "Ciri jadual"
       },
       "back": {
-        "en": "Easting first, then northing",
-        "bm": "Timuran dahulu, kemudian utaraan"
+        "en": "Title, headings, units, source",
+        "bm": "Tajuk, tajuk lajur/baris, unit, sumber"
       }
     },
     {
       "id": "f3geo-01-f02",
       "subtopicId": "f3geo-01-01",
       "front": {
-        "en": "4-figure reference",
-        "bm": "Rujukan 4 angka"
+        "en": "Table use",
+        "bm": "Kegunaan jadual"
       },
       "back": {
-        "en": "Locates a grid square",
-        "bm": "Menentukan petak grid"
+        "en": "Exact values, organised clearly",
+        "bm": "Nilai tepat, tersusun jelas"
       }
     },
     {
       "id": "f3geo-01-f03",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-02",
       "front": {
-        "en": "6-figure reference",
-        "bm": "Rujukan 6 angka"
+        "en": "Bar graph",
+        "bm": "Graf bar"
       },
       "back": {
-        "en": "Locates a point within the square",
-        "bm": "Menentukan titik dalam petak"
+        "en": "Compares amounts between categories",
+        "bm": "Membandingkan jumlah antara kategori"
       }
     },
     {
       "id": "f3geo-01-f04",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-02",
       "front": {
-        "en": "Bearing",
-        "bm": "Bearing"
+        "en": "Line graph",
+        "bm": "Graf garisan"
       },
       "back": {
-        "en": "Degrees clockwise from north, 3 digits",
-        "bm": "Darjah mengikut arah jam dari utara, 3 digit"
+        "en": "Shows change over time",
+        "bm": "Menunjukkan perubahan mengikut masa"
       }
     },
     {
       "id": "f3geo-01-f05",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-02",
       "front": {
-        "en": "N / E / S / W bearings",
-        "bm": "Bearing U / T / S / B"
+        "en": "Combined graph",
+        "bm": "Graf gabungan"
       },
       "back": {
-        "en": "000° / 090° / 180° / 270°",
-        "bm": "000° / 090° / 180° / 270°"
+        "en": "Two data sets; e.g. rainfall bars + temperature line",
+        "bm": "Dua set data; cth. bar hujan + garisan suhu"
       }
     },
     {
       "id": "f3geo-01-f06",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-02",
       "front": {
-        "en": "NE / SE / SW / NW",
-        "bm": "TL / TG / BD / BL"
+        "en": "Graph features",
+        "bm": "Ciri graf"
       },
       "back": {
-        "en": "045° / 135° / 225° / 315°",
-        "bm": "045° / 135° / 225° / 315°"
+        "en": "Title, labelled axes, scale, key, source",
+        "bm": "Tajuk, paksi berlabel, skala, petunjuk, sumber"
       }
     },
     {
       "id": "f3geo-01-f07",
-      "subtopicId": "f3geo-01-01",
+      "subtopicId": "f3geo-01-03",
       "front": {
-        "en": "Back bearing",
-        "bm": "Bearing songsang"
+        "en": "Building a table",
+        "bm": "Membina jadual"
       },
       "back": {
-        "en": "± 180°",
-        "bm": "± 180°"
+        "en": "Title → headings → data with units → source",
+        "bm": "Tajuk → tajuk lajur → data dengan unit → sumber"
       }
     },
     {
       "id": "f3geo-01-f08",
-      "subtopicId": "f3geo-01-02",
+      "subtopicId": "f3geo-01-04",
       "front": {
-        "en": "1 : 50 000",
-        "bm": "1 : 50 000"
+        "en": "Choosing a scale",
+        "bm": "Memilih skala"
       },
       "back": {
-        "en": "1 cm = 0.5 km; 2 cm = 1 km",
-        "bm": "1 cm = 0.5 km; 2 cm = 1 km"
+        "en": "Fit the highest value; equal intervals",
+        "bm": "Muatkan nilai tertinggi; selang sama"
       }
     },
     {
       "id": "f3geo-01-f09",
-      "subtopicId": "f3geo-01-02",
+      "subtopicId": "f3geo-01-04",
       "front": {
-        "en": "1 : 25 000",
-        "bm": "1 : 25 000"
+        "en": "Bar graph rules",
+        "bm": "Peraturan graf bar"
       },
       "back": {
-        "en": "1 cm = 250 m; 4 cm = 1 km",
-        "bm": "1 cm = 250 m; 4 cm = 1 km"
+        "en": "Equal width and equal gaps",
+        "bm": "Lebar dan jarak sama"
       }
     },
     {
       "id": "f3geo-01-f10",
-      "subtopicId": "f3geo-01-02",
+      "subtopicId": "f3geo-01-04",
       "front": {
-        "en": "Measuring curved distance",
-        "bm": "Mengukur jarak berliku"
+        "en": "Combined graph axes",
+        "bm": "Paksi graf gabungan"
       },
       "back": {
-        "en": "Use string or paper edge along the route",
-        "bm": "Guna benang atau tepi kertas mengikut laluan"
+        "en": "Two vertical axes (e.g. mm and °C)",
+        "bm": "Dua paksi menegak (cth. mm dan °C)"
       }
     },
     {
       "id": "f3geo-01-f11",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-05",
       "front": {
-        "en": "Contour line",
-        "bm": "Garisan kontur"
+        "en": "Interpreting",
+        "bm": "Mentafsir"
       },
       "back": {
-        "en": "Joins places of equal height",
-        "bm": "Menyambungkan tempat sama tinggi"
+        "en": "Highest, lowest, trend, differences",
+        "bm": "Tertinggi, terendah, trend, perbezaan"
       }
     },
     {
       "id": "f3geo-01-f12",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-05",
       "front": {
-        "en": "Close contours",
-        "bm": "Kontur rapat"
+        "en": "Range",
+        "bm": "Julat"
       },
       "back": {
-        "en": "Steep slope",
-        "bm": "Cerun curam"
+        "en": "Highest − lowest",
+        "bm": "Tertinggi − terendah"
       }
     },
     {
       "id": "f3geo-01-f13",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-05",
       "front": {
-        "en": "Widely spaced contours",
-        "bm": "Kontur jarang"
+        "en": "Average",
+        "bm": "Purata"
       },
       "back": {
-        "en": "Gentle slope",
-        "bm": "Cerun landai"
+        "en": "Total ÷ number of values",
+        "bm": "Jumlah ÷ bilangan nilai"
       }
     },
     {
       "id": "f3geo-01-f14",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-05",
       "front": {
-        "en": "Closed rings rising inward",
-        "bm": "Gelang tertutup meninggi ke dalam"
+        "en": "Percentage change",
+        "bm": "Peratus perubahan"
       },
       "back": {
-        "en": "Hill",
-        "bm": "Bukit"
+        "en": "(New − old) ÷ old × 100",
+        "bm": "(Baharu − lama) ÷ lama × 100"
       }
     },
     {
       "id": "f3geo-01-f15",
-      "subtopicId": "f3geo-01-03",
+      "subtopicId": "f3geo-01-05",
       "front": {
-        "en": "V-shape pointing uphill",
-        "bm": "Bentuk V menghala ke tanah tinggi"
+        "en": "Quote with units",
+        "bm": "Nyatakan dengan unit"
       },
       "back": {
-        "en": "Valley",
-        "bm": "Lembah"
+        "en": "e.g. 250 mm, 32 °C",
+        "bm": "cth. 250 mm, 32 °C"
       }
     }
   ]

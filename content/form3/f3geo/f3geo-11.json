@@ -1,0 +1,774 @@
+{
+  "chapterId": "f3geo-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An aluminium can that is recycled can be back on a shop shelf as a new can in a few weeks — using far less energy than making it from bauxite.",
+      "bm": "Tin aluminium yang dikitar semula boleh kembali ke rak kedai sebagai tin baharu dalam beberapa minggu — menggunakan tenaga yang jauh lebih sedikit berbanding menghasilkannya daripada bauksit."
+    },
+    "bigIdeas": [
+      {
+        "en": "The 3R are Reduce, Reuse and Recycle; reducing waste is the most effective.",
+        "bm": "3R ialah Kurangkan, Guna Semula dan Kitar Semula; mengurangkan sisa paling berkesan."
+      },
+      {
+        "en": "In Malaysia, recycling bins are blue for paper, orange for plastic and metal (aluminium) and brown for glass.",
+        "bm": "Di Malaysia, tong kitar semula berwarna biru untuk kertas, jingga untuk plastik dan logam (aluminium) dan coklat untuk kaca."
+      },
+      {
+        "en": "Recycling saves resources and energy, reduces landfill and pollution; countries such as Japan, Germany and Sweden have strong recycling systems.",
+        "bm": "Kitar semula menjimatkan sumber dan tenaga serta mengurangkan tapak pelupusan dan pencemaran; negara seperti Jepun, Jerman dan Sweden mempunyai sistem kitar semula yang kukuh."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Bin colour",
+            "bm": "Warna tong"
+          },
+          {
+            "en": "Examples",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Paper",
+              "bm": "Kertas"
+            },
+            "cells": [
+              {
+                "en": "Blue",
+                "bm": "Biru"
+              },
+              {
+                "en": "Newspapers, boxes, books",
+                "bm": "Surat khabar, kotak, buku"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Plastic and metal",
+              "bm": "Plastik dan logam"
+            },
+            "cells": [
+              {
+                "en": "Orange",
+                "bm": "Jingga"
+              },
+              {
+                "en": "Plastic bottles, aluminium cans",
+                "bm": "Botol plastik, tin aluminium"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Glass",
+              "bm": "Kaca"
+            },
+            "cells": [
+              {
+                "en": "Brown",
+                "bm": "Coklat"
+              },
+              {
+                "en": "Glass bottles and jars",
+                "bm": "Botol dan balang kaca"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "3R",
+          "bm": "3R"
+        },
+        "definition": {
+          "en": "Reduce, Reuse, Recycle.",
+          "bm": "Kurangkan, Guna Semula, Kitar Semula."
+        }
+      },
+      {
+        "term": {
+          "en": "Recycling",
+          "bm": "Kitar semula"
+        },
+        "definition": {
+          "en": "Processing used materials into new products.",
+          "bm": "Memproses bahan terpakai menjadi produk baharu."
+        }
+      },
+      {
+        "term": {
+          "en": "Separation at source",
+          "bm": "Pengasingan sisa di punca"
+        },
+        "definition": {
+          "en": "Sorting waste at home before collection.",
+          "bm": "Mengasingkan sisa di rumah sebelum dikutip."
+        }
+      },
+      {
+        "term": {
+          "en": "Landfill",
+          "bm": "Tapak pelupusan sampah"
+        },
+        "definition": {
+          "en": "A site where rubbish is buried.",
+          "bm": "Tapak tempat sampah ditanam."
+        }
+      },
+      {
+        "term": {
+          "en": "SWCorp",
+          "bm": "SWCorp"
+        },
+        "definition": {
+          "en": "Solid Waste and Public Cleansing Management Corporation.",
+          "bm": "Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A family recycles 4 kg of paper every month. How much is that in a year?",
+        "bm": "Sebuah keluarga mengitar semula 4 kg kertas setiap bulan. Berapakah jumlahnya setahun?"
+      },
+      "steps": [
+        {
+          "en": "4 kg × 12 months.",
+          "bm": "4 kg × 12 bulan."
+        },
+        {
+          "en": "= 48 kg.",
+          "bm": "= 48 kg."
+        }
+      ],
+      "answer": {
+        "en": "48 kg of paper kept out of the landfill each year.",
+        "bm": "48 kg kertas tidak dibuang ke tapak pelupusan setiap tahun."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-11-q01",
+      "subtopicId": "f3geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The 3R stand for…",
+        "bm": "3R ialah…"
+      },
+      "explanation": {
+        "en": "Reduce is the most effective.",
+        "bm": "Kurangkan paling berkesan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Reduce, Reuse, Recycle",
+          "bm": "Kurangkan, Guna Semula, Kitar Semula"
+        },
+        {
+          "en": "Read, Rest, Run",
+          "bm": "Baca, Rehat, Lari"
+        },
+        {
+          "en": "Repair, Return, Rent",
+          "bm": "Baiki, Pulang, Sewa"
+        },
+        {
+          "en": "Rain, River, Rock",
+          "bm": "Hujan, Sungai, Batu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q02",
+      "subtopicId": "f3geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In Malaysia, the BLUE recycling bin is for…",
+        "bm": "Di Malaysia, tong kitar semula BIRU untuk…"
+      },
+      "explanation": {
+        "en": "Orange: plastic and metal; brown: glass.",
+        "bm": "Jingga: plastik dan logam; coklat: kaca."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "paper",
+          "bm": "kertas"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        },
+        {
+          "en": "food waste",
+          "bm": "sisa makanan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q03",
+      "subtopicId": "f3geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Glass bottles should go into the…",
+        "bm": "Botol kaca patut dimasukkan ke dalam tong…"
+      },
+      "explanation": {
+        "en": "Glass can be recycled many times.",
+        "bm": "Kaca boleh dikitar semula berkali-kali."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "brown bin",
+          "bm": "coklat"
+        },
+        {
+          "en": "blue bin",
+          "bm": "biru"
+        },
+        {
+          "en": "orange bin",
+          "bm": "jingga"
+        },
+        {
+          "en": "green bin",
+          "bm": "hijau"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q04",
+      "subtopicId": "f3geo-11-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Aluminium cans and plastic bottles go into the ______ recycling bin.",
+        "bm": "Tin aluminium dan botol plastik dimasukkan ke dalam tong kitar semula berwarna ______."
+      },
+      "explanation": {
+        "en": "Rinse them first.",
+        "bm": "Bilas terlebih dahulu."
+      },
+      "difficulty": 1,
+      "answer": [
+        "orange",
+        "jingga",
+        "oren"
+      ]
+    },
+    {
+      "id": "f3geo-11-q05",
+      "subtopicId": "f3geo-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "One importance of recycling is…",
+        "bm": "Salah satu kepentingan kitar semula ialah…"
+      },
+      "explanation": {
+        "en": "Landfills take up land and can pollute water.",
+        "bm": "Tapak pelupusan menggunakan tanah dan boleh mencemarkan air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reducing the amount of waste sent to landfills",
+          "bm": "mengurangkan sisa yang dihantar ke tapak pelupusan"
+        },
+        {
+          "en": "increasing pollution",
+          "bm": "meningkatkan pencemaran"
+        },
+        {
+          "en": "using more resources",
+          "bm": "menggunakan lebih banyak sumber"
+        },
+        {
+          "en": "making more rubbish",
+          "bm": "menghasilkan lebih banyak sampah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q06",
+      "subtopicId": "f3geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "National Recycling Day in Malaysia is celebrated on…",
+        "bm": "Hari Kitar Semula Kebangsaan disambut pada…"
+      },
+      "explanation": {
+        "en": "It raises awareness of recycling.",
+        "bm": "Ia meningkatkan kesedaran kitar semula."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "11 November",
+          "bm": "11 November"
+        },
+        {
+          "en": "1 January",
+          "bm": "1 Januari"
+        },
+        {
+          "en": "31 August",
+          "bm": "31 Ogos"
+        },
+        {
+          "en": "16 September",
+          "bm": "16 September"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q07",
+      "subtopicId": "f3geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sorting waste at home before collection is called…",
+        "bm": "Mengasingkan sisa di rumah sebelum dikutip dipanggil…"
+      },
+      "explanation": {
+        "en": "It makes recycling easier and cheaper.",
+        "bm": "Ia memudahkan dan menjimatkan kos kitar semula."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "separation at source",
+          "bm": "pengasingan sisa di punca"
+        },
+        {
+          "en": "burning",
+          "bm": "pembakaran"
+        },
+        {
+          "en": "dumping",
+          "bm": "pembuangan haram"
+        },
+        {
+          "en": "landfilling",
+          "bm": "pelupusan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q08",
+      "subtopicId": "f3geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which country is known for very strict household waste sorting?",
+        "bm": "Negara manakah terkenal dengan pengasingan sisa isi rumah yang sangat ketat?"
+      },
+      "explanation": {
+        "en": "Residents sort waste into many categories.",
+        "bm": "Penduduk mengasingkan sisa kepada banyak kategori."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Japan",
+          "bm": "Japan"
+        },
+        {
+          "en": "Antarctica",
+          "bm": "Antarctica"
+        },
+        {
+          "en": "Mongolia",
+          "bm": "Mongolia"
+        },
+        {
+          "en": "Nepal",
+          "bm": "Nepal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q09",
+      "subtopicId": "f3geo-11-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each item with its recycling bin.",
+        "bm": "Padankan barang dengan tong kitar semulanya."
+      },
+      "explanation": {
+        "en": "Correct sorting avoids contamination.",
+        "bm": "Pengasingan yang betul mengelakkan pencemaran bahan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Old newspaper",
+            "bm": "Surat khabar lama"
+          },
+          "right": {
+            "en": "Blue",
+            "bm": "Biru"
+          }
+        },
+        {
+          "left": {
+            "en": "Jam jar",
+            "bm": "Balang jem"
+          },
+          "right": {
+            "en": "Brown",
+            "bm": "Coklat"
+          }
+        },
+        {
+          "left": {
+            "en": "Drink can",
+            "bm": "Tin minuman"
+          },
+          "right": {
+            "en": "Orange",
+            "bm": "Jingga"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-11-q10",
+      "subtopicId": "f3geo-11-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the 3R from MOST to LEAST preferred.",
+        "bm": "Susun 3R daripada PALING kepada PALING KURANG diutamakan."
+      },
+      "explanation": {
+        "en": "Not creating waste is best.",
+        "bm": "Tidak menghasilkan sisa adalah terbaik."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Reduce",
+          "bm": "Kurangkan"
+        },
+        {
+          "en": "Reuse",
+          "bm": "Guna semula"
+        },
+        {
+          "en": "Recycle",
+          "bm": "Kitar semula"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-11-q11",
+      "subtopicId": "f3geo-11-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL benefits of recycling.",
+        "bm": "Pilih SEMUA faedah kitar semula."
+      },
+      "explanation": {
+        "en": "It also reduces pollution.",
+        "bm": "Ia juga mengurangkan pencemaran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Saves natural resources",
+          "bm": "Menjimatkan sumber alam"
+        },
+        {
+          "en": "Saves energy",
+          "bm": "Menjimatkan tenaga"
+        },
+        {
+          "en": "Creates jobs and income",
+          "bm": "Mewujudkan pekerjaan dan pendapatan"
+        },
+        {
+          "en": "Increases landfill size",
+          "bm": "Meluaskan tapak pelupusan"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-11-q12",
+      "subtopicId": "f3geo-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does recycling aluminium save so much energy?",
+        "bm": "Mengapakah kitar semula aluminium menjimatkan banyak tenaga?"
+      },
+      "explanation": {
+        "en": "Recycled aluminium also reduces mining.",
+        "bm": "Aluminium kitar semula juga mengurangkan perlombongan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Melting old cans uses far less energy than extracting aluminium from bauxite",
+          "bm": "Meleburkan tin lama menggunakan tenaga jauh lebih sedikit berbanding mengekstrak aluminium daripada bauksit"
+        },
+        {
+          "en": "Aluminium cannot be recycled",
+          "bm": "Aluminium tidak boleh dikitar semula"
+        },
+        {
+          "en": "It needs more energy",
+          "bm": "Ia memerlukan lebih banyak tenaga"
+        },
+        {
+          "en": "Bauxite is free",
+          "bm": "Bauksit percuma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q13",
+      "subtopicId": "f3geo-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A family recycles 4 kg of paper every month. How many kg is that in a year?",
+        "bm": "Sebuah keluarga mengitar semula 4 kg kertas setiap bulan. Berapa kg setahun?"
+      },
+      "explanation": {
+        "en": "4 × 12 = 48 kg.",
+        "bm": "4 × 12 = 48 kg."
+      },
+      "difficulty": 2,
+      "answer": 48,
+      "tolerance": 0,
+      "unit": "kg"
+    },
+    {
+      "id": "f3geo-11-q14",
+      "subtopicId": "f3geo-11-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The corporation that manages solid waste and public cleansing in many states of Malaysia is ______.",
+        "bm": "Perbadanan yang mengurus sisa pepejal dan pembersihan awam di banyak negeri di Malaysia ialah ______."
+      },
+      "explanation": {
+        "en": "Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam.",
+        "bm": "Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam."
+      },
+      "difficulty": 2,
+      "answer": [
+        "SWCorp"
+      ]
+    },
+    {
+      "id": "f3geo-11-q15",
+      "subtopicId": "f3geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Germany encourages returning bottles through a…",
+        "bm": "Jerman menggalakkan pemulangan botol melalui…"
+      },
+      "explanation": {
+        "en": "Buyers get money back when they return bottles.",
+        "bm": "Pembeli mendapat semula wang apabila memulangkan botol."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "deposit-refund system",
+          "bm": "sistem deposit dan bayaran balik"
+        },
+        {
+          "en": "ban on bottles",
+          "bm": "larangan botol"
+        },
+        {
+          "en": "free bottles",
+          "bm": "botol percuma"
+        },
+        {
+          "en": "burning system",
+          "bm": "sistem pembakaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q16",
+      "subtopicId": "f3geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sweden is known for turning non-recyclable waste into…",
+        "bm": "Sweden terkenal dengan menukar sisa yang tidak boleh dikitar semula kepada…"
+      },
+      "explanation": {
+        "en": "Very little waste goes to landfill there.",
+        "bm": "Sangat sedikit sisa dihantar ke tapak pelupusan di sana."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "energy (waste-to-energy plants)",
+          "bm": "tenaga (loji sisa kepada tenaga)"
+        },
+        {
+          "en": "food",
+          "bm": "makanan"
+        },
+        {
+          "en": "farmland",
+          "bm": "tanah pertanian"
+        },
+        {
+          "en": "nothing",
+          "bm": "tiada apa-apa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q17",
+      "subtopicId": "f3geo-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "In a survey, 36 of 60 households sort their waste. What percentage is this (%)?",
+        "bm": "Dalam satu tinjauan, 36 daripada 60 isi rumah mengasingkan sisa. Berapakah peratusnya (%)?"
+      },
+      "explanation": {
+        "en": "36 ÷ 60 × 100 = 60%.",
+        "bm": "36 ÷ 60 × 100 = 60%."
+      },
+      "difficulty": 3,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "%"
+    },
+    {
+      "id": "f3geo-11-q18",
+      "subtopicId": "f3geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do many people in Malaysia still not recycle, and what is the BEST solution?",
+        "bm": "Mengapakah ramai orang di Malaysia masih tidak mengitar semula, dan apakah penyelesaian PALING baik?"
+      },
+      "explanation": {
+        "en": "Habits change with easy access and rewards.",
+        "bm": "Tabiat berubah dengan akses mudah dan ganjaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Low awareness and few facilities — provide more bins, education and incentives",
+          "bm": "Kesedaran rendah dan kemudahan terhad — sediakan lebih banyak tong, pendidikan dan insentif"
+        },
+        {
+          "en": "Recycling is illegal",
+          "bm": "Kitar semula haram"
+        },
+        {
+          "en": "There is no waste",
+          "bm": "Tiada sisa"
+        },
+        {
+          "en": "Ban all bins",
+          "bm": "Haramkan semua tong"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q19",
+      "subtopicId": "f3geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is \"Reduce\" more effective than \"Recycle\"?",
+        "bm": "Mengapakah \"Kurangkan\" lebih berkesan daripada \"Kitar Semula\"?"
+      },
+      "explanation": {
+        "en": "e.g. bring your own bottle.",
+        "bm": "cth. bawa botol sendiri."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Avoiding waste saves resources and energy completely, while recycling still uses energy",
+          "bm": "Mengelakkan sisa menjimatkan sumber dan tenaga sepenuhnya, manakala kitar semula masih menggunakan tenaga"
+        },
+        {
+          "en": "Recycling is harmful",
+          "bm": "Kitar semula berbahaya"
+        },
+        {
+          "en": "Reducing creates more waste",
+          "bm": "Mengurangkan menghasilkan lebih banyak sisa"
+        },
+        {
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-11-q20",
+      "subtopicId": "f3geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which idea from other countries could MOST help Malaysia recycle more?",
+        "bm": "Idea dari negara lain manakah PALING boleh membantu Malaysia lebih banyak mengitar semula?"
+      },
+      "explanation": {
+        "en": "Money back gives people a reason to return containers.",
+        "bm": "Wang yang dipulangkan memberi sebab untuk memulangkan bekas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A deposit-refund scheme for drink containers",
+          "bm": "Skim deposit dan bayaran balik untuk bekas minuman"
+        },
+        {
+          "en": "Burning rubbish in the open",
+          "bm": "Membakar sampah secara terbuka"
+        },
+        {
+          "en": "Dumping waste in rivers",
+          "bm": "Membuang sisa ke sungai"
+        },
+        {
+          "en": "Stopping waste collection",
+          "bm": "Menghentikan kutipan sisa"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

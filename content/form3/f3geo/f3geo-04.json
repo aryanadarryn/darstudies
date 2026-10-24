@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Most Malaysians live on less than half of the country's land — in towns and plains near the west coast. Why do people crowd into some places and avoid others?",
-      "bm": "Kebanyakan rakyat Malaysia tinggal di kurang daripada separuh kawasan negara — di bandar dan dataran berhampiran pantai barat. Mengapakah penduduk berkumpul di sesetengah tempat dan mengelak tempat lain?"
+      "en": "Malaysia's rainforests are among the oldest on Earth — over 100 million years old by some estimates — yet large areas have been cleared in just a few decades.",
+      "bm": "Hutan hujan Malaysia antara yang tertua di dunia — lebih 100 juta tahun menurut sesetengah anggaran — namun kawasan yang luas telah ditebang dalam beberapa dekad sahaja."
     },
     "bigIdeas": [
       {
-        "en": "Population is unevenly distributed: dense on flat, accessible land with jobs; sparse in mountains and thick forest.",
-        "bm": "Penduduk bertaburan tidak sekata: padat di tanah rata yang mudah dihubungi dan ada pekerjaan; jarang di gunung dan hutan tebal."
+        "en": "Main types: tropical rainforest (lowland, hill and upper dipterocarp, then montane forest), mangrove, freshwater and peat swamp, and beach forest.",
+        "bm": "Jenis utama: hutan hujan tropika (dipterokarpa tanah pamah, bukit dan atas, kemudian hutan pergunungan), paya bakau, paya air tawar dan paya gambut, serta hutan pantai."
       },
       {
-        "en": "Settlements can be dispersed, linear or nucleated.",
-        "bm": "Petempatan boleh berselerak, berjajar atau berkelompok."
+        "en": "Climate, relief, soil and drainage explain their distribution.",
+        "bm": "Iklim, bentuk muka bumi, tanih dan saliran menerangkan taburannya."
       },
       {
-        "en": "Urbanisation and rural–urban migration bring both opportunities and problems.",
-        "bm": "Perbandaran dan migrasi luar bandar–bandar membawa peluang dan masalah."
+        "en": "Forests give oxygen, habitats, water catchments, timber and medicine; clearing them causes erosion, floods and loss of species.",
+        "bm": "Hutan membekalkan oksigen, habitat, kawasan tadahan air, kayu balak dan ubat; penebangan menyebabkan hakisan, banjir dan kehilangan spesies."
       }
     ],
     "infographic": {
@@ -25,60 +25,108 @@
       "data": {
         "headers": [
           {
-            "en": "Shape",
-            "bm": "Bentuk"
+            "en": "Where",
+            "bm": "Taburan"
           },
           {
-            "en": "Where found",
-            "bm": "Lokasi"
+            "en": "Features",
+            "bm": "Ciri"
           }
         ],
         "rows": [
           {
             "label": {
-              "en": "Dispersed",
-              "bm": "Berselerak"
+              "en": "Lowland dipterocarp forest",
+              "bm": "Hutan dipterokarpa tanah pamah"
             },
             "cells": [
               {
-                "en": "Houses scattered far apart",
-                "bm": "Rumah bertaburan berjauhan"
+                "en": "Below about 300 m",
+                "bm": "Di bawah kira-kira 300 m"
               },
               {
-                "en": "Farming and estate areas",
-                "bm": "Kawasan pertanian dan ladang"
+                "en": "Tall trees, many layers, very rich in species",
+                "bm": "Pokok tinggi, banyak lapisan, sangat kaya spesies"
               }
             ]
           },
           {
             "label": {
-              "en": "Linear",
-              "bm": "Berjajar"
+              "en": "Hill and upper dipterocarp",
+              "bm": "Dipterokarpa bukit dan atas"
             },
             "cells": [
               {
-                "en": "Houses in a line",
-                "bm": "Rumah dalam satu barisan"
+                "en": "About 300–1,200 m",
+                "bm": "Kira-kira 300–1,200 m"
               },
               {
-                "en": "Along roads, rivers, coasts",
-                "bm": "Di sepanjang jalan, sungai, pantai"
+                "en": "Slightly shorter trees, still dense",
+                "bm": "Pokok sedikit rendah, masih tebal"
               }
             ]
           },
           {
             "label": {
-              "en": "Nucleated",
-              "bm": "Berkelompok"
+              "en": "Montane forest",
+              "bm": "Hutan pergunungan"
             },
             "cells": [
               {
-                "en": "Houses grouped around a centre",
-                "bm": "Rumah berkumpul di sekitar pusat"
+                "en": "Above about 1,200 m",
+                "bm": "Melebihi kira-kira 1,200 m"
               },
               {
-                "en": "Crossroads, water sources, market towns",
-                "bm": "Persimpangan jalan, sumber air, pekan"
+                "en": "Short trees, moss, ferns, pitcher plants",
+                "bm": "Pokok rendah, lumut, paku-pakis, periuk kera"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mangrove forest",
+              "bm": "Hutan paya bakau"
+            },
+            "cells": [
+              {
+                "en": "Muddy, sheltered coasts (e.g. Matang, Perak)",
+                "bm": "Pantai berlumpur dan terlindung (cth. Matang, Perak)"
+              },
+              {
+                "en": "Breathing and stilt roots, salt-tolerant",
+                "bm": "Akar pernafasan dan akar jangkang, tahan masin"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Peat swamp forest",
+              "bm": "Hutan paya gambut"
+            },
+            "cells": [
+              {
+                "en": "Low, waterlogged areas (large areas in Sarawak)",
+                "bm": "Kawasan rendah bertakung air (kawasan luas di Sarawak)"
+              },
+              {
+                "en": "Thick layer of peat",
+                "bm": "Lapisan gambut yang tebal"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Beach forest",
+              "bm": "Hutan pantai"
+            },
+            "cells": [
+              {
+                "en": "Sandy coasts",
+                "bm": "Pantai berpasir"
+              },
+              {
+                "en": "Rhu (casuarina) and ketapang trees",
+                "bm": "Pokok rhu dan ketapang"
               }
             ]
           }
@@ -88,64 +136,88 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Population density",
-          "bm": "Kepadatan penduduk"
+          "en": "Dipterocarp",
+          "bm": "Dipterokarpa"
         },
         "definition": {
-          "en": "Number of people per square kilometre.",
-          "bm": "Bilangan penduduk bagi setiap kilometer persegi."
+          "en": "A family of tall rainforest trees with two-winged seeds, e.g. meranti and keruing.",
+          "bm": "Keluarga pokok hutan hujan yang tinggi dengan biji bersayap dua, cth. meranti dan keruing."
         }
       },
       {
         "term": {
-          "en": "Settlement",
-          "bm": "Petempatan"
+          "en": "Emergent layer",
+          "bm": "Lapisan teratas"
         },
         "definition": {
-          "en": "A place where people live, from a village to a city.",
-          "bm": "Tempat penduduk tinggal, dari kampung hingga bandar raya."
+          "en": "The tallest trees that rise above the canopy.",
+          "bm": "Pokok tertinggi yang menjulang melebihi silara."
         }
       },
       {
         "term": {
-          "en": "Urbanisation",
-          "bm": "Perbandaran"
+          "en": "Canopy",
+          "bm": "Silara"
         },
         "definition": {
-          "en": "Growth in the share of people living in towns and cities.",
-          "bm": "Pertambahan peratusan penduduk yang tinggal di bandar."
+          "en": "The dense layer of tree crowns.",
+          "bm": "Lapisan tebal mahkota pokok."
         }
       },
       {
         "term": {
-          "en": "Rural–urban migration",
-          "bm": "Migrasi luar bandar–bandar"
+          "en": "Pneumatophores",
+          "bm": "Akar pernafasan"
         },
         "definition": {
-          "en": "People moving from the countryside to towns.",
-          "bm": "Penduduk berpindah dari luar bandar ke bandar."
+          "en": "Mangrove roots that grow upward to take in air.",
+          "bm": "Akar bakau yang tumbuh ke atas untuk menyedut udara."
+        }
+      },
+      {
+        "term": {
+          "en": "Deforestation",
+          "bm": "Penebangan hutan"
+        },
+        "definition": {
+          "en": "Clearing forest for other uses.",
+          "bm": "Membersihkan hutan untuk kegunaan lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Water catchment",
+          "bm": "Kawasan tadahan air"
+        },
+        "definition": {
+          "en": "Forested area that collects and supplies water to rivers and dams.",
+          "bm": "Kawasan berhutan yang mengumpul dan membekalkan air kepada sungai dan empangan."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Explain TWO factors that make the west coast of the Peninsula densely populated.",
-        "bm": "Jelaskan DUA faktor yang menjadikan pantai barat Semenanjung padat penduduk."
+        "en": "Explain how mangrove trees are adapted to their environment.",
+        "bm": "Terangkan penyesuaian pokok bakau terhadap persekitarannya."
       },
       "steps": [
         {
-          "en": "Flat lowland makes it easy to build houses, roads and industries.",
-          "bm": "Tanah pamah yang rata memudahkan pembinaan rumah, jalan raya dan industri."
+          "en": "The mud has little oxygen → breathing roots (pneumatophores) grow up into the air.",
+          "bm": "Lumpur kurang oksigen → akar pernafasan tumbuh ke udara."
         },
         {
-          "en": "Many economic activities (industries, ports, services) provide jobs.",
-          "bm": "Banyak kegiatan ekonomi (industri, pelabuhan, perkhidmatan) menyediakan pekerjaan."
+          "en": "Soft mud and tides → stilt (prop) roots support the tree.",
+          "bm": "Lumpur lembut dan pasang surut → akar jangkang menyokong pokok."
+        },
+        {
+          "en": "Salty water → leaves can tolerate or remove salt.",
+          "bm": "Air masin → daun boleh bertahan atau menyingkirkan garam."
         }
       ],
       "answer": {
-        "en": "Also accepted: good transport links; history of tin and rubber towns.",
-        "bm": "Juga diterima: perhubungan pengangkutan yang baik; sejarah bandar bijih timah dan getah."
+        "en": "Breathing roots, stilt roots and salt tolerance.",
+        "bm": "Akar pernafasan, akar jangkang dan ketahanan terhadap garam."
       }
     }
   },
@@ -155,30 +227,30 @@
       "subtopicId": "f3geo-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Population density means…",
-        "bm": "Kepadatan penduduk bermaksud…"
+        "en": "The main type of natural vegetation in Malaysia is…",
+        "bm": "Jenis utama tumbuh-tumbuhan semula jadi di Malaysia ialah…"
       },
       "explanation": {
-        "en": "Density = population ÷ area.",
-        "bm": "Kepadatan = penduduk ÷ keluasan."
+        "en": "It is hot and wet all year.",
+        "bm": "Panas dan lembap sepanjang tahun."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "number of people per km²",
-          "bm": "bilangan penduduk bagi setiap km²"
+          "en": "tropical rainforest",
+          "bm": "hutan hujan tropika"
         },
         {
-          "en": "total area of a country",
-          "bm": "jumlah keluasan negara"
+          "en": "savanna",
+          "bm": "savana"
         },
         {
-          "en": "number of houses",
-          "bm": "bilangan rumah"
+          "en": "desert",
+          "bm": "gurun"
         },
         {
-          "en": "birth rate",
-          "bm": "kadar kelahiran"
+          "en": "tundra",
+          "bm": "tundra"
         }
       ],
       "answer": 0
@@ -188,214 +260,214 @@
       "subtopicId": "f3geo-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which area is usually most densely populated?",
-        "bm": "Kawasan manakah biasanya paling padat penduduk?"
+        "en": "Mangrove forests grow on…",
+        "bm": "Hutan paya bakau tumbuh di…"
       },
       "explanation": {
-        "en": "Accessibility and jobs attract people.",
-        "bm": "Kebolehsampaian dan pekerjaan menarik penduduk."
+        "en": "e.g. the Matang mangroves in Perak.",
+        "bm": "cth. paya bakau Matang di Perak."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Flat lowland with towns and jobs",
-          "bm": "Tanah pamah rata dengan bandar dan pekerjaan"
+          "en": "muddy, sheltered coasts",
+          "bm": "pantai berlumpur dan terlindung"
         },
         {
-          "en": "Steep mountains",
-          "bm": "Gunung yang curam"
+          "en": "mountain tops",
+          "bm": "puncak gunung"
         },
         {
-          "en": "Thick rainforest",
-          "bm": "Hutan hujan tebal"
+          "en": "sandy deserts",
+          "bm": "gurun berpasir"
         },
         {
-          "en": "Swamps",
-          "bm": "Paya"
+          "en": "dry hills",
+          "bm": "bukit kering"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q03",
-      "subtopicId": "f3geo-04-02",
+      "subtopicId": "f3geo-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Houses built in a line along a road form a…",
-        "bm": "Rumah yang dibina dalam satu barisan di sepanjang jalan membentuk petempatan…"
+        "en": "Meranti and keruing are examples of…",
+        "bm": "Meranti dan keruing ialah contoh pokok…"
       },
       "explanation": {
-        "en": "Linear settlements follow roads, rivers or coasts.",
-        "bm": "Petempatan berjajar mengikut jalan, sungai atau pantai."
+        "en": "Valuable timber trees.",
+        "bm": "Pokok balak yang bernilai."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "linear settlement",
-          "bm": "berjajar"
+          "en": "dipterocarp trees",
+          "bm": "dipterokarpa"
         },
         {
-          "en": "dispersed settlement",
-          "bm": "berselerak"
+          "en": "mangrove trees",
+          "bm": "bakau"
         },
         {
-          "en": "nucleated settlement",
-          "bm": "berkelompok"
+          "en": "beach trees",
+          "bm": "hutan pantai"
         },
         {
-          "en": "new town",
-          "bm": "bandar baharu"
+          "en": "grasses",
+          "bm": "rumput"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q04",
-      "subtopicId": "f3geo-04-02",
+      "subtopicId": "f3geo-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Houses grouped closely around a crossroads form a…",
-        "bm": "Rumah yang berkumpul rapat di sekitar persimpangan jalan membentuk petempatan…"
+        "en": "Rhu (casuarina) trees are typical of…",
+        "bm": "Pokok rhu ialah ciri…"
       },
       "explanation": {
-        "en": "Nucleated = clustered around a centre.",
-        "bm": "Berkelompok = berkumpul di sekitar pusat."
+        "en": "They grow on sandy coasts.",
+        "bm": "Ia tumbuh di pantai berpasir."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "nucleated settlement",
-          "bm": "berkelompok"
+          "en": "beach forest",
+          "bm": "hutan pantai"
         },
         {
-          "en": "linear settlement",
-          "bm": "berjajar"
+          "en": "montane forest",
+          "bm": "hutan pergunungan"
         },
         {
-          "en": "dispersed settlement",
-          "bm": "berselerak"
+          "en": "peat swamp",
+          "bm": "paya gambut"
         },
         {
-          "en": "plantation",
-          "bm": "ladang"
+          "en": "lowland dipterocarp",
+          "bm": "dipterokarpa tanah pamah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q05",
-      "subtopicId": "f3geo-04-03",
+      "subtopicId": "f3geo-04-01",
       "type": "fill",
       "prompt": {
-        "en": "The growth in the share of people living in towns is called ______.",
-        "bm": "Pertambahan peratusan penduduk yang tinggal di bandar dipanggil ______."
+        "en": "Mangrove roots that grow upwards to take in air are called ______ roots.",
+        "bm": "Akar bakau yang tumbuh ke atas untuk menyedut udara dipanggil akar ______."
       },
       "explanation": {
-        "en": "Malaysia is now a highly urbanised country.",
-        "bm": "Malaysia kini negara yang tinggi kadar perbandarannya."
+        "en": "Stilt roots give support.",
+        "bm": "Akar jangkang memberi sokongan."
       },
       "difficulty": 1,
       "answer": [
-        "urbanisation",
-        "urbanization",
-        "perbandaran"
+        "breathing",
+        "pernafasan",
+        "pneumatophore"
       ]
     },
     {
       "id": "f3geo-04-q06",
-      "subtopicId": "f3geo-04-03",
+      "subtopicId": "f3geo-04-02",
       "type": "mcq",
       "prompt": {
-        "en": "Rural–urban migration means people move…",
-        "bm": "Migrasi luar bandar–bandar bermaksud penduduk berpindah…"
+        "en": "Which factor causes montane forest to replace dipterocarp forest on high mountains?",
+        "bm": "Faktor manakah menyebabkan hutan pergunungan menggantikan hutan dipterokarpa di gunung tinggi?"
       },
       "explanation": {
-        "en": "Mainly for jobs, education and facilities.",
-        "bm": "Terutamanya untuk pekerjaan, pendidikan dan kemudahan."
+        "en": "Altitude changes the climate.",
+        "bm": "Altitud mengubah iklim."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "from the countryside to towns",
-          "bm": "dari luar bandar ke bandar"
+          "en": "Lower temperature at high altitude",
+          "bm": "Suhu lebih rendah di altitud tinggi"
         },
         {
-          "en": "from towns to villages",
-          "bm": "dari bandar ke kampung"
+          "en": "More rainfall at sea level",
+          "bm": "Lebih banyak hujan di aras laut"
         },
         {
-          "en": "abroad only",
-          "bm": "ke luar negara sahaja"
+          "en": "Salty water",
+          "bm": "Air masin"
         },
         {
-          "en": "between islands only",
-          "bm": "antara pulau sahaja"
+          "en": "Sandy beaches",
+          "bm": "Pantai berpasir"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q07",
-      "subtopicId": "f3geo-04-02",
+      "subtopicId": "f3geo-04-03",
       "type": "mcq",
       "prompt": {
-        "en": "Scattered houses far apart in a farming area form a…",
-        "bm": "Rumah bertaburan berjauhan di kawasan pertanian membentuk petempatan…"
+        "en": "Forests act as water catchment areas, which means they…",
+        "bm": "Hutan berfungsi sebagai kawasan tadahan air, bermaksud ia…"
       },
       "explanation": {
-        "en": "Each farmer lives near his land.",
-        "bm": "Setiap petani tinggal berhampiran tanahnya."
+        "en": "Many dams depend on forested catchments.",
+        "bm": "Banyak empangan bergantung pada kawasan tadahan berhutan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "dispersed settlement",
-          "bm": "berselerak"
+          "en": "collect and release water steadily to rivers and dams",
+          "bm": "mengumpul dan melepaskan air secara berterusan ke sungai dan empangan"
         },
         {
-          "en": "nucleated settlement",
-          "bm": "berkelompok"
+          "en": "dry up rivers",
+          "bm": "mengeringkan sungai"
         },
         {
-          "en": "linear settlement",
-          "bm": "berjajar"
+          "en": "cause floods",
+          "bm": "menyebabkan banjir"
         },
         {
-          "en": "city",
-          "bm": "bandar raya"
+          "en": "produce oil",
+          "bm": "menghasilkan minyak"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q08",
-      "subtopicId": "f3geo-04-01",
+      "subtopicId": "f3geo-04-04",
       "type": "mcq",
       "prompt": {
-        "en": "Why are high mountain areas sparsely populated?",
-        "bm": "Mengapakah kawasan gunung tinggi jarang penduduk?"
+        "en": "Clearing forests on slopes often leads to…",
+        "bm": "Penebangan hutan di cerun sering menyebabkan…"
       },
       "explanation": {
-        "en": "Relief limits farming, roads and buildings.",
-        "bm": "Bentuk muka bumi menghadkan pertanian, jalan dan bangunan."
+        "en": "Roots no longer hold the soil.",
+        "bm": "Akar tidak lagi memegang tanih."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Steep land is hard to build on and reach",
-          "bm": "Tanah curam sukar dibina dan dihubungi"
+          "en": "soil erosion and landslides",
+          "bm": "hakisan tanih dan tanah runtuh"
         },
         {
-          "en": "They are too flat",
-          "bm": "Terlalu rata"
+          "en": "more forest growth",
+          "bm": "lebih banyak pertumbuhan hutan"
         },
         {
-          "en": "They have too many jobs",
-          "bm": "Terlalu banyak pekerjaan"
+          "en": "cooler towns",
+          "bm": "bandar lebih sejuk"
         },
         {
-          "en": "They are near the sea",
-          "bm": "Berhampiran laut"
+          "en": "cleaner rivers",
+          "bm": "sungai lebih bersih"
         }
       ],
       "answer": 0
@@ -403,148 +475,124 @@
     {
       "id": "f3geo-04-q09",
       "subtopicId": "f3geo-04-01",
-      "type": "multi",
+      "type": "order",
       "prompt": {
-        "en": "Select ALL factors that attract a dense population.",
-        "bm": "Pilih SEMUA faktor yang menarik penduduk padat."
+        "en": "Arrange the rainforest layers from TOP to BOTTOM.",
+        "bm": "Susun lapisan hutan hujan dari ATAS ke BAWAH."
       },
       "explanation": {
-        "en": "Steep slopes discourage settlement.",
-        "bm": "Cerun curam tidak menggalakkan petempatan."
+        "en": "Less light reaches the lower layers.",
+        "bm": "Kurang cahaya sampai ke lapisan bawah."
       },
       "difficulty": 2,
-      "options": [
+      "items": [
         {
-          "en": "Flat land",
-          "bm": "Tanah rata"
+          "en": "Emergent layer",
+          "bm": "Lapisan teratas (emergen)"
         },
         {
-          "en": "Job opportunities",
-          "bm": "Peluang pekerjaan"
+          "en": "Canopy",
+          "bm": "Silara"
         },
         {
-          "en": "Good transport links",
-          "bm": "Perhubungan pengangkutan yang baik"
+          "en": "Understorey",
+          "bm": "Lapisan bawah silara"
         },
         {
-          "en": "Very steep slopes",
-          "bm": "Cerun yang sangat curam"
+          "en": "Shrub layer",
+          "bm": "Lapisan renek"
+        },
+        {
+          "en": "Forest floor",
+          "bm": "Lantai hutan"
         }
-      ],
-      "answer": [
-        0,
-        1,
-        2
       ]
     },
     {
       "id": "f3geo-04-q10",
       "subtopicId": "f3geo-04-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "A district has 50 000 people and an area of 250 km². What is its population density?",
-        "bm": "Sebuah daerah mempunyai 50 000 penduduk dan keluasan 250 km². Berapakah kepadatan penduduknya?"
-      },
-      "explanation": {
-        "en": "50 000 ÷ 250 = 200.",
-        "bm": "50 000 ÷ 250 = 200."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "200 people per km²",
-          "bm": "200 people per km²"
-        },
-        {
-          "en": "12 500 people per km²",
-          "bm": "12 500 people per km²"
-        },
-        {
-          "en": "50 people per km²",
-          "bm": "50 people per km²"
-        },
-        {
-          "en": "0.005 people per km²",
-          "bm": "0.005 people per km²"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-04-q11",
-      "subtopicId": "f3geo-04-02",
       "type": "match",
       "prompt": {
-        "en": "Match each settlement pattern with a reason for it.",
-        "bm": "Padankan pola petempatan dengan sebabnya."
+        "en": "Match each forest type with its typical location.",
+        "bm": "Padankan jenis hutan dengan lokasinya."
       },
       "explanation": {
-        "en": "Patterns reflect how people use the land.",
-        "bm": "Pola mencerminkan cara penduduk menggunakan tanah."
+        "en": "Altitude and drainage decide the type.",
+        "bm": "Altitud dan saliran menentukan jenisnya."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "Linear",
-            "bm": "Berjajar"
+            "en": "Montane forest",
+            "bm": "Hutan pergunungan"
           },
           "right": {
-            "en": "Following a road or river for transport",
-            "bm": "Mengikut jalan atau sungai untuk pengangkutan"
+            "en": "Above about 1,200 m",
+            "bm": "Melebihi kira-kira 1,200 m"
           }
         },
         {
           "left": {
-            "en": "Nucleated",
-            "bm": "Berkelompok"
+            "en": "Lowland dipterocarp",
+            "bm": "Dipterokarpa tanah pamah"
           },
           "right": {
-            "en": "Sharing a water source or market",
-            "bm": "Berkongsi sumber air atau pasar"
+            "en": "Below about 300 m",
+            "bm": "Di bawah kira-kira 300 m"
           }
         },
         {
           "left": {
-            "en": "Dispersed",
-            "bm": "Berselerak"
+            "en": "Mangrove",
+            "bm": "Paya bakau"
           },
           "right": {
-            "en": "Living close to one's own farmland",
-            "bm": "Tinggal berhampiran tanah pertanian sendiri"
+            "en": "Muddy coasts and estuaries",
+            "bm": "Pantai berlumpur dan muara"
+          }
+        },
+        {
+          "left": {
+            "en": "Beach forest",
+            "bm": "Hutan pantai"
+          },
+          "right": {
+            "en": "Sandy coasts",
+            "bm": "Pantai berpasir"
           }
         }
       ]
     },
     {
-      "id": "f3geo-04-q12",
+      "id": "f3geo-04-q11",
       "subtopicId": "f3geo-04-03",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL problems that can result from rapid urbanisation.",
-        "bm": "Pilih SEMUA masalah yang boleh berlaku akibat perbandaran pesat."
+        "en": "Select ALL importance of natural vegetation.",
+        "bm": "Pilih SEMUA kepentingan tumbuh-tumbuhan semula jadi."
       },
       "explanation": {
-        "en": "Planning and public transport help reduce these problems.",
-        "bm": "Perancangan dan pengangkutan awam membantu mengurangkan masalah ini."
+        "en": "Forests also produce oxygen and attract tourists.",
+        "bm": "Hutan juga menghasilkan oksigen dan menarik pelancong."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Traffic congestion",
-          "bm": "Kesesakan lalu lintas"
+          "en": "Habitat for wildlife",
+          "bm": "Habitat hidupan liar"
         },
         {
-          "en": "Squatter settlements",
-          "bm": "Petempatan setinggan"
+          "en": "Source of timber and medicine",
+          "bm": "Sumber kayu balak dan ubat-ubatan"
         },
         {
-          "en": "Pollution",
-          "bm": "Pencemaran"
+          "en": "Prevents soil erosion",
+          "bm": "Mencegah hakisan tanih"
         },
         {
-          "en": "Too few people in cities",
-          "bm": "Terlalu sedikit penduduk di bandar"
+          "en": "Causes air pollution",
+          "bm": "Menyebabkan pencemaran udara"
         }
       ],
       "answer": [
@@ -554,250 +602,283 @@
       ]
     },
     {
-      "id": "f3geo-04-q13",
+      "id": "f3geo-04-q12",
       "subtopicId": "f3geo-04-03",
       "type": "mcq",
       "prompt": {
-        "en": "Which is a \"push\" factor causing people to leave rural areas?",
-        "bm": "Antara berikut, yang manakah faktor \"tolakan\" yang menyebabkan penduduk meninggalkan luar bandar?"
+        "en": "How do mangrove forests protect coastal areas?",
+        "bm": "Bagaimanakah hutan paya bakau melindungi kawasan pantai?"
       },
       "explanation": {
-        "en": "Push factors are in the origin; pull factors are in the destination.",
-        "bm": "Faktor tolakan di tempat asal; faktor tarikan di destinasi."
+        "en": "They also act as fish nurseries.",
+        "bm": "Ia juga menjadi tempat pembiakan ikan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Few job opportunities",
-          "bm": "Kurang peluang pekerjaan"
+          "en": "Their roots reduce wave energy and trap mud, preventing erosion",
+          "bm": "Akarnya mengurangkan tenaga ombak dan memerangkap lumpur, mencegah hakisan"
         },
         {
-          "en": "Better hospitals in the city",
-          "bm": "Hospital lebih baik di bandar"
+          "en": "They attract storms",
+          "bm": "Ia menarik ribut"
         },
         {
-          "en": "City entertainment",
-          "bm": "Hiburan di bandar"
+          "en": "They raise sea levels",
+          "bm": "Ia menaikkan aras laut"
         },
         {
-          "en": "Higher city wages",
-          "bm": "Gaji bandar lebih tinggi"
+          "en": "They have no role",
+          "bm": "Ia tiada peranan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-04-q13",
+      "subtopicId": "f3geo-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which human activity MOST threatens peat swamp forests?",
+        "bm": "Kegiatan manusia manakah PALING mengancam hutan paya gambut?"
+      },
+      "explanation": {
+        "en": "Dry peat can burn and cause haze.",
+        "bm": "Gambut kering boleh terbakar dan menyebabkan jerebu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Draining and clearing for plantations",
+          "bm": "Mengeringkan dan membersihkan untuk ladang"
+        },
+        {
+          "en": "Bird watching",
+          "bm": "Memerhati burung"
+        },
+        {
+          "en": "Planting trees",
+          "bm": "Menanam pokok"
+        },
+        {
+          "en": "Research",
+          "bm": "Penyelidikan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q14",
-      "subtopicId": "f3geo-04-03",
-      "type": "order",
+      "subtopicId": "f3geo-04-02",
+      "type": "fill",
       "prompt": {
-        "en": "Arrange settlements from smallest to largest.",
-        "bm": "Susun petempatan daripada terkecil hingga terbesar."
+        "en": "Peat swamp forest grows on low, ______ land.",
+        "bm": "Hutan paya gambut tumbuh di kawasan rendah yang ______ air."
       },
       "explanation": {
-        "en": "A conurbation is several towns merged into one urban area.",
-        "bm": "Konurbasi ialah beberapa bandar yang bercantum menjadi satu kawasan bandar."
+        "en": "Poor drainage causes peat to build up.",
+        "bm": "Saliran yang buruk menyebabkan gambut terkumpul."
       },
       "difficulty": 2,
-      "items": [
-        {
-          "en": "Village",
-          "bm": "Kampung"
-        },
-        {
-          "en": "Town",
-          "bm": "Pekan"
-        },
-        {
-          "en": "City",
-          "bm": "Bandar"
-        },
-        {
-          "en": "Conurbation (e.g. Klang Valley)",
-          "bm": "Konurbasi (cth. Lembah Klang)"
-        }
+      "answer": [
+        "waterlogged",
+        "bertakung"
       ]
     },
     {
       "id": "f3geo-04-q15",
-      "subtopicId": "f3geo-04-01",
-      "type": "fill",
+      "subtopicId": "f3geo-04-04",
+      "type": "mcq",
       "prompt": {
-        "en": "Population density = population ÷ ______.",
-        "bm": "Kepadatan penduduk = penduduk ÷ ______."
+        "en": "Why can deforestation increase flash floods?",
+        "bm": "Mengapakah penebangan hutan boleh meningkatkan banjir kilat?"
       },
       "explanation": {
-        "en": "Usually expressed per km².",
-        "bm": "Biasanya dinyatakan per km²."
+        "en": "Eroded soil also fills rivers (sedimentation).",
+        "bm": "Tanih terhakis juga memenuhi sungai (pemendapan)."
       },
       "difficulty": 2,
-      "answer": [
-        "area",
-        "keluasan",
-        "luas"
-      ]
+      "options": [
+        {
+          "en": "Less water is absorbed, so more runs off quickly into rivers",
+          "bm": "Kurang air diserap, jadi lebih banyak air larian mengalir dengan cepat ke sungai"
+        },
+        {
+          "en": "Trees cause rain",
+          "bm": "Pokok menyebabkan hujan"
+        },
+        {
+          "en": "Rivers become deeper",
+          "bm": "Sungai menjadi lebih dalam"
+        },
+        {
+          "en": "It does not affect floods",
+          "bm": "Ia tidak menjejaskan banjir"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3geo-04-q16",
       "subtopicId": "f3geo-04-02",
       "type": "mcq",
       "prompt": {
-        "en": "A fishing village stretched along the beach is an example of a…",
-        "bm": "Kampung nelayan yang memanjang di sepanjang pantai ialah contoh petempatan…"
+        "en": "Why do lowland rainforests have the greatest variety of species in Malaysia?",
+        "bm": "Mengapakah hutan hujan tanah pamah mempunyai kepelbagaian spesies tertinggi di Malaysia?"
       },
       "explanation": {
-        "en": "Houses follow the coastline for access to the sea.",
-        "bm": "Rumah mengikut garis pantai untuk akses ke laut."
+        "en": "Ideal conditions for growth all year.",
+        "bm": "Keadaan sesuai untuk pertumbuhan sepanjang tahun."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "linear settlement",
-          "bm": "berjajar"
+          "en": "Warm temperatures, high rainfall and fertile, well-drained soil",
+          "bm": "Suhu panas, hujan tinggi dan tanih subur yang bersaliran baik"
         },
         {
-          "en": "nucleated settlement",
-          "bm": "berkelompok"
+          "en": "Cold climate",
+          "bm": "Iklim sejuk"
         },
         {
-          "en": "dispersed settlement",
-          "bm": "berselerak"
+          "en": "Salty soil",
+          "bm": "Tanih masin"
         },
         {
-          "en": "new township",
-          "bm": "perbandaran baharu"
+          "en": "Little rain",
+          "bm": "Sedikit hujan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q17",
-      "subtopicId": "f3geo-04-03",
+      "subtopicId": "f3geo-04-04",
       "type": "mcq",
       "prompt": {
-        "en": "Many young people leave a village for the city. What is a likely effect on the village?",
-        "bm": "Ramai golongan muda meninggalkan kampung ke bandar. Apakah kesan yang mungkin ke atas kampung?"
+        "en": "A hillside forest near a town is cleared for housing. Predict TWO likely effects.",
+        "bm": "Hutan di lereng bukit berhampiran bandar dibersihkan untuk perumahan. Ramalkan DUA kesan yang mungkin."
       },
       "explanation": {
-        "en": "Fewer workers remain to farm.",
-        "bm": "Kurang pekerja kekal untuk bertani."
+        "en": "Slope protection and drainage are needed.",
+        "bm": "Perlindungan cerun dan sistem saliran diperlukan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "An ageing population and idle farmland",
-          "bm": "Penduduk semakin tua dan tanah pertanian terbiar"
+          "en": "Landslides and muddy rivers from erosion",
+          "bm": "Tanah runtuh dan sungai berkeladak akibat hakisan"
         },
         {
-          "en": "More schools needed",
-          "bm": "Lebih banyak sekolah diperlukan"
+          "en": "More wildlife and cleaner air",
+          "bm": "Lebih banyak hidupan liar dan udara lebih bersih"
         },
         {
-          "en": "Traffic jams",
-          "bm": "Kesesakan lalu lintas"
+          "en": "Lower temperatures and fewer floods",
+          "bm": "Suhu lebih rendah dan kurang banjir"
         },
         {
-          "en": "Rapid industrial growth",
-          "bm": "Pertumbuhan industri yang pesat"
+          "en": "No change at all",
+          "bm": "Langsung tiada perubahan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q18",
-      "subtopicId": "f3geo-04-01",
+      "subtopicId": "f3geo-04-03",
       "type": "mcq",
       "prompt": {
-        "en": "Why is the interior of Sarawak much less densely populated than the Klang Valley?",
-        "bm": "Mengapakah pedalaman Sarawak jauh kurang padat penduduk berbanding Lembah Klang?"
+        "en": "Why are forests important in reducing global warming?",
+        "bm": "Mengapakah hutan penting dalam mengurangkan pemanasan global?"
       },
       "explanation": {
-        "en": "Rivers have long been the main transport routes there.",
-        "bm": "Sungai sejak dahulu menjadi laluan pengangkutan utama di sana."
+        "en": "Burning forests releases stored carbon.",
+        "bm": "Pembakaran hutan membebaskan karbon yang tersimpan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Thick forest, rugged land and poor road links limit settlement and jobs",
-          "bm": "Hutan tebal, tanah berbukit-bukau dan perhubungan jalan yang lemah menghadkan petempatan dan pekerjaan"
+          "en": "Trees absorb carbon dioxide and store carbon",
+          "bm": "Pokok menyerap karbon dioksida dan menyimpan karbon"
         },
         {
-          "en": "It has more factories",
-          "bm": "Ia mempunyai lebih banyak kilang"
+          "en": "Trees release more carbon dioxide than cars",
+          "bm": "Pokok membebaskan lebih karbon dioksida daripada kereta"
         },
         {
-          "en": "It is all desert",
-          "bm": "Semuanya gurun"
+          "en": "Forests heat the air",
+          "bm": "Hutan memanaskan udara"
         },
         {
-          "en": "It has no rivers",
-          "bm": "Ia tiada sungai"
+          "en": "They have no effect",
+          "bm": "Ia tiada kesan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q19",
-      "subtopicId": "f3geo-04-03",
+      "subtopicId": "f3geo-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which plan BEST reduces traffic congestion in a growing city?",
-        "bm": "Rancangan manakah PALING mengurangkan kesesakan lalu lintas di bandar yang berkembang?"
+        "en": "Why is montane forest important even though it has little timber value?",
+        "bm": "Mengapakah hutan pergunungan penting walaupun nilai kayu balaknya rendah?"
       },
       "explanation": {
-        "en": "Fewer private car trips reduce congestion and pollution.",
-        "bm": "Kurang perjalanan kereta persendirian mengurangkan kesesakan dan pencemaran."
+        "en": "Many rivers begin in highlands.",
+        "bm": "Banyak sungai bermula di tanah tinggi."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Improve public transport (MRT, LRT, buses) and plan housing near jobs",
-          "bm": "Menambah baik pengangkutan awam (MRT, LRT, bas) dan merancang perumahan berhampiran tempat kerja"
+          "en": "It protects water catchments and rare species and prevents erosion on steep slopes",
+          "bm": "Ia melindungi kawasan tadahan air dan spesies jarang serta mencegah hakisan di cerun curam"
         },
         {
-          "en": "Build more car parks only",
-          "bm": "Membina lebih banyak tempat letak kereta sahaja"
+          "en": "It produces oil",
+          "bm": "Ia menghasilkan minyak"
         },
         {
-          "en": "Remove all buses",
-          "bm": "Membuang semua bas"
+          "en": "It is not important",
+          "bm": "Ia tidak penting"
         },
         {
-          "en": "Close roads permanently",
-          "bm": "Menutup jalan secara kekal"
+          "en": "It grows rice",
+          "bm": "Ia menghasilkan padi"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-04-q20",
-      "subtopicId": "f3geo-04-03",
+      "subtopicId": "f3geo-04-04",
       "type": "mcq",
       "prompt": {
-        "en": "How can rural development reduce rural–urban migration?",
-        "bm": "Bagaimanakah pembangunan luar bandar dapat mengurangkan migrasi luar bandar–bandar?"
+        "en": "Which action BEST balances development and forest conservation?",
+        "bm": "Tindakan manakah PALING mengimbangi pembangunan dan pemuliharaan hutan?"
       },
       "explanation": {
-        "en": "This tackles push factors at the source.",
-        "bm": "Ini menangani faktor tolakan di punca."
+        "en": "This is sustainable development.",
+        "bm": "Ini pembangunan lestari."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "By creating local jobs and better facilities so people do not need to leave",
-          "bm": "Dengan mewujudkan pekerjaan tempatan dan kemudahan yang lebih baik supaya penduduk tidak perlu berpindah"
+          "en": "Selective logging, replanting and protecting catchments and steep slopes",
+          "bm": "Pembalakan terpilih, penanaman semula dan melindungi kawasan tadahan serta cerun curam"
         },
         {
-          "en": "By closing village schools",
-          "bm": "Dengan menutup sekolah kampung"
+          "en": "Clearing all forests for farms",
+          "bm": "Menebang semua hutan untuk pertanian"
         },
         {
-          "en": "By banning travel",
-          "bm": "Dengan mengharamkan perjalanan"
+          "en": "Banning all use of forests forever",
+          "bm": "Mengharamkan semua penggunaan hutan selama-lamanya"
         },
         {
-          "en": "By building only in cities",
-          "bm": "Dengan membina di bandar sahaja"
+          "en": "Burning forests to clear land",
+          "bm": "Membakar hutan untuk membersihkan tanah"
         }
       ],
       "answer": 0

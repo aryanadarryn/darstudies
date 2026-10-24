@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "During severe haze, schools close and the sky turns orange. Smoke from burning land hundreds of kilometres away reaches our lungs. Environmental problems ignore borders.",
-      "bm": "Semasa jerebu teruk, sekolah ditutup dan langit menjadi jingga. Asap pembakaran tanah ratusan kilometer jauhnya sampai ke peparu kita. Masalah alam sekitar tidak mengenal sempadan."
+      "en": "Malaysia's first oil well was drilled at Canada Hill in Miri in 1910. Today petroleum and gas are among our biggest sources of national income.",
+      "bm": "Telaga minyak pertama Malaysia digerudi di Bukit Kanada, Miri pada 1910. Kini petroleum dan gas antara sumber pendapatan negara terbesar."
     },
     "bigIdeas": [
       {
-        "en": "Resources are renewable (forests, water, solar) or non-renewable (petroleum, tin, coal).",
-        "bm": "Sumber boleh diperbaharui (hutan, air, suria) atau tidak boleh diperbaharui (petroleum, bijih timah, arang batu)."
+        "en": "Renewable resources (forests, water, soil, fish, solar energy) can be replaced naturally; non-renewable resources (petroleum, gas, tin, bauxite, coal, gold) cannot.",
+        "bm": "Sumber boleh baharu (hutan, air, tanih, ikan, tenaga suria) boleh diganti secara semula jadi; sumber tidak boleh baharu (petroleum, gas, bijih timah, bauksit, arang batu, emas) tidak boleh."
       },
       {
-        "en": "Human activities cause air, water and land pollution, haze, floods, landslides and global warming.",
-        "bm": "Kegiatan manusia menyebabkan pencemaran udara, air dan tanah, jerebu, banjir, tanah runtuh dan pemanasan global."
+        "en": "Petroleum and gas are mainly offshore of Terengganu, Sarawak and Sabah; tin is in the Kinta Valley; bauxite in Kuantan; coal in Sarawak.",
+        "bm": "Petroleum dan gas terutamanya di luar pantai Terengganu, Sarawak dan Sabah; bijih timah di Lembah Kinta; bauksit di Kuantan; arang batu di Sarawak."
       },
       {
-        "en": "Sustainable development meets today's needs without harming future generations — through laws, technology and our own habits (3R).",
-        "bm": "Pembangunan lestari memenuhi keperluan hari ini tanpa menjejaskan generasi akan datang — melalui undang-undang, teknologi dan tabiat kita (3K)."
+        "en": "Resources bring export income, jobs, raw materials for industry and energy.",
+        "bm": "Sumber membawa pendapatan eksport, peluang pekerjaan, bahan mentah industri dan tenaga."
       }
     ],
     "infographic": {
@@ -25,92 +25,108 @@
       "data": {
         "headers": [
           {
-            "en": "Status",
-            "bm": "Status"
+            "en": "Main areas",
+            "bm": "Kawasan utama"
           },
           {
-            "en": "Advice",
-            "bm": "Nasihat"
+            "en": "Type",
+            "bm": "Jenis"
           }
         ],
         "rows": [
           {
             "label": {
-              "en": "API 0 – 50",
-              "bm": "IPU 0 – 50"
+              "en": "Petroleum and natural gas",
+              "bm": "Petroleum dan gas asli"
             },
             "cells": [
               {
-                "en": "Good",
-                "bm": "Baik"
+                "en": "Offshore Terengganu (Kerteh), Sarawak (Miri, Bintulu), Sabah",
+                "bm": "Luar pantai Terengganu (Kerteh), Sarawak (Miri, Bintulu), Sabah"
               },
               {
-                "en": "Normal activities",
-                "bm": "Aktiviti biasa"
+                "en": "Non-renewable",
+                "bm": "Tidak boleh baharu"
               }
             ]
           },
           {
             "label": {
-              "en": "API 51 – 100",
-              "bm": "IPU 51 – 100"
+              "en": "Tin",
+              "bm": "Bijih timah"
             },
             "cells": [
               {
-                "en": "Moderate",
-                "bm": "Sederhana"
+                "en": "Kinta Valley, Perak",
+                "bm": "Lembah Kinta, Perak"
               },
               {
-                "en": "Sensitive people take care outdoors",
-                "bm": "Golongan sensitif berhati-hati di luar"
+                "en": "Non-renewable",
+                "bm": "Tidak boleh baharu"
               }
             ]
           },
           {
             "label": {
-              "en": "API 101 – 200",
-              "bm": "IPU 101 – 200"
+              "en": "Bauxite",
+              "bm": "Bauksit"
             },
             "cells": [
               {
-                "en": "Unhealthy",
-                "bm": "Tidak sihat"
+                "en": "Kuantan, Pahang",
+                "bm": "Kuantan, Pahang"
               },
               {
-                "en": "Reduce outdoor activities",
-                "bm": "Kurangkan aktiviti luar"
+                "en": "Non-renewable",
+                "bm": "Tidak boleh baharu"
               }
             ]
           },
           {
             "label": {
-              "en": "API 201 – 300",
-              "bm": "IPU 201 – 300"
+              "en": "Coal",
+              "bm": "Arang batu"
             },
             "cells": [
               {
-                "en": "Very unhealthy",
-                "bm": "Sangat tidak sihat"
+                "en": "Sarawak (Mukah), Sabah",
+                "bm": "Sarawak (Mukah), Sabah"
               },
               {
-                "en": "Avoid outdoor activities",
-                "bm": "Elakkan aktiviti luar"
+                "en": "Non-renewable",
+                "bm": "Tidak boleh baharu"
               }
             ]
           },
           {
             "label": {
-              "en": "API > 300",
-              "bm": "IPU > 300"
+              "en": "Gold",
+              "bm": "Emas"
             },
             "cells": [
               {
-                "en": "Hazardous",
-                "bm": "Berbahaya"
+                "en": "Raub (Pahang), Bau (Sarawak)",
+                "bm": "Raub (Pahang), Bau (Sarawak)"
               },
               {
-                "en": "Stay indoors; follow official instructions",
-                "bm": "Kekal di dalam rumah; ikut arahan rasmi"
+                "en": "Non-renewable",
+                "bm": "Tidak boleh baharu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Forests, water, fish",
+              "bm": "Hutan, air, ikan"
+            },
+            "cells": [
+              {
+                "en": "Throughout Malaysia",
+                "bm": "Seluruh Malaysia"
+              },
+              {
+                "en": "Renewable",
+                "bm": "Boleh baharu"
               }
             ]
           }
@@ -120,88 +136,74 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Renewable resource",
-          "bm": "Sumber boleh diperbaharui"
+          "en": "Natural resource",
+          "bm": "Sumber semula jadi"
         },
         "definition": {
-          "en": "A resource that can be replaced naturally (forests, water, sunlight).",
-          "bm": "Sumber yang boleh diganti secara semula jadi (hutan, air, cahaya matahari)."
+          "en": "Something from nature that people use.",
+          "bm": "Bahan daripada alam semula jadi yang digunakan manusia."
+        }
+      },
+      {
+        "term": {
+          "en": "Renewable resource",
+          "bm": "Sumber boleh baharu"
+        },
+        "definition": {
+          "en": "A resource that can be replaced naturally.",
+          "bm": "Sumber yang boleh diganti secara semula jadi."
         }
       },
       {
         "term": {
           "en": "Non-renewable resource",
-          "bm": "Sumber tidak boleh diperbaharui"
+          "bm": "Sumber tidak boleh baharu"
         },
         "definition": {
-          "en": "A resource that will run out (petroleum, minerals).",
-          "bm": "Sumber yang akan habis (petroleum, mineral)."
+          "en": "A resource that will run out once used up.",
+          "bm": "Sumber yang akan habis apabila digunakan."
         }
       },
       {
         "term": {
-          "en": "Greenhouse effect",
-          "bm": "Kesan rumah hijau"
+          "en": "Offshore",
+          "bm": "Luar pantai"
         },
         "definition": {
-          "en": "Gases like carbon dioxide trap heat in the atmosphere.",
-          "bm": "Gas seperti karbon dioksida memerangkap haba dalam atmosfera."
+          "en": "In the sea, away from the coast.",
+          "bm": "Di laut, jauh dari pantai."
         }
       },
       {
         "term": {
-          "en": "Haze",
-          "bm": "Jerebu"
+          "en": "Export",
+          "bm": "Eksport"
         },
         "definition": {
-          "en": "Smoke and fine particles that reduce visibility and harm health.",
-          "bm": "Asap dan zarah halus yang mengurangkan jarak penglihatan dan memudaratkan kesihatan."
-        }
-      },
-      {
-        "term": {
-          "en": "Sustainable development",
-          "bm": "Pembangunan lestari"
-        },
-        "definition": {
-          "en": "Development that meets present needs without harming future generations.",
-          "bm": "Pembangunan yang memenuhi keperluan semasa tanpa menjejaskan generasi akan datang."
-        }
-      },
-      {
-        "term": {
-          "en": "3R",
-          "bm": "3K"
-        },
-        "definition": {
-          "en": "Reduce, Reuse, Recycle.",
-          "bm": "Kurangkan, Guna semula, Kitar semula."
+          "en": "Goods sold to other countries.",
+          "bm": "Barangan yang dijual ke negara lain."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Explain how deforestation on hill slopes can cause floods downstream.",
-        "bm": "Terangkan bagaimana penebangan hutan di lereng bukit boleh menyebabkan banjir di hilir."
+        "en": "Classify: tin, forest, petroleum, water.",
+        "bm": "Kelaskan: bijih timah, hutan, petroleum, air."
       },
       "steps": [
         {
-          "en": "Without trees, less rain is intercepted and absorbed, so run-off increases.",
-          "bm": "Tanpa pokok, kurang hujan dipintas dan diserap, jadi air larian bertambah."
+          "en": "Can it be replaced naturally within a human lifetime?",
+          "bm": "Bolehkah ia diganti secara semula jadi dalam jangka hayat manusia?"
         },
         {
-          "en": "Soil is eroded and carried into rivers, making them shallower.",
-          "bm": "Tanih dihakis dan dibawa ke sungai, menjadikan sungai lebih cetek."
-        },
-        {
-          "en": "More water in shallower rivers overflows the banks.",
-          "bm": "Lebih banyak air dalam sungai yang cetek melimpahi tebing."
+          "en": "Forest and water — yes. Tin and petroleum — no.",
+          "bm": "Hutan dan air — ya. Bijih timah dan petroleum — tidak."
         }
       ],
       "answer": {
-        "en": "More run-off + river sedimentation → flooding.",
-        "bm": "Lebih banyak air larian + pemendapan sungai → banjir."
+        "en": "Renewable: forest, water. Non-renewable: tin, petroleum.",
+        "bm": "Boleh baharu: hutan, air. Tidak boleh baharu: bijih timah, petroleum."
       }
     }
   },
@@ -211,30 +213,30 @@
       "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which is a NON-renewable resource?",
-        "bm": "Antara berikut, yang manakah sumber TIDAK boleh diperbaharui?"
+        "en": "Which is a renewable resource?",
+        "bm": "Antara berikut, yang manakah sumber boleh baharu?"
       },
       "explanation": {
-        "en": "Petroleum takes millions of years to form.",
-        "bm": "Petroleum mengambil masa berjuta-juta tahun untuk terbentuk."
+        "en": "Forests can regrow if managed well.",
+        "bm": "Hutan boleh tumbuh semula jika diurus dengan baik."
       },
       "difficulty": 1,
       "options": [
+        {
+          "en": "Forest",
+          "bm": "Hutan"
+        },
         {
           "en": "Petroleum",
           "bm": "Petroleum"
         },
         {
-          "en": "Sunlight",
-          "bm": "Cahaya matahari"
+          "en": "Tin",
+          "bm": "Bijih timah"
         },
         {
-          "en": "Water",
-          "bm": "Air"
-        },
-        {
-          "en": "Wind",
-          "bm": "Angin"
+          "en": "Coal",
+          "bm": "Arang batu"
         }
       ],
       "answer": 0
@@ -244,30 +246,30 @@
       "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "Forests are renewable if they are…",
-        "bm": "Hutan boleh diperbaharui jika ia…"
+        "en": "Which is a non-renewable resource?",
+        "bm": "Antara berikut, yang manakah sumber tidak boleh baharu?"
       },
       "explanation": {
-        "en": "Over-logging makes forests disappear faster than they regrow.",
-        "bm": "Pembalakan berlebihan menyebabkan hutan hilang lebih cepat daripada tumbuh semula."
+        "en": "It took millions of years to form.",
+        "bm": "Ia mengambil masa jutaan tahun untuk terbentuk."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "managed and replanted sustainably",
-          "bm": "diurus dan ditanam semula secara lestari"
+          "en": "Natural gas",
+          "bm": "Gas asli"
         },
         {
-          "en": "cut down completely",
-          "bm": "ditebang sepenuhnya"
+          "en": "Water",
+          "bm": "Air"
         },
         {
-          "en": "burned every year",
-          "bm": "dibakar setiap tahun"
+          "en": "Fish",
+          "bm": "Ikan"
         },
         {
-          "en": "turned into roads",
-          "bm": "dijadikan jalan raya"
+          "en": "Solar energy",
+          "bm": "Tenaga suria"
         }
       ],
       "answer": 0
@@ -275,182 +277,181 @@
     {
       "id": "f3geo-06-q03",
       "subtopicId": "f3geo-06-02",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "An Air Pollutant Index (API) of 160 means the air is…",
-        "bm": "Indeks Pencemar Udara (IPU) 160 bermaksud udara…"
+        "en": "Malaysia's main tin-mining area in the past was the ______ Valley in Perak.",
+        "bm": "Kawasan perlombongan bijih timah utama Malaysia pada masa lalu ialah Lembah ______ di Perak."
       },
       "explanation": {
-        "en": "101–200 = unhealthy.",
-        "bm": "101–200 = tidak sihat."
+        "en": "Ipoh grew from tin mining.",
+        "bm": "Ipoh berkembang daripada perlombongan bijih timah."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "unhealthy",
-          "bm": "tidak sihat"
-        },
-        {
-          "en": "good",
-          "bm": "baik"
-        },
-        {
-          "en": "moderate",
-          "bm": "sederhana"
-        },
-        {
-          "en": "hazardous",
-          "bm": "berbahaya"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "Kinta"
+      ]
     },
     {
       "id": "f3geo-06-q04",
       "subtopicId": "f3geo-06-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which gas is the main contributor to the greenhouse effect from burning fossil fuels?",
-        "bm": "Gas manakah penyumbang utama kesan rumah hijau daripada pembakaran bahan api fosil?"
+        "en": "Bauxite is mined mainly in…",
+        "bm": "Bauksit dilombong terutamanya di…"
       },
       "explanation": {
-        "en": "Methane is another important greenhouse gas.",
-        "bm": "Metana ialah satu lagi gas rumah hijau yang penting."
+        "en": "Bauxite is used to make aluminium.",
+        "bm": "Bauksit digunakan untuk menghasilkan aluminium."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Carbon dioxide",
-          "bm": "Karbon dioksida"
+          "en": "Kuantan, Pahang",
+          "bm": "Kuantan, Pahang"
         },
         {
-          "en": "Oxygen",
-          "bm": "Oksigen"
+          "en": "Ipoh, Perak",
+          "bm": "Ipoh, Perak"
         },
         {
-          "en": "Nitrogen",
-          "bm": "Nitrogen"
+          "en": "Miri, Sarawak",
+          "bm": "Miri, Sarawak"
         },
         {
-          "en": "Helium",
-          "bm": "Helium"
+          "en": "Kangar, Perlis",
+          "bm": "Kangar, Perlis"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q05",
-      "subtopicId": "f3geo-06-03",
-      "type": "fill",
+      "subtopicId": "f3geo-06-02",
+      "type": "mcq",
       "prompt": {
-        "en": "Reduce, Reuse and Recycle are known as the ______.",
-        "bm": "Kurangkan, Guna semula dan Kitar semula dikenali sebagai ______."
+        "en": "Most of Malaysia's petroleum comes from…",
+        "bm": "Kebanyakan petroleum Malaysia diperoleh dari…"
       },
       "explanation": {
-        "en": "Reduce first, then reuse, then recycle.",
-        "bm": "Kurangkan dahulu, kemudian guna semula, kemudian kitar semula."
+        "en": "Kerteh in Terengganu is a major petroleum hub.",
+        "bm": "Kerteh di Terengganu ialah hab petroleum utama."
       },
       "difficulty": 1,
-      "answer": [
-        "3R",
-        "3K"
-      ]
+      "options": [
+        {
+          "en": "offshore fields near Terengganu, Sarawak and Sabah",
+          "bm": "lapangan luar pantai berhampiran Terengganu, Sarawak dan Sabah"
+        },
+        {
+          "en": "the Kinta Valley",
+          "bm": "Lembah Kinta"
+        },
+        {
+          "en": "Cameron Highlands",
+          "bm": "Cameron Highlands"
+        },
+        {
+          "en": "Langkawi",
+          "bm": "Langkawi"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3geo-06-q06",
       "subtopicId": "f3geo-06-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which substance damages the ozone layer?",
-        "bm": "Bahan manakah merosakkan lapisan ozon?"
+        "en": "Malaysia's first oil well (1910) was at…",
+        "bm": "Telaga minyak pertama Malaysia (1910) terletak di…"
       },
       "explanation": {
-        "en": "CFCs were once used in old fridges and aerosol sprays.",
-        "bm": "CFC pernah digunakan dalam peti sejuk lama dan semburan aerosol."
+        "en": "It is now a historic site.",
+        "bm": "Kini ia tapak bersejarah."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "CFCs (chlorofluorocarbons)",
-          "bm": "CFC (klorofluorokarbon)"
+          "en": "Canada Hill, Miri",
+          "bm": "Bukit Kanada, Miri"
         },
         {
-          "en": "Oxygen",
-          "bm": "Oksigen"
+          "en": "Kerteh",
+          "bm": "Kerteh"
         },
         {
-          "en": "Water vapour",
-          "bm": "Wap air"
+          "en": "Port Dickson",
+          "bm": "Port Dickson"
         },
         {
-          "en": "Sand",
-          "bm": "Pasir"
+          "en": "Labuan",
+          "bm": "Labuan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q07",
-      "subtopicId": "f3geo-06-02",
+      "subtopicId": "f3geo-06-03",
       "type": "mcq",
       "prompt": {
-        "en": "Open burning of land is a major cause of…",
-        "bm": "Pembakaran terbuka tanah ialah punca utama…"
+        "en": "One importance of natural resources is…",
+        "bm": "Salah satu kepentingan sumber semula jadi ialah…"
       },
       "explanation": {
-        "en": "Smoke and fine particles spread over large areas.",
-        "bm": "Asap dan zarah halus tersebar ke kawasan yang luas."
+        "en": "Petroleum, gas and palm oil are major exports.",
+        "bm": "Petroleum, gas dan minyak sawit ialah eksport utama."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "haze",
-          "bm": "jerebu"
+          "en": "earning export income",
+          "bm": "menjana pendapatan eksport"
         },
         {
-          "en": "earthquakes",
-          "bm": "gempa bumi"
+          "en": "causing pollution",
+          "bm": "menyebabkan pencemaran"
         },
         {
-          "en": "tsunamis",
-          "bm": "tsunami"
+          "en": "reducing jobs",
+          "bm": "mengurangkan pekerjaan"
         },
         {
-          "en": "snow",
-          "bm": "salji"
+          "en": "stopping development",
+          "bm": "menghentikan pembangunan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q08",
-      "subtopicId": "f3geo-06-03",
+      "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "Sustainable development means…",
-        "bm": "Pembangunan lestari bermaksud…"
+        "en": "Coal in Malaysia is mainly found in…",
+        "bm": "Arang batu di Malaysia terdapat terutamanya di…"
       },
       "explanation": {
-        "en": "Balance between economy, society and environment.",
-        "bm": "Keseimbangan antara ekonomi, sosial dan alam sekitar."
+        "en": "e.g. Mukah in Sarawak.",
+        "bm": "cth. Mukah di Sarawak."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "meeting today's needs without harming future generations",
-          "bm": "memenuhi keperluan hari ini tanpa menjejaskan generasi akan datang"
+          "en": "Sarawak and Sabah",
+          "bm": "Sarawak dan Sabah"
         },
         {
-          "en": "using all resources now",
-          "bm": "menggunakan semua sumber sekarang"
+          "en": "Melaka",
+          "bm": "Melaka"
         },
         {
-          "en": "stopping all development",
-          "bm": "menghentikan semua pembangunan"
+          "en": "Perlis",
+          "bm": "Perlis"
         },
         {
-          "en": "building only in forests",
-          "bm": "membina di hutan sahaja"
+          "en": "Pulau Pinang",
+          "bm": "Pulau Pinang"
         }
       ],
       "answer": 0
@@ -460,86 +461,86 @@
       "subtopicId": "f3geo-06-02",
       "type": "match",
       "prompt": {
-        "en": "Match each problem with a cause.",
-        "bm": "Padankan masalah dengan puncanya."
+        "en": "Match each resource with its main location.",
+        "bm": "Padankan sumber dengan lokasi utamanya."
       },
       "explanation": {
-        "en": "Most environmental problems link back to human activities.",
-        "bm": "Kebanyakan masalah alam sekitar berpunca daripada kegiatan manusia."
+        "en": "Resources are unevenly distributed.",
+        "bm": "Sumber tidak tertabur secara sekata."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "Water pollution",
-            "bm": "Pencemaran air"
+            "en": "Tin",
+            "bm": "Bijih timah"
           },
           "right": {
-            "en": "Factory waste and sewage in rivers",
-            "bm": "Sisa kilang dan kumbahan dalam sungai"
+            "en": "Kinta Valley, Perak",
+            "bm": "Lembah Kinta, Perak"
           }
         },
         {
           "left": {
-            "en": "Landslides",
-            "bm": "Tanah runtuh"
+            "en": "Bauxite",
+            "bm": "Bauksit"
           },
           "right": {
-            "en": "Clearing and cutting steep slopes",
-            "bm": "Membersihkan dan memotong cerun curam"
+            "en": "Kuantan, Pahang",
+            "bm": "Kuantan, Pahang"
           }
         },
         {
           "left": {
-            "en": "Global warming",
-            "bm": "Pemanasan global"
+            "en": "Gold",
+            "bm": "Emas"
           },
           "right": {
-            "en": "Greenhouse gases from fossil fuels",
-            "bm": "Gas rumah hijau daripada bahan api fosil"
+            "en": "Raub, Pahang",
+            "bm": "Raub, Pahang"
           }
         },
         {
           "left": {
-            "en": "Flash floods in towns",
-            "bm": "Banjir kilat di bandar"
+            "en": "Petroleum",
+            "bm": "Petroleum"
           },
           "right": {
-            "en": "Blocked drains and paved surfaces",
-            "bm": "Longkang tersumbat dan permukaan berturap"
+            "en": "Offshore Terengganu",
+            "bm": "Luar pantai Terengganu"
           }
         }
       ]
     },
     {
       "id": "f3geo-06-q10",
-      "subtopicId": "f3geo-06-02",
+      "subtopicId": "f3geo-06-01",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL effects of haze.",
-        "bm": "Pilih SEMUA kesan jerebu."
+        "en": "Select ALL renewable resources.",
+        "bm": "Pilih SEMUA sumber boleh baharu."
       },
       "explanation": {
-        "en": "Malaysia does not get snow.",
-        "bm": "Malaysia tidak menerima salji."
+        "en": "Renewables can still run short if overused.",
+        "bm": "Sumber boleh baharu juga boleh berkurang jika digunakan berlebihan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Breathing problems",
-          "bm": "Masalah pernafasan"
+          "en": "Water",
+          "bm": "Air"
         },
         {
-          "en": "Poor visibility for transport",
-          "bm": "Jarak penglihatan rendah untuk pengangkutan"
+          "en": "Fish",
+          "bm": "Ikan"
         },
         {
-          "en": "School closures when the API is very high",
-          "bm": "Sekolah ditutup apabila IPU sangat tinggi"
+          "en": "Solar energy",
+          "bm": "Tenaga suria"
         },
         {
-          "en": "More snow",
-          "bm": "Lebih banyak salji"
+          "en": "Bauxite",
+          "bm": "Bauksit"
         }
       ],
       "answer": [
@@ -551,310 +552,313 @@
     {
       "id": "f3geo-06-q11",
       "subtopicId": "f3geo-06-03",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange the 3R from MOST to LEAST preferred.",
-        "bm": "Susun 3K daripada PALING kepada PALING KURANG diutamakan."
-      },
-      "explanation": {
-        "en": "Avoiding waste is better than dealing with it later.",
-        "bm": "Mengelak sisa lebih baik daripada menguruskannya kemudian."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Reduce",
-          "bm": "Kurangkan"
-        },
-        {
-          "en": "Reuse",
-          "bm": "Guna semula"
-        },
-        {
-          "en": "Recycle",
-          "bm": "Kitar semula"
-        }
-      ]
-    },
-    {
-      "id": "f3geo-06-q12",
-      "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which is a renewable source of energy?",
-        "bm": "Antara berikut, yang manakah sumber tenaga boleh diperbaharui?"
+        "en": "How do natural resources create jobs?",
+        "bm": "Bagaimanakah sumber semula jadi mewujudkan pekerjaan?"
       },
       "explanation": {
-        "en": "Sunlight does not run out.",
-        "bm": "Cahaya matahari tidak akan habis."
+        "en": "Downstream industries also add jobs.",
+        "bm": "Industri hiliran juga menambah pekerjaan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Solar",
-          "bm": "Suria"
+          "en": "Through mining, oil and gas, forestry, fishing and related industries",
+          "bm": "Melalui perlombongan, minyak dan gas, perhutanan, perikanan dan industri berkaitan"
         },
         {
-          "en": "Coal",
-          "bm": "Arang batu"
+          "en": "By closing factories",
+          "bm": "Dengan menutup kilang"
         },
         {
-          "en": "Natural gas",
-          "bm": "Gas asli"
+          "en": "By reducing trade",
+          "bm": "Dengan mengurangkan perdagangan"
         },
         {
-          "en": "Diesel",
-          "bm": "Diesel"
+          "en": "They do not create jobs",
+          "bm": "Ia tidak mewujudkan pekerjaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-06-q12",
+      "subtopicId": "f3geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Natural gas from Bintulu is processed into…",
+        "bm": "Gas asli dari Bintulu diproses menjadi…"
+      },
+      "explanation": {
+        "en": "LNG is shipped to countries such as Japan.",
+        "bm": "LNG dihantar ke negara seperti Jepun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "liquefied natural gas (LNG) for export",
+          "bm": "gas asli cecair (LNG) untuk eksport"
+        },
+        {
+          "en": "rubber",
+          "bm": "getah"
+        },
+        {
+          "en": "tin",
+          "bm": "bijih timah"
+        },
+        {
+          "en": "rice",
+          "bm": "beras"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q13",
-      "subtopicId": "f3geo-06-02",
-      "type": "mcq",
+      "subtopicId": "f3geo-06-01",
+      "type": "fill",
       "prompt": {
-        "en": "The government department responsible for environmental protection in Malaysia is the…",
-        "bm": "Jabatan kerajaan yang bertanggungjawab melindungi alam sekitar di Malaysia ialah…"
+        "en": "Petroleum and natural gas are called ______ fuels because they formed from ancient plants and animals.",
+        "bm": "Petroleum dan gas asli dipanggil bahan api ______ kerana terbentuk daripada tumbuhan dan haiwan purba."
       },
       "explanation": {
-        "en": "It enforces the Environmental Quality Act 1974.",
-        "bm": "Ia menguatkuasakan Akta Kualiti Alam Sekeliling 1974."
+        "en": "They take millions of years to form.",
+        "bm": "Ia mengambil masa jutaan tahun untuk terbentuk."
+      },
+      "difficulty": 2,
+      "answer": [
+        "fossil",
+        "fosil"
+      ]
+    },
+    {
+      "id": "f3geo-06-q14",
+      "subtopicId": "f3geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How do natural resources support infrastructure development?",
+        "bm": "Bagaimanakah sumber semula jadi menyokong pembangunan infrastruktur?"
+      },
+      "explanation": {
+        "en": "Resource income contributes to national development.",
+        "bm": "Pendapatan sumber menyumbang kepada pembangunan negara."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Department of Environment (DOE)",
-          "bm": "Jabatan Alam Sekitar (JAS)"
+          "en": "Revenue from resources helps fund roads, schools and hospitals",
+          "bm": "Hasil daripada sumber membantu membiayai jalan raya, sekolah dan hospital"
         },
         {
-          "en": "Road Transport Department",
-          "bm": "Jabatan Pengangkutan Jalan"
+          "en": "They block roads",
+          "bm": "Ia menghalang jalan raya"
         },
         {
-          "en": "Immigration Department",
-          "bm": "Jabatan Imigresen"
+          "en": "They have no link",
+          "bm": "Tiada kaitan"
         },
         {
-          "en": "Department of Statistics",
-          "bm": "Jabatan Perangkaan"
+          "en": "They reduce revenue",
+          "bm": "Ia mengurangkan hasil"
         }
       ],
       "answer": 0
-    },
-    {
-      "id": "f3geo-06-q14",
-      "subtopicId": "f3geo-06-01",
-      "type": "fill",
-      "prompt": {
-        "en": "A resource that will eventually run out is called a ______ resource.",
-        "bm": "Sumber yang akhirnya akan habis dipanggil sumber tidak boleh ______."
-      },
-      "explanation": {
-        "en": "Use it wisely and look for alternatives.",
-        "bm": "Gunakannya dengan bijak dan cari alternatif."
-      },
-      "difficulty": 2,
-      "answer": [
-        "non-renewable",
-        "nonrenewable",
-        "diperbaharui"
-      ]
     },
     {
       "id": "f3geo-06-q15",
       "subtopicId": "f3geo-06-02",
-      "type": "mcq",
+      "type": "order",
       "prompt": {
-        "en": "How does global warming affect coastal areas?",
-        "bm": "Bagaimanakah pemanasan global memberi kesan kepada kawasan pantai?"
+        "en": "Arrange the steps from oil field to consumer.",
+        "bm": "Susun langkah dari lapangan minyak kepada pengguna."
       },
       "explanation": {
-        "en": "Melting ice and warmer, expanding seawater raise sea levels.",
-        "bm": "Ais yang cair dan air laut yang lebih panas serta mengembang menaikkan aras laut."
+        "en": "Refineries are at places such as Melaka and Port Dickson.",
+        "bm": "Kilang penapisan terdapat di tempat seperti Melaka dan Port Dickson."
       },
       "difficulty": 2,
-      "options": [
+      "items": [
         {
-          "en": "Rising sea levels can flood low-lying coasts",
-          "bm": "Kenaikan aras laut boleh membanjiri pantai yang rendah"
+          "en": "Drilling offshore",
+          "bm": "Penggerudian di luar pantai"
         },
         {
-          "en": "Coasts become colder",
-          "bm": "Pantai menjadi lebih sejuk"
+          "en": "Transport by pipeline or tanker",
+          "bm": "Pengangkutan melalui saluran paip atau kapal tangki"
         },
         {
-          "en": "Sea levels fall sharply",
-          "bm": "Aras laut menurun mendadak"
+          "en": "Refining",
+          "bm": "Penapisan"
         },
         {
-          "en": "There is no effect",
-          "bm": "Tiada kesan"
+          "en": "Selling as petrol and other products",
+          "bm": "Dijual sebagai petrol dan produk lain"
         }
-      ],
-      "answer": 0
+      ]
     },
     {
       "id": "f3geo-06-q16",
-      "subtopicId": "f3geo-06-03",
+      "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which is an example of conserving water at home?",
-        "bm": "Antara berikut, yang manakah contoh menjimatkan air di rumah?"
+        "en": "Why can a renewable resource like fish still run out?",
+        "bm": "Mengapakah sumber boleh baharu seperti ikan masih boleh berkurangan?"
       },
       "explanation": {
-        "en": "Small actions save a lot of water over time.",
-        "bm": "Tindakan kecil menjimatkan banyak air dari masa ke masa."
+        "en": "Sustainable management is needed.",
+        "bm": "Pengurusan lestari diperlukan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Fixing leaking taps",
-          "bm": "Membaiki paip yang bocor"
+          "en": "If it is used faster than it can replace itself (overfishing)",
+          "bm": "Jika digunakan lebih cepat daripada kadar penggantiannya (penangkapan berlebihan)"
         },
         {
-          "en": "Leaving taps running",
-          "bm": "Membiarkan paip terbuka"
+          "en": "Fish are non-renewable",
+          "bm": "Ikan sumber tidak boleh baharu"
         },
         {
-          "en": "Washing the car daily with a hose",
-          "bm": "Membasuh kereta setiap hari dengan hos"
+          "en": "Fish never reproduce",
+          "bm": "Ikan tidak membiak"
         },
         {
-          "en": "Overflowing tanks",
-          "bm": "Membiarkan tangki melimpah"
+          "en": "It cannot run out",
+          "bm": "Ia tidak boleh berkurang"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q17",
-      "subtopicId": "f3geo-06-02",
+      "subtopicId": "f3geo-06-03",
       "type": "mcq",
       "prompt": {
-        "en": "Haze from neighbouring countries often affects Malaysia. Which solution is MOST effective?",
-        "bm": "Jerebu dari negara jiran sering menjejaskan Malaysia. Penyelesaian manakah PALING berkesan?"
+        "en": "Why should Malaysia not depend only on petroleum for income?",
+        "bm": "Mengapakah Malaysia tidak patut bergantung kepada petroleum sahaja untuk pendapatan?"
       },
       "explanation": {
-        "en": "Transboundary pollution needs action across borders.",
-        "bm": "Pencemaran rentas sempadan memerlukan tindakan merentasi sempadan."
+        "en": "Diversifying the economy reduces risk.",
+        "bm": "Mempelbagaikan ekonomi mengurangkan risiko."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Regional cooperation (e.g. ASEAN agreements) to stop open burning at the source",
-          "bm": "Kerjasama serantau (cth. perjanjian ASEAN) untuk menghentikan pembakaran terbuka di punca"
+          "en": "Oil is non-renewable and its world price changes, so income could fall sharply",
+          "bm": "Minyak tidak boleh baharu dan harganya di pasaran dunia berubah, jadi pendapatan boleh merosot dengan teruk"
         },
         {
-          "en": "Close Malaysian schools forever",
-          "bm": "Menutup sekolah di Malaysia selama-lamanya"
+          "en": "Oil never runs out",
+          "bm": "Minyak tidak pernah habis"
         },
         {
-          "en": "Ignore it",
-          "bm": "Mengabaikannya"
+          "en": "Oil has no value",
+          "bm": "Minyak tiada nilai"
         },
         {
-          "en": "Burn more land in Malaysia",
-          "bm": "Membakar lebih banyak tanah di Malaysia"
+          "en": "Other sectors are banned",
+          "bm": "Sektor lain diharamkan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q18",
-      "subtopicId": "f3geo-06-01",
+      "subtopicId": "f3geo-06-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why is it important to develop renewable energy in Malaysia?",
-        "bm": "Mengapakah penting membangunkan tenaga boleh diperbaharui di Malaysia?"
+        "en": "Why are resources such as tin found only in certain areas?",
+        "bm": "Mengapakah sumber seperti bijih timah hanya terdapat di kawasan tertentu?"
       },
       "explanation": {
-        "en": "Malaysia receives strong sunshine all year, ideal for solar power.",
-        "bm": "Malaysia menerima cahaya matahari yang kuat sepanjang tahun, sesuai untuk tenaga suria."
+        "en": "Geology explains distribution.",
+        "bm": "Geologi menerangkan taburan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Fossil fuels will run out and their emissions cause global warming",
-          "bm": "Bahan api fosil akan habis dan pelepasannya menyebabkan pemanasan global"
+          "en": "They form under specific geological conditions, e.g. tin linked with granite",
+          "bm": "Ia terbentuk dalam keadaan geologi tertentu, cth. bijih timah dikaitkan dengan granit"
         },
         {
-          "en": "Renewable energy pollutes more",
-          "bm": "Tenaga boleh diperbaharui lebih mencemar"
+          "en": "People placed them there",
+          "bm": "Manusia meletakkannya di situ"
         },
         {
-          "en": "Malaysia has no sunlight",
-          "bm": "Malaysia tiada cahaya matahari"
+          "en": "They come from rain",
+          "bm": "Ia datang daripada hujan"
         },
         {
-          "en": "It is not important",
-          "bm": "Tidak penting"
+          "en": "They are everywhere",
+          "bm": "Ia terdapat di mana-mana"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q19",
-      "subtopicId": "f3geo-06-03",
+      "subtopicId": "f3geo-06-01",
       "type": "mcq",
       "prompt": {
-        "en": "A school wants to reduce its waste. Which plan follows the 3R order BEST?",
-        "bm": "Sebuah sekolah ingin mengurangkan sisa. Rancangan manakah PALING mengikut susunan 3K?"
+        "en": "Which is the BEST way to make non-renewable resources last longer?",
+        "bm": "Manakah cara PALING baik untuk memanjangkan hayat sumber tidak boleh baharu?"
       },
       "explanation": {
-        "en": "Reducing first prevents waste from being created.",
-        "bm": "Mengurangkan dahulu mengelakkan sisa daripada terhasil."
+        "en": "e.g. solar power on rooftops.",
+        "bm": "cth. tenaga suria di bumbung."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Ban single-use plastics, reuse containers, then recycle what is left",
-          "bm": "Larang plastik sekali guna, guna semula bekas, kemudian kitar semula baki"
+          "en": "Use them efficiently, recycle metals and shift to renewable energy",
+          "bm": "Gunakan dengan cekap, kitar semula logam dan beralih kepada tenaga boleh baharu"
         },
         {
-          "en": "Recycle everything but keep buying more plastic",
-          "bm": "Kitar semula semua tetapi terus membeli lebih banyak plastik"
+          "en": "Use more of them quickly",
+          "bm": "Gunakan lebih banyak dengan cepat"
         },
         {
-          "en": "Burn all rubbish",
-          "bm": "Bakar semua sampah"
+          "en": "Stop all recycling",
+          "bm": "Hentikan kitar semula"
         },
         {
-          "en": "Bury rubbish in the field",
-          "bm": "Tanam sampah di padang"
+          "en": "Export everything at once",
+          "bm": "Eksport semuanya sekali gus"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-06-q20",
-      "subtopicId": "f3geo-06-02",
+      "subtopicId": "f3geo-06-03",
       "type": "mcq",
       "prompt": {
-        "en": "A hillside housing project is planned after heavy forest clearing. What is the BEST advice?",
-        "bm": "Satu projek perumahan di lereng bukit dirancang selepas pembersihan hutan yang besar. Apakah nasihat TERBAIK?"
+        "en": "How did tin mining shape towns in Perak?",
+        "bm": "Bagaimanakah perlombongan bijih timah membentuk bandar di Perak?"
       },
       "explanation": {
-        "en": "Water in the soil and bare slopes increase landslide risk.",
-        "bm": "Air dalam tanih dan cerun yang gondol meningkatkan risiko tanah runtuh."
+        "en": "Old mining pools are now lakes and parks.",
+        "bm": "Bekas lombong kini menjadi tasik dan taman."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Assess slope safety, keep vegetation and build proper drainage",
-          "bm": "Nilai keselamatan cerun, kekalkan tumbuhan dan bina saliran yang betul"
+          "en": "Mining settlements grew into towns such as Ipoh and Taiping with roads and railways",
+          "bm": "Petempatan perlombongan berkembang menjadi bandar seperti Ipoh dan Taiping dengan jalan raya dan kereta api"
         },
         {
-          "en": "Cut the slope steeper",
-          "bm": "Potong cerun lebih curam"
+          "en": "It stopped all towns from growing",
+          "bm": "Ia menghalang bandar berkembang"
         },
         {
-          "en": "Remove all trees",
-          "bm": "Buang semua pokok"
+          "en": "It created rice fields",
+          "bm": "Ia mewujudkan sawah padi"
         },
         {
-          "en": "Build without drains",
-          "bm": "Bina tanpa longkang"
+          "en": "It had no effect",
+          "bm": "Ia tiada kesan"
         }
       ],
       "answer": 0

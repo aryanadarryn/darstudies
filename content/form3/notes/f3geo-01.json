@@ -5,42 +5,46 @@
     "f3geo-01-01": {
       "keyPoints": [
         {
-          "en": "Grid reference: easting first, then northing (4 figures = square, 6 figures = point).",
-          "bm": "Rujukan grid: timuran dahulu, kemudian utaraan (4 angka = petak, 6 angka = titik)."
-        },
-        {
-          "en": "Bearing: degrees clockwise from north, written with 3 digits (e.g. 045°). Back bearing = ±180°.",
-          "bm": "Bearing: darjah mengikut arah jam dari utara, ditulis 3 digit (cth. 045°). Bearing songsang = ±180°."
+          "en": "Tables need a title, row and column headings, units and a source; they show exact values.",
+          "bm": "Jadual perlu tajuk, tajuk baris dan lajur, unit dan sumber; ia menunjukkan nilai tepat."
         }
       ]
     },
     "f3geo-01-02": {
       "keyPoints": [
         {
-          "en": "Scale 1 : 50 000 → 1 cm = 0.5 km. Scale 1 : 25 000 → 1 cm = 250 m.",
-          "bm": "Skala 1 : 50 000 → 1 cm = 0.5 km. Skala 1 : 25 000 → 1 cm = 250 m."
-        },
-        {
-          "en": "Measure curved routes with a string or paper edge, then use the scale.",
-          "bm": "Ukur laluan berliku dengan benang atau tepi kertas, kemudian guna skala."
+          "en": "Bar graph: compare amounts. Line graph: change over time. Combined graph: two related data sets.",
+          "bm": "Graf bar: bandingkan jumlah. Graf garisan: perubahan mengikut masa. Graf gabungan: dua set data berkaitan."
         }
       ]
     },
     "f3geo-01-03": {
       "keyPoints": [
         {
-          "en": "Contours join points of equal height; the contour interval is the height difference between them.",
-          "bm": "Kontur menyambungkan titik sama tinggi; sela kontur ialah beza ketinggian antaranya."
-        },
+          "en": "Steps: title → headings → enter data with units → add source.",
+          "bm": "Langkah: tajuk → tajuk lajur → masukkan data dengan unit → tambah sumber."
+        }
+      ]
+    },
+    "f3geo-01-04": {
+      "keyPoints": [
         {
-          "en": "Close = steep; wide = gentle. Closed rings = hill; V pointing uphill = valley.",
-          "bm": "Rapat = curam; jarang = landai. Gelang tertutup = bukit; V menghala ke tanah tinggi = lembah."
+          "en": "Draw and label axes, choose a scale with equal intervals, plot bars (equal width/gaps) or points joined by a line, add title, key and source.",
+          "bm": "Lukis dan labelkan paksi, pilih skala dengan selang sama, plot bar (lebar/jarak sama) atau titik yang disambung garisan, tambah tajuk, petunjuk dan sumber."
         }
       ],
       "tip": {
-        "en": "Read contour numbers to see which way the land rises.",
-        "bm": "Baca nombor kontur untuk melihat arah tanah meninggi."
+        "en": "A combined graph has two vertical axes.",
+        "bm": "Graf gabungan mempunyai dua paksi menegak."
       }
+    },
+    "f3geo-01-05": {
+      "keyPoints": [
+        {
+          "en": "Describe highest and lowest values, trend and differences; calculate range, average or percentage change; always use units.",
+          "bm": "Huraikan nilai tertinggi dan terendah, trend dan perbezaan; kira julat, purata atau peratus perubahan; sentiasa gunakan unit."
+        }
+      ]
     }
   }
 }

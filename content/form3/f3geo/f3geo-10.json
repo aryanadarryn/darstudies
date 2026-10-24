@@ -1,0 +1,846 @@
+{
+  "chapterId": "f3geo-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A meranti tree can take 60 years to grow tall enough to harvest — and only minutes to cut down. Forest management decides whether there will be forests for our grandchildren.",
+      "bm": "Sebatang pokok meranti boleh mengambil masa 60 tahun untuk cukup tinggi bagi dituai — tetapi hanya beberapa minit untuk ditebang. Pengurusan hutan menentukan sama ada cucu-cicit kita masih mempunyai hutan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Forests provide timber (meranti, keruing, cengal) and non-timber products (rattan, bamboo, resin, herbs such as tongkat ali).",
+        "bm": "Hutan membekalkan kayu balak (meranti, keruing, cengal) dan hasil bukan kayu (rotan, buluh, damar, herba seperti tongkat ali)."
+      },
+      {
+        "en": "Managing forests keeps a lasting supply of resources and protects water, soil and biodiversity.",
+        "bm": "Pengurusan hutan memastikan bekalan sumber berterusan serta melindungi air, tanih dan kepelbagaian biologi."
+      },
+      {
+        "en": "Efforts include Permanent Reserved Forests, selective logging, replanting and forest plantations, led by agencies such as the Forestry Department and FRIM.",
+        "bm": "Usaha termasuk Hutan Simpanan Kekal, pembalakan terpilih, penanaman semula dan ladang hutan, dipimpin oleh agensi seperti Jabatan Perhutanan dan FRIM."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Role",
+            "bm": "Peranan"
+          },
+          {
+            "en": "Area",
+            "bm": "Kawasan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Forestry Department of Peninsular Malaysia (JPSM)",
+              "bm": "Jabatan Perhutanan Semenanjung Malaysia (JPSM)"
+            },
+            "cells": [
+              {
+                "en": "Manages and enforces forest laws",
+                "bm": "Mengurus hutan dan menguatkuasakan undang-undang"
+              },
+              {
+                "en": "Peninsular Malaysia",
+                "bm": "Semenanjung Malaysia"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sabah Forestry Department / Sarawak Forest Department",
+              "bm": "Jabatan Perhutanan Sabah / Jabatan Hutan Sarawak"
+            },
+            "cells": [
+              {
+                "en": "Manage forests in each state",
+                "bm": "Mengurus hutan di negeri masing-masing"
+              },
+              {
+                "en": "Sabah, Sarawak",
+                "bm": "Sabah, Sarawak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "FRIM",
+              "bm": "FRIM"
+            },
+            "cells": [
+              {
+                "en": "Forest research (Kepong, Selangor)",
+                "bm": "Penyelidikan hutan (Kepong, Selangor)"
+              },
+              {
+                "en": "National",
+                "bm": "Kebangsaan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "PERHILITAN",
+              "bm": "PERHILITAN"
+            },
+            "cells": [
+              {
+                "en": "Protects wildlife and national parks",
+                "bm": "Melindungi hidupan liar dan taman negara"
+              },
+              {
+                "en": "Peninsular Malaysia",
+                "bm": "Semenanjung Malaysia"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Permanent Reserved Forest",
+          "bm": "Hutan Simpanan Kekal (HSK)"
+        },
+        "definition": {
+          "en": "Forest legally protected for long-term management.",
+          "bm": "Hutan yang dilindungi undang-undang untuk pengurusan jangka panjang."
+        }
+      },
+      {
+        "term": {
+          "en": "Selective logging",
+          "bm": "Pembalakan terpilih"
+        },
+        "definition": {
+          "en": "Cutting only mature trees above a set size so the forest can regrow.",
+          "bm": "Menebang pokok matang melebihi saiz tertentu sahaja supaya hutan boleh tumbuh semula."
+        }
+      },
+      {
+        "term": {
+          "en": "Reforestation",
+          "bm": "Penghutanan semula"
+        },
+        "definition": {
+          "en": "Replanting trees in cleared forest areas.",
+          "bm": "Menanam semula pokok di kawasan hutan yang ditebang."
+        }
+      },
+      {
+        "term": {
+          "en": "Forest plantation",
+          "bm": "Ladang hutan"
+        },
+        "definition": {
+          "en": "Fast-growing trees planted for timber (e.g. acacia, rubberwood).",
+          "bm": "Pokok cepat tumbuh yang ditanam untuk kayu (cth. akasia, kayu getah)."
+        }
+      },
+      {
+        "term": {
+          "en": "Non-timber forest products",
+          "bm": "Hasil hutan bukan kayu"
+        },
+        "definition": {
+          "en": "Rattan, bamboo, resin, herbs, fruits and honey.",
+          "bm": "Rotan, buluh, damar, herba, buah-buahan dan madu."
+        }
+      },
+      {
+        "term": {
+          "en": "FRIM",
+          "bm": "FRIM"
+        },
+        "definition": {
+          "en": "Forest Research Institute Malaysia (Institut Penyelidikan Perhutanan Malaysia).",
+          "bm": "Institut Penyelidikan Perhutanan Malaysia."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain how selective logging keeps forests sustainable.",
+        "bm": "Terangkan bagaimana pembalakan terpilih memastikan hutan lestari."
+      },
+      "steps": [
+        {
+          "en": "Only mature trees above a minimum size are cut.",
+          "bm": "Hanya pokok matang melebihi saiz minimum ditebang."
+        },
+        {
+          "en": "Younger trees are left to grow for the next cycle.",
+          "bm": "Pokok muda dibiarkan membesar untuk kitaran seterusnya."
+        }
+      ],
+      "answer": {
+        "en": "The forest regrows naturally, so timber can be harvested again in future cycles.",
+        "bm": "Hutan tumbuh semula secara semula jadi, jadi kayu boleh dituai semula pada kitaran akan datang."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-10-q01",
+      "subtopicId": "f3geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a timber product from Malaysian forests?",
+        "bm": "Antara berikut, yang manakah hasil kayu daripada hutan Malaysia?"
+      },
+      "explanation": {
+        "en": "The others are non-timber products.",
+        "bm": "Yang lain hasil hutan bukan kayu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Meranti",
+          "bm": "Meranti"
+        },
+        {
+          "en": "Rattan",
+          "bm": "Rotan"
+        },
+        {
+          "en": "Honey",
+          "bm": "Madu"
+        },
+        {
+          "en": "Tongkat ali",
+          "bm": "Tongkat ali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q02",
+      "subtopicId": "f3geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rattan and bamboo are examples of…",
+        "bm": "Rotan dan buluh ialah contoh…"
+      },
+      "explanation": {
+        "en": "Used for furniture and handicrafts.",
+        "bm": "Digunakan untuk perabot dan kraf tangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "non-timber forest products",
+          "bm": "hasil hutan bukan kayu"
+        },
+        {
+          "en": "minerals",
+          "bm": "mineral"
+        },
+        {
+          "en": "fossil fuels",
+          "bm": "bahan api fosil"
+        },
+        {
+          "en": "crops from farms",
+          "bm": "tanaman ladang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q03",
+      "subtopicId": "f3geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which forest herb is used in traditional medicine?",
+        "bm": "Herba hutan manakah digunakan dalam perubatan tradisional?"
+      },
+      "explanation": {
+        "en": "Kacip fatimah is another example.",
+        "bm": "Kacip fatimah ialah contoh lain."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tongkat ali",
+          "bm": "Tongkat ali"
+        },
+        {
+          "en": "Cengal",
+          "bm": "Cengal"
+        },
+        {
+          "en": "Keruing",
+          "bm": "Keruing"
+        },
+        {
+          "en": "Meranti",
+          "bm": "Meranti"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q04",
+      "subtopicId": "f3geo-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Forest management is important to…",
+        "bm": "Pengurusan hutan penting untuk…"
+      },
+      "explanation": {
+        "en": "It also protects water catchments.",
+        "bm": "Ia juga melindungi kawasan tadahan air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ensure a lasting supply of forest resources",
+          "bm": "memastikan bekalan sumber hutan yang berterusan"
+        },
+        {
+          "en": "clear all forests quickly",
+          "bm": "menebang semua hutan dengan cepat"
+        },
+        {
+          "en": "reduce rainfall",
+          "bm": "mengurangkan hujan"
+        },
+        {
+          "en": "increase erosion",
+          "bm": "meningkatkan hakisan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q05",
+      "subtopicId": "f3geo-10-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Forest that is legally protected for long-term management is called Permanent ______ Forest.",
+        "bm": "Hutan yang dilindungi undang-undang untuk pengurusan jangka panjang dipanggil Hutan Simpanan ______."
+      },
+      "explanation": {
+        "en": "Abbreviated HSK in Malay.",
+        "bm": "Singkatannya HSK."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Reserved",
+        "Kekal"
+      ]
+    },
+    {
+      "id": "f3geo-10-q06",
+      "subtopicId": "f3geo-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Replanting trees in cleared forest areas is called…",
+        "bm": "Menanam semula pokok di kawasan hutan yang ditebang dipanggil…"
+      },
+      "explanation": {
+        "en": "It restores the forest.",
+        "bm": "Ia memulihkan hutan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reforestation",
+          "bm": "penghutanan semula"
+        },
+        {
+          "en": "deforestation",
+          "bm": "penebangan hutan"
+        },
+        {
+          "en": "urbanisation",
+          "bm": "perbandaran"
+        },
+        {
+          "en": "mining",
+          "bm": "perlombongan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q07",
+      "subtopicId": "f3geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "FRIM is mainly responsible for…",
+        "bm": "FRIM bertanggungjawab terutamanya untuk…"
+      },
+      "explanation": {
+        "en": "It is located in Kepong, Selangor.",
+        "bm": "Ia terletak di Kepong, Selangor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "forest research",
+          "bm": "penyelidikan hutan"
+        },
+        {
+          "en": "collecting taxes",
+          "bm": "memungut cukai"
+        },
+        {
+          "en": "building roads",
+          "bm": "membina jalan raya"
+        },
+        {
+          "en": "running schools",
+          "bm": "mentadbir sekolah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q08",
+      "subtopicId": "f3geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The agency that manages forests in Peninsular Malaysia is…",
+        "bm": "Agensi yang mengurus hutan di Semenanjung Malaysia ialah…"
+      },
+      "explanation": {
+        "en": "Sabah and Sarawak have their own forest departments.",
+        "bm": "Sabah dan Sarawak mempunyai jabatan hutan sendiri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Jabatan Perhutanan Semenanjung Malaysia",
+          "bm": "Jabatan Perhutanan Semenanjung Malaysia"
+        },
+        {
+          "en": "Jabatan Kastam",
+          "bm": "Jabatan Kastam"
+        },
+        {
+          "en": "Jabatan Pendidikan",
+          "bm": "Jabatan Pendidikan"
+        },
+        {
+          "en": "PETRONAS",
+          "bm": "PETRONAS"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q09",
+      "subtopicId": "f3geo-10-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each effort with its description.",
+        "bm": "Padankan usaha dengan huraiannya."
+      },
+      "explanation": {
+        "en": "Together they support sustainable forestry.",
+        "bm": "Bersama-sama ia menyokong perhutanan lestari."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Selective logging",
+            "bm": "Pembalakan terpilih"
+          },
+          "right": {
+            "en": "Cut only mature trees",
+            "bm": "Tebang pokok matang sahaja"
+          }
+        },
+        {
+          "left": {
+            "en": "Reforestation",
+            "bm": "Penghutanan semula"
+          },
+          "right": {
+            "en": "Replant cleared areas",
+            "bm": "Tanam semula kawasan yang ditebang"
+          }
+        },
+        {
+          "left": {
+            "en": "Forest plantation",
+            "bm": "Ladang hutan"
+          },
+          "right": {
+            "en": "Grow fast-growing trees for timber",
+            "bm": "Tanam pokok cepat tumbuh untuk kayu"
+          }
+        },
+        {
+          "left": {
+            "en": "Permanent Reserved Forest",
+            "bm": "Hutan Simpanan Kekal"
+          },
+          "right": {
+            "en": "Legally protected forest",
+            "bm": "Hutan yang dilindungi undang-undang"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-10-q10",
+      "subtopicId": "f3geo-10-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL reasons why forest management is important.",
+        "bm": "Pilih SEMUA sebab pengurusan hutan penting."
+      },
+      "explanation": {
+        "en": "It also keeps the timber industry going.",
+        "bm": "Ia juga mengekalkan industri kayu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Protects water catchment areas",
+          "bm": "Melindungi kawasan tadahan air"
+        },
+        {
+          "en": "Prevents soil erosion and floods",
+          "bm": "Mencegah hakisan tanih dan banjir"
+        },
+        {
+          "en": "Conserves biodiversity",
+          "bm": "Memulihara kepelbagaian biologi"
+        },
+        {
+          "en": "Increases air pollution",
+          "bm": "Meningkatkan pencemaran udara"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-10-q11",
+      "subtopicId": "f3geo-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are forest plantations of fast-growing trees useful?",
+        "bm": "Mengapakah ladang hutan pokok cepat tumbuh berguna?"
+      },
+      "explanation": {
+        "en": "e.g. acacia and rubberwood plantations.",
+        "bm": "cth. ladang akasia dan kayu getah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They supply timber and reduce pressure on natural forests",
+          "bm": "Ia membekalkan kayu dan mengurangkan tekanan ke atas hutan semula jadi"
+        },
+        {
+          "en": "They destroy natural forests",
+          "bm": "Ia memusnahkan hutan semula jadi"
+        },
+        {
+          "en": "They grow food only",
+          "bm": "Ia menghasilkan makanan sahaja"
+        },
+        {
+          "en": "They have no use",
+          "bm": "Ia tiada kegunaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q12",
+      "subtopicId": "f3geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which agency protects wildlife and manages national parks in Peninsular Malaysia?",
+        "bm": "Agensi manakah melindungi hidupan liar dan mengurus taman negara di Semenanjung Malaysia?"
+      },
+      "explanation": {
+        "en": "Forests and wildlife are managed together.",
+        "bm": "Hutan dan hidupan liar diurus bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "PERHILITAN",
+          "bm": "PERHILITAN"
+        },
+        {
+          "en": "FRIM",
+          "bm": "FRIM"
+        },
+        {
+          "en": "SWCorp",
+          "bm": "SWCorp"
+        },
+        {
+          "en": "MARDI",
+          "bm": "MARDI"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q13",
+      "subtopicId": "f3geo-10-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Using forests in a way that meets today's needs without harming future generations is ______ forest management.",
+        "bm": "Menggunakan hutan untuk memenuhi keperluan hari ini tanpa menjejaskan generasi akan datang ialah pengurusan hutan ______."
+      },
+      "explanation": {
+        "en": "Balance use and conservation.",
+        "bm": "Imbangkan penggunaan dan pemuliharaan."
+      },
+      "difficulty": 2,
+      "answer": [
+        "sustainable",
+        "lestari"
+      ]
+    },
+    {
+      "id": "f3geo-10-q14",
+      "subtopicId": "f3geo-10-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange a selective logging cycle.",
+        "bm": "Susun kitaran pembalakan terpilih."
+      },
+      "explanation": {
+        "en": "The forest is harvested again after many years.",
+        "bm": "Hutan dituai semula selepas bertahun-tahun."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Survey and mark mature trees",
+          "bm": "Tinjau dan tanda pokok matang"
+        },
+        {
+          "en": "Cut only marked trees carefully",
+          "bm": "Tebang pokok bertanda sahaja dengan teliti"
+        },
+        {
+          "en": "Leave young trees to grow",
+          "bm": "Biarkan pokok muda membesar"
+        },
+        {
+          "en": "Monitor and replant gaps",
+          "bm": "Pantau dan tanam semula kawasan kosong"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-10-q15",
+      "subtopicId": "f3geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does enforcement by forest departments protect forests?",
+        "bm": "Bagaimanakah penguatkuasaan oleh jabatan hutan melindungi hutan?"
+      },
+      "explanation": {
+        "en": "Satellite images help detect clearing.",
+        "bm": "Imej satelit membantu mengesan penebangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Patrols and fines stop illegal logging",
+          "bm": "Rondaan dan denda menghentikan pembalakan haram"
+        },
+        {
+          "en": "It encourages illegal logging",
+          "bm": "Ia menggalakkan pembalakan haram"
+        },
+        {
+          "en": "It removes all trees",
+          "bm": "Ia membuang semua pokok"
+        },
+        {
+          "en": "It has no effect",
+          "bm": "Ia tiada kesan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q16",
+      "subtopicId": "f3geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which forest product supports rural incomes without cutting big trees?",
+        "bm": "Hasil hutan manakah menyokong pendapatan luar bandar tanpa menebang pokok besar?"
+      },
+      "explanation": {
+        "en": "Non-timber products can be harvested sustainably.",
+        "bm": "Hasil bukan kayu boleh dituai secara lestari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Collecting rattan and honey",
+          "bm": "Mengumpul rotan dan madu"
+        },
+        {
+          "en": "Clear-felling the forest",
+          "bm": "Menebang habis hutan"
+        },
+        {
+          "en": "Burning the forest",
+          "bm": "Membakar hutan"
+        },
+        {
+          "en": "Open mining",
+          "bm": "Perlombongan terbuka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q17",
+      "subtopicId": "f3geo-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A river town floods more often after nearby hills were logged. Explain the link.",
+        "bm": "Sebuah bandar tepi sungai lebih kerap banjir selepas bukit berhampiran dibalak. Terangkan kaitannya."
+      },
+      "explanation": {
+        "en": "This is why catchments are protected.",
+        "bm": "Itulah sebabnya kawasan tadahan dilindungi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Without forest, rain runs off quickly and eroded soil fills the river, so it overflows",
+          "bm": "Tanpa hutan, air hujan mengalir dengan cepat dan tanih terhakis memenuhi sungai, jadi sungai melimpah"
+        },
+        {
+          "en": "Forests cause floods",
+          "bm": "Hutan menyebabkan banjir"
+        },
+        {
+          "en": "Logging increases rainfall",
+          "bm": "Pembalakan meningkatkan hujan"
+        },
+        {
+          "en": "There is no link",
+          "bm": "Tiada kaitan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q18",
+      "subtopicId": "f3geo-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is selective logging better than clear-felling?",
+        "bm": "Mengapakah pembalakan terpilih lebih baik daripada tebang habis?"
+      },
+      "explanation": {
+        "en": "Care is still needed to avoid damage.",
+        "bm": "Kecermatan masih diperlukan untuk mengelak kerosakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The forest structure, soil and wildlife remain, so the forest regrows naturally",
+          "bm": "Struktur hutan, tanih dan hidupan liar kekal, jadi hutan tumbuh semula secara semula jadi"
+        },
+        {
+          "en": "It removes every tree",
+          "bm": "Ia membuang setiap pokok"
+        },
+        {
+          "en": "It produces more erosion",
+          "bm": "Ia menghasilkan lebih banyak hakisan"
+        },
+        {
+          "en": "It is faster to clear land",
+          "bm": "Ia lebih cepat membersihkan tanah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q19",
+      "subtopicId": "f3geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does research by FRIM help forest management?",
+        "bm": "Bagaimanakah penyelidikan FRIM membantu pengurusan hutan?"
+      },
+      "explanation": {
+        "en": "FRIM also educates the public.",
+        "bm": "FRIM juga mendidik orang ramai."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It develops better planting methods, studies species and guides sustainable harvesting",
+          "bm": "Ia membangunkan kaedah penanaman lebih baik, mengkaji spesies dan membimbing penuaian lestari"
+        },
+        {
+          "en": "It sells timber only",
+          "bm": "Ia menjual kayu sahaja"
+        },
+        {
+          "en": "It builds dams",
+          "bm": "Ia membina empangan"
+        },
+        {
+          "en": "It has no role",
+          "bm": "Ia tiada peranan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-10-q20",
+      "subtopicId": "f3geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What can students do to help conserve forests?",
+        "bm": "Apakah yang boleh dilakukan murid untuk membantu memulihara hutan?"
+      },
+      "explanation": {
+        "en": "Small actions add up.",
+        "bm": "Tindakan kecil memberi kesan besar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Use less paper, recycle, join tree-planting and choose certified wood products",
+          "bm": "Kurangkan penggunaan kertas, kitar semula, sertai penanaman pokok dan pilih produk kayu bertauliah"
+        },
+        {
+          "en": "Waste paper",
+          "bm": "Membazir kertas"
+        },
+        {
+          "en": "Burn rubbish in forests",
+          "bm": "Membakar sampah di hutan"
+        },
+        {
+          "en": "Do nothing",
+          "bm": "Tidak melakukan apa-apa"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "chapterId": "f3geo-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "From lions on the African savanna to polar bears on the Arctic ice, every animal is adapted to the vegetation and climate of its home.",
+      "bm": "Daripada singa di savana Afrika hingga beruang kutub di ais Artik, setiap haiwan menyesuaikan diri dengan tumbuhan dan iklim habitatnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "The world's main vegetation regions include tropical rainforest, savanna, desert, Mediterranean, temperate forest, coniferous forest (taiga) and tundra.",
+        "bm": "Kawasan tumbuhan utama dunia termasuk hutan hujan tropika, savana, gurun, Mediterranean, hutan sederhana, hutan konifer (taiga) dan tundra."
+      },
+      {
+        "en": "Each region has wildlife adapted to it.",
+        "bm": "Setiap kawasan mempunyai hidupan liar yang menyesuaikan diri dengannya."
+      },
+      {
+        "en": "Vegetation and wildlife give oxygen, regulate climate, provide resources and medicine, and support tourism.",
+        "bm": "Tumbuhan dan hidupan liar membekalkan oksigen, mengawal iklim, menyediakan sumber dan ubat, serta menyokong pelancongan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Vegetation",
+            "bm": "Tumbuhan"
+          },
+          {
+            "en": "Wildlife",
+            "bm": "Hidupan liar"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Tropical rainforest (Amazon, Congo, Southeast Asia)",
+              "bm": "Hutan hujan tropika (Amazon, Congo, Asia Tenggara)"
+            },
+            "cells": [
+              {
+                "en": "Tall, dense, layered forest",
+                "bm": "Hutan tinggi, tebal dan berlapis"
+              },
+              {
+                "en": "Jaguar, orang utan, toucan",
+                "bm": "Jaguar, orang utan, burung toucan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Savanna (Africa)",
+              "bm": "Savana (Afrika)"
+            },
+            "cells": [
+              {
+                "en": "Tall grass with scattered trees (acacia, baobab)",
+                "bm": "Rumput tinggi dengan pokok jarang (akasia, baobab)"
+              },
+              {
+                "en": "Lion, zebra, giraffe, elephant",
+                "bm": "Singa, zebra, zirafah, gajah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Hot desert (Sahara)",
+              "bm": "Gurun panas (Sahara)"
+            },
+            "cells": [
+              {
+                "en": "Cacti, thorny shrubs",
+                "bm": "Kaktus, pokok renek berduri"
+              },
+              {
+                "en": "Camel, scorpion, fennec fox",
+                "bm": "Unta, kala jengking, musang fennec"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mediterranean",
+              "bm": "Mediterranean"
+            },
+            "cells": [
+              {
+                "en": "Olive, cork oak, shrubs",
+                "bm": "Zaitun, oak gabus, pokok renek"
+              },
+              {
+                "en": "Lizards, wild goats",
+                "bm": "Cicak, kambing liar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Coniferous forest (taiga)",
+              "bm": "Hutan konifer (taiga)"
+            },
+            "cells": [
+              {
+                "en": "Pine, spruce, fir",
+                "bm": "Pain, spruce, fir"
+              },
+              {
+                "en": "Moose, brown bear, wolf",
+                "bm": "Moose, beruang coklat, serigala"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tundra",
+              "bm": "Tundra"
+            },
+            "cells": [
+              {
+                "en": "Moss, lichen, low shrubs",
+                "bm": "Lumut, liken, pokok renek rendah"
+              },
+              {
+                "en": "Reindeer (caribou), Arctic fox",
+                "bm": "Rusa kutub, musang Artik"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Biome",
+          "bm": "Biom"
+        },
+        "definition": {
+          "en": "A large region with similar climate, vegetation and wildlife.",
+          "bm": "Kawasan luas dengan iklim, tumbuhan dan hidupan liar yang serupa."
+        }
+      },
+      {
+        "term": {
+          "en": "Savanna",
+          "bm": "Savana"
+        },
+        "definition": {
+          "en": "Tropical grassland with scattered trees and a dry season.",
+          "bm": "Padang rumput tropika dengan pokok jarang dan musim kemarau."
+        }
+      },
+      {
+        "term": {
+          "en": "Taiga",
+          "bm": "Taiga"
+        },
+        "definition": {
+          "en": "Coniferous forest of cold northern regions.",
+          "bm": "Hutan konifer di kawasan utara yang sejuk."
+        }
+      },
+      {
+        "term": {
+          "en": "Tundra",
+          "bm": "Tundra"
+        },
+        "definition": {
+          "en": "Treeless cold region with moss and lichen.",
+          "bm": "Kawasan sejuk tanpa pokok dengan lumut dan liken."
+        }
+      },
+      {
+        "term": {
+          "en": "Adaptation",
+          "bm": "Penyesuaian"
+        },
+        "definition": {
+          "en": "A feature that helps a living thing survive in its environment.",
+          "bm": "Ciri yang membantu hidupan terus hidup dalam persekitarannya."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Explain one adaptation of the camel to the desert.",
+        "bm": "Terangkan satu penyesuaian unta terhadap gurun."
+      },
+      "steps": [
+        {
+          "en": "The desert is hot and dry with little food and water.",
+          "bm": "Gurun panas dan kering dengan sedikit makanan dan air."
+        },
+        {
+          "en": "A camel stores fat in its hump and can go a long time without drinking.",
+          "bm": "Unta menyimpan lemak dalam bonggolnya dan boleh lama tanpa minum."
+        }
+      ],
+      "answer": {
+        "en": "Fat stored in the hump; wide feet for sand; long eyelashes against sand.",
+        "bm": "Lemak disimpan dalam bonggol; tapak kaki lebar untuk pasir; bulu mata panjang menghalang pasir."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-08-q01",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where is the world's largest tropical rainforest?",
+        "bm": "Di manakah hutan hujan tropika terbesar di dunia?"
+      },
+      "explanation": {
+        "en": "The Congo Basin and Southeast Asia also have large rainforests.",
+        "bm": "Lembangan Congo dan Asia Tenggara juga mempunyai hutan hujan yang luas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Amazon, South America",
+          "bm": "Amazon, Amerika Selatan"
+        },
+        {
+          "en": "Sahara, Africa",
+          "bm": "Sahara, Afrika"
+        },
+        {
+          "en": "Siberia, Russia",
+          "bm": "Siberia, Rusia"
+        },
+        {
+          "en": "Antarctica",
+          "bm": "Antartika"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q02",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tall grasses with scattered acacia trees describe the…",
+        "bm": "Rumput tinggi dengan pokok akasia yang jarang menggambarkan…"
+      },
+      "explanation": {
+        "en": "Found widely in Africa.",
+        "bm": "Terdapat secara meluas di Afrika."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "savanna",
+          "bm": "savana"
+        },
+        {
+          "en": "tundra",
+          "bm": "tundra"
+        },
+        {
+          "en": "taiga",
+          "bm": "taiga"
+        },
+        {
+          "en": "rainforest",
+          "bm": "hutan hujan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q03",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which animal lives on the African savanna?",
+        "bm": "Haiwan manakah hidup di savana Afrika?"
+      },
+      "explanation": {
+        "en": "Lions and giraffes also live there.",
+        "bm": "Singa dan zirafah juga hidup di situ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Zebra",
+          "bm": "Zebra"
+        },
+        {
+          "en": "Polar bear",
+          "bm": "Beruang kutub"
+        },
+        {
+          "en": "Moose",
+          "bm": "Moose"
+        },
+        {
+          "en": "Penguin",
+          "bm": "Penguin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q04",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Coniferous forest (taiga) has trees such as…",
+        "bm": "Hutan konifer (taiga) mempunyai pokok seperti…"
+      },
+      "explanation": {
+        "en": "Needle-shaped leaves reduce water loss.",
+        "bm": "Daun berbentuk jarum mengurangkan kehilangan air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pine and spruce",
+          "bm": "pain dan spruce"
+        },
+        {
+          "en": "mangrove",
+          "bm": "bakau"
+        },
+        {
+          "en": "coconut",
+          "bm": "kelapa"
+        },
+        {
+          "en": "cactus",
+          "bm": "kaktus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q05",
+      "subtopicId": "f3geo-08-01",
+      "type": "fill",
+      "prompt": {
+        "en": "The cold, treeless region with moss and lichen is called the ______.",
+        "bm": "Kawasan sejuk tanpa pokok yang ditumbuhi lumut dan liken dipanggil ______."
+      },
+      "explanation": {
+        "en": "Reindeer live there.",
+        "bm": "Rusa kutub hidup di situ."
+      },
+      "difficulty": 1,
+      "answer": [
+        "tundra"
+      ]
+    },
+    {
+      "id": "f3geo-08-q06",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Cacti grow mainly in…",
+        "bm": "Kaktus tumbuh terutamanya di…"
+      },
+      "explanation": {
+        "en": "They store water in their stems.",
+        "bm": "Ia menyimpan air dalam batang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "hot deserts",
+          "bm": "gurun panas"
+        },
+        {
+          "en": "rainforests",
+          "bm": "hutan hujan"
+        },
+        {
+          "en": "tundra",
+          "bm": "tundra"
+        },
+        {
+          "en": "mangrove swamps",
+          "bm": "paya bakau"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q07",
+      "subtopicId": "f3geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "One global importance of rainforests is…",
+        "bm": "Salah satu kepentingan global hutan hujan ialah…"
+      },
+      "explanation": {
+        "en": "They help regulate the world's climate.",
+        "bm": "Ia membantu mengawal iklim dunia."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "producing oxygen and absorbing carbon dioxide",
+          "bm": "menghasilkan oksigen dan menyerap karbon dioksida"
+        },
+        {
+          "en": "causing snow",
+          "bm": "menyebabkan salji"
+        },
+        {
+          "en": "making deserts",
+          "bm": "mewujudkan gurun"
+        },
+        {
+          "en": "reducing biodiversity",
+          "bm": "mengurangkan kepelbagaian biologi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q08",
+      "subtopicId": "f3geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Many medicines were first discovered from…",
+        "bm": "Banyak ubat mula ditemui daripada…"
+      },
+      "explanation": {
+        "en": "Forests are natural laboratories.",
+        "bm": "Hutan ialah makmal semula jadi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "plants in forests",
+          "bm": "tumbuhan di hutan"
+        },
+        {
+          "en": "deserts only",
+          "bm": "gurun sahaja"
+        },
+        {
+          "en": "ice",
+          "bm": "ais"
+        },
+        {
+          "en": "sand",
+          "bm": "pasir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q09",
+      "subtopicId": "f3geo-08-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each biome with its animal.",
+        "bm": "Padankan biom dengan haiwannya."
+      },
+      "explanation": {
+        "en": "Animals are adapted to their biome.",
+        "bm": "Haiwan menyesuaikan diri dengan biomnya."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Desert",
+            "bm": "Gurun"
+          },
+          "right": {
+            "en": "Camel",
+            "bm": "Unta"
+          }
+        },
+        {
+          "left": {
+            "en": "Taiga",
+            "bm": "Taiga"
+          },
+          "right": {
+            "en": "Moose",
+            "bm": "Moose"
+          }
+        },
+        {
+          "left": {
+            "en": "Tundra",
+            "bm": "Tundra"
+          },
+          "right": {
+            "en": "Reindeer",
+            "bm": "Rusa kutub"
+          }
+        },
+        {
+          "left": {
+            "en": "Savanna",
+            "bm": "Savana"
+          },
+          "right": {
+            "en": "Giraffe",
+            "bm": "Zirafah"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-08-q10",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do conifers have needle-shaped leaves?",
+        "bm": "Mengapakah pokok konifer berdaun seperti jarum?"
+      },
+      "explanation": {
+        "en": "Their cone shape also sheds snow.",
+        "bm": "Bentuk kon juga membuang salji."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To reduce water loss and let snow slide off",
+          "bm": "Untuk mengurangkan kehilangan air dan membolehkan salji jatuh"
+        },
+        {
+          "en": "To catch more rain",
+          "bm": "Untuk menangkap lebih banyak hujan"
+        },
+        {
+          "en": "To attract insects",
+          "bm": "Untuk menarik serangga"
+        },
+        {
+          "en": "They have no purpose",
+          "bm": "Tiada tujuan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q11",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Mediterranean region has hot, dry summers and mild, wet winters. Which plant suits it?",
+        "bm": "Kawasan Mediterranean mempunyai musim panas yang kering dan musim sejuk yang lembap. Tumbuhan manakah sesuai?"
+      },
+      "explanation": {
+        "en": "Thick waxy leaves reduce water loss.",
+        "bm": "Daun tebal berlilin mengurangkan kehilangan air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Olive tree",
+          "bm": "Pokok zaitun"
+        },
+        {
+          "en": "Mangrove",
+          "bm": "Bakau"
+        },
+        {
+          "en": "Moss only",
+          "bm": "Lumut sahaja"
+        },
+        {
+          "en": "Pine in snow",
+          "bm": "Pain dalam salji"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q12",
+      "subtopicId": "f3geo-08-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these biomes from the EQUATOR towards the NORTH POLE.",
+        "bm": "Susun biom ini dari KHATULISTIWA ke arah KUTUB UTARA."
+      },
+      "explanation": {
+        "en": "Temperature generally falls away from the equator.",
+        "bm": "Suhu biasanya menurun menjauhi khatulistiwa."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Tropical rainforest",
+          "bm": "Hutan hujan tropika"
+        },
+        {
+          "en": "Savanna",
+          "bm": "Savana"
+        },
+        {
+          "en": "Hot desert",
+          "bm": "Gurun panas"
+        },
+        {
+          "en": "Coniferous forest",
+          "bm": "Hutan konifer"
+        },
+        {
+          "en": "Tundra",
+          "bm": "Tundra"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-08-q13",
+      "subtopicId": "f3geo-08-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL global importance of vegetation and wildlife.",
+        "bm": "Pilih SEMUA kepentingan global tumbuhan dan hidupan liar."
+      },
+      "explanation": {
+        "en": "Biodiversity is a global heritage.",
+        "bm": "Kepelbagaian biologi ialah warisan dunia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Climate regulation",
+          "bm": "Mengawal iklim"
+        },
+        {
+          "en": "Source of food and medicine",
+          "bm": "Sumber makanan dan ubat"
+        },
+        {
+          "en": "Tourism",
+          "bm": "Pelancongan"
+        },
+        {
+          "en": "Increasing pollution",
+          "bm": "Meningkatkan pencemaran"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-08-q14",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How is the polar bear adapted to the Arctic?",
+        "bm": "Bagaimanakah beruang kutub menyesuaikan diri dengan Artik?"
+      },
+      "explanation": {
+        "en": "White fur also gives camouflage.",
+        "bm": "Bulu putih juga sebagai penyamaran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Thick fur and a layer of fat keep it warm",
+          "bm": "Bulu tebal dan lapisan lemak memanaskan badannya"
+        },
+        {
+          "en": "Large ears to lose heat",
+          "bm": "Telinga besar untuk membuang haba"
+        },
+        {
+          "en": "It stores water in a hump",
+          "bm": "Ia menyimpan air dalam bonggol"
+        },
+        {
+          "en": "It has no fur",
+          "bm": "Ia tiada bulu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q15",
+      "subtopicId": "f3geo-08-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Large protected areas such as the Serengeti in Africa attract visitors, supporting ______.",
+        "bm": "Kawasan dilindungi yang luas seperti Serengeti di Afrika menarik pelawat dan menyokong ______."
+      },
+      "explanation": {
+        "en": "Tourism income funds conservation.",
+        "bm": "Pendapatan pelancongan membiayai pemuliharaan."
+      },
+      "difficulty": 2,
+      "answer": [
+        "tourism",
+        "eco-tourism",
+        "pelancongan",
+        "eko-pelancongan"
+      ]
+    },
+    {
+      "id": "f3geo-08-q16",
+      "subtopicId": "f3geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are rainforests called the \"lungs of the Earth\"?",
+        "bm": "Mengapakah hutan hujan digelar \"paru-paru dunia\"?"
+      },
+      "explanation": {
+        "en": "They also store huge amounts of carbon.",
+        "bm": "Ia juga menyimpan karbon dalam jumlah besar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They produce large amounts of oxygen through photosynthesis",
+          "bm": "Ia menghasilkan banyak oksigen melalui fotosintesis"
+        },
+        {
+          "en": "They breathe like animals",
+          "bm": "Ia bernafas seperti haiwan"
+        },
+        {
+          "en": "They are shaped like lungs",
+          "bm": "Bentuknya seperti paru-paru"
+        },
+        {
+          "en": "They produce smoke",
+          "bm": "Ia menghasilkan asap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q17",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the tundra have no tall trees?",
+        "bm": "Mengapakah tundra tiada pokok tinggi?"
+      },
+      "explanation": {
+        "en": "Roots cannot grow deep in frozen soil.",
+        "bm": "Akar tidak boleh tumbuh dalam tanah beku."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Very low temperatures, a short growing season and frozen ground (permafrost)",
+          "bm": "Suhu sangat rendah, musim pertumbuhan pendek dan tanah beku (permafrost)"
+        },
+        {
+          "en": "Too much rain",
+          "bm": "Terlalu banyak hujan"
+        },
+        {
+          "en": "Very fertile soil",
+          "bm": "Tanih sangat subur"
+        },
+        {
+          "en": "Hot summers",
+          "bm": "Musim panas yang panas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q18",
+      "subtopicId": "f3geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How could destroying the Amazon rainforest affect Malaysia?",
+        "bm": "Bagaimanakah kemusnahan hutan hujan Amazon boleh menjejaskan Malaysia?"
+      },
+      "explanation": {
+        "en": "Environmental problems cross borders.",
+        "bm": "Masalah alam sekitar merentasi sempadan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It adds carbon dioxide to the atmosphere, worsening global warming that affects all countries",
+          "bm": "Ia menambah karbon dioksida di atmosfera, memburukkan pemanasan global yang menjejaskan semua negara"
+        },
+        {
+          "en": "It has no effect on Malaysia",
+          "bm": "Ia tiada kesan kepada Malaysia"
+        },
+        {
+          "en": "It makes Malaysia colder",
+          "bm": "Ia menjadikan Malaysia lebih sejuk"
+        },
+        {
+          "en": "It increases Malaysia's forests",
+          "bm": "Ia menambah hutan Malaysia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q19",
+      "subtopicId": "f3geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Compare the vegetation of the savanna and the tropical rainforest.",
+        "bm": "Bandingkan tumbuhan savana dengan hutan hujan tropika."
+      },
+      "explanation": {
+        "en": "Rainfall pattern explains the difference.",
+        "bm": "Pola hujan menerangkan perbezaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rainforest is dense and layered all year; savanna is grass with scattered trees due to a dry season",
+          "bm": "Hutan hujan tebal dan berlapis sepanjang tahun; savana ialah rumput dengan pokok jarang akibat musim kemarau"
+        },
+        {
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
+        },
+        {
+          "en": "Savanna is denser",
+          "bm": "Savana lebih tebal"
+        },
+        {
+          "en": "Rainforest has no trees",
+          "bm": "Hutan hujan tiada pokok"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-08-q20",
+      "subtopicId": "f3geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should countries cooperate to protect wildlife that migrates?",
+        "bm": "Mengapakah negara perlu bekerjasama melindungi hidupan liar yang berhijrah?"
+      },
+      "explanation": {
+        "en": "e.g. sea turtles and migratory birds.",
+        "bm": "cth. penyu dan burung yang berhijrah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Migrating animals cross borders, so protection in one country alone is not enough",
+          "bm": "Haiwan berhijrah merentasi sempadan, jadi perlindungan di satu negara sahaja tidak mencukupi"
+        },
+        {
+          "en": "Animals stay in one place",
+          "bm": "Haiwan kekal di satu tempat"
+        },
+        {
+          "en": "Only one country owns wildlife",
+          "bm": "Hanya satu negara memiliki hidupan liar"
+        },
+        {
+          "en": "Cooperation is not needed",
+          "bm": "Kerjasama tidak diperlukan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

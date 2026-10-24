@@ -3,116 +3,80 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Every year from about November, families on Malaysia's east coast prepare for floods while fishermen bring their boats ashore. The Northeast Monsoon is arriving.",
-      "bm": "Setiap tahun mulai kira-kira November, keluarga di pantai timur Malaysia bersedia menghadapi banjir dan nelayan menaikkan bot ke darat. Monsun Timur Laut sedang tiba."
+      "en": "Climb Gunung Kinabalu and the forest changes around you: tall dipterocarps at the bottom, mossy dwarf trees near the top. The physical environment shapes what can live where.",
+      "bm": "Daki Gunung Kinabalu dan hutan berubah di sekeliling anda: pokok dipterokarpa yang tinggi di kaki, pokok kerdil berlumut berhampiran puncak. Persekitaran fizikal menentukan apa yang boleh hidup di sesuatu tempat."
     },
     "bigIdeas": [
       {
-        "en": "Weather is day-to-day conditions; climate is the average over many years.",
-        "bm": "Cuaca ialah keadaan harian; iklim ialah purata dalam tempoh bertahun-tahun."
+        "en": "Climate (temperature, rainfall, sunlight) is the main factor shaping vegetation and wildlife.",
+        "bm": "Iklim (suhu, hujan, cahaya matahari) ialah faktor utama yang membentuk tumbuh-tumbuhan dan hidupan liar."
       },
       {
-        "en": "Malaysia has an equatorial climate: hot, humid and wet all year.",
-        "bm": "Malaysia mempunyai iklim khatulistiwa: panas, lembap dan basah sepanjang tahun."
+        "en": "Relief and altitude matter: temperature falls by about 0.6 °C for every 100 m rise (6 °C per 1,000 m).",
+        "bm": "Bentuk muka bumi dan altitud penting: suhu menurun kira-kira 0.6 °C bagi setiap kenaikan 100 m (6 °C setiap 1,000 m)."
       },
       {
-        "en": "Monsoon winds (Southwest: about May–Sept; Northeast: about Nov–Mar) bring seasonal changes in rainfall.",
-        "bm": "Angin monsun (Barat Daya: kira-kira Mei–Sept; Timur Laut: kira-kira Nov–Mac) membawa perubahan hujan bermusim."
+        "en": "Soil and drainage also decide which plants can grow, and plants decide which animals can live there.",
+        "bm": "Tanih dan saliran juga menentukan tumbuhan yang boleh hidup, dan tumbuhan menentukan haiwan yang boleh hidup di situ."
       }
     ],
     "infographic": {
-      "kind": "compare",
+      "kind": "concept-map",
       "data": {
-        "headers": [
-          {
-            "en": "Instrument",
-            "bm": "Alat"
-          },
-          {
-            "en": "Unit",
-            "bm": "Unit"
-          }
-        ],
-        "rows": [
+        "center": {
+          "en": "Physical environment",
+          "bm": "Persekitaran fizikal"
+        },
+        "nodes": [
           {
             "label": {
-              "en": "Temperature",
-              "bm": "Suhu"
+              "en": "Climate",
+              "bm": "Iklim"
             },
-            "cells": [
-              {
-                "en": "Thermometer (in a Stevenson screen)",
-                "bm": "Termometer (dalam skrin Stevenson)"
-              },
-              {
-                "en": "°C",
-                "bm": "°C"
-              }
-            ]
+            "detail": {
+              "en": "Hot, wet → dense rainforest; dry → grass or desert plants",
+              "bm": "Panas, lembap → hutan hujan tebal; kering → rumput atau tumbuhan gurun"
+            }
           },
           {
             "label": {
-              "en": "Rainfall",
-              "bm": "Hujan"
+              "en": "Relief and altitude",
+              "bm": "Bentuk muka bumi dan altitud"
             },
-            "cells": [
-              {
-                "en": "Rain gauge",
-                "bm": "Tolok hujan"
-              },
-              {
-                "en": "mm",
-                "bm": "mm"
-              }
-            ]
+            "detail": {
+              "en": "Higher → cooler → smaller, mossy trees",
+              "bm": "Lebih tinggi → lebih sejuk → pokok lebih kecil dan berlumut"
+            }
           },
           {
             "label": {
-              "en": "Humidity",
-              "bm": "Kelembapan"
+              "en": "Soil",
+              "bm": "Tanih"
             },
-            "cells": [
-              {
-                "en": "Wet-and-dry bulb thermometer (hygrometer)",
-                "bm": "Termometer bebuli basah dan kering (higrometer)"
-              },
-              {
-                "en": "%",
-                "bm": "%"
-              }
-            ]
+            "detail": {
+              "en": "Fertile soils support more plant types",
+              "bm": "Tanih subur menyokong lebih banyak jenis tumbuhan"
+            }
           },
           {
             "label": {
-              "en": "Air pressure",
-              "bm": "Tekanan udara"
+              "en": "Drainage",
+              "bm": "Saliran"
             },
-            "cells": [
-              {
-                "en": "Barometer",
-                "bm": "Barometer"
-              },
-              {
-                "en": "hPa / mb",
-                "bm": "hPa / mb"
-              }
-            ]
+            "detail": {
+              "en": "Waterlogged land → swamp and mangrove forest",
+              "bm": "Tanah bertakung air → hutan paya dan bakau"
+            }
           },
           {
             "label": {
-              "en": "Wind speed / direction",
-              "bm": "Kelajuan / arah angin"
+              "en": "Sunlight",
+              "bm": "Cahaya matahari"
             },
-            "cells": [
-              {
-                "en": "Anemometer / wind vane",
-                "bm": "Anemometer / ram-ram angin"
-              },
-              {
-                "en": "km/h / compass points",
-                "bm": "km/j / mata arah"
-              }
-            ]
+            "detail": {
+              "en": "Needed for photosynthesis; creates forest layers",
+              "bm": "Diperlukan untuk fotosintesis; membentuk lapisan hutan"
+            }
           }
         ]
       }
@@ -120,78 +84,74 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Weather",
-          "bm": "Cuaca"
+          "en": "Natural vegetation",
+          "bm": "Tumbuh-tumbuhan semula jadi"
         },
         "definition": {
-          "en": "Atmospheric conditions at a place over a short time.",
-          "bm": "Keadaan atmosfera di sesuatu tempat dalam tempoh yang singkat."
+          "en": "Plants that grow naturally without human planting.",
+          "bm": "Tumbuhan yang tumbuh secara semula jadi tanpa ditanam oleh manusia."
         }
       },
       {
         "term": {
-          "en": "Climate",
-          "bm": "Iklim"
+          "en": "Wildlife",
+          "bm": "Hidupan liar"
         },
         "definition": {
-          "en": "Average weather of a place over a long period (about 30 years).",
-          "bm": "Purata cuaca sesuatu tempat dalam tempoh yang panjang (kira-kira 30 tahun)."
+          "en": "Animals living naturally in the wild.",
+          "bm": "Haiwan yang hidup secara semula jadi di alam liar."
         }
       },
       {
         "term": {
-          "en": "Monsoon",
-          "bm": "Monsun"
+          "en": "Altitude",
+          "bm": "Altitud"
         },
         "definition": {
-          "en": "Seasonal wind that changes direction during the year.",
-          "bm": "Angin bermusim yang berubah arah dalam setahun."
+          "en": "Height above sea level.",
+          "bm": "Ketinggian dari aras laut."
         }
       },
       {
         "term": {
-          "en": "Convectional rain",
-          "bm": "Hujan perolakan"
+          "en": "Drainage",
+          "bm": "Saliran"
         },
         "definition": {
-          "en": "Rain from rising hot, moist air, often in the afternoon.",
-          "bm": "Hujan daripada udara panas dan lembap yang naik, selalunya pada waktu petang."
+          "en": "How water flows over or through the land.",
+          "bm": "Cara air mengalir di atas atau melalui tanah."
         }
       },
       {
         "term": {
-          "en": "Relief rain",
-          "bm": "Hujan bukit"
+          "en": "Biodiversity",
+          "bm": "Kepelbagaian biologi"
         },
         "definition": {
-          "en": "Rain when moist air is forced up over mountains.",
-          "bm": "Hujan apabila udara lembap dipaksa naik melepasi gunung."
+          "en": "The variety of living things in an area.",
+          "bm": "Kepelbagaian hidupan di sesuatu kawasan."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Why does the east coast of the Peninsula get heavy rain from November to March?",
-        "bm": "Mengapakah pantai timur Semenanjung menerima hujan lebat dari November hingga Mac?"
+        "en": "The temperature at sea level is 30 °C. Estimate the temperature at 1,500 m.",
+        "bm": "Suhu di aras laut ialah 30 °C. Anggarkan suhu pada ketinggian 1,500 m."
       },
       "steps": [
         {
-          "en": "The Northeast Monsoon blows from the north-east across the South China Sea.",
-          "bm": "Monsun Timur Laut bertiup dari timur laut merentasi Laut China Selatan."
+          "en": "Temperature falls about 6 °C per 1,000 m.",
+          "bm": "Suhu menurun kira-kira 6 °C setiap 1,000 m."
         },
         {
-          "en": "The winds pick up a lot of moisture over the sea.",
-          "bm": "Angin menyerap banyak wap air di atas laut."
-        },
-        {
-          "en": "They meet the east coast first and are forced up over the Main Range, giving heavy rain.",
-          "bm": "Angin itu tiba di pantai timur dahulu dan dipaksa naik melepasi Banjaran Titiwangsa, menurunkan hujan lebat."
+          "en": "1,500 m → 1.5 × 6 = 9 °C cooler.",
+          "bm": "1,500 m → 1.5 × 6 = 9 °C lebih sejuk."
         }
       ],
       "answer": {
-        "en": "Moist Northeast Monsoon winds + relief → heavy rain and floods.",
-        "bm": "Angin Monsun Timur Laut yang lembap + bentuk muka bumi → hujan lebat dan banjir."
+        "en": "30 − 9 = 21 °C.",
+        "bm": "30 − 9 = 21 °C."
       }
     }
   },
@@ -201,30 +161,30 @@
       "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which instrument measures rainfall?",
-        "bm": "Alat manakah mengukur hujan?"
+        "en": "The MAIN factor influencing natural vegetation is…",
+        "bm": "Faktor UTAMA yang mempengaruhi tumbuh-tumbuhan semula jadi ialah…"
       },
       "explanation": {
-        "en": "Rainfall is measured in millimetres.",
-        "bm": "Hujan diukur dalam milimeter."
+        "en": "Temperature and rainfall decide plant growth.",
+        "bm": "Suhu dan hujan menentukan pertumbuhan tumbuhan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Rain gauge",
-          "bm": "Tolok hujan"
+          "en": "climate",
+          "bm": "iklim"
         },
         {
-          "en": "Barometer",
-          "bm": "Barometer"
+          "en": "roads",
+          "bm": "jalan raya"
         },
         {
-          "en": "Anemometer",
-          "bm": "Anemometer"
+          "en": "schools",
+          "bm": "sekolah"
         },
         {
-          "en": "Thermometer",
-          "bm": "Termometer"
+          "en": "population",
+          "bm": "penduduk"
         }
       ],
       "answer": 0
@@ -234,30 +194,30 @@
       "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which instrument measures air pressure?",
-        "bm": "Alat manakah mengukur tekanan udara?"
+        "en": "As altitude increases, temperature…",
+        "bm": "Apabila altitud meningkat, suhu…"
       },
       "explanation": {
-        "en": "Pressure is measured in hectopascals or millibars.",
-        "bm": "Tekanan diukur dalam hektopascal atau milibar."
+        "en": "About 0.6 °C per 100 m.",
+        "bm": "Kira-kira 0.6 °C setiap 100 m."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Barometer",
-          "bm": "Barometer"
+          "en": "decreases",
+          "bm": "menurun"
         },
         {
-          "en": "Rain gauge",
-          "bm": "Tolok hujan"
+          "en": "increases",
+          "bm": "meningkat"
         },
         {
-          "en": "Wind vane",
-          "bm": "Ram-ram angin"
+          "en": "stays the same",
+          "bm": "kekal sama"
         },
         {
-          "en": "Hygrometer",
-          "bm": "Higrometer"
+          "en": "doubles",
+          "bm": "berganda"
         }
       ],
       "answer": 0
@@ -267,30 +227,30 @@
       "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "An anemometer measures…",
-        "bm": "Anemometer mengukur…"
+        "en": "Hot and wet climates usually have…",
+        "bm": "Iklim panas dan lembap biasanya mempunyai…"
       },
       "explanation": {
-        "en": "A wind vane shows wind direction.",
-        "bm": "Ram-ram angin menunjukkan arah angin."
+        "en": "Like most of Malaysia.",
+        "bm": "Seperti kebanyakan kawasan Malaysia."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "wind speed",
-          "bm": "kelajuan angin"
+          "en": "dense tropical rainforest",
+          "bm": "hutan hujan tropika yang tebal"
         },
         {
-          "en": "wind direction",
-          "bm": "arah angin"
+          "en": "desert cacti",
+          "bm": "kaktus gurun"
         },
         {
-          "en": "humidity",
-          "bm": "kelembapan"
+          "en": "tundra moss only",
+          "bm": "lumut tundra sahaja"
         },
         {
-          "en": "rainfall",
-          "bm": "hujan"
+          "en": "no plants",
+          "bm": "tiada tumbuhan"
         }
       ],
       "answer": 0
@@ -298,115 +258,116 @@
     {
       "id": "f3geo-03-q04",
       "subtopicId": "f3geo-03-01",
-      "type": "fill",
-      "prompt": {
-        "en": "Thermometers at weather stations are kept in a white, louvred box called a ______ screen.",
-        "bm": "Termometer di stesen cuaca disimpan dalam kotak putih berlubang dipanggil skrin ______."
-      },
-      "explanation": {
-        "en": "It shades the thermometers so they measure air temperature accurately.",
-        "bm": "Ia melindungi termometer daripada cahaya matahari supaya suhu udara diukur dengan tepat."
-      },
-      "difficulty": 1,
-      "answer": [
-        "Stevenson"
-      ]
-    },
-    {
-      "id": "f3geo-03-q05",
-      "subtopicId": "f3geo-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Malaysia's climate is described as…",
-        "bm": "Iklim Malaysia digambarkan sebagai…"
+        "en": "Waterlogged coastal land with salty water supports…",
+        "bm": "Kawasan pantai bertakung air masin menyokong…"
       },
       "explanation": {
-        "en": "Malaysia lies close to the Equator.",
-        "bm": "Malaysia terletak berhampiran Khatulistiwa."
+        "en": "Drainage and soil decide this.",
+        "bm": "Saliran dan tanih menentukannya."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "equatorial — hot and wet all year",
-          "bm": "khatulistiwa — panas dan lembap sepanjang tahun"
+          "en": "mangrove forest",
+          "bm": "hutan paya bakau"
+        },
+        {
+          "en": "montane forest",
+          "bm": "hutan pergunungan"
+        },
+        {
+          "en": "savanna grassland",
+          "bm": "padang rumput savana"
         },
         {
           "en": "desert",
           "bm": "gurun"
-        },
-        {
-          "en": "polar",
-          "bm": "kutub"
-        },
-        {
-          "en": "four seasons",
-          "bm": "empat musim"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3geo-03-q06",
-      "subtopicId": "f3geo-03-02",
-      "type": "mcq",
+      "id": "f3geo-03-q05",
+      "subtopicId": "f3geo-03-01",
+      "type": "fill",
       "prompt": {
-        "en": "The Northeast Monsoon blows in Malaysia from about…",
-        "bm": "Monsun Timur Laut bertiup di Malaysia dari kira-kira…"
+        "en": "Temperature falls by about 6 °C for every ______ m increase in altitude.",
+        "bm": "Suhu menurun kira-kira 6 °C bagi setiap kenaikan altitud ______ m."
       },
       "explanation": {
-        "en": "It brings heavy rain to the east coast of the Peninsula.",
-        "bm": "Ia membawa hujan lebat ke pantai timur Semenanjung."
+        "en": "That is 0.6 °C per 100 m.",
+        "bm": "Iaitu 0.6 °C setiap 100 m."
+      },
+      "difficulty": 1,
+      "answer": [
+        "1000",
+        "1,000"
+      ]
+    },
+    {
+      "id": "f3geo-03-q06",
+      "subtopicId": "f3geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do animals depend on vegetation?",
+        "bm": "Mengapakah haiwan bergantung kepada tumbuh-tumbuhan?"
+      },
+      "explanation": {
+        "en": "Rich vegetation supports more wildlife.",
+        "bm": "Tumbuhan yang kaya menyokong lebih banyak hidupan liar."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "November to March",
-          "bm": "November to March"
+          "en": "Plants provide food and shelter (habitat)",
+          "bm": "Tumbuhan membekalkan makanan dan tempat perlindungan (habitat)"
         },
         {
-          "en": "May to September",
-          "bm": "May to September"
+          "en": "Plants make animals cold",
+          "bm": "Tumbuhan menyejukkan haiwan"
         },
         {
-          "en": "April only",
-          "bm": "April only"
+          "en": "Animals never eat plants",
+          "bm": "Haiwan tidak pernah makan tumbuhan"
         },
         {
-          "en": "July to August",
-          "bm": "July to August"
+          "en": "There is no link",
+          "bm": "Tiada kaitan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-03-q07",
-      "subtopicId": "f3geo-03-02",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Afternoon thunderstorms after a hot morning are usually…",
-        "bm": "Ribut petir pada waktu petang selepas pagi yang panas biasanya…"
+        "en": "Biodiversity means…",
+        "bm": "Kepelbagaian biologi bermaksud…"
       },
       "explanation": {
-        "en": "Hot air rises, cools and condenses into rain clouds.",
-        "bm": "Udara panas naik, menyejuk dan memeluwap menjadi awan hujan."
+        "en": "Tropical rainforests have very high biodiversity.",
+        "bm": "Hutan hujan tropika mempunyai kepelbagaian biologi yang sangat tinggi."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "convectional rain",
-          "bm": "hujan perolakan"
+          "en": "the variety of living things in an area",
+          "bm": "kepelbagaian hidupan di sesuatu kawasan"
         },
         {
-          "en": "relief rain",
-          "bm": "hujan bukit"
+          "en": "the height of mountains",
+          "bm": "ketinggian gunung"
         },
         {
-          "en": "snow",
-          "bm": "salji"
+          "en": "the amount of rain",
+          "bm": "jumlah hujan"
         },
         {
-          "en": "frontal rain",
-          "bm": "hujan perenggan"
+          "en": "the type of soil only",
+          "bm": "jenis tanih sahaja"
         }
       ],
       "answer": 0
@@ -416,30 +377,30 @@
       "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Weather differs from climate because weather is…",
-        "bm": "Cuaca berbeza daripada iklim kerana cuaca ialah…"
+        "en": "Which factor explains why plants grow in layers in a rainforest?",
+        "bm": "Faktor manakah menerangkan mengapa tumbuhan tumbuh berlapis di hutan hujan?"
       },
       "explanation": {
-        "en": "Climate is the long-term average.",
-        "bm": "Iklim ialah purata jangka panjang."
+        "en": "Tall trees reach the light first.",
+        "bm": "Pokok tinggi mendapat cahaya dahulu."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "short-term conditions",
-          "bm": "keadaan jangka pendek"
+          "en": "Competition for sunlight",
+          "bm": "Persaingan mendapatkan cahaya matahari"
         },
         {
-          "en": "a 30-year average",
-          "bm": "purata 30 tahun"
+          "en": "Snowfall",
+          "bm": "Salji"
         },
         {
-          "en": "the same everywhere",
-          "bm": "sama di semua tempat"
+          "en": "Strong winds",
+          "bm": "Angin kencang"
         },
         {
-          "en": "only temperature",
-          "bm": "suhu sahaja"
+          "en": "Lack of rain",
+          "bm": "Kekurangan hujan"
         }
       ],
       "answer": 0
@@ -447,154 +408,122 @@
     {
       "id": "f3geo-03-q09",
       "subtopicId": "f3geo-03-01",
-      "type": "match",
+      "type": "numeric",
       "prompt": {
-        "en": "Match each element with its instrument.",
-        "bm": "Padankan unsur dengan alatnya."
+        "en": "The temperature at sea level is 30 °C. Estimate the temperature at 1,500 m (°C).",
+        "bm": "Suhu di aras laut ialah 30 °C. Anggarkan suhu pada ketinggian 1,500 m (°C)."
       },
       "explanation": {
-        "en": "Weather stations record all of these.",
-        "bm": "Stesen cuaca merekod semua ini."
+        "en": "30 − (1.5 × 6) = 21 °C.",
+        "bm": "30 − (1.5 × 6) = 21 °C."
+      },
+      "difficulty": 2,
+      "answer": 21,
+      "tolerance": 0,
+      "unit": "°C"
+    },
+    {
+      "id": "f3geo-03-q10",
+      "subtopicId": "f3geo-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A lowland town is 28 °C. Estimate the temperature at 2,000 m (°C).",
+        "bm": "Sebuah bandar tanah pamah bersuhu 28 °C. Anggarkan suhu pada 2,000 m (°C)."
+      },
+      "explanation": {
+        "en": "28 − (2 × 6) = 16 °C.",
+        "bm": "28 − (2 × 6) = 16 °C."
+      },
+      "difficulty": 2,
+      "answer": 16,
+      "tolerance": 0,
+      "unit": "°C"
+    },
+    {
+      "id": "f3geo-03-q11",
+      "subtopicId": "f3geo-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each physical condition with the vegetation it supports.",
+        "bm": "Padankan keadaan fizikal dengan tumbuhan yang disokongnya."
+      },
+      "explanation": {
+        "en": "Each environment has adapted plants.",
+        "bm": "Setiap persekitaran mempunyai tumbuhan yang menyesuaikan diri."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "Temperature",
-            "bm": "Suhu"
+            "en": "Hot and wet lowland",
+            "bm": "Tanah pamah panas dan lembap"
           },
           "right": {
-            "en": "Thermometer",
-            "bm": "Termometer"
+            "en": "Tropical rainforest",
+            "bm": "Hutan hujan tropika"
           }
         },
         {
           "left": {
-            "en": "Humidity",
-            "bm": "Kelembapan"
+            "en": "High, cool mountains",
+            "bm": "Gunung tinggi dan sejuk"
           },
           "right": {
-            "en": "Wet-and-dry bulb thermometer",
-            "bm": "Termometer bebuli basah dan kering"
+            "en": "Montane forest",
+            "bm": "Hutan pergunungan"
           }
         },
         {
           "left": {
-            "en": "Wind direction",
-            "bm": "Arah angin"
+            "en": "Salty, muddy coast",
+            "bm": "Pantai berlumpur dan masin"
           },
           "right": {
-            "en": "Wind vane",
-            "bm": "Ram-ram angin"
+            "en": "Mangrove forest",
+            "bm": "Hutan paya bakau"
           }
         },
         {
           "left": {
-            "en": "Wind speed",
-            "bm": "Kelajuan angin"
+            "en": "Very dry land",
+            "bm": "Tanah sangat kering"
           },
           "right": {
-            "en": "Anemometer",
-            "bm": "Anemometer"
+            "en": "Desert plants",
+            "bm": "Tumbuhan gurun"
           }
         }
       ]
     },
     {
-      "id": "f3geo-03-q10",
-      "subtopicId": "f3geo-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "The Southwest Monsoon (about May–September) is usually a drier period for most of the Peninsula because…",
-        "bm": "Monsun Barat Daya (kira-kira Mei–September) biasanya tempoh lebih kering bagi kebanyakan Semenanjung kerana…"
-      },
-      "explanation": {
-        "en": "The winds lose much moisture over Sumatra.",
-        "bm": "Angin kehilangan banyak wap air di atas Sumatera."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Sumatra shelters the Peninsula from these winds",
-          "bm": "Sumatera melindungi Semenanjung daripada angin ini"
-        },
-        {
-          "en": "the sun disappears",
-          "bm": "matahari hilang"
-        },
-        {
-          "en": "it is winter",
-          "bm": "ia musim sejuk"
-        },
-        {
-          "en": "the sea is frozen",
-          "bm": "laut membeku"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3geo-03-q11",
-      "subtopicId": "f3geo-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Relief rain falls mostly on the…",
-        "bm": "Hujan bukit turun kebanyakannya di cerun…"
-      },
-      "explanation": {
-        "en": "The leeward side is drier — a rain shadow.",
-        "bm": "Cerun lindung angin lebih kering — kawasan bayangan hujan."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "windward side of mountains",
-          "bm": "menghadap angin"
-        },
-        {
-          "en": "leeward side",
-          "bm": "lindung angin"
-        },
-        {
-          "en": "top of the sea",
-          "bm": "atas laut"
-        },
-        {
-          "en": "inside caves",
-          "bm": "dalam gua"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "f3geo-03-q12",
-      "subtopicId": "f3geo-03-03",
+      "subtopicId": "f3geo-03-01",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL features of Malaysia's climate.",
-        "bm": "Pilih SEMUA ciri iklim Malaysia."
+        "en": "Select ALL physical factors that influence vegetation.",
+        "bm": "Pilih SEMUA faktor fizikal yang mempengaruhi tumbuh-tumbuhan."
       },
       "explanation": {
-        "en": "Malaysia does not get snow; highlands are only cooler.",
-        "bm": "Malaysia tidak menerima salji; tanah tinggi hanya lebih sejuk."
+        "en": "Drainage is another physical factor.",
+        "bm": "Saliran ialah satu lagi faktor fizikal."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "High temperature all year (about 26–32 °C)",
-          "bm": "Suhu tinggi sepanjang tahun (kira-kira 26–32 °C)"
+          "en": "Climate",
+          "bm": "Iklim"
         },
         {
-          "en": "High rainfall (over 2 000 mm a year)",
-          "bm": "Hujan tinggi (melebihi 2 000 mm setahun)"
+          "en": "Relief and altitude",
+          "bm": "Bentuk muka bumi dan altitud"
         },
         {
-          "en": "High humidity",
-          "bm": "Kelembapan tinggi"
+          "en": "Soil",
+          "bm": "Tanih"
         },
         {
-          "en": "Snow in December",
-          "bm": "Salji pada bulan Disember"
+          "en": "Shopping malls",
+          "bm": "Pusat beli-belah"
         }
       ],
       "answer": [
@@ -605,149 +534,149 @@
     },
     {
       "id": "f3geo-03-q13",
-      "subtopicId": "f3geo-03-02",
-      "type": "fill",
-      "prompt": {
-        "en": "The periods between the two monsoons are called the ______-monsoon periods.",
-        "bm": "Tempoh antara dua monsun dipanggil tempoh ______ monsun."
-      },
-      "explanation": {
-        "en": "Around April–May and October–November, with afternoon thunderstorms.",
-        "bm": "Sekitar April–Mei dan Oktober–November, dengan ribut petir pada waktu petang."
-      },
-      "difficulty": 2,
-      "answer": [
-        "inter",
-        "peralihan"
-      ]
-    },
-    {
-      "id": "f3geo-03-q14",
-      "subtopicId": "f3geo-03-03",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why are places like Cameron Highlands cooler than Kuala Lumpur?",
-        "bm": "Mengapakah tempat seperti Cameron Highlands lebih sejuk daripada Kuala Lumpur?"
+        "en": "Why are trees on high mountains shorter and covered in moss?",
+        "bm": "Mengapakah pokok di gunung tinggi lebih rendah dan berlumut?"
       },
       "explanation": {
-        "en": "Roughly 6 °C cooler for every 1 000 m of height.",
-        "bm": "Kira-kira 6 °C lebih sejuk bagi setiap 1 000 m ketinggian."
+        "en": "This is called montane or cloud forest.",
+        "bm": "Ini dipanggil hutan pergunungan atau hutan awan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Temperature falls as altitude increases",
-          "bm": "Suhu menurun apabila ketinggian bertambah"
+          "en": "Cooler temperatures, strong winds, thin soil and frequent mist",
+          "bm": "Suhu lebih sejuk, angin kencang, tanih nipis dan kabus yang kerap"
         },
         {
-          "en": "They are nearer the Equator",
-          "bm": "Lebih dekat dengan Khatulistiwa"
+          "en": "More fertile soil",
+          "bm": "Tanih lebih subur"
         },
         {
-          "en": "They have no sun",
-          "bm": "Tiada matahari"
+          "en": "Hotter weather",
+          "bm": "Cuaca lebih panas"
         },
         {
-          "en": "They are by the sea",
-          "bm": "Berada di tepi laut"
+          "en": "More people",
+          "bm": "Lebih ramai penduduk"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3geo-03-q15",
-      "subtopicId": "f3geo-03-02",
-      "type": "order",
+      "id": "f3geo-03-q14",
+      "subtopicId": "f3geo-03-01",
+      "type": "fill",
       "prompt": {
-        "en": "Arrange the steps of convectional rain.",
-        "bm": "Susun langkah hujan perolakan."
+        "en": "Areas where water does not drain away easily become ______ forests.",
+        "bm": "Kawasan yang airnya tidak mudah mengalir keluar menjadi hutan ______."
       },
       "explanation": {
-        "en": "Common in the afternoon in Malaysia.",
-        "bm": "Biasa berlaku pada waktu petang di Malaysia."
+        "en": "e.g. peat swamp and freshwater swamp forests.",
+        "bm": "cth. hutan paya gambut dan hutan paya air tawar."
+      },
+      "difficulty": 2,
+      "answer": [
+        "swamp",
+        "paya"
+      ]
+    },
+    {
+      "id": "f3geo-03-q15",
+      "subtopicId": "f3geo-03-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these places from WARMEST to COOLEST.",
+        "bm": "Susun tempat ini daripada PALING PANAS kepada PALING SEJUK."
+      },
+      "explanation": {
+        "en": "Higher means cooler.",
+        "bm": "Lebih tinggi bermakna lebih sejuk."
       },
       "difficulty": 2,
       "items": [
         {
-          "en": "The sun heats the ground strongly",
-          "bm": "Matahari memanaskan permukaan bumi dengan kuat"
+          "en": "Coast at sea level",
+          "bm": "Pantai di aras laut"
         },
         {
-          "en": "Warm, moist air rises",
-          "bm": "Udara panas dan lembap naik"
+          "en": "Hill at 500 m",
+          "bm": "Bukit 500 m"
         },
         {
-          "en": "The air cools and water vapour condenses into clouds",
-          "bm": "Udara menyejuk dan wap air memeluwap menjadi awan"
+          "en": "Cameron Highlands (about 1,500 m)",
+          "bm": "Cameron Highlands (kira-kira 1,500 m)"
         },
         {
-          "en": "Heavy rain falls, often with thunder",
-          "bm": "Hujan lebat turun, selalunya dengan petir"
+          "en": "Near the summit of Kinabalu (about 4,000 m)",
+          "bm": "Berhampiran puncak Kinabalu (kira-kira 4,000 m)"
         }
       ]
     },
     {
       "id": "f3geo-03-q16",
-      "subtopicId": "f3geo-03-03",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which statement about humidity in Malaysia is TRUE?",
-        "bm": "Pernyataan manakah BENAR tentang kelembapan di Malaysia?"
+        "en": "Animals in a cool mountain habitat often have…",
+        "bm": "Haiwan di habitat gunung yang sejuk sering mempunyai…"
       },
       "explanation": {
-        "en": "Hot air holds a lot of moisture from the seas and forests.",
-        "bm": "Udara panas membawa banyak wap air dari laut dan hutan."
+        "en": "Adaptation to the environment.",
+        "bm": "Penyesuaian kepada persekitaran."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "It is high, often around 80% or more",
-          "bm": "Ia tinggi, selalunya sekitar 80% atau lebih"
+          "en": "thicker fur or feathers",
+          "bm": "bulu yang lebih tebal"
         },
         {
-          "en": "It is close to 0%",
-          "bm": "Ia hampir 0%"
+          "en": "no fur",
+          "bm": "tiada bulu"
         },
         {
-          "en": "It never changes",
-          "bm": "Ia tidak pernah berubah"
+          "en": "gills",
+          "bm": "insang"
         },
         {
-          "en": "It is measured with a rain gauge",
-          "bm": "Ia diukur dengan tolok hujan"
+          "en": "very long legs only",
+          "bm": "kaki sangat panjang sahaja"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-03-q17",
-      "subtopicId": "f3geo-03-02",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "A family plans a beach holiday in Terengganu. Which month is the RISKIEST, and why?",
-        "bm": "Sebuah keluarga merancang percutian pantai di Terengganu. Bulan manakah PALING berisiko, dan mengapa?"
+        "en": "Why does Malaysia have such high biodiversity?",
+        "bm": "Mengapakah Malaysia mempunyai kepelbagaian biologi yang begitu tinggi?"
       },
       "explanation": {
-        "en": "Many east-coast islands close during the monsoon.",
-        "bm": "Banyak pulau di pantai timur ditutup semasa monsun."
+        "en": "Different conditions suit different species.",
+        "bm": "Keadaan berbeza sesuai untuk spesies berbeza."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "December — Northeast Monsoon brings rough seas, heavy rain and floods",
-          "bm": "Disember — Monsun Timur Laut membawa laut bergelora, hujan lebat dan banjir"
+          "en": "A hot, wet climate all year plus varied relief, soils and coastlines create many habitats",
+          "bm": "Iklim panas dan lembap sepanjang tahun serta bentuk muka bumi, tanih dan pantai yang pelbagai mewujudkan banyak habitat"
         },
         {
-          "en": "June — snowstorms",
-          "bm": "Jun — ribut salji"
+          "en": "It has four seasons",
+          "bm": "Ia mempunyai empat musim"
         },
         {
-          "en": "August — no sunlight",
-          "bm": "Ogos — tiada cahaya matahari"
+          "en": "It is a desert",
+          "bm": "Ia gurun"
         },
         {
-          "en": "May — the sea dries up",
-          "bm": "Mei — laut kering"
+          "en": "It has no mountains",
+          "bm": "Ia tiada gunung"
         }
       ],
       "answer": 0
@@ -757,96 +686,96 @@
       "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why is the Stevenson screen painted white and raised above the ground?",
-        "bm": "Mengapakah skrin Stevenson dicat putih dan dinaikkan dari tanah?"
+        "en": "Cameron Highlands is used for tea and vegetables, not oil palm. Which physical factor BEST explains this?",
+        "bm": "Cameron Highlands digunakan untuk teh dan sayur, bukan kelapa sawit. Faktor fizikal manakah PALING menerangkan hal ini?"
       },
       "explanation": {
-        "en": "Louvres let air flow freely.",
-        "bm": "Bilah-bilah membolehkan udara mengalir bebas."
+        "en": "Altitude changes temperature.",
+        "bm": "Altitud mengubah suhu."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "White reflects sunlight and height avoids heat from the ground, giving accurate air temperature",
-          "bm": "Putih memantulkan cahaya matahari dan ketinggian mengelakkan haba dari tanah, memberi suhu udara yang tepat"
+          "en": "Its high altitude gives a cool climate suited to temperate crops",
+          "bm": "Altitudnya yang tinggi memberi iklim sejuk yang sesuai untuk tanaman sederhana"
         },
         {
-          "en": "To attract birds",
-          "bm": "Untuk menarik burung"
+          "en": "It is at sea level",
+          "bm": "Ia di aras laut"
         },
         {
-          "en": "To store rainwater",
-          "bm": "Untuk menyimpan air hujan"
+          "en": "It has no rain",
+          "bm": "Ia tiada hujan"
         },
         {
-          "en": "For decoration",
-          "bm": "Untuk hiasan"
+          "en": "It has salty soil",
+          "bm": "Ia bertanah masin"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-03-q19",
-      "subtopicId": "f3geo-03-02",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why do floods on the east coast of the Peninsula often happen in November–January?",
-        "bm": "Mengapakah banjir di pantai timur Semenanjung sering berlaku pada November–Januari?"
+        "en": "If an area's rainfall decreased greatly for many years, what would MOST likely happen to its vegetation?",
+        "bm": "Jika hujan di sesuatu kawasan berkurang dengan banyak selama bertahun-tahun, apakah yang PALING mungkin berlaku kepada tumbuh-tumbuhannya?"
       },
       "explanation": {
-        "en": "High tides can also slow rivers draining into the sea.",
-        "bm": "Air pasang besar juga boleh melambatkan aliran sungai ke laut."
+        "en": "Wildlife would also change as food and shelter change.",
+        "bm": "Hidupan liar juga berubah apabila makanan dan perlindungan berubah."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Heavy Northeast Monsoon rain over days fills rivers beyond their capacity",
-          "bm": "Hujan lebat Monsun Timur Laut selama beberapa hari memenuhi sungai melebihi kapasiti"
+          "en": "Forest would thin out and drought-tolerant plants would increase",
+          "bm": "Hutan menjadi jarang dan tumbuhan tahan kemarau bertambah"
         },
         {
-          "en": "Snow melts",
-          "bm": "Salji cair"
+          "en": "More mangroves would grow inland",
+          "bm": "Lebih banyak bakau tumbuh di pedalaman"
         },
         {
-          "en": "Dams always break then",
-          "bm": "Empangan sentiasa pecah ketika itu"
+          "en": "Nothing would change",
+          "bm": "Tiada perubahan"
         },
         {
-          "en": "The sea level falls",
-          "bm": "Aras laut turun"
+          "en": "Snow forests would form",
+          "bm": "Hutan salji terbentuk"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3geo-03-q20",
-      "subtopicId": "f3geo-03-03",
+      "subtopicId": "f3geo-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Climate change may make heavy rain events more intense. Which action BEST reduces flood risk for a town?",
-        "bm": "Perubahan iklim mungkin menjadikan hujan lebat lebih kuat. Tindakan manakah PALING mengurangkan risiko banjir bagi sebuah bandar?"
+        "en": "How are vegetation and wildlife linked to the same physical factors?",
+        "bm": "Bagaimanakah tumbuh-tumbuhan dan hidupan liar dikaitkan dengan faktor fizikal yang sama?"
       },
       "explanation": {
-        "en": "Forests and wetlands absorb water and slow run-off.",
-        "bm": "Hutan dan tanah lembap menyerap air dan melambatkan air larian."
+        "en": "It is a chain of cause and effect.",
+        "bm": "Ia rantaian sebab dan akibat."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Keep drains clear, protect forests and wetlands, and avoid building on floodplains",
-          "bm": "Pastikan longkang bersih, lindungi hutan dan tanah lembap, dan elak membina di dataran banjir"
+          "en": "Climate and relief shape vegetation, and vegetation provides the food and habitat that decide which animals live there",
+          "bm": "Iklim dan bentuk muka bumi membentuk tumbuhan, dan tumbuhan menyediakan makanan dan habitat yang menentukan haiwan yang hidup di situ"
         },
         {
-          "en": "Cut down hill forests",
-          "bm": "Tebang hutan bukit"
+          "en": "Animals control the climate",
+          "bm": "Haiwan mengawal iklim"
         },
         {
-          "en": "Fill drains with concrete",
-          "bm": "Tutup longkang dengan konkrit"
+          "en": "They are not linked",
+          "bm": "Tiada kaitan"
         },
         {
-          "en": "Ignore weather warnings",
-          "bm": "Abaikan amaran cuaca"
+          "en": "Only soil matters",
+          "bm": "Hanya tanih penting"
         }
       ],
       "answer": 0

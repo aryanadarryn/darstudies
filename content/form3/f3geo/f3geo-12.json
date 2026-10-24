@@ -1,0 +1,800 @@
+{
+  "chapterId": "f3geo-12",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Geographers don't only read about places — they go out, observe, measure and ask questions. Fieldwork turns your neighbourhood into a classroom.",
+      "bm": "Ahli geografi bukan sekadar membaca tentang tempat — mereka keluar, memerhati, mengukur dan bertanya. Kerja lapangan menjadikan kawasan kejiranan anda sebuah bilik darjah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Fieldwork starts with a clear issue or title linked to the local area.",
+        "bm": "Kerja lapangan bermula dengan isu atau tajuk yang jelas berkaitan kawasan setempat."
+      },
+      {
+        "en": "Objectives say what you want to find out; methods include observation, interviews, questionnaires, measurement and document study.",
+        "bm": "Objektif menyatakan apa yang ingin diketahui; kaedah termasuk pemerhatian, temu bual, soal selidik, pengukuran dan kajian dokumen."
+      },
+      {
+        "en": "Data are recorded, analysed with tables, graphs and maps, then summarised in a report.",
+        "bm": "Data direkod, dianalisis menggunakan jadual, graf dan peta, kemudian dirumus dalam laporan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Choose a title",
+              "bm": "Pilih tajuk"
+            },
+            "detail": {
+              "en": "A local issue, e.g. recycling practice in Taman Ceria.",
+              "bm": "Isu setempat, cth. amalan kitar semula di Taman Ceria."
+            }
+          },
+          {
+            "title": {
+              "en": "Set objectives",
+              "bm": "Tentukan objektif"
+            },
+            "detail": {
+              "en": "What exactly will you find out?",
+              "bm": "Apakah yang hendak diketahui dengan tepat?"
+            }
+          },
+          {
+            "title": {
+              "en": "Choose methods",
+              "bm": "Pilih kaedah"
+            },
+            "detail": {
+              "en": "Observation, interview, questionnaire, measurement, documents.",
+              "bm": "Pemerhatian, temu bual, soal selidik, pengukuran, dokumen."
+            }
+          },
+          {
+            "title": {
+              "en": "Collect and analyse",
+              "bm": "Kumpul dan analisis"
+            },
+            "detail": {
+              "en": "Record data; present in tables, graphs and maps.",
+              "bm": "Rekod data; persembahkan dalam jadual, graf dan peta."
+            }
+          },
+          {
+            "title": {
+              "en": "Conclude and report",
+              "bm": "Rumus dan lapor"
+            },
+            "detail": {
+              "en": "Write the findings, conclusion and suggestions.",
+              "bm": "Tulis dapatan, rumusan dan cadangan."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Fieldwork",
+          "bm": "Kerja lapangan"
+        },
+        "definition": {
+          "en": "Collecting information first-hand outside the classroom.",
+          "bm": "Mengumpul maklumat secara langsung di luar bilik darjah."
+        }
+      },
+      {
+        "term": {
+          "en": "Objective",
+          "bm": "Objektif"
+        },
+        "definition": {
+          "en": "A specific aim of the study.",
+          "bm": "Matlamat khusus kajian."
+        }
+      },
+      {
+        "term": {
+          "en": "Questionnaire",
+          "bm": "Soal selidik"
+        },
+        "definition": {
+          "en": "A set of written questions given to respondents.",
+          "bm": "Set soalan bertulis yang diedarkan kepada responden."
+        }
+      },
+      {
+        "term": {
+          "en": "Primary data",
+          "bm": "Data primer"
+        },
+        "definition": {
+          "en": "Data you collect yourself (observation, interview).",
+          "bm": "Data yang dikumpul sendiri (pemerhatian, temu bual)."
+        }
+      },
+      {
+        "term": {
+          "en": "Secondary data",
+          "bm": "Data sekunder"
+        },
+        "definition": {
+          "en": "Data from existing sources (reports, maps, websites).",
+          "bm": "Data daripada sumber sedia ada (laporan, peta, laman web)."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Write one objective for the title \"Recycling practices in Taman Ceria\".",
+        "bm": "Tulis satu objektif bagi tajuk \"Amalan kitar semula di Taman Ceria\"."
+      },
+      "steps": [
+        {
+          "en": "An objective must be specific and measurable.",
+          "bm": "Objektif mesti khusus dan boleh diukur."
+        },
+        {
+          "en": "Start with a verb such as \"identify\", \"explain\" or \"suggest\".",
+          "bm": "Mulakan dengan kata kerja seperti \"mengenal pasti\", \"menerangkan\" atau \"mencadangkan\"."
+        }
+      ],
+      "answer": {
+        "en": "To identify the types of waste that residents of Taman Ceria recycle.",
+        "bm": "Mengenal pasti jenis sisa yang dikitar semula oleh penduduk Taman Ceria."
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f3geo-12-q01",
+      "subtopicId": "f3geo-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first step in fieldwork is to…",
+        "bm": "Langkah pertama kerja lapangan ialah…"
+      },
+      "explanation": {
+        "en": "The title guides everything else.",
+        "bm": "Tajuk membimbing semua langkah lain."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "choose an issue or title",
+          "bm": "memilih isu atau tajuk"
+        },
+        {
+          "en": "write the conclusion",
+          "bm": "menulis rumusan"
+        },
+        {
+          "en": "draw graphs",
+          "bm": "melukis graf"
+        },
+        {
+          "en": "print the report",
+          "bm": "mencetak laporan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q02",
+      "subtopicId": "f3geo-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good fieldwork title should be…",
+        "bm": "Tajuk kerja lapangan yang baik patut…"
+      },
+      "explanation": {
+        "en": "e.g. \"Traffic congestion near SMK Bukit Indah\".",
+        "bm": "cth. \"Kesesakan lalu lintas berhampiran SMK Bukit Indah\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "clear, specific and about a local area",
+          "bm": "jelas, khusus dan tentang kawasan setempat"
+        },
+        {
+          "en": "about the whole world",
+          "bm": "tentang seluruh dunia"
+        },
+        {
+          "en": "very vague",
+          "bm": "sangat kabur"
+        },
+        {
+          "en": "unrelated to geography",
+          "bm": "tidak berkaitan geografi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q03",
+      "subtopicId": "f3geo-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Objectives of a fieldwork study state…",
+        "bm": "Objektif kajian kerja lapangan menyatakan…"
+      },
+      "explanation": {
+        "en": "Start objectives with verbs such as \"identify\".",
+        "bm": "Mulakan objektif dengan kata kerja seperti \"mengenal pasti\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "what the study wants to find out",
+          "bm": "apa yang ingin diketahui melalui kajian"
+        },
+        {
+          "en": "the report cover colour",
+          "bm": "warna kulit laporan"
+        },
+        {
+          "en": "the names of friends",
+          "bm": "nama kawan"
+        },
+        {
+          "en": "the final marks",
+          "bm": "markah akhir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q04",
+      "subtopicId": "f3geo-12-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Asking residents questions face to face is called…",
+        "bm": "Bertanya soalan kepada penduduk secara bersemuka dipanggil…"
+      },
+      "explanation": {
+        "en": "Prepare questions beforehand.",
+        "bm": "Sediakan soalan terlebih dahulu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "interview",
+          "bm": "temu bual"
+        },
+        {
+          "en": "observation",
+          "bm": "pemerhatian"
+        },
+        {
+          "en": "measurement",
+          "bm": "pengukuran"
+        },
+        {
+          "en": "document study",
+          "bm": "kajian dokumen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q05",
+      "subtopicId": "f3geo-12-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A set of written questions given to many respondents is a…",
+        "bm": "Set soalan bertulis yang diberi kepada ramai responden ialah…"
+      },
+      "explanation": {
+        "en": "Useful for collecting data from many people.",
+        "bm": "Berguna untuk mengumpul data daripada ramai orang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "questionnaire",
+          "bm": "soal selidik"
+        },
+        {
+          "en": "map",
+          "bm": "peta"
+        },
+        {
+          "en": "graph",
+          "bm": "graf"
+        },
+        {
+          "en": "photograph",
+          "bm": "gambar foto"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q06",
+      "subtopicId": "f3geo-12-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Looking at and recording what you see in the field is the method of ______.",
+        "bm": "Melihat dan merekod apa yang dilihat di lapangan ialah kaedah ______."
+      },
+      "explanation": {
+        "en": "Photos and sketches help record observations.",
+        "bm": "Gambar dan lakaran membantu merekod pemerhatian."
+      },
+      "difficulty": 1,
+      "answer": [
+        "observation",
+        "pemerhatian"
+      ]
+    },
+    {
+      "id": "f3geo-12-q07",
+      "subtopicId": "f3geo-12-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Data you collect yourself in the field is called…",
+        "bm": "Data yang dikumpul sendiri di lapangan dipanggil…"
+      },
+      "explanation": {
+        "en": "Secondary data come from existing sources.",
+        "bm": "Data sekunder daripada sumber sedia ada."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "primary data",
+          "bm": "data primer"
+        },
+        {
+          "en": "secondary data",
+          "bm": "data sekunder"
+        },
+        {
+          "en": "old data",
+          "bm": "data lama"
+        },
+        {
+          "en": "fake data",
+          "bm": "data palsu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q08",
+      "subtopicId": "f3geo-12-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A fieldwork report should end with…",
+        "bm": "Laporan kerja lapangan patut diakhiri dengan…"
+      },
+      "explanation": {
+        "en": "References and appendices follow.",
+        "bm": "Rujukan dan lampiran menyusul."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a conclusion and suggestions",
+          "bm": "rumusan dan cadangan"
+        },
+        {
+          "en": "the title only",
+          "bm": "tajuk sahaja"
+        },
+        {
+          "en": "blank pages",
+          "bm": "halaman kosong"
+        },
+        {
+          "en": "the questionnaire only",
+          "bm": "soal selidik sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q09",
+      "subtopicId": "f3geo-12-05",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the main parts of a fieldwork report.",
+        "bm": "Susun bahagian utama laporan kerja lapangan."
+      },
+      "explanation": {
+        "en": "A clear structure helps readers.",
+        "bm": "Struktur yang jelas membantu pembaca."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Introduction and objectives",
+          "bm": "Pengenalan dan objektif"
+        },
+        {
+          "en": "Study area and methods",
+          "bm": "Kawasan kajian dan kaedah"
+        },
+        {
+          "en": "Findings (data and analysis)",
+          "bm": "Dapatan (data dan analisis)"
+        },
+        {
+          "en": "Conclusion and suggestions",
+          "bm": "Rumusan dan cadangan"
+        },
+        {
+          "en": "References and appendices",
+          "bm": "Rujukan dan lampiran"
+        }
+      ]
+    },
+    {
+      "id": "f3geo-12-q10",
+      "subtopicId": "f3geo-12-03",
+      "type": "match",
+      "prompt": {
+        "en": "Match each method with a suitable use.",
+        "bm": "Padankan kaedah dengan kegunaan yang sesuai."
+      },
+      "explanation": {
+        "en": "Choose methods that fit the objectives.",
+        "bm": "Pilih kaedah yang sesuai dengan objektif."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Measurement",
+            "bm": "Pengukuran"
+          },
+          "right": {
+            "en": "Recording river width or temperature",
+            "bm": "Merekod lebar sungai atau suhu"
+          }
+        },
+        {
+          "left": {
+            "en": "Questionnaire",
+            "bm": "Soal selidik"
+          },
+          "right": {
+            "en": "Finding out residents' recycling habits",
+            "bm": "Mengetahui tabiat kitar semula penduduk"
+          }
+        },
+        {
+          "left": {
+            "en": "Observation",
+            "bm": "Pemerhatian"
+          },
+          "right": {
+            "en": "Counting vehicles at a junction",
+            "bm": "Mengira kenderaan di simpang"
+          }
+        },
+        {
+          "left": {
+            "en": "Document study",
+            "bm": "Kajian dokumen"
+          },
+          "right": {
+            "en": "Using council population reports",
+            "bm": "Menggunakan laporan penduduk majlis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3geo-12-q11",
+      "subtopicId": "f3geo-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST objective for a study on traffic near a school?",
+        "bm": "Manakah objektif PALING baik bagi kajian lalu lintas berhampiran sekolah?"
+      },
+      "explanation": {
+        "en": "Specific and measurable.",
+        "bm": "Khusus dan boleh diukur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To identify the peak hours of traffic congestion near the school",
+          "bm": "Mengenal pasti waktu puncak kesesakan lalu lintas berhampiran sekolah"
+        },
+        {
+          "en": "To learn about cars",
+          "bm": "Belajar tentang kereta"
+        },
+        {
+          "en": "To enjoy the trip",
+          "bm": "Menikmati lawatan"
+        },
+        {
+          "en": "To finish the project",
+          "bm": "Menyiapkan projek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q12",
+      "subtopicId": "f3geo-12-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL fieldwork methods.",
+        "bm": "Pilih SEMUA kaedah kerja lapangan."
+      },
+      "explanation": {
+        "en": "Measurement and document study are also methods.",
+        "bm": "Pengukuran dan kajian dokumen juga kaedah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Observation",
+          "bm": "Pemerhatian"
+        },
+        {
+          "en": "Interview",
+          "bm": "Temu bual"
+        },
+        {
+          "en": "Questionnaire",
+          "bm": "Soal selidik"
+        },
+        {
+          "en": "Guessing",
+          "bm": "Meneka"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3geo-12-q13",
+      "subtopicId": "f3geo-12-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an example of secondary data?",
+        "bm": "Antara berikut, yang manakah contoh data sekunder?"
+      },
+      "explanation": {
+        "en": "It was collected by someone else.",
+        "bm": "Ia dikumpul oleh pihak lain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Population statistics from a government report",
+          "bm": "Statistik penduduk daripada laporan kerajaan"
+        },
+        {
+          "en": "Your own vehicle count",
+          "bm": "Kiraan kenderaan anda sendiri"
+        },
+        {
+          "en": "Your interview notes",
+          "bm": "Nota temu bual anda"
+        },
+        {
+          "en": "Your photographs",
+          "bm": "Gambar foto anda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q14",
+      "subtopicId": "f3geo-12-04",
+      "type": "fill",
+      "prompt": {
+        "en": "Data collected in the field can be presented in tables, graphs and ______ to help analysis.",
+        "bm": "Data yang dikumpul di lapangan boleh dipersembahkan dalam jadual, graf dan ______ untuk membantu analisis."
+      },
+      "explanation": {
+        "en": "Visuals show patterns clearly.",
+        "bm": "Visual menunjukkan pola dengan jelas."
+      },
+      "difficulty": 2,
+      "answer": [
+        "maps",
+        "peta"
+      ]
+    },
+    {
+      "id": "f3geo-12-q15",
+      "subtopicId": "f3geo-12-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "In a survey, 36 of 60 households sort their waste. What percentage is this (%)?",
+        "bm": "Dalam satu tinjauan, 36 daripada 60 isi rumah mengasingkan sisa. Berapakah peratusnya (%)?"
+      },
+      "explanation": {
+        "en": "36 ÷ 60 × 100 = 60%.",
+        "bm": "36 ÷ 60 × 100 = 60%."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "%"
+    },
+    {
+      "id": "f3geo-12-q16",
+      "subtopicId": "f3geo-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should fieldwork be done in a safe, nearby area?",
+        "bm": "Mengapakah kerja lapangan patut dijalankan di kawasan berhampiran yang selamat?"
+      },
+      "explanation": {
+        "en": "Always get permission and go with a teacher.",
+        "bm": "Sentiasa dapatkan kebenaran dan pergi bersama guru."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It is practical, safe and easy to revisit",
+          "bm": "Ia praktikal, selamat dan mudah dikunjungi semula"
+        },
+        {
+          "en": "Far places give better marks",
+          "bm": "Tempat jauh memberi markah lebih baik"
+        },
+        {
+          "en": "Safety is not important",
+          "bm": "Keselamatan tidak penting"
+        },
+        {
+          "en": "It must be overseas",
+          "bm": "Ia mesti di luar negara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q17",
+      "subtopicId": "f3geo-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why must objectives be set before choosing methods?",
+        "bm": "Mengapakah objektif mesti ditentukan sebelum memilih kaedah?"
+      },
+      "explanation": {
+        "en": "Objectives guide the whole study.",
+        "bm": "Objektif membimbing seluruh kajian."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Methods must be chosen to collect exactly the data the objectives need",
+          "bm": "Kaedah mesti dipilih untuk mengumpul data yang tepat diperlukan oleh objektif"
+        },
+        {
+          "en": "Methods do not matter",
+          "bm": "Kaedah tidak penting"
+        },
+        {
+          "en": "Objectives are written last",
+          "bm": "Objektif ditulis paling akhir"
+        },
+        {
+          "en": "Any method works for any objective",
+          "bm": "Mana-mana kaedah sesuai untuk semua objektif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q18",
+      "subtopicId": "f3geo-12-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A conclusion says \"Most residents recycle\" but data show only 30% do. What is wrong?",
+        "bm": "Rumusan menyatakan \"Kebanyakan penduduk mengitar semula\" tetapi data menunjukkan hanya 30%. Apakah kesilapannya?"
+      },
+      "explanation": {
+        "en": "Conclusions must be based on findings.",
+        "bm": "Rumusan mesti berdasarkan dapatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The conclusion does not match the evidence",
+          "bm": "Rumusan tidak sepadan dengan bukti"
+        },
+        {
+          "en": "Nothing is wrong",
+          "bm": "Tiada kesilapan"
+        },
+        {
+          "en": "30% is \"most\"",
+          "bm": "30% ialah \"kebanyakan\""
+        },
+        {
+          "en": "Conclusions do not need data",
+          "bm": "Rumusan tidak memerlukan data"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q19",
+      "subtopicId": "f3geo-12-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why use more than one method in fieldwork?",
+        "bm": "Mengapakah lebih daripada satu kaedah digunakan dalam kerja lapangan?"
+      },
+      "explanation": {
+        "en": "e.g. observation plus questionnaire.",
+        "bm": "cth. pemerhatian dan soal selidik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Different methods check each other and give more reliable findings",
+          "bm": "Kaedah berbeza saling menyemak dan memberi dapatan yang lebih boleh dipercayai"
+        },
+        {
+          "en": "One method is always wrong",
+          "bm": "Satu kaedah sentiasa salah"
+        },
+        {
+          "en": "It makes the report shorter",
+          "bm": "Ia memendekkan laporan"
+        },
+        {
+          "en": "It is required to waste time",
+          "bm": "Ia untuk membuang masa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3geo-12-q20",
+      "subtopicId": "f3geo-12-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which suggestion BEST follows findings that residents lack recycling bins?",
+        "bm": "Cadangan manakah PALING sesuai berdasarkan dapatan bahawa penduduk kekurangan tong kitar semula?"
+      },
+      "explanation": {
+        "en": "Suggestions should solve the problem found.",
+        "bm": "Cadangan patut menyelesaikan masalah yang ditemui."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Ask the local council to place more recycling bins in the neighbourhood",
+          "bm": "Meminta majlis tempatan menyediakan lebih banyak tong kitar semula di kawasan kejiranan"
+        },
+        {
+          "en": "Stop collecting rubbish",
+          "bm": "Hentikan kutipan sampah"
+        },
+        {
+          "en": "Burn all waste",
+          "bm": "Bakar semua sisa"
+        },
+        {
+          "en": "Do nothing",
+          "bm": "Tidak melakukan apa-apa"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

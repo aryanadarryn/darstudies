@@ -5,42 +5,30 @@
     "f3geo-02-01": {
       "keyPoints": [
         {
-          "en": "Weathering: physical, chemical, biological — rocks break down in place.",
-          "bm": "Luluhawa: fizikal, kimia, biologi — batuan pecah di tempatnya."
-        },
-        {
-          "en": "In Malaysia's hot, wet climate chemical weathering is common, forming thick soils.",
-          "bm": "Dalam iklim panas lembap Malaysia, luluhawa kimia biasa berlaku, membentuk tanih yang tebal."
+          "en": "Pie charts show parts of a whole; the circle = 360° = 100%. Include a title, labels or key, and source.",
+          "bm": "Carta pai menunjukkan bahagian daripada keseluruhan; bulatan = 360° = 100%. Sertakan tajuk, label atau petunjuk, dan sumber."
         }
       ]
     },
     "f3geo-02-02": {
       "keyPoints": [
         {
-          "en": "Upper: V-shaped valley, waterfalls, rapids. Middle: meanders. Lower: floodplain, oxbow lake. Mouth: delta/estuary.",
-          "bm": "Hulu: lurah V, air terjun, jeram. Tengah: meander. Hilir: dataran banjir, tasik ladam. Muara: delta/kuala."
-        },
-        {
-          "en": "Outer bend erodes; inner bend deposits. Floodplains are fertile (alluvium).",
-          "bm": "Tebing luar terhakis; tebing dalam memendap. Dataran banjir subur (aluvium)."
+          "en": "Total → angle = (value ÷ total) × 360° → draw circle and radius → draw sectors with a protractor (largest first, clockwise) → label.",
+          "bm": "Jumlah → sudut = (nilai ÷ jumlah) × 360° → lukis bulatan dan jejari → lukis sektor dengan protraktor (terbesar dahulu, ikut arah jam) → label."
         }
-      ]
+      ],
+      "tip": {
+        "en": "Check that your angles add up to 360°.",
+        "bm": "Pastikan sudut anda menjumlah 360°."
+      }
     },
     "f3geo-02-03": {
       "keyPoints": [
         {
-          "en": "Coastal erosion: crack → cave → arch → stack → stump. Deposition: beach, spit, sand bar.",
-          "bm": "Hakisan pinggir laut: rekahan → gua → gerbang laut → batu tunggul → tunggul batu. Pemendapan: pantai, anak tanjung, beting pasir."
-        },
-        {
-          "en": "Limestone dissolves in rainwater: caves, stalactites (hang), stalagmites (rise) — e.g. Gunung Mulu, Batu Caves.",
-          "bm": "Batu kapur larut dalam air hujan: gua, stalaktit (tergantung), stalagmit (tumbuh dari bawah) — cth. Gunung Mulu, Batu Caves."
+          "en": "Compare sector sizes; convert angle → % (÷ 360 × 100) or → value (÷ 360 × total); explain differences.",
+          "bm": "Bandingkan saiz sektor; tukar sudut → % (÷ 360 × 100) atau → nilai (÷ 360 × jumlah); terangkan perbezaan."
         }
-      ],
-      "tip": {
-        "en": "StalaCtite holds tight to the Ceiling; stalaGmite grows up from the Ground.",
-        "bm": "StalaKtit di Kepala (atas); stalaGmit di Ground/bawah."
-      }
+      ]
     }
   }
 }

@@ -9,13 +9,13 @@
     "bm": "Geografi"
   },
   "color": "#0d9488",
-  "source": "Covers Form 3 KSSM Geografi skills and themes (map skills, physical geography, human geography, environment). Chapter grouping may differ from your textbook — verify with the latest DSKP. Learning content is original.",
+  "source": "Follows the 12 chapters and subtopics of the Form 3 KSSM Geografi textbook (tables and graphs, pie charts, vegetation and wildlife, natural resources, economic activities, world resources and cooperation, forest resources, recycling, fieldwork). Learning content is original.",
   "chapters": [
     {
       "number": 1,
       "title": {
-        "en": "Map Skills: Topographic Maps",
-        "bm": "Kemahiran Peta: Peta Topografi"
+        "en": "Tables and Graphs",
+        "bm": "Jadual dan Graf"
       },
       "theme": {
         "en": "Geographical Skills",
@@ -25,22 +25,36 @@
         {
           "code": "1.1",
           "title": {
-            "en": "Grid References, Direction and Bearing",
-            "bm": "Rujukan Grid, Arah dan Bearing"
+            "en": "Features and Uses of Tables",
+            "bm": "Ciri-ciri dan Kegunaan Jadual"
           }
         },
         {
           "code": "1.2",
           "title": {
-            "en": "Scale and Distance",
-            "bm": "Skala dan Jarak"
+            "en": "Features and Uses of Graphs",
+            "bm": "Ciri-ciri dan Kegunaan Graf"
           }
         },
         {
           "code": "1.3",
           "title": {
-            "en": "Contours and Relief",
-            "bm": "Kontur dan Bentuk Muka Bumi"
+            "en": "Steps to Construct a Table",
+            "bm": "Langkah-langkah Membina Jadual"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Constructing Simple Bar, Simple Line and Combined Graphs",
+            "bm": "Langkah-langkah Membina Graf Bar Mudah, Graf Garisan Mudah dan Graf Gabungan"
+          }
+        },
+        {
+          "code": "1.5",
+          "title": {
+            "en": "Interpreting Tables and Graphs",
+            "bm": "Mentafsir Jadual, Graf Bar Mudah, Graf Garisan Mudah dan Graf Gabungan"
           }
         }
       ]
@@ -48,33 +62,33 @@
     {
       "number": 2,
       "title": {
-        "en": "Landforms and Processes",
-        "bm": "Bentuk Muka Bumi dan Proses"
+        "en": "Pie Charts",
+        "bm": "Carta Pai"
       },
       "theme": {
-        "en": "Physical Geography",
-        "bm": "Geografi Fizikal"
+        "en": "Geographical Skills",
+        "bm": "Kemahiran Geografi"
       },
       "subtopics": [
         {
           "code": "2.1",
           "title": {
-            "en": "Weathering",
-            "bm": "Luluhawa"
+            "en": "Features and Uses of Pie Charts",
+            "bm": "Ciri-ciri dan Kegunaan Carta Pai"
           }
         },
         {
           "code": "2.2",
           "title": {
-            "en": "River Landforms",
-            "bm": "Bentuk Muka Bumi Sungai"
+            "en": "Steps to Construct a Pie Chart",
+            "bm": "Langkah-langkah Membina Carta Pai"
           }
         },
         {
           "code": "2.3",
           "title": {
-            "en": "Coastal and Limestone Landforms",
-            "bm": "Bentuk Muka Bumi Pinggir Laut dan Batu Kapur"
+            "en": "Interpreting Pie Charts",
+            "bm": "Mentafsir Carta Pai"
           }
         }
       ]
@@ -82,8 +96,8 @@
     {
       "number": 3,
       "title": {
-        "en": "Weather and Climate of Malaysia",
-        "bm": "Cuaca dan Iklim Malaysia"
+        "en": "Influence of the Physical Environment on the Diversity of Natural Vegetation and Wildlife",
+        "bm": "Pengaruh Persekitaran Fizikal terhadap Kepelbagaian Tumbuh-tumbuhan Semula Jadi dan Hidupan Liar"
       },
       "theme": {
         "en": "Physical Geography",
@@ -93,22 +107,8 @@
         {
           "code": "3.1",
           "title": {
-            "en": "Elements of Weather and Instruments",
-            "bm": "Unsur Cuaca dan Alat"
-          }
-        },
-        {
-          "code": "3.2",
-          "title": {
-            "en": "Monsoons and Rainfall",
-            "bm": "Monsun dan Hujan"
-          }
-        },
-        {
-          "code": "3.3",
-          "title": {
-            "en": "Climate of Malaysia",
-            "bm": "Iklim Malaysia"
+            "en": "Physical Factors Influencing Natural Vegetation and Wildlife",
+            "bm": "Faktor-faktor Persekitaran Fizikal yang Mempengaruhi Kepelbagaian Tumbuh-tumbuhan Semula Jadi dan Hidupan Liar"
           }
         }
       ]
@@ -116,8 +116,90 @@
     {
       "number": 4,
       "title": {
-        "en": "Population and Settlement",
-        "bm": "Penduduk dan Petempatan"
+        "en": "Natural Vegetation in Malaysia",
+        "bm": "Tumbuh-tumbuhan Semula Jadi di Malaysia"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Types and Distribution of Natural Vegetation in Malaysia",
+            "bm": "Jenis dan Taburan Tumbuh-tumbuhan Semula Jadi di Malaysia"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Factors Influencing Natural Vegetation in Malaysia",
+            "bm": "Faktor-faktor yang Mempengaruhi Tumbuh-tumbuhan Semula Jadi di Malaysia"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Importance of Natural Vegetation in Malaysia",
+            "bm": "Kepentingan Tumbuh-tumbuhan Semula Jadi di Malaysia"
+          }
+        },
+        {
+          "code": "4.4",
+          "title": {
+            "en": "Effects of Human Activities on Natural Vegetation in Malaysia",
+            "bm": "Kesan Kegiatan Manusia terhadap Tumbuh-tumbuhan Semula Jadi di Malaysia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Wildlife in Malaysia",
+        "bm": "Hidupan Liar di Malaysia"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Wildlife in Malaysia",
+            "bm": "Hidupan Liar di Malaysia"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Importance of Wildlife in Malaysia",
+            "bm": "Kepentingan Hidupan Liar di Malaysia"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Human Activities That Threaten Wildlife",
+            "bm": "Kegiatan Manusia yang Mengancam Hidupan Liar di Malaysia"
+          }
+        },
+        {
+          "code": "5.4",
+          "title": {
+            "en": "Preservation and Conservation of Wildlife",
+            "bm": "Usaha Pemeliharaan dan Pemuliharaan Hidupan Liar di Malaysia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Natural Resources in Malaysia",
+        "bm": "Sumber Semula Jadi di Malaysia"
       },
       "theme": {
         "en": "Human Geography",
@@ -125,30 +207,30 @@
       },
       "subtopics": [
         {
-          "code": "4.1",
+          "code": "6.1",
           "title": {
-            "en": "Population Distribution",
-            "bm": "Taburan Penduduk"
+            "en": "Natural Resources in Malaysia",
+            "bm": "Sumber Semula Jadi di Malaysia"
           }
         },
         {
-          "code": "4.2",
+          "code": "6.2",
           "title": {
-            "en": "Settlement Patterns",
-            "bm": "Pola Petempatan"
+            "en": "Distribution of Renewable and Non-renewable Resources",
+            "bm": "Taburan Sumber Boleh Baharu dan Sumber Tidak Boleh Baharu di Malaysia"
           }
         },
         {
-          "code": "4.3",
+          "code": "6.3",
           "title": {
-            "en": "Urbanisation and Migration",
-            "bm": "Perbandaran dan Migrasi"
+            "en": "Importance of Natural Resources in Economic Development",
+            "bm": "Kepentingan Sumber Semula Jadi dalam Pembangunan Ekonomi di Malaysia"
           }
         }
       ]
     },
     {
-      "number": 5,
+      "number": 7,
       "title": {
         "en": "Economic Activities in Malaysia",
         "bm": "Kegiatan Ekonomi di Malaysia"
@@ -159,58 +241,229 @@
       },
       "subtopics": [
         {
-          "code": "5.1",
+          "code": "7.1",
           "title": {
-            "en": "Primary Activities",
-            "bm": "Kegiatan Primer"
+            "en": "Types of Economic Activities in Malaysia",
+            "bm": "Jenis Kegiatan Ekonomi di Malaysia"
           }
         },
         {
-          "code": "5.2",
+          "code": "7.2",
           "title": {
-            "en": "Secondary Activities",
-            "bm": "Kegiatan Sekunder"
+            "en": "Distribution of Main Economic Activities",
+            "bm": "Taburan Kegiatan Ekonomi Utama di Malaysia"
           }
         },
         {
-          "code": "5.3",
+          "code": "7.3",
           "title": {
-            "en": "Tertiary Activities and Tourism",
-            "bm": "Kegiatan Tertier dan Pelancongan"
+            "en": "Factors Influencing Economic Activities",
+            "bm": "Faktor-faktor yang Mempengaruhi Kegiatan Ekonomi di Malaysia"
+          }
+        },
+        {
+          "code": "7.4",
+          "title": {
+            "en": "Importance of Economic Activities",
+            "bm": "Kepentingan Kegiatan Ekonomi di Malaysia"
           }
         }
       ]
     },
     {
-      "number": 6,
+      "number": 8,
       "title": {
-        "en": "Resources and Environmental Issues",
-        "bm": "Sumber dan Isu Alam Sekitar"
+        "en": "Natural Vegetation and Wildlife of the World",
+        "bm": "Tumbuh-tumbuhan Semula Jadi dan Hidupan Liar di Dunia"
       },
       "theme": {
-        "en": "Environmental Geography",
-        "bm": "Geografi Alam Sekitar"
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
       },
       "subtopics": [
         {
-          "code": "6.1",
+          "code": "8.1",
           "title": {
-            "en": "Natural Resources",
-            "bm": "Sumber Alam"
+            "en": "Natural Vegetation and Wildlife of the World",
+            "bm": "Tumbuh-tumbuhan Semula Jadi dan Hidupan Liar di Dunia"
           }
         },
         {
-          "code": "6.2",
+          "code": "8.2",
           "title": {
-            "en": "Environmental Issues",
-            "bm": "Isu Alam Sekitar"
+            "en": "Importance of the World's Natural Vegetation and Wildlife",
+            "bm": "Kepentingan Tumbuh-tumbuhan Semula Jadi dan Hidupan Liar di Dunia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Major Natural Resources and Economic Cooperation in the World",
+        "bm": "Sumber Semula Jadi Utama dan Kerjasama Ekonomi di Dunia"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Distribution of Major Natural Resources in the World",
+            "bm": "Taburan Sumber Semula Jadi Utama di Dunia"
           }
         },
         {
-          "code": "6.3",
+          "code": "9.2",
           "title": {
-            "en": "Sustainable Development",
-            "bm": "Pembangunan Lestari"
+            "en": "Natural Resource Crises in the World",
+            "bm": "Krisis Sumber Semula Jadi di Dunia"
+          }
+        },
+        {
+          "code": "9.3",
+          "title": {
+            "en": "Examples of International Economic Cooperation",
+            "bm": "Contoh Kerjasama Ekonomi Antarabangsa"
+          }
+        },
+        {
+          "code": "9.4",
+          "title": {
+            "en": "Importance of International Economic Cooperation",
+            "bm": "Kepentingan Kerjasama Ekonomi Antarabangsa"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Forest Resources",
+        "bm": "Sumber Hutan"
+      },
+      "theme": {
+        "en": "Environment",
+        "bm": "Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Forest Resources",
+            "bm": "Sumber Hutan"
+          }
+        },
+        {
+          "code": "10.2",
+          "title": {
+            "en": "Importance of Managing Forest Resources in Malaysia",
+            "bm": "Kepentingan Pengurusan Sumber Hutan di Malaysia"
+          }
+        },
+        {
+          "code": "10.3",
+          "title": {
+            "en": "Efforts to Preserve and Conserve Forest Resources",
+            "bm": "Usaha Pemeliharaan dan Pemuliharaan Sumber Hutan di Malaysia"
+          }
+        },
+        {
+          "code": "10.4",
+          "title": {
+            "en": "Role of Agencies in Forest Management",
+            "bm": "Peranan Agensi dalam Pengurusan Hutan di Malaysia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": {
+        "en": "Recycling",
+        "bm": "Kitar Semula"
+      },
+      "theme": {
+        "en": "Environment",
+        "bm": "Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "11.1",
+          "title": {
+            "en": "Elements of Recycling",
+            "bm": "Elemen Kitar Semula"
+          }
+        },
+        {
+          "code": "11.2",
+          "title": {
+            "en": "Importance of Recycling",
+            "bm": "Kepentingan Amalan Kitar Semula"
+          }
+        },
+        {
+          "code": "11.3",
+          "title": {
+            "en": "Recycling Practices in Malaysia",
+            "bm": "Amalan Kitar Semula di Malaysia"
+          }
+        },
+        {
+          "code": "11.4",
+          "title": {
+            "en": "Recycling Practices in Other Countries",
+            "bm": "Amalan Kitar Semula di Negara-negara Lain"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": {
+        "en": "Fieldwork Guide",
+        "bm": "Panduan Kerja Lapangan"
+      },
+      "theme": {
+        "en": "Geographical Skills",
+        "bm": "Kemahiran Geografi"
+      },
+      "subtopics": [
+        {
+          "code": "12.1",
+          "title": {
+            "en": "Choosing a Fieldwork Issue or Title",
+            "bm": "Memilih Isu atau Tajuk Kerja Lapangan"
+          }
+        },
+        {
+          "code": "12.2",
+          "title": {
+            "en": "Setting Fieldwork Objectives",
+            "bm": "Menentukan Objektif Kerja Lapangan"
+          }
+        },
+        {
+          "code": "12.3",
+          "title": {
+            "en": "Choosing Fieldwork Methods",
+            "bm": "Menentukan Kaedah Kerja Lapangan"
+          }
+        },
+        {
+          "code": "12.4",
+          "title": {
+            "en": "Recording, Collecting and Analysing Data",
+            "bm": "Merekod, Mengumpul dan Menganalisis Data atau Maklumat"
+          }
+        },
+        {
+          "code": "12.5",
+          "title": {
+            "en": "Concluding and Reporting",
+            "bm": "Merumus dan Membuat Pelaporan tentang Kerja Lapangan"
           }
         }
       ]
