@@ -5,180 +5,180 @@
       "id": "f3ask-01-f01",
       "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Decomposition",
-        "bm": "Leraian"
+        "en": "Program development phases",
+        "bm": "Fasa pembangunan atur cara"
       },
       "back": {
-        "en": "Break into smaller parts",
-        "bm": "Pecahkan kepada bahagian kecil"
+        "en": "Analysis → design → coding → testing & debugging → documentation",
+        "bm": "Analisis → reka bentuk → pengekodan → pengujian & penyahpepijatan → dokumentasi"
       }
     },
     {
       "id": "f3ask-01-f02",
       "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Pattern recognition",
-        "bm": "Pengecaman corak"
+        "en": "Problem analysis",
+        "bm": "Analisis masalah"
       },
       "back": {
-        "en": "Spot similarities",
-        "bm": "Kenal pasti persamaan"
+        "en": "Identify input, process, output",
+        "bm": "Kenal pasti input, proses, output"
       }
     },
     {
       "id": "f3ask-01-f03",
       "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Abstraction",
-        "bm": "Peniskalaan"
+        "en": "Program design",
+        "bm": "Reka bentuk atur cara"
       },
       "back": {
-        "en": "Remove unnecessary detail",
-        "bm": "Buang butiran yang tidak perlu"
+        "en": "Pseudocode or flowchart",
+        "bm": "Pseudokod atau carta alir"
       }
     },
     {
       "id": "f3ask-01-f04",
       "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Algorithm",
-        "bm": "Algoritma"
+        "en": "Coding",
+        "bm": "Pengekodan"
       },
       "back": {
-        "en": "Precise ordered steps",
-        "bm": "Langkah tepat dan tersusun"
+        "en": "Write the program in a language",
+        "bm": "Tulis atur cara dalam bahasa pengaturcaraan"
       }
     },
     {
       "id": "f3ask-01-f05",
       "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Algorithm example",
-        "bm": "Contoh algoritma"
+        "en": "Testing and debugging",
+        "bm": "Pengujian dan penyahpepijatan"
       },
       "back": {
-        "en": "A recipe, directions to school",
-        "bm": "Resipi, arah ke sekolah"
+        "en": "Run with test data; fix errors",
+        "bm": "Larikan dengan data ujian; baiki ralat"
       }
     },
     {
       "id": "f3ask-01-f06",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Oval",
-        "bm": "Bujur"
+        "en": "Documentation",
+        "bm": "Dokumentasi"
       },
       "back": {
-        "en": "Start / End",
-        "bm": "Mula / Tamat"
+        "en": "Problem, design, code, tests, user guide",
+        "bm": "Masalah, reka bentuk, kod, ujian, panduan pengguna"
       }
     },
     {
       "id": "f3ask-01-f07",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Parallelogram",
-        "bm": "Segi empat selari"
+        "en": "Decomposition",
+        "bm": "Leraian"
       },
       "back": {
-        "en": "Input / Output",
-        "bm": "Input / Output"
+        "en": "Break the problem into parts",
+        "bm": "Pecahkan masalah kepada bahagian"
       }
     },
     {
       "id": "f3ask-01-f08",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Rectangle",
-        "bm": "Segi empat tepat"
+        "en": "Pattern recognition",
+        "bm": "Pengecaman corak"
       },
       "back": {
-        "en": "Process",
-        "bm": "Proses"
+        "en": "Spot similarities to reuse",
+        "bm": "Kenal pasti persamaan untuk diguna semula"
       }
     },
     {
       "id": "f3ask-01-f09",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Diamond",
-        "bm": "Rombus"
+        "en": "Abstraction",
+        "bm": "Peniskalaan"
       },
       "back": {
-        "en": "Decision (Yes/No)",
-        "bm": "Keputusan (Ya/Tidak)"
+        "en": "Keep only important details",
+        "bm": "Kekalkan butiran penting sahaja"
       }
     },
     {
       "id": "f3ask-01-f10",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Pseudocode",
-        "bm": "Pseudokod"
+        "en": "Algorithm",
+        "bm": "Algoritma"
       },
       "back": {
-        "en": "Plain-language plan of an algorithm",
-        "bm": "Rancangan algoritma dalam bahasa mudah"
+        "en": "Ordered steps of a solution",
+        "bm": "Langkah penyelesaian yang tersusun"
       }
     },
     {
       "id": "f3ask-01-f11",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Sequence",
-        "bm": "Urutan"
+        "en": "Syntax error",
+        "bm": "Ralat sintaks"
       },
       "back": {
-        "en": "Steps in order",
-        "bm": "Langkah mengikut turutan"
+        "en": "Breaks language rules — will not run",
+        "bm": "Melanggar peraturan bahasa — tidak boleh berjalan"
       }
     },
     {
       "id": "f3ask-01-f12",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Selection",
-        "bm": "Pilihan"
+        "en": "Logic error",
+        "bm": "Ralat logik"
       },
       "back": {
-        "en": "IF…THEN…ELSE",
-        "bm": "IF…THEN…ELSE"
+        "en": "Runs but wrong result",
+        "bm": "Berjalan tetapi hasil salah"
       }
     },
     {
       "id": "f3ask-01-f13",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Repetition",
-        "bm": "Pengulangan"
+        "en": "Runtime error",
+        "bm": "Ralat masa larian"
       },
       "back": {
-        "en": "FOR (known count), WHILE (until condition)",
-        "bm": "FOR (bilangan diketahui), WHILE (sehingga syarat)"
+        "en": "Stops while running, e.g. ÷ 0",
+        "bm": "Berhenti semasa berjalan, cth. ÷ 0"
       }
     },
     {
       "id": "f3ask-01-f14",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "FOR i = 1 TO 5",
-        "bm": "FOR i = 1 TO 5"
+        "en": "Test data",
+        "bm": "Data ujian"
       },
       "back": {
-        "en": "Runs 5 times",
-        "bm": "Berulang 5 kali"
+        "en": "Normal, boundary, invalid values",
+        "bm": "Nilai biasa, sempadan, tidak sah"
       }
     },
     {
       "id": "f3ask-01-f15",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "front": {
-        "en": "Trace table",
-        "bm": "Jadual surih"
+        "en": "Mini project",
+        "bm": "Projek mini"
       },
       "back": {
-        "en": "Track variable values step by step",
-        "bm": "Jejak nilai pemboleh ubah langkah demi langkah"
+        "en": "Group program using all five phases",
+        "bm": "Atur cara berkumpulan menggunakan kelima-lima fasa"
       }
     }
   ]

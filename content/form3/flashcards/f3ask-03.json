@@ -5,173 +5,161 @@
       "id": "f3ask-03-f01",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Bit / byte",
-        "bm": "Bit / bait"
+        "en": "Linear search",
+        "bm": "Carian linear"
       },
       "back": {
-        "en": "0 or 1 / 8 bits",
-        "bm": "0 atau 1 / 8 bit"
+        "en": "Check one by one; any list",
+        "bm": "Semak satu demi satu; mana-mana senarai"
       }
     },
     {
       "id": "f3ask-03-f02",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Binary place values",
-        "bm": "Nilai tempat perduaan"
+        "en": "Binary search",
+        "bm": "Carian binari"
       },
       "back": {
-        "en": "…16, 8, 4, 2, 1",
-        "bm": "…16, 8, 4, 2, 1"
+        "en": "Compare middle; discard half; sorted list only",
+        "bm": "Banding item tengah; buang separuh; senarai tersusun sahaja"
       }
     },
     {
       "id": "f3ask-03-f03",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "1011₂",
-        "bm": "1011₂"
+        "en": "Bubble sort",
+        "bm": "Isihan buih"
       },
       "back": {
-        "en": "11",
-        "bm": "11"
+        "en": "Swap out-of-order neighbours; repeat passes",
+        "bm": "Tukar jiran yang tidak tersusun; ulang laluan"
       }
     },
     {
       "id": "f3ask-03-f04",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "25",
-        "bm": "25"
+        "en": "Bucket sort",
+        "bm": "Isihan baldi"
       },
       "back": {
-        "en": "11001₂",
-        "bm": "11001₂"
+        "en": "Buckets by range → sort each → join",
+        "bm": "Baldi mengikut julat → isih setiap satu → cantum"
       }
     },
     {
       "id": "f3ask-03-f05",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Largest 8-bit value",
-        "bm": "Nilai 8 bit terbesar"
+        "en": "Pass",
+        "bm": "Laluan"
       },
       "back": {
-        "en": "255",
-        "bm": "255"
+        "en": "One run through the list in bubble sort",
+        "bm": "Satu pusingan senarai dalam isihan buih"
       }
     },
     {
       "id": "f3ask-03-f06",
       "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Data units",
-        "bm": "Unit data"
+        "en": "After one bubble pass",
+        "bm": "Selepas satu laluan buih"
       },
       "back": {
-        "en": "byte < KB < MB < GB < TB",
-        "bm": "bait < KB < MB < GB < TB"
+        "en": "Largest item reaches the end",
+        "bm": "Item terbesar sampai ke hujung"
       }
     },
     {
       "id": "f3ask-03-f07",
-      "subtopicId": "f3ask-03-02",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "First index",
-        "bm": "Indeks pertama"
+        "en": "Binary search steps (15 items)",
+        "bm": "Langkah carian binari (15 item)"
       },
       "back": {
-        "en": "0",
-        "bm": "0"
+        "en": "At most 4 comparisons",
+        "bm": "Paling banyak 4 perbandingan"
       }
     },
     {
       "id": "f3ask-03-f08",
-      "subtopicId": "f3ask-03-02",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Last item",
-        "bm": "Item terakhir"
+        "en": "Not found",
+        "bm": "Tidak dijumpai"
       },
       "back": {
-        "en": "list[-1]",
-        "bm": "list[-1]"
+        "en": "Output after checking every item",
+        "bm": "Output selepas semua item disemak"
       }
     },
     {
       "id": "f3ask-03-f09",
-      "subtopicId": "f3ask-03-02",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "len()",
-        "bm": "len()"
+        "en": "Flowchart decision",
+        "bm": "Keputusan carta alir"
       },
       "back": {
-        "en": "Number of items or characters",
-        "bm": "Bilangan item atau aksara"
+        "en": "Diamond: Is item = target?",
+        "bm": "Rombus: Adakah item = sasaran?"
       }
     },
     {
       "id": "f3ask-03-f10",
-      "subtopicId": "f3ask-03-02",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": ".append(x)",
-        "bm": ".append(x)"
+        "en": "Pseudocode",
+        "bm": "Pseudokod"
       },
       "back": {
-        "en": "Add x to the end",
-        "bm": "Tambah x di hujung"
+        "en": "Plain-language algorithm steps",
+        "bm": "Langkah algoritma dalam bahasa mudah"
       }
     },
     {
       "id": "f3ask-03-f11",
-      "subtopicId": "f3ask-03-02",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Slicing",
-        "bm": "Hirisan"
+        "en": "Common error",
+        "bm": "Ralat lazim"
       },
       "back": {
-        "en": "\"Python\"[1:4] = \"yth\"",
-        "bm": "\"Python\"[1:4] = \"yth\""
+        "en": "Loop stops too early (n − 1 instead of n)",
+        "bm": "Gelung berhenti terlalu awal (n − 1 bukan n)"
       }
     },
     {
       "id": "f3ask-03-f12",
-      "subtopicId": "f3ask-03-03",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Linear search",
-        "bm": "Carian linear"
+        "en": "Pattern recognition",
+        "bm": "Pengecaman corak"
       },
       "back": {
-        "en": "One by one; any list",
-        "bm": "Satu demi satu; mana-mana senarai"
+        "en": "Compare algorithms by shared steps",
+        "bm": "Bandingkan algoritma melalui langkah sepunya"
       }
     },
     {
       "id": "f3ask-03-f13",
-      "subtopicId": "f3ask-03-03",
+      "subtopicId": "f3ask-03-01",
       "front": {
-        "en": "Binary search",
-        "bm": "Carian perduaan"
+        "en": "Combining techniques",
+        "bm": "Gabungan teknik"
       },
       "back": {
-        "en": "Halve each step; list must be sorted",
-        "bm": "Bahagi dua setiap langkah; senarai mesti terisih"
+        "en": "Sort once, then binary search many times",
+        "bm": "Isih sekali, kemudian carian binari berkali-kali"
       }
     },
     {
       "id": "f3ask-03-f14",
-      "subtopicId": "f3ask-03-03",
-      "front": {
-        "en": "Bubble sort",
-        "bm": "Isihan buih"
-      },
-      "back": {
-        "en": "Swap neighbours; largest moves to the end each pass",
-        "bm": "Tukar jiran; terbesar ke hujung setiap laluan"
-      }
-    },
-    {
-      "id": "f3ask-03-f15",
-      "subtopicId": "f3ask-03-03",
+      "subtopicId": "f3ask-03-01",
       "front": {
         "en": "Ascending / descending",
         "bm": "Menaik / menurun"
@@ -179,6 +167,18 @@
       "back": {
         "en": "Small → large / large → small",
         "bm": "Kecil → besar / besar → kecil"
+      }
+    },
+    {
+      "id": "f3ask-03-f15",
+      "subtopicId": "f3ask-03-01",
+      "front": {
+        "en": "Best for unsorted data",
+        "bm": "Terbaik untuk data tidak tersusun"
+      },
+      "back": {
+        "en": "Linear search",
+        "bm": "Carian linear"
       }
     }
   ]

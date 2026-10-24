@@ -5,180 +5,180 @@
       "id": "f3rbt-01-f01",
       "subtopicId": "f3rbt-01-01",
       "front": {
-        "en": "Design thinking stages",
-        "bm": "Peringkat pemikiran reka bentuk"
+        "en": "Mechatronics",
+        "bm": "Mekatronik"
       },
       "back": {
-        "en": "Empathise, Define, Ideate, Prototype, Test",
-        "bm": "Empati, Definisi, Idea, Prototaip, Uji"
+        "en": "Mechanical + electronic + computer/control",
+        "bm": "Mekanikal + elektronik + komputer/kawalan"
       }
     },
     {
       "id": "f3rbt-01-f02",
       "subtopicId": "f3rbt-01-01",
       "front": {
-        "en": "Empathise",
-        "bm": "Empati"
+        "en": "Mechanical element",
+        "bm": "Elemen mekanikal"
       },
       "back": {
-        "en": "Understand user needs (interview, observe)",
-        "bm": "Fahami keperluan pengguna (temu bual, pemerhatian)"
+        "en": "Gears, levers, pulleys, structure",
+        "bm": "Gear, tuil, takal, struktur"
       }
     },
     {
       "id": "f3rbt-01-f03",
       "subtopicId": "f3rbt-01-01",
       "front": {
-        "en": "Define",
-        "bm": "Definisi"
+        "en": "Electronic element",
+        "bm": "Elemen elektronik"
       },
       "back": {
-        "en": "Clear problem statement",
-        "bm": "Pernyataan masalah yang jelas"
+        "en": "Circuits, sensors, power supply",
+        "bm": "Litar, penderia, bekalan kuasa"
       }
     },
     {
       "id": "f3rbt-01-f04",
       "subtopicId": "f3rbt-01-01",
       "front": {
-        "en": "Ideate",
-        "bm": "Idea"
+        "en": "Control element",
+        "bm": "Elemen kawalan"
       },
       "back": {
-        "en": "Brainstorm and sketch many ideas",
-        "bm": "Sumbang saran dan lakar banyak idea"
+        "en": "Programmed microcontroller (e.g. Arduino)",
+        "bm": "Mikropengawal yang diprogram (cth. Arduino)"
       }
     },
     {
       "id": "f3rbt-01-f05",
       "subtopicId": "f3rbt-01-01",
       "front": {
-        "en": "Prototype",
-        "bm": "Prototaip"
+        "en": "Examples",
+        "bm": "Contoh"
       },
       "back": {
-        "en": "Simple model to test (cardboard, clay)",
-        "bm": "Model ringkas untuk diuji (kadbod, tanah liat)"
+        "en": "Robot vacuum, automatic door, smart dustbin",
+        "bm": "Vakum robot, pintu automatik, tong sampah pintar"
       }
     },
     {
       "id": "f3rbt-01-f06",
-      "subtopicId": "f3rbt-01-01",
+      "subtopicId": "f3rbt-01-02",
       "front": {
-        "en": "Test",
-        "bm": "Uji"
+        "en": "Block diagram",
+        "bm": "Gambar rajah blok"
       },
       "back": {
-        "en": "Try with users and collect feedback",
-        "bm": "Cuba dengan pengguna dan kumpul maklum balas"
+        "en": "Input → process → output",
+        "bm": "Input → proses → output"
       }
     },
     {
       "id": "f3rbt-01-f07",
       "subtopicId": "f3rbt-01-02",
       "front": {
-        "en": "Design brief",
-        "bm": "Taklimat reka bentuk"
+        "en": "Sensors (input)",
+        "bm": "Penderia (input)"
       },
       "back": {
-        "en": "Problem + target user",
-        "bm": "Masalah + pengguna sasaran"
+        "en": "Ultrasonic, IR, LDR, temperature, touch",
+        "bm": "Ultrasonik, IR, LDR, suhu, sentuhan"
       }
     },
     {
       "id": "f3rbt-01-f08",
       "subtopicId": "f3rbt-01-02",
       "front": {
-        "en": "Specification",
-        "bm": "Spesifikasi"
+        "en": "Actuators (output)",
+        "bm": "Penggerak (output)"
       },
       "back": {
-        "en": "Measurable requirements: size, cost, material, safety",
-        "bm": "Keperluan boleh diukur: saiz, kos, bahan, keselamatan"
+        "en": "DC motor, servo, solenoid",
+        "bm": "Motor DC, servo, solenoid"
       }
     },
     {
       "id": "f3rbt-01-f09",
       "subtopicId": "f3rbt-01-02",
       "front": {
-        "en": "Good specification",
-        "bm": "Spesifikasi yang baik"
+        "en": "Other outputs",
+        "bm": "Output lain"
       },
       "back": {
-        "en": "Can be tested: \"holds 10 pencils\"",
-        "bm": "Boleh diuji: \"muat 10 batang pensel\""
+        "en": "LED, buzzer, display",
+        "bm": "LED, pembaz, paparan"
       }
     },
     {
       "id": "f3rbt-01-f10",
       "subtopicId": "f3rbt-01-02",
       "front": {
-        "en": "Folio",
-        "bm": "Folio"
+        "en": "Feedback",
+        "bm": "Suap balik"
       },
       "back": {
-        "en": "Record of research, sketches, tests",
-        "bm": "Rekod kajian, lakaran, ujian"
+        "en": "Output information used to adjust the system",
+        "bm": "Maklumat output digunakan untuk melaras sistem"
       }
     },
     {
       "id": "f3rbt-01-f11",
       "subtopicId": "f3rbt-01-03",
       "front": {
-        "en": "Evaluation",
-        "bm": "Penilaian"
+        "en": "Steps to improve",
+        "bm": "Langkah menambah baik"
       },
       "back": {
-        "en": "Check the product against each specification",
-        "bm": "Semak produk berdasarkan setiap spesifikasi"
+        "en": "Block diagram → sketch → modify → evaluate",
+        "bm": "Gambar rajah blok → lakaran → ubah suai → nilai"
       }
     },
     {
       "id": "f3rbt-01-f12",
       "subtopicId": "f3rbt-01-03",
       "front": {
-        "en": "Feedback",
-        "bm": "Maklum balas"
+        "en": "Making a product mechatronic",
+        "bm": "Menjadikan produk mekatronik"
       },
       "back": {
-        "en": "Users' comments and suggestions",
-        "bm": "Komen dan cadangan pengguna"
+        "en": "Add sensing + control + motion",
+        "bm": "Tambah penderiaan + kawalan + pergerakan"
       }
     },
     {
       "id": "f3rbt-01-f13",
       "subtopicId": "f3rbt-01-03",
       "front": {
-        "en": "Iteration",
-        "bm": "Iterasi"
+        "en": "Evaluation",
+        "bm": "Penilaian"
       },
       "back": {
-        "en": "Repeat the cycle to improve",
-        "bm": "Ulang kitaran untuk menambah baik"
+        "en": "Test functionality and record results",
+        "bm": "Uji kefungsian dan rekod keputusan"
       }
     },
     {
       "id": "f3rbt-01-f14",
       "subtopicId": "f3rbt-01-03",
       "front": {
-        "en": "Reliable testing",
-        "bm": "Pengujian boleh dipercayai"
+        "en": "Smart dustbin",
+        "bm": "Tong sampah pintar"
       },
       "back": {
-        "en": "Real users, real conditions, recorded results",
-        "bm": "Pengguna sebenar, keadaan sebenar, keputusan direkod"
+        "en": "Ultrasonic → microcontroller → servo",
+        "bm": "Ultrasonik → mikropengawal → servo"
       }
     },
     {
       "id": "f3rbt-01-f15",
       "subtopicId": "f3rbt-01-03",
       "front": {
-        "en": "Why prototype?",
-        "bm": "Mengapa prototaip?"
+        "en": "Hand dryer",
+        "bm": "Pengering tangan"
       },
       "back": {
-        "en": "Find problems early and cheaply",
-        "bm": "Kesan masalah awal dengan kos rendah"
+        "en": "IR sensor → controller → heater + fan",
+        "bm": "Penderia IR → pengawal → pemanas + kipas"
       }
     }
   ]

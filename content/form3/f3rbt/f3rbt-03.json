@@ -3,132 +3,66 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Chengal is famous for traditional Malay houses and boats because it resists rot. Choosing the right material is half of good design.",
-      "bm": "Cengal terkenal dalam pembinaan rumah tradisional Melayu dan perahu kerana tahan reput. Memilih bahan yang tepat ialah separuh daripada reka bentuk yang baik."
+      "en": "Two identical products sit on a shelf. The one with the better logo, packaging and advert sells more. Design is a powerful business tool.",
+      "bm": "Dua produk yang sama berada di rak. Produk dengan logo, pembungkusan dan iklan yang lebih baik lebih laris. Reka bentuk ialah alat perniagaan yang berkuasa."
     },
     "bigIdeas": [
       {
-        "en": "Hardwoods come from broad-leaved trees; softwoods come from conifers. Manufactured boards (plywood, MDF) are made from wood layers or fibres.",
-        "bm": "Kayu keras daripada pokok berdaun lebar; kayu lembut daripada pokok konifer. Papan buatan (papan lapis, MDF) dibuat daripada lapisan atau gentian kayu."
+        "en": "Marketing is the process of identifying customer needs and promoting and selling products to meet them.",
+        "bm": "Pemasaran ialah proses mengenal pasti keperluan pelanggan serta mempromosi dan menjual produk untuk memenuhinya."
       },
       {
-        "en": "Ferrous metals contain iron and can rust; non-ferrous metals do not contain iron.",
-        "bm": "Logam ferus mengandungi besi dan boleh berkarat; logam bukan ferus tidak mengandungi besi."
+        "en": "Design attracts attention, builds brand identity and communicates a product's benefits.",
+        "bm": "Reka bentuk menarik perhatian, membina identiti jenama dan menyampaikan kelebihan produk."
       },
       {
-        "en": "Thermoplastics can be reheated and reshaped; thermosetting plastics cannot.",
-        "bm": "Termoplastik boleh dipanaskan dan dibentuk semula; plastik termoset tidak boleh."
+        "en": "Advertising methods include posters, brochures, banners, social media, videos, websites and packaging; the right one depends on audience and cost.",
+        "bm": "Kaedah pengiklanan termasuk poster, risalah, kain rentang, media sosial, video, laman web dan pembungkusan; pilihannya bergantung pada khalayak dan kos."
       }
     ],
     "infographic": {
-      "kind": "compare",
+      "kind": "process",
       "data": {
-        "headers": [
+        "steps": [
           {
-            "en": "Examples",
-            "bm": "Contoh"
+            "title": {
+              "en": "A — Attention",
+              "bm": "A — Perhatian"
+            },
+            "detail": {
+              "en": "Bold image, colour or headline.",
+              "bm": "Imej, warna atau tajuk yang menonjol."
+            }
           },
           {
-            "en": "Key property",
-            "bm": "Sifat utama"
-          }
-        ],
-        "rows": [
-          {
-            "label": {
-              "en": "Hardwood",
-              "bm": "Kayu keras"
+            "title": {
+              "en": "I — Interest",
+              "bm": "I — Minat"
             },
-            "cells": [
-              {
-                "en": "chengal, meranti, teak (jati)",
-                "bm": "cengal, meranti, jati"
-              },
-              {
-                "en": "Strong, durable",
-                "bm": "Kuat, tahan lama"
-              }
-            ]
+            "detail": {
+              "en": "Show useful features.",
+              "bm": "Tunjukkan ciri yang berguna."
+            }
           },
           {
-            "label": {
-              "en": "Softwood",
-              "bm": "Kayu lembut"
+            "title": {
+              "en": "D — Desire",
+              "bm": "D — Keinginan"
             },
-            "cells": [
-              {
-                "en": "pine",
-                "bm": "pain"
-              },
-              {
-                "en": "Light, easy to work",
-                "bm": "Ringan, mudah dikerjakan"
-              }
-            ]
+            "detail": {
+              "en": "Show how it benefits the customer.",
+              "bm": "Tunjukkan faedahnya kepada pelanggan."
+            }
           },
           {
-            "label": {
-              "en": "Ferrous metal",
-              "bm": "Logam ferus"
+            "title": {
+              "en": "A — Action",
+              "bm": "A — Tindakan"
             },
-            "cells": [
-              {
-                "en": "mild steel, cast iron",
-                "bm": "keluli lembut, besi tuang"
-              },
-              {
-                "en": "Contains iron; can rust",
-                "bm": "Mengandungi besi; boleh berkarat"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "Non-ferrous metal",
-              "bm": "Logam bukan ferus"
-            },
-            "cells": [
-              {
-                "en": "aluminium, copper, brass",
-                "bm": "aluminium, kuprum, loyang"
-              },
-              {
-                "en": "No iron; resists rust",
-                "bm": "Tiada besi; tahan karat"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "Thermoplastic",
-              "bm": "Termoplastik"
-            },
-            "cells": [
-              {
-                "en": "acrylic, PVC",
-                "bm": "akrilik, PVC"
-              },
-              {
-                "en": "Can be reshaped with heat",
-                "bm": "Boleh dibentuk semula dengan haba"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "Thermoset",
-              "bm": "Termoset"
-            },
-            "cells": [
-              {
-                "en": "melamine, epoxy resin",
-                "bm": "melamin, resin epoksi"
-              },
-              {
-                "en": "Sets permanently",
-                "bm": "Mengeras secara kekal"
-              }
-            ]
+            "detail": {
+              "en": "Tell them how to buy (call, scan, visit).",
+              "bm": "Beritahu cara membeli (hubungi, imbas, lawati)."
+            }
           }
         ]
       }
@@ -136,84 +70,78 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Hardwood",
-          "bm": "Kayu keras"
+          "en": "Marketing",
+          "bm": "Pemasaran"
         },
         "definition": {
-          "en": "Wood from broad-leaved (flowering) trees.",
-          "bm": "Kayu daripada pokok berdaun lebar (berbunga)."
+          "en": "Identifying customer needs and promoting and selling products.",
+          "bm": "Mengenal pasti keperluan pelanggan serta mempromosi dan menjual produk."
         }
       },
       {
         "term": {
-          "en": "Softwood",
-          "bm": "Kayu lembut"
+          "en": "Brand",
+          "bm": "Jenama"
         },
         "definition": {
-          "en": "Wood from conifers (cone-bearing trees).",
-          "bm": "Kayu daripada pokok konifer (berkon)."
+          "en": "The name, logo and image that identify a product or company.",
+          "bm": "Nama, logo dan imej yang mengenal pasti produk atau syarikat."
         }
       },
       {
         "term": {
-          "en": "Manufactured board",
-          "bm": "Papan buatan"
+          "en": "Target audience",
+          "bm": "Khalayak sasaran"
         },
         "definition": {
-          "en": "Plywood, MDF, chipboard — made from wood layers, fibres or chips.",
-          "bm": "Papan lapis, MDF, papan serpai — dibuat daripada lapisan, gentian atau serpihan kayu."
+          "en": "The group of people an advert is aimed at.",
+          "bm": "Kumpulan orang yang menjadi sasaran iklan."
         }
       },
       {
         "term": {
-          "en": "Ferrous",
-          "bm": "Ferus"
+          "en": "AIDA",
+          "bm": "AIDA"
         },
         "definition": {
-          "en": "Contains iron.",
-          "bm": "Mengandungi besi."
+          "en": "Attention, Interest, Desire, Action — a model for effective adverts.",
+          "bm": "Perhatian, Minat, Keinginan, Tindakan — model iklan berkesan."
         }
       },
       {
         "term": {
-          "en": "Alloy",
-          "bm": "Aloi"
+          "en": "4P",
+          "bm": "4P"
         },
         "definition": {
-          "en": "A mixture of metals, e.g. brass = copper + zinc.",
-          "bm": "Campuran logam, cth. loyang = kuprum + zink."
-        }
-      },
-      {
-        "term": {
-          "en": "PPE",
-          "bm": "PPE"
-        },
-        "definition": {
-          "en": "Personal protective equipment: goggles, apron, gloves.",
-          "bm": "Peralatan pelindung diri: gogal, apron, sarung tangan."
+          "en": "Product, Price, Place, Promotion — the marketing mix.",
+          "bm": "Produk, Harga, Tempat, Promosi — campuran pemasaran."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Choose a material for an outdoor garden bench and give a reason.",
-        "bm": "Pilih bahan untuk bangku taman luar dan beri sebab."
+        "en": "Choose an advertising method for a student-made phone stand sold at the school carnival.",
+        "bm": "Pilih kaedah pengiklanan untuk pemegang telefon buatan murid yang dijual di karnival sekolah."
       },
       "steps": [
         {
-          "en": "It must survive rain and sun.",
-          "bm": "Ia mesti tahan hujan dan panas."
+          "en": "Audience: students, teachers and parents at school.",
+          "bm": "Khalayak: murid, guru dan ibu bapa di sekolah."
         },
         {
-          "en": "Chengal (hardwood) resists rot; aluminium resists rust.",
-          "bm": "Cengal (kayu keras) tahan reput; aluminium tahan karat."
+          "en": "Low budget, short period, local area.",
+          "bm": "Bajet rendah, tempoh singkat, kawasan setempat."
+        },
+        {
+          "en": "Posters around school + a short video on the school social media page.",
+          "bm": "Poster di sekitar sekolah + video pendek di laman media sosial sekolah."
         }
       ],
       "answer": {
-        "en": "Chengal, because it is strong and resists rot outdoors.",
-        "bm": "Cengal, kerana kuat dan tahan reput di luar."
+        "en": "Posters and social media — cheap, reaches the right audience, quick to produce.",
+        "bm": "Poster dan media sosial — murah, sampai kepada khalayak yang betul, cepat dihasilkan."
       }
     }
   },
@@ -223,30 +151,30 @@
       "subtopicId": "f3rbt-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Hardwoods come from…",
-        "bm": "Kayu keras berasal daripada…"
+        "en": "Marketing means…",
+        "bm": "Pemasaran bermaksud…"
       },
       "explanation": {
-        "en": "e.g. chengal, meranti, teak.",
-        "bm": "cth. cengal, meranti, jati."
+        "en": "Design supports every part of marketing.",
+        "bm": "Reka bentuk menyokong setiap bahagian pemasaran."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "broad-leaved trees",
-          "bm": "pokok berdaun lebar"
+          "en": "identifying customer needs and promoting and selling products",
+          "bm": "mengenal pasti keperluan pelanggan serta mempromosi dan menjual produk"
         },
         {
-          "en": "conifers",
-          "bm": "pokok konifer"
+          "en": "making products only",
+          "bm": "membuat produk sahaja"
         },
         {
-          "en": "plastic",
-          "bm": "plastik"
+          "en": "repairing machines",
+          "bm": "membaiki mesin"
         },
         {
-          "en": "metal ore",
-          "bm": "bijih logam"
+          "en": "testing circuits",
+          "bm": "menguji litar"
         }
       ],
       "answer": 0
@@ -256,30 +184,30 @@
       "subtopicId": "f3rbt-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which is a softwood?",
-        "bm": "Antara berikut, yang manakah kayu lembut?"
+        "en": "Which is a role of design in marketing?",
+        "bm": "Antara berikut, yang manakah peranan reka bentuk dalam pemasaran?"
       },
       "explanation": {
-        "en": "Pine is a conifer.",
-        "bm": "Pain ialah pokok konifer."
+        "en": "Good design makes products stand out.",
+        "bm": "Reka bentuk yang baik menjadikan produk menonjol."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Pine",
-          "bm": "Pain"
+          "en": "Attracting customers' attention",
+          "bm": "Menarik perhatian pelanggan"
         },
         {
-          "en": "Chengal",
-          "bm": "Cengal"
+          "en": "Reducing product quality",
+          "bm": "Mengurangkan kualiti produk"
         },
         {
-          "en": "Teak",
-          "bm": "Jati"
+          "en": "Hiding product information",
+          "bm": "Menyembunyikan maklumat produk"
         },
         {
-          "en": "Meranti",
-          "bm": "Meranti"
+          "en": "Making products heavier",
+          "bm": "Menjadikan produk lebih berat"
         }
       ],
       "answer": 0
@@ -289,30 +217,30 @@
       "subtopicId": "f3rbt-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Plywood is a…",
-        "bm": "Papan lapis ialah…"
+        "en": "The name, logo and image that identify a company are its…",
+        "bm": "Nama, logo dan imej yang mengenal pasti syarikat ialah…"
       },
       "explanation": {
-        "en": "Layers are glued with grains at right angles for strength.",
-        "bm": "Lapisan dilekatkan dengan ira bersilang untuk kekuatan."
+        "en": "A strong brand builds trust.",
+        "bm": "Jenama yang kukuh membina kepercayaan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "manufactured board made of thin wood layers glued together",
-          "bm": "papan buatan daripada lapisan kayu nipis yang dilekatkan"
+          "en": "brand",
+          "bm": "jenama"
         },
         {
-          "en": "natural hardwood",
-          "bm": "kayu keras semula jadi"
+          "en": "budget",
+          "bm": "bajet"
         },
         {
-          "en": "metal",
-          "bm": "logam"
+          "en": "schedule",
+          "bm": "jadual"
         },
         {
-          "en": "plastic",
-          "bm": "plastik"
+          "en": "circuit",
+          "bm": "litar"
         }
       ],
       "answer": 0
@@ -320,319 +248,32 @@
     {
       "id": "f3rbt-03-q04",
       "subtopicId": "f3rbt-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Ferrous metals contain…",
-        "bm": "Logam ferus mengandungi…"
-      },
-      "explanation": {
-        "en": "So most ferrous metals can rust.",
-        "bm": "Jadi kebanyakan logam ferus boleh berkarat."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "iron",
-          "bm": "besi"
-        },
-        {
-          "en": "copper",
-          "bm": "kuprum"
-        },
-        {
-          "en": "plastic",
-          "bm": "plastik"
-        },
-        {
-          "en": "wood",
-          "bm": "kayu"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q05",
-      "subtopicId": "f3rbt-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which is a non-ferrous metal?",
-        "bm": "Antara berikut, yang manakah logam bukan ferus?"
-      },
-      "explanation": {
-        "en": "Stainless steel contains iron, so it is ferrous.",
-        "bm": "Keluli tahan karat mengandungi besi, jadi ia ferus."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Aluminium",
-          "bm": "Aluminium"
-        },
-        {
-          "en": "Mild steel",
-          "bm": "Keluli lembut"
-        },
-        {
-          "en": "Cast iron",
-          "bm": "Besi tuang"
-        },
-        {
-          "en": "Stainless steel",
-          "bm": "Keluli tahan karat"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q06",
-      "subtopicId": "f3rbt-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "A plastic that can be reheated and reshaped many times is a…",
-        "bm": "Plastik yang boleh dipanaskan dan dibentuk semula berkali-kali ialah…"
-      },
-      "explanation": {
-        "en": "e.g. acrylic, PVC.",
-        "bm": "cth. akrilik, PVC."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "thermoplastic",
-          "bm": "termoplastik"
-        },
-        {
-          "en": "thermoset",
-          "bm": "termoset"
-        },
-        {
-          "en": "hardwood",
-          "bm": "kayu keras"
-        },
-        {
-          "en": "alloy",
-          "bm": "aloi"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q07",
-      "subtopicId": "f3rbt-03-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which tool checks that a corner is 90°?",
-        "bm": "Alatan manakah menyemak sudut 90°?"
-      },
-      "explanation": {
-        "en": "Also used to mark lines across wood.",
-        "bm": "Juga digunakan untuk menanda garisan merentas kayu."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Try square",
-          "bm": "Sesiku L"
-        },
-        {
-          "en": "Hacksaw",
-          "bm": "Gergaji besi"
-        },
-        {
-          "en": "File",
-          "bm": "Kikir"
-        },
-        {
-          "en": "G-clamp",
-          "bm": "Pengapit G"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q08",
-      "subtopicId": "f3rbt-03-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which saw is used to cut metal?",
-        "bm": "Gergaji manakah digunakan untuk memotong logam?"
-      },
-      "explanation": {
-        "en": "Tenon and coping saws are for wood (coping saws for curves).",
-        "bm": "Gergaji tenon dan koping untuk kayu (koping untuk lengkungan)."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Hacksaw",
-          "bm": "Gergaji besi"
-        },
-        {
-          "en": "Tenon saw",
-          "bm": "Gergaji tenon"
-        },
-        {
-          "en": "Coping saw",
-          "bm": "Gergaji koping"
-        },
-        {
-          "en": "Rip saw",
-          "bm": "Gergaji belah"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q09",
-      "subtopicId": "f3rbt-03-02",
-      "type": "match",
-      "prompt": {
-        "en": "Match each material with its group.",
-        "bm": "Padankan bahan dengan kumpulannya."
-      },
-      "explanation": {
-        "en": "Brass = copper + zinc.",
-        "bm": "Loyang = kuprum + zink."
-      },
-      "difficulty": 2,
-      "pairs": [
-        {
-          "left": {
-            "en": "Brass",
-            "bm": "Loyang"
-          },
-          "right": {
-            "en": "Non-ferrous alloy",
-            "bm": "Aloi bukan ferus"
-          }
-        },
-        {
-          "left": {
-            "en": "Mild steel",
-            "bm": "Keluli lembut"
-          },
-          "right": {
-            "en": "Ferrous metal",
-            "bm": "Logam ferus"
-          }
-        },
-        {
-          "left": {
-            "en": "Acrylic",
-            "bm": "Akrilik"
-          },
-          "right": {
-            "en": "Thermoplastic",
-            "bm": "Termoplastik"
-          }
-        },
-        {
-          "left": {
-            "en": "Melamine",
-            "bm": "Melamin"
-          },
-          "right": {
-            "en": "Thermoset",
-            "bm": "Termoset"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f3rbt-03-q10",
-      "subtopicId": "f3rbt-03-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why is MDF often used for flat-pack furniture?",
-        "bm": "Mengapakah MDF sering digunakan untuk perabot pasang siap?"
-      },
-      "explanation": {
-        "en": "MDF swells if it gets wet.",
-        "bm": "MDF mengembang jika basah."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "It is cheap, flat, smooth and stable",
-          "bm": "Ia murah, rata, licin dan stabil"
-        },
-        {
-          "en": "It is waterproof",
-          "bm": "Ia kalis air"
-        },
-        {
-          "en": "It is a metal",
-          "bm": "Ia logam"
-        },
-        {
-          "en": "It is the strongest hardwood",
-          "bm": "Ia kayu keras paling kuat"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q11",
-      "subtopicId": "f3rbt-03-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Balsa wood is very soft but is classified as a hardwood. Why?",
-        "bm": "Kayu balsa sangat lembut tetapi dikelaskan sebagai kayu keras. Mengapa?"
-      },
-      "explanation": {
-        "en": "Hardwood/softwood is a botanical grouping.",
-        "bm": "Kayu keras/lembut ialah pengelasan botani."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "The classification is by tree type (broad-leaved), not by hardness",
-          "bm": "Pengelasan berdasarkan jenis pokok (berdaun lebar), bukan kekerasan"
-        },
-        {
-          "en": "It is a mistake",
-          "bm": "Ia satu kesilapan"
-        },
-        {
-          "en": "It is heavy",
-          "bm": "Ia berat"
-        },
-        {
-          "en": "It comes from conifers",
-          "bm": "Ia daripada pokok konifer"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q12",
-      "subtopicId": "f3rbt-03-03",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL correct workshop safety rules.",
-        "bm": "Pilih SEMUA peraturan keselamatan bengkel yang betul."
+        "en": "Select ALL advertising design methods.",
+        "bm": "Pilih SEMUA kaedah reka bentuk pengiklanan."
       },
       "explanation": {
-        "en": "Never run in a workshop.",
-        "bm": "Jangan berlari di bengkel."
+        "en": "Banners, videos and websites are others.",
+        "bm": "Kain rentang, video dan laman web juga kaedah lain."
       },
-      "difficulty": 2,
+      "difficulty": 1,
       "options": [
         {
-          "en": "Wear safety goggles when cutting or drilling",
-          "bm": "Pakai gogal semasa memotong atau menggerudi"
+          "en": "Poster",
+          "bm": "Poster"
         },
         {
-          "en": "Tie back long hair",
-          "bm": "Ikat rambut panjang"
+          "en": "Social media post",
+          "bm": "Hantaran media sosial"
         },
         {
-          "en": "Clamp work securely",
-          "bm": "Kapit bahan kerja dengan kukuh"
+          "en": "Brochure",
+          "bm": "Risalah"
         },
         {
-          "en": "Run in the workshop",
-          "bm": "Berlari di bengkel"
+          "en": "Soldering",
+          "bm": "Pematerian"
         }
       ],
       "answer": [
@@ -642,34 +283,305 @@
       ]
     },
     {
-      "id": "f3rbt-03-q13",
+      "id": "f3rbt-03-q05",
+      "subtopicId": "f3rbt-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A folded printed sheet giving product details is a…",
+        "bm": "Helaian bercetak berlipat yang memberi butiran produk ialah…"
+      },
+      "explanation": {
+        "en": "Brochures can be handed out at events.",
+        "bm": "Risalah boleh diedarkan semasa acara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "brochure",
+          "bm": "risalah"
+        },
+        {
+          "en": "billboard",
+          "bm": "papan iklan"
+        },
+        {
+          "en": "banner",
+          "bm": "kain rentang"
+        },
+        {
+          "en": "video",
+          "bm": "video"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q06",
+      "subtopicId": "f3rbt-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "In the AIDA model, the first letter A stands for ______.",
+        "bm": "Dalam model AIDA, huruf A pertama bermaksud ______."
+      },
+      "explanation": {
+        "en": "Then Interest, Desire, Action.",
+        "bm": "Kemudian Minat, Keinginan, Tindakan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "attention",
+        "perhatian"
+      ]
+    },
+    {
+      "id": "f3rbt-03-q07",
       "subtopicId": "f3rbt-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Which tool is used to cut curves in thin wood?",
-        "bm": "Alatan manakah digunakan untuk memotong lengkungan pada kayu nipis?"
+        "en": "The group of people an advert is aimed at is the…",
+        "bm": "Kumpulan orang yang menjadi sasaran iklan ialah…"
       },
       "explanation": {
-        "en": "Its thin blade can turn.",
-        "bm": "Bilahnya yang nipis boleh berpusing."
+        "en": "Design must suit the audience.",
+        "bm": "Reka bentuk mesti sesuai dengan khalayak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "target audience",
+          "bm": "khalayak sasaran"
+        },
+        {
+          "en": "supplier",
+          "bm": "pembekal"
+        },
+        {
+          "en": "manufacturer",
+          "bm": "pengilang"
+        },
+        {
+          "en": "designer",
+          "bm": "pereka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q08",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An advert should end with a clear…",
+        "bm": "Iklan patut diakhiri dengan…"
+      },
+      "explanation": {
+        "en": "e.g. \"Scan the QR code to order\".",
+        "bm": "cth. \"Imbas kod QR untuk membuat tempahan\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "call to action (how to buy or contact)",
+          "bm": "seruan bertindak (cara membeli atau menghubungi)"
+        },
+        {
+          "en": "blank space only",
+          "bm": "ruang kosong sahaja"
+        },
+        {
+          "en": "circuit diagram",
+          "bm": "gambar rajah litar"
+        },
+        {
+          "en": "test report",
+          "bm": "laporan ujian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q09",
+      "subtopicId": "f3rbt-03-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match each advertising method with an advantage.",
+        "bm": "Padankan kaedah pengiklanan dengan kelebihannya."
+      },
+      "explanation": {
+        "en": "Each method has strengths.",
+        "bm": "Setiap kaedah ada kekuatan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Social media",
+            "bm": "Media sosial"
+          },
+          "right": {
+            "en": "Reaches many people cheaply and quickly",
+            "bm": "Sampai kepada ramai orang dengan murah dan cepat"
+          }
+        },
+        {
+          "left": {
+            "en": "Poster",
+            "bm": "Poster"
+          },
+          "right": {
+            "en": "Easy to display at a specific place",
+            "bm": "Mudah dipamerkan di tempat tertentu"
+          }
+        },
+        {
+          "left": {
+            "en": "Video",
+            "bm": "Video"
+          },
+          "right": {
+            "en": "Shows how the product works",
+            "bm": "Menunjukkan cara produk berfungsi"
+          }
+        },
+        {
+          "left": {
+            "en": "Packaging",
+            "bm": "Pembungkusan"
+          },
+          "right": {
+            "en": "Promotes the product at the point of sale",
+            "bm": "Mempromosi produk di tempat jualan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-03-q10",
+      "subtopicId": "f3rbt-03-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the AIDA model in order.",
+        "bm": "Susun model AIDA mengikut urutan."
+      },
+      "explanation": {
+        "en": "A good advert leads the viewer through these steps.",
+        "bm": "Iklan yang baik membawa penonton melalui langkah-langkah ini."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Attention",
+          "bm": "Perhatian"
+        },
+        {
+          "en": "Interest",
+          "bm": "Minat"
+        },
+        {
+          "en": "Desire",
+          "bm": "Keinginan"
+        },
+        {
+          "en": "Action",
+          "bm": "Tindakan"
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-03-q11",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The 4P of the marketing mix are…",
+        "bm": "4P dalam campuran pemasaran ialah…"
+      },
+      "explanation": {
+        "en": "Design supports especially Product and Promotion.",
+        "bm": "Reka bentuk terutamanya menyokong Produk dan Promosi."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Coping saw",
-          "bm": "Gergaji koping"
+          "en": "Product, Price, Place, Promotion",
+          "bm": "Produk, Harga, Tempat, Promosi"
         },
         {
-          "en": "Tenon saw",
-          "bm": "Gergaji tenon"
+          "en": "Plan, Paint, Print, Post",
+          "bm": "Rancang, Cat, Cetak, Hantar"
         },
         {
-          "en": "Hacksaw",
-          "bm": "Gergaji besi"
+          "en": "People, Power, Profit, Paper",
+          "bm": "Orang, Kuasa, Untung, Kertas"
         },
         {
-          "en": "Chisel",
-          "bm": "Pahat"
+          "en": "Poster, Pamphlet, Picture, Phone",
+          "bm": "Poster, Pamflet, Gambar, Telefon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q12",
+      "subtopicId": "f3rbt-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does attractive packaging help marketing?",
+        "bm": "Bagaimanakah pembungkusan yang menarik membantu pemasaran?"
+      },
+      "explanation": {
+        "en": "Many buying decisions are made in seconds.",
+        "bm": "Banyak keputusan membeli dibuat dalam beberapa saat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "It catches the buyer's eye on the shelf and shows the brand",
+          "bm": "Ia menarik perhatian pembeli di rak dan menonjolkan jenama"
+        },
+        {
+          "en": "It lowers quality",
+          "bm": "Ia mengurangkan kualiti"
+        },
+        {
+          "en": "It hides the product name",
+          "bm": "Ia menyembunyikan nama produk"
+        },
+        {
+          "en": "It has no effect",
+          "bm": "Ia tiada kesan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3rbt-03-q13",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "When choosing an advertising method, which factors matter MOST?",
+        "bm": "Semasa memilih kaedah pengiklanan, faktor manakah PALING penting?"
+      },
+      "explanation": {
+        "en": "Choose what reaches your audience within budget.",
+        "bm": "Pilih kaedah yang sampai kepada khalayak dalam bajet."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Target audience, cost and reach",
+          "bm": "Khalayak sasaran, kos dan capaian"
+        },
+        {
+          "en": "The designer's favourite colour",
+          "bm": "Warna kegemaran pereka"
+        },
+        {
+          "en": "The weather",
+          "bm": "Cuaca"
+        },
+        {
+          "en": "The number of pages",
+          "bm": "Bilangan halaman"
         }
       ],
       "answer": 0
@@ -677,116 +589,117 @@
     {
       "id": "f3rbt-03-q14",
       "subtopicId": "f3rbt-03-03",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "A G-clamp is used to…",
-        "bm": "Pengapit G digunakan untuk…"
+        "en": "A short sentence or phrase used to make a brand memorable is a ______.",
+        "bm": "Ayat atau frasa pendek yang menjadikan jenama mudah diingat ialah ______."
       },
       "explanation": {
-        "en": "Secure work prevents accidents.",
-        "bm": "Bahan yang dikapit mengelakkan kemalangan."
+        "en": "e.g. \"Fresh every day!\"",
+        "bm": "cth. \"Segar setiap hari!\""
+      },
+      "difficulty": 2,
+      "answer": [
+        "slogan",
+        "tagline",
+        "cogan kata"
+      ]
+    },
+    {
+      "id": "f3rbt-03-q15",
+      "subtopicId": "f3rbt-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Analysing an advertising method means…",
+        "bm": "Menganalisis kaedah pengiklanan bermaksud…"
+      },
+      "explanation": {
+        "en": "A table helps compare methods.",
+        "bm": "Jadual membantu membandingkan kaedah."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "hold work firmly while cutting or gluing",
-          "bm": "memegang bahan dengan kukuh semasa memotong atau melekat"
+          "en": "comparing its strengths, weaknesses, cost and suitability",
+          "bm": "membandingkan kekuatan, kelemahan, kos dan kesesuaiannya"
         },
         {
-          "en": "measure angles",
-          "bm": "mengukur sudut"
+          "en": "printing it immediately",
+          "bm": "mencetaknya dengan segera"
         },
         {
-          "en": "cut metal",
-          "bm": "memotong logam"
+          "en": "ignoring the audience",
+          "bm": "mengabaikan khalayak"
         },
         {
-          "en": "smooth surfaces",
-          "bm": "melicinkan permukaan"
+          "en": "copying a rival advert",
+          "bm": "meniru iklan pesaing"
         }
       ],
       "answer": 0
-    },
-    {
-      "id": "f3rbt-03-q15",
-      "subtopicId": "f3rbt-03-02",
-      "type": "fill",
-      "prompt": {
-        "en": "Brass is an alloy of copper and ______.",
-        "bm": "Loyang ialah aloi kuprum dan ______."
-      },
-      "explanation": {
-        "en": "Bronze is copper and tin.",
-        "bm": "Gangsa ialah kuprum dan timah."
-      },
-      "difficulty": 2,
-      "answer": [
-        "zinc",
-        "zink"
-      ]
     },
     {
       "id": "f3rbt-03-q16",
       "subtopicId": "f3rbt-03-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why can't a thermoset plastic like melamine be recycled by melting?",
-        "bm": "Mengapakah plastik termoset seperti melamin tidak boleh dikitar semula dengan dileburkan?"
+        "en": "A banner (kain rentang) is MOST suitable for…",
+        "bm": "Kain rentang PALING sesuai untuk…"
       },
       "explanation": {
-        "en": "That is why melamine plates resist heat.",
-        "bm": "Itulah sebabnya pinggan melamin tahan haba."
+        "en": "Large text visible from far.",
+        "bm": "Teks besar boleh dilihat dari jauh."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Its molecules form permanent cross-links when it sets",
-          "bm": "Molekulnya membentuk ikatan silang kekal apabila mengeras"
+          "en": "announcing an event at a busy entrance",
+          "bm": "mengumumkan acara di pintu masuk yang sibuk"
         },
         {
-          "en": "It is a metal",
-          "bm": "Ia logam"
+          "en": "explaining technical details in depth",
+          "bm": "menerangkan butiran teknikal secara mendalam"
         },
         {
-          "en": "It is too soft",
-          "bm": "Ia terlalu lembut"
+          "en": "private messages",
+          "bm": "mesej peribadi"
         },
         {
-          "en": "It dissolves in water",
-          "bm": "Ia larut dalam air"
+          "en": "showing a video",
+          "bm": "menayangkan video"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-03-q17",
-      "subtopicId": "f3rbt-03-02",
+      "subtopicId": "f3rbt-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "A designer needs a light, rust-resistant frame for a bicycle basket. Which material is BEST?",
-        "bm": "Pereka memerlukan rangka ringan dan tahan karat untuk bakul basikal. Bahan manakah PALING sesuai?"
+        "en": "A team's advert for an eco water bottle shows only the price in small text. How can it be improved using AIDA?",
+        "bm": "Iklan sebuah kumpulan untuk botol air mesra alam hanya menunjukkan harga dalam teks kecil. Bagaimanakah ia boleh diperbaiki berdasarkan AIDA?"
       },
       "explanation": {
-        "en": "Aluminium is light and non-ferrous.",
-        "bm": "Aluminium ringan dan bukan ferus."
+        "en": "Every AIDA step should be visible.",
+        "bm": "Setiap langkah AIDA patut kelihatan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Aluminium",
-          "bm": "Aluminium"
+          "en": "Add a bold image and headline, key benefits (reusable, saves money) and a clear way to order",
+          "bm": "Tambah imej dan tajuk yang menonjol, kelebihan utama (boleh guna semula, jimat wang) dan cara tempahan yang jelas"
         },
         {
-          "en": "Cast iron",
-          "bm": "Besi tuang"
+          "en": "Make the price smaller",
+          "bm": "Kecilkan harga"
         },
         {
-          "en": "MDF",
-          "bm": "MDF"
+          "en": "Remove all text",
+          "bm": "Buang semua teks"
         },
         {
-          "en": "Mild steel without coating",
-          "bm": "Keluli lembut tanpa salutan"
+          "en": "Use ten fonts",
+          "bm": "Gunakan sepuluh fon"
         }
       ],
       "answer": 0
@@ -796,63 +709,63 @@
       "subtopicId": "f3rbt-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why are traditional Malay houses often built from chengal?",
-        "bm": "Mengapakah rumah tradisional Melayu sering dibina daripada cengal?"
+        "en": "Why might a company redesign its logo?",
+        "bm": "Mengapakah syarikat mungkin mereka bentuk semula logonya?"
       },
       "explanation": {
-        "en": "Material choice depends on the environment.",
-        "bm": "Pemilihan bahan bergantung pada persekitaran."
+        "en": "Brand image affects sales.",
+        "bm": "Imej jenama mempengaruhi jualan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "It is a very durable hardwood that resists rot and termites",
-          "bm": "Ia kayu keras yang sangat tahan lama, tahan reput dan anai-anai"
+          "en": "To look modern and stay attractive to new customers",
+          "bm": "Untuk kelihatan moden dan terus menarik pelanggan baharu"
         },
         {
-          "en": "It is the cheapest softwood",
-          "bm": "Ia kayu lembut paling murah"
+          "en": "To confuse customers",
+          "bm": "Untuk mengelirukan pelanggan"
         },
         {
-          "en": "It is a plastic",
-          "bm": "Ia plastik"
+          "en": "Logos never change",
+          "bm": "Logo tidak pernah berubah"
         },
         {
-          "en": "It bends easily",
-          "bm": "Ia mudah dibengkokkan"
+          "en": "To reduce sales",
+          "bm": "Untuk mengurangkan jualan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-03-q19",
-      "subtopicId": "f3rbt-03-03",
+      "subtopicId": "f3rbt-03-02",
       "type": "mcq",
       "prompt": {
-        "en": "A student's acrylic sheet cracks while being drilled. What is the BEST improvement?",
-        "bm": "Kepingan akrilik murid retak semasa digerudi. Apakah penambahbaikan PALING baik?"
+        "en": "Which statement about advertising ethics is correct?",
+        "bm": "Pernyataan manakah tentang etika pengiklanan adalah betul?"
       },
       "explanation": {
-        "en": "Support and slow speed reduce cracking.",
-        "bm": "Sokongan dan kelajuan perlahan mengurangkan retakan."
+        "en": "False advertising harms trust and can break the law.",
+        "bm": "Iklan palsu menjejaskan kepercayaan dan boleh melanggar undang-undang."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Clamp it on scrap wood, drill slowly, and keep the protective film on",
-          "bm": "Kapit di atas kayu buangan, gerudi perlahan dan kekalkan filem pelindung"
+          "en": "Adverts must be honest and not make false claims",
+          "bm": "Iklan mesti jujur dan tidak membuat dakwaan palsu"
         },
         {
-          "en": "Drill faster",
-          "bm": "Gerudi lebih laju"
+          "en": "Any claim is allowed if it sells",
+          "bm": "Apa-apa dakwaan dibenarkan jika laris"
         },
         {
-          "en": "Hold it by hand",
-          "bm": "Pegang dengan tangan"
+          "en": "Copying other brands is fine",
+          "bm": "Meniru jenama lain tidak mengapa"
         },
         {
-          "en": "Use a hammer",
-          "bm": "Gunakan tukul"
+          "en": "Ethics do not apply to students",
+          "bm": "Etika tidak terpakai kepada murid"
         }
       ],
       "answer": 0
@@ -862,30 +775,30 @@
       "subtopicId": "f3rbt-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Why should you never use a tool you have not been shown how to use?",
-        "bm": "Mengapakah anda tidak boleh menggunakan alatan yang belum diajar cara penggunaannya?"
+        "en": "After producing an advert, how can the team check whether it worked?",
+        "bm": "Selepas menghasilkan iklan, bagaimanakah kumpulan boleh menyemak keberkesanannya?"
       },
       "explanation": {
-        "en": "Always follow the teacher's instructions.",
-        "bm": "Sentiasa ikut arahan guru."
+        "en": "Evidence shows effectiveness.",
+        "bm": "Bukti menunjukkan keberkesanan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Incorrect use can cause serious injury and damage",
-          "bm": "Penggunaan yang salah boleh menyebabkan kecederaan serius dan kerosakan"
+          "en": "Compare sales, enquiries or online views before and after the advert",
+          "bm": "Bandingkan jualan, pertanyaan atau tontonan dalam talian sebelum dan selepas iklan"
         },
         {
-          "en": "It wastes time only",
-          "bm": "Ia membuang masa sahaja"
+          "en": "Guess",
+          "bm": "Meneka"
         },
         {
-          "en": "Tools are expensive",
-          "bm": "Alatan mahal"
+          "en": "Ask only the designer",
+          "bm": "Tanya pereka sahaja"
         },
         {
-          "en": "It is not important",
-          "bm": "Tidak penting"
+          "en": "Count the colours used",
+          "bm": "Kira warna yang digunakan"
         }
       ],
       "answer": 0

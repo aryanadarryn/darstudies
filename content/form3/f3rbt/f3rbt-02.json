@@ -3,100 +3,86 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "A builder in Johor can make exactly the cabinet a designer drew in Penang — if the drawing follows the same rules. Technical drawing is a universal language.",
-      "bm": "Tukang di Johor boleh membina kabinet sama seperti yang dilukis pereka di Pulau Pinang — jika lukisan mengikut peraturan yang sama. Lukisan teknik ialah bahasa sejagat."
+      "en": "A good product starts with a real customer need — and ends with a test report and a tidy folio that proves it works.",
+      "bm": "Produk yang baik bermula dengan keperluan sebenar pelanggan — dan berakhir dengan laporan ujian serta folio kemas yang membuktikan ia berfungsi."
     },
     "bigIdeas": [
       {
-        "en": "Sketches communicate ideas quickly; technical drawings give exact information for making.",
-        "bm": "Lakaran menyampaikan idea dengan cepat; lukisan teknik memberi maklumat tepat untuk pembuatan."
+        "en": "Product development begins with a study of customer needs and a project brief.",
+        "bm": "Pembangunan produk bermula dengan kajian keperluan pelanggan dan taklimat projek."
       },
       {
-        "en": "Isometric drawing uses lines at 30° to the horizontal; oblique drawing has a flat front with depth lines at 45°.",
-        "bm": "Lukisan isometrik menggunakan garisan 30° dari ufuk; lukisan oblik mempunyai muka hadapan rata dengan garisan kedalaman 45°."
+        "en": "Planning includes sketches using design elements and principles, a work schedule, and a list of materials, tools and budget.",
+        "bm": "Perancangan termasuk lakaran menggunakan elemen dan prinsip reka bentuk, jadual kerja, serta senarai bahan, peralatan dan bajet."
       },
       {
-        "en": "Orthographic drawing shows separate views (front, top, side) with standard line types.",
-        "bm": "Lukisan ortografik menunjukkan pandangan berasingan (hadapan, atas, sisi) dengan jenis garisan piawai."
+        "en": "The product is made, tested, evaluated, improved and documented.",
+        "bm": "Produk dihasilkan, diuji, dinilai, ditambah baik dan didokumentasikan."
       }
     ],
     "infographic": {
-      "kind": "compare",
+      "kind": "process",
       "data": {
-        "headers": [
+        "steps": [
           {
-            "en": "Line",
-            "bm": "Garisan"
+            "title": {
+              "en": "Need and brief",
+              "bm": "Keperluan dan taklimat"
+            },
+            "detail": {
+              "en": "Study what the customer needs.",
+              "bm": "Kaji keperluan pelanggan."
+            }
           },
           {
-            "en": "Used for",
-            "bm": "Kegunaan"
-          }
-        ],
-        "rows": [
-          {
-            "label": {
-              "en": "Outline",
-              "bm": "Garis luar"
+            "title": {
+              "en": "Technology base",
+              "bm": "Asas teknologi"
             },
-            "cells": [
-              {
-                "en": "Thick continuous",
-                "bm": "Tebal berterusan"
-              },
-              {
-                "en": "Visible edges",
-                "bm": "Sisi yang kelihatan"
-              }
-            ]
+            "detail": {
+              "en": "Choose suitable technology and materials.",
+              "bm": "Pilih teknologi dan bahan yang sesuai."
+            }
           },
           {
-            "label": {
-              "en": "Hidden detail",
-              "bm": "Butiran tersembunyi"
+            "title": {
+              "en": "Sketch and plan",
+              "bm": "Lakar dan rancang"
             },
-            "cells": [
-              {
-                "en": "Thin dashed",
-                "bm": "Putus-putus nipis"
-              },
-              {
-                "en": "Edges that cannot be seen",
-                "bm": "Sisi yang tidak kelihatan"
-              }
-            ]
+            "detail": {
+              "en": "Concept sketches, work schedule, materials list, budget.",
+              "bm": "Lakaran konsep, jadual kerja, senarai bahan, bajet."
+            }
           },
           {
-            "label": {
-              "en": "Centre line",
-              "bm": "Garis tengah"
+            "title": {
+              "en": "Make",
+              "bm": "Hasilkan"
             },
-            "cells": [
-              {
-                "en": "Thin chain (long–short dash)",
-                "bm": "Rantai nipis (sengkang panjang–pendek)"
-              },
-              {
-                "en": "Centres of holes and symmetry",
-                "bm": "Pusat lubang dan simetri"
-              }
-            ]
+            "detail": {
+              "en": "Build a working or partly working product.",
+              "bm": "Bina produk berfungsi atau berfungsi sebahagian."
+            }
           },
           {
-            "label": {
-              "en": "Dimension line",
-              "bm": "Garis dimensi"
+            "title": {
+              "en": "Test and improve",
+              "bm": "Uji dan tambah baik"
             },
-            "cells": [
-              {
-                "en": "Thin continuous with arrowheads",
-                "bm": "Nipis berterusan dengan anak panah"
-              },
-              {
-                "en": "Showing sizes",
-                "bm": "Menunjukkan ukuran"
-              }
-            ]
+            "detail": {
+              "en": "Evaluate, then suggest improvements.",
+              "bm": "Nilai, kemudian cadangkan penambahbaikan."
+            }
+          },
+          {
+            "title": {
+              "en": "Document",
+              "bm": "Dokumentasi"
+            },
+            "detail": {
+              "en": "Record everything in a folio or report.",
+              "bm": "Rekod semuanya dalam folio atau laporan."
+            }
           }
         ]
       }
@@ -104,84 +90,74 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Freehand sketch",
-          "bm": "Lakaran bebas"
+          "en": "Project brief",
+          "bm": "Taklimat projek"
         },
         "definition": {
-          "en": "A quick drawing without instruments.",
-          "bm": "Lukisan pantas tanpa alatan."
+          "en": "A short statement of what product is needed, for whom and why.",
+          "bm": "Kenyataan ringkas tentang produk yang diperlukan, untuk siapa dan mengapa."
         }
       },
       {
         "term": {
-          "en": "Isometric drawing",
-          "bm": "Lukisan isometrik"
+          "en": "Work schedule",
+          "bm": "Jadual kerja"
         },
         "definition": {
-          "en": "3D view with vertical lines and lines at 30° to the horizontal.",
-          "bm": "Pandangan 3D dengan garisan menegak dan garisan 30° dari ufuk."
+          "en": "A plan of tasks and time, often a Gantt chart.",
+          "bm": "Perancangan tugasan dan masa, selalunya carta Gantt."
         }
       },
       {
         "term": {
-          "en": "Oblique drawing",
-          "bm": "Lukisan oblik"
+          "en": "Budget",
+          "bm": "Bajet"
         },
         "definition": {
-          "en": "True front face with receding lines at 45°.",
-          "bm": "Muka hadapan sebenar dengan garisan ke belakang pada 45°."
+          "en": "The planned cost of materials and other items.",
+          "bm": "Anggaran kos bahan dan perkara lain."
         }
       },
       {
         "term": {
-          "en": "Orthographic drawing",
-          "bm": "Lukisan ortografik"
+          "en": "Prototype",
+          "bm": "Prototaip"
         },
         "definition": {
-          "en": "2D views of an object: front, plan (top) and side (end) views.",
-          "bm": "Pandangan 2D objek: pandangan hadapan, pelan (atas) dan sisi."
+          "en": "A functional or partly functional model of the product.",
+          "bm": "Model produk yang berfungsi atau berfungsi sebahagian."
         }
       },
       {
         "term": {
-          "en": "Dimension",
-          "bm": "Dimensi"
+          "en": "Documentation",
+          "bm": "Dokumentasi"
         },
         "definition": {
-          "en": "A size shown on a drawing, usually in millimetres.",
-          "bm": "Ukuran yang ditunjukkan pada lukisan, biasanya dalam milimeter."
-        }
-      },
-      {
-        "term": {
-          "en": "Scale",
-          "bm": "Skala"
-        },
-        "definition": {
-          "en": "Ratio of drawing size to real size, e.g. 1:2.",
-          "bm": "Nisbah saiz lukisan kepada saiz sebenar, cth. 1:2."
+          "en": "A complete record of the process: research, sketches, tests and results.",
+          "bm": "Rekod lengkap proses: kajian, lakaran, ujian dan keputusan."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "A box is 200 mm long. It is drawn at a scale of 1:2. How long is it on paper?",
-        "bm": "Sebuah kotak sepanjang 200 mm. Ia dilukis pada skala 1:2. Berapakah panjangnya di atas kertas?"
+        "en": "Materials cost RM12.50, RM8.00, RM4.50 and RM5.00. The budget is RM50. Is it within budget, and by how much?",
+        "bm": "Kos bahan ialah RM12.50, RM8.00, RM4.50 dan RM5.00. Bajet ialah RM50. Adakah ia dalam bajet, dan berapa bakinya?"
       },
       "steps": [
         {
-          "en": "1:2 means the drawing is half the real size.",
-          "bm": "1:2 bermaksud lukisan separuh daripada saiz sebenar."
+          "en": "Total = 12.50 + 8.00 + 4.50 + 5.00 = RM30.00.",
+          "bm": "Jumlah = 12.50 + 8.00 + 4.50 + 5.00 = RM30.00."
         },
         {
-          "en": "200 ÷ 2 = 100 mm.",
-          "bm": "200 ÷ 2 = 100 mm."
+          "en": "Balance = 50.00 − 30.00 = RM20.00.",
+          "bm": "Baki = 50.00 − 30.00 = RM20.00."
         }
       ],
       "answer": {
-        "en": "100 mm (the dimension written on the drawing is still 200).",
-        "bm": "100 mm (dimensi yang ditulis pada lukisan tetap 200)."
+        "en": "Yes — RM20.00 under budget.",
+        "bm": "Ya — baki RM20.00 daripada bajet."
       }
     }
   },
@@ -191,30 +167,30 @@
       "subtopicId": "f3rbt-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "A freehand sketch is drawn…",
-        "bm": "Lakaran bebas dilukis…"
+        "en": "Product development should start with…",
+        "bm": "Pembangunan produk patut bermula dengan…"
       },
       "explanation": {
-        "en": "Sketches explore and communicate ideas.",
-        "bm": "Lakaran meneroka dan menyampaikan idea."
+        "en": "A product must solve a real need.",
+        "bm": "Produk mesti menyelesaikan keperluan sebenar."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "quickly, without drawing instruments",
-          "bm": "dengan cepat, tanpa alatan lukisan"
+          "en": "a study of customer needs",
+          "bm": "kajian keperluan pelanggan"
         },
         {
-          "en": "only with a computer",
-          "bm": "dengan komputer sahaja"
+          "en": "painting the product",
+          "bm": "mengecat produk"
         },
         {
-          "en": "with exact measurements only",
-          "bm": "dengan ukuran tepat sahaja"
+          "en": "selling the product",
+          "bm": "menjual produk"
         },
         {
-          "en": "in ink only",
-          "bm": "dengan dakwat sahaja"
+          "en": "testing the product",
+          "bm": "menguji produk"
         }
       ],
       "answer": 0
@@ -224,146 +200,147 @@
       "subtopicId": "f3rbt-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which helps sketches look 3D?",
-        "bm": "Manakah membantu lakaran kelihatan 3D?"
+        "en": "A project brief states…",
+        "bm": "Taklimat projek menyatakan…"
       },
       "explanation": {
-        "en": "Light and shadow show form.",
-        "bm": "Cahaya dan bayang menunjukkan bentuk."
+        "en": "It guides the whole project.",
+        "bm": "Ia membimbing keseluruhan projek."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Shading and tone",
-          "bm": "Lorekan dan ton"
+          "en": "what product is needed, for whom and why",
+          "bm": "produk yang diperlukan, untuk siapa dan mengapa"
         },
         {
-          "en": "Only straight lines",
-          "bm": "Garisan lurus sahaja"
+          "en": "only the price",
+          "bm": "harga sahaja"
         },
         {
-          "en": "Writing the title",
-          "bm": "Menulis tajuk"
+          "en": "the test results",
+          "bm": "keputusan ujian"
         },
         {
-          "en": "Using one colour",
-          "bm": "Menggunakan satu warna"
+          "en": "the advertisement",
+          "bm": "iklan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-02-q03",
-      "subtopicId": "f3rbt-02-02",
-      "type": "fill",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
       "prompt": {
-        "en": "In isometric drawing, the receding lines are drawn at ___° to the horizontal.",
-        "bm": "Dalam lukisan isometrik, garisan sisi dilukis pada ___° dari garisan ufuk."
+        "en": "Choosing suitable electronics or mechanisms for a product means identifying the…",
+        "bm": "Memilih elektronik atau mekanisme yang sesuai untuk produk bermaksud mengenal pasti…"
       },
       "explanation": {
-        "en": "Vertical lines stay vertical.",
-        "bm": "Garisan menegak kekal menegak."
+        "en": "e.g. a sensor and motor for an automatic feeder.",
+        "bm": "cth. penderia dan motor untuk pemberi makanan automatik."
       },
       "difficulty": 1,
-      "answer": [
-        "30"
-      ]
+      "options": [
+        {
+          "en": "technology base",
+          "bm": "asas teknologi"
+        },
+        {
+          "en": "advertising method",
+          "bm": "kaedah pengiklanan"
+        },
+        {
+          "en": "market price",
+          "bm": "harga pasaran"
+        },
+        {
+          "en": "packaging colour",
+          "bm": "warna pembungkusan"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3rbt-02-q04",
       "subtopicId": "f3rbt-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "In oblique drawing, the front face is…",
-        "bm": "Dalam lukisan oblik, muka hadapan…"
+        "en": "A Gantt chart is used to show…",
+        "bm": "Carta Gantt digunakan untuk menunjukkan…"
       },
       "explanation": {
-        "en": "Depth lines go back at 45°.",
-        "bm": "Garisan kedalaman ke belakang pada 45°."
+        "en": "Bars show when each task happens.",
+        "bm": "Bar menunjukkan bila setiap tugasan dilakukan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "drawn true shape and size",
-          "bm": "dilukis mengikut bentuk dan saiz sebenar"
+          "en": "the work schedule — tasks and time",
+          "bm": "jadual kerja — tugasan dan masa"
         },
         {
-          "en": "drawn at 30°",
-          "bm": "dilukis pada 30°"
+          "en": "the circuit diagram",
+          "bm": "gambar rajah litar"
         },
         {
-          "en": "hidden",
-          "bm": "disembunyikan"
+          "en": "the customer survey",
+          "bm": "tinjauan pelanggan"
         },
         {
-          "en": "drawn as a circle",
-          "bm": "dilukis sebagai bulatan"
+          "en": "the logo",
+          "bm": "logo"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-02-q05",
-      "subtopicId": "f3rbt-02-03",
-      "type": "mcq",
+      "subtopicId": "f3rbt-02-02",
+      "type": "fill",
       "prompt": {
-        "en": "Hidden edges in an orthographic drawing are shown with…",
-        "bm": "Sisi tersembunyi dalam lukisan ortografik ditunjukkan dengan…"
+        "en": "The planned cost of materials and tools for a project is the ______.",
+        "bm": "Anggaran kos bahan dan peralatan untuk projek ialah ______."
       },
       "explanation": {
-        "en": "Dashed = hidden.",
-        "bm": "Putus-putus = tersembunyi."
+        "en": "Keep spending within the budget.",
+        "bm": "Pastikan perbelanjaan dalam bajet."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "thin dashed lines",
-          "bm": "garisan putus-putus nipis"
-        },
-        {
-          "en": "thick continuous lines",
-          "bm": "garisan tebal berterusan"
-        },
-        {
-          "en": "chain lines",
-          "bm": "garisan rantai"
-        },
-        {
-          "en": "wavy lines",
-          "bm": "garisan beralun"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "budget",
+        "bajet"
+      ]
     },
     {
       "id": "f3rbt-02-q06",
-      "subtopicId": "f3rbt-02-03",
+      "subtopicId": "f3rbt-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "A centre line is drawn as…",
-        "bm": "Garis tengah dilukis sebagai…"
+        "en": "Concept sketches should apply…",
+        "bm": "Lakaran konsep patut mengaplikasikan…"
       },
       "explanation": {
-        "en": "Used for holes and lines of symmetry.",
-        "bm": "Digunakan untuk lubang dan paksi simetri."
+        "en": "e.g. shape, colour, balance, ergonomics.",
+        "bm": "cth. bentuk, warna, keseimbangan, ergonomik."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "a thin chain line (long and short dashes)",
-          "bm": "garisan rantai nipis (sengkang panjang dan pendek)"
+          "en": "design elements and principles",
+          "bm": "elemen dan prinsip reka bentuk"
         },
         {
-          "en": "a thick line",
-          "bm": "garisan tebal"
+          "en": "only random lines",
+          "bm": "garisan rawak sahaja"
         },
         {
-          "en": "a dotted line",
-          "bm": "garisan bertitik"
+          "en": "the final price",
+          "bm": "harga akhir"
         },
         {
-          "en": "a double line",
-          "bm": "garisan berganda"
+          "en": "test results",
+          "bm": "keputusan ujian"
         }
       ],
       "answer": 0
@@ -373,30 +350,30 @@
       "subtopicId": "f3rbt-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "The view from directly above an object is called the…",
-        "bm": "Pandangan dari atas objek dipanggil…"
+        "en": "A product that works but not all features are complete is called…",
+        "bm": "Produk yang berfungsi tetapi tidak semua cirinya lengkap dipanggil…"
       },
       "explanation": {
-        "en": "Orthographic views: front, plan, side.",
-        "bm": "Pandangan ortografik: hadapan, pelan, sisi."
+        "en": "School projects may be fully or partly functional.",
+        "bm": "Projek sekolah boleh berfungsi sepenuhnya atau sebahagian."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "plan (top view)",
-          "bm": "pelan (pandangan atas)"
+          "en": "partly functional",
+          "bm": "berfungsi sebahagian"
         },
         {
-          "en": "front view",
-          "bm": "pandangan hadapan"
+          "en": "finished and sold",
+          "bm": "siap dan dijual"
         },
         {
-          "en": "side view",
-          "bm": "pandangan sisi"
+          "en": "a sketch",
+          "bm": "lakaran"
         },
         {
-          "en": "isometric view",
-          "bm": "pandangan isometrik"
+          "en": "a budget",
+          "bm": "bajet"
         }
       ],
       "answer": 0
@@ -406,186 +383,149 @@
       "subtopicId": "f3rbt-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "Dimensions on technical drawings are usually in…",
-        "bm": "Dimensi pada lukisan teknik biasanya dalam…"
+        "en": "Documentation of a project includes…",
+        "bm": "Dokumentasi projek merangkumi…"
       },
       "explanation": {
-        "en": "Millimetres are the standard unit.",
-        "bm": "Milimeter ialah unit piawai."
+        "en": "It proves what was done and why.",
+        "bm": "Ia membuktikan apa yang dilakukan dan mengapa."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "mm",
-          "bm": "mm"
+          "en": "research, sketches, schedule, test results and improvements",
+          "bm": "kajian, lakaran, jadual, keputusan ujian dan penambahbaikan"
         },
         {
-          "en": "km",
-          "bm": "km"
+          "en": "only photos of friends",
+          "bm": "gambar kawan sahaja"
         },
         {
-          "en": "m²",
-          "bm": "m²"
+          "en": "only the price tag",
+          "bm": "tanda harga sahaja"
         },
         {
-          "en": "kg",
-          "bm": "kg"
+          "en": "nothing",
+          "bm": "tiada apa-apa"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-02-q09",
-      "subtopicId": "f3rbt-02-03",
-      "type": "numeric",
+      "subtopicId": "f3rbt-02-01",
+      "type": "order",
       "prompt": {
-        "en": "A shelf is 600 mm long. It is drawn at a scale of 1:5. How long is the line on paper (mm)?",
-        "bm": "Sebuah rak sepanjang 600 mm. Ia dilukis pada skala 1:5. Berapakah panjang garisan di atas kertas (mm)?"
+        "en": "Arrange the stages of producing a product.",
+        "bm": "Susun peringkat penghasilan produk."
       },
       "explanation": {
-        "en": "600 ÷ 5 = 120 mm.",
-        "bm": "600 ÷ 5 = 120 mm."
+        "en": "Each stage builds on the one before.",
+        "bm": "Setiap peringkat dibina atas peringkat sebelumnya."
       },
       "difficulty": 2,
-      "answer": 120,
-      "tolerance": 0,
-      "unit": "mm"
-    },
-    {
-      "id": "f3rbt-02-q10",
-      "subtopicId": "f3rbt-02-03",
-      "type": "numeric",
-      "prompt": {
-        "en": "A part is drawn 40 mm long at a scale of 2:1 (enlarged). What is its real length (mm)?",
-        "bm": "Satu komponen dilukis sepanjang 40 mm pada skala 2:1 (dibesarkan). Berapakah panjang sebenarnya (mm)?"
-      },
-      "explanation": {
-        "en": "2:1 means the drawing is twice the real size: 40 ÷ 2 = 20 mm.",
-        "bm": "2:1 bermaksud lukisan dua kali saiz sebenar: 40 ÷ 2 = 20 mm."
-      },
-      "difficulty": 2,
-      "answer": 20,
-      "tolerance": 0,
-      "unit": "mm"
-    },
-    {
-      "id": "f3rbt-02-q11",
-      "subtopicId": "f3rbt-02-03",
-      "type": "match",
-      "prompt": {
-        "en": "Match each line type with its use.",
-        "bm": "Padankan jenis garisan dengan kegunaannya."
-      },
-      "explanation": {
-        "en": "Standard lines make drawings readable by anyone.",
-        "bm": "Garisan piawai menjadikan lukisan boleh dibaca oleh sesiapa."
-      },
-      "difficulty": 2,
-      "pairs": [
+      "items": [
         {
-          "left": {
-            "en": "Thick continuous",
-            "bm": "Tebal berterusan"
-          },
-          "right": {
-            "en": "Visible outline",
-            "bm": "Garis luar yang kelihatan"
-          }
+          "en": "Study customer needs and write a brief",
+          "bm": "Kaji keperluan pelanggan dan tulis taklimat"
         },
         {
-          "left": {
-            "en": "Thin dashed",
-            "bm": "Putus-putus nipis"
-          },
-          "right": {
-            "en": "Hidden detail",
-            "bm": "Butiran tersembunyi"
-          }
+          "en": "Sketch and plan (schedule, materials, budget)",
+          "bm": "Lakar dan rancang (jadual, bahan, bajet)"
         },
         {
-          "left": {
-            "en": "Thin chain",
-            "bm": "Rantai nipis"
-          },
-          "right": {
-            "en": "Centre line",
-            "bm": "Garis tengah"
-          }
+          "en": "Make the product",
+          "bm": "Hasilkan produk"
         },
         {
-          "left": {
-            "en": "Thin with arrowheads",
-            "bm": "Nipis dengan anak panah"
-          },
-          "right": {
-            "en": "Dimension",
-            "bm": "Dimensi"
-          }
+          "en": "Test and evaluate",
+          "bm": "Uji dan nilai"
+        },
+        {
+          "en": "Suggest improvements and document",
+          "bm": "Cadang penambahbaikan dan dokumentasi"
         }
       ]
     },
     {
-      "id": "f3rbt-02-q12",
+      "id": "f3rbt-02-q10",
       "subtopicId": "f3rbt-02-02",
-      "type": "mcq",
+      "type": "numeric",
       "prompt": {
-        "en": "What is the main difference between isometric and oblique drawing?",
-        "bm": "Apakah perbezaan utama antara lukisan isometrik dengan oblik?"
+        "en": "Materials cost RM12.50, RM8.00, RM4.50 and RM5.00. What is the total cost (RM)?",
+        "bm": "Kos bahan ialah RM12.50, RM8.00, RM4.50 dan RM5.00. Berapakah jumlah kos (RM)?"
       },
       "explanation": {
-        "en": "Both are pictorial (3D) drawings.",
-        "bm": "Kedua-duanya lukisan bergambar (3D)."
+        "en": "12.50 + 8.00 + 4.50 + 5.00 = RM30.00.",
+        "bm": "12.50 + 8.00 + 4.50 + 5.00 = RM30.00."
       },
       "difficulty": 2,
-      "options": [
-        {
-          "en": "Isometric uses 30° on both sides; oblique has a flat front and depth at 45°",
-          "bm": "Isometrik menggunakan 30° pada kedua-dua sisi; oblik mempunyai muka hadapan rata dan kedalaman 45°"
-        },
-        {
-          "en": "They are the same",
-          "bm": "Kedua-duanya sama"
-        },
-        {
-          "en": "Oblique is 2D only",
-          "bm": "Oblik hanya 2D"
-        },
-        {
-          "en": "Isometric has no vertical lines",
-          "bm": "Isometrik tiada garisan menegak"
-        }
-      ],
-      "answer": 0
+      "answer": 30,
+      "tolerance": 0.001,
+      "unit": "RM"
+    },
+    {
+      "id": "f3rbt-02-q11",
+      "subtopicId": "f3rbt-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "The budget is RM50 and materials cost RM30. How much money is left (RM)?",
+        "bm": "Bajet ialah RM50 dan kos bahan RM30. Berapakah baki wang (RM)?"
+      },
+      "explanation": {
+        "en": "50 − 30 = RM20.",
+        "bm": "50 − 30 = RM20."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0.001,
+      "unit": "RM"
+    },
+    {
+      "id": "f3rbt-02-q12",
+      "subtopicId": "f3rbt-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A schedule has tasks taking 3, 5, 4 and 2 days one after another. How many days in total?",
+        "bm": "Jadual kerja mempunyai tugasan 3, 5, 4 dan 2 hari secara berturutan. Berapakah jumlah hari?"
+      },
+      "explanation": {
+        "en": "3 + 5 + 4 + 2 = 14 days.",
+        "bm": "3 + 5 + 4 + 2 = 14 hari."
+      },
+      "difficulty": 2,
+      "answer": 14,
+      "tolerance": 0
     },
     {
       "id": "f3rbt-02-q13",
-      "subtopicId": "f3rbt-02-03",
+      "subtopicId": "f3rbt-02-02",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL views in a standard orthographic drawing.",
-        "bm": "Pilih SEMUA pandangan dalam lukisan ortografik piawai."
+        "en": "Select ALL items in a materials and tools list.",
+        "bm": "Pilih SEMUA perkara dalam senarai bahan dan peralatan."
       },
       "explanation": {
-        "en": "An isometric view is a pictorial drawing.",
-        "bm": "Pandangan isometrik ialah lukisan bergambar."
+        "en": "This helps prepare the budget.",
+        "bm": "Ini membantu menyediakan bajet."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Front view",
-          "bm": "Pandangan hadapan"
+          "en": "Material names and quantities",
+          "bm": "Nama dan kuantiti bahan"
         },
         {
-          "en": "Plan (top view)",
-          "bm": "Pelan (pandangan atas)"
+          "en": "Tools needed",
+          "bm": "Peralatan yang diperlukan"
         },
         {
-          "en": "Side (end) view",
-          "bm": "Pandangan sisi"
+          "en": "Cost of each item",
+          "bm": "Kos setiap item"
         },
         {
-          "en": "Isometric view",
-          "bm": "Pandangan isometrik"
+          "en": "The customer's birthday",
+          "bm": "Tarikh lahir pelanggan"
         }
       ],
       "answer": [
@@ -596,61 +536,29 @@
     },
     {
       "id": "f3rbt-02-q14",
-      "subtopicId": "f3rbt-02-01",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange the steps of sketching a box in 3D.",
-        "bm": "Susun langkah melakar kotak dalam 3D."
-      },
-      "explanation": {
-        "en": "Start light so mistakes are easy to fix.",
-        "bm": "Mulakan dengan garisan halus supaya mudah dibetulkan."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Draw light construction lines",
-          "bm": "Lukis garisan binaan yang halus"
-        },
-        {
-          "en": "Draw the basic box shape",
-          "bm": "Lukis bentuk asas kotak"
-        },
-        {
-          "en": "Darken the final outlines",
-          "bm": "Tebalkan garis luar akhir"
-        },
-        {
-          "en": "Add shading",
-          "bm": "Tambah lorekan"
-        }
-      ]
-    },
-    {
-      "id": "f3rbt-02-q15",
-      "subtopicId": "f3rbt-02-01",
+      "subtopicId": "f3rbt-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "Why do designers add notes and arrows to sketches (annotation)?",
-        "bm": "Mengapakah pereka menambah nota dan anak panah pada lakaran (anotasi)?"
+        "en": "Why must a product be tested?",
+        "bm": "Mengapakah produk mesti diuji?"
       },
       "explanation": {
-        "en": "Annotation turns a picture into a design explanation.",
-        "bm": "Anotasi menjadikan gambar satu penerangan reka bentuk."
+        "en": "Testing leads to improvement.",
+        "bm": "Pengujian membawa kepada penambahbaikan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "To explain materials, functions and ideas",
-          "bm": "Untuk menerangkan bahan, fungsi dan idea"
+          "en": "To check it works and suits the user, and to find problems",
+          "bm": "Untuk menyemak ia berfungsi dan sesuai dengan pengguna, serta mengesan masalah"
         },
         {
-          "en": "To decorate",
-          "bm": "Untuk hiasan"
+          "en": "To make it look nice",
+          "bm": "Supaya kelihatan cantik"
         },
         {
-          "en": "To fill space",
-          "bm": "Untuk mengisi ruang"
+          "en": "To increase the budget",
+          "bm": "Untuk menambah bajet"
         },
         {
           "en": "It is not needed",
@@ -660,34 +568,90 @@
       "answer": 0
     },
     {
-      "id": "f3rbt-02-q16",
-      "subtopicId": "f3rbt-02-02",
-      "type": "mcq",
+      "id": "f3rbt-02-q15",
+      "subtopicId": "f3rbt-02-03",
+      "type": "match",
       "prompt": {
-        "en": "A circle on the front of an isometric box appears as…",
-        "bm": "Bulatan pada muka isometrik kotak kelihatan sebagai…"
+        "en": "Match each document with its purpose.",
+        "bm": "Padankan dokumen dengan tujuannya."
       },
       "explanation": {
-        "en": "Circles on angled faces look like ellipses.",
-        "bm": "Bulatan pada muka condong kelihatan seperti elips."
+        "en": "Together they form the documentation.",
+        "bm": "Bersama-sama ia membentuk dokumentasi."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Project brief",
+            "bm": "Taklimat projek"
+          },
+          "right": {
+            "en": "Defines the need",
+            "bm": "Menentukan keperluan"
+          }
+        },
+        {
+          "left": {
+            "en": "Work schedule",
+            "bm": "Jadual kerja"
+          },
+          "right": {
+            "en": "Plans tasks and time",
+            "bm": "Merancang tugasan dan masa"
+          }
+        },
+        {
+          "left": {
+            "en": "Budget",
+            "bm": "Bajet"
+          },
+          "right": {
+            "en": "Plans costs",
+            "bm": "Merancang kos"
+          }
+        },
+        {
+          "left": {
+            "en": "Test report",
+            "bm": "Laporan ujian"
+          },
+          "right": {
+            "en": "Records results",
+            "bm": "Merekod keputusan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3rbt-02-q16",
+      "subtopicId": "f3rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the BEST way to find customer needs for a school bag?",
+        "bm": "Manakah cara PALING baik untuk mengetahui keperluan pelanggan bagi beg sekolah?"
+      },
+      "explanation": {
+        "en": "Real data gives a clear brief.",
+        "bm": "Data sebenar memberi taklimat yang jelas."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "an ellipse",
-          "bm": "elips"
+          "en": "Survey or interview students about problems with their bags",
+          "bm": "Tinjau atau temu bual murid tentang masalah beg mereka"
         },
         {
-          "en": "a perfect circle",
-          "bm": "bulatan sempurna"
+          "en": "Guess",
+          "bm": "Meneka"
         },
         {
-          "en": "a square",
-          "bm": "segi empat sama"
+          "en": "Copy a shop design",
+          "bm": "Meniru reka bentuk kedai"
         },
         {
-          "en": "a triangle",
-          "bm": "segi tiga"
+          "en": "Ask only the designer",
+          "bm": "Tanya pereka sahaja"
         }
       ],
       "answer": 0
@@ -697,63 +661,63 @@
       "subtopicId": "f3rbt-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "On a drawing at scale 1:2, a dimension line shows \"300\". What is the real size?",
-        "bm": "Pada lukisan berskala 1:2, garisan dimensi menunjukkan \"300\". Berapakah saiz sebenar?"
+        "en": "Test results show a pet feeder's lid jams sometimes. What should the improvement proposal include?",
+        "bm": "Keputusan ujian menunjukkan penutup pemberi makanan haiwan kadangkala tersekat. Apakah yang patut ada dalam cadangan penambahbaikan?"
       },
       "explanation": {
-        "en": "Dimensions always show the REAL size, whatever the scale.",
-        "bm": "Dimensi sentiasa menunjukkan saiz SEBENAR, walau apa pun skala."
+        "en": "Improvements should be based on evidence.",
+        "bm": "Penambahbaikan patut berdasarkan bukti."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "300 mm",
-          "bm": "300 mm"
+          "en": "The cause found in testing and a specific change, e.g. a smoother hinge or stronger servo",
+          "bm": "Punca yang ditemui semasa ujian dan perubahan khusus, cth. engsel lebih licin atau servo lebih kuat"
         },
         {
-          "en": "150 mm",
-          "bm": "150 mm"
+          "en": "\"Make it better\"",
+          "bm": "\"Jadikannya lebih baik\""
         },
         {
-          "en": "600 mm",
-          "bm": "600 mm"
+          "en": "Remove the lid",
+          "bm": "Buang penutup"
         },
         {
-          "en": "30 mm",
-          "bm": "30 mm"
+          "en": "No changes",
+          "bm": "Tiada perubahan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-02-q18",
-      "subtopicId": "f3rbt-02-01",
+      "subtopicId": "f3rbt-02-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which drawing is BEST for showing a client what a product looks like?",
-        "bm": "Lukisan manakah PALING sesuai untuk menunjukkan rupa produk kepada pelanggan?"
+        "en": "A project is falling behind schedule. What is the BEST action?",
+        "bm": "Projek ketinggalan daripada jadual. Apakah tindakan PALING baik?"
       },
       "explanation": {
-        "en": "Orthographic drawings are for makers.",
-        "bm": "Lukisan ortografik untuk pembuat."
+        "en": "A schedule is a tool to manage time.",
+        "bm": "Jadual ialah alat untuk mengurus masa."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "A shaded, coloured pictorial (3D) drawing",
-          "bm": "Lukisan bergambar (3D) berlorek dan berwarna"
+          "en": "Review the work schedule, re-plan tasks and focus on the essential functions first",
+          "bm": "Semak jadual kerja, rancang semula tugasan dan utamakan fungsi penting dahulu"
         },
         {
-          "en": "An orthographic drawing with hidden lines",
-          "bm": "Lukisan ortografik dengan garisan tersembunyi"
+          "en": "Stop the project",
+          "bm": "Hentikan projek"
         },
         {
-          "en": "A table of dimensions",
-          "bm": "Jadual dimensi"
+          "en": "Skip testing",
+          "bm": "Tidak perlu menguji"
         },
         {
-          "en": "A cutting list",
-          "bm": "Senarai potongan"
+          "en": "Ignore the schedule",
+          "bm": "Abaikan jadual"
         }
       ],
       "answer": 0
@@ -761,65 +725,49 @@
     {
       "id": "f3rbt-02-q19",
       "subtopicId": "f3rbt-02-02",
-      "type": "mcq",
+      "type": "numeric",
       "prompt": {
-        "en": "Why is orthographic drawing preferred for manufacturing?",
-        "bm": "Mengapakah lukisan ortografik lebih sesuai untuk pembuatan?"
+        "en": "Making 40 units costs RM360 in total. What is the cost per unit (RM)?",
+        "bm": "Kos membuat 40 unit ialah RM360 kesemuanya. Berapakah kos seunit (RM)?"
       },
       "explanation": {
-        "en": "Pictorial views distort angles and lengths.",
-        "bm": "Pandangan bergambar mengherotkan sudut dan panjang."
+        "en": "360 ÷ 40 = RM9.",
+        "bm": "360 ÷ 40 = RM9."
       },
       "difficulty": 3,
-      "options": [
-        {
-          "en": "Each view shows true shapes and exact dimensions",
-          "bm": "Setiap pandangan menunjukkan bentuk sebenar dan dimensi tepat"
-        },
-        {
-          "en": "It looks more realistic",
-          "bm": "Ia kelihatan lebih realistik"
-        },
-        {
-          "en": "It is faster to sketch",
-          "bm": "Ia lebih cepat dilakar"
-        },
-        {
-          "en": "It needs no dimensions",
-          "bm": "Ia tidak memerlukan dimensi"
-        }
-      ],
-      "answer": 0
+      "answer": 9,
+      "tolerance": 0.001,
+      "unit": "RM"
     },
     {
       "id": "f3rbt-02-q20",
-      "subtopicId": "f3rbt-02-03",
+      "subtopicId": "f3rbt-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "A drawing of a box shows a dashed circle in the front view. What does it mean?",
-        "bm": "Lukisan kotak menunjukkan bulatan putus-putus pada pandangan hadapan. Apakah maksudnya?"
+        "en": "Why is good documentation important in product development?",
+        "bm": "Mengapakah dokumentasi yang baik penting dalam pembangunan produk?"
       },
       "explanation": {
-        "en": "Dashed lines mean hidden detail.",
-        "bm": "Garisan putus-putus bermaksud butiran tersembunyi."
+        "en": "Industry relies on clear records.",
+        "bm": "Industri bergantung pada rekod yang jelas."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "There is a hole or round feature that cannot be seen from the front",
-          "bm": "Terdapat lubang atau bahagian bulat yang tidak kelihatan dari hadapan"
+          "en": "Others can understand, repeat and improve the work",
+          "bm": "Orang lain boleh memahami, mengulang dan menambah baik kerja itu"
         },
         {
-          "en": "A sticker on the front",
-          "bm": "Pelekat di hadapan"
+          "en": "It replaces the product",
+          "bm": "Ia menggantikan produk"
         },
         {
-          "en": "A mistake",
-          "bm": "Satu kesilapan"
+          "en": "It makes the product heavier",
+          "bm": "Ia menjadikan produk lebih berat"
         },
         {
-          "en": "The centre line",
-          "bm": "Garis tengah"
+          "en": "It is only for decoration",
+          "bm": "Ia hanya hiasan"
         }
       ],
       "answer": 0

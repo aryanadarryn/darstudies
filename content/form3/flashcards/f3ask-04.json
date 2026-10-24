@@ -5,180 +5,180 @@
       "id": "f3ask-04-f01",
       "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "HTML",
-        "bm": "HTML"
+        "en": "Database",
+        "bm": "Pangkalan data"
       },
       "back": {
-        "en": "HyperText Markup Language — page structure",
-        "bm": "HyperText Markup Language — struktur halaman"
+        "en": "Organised collection of related data",
+        "bm": "Koleksi data berkaitan yang tersusun"
       }
     },
     {
       "id": "f3ask-04-f02",
       "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "Page skeleton",
-        "bm": "Rangka halaman"
+        "en": "SQL",
+        "bm": "SQL"
       },
       "back": {
-        "en": "<!DOCTYPE html>, <html>, <head>, <body>",
-        "bm": "<!DOCTYPE html>, <html>, <head>, <body>"
+        "en": "Structured Query Language",
+        "bm": "Structured Query Language"
       }
     },
     {
       "id": "f3ask-04-f03",
       "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<head> / <title>",
-        "bm": "<head> / <title>"
+        "en": "Entity / attribute",
+        "bm": "Entiti / atribut"
       },
       "back": {
-        "en": "Page info / browser tab text",
-        "bm": "Maklumat halaman / teks tab pelayar"
+        "en": "Table / field",
+        "bm": "Jadual / medan"
       }
     },
     {
       "id": "f3ask-04-f04",
       "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<h1>–<h6>",
-        "bm": "<h1>–<h6>"
+        "en": "Primary key",
+        "bm": "Kekunci primer"
       },
       "back": {
-        "en": "Headings; h1 largest",
-        "bm": "Tajuk; h1 paling besar"
+        "en": "Unique identifier, e.g. NoMurid",
+        "bm": "Pengecam unik, cth. NoMurid"
       }
     },
     {
       "id": "f3ask-04-f05",
       "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<p> / <br>",
-        "bm": "<p> / <br>"
+        "en": "Foreign key",
+        "bm": "Kekunci asing"
       },
       "back": {
-        "en": "Paragraph / line break (no closing tag)",
-        "bm": "Perenggan / pemisah baris (tiada tag penutup)"
+        "en": "Refers to another table's primary key",
+        "bm": "Merujuk kekunci primer jadual lain"
       }
     },
     {
       "id": "f3ask-04-f06",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<a href=\"…\">",
-        "bm": "<a href=\"…\">"
+        "en": "Cardinality 1:1 / 1:M",
+        "bm": "Kekardinalan 1:1 / 1:M"
       },
       "back": {
-        "en": "Hyperlink",
-        "bm": "Hiperpautan"
+        "en": "One student–one MyKad / one class–many students",
+        "bm": "Seorang murid–satu MyKad / satu kelas–ramai murid"
       }
     },
     {
       "id": "f3ask-04-f07",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<img src=\"…\" alt=\"…\">",
-        "bm": "<img src=\"…\" alt=\"…\">"
+        "en": "Form / report",
+        "bm": "Borang / laporan"
       },
       "back": {
-        "en": "Image + text description",
-        "bm": "Imej + penerangan teks"
+        "en": "Enter data / present query results",
+        "bm": "Masukkan data / paparkan hasil pertanyaan"
       }
     },
     {
       "id": "f3ask-04-f08",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<ul> / <ol> / <li>",
-        "bm": "<ul> / <ol> / <li>"
+        "en": "SELECT * FROM T",
+        "bm": "SELECT * FROM T"
       },
       "back": {
-        "en": "Bullets / numbers / list item",
-        "bm": "Bulet / nombor / item senarai"
+        "en": "All fields, all records",
+        "bm": "Semua medan, semua rekod"
       }
     },
     {
       "id": "f3ask-04-f09",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "<table> <tr> <td> <th>",
-        "bm": "<table> <tr> <td> <th>"
+        "en": "WHERE",
+        "bm": "WHERE"
       },
       "back": {
-        "en": "Table, row, cell, header cell",
-        "bm": "Jadual, baris, sel, sel pengepala"
+        "en": "Filter by condition",
+        "bm": "Tapis mengikut syarat"
       }
     },
     {
       "id": "f3ask-04-f10",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "Attribute",
-        "bm": "Atribut"
+        "en": "ORDER BY … DESC",
+        "bm": "ORDER BY … DESC"
       },
       "back": {
-        "en": "Extra info in a tag: href, src, alt",
-        "bm": "Maklumat tambahan dalam tag: href, src, alt"
+        "en": "Sort results (DESC = descending)",
+        "bm": "Isih hasil (DESC = menurun)"
       }
     },
     {
       "id": "f3ask-04-f11",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-01",
       "front": {
-        "en": "CSS",
-        "bm": "CSS"
+        "en": "AND / OR",
+        "bm": "AND / OR"
       },
       "back": {
-        "en": "Cascading Style Sheets — appearance",
-        "bm": "Cascading Style Sheets — rupa"
+        "en": "Both true / either true",
+        "bm": "Kedua-dua benar / salah satu benar"
       }
     },
     {
       "id": "f3ask-04-f12",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "front": {
-        "en": "CSS rule",
-        "bm": "Peraturan CSS"
+        "en": "Function",
+        "bm": "Function"
       },
       "back": {
-        "en": "selector { property: value; }",
-        "bm": "pemilih { sifat: nilai; }"
+        "en": "Returns a value",
+        "bm": "Memulangkan nilai"
       }
     },
     {
       "id": "f3ask-04-f13",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "front": {
-        "en": ".class / #id",
-        "bm": ".class / #id"
+        "en": "Procedure",
+        "bm": "Procedure"
       },
       "back": {
-        "en": "Many elements / one unique element",
-        "bm": "Banyak elemen / satu elemen unik"
+        "en": "Performs a task, no return value",
+        "bm": "Melaksanakan tugas, tiada nilai pulangan"
       }
     },
     {
       "id": "f3ask-04-f14",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "front": {
-        "en": "Ways to add CSS",
-        "bm": "Cara menambah CSS"
+        "en": "Built-in vs user-defined",
+        "bm": "Terbina dalam vs dihasilkan sendiri"
       },
       "back": {
-        "en": "Inline, internal <style>, external .css",
-        "bm": "Sebaris, dalaman <style>, luaran .css"
+        "en": "len(), print() vs def luas(p, l)",
+        "bm": "len(), print() vs def luas(p, l)"
       }
     },
     {
       "id": "f3ask-04-f15",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "front": {
-        "en": "Common properties",
-        "bm": "Sifat lazim"
+        "en": "Why use them",
+        "bm": "Mengapa digunakan"
       },
       "back": {
-        "en": "color, background-color, font-size, text-align",
-        "bm": "color, background-color, font-size, text-align"
+        "en": "Reuse code, easier testing and fixing",
+        "bm": "Guna semula kod, mudah diuji dan dibaiki"
       }
     }
   ]

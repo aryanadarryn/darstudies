@@ -3,76 +3,84 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "In 1511 Melaka was one of the busiest ports in the world. Within a few months it fell to Portuguese cannons — and the Malay world entered a new era of Western powers.",
-      "bm": "Pada 1511 Melaka ialah antara pelabuhan paling sibuk di dunia. Dalam beberapa bulan ia jatuh ke tangan meriam Portugis — dan Alam Melayu memasuki era baharu kuasa Barat."
+      "en": "In the 1400s Melaka was one of the busiest ports in the world. Its wealth, location and stable rule were exactly what made Europeans want it.",
+      "bm": "Pada abad ke-15 Melaka ialah antara pelabuhan tersibuk di dunia. Kekayaan, kedudukan dan pemerintahannya yang stabil itulah yang menyebabkan orang Eropah ingin menguasainya."
     },
     "bigIdeas": [
       {
-        "en": "Western powers came for trade (especially spices), power and to spread their influence.",
-        "bm": "Kuasa Barat datang untuk perdagangan (terutamanya rempah), kuasa dan menyebarkan pengaruh."
+        "en": "Before colonisation the Malay sultanates were stable, with organised government, laws and thriving trade.",
+        "bm": "Sebelum dijajah, kesultanan Melayu stabil dengan pemerintahan, undang-undang dan perdagangan yang maju."
       },
       {
-        "en": "Portugal took Melaka in 1511; the Dutch took it in 1641.",
-        "bm": "Portugis menawan Melaka pada 1511; Belanda menawannya pada 1641."
+        "en": "Western powers came for economic gain, religion and power — and after the Industrial Revolution, for raw materials and markets.",
+        "bm": "Kuasa Barat datang kerana ekonomi, agama dan kuasa — dan selepas Revolusi Perindustrian, untuk bahan mentah dan pasaran."
       },
       {
-        "en": "Britain gained Penang (1786) and Singapore (1819); the 1824 treaty split the region between Britain and the Netherlands.",
-        "bm": "Britain memperoleh Pulau Pinang (1786) dan Singapura (1819); perjanjian 1824 membahagikan rantau ini antara Britain dan Belanda."
+        "en": "The Portuguese used force, the Dutch used alliances and treaties, and the British mainly used diplomacy and agreements.",
+        "bm": "Portugis menggunakan kekerasan, Belanda menggunakan pakatan dan perjanjian, manakala British banyak menggunakan diplomasi dan perjanjian."
       }
     ],
     "infographic": {
-      "kind": "process",
+      "kind": "compare",
       "data": {
-        "steps": [
+        "headers": [
           {
-            "title": {
-              "en": "1511",
-              "bm": "1511"
-            },
-            "detail": {
-              "en": "Portugal captures Melaka (Alfonso de Albuquerque)",
-              "bm": "Portugis menawan Melaka (Alfonso de Albuquerque)"
-            }
+            "en": "Strategy",
+            "bm": "Strategi"
           },
           {
-            "title": {
-              "en": "1641",
-              "bm": "1641"
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Portuguese",
+              "bm": "Portugis"
             },
-            "detail": {
-              "en": "The Dutch take Melaka from Portugal",
-              "bm": "Belanda merampas Melaka daripada Portugis"
-            }
+            "cells": [
+              {
+                "en": "Military conquest",
+                "bm": "Penaklukan ketenteraan"
+              },
+              {
+                "en": "Attacked and captured Melaka, 1511",
+                "bm": "Menyerang dan menawan Melaka, 1511"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1786",
-              "bm": "1786"
+            "label": {
+              "en": "Dutch",
+              "bm": "Belanda"
             },
-            "detail": {
-              "en": "Francis Light occupies Penang",
-              "bm": "Francis Light menduduki Pulau Pinang"
-            }
+            "cells": [
+              {
+                "en": "Alliances and monopoly treaties",
+                "bm": "Pakatan dan perjanjian monopoli"
+              },
+              {
+                "en": "Allied with Johor to take Melaka, 1641",
+                "bm": "Bersekutu dengan Johor untuk menawan Melaka, 1641"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1819",
-              "bm": "1819"
+            "label": {
+              "en": "British",
+              "bm": "British"
             },
-            "detail": {
-              "en": "Stamford Raffles opens Singapore",
-              "bm": "Stamford Raffles membuka Singapura"
-            }
-          },
-          {
-            "title": {
-              "en": "1824",
-              "bm": "1824"
-            },
-            "detail": {
-              "en": "Anglo-Dutch Treaty divides the Malay world",
-              "bm": "Perjanjian Inggeris-Belanda membahagikan Alam Melayu"
-            }
+            "cells": [
+              {
+                "en": "Diplomacy and agreements",
+                "bm": "Diplomasi dan perjanjian"
+              },
+              {
+                "en": "Penang 1786; Singapore 1819",
+                "bm": "Pulau Pinang 1786; Singapura 1819"
+              }
+            ]
           }
         ]
       }
@@ -80,12 +88,22 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Imperialism",
-          "bm": "Imperialisme"
+          "en": "Entrepôt",
+          "bm": "Pelabuhan entrepot"
         },
         "definition": {
-          "en": "A strong country extending its power over other lands.",
-          "bm": "Negara kuat meluaskan kuasanya ke atas wilayah lain."
+          "en": "A port where goods are collected and re-exported.",
+          "bm": "Pelabuhan tempat barang dikumpul dan dieksport semula."
+        }
+      },
+      {
+        "term": {
+          "en": "Industrial Revolution",
+          "bm": "Revolusi Perindustrian"
+        },
+        "definition": {
+          "en": "Change to machine production in Europe, creating demand for raw materials and markets.",
+          "bm": "Perubahan kepada pengeluaran menggunakan mesin di Eropah yang meningkatkan permintaan bahan mentah dan pasaran."
         }
       },
       {
@@ -94,50 +112,50 @@
           "bm": "Monopoli"
         },
         "definition": {
-          "en": "Sole control over trade in a product.",
+          "en": "Sole control of trade in a product.",
           "bm": "Kawalan penuh ke atas perdagangan sesuatu barangan."
         }
       },
       {
         "term": {
-          "en": "Sphere of influence",
-          "bm": "Lingkungan pengaruh"
+          "en": "Colony",
+          "bm": "Tanah jajahan"
         },
         "definition": {
-          "en": "An area where one power has control or special rights.",
-          "bm": "Kawasan yang dikuasai atau diberi hak istimewa kepada sesuatu kuasa."
+          "en": "A territory ruled by a foreign power.",
+          "bm": "Wilayah yang diperintah oleh kuasa asing."
         }
       },
       {
         "term": {
-          "en": "East India Company (EIC)",
-          "bm": "Syarikat Hindia Timur Inggeris (SHTI)"
+          "en": "3G",
+          "bm": "3G"
         },
         "definition": {
-          "en": "British trading company that acquired Penang and Singapore.",
-          "bm": "Syarikat perdagangan British yang memperoleh Pulau Pinang dan Singapura."
+          "en": "Gold, Glory, Gospel — wealth, power and religion as motives.",
+          "bm": "Gold, Glory, Gospel — kekayaan, kuasa dan agama sebagai motif."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Explain TWO reasons Britain wanted Penang in 1786.",
-        "bm": "Jelaskan DUA sebab British mahukan Pulau Pinang pada 1786."
+        "en": "Compare how the Portuguese and the British first gained territory in our country.",
+        "bm": "Bandingkan cara Portugis dan British mula-mula memperoleh wilayah di negara kita."
       },
       "steps": [
         {
-          "en": "A port to repair and supply ships on the route between India and China.",
-          "bm": "Pelabuhan untuk membaiki dan membekalkan kapal dalam laluan antara India dan China."
+          "en": "Portuguese: attacked Melaka with a fleet under Alfonso de Albuquerque in 1511.",
+          "bm": "Portugis: menyerang Melaka dengan armada di bawah Alfonso de Albuquerque pada 1511."
         },
         {
-          "en": "A base to protect and expand British trade in the region against the Dutch.",
-          "bm": "Pangkalan untuk melindungi dan meluaskan perdagangan British di rantau ini bagi menyaingi Belanda."
+          "en": "British: Francis Light occupied Penang in 1786 after negotiating with the Sultan of Kedah.",
+          "bm": "British: Francis Light menduduki Pulau Pinang pada 1786 selepas berunding dengan Sultan Kedah."
         }
       ],
       "answer": {
-        "en": "Each point + elaboration = 2 marks.",
-        "bm": "Setiap isi + huraian = 2 markah."
+        "en": "The Portuguese used force; the British used negotiation and agreements.",
+        "bm": "Portugis menggunakan kekerasan; British menggunakan rundingan dan perjanjian."
       }
     }
   },
@@ -147,30 +165,30 @@
       "subtopicId": "f3sej-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "In which year did Portugal capture Melaka?",
-        "bm": "Pada tahun berapakah Portugis menawan Melaka?"
+        "en": "Why was Melaka a famous entrepôt in the 15th century?",
+        "bm": "Mengapakah Melaka menjadi pelabuhan entrepot terkenal pada abad ke-15?"
       },
       "explanation": {
-        "en": "Alfonso de Albuquerque led the attack in 1511.",
-        "bm": "Alfonso de Albuquerque mengetuai serangan pada 1511."
+        "en": "Monsoon winds also brought traders from east and west.",
+        "bm": "Angin monsun juga membawa pedagang dari timur dan barat."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "1511",
-          "bm": "1511"
+          "en": "Strategic location on the Straits of Melaka and good port facilities",
+          "bm": "Kedudukan strategik di Selat Melaka dan kemudahan pelabuhan yang baik"
         },
         {
-          "en": "1641",
-          "bm": "1641"
+          "en": "It had no rulers",
+          "bm": "Ia tiada pemerintah"
         },
         {
-          "en": "1786",
-          "bm": "1786"
+          "en": "It banned foreign traders",
+          "bm": "Ia melarang pedagang asing"
         },
         {
-          "en": "1824",
-          "bm": "1824"
+          "en": "It was far from trade routes",
+          "bm": "Ia jauh dari laluan perdagangan"
         }
       ],
       "answer": 0
@@ -180,45 +198,128 @@
       "subtopicId": "f3sej-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Who led the Portuguese attack on Melaka?",
-        "bm": "Siapakah yang mengetuai serangan Portugis ke atas Melaka?"
+        "en": "Which shows the stability of the Malay sultanates before colonisation?",
+        "bm": "Manakah menunjukkan kestabilan kesultanan Melayu sebelum dijajah?"
       },
       "explanation": {
-        "en": "He was the Portuguese commander in the East.",
-        "bm": "Beliau panglima Portugis di Timur."
+        "en": "e.g. Hukum Kanun Melaka and the Sultan–Bendahara system.",
+        "bm": "cth. Hukum Kanun Melaka dan sistem Sultan–Bendahara."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Alfonso de Albuquerque",
-          "bm": "Alfonso de Albuquerque"
+          "en": "An organised system of government and laws",
+          "bm": "Sistem pemerintahan dan undang-undang yang tersusun"
         },
         {
-          "en": "Francis Light",
-          "bm": "Francis Light"
+          "en": "Constant civil war",
+          "bm": "Perang saudara berterusan"
         },
         {
-          "en": "Stamford Raffles",
-          "bm": "Stamford Raffles"
+          "en": "No trade",
+          "bm": "Tiada perdagangan"
         },
         {
-          "en": "James Brooke",
-          "bm": "James Brooke"
+          "en": "No rulers",
+          "bm": "Tiada pemerintah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q03",
-      "subtopicId": "f3sej-01-01",
+      "subtopicId": "f3sej-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "The Dutch took Melaka from the Portuguese in…",
-        "bm": "Belanda mengambil Melaka daripada Portugis pada…"
+        "en": "\"Gold, Glory, Gospel\" refers to Western motives of…",
+        "bm": "\"Gold, Glory, Gospel\" merujuk motif Barat iaitu…"
       },
       "explanation": {
-        "en": "The Dutch were helped by Johor.",
-        "bm": "Belanda dibantu oleh Johor."
+        "en": "These drove early European voyages.",
+        "bm": "Motif ini mendorong pelayaran awal orang Eropah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "wealth, power and religion",
+          "bm": "kekayaan, kuasa dan agama"
+        },
+        {
+          "en": "education, health and sport",
+          "bm": "pendidikan, kesihatan dan sukan"
+        },
+        {
+          "en": "farming, fishing and mining",
+          "bm": "pertanian, perikanan dan perlombongan"
+        },
+        {
+          "en": "music, art and dance",
+          "bm": "muzik, seni dan tarian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-01-q04",
+      "subtopicId": "f3sej-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "After the Industrial Revolution, Western powers wanted colonies mainly for…",
+        "bm": "Selepas Revolusi Perindustrian, kuasa Barat mahukan tanah jajahan terutamanya untuk…"
+      },
+      "explanation": {
+        "en": "Tin and later rubber became key raw materials.",
+        "bm": "Bijih timah dan kemudian getah menjadi bahan mentah utama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "raw materials and markets for factory goods",
+          "bm": "bahan mentah dan pasaran bagi barangan kilang"
+        },
+        {
+          "en": "tourism",
+          "bm": "pelancongan"
+        },
+        {
+          "en": "sports competitions",
+          "bm": "pertandingan sukan"
+        },
+        {
+          "en": "religious festivals only",
+          "bm": "perayaan agama sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-01-q05",
+      "subtopicId": "f3sej-01-04",
+      "type": "fill",
+      "prompt": {
+        "en": "The Portuguese captured Melaka in the year ______.",
+        "bm": "Portugis menawan Melaka pada tahun ______."
+      },
+      "explanation": {
+        "en": "Led by Alfonso de Albuquerque.",
+        "bm": "Diketuai oleh Alfonso de Albuquerque."
+      },
+      "difficulty": 1,
+      "answer": [
+        "1511"
+      ]
+    },
+    {
+      "id": "f3sej-01-q06",
+      "subtopicId": "f3sej-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Dutch captured Melaka from the Portuguese in…",
+        "bm": "Belanda menawan Melaka daripada Portugis pada…"
+      },
+      "explanation": {
+        "en": "They were helped by Johor.",
+        "bm": "Mereka dibantu oleh Johor."
       },
       "difficulty": 1,
       "options": [
@@ -231,8 +332,41 @@
           "bm": "1511"
         },
         {
+          "en": "1786",
+          "bm": "1786"
+        },
+        {
+          "en": "1824",
+          "bm": "1824"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-01-q07",
+      "subtopicId": "f3sej-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Francis Light occupied Penang in…",
+        "bm": "Francis Light menduduki Pulau Pinang pada…"
+      },
+      "explanation": {
+        "en": "On behalf of the British East India Company.",
+        "bm": "Bagi pihak Syarikat Hindia Timur Inggeris (SHTI)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1786",
+          "bm": "1786"
+        },
+        {
           "en": "1819",
           "bm": "1819"
+        },
+        {
+          "en": "1641",
+          "bm": "1641"
         },
         {
           "en": "1874",
@@ -242,183 +376,146 @@
       "answer": 0
     },
     {
-      "id": "f3sej-01-q04",
-      "subtopicId": "f3sej-01-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who occupied Penang for the British in 1786?",
-        "bm": "Siapakah yang menduduki Pulau Pinang bagi pihak British pada 1786?"
-      },
-      "explanation": {
-        "en": "He negotiated with Sultan Abdullah of Kedah.",
-        "bm": "Beliau berunding dengan Sultan Abdullah dari Kedah."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Francis Light",
-          "bm": "Francis Light"
-        },
-        {
-          "en": "Stamford Raffles",
-          "bm": "Stamford Raffles"
-        },
-        {
-          "en": "J.W.W. Birch",
-          "bm": "J.W.W. Birch"
-        },
-        {
-          "en": "Frank Swettenham",
-          "bm": "Frank Swettenham"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-01-q05",
-      "subtopicId": "f3sej-01-02",
-      "type": "fill",
-      "prompt": {
-        "en": "Singapore was opened by Stamford ______ in 1819.",
-        "bm": "Singapura dibuka oleh Stamford ______ pada 1819."
-      },
-      "explanation": {
-        "en": "He saw Singapore's strategic position at the southern tip of the Peninsula.",
-        "bm": "Beliau melihat kedudukan strategik Singapura di hujung selatan Semenanjung."
-      },
-      "difficulty": 1,
-      "answer": [
-        "Raffles"
-      ]
-    },
-    {
-      "id": "f3sej-01-q06",
-      "subtopicId": "f3sej-01-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Penang was obtained from the ruler of which state?",
-        "bm": "Pulau Pinang diperoleh daripada pemerintah negeri manakah?"
-      },
-      "explanation": {
-        "en": "Sultan Abdullah of Kedah hoped for British help against Siam.",
-        "bm": "Sultan Abdullah Kedah mengharapkan bantuan British menentang Siam."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Kedah",
-          "bm": "Kedah"
-        },
-        {
-          "en": "Johor",
-          "bm": "Johor"
-        },
-        {
-          "en": "Perak",
-          "bm": "Perak"
-        },
-        {
-          "en": "Melaka",
-          "bm": "Melaka"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-01-q07",
+      "id": "f3sej-01-q08",
       "subtopicId": "f3sej-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "The Anglo-Dutch Treaty was signed in…",
-        "bm": "Perjanjian Inggeris-Belanda ditandatangani pada…"
+        "en": "Which Western powers competed for colonies in the Malay world?",
+        "bm": "Kuasa Barat manakah bersaing mendapatkan tanah jajahan di Alam Melayu?"
       },
       "explanation": {
-        "en": "It was signed in London on 17 March 1824.",
-        "bm": "Ia ditandatangani di London pada 17 Mac 1824."
+        "en": "Each tried to control trade in the region.",
+        "bm": "Setiap satu cuba menguasai perdagangan di rantau ini."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "1824",
-          "bm": "1824"
+          "en": "Portuguese, Dutch and British",
+          "bm": "Portugis, Belanda dan British"
         },
         {
-          "en": "1786",
-          "bm": "1786"
+          "en": "Chinese and Indian",
+          "bm": "China dan India"
         },
         {
-          "en": "1909",
-          "bm": "1909"
+          "en": "Japanese only",
+          "bm": "Jepun sahaja"
         },
         {
-          "en": "1896",
-          "bm": "1896"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-01-q08",
-      "subtopicId": "f3sej-01-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "What was the main product Western powers sought in the Malay world?",
-        "bm": "Apakah barangan utama yang dicari kuasa Barat di Alam Melayu?"
-      },
-      "explanation": {
-        "en": "Spices such as pepper, cloves and nutmeg were very valuable in Europe.",
-        "bm": "Rempah seperti lada, cengkih dan pala sangat bernilai di Eropah."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Spices",
-          "bm": "Rempah"
-        },
-        {
-          "en": "Rubber",
-          "bm": "Getah"
-        },
-        {
-          "en": "Oil palm",
-          "bm": "Kelapa sawit"
-        },
-        {
-          "en": "Petroleum",
-          "bm": "Petroleum"
+          "en": "Arabs only",
+          "bm": "Arab sahaja"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q09",
-      "subtopicId": "f3sej-01-01",
-      "type": "multi",
+      "subtopicId": "f3sej-01-04",
+      "type": "match",
       "prompt": {
-        "en": "Select ALL motives of Western powers in the East.",
-        "bm": "Pilih SEMUA motif kuasa Barat ke Timur."
+        "en": "Match each power with its main strategy.",
+        "bm": "Padankan kuasa dengan strategi utamanya."
       },
       "explanation": {
-        "en": "Often summed up as \"Gold, Gospel and Glory\".",
-        "bm": "Sering diringkaskan sebagai \"Gold, Gospel and Glory\"."
+        "en": "Strategies differed but the aim was control.",
+        "bm": "Strategi berbeza tetapi matlamatnya ialah penguasaan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Portuguese",
+            "bm": "Portugis"
+          },
+          "right": {
+            "en": "Military conquest",
+            "bm": "Penaklukan ketenteraan"
+          }
+        },
+        {
+          "left": {
+            "en": "Dutch",
+            "bm": "Belanda"
+          },
+          "right": {
+            "en": "Alliances and monopoly treaties",
+            "bm": "Pakatan dan perjanjian monopoli"
+          }
+        },
+        {
+          "left": {
+            "en": "British",
+            "bm": "British"
+          },
+          "right": {
+            "en": "Diplomacy and agreements",
+            "bm": "Diplomasi dan perjanjian"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sej-01-q10",
+      "subtopicId": "f3sej-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did Europeans want spices from the East?",
+        "bm": "Mengapakah orang Eropah mahukan rempah dari Timur?"
+      },
+      "explanation": {
+        "en": "Controlling the spice trade meant huge profits.",
+        "bm": "Menguasai perdagangan rempah bermakna keuntungan besar."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Economic — trade in spices",
-          "bm": "Ekonomi — perdagangan rempah"
+          "en": "They were valuable for preserving and flavouring food and fetched high prices",
+          "bm": "Ia bernilai untuk mengawet dan memberi rasa makanan serta berharga tinggi"
         },
         {
-          "en": "Spreading religion",
-          "bm": "Menyebarkan agama"
+          "en": "They were used as fuel",
+          "bm": "Ia digunakan sebagai bahan api"
         },
         {
-          "en": "Gaining power and glory",
-          "bm": "Mendapatkan kuasa dan kegemilangan"
+          "en": "They were free",
+          "bm": "Ia percuma"
         },
         {
-          "en": "Giving independence to colonies",
-          "bm": "Memberi kemerdekaan kepada tanah jajahan"
+          "en": "They were used to build ships",
+          "bm": "Ia digunakan untuk membina kapal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-01-q11",
+      "subtopicId": "f3sej-01-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of our country that attracted Western powers.",
+        "bm": "Pilih SEMUA ciri negara kita yang menarik kuasa Barat."
+      },
+      "explanation": {
+        "en": "Wealth and location made the region valuable.",
+        "bm": "Kekayaan dan kedudukan menjadikan rantau ini bernilai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Strategic position on trade routes",
+          "bm": "Kedudukan strategik di laluan perdagangan"
+        },
+        {
+          "en": "Rich natural resources such as tin",
+          "bm": "Sumber alam yang kaya seperti bijih timah"
+        },
+        {
+          "en": "Busy ports",
+          "bm": "Pelabuhan yang sibuk"
+        },
+        {
+          "en": "Freezing climate",
+          "bm": "Iklim sejuk beku"
         }
       ],
       "answer": [
@@ -428,342 +525,249 @@
       ]
     },
     {
-      "id": "f3sej-01-q10",
-      "subtopicId": "f3sej-01-01",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange these events in time order.",
-        "bm": "Susun peristiwa ini mengikut kronologi."
-      },
-      "explanation": {
-        "en": "1511 → 1641 → 1786 → 1819 → 1824.",
-        "bm": "1511 → 1641 → 1786 → 1819 → 1824."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Portugal takes Melaka",
-          "bm": "Portugis menawan Melaka"
-        },
-        {
-          "en": "The Dutch take Melaka",
-          "bm": "Belanda menawan Melaka"
-        },
-        {
-          "en": "Francis Light occupies Penang",
-          "bm": "Francis Light menduduki Pulau Pinang"
-        },
-        {
-          "en": "Raffles opens Singapore",
-          "bm": "Raffles membuka Singapura"
-        },
-        {
-          "en": "Anglo-Dutch Treaty",
-          "bm": "Perjanjian Inggeris-Belanda"
-        }
-      ]
-    },
-    {
-      "id": "f3sej-01-q11",
-      "subtopicId": "f3sej-01-03",
-      "type": "match",
-      "prompt": {
-        "en": "Match each result of the 1824 treaty.",
-        "bm": "Padankan setiap kesan perjanjian 1824."
-      },
-      "explanation": {
-        "en": "This later shaped the borders of Malaysia and Indonesia.",
-        "bm": "Ini kemudian membentuk sempadan Malaysia dan Indonesia."
-      },
-      "difficulty": 2,
-      "pairs": [
-        {
-          "left": {
-            "en": "Melaka",
-            "bm": "Melaka"
-          },
-          "right": {
-            "en": "Given to Britain",
-            "bm": "Diserahkan kepada British"
-          }
-        },
-        {
-          "left": {
-            "en": "Bencoolen (Sumatra)",
-            "bm": "Bangkahulu (Sumatera)"
-          },
-          "right": {
-            "en": "Given to the Netherlands",
-            "bm": "Diserahkan kepada Belanda"
-          }
-        },
-        {
-          "left": {
-            "en": "Area north of Singapore",
-            "bm": "Kawasan utara Singapura"
-          },
-          "right": {
-            "en": "British sphere of influence",
-            "bm": "Lingkungan pengaruh British"
-          }
-        },
-        {
-          "left": {
-            "en": "Area south of Singapore",
-            "bm": "Kawasan selatan Singapura"
-          },
-          "right": {
-            "en": "Dutch sphere of influence",
-            "bm": "Lingkungan pengaruh Belanda"
-          }
-        }
-      ]
-    },
-    {
       "id": "f3sej-01-q12",
-      "subtopicId": "f3sej-01-03",
+      "subtopicId": "f3sej-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "What was a major effect of the Anglo-Dutch Treaty on the Johor-Riau kingdom?",
-        "bm": "Apakah kesan utama Perjanjian Inggeris-Belanda ke atas kerajaan Johor-Riau?"
+        "en": "How did the Dutch try to control trade after taking Melaka?",
+        "bm": "Bagaimanakah Belanda cuba menguasai perdagangan selepas menawan Melaka?"
       },
       "explanation": {
-        "en": "The Malay world was divided without the consent of the local rulers.",
-        "bm": "Alam Melayu dibahagikan tanpa persetujuan pemerintah tempatan."
+        "en": "e.g. tin agreements with Perak.",
+        "bm": "cth. perjanjian bijih timah dengan Perak."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "It was split into two: Johor under British influence and Riau under Dutch influence",
-          "bm": "Ia terbahagi dua: Johor di bawah pengaruh British dan Riau di bawah pengaruh Belanda"
+          "en": "By making monopoly treaties with local rulers, e.g. for tin",
+          "bm": "Dengan membuat perjanjian monopoli dengan pemerintah tempatan, cth. bijih timah"
         },
         {
-          "en": "It became fully independent",
-          "bm": "Ia merdeka sepenuhnya"
+          "en": "By abolishing all trade",
+          "bm": "Dengan menghapuskan semua perdagangan"
         },
         {
-          "en": "It joined Siam",
-          "bm": "Ia menyertai Siam"
+          "en": "By giving free goods",
+          "bm": "Dengan memberi barangan percuma"
         },
         {
-          "en": "It became part of Portugal",
-          "bm": "Ia menjadi sebahagian Portugal"
+          "en": "By leaving the region",
+          "bm": "Dengan meninggalkan rantau ini"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q13",
-      "subtopicId": "f3sej-01-02",
+      "subtopicId": "f3sej-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "Why was Singapore's location attractive to the British?",
-        "bm": "Mengapakah kedudukan Singapura menarik minat British?"
+        "en": "Why did the Sultan of Kedah allow Francis Light to occupy Penang?",
+        "bm": "Mengapakah Sultan Kedah membenarkan Francis Light menduduki Pulau Pinang?"
       },
       "explanation": {
-        "en": "A free port there could challenge Dutch trade.",
-        "bm": "Pelabuhan bebas di situ boleh menyaingi perdagangan Belanda."
+        "en": "The British later did not give the promised protection.",
+        "bm": "British kemudian tidak memberikan perlindungan yang dijanjikan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "It lay on the main sea route between India and China at the tip of the Peninsula",
-          "bm": "Ia terletak di laluan laut utama antara India dan China di hujung Semenanjung"
+          "en": "He hoped for British protection against Siam",
+          "bm": "Baginda mengharapkan perlindungan British daripada Siam"
         },
         {
-          "en": "It had large gold mines",
-          "bm": "Ia mempunyai lombong emas yang besar"
+          "en": "He wanted to leave Kedah",
+          "bm": "Baginda mahu meninggalkan Kedah"
         },
         {
-          "en": "It was far from the sea",
-          "bm": "Ia jauh dari laut"
+          "en": "The British paid nothing and promised nothing",
+          "bm": "British tidak membayar dan tidak berjanji apa-apa"
         },
         {
-          "en": "It was owned by Portugal",
-          "bm": "Ia milik Portugis"
+          "en": "Siam ordered him to",
+          "bm": "Siam memerintahkannya"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q14",
-      "subtopicId": "f3sej-01-01",
+      "subtopicId": "f3sej-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "Which Malay kingdom helped the Dutch capture Melaka in 1641?",
-        "bm": "Kerajaan Melayu manakah membantu Belanda menawan Melaka pada 1641?"
+        "en": "Stamford Raffles obtained Singapore in 1819 by…",
+        "bm": "Stamford Raffles memperoleh Singapura pada 1819 dengan…"
       },
       "explanation": {
-        "en": "Johor and the Dutch were both rivals of the Portuguese.",
-        "bm": "Johor dan Belanda sama-sama menentang Portugis."
+        "en": "He exploited a succession dispute in Johor.",
+        "bm": "Beliau mengambil kesempatan atas perebutan takhta Johor."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Johor",
-          "bm": "Johor"
+          "en": "recognising Tengku Hussein as Sultan of Johor and signing an agreement",
+          "bm": "mengiktiraf Tengku Hussein sebagai Sultan Johor dan menandatangani perjanjian"
         },
         {
-          "en": "Kedah",
-          "bm": "Kedah"
+          "en": "a large naval war",
+          "bm": "peperangan laut besar-besaran"
         },
         {
-          "en": "Kelantan",
-          "bm": "Kelantan"
+          "en": "buying it from the Dutch",
+          "bm": "membelinya daripada Belanda"
         },
         {
-          "en": "Brunei",
-          "bm": "Brunei"
+          "en": "a gift from Siam",
+          "bm": "hadiah daripada Siam"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q15",
-      "subtopicId": "f3sej-01-02",
-      "type": "mcq",
+      "subtopicId": "f3sej-01-03",
+      "type": "order",
       "prompt": {
-        "en": "Sultan Abdullah of Kedah allowed the British into Penang mainly because he hoped for…",
-        "bm": "Sultan Abdullah Kedah membenarkan British ke Pulau Pinang terutamanya kerana mengharapkan…"
+        "en": "Arrange these events in chronological order.",
+        "bm": "Susun peristiwa ini mengikut kronologi."
       },
       "explanation": {
-        "en": "The British later refused to help, and Kedah was attacked by Siam in 1821.",
-        "bm": "British kemudian enggan membantu, dan Kedah diserang Siam pada 1821."
+        "en": "1511 → 1641 → 1786 → 1819.",
+        "bm": "1511 → 1641 → 1786 → 1819."
       },
       "difficulty": 2,
-      "options": [
+      "items": [
         {
-          "en": "protection from Siam",
-          "bm": "perlindungan daripada Siam"
+          "en": "Portuguese capture Melaka",
+          "bm": "Portugis menawan Melaka"
         },
         {
-          "en": "British citizenship",
-          "bm": "kerakyatan British"
+          "en": "Dutch capture Melaka",
+          "bm": "Belanda menawan Melaka"
         },
         {
-          "en": "a railway",
-          "bm": "landasan kereta api"
+          "en": "British occupy Penang",
+          "bm": "British menduduki Pulau Pinang"
         },
         {
-          "en": "rubber seeds",
-          "bm": "benih getah"
+          "en": "British open Singapore",
+          "bm": "British membuka Singapura"
         }
-      ],
-      "answer": 0
+      ]
     },
     {
       "id": "f3sej-01-q16",
-      "subtopicId": "f3sej-01-02",
+      "subtopicId": "f3sej-01-03",
       "type": "fill",
       "prompt": {
-        "en": "A port where traders pay little or no tax is called a ______ port.",
-        "bm": "Pelabuhan yang pedagangnya membayar sedikit atau tiada cukai dipanggil pelabuhan ______."
+        "en": "The British trading company that acquired Penang and Singapore was the British ______ India Company.",
+        "bm": "Syarikat perdagangan British yang memperoleh Pulau Pinang dan Singapura ialah Syarikat Hindia ______ Inggeris."
       },
       "explanation": {
-        "en": "Singapore grew quickly as a free port.",
-        "bm": "Singapura berkembang pesat sebagai pelabuhan bebas."
+        "en": "It traded across Asia and ruled parts of India.",
+        "bm": "Ia berdagang di seluruh Asia dan memerintah sebahagian India."
       },
       "difficulty": 2,
       "answer": [
-        "free",
-        "bebas"
+        "East",
+        "Timur"
       ]
     },
     {
       "id": "f3sej-01-q17",
-      "subtopicId": "f3sej-01-03",
+      "subtopicId": "f3sej-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why can the Anglo-Dutch Treaty 1824 be called unfair to the Malay world?",
-        "bm": "Mengapakah Perjanjian Inggeris-Belanda 1824 boleh dianggap tidak adil kepada Alam Melayu?"
+        "en": "Why did the Industrial Revolution increase Western interest in the Malay states?",
+        "bm": "Mengapakah Revolusi Perindustrian meningkatkan minat Barat terhadap negeri-negeri Melayu?"
       },
       "explanation": {
-        "en": "Families and kingdoms with long ties were separated.",
-        "bm": "Keluarga dan kerajaan yang lama berhubungan dipisahkan."
+        "en": "Tin was used for tin-plate (canning).",
+        "bm": "Bijih timah digunakan untuk tin sadur (pengetinan)."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Two foreign powers divided Malay lands without asking the Malay rulers",
-          "bm": "Dua kuasa asing membahagikan tanah Melayu tanpa bertanya kepada raja-raja Melayu"
+          "en": "Factories needed tin and other raw materials, and new markets for their goods",
+          "bm": "Kilang memerlukan bijih timah dan bahan mentah lain serta pasaran baharu untuk barangan"
         },
         {
-          "en": "It gave the Malays all of Sumatra",
-          "bm": "Ia memberi seluruh Sumatera kepada orang Melayu"
+          "en": "Europe stopped needing trade",
+          "bm": "Eropah tidak lagi memerlukan perdagangan"
         },
         {
-          "en": "It ended all trade",
-          "bm": "Ia menamatkan semua perdagangan"
+          "en": "Machines made spices worthless",
+          "bm": "Mesin menjadikan rempah tidak bernilai"
         },
         {
-          "en": "It was signed in Melaka",
-          "bm": "Ia ditandatangani di Melaka"
+          "en": "It ended colonisation",
+          "bm": "Ia menamatkan penjajahan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q18",
-      "subtopicId": "f3sej-01-01",
+      "subtopicId": "f3sej-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "What lesson can Malaysia learn from the fall of Melaka in 1511?",
-        "bm": "Apakah pengajaran kepada Malaysia daripada kejatuhan Melaka pada 1511?"
+        "en": "Why did the British usually prefer treaties to war in the Malay states?",
+        "bm": "Mengapakah British biasanya lebih memilih perjanjian berbanding perang di negeri-negeri Melayu?"
       },
       "explanation": {
-        "en": "Internal weaknesses made Melaka easier to conquer.",
-        "bm": "Kelemahan dalaman memudahkan Melaka ditawan."
+        "en": "This is why many British gains came through agreements.",
+        "bm": "Itulah sebabnya banyak penguasaan British diperoleh melalui perjanjian."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Unity, strong defence and good leadership are needed to protect sovereignty",
-          "bm": "Perpaduan, pertahanan yang kuat dan kepimpinan yang baik diperlukan untuk melindungi kedaulatan"
+          "en": "Treaties were cheaper and looked legal, while still giving them control",
+          "bm": "Perjanjian lebih murah dan kelihatan sah, sambil tetap memberi mereka kawalan"
         },
         {
-          "en": "Trade is always harmful",
-          "bm": "Perdagangan sentiasa memudaratkan"
+          "en": "They had no army",
+          "bm": "Mereka tiada tentera"
         },
         {
-          "en": "Ports should be closed",
-          "bm": "Pelabuhan patut ditutup"
+          "en": "Local rulers asked them to rule",
+          "bm": "Pemerintah tempatan meminta mereka memerintah"
         },
         {
-          "en": "Foreign powers are always friends",
-          "bm": "Kuasa asing sentiasa kawan"
+          "en": "War was forbidden in Europe",
+          "bm": "Perang dilarang di Eropah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-01-q19",
-      "subtopicId": "f3sej-01-02",
+      "subtopicId": "f3sej-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "How did the British way of gaining Penang differ from Portugal's way of gaining Melaka?",
-        "bm": "Bagaimanakah cara British memperoleh Pulau Pinang berbeza daripada cara Portugis memperoleh Melaka?"
+        "en": "What lesson can we learn from the stability of the Malay sultanates before colonisation?",
+        "bm": "Apakah pengajaran daripada kestabilan kesultanan Melayu sebelum dijajah?"
       },
       "explanation": {
-        "en": "Francis Light promised help against Siam, which was never given.",
-        "bm": "Francis Light menjanjikan bantuan menentang Siam, yang tidak pernah diberikan."
+        "en": "Disunity later gave Western powers chances to intervene.",
+        "bm": "Perpecahan kemudian memberi peluang kepada kuasa Barat untuk campur tangan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Britain used negotiation and promises; Portugal used military conquest",
-          "bm": "Britain menggunakan rundingan dan janji; Portugis menggunakan penaklukan ketenteraan"
+          "en": "Good governance, laws and unity bring prosperity",
+          "bm": "Pemerintahan yang baik, undang-undang dan perpaduan membawa kemakmuran"
         },
         {
-          "en": "Both used war",
-          "bm": "Kedua-duanya berperang"
+          "en": "Isolation is best",
+          "bm": "Mengasingkan diri adalah terbaik"
         },
         {
-          "en": "Britain bought it with gold only",
-          "bm": "Britain membelinya dengan emas sahaja"
+          "en": "Trade brings only problems",
+          "bm": "Perdagangan hanya membawa masalah"
         },
         {
-          "en": "Portugal signed a treaty",
-          "bm": "Portugis menandatangani perjanjian"
+          "en": "Rulers are not needed",
+          "bm": "Pemerintah tidak diperlukan"
         }
       ],
       "answer": 0
@@ -773,30 +777,30 @@
       "subtopicId": "f3sej-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "Which present-day boundary is a long-term result of the 1824 treaty?",
-        "bm": "Sempadan masa kini manakah kesan jangka panjang perjanjian 1824?"
+        "en": "How did rivalry between Western powers affect the Malay world?",
+        "bm": "Bagaimanakah persaingan antara kuasa Barat menjejaskan Alam Melayu?"
       },
       "explanation": {
-        "en": "British areas became Malaysia and Singapore; Dutch areas became Indonesia.",
-        "bm": "Kawasan British menjadi Malaysia dan Singapura; kawasan Belanda menjadi Indonesia."
+        "en": "This led to treaties such as the London Treaty of 1824.",
+        "bm": "Ini membawa kepada perjanjian seperti Perjanjian London 1824."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The sea boundary between Malaysia/Singapore and Indonesia",
-          "bm": "Sempadan laut antara Malaysia/Singapura dengan Indonesia"
+          "en": "The region was divided according to the powers' interests, not local wishes",
+          "bm": "Rantau ini dibahagikan mengikut kepentingan kuasa Barat, bukan kehendak penduduk tempatan"
         },
         {
-          "en": "The border between Malaysia and Thailand only",
-          "bm": "Sempadan Malaysia dan Thailand sahaja"
+          "en": "It united all Malay states",
+          "bm": "Ia menyatukan semua negeri Melayu"
         },
         {
-          "en": "The border of Brunei and Sarawak",
-          "bm": "Sempadan Brunei dan Sarawak"
+          "en": "It ended trade",
+          "bm": "Ia menamatkan perdagangan"
         },
         {
-          "en": "No boundaries",
-          "bm": "Tiada sempadan"
+          "en": "It had no effect",
+          "bm": "Ia tiada kesan"
         }
       ],
       "answer": 0

@@ -3,75 +3,65 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Every product around you — your school bag, a water bottle, a phone stand — started as a problem someone noticed and decided to solve.",
-      "bm": "Setiap produk di sekeliling anda — beg sekolah, botol air, pemegang telefon — bermula sebagai masalah yang disedari seseorang lalu diselesaikan."
+      "en": "A smart dustbin opens its lid when your hand comes near. A sensor detects you, a microcontroller decides, and a motor lifts the lid — that is mechatronics.",
+      "bm": "Tong sampah pintar membuka penutupnya apabila tangan anda mendekat. Penderia mengesan anda, mikropengawal membuat keputusan dan motor mengangkat penutup — itulah mekatronik."
     },
     "bigIdeas": [
       {
-        "en": "Design thinking has five stages: empathise, define, ideate, prototype and test.",
-        "bm": "Pemikiran reka bentuk mempunyai lima peringkat: empati, definisi, idea, prototaip dan uji."
+        "en": "Mechatronic design combines mechanical, electronic and computer (control) systems in one product.",
+        "bm": "Reka bentuk mekatronik menggabungkan sistem mekanikal, elektronik dan komputer (kawalan) dalam satu produk."
       },
       {
-        "en": "A design brief states the problem; specifications list measurable requirements.",
-        "bm": "Taklimat reka bentuk menyatakan masalah; spesifikasi menyenaraikan keperluan yang boleh diukur."
+        "en": "A block diagram shows the flow: input (sensor) → process (controller) → output (actuator).",
+        "bm": "Gambar rajah blok menunjukkan aliran: input (penderia) → proses (pengawal) → output (penggerak)."
       },
       {
-        "en": "Designs are evaluated against the specifications and improved through iteration.",
-        "bm": "Reka bentuk dinilai berdasarkan spesifikasi dan ditambah baik secara berulang (iterasi)."
+        "en": "Existing products can be improved by modifying an element and then evaluating how well the product works.",
+        "bm": "Produk sedia ada boleh ditambah baik dengan mengubah suai sesuatu elemen dan kemudian menilai kefungsiannya."
       }
     ],
     "infographic": {
-      "kind": "cycle",
+      "kind": "process",
       "data": {
         "steps": [
           {
             "title": {
-              "en": "Empathise",
-              "bm": "Empati"
+              "en": "Input",
+              "bm": "Input"
             },
             "detail": {
-              "en": "Understand the user's needs.",
-              "bm": "Fahami keperluan pengguna."
+              "en": "Sensors and switches detect changes (ultrasonic, LDR, temperature).",
+              "bm": "Penderia dan suis mengesan perubahan (ultrasonik, LDR, suhu)."
             }
           },
           {
             "title": {
-              "en": "Define",
-              "bm": "Definisi"
+              "en": "Process",
+              "bm": "Proses"
             },
             "detail": {
-              "en": "State the problem clearly.",
-              "bm": "Nyatakan masalah dengan jelas."
+              "en": "A microcontroller runs the program and decides.",
+              "bm": "Mikropengawal menjalankan atur cara dan membuat keputusan."
             }
           },
           {
             "title": {
-              "en": "Ideate",
-              "bm": "Idea"
+              "en": "Output",
+              "bm": "Output"
             },
             "detail": {
-              "en": "Generate many possible solutions.",
-              "bm": "Hasilkan banyak penyelesaian."
+              "en": "Actuators act: motors, servos, LEDs, buzzers.",
+              "bm": "Penggerak bertindak: motor, servo, LED, pembaz."
             }
           },
           {
             "title": {
-              "en": "Prototype",
-              "bm": "Prototaip"
+              "en": "Feedback",
+              "bm": "Suap balik"
             },
             "detail": {
-              "en": "Build a simple model.",
-              "bm": "Bina model ringkas."
-            }
-          },
-          {
-            "title": {
-              "en": "Test",
-              "bm": "Uji"
-            },
-            "detail": {
-              "en": "Try it with users and improve.",
-              "bm": "Cuba dengan pengguna dan tambah baik."
+              "en": "Sensors check the result so the system can adjust.",
+              "bm": "Penderia menyemak hasil supaya sistem boleh menyesuaikan diri."
             }
           }
         ]
@@ -80,74 +70,78 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Design brief",
-          "bm": "Taklimat reka bentuk"
+          "en": "Mechatronics",
+          "bm": "Mekatronik"
         },
         "definition": {
-          "en": "A short statement of the problem and who the product is for.",
-          "bm": "Kenyataan ringkas tentang masalah dan pengguna produk."
+          "en": "Combination of mechanical, electronic and computer/control engineering.",
+          "bm": "Gabungan kejuruteraan mekanikal, elektronik dan komputer/kawalan."
         }
       },
       {
         "term": {
-          "en": "Specification",
-          "bm": "Spesifikasi"
+          "en": "Sensor",
+          "bm": "Penderia"
         },
         "definition": {
-          "en": "A list of requirements the product must meet (size, cost, material).",
-          "bm": "Senarai keperluan yang mesti dipenuhi produk (saiz, kos, bahan)."
+          "en": "An input device that detects light, distance, heat, touch, etc.",
+          "bm": "Peranti input yang mengesan cahaya, jarak, haba, sentuhan dan lain-lain."
         }
       },
       {
         "term": {
-          "en": "Prototype",
-          "bm": "Prototaip"
+          "en": "Actuator",
+          "bm": "Penggerak"
         },
         "definition": {
-          "en": "An early model used to test an idea.",
-          "bm": "Model awal untuk menguji idea."
+          "en": "An output device that produces movement or action, e.g. a motor.",
+          "bm": "Peranti output yang menghasilkan pergerakan atau tindakan, cth. motor."
         }
       },
       {
         "term": {
-          "en": "Iteration",
-          "bm": "Iterasi"
+          "en": "Microcontroller",
+          "bm": "Mikropengawal"
         },
         "definition": {
-          "en": "Repeating the cycle to improve a design.",
-          "bm": "Mengulang kitaran untuk menambah baik reka bentuk."
+          "en": "A small programmable computer chip that controls a product.",
+          "bm": "Cip komputer kecil boleh diprogram yang mengawal produk."
         }
       },
       {
         "term": {
-          "en": "User",
-          "bm": "Pengguna"
+          "en": "Block diagram",
+          "bm": "Gambar rajah blok"
         },
         "definition": {
-          "en": "The person who will use the product.",
-          "bm": "Orang yang akan menggunakan produk."
+          "en": "A diagram of boxes and arrows showing how a system works.",
+          "bm": "Rajah kotak dan anak panah yang menunjukkan cara sistem berfungsi."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Write one measurable specification for a pencil holder.",
-        "bm": "Tulis satu spesifikasi yang boleh diukur untuk bekas pensel."
+        "en": "Draw the block diagram of an automatic hand dryer.",
+        "bm": "Lukis gambar rajah blok bagi pengering tangan automatik."
       },
       "steps": [
         {
-          "en": "A specification must be checkable.",
-          "bm": "Spesifikasi mesti boleh disemak."
+          "en": "Input: an infrared sensor detects hands.",
+          "bm": "Input: penderia inframerah mengesan tangan."
         },
         {
-          "en": "\"Looks nice\" cannot be measured; \"holds at least 10 pencils\" can.",
-          "bm": "\"Nampak cantik\" tidak boleh diukur; \"memuatkan sekurang-kurangnya 10 batang pensel\" boleh."
+          "en": "Process: the controller switches the heater and fan on.",
+          "bm": "Proses: pengawal menghidupkan pemanas dan kipas."
+        },
+        {
+          "en": "Output: the fan motor blows warm air; it stops when hands are removed.",
+          "bm": "Output: motor kipas meniup udara panas; ia berhenti apabila tangan dialihkan."
         }
       ],
       "answer": {
-        "en": "The holder must hold at least 10 pencils and cost less than RM10 to make.",
-        "bm": "Bekas itu mesti memuatkan sekurang-kurangnya 10 batang pensel dan kos membuatnya kurang daripada RM10."
+        "en": "IR sensor → controller → heater + fan motor.",
+        "bm": "Penderia IR → pengawal → pemanas + motor kipas."
       }
     }
   },
@@ -157,30 +151,30 @@
       "subtopicId": "f3rbt-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "The first stage of design thinking is…",
-        "bm": "Peringkat pertama pemikiran reka bentuk ialah…"
+        "en": "Mechatronics combines which fields?",
+        "bm": "Mekatronik menggabungkan bidang apakah?"
       },
       "explanation": {
-        "en": "Start by understanding the user.",
-        "bm": "Mulakan dengan memahami pengguna."
+        "en": "The word comes from \"mechanics\" + \"electronics\".",
+        "bm": "Perkataan ini daripada \"mekanik\" + \"elektronik\"."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Empathise",
-          "bm": "Empati"
+          "en": "Mechanical, electronic and computer/control",
+          "bm": "Mekanikal, elektronik dan komputer/kawalan"
         },
         {
-          "en": "Test",
-          "bm": "Uji"
+          "en": "Cooking, sewing and painting",
+          "bm": "Masakan, jahitan dan lukisan"
         },
         {
-          "en": "Prototype",
-          "bm": "Prototaip"
+          "en": "Music and dance",
+          "bm": "Muzik dan tarian"
         },
         {
-          "en": "Sell",
-          "bm": "Jual"
+          "en": "Farming only",
+          "bm": "Pertanian sahaja"
         }
       ],
       "answer": 0
@@ -190,30 +184,30 @@
       "subtopicId": "f3rbt-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Building a simple model to test an idea is called…",
-        "bm": "Membina model ringkas untuk menguji idea dipanggil…"
+        "en": "Which product is a mechatronic product?",
+        "bm": "Produk manakah ialah produk mekatronik?"
       },
       "explanation": {
-        "en": "Prototypes can be made of cardboard, clay or 3D prints.",
-        "bm": "Prototaip boleh dibuat daripada kadbod, tanah liat atau cetakan 3D."
+        "en": "It has sensors, a controller and motors.",
+        "bm": "Ia mempunyai penderia, pengawal dan motor."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "prototyping",
-          "bm": "membina prototaip"
+          "en": "Robot vacuum cleaner",
+          "bm": "Pembersih vakum robot"
         },
         {
-          "en": "empathising",
-          "bm": "berempati"
+          "en": "Wooden spoon",
+          "bm": "Sudu kayu"
         },
         {
-          "en": "defining",
-          "bm": "mendefinisi"
+          "en": "Paper bag",
+          "bm": "Beg kertas"
         },
         {
-          "en": "marketing",
-          "bm": "memasarkan"
+          "en": "Glass bottle",
+          "bm": "Botol kaca"
         }
       ],
       "answer": 0
@@ -223,30 +217,30 @@
       "subtopicId": "f3rbt-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "In the \"ideate\" stage, designers…",
-        "bm": "Dalam peringkat \"idea\", pereka…"
+        "en": "A motor that moves part of a product is an example of a(n)…",
+        "bm": "Motor yang menggerakkan bahagian produk ialah contoh…"
       },
       "explanation": {
-        "en": "Brainstorming and sketching are used.",
-        "bm": "Sumbang saran dan lakaran digunakan."
+        "en": "Actuators are output devices.",
+        "bm": "Penggerak ialah peranti output."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "generate many possible solutions",
-          "bm": "menjana banyak penyelesaian"
+          "en": "actuator",
+          "bm": "penggerak"
         },
         {
-          "en": "sell the product",
-          "bm": "menjual produk"
+          "en": "sensor",
+          "bm": "penderia"
         },
         {
-          "en": "throw away ideas",
-          "bm": "membuang idea"
+          "en": "battery",
+          "bm": "bateri"
         },
         {
-          "en": "only test the final product",
-          "bm": "menguji produk akhir sahaja"
+          "en": "resistor",
+          "bm": "perintang"
         }
       ],
       "answer": 0
@@ -254,51 +248,65 @@
     {
       "id": "f3rbt-01-q04",
       "subtopicId": "f3rbt-01-01",
-      "type": "fill",
+      "type": "mcq",
       "prompt": {
-        "en": "How many stages are there in the design thinking model?",
-        "bm": "Berapakah peringkat dalam model pemikiran reka bentuk?"
+        "en": "An ultrasonic sensor detects…",
+        "bm": "Penderia ultrasonik mengesan…"
       },
       "explanation": {
-        "en": "Empathise, define, ideate, prototype, test.",
-        "bm": "Empati, definisi, idea, prototaip, uji."
+        "en": "It sends sound waves and measures the echo.",
+        "bm": "Ia menghantar gelombang bunyi dan mengukur gema."
       },
       "difficulty": 1,
-      "answer": [
-        "5",
-        "five",
-        "lima"
-      ]
+      "options": [
+        {
+          "en": "distance to an object",
+          "bm": "jarak ke sesuatu objek"
+        },
+        {
+          "en": "colour of paint",
+          "bm": "warna cat"
+        },
+        {
+          "en": "taste",
+          "bm": "rasa"
+        },
+        {
+          "en": "smell",
+          "bm": "bau"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3rbt-01-q05",
       "subtopicId": "f3rbt-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "A design brief…",
-        "bm": "Taklimat reka bentuk…"
+        "en": "In a block diagram, the microcontroller belongs to the…",
+        "bm": "Dalam gambar rajah blok, mikropengawal tergolong dalam bahagian…"
       },
       "explanation": {
-        "en": "It guides the whole project.",
-        "bm": "Ia membimbing keseluruhan projek."
+        "en": "It decides what to do with input signals.",
+        "bm": "Ia memutuskan tindakan berdasarkan isyarat input."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "states the problem and the target user",
-          "bm": "menyatakan masalah dan pengguna sasaran"
+          "en": "process stage",
+          "bm": "proses"
         },
         {
-          "en": "lists the final price only",
-          "bm": "menyenaraikan harga akhir sahaja"
+          "en": "input stage",
+          "bm": "input"
         },
         {
-          "en": "is the finished product",
-          "bm": "ialah produk siap"
+          "en": "output stage",
+          "bm": "output"
         },
         {
-          "en": "is a sketch",
-          "bm": "ialah lakaran"
+          "en": "power stage only",
+          "bm": "kuasa sahaja"
         }
       ],
       "answer": 0
@@ -306,65 +314,50 @@
     {
       "id": "f3rbt-01-q06",
       "subtopicId": "f3rbt-01-02",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "Which is a measurable specification?",
-        "bm": "Antara berikut, yang manakah spesifikasi yang boleh diukur?"
+        "en": "The three main blocks of a system are input, ______ and output.",
+        "bm": "Tiga blok utama sistem ialah input, ______ dan output."
       },
       "explanation": {
-        "en": "Measurements can be checked.",
-        "bm": "Ukuran boleh disemak."
+        "en": "Arrows show the direction of signals.",
+        "bm": "Anak panah menunjukkan arah isyarat."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "Height no more than 30 cm",
-          "bm": "Tinggi tidak melebihi 30 cm"
-        },
-        {
-          "en": "Looks beautiful",
-          "bm": "Kelihatan cantik"
-        },
-        {
-          "en": "Very nice",
-          "bm": "Sangat bagus"
-        },
-        {
-          "en": "Modern feeling",
-          "bm": "Rasa moden"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "process",
+        "proses"
+      ]
     },
     {
       "id": "f3rbt-01-q07",
-      "subtopicId": "f3rbt-01-03",
+      "subtopicId": "f3rbt-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "Testing a prototype with users helps the designer to…",
-        "bm": "Menguji prototaip dengan pengguna membantu pereka untuk…"
+        "en": "Which is an INPUT device?",
+        "bm": "Antara berikut, yang manakah peranti INPUT?"
       },
       "explanation": {
-        "en": "Feedback leads to iteration.",
-        "bm": "Maklum balas membawa kepada iterasi."
+        "en": "The LDR senses light level.",
+        "bm": "LDR mengesan aras cahaya."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "find problems and improve the design",
-          "bm": "mengesan masalah dan menambah baik reka bentuk"
+          "en": "Light-dependent resistor (LDR)",
+          "bm": "Perintang peka cahaya (LDR)"
         },
         {
-          "en": "avoid all changes",
-          "bm": "mengelakkan sebarang perubahan"
+          "en": "Buzzer",
+          "bm": "Pembaz"
         },
         {
-          "en": "finish faster without feedback",
-          "bm": "siap lebih cepat tanpa maklum balas"
+          "en": "Servo motor",
+          "bm": "Motor servo"
         },
         {
-          "en": "increase the price",
-          "bm": "menaikkan harga"
+          "en": "LED",
+          "bm": "LED"
         }
       ],
       "answer": 0
@@ -374,30 +367,30 @@
       "subtopicId": "f3rbt-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "Repeating the design cycle to improve a product is called…",
-        "bm": "Mengulang kitaran reka bentuk untuk menambah baik produk dipanggil…"
+        "en": "After modifying a product, the designer must…",
+        "bm": "Selepas mengubah suai produk, pereka mesti…"
       },
       "explanation": {
-        "en": "Most products go through many iterations.",
-        "bm": "Kebanyakan produk melalui banyak iterasi."
+        "en": "Evaluation checks if the improvement works.",
+        "bm": "Penilaian menyemak sama ada penambahbaikan berkesan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "iteration",
-          "bm": "iterasi"
+          "en": "test and evaluate its functionality",
+          "bm": "menguji dan menilai kefungsiannya"
         },
         {
-          "en": "ergonomics",
-          "bm": "ergonomik"
+          "en": "throw it away",
+          "bm": "membuangnya"
         },
         {
-          "en": "packaging",
-          "bm": "pembungkusan"
+          "en": "skip testing",
+          "bm": "tidak perlu menguji"
         },
         {
-          "en": "costing",
-          "bm": "pengekosan"
+          "en": "paint it only",
+          "bm": "mengecatnya sahaja"
         }
       ],
       "answer": 0
@@ -405,134 +398,139 @@
     {
       "id": "f3rbt-01-q09",
       "subtopicId": "f3rbt-01-01",
-      "type": "order",
+      "type": "match",
       "prompt": {
-        "en": "Arrange the stages of design thinking.",
-        "bm": "Susun peringkat pemikiran reka bentuk."
+        "en": "Match each element with its example.",
+        "bm": "Padankan elemen dengan contohnya."
       },
       "explanation": {
-        "en": "The process can loop back after testing.",
-        "bm": "Proses boleh kembali semula selepas pengujian."
+        "en": "All three work together.",
+        "bm": "Ketiga-tiganya berfungsi bersama."
       },
       "difficulty": 2,
-      "items": [
+      "pairs": [
         {
-          "en": "Empathise",
-          "bm": "Empati"
+          "left": {
+            "en": "Mechanical",
+            "bm": "Mekanikal"
+          },
+          "right": {
+            "en": "Gears and levers",
+            "bm": "Gear dan tuil"
+          }
         },
         {
-          "en": "Define",
-          "bm": "Definisi"
+          "left": {
+            "en": "Electronic",
+            "bm": "Elektronik"
+          },
+          "right": {
+            "en": "Circuit and sensors",
+            "bm": "Litar dan penderia"
+          }
         },
         {
-          "en": "Ideate",
-          "bm": "Idea"
-        },
-        {
-          "en": "Prototype",
-          "bm": "Prototaip"
-        },
-        {
-          "en": "Test",
-          "bm": "Uji"
+          "left": {
+            "en": "Computer/control",
+            "bm": "Komputer/kawalan"
+          },
+          "right": {
+            "en": "Programmed microcontroller",
+            "bm": "Mikropengawal yang diprogram"
+          }
         }
       ]
     },
     {
       "id": "f3rbt-01-q10",
-      "subtopicId": "f3rbt-01-01",
-      "type": "mcq",
+      "subtopicId": "f3rbt-01-02",
+      "type": "order",
       "prompt": {
-        "en": "Interviewing elderly people about difficulties opening jars belongs to which stage?",
-        "bm": "Menemu bual warga emas tentang kesukaran membuka balang tergolong dalam peringkat manakah?"
+        "en": "Arrange the block diagram of a smart dustbin.",
+        "bm": "Susun gambar rajah blok tong sampah pintar."
       },
       "explanation": {
-        "en": "Understanding users' problems is empathy.",
-        "bm": "Memahami masalah pengguna ialah empati."
+        "en": "Input → process → output.",
+        "bm": "Input → proses → output."
       },
       "difficulty": 2,
-      "options": [
+      "items": [
         {
-          "en": "Empathise",
-          "bm": "Empati"
+          "en": "Ultrasonic sensor detects a hand",
+          "bm": "Penderia ultrasonik mengesan tangan"
         },
         {
-          "en": "Prototype",
-          "bm": "Prototaip"
+          "en": "Microcontroller processes the signal",
+          "bm": "Mikropengawal memproses isyarat"
         },
         {
-          "en": "Test",
-          "bm": "Uji"
-        },
-        {
-          "en": "Ideate",
-          "bm": "Idea"
+          "en": "Servo motor opens the lid",
+          "bm": "Motor servo membuka penutup"
         }
-      ],
-      "answer": 0
+      ]
     },
     {
       "id": "f3rbt-01-q11",
-      "subtopicId": "f3rbt-01-01",
+      "subtopicId": "f3rbt-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which is the BEST problem statement (define stage)?",
-        "bm": "Manakah pernyataan masalah PALING baik (peringkat definisi)?"
+        "en": "In an automatic door, what is the actuator?",
+        "bm": "Dalam pintu automatik, apakah penggeraknya?"
       },
       "explanation": {
-        "en": "It names the user and the need.",
-        "bm": "Ia menyebut pengguna dan keperluan."
+        "en": "The motion sensor is the input.",
+        "bm": "Penderia gerakan ialah input."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Students need a way to carry heavy books without back pain.",
-          "bm": "Murid memerlukan cara membawa buku berat tanpa sakit belakang."
+          "en": "The motor that slides the door",
+          "bm": "Motor yang menggerakkan pintu"
         },
         {
-          "en": "Make a bag.",
-          "bm": "Buat beg."
+          "en": "The motion sensor",
+          "bm": "Penderia gerakan"
         },
         {
-          "en": "Bags are nice.",
-          "bm": "Beg itu cantik."
+          "en": "The glass",
+          "bm": "Kaca"
         },
         {
-          "en": "I like blue.",
-          "bm": "Saya suka biru."
+          "en": "The floor",
+          "bm": "Lantai"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-01-q12",
-      "subtopicId": "f3rbt-01-02",
+      "subtopicId": "f3rbt-01-01",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL items usually included in a specification.",
-        "bm": "Pilih SEMUA perkara yang lazim dalam spesifikasi."
+        "en": "Select ALL output devices.",
+        "bm": "Pilih SEMUA peranti output."
       },
       "explanation": {
-        "en": "Safety, function and appearance are also common.",
-        "bm": "Keselamatan, fungsi dan rupa juga lazim."
+        "en": "Sensors are inputs.",
+        "bm": "Penderia ialah input."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Size",
-          "bm": "Saiz"
+          "en": "DC motor",
+          "bm": "Motor DC"
         },
         {
-          "en": "Material",
-          "bm": "Bahan"
+          "en": "Buzzer",
+          "bm": "Pembaz"
         },
         {
-          "en": "Maximum cost",
-          "bm": "Kos maksimum"
+          "en": "LED",
+          "bm": "LED"
         },
         {
-          "en": "The designer's favourite food",
-          "bm": "Makanan kegemaran pereka"
+          "en": "Temperature sensor",
+          "bm": "Penderia suhu"
         }
       ],
       "answer": [
@@ -544,88 +542,65 @@
     {
       "id": "f3rbt-01-q13",
       "subtopicId": "f3rbt-01-02",
-      "type": "match",
+      "type": "mcq",
       "prompt": {
-        "en": "Match each term with its meaning.",
-        "bm": "Padankan istilah dengan maksudnya."
+        "en": "What is \"feedback\" in a mechatronic system?",
+        "bm": "Apakah \"suap balik\" dalam sistem mekatronik?"
       },
       "explanation": {
-        "en": "These terms appear in every design folio.",
-        "bm": "Istilah ini terdapat dalam setiap folio reka bentuk."
+        "en": "e.g. a thermostat switches a heater off when warm enough.",
+        "bm": "cth. termostat mematikan pemanas apabila cukup panas."
       },
       "difficulty": 2,
-      "pairs": [
+      "options": [
         {
-          "left": {
-            "en": "Design brief",
-            "bm": "Taklimat reka bentuk"
-          },
-          "right": {
-            "en": "Statement of the problem",
-            "bm": "Pernyataan masalah"
-          }
+          "en": "Information from the output sent back so the system can adjust",
+          "bm": "Maklumat daripada output dihantar semula supaya sistem boleh menyesuaikan diri"
         },
         {
-          "left": {
-            "en": "Specification",
-            "bm": "Spesifikasi"
-          },
-          "right": {
-            "en": "List of requirements",
-            "bm": "Senarai keperluan"
-          }
+          "en": "A customer complaint only",
+          "bm": "Aduan pelanggan sahaja"
         },
         {
-          "left": {
-            "en": "Prototype",
-            "bm": "Prototaip"
-          },
-          "right": {
-            "en": "Early test model",
-            "bm": "Model ujian awal"
-          }
+          "en": "Extra batteries",
+          "bm": "Bateri tambahan"
         },
         {
-          "left": {
-            "en": "Evaluation",
-            "bm": "Penilaian"
-          },
-          "right": {
-            "en": "Judging against the specification",
-            "bm": "Menilai berdasarkan spesifikasi"
-          }
+          "en": "A broken part",
+          "bm": "Bahagian rosak"
         }
-      ]
+      ],
+      "answer": 0
     },
     {
       "id": "f3rbt-01-q14",
       "subtopicId": "f3rbt-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "A designer evaluates a lamp. What should it be checked against?",
-        "bm": "Seorang pereka menilai sebuah lampu. Ia patut dinilai berdasarkan apa?"
+        "en": "A fan only has an on/off switch. Which modification makes it mechatronic?",
+        "bm": "Kipas hanya mempunyai suis hidup/mati. Pengubahsuaian manakah menjadikannya mekatronik?"
       },
       "explanation": {
-        "en": "Each requirement is checked: met or not met.",
-        "bm": "Setiap keperluan disemak: dipenuhi atau tidak."
+        "en": "Sensing + control + motion.",
+        "bm": "Penderiaan + kawalan + pergerakan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "The specification",
-          "bm": "Spesifikasi"
+          "en": "Add a temperature sensor and microcontroller to adjust speed automatically",
+          "bm": "Tambah penderia suhu dan mikropengawal untuk melaraskan kelajuan secara automatik"
         },
         {
-          "en": "The designer's mood",
-          "bm": "Emosi pereka"
+          "en": "Paint it a new colour",
+          "bm": "Cat warna baharu"
         },
         {
-          "en": "A random product",
-          "bm": "Produk rawak"
+          "en": "Make the blades longer only",
+          "bm": "Panjangkan bilah sahaja"
         },
         {
-          "en": "The weather",
-          "bm": "Cuaca"
+          "en": "Remove the motor",
+          "bm": "Buang motor"
         }
       ],
       "answer": 0
@@ -635,81 +610,81 @@
       "subtopicId": "f3rbt-01-03",
       "type": "fill",
       "prompt": {
-        "en": "In a design evaluation, the comments and suggestions from users are called ______.",
-        "bm": "Dalam penilaian reka bentuk, komen dan cadangan pengguna dipanggil maklum ______."
+        "en": "Before modifying a product, the designer first draws a ______ of the parts to be changed based on the block diagram.",
+        "bm": "Sebelum mengubah suai produk, pereka terlebih dahulu menghasilkan ______ bahagian yang akan diubah berdasarkan gambar rajah blok."
       },
       "explanation": {
-        "en": "Feedback guides the next iteration.",
-        "bm": "Maklum balas membimbing iterasi seterusnya."
+        "en": "Sketches plan the improvement.",
+        "bm": "Lakaran merancang penambahbaikan."
       },
       "difficulty": 2,
       "answer": [
-        "feedback",
-        "balas"
+        "sketch",
+        "lakaran"
       ]
     },
     {
       "id": "f3rbt-01-q16",
-      "subtopicId": "f3rbt-01-02",
+      "subtopicId": "f3rbt-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why use cardboard for a first prototype?",
-        "bm": "Mengapakah kadbod digunakan untuk prototaip pertama?"
+        "en": "Which device can be programmed to control a mechatronic project in school?",
+        "bm": "Peranti manakah boleh diprogram untuk mengawal projek mekatronik di sekolah?"
       },
       "explanation": {
-        "en": "Early prototypes test ideas, not final quality.",
-        "bm": "Prototaip awal menguji idea, bukan kualiti akhir."
+        "en": "It reads sensors and controls outputs.",
+        "bm": "Ia membaca penderia dan mengawal output."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "It is cheap and quick to shape and change",
-          "bm": "Ia murah serta cepat dibentuk dan diubah"
+          "en": "A microcontroller board such as Arduino",
+          "bm": "Papan mikropengawal seperti Arduino"
         },
         {
-          "en": "It is the strongest material",
-          "bm": "Ia bahan paling kuat"
+          "en": "A ruler",
+          "bm": "Pembaris"
         },
         {
-          "en": "It is waterproof",
-          "bm": "Ia kalis air"
+          "en": "A glue gun",
+          "bm": "Pistol gam"
         },
         {
-          "en": "It is the final material",
-          "bm": "Ia bahan akhir"
+          "en": "A try square",
+          "bm": "Sesiku L"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-01-q17",
-      "subtopicId": "f3rbt-01-01",
+      "subtopicId": "f3rbt-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "Users say a new chair is comfortable but too heavy to move. What should the designer do?",
-        "bm": "Pengguna berkata kerusi baharu selesa tetapi terlalu berat untuk dialihkan. Apakah yang patut dilakukan pereka?"
+        "en": "A modified plant-watering system pumps too much water. What should the evaluation suggest?",
+        "bm": "Sistem penyiraman pokok yang diubah suai mengepam terlalu banyak air. Apakah cadangan penilaian?"
       },
       "explanation": {
-        "en": "Keep what works, fix what does not.",
-        "bm": "Kekalkan yang berfungsi, baiki yang tidak."
+        "en": "Evaluation leads to further improvement.",
+        "bm": "Penilaian membawa kepada penambahbaikan lanjut."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Iterate: try a lighter material or frame and test again",
-          "bm": "Iterasi: cuba bahan atau rangka yang lebih ringan dan uji semula"
+          "en": "Adjust the soil-moisture sensor threshold or program so the pump stops sooner",
+          "bm": "Laraskan nilai ambang penderia kelembapan tanah atau atur cara supaya pam berhenti lebih awal"
         },
         {
-          "en": "Ignore the comment",
-          "bm": "Abaikan komen itu"
+          "en": "Remove the sensor",
+          "bm": "Buang penderia"
         },
         {
-          "en": "Add more weight",
-          "bm": "Tambah berat"
+          "en": "Use a bigger pump",
+          "bm": "Gunakan pam lebih besar"
         },
         {
-          "en": "Stop the project",
-          "bm": "Hentikan projek"
+          "en": "Nothing — it works",
+          "bm": "Tiada — ia berfungsi"
         }
       ],
       "answer": 0
@@ -719,96 +694,96 @@
       "subtopicId": "f3rbt-01-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why is a specification like \"durable\" less useful than \"survives a 1 m drop test\"?",
-        "bm": "Mengapakah spesifikasi \"tahan lasak\" kurang berguna berbanding \"tahan ujian jatuh 1 m\"?"
+        "en": "Why are block diagrams useful before modifying a product?",
+        "bm": "Mengapakah gambar rajah blok berguna sebelum mengubah suai produk?"
       },
       "explanation": {
-        "en": "Good specifications are measurable.",
-        "bm": "Spesifikasi yang baik boleh diukur."
+        "en": "Understanding the system comes first.",
+        "bm": "Memahami sistem perlu didahulukan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The second can be tested objectively",
-          "bm": "Yang kedua boleh diuji secara objektif"
+          "en": "They show how parts connect, so the designer knows which element to change",
+          "bm": "Ia menunjukkan hubungan bahagian, jadi pereka tahu elemen mana perlu diubah"
         },
         {
-          "en": "The first is longer",
-          "bm": "Yang pertama lebih panjang"
+          "en": "They replace the product",
+          "bm": "Ia menggantikan produk"
         },
         {
-          "en": "Durability does not matter",
-          "bm": "Ketahanan tidak penting"
+          "en": "They are only decoration",
+          "bm": "Ia hanya hiasan"
         },
         {
-          "en": "They are the same",
-          "bm": "Kedua-duanya sama"
+          "en": "They show the price",
+          "bm": "Ia menunjukkan harga"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-01-q19",
-      "subtopicId": "f3rbt-01-03",
+      "subtopicId": "f3rbt-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which evaluation method gives the MOST reliable information about a school bag?",
-        "bm": "Kaedah penilaian manakah memberi maklumat PALING boleh dipercayai tentang beg sekolah?"
+        "en": "Why are mechatronic products common in modern life?",
+        "bm": "Mengapakah produk mekatronik lazim dalam kehidupan moden?"
       },
       "explanation": {
-        "en": "Real use by real users gives better evidence.",
-        "bm": "Penggunaan sebenar oleh pengguna sebenar memberi bukti yang lebih baik."
+        "en": "e.g. washing machines, lifts, car sensors.",
+        "bm": "cth. mesin basuh, lif, penderia kereta."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Several students use it for a week and record problems",
-          "bm": "Beberapa murid menggunakannya selama seminggu dan merekod masalah"
+          "en": "They automate tasks, saving time and effort and improving safety",
+          "bm": "Ia mengautomasikan tugas, menjimatkan masa dan tenaga serta meningkatkan keselamatan"
         },
         {
-          "en": "The designer looks at it once",
-          "bm": "Pereka melihatnya sekali"
+          "en": "They never need power",
+          "bm": "Ia tidak memerlukan kuasa"
         },
         {
-          "en": "Ask one friend who has not used it",
-          "bm": "Tanya seorang kawan yang belum menggunakannya"
+          "en": "They are always cheap",
+          "bm": "Ia sentiasa murah"
         },
         {
-          "en": "Guess",
-          "bm": "Meneka"
+          "en": "They have no moving parts",
+          "bm": "Ia tiada bahagian bergerak"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3rbt-01-q20",
-      "subtopicId": "f3rbt-01-01",
+      "subtopicId": "f3rbt-01-03",
       "type": "mcq",
       "prompt": {
-        "en": "How does empathy lead to better products?",
-        "bm": "Bagaimanakah empati menghasilkan produk yang lebih baik?"
+        "en": "How should a designer evaluate a modified night light?",
+        "bm": "Bagaimanakah pereka patut menilai lampu malam yang diubah suai?"
       },
       "explanation": {
-        "en": "Products fail when they solve the wrong problem.",
-        "bm": "Produk gagal apabila menyelesaikan masalah yang salah."
+        "en": "Test against the intended function.",
+        "bm": "Uji berdasarkan fungsi yang dikehendaki."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The design solves real problems that users actually have",
-          "bm": "Reka bentuk menyelesaikan masalah sebenar yang dihadapi pengguna"
+          "en": "Test it in dark and bright conditions and record whether it switches correctly",
+          "bm": "Uji dalam keadaan gelap dan terang serta rekod sama ada ia bertukar dengan betul"
         },
         {
-          "en": "It makes products more expensive",
-          "bm": "Ia menjadikan produk lebih mahal"
+          "en": "Look at it once",
+          "bm": "Lihat sekali sahaja"
         },
         {
-          "en": "It removes the need to test",
-          "bm": "Ia menghapuskan keperluan menguji"
+          "en": "Ask someone who has not used it",
+          "bm": "Tanya orang yang belum menggunakannya"
         },
         {
-          "en": "It is only for artists",
-          "bm": "Ia hanya untuk artis"
+          "en": "Skip testing",
+          "bm": "Tidak perlu menguji"
         }
       ],
       "answer": 0

@@ -3,66 +3,100 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "A single treaty signed on Pangkor Island in 1874 changed how Malay states were ruled for the next 80 years. What did the Sultan agree to?",
-      "bm": "Satu perjanjian yang ditandatangani di Pulau Pangkor pada 1874 mengubah cara negeri-negeri Melayu diperintah selama 80 tahun berikutnya. Apakah yang dipersetujui oleh Sultan?"
+      "en": "Tin from Larut and Kinta filled the cans of factories in Europe. That tin is the reason Britain moved from the coast into the heart of the Malay states.",
+      "bm": "Bijih timah dari Larut dan Kinta digunakan untuk tin di kilang-kilang Eropah. Bijih timah itulah sebab British bergerak dari pesisir ke tengah negeri-negeri Melayu."
     },
     "bigIdeas": [
       {
-        "en": "Tin wealth, unrest and rivalry with other Western powers led Britain to intervene in the Malay states.",
-        "bm": "Kekayaan bijih timah, kekacauan dan persaingan dengan kuasa Barat lain mendorong British campur tangan di negeri-negeri Melayu."
+        "en": "Perak, Selangor, Negeri Sembilan and Pahang were rich in tin (and Pahang in gold).",
+        "bm": "Perak, Selangor, Negeri Sembilan dan Pahang kaya dengan bijih timah (dan Pahang dengan emas)."
       },
       {
-        "en": "Under the Pangkor Treaty (1874), Perak accepted a British Resident.",
-        "bm": "Melalui Perjanjian Pangkor (1874), Perak menerima seorang Residen British."
+        "en": "Britain intervened through treaties such as the Pangkor Treaty (1874) and introduced the Residential System.",
+        "bm": "British campur tangan melalui perjanjian seperti Perjanjian Pangkor (1874) dan memperkenalkan Sistem Residen."
       },
       {
-        "en": "The Resident's advice had to be followed in all matters except Islam and Malay custom — real power moved to the British.",
-        "bm": "Nasihat Residen mesti diikuti dalam semua perkara kecuali agama Islam dan adat Melayu — kuasa sebenar berpindah kepada British."
+        "en": "The four states became the Federated Malay States on 1 July 1896, with Kuala Lumpur as the capital.",
+        "bm": "Keempat-empat negeri menjadi Negeri-negeri Melayu Bersekutu pada 1 Julai 1896, berpusat di Kuala Lumpur."
       }
     ],
     "infographic": {
-      "kind": "process",
+      "kind": "compare",
       "data": {
-        "steps": [
+        "headers": [
           {
-            "title": {
-              "en": "1874",
-              "bm": "1874"
-            },
-            "detail": {
-              "en": "Perak — Pangkor Treaty; Resident J.W.W. Birch",
-              "bm": "Perak — Perjanjian Pangkor; Residen J.W.W. Birch"
-            }
+            "en": "Resource",
+            "bm": "Hasil bumi"
           },
           {
-            "title": {
-              "en": "1874–1875",
-              "bm": "1874–1875"
+            "en": "British control",
+            "bm": "Kawalan British"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Perak",
+              "bm": "Perak"
             },
-            "detail": {
-              "en": "Selangor and Sungai Ujong accept Residents",
-              "bm": "Selangor dan Sungai Ujong menerima Residen"
-            }
+            "cells": [
+              {
+                "en": "Tin — Larut, Kinta",
+                "bm": "Bijih timah — Larut, Kinta"
+              },
+              {
+                "en": "Pangkor Treaty 1874; Resident J.W.W. Birch",
+                "bm": "Perjanjian Pangkor 1874; Residen J.W.W. Birch"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1888",
-              "bm": "1888"
+            "label": {
+              "en": "Selangor",
+              "bm": "Selangor"
             },
-            "detail": {
-              "en": "Pahang accepts a Resident",
-              "bm": "Pahang menerima Residen"
-            }
+            "cells": [
+              {
+                "en": "Tin — Klang Valley, Lukut, Ampang",
+                "bm": "Bijih timah — Lembah Klang, Lukut, Ampang"
+              },
+              {
+                "en": "Resident from 1875 (J.G. Davidson)",
+                "bm": "Residen dari 1875 (J.G. Davidson)"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1895",
-              "bm": "1895"
+            "label": {
+              "en": "Negeri Sembilan",
+              "bm": "Negeri Sembilan"
             },
-            "detail": {
-              "en": "Negeri Sembilan states united under a Resident",
-              "bm": "Negeri-negeri Sembilan disatukan di bawah seorang Residen"
-            }
+            "cells": [
+              {
+                "en": "Tin — Sungai Ujong",
+                "bm": "Bijih timah — Sungai Ujong"
+              },
+              {
+                "en": "Sungai Ujong 1874; united under a Resident 1895",
+                "bm": "Sungai Ujong 1874; disatukan di bawah Residen 1895"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Pahang",
+              "bm": "Pahang"
+            },
+            "cells": [
+              {
+                "en": "Gold and tin",
+                "bm": "Emas dan bijih timah"
+              },
+              {
+                "en": "Resident from 1888 (J.P. Rodger)",
+                "bm": "Residen dari 1888 (J.P. Rodger)"
+              }
+            ]
           }
         ]
       }
@@ -70,22 +104,12 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Intervention",
-          "bm": "Campur tangan"
+          "en": "Pangkor Treaty",
+          "bm": "Perjanjian Pangkor"
         },
         "definition": {
-          "en": "Getting involved in the affairs of another state.",
-          "bm": "Terlibat dalam hal ehwal negeri lain."
-        }
-      },
-      {
-        "term": {
-          "en": "Resident",
-          "bm": "Residen"
-        },
-        "definition": {
-          "en": "British officer whose advice the Sultan had to follow.",
-          "bm": "Pegawai British yang nasihatnya mesti diikuti oleh Sultan."
+          "en": "20 January 1874: Raja Abdullah recognised as Sultan of Perak; Perak accepts a British Resident.",
+          "bm": "20 Januari 1874: Raja Abdullah diiktiraf Sultan Perak; Perak menerima Residen British."
         }
       },
       {
@@ -94,106 +118,126 @@
           "bm": "Sistem Residen"
         },
         "definition": {
-          "en": "Indirect British rule through Residents in the Malay states.",
-          "bm": "Pemerintahan British secara tidak langsung melalui Residen di negeri-negeri Melayu."
+          "en": "A British Resident advises the Sultan; advice must be followed except on Islam and Malay custom.",
+          "bm": "Residen British menasihati Sultan; nasihat mesti diikuti kecuali hal agama Islam dan adat Melayu."
         }
       },
       {
         "term": {
-          "en": "Larut Wars",
-          "bm": "Perang Larut"
+          "en": "Federated Malay States (FMS)",
+          "bm": "Negeri-negeri Melayu Bersekutu (NNMB)"
         },
         "definition": {
-          "en": "Fighting between Chinese secret societies over tin mines in Perak.",
-          "bm": "Pergaduhan antara kongsi gelap Cina kerana lombong bijih timah di Perak."
+          "en": "Perak, Selangor, Negeri Sembilan and Pahang, federated in 1896.",
+          "bm": "Perak, Selangor, Negeri Sembilan dan Pahang, bersekutu pada 1896."
+        }
+      },
+      {
+        "term": {
+          "en": "Resident-General",
+          "bm": "Residen Jeneral"
+        },
+        "definition": {
+          "en": "Head of the FMS administration; first was Frank Swettenham.",
+          "bm": "Ketua pentadbiran NNMB; yang pertama ialah Frank Swettenham."
+        }
+      },
+      {
+        "term": {
+          "en": "Durbar",
+          "bm": "Durbar"
+        },
+        "definition": {
+          "en": "Conference of the FMS rulers; first at Kuala Kangsar, 1897.",
+          "bm": "Persidangan raja-raja NNMB; pertama di Kuala Kangsar, 1897."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Explain the main term of the Pangkor Treaty 1874 and its effect.",
-        "bm": "Jelaskan syarat utama Perjanjian Pangkor 1874 dan kesannya."
+        "en": "Explain one reason Britain formed the FMS in 1896.",
+        "bm": "Terangkan satu sebab British membentuk NNMB pada 1896."
       },
       "steps": [
         {
-          "en": "Term: the Sultan of Perak accepted a British Resident whose advice must be followed except on Islam and Malay custom.",
-          "bm": "Syarat: Sultan Perak menerima Residen British yang nasihatnya mesti diikuti kecuali dalam hal agama Islam dan adat Melayu."
+          "en": "Each state had its own Resident with different rules.",
+          "bm": "Setiap negeri mempunyai Residen dan peraturan yang berbeza."
         },
         {
-          "en": "Effect: the Resident controlled taxes, administration and law, so the Sultan and chiefs lost real power.",
-          "bm": "Kesan: Residen menguasai cukai, pentadbiran dan undang-undang, jadi Sultan dan pembesar kehilangan kuasa sebenar."
+          "en": "Richer states (Perak, Selangor) could help poorer Pahang.",
+          "bm": "Negeri kaya (Perak, Selangor) boleh membantu Pahang yang miskin."
         }
       ],
       "answer": {
-        "en": "This loss of power led to resistance, such as at Pasir Salak in 1875.",
-        "bm": "Kehilangan kuasa ini membawa kepada penentangan, seperti di Pasir Salak pada 1875."
+        "en": "To make administration uniform and efficient, and to help Pahang through shared revenue.",
+        "bm": "Untuk menyeragamkan dan mengcekapkan pentadbiran, serta membantu Pahang melalui perkongsian hasil."
       }
     }
   },
   "questions": [
     {
       "id": "f3sej-03-q01",
-      "subtopicId": "f3sej-03-02",
+      "subtopicId": "f3sej-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "The Pangkor Treaty was signed in…",
-        "bm": "Perjanjian Pangkor ditandatangani pada…"
+        "en": "The main natural resource that attracted Britain to Perak and Selangor was…",
+        "bm": "Hasil bumi utama yang menarik British ke Perak dan Selangor ialah…"
       },
       "explanation": {
-        "en": "It was signed on 20 January 1874.",
-        "bm": "Ia ditandatangani pada 20 Januari 1874."
+        "en": "Larut and Kinta in Perak were major tin fields.",
+        "bm": "Larut dan Kinta di Perak ialah kawasan bijih timah utama."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "1874",
-          "bm": "1874"
+          "en": "tin",
+          "bm": "bijih timah"
         },
         {
-          "en": "1824",
-          "bm": "1824"
+          "en": "oil",
+          "bm": "petroleum"
         },
         {
-          "en": "1896",
-          "bm": "1896"
+          "en": "coal",
+          "bm": "arang batu"
         },
         {
-          "en": "1909",
-          "bm": "1909"
+          "en": "diamonds",
+          "bm": "berlian"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q02",
-      "subtopicId": "f3sej-03-02",
+      "subtopicId": "f3sej-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "The Pangkor Treaty involved which state?",
-        "bm": "Perjanjian Pangkor melibatkan negeri manakah?"
+        "en": "Pahang was known for…",
+        "bm": "Pahang terkenal dengan…"
       },
       "explanation": {
-        "en": "It recognised Raja Abdullah as Sultan of Perak.",
-        "bm": "Ia mengiktiraf Raja Abdullah sebagai Sultan Perak."
+        "en": "But it was poorer than Perak and Selangor.",
+        "bm": "Namun ia lebih miskin berbanding Perak dan Selangor."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Perak",
-          "bm": "Perak"
+          "en": "gold and tin",
+          "bm": "emas dan bijih timah"
         },
         {
-          "en": "Johor",
-          "bm": "Johor"
+          "en": "oil palm only",
+          "bm": "kelapa sawit sahaja"
         },
         {
-          "en": "Kedah",
-          "bm": "Kedah"
+          "en": "rice only",
+          "bm": "padi sahaja"
         },
         {
-          "en": "Kelantan",
-          "bm": "Kelantan"
+          "en": "coal",
+          "bm": "arang batu"
         }
       ],
       "answer": 0
@@ -201,10 +245,60 @@
     {
       "id": "f3sej-03-q03",
       "subtopicId": "f3sej-03-02",
+      "type": "fill",
+      "prompt": {
+        "en": "The Pangkor Treaty was signed on 20 January ______.",
+        "bm": "Perjanjian Pangkor ditandatangani pada 20 Januari ______."
+      },
+      "explanation": {
+        "en": "It began the Residential System in Perak.",
+        "bm": "Ia memulakan Sistem Residen di Perak."
+      },
+      "difficulty": 1,
+      "answer": [
+        "1874"
+      ]
+    },
+    {
+      "id": "f3sej-03-q04",
+      "subtopicId": "f3sej-03-02",
       "type": "mcq",
       "prompt": {
-        "en": "Who was the first British Resident of Perak?",
-        "bm": "Siapakah Residen British pertama Perak?"
+        "en": "Who was recognised as Sultan of Perak in the Pangkor Treaty?",
+        "bm": "Siapakah yang diiktiraf sebagai Sultan Perak dalam Perjanjian Pangkor?"
+      },
+      "explanation": {
+        "en": "This was one cause of later unrest.",
+        "bm": "Ini salah satu punca kekacauan kemudian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Raja Abdullah",
+          "bm": "Raja Abdullah"
+        },
+        {
+          "en": "Raja Ismail",
+          "bm": "Raja Ismail"
+        },
+        {
+          "en": "Sultan Abdul Samad",
+          "bm": "Sultan Abdul Samad"
+        },
+        {
+          "en": "Raja Mahadi",
+          "bm": "Raja Mahadi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-03-q05",
+      "subtopicId": "f3sej-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first British Resident of Perak was…",
+        "bm": "Residen British pertama di Perak ialah…"
       },
       "explanation": {
         "en": "He was killed at Pasir Salak in 1875.",
@@ -221,309 +315,126 @@
           "bm": "Frank Swettenham"
         },
         {
-          "en": "Francis Light",
-          "bm": "Francis Light"
+          "en": "J.P. Rodger",
+          "bm": "J.P. Rodger"
         },
         {
-          "en": "James Brooke",
-          "bm": "James Brooke"
+          "en": "Hugh Low",
+          "bm": "Hugh Low"
         }
       ],
       "answer": 0
-    },
-    {
-      "id": "f3sej-03-q04",
-      "subtopicId": "f3sej-03-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which mineral made the British interested in the west-coast Malay states?",
-        "bm": "Mineral manakah menarik minat British terhadap negeri-negeri Melayu pantai barat?"
-      },
-      "explanation": {
-        "en": "Tin was in great demand by industries in Europe.",
-        "bm": "Bijih timah sangat diperlukan oleh industri di Eropah."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Tin",
-          "bm": "Bijih timah"
-        },
-        {
-          "en": "Gold",
-          "bm": "Emas"
-        },
-        {
-          "en": "Coal",
-          "bm": "Arang batu"
-        },
-        {
-          "en": "Diamonds",
-          "bm": "Berlian"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-03-q05",
-      "subtopicId": "f3sej-03-03",
-      "type": "fill",
-      "prompt": {
-        "en": "Under the Residential System, the Resident's advice did NOT cover matters of Islam and Malay ______.",
-        "bm": "Dalam Sistem Residen, nasihat Residen TIDAK meliputi hal agama Islam dan ______ Melayu."
-      },
-      "explanation": {
-        "en": "Everything else came under the Resident's advice.",
-        "bm": "Hal lain semuanya di bawah nasihat Residen."
-      },
-      "difficulty": 1,
-      "answer": [
-        "custom",
-        "adat",
-        "customs"
-      ]
     },
     {
       "id": "f3sej-03-q06",
-      "subtopicId": "f3sej-03-01",
+      "subtopicId": "f3sej-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "The Larut Wars in Perak were fought between…",
-        "bm": "Perang Larut di Perak berlaku antara…"
+        "en": "The Federated Malay States were formed on…",
+        "bm": "Negeri-negeri Melayu Bersekutu dibentuk pada…"
       },
       "explanation": {
-        "en": "The Ghee Hin and Hai San groups fought over mining land.",
-        "bm": "Kumpulan Ghee Hin dan Hai San bertelagah kerana kawasan lombong."
+        "en": "Members: Perak, Selangor, Negeri Sembilan, Pahang.",
+        "bm": "Anggota: Perak, Selangor, Negeri Sembilan, Pahang."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Chinese secret societies over tin mines",
-          "bm": "kongsi gelap Cina kerana lombong bijih timah"
+          "en": "1 July 1896",
+          "bm": "1 July 1896"
         },
         {
-          "en": "Portugal and the Dutch",
-          "bm": "Portugis dan Belanda"
+          "en": "20 January 1874",
+          "bm": "20 January 1874"
         },
         {
-          "en": "Kedah and Siam",
-          "bm": "Kedah dan Siam"
+          "en": "1 April 1867",
+          "bm": "1 April 1867"
         },
         {
-          "en": "Japan and Britain",
-          "bm": "Jepun dan Britain"
+          "en": "9 July 1909",
+          "bm": "9 July 1909"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q07",
-      "subtopicId": "f3sej-03-03",
+      "subtopicId": "f3sej-03-04",
       "type": "mcq",
       "prompt": {
-        "en": "Pahang accepted a British Resident in…",
-        "bm": "Pahang menerima Residen British pada…"
+        "en": "The capital of the FMS was…",
+        "bm": "Pusat pentadbiran NNMB ialah…"
       },
       "explanation": {
-        "en": "J.P. Rodger became Resident of Pahang.",
-        "bm": "J.P. Rodger menjadi Residen Pahang."
+        "en": "It was also Selangor's capital.",
+        "bm": "Ia juga ibu negeri Selangor."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "1888",
-          "bm": "1888"
+          "en": "Kuala Lumpur",
+          "bm": "Kuala Lumpur"
         },
         {
-          "en": "1874",
-          "bm": "1874"
+          "en": "Ipoh",
+          "bm": "Ipoh"
         },
         {
-          "en": "1909",
-          "bm": "1909"
+          "en": "Singapore",
+          "bm": "Singapore"
         },
         {
-          "en": "1914",
-          "bm": "1914"
+          "en": "Kuala Kangsar",
+          "bm": "Kuala Kangsar"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q08",
-      "subtopicId": "f3sej-03-03",
+      "subtopicId": "f3sej-03-04",
       "type": "mcq",
       "prompt": {
-        "en": "The Residential System is a form of…",
-        "bm": "Sistem Residen ialah satu bentuk pemerintahan…"
+        "en": "The first Resident-General of the FMS was…",
+        "bm": "Residen Jeneral pertama NNMB ialah…"
       },
       "explanation": {
-        "en": "The Sultan stayed as ruler but followed British advice.",
-        "bm": "Sultan kekal sebagai pemerintah tetapi mengikut nasihat British."
+        "en": "He held great power over the four states.",
+        "bm": "Beliau berkuasa besar ke atas empat negeri itu."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "indirect rule",
-          "bm": "tidak langsung"
+          "en": "Frank Swettenham",
+          "bm": "Frank Swettenham"
         },
         {
-          "en": "direct rule",
-          "bm": "langsung"
+          "en": "J.W.W. Birch",
+          "bm": "J.W.W. Birch"
         },
         {
-          "en": "self-government",
-          "bm": "sendiri"
+          "en": "Stamford Raffles",
+          "bm": "Stamford Raffles"
         },
         {
-          "en": "democracy",
-          "bm": "demokrasi"
+          "en": "Francis Light",
+          "bm": "Francis Light"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q09",
-      "subtopicId": "f3sej-03-01",
-      "type": "multi",
-      "prompt": {
-        "en": "Select ALL reasons for British intervention in the Malay states.",
-        "bm": "Pilih SEMUA sebab campur tangan British di negeri-negeri Melayu."
-      },
-      "explanation": {
-        "en": "Portugal was no longer a power in the region.",
-        "bm": "Portugis tidak lagi berkuasa di rantau ini."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "To protect tin investments",
-          "bm": "Melindungi pelaburan bijih timah"
-        },
-        {
-          "en": "Unrest such as the Larut Wars and succession disputes",
-          "bm": "Kekacauan seperti Perang Larut dan perebutan takhta"
-        },
-        {
-          "en": "Fear of other Western powers stepping in",
-          "bm": "Bimbang kuasa Barat lain campur tangan"
-        },
-        {
-          "en": "A request from Portugal",
-          "bm": "Permintaan daripada Portugis"
-        }
-      ],
-      "answer": [
-        0,
-        1,
-        2
-      ]
-    },
-    {
-      "id": "f3sej-03-q10",
       "subtopicId": "f3sej-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which dispute did the Pangkor Treaty settle?",
-        "bm": "Pertikaian manakah diselesaikan oleh Perjanjian Pangkor?"
-      },
-      "explanation": {
-        "en": "Raja Abdullah was recognised as Sultan in return for accepting a Resident.",
-        "bm": "Raja Abdullah diiktiraf sebagai Sultan sebagai balasan menerima Residen."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "The struggle for the Perak throne and the Larut tin conflicts",
-          "bm": "Perebutan takhta Perak dan pergaduhan bijih timah Larut"
-        },
-        {
-          "en": "A border dispute with Siam",
-          "bm": "Pertikaian sempadan dengan Siam"
-        },
-        {
-          "en": "A war with Japan",
-          "bm": "Perang dengan Jepun"
-        },
-        {
-          "en": "A Dutch claim to Melaka",
-          "bm": "Tuntutan Belanda ke atas Melaka"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-03-q11",
-      "subtopicId": "f3sej-03-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why did the Residential System cause unhappiness among Malay chiefs?",
-        "bm": "Mengapakah Sistem Residen menimbulkan rasa tidak puas hati dalam kalangan pembesar Melayu?"
-      },
-      "explanation": {
-        "en": "This led to resistance such as Dato' Maharaja Lela's in Perak.",
-        "bm": "Ini membawa kepada penentangan seperti oleh Dato' Maharaja Lela di Perak."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "They lost the right to collect taxes and their traditional powers",
-          "bm": "Mereka kehilangan hak memungut cukai dan kuasa tradisional"
-        },
-        {
-          "en": "They received more land",
-          "bm": "Mereka mendapat lebih banyak tanah"
-        },
-        {
-          "en": "They became Residents",
-          "bm": "Mereka menjadi Residen"
-        },
-        {
-          "en": "They were given new titles",
-          "bm": "Mereka diberi gelaran baharu"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-03-q12",
-      "subtopicId": "f3sej-03-03",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange these states in the order they accepted a British Resident.",
-        "bm": "Susun negeri mengikut urutan menerima Residen British."
-      },
-      "explanation": {
-        "en": "1874 → 1888 → 1895.",
-        "bm": "1874 → 1888 → 1895."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Perak",
-          "bm": "Perak"
-        },
-        {
-          "en": "Pahang",
-          "bm": "Pahang"
-        },
-        {
-          "en": "Negeri Sembilan (united)",
-          "bm": "Negeri Sembilan (bersatu)"
-        }
-      ]
-    },
-    {
-      "id": "f3sej-03-q13",
-      "subtopicId": "f3sej-03-03",
       "type": "match",
       "prompt": {
-        "en": "Match each state with the year it accepted a Resident.",
-        "bm": "Padankan negeri dengan tahun menerima Residen."
+        "en": "Match each state with when it accepted a British Resident.",
+        "bm": "Padankan negeri dengan bila ia menerima Residen British."
       },
       "explanation": {
-        "en": "Selangor's first Resident (J.G. Davidson) took office in 1875 after an 1874 agreement.",
-        "bm": "Residen pertama Selangor (J.G. Davidson) memegang jawatan pada 1875 selepas persetujuan 1874."
+        "en": "Sungai Ujong accepted British control in 1874.",
+        "bm": "Sungai Ujong menerima kawalan British pada 1874."
       },
       "difficulty": 2,
       "pairs": [
@@ -539,6 +450,16 @@
         },
         {
           "left": {
+            "en": "Selangor",
+            "bm": "Selangor"
+          },
+          "right": {
+            "en": "1875",
+            "bm": "1875"
+          }
+        },
+        {
+          "left": {
             "en": "Pahang",
             "bm": "Pahang"
           },
@@ -550,138 +471,262 @@
         {
           "left": {
             "en": "Negeri Sembilan (united)",
-            "bm": "Negeri Sembilan (bersatu)"
+            "bm": "Negeri Sembilan (disatukan)"
           },
           "right": {
             "en": "1895",
             "bm": "1895"
           }
+        }
+      ]
+    },
+    {
+      "id": "f3sej-03-q10",
+      "subtopicId": "f3sej-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Under the Residential System, the Sultan kept authority over…",
+        "bm": "Di bawah Sistem Residen, Sultan mengekalkan kuasa dalam hal…"
+      },
+      "explanation": {
+        "en": "The Resident controlled almost everything else.",
+        "bm": "Residen mengawal hampir semua perkara lain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Islam and Malay custom",
+          "bm": "agama Islam dan adat Melayu"
         },
         {
-          "left": {
-            "en": "Selangor",
-            "bm": "Selangor"
-          },
-          "right": {
-            "en": "1875",
-            "bm": "1875"
-          }
+          "en": "taxes",
+          "bm": "cukai"
+        },
+        {
+          "en": "the police",
+          "bm": "polis"
+        },
+        {
+          "en": "land",
+          "bm": "tanah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-03-q11",
+      "subtopicId": "f3sej-03-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL reasons Britain intervened in the Malay states in the 1870s.",
+        "bm": "Pilih SEMUA sebab British campur tangan di negeri-negeri Melayu pada 1870-an."
+      },
+      "explanation": {
+        "en": "Industrial demand for tin was the background.",
+        "bm": "Permintaan industri terhadap bijih timah menjadi latar belakang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Protect tin investments of Straits traders",
+          "bm": "Melindungi pelaburan bijih timah pedagang Negeri-negeri Selat"
+        },
+        {
+          "en": "Unrest such as the Larut Wars and succession disputes",
+          "bm": "Kekacauan seperti Perang Larut dan perebutan takhta"
+        },
+        {
+          "en": "Stop other Western powers gaining influence",
+          "bm": "Menyekat kuasa Barat lain daripada mendapat pengaruh"
+        },
+        {
+          "en": "Local rulers asked to be colonised",
+          "bm": "Pemerintah tempatan meminta dijajah"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "f3sej-03-q12",
+      "subtopicId": "f3sej-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Larut Wars involved…",
+        "bm": "Perang Larut melibatkan…"
+      },
+      "explanation": {
+        "en": "Disorder harmed trade and gave Britain a reason to intervene.",
+        "bm": "Kekacauan menjejaskan perdagangan dan memberi alasan kepada British untuk campur tangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Chinese secret societies (Ghee Hin and Hai San) fighting over tin mines",
+          "bm": "kongsi gelap Cina (Ghee Hin dan Hai San) berebut lombong bijih timah"
+        },
+        {
+          "en": "Portuguese and Dutch navies",
+          "bm": "tentera laut Portugis dan Belanda"
+        },
+        {
+          "en": "Siam and Burma",
+          "bm": "Siam dan Burma"
+        },
+        {
+          "en": "British and French",
+          "bm": "British dan Perancis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-03-q13",
+      "subtopicId": "f3sej-03-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these events in order.",
+        "bm": "Susun peristiwa ini mengikut urutan."
+      },
+      "explanation": {
+        "en": "1874 → 1888 → 1895 → 1896.",
+        "bm": "1874 → 1888 → 1895 → 1896."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Pangkor Treaty",
+          "bm": "Perjanjian Pangkor"
+        },
+        {
+          "en": "Pahang accepts a Resident",
+          "bm": "Pahang menerima Residen"
+        },
+        {
+          "en": "Negeri Sembilan united",
+          "bm": "Negeri Sembilan disatukan"
+        },
+        {
+          "en": "FMS formed",
+          "bm": "NNMB dibentuk"
         }
       ]
     },
     {
       "id": "f3sej-03-q14",
-      "subtopicId": "f3sej-03-02",
+      "subtopicId": "f3sej-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Who was recognised as Sultan of Perak under the Pangkor Treaty?",
-        "bm": "Siapakah yang diiktiraf sebagai Sultan Perak melalui Perjanjian Pangkor?"
+        "en": "Which was a reason for forming the FMS?",
+        "bm": "Antara berikut, yang manakah sebab pembentukan NNMB?"
       },
       "explanation": {
-        "en": "Raja Abdullah had asked the British for help.",
-        "bm": "Raja Abdullah telah meminta bantuan British."
+        "en": "Pahang had financial problems after accepting a Resident.",
+        "bm": "Pahang menghadapi masalah kewangan selepas menerima Residen."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Raja Abdullah",
-          "bm": "Raja Abdullah"
+          "en": "To make administration uniform and help poorer Pahang",
+          "bm": "Untuk menyeragamkan pentadbiran dan membantu Pahang yang miskin"
         },
         {
-          "en": "Raja Ismail",
-          "bm": "Raja Ismail"
+          "en": "To give the Sultans full power",
+          "bm": "Untuk memberi kuasa penuh kepada Sultan"
         },
         {
-          "en": "Raja Yusuf",
-          "bm": "Raja Yusuf"
+          "en": "To end British rule",
+          "bm": "Untuk menamatkan pemerintahan British"
         },
         {
-          "en": "Sultan Abdul Samad",
-          "bm": "Sultan Abdul Samad"
+          "en": "To join Siam",
+          "bm": "Untuk menyertai Siam"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q15",
-      "subtopicId": "f3sej-03-03",
+      "subtopicId": "f3sej-03-04",
       "type": "fill",
       "prompt": {
-        "en": "The British officer placed in each Malay state to advise the Sultan was called the ______.",
-        "bm": "Pegawai British yang ditempatkan di setiap negeri Melayu untuk menasihati Sultan dipanggil ______."
+        "en": "The first Durbar (conference of FMS rulers) was held in Kuala ______ in 1897.",
+        "bm": "Durbar pertama (persidangan raja-raja NNMB) diadakan di Kuala ______ pada 1897."
       },
       "explanation": {
-        "en": "Later states had \"Advisers\" instead.",
-        "bm": "Negeri-negeri kemudian mempunyai \"Penasihat\" sebagai gantinya."
+        "en": "The second was in Kuala Lumpur in 1903.",
+        "bm": "Yang kedua di Kuala Lumpur pada 1903."
       },
       "difficulty": 2,
       "answer": [
-        "Resident",
-        "Residen"
+        "Kangsar"
       ]
     },
     {
       "id": "f3sej-03-q16",
-      "subtopicId": "f3sej-03-01",
+      "subtopicId": "f3sej-03-04",
       "type": "mcq",
       "prompt": {
-        "en": "Why did tin become so valuable in the 19th century?",
-        "bm": "Mengapakah bijih timah menjadi sangat bernilai pada abad ke-19?"
+        "en": "The Federal Council of the FMS was set up in…",
+        "bm": "Majlis Mesyuarat Persekutuan NNMB ditubuhkan pada…"
       },
       "explanation": {
-        "en": "The Industrial Revolution increased demand.",
-        "bm": "Revolusi Perindustrian meningkatkan permintaan."
+        "en": "It made laws for the whole FMS.",
+        "bm": "Ia menggubal undang-undang untuk seluruh NNMB."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Industries in Europe used it for making tin cans and other products",
-          "bm": "Industri di Eropah menggunakannya untuk membuat tin makanan dan barangan lain"
+          "en": "1909",
+          "bm": "1909"
         },
         {
-          "en": "It was used as money in Malaya",
-          "bm": "Ia digunakan sebagai wang di Tanah Melayu"
+          "en": "1896",
+          "bm": "1896"
         },
         {
-          "en": "It was used to make rubber",
-          "bm": "Ia digunakan untuk membuat getah"
+          "en": "1874",
+          "bm": "1874"
         },
         {
-          "en": "It was a fuel",
-          "bm": "Ia bahan api"
+          "en": "1946",
+          "bm": "1946"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-03-q17",
-      "subtopicId": "f3sej-03-03",
+      "subtopicId": "f3sej-03-04",
       "type": "mcq",
       "prompt": {
-        "en": "The Sultan kept his throne but lost real power. Which statement BEST explains this?",
-        "bm": "Sultan kekal di takhta tetapi kehilangan kuasa sebenar. Pernyataan manakah PALING menerangkannya?"
+        "en": "How did the FMS affect the power of the Malay rulers?",
+        "bm": "Bagaimanakah NNMB menjejaskan kuasa raja-raja Melayu?"
       },
       "explanation": {
-        "en": "Religion and custom were left to the Sultan, but these did not control the economy.",
-        "bm": "Agama dan adat diserahkan kepada Sultan, tetapi ia tidak mengawal ekonomi."
+        "en": "This made the Unfederated states wary of joining.",
+        "bm": "Ini menyebabkan negeri tidak bersekutu berwaspada untuk menyertai."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The Resident's \"advice\" covered taxes, law and administration, which are the real powers of government",
-          "bm": "\"Nasihat\" Residen meliputi cukai, undang-undang dan pentadbiran, iaitu kuasa sebenar kerajaan"
+          "en": "Their power fell further as decisions were centralised in Kuala Lumpur under the Resident-General",
+          "bm": "Kuasa mereka semakin berkurang kerana keputusan dipusatkan di Kuala Lumpur di bawah Residen Jeneral"
         },
         {
-          "en": "The Sultan chose to retire",
-          "bm": "Sultan memilih untuk bersara"
+          "en": "They gained full control",
+          "bm": "Mereka mendapat kawalan penuh"
         },
         {
-          "en": "The Sultan ruled London",
-          "bm": "Sultan memerintah London"
+          "en": "Nothing changed",
+          "bm": "Tiada perubahan"
         },
         {
-          "en": "Residents only advised on religion",
-          "bm": "Residen hanya menasihati hal agama"
+          "en": "They ruled Singapore",
+          "bm": "Mereka memerintah Singapura"
         }
       ],
       "answer": 0
@@ -691,30 +736,30 @@
       "subtopicId": "f3sej-03-02",
       "type": "mcq",
       "prompt": {
-        "en": "What does the killing of J.W.W. Birch in 1875 show?",
-        "bm": "Apakah yang ditunjukkan oleh pembunuhan J.W.W. Birch pada 1875?"
+        "en": "Why did the Residential System cause resentment among Malay chiefs?",
+        "bm": "Mengapakah Sistem Residen menimbulkan rasa tidak puas hati dalam kalangan pembesar Melayu?"
       },
       "explanation": {
-        "en": "Birch also ignored Malay customs, which angered the chiefs.",
-        "bm": "Birch juga mengabaikan adat Melayu, yang menimbulkan kemarahan pembesar."
+        "en": "This led to resistance such as at Pasir Salak.",
+        "bm": "Ini membawa kepada penentangan seperti di Pasir Salak."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Strong local opposition to the Residential System and loss of power",
-          "bm": "Penentangan tempatan yang kuat terhadap Sistem Residen dan kehilangan kuasa"
+          "en": "They lost the right to collect taxes and their traditional powers",
+          "bm": "Mereka hilang hak memungut cukai dan kuasa tradisional"
         },
         {
-          "en": "Support for British rule",
-          "bm": "Sokongan kepada pemerintahan British"
+          "en": "They gained more land",
+          "bm": "Mereka mendapat lebih banyak tanah"
         },
         {
-          "en": "A dispute between Britain and the Dutch",
-          "bm": "Pertikaian antara Britain dan Belanda"
+          "en": "They were paid more",
+          "bm": "Mereka dibayar lebih"
         },
         {
-          "en": "A Chinese secret-society war",
-          "bm": "Perang kongsi gelap Cina"
+          "en": "They ruled the Straits Settlements",
+          "bm": "Mereka memerintah Negeri-negeri Selat"
         }
       ],
       "answer": 0
@@ -724,30 +769,30 @@
       "subtopicId": "f3sej-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which BEST describes the role of Straits traders in British intervention?",
-        "bm": "Manakah PALING tepat menggambarkan peranan pedagang Negeri-negeri Selat dalam campur tangan British?"
+        "en": "Why were the west-coast tin states developed earlier than other areas?",
+        "bm": "Mengapakah negeri bijih timah di pantai barat dibangunkan lebih awal?"
       },
       "explanation": {
-        "en": "Unrest threatened their profits.",
-        "bm": "Kekacauan mengancam keuntungan mereka."
+        "en": "This led to uneven development.",
+        "bm": "Ini menyebabkan pembangunan tidak seimbang."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "They invested in tin and pressed the British to restore order in the Malay states",
-          "bm": "Mereka melabur dalam bijih timah dan mendesak British memulihkan keamanan di negeri-negeri Melayu"
+          "en": "Britain built roads, railways and towns to move tin to ports",
+          "bm": "British membina jalan raya, landasan kereta api dan bandar untuk membawa bijih timah ke pelabuhan"
         },
         {
-          "en": "They opposed all British involvement",
-          "bm": "Mereka menentang semua penglibatan British"
+          "en": "They had more rain",
+          "bm": "Hujan lebih banyak"
         },
         {
-          "en": "They were Malay chiefs",
-          "bm": "Mereka pembesar Melayu"
+          "en": "They had no rulers",
+          "bm": "Tiada pemerintah"
         },
         {
-          "en": "They came from Portugal",
-          "bm": "Mereka datang dari Portugis"
+          "en": "The east coast had no people",
+          "bm": "Pantai timur tiada penduduk"
         }
       ],
       "answer": 0
@@ -757,30 +802,30 @@
       "subtopicId": "f3sej-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Compare British rule in the Straits Settlements and in Perak after 1874.",
-        "bm": "Bandingkan pemerintahan British di Negeri-negeri Selat dan di Perak selepas 1874."
+        "en": "Pahang joined the FMS although it was poor. How did federation help Pahang?",
+        "bm": "Pahang menyertai NNMB walaupun miskin. Bagaimanakah persekutuan membantu Pahang?"
       },
       "explanation": {
-        "en": "Perak kept its Sultan; the Straits Settlements did not have sultans.",
-        "bm": "Perak mengekalkan Sultan; Negeri-negeri Selat tiada sultan."
+        "en": "Pahang had debts after accepting a Resident in 1888.",
+        "bm": "Pahang berhutang selepas menerima Residen pada 1888."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Straits Settlements: direct rule; Perak: indirect rule through a Resident",
-          "bm": "Negeri-negeri Selat: pemerintahan langsung; Perak: tidak langsung melalui Residen"
+          "en": "Revenue from richer Perak and Selangor could fund Pahang's administration and development",
+          "bm": "Hasil daripada Perak dan Selangor yang kaya boleh membiayai pentadbiran dan pembangunan Pahang"
         },
         {
-          "en": "Both direct",
-          "bm": "Kedua-duanya langsung"
+          "en": "Pahang became the capital",
+          "bm": "Pahang menjadi pusat pentadbiran"
         },
         {
-          "en": "Both ruled by Sultans only",
-          "bm": "Kedua-duanya diperintah Sultan sahaja"
+          "en": "Pahang paid for the other states",
+          "bm": "Pahang membiayai negeri lain"
         },
         {
-          "en": "Perak: direct; Straits: indirect",
-          "bm": "Perak: langsung; Negeri-negeri Selat: tidak langsung"
+          "en": "It did not help at all",
+          "bm": "Ia langsung tidak membantu"
         }
       ],
       "answer": 0

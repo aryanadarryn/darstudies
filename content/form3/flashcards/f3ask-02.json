@@ -5,180 +5,180 @@
       "id": "f3ask-02-f01",
       "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "int / float",
-        "bm": "int / float"
+        "en": "Cryptography",
+        "bm": "Kriptografi"
       },
       "back": {
-        "en": "Whole number / decimal",
-        "bm": "Nombor bulat / perpuluhan"
+        "en": "Keeping information secret with codes",
+        "bm": "Merahsiakan maklumat menggunakan kod"
       }
     },
     {
       "id": "f3ask-02-f02",
       "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "str / bool",
-        "bm": "str / bool"
+        "en": "Importance",
+        "bm": "Kepentingan"
       },
       "back": {
-        "en": "Text in quotes / True or False",
-        "bm": "Teks dalam tanda petik / True atau False"
+        "en": "Protects banking, messages, passwords",
+        "bm": "Melindungi perbankan, mesej, kata laluan"
       }
     },
     {
       "id": "f3ask-02-f03",
       "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "input()",
-        "bm": "input()"
+        "en": "Plain text / cipher text",
+        "bm": "Teks biasa / teks sifer"
       },
       "back": {
-        "en": "Always returns a string",
-        "bm": "Sentiasa memulangkan rentetan"
+        "en": "Readable / scrambled",
+        "bm": "Boleh dibaca / dikacau"
       }
     },
     {
       "id": "f3ask-02-f04",
       "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "int(input())",
-        "bm": "int(input())"
+        "en": "Encryption",
+        "bm": "Penyulitan"
       },
       "back": {
-        "en": "Read a whole number",
-        "bm": "Baca nombor bulat"
+        "en": "Plain → cipher",
+        "bm": "Biasa → sifer"
       }
     },
     {
       "id": "f3ask-02-f05",
       "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "Variable names",
-        "bm": "Nama pemboleh ubah"
+        "en": "Decryption",
+        "bm": "Nyahsulit"
       },
       "back": {
-        "en": "Letters, digits, _; cannot start with a digit",
-        "bm": "Huruf, digit, _; tidak boleh bermula dengan digit"
+        "en": "Cipher → plain",
+        "bm": "Sifer → biasa"
       }
     },
     {
       "id": "f3ask-02-f06",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "17 // 5",
-        "bm": "17 // 5"
+        "en": "Key",
+        "bm": "Kunci"
       },
       "back": {
-        "en": "3",
-        "bm": "3"
+        "en": "Secret rule, e.g. shift 3",
+        "bm": "Peraturan rahsia, cth. anjakan 3"
       }
     },
     {
       "id": "f3ask-02-f07",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "17 % 5",
-        "bm": "17 % 5"
+        "en": "Reverse cipher",
+        "bm": "Sifer songsang"
       },
       "back": {
-        "en": "2",
-        "bm": "2"
+        "en": "KOMPUTER → RETUPMOK",
+        "bm": "KOMPUTER → RETUPMOK"
       }
     },
     {
       "id": "f3ask-02-f08",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "2 ** 3",
-        "bm": "2 ** 3"
+        "en": "Caesar cipher",
+        "bm": "Sifer Caesar"
       },
       "back": {
-        "en": "8",
-        "bm": "8"
+        "en": "Shift letters: BUKU (+3) → EXNX",
+        "bm": "Anjak huruf: BUKU (+3) → EXNX"
       }
     },
     {
       "id": "f3ask-02-f09",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "7 / 2",
-        "bm": "7 / 2"
+        "en": "Caesar wrap-around",
+        "bm": "Kitaran Caesar"
       },
       "back": {
-        "en": "3.5",
-        "bm": "3.5"
+        "en": "After Z go back to A (Y +3 → B)",
+        "bm": "Selepas Z kembali ke A (Y +3 → B)"
       }
     },
     {
       "id": "f3ask-02-f10",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "== vs =",
-        "bm": "== vs ="
+        "en": "Pigpen cipher",
+        "bm": "Sifer Pigpen"
       },
       "back": {
-        "en": "Compare vs assign",
-        "bm": "Bandingkan vs umpukkan"
+        "en": "Letters → grid symbols",
+        "bm": "Huruf → simbol grid"
       }
     },
     {
       "id": "f3ask-02-f11",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "range(5)",
-        "bm": "range(5)"
+        "en": "Transposition cipher",
+        "bm": "Sifer transposisi"
       },
       "back": {
-        "en": "0, 1, 2, 3, 4",
-        "bm": "0, 1, 2, 3, 4"
+        "en": "Rearrange positions: SEKOLAH → SKLHEOA",
+        "bm": "Susun semula: SEKOLAH → SKLHEOA"
       }
     },
     {
       "id": "f3ask-02-f12",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "range(1, 6)",
-        "bm": "range(1, 6)"
+        "en": "Substitution vs transposition",
+        "bm": "Penggantian vs transposisi"
       },
       "back": {
-        "en": "1, 2, 3, 4, 5",
-        "bm": "1, 2, 3, 4, 5"
+        "en": "Change letters vs change order",
+        "bm": "Tukar huruf vs tukar susunan"
       }
     },
     {
       "id": "f3ask-02-f13",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "if / elif / else",
-        "bm": "if / elif / else"
+        "en": "Caesar weakness",
+        "bm": "Kelemahan Caesar"
       },
       "back": {
-        "en": "Selection; needs colons and indentation",
-        "bm": "Pilihan; perlukan titik bertindih dan inden"
+        "en": "Only 25 keys — easy brute force",
+        "bm": "Hanya 25 kunci — mudah dipecahkan"
       }
     },
     {
       "id": "f3ask-02-f14",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "while",
-        "bm": "while"
+        "en": "Stronger approach",
+        "bm": "Pendekatan lebih kukuh"
       },
       "back": {
-        "en": "Repeats while the condition is True",
-        "bm": "Berulang selagi syarat True"
+        "en": "Combine methods; protect the key",
+        "bm": "Gabungkan kaedah; lindungi kunci"
       }
     },
     {
       "id": "f3ask-02-f15",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "front": {
-        "en": "Even number test",
-        "bm": "Ujian nombor genap"
+        "en": "https",
+        "bm": "https"
       },
       "back": {
-        "en": "n % 2 == 0",
-        "bm": "n % 2 == 0"
+        "en": "Website traffic is encrypted",
+        "bm": "Trafik laman web disulitkan"
       }
     }
   ]

@@ -9,34 +9,45 @@
     "bm": "Sejarah"
   },
   "color": "#b45309",
-  "source": "Covers the Form 3 KSSM Sejarah scope (Western powers, British administration, Sarawak and Sabah, effects and local resistance). Chapter grouping may differ slightly from your textbook — verify with the latest DSKP. Learning content is original.",
+  "source": "Follows the 8 chapters and subtopics of the Form 3 KSSM Sejarah textbook (theme: Campur Tangan dan Penjajahan Kuasa Barat). Learning content is original — check details against your textbook.",
   "chapters": [
     {
       "number": 1,
       "title": {
-        "en": "The Arrival of Western Powers",
+        "en": "The Coming of Western Powers",
         "bm": "Kedatangan Kuasa Barat"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "1.1",
           "title": {
-            "en": "The Portuguese and the Dutch in Melaka",
-            "bm": "Portugis dan Belanda di Melaka"
+            "en": "Stability and Prosperity of Our Country",
+            "bm": "Kestabilan dan Kemakmuran Negara Kita"
           }
         },
         {
           "code": "1.2",
           "title": {
-            "en": "British Expansion: Penang and Singapore",
-            "bm": "Peluasan British: Pulau Pinang dan Singapura"
+            "en": "Factors Behind the Coming of Western Powers",
+            "bm": "Faktor Kedatangan Kuasa Barat ke Negara Kita"
           }
         },
         {
           "code": "1.3",
           "title": {
-            "en": "The Anglo-Dutch Treaty 1824",
-            "bm": "Perjanjian Inggeris-Belanda 1824"
+            "en": "Rivalry of Western Powers for Colonies",
+            "bm": "Persaingan Kuasa Barat untuk Mendapatkan Tanah Jajahan"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Different Strategies of the Western Powers",
+            "bm": "Perbezaan Strategi Kuasa Barat untuk Menguasai Negara Kita"
           }
         }
       ]
@@ -44,22 +55,40 @@
     {
       "number": 2,
       "title": {
-        "en": "The Straits Settlements",
-        "bm": "Negeri-negeri Selat"
+        "en": "Administration of the Straits Settlements",
+        "bm": "Pentadbiran Negeri-negeri Selat"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "2.1",
+          "title": {
+            "en": "British Expansion in Penang, Singapore and Melaka",
+            "bm": "Peluasan Kuasa British di Pulau Pinang, Singapura dan Melaka"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "The London Treaty 1824 and Its Effects on the Malay World",
+            "bm": "Perjanjian London 1824 dan Kesannya terhadap Alam Melayu"
+          }
+        },
+        {
+          "code": "2.3",
           "title": {
             "en": "Formation of the Straits Settlements",
             "bm": "Pembentukan Negeri-negeri Selat"
           }
         },
         {
-          "code": "2.2",
+          "code": "2.4",
           "title": {
-            "en": "Administration and Development",
-            "bm": "Pentadbiran dan Perkembangan"
+            "en": "Administration of the Straits Settlements",
+            "bm": "Pentadbiran Negeri-negeri Selat"
           }
         }
       ]
@@ -67,29 +96,40 @@
     {
       "number": 3,
       "title": {
-        "en": "British Intervention and the Residential System",
-        "bm": "Campur Tangan British dan Sistem Residen"
+        "en": "Administration of the Federated Malay States",
+        "bm": "Pentadbiran Negeri-negeri Melayu Bersekutu"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "3.1",
           "title": {
-            "en": "Reasons for British Intervention",
-            "bm": "Sebab Campur Tangan British"
+            "en": "Natural Wealth of Perak, Selangor, Negeri Sembilan and Pahang",
+            "bm": "Kekayaan Hasil Bumi di Perak, Selangor, Negeri Sembilan dan Pahang"
           }
         },
         {
           "code": "3.2",
           "title": {
-            "en": "The Pangkor Treaty 1874",
-            "bm": "Perjanjian Pangkor 1874"
+            "en": "British Expansion in Perak, Selangor, Negeri Sembilan and Pahang",
+            "bm": "Peluasan Kuasa British di Perak, Selangor, Negeri Sembilan dan Pahang"
           }
         },
         {
           "code": "3.3",
           "title": {
-            "en": "The Residential System",
-            "bm": "Sistem Residen"
+            "en": "Formation of the Federated Malay States",
+            "bm": "Pembentukan Negeri-negeri Melayu Bersekutu"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "Administration of the Federated Malay States",
+            "bm": "Pentadbiran Negeri-negeri Melayu Bersekutu"
           }
         }
       ]
@@ -97,22 +137,40 @@
     {
       "number": 4,
       "title": {
-        "en": "The Federated and Unfederated Malay States",
-        "bm": "Negeri-negeri Melayu Bersekutu dan Tidak Bersekutu"
+        "en": "Administration of the Unfederated Malay States",
+        "bm": "Pentadbiran Negeri-negeri Melayu Tidak Bersekutu"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "4.1",
           "title": {
-            "en": "The Federated Malay States 1896",
-            "bm": "Negeri-negeri Melayu Bersekutu 1896"
+            "en": "Malay Sultanates in Perlis, Kedah, Kelantan, Terengganu and Johor",
+            "bm": "Pemerintahan Kesultanan Melayu di Perlis, Kedah, Kelantan, Terengganu dan Johor"
           }
         },
         {
           "code": "4.2",
           "title": {
-            "en": "The Unfederated Malay States",
-            "bm": "Negeri-negeri Melayu Tidak Bersekutu"
+            "en": "British Expansion in Perlis, Kedah, Kelantan and Terengganu",
+            "bm": "Peluasan Kuasa British di Perlis, Kedah, Kelantan dan Terengganu"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "British Expansion in Johor",
+            "bm": "Peluasan Kuasa British di Johor"
+          }
+        },
+        {
+          "code": "4.4",
+          "title": {
+            "en": "Administration of the Unfederated Malay States",
+            "bm": "Sistem Pentadbiran Negeri-negeri Melayu Tidak Bersekutu"
           }
         }
       ]
@@ -120,22 +178,40 @@
     {
       "number": 5,
       "title": {
-        "en": "Sarawak and Sabah under Western Rule",
-        "bm": "Sarawak dan Sabah di bawah Pemerintahan Barat"
+        "en": "Western Administration in Sarawak and Sabah",
+        "bm": "Pentadbiran Barat di Sarawak dan Sabah"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "5.1",
           "title": {
-            "en": "Sarawak under the Brooke Family",
-            "bm": "Sarawak di bawah Keluarga Brooke"
+            "en": "Background of Local Rule in Sarawak and Sabah",
+            "bm": "Latar Belakang Pemerintahan Tempatan di Sarawak dan Sabah"
           }
         },
         {
           "code": "5.2",
           "title": {
-            "en": "Sabah under the British North Borneo Company",
-            "bm": "Sabah di bawah Syarikat Borneo Utara British"
+            "en": "Expansion of the Brooke Dynasty in Sarawak",
+            "bm": "Peluasan Kuasa Dinasti Brooke di Sarawak"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Expansion of the British North Borneo Company in Sabah",
+            "bm": "Peluasan Kuasa Syarikat Borneo Utara British di Sabah"
+          }
+        },
+        {
+          "code": "5.4",
+          "title": {
+            "en": "Forms of Western Administration in Sarawak and Sabah",
+            "bm": "Bentuk Pentadbiran Barat di Sarawak dan Sabah"
           }
         }
       ]
@@ -143,22 +219,40 @@
     {
       "number": 6,
       "title": {
-        "en": "Effects of Western Administration",
-        "bm": "Kesan Pentadbiran Barat"
+        "en": "Economic and Social Effects of Western Administration",
+        "bm": "Kesan Pentadbiran Barat terhadap Ekonomi dan Sosial"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "6.1",
           "title": {
-            "en": "Economic Effects",
-            "bm": "Kesan Ekonomi"
+            "en": "Introduction of a Modern Economy",
+            "bm": "Pengenalan Ekonomi Moden oleh Kuasa Barat di Negara Kita"
           }
         },
         {
           "code": "6.2",
           "title": {
-            "en": "Social Effects",
-            "bm": "Kesan Sosial"
+            "en": "Western Administration Related to the Economy",
+            "bm": "Pentadbiran Barat Berkaitan dengan Ekonomi"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Economic Effects of Western Administration",
+            "bm": "Kesan Ekonomi Akibat Pentadbiran Barat di Negara Kita"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Social Effects of Economic Development",
+            "bm": "Kesan Sosial Akibat Perkembangan Ekonomi di Negara Kita"
           }
         }
       ]
@@ -166,29 +260,81 @@
     {
       "number": 7,
       "title": {
-        "en": "Local Resistance against Western Powers",
-        "bm": "Penentangan Masyarakat Tempatan terhadap Kuasa Barat"
+        "en": "Resistance of Local Communities",
+        "bm": "Penentangan Masyarakat Tempatan"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
       },
       "subtopics": [
         {
           "code": "7.1",
           "title": {
-            "en": "Causes of Resistance",
-            "bm": "Sebab Penentangan"
+            "en": "Aims and Forms of Resistance",
+            "bm": "Matlamat dan Bentuk Penentangan Masyarakat Tempatan"
           }
         },
         {
           "code": "7.2",
           "title": {
-            "en": "Resistance in the Malay Peninsula",
-            "bm": "Penentangan di Semenanjung"
+            "en": "How Western Administration Affected Local Rulers and Communities",
+            "bm": "Sistem Pentadbiran Barat Memberikan Kesan terhadap Kuasa Pemerintahan dan Kehidupan Masyarakat Tempatan"
           }
         },
         {
           "code": "7.3",
           "title": {
-            "en": "Resistance in Sarawak and Sabah",
-            "bm": "Penentangan di Sarawak dan Sabah"
+            "en": "Resistance of Local Communities against Western Powers",
+            "bm": "Penentangan Masyarakat Tempatan terhadap Kuasa Barat"
+          }
+        },
+        {
+          "code": "7.4",
+          "title": {
+            "en": "Effects of the Resistance",
+            "bm": "Kesan Penentangan Masyarakat Tempatan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "The Wisdom of Malay Rulers and Chiefs in Facing Western Challenges",
+        "bm": "Kebijaksanaan Raja dan Pembesar Melayu Menangani Cabaran Barat"
+      },
+      "theme": {
+        "en": "Western Intervention and Colonisation",
+        "bm": "Campur Tangan dan Penjajahan Kuasa Barat"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Reactions of the Northern Malay States and Johor to Western Actions",
+            "bm": "Reaksi Pemerintah Negeri-negeri Melayu Utara dan Johor terhadap Tindakan Barat"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Actions of Malay Rulers in Facing Western Challenges",
+            "bm": "Tindakan Raja Melayu Menangani Cabaran Barat"
+          }
+        },
+        {
+          "code": "8.3",
+          "title": {
+            "en": "Efforts of Malay Chiefs to Modernise the States",
+            "bm": "Usaha Pembesar Melayu dalam Pemodenan Negeri"
+          }
+        },
+        {
+          "code": "8.4",
+          "title": {
+            "en": "Effectiveness of Local Rulers in Facing Western Challenges",
+            "bm": "Keberkesanan Peranan Pemerintah Tempatan dalam Menangani Cabaran Barat"
           }
         }
       ]

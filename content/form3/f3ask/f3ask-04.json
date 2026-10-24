@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Every website you visit — from your school portal to YouTube — is built on HTML for structure and CSS for style.",
-      "bm": "Setiap laman web yang anda lawati — daripada portal sekolah hingga YouTube — dibina dengan HTML untuk struktur dan CSS untuk gaya."
+      "en": "Your school's student records, the library catalogue and online shops all sit in databases — and SQL is the language used to ask them questions.",
+      "bm": "Rekod murid sekolah, katalog perpustakaan dan kedai dalam talian semuanya disimpan dalam pangkalan data — dan SQL ialah bahasa untuk bertanya soalan kepadanya."
     },
     "bigIdeas": [
       {
-        "en": "HTML uses tags to mark up content: <h1> for headings, <p> for paragraphs, <a> for links, <img> for images.",
-        "bm": "HTML menggunakan tag untuk menanda kandungan: <h1> untuk tajuk, <p> untuk perenggan, <a> untuk pautan, <img> untuk imej."
+        "en": "A database stores related data in tables (entities) made of fields (attributes); primary and foreign keys link tables.",
+        "bm": "Pangkalan data menyimpan data berkaitan dalam jadual (entiti) yang terdiri daripada medan (atribut); kekunci primer dan kekunci asing menghubungkan jadual."
       },
       {
-        "en": "A page has <html>, <head> (information such as <title>) and <body> (visible content).",
-        "bm": "Halaman mempunyai <html>, <head> (maklumat seperti <title>) dan <body> (kandungan yang dipaparkan)."
+        "en": "SQL commands such as SELECT, WHERE and ORDER BY, with AND/OR, retrieve data to produce reports.",
+        "bm": "Arahan SQL seperti SELECT, WHERE dan ORDER BY, dengan AND/OR, mendapatkan data untuk menghasilkan laporan."
       },
       {
-        "en": "CSS rules have a selector and declarations: p { color: blue; }.",
-        "bm": "Peraturan CSS mempunyai pemilih dan pengisytiharan: p { color: blue; }."
+        "en": "Functions return a value; procedures carry out a task. Functions can be built-in or user-defined.",
+        "bm": "Function memulangkan nilai; procedure melaksanakan tugas. Function boleh jadi terbina dalam atau dihasilkan sendiri."
       }
     ],
     "infographic": {
@@ -25,92 +25,92 @@
       "data": {
         "headers": [
           {
-            "en": "Tag",
-            "bm": "Tag"
+            "en": "Meaning",
+            "bm": "Maksud"
           },
           {
-            "en": "Purpose",
-            "bm": "Kegunaan"
+            "en": "Example",
+            "bm": "Contoh"
           }
         ],
         "rows": [
           {
             "label": {
-              "en": "Heading",
-              "bm": "Tajuk"
+              "en": "Entity (table)",
+              "bm": "Entiti (jadual)"
             },
             "cells": [
               {
-                "en": "<h1> … <h6>",
-                "bm": "<h1> … <h6>"
+                "en": "A thing we store data about",
+                "bm": "Perkara yang datanya disimpan"
               },
               {
-                "en": "Headings, h1 is the largest",
-                "bm": "Tajuk, h1 paling besar"
+                "en": "MURID, KELAS",
+                "bm": "MURID, KELAS"
               }
             ]
           },
           {
             "label": {
-              "en": "Paragraph",
-              "bm": "Perenggan"
+              "en": "Attribute (field)",
+              "bm": "Atribut (medan)"
             },
             "cells": [
               {
-                "en": "<p>",
-                "bm": "<p>"
+                "en": "A property of the entity",
+                "bm": "Ciri entiti"
               },
               {
-                "en": "A block of text",
-                "bm": "Blok teks"
+                "en": "Nama, NoMurid",
+                "bm": "Nama, NoMurid"
               }
             ]
           },
           {
             "label": {
-              "en": "Link",
-              "bm": "Pautan"
+              "en": "Primary key",
+              "bm": "Kekunci primer"
             },
             "cells": [
               {
-                "en": "<a href=\"…\">",
-                "bm": "<a href=\"…\">"
+                "en": "Uniquely identifies each record",
+                "bm": "Mengenal pasti setiap rekod secara unik"
               },
               {
-                "en": "Hyperlink to another page",
-                "bm": "Hiperpautan ke halaman lain"
+                "en": "NoMurid",
+                "bm": "NoMurid"
               }
             ]
           },
           {
             "label": {
-              "en": "Image",
-              "bm": "Imej"
+              "en": "Foreign key",
+              "bm": "Kekunci asing"
             },
             "cells": [
               {
-                "en": "<img src=\"…\" alt=\"…\">",
-                "bm": "<img src=\"…\" alt=\"…\">"
+                "en": "Field that refers to another table's primary key",
+                "bm": "Medan yang merujuk kekunci primer jadual lain"
               },
               {
-                "en": "Shows a picture (no closing tag)",
-                "bm": "Memaparkan gambar (tiada tag penutup)"
+                "en": "KodKelas in MURID",
+                "bm": "KodKelas dalam MURID"
               }
             ]
           },
           {
             "label": {
-              "en": "List",
-              "bm": "Senarai"
+              "en": "Cardinality 1:M",
+              "bm": "Kekardinalan 1:M"
             },
             "cells": [
               {
-                "en": "<ul> / <ol> + <li>",
-                "bm": "<ul> / <ol> + <li>"
+                "en": "One record linked to many",
+                "bm": "Satu rekod dihubungkan kepada banyak"
               },
               {
-                "en": "Bulleted / numbered list",
-                "bm": "Senarai berbulet / bernombor"
+                "en": "One class has many students",
+                "bm": "Satu kelas ada ramai murid"
               }
             ]
           }
@@ -120,78 +120,88 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Tag",
-          "bm": "Tag"
+          "en": "Database",
+          "bm": "Pangkalan data"
         },
         "definition": {
-          "en": "A keyword in angle brackets, usually in pairs: <p> … </p>.",
-          "bm": "Kata kunci dalam kurungan sudut, biasanya berpasangan: <p> … </p>."
+          "en": "An organised collection of related data.",
+          "bm": "Koleksi data berkaitan yang tersusun."
         }
       },
       {
         "term": {
-          "en": "Attribute",
-          "bm": "Atribut"
+          "en": "SQL",
+          "bm": "SQL"
         },
         "definition": {
-          "en": "Extra information inside a tag: href, src, alt.",
-          "bm": "Maklumat tambahan dalam tag: href, src, alt."
+          "en": "Structured Query Language — used to manage and query databases.",
+          "bm": "Structured Query Language — digunakan untuk mengurus dan membuat pertanyaan pangkalan data."
         }
       },
       {
         "term": {
-          "en": "Element",
-          "bm": "Elemen"
+          "en": "Primary key",
+          "bm": "Kekunci primer"
         },
         "definition": {
-          "en": "Opening tag + content + closing tag.",
-          "bm": "Tag pembuka + kandungan + tag penutup."
+          "en": "A unique field for each record.",
+          "bm": "Medan unik bagi setiap rekod."
         }
       },
       {
         "term": {
-          "en": "Selector",
-          "bm": "Pemilih"
+          "en": "Foreign key",
+          "bm": "Kekunci asing"
         },
         "definition": {
-          "en": "Chooses what CSS styles: p, .class, #id.",
-          "bm": "Memilih apa yang digayakan CSS: p, .class, #id."
+          "en": "A field linking to the primary key of another table.",
+          "bm": "Medan yang menghubungkan kepada kekunci primer jadual lain."
         }
       },
       {
         "term": {
-          "en": "External stylesheet",
-          "bm": "Helaian gaya luaran"
+          "en": "Function",
+          "bm": "Function"
         },
         "definition": {
-          "en": "A separate .css file linked with <link rel=\"stylesheet\">.",
-          "bm": "Fail .css berasingan yang dipautkan dengan <link rel=\"stylesheet\">."
+          "en": "A named block of code that returns a value.",
+          "bm": "Blok kod bernama yang memulangkan nilai."
+        }
+      },
+      {
+        "term": {
+          "en": "Procedure",
+          "bm": "Procedure"
+        },
+        "definition": {
+          "en": "A named block of code that performs a task without returning a value.",
+          "bm": "Blok kod bernama yang melaksanakan tugas tanpa memulangkan nilai."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Write HTML for a link to https://www.moe.gov.my with the text \"KPM\".",
-        "bm": "Tulis HTML untuk pautan ke https://www.moe.gov.my dengan teks \"KPM\"."
+        "en": "Write SQL to list students in class 3A sorted by name.",
+        "bm": "Tulis SQL untuk menyenaraikan murid kelas 3A mengikut susunan nama."
       },
       "steps": [
         {
-          "en": "Use the <a> tag.",
-          "bm": "Gunakan tag <a>."
+          "en": "Choose the fields: SELECT Nama, NoMurid.",
+          "bm": "Pilih medan: SELECT Nama, NoMurid."
         },
         {
-          "en": "Put the address in the href attribute.",
-          "bm": "Letakkan alamat dalam atribut href."
+          "en": "From the table: FROM MURID.",
+          "bm": "Daripada jadual: FROM MURID."
         },
         {
-          "en": "Write the visible text between the tags.",
-          "bm": "Tulis teks yang dipaparkan di antara tag."
+          "en": "Filter and sort: WHERE Kelas = '3A' ORDER BY Nama.",
+          "bm": "Tapis dan isih: WHERE Kelas = '3A' ORDER BY Nama."
         }
       ],
       "answer": {
-        "en": "<a href=\"https://www.moe.gov.my\">KPM</a>",
-        "bm": "<a href=\"https://www.moe.gov.my\">KPM</a>"
+        "en": "SELECT Nama, NoMurid FROM MURID WHERE Kelas = '3A' ORDER BY Nama;",
+        "bm": "SELECT Nama, NoMurid FROM MURID WHERE Kelas = '3A' ORDER BY Nama;"
       }
     }
   },
@@ -201,30 +211,30 @@
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "HTML stands for…",
-        "bm": "HTML ialah singkatan bagi…"
+        "en": "A database is…",
+        "bm": "Pangkalan data ialah…"
       },
       "explanation": {
-        "en": "It describes the structure of web pages.",
-        "bm": "Ia menerangkan struktur halaman web."
+        "en": "e.g. student records.",
+        "bm": "cth. rekod murid."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "HyperText Markup Language",
-          "bm": "HyperText Markup Language"
+          "en": "an organised collection of related data",
+          "bm": "koleksi data berkaitan yang tersusun"
         },
         {
-          "en": "High Tech Modern Language",
-          "bm": "High Tech Modern Language"
+          "en": "a programming error",
+          "bm": "ralat pengaturcaraan"
         },
         {
-          "en": "Home Tool Markup Language",
-          "bm": "Home Tool Markup Language"
+          "en": "a type of cipher",
+          "bm": "sejenis sifer"
         },
         {
-          "en": "Hyperlink Text Making Language",
-          "bm": "Hyperlink Text Making Language"
+          "en": "a computer screen",
+          "bm": "skrin komputer"
         }
       ],
       "answer": 0
@@ -234,30 +244,30 @@
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which tag makes the largest heading?",
-        "bm": "Tag manakah menghasilkan tajuk paling besar?"
+        "en": "SQL stands for…",
+        "bm": "SQL ialah singkatan bagi…"
       },
       "explanation": {
-        "en": "h1 is the most important heading; h6 the smallest.",
-        "bm": "h1 tajuk paling penting; h6 paling kecil."
+        "en": "It is used to query databases.",
+        "bm": "Ia digunakan untuk membuat pertanyaan pangkalan data."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "<h1>",
-          "bm": "<h1>"
+          "en": "Structured Query Language",
+          "bm": "Structured Query Language"
         },
         {
-          "en": "<h6>",
-          "bm": "<h6>"
+          "en": "Simple Question Language",
+          "bm": "Simple Question Language"
         },
         {
-          "en": "<head>",
-          "bm": "<head>"
+          "en": "System Quality List",
+          "bm": "System Quality List"
         },
         {
-          "en": "<p>",
-          "bm": "<p>"
+          "en": "Secure Query Link",
+          "bm": "Secure Query Link"
         }
       ],
       "answer": 0
@@ -267,30 +277,30 @@
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Visible page content goes inside…",
-        "bm": "Kandungan yang dipaparkan diletakkan di dalam…"
+        "en": "In a database, a table represents an…",
+        "bm": "Dalam pangkalan data, jadual mewakili…"
       },
       "explanation": {
-        "en": "<head> holds information about the page.",
-        "bm": "<head> menyimpan maklumat tentang halaman."
+        "en": "Fields (columns) are attributes.",
+        "bm": "Medan (lajur) ialah atribut."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "<body>",
-          "bm": "<body>"
+          "en": "entity",
+          "bm": "entiti"
         },
         {
-          "en": "<head>",
-          "bm": "<head>"
+          "en": "attribute",
+          "bm": "atribut"
         },
         {
-          "en": "<title>",
-          "bm": "<title>"
+          "en": "algorithm",
+          "bm": "algoritma"
         },
         {
-          "en": "<meta>",
-          "bm": "<meta>"
+          "en": "error",
+          "bm": "ralat"
         }
       ],
       "answer": 0
@@ -300,96 +310,80 @@
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "The text shown on the browser tab comes from…",
-        "bm": "Teks pada tab pelayar datang daripada…"
+        "en": "A field that uniquely identifies each record is the…",
+        "bm": "Medan yang mengenal pasti setiap rekod secara unik ialah…"
       },
       "explanation": {
-        "en": "<title> is placed inside <head>.",
-        "bm": "<title> diletakkan di dalam <head>."
+        "en": "e.g. student number.",
+        "bm": "cth. nombor murid."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "<title>",
-          "bm": "<title>"
+          "en": "primary key",
+          "bm": "kekunci primer"
         },
         {
-          "en": "<h1>",
-          "bm": "<h1>"
+          "en": "foreign key",
+          "bm": "kekunci asing"
         },
         {
-          "en": "<body>",
-          "bm": "<body>"
+          "en": "form",
+          "bm": "borang"
         },
         {
-          "en": "<p>",
-          "bm": "<p>"
+          "en": "report",
+          "bm": "laporan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-04-q05",
-      "subtopicId": "f3ask-04-02",
-      "type": "mcq",
+      "subtopicId": "f3ask-04-01",
+      "type": "fill",
       "prompt": {
-        "en": "Which tag creates a hyperlink?",
-        "bm": "Tag manakah menghasilkan hiperpautan?"
+        "en": "The SQL keyword used to filter records with a condition is ______.",
+        "bm": "Kata kunci SQL untuk menapis rekod dengan syarat ialah ______."
       },
       "explanation": {
-        "en": "The address goes in href.",
-        "bm": "Alamat diletakkan dalam href."
+        "en": "e.g. WHERE Kelas = '3A'.",
+        "bm": "cth. WHERE Kelas = '3A'."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "<a>",
-          "bm": "<a>"
-        },
-        {
-          "en": "<link>",
-          "bm": "<link>"
-        },
-        {
-          "en": "<img>",
-          "bm": "<img>"
-        },
-        {
-          "en": "<href>",
-          "bm": "<href>"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "WHERE"
+      ]
     },
     {
       "id": "f3ask-04-q06",
-      "subtopicId": "f3ask-04-02",
+      "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which attribute of <img> gives the image file?",
-        "bm": "Atribut <img> manakah menyatakan fail imej?"
+        "en": "Which SQL keyword sorts the results?",
+        "bm": "Kata kunci SQL manakah mengisih hasil?"
       },
       "explanation": {
-        "en": "alt gives a text description.",
-        "bm": "alt memberi penerangan teks."
+        "en": "Add DESC for descending order.",
+        "bm": "Tambah DESC untuk susunan menurun."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "src",
-          "bm": "src"
+          "en": "ORDER BY",
+          "bm": "ORDER BY"
         },
         {
-          "en": "href",
-          "bm": "href"
+          "en": "WHERE",
+          "bm": "WHERE"
         },
         {
-          "en": "alt",
-          "bm": "alt"
+          "en": "FROM",
+          "bm": "FROM"
         },
         {
-          "en": "link",
-          "bm": "link"
+          "en": "INSERT",
+          "bm": "INSERT"
         }
       ],
       "answer": 0
@@ -399,63 +393,63 @@
       "subtopicId": "f3ask-04-02",
       "type": "mcq",
       "prompt": {
-        "en": "A numbered list uses…",
-        "bm": "Senarai bernombor menggunakan…"
+        "en": "A block of code that RETURNS a value is a…",
+        "bm": "Blok kod yang MEMULANGKAN nilai ialah…"
       },
       "explanation": {
-        "en": "<ul> is a bulleted list; items use <li>.",
-        "bm": "<ul> senarai berbulet; item menggunakan <li>."
+        "en": "A procedure performs a task without returning a value.",
+        "bm": "Procedure melaksanakan tugas tanpa memulangkan nilai."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "<ol>",
-          "bm": "<ol>"
+          "en": "function",
+          "bm": "function"
         },
         {
-          "en": "<ul>",
-          "bm": "<ul>"
+          "en": "procedure",
+          "bm": "procedure"
         },
         {
-          "en": "<li> only",
-          "bm": "<li> only"
+          "en": "comment",
+          "bm": "komen"
         },
         {
-          "en": "<nl>",
-          "bm": "<nl>"
+          "en": "table",
+          "bm": "jadual"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-04-q08",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "type": "mcq",
       "prompt": {
-        "en": "CSS is used to…",
-        "bm": "CSS digunakan untuk…"
+        "en": "Python's len() and print() are examples of…",
+        "bm": "len() dan print() dalam Python ialah contoh function…"
       },
       "explanation": {
-        "en": "CSS = Cascading Style Sheets.",
-        "bm": "CSS = Cascading Style Sheets."
+        "en": "They come with the language.",
+        "bm": "Ia tersedia dalam bahasa itu."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "style the appearance of web pages",
-          "bm": "menggayakan rupa halaman web"
+          "en": "built-in functions",
+          "bm": "terbina dalam (built-in)"
         },
         {
-          "en": "store databases",
-          "bm": "menyimpan pangkalan data"
+          "en": "user-defined functions",
+          "bm": "dihasilkan sendiri (user-defined)"
         },
         {
-          "en": "write Python programs",
-          "bm": "menulis atur cara Python"
+          "en": "database tables",
+          "bm": "jadual pangkalan data"
         },
         {
-          "en": "send emails",
-          "bm": "menghantar e-mel"
+          "en": "ciphers",
+          "bm": "sifer"
         }
       ],
       "answer": 0
@@ -463,124 +457,121 @@
     {
       "id": "f3ask-04-q09",
       "subtopicId": "f3ask-04-01",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange the basic structure of an HTML page.",
-        "bm": "Susun struktur asas halaman HTML."
-      },
-      "explanation": {
-        "en": "<head> comes before <body>.",
-        "bm": "<head> sebelum <body>."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "<!DOCTYPE html>",
-          "bm": "<!DOCTYPE html>"
-        },
-        {
-          "en": "<html>",
-          "bm": "<html>"
-        },
-        {
-          "en": "<head> with <title>",
-          "bm": "<head> with <title>"
-        },
-        {
-          "en": "<body> with content",
-          "bm": "<body> with content"
-        },
-        {
-          "en": "</html>",
-          "bm": "</html>"
-        }
-      ]
-    },
-    {
-      "id": "f3ask-04-q10",
-      "subtopicId": "f3ask-04-02",
       "type": "match",
       "prompt": {
-        "en": "Match each tag with its purpose.",
-        "bm": "Padankan tag dengan kegunaannya."
+        "en": "Match each database term with an example from a school database.",
+        "bm": "Padankan istilah pangkalan data dengan contoh daripada pangkalan data sekolah."
       },
       "explanation": {
-        "en": "<th> is a header cell.",
-        "bm": "<th> ialah sel pengepala."
+        "en": "Keys link tables together.",
+        "bm": "Kekunci menghubungkan jadual."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "<table>",
-            "bm": "<table>"
+            "en": "Entity",
+            "bm": "Entiti"
           },
           "right": {
-            "en": "Creates a table",
-            "bm": "Membina jadual"
+            "en": "MURID",
+            "bm": "MURID"
           }
         },
         {
           "left": {
-            "en": "<tr>",
-            "bm": "<tr>"
+            "en": "Attribute",
+            "bm": "Atribut"
           },
           "right": {
-            "en": "Table row",
-            "bm": "Baris jadual"
+            "en": "Nama",
+            "bm": "Nama"
           }
         },
         {
           "left": {
-            "en": "<td>",
-            "bm": "<td>"
+            "en": "Primary key",
+            "bm": "Kekunci primer"
           },
           "right": {
-            "en": "Table cell",
-            "bm": "Sel jadual"
+            "en": "NoMurid",
+            "bm": "NoMurid"
           }
         },
         {
           "left": {
-            "en": "<li>",
-            "bm": "<li>"
+            "en": "Foreign key",
+            "bm": "Kekunci asing"
           },
           "right": {
-            "en": "List item",
-            "bm": "Item senarai"
+            "en": "KodKelas in MURID",
+            "bm": "KodKelas dalam MURID"
           }
         }
       ]
     },
     {
-      "id": "f3ask-04-q11",
-      "subtopicId": "f3ask-04-02",
+      "id": "f3ask-04-q10",
+      "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why should every <img> have an alt attribute?",
-        "bm": "Mengapakah setiap <img> patut mempunyai atribut alt?"
+        "en": "One class has many students, but each student belongs to one class. This cardinality is…",
+        "bm": "Satu kelas mempunyai ramai murid, tetapi setiap murid dalam satu kelas sahaja. Kekardinalan ini ialah…"
       },
       "explanation": {
-        "en": "Accessibility matters for all users.",
-        "bm": "Kebolehcapaian penting untuk semua pengguna."
+        "en": "1:1 example: one student — one MyKad number.",
+        "bm": "Contoh 1:1: seorang murid — satu nombor MyKad."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "It describes the image for screen readers and when the image fails to load",
-          "bm": "Ia menerangkan imej untuk pembaca skrin dan apabila imej gagal dimuatkan"
+          "en": "1:M (one to many)",
+          "bm": "1:M (one to many)"
         },
         {
-          "en": "It makes the image bigger",
-          "bm": "Ia membesarkan imej"
+          "en": "1:1 (one to one)",
+          "bm": "1:1 (one to one)"
         },
         {
-          "en": "It changes the colour",
-          "bm": "Ia menukar warna"
+          "en": "M:M only",
+          "bm": "M:M only"
         },
         {
-          "en": "It is a link",
-          "bm": "Ia pautan"
+          "en": "none",
+          "bm": "none"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-04-q11",
+      "subtopicId": "f3ask-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which SQL statement lists all fields of all records in the table MURID?",
+        "bm": "Pernyataan SQL manakah menyenaraikan semua medan semua rekod dalam jadual MURID?"
+      },
+      "explanation": {
+        "en": "* means all fields.",
+        "bm": "* bermaksud semua medan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "SELECT * FROM MURID;",
+          "bm": "SELECT * FROM MURID;"
+        },
+        {
+          "en": "LIST MURID;",
+          "bm": "LIST MURID;"
+        },
+        {
+          "en": "SHOW ALL MURID;",
+          "bm": "SHOW ALL MURID;"
+        },
+        {
+          "en": "GET * MURID;",
+          "bm": "GET * MURID;"
         }
       ],
       "answer": 0
@@ -590,129 +581,63 @@
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which element has NO closing tag?",
-        "bm": "Elemen manakah TIADA tag penutup?"
+        "en": "Which query finds students in 3A who scored above 80?",
+        "bm": "Pertanyaan manakah mencari murid 3A yang mendapat markah melebihi 80?"
       },
       "explanation": {
-        "en": "<br> and <img> are empty (void) elements.",
-        "bm": "<br> dan <img> ialah elemen kosong."
+        "en": "AND needs both conditions to be true; OR needs either.",
+        "bm": "AND memerlukan kedua-dua syarat benar; OR memerlukan salah satu."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "<br>",
-          "bm": "<br>"
+          "en": "SELECT * FROM MURID WHERE Kelas = '3A' AND Markah > 80;",
+          "bm": "SELECT * FROM MURID WHERE Kelas = '3A' AND Markah > 80;"
         },
         {
-          "en": "<p>",
-          "bm": "<p>"
+          "en": "SELECT * FROM MURID WHERE Kelas = '3A' OR Markah > 80;",
+          "bm": "SELECT * FROM MURID WHERE Kelas = '3A' OR Markah > 80;"
         },
         {
-          "en": "<h1>",
-          "bm": "<h1>"
+          "en": "SELECT MURID WHERE 80;",
+          "bm": "SELECT MURID WHERE 80;"
         },
         {
-          "en": "<body>",
-          "bm": "<body>"
+          "en": "ORDER BY Markah;",
+          "bm": "ORDER BY Markah;"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-04-q13",
-      "subtopicId": "f3ask-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "In the CSS rule p { color: red; }, \"p\" is the…",
-        "bm": "Dalam peraturan CSS p { color: red; }, \"p\" ialah…"
-      },
-      "explanation": {
-        "en": "color is the property and red is the value.",
-        "bm": "color ialah sifat dan red ialah nilai."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "selector",
-          "bm": "pemilih"
-        },
-        {
-          "en": "value",
-          "bm": "nilai"
-        },
-        {
-          "en": "property",
-          "bm": "sifat"
-        },
-        {
-          "en": "attribute",
-          "bm": "atribut"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3ask-04-q14",
-      "subtopicId": "f3ask-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which CSS selector targets elements with class=\"note\"?",
-        "bm": "Pemilih CSS manakah menyasarkan elemen dengan class=\"note\"?"
-      },
-      "explanation": {
-        "en": ". for class, # for id.",
-        "bm": ". untuk class, # untuk id."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": ".note",
-          "bm": ".note"
-        },
-        {
-          "en": "#note",
-          "bm": "#note"
-        },
-        {
-          "en": "note",
-          "bm": "note"
-        },
-        {
-          "en": "*note",
-          "bm": "*note"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3ask-04-q15",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-01",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL ways to add CSS to a page.",
-        "bm": "Pilih SEMUA cara menambah CSS pada halaman."
+        "en": "Select ALL parts needed to build a database.",
+        "bm": "Pilih SEMUA bahagian yang diperlukan untuk membina pangkalan data."
       },
       "explanation": {
-        "en": "External stylesheets are best for many pages.",
-        "bm": "Helaian gaya luaran terbaik untuk banyak halaman."
+        "en": "Forms are then used to enter data.",
+        "bm": "Borang kemudian digunakan untuk memasukkan data."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Inline (style attribute)",
-          "bm": "Sebaris (atribut style)"
+          "en": "Entities (tables)",
+          "bm": "Entiti (jadual)"
         },
         {
-          "en": "Internal (<style> in <head>)",
-          "bm": "Dalaman (<style> dalam <head>)"
+          "en": "Attributes (fields)",
+          "bm": "Atribut (medan)"
         },
         {
-          "en": "External (.css file with <link>)",
-          "bm": "Luaran (fail .css dengan <link>)"
+          "en": "Relationships between tables",
+          "bm": "Hubungan antara jadual"
         },
         {
-          "en": "Inside a Python list",
-          "bm": "Dalam senarai Python"
+          "en": "A Caesar key",
+          "bm": "Kunci Caesar"
         }
       ],
       "answer": [
@@ -722,150 +647,233 @@
       ]
     },
     {
-      "id": "f3ask-04-q16",
-      "subtopicId": "f3ask-04-03",
+      "id": "f3ask-04-q14",
+      "subtopicId": "f3ask-04-01",
       "type": "fill",
       "prompt": {
-        "en": "Complete the CSS: h1 { ______: center; } to centre the heading text.",
-        "bm": "Lengkapkan CSS: h1 { ______: center; } untuk menengahkan teks tajuk."
+        "en": "A screen used to enter data into a table easily is called a ______.",
+        "bm": "Skrin yang digunakan untuk memasukkan data ke dalam jadual dengan mudah dipanggil ______."
       },
       "explanation": {
-        "en": "text-align can be left, right, center or justify.",
-        "bm": "text-align boleh left, right, center atau justify."
+        "en": "A report presents query results.",
+        "bm": "Laporan memaparkan hasil pertanyaan."
       },
       "difficulty": 2,
       "answer": [
-        "text-align"
+        "form",
+        "borang"
       ]
+    },
+    {
+      "id": "f3ask-04-q15",
+      "subtopicId": "f3ask-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In Python, which shows a user-defined FUNCTION?",
+        "bm": "Dalam Python, manakah menunjukkan FUNCTION yang dihasilkan sendiri?"
+      },
+      "explanation": {
+        "en": "It is defined by the programmer and returns a value.",
+        "bm": "Ia ditakrifkan oleh pengatur cara dan memulangkan nilai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "def luas(p, l): return p * l",
+          "bm": "def luas(p, l): return p * l"
+        },
+        {
+          "en": "print(\"Hai\")",
+          "bm": "print(\"Hai\")"
+        },
+        {
+          "en": "len(\"abc\")",
+          "bm": "len(\"abc\")"
+        },
+        {
+          "en": "SELECT * FROM MURID",
+          "bm": "SELECT * FROM MURID"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-04-q16",
+      "subtopicId": "f3ask-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "def ucap(nama): print(\"Selamat datang\", nama) — this is BEST described as a…",
+        "bm": "def ucap(nama): print(\"Selamat datang\", nama) — ini PALING tepat disebut sebagai…"
+      },
+      "explanation": {
+        "en": "It displays text but returns nothing.",
+        "bm": "Ia memaparkan teks tetapi tidak memulangkan apa-apa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "procedure (performs a task, no return value)",
+          "bm": "procedure (melaksanakan tugas, tiada nilai pulangan)"
+        },
+        {
+          "en": "function returning a number",
+          "bm": "function yang memulangkan nombor"
+        },
+        {
+          "en": "database",
+          "bm": "pangkalan data"
+        },
+        {
+          "en": "cipher",
+          "bm": "sifer"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3ask-04-q17",
       "subtopicId": "f3ask-04-02",
-      "type": "mcq",
+      "type": "numeric",
       "prompt": {
-        "en": "A link opens nothing when clicked: <a>Visit</a>. What is wrong?",
-        "bm": "Pautan tidak membuka apa-apa apabila diklik: <a>Visit</a>. Apakah kesilapannya?"
+        "en": "def luas(p, l): return p * l. What is the value of luas(7, 4)?",
+        "bm": "def luas(p, l): return p * l. Apakah nilai luas(7, 4)?"
       },
       "explanation": {
-        "en": "Correct: <a href=\"page.html\">Visit</a>.",
-        "bm": "Betul: <a href=\"page.html\">Visit</a>."
+        "en": "7 × 4 = 28.",
+        "bm": "7 × 4 = 28."
       },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "The href attribute with the address is missing",
-          "bm": "Atribut href dengan alamat tiada"
-        },
-        {
-          "en": "The text is too short",
-          "bm": "Teks terlalu pendek"
-        },
-        {
-          "en": "It needs <img>",
-          "bm": "Ia memerlukan <img>"
-        },
-        {
-          "en": "Links cannot have text",
-          "bm": "Pautan tidak boleh mempunyai teks"
-        }
-      ],
-      "answer": 0
+      "difficulty": 2,
+      "answer": 28,
+      "tolerance": 0
     },
     {
       "id": "f3ask-04-q18",
       "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why do developers keep CSS in a separate external file for a large website?",
-        "bm": "Mengapakah pembangun menyimpan CSS dalam fail luaran berasingan untuk laman web besar?"
+        "en": "Why is a foreign key useful?",
+        "bm": "Mengapakah kekunci asing berguna?"
       },
       "explanation": {
-        "en": "Separating structure and style is good practice.",
-        "bm": "Memisahkan struktur dan gaya ialah amalan yang baik."
+        "en": "e.g. class details are stored once in KELAS.",
+        "bm": "cth. butiran kelas disimpan sekali dalam KELAS."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "One change updates the style of every page",
-          "bm": "Satu perubahan mengemas kini gaya semua halaman"
+          "en": "It links related tables so data is not repeated",
+          "bm": "Ia menghubungkan jadual berkaitan supaya data tidak berulang"
         },
         {
-          "en": "Browsers cannot read internal CSS",
-          "bm": "Pelayar tidak boleh membaca CSS dalaman"
+          "en": "It encrypts the database",
+          "bm": "Ia menyulitkan pangkalan data"
         },
         {
-          "en": "It hides the content",
-          "bm": "Ia menyembunyikan kandungan"
+          "en": "It deletes duplicate tables",
+          "bm": "Ia memadam jadual berulang"
         },
         {
-          "en": "HTML stops working otherwise",
-          "bm": "HTML tidak berfungsi jika tidak"
+          "en": "It sorts the records",
+          "bm": "Ia mengisih rekod"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-04-q19",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which CSS rule makes all paragraphs blue with 18px text?",
-        "bm": "Peraturan CSS manakah menjadikan semua perenggan biru dengan teks 18px?"
+        "en": "Why do programmers use functions and procedures?",
+        "bm": "Mengapakah pengatur cara menggunakan function dan procedure?"
       },
       "explanation": {
-        "en": "Declarations use property: value; inside braces.",
-        "bm": "Pengisytiharan menggunakan sifat: nilai; dalam kurungan kerinting."
+        "en": "This is decomposition in code.",
+        "bm": "Ini leraian dalam bentuk kod."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "p { color: blue; font-size: 18px; }",
-          "bm": "p { color: blue; font-size: 18px; }"
+          "en": "To reuse code, make programs shorter and easier to test and fix",
+          "bm": "Untuk menggunakan semula kod, menjadikan atur cara lebih pendek serta mudah diuji dan dibaiki"
         },
         {
-          "en": "p ( color = blue, size = 18 )",
-          "bm": "p ( color = blue, size = 18 )"
+          "en": "To make programs slower",
+          "bm": "Untuk memperlahankan atur cara"
         },
         {
-          "en": "<p color=\"blue\" size=\"18\">",
-          "bm": "<p color=\"blue\" size=\"18\">"
+          "en": "They are required in every line",
+          "bm": "Ia diwajibkan dalam setiap baris"
         },
         {
-          "en": "p: blue; 18px;",
-          "bm": "p: blue; 18px;"
+          "en": "To hide all output",
+          "bm": "Untuk menyembunyikan semua output"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-04-q20",
-      "subtopicId": "f3ask-04-03",
+      "subtopicId": "f3ask-04-01",
       "type": "mcq",
       "prompt": {
-        "en": "An element has id=\"menu\" and class=\"box\". Which selector targets ONLY that one element?",
-        "bm": "Satu elemen mempunyai id=\"menu\" dan class=\"box\". Pemilih manakah menyasarkan HANYA elemen itu?"
+        "en": "A query should list students in 3A OR 3B with marks above 80. Which is correct?",
+        "bm": "Pertanyaan perlu menyenaraikan murid 3A ATAU 3B dengan markah melebihi 80. Manakah betul?"
       },
       "explanation": {
-        "en": "An id should be unique on a page; many elements can share a class.",
-        "bm": "id sepatutnya unik dalam satu halaman; banyak elemen boleh berkongsi class."
+        "en": "A student cannot be in 3A AND 3B at the same time; brackets group the OR.",
+        "bm": "Murid tidak boleh berada dalam 3A DAN 3B serentak; kurungan mengumpulkan OR."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "#menu",
-          "bm": "#menu"
+          "en": "WHERE (Kelas = '3A' OR Kelas = '3B') AND Markah > 80",
+          "bm": "WHERE (Kelas = '3A' OR Kelas = '3B') AND Markah > 80"
         },
         {
-          "en": ".box",
-          "bm": ".box"
+          "en": "WHERE Kelas = '3A' AND Kelas = '3B' AND Markah > 80",
+          "bm": "WHERE Kelas = '3A' AND Kelas = '3B' AND Markah > 80"
         },
         {
-          "en": "box",
-          "bm": "box"
+          "en": "WHERE Markah > 80 OR Kelas",
+          "bm": "WHERE Markah > 80 OR Kelas"
         },
         {
-          "en": "menu",
-          "bm": "menu"
+          "en": "ORDER BY 3A, 3B",
+          "bm": "ORDER BY 3A, 3B"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-04-q21",
+      "subtopicId": "f3ask-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A function hitungPurata(senarai) gives the wrong average for [70, 80, 90]: it returns 120. Which bug is MOST likely?",
+        "bm": "Function hitungPurata(senarai) memberi purata salah bagi [70, 80, 90]: ia memulangkan 120. Pepijat manakah PALING mungkin?"
+      },
+      "explanation": {
+        "en": "240 ÷ 2 = 120; the correct average is 240 ÷ 3 = 80. Using len() avoids this logic error.",
+        "bm": "240 ÷ 2 = 120; purata sebenar ialah 240 ÷ 3 = 80. Menggunakan len() mengelakkan ralat logik ini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It divides the total (240) by 2 instead of by len(senarai)",
+          "bm": "Ia membahagi jumlah (240) dengan 2 dan bukan dengan len(senarai)"
+        },
+        {
+          "en": "It adds an extra item",
+          "bm": "Ia menambah item tambahan"
+        },
+        {
+          "en": "It sorts the list",
+          "bm": "Ia mengisih senarai"
+        },
+        {
+          "en": "There is no bug",
+          "bm": "Tiada pepijat"
         }
       ],
       "answer": 0

@@ -3,116 +3,76 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Planning a school sports day, sorting library books or finding the fastest bus route are all problems a computer scientist would break into small, logical steps.",
-      "bm": "Merancang hari sukan sekolah, menyusun buku perpustakaan atau mencari laluan bas terpantas ialah masalah yang akan dipecahkan oleh saintis komputer kepada langkah kecil yang logik."
+      "en": "Every app you use was built in phases: someone analysed a problem, designed a solution, coded it, tested it, and wrote it all down.",
+      "bm": "Setiap aplikasi yang anda gunakan dibina secara berfasa: seseorang menganalisis masalah, mereka bentuk penyelesaian, mengekod, menguji dan mendokumentasikannya."
     },
     "bigIdeas": [
       {
-        "en": "Computational thinking has four parts: decomposition, pattern recognition, abstraction and algorithms.",
-        "bm": "Pemikiran komputasional mempunyai empat bahagian: leraian, pengecaman corak, peniskalaan dan algoritma."
+        "en": "Program development has five phases: problem analysis, program design, coding, testing and debugging, and documentation.",
+        "bm": "Pembangunan atur cara mempunyai lima fasa: analisis masalah, reka bentuk atur cara, pengekodan, pengujian dan penyahpepijatan, dan dokumentasi."
       },
       {
-        "en": "An algorithm is a clear, step-by-step set of instructions; it can be shown as a flowchart or pseudocode.",
-        "bm": "Algoritma ialah set arahan langkah demi langkah yang jelas; ia boleh ditunjukkan sebagai carta alir atau pseudokod."
+        "en": "Computational thinking techniques — decomposition, pattern recognition, abstraction and algorithms — are used in each phase.",
+        "bm": "Teknik pemikiran komputasional — leraian, pengecaman corak, peniskalaan dan algoritma — digunakan dalam setiap fasa."
       },
       {
-        "en": "All programs are built from three control structures: sequence, selection and repetition.",
-        "bm": "Semua atur cara dibina daripada tiga struktur kawalan: urutan, pilihan dan pengulangan."
+        "en": "A mini project applies all phases to solve a real problem, such as an arithmetic program.",
+        "bm": "Projek mini mengaplikasikan semua fasa untuk menyelesaikan masalah sebenar, seperti atur cara aritmetik."
       }
     ],
     "infographic": {
-      "kind": "compare",
+      "kind": "process",
       "data": {
-        "headers": [
+        "steps": [
           {
-            "en": "Shape",
-            "bm": "Bentuk"
+            "title": {
+              "en": "1 Problem analysis",
+              "bm": "1 Analisis masalah"
+            },
+            "detail": {
+              "en": "Identify input, process and output (decomposition).",
+              "bm": "Kenal pasti input, proses dan output (leraian)."
+            }
           },
           {
-            "en": "Meaning",
-            "bm": "Maksud"
-          }
-        ],
-        "rows": [
-          {
-            "label": {
-              "en": "Terminator",
-              "bm": "Terminal"
+            "title": {
+              "en": "2 Program design",
+              "bm": "2 Reka bentuk atur cara"
             },
-            "cells": [
-              {
-                "en": "Oval",
-                "bm": "Bujur"
-              },
-              {
-                "en": "Start / End",
-                "bm": "Mula / Tamat"
-              }
-            ]
+            "detail": {
+              "en": "Write pseudocode or draw a flowchart (algorithm).",
+              "bm": "Tulis pseudokod atau lukis carta alir (algoritma)."
+            }
           },
           {
-            "label": {
-              "en": "Input / Output",
-              "bm": "Input / Output"
+            "title": {
+              "en": "3 Coding",
+              "bm": "3 Pengekodan"
             },
-            "cells": [
-              {
-                "en": "Parallelogram",
-                "bm": "Segi empat selari"
-              },
-              {
-                "en": "Read or display data",
-                "bm": "Baca atau papar data"
-              }
-            ]
+            "detail": {
+              "en": "Convert the design into a programming language.",
+              "bm": "Tukar reka bentuk kepada bahasa pengaturcaraan."
+            }
           },
           {
-            "label": {
-              "en": "Process",
-              "bm": "Proses"
+            "title": {
+              "en": "4 Testing and debugging",
+              "bm": "4 Pengujian dan penyahpepijatan"
             },
-            "cells": [
-              {
-                "en": "Rectangle",
-                "bm": "Segi empat tepat"
-              },
-              {
-                "en": "Calculation or action",
-                "bm": "Pengiraan atau tindakan"
-              }
-            ]
+            "detail": {
+              "en": "Run with test data; find and fix errors.",
+              "bm": "Larikan dengan data ujian; cari dan baiki ralat."
+            }
           },
           {
-            "label": {
-              "en": "Decision",
-              "bm": "Keputusan"
+            "title": {
+              "en": "5 Documentation",
+              "bm": "5 Dokumentasi"
             },
-            "cells": [
-              {
-                "en": "Diamond",
-                "bm": "Rombus (berlian)"
-              },
-              {
-                "en": "Yes/No question",
-                "bm": "Soalan Ya/Tidak"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "Flow line",
-              "bm": "Garis aliran"
-            },
-            "cells": [
-              {
-                "en": "Arrow",
-                "bm": "Anak panah"
-              },
-              {
-                "en": "Order of steps",
-                "bm": "Turutan langkah"
-              }
-            ]
+            "detail": {
+              "en": "Record the problem, design, code, tests and user guide.",
+              "bm": "Rekod masalah, reka bentuk, kod, ujian dan panduan pengguna."
+            }
           }
         ]
       }
@@ -120,88 +80,88 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Decomposition",
-          "bm": "Leraian"
+          "en": "Problem analysis",
+          "bm": "Analisis masalah"
         },
         "definition": {
-          "en": "Breaking a problem into smaller parts.",
-          "bm": "Memecahkan masalah kepada bahagian kecil."
+          "en": "Understanding the problem and listing input, process and output.",
+          "bm": "Memahami masalah dan menyenaraikan input, proses dan output."
         }
       },
       {
         "term": {
-          "en": "Pattern recognition",
-          "bm": "Pengecaman corak"
+          "en": "Debugging",
+          "bm": "Penyahpepijatan"
         },
         "definition": {
-          "en": "Finding similarities between problems.",
-          "bm": "Mencari persamaan antara masalah."
+          "en": "Finding and fixing errors (bugs) in a program.",
+          "bm": "Mencari dan membaiki ralat (pepijat) dalam atur cara."
         }
       },
       {
         "term": {
-          "en": "Abstraction",
-          "bm": "Peniskalaan"
+          "en": "Syntax error",
+          "bm": "Ralat sintaks"
         },
         "definition": {
-          "en": "Removing unnecessary details to focus on what matters.",
-          "bm": "Membuang butiran yang tidak perlu untuk fokus pada perkara penting."
+          "en": "Breaking the language rules, e.g. a missing bracket.",
+          "bm": "Melanggar peraturan bahasa, cth. tertinggal kurungan."
         }
       },
       {
         "term": {
-          "en": "Algorithm",
-          "bm": "Algoritma"
+          "en": "Logic error",
+          "bm": "Ralat logik"
         },
         "definition": {
-          "en": "A precise, ordered set of steps to solve a problem.",
-          "bm": "Set langkah yang tepat dan tersusun untuk menyelesaikan masalah."
+          "en": "The program runs but gives the wrong result.",
+          "bm": "Atur cara berjalan tetapi memberi hasil yang salah."
         }
       },
       {
         "term": {
-          "en": "Pseudocode",
-          "bm": "Pseudokod"
+          "en": "Runtime error",
+          "bm": "Ralat masa larian"
         },
         "definition": {
-          "en": "Structured, English-like description of an algorithm.",
-          "bm": "Penerangan algoritma berstruktur yang menyerupai bahasa biasa."
+          "en": "An error that stops the program while running, e.g. dividing by zero.",
+          "bm": "Ralat yang menghentikan atur cara semasa berjalan, cth. bahagi dengan sifar."
         }
       },
       {
         "term": {
-          "en": "Selection",
-          "bm": "Pilihan"
+          "en": "Documentation",
+          "bm": "Dokumentasi"
         },
         "definition": {
-          "en": "Choosing a path based on a condition (IF…ELSE).",
-          "bm": "Memilih laluan berdasarkan syarat (IF…ELSE)."
+          "en": "Written record of how the program was built and how to use it.",
+          "bm": "Rekod bertulis cara atur cara dibina dan cara menggunakannya."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Write pseudocode to check whether a mark passes (40 or more).",
-        "bm": "Tulis pseudokod untuk menyemak sama ada markah lulus (40 atau lebih)."
+        "en": "Analyse the problem: \"Calculate the area of a rectangle.\"",
+        "bm": "Analisis masalah: \"Hitung luas segi empat tepat.\""
       },
       "steps": [
         {
-          "en": "INPUT mark",
-          "bm": "INPUT markah"
+          "en": "Input: length and width.",
+          "bm": "Input: panjang dan lebar."
         },
         {
-          "en": "IF mark >= 40 THEN DISPLAY \"Pass\" ELSE DISPLAY \"Fail\"",
-          "bm": "IF markah >= 40 THEN PAPAR \"Lulus\" ELSE PAPAR \"Gagal\""
+          "en": "Process: area = length × width.",
+          "bm": "Proses: luas = panjang × lebar."
         },
         {
-          "en": "END IF",
-          "bm": "END IF"
+          "en": "Output: display the area.",
+          "bm": "Output: papar luas."
         }
       ],
       "answer": {
-        "en": "This uses selection (IF…ELSE).",
-        "bm": "Ini menggunakan struktur pilihan (IF…ELSE)."
+        "en": "Input (length, width) → process (multiply) → output (area). For 7 and 4 the area is 28.",
+        "bm": "Input (panjang, lebar) → proses (darab) → output (luas). Bagi 7 dan 4, luasnya 28."
       }
     }
   },
@@ -211,30 +171,30 @@
       "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Breaking a big problem into smaller parts is called…",
-        "bm": "Memecahkan masalah besar kepada bahagian kecil dipanggil…"
+        "en": "The FIRST phase of program development is…",
+        "bm": "Fasa PERTAMA pembangunan atur cara ialah…"
       },
       "explanation": {
-        "en": "e.g. a school event → food, venue, schedule.",
-        "bm": "cth. majlis sekolah → makanan, tempat, jadual."
+        "en": "You must understand the problem before solving it.",
+        "bm": "Masalah mesti difahami sebelum diselesaikan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "decomposition",
-          "bm": "leraian"
+          "en": "problem analysis",
+          "bm": "analisis masalah"
         },
         {
-          "en": "abstraction",
-          "bm": "peniskalaan"
+          "en": "coding",
+          "bm": "pengekodan"
         },
         {
-          "en": "pattern recognition",
-          "bm": "pengecaman corak"
+          "en": "testing",
+          "bm": "pengujian"
         },
         {
-          "en": "debugging",
-          "bm": "nyahpepijat"
+          "en": "documentation",
+          "bm": "dokumentasi"
         }
       ],
       "answer": 0
@@ -244,195 +204,181 @@
       "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Removing unnecessary details to focus on what matters is…",
-        "bm": "Membuang butiran yang tidak perlu untuk fokus pada perkara penting ialah…"
+        "en": "Writing pseudocode or drawing a flowchart happens in the…",
+        "bm": "Menulis pseudokod atau melukis carta alir berlaku dalam fasa…"
       },
       "explanation": {
-        "en": "A subway map is an abstraction of real streets.",
-        "bm": "Peta LRT ialah peniskalaan jalan sebenar."
+        "en": "Design comes before coding.",
+        "bm": "Reka bentuk sebelum pengekodan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "abstraction",
-          "bm": "peniskalaan"
+          "en": "program design phase",
+          "bm": "reka bentuk atur cara"
         },
         {
-          "en": "decomposition",
-          "bm": "leraian"
+          "en": "documentation phase",
+          "bm": "dokumentasi"
         },
         {
-          "en": "an algorithm",
-          "bm": "algoritma"
+          "en": "testing phase",
+          "bm": "pengujian"
         },
         {
-          "en": "a loop",
-          "bm": "gelung"
+          "en": "coding phase",
+          "bm": "pengekodan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q03",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "In a flowchart, a decision is shown by a…",
-        "bm": "Dalam carta alir, keputusan ditunjukkan dengan…"
+        "en": "Finding and fixing errors in a program is called…",
+        "bm": "Mencari dan membaiki ralat dalam atur cara dipanggil…"
       },
       "explanation": {
-        "en": "It has Yes/No exits.",
-        "bm": "Ia mempunyai keluaran Ya/Tidak."
+        "en": "Errors are called bugs.",
+        "bm": "Ralat dipanggil pepijat."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "diamond",
-          "bm": "rombus"
+          "en": "debugging",
+          "bm": "penyahpepijatan"
         },
         {
-          "en": "rectangle",
-          "bm": "segi empat tepat"
+          "en": "abstraction",
+          "bm": "peniskalaan"
         },
         {
-          "en": "oval",
-          "bm": "bujur"
+          "en": "decomposition",
+          "bm": "leraian"
         },
         {
-          "en": "parallelogram",
-          "bm": "segi empat selari"
+          "en": "documentation",
+          "bm": "dokumentasi"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q04",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Start and End in a flowchart use a…",
-        "bm": "Mula dan Tamat dalam carta alir menggunakan…"
+        "en": "A missing bracket or misspelled keyword is a…",
+        "bm": "Kurungan yang tertinggal atau kata kunci yang salah eja ialah…"
       },
       "explanation": {
-        "en": "Every flowchart has one start.",
-        "bm": "Setiap carta alir ada satu titik mula."
+        "en": "The program will not run until it is fixed.",
+        "bm": "Atur cara tidak akan berjalan sehingga dibaiki."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "oval (terminator)",
-          "bm": "bujur (terminal)"
+          "en": "syntax error",
+          "bm": "ralat sintaks"
         },
         {
-          "en": "diamond",
-          "bm": "rombus"
+          "en": "logic error",
+          "bm": "ralat logik"
         },
         {
-          "en": "rectangle",
-          "bm": "segi empat tepat"
+          "en": "runtime error",
+          "bm": "ralat masa larian"
         },
         {
-          "en": "circle with a cross",
-          "bm": "bulatan berpangkah"
+          "en": "design error",
+          "bm": "ralat reka bentuk"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q05",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "A parallelogram in a flowchart represents…",
-        "bm": "Segi empat selari dalam carta alir mewakili…"
+        "en": "A program that runs but gives the wrong answer has a…",
+        "bm": "Atur cara yang berjalan tetapi memberi jawapan salah mempunyai…"
       },
       "explanation": {
-        "en": "e.g. \"Input age\", \"Display total\".",
-        "bm": "cth. \"Input umur\", \"Papar jumlah\"."
+        "en": "e.g. using + instead of ×.",
+        "bm": "cth. menggunakan + sebagai ganti ×."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "input or output",
-          "bm": "input atau output"
+          "en": "logic error",
+          "bm": "ralat logik"
         },
         {
-          "en": "a decision",
-          "bm": "keputusan"
+          "en": "syntax error",
+          "bm": "ralat sintaks"
         },
         {
-          "en": "start",
-          "bm": "mula"
+          "en": "hardware error",
+          "bm": "ralat perkakasan"
         },
         {
-          "en": "a calculation only",
-          "bm": "pengiraan sahaja"
+          "en": "spelling error only",
+          "bm": "ralat ejaan sahaja"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q06",
-      "subtopicId": "f3ask-01-03",
-      "type": "mcq",
+      "subtopicId": "f3ask-01-01",
+      "type": "fill",
       "prompt": {
-        "en": "Steps carried out one after another in order is the control structure called…",
-        "bm": "Langkah yang dilaksanakan satu demi satu mengikut turutan ialah struktur kawalan…"
+        "en": "How many phases are there in program development?",
+        "bm": "Berapakah fasa dalam pembangunan atur cara?"
       },
       "explanation": {
-        "en": "The simplest structure.",
-        "bm": "Struktur paling ringkas."
+        "en": "Analysis, design, coding, testing and debugging, documentation.",
+        "bm": "Analisis, reka bentuk, pengekodan, pengujian dan penyahpepijatan, dokumentasi."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "sequence",
-          "bm": "urutan"
-        },
-        {
-          "en": "selection",
-          "bm": "pilihan"
-        },
-        {
-          "en": "repetition",
-          "bm": "pengulangan"
-        },
-        {
-          "en": "abstraction",
-          "bm": "peniskalaan"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "5",
+        "five",
+        "lima"
+      ]
     },
     {
       "id": "f3ask-01-q07",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Repeating steps until a condition is met is…",
-        "bm": "Mengulang langkah sehingga syarat dipenuhi ialah…"
+        "en": "Breaking a problem into input, process and output during analysis uses…",
+        "bm": "Memecahkan masalah kepada input, proses dan output semasa analisis menggunakan…"
       },
       "explanation": {
-        "en": "FOR and WHILE are loops.",
-        "bm": "FOR dan WHILE ialah gelung."
+        "en": "Decomposition makes problems manageable.",
+        "bm": "Leraian menjadikan masalah mudah diurus."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "repetition (loop)",
-          "bm": "pengulangan (gelung)"
-        },
-        {
-          "en": "sequence",
-          "bm": "urutan"
-        },
-        {
-          "en": "selection",
-          "bm": "pilihan"
-        },
-        {
           "en": "decomposition",
           "bm": "leraian"
+        },
+        {
+          "en": "pattern recognition",
+          "bm": "pengecaman corak"
+        },
+        {
+          "en": "encryption",
+          "bm": "penyulitan"
+        },
+        {
+          "en": "sorting",
+          "bm": "isihan"
         }
       ],
       "answer": 0
@@ -440,208 +386,239 @@
     {
       "id": "f3ask-01-q08",
       "subtopicId": "f3ask-01-01",
-      "type": "fill",
+      "type": "mcq",
       "prompt": {
-        "en": "A precise, ordered set of steps to solve a problem is an ______.",
-        "bm": "Set langkah yang tepat dan tersusun untuk menyelesaikan masalah ialah ______."
+        "en": "A user guide is produced in the…",
+        "bm": "Panduan pengguna dihasilkan dalam fasa…"
       },
       "explanation": {
-        "en": "A recipe is an everyday algorithm.",
-        "bm": "Resipi ialah algoritma dalam kehidupan harian."
+        "en": "Documentation helps others use and maintain the program.",
+        "bm": "Dokumentasi membantu orang lain menggunakan dan menyelenggara atur cara."
       },
       "difficulty": 1,
-      "answer": [
-        "algorithm",
-        "algoritma"
-      ]
+      "options": [
+        {
+          "en": "documentation phase",
+          "bm": "dokumentasi"
+        },
+        {
+          "en": "analysis phase",
+          "bm": "analisis"
+        },
+        {
+          "en": "coding phase",
+          "bm": "pengekodan"
+        },
+        {
+          "en": "design phase",
+          "bm": "reka bentuk"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3ask-01-q09",
-      "subtopicId": "f3ask-01-02",
-      "type": "match",
+      "subtopicId": "f3ask-01-01",
+      "type": "order",
       "prompt": {
-        "en": "Match each flowchart symbol with its use.",
-        "bm": "Padankan simbol carta alir dengan kegunaannya."
+        "en": "Arrange the phases of program development.",
+        "bm": "Susun fasa pembangunan atur cara."
       },
       "explanation": {
-        "en": "Standard symbols make flowcharts readable.",
-        "bm": "Simbol piawai menjadikan carta alir mudah dibaca."
+        "en": "This order reduces mistakes.",
+        "bm": "Urutan ini mengurangkan kesilapan."
       },
       "difficulty": 2,
-      "pairs": [
+      "items": [
         {
-          "left": {
-            "en": "Oval",
-            "bm": "Bujur"
-          },
-          "right": {
-            "en": "Start / End",
-            "bm": "Mula / Tamat"
-          }
+          "en": "Problem analysis",
+          "bm": "Analisis masalah"
         },
         {
-          "left": {
-            "en": "Parallelogram",
-            "bm": "Segi empat selari"
-          },
-          "right": {
-            "en": "Input / Output",
-            "bm": "Input / Output"
-          }
+          "en": "Program design",
+          "bm": "Reka bentuk atur cara"
         },
         {
-          "left": {
-            "en": "Rectangle",
-            "bm": "Segi empat tepat"
-          },
-          "right": {
-            "en": "Process",
-            "bm": "Proses"
-          }
+          "en": "Coding",
+          "bm": "Pengekodan"
         },
         {
-          "left": {
-            "en": "Diamond",
-            "bm": "Rombus"
-          },
-          "right": {
-            "en": "Decision",
-            "bm": "Keputusan"
-          }
+          "en": "Testing and debugging",
+          "bm": "Pengujian dan penyahpepijatan"
+        },
+        {
+          "en": "Documentation",
+          "bm": "Dokumentasi"
         }
       ]
     },
     {
       "id": "f3ask-01-q10",
       "subtopicId": "f3ask-01-01",
-      "type": "mcq",
+      "type": "match",
       "prompt": {
-        "en": "You notice that calculating the area of a rectangle and a square use the same idea (length × width). This is…",
-        "bm": "Anda dapati pengiraan luas segi empat tepat dan segi empat sama menggunakan idea yang sama (panjang × lebar). Ini ialah…"
+        "en": "Match each CT technique with how it is used.",
+        "bm": "Padankan teknik pemikiran komputasional dengan kegunaannya."
       },
       "explanation": {
-        "en": "Reusing a pattern saves time.",
-        "bm": "Menggunakan semula corak menjimatkan masa."
+        "en": "All four appear across the phases.",
+        "bm": "Keempat-empat teknik digunakan merentas fasa."
       },
       "difficulty": 2,
-      "options": [
+      "pairs": [
         {
-          "en": "pattern recognition",
-          "bm": "pengecaman corak"
+          "left": {
+            "en": "Decomposition",
+            "bm": "Leraian"
+          },
+          "right": {
+            "en": "Split the problem into input, process, output",
+            "bm": "Pecahkan masalah kepada input, proses, output"
+          }
         },
         {
-          "en": "decomposition",
-          "bm": "leraian"
+          "left": {
+            "en": "Pattern recognition",
+            "bm": "Pengecaman corak"
+          },
+          "right": {
+            "en": "Spot similar steps to reuse",
+            "bm": "Kenal pasti langkah serupa untuk diguna semula"
+          }
         },
         {
-          "en": "abstraction",
-          "bm": "peniskalaan"
+          "left": {
+            "en": "Abstraction",
+            "bm": "Peniskalaan"
+          },
+          "right": {
+            "en": "Keep only the important details",
+            "bm": "Kekalkan butiran penting sahaja"
+          }
         },
         {
-          "en": "debugging",
-          "bm": "nyahpepijat"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3ask-01-q11",
-      "subtopicId": "f3ask-01-02",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange the flowchart steps to find the average of two numbers.",
-        "bm": "Susun langkah carta alir untuk mencari purata dua nombor."
-      },
-      "explanation": {
-        "en": "Input → process → output.",
-        "bm": "Input → proses → output."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Start",
-          "bm": "Mula"
-        },
-        {
-          "en": "Input A and B",
-          "bm": "Input A dan B"
-        },
-        {
-          "en": "Average = (A + B) / 2",
-          "bm": "Purata = (A + B) / 2"
-        },
-        {
-          "en": "Display Average",
-          "bm": "Papar Purata"
-        },
-        {
-          "en": "End",
-          "bm": "Tamat"
+          "left": {
+            "en": "Algorithm",
+            "bm": "Algoritma"
+          },
+          "right": {
+            "en": "Write ordered steps of the solution",
+            "bm": "Tulis langkah penyelesaian yang tersusun"
+          }
         }
       ]
     },
     {
-      "id": "f3ask-01-q12",
-      "subtopicId": "f3ask-01-03",
+      "id": "f3ask-01-q11",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which pseudocode uses SELECTION?",
-        "bm": "Pseudokod manakah menggunakan struktur PILIHAN?"
+        "en": "Dividing a number by zero while the program runs causes a…",
+        "bm": "Membahagi nombor dengan sifar semasa atur cara berjalan menyebabkan…"
       },
       "explanation": {
-        "en": "IF…THEN chooses a path.",
-        "bm": "IF…THEN memilih laluan."
+        "en": "Check input values to prevent it.",
+        "bm": "Semak nilai input untuk mengelakkannya."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "IF temperature > 37.5 THEN DISPLAY \"Fever\"",
-          "bm": "IF suhu > 37.5 THEN PAPAR \"Demam\""
+          "en": "runtime error",
+          "bm": "ralat masa larian"
         },
         {
-          "en": "DISPLAY \"Hello\"",
-          "bm": "PAPAR \"Hello\""
+          "en": "syntax error",
+          "bm": "ralat sintaks"
         },
         {
-          "en": "FOR i = 1 TO 10",
-          "bm": "FOR i = 1 TO 10"
+          "en": "logic error only",
+          "bm": "ralat logik sahaja"
         },
         {
-          "en": "total = a + b",
-          "bm": "jumlah = a + b"
+          "en": "no error",
+          "bm": "tiada ralat"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3ask-01-q13",
+      "id": "f3ask-01-q12",
       "subtopicId": "f3ask-01-01",
-      "type": "multi",
+      "type": "numeric",
       "prompt": {
-        "en": "Select ALL parts of computational thinking.",
-        "bm": "Pilih SEMUA komponen pemikiran komputasional."
+        "en": "A program calculates the average of 70, 85 and 90. What should it output (2 decimal places)?",
+        "bm": "Satu atur cara mengira purata 70, 85 dan 90. Apakah output yang sepatutnya (2 tempat perpuluhan)?"
       },
       "explanation": {
-        "en": "The fourth is algorithms.",
-        "bm": "Yang keempat ialah algoritma."
+        "en": "(70 + 85 + 90) ÷ 3 = 245 ÷ 3 = 81.67.",
+        "bm": "(70 + 85 + 90) ÷ 3 = 245 ÷ 3 = 81.67."
+      },
+      "difficulty": 2,
+      "answer": 81.67,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f3ask-01-q13",
+      "subtopicId": "f3ask-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A program for the average of three marks outputs 245 ÷ 2. What type of error is this?",
+        "bm": "Atur cara purata tiga markah memberi output 245 ÷ 2. Apakah jenis ralat ini?"
+      },
+      "explanation": {
+        "en": "Test data with known answers catches logic errors.",
+        "bm": "Data ujian dengan jawapan yang diketahui mengesan ralat logik."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Decomposition",
-          "bm": "Leraian"
+          "en": "Logic error — it should divide by 3",
+          "bm": "Ralat logik — sepatutnya bahagi dengan 3"
         },
         {
-          "en": "Pattern recognition",
-          "bm": "Pengecaman corak"
+          "en": "Syntax error",
+          "bm": "Ralat sintaks"
         },
         {
-          "en": "Abstraction",
-          "bm": "Peniskalaan"
+          "en": "Runtime error",
+          "bm": "Ralat masa larian"
         },
         {
-          "en": "Guessing",
-          "bm": "Meneka"
+          "en": "No error",
+          "bm": "Tiada ralat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-01-q14",
+      "subtopicId": "f3ask-01-01",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL items that belong in program documentation.",
+        "bm": "Pilih SEMUA perkara dalam dokumentasi atur cara."
+      },
+      "explanation": {
+        "en": "A user guide is also included.",
+        "bm": "Panduan pengguna juga disertakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Problem statement",
+          "bm": "Pernyataan masalah"
+        },
+        {
+          "en": "Pseudocode or flowchart",
+          "bm": "Pseudokod atau carta alir"
+        },
+        {
+          "en": "Test results",
+          "bm": "Keputusan ujian"
+        },
+        {
+          "en": "The programmer's favourite song",
+          "bm": "Lagu kegemaran pengatur cara"
         }
       ],
       "answer": [
@@ -651,116 +628,68 @@
       ]
     },
     {
-      "id": "f3ask-01-q14",
-      "subtopicId": "f3ask-01-03",
+      "id": "f3ask-01-q15",
+      "subtopicId": "f3ask-01-01",
       "type": "numeric",
       "prompt": {
-        "en": "How many times will \"Hi\" be displayed? FOR i = 1 TO 5: DISPLAY \"Hi\"",
-        "bm": "Berapa kali \"Hi\" akan dipaparkan? FOR i = 1 TO 5: PAPAR \"Hi\""
+        "en": "A rectangle area program receives length 7 and width 4. What is the correct output?",
+        "bm": "Atur cara luas segi empat tepat menerima panjang 7 dan lebar 4. Apakah output yang betul?"
       },
       "explanation": {
-        "en": "i takes values 1, 2, 3, 4, 5.",
-        "bm": "i mengambil nilai 1, 2, 3, 4, 5."
+        "en": "7 × 4 = 28.",
+        "bm": "7 × 4 = 28."
       },
       "difficulty": 2,
-      "answer": 5,
+      "answer": 28,
       "tolerance": 0
     },
     {
-      "id": "f3ask-01-q15",
-      "subtopicId": "f3ask-01-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "How many exits does a decision symbol usually have?",
-        "bm": "Berapakah keluaran biasa bagi simbol keputusan?"
-      },
-      "explanation": {
-        "en": "Yes and No.",
-        "bm": "Ya dan Tidak."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "2",
-          "bm": "2"
-        },
-        {
-          "en": "1",
-          "bm": "1"
-        },
-        {
-          "en": "3",
-          "bm": "3"
-        },
-        {
-          "en": "0",
-          "bm": "0"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "f3ask-01-q16",
-      "subtopicId": "f3ask-01-03",
-      "type": "mcq",
+      "subtopicId": "f3ask-01-01",
+      "type": "fill",
       "prompt": {
-        "en": "A WHILE loop is BEST when…",
-        "bm": "Gelung WHILE PALING sesuai apabila…"
+        "en": "Values chosen to check whether a program works correctly are called ______ data.",
+        "bm": "Nilai yang dipilih untuk menyemak sama ada atur cara berfungsi dengan betul dipanggil data ______."
       },
       "explanation": {
-        "en": "e.g. keep asking for a password until it is correct.",
-        "bm": "cth. terus meminta kata laluan sehingga betul."
+        "en": "Include normal, boundary and invalid values.",
+        "bm": "Sertakan nilai biasa, sempadan dan tidak sah."
       },
       "difficulty": 2,
-      "options": [
-        {
-          "en": "you do not know in advance how many times to repeat",
-          "bm": "anda tidak tahu berapa kali perlu diulang"
-        },
-        {
-          "en": "you know the exact count",
-          "bm": "anda tahu bilangan tepat"
-        },
-        {
-          "en": "there is no repetition",
-          "bm": "tiada pengulangan"
-        },
-        {
-          "en": "you need only one step",
-          "bm": "anda perlukan satu langkah sahaja"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "test",
+        "ujian"
+      ]
     },
     {
       "id": "f3ask-01-q17",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "A flowchart has a decision \"Is mark ≥ 40?\" but only the Yes arrow is drawn. What is wrong?",
-        "bm": "Carta alir mempunyai keputusan \"Markah ≥ 40?\" tetapi hanya anak panah Ya dilukis. Apakah kesilapannya?"
+        "en": "A group project must convert Ringgit to US dollars. Which step shows ABSTRACTION?",
+        "bm": "Projek berkumpulan perlu menukar Ringgit kepada dolar AS. Langkah manakah menunjukkan PENISKALAAN?"
       },
       "explanation": {
-        "en": "Every decision needs both outcomes handled.",
-        "bm": "Setiap keputusan perlu mengendalikan kedua-dua hasil."
+        "en": "Abstraction removes unnecessary detail.",
+        "bm": "Peniskalaan membuang butiran yang tidak perlu."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "The No path is missing, so the algorithm is incomplete",
-          "bm": "Laluan Tidak tiada, jadi algoritma tidak lengkap"
+          "en": "Focusing only on the amount and exchange rate, ignoring coin designs",
+          "bm": "Memberi tumpuan kepada jumlah dan kadar tukaran sahaja, mengabaikan reka bentuk syiling"
         },
         {
-          "en": "Diamonds need three exits",
-          "bm": "Rombus perlukan tiga keluaran"
+          "en": "Printing the whole history of money",
+          "bm": "Mencetak keseluruhan sejarah wang"
         },
         {
-          "en": "Nothing is wrong",
-          "bm": "Tiada kesilapan"
+          "en": "Choosing the app colour first",
+          "bm": "Memilih warna aplikasi dahulu"
         },
         {
-          "en": "It should be an oval",
-          "bm": "Sepatutnya bujur"
+          "en": "Testing before designing",
+          "bm": "Menguji sebelum mereka bentuk"
         }
       ],
       "answer": 0
@@ -770,96 +699,96 @@
       "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Designing a school canteen ordering app, which is the BEST first step of decomposition?",
-        "bm": "Mereka bentuk aplikasi tempahan kantin sekolah, manakah langkah leraian PALING baik yang pertama?"
+        "en": "Why test a program with boundary values such as 0 and the maximum mark?",
+        "bm": "Mengapakah atur cara diuji dengan nilai sempadan seperti 0 dan markah maksimum?"
       },
       "explanation": {
-        "en": "Smaller parts are easier to solve and test.",
-        "bm": "Bahagian kecil lebih mudah diselesaikan dan diuji."
+        "en": "e.g. checking a mark of exactly 40 for \"Pass\".",
+        "bm": "cth. menyemak markah tepat 40 untuk \"Lulus\"."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Split into menu display, ordering, payment and pickup",
-          "bm": "Pecahkan kepada paparan menu, tempahan, bayaran dan pengambilan"
+          "en": "Errors often happen at the edges of valid ranges",
+          "bm": "Ralat sering berlaku di hujung julat yang sah"
         },
         {
-          "en": "Choose the app colour",
-          "bm": "Pilih warna aplikasi"
+          "en": "Boundary values never cause errors",
+          "bm": "Nilai sempadan tidak pernah menyebabkan ralat"
         },
         {
-          "en": "Write all code at once",
-          "bm": "Tulis semua kod sekali gus"
+          "en": "It makes the program faster",
+          "bm": "Ia menjadikan atur cara lebih pantas"
         },
         {
-          "en": "Buy a server",
-          "bm": "Beli pelayan"
+          "en": "It is not useful",
+          "bm": "Ia tidak berguna"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q19",
-      "subtopicId": "f3ask-01-03",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "What is displayed? x = 10; IF x > 5 THEN x = x − 3 ELSE x = x + 3; DISPLAY x",
-        "bm": "Apakah yang dipaparkan? x = 10; IF x > 5 THEN x = x − 3 ELSE x = x + 3; PAPAR x"
+        "en": "A grade program says 40 is \"Fail\" though 40 should pass. The condition is mark > 40. What is the fix?",
+        "bm": "Atur cara gred menyatakan 40 \"Gagal\" walaupun 40 sepatutnya lulus. Syaratnya markah > 40. Apakah pembetulannya?"
       },
       "explanation": {
-        "en": "10 > 5 is true, so x = 10 − 3 = 7.",
-        "bm": "10 > 5 benar, jadi x = 10 − 3 = 7."
+        "en": "This is a logic error at a boundary.",
+        "bm": "Ini ralat logik pada nilai sempadan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "7",
-          "bm": "7"
+          "en": "Change the condition to mark >= 40",
+          "bm": "Tukar syarat kepada markah >= 40"
         },
         {
-          "en": "13",
-          "bm": "13"
+          "en": "Change it to mark < 40",
+          "bm": "Tukar kepada markah < 40"
         },
         {
-          "en": "10",
-          "bm": "10"
+          "en": "Remove the condition",
+          "bm": "Buang syarat"
         },
         {
-          "en": "3",
-          "bm": "3"
+          "en": "Add a syntax error",
+          "bm": "Tambah ralat sintaks"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-01-q20",
-      "subtopicId": "f3ask-01-02",
+      "subtopicId": "f3ask-01-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why do programmers write pseudocode before real code?",
-        "bm": "Mengapakah pengatur cara menulis pseudokod sebelum kod sebenar?"
+        "en": "Why is documentation important even after the program works?",
+        "bm": "Mengapakah dokumentasi penting walaupun atur cara sudah berfungsi?"
       },
       "explanation": {
-        "en": "Errors in logic are cheaper to fix early.",
-        "bm": "Kesilapan logik lebih mudah dibaiki pada peringkat awal."
+        "en": "Real software is maintained for years.",
+        "bm": "Perisian sebenar diselenggara selama bertahun-tahun."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "To plan the logic clearly without worrying about syntax",
-          "bm": "Untuk merancang logik dengan jelas tanpa bimbang tentang sintaks"
+          "en": "Others can understand, use, fix and update the program later",
+          "bm": "Orang lain boleh memahami, menggunakan, membaiki dan mengemas kini atur cara kemudian"
         },
         {
-          "en": "Computers run pseudocode directly",
-          "bm": "Komputer melaksanakan pseudokod secara terus"
+          "en": "It makes the code run faster",
+          "bm": "Ia menjadikan kod berjalan lebih pantas"
         },
         {
-          "en": "It is required by law",
-          "bm": "Ia diwajibkan undang-undang"
+          "en": "It is only for marks",
+          "bm": "Ia hanya untuk markah"
         },
         {
-          "en": "It makes programs slower",
-          "bm": "Ia memperlahankan atur cara"
+          "en": "Working programs never change",
+          "bm": "Atur cara yang berfungsi tidak pernah berubah"
         }
       ],
       "answer": 0

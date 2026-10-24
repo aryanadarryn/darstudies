@@ -5,37 +5,25 @@
     "f3ask-01-01": {
       "keyPoints": [
         {
-          "en": "Decomposition, pattern recognition, abstraction, algorithms.",
-          "bm": "Leraian, pengecaman corak, peniskalaan, algoritma."
+          "en": "Phases: problem analysis (input, process, output) → program design (pseudocode, flowchart) → coding → testing and debugging → documentation.",
+          "bm": "Fasa: analisis masalah (input, proses, output) → reka bentuk atur cara (pseudokod, carta alir) → pengekodan → pengujian dan penyahpepijatan → dokumentasi."
         },
         {
-          "en": "An algorithm is precise, ordered and finite.",
-          "bm": "Algoritma adalah tepat, tersusun dan terhingga."
-        }
-      ]
-    },
-    "f3ask-01-02": {
-      "keyPoints": [
-        {
-          "en": "Flowchart: oval (start/end), parallelogram (input/output), rectangle (process), diamond (decision), arrows (flow).",
-          "bm": "Carta alir: bujur (mula/tamat), segi empat selari (input/output), segi empat tepat (proses), rombus (keputusan), anak panah (aliran)."
+          "en": "CT techniques in each phase: decomposition, pattern recognition, abstraction, algorithms.",
+          "bm": "Teknik pemikiran komputasional dalam setiap fasa: leraian, pengecaman corak, peniskalaan, algoritma."
         },
         {
-          "en": "Pseudocode uses keywords like INPUT, DISPLAY, IF, FOR, WHILE.",
-          "bm": "Pseudokod menggunakan kata kunci seperti INPUT, PAPAR, IF, FOR, WHILE."
-        }
-      ]
-    },
-    "f3ask-01-03": {
-      "keyPoints": [
+          "en": "Errors: syntax (rules), logic (wrong result), runtime (stops while running). Use normal, boundary and invalid test data.",
+          "bm": "Ralat: sintaks (peraturan), logik (hasil salah), masa larian (berhenti semasa berjalan). Gunakan data ujian biasa, sempadan dan tidak sah."
+        },
         {
-          "en": "Sequence (in order), selection (IF…ELSE), repetition (FOR, WHILE).",
-          "bm": "Urutan (mengikut turutan), pilihan (IF…ELSE), pengulangan (FOR, WHILE)."
+          "en": "A mini project applies all phases in a group to solve an everyday problem.",
+          "bm": "Projek mini mengaplikasikan semua fasa secara berkumpulan untuk menyelesaikan masalah harian."
         }
       ],
       "tip": {
-        "en": "Trace algorithms by hand with a table of variable values.",
-        "bm": "Surih algoritma secara manual dengan jadual nilai pemboleh ubah."
+        "en": "Write the report for each phase as you go, not at the end.",
+        "bm": "Tulis laporan setiap fasa semasa bekerja, bukan di akhir."
       }
     }
   }

@@ -3,76 +3,164 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "From Naning in 1831 to Terengganu in 1928, local leaders stood up against foreign rule — often with only traditional weapons. Why did they risk everything?",
-      "bm": "Dari Naning pada 1831 hingga Terengganu pada 1928, pemimpin tempatan bangkit menentang pemerintahan asing — selalunya dengan senjata tradisional sahaja. Mengapakah mereka sanggup berkorban segalanya?"
+      "en": "From Naning in 1831 to Terengganu in 1928, local fighters across our country risked everything to defend their land, faith and way of life.",
+      "bm": "Dari Naning pada 1831 hingga Terengganu pada 1928, pejuang tempatan di seluruh negara mempertaruhkan segala-galanya untuk mempertahankan tanah, agama dan cara hidup mereka."
     },
     "bigIdeas": [
       {
-        "en": "Local people resisted because they lost power, faced new taxes and land rules, and saw their customs and religion ignored.",
-        "bm": "Penduduk tempatan menentang kerana kehilangan kuasa, dikenakan cukai dan peraturan tanah baharu, serta adat dan agama mereka diabaikan."
+        "en": "The aim of resistance was to defend sovereignty, religion, customs and traditional rights.",
+        "bm": "Matlamat penentangan ialah mempertahankan kedaulatan, agama, adat dan hak tradisional."
       },
       {
-        "en": "Resistance took place across the Peninsula, Sarawak and Sabah.",
-        "bm": "Penentangan berlaku di seluruh Semenanjung, Sarawak dan Sabah."
+        "en": "Western rule took away chiefs' powers, introduced new taxes and land laws, and ignored local customs.",
+        "bm": "Pemerintahan Barat menghapuskan kuasa pembesar, memperkenalkan cukai dan undang-undang tanah baharu, serta mengabaikan adat tempatan."
       },
       {
-        "en": "Although defeated, the fighters inspired later nationalism.",
-        "bm": "Walaupun tewas, para pejuang menjadi inspirasi kepada nasionalisme kemudiannya."
+        "en": "Resistance was put down, but it inspired the later spirit of nationalism.",
+        "bm": "Penentangan dipatahkan, tetapi ia menjadi inspirasi semangat nasionalisme kemudiannya."
       }
     ],
     "infographic": {
-      "kind": "process",
+      "kind": "compare",
       "data": {
-        "steps": [
+        "headers": [
           {
-            "title": {
-              "en": "1831–1832",
-              "bm": "1831–1832"
-            },
-            "detail": {
-              "en": "Naning — Dol Said",
-              "bm": "Naning — Dol Said"
-            }
+            "en": "Place",
+            "bm": "Tempat"
           },
           {
-            "title": {
-              "en": "1875",
-              "bm": "1875"
+            "en": "Year",
+            "bm": "Tahun"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Dol Said",
+              "bm": "Dol Said"
             },
-            "detail": {
-              "en": "Perak — Dato' Maharaja Lela (Pasir Salak)",
-              "bm": "Perak — Dato' Maharaja Lela (Pasir Salak)"
-            }
+            "cells": [
+              {
+                "en": "Naning",
+                "bm": "Naning"
+              },
+              {
+                "en": "1831–1832",
+                "bm": "1831–1832"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1891–1895",
-              "bm": "1891–1895"
+            "label": {
+              "en": "Dato' Maharaja Lela",
+              "bm": "Dato' Maharaja Lela"
             },
-            "detail": {
-              "en": "Pahang — Dato' Bahaman, Mat Kilau",
-              "bm": "Pahang — Dato' Bahaman, Mat Kilau"
-            }
+            "cells": [
+              {
+                "en": "Pasir Salak, Perak",
+                "bm": "Pasir Salak, Perak"
+              },
+              {
+                "en": "1875",
+                "bm": "1875"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1915",
-              "bm": "1915"
+            "label": {
+              "en": "Dato' Bahaman, Mat Kilau",
+              "bm": "Dato' Bahaman, Mat Kilau"
             },
-            "detail": {
-              "en": "Kelantan — Tok Janggut; Sabah — Antanom",
-              "bm": "Kelantan — Tok Janggut; Sabah — Antanom"
-            }
+            "cells": [
+              {
+                "en": "Pahang",
+                "bm": "Pahang"
+              },
+              {
+                "en": "1891–1895",
+                "bm": "1891–1895"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1928",
-              "bm": "1928"
+            "label": {
+              "en": "Tok Janggut",
+              "bm": "Tok Janggut"
             },
-            "detail": {
-              "en": "Terengganu — Haji Abdul Rahman Limbong",
-              "bm": "Terengganu — Haji Abdul Rahman Limbong"
-            }
+            "cells": [
+              {
+                "en": "Pasir Puteh, Kelantan",
+                "bm": "Pasir Puteh, Kelantan"
+              },
+              {
+                "en": "1915",
+                "bm": "1915"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Haji Abdul Rahman Limbong",
+              "bm": "Haji Abdul Rahman Limbong"
+            },
+            "cells": [
+              {
+                "en": "Terengganu",
+                "bm": "Terengganu"
+              },
+              {
+                "en": "1928",
+                "bm": "1928"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Rentap",
+              "bm": "Rentap"
+            },
+            "cells": [
+              {
+                "en": "Sarawak (Bukit Sadok)",
+                "bm": "Sarawak (Bukit Sadok)"
+              },
+              {
+                "en": "1850s–1861",
+                "bm": "1850-an–1861"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mat Salleh",
+              "bm": "Mat Salleh"
+            },
+            "cells": [
+              {
+                "en": "Sabah",
+                "bm": "Sabah"
+              },
+              {
+                "en": "1894–1900",
+                "bm": "1894–1900"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Antanom",
+              "bm": "Antanom"
+            },
+            "cells": [
+              {
+                "en": "Rundum, Sabah",
+                "bm": "Rundum, Sabah"
+              },
+              {
+                "en": "1915",
+                "bm": "1915"
+              }
+            ]
           }
         ]
       }
@@ -80,236 +168,272 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Resistance",
-          "bm": "Penentangan"
+          "en": "Sovereignty",
+          "bm": "Kedaulatan"
         },
         "definition": {
-          "en": "Opposing or fighting against foreign control.",
-          "bm": "Menentang atau melawan kawalan asing."
+          "en": "The right of a ruler or people to govern themselves.",
+          "bm": "Hak pemerintah atau rakyat untuk memerintah diri sendiri."
         }
       },
       {
         "term": {
-          "en": "Naning War",
-          "bm": "Perang Naning"
+          "en": "Armed resistance",
+          "bm": "Penentangan bersenjata"
         },
         "definition": {
-          "en": "Dol Said's fight against the British in Naning (near Melaka), 1831–1832.",
-          "bm": "Perjuangan Dol Said menentang British di Naning (berhampiran Melaka), 1831–1832."
+          "en": "Fighting with weapons against the colonial power.",
+          "bm": "Melawan kuasa penjajah dengan senjata."
         }
       },
       {
         "term": {
-          "en": "Tax on produce",
-          "bm": "Cukai hasil"
+          "en": "Non-armed resistance",
+          "bm": "Penentangan tanpa senjata"
         },
         "definition": {
-          "en": "Taxes on land and crops introduced by colonial governments.",
-          "bm": "Cukai atas tanah dan hasil tanaman yang diperkenalkan kerajaan kolonial."
+          "en": "Refusing orders, petitions, protests and writing.",
+          "bm": "Enggan mematuhi arahan, petisyen, bantahan dan penulisan."
+        }
+      },
+      {
+        "term": {
+          "en": "Exile",
+          "bm": "Buang negeri"
+        },
+        "definition": {
+          "en": "Being sent away from one's homeland as punishment.",
+          "bm": "Dihantar jauh dari tanah air sebagai hukuman."
+        }
+      },
+      {
+        "term": {
+          "en": "Nationalism",
+          "bm": "Nasionalisme"
+        },
+        "definition": {
+          "en": "Love of the nation and the desire to be free from foreign rule.",
+          "bm": "Semangat cinta akan negara dan keinginan bebas daripada pemerintahan asing."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "Why did Dol Said resist the British in Naning?",
-        "bm": "Mengapakah Dol Said menentang British di Naning?"
+        "en": "Why did Dato' Maharaja Lela oppose J.W.W. Birch?",
+        "bm": "Mengapakah Dato' Maharaja Lela menentang J.W.W. Birch?"
       },
       "steps": [
         {
-          "en": "The British treated Naning as part of Melaka and demanded one-tenth of its produce as tax.",
-          "bm": "British menganggap Naning sebahagian Melaka dan menuntut satu persepuluh hasil sebagai cukai."
+          "en": "Birch took over tax collection from Malay chiefs.",
+          "bm": "Birch mengambil alih pemungutan cukai daripada pembesar Melayu."
         },
         {
-          "en": "Dol Said saw this as interference in Naning's traditional rule and refused.",
-          "bm": "Dol Said menganggap ini campur tangan dalam pemerintahan tradisional Naning dan enggan menurut."
+          "en": "He ignored Malay customs and the dignity of the rulers.",
+          "bm": "Beliau mengabaikan adat Melayu dan maruah raja."
         }
       ],
       "answer": {
-        "en": "He defended Naning's autonomy and customs (Naning War, 1831–1832).",
-        "bm": "Beliau mempertahankan autonomi dan adat Naning (Perang Naning, 1831–1832)."
+        "en": "To defend Malay rights, customs and sovereignty — Birch was killed at Pasir Salak in 1875.",
+        "bm": "Untuk mempertahankan hak, adat dan kedaulatan Melayu — Birch dibunuh di Pasir Salak pada 1875."
       }
     }
   },
   "questions": [
     {
       "id": "f3sej-07-q01",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-01",
       "type": "mcq",
       "prompt": {
-        "en": "Who led the resistance in Naning (1831–1832)?",
-        "bm": "Siapakah yang memimpin penentangan di Naning (1831–1832)?"
+        "en": "The main aim of local resistance was to…",
+        "bm": "Matlamat utama penentangan masyarakat tempatan ialah…"
       },
       "explanation": {
-        "en": "Naning is near Melaka.",
-        "bm": "Naning terletak berhampiran Melaka."
+        "en": "Leaders fought to protect their communities.",
+        "bm": "Pemimpin berjuang melindungi masyarakat mereka."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Dol Said",
-          "bm": "Dol Said"
+          "en": "defend sovereignty, religion, customs and rights",
+          "bm": "mempertahankan kedaulatan, agama, adat dan hak"
         },
         {
-          "en": "Tok Janggut",
-          "bm": "Tok Janggut"
+          "en": "help the British",
+          "bm": "membantu British"
         },
         {
-          "en": "Mat Kilau",
-          "bm": "Mat Kilau"
+          "en": "join Siam",
+          "bm": "menyertai Siam"
         },
         {
-          "en": "Rentap",
-          "bm": "Rentap"
+          "en": "start trade with Europe",
+          "bm": "memulakan perdagangan dengan Eropah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q02",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-01",
       "type": "mcq",
       "prompt": {
-        "en": "Dato' Maharaja Lela resisted the British in which state?",
-        "bm": "Dato' Maharaja Lela menentang British di negeri manakah?"
+        "en": "Refusing to obey colonial orders is an example of…",
+        "bm": "Enggan mematuhi arahan penjajah ialah contoh…"
       },
       "explanation": {
-        "en": "Birch was killed at Pasir Salak in 1875.",
-        "bm": "Birch dibunuh di Pasir Salak pada 1875."
+        "en": "Resistance could be armed or non-armed.",
+        "bm": "Penentangan boleh bersenjata atau tanpa senjata."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Perak",
-          "bm": "Perak"
+          "en": "non-armed resistance",
+          "bm": "penentangan tanpa senjata"
         },
         {
-          "en": "Pahang",
-          "bm": "Pahang"
+          "en": "armed resistance",
+          "bm": "penentangan bersenjata"
         },
         {
-          "en": "Kelantan",
-          "bm": "Kelantan"
+          "en": "cooperation",
+          "bm": "kerjasama"
         },
         {
-          "en": "Terengganu",
-          "bm": "Terengganu"
+          "en": "treaty-making",
+          "bm": "membuat perjanjian"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q03",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-03",
       "type": "mcq",
       "prompt": {
-        "en": "Tok Janggut led a resistance in 1915 in…",
-        "bm": "Tok Janggut memimpin penentangan pada 1915 di…"
+        "en": "Dol Said led resistance in…",
+        "bm": "Dol Said memimpin penentangan di…"
       },
       "explanation": {
-        "en": "He opposed new land taxes in Pasir Puteh.",
-        "bm": "Beliau menentang cukai tanah baharu di Pasir Puteh."
+        "en": "Naning War, 1831–1832.",
+        "bm": "Perang Naning, 1831–1832."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Kelantan",
-          "bm": "Kelantan"
+          "en": "Naning",
+          "bm": "Naning"
         },
         {
-          "en": "Kedah",
-          "bm": "Kedah"
-        },
-        {
-          "en": "Johor",
-          "bm": "Johor"
+          "en": "Pasir Salak",
+          "bm": "Pasir Salak"
         },
         {
           "en": "Pahang",
           "bm": "Pahang"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q04",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-03",
       "type": "mcq",
       "prompt": {
-        "en": "Haji Abdul Rahman Limbong opposed British land rules in…",
-        "bm": "Haji Abdul Rahman Limbong menentang peraturan tanah British di…"
+        "en": "J.W.W. Birch was killed at Pasir Salak in…",
+        "bm": "J.W.W. Birch dibunuh di Pasir Salak pada…"
       },
       "explanation": {
-        "en": "This happened in 1928.",
-        "bm": "Ini berlaku pada 1928."
+        "en": "Led by Dato' Maharaja Lela.",
+        "bm": "Diketuai oleh Dato' Maharaja Lela."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Terengganu",
-          "bm": "Terengganu"
+          "en": "1875",
+          "bm": "1875"
         },
         {
-          "en": "Perak",
-          "bm": "Perak"
+          "en": "1874",
+          "bm": "1874"
         },
         {
-          "en": "Selangor",
-          "bm": "Selangor"
+          "en": "1915",
+          "bm": "1915"
         },
         {
-          "en": "Melaka",
-          "bm": "Melaka"
+          "en": "1896",
+          "bm": "1896"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q05",
-      "subtopicId": "f3sej-07-02",
-      "type": "fill",
+      "subtopicId": "f3sej-07-03",
+      "type": "mcq",
       "prompt": {
-        "en": "Dato' Bahaman and Mat ______ led the Pahang uprising (1891–1895).",
-        "bm": "Dato' Bahaman dan Mat ______ memimpin kebangkitan Pahang (1891–1895)."
+        "en": "Tok Janggut led resistance in 1915 in…",
+        "bm": "Tok Janggut memimpin penentangan pada 1915 di…"
       },
       "explanation": {
-        "en": "They resisted after the Resident took over local chiefs' powers.",
-        "bm": "Mereka menentang selepas Residen mengambil alih kuasa pembesar tempatan."
+        "en": "The cause included new land tax rules.",
+        "bm": "Puncanya termasuk peraturan cukai tanah baharu."
       },
       "difficulty": 1,
-      "answer": [
-        "Kilau"
-      ]
+      "options": [
+        {
+          "en": "Pasir Puteh, Kelantan",
+          "bm": "Pasir Puteh, Kelantan"
+        },
+        {
+          "en": "Naning, Melaka",
+          "bm": "Naning, Melaka"
+        },
+        {
+          "en": "Kuching, Sarawak",
+          "bm": "Kuching, Sarawak"
+        },
+        {
+          "en": "Ipoh, Perak",
+          "bm": "Ipoh, Perak"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3sej-07-q06",
       "subtopicId": "f3sej-07-03",
       "type": "mcq",
       "prompt": {
-        "en": "Mat Salleh resisted in…",
-        "bm": "Mat Salleh menentang di…"
+        "en": "Mat Salleh opposed the British North Borneo Company from…",
+        "bm": "Mat Salleh menentang Syarikat Borneo Utara British dari…"
       },
       "explanation": {
-        "en": "He resisted the British North Borneo Company (1894–1900).",
-        "bm": "Beliau menentang Syarikat Borneo Utara British (1894–1900)."
+        "en": "He was killed at Tambunan in 1900.",
+        "bm": "Beliau terkorban di Tambunan pada 1900."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Sabah",
-          "bm": "Sabah"
+          "en": "1894 to 1900",
+          "bm": "1894 to 1900"
         },
         {
-          "en": "Sarawak",
-          "bm": "Sarawak"
+          "en": "1831 to 1832",
+          "bm": "1831 to 1832"
         },
         {
-          "en": "Johor",
-          "bm": "Johor"
+          "en": "1891 to 1895",
+          "bm": "1891 to 1895"
         },
         {
-          "en": "Kedah",
-          "bm": "Kedah"
+          "en": "1915 to 1928",
+          "bm": "1915 to 1928"
         }
       ],
       "answer": 0
@@ -317,113 +441,116 @@
     {
       "id": "f3sej-07-q07",
       "subtopicId": "f3sej-07-03",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "Rentap was a leader of which community?",
-        "bm": "Rentap ialah pemimpin masyarakat apa?"
+        "en": "The Iban leader who fought the Brookes from his fort at Bukit Sadok was ______.",
+        "bm": "Pemimpin Iban yang menentang Brooke dari kubunya di Bukit Sadok ialah ______."
       },
       "explanation": {
-        "en": "He resisted Brooke rule in Sarawak.",
-        "bm": "Beliau menentang pemerintahan Brooke di Sarawak."
+        "en": "He was famous for his courage.",
+        "bm": "Beliau terkenal kerana keberaniannya."
       },
       "difficulty": 1,
-      "options": [
-        {
-          "en": "Iban",
-          "bm": "Iban"
-        },
-        {
-          "en": "Murut",
-          "bm": "Murut"
-        },
-        {
-          "en": "Kadazandusun",
-          "bm": "Kadazandusun"
-        },
-        {
-          "en": "Bajau",
-          "bm": "Bajau"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "Rentap"
+      ]
     },
     {
       "id": "f3sej-07-q08",
-      "subtopicId": "f3sej-07-01",
+      "subtopicId": "f3sej-07-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which was a common cause of local resistance?",
-        "bm": "Antara berikut, yang manakah punca biasa penentangan tempatan?"
+        "en": "Which Western change angered Malay chiefs most?",
+        "bm": "Perubahan Barat manakah paling menimbulkan kemarahan pembesar Melayu?"
       },
       "explanation": {
-        "en": "These burdened people and reduced chiefs' income.",
-        "bm": "Ini membebankan rakyat dan mengurangkan pendapatan pembesar."
+        "en": "Taxes were their main source of income.",
+        "bm": "Cukai ialah sumber pendapatan utama mereka."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "New taxes and land rules",
-          "bm": "Cukai dan peraturan tanah baharu"
+          "en": "Losing the right to collect taxes",
+          "bm": "Hilang hak memungut cukai"
         },
         {
-          "en": "Free schools",
-          "bm": "Sekolah percuma"
+          "en": "Building schools",
+          "bm": "Membina sekolah"
         },
         {
-          "en": "More power for chiefs",
-          "bm": "Lebih kuasa kepada pembesar"
+          "en": "Planting fruit trees",
+          "bm": "Menanam pokok buah-buahan"
         },
         {
-          "en": "Lower prices",
-          "bm": "Harga lebih rendah"
+          "en": "Holding festivals",
+          "bm": "Mengadakan perayaan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q09",
-      "subtopicId": "f3sej-07-01",
-      "type": "multi",
+      "subtopicId": "f3sej-07-03",
+      "type": "match",
       "prompt": {
-        "en": "Select ALL causes of resistance against Western powers.",
-        "bm": "Pilih SEMUA punca penentangan terhadap kuasa Barat."
+        "en": "Match each leader with the place of resistance.",
+        "bm": "Padankan pemimpin dengan tempat penentangan."
       },
       "explanation": {
-        "en": "Western powers did not give independence at that time.",
-        "bm": "Kuasa Barat tidak memberi kemerdekaan pada masa itu."
+        "en": "Resistance happened across the country.",
+        "bm": "Penentangan berlaku di seluruh negara."
       },
       "difficulty": 2,
-      "options": [
+      "pairs": [
         {
-          "en": "Loss of traditional power of rulers and chiefs",
-          "bm": "Kehilangan kuasa tradisional raja dan pembesar"
+          "left": {
+            "en": "Dato' Bahaman",
+            "bm": "Dato' Bahaman"
+          },
+          "right": {
+            "en": "Pahang",
+            "bm": "Pahang"
+          }
         },
         {
-          "en": "New taxes and land laws",
-          "bm": "Cukai dan undang-undang tanah baharu"
+          "left": {
+            "en": "Haji Abdul Rahman Limbong",
+            "bm": "Haji Abdul Rahman Limbong"
+          },
+          "right": {
+            "en": "Terengganu",
+            "bm": "Terengganu"
+          }
         },
         {
-          "en": "Disrespect for local customs and religion",
-          "bm": "Tidak menghormati adat dan agama tempatan"
+          "left": {
+            "en": "Antanom",
+            "bm": "Antanom"
+          },
+          "right": {
+            "en": "Rundum, Sabah",
+            "bm": "Rundum, Sabah"
+          }
         },
         {
-          "en": "Western powers giving independence",
-          "bm": "Kuasa Barat memberi kemerdekaan"
+          "left": {
+            "en": "Sharif Masahor",
+            "bm": "Sharif Masahor"
+          },
+          "right": {
+            "en": "Sarawak",
+            "bm": "Sarawak"
+          }
         }
-      ],
-      "answer": [
-        0,
-        1,
-        2
       ]
     },
     {
       "id": "f3sej-07-q10",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-03",
       "type": "order",
       "prompt": {
-        "en": "Arrange these resistance movements in time order.",
-        "bm": "Susun gerakan penentangan ini mengikut kronologi."
+        "en": "Arrange these resistances in chronological order.",
+        "bm": "Susun penentangan ini mengikut kronologi."
       },
       "explanation": {
         "en": "1831 → 1875 → 1891 → 1915 → 1928.",
@@ -436,12 +563,12 @@
           "bm": "Naning (Dol Said)"
         },
         {
-          "en": "Perak (Maharaja Lela)",
-          "bm": "Perak (Maharaja Lela)"
+          "en": "Pasir Salak (Maharaja Lela)",
+          "bm": "Pasir Salak (Maharaja Lela)"
         },
         {
-          "en": "Pahang (Bahaman, Mat Kilau)",
-          "bm": "Pahang (Bahaman, Mat Kilau)"
+          "en": "Pahang (Dato' Bahaman)",
+          "bm": "Pahang (Dato' Bahaman)"
         },
         {
           "en": "Kelantan (Tok Janggut)",
@@ -456,336 +583,318 @@
     {
       "id": "f3sej-07-q11",
       "subtopicId": "f3sej-07-02",
-      "type": "match",
+      "type": "mcq",
       "prompt": {
-        "en": "Match each fighter with the year of resistance.",
-        "bm": "Padankan pejuang dengan tahun penentangan."
+        "en": "Why did the people of Naning resist the British in 1831?",
+        "bm": "Mengapakah penduduk Naning menentang British pada 1831?"
       },
       "explanation": {
-        "en": "Know the leader, place and year for each.",
-        "bm": "Ketahui pemimpin, tempat dan tahun bagi setiap satu."
+        "en": "Naning saw itself as independent, not part of Melaka.",
+        "bm": "Naning menganggap dirinya bebas, bukan sebahagian Melaka."
       },
       "difficulty": 2,
-      "pairs": [
+      "options": [
         {
-          "left": {
-            "en": "Dol Said",
-            "bm": "Dol Said"
-          },
-          "right": {
-            "en": "1831–1832",
-            "bm": "1831–1832"
-          }
+          "en": "The British demanded one-tenth of their produce as tax",
+          "bm": "British menuntut satu persepuluh hasil mereka sebagai cukai"
         },
         {
-          "left": {
-            "en": "Dato' Maharaja Lela",
-            "bm": "Dato' Maharaja Lela"
-          },
-          "right": {
-            "en": "1875",
-            "bm": "1875"
-          }
+          "en": "The British gave them free land",
+          "bm": "British memberi tanah percuma"
         },
         {
-          "left": {
-            "en": "Tok Janggut",
-            "bm": "Tok Janggut"
-          },
-          "right": {
-            "en": "1915",
-            "bm": "1915"
-          }
+          "en": "Siam attacked them",
+          "bm": "Siam menyerang mereka"
         },
         {
-          "left": {
-            "en": "Haji Abdul Rahman Limbong",
-            "bm": "Haji Abdul Rahman Limbong"
-          },
-          "right": {
-            "en": "1928",
-            "bm": "1928"
-          }
+          "en": "They wanted to join the FMS",
+          "bm": "Mereka mahu menyertai NNMB"
         }
-      ]
+      ],
+      "answer": 0
     },
     {
       "id": "f3sej-07-q12",
       "subtopicId": "f3sej-07-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why did the British demand one-tenth of Naning's produce?",
-        "bm": "Mengapakah British menuntut satu persepuluh hasil Naning?"
+        "en": "Haji Abdul Rahman Limbong opposed British land rules in Terengganu because…",
+        "bm": "Haji Abdul Rahman Limbong menentang peraturan tanah British di Terengganu kerana…"
       },
       "explanation": {
-        "en": "Naning had its own traditional rule and refused.",
-        "bm": "Naning mempunyai pemerintahan tradisional sendiri dan enggan."
+        "en": "He argued that land belonged to God and the people could work it.",
+        "bm": "Beliau berhujah bahawa tanah milik Allah dan rakyat berhak mengusahakannya."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "They regarded Naning as part of British Melaka",
-          "bm": "Mereka menganggap Naning sebahagian Melaka milik British"
+          "en": "permits and taxes were required to open and work land, which burdened farmers",
+          "bm": "permit dan cukai diperlukan untuk membuka dan mengusahakan tanah, yang membebankan petani"
         },
         {
-          "en": "Naning asked to pay",
-          "bm": "Naning meminta untuk membayar"
+          "en": "he wanted to sell land",
+          "bm": "beliau mahu menjual tanah"
         },
         {
-          "en": "It was a gift",
-          "bm": "Ia hadiah"
+          "en": "Siam ordered him",
+          "bm": "Siam mengarahkannya"
         },
         {
-          "en": "Siam demanded it",
-          "bm": "Siam menuntutnya"
+          "en": "he supported British rule",
+          "bm": "beliau menyokong pemerintahan British"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q13",
-      "subtopicId": "f3sej-07-03",
-      "type": "mcq",
+      "subtopicId": "f3sej-07-02",
+      "type": "multi",
       "prompt": {
-        "en": "Which leader resisted at Rundum in 1915?",
-        "bm": "Pemimpin manakah menentang di Rundum pada 1915?"
+        "en": "Select ALL ways Western administration affected local communities.",
+        "bm": "Pilih SEMUA cara pentadbiran Barat menjejaskan masyarakat tempatan."
       },
       "explanation": {
-        "en": "Antanom led the Murut people against forced labour and taxes.",
-        "bm": "Antanom memimpin masyarakat Murut menentang kerahan tenaga dan cukai."
+        "en": "These grievances led to resistance.",
+        "bm": "Rasa tidak puas hati ini membawa kepada penentangan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Antanom",
-          "bm": "Antanom"
+          "en": "New taxes and land laws",
+          "bm": "Cukai dan undang-undang tanah baharu"
         },
         {
-          "en": "Mat Salleh",
-          "bm": "Mat Salleh"
+          "en": "Chiefs lost traditional powers",
+          "bm": "Pembesar hilang kuasa tradisional"
         },
         {
-          "en": "Rentap",
-          "bm": "Rentap"
+          "en": "Local customs were ignored",
+          "bm": "Adat tempatan diabaikan"
         },
         {
-          "en": "Sharif Masahor",
-          "bm": "Sharif Masahor"
+          "en": "All taxes were abolished",
+          "bm": "Semua cukai dihapuskan"
         }
       ],
-      "answer": 0
+      "answer": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "id": "f3sej-07-q14",
-      "subtopicId": "f3sej-07-02",
-      "type": "mcq",
+      "subtopicId": "f3sej-07-04",
+      "type": "fill",
       "prompt": {
-        "en": "Why did Dato' Maharaja Lela oppose J.W.W. Birch?",
-        "bm": "Mengapakah Dato' Maharaja Lela menentang J.W.W. Birch?"
+        "en": "After resistance, some leaders were punished by being sent away from their homeland, known as being ______.",
+        "bm": "Selepas penentangan, sesetengah pemimpin dihukum dengan dihantar jauh dari tanah air, dikenali sebagai buang ______."
       },
       "explanation": {
-        "en": "Chiefs lost their income and authority.",
-        "bm": "Pembesar kehilangan pendapatan dan kuasa."
+        "en": "e.g. Haji Abdul Rahman Limbong was exiled to Mecca.",
+        "bm": "cth. Haji Abdul Rahman Limbong dibuang negeri ke Mekah."
+      },
+      "difficulty": 2,
+      "answer": [
+        "exiled",
+        "negeri"
+      ]
+    },
+    {
+      "id": "f3sej-07-q15",
+      "subtopicId": "f3sej-07-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "What happened to Sultan Abdullah of Perak after Birch's death?",
+        "bm": "Apakah yang berlaku kepada Sultan Abdullah Perak selepas kematian Birch?"
+      },
+      "explanation": {
+        "en": "Dato' Maharaja Lela was hanged.",
+        "bm": "Dato' Maharaja Lela dihukum gantung."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "Birch took over tax collection and ignored Malay customs",
-          "bm": "Birch mengambil alih pungutan cukai dan mengabaikan adat Melayu"
+          "en": "He was exiled to the Seychelles",
+          "bm": "Baginda dibuang negeri ke Seychelles"
         },
         {
-          "en": "Birch gave him more land",
-          "bm": "Birch memberinya lebih banyak tanah"
+          "en": "He became Resident",
+          "bm": "Baginda menjadi Residen"
         },
         {
-          "en": "Birch was from Siam",
-          "bm": "Birch berasal dari Siam"
+          "en": "He moved to Siam",
+          "bm": "Baginda berpindah ke Siam"
         },
         {
-          "en": "Birch built a school",
-          "bm": "Birch membina sekolah"
+          "en": "He was given more power",
+          "bm": "Baginda diberi lebih kuasa"
         }
       ],
       "answer": 0
-    },
-    {
-      "id": "f3sej-07-q15",
-      "subtopicId": "f3sej-07-03",
-      "type": "fill",
-      "prompt": {
-        "en": "Rentap's fort was at Bukit ______.",
-        "bm": "Kubu Rentap terletak di Bukit ______."
-      },
-      "explanation": {
-        "en": "Brooke forces attacked it several times before it fell.",
-        "bm": "Pasukan Brooke menyerangnya beberapa kali sebelum ia jatuh."
-      },
-      "difficulty": 2,
-      "answer": [
-        "Sadok"
-      ]
     },
     {
       "id": "f3sej-07-q16",
       "subtopicId": "f3sej-07-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why was most local resistance eventually defeated?",
-        "bm": "Mengapakah kebanyakan penentangan tempatan akhirnya tewas?"
+        "en": "Why did many leaders of resistance use religious or customary arguments?",
+        "bm": "Mengapakah ramai pemimpin penentangan menggunakan hujah agama atau adat?"
       },
       "explanation": {
-        "en": "Resistance was also local, not united across states.",
-        "bm": "Penentangan juga bersifat setempat, tidak bersatu antara negeri."
+        "en": "e.g. Tok Janggut and Abdul Rahman Limbong were religious figures.",
+        "bm": "cth. Tok Janggut dan Abdul Rahman Limbong ialah tokoh agama."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "The colonial powers had modern weapons and more troops",
-          "bm": "Kuasa kolonial mempunyai senjata moden dan lebih ramai tentera"
+          "en": "These were central to their identity and the British were seen to threaten them",
+          "bm": "Ia teras identiti mereka dan British dilihat mengancamnya"
         },
         {
-          "en": "The fighters gave up immediately",
-          "bm": "Pejuang menyerah serta-merta"
+          "en": "They wanted to please the British",
+          "bm": "Mereka mahu menyenangkan British"
         },
         {
-          "en": "There were no leaders",
-          "bm": "Tiada pemimpin"
+          "en": "They had no other reasons",
+          "bm": "Mereka tiada sebab lain"
         },
         {
-          "en": "The people supported the colonisers",
-          "bm": "Rakyat menyokong penjajah"
+          "en": "Religion was banned",
+          "bm": "Agama diharamkan"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q17",
-      "subtopicId": "f3sej-07-01",
+      "subtopicId": "f3sej-07-04",
       "type": "mcq",
       "prompt": {
-        "en": "What did early resistance and later nationalism have in common?",
-        "bm": "Apakah persamaan antara penentangan awal dan nasionalisme kemudian?"
+        "en": "Why did most local resistance fail?",
+        "bm": "Mengapakah kebanyakan penentangan tempatan gagal?"
       },
       "explanation": {
-        "en": "The methods differed, but the aim of freedom was shared.",
-        "bm": "Kaedahnya berbeza, tetapi matlamat kebebasan dikongsi."
+        "en": "Divide-and-rule tactics also helped the British.",
+        "bm": "Taktik pecah dan perintah juga membantu British."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Both aimed to defend the land and people from foreign control",
-          "bm": "Kedua-duanya bertujuan mempertahankan tanah air dan rakyat daripada kawalan asing"
+          "en": "The British had modern weapons and more troops, and resistance was local and not united",
+          "bm": "British mempunyai senjata moden dan lebih ramai tentera, dan penentangan bersifat setempat serta tidak bersatu"
         },
         {
-          "en": "Both used only negotiation",
-          "bm": "Kedua-duanya hanya menggunakan rundingan"
+          "en": "Local fighters did not want to win",
+          "bm": "Pejuang tempatan tidak mahu menang"
         },
         {
-          "en": "Both supported colonial rule",
-          "bm": "Kedua-duanya menyokong pemerintahan kolonial"
+          "en": "There were no leaders",
+          "bm": "Tiada pemimpin"
         },
         {
-          "en": "Neither had leaders",
-          "bm": "Kedua-duanya tiada pemimpin"
+          "en": "Siam helped the British",
+          "bm": "Siam membantu British"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q18",
-      "subtopicId": "f3sej-07-02",
+      "subtopicId": "f3sej-07-04",
       "type": "mcq",
       "prompt": {
-        "en": "Why are these fighters remembered as national heroes even though they lost?",
-        "bm": "Mengapakah para pejuang ini dikenang sebagai wira negara walaupun mereka tewas?"
+        "en": "What was the long-term significance of local resistance?",
+        "bm": "Apakah kepentingan jangka panjang penentangan tempatan?"
       },
       "explanation": {
-        "en": "Heroes are remembered for their values as well as results.",
-        "bm": "Wira dikenang kerana nilai mereka, bukan hanya hasilnya."
+        "en": "The fighters are remembered as national heroes.",
+        "bm": "Pejuang dikenang sebagai wira negara."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Their courage and sacrifice inspired later generations to fight for independence",
-          "bm": "Keberanian dan pengorbanan mereka menjadi inspirasi kepada generasi kemudian untuk memperjuangkan kemerdekaan"
+          "en": "It inspired later nationalists in the struggle for independence",
+          "bm": "Ia menjadi inspirasi kepada nasionalis kemudian dalam perjuangan kemerdekaan"
         },
         {
-          "en": "They won every battle",
-          "bm": "Mereka memenangi setiap pertempuran"
+          "en": "It ended British rule immediately",
+          "bm": "Ia menamatkan pemerintahan British serta-merta"
         },
         {
-          "en": "They were British officers",
-          "bm": "Mereka pegawai British"
+          "en": "It had no significance",
+          "bm": "Ia tiada kepentingan"
         },
         {
-          "en": "They supported foreign rule",
-          "bm": "Mereka menyokong pemerintahan asing"
+          "en": "It made people forget their history",
+          "bm": "Ia menyebabkan rakyat melupakan sejarah"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q19",
-      "subtopicId": "f3sej-07-01",
+      "subtopicId": "f3sej-07-02",
       "type": "mcq",
       "prompt": {
-        "en": "Which factor BEST explains why resistance happened at different times in different states?",
-        "bm": "Faktor manakah PALING menerangkan mengapa penentangan berlaku pada masa berbeza di negeri berbeza?"
+        "en": "Which statement BEST links Western administration to resistance?",
+        "bm": "Pernyataan manakah PALING tepat mengaitkan pentadbiran Barat dengan penentangan?"
       },
       "explanation": {
-        "en": "Naning resisted early (1831); Terengganu, which came under British control later, resisted in 1928.",
-        "bm": "Naning menentang awal (1831); Terengganu, yang dikuasai British kemudian, menentang pada 1928."
+        "en": "Cause and effect is key in history answers.",
+        "bm": "Sebab dan akibat penting dalam jawapan sejarah."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Each state came under Western control at a different time",
-          "bm": "Setiap negeri jatuh ke bawah kawalan Barat pada masa yang berbeza"
+          "en": "Changes to power, taxes, land and customs made local people feel their rights and dignity were threatened",
+          "bm": "Perubahan kuasa, cukai, tanah dan adat menyebabkan penduduk tempatan merasakan hak dan maruah mereka diancam"
         },
         {
-          "en": "Fighters were not brave",
-          "bm": "Pejuang tidak berani"
+          "en": "Western rule made everyone rich",
+          "bm": "Pemerintahan Barat menjadikan semua orang kaya"
         },
         {
-          "en": "Taxes were the same everywhere",
-          "bm": "Cukai sama di semua tempat"
+          "en": "Locals asked for more taxes",
+          "bm": "Penduduk tempatan meminta lebih banyak cukai"
         },
         {
-          "en": "All states were independent",
-          "bm": "Semua negeri merdeka"
+          "en": "Resistance had no causes",
+          "bm": "Penentangan tiada sebab"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-07-q20",
-      "subtopicId": "f3sej-07-03",
+      "subtopicId": "f3sej-07-01",
       "type": "mcq",
       "prompt": {
-        "en": "Compare the resistance of Mat Salleh with that of Tok Janggut.",
-        "bm": "Bandingkan penentangan Mat Salleh dengan Tok Janggut."
+        "en": "Which value is BEST shown by the local fighters?",
+        "bm": "Nilai manakah PALING ditunjukkan oleh pejuang tempatan?"
       },
       "explanation": {
-        "en": "Similar causes, different places and opponents.",
-        "bm": "Punca serupa, tempat dan lawan berbeza."
+        "en": "We can show patriotism today by serving our country.",
+        "bm": "Kita boleh menunjukkan patriotisme hari ini dengan berbakti kepada negara."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Both opposed new taxes and loss of local power; Mat Salleh fought a company in Sabah, Tok Janggut fought the British administration in Kelantan",
-          "bm": "Kedua-duanya menentang cukai baharu dan kehilangan kuasa tempatan; Mat Salleh melawan syarikat di Sabah, Tok Janggut melawan pentadbiran British di Kelantan"
+          "en": "Courage and love for the homeland",
+          "bm": "Keberanian dan cinta akan tanah air"
         },
         {
-          "en": "Both fought the Portuguese",
-          "bm": "Kedua-duanya melawan Portugis"
+          "en": "Greed",
+          "bm": "Tamak"
         },
         {
-          "en": "Both were in Sarawak",
-          "bm": "Kedua-duanya di Sarawak"
+          "en": "Laziness",
+          "bm": "Malas"
         },
         {
-          "en": "They supported each other directly",
-          "bm": "Mereka saling membantu secara langsung"
+          "en": "Selfishness",
+          "bm": "Mementingkan diri"
         }
       ],
       "answer": 0

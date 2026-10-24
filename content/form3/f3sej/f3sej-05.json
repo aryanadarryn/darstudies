@@ -3,76 +3,116 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "For about 100 years, Sarawak was ruled by an English family who called themselves \"White Rajahs\". Sabah, meanwhile, was run by a trading company. How did this happen?",
-      "bm": "Selama kira-kira 100 tahun, Sarawak diperintah oleh sebuah keluarga Inggeris yang menggelar diri mereka \"Raja Putih\". Sabah pula ditadbir oleh sebuah syarikat perdagangan. Bagaimanakah ini berlaku?"
+      "en": "For about a hundred years, Sarawak was ruled by an English family — the \"White Rajahs\" — while Sabah was run by a trading company for profit.",
+      "bm": "Selama kira-kira seratus tahun, Sarawak diperintah oleh sebuah keluarga Inggeris — \"Raja Putih\" — manakala Sabah ditadbir oleh sebuah syarikat perdagangan demi keuntungan."
     },
     "bigIdeas": [
       {
-        "en": "James Brooke became Rajah of Sarawak in 1841 after helping the Sultan of Brunei end a rebellion; the Brooke family ruled until 1946.",
-        "bm": "James Brooke menjadi Raja Sarawak pada 1841 selepas membantu Sultan Brunei menamatkan pemberontakan; keluarga Brooke memerintah hingga 1946."
+        "en": "Before Western rule, Sarawak was under the Brunei Sultanate; parts of Sabah were under Brunei and the Sulu Sultanate.",
+        "bm": "Sebelum pemerintahan Barat, Sarawak di bawah Kesultanan Brunei; sebahagian Sabah di bawah Brunei dan Kesultanan Sulu."
       },
       {
-        "en": "Sabah was administered by the British North Borneo Company from 1881.",
-        "bm": "Sabah ditadbir oleh Syarikat Borneo Utara British mulai 1881."
+        "en": "James Brooke became Rajah of Sarawak in 1841; the Brookes expanded Sarawak by taking more territory from Brunei.",
+        "bm": "James Brooke menjadi Raja Sarawak pada 1841; keluarga Brooke meluaskan Sarawak dengan mengambil lebih banyak wilayah daripada Brunei."
       },
       {
-        "en": "Local people resisted, e.g. Rentap and Sharif Masahor in Sarawak, Mat Salleh and Antanom in Sabah.",
-        "bm": "Penduduk tempatan menentang, cth. Rentap dan Sharif Masahor di Sarawak, Mat Salleh dan Antanom di Sabah."
+        "en": "The British North Borneo Company ruled Sabah from 1881 under a royal charter. Both became Crown Colonies in 1946.",
+        "bm": "Syarikat Borneo Utara British mentadbir Sabah mulai 1881 di bawah piagam diraja. Kedua-duanya menjadi Tanah Jajahan Mahkota pada 1946."
       }
     ],
     "infographic": {
-      "kind": "process",
+      "kind": "compare",
       "data": {
-        "steps": [
+        "headers": [
           {
-            "title": {
-              "en": "1841",
-              "bm": "1841"
-            },
-            "detail": {
-              "en": "James Brooke becomes Rajah of Sarawak",
-              "bm": "James Brooke menjadi Raja Sarawak"
-            }
+            "en": "Sarawak",
+            "bm": "Sarawak"
           },
           {
-            "title": {
-              "en": "1846",
-              "bm": "1846"
+            "en": "Sabah",
+            "bm": "Sabah"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Ruled by",
+              "bm": "Diperintah oleh"
             },
-            "detail": {
-              "en": "Labuan ceded to Britain",
-              "bm": "Labuan diserahkan kepada British"
-            }
+            "cells": [
+              {
+                "en": "Brooke family (White Rajahs)",
+                "bm": "Keluarga Brooke (Raja Putih)"
+              },
+              {
+                "en": "British North Borneo Company",
+                "bm": "Syarikat Borneo Utara British"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1868",
-              "bm": "1868"
+            "label": {
+              "en": "Began",
+              "bm": "Bermula"
             },
-            "detail": {
-              "en": "Charles Brooke becomes Rajah",
-              "bm": "Charles Brooke menjadi Raja"
-            }
+            "cells": [
+              {
+                "en": "1841 (James Brooke)",
+                "bm": "1841 (James Brooke)"
+              },
+              {
+                "en": "1881 (royal charter)",
+                "bm": "1881 (piagam diraja)"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1881",
-              "bm": "1881"
+            "label": {
+              "en": "Main aim",
+              "bm": "Matlamat utama"
             },
-            "detail": {
-              "en": "British North Borneo Company receives its charter for Sabah",
-              "bm": "Syarikat Borneo Utara British menerima piagam untuk Sabah"
-            }
+            "cells": [
+              {
+                "en": "Rule and expand the family's state",
+                "bm": "Memerintah dan meluaskan negeri keluarga"
+              },
+              {
+                "en": "Profit for shareholders",
+                "bm": "Keuntungan untuk pemegang saham"
+              }
+            ]
           },
           {
-            "title": {
-              "en": "1917",
-              "bm": "1917"
+            "label": {
+              "en": "Councils",
+              "bm": "Majlis"
             },
-            "detail": {
-              "en": "Charles Vyner Brooke becomes Rajah",
-              "bm": "Charles Vyner Brooke menjadi Raja"
-            }
+            "cells": [
+              {
+                "en": "Supreme Council (1855), Council Negri (1867)",
+                "bm": "Majlis Tertinggi (1855), Council Negri (1867)"
+              },
+              {
+                "en": "Court of Directors in London; Governor in Sabah",
+                "bm": "Lembaga Pengarah di London; Gabenor di Sabah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ended",
+              "bm": "Berakhir"
+            },
+            "cells": [
+              {
+                "en": "1946 — Crown Colony",
+                "bm": "1946 — Tanah Jajahan Mahkota"
+              },
+              {
+                "en": "1946 — Crown Colony",
+                "bm": "1946 — Tanah Jajahan Mahkota"
+              }
+            ]
           }
         ]
       }
@@ -84,54 +124,74 @@
           "bm": "Raja Putih"
         },
         "definition": {
-          "en": "The Brooke family who ruled Sarawak (1841–1946).",
-          "bm": "Keluarga Brooke yang memerintah Sarawak (1841–1946)."
+          "en": "The Brooke rulers of Sarawak: James, Charles and Charles Vyner Brooke.",
+          "bm": "Pemerintah Brooke di Sarawak: James, Charles dan Charles Vyner Brooke."
         }
       },
       {
         "term": {
-          "en": "British North Borneo Company",
-          "bm": "Syarikat Borneo Utara British (SBUB)"
+          "en": "Royal charter",
+          "bm": "Piagam diraja"
         },
         "definition": {
-          "en": "Chartered company that administered Sabah from 1881.",
-          "bm": "Syarikat berpiagam yang mentadbir Sabah mulai 1881."
+          "en": "Permission from the British Crown allowing a company to govern a territory.",
+          "bm": "Kebenaran daripada Kerajaan British yang membenarkan syarikat mentadbir sesuatu wilayah."
         }
       },
       {
         "term": {
-          "en": "Charter",
-          "bm": "Piagam"
+          "en": "Council Negri",
+          "bm": "Council Negri"
         },
         "definition": {
-          "en": "Official permission from the British government to govern a territory.",
-          "bm": "Kebenaran rasmi daripada kerajaan British untuk mentadbir sesebuah wilayah."
+          "en": "Sarawak's state council, first held in 1867.",
+          "bm": "Majlis negeri Sarawak yang pertama kali bersidang pada 1867."
+        }
+      },
+      {
+        "term": {
+          "en": "Division (Bahagian)",
+          "bm": "Bahagian"
+        },
+        "definition": {
+          "en": "An administrative region in Sarawak headed by a Resident.",
+          "bm": "Kawasan pentadbiran di Sarawak yang diketuai oleh Residen."
+        }
+      },
+      {
+        "term": {
+          "en": "Native chief",
+          "bm": "Ketua anak negeri"
+        },
+        "definition": {
+          "en": "Local leaders used by the Western administration to rule their communities.",
+          "bm": "Pemimpin tempatan yang digunakan oleh pentadbiran Barat untuk mentadbir masyarakat mereka."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "How did James Brooke gain power in Sarawak?",
-        "bm": "Bagaimanakah James Brooke memperoleh kuasa di Sarawak?"
+        "en": "How did James Brooke become Rajah of Sarawak?",
+        "bm": "Bagaimanakah James Brooke menjadi Raja Sarawak?"
       },
       "steps": [
         {
-          "en": "Sarawak was then under the Sultanate of Brunei, and local people had rebelled.",
-          "bm": "Sarawak ketika itu di bawah Kesultanan Brunei, dan penduduk tempatan memberontak."
+          "en": "There was a revolt against Brunei's rule in Sarawak.",
+          "bm": "Berlaku pemberontakan terhadap pemerintahan Brunei di Sarawak."
         },
         {
-          "en": "Brooke helped Raja Muda Hashim end the rebellion.",
-          "bm": "Brooke membantu Raja Muda Hashim menamatkan pemberontakan."
+          "en": "Brooke helped Pangeran Muda Hashim end the revolt.",
+          "bm": "Brooke membantu Pangeran Muda Hashim menamatkan pemberontakan itu."
         },
         {
-          "en": "In return he was made Rajah of Sarawak (1841).",
-          "bm": "Sebagai balasan beliau dilantik menjadi Raja Sarawak (1841)."
+          "en": "In return he was appointed Rajah in 1841.",
+          "bm": "Sebagai balasan, beliau dilantik sebagai Raja pada 1841."
         }
       ],
       "answer": {
-        "en": "Through help in ending a rebellion, rewarded with the title of Rajah.",
-        "bm": "Melalui bantuan menamatkan pemberontakan, dibalas dengan gelaran Raja."
+        "en": "By helping Brunei end a rebellion, in return for the governorship of Sarawak (1841).",
+        "bm": "Dengan membantu Brunei menamatkan pemberontakan, sebagai balasan untuk pemerintahan Sarawak (1841)."
       }
     }
   },
@@ -141,30 +201,30 @@
       "subtopicId": "f3sej-05-01",
       "type": "mcq",
       "prompt": {
-        "en": "Who became the first Brooke Rajah of Sarawak in 1841?",
-        "bm": "Siapakah Raja Brooke pertama Sarawak pada 1841?"
+        "en": "Before the Brookes, Sarawak was under the…",
+        "bm": "Sebelum pemerintahan Brooke, Sarawak berada di bawah…"
       },
       "explanation": {
-        "en": "He was followed by Charles Brooke (1868) and Charles Vyner Brooke (1917).",
-        "bm": "Beliau diikuti oleh Charles Brooke (1868) dan Charles Vyner Brooke (1917)."
+        "en": "Brunei appointed local chiefs to govern.",
+        "bm": "Brunei melantik pembesar tempatan untuk mentadbir."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "James Brooke",
-          "bm": "James Brooke"
+          "en": "Brunei Sultanate",
+          "bm": "Kesultanan Brunei"
         },
         {
-          "en": "Charles Brooke",
-          "bm": "Charles Brooke"
+          "en": "Johor Sultanate",
+          "bm": "Kesultanan Johor"
         },
         {
-          "en": "Charles Vyner Brooke",
-          "bm": "Charles Vyner Brooke"
+          "en": "Siamese kingdom",
+          "bm": "kerajaan Siam"
         },
         {
-          "en": "Francis Light",
-          "bm": "Francis Light"
+          "en": "Dutch",
+          "bm": "Belanda"
         }
       ],
       "answer": 0
@@ -174,26 +234,26 @@
       "subtopicId": "f3sej-05-01",
       "type": "mcq",
       "prompt": {
-        "en": "Before the Brookes, Sarawak was under the…",
-        "bm": "Sebelum keluarga Brooke, Sarawak di bawah…"
+        "en": "Parts of Sabah's east coast were under the…",
+        "bm": "Sebahagian pantai timur Sabah berada di bawah…"
       },
       "explanation": {
-        "en": "Brunei once controlled much of northern Borneo.",
-        "bm": "Brunei pernah menguasai sebahagian besar Borneo utara."
+        "en": "The west and north were under Brunei.",
+        "bm": "Bahagian barat dan utara di bawah Brunei."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Sultanate of Brunei",
-          "bm": "Kesultanan Brunei"
+          "en": "Sulu Sultanate",
+          "bm": "Kesultanan Sulu"
         },
         {
-          "en": "Sultanate of Johor",
-          "bm": "Kesultanan Johor"
+          "en": "Melaka Sultanate",
+          "bm": "Kesultanan Melaka"
         },
         {
-          "en": "Dutch",
-          "bm": "Belanda"
+          "en": "Kedah Sultanate",
+          "bm": "Kesultanan Kedah"
         },
         {
           "en": "Portuguese",
@@ -204,143 +264,91 @@
     },
     {
       "id": "f3sej-05-q03",
-      "subtopicId": "f3sej-05-01",
-      "type": "fill",
+      "subtopicId": "f3sej-05-02",
+      "type": "mcq",
       "prompt": {
-        "en": "The Brooke rulers of Sarawak were known as the White ______.",
-        "bm": "Pemerintah Brooke di Sarawak dikenali sebagai Raja ______."
+        "en": "James Brooke became Rajah of Sarawak in…",
+        "bm": "James Brooke menjadi Raja Sarawak pada…"
       },
       "explanation": {
-        "en": "The family ruled from 1841 until Sarawak became a Crown Colony in 1946.",
-        "bm": "Keluarga itu memerintah dari 1841 hingga Sarawak menjadi Tanah Jajahan Mahkota pada 1946."
+        "en": "He was the first White Rajah.",
+        "bm": "Beliau Raja Putih yang pertama."
       },
       "difficulty": 1,
-      "answer": [
-        "Rajahs",
-        "Rajah",
-        "Putih"
-      ]
+      "options": [
+        {
+          "en": "1841",
+          "bm": "1841"
+        },
+        {
+          "en": "1881",
+          "bm": "1881"
+        },
+        {
+          "en": "1946",
+          "bm": "1946"
+        },
+        {
+          "en": "1874",
+          "bm": "1874"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3sej-05-q04",
       "subtopicId": "f3sej-05-02",
       "type": "mcq",
       "prompt": {
-        "en": "Sabah was administered by which company from 1881?",
-        "bm": "Sabah ditadbir oleh syarikat manakah mulai 1881?"
+        "en": "Who ruled Sarawak after James Brooke, from 1868?",
+        "bm": "Siapakah yang memerintah Sarawak selepas James Brooke, mulai 1868?"
       },
       "explanation": {
-        "en": "It received a royal charter from Britain.",
-        "bm": "Ia menerima piagam diraja daripada Britain."
+        "en": "Charles Vyner Brooke followed in 1917.",
+        "bm": "Charles Vyner Brooke menyusul pada 1917."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "British North Borneo Company",
-          "bm": "Syarikat Borneo Utara British"
+          "en": "Charles Brooke",
+          "bm": "Charles Brooke"
         },
         {
-          "en": "East India Company",
-          "bm": "Syarikat Hindia Timur Inggeris"
+          "en": "Frank Swettenham",
+          "bm": "Frank Swettenham"
         },
         {
-          "en": "Dutch East India Company",
-          "bm": "Syarikat Hindia Timur Belanda"
+          "en": "Alfred Dent",
+          "bm": "Alfred Dent"
         },
         {
-          "en": "Petronas",
-          "bm": "Petronas"
+          "en": "Francis Light",
+          "bm": "Francis Light"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-05-q05",
-      "subtopicId": "f3sej-05-02",
+      "subtopicId": "f3sej-05-03",
       "type": "mcq",
       "prompt": {
-        "en": "Which fighter resisted the British North Borneo Company in Sabah (1894–1900)?",
-        "bm": "Pejuang manakah menentang Syarikat Borneo Utara British di Sabah (1894–1900)?"
+        "en": "Sabah was ruled by the British North Borneo Company from…",
+        "bm": "Sabah ditadbir oleh Syarikat Borneo Utara British mulai…"
       },
       "explanation": {
-        "en": "Mat Salleh built forts and resisted for years.",
-        "bm": "Mat Salleh membina kubu dan menentang bertahun-tahun."
+        "en": "It received a royal charter in 1881.",
+        "bm": "Ia menerima piagam diraja pada 1881."
       },
       "difficulty": 1,
       "options": [
-        {
-          "en": "Mat Salleh",
-          "bm": "Mat Salleh"
-        },
-        {
-          "en": "Rentap",
-          "bm": "Rentap"
-        },
-        {
-          "en": "Tok Janggut",
-          "bm": "Tok Janggut"
-        },
-        {
-          "en": "Dol Said",
-          "bm": "Dol Said"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-05-q06",
-      "subtopicId": "f3sej-05-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which Iban leader resisted Brooke rule in Sarawak?",
-        "bm": "Pemimpin Iban manakah menentang pemerintahan Brooke di Sarawak?"
-      },
-      "explanation": {
-        "en": "Rentap fought from his fort on Bukit Sadok.",
-        "bm": "Rentap berjuang dari kubunya di Bukit Sadok."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Rentap",
-          "bm": "Rentap"
-        },
-        {
-          "en": "Mat Salleh",
-          "bm": "Mat Salleh"
-        },
-        {
-          "en": "Antanom",
-          "bm": "Antanom"
-        },
-        {
-          "en": "Mat Kilau",
-          "bm": "Mat Kilau"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-05-q07",
-      "subtopicId": "f3sej-05-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Labuan was ceded to Britain in…",
-        "bm": "Labuan diserahkan kepada British pada…"
-      },
-      "explanation": {
-        "en": "It became a British coaling station.",
-        "bm": "Ia menjadi stesen arang batu British."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "1846",
-          "bm": "1846"
-        },
         {
           "en": "1881",
           "bm": "1881"
+        },
+        {
+          "en": "1841",
+          "bm": "1841"
         },
         {
           "en": "1909",
@@ -354,49 +362,99 @@
       "answer": 0
     },
     {
-      "id": "f3sej-05-q08",
-      "subtopicId": "f3sej-05-02",
+      "id": "f3sej-05-q06",
+      "subtopicId": "f3sej-05-03",
       "type": "mcq",
       "prompt": {
-        "en": "Antanom led a resistance in Sabah in 1915 at…",
-        "bm": "Antanom memimpin penentangan di Sabah pada 1915 di…"
+        "en": "The main aim of the British North Borneo Company was…",
+        "bm": "Matlamat utama Syarikat Borneo Utara British ialah…"
       },
       "explanation": {
-        "en": "The Murut people protested against forced labour and taxes.",
-        "bm": "Masyarakat Murut membantah kerahan tenaga dan cukai."
+        "en": "It collected taxes and exploited resources.",
+        "bm": "Ia memungut cukai dan mengeksploitasi sumber."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Rundum",
-          "bm": "Rundum"
+          "en": "profit for its shareholders",
+          "bm": "keuntungan untuk pemegang saham"
         },
         {
-          "en": "Kuching",
-          "bm": "Kuching"
+          "en": "spreading education only",
+          "bm": "menyebarkan pendidikan sahaja"
         },
         {
-          "en": "Sibu",
-          "bm": "Sibu"
+          "en": "freeing Sabah",
+          "bm": "memerdekakan Sabah"
         },
         {
-          "en": "Miri",
-          "bm": "Miri"
+          "en": "helping Siam",
+          "bm": "membantu Siam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-05-q07",
+      "subtopicId": "f3sej-05-04",
+      "type": "fill",
+      "prompt": {
+        "en": "Sarawak and Sabah became British Crown Colonies in ______.",
+        "bm": "Sarawak dan Sabah menjadi Tanah Jajahan Mahkota British pada ______."
+      },
+      "explanation": {
+        "en": "After the Japanese Occupation.",
+        "bm": "Selepas Pendudukan Jepun."
+      },
+      "difficulty": 1,
+      "answer": [
+        "1946"
+      ]
+    },
+    {
+      "id": "f3sej-05-q08",
+      "subtopicId": "f3sej-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sarawak was divided for administration into…",
+        "bm": "Sarawak dibahagikan untuk pentadbiran kepada…"
+      },
+      "explanation": {
+        "en": "Local chiefs helped run each area.",
+        "bm": "Ketua tempatan membantu mentadbir setiap kawasan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Divisions (Bahagian) headed by Residents",
+          "bm": "Bahagian yang diketuai Residen"
+        },
+        {
+          "en": "Straits Settlements",
+          "bm": "Negeri-negeri Selat"
+        },
+        {
+          "en": "Federated states",
+          "bm": "negeri bersekutu"
+        },
+        {
+          "en": "Provinces under Siam",
+          "bm": "wilayah di bawah Siam"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-05-q09",
-      "subtopicId": "f3sej-05-01",
+      "subtopicId": "f3sej-05-02",
       "type": "order",
       "prompt": {
-        "en": "Arrange the Brooke Rajahs in order.",
-        "bm": "Susun Raja-raja Brooke mengikut urutan."
+        "en": "Arrange the Brooke rulers in order.",
+        "bm": "Susun pemerintah Brooke mengikut urutan."
       },
       "explanation": {
-        "en": "1841 → 1868 → 1917.",
-        "bm": "1841 → 1868 → 1917."
+        "en": "1841 → 1868 → 1917 (ceded Sarawak in 1946).",
+        "bm": "1841 → 1868 → 1917 (menyerahkan Sarawak pada 1946)."
       },
       "difficulty": 2,
       "items": [
@@ -417,154 +475,220 @@
     {
       "id": "f3sej-05-q10",
       "subtopicId": "f3sej-05-02",
-      "type": "match",
-      "prompt": {
-        "en": "Match each fighter with the place of resistance.",
-        "bm": "Padankan pejuang dengan tempat penentangan."
-      },
-      "explanation": {
-        "en": "Resistance happened across Borneo.",
-        "bm": "Penentangan berlaku di seluruh Borneo."
-      },
-      "difficulty": 2,
-      "pairs": [
-        {
-          "left": {
-            "en": "Rentap",
-            "bm": "Rentap"
-          },
-          "right": {
-            "en": "Sarawak (Iban)",
-            "bm": "Sarawak (Iban)"
-          }
-        },
-        {
-          "left": {
-            "en": "Sharif Masahor",
-            "bm": "Sharif Masahor"
-          },
-          "right": {
-            "en": "Sarawak (Sarikei, Rajang area)",
-            "bm": "Sarawak (Sarikei, kawasan Rajang)"
-          }
-        },
-        {
-          "left": {
-            "en": "Mat Salleh",
-            "bm": "Mat Salleh"
-          },
-          "right": {
-            "en": "Sabah",
-            "bm": "Sabah"
-          }
-        },
-        {
-          "left": {
-            "en": "Antanom",
-            "bm": "Antanom"
-          },
-          "right": {
-            "en": "Sabah (Murut, Rundum)",
-            "bm": "Sabah (Murut, Rundum)"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f3sej-05-q11",
-      "subtopicId": "f3sej-05-01",
       "type": "mcq",
       "prompt": {
-        "en": "How did James Brooke become Rajah of Sarawak?",
-        "bm": "Bagaimanakah James Brooke menjadi Raja Sarawak?"
+        "en": "How did the Brookes expand Sarawak's territory?",
+        "bm": "Bagaimanakah keluarga Brooke meluaskan wilayah Sarawak?"
       },
       "explanation": {
-        "en": "Raja Muda Hashim acted for the Sultan of Brunei.",
-        "bm": "Raja Muda Hashim bertindak bagi pihak Sultan Brunei."
+        "en": "Brunei shrank as Sarawak grew.",
+        "bm": "Brunei semakin mengecil apabila Sarawak membesar."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "He helped Brunei's representative end a local rebellion and was rewarded",
-          "bm": "Beliau membantu wakil Brunei menamatkan pemberontakan tempatan dan diberi ganjaran"
+          "en": "By gaining more areas from Brunei, e.g. Baram (1882) and Limbang (1890)",
+          "bm": "Dengan memperoleh lebih banyak kawasan daripada Brunei, cth. Baram (1882) dan Limbang (1890)"
         },
         {
-          "en": "He bought it from Portugal",
-          "bm": "Beliau membelinya daripada Portugis"
+          "en": "By buying land from the Dutch",
+          "bm": "Dengan membeli tanah daripada Belanda"
         },
         {
-          "en": "He was elected by voters",
-          "bm": "Beliau dipilih oleh pengundi"
+          "en": "By joining the FMS",
+          "bm": "Dengan menyertai NNMB"
         },
         {
-          "en": "He won it in a war against Japan",
-          "bm": "Beliau memenanginya dalam perang menentang Jepun"
+          "en": "By treaties with Siam",
+          "bm": "Dengan perjanjian dengan Siam"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3sej-05-q12",
+      "id": "f3sej-05-q11",
       "subtopicId": "f3sej-05-02",
-      "type": "mcq",
+      "type": "match",
       "prompt": {
-        "en": "A chartered company like the British North Borneo Company governed mainly to…",
-        "bm": "Syarikat berpiagam seperti Syarikat Borneo Utara British mentadbir terutamanya untuk…"
+        "en": "Match each area with the year it became part of Sarawak.",
+        "bm": "Padankan kawasan dengan tahun ia menjadi sebahagian Sarawak."
       },
       "explanation": {
-        "en": "New taxes and forced labour led to local anger.",
-        "bm": "Cukai baharu dan kerahan tenaga menimbulkan kemarahan tempatan."
+        "en": "Trusan was added in 1885.",
+        "bm": "Trusan ditambah pada 1885."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Mukah and Bintulu",
+            "bm": "Mukah dan Bintulu"
+          },
+          "right": {
+            "en": "1861",
+            "bm": "1861"
+          }
+        },
+        {
+          "left": {
+            "en": "Baram",
+            "bm": "Baram"
+          },
+          "right": {
+            "en": "1882",
+            "bm": "1882"
+          }
+        },
+        {
+          "left": {
+            "en": "Limbang",
+            "bm": "Limbang"
+          },
+          "right": {
+            "en": "1890",
+            "bm": "1890"
+          }
+        },
+        {
+          "left": {
+            "en": "Lawas",
+            "bm": "Lawas"
+          },
+          "right": {
+            "en": "1905",
+            "bm": "1905"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f3sej-05-q12",
+      "subtopicId": "f3sej-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Baron von Overbeck and Alfred Dent obtained Sabah through…",
+        "bm": "Baron von Overbeck dan Alfred Dent memperoleh Sabah melalui…"
+      },
+      "explanation": {
+        "en": "Rights were later transferred to the chartered company.",
+        "bm": "Hak itu kemudian dipindahkan kepada syarikat berpiagam."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "make profit for its shareholders",
-          "bm": "mendapat keuntungan bagi pemegang sahamnya"
+          "en": "agreements with the Sultans of Brunei and Sulu (1877–1878)",
+          "bm": "perjanjian dengan Sultan Brunei dan Sultan Sulu (1877–1878)"
         },
         {
-          "en": "give independence to Sabah",
-          "bm": "memberi kemerdekaan kepada Sabah"
+          "en": "the London Treaty 1824",
+          "bm": "Perjanjian London 1824"
         },
         {
-          "en": "spread Malay culture",
-          "bm": "menyebarkan budaya Melayu"
+          "en": "the Bangkok Treaty 1909",
+          "bm": "Perjanjian Bangkok 1909"
         },
         {
-          "en": "protect Siam",
-          "bm": "melindungi Siam"
+          "en": "war with Siam",
+          "bm": "perang dengan Siam"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-05-q13",
-      "subtopicId": "f3sej-05-02",
-      "type": "multi",
+      "subtopicId": "f3sej-05-04",
+      "type": "mcq",
       "prompt": {
-        "en": "Select ALL causes of local resistance in Sabah.",
-        "bm": "Pilih SEMUA punca penentangan tempatan di Sabah."
+        "en": "The Council Negri of Sarawak first met in…",
+        "bm": "Council Negri Sarawak bersidang buat kali pertama pada…"
       },
       "explanation": {
-        "en": "Company rules disrupted traditional life.",
-        "bm": "Peraturan syarikat mengganggu kehidupan tradisional."
+        "en": "The Supreme Council was set up in 1855.",
+        "bm": "Majlis Tertinggi ditubuhkan pada 1855."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "New taxes",
-          "bm": "Cukai baharu"
+          "en": "1867",
+          "bm": "1867"
         },
         {
-          "en": "Forced labour",
-          "bm": "Kerahan tenaga"
+          "en": "1841",
+          "bm": "1841"
         },
         {
-          "en": "Interference with local leaders' power",
-          "bm": "Campur tangan dalam kuasa pemimpin tempatan"
+          "en": "1896",
+          "bm": "1896"
         },
         {
-          "en": "Free land given to everyone",
-          "bm": "Tanah percuma diberikan kepada semua"
+          "en": "1946",
+          "bm": "1946"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-05-q14",
+      "subtopicId": "f3sej-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "In Sabah, the company was run from London by a…",
+        "bm": "Di Sabah, syarikat itu ditadbir dari London oleh…"
+      },
+      "explanation": {
+        "en": "Residents ran the Residencies.",
+        "bm": "Residen mentadbir kawasan Residensi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Court of Directors, with a Governor in Sabah",
+          "bm": "Lembaga Pengarah, dengan Gabenor di Sabah"
+        },
+        {
+          "en": "Sultan",
+          "bm": "Sultan"
+        },
+        {
+          "en": "Resident-General",
+          "bm": "Residen Jeneral"
+        },
+        {
+          "en": "Council Negri",
+          "bm": "Council Negri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-05-q15",
+      "subtopicId": "f3sej-05-04",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of Western administration in Sarawak and Sabah.",
+        "bm": "Pilih SEMUA ciri pentadbiran Barat di Sarawak dan Sabah."
+      },
+      "explanation": {
+        "en": "Local chiefs such as penghulu helped keep order.",
+        "bm": "Ketua tempatan seperti penghulu membantu menjaga keamanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Use of local chiefs to manage communities",
+          "bm": "Penggunaan ketua tempatan untuk mengurus masyarakat"
+        },
+        {
+          "en": "Division into administrative areas under Residents",
+          "bm": "Pembahagian kawasan pentadbiran di bawah Residen"
+        },
+        {
+          "en": "New taxes and laws",
+          "bm": "Cukai dan undang-undang baharu"
+        },
+        {
+          "en": "Rule by the Sultan of Johor",
+          "bm": "Pemerintahan oleh Sultan Johor"
         }
       ],
       "answer": [
@@ -574,128 +698,95 @@
       ]
     },
     {
-      "id": "f3sej-05-q14",
+      "id": "f3sej-05-q16",
       "subtopicId": "f3sej-05-01",
       "type": "fill",
       "prompt": {
-        "en": "The Brooke family ruled Sarawak until it became a British Crown Colony in the year ______.",
-        "bm": "Keluarga Brooke memerintah Sarawak hingga ia menjadi Tanah Jajahan Mahkota British pada tahun ______."
+        "en": "Before 1841, James Brooke helped Pangeran Muda ______ end a revolt in Sarawak.",
+        "bm": "Sebelum 1841, James Brooke membantu Pangeran Muda ______ menamatkan pemberontakan di Sarawak."
       },
       "explanation": {
-        "en": "Charles Vyner Brooke ceded Sarawak to Britain.",
-        "bm": "Charles Vyner Brooke menyerahkan Sarawak kepada British."
+        "en": "Pangeran Muda Hashim was the representative of the Sultan of Brunei.",
+        "bm": "Pangeran Muda Hashim ialah wakil Sultan Brunei."
       },
       "difficulty": 2,
       "answer": [
-        "1946"
+        "Hashim"
       ]
-    },
-    {
-      "id": "f3sej-05-q15",
-      "subtopicId": "f3sej-05-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Rentap's fort was located at…",
-        "bm": "Kubu Rentap terletak di…"
-      },
-      "explanation": {
-        "en": "Brooke forces attacked it several times.",
-        "bm": "Pasukan Brooke menyerangnya beberapa kali."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Bukit Sadok",
-          "bm": "Bukit Sadok"
-        },
-        {
-          "en": "Pasir Salak",
-          "bm": "Pasir Salak"
-        },
-        {
-          "en": "Bukit Kepong",
-          "bm": "Bukit Kepong"
-        },
-        {
-          "en": "Kuala Kangsar",
-          "bm": "Kuala Kangsar"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-05-q16",
-      "subtopicId": "f3sej-05-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which statement about Sabah under the company is TRUE?",
-        "bm": "Pernyataan manakah BENAR tentang Sabah di bawah syarikat itu?"
-      },
-      "explanation": {
-        "en": "Sabah became a Crown Colony only in 1946.",
-        "bm": "Sabah hanya menjadi Tanah Jajahan Mahkota pada 1946."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "It was run by a company with a British charter, not directly by the British government",
-          "bm": "Ia ditadbir oleh syarikat berpiagam British, bukan terus oleh kerajaan British"
-        },
-        {
-          "en": "It was ruled by the Brookes",
-          "bm": "Ia diperintah keluarga Brooke"
-        },
-        {
-          "en": "It was part of the Straits Settlements",
-          "bm": "Ia sebahagian Negeri-negeri Selat"
-        },
-        {
-          "en": "It was ruled by Siam",
-          "bm": "Ia diperintah Siam"
-        }
-      ],
-      "answer": 0
     },
     {
       "id": "f3sej-05-q17",
       "subtopicId": "f3sej-05-01",
       "type": "mcq",
       "prompt": {
-        "en": "Why was the Brooke rule in Sarawak described as \"personal rule\"?",
-        "bm": "Mengapakah pemerintahan Brooke di Sarawak disifatkan sebagai \"pemerintahan peribadi\"?"
+        "en": "Why was Brunei unable to stop the Brookes from taking its territory?",
+        "bm": "Mengapakah Brunei tidak dapat menghalang keluarga Brooke daripada mengambil wilayahnya?"
       },
       "explanation": {
-        "en": "Unlike Sabah, Sarawak was ruled by a family dynasty.",
-        "bm": "Tidak seperti Sabah, Sarawak diperintah oleh dinasti keluarga."
+        "en": "Weak central control let outsiders gain power.",
+        "bm": "Kawalan pusat yang lemah membolehkan orang luar berkuasa."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Power passed within one family, and the Rajah made decisions himself",
-          "bm": "Kuasa diwarisi dalam satu keluarga, dan Raja membuat keputusan sendiri"
+          "en": "Brunei was weakened by internal conflicts and lacked military strength",
+          "bm": "Brunei lemah akibat konflik dalaman dan tiada kekuatan tentera"
         },
         {
-          "en": "It was elected every year",
-          "bm": "Ia dipilih setiap tahun"
+          "en": "Brunei wanted to lose land",
+          "bm": "Brunei mahu kehilangan tanah"
         },
         {
-          "en": "It was run by a company",
-          "bm": "Ia ditadbir oleh syarikat"
+          "en": "Siam ordered it",
+          "bm": "Siam memerintahkannya"
         },
         {
-          "en": "It was run by Siam",
-          "bm": "Ia ditadbir oleh Siam"
+          "en": "The Dutch helped the Brookes",
+          "bm": "Belanda membantu Brooke"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3sej-05-q18",
-      "subtopicId": "f3sej-05-02",
+      "subtopicId": "f3sej-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why might company rule in Sabah be harsher on local people than government rule?",
+        "bm": "Mengapakah pemerintahan syarikat di Sabah mungkin lebih membebankan penduduk tempatan berbanding pemerintahan kerajaan?"
+      },
+      "explanation": {
+        "en": "This led to resistance such as Mat Salleh's.",
+        "bm": "Ini membawa kepada penentangan seperti Mat Salleh."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A company's main goal was profit, so it raised taxes and exploited resources",
+          "bm": "Matlamat utama syarikat ialah keuntungan, jadi ia menaikkan cukai dan mengeksploitasi sumber"
+        },
+        {
+          "en": "Companies never collected taxes",
+          "bm": "Syarikat tidak pernah memungut cukai"
+        },
+        {
+          "en": "It had no officers",
+          "bm": "Ia tiada pegawai"
+        },
+        {
+          "en": "Local people ran the company",
+          "bm": "Penduduk tempatan mentadbir syarikat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3sej-05-q19",
+      "subtopicId": "f3sej-05-04",
       "type": "mcq",
       "prompt": {
         "en": "Compare Sarawak and Sabah under Western rule.",
-        "bm": "Bandingkan Sarawak dan Sabah di bawah pemerintahan Barat."
+        "bm": "Bandingkan Sarawak dengan Sabah di bawah pemerintahan Barat."
       },
       "explanation": {
         "en": "Both became Crown Colonies in 1946.",
@@ -704,53 +795,20 @@
       "difficulty": 3,
       "options": [
         {
-          "en": "Sarawak: ruled by the Brooke family; Sabah: ruled by a chartered company",
-          "bm": "Sarawak: diperintah keluarga Brooke; Sabah: diperintah syarikat berpiagam"
+          "en": "Sarawak: ruled by a family (Brookes); Sabah: ruled by a chartered company",
+          "bm": "Sarawak: diperintah keluarga (Brooke); Sabah: diperintah syarikat berpiagam"
         },
         {
-          "en": "Both by the Brookes",
-          "bm": "Kedua-duanya oleh Brooke"
+          "en": "Both ruled by Siam",
+          "bm": "Kedua-duanya diperintah Siam"
         },
         {
-          "en": "Both by the same company",
-          "bm": "Kedua-duanya oleh syarikat yang sama"
+          "en": "Both part of the FMS",
+          "bm": "Kedua-duanya sebahagian NNMB"
         },
         {
-          "en": "Sarawak by Siam; Sabah by Portugal",
-          "bm": "Sarawak oleh Siam; Sabah oleh Portugis"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3sej-05-q19",
-      "subtopicId": "f3sej-05-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "What do the struggles of Rentap and Mat Salleh show about the people of Sarawak and Sabah?",
-        "bm": "Apakah yang ditunjukkan oleh perjuangan Rentap dan Mat Salleh tentang penduduk Sarawak dan Sabah?"
-      },
-      "explanation": {
-        "en": "Their courage is part of Malaysia's national history.",
-        "bm": "Keberanian mereka sebahagian sejarah kebangsaan Malaysia."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "They were determined to defend their land and way of life",
-          "bm": "Mereka bertekad mempertahankan tanah dan cara hidup mereka"
-        },
-        {
-          "en": "They welcomed every foreign rule",
-          "bm": "Mereka mengalu-alukan semua pemerintahan asing"
-        },
-        {
-          "en": "They had no leaders",
-          "bm": "Mereka tiada pemimpin"
-        },
-        {
-          "en": "They supported forced labour",
-          "bm": "Mereka menyokong kerahan tenaga"
+          "en": "Sabah ruled by the Brookes",
+          "bm": "Sabah diperintah oleh Brooke"
         }
       ],
       "answer": 0
@@ -760,30 +818,30 @@
       "subtopicId": "f3sej-05-02",
       "type": "mcq",
       "prompt": {
-        "en": "Why are the histories of Sarawak and Sabah important to understanding Malaysia?",
-        "bm": "Mengapakah sejarah Sarawak dan Sabah penting untuk memahami Malaysia?"
+        "en": "Why did the Brookes keep Malay datu and local chiefs in their administration?",
+        "bm": "Mengapakah keluarga Brooke mengekalkan datu Melayu dan ketua tempatan dalam pentadbiran mereka?"
       },
       "explanation": {
-        "en": "Malaysia's story includes Borneo as well as the Peninsula.",
-        "bm": "Kisah Malaysia merangkumi Borneo dan Semenanjung."
+        "en": "Real power still lay with the Rajah.",
+        "bm": "Kuasa sebenar tetap di tangan Raja."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "They joined Malaya to form Malaysia in 1963, bringing their own histories and peoples",
-          "bm": "Kedua-duanya bergabung dengan Tanah Melayu membentuk Malaysia pada 1963, membawa sejarah dan masyarakat masing-masing"
+          "en": "To gain local support and rule cheaply through existing leaders",
+          "bm": "Untuk mendapat sokongan tempatan dan memerintah dengan murah melalui pemimpin sedia ada"
         },
         {
-          "en": "They were never part of Malaysia",
-          "bm": "Kedua-duanya tidak pernah sebahagian Malaysia"
+          "en": "Because they had no British officers at all",
+          "bm": "Kerana mereka langsung tiada pegawai British"
         },
         {
-          "en": "They share no history with Malaya",
-          "bm": "Tiada sejarah dikongsi dengan Tanah Melayu"
+          "en": "Brunei ordered it",
+          "bm": "Brunei memerintahkannya"
         },
         {
-          "en": "They were Dutch colonies",
-          "bm": "Kedua-duanya tanah jajahan Belanda"
+          "en": "To prepare for independence",
+          "bm": "Untuk persediaan kemerdekaan"
         }
       ],
       "answer": 0

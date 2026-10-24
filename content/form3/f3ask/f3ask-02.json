@@ -3,21 +3,21 @@
   "reviewed": false,
   "intro": {
     "hook": {
-      "en": "Three lines of Python can ask your name and greet you. A few more lines can grade a whole class's marks in a second.",
-      "bm": "Tiga baris Python boleh bertanya nama anda dan memberi salam. Beberapa baris lagi boleh menggred markah seluruh kelas dalam sesaat."
+      "en": "When you send a WhatsApp message, it is scrambled so that only the receiver can read it. That scrambling is cryptography.",
+      "bm": "Apabila anda menghantar mesej WhatsApp, ia dikacau supaya hanya penerima dapat membacanya. Proses itu ialah kriptografi."
     },
     "bigIdeas": [
       {
-        "en": "Variables store data; common types are int, float, str and bool.",
-        "bm": "Pemboleh ubah menyimpan data; jenis lazim ialah int, float, str dan bool."
+        "en": "Cryptography protects data by turning plain text into cipher text that others cannot read.",
+        "bm": "Kriptografi melindungi data dengan menukar teks biasa kepada teks sifer yang tidak dapat dibaca oleh orang lain."
       },
       {
-        "en": "input() always returns a string; use int() or float() to convert.",
-        "bm": "input() sentiasa memulangkan rentetan; gunakan int() atau float() untuk menukar."
+        "en": "Encryption turns plain text into cipher text; decryption turns it back using the key.",
+        "bm": "Penyulitan menukar teks biasa kepada teks sifer; nyahsulit menukarnya semula menggunakan kunci."
       },
       {
-        "en": "Python uses indentation to group code inside if, for and while.",
-        "bm": "Python menggunakan inden untuk mengumpulkan kod dalam if, for dan while."
+        "en": "Simple ciphers: reverse cipher, substitution ciphers (Caesar, Pigpen) and transposition ciphers.",
+        "bm": "Sifer mudah: sifer songsang, sifer penggantian (Caesar, Pigpen) dan sifer transposisi."
       }
     ],
     "infographic": {
@@ -25,8 +25,8 @@
       "data": {
         "headers": [
           {
-            "en": "Meaning",
-            "bm": "Maksud"
+            "en": "How it works",
+            "bm": "Cara berfungsi"
           },
           {
             "en": "Example",
@@ -36,81 +36,65 @@
         "rows": [
           {
             "label": {
-              "en": "+  −  *  /",
-              "bm": "+  −  *  /"
+              "en": "Reverse cipher",
+              "bm": "Sifer songsang"
             },
             "cells": [
               {
-                "en": "Add, subtract, multiply, divide",
-                "bm": "Tambah, tolak, darab, bahagi"
+                "en": "Write the message backwards",
+                "bm": "Tulis mesej secara terbalik"
               },
               {
-                "en": "7 / 2 → 3.5",
-                "bm": "7 / 2 → 3.5"
+                "en": "KOMPUTER → RETUPMOK",
+                "bm": "KOMPUTER → RETUPMOK"
               }
             ]
           },
           {
             "label": {
-              "en": "//",
-              "bm": "//"
+              "en": "Caesar cipher",
+              "bm": "Sifer Caesar"
             },
             "cells": [
               {
-                "en": "Floor (whole-number) division",
-                "bm": "Bahagi integer"
+                "en": "Shift each letter by a key (e.g. +3)",
+                "bm": "Anjakkan setiap huruf mengikut kunci (cth. +3)"
               },
               {
-                "en": "17 // 5 → 3",
-                "bm": "17 // 5 → 3"
+                "en": "BUKU → EXNX",
+                "bm": "BUKU → EXNX"
               }
             ]
           },
           {
             "label": {
-              "en": "%",
-              "bm": "%"
+              "en": "Pigpen cipher",
+              "bm": "Sifer Pigpen"
             },
             "cells": [
               {
-                "en": "Remainder (modulus)",
-                "bm": "Baki (modulus)"
+                "en": "Replace letters with grid symbols",
+                "bm": "Gantikan huruf dengan simbol grid"
               },
               {
-                "en": "17 % 5 → 2",
-                "bm": "17 % 5 → 2"
+                "en": "Letters become shapes",
+                "bm": "Huruf menjadi simbol"
               }
             ]
           },
           {
             "label": {
-              "en": "**",
-              "bm": "**"
+              "en": "Transposition cipher",
+              "bm": "Sifer transposisi"
             },
             "cells": [
               {
-                "en": "Power",
-                "bm": "Kuasa"
+                "en": "Rearrange letter positions",
+                "bm": "Susun semula kedudukan huruf"
               },
               {
-                "en": "2 ** 3 → 8",
-                "bm": "2 ** 3 → 8"
-              }
-            ]
-          },
-          {
-            "label": {
-              "en": "==  !=",
-              "bm": "==  !="
-            },
-            "cells": [
-              {
-                "en": "Equal / not equal",
-                "bm": "Sama / tidak sama"
-              },
-              {
-                "en": "5 == 5 → True",
-                "bm": "5 == 5 → True"
+                "en": "SEKOLAH → SKLHEOA",
+                "bm": "SEKOLAH → SKLHEOA"
               }
             ]
           }
@@ -120,84 +104,84 @@
     "keyTerms": [
       {
         "term": {
-          "en": "Variable",
-          "bm": "Pemboleh ubah"
+          "en": "Cryptography",
+          "bm": "Kriptografi"
         },
         "definition": {
-          "en": "A named place to store a value: score = 10.",
-          "bm": "Tempat bernama untuk menyimpan nilai: score = 10."
+          "en": "The study and practice of keeping information secret using codes.",
+          "bm": "Kajian dan amalan merahsiakan maklumat menggunakan kod."
         }
       },
       {
         "term": {
-          "en": "int / float",
-          "bm": "int / float"
+          "en": "Plain text",
+          "bm": "Teks biasa"
         },
         "definition": {
-          "en": "Whole number / decimal number.",
-          "bm": "Nombor bulat / nombor perpuluhan."
+          "en": "The original readable message.",
+          "bm": "Mesej asal yang boleh dibaca."
         }
       },
       {
         "term": {
-          "en": "str",
-          "bm": "str"
+          "en": "Cipher text",
+          "bm": "Teks sifer"
         },
         "definition": {
-          "en": "Text (string) in quotes: \"Malaysia\".",
-          "bm": "Teks (rentetan) dalam tanda petik: \"Malaysia\"."
+          "en": "The scrambled, unreadable message.",
+          "bm": "Mesej yang telah dikacau dan tidak boleh dibaca."
         }
       },
       {
         "term": {
-          "en": "bool",
-          "bm": "bool"
+          "en": "Encryption",
+          "bm": "Penyulitan"
         },
         "definition": {
-          "en": "True or False.",
-          "bm": "True atau False."
+          "en": "Converting plain text into cipher text.",
+          "bm": "Menukar teks biasa kepada teks sifer."
         }
       },
       {
         "term": {
-          "en": "Indentation",
-          "bm": "Inden"
+          "en": "Decryption",
+          "bm": "Nyahsulit"
         },
         "definition": {
-          "en": "Spaces at the start of a line that show which block it belongs to.",
-          "bm": "Ruang di awal baris yang menunjukkan blok kod."
+          "en": "Converting cipher text back into plain text.",
+          "bm": "Menukar teks sifer kembali kepada teks biasa."
         }
       },
       {
         "term": {
-          "en": "Syntax error",
-          "bm": "Ralat sintaks"
+          "en": "Key",
+          "bm": "Kunci"
         },
         "definition": {
-          "en": "Code that breaks the language rules, e.g. a missing colon.",
-          "bm": "Kod yang melanggar peraturan bahasa, cth. tertinggal titik bertindih."
+          "en": "The secret rule or value used to encrypt and decrypt, e.g. shift 3.",
+          "bm": "Peraturan atau nilai rahsia untuk menyulit dan menyahsulit, cth. anjakan 3."
         }
       }
     ],
     "formulaIds": [],
     "workedExample": {
       "question": {
-        "en": "What is printed? for i in range(3): print(i * 2)",
-        "bm": "Apakah yang dicetak? for i in range(3): print(i * 2)"
+        "en": "Encrypt \"BUKU\" with a Caesar cipher, key +3.",
+        "bm": "Sulitkan \"BUKU\" menggunakan sifer Caesar, kunci +3."
       },
       "steps": [
         {
-          "en": "range(3) gives 0, 1, 2.",
-          "bm": "range(3) memberi 0, 1, 2."
+          "en": "Shift each letter 3 places forward: B→E, U→X, K→N, U→X.",
+          "bm": "Anjakkan setiap huruf 3 tempat ke hadapan: B→E, U→X, K→N, U→X."
         },
         {
-          "en": "i * 2 gives 0, 2, 4.",
-          "bm": "i * 2 memberi 0, 2, 4."
+          "en": "After Z, wrap around to A.",
+          "bm": "Selepas Z, kembali ke A."
         }
       ],
       "answer": {
-        "en": "0, 2, 4 (each on a new line).",
-        "bm": "0, 2, 4 (setiap satu pada baris baharu)."
+        "en": "EXNX",
+        "bm": "EXNX"
       }
     }
   },
@@ -207,30 +191,30 @@
       "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which data type stores the value 3.14?",
-        "bm": "Jenis data manakah menyimpan nilai 3.14?"
+        "en": "Cryptography is used to…",
+        "bm": "Kriptografi digunakan untuk…"
       },
       "explanation": {
-        "en": "Decimal numbers are float.",
-        "bm": "Nombor perpuluhan ialah float."
+        "en": "e.g. online banking and messaging.",
+        "bm": "cth. perbankan dalam talian dan pemesejan."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "float",
-          "bm": "float"
+          "en": "keep data secret and secure",
+          "bm": "merahsiakan dan melindungi data"
         },
         {
-          "en": "int",
-          "bm": "int"
+          "en": "make data larger",
+          "bm": "membesarkan data"
         },
         {
-          "en": "str",
-          "bm": "str"
+          "en": "delete data",
+          "bm": "memadam data"
         },
         {
-          "en": "bool",
-          "bm": "bool"
+          "en": "print data",
+          "bm": "mencetak data"
         }
       ],
       "answer": 0
@@ -240,30 +224,30 @@
       "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "What type is \"25\" (with quotes)?",
-        "bm": "Apakah jenis \"25\" (dengan tanda petik)?"
+        "en": "Converting plain text into cipher text is called…",
+        "bm": "Menukar teks biasa kepada teks sifer dipanggil…"
       },
       "explanation": {
-        "en": "Anything in quotes is a string.",
-        "bm": "Apa sahaja dalam tanda petik ialah rentetan."
+        "en": "Decryption is the reverse.",
+        "bm": "Nyahsulit ialah prosesnya yang songsang."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "str",
-          "bm": "str"
+          "en": "encryption",
+          "bm": "penyulitan"
         },
         {
-          "en": "int",
-          "bm": "int"
+          "en": "decryption",
+          "bm": "nyahsulit"
         },
         {
-          "en": "float",
-          "bm": "float"
+          "en": "compression",
+          "bm": "pemampatan"
         },
         {
-          "en": "bool",
-          "bm": "bool"
+          "en": "sorting",
+          "bm": "isihan"
         }
       ],
       "answer": 0
@@ -273,30 +257,30 @@
       "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "input() returns a value of type…",
-        "bm": "input() memulangkan nilai jenis…"
+        "en": "The original readable message is called…",
+        "bm": "Mesej asal yang boleh dibaca dipanggil…"
       },
       "explanation": {
-        "en": "Convert with int(input()) for numbers.",
-        "bm": "Tukar dengan int(input()) untuk nombor."
+        "en": "After encryption it becomes cipher text.",
+        "bm": "Selepas disulitkan ia menjadi teks sifer."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "str",
-          "bm": "str"
+          "en": "plain text",
+          "bm": "teks biasa"
         },
         {
-          "en": "int",
-          "bm": "int"
+          "en": "cipher text",
+          "bm": "teks sifer"
         },
         {
-          "en": "float",
-          "bm": "float"
+          "en": "key",
+          "bm": "kunci"
         },
         {
-          "en": "bool",
-          "bm": "bool"
+          "en": "code error",
+          "bm": "ralat kod"
         }
       ],
       "answer": 0
@@ -304,113 +288,148 @@
     {
       "id": "f3ask-02-q04",
       "subtopicId": "f3ask-02-01",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "Which line displays text on the screen?",
-        "bm": "Baris manakah memaparkan teks pada skrin?"
+        "en": "Encrypt \"KOMPUTER\" using a reverse cipher.",
+        "bm": "Sulitkan \"KOMPUTER\" menggunakan sifer songsang."
       },
       "explanation": {
-        "en": "print() outputs data.",
-        "bm": "print() memaparkan data."
+        "en": "Write the letters in reverse order.",
+        "bm": "Tulis huruf mengikut susunan terbalik."
+      },
+      "difficulty": 1,
+      "answer": [
+        "RETUPMOK"
+      ]
+    },
+    {
+      "id": "f3ask-02-q05",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Caesar cipher is a type of…",
+        "bm": "Sifer Caesar ialah sejenis…"
+      },
+      "explanation": {
+        "en": "Each letter is replaced by another letter.",
+        "bm": "Setiap huruf digantikan dengan huruf lain."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "print(\"Hello\")",
-          "bm": "print(\"Hello\")"
+          "en": "substitution cipher",
+          "bm": "sifer penggantian"
         },
         {
-          "en": "input(\"Hello\")",
-          "bm": "input(\"Hello\")"
+          "en": "transposition cipher",
+          "bm": "sifer transposisi"
         },
         {
-          "en": "show \"Hello\"",
-          "bm": "show \"Hello\""
+          "en": "reverse cipher",
+          "bm": "sifer songsang"
         },
         {
-          "en": "display Hello",
-          "bm": "display Hello"
+          "en": "sorting algorithm",
+          "bm": "algoritma isihan"
         }
       ],
       "answer": 0
     },
     {
-      "id": "f3ask-02-q05",
-      "subtopicId": "f3ask-02-02",
-      "type": "numeric",
-      "prompt": {
-        "en": "What is the value of 17 // 5 in Python?",
-        "bm": "Apakah nilai 17 // 5 dalam Python?"
-      },
-      "explanation": {
-        "en": "// gives the whole-number part: 3.",
-        "bm": "// memberi bahagian nombor bulat: 3."
-      },
-      "difficulty": 1,
-      "answer": 3,
-      "tolerance": 0
-    },
-    {
       "id": "f3ask-02-q06",
-      "subtopicId": "f3ask-02-02",
-      "type": "numeric",
-      "prompt": {
-        "en": "What is the value of 17 % 5 in Python?",
-        "bm": "Apakah nilai 17 % 5 dalam Python?"
-      },
-      "explanation": {
-        "en": "% gives the remainder: 17 = 3 × 5 + 2.",
-        "bm": "% memberi baki: 17 = 3 × 5 + 2."
-      },
-      "difficulty": 1,
-      "answer": 2,
-      "tolerance": 0
-    },
-    {
-      "id": "f3ask-02-q07",
-      "subtopicId": "f3ask-02-02",
-      "type": "numeric",
-      "prompt": {
-        "en": "What is the value of 2 ** 3 in Python?",
-        "bm": "Apakah nilai 2 ** 3 dalam Python?"
-      },
-      "explanation": {
-        "en": "** is power: 2 × 2 × 2 = 8.",
-        "bm": "** ialah kuasa: 2 × 2 × 2 = 8."
-      },
-      "difficulty": 1,
-      "answer": 8,
-      "tolerance": 0
-    },
-    {
-      "id": "f3ask-02-q08",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which values does range(5) produce?",
-        "bm": "Apakah nilai yang dihasilkan oleh range(5)?"
+        "en": "The Pigpen cipher replaces letters with…",
+        "bm": "Sifer Pigpen menggantikan huruf dengan…"
       },
       "explanation": {
-        "en": "range(n) starts at 0 and stops before n.",
-        "bm": "range(n) bermula 0 dan berhenti sebelum n."
+        "en": "It is also a substitution cipher.",
+        "bm": "Ia juga sifer penggantian."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "0, 1, 2, 3, 4",
-          "bm": "0, 1, 2, 3, 4"
+          "en": "symbols from a grid",
+          "bm": "simbol daripada grid"
         },
         {
-          "en": "1, 2, 3, 4, 5",
-          "bm": "1, 2, 3, 4, 5"
+          "en": "numbers only",
+          "bm": "nombor sahaja"
         },
         {
-          "en": "0, 1, 2, 3, 4, 5",
-          "bm": "0, 1, 2, 3, 4, 5"
+          "en": "the same letters",
+          "bm": "huruf yang sama"
         },
         {
-          "en": "5",
-          "bm": "5"
+          "en": "emojis",
+          "bm": "emoji"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q07",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A transposition cipher…",
+        "bm": "Sifer transposisi…"
+      },
+      "explanation": {
+        "en": "The letters stay the same, only their order changes.",
+        "bm": "Huruf kekal sama, hanya susunannya berubah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rearranges the positions of the letters",
+          "bm": "menyusun semula kedudukan huruf"
+        },
+        {
+          "en": "replaces letters with numbers",
+          "bm": "menggantikan huruf dengan nombor"
+        },
+        {
+          "en": "deletes vowels",
+          "bm": "memadam huruf vokal"
+        },
+        {
+          "en": "adds random letters only",
+          "bm": "menambah huruf rawak sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f3ask-02-q08",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The secret value used to encrypt and decrypt a message is the…",
+        "bm": "Nilai rahsia yang digunakan untuk menyulit dan menyahsulit mesej ialah…"
+      },
+      "explanation": {
+        "en": "In a Caesar cipher the key is the shift.",
+        "bm": "Dalam sifer Caesar, kuncinya ialah anjakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "key",
+          "bm": "kunci"
+        },
+        {
+          "en": "plain text",
+          "bm": "teks biasa"
+        },
+        {
+          "en": "font",
+          "bm": "fon"
+        },
+        {
+          "en": "file name",
+          "bm": "nama fail"
         }
       ],
       "answer": 0
@@ -418,220 +437,171 @@
     {
       "id": "f3ask-02-q09",
       "subtopicId": "f3ask-02-01",
-      "type": "mcq",
+      "type": "fill",
       "prompt": {
-        "en": "age = input(\"Age: \") then print(age + 1) gives an error. Why?",
-        "bm": "age = input(\"Umur: \") kemudian print(age + 1) memberi ralat. Mengapa?"
+        "en": "Encrypt \"SAYA\" with a Caesar cipher, key +3.",
+        "bm": "Sulitkan \"SAYA\" dengan sifer Caesar, kunci +3."
       },
       "explanation": {
-        "en": "Fix: age = int(input(\"Age: \")).",
-        "bm": "Pembetulan: age = int(input(\"Umur: \"))."
+        "en": "S→V, A→D, Y→B (wrap after Z), A→D.",
+        "bm": "S→V, A→D, Y→B (kembali selepas Z), A→D."
       },
       "difficulty": 2,
-      "options": [
-        {
-          "en": "age is a string; it must be converted with int()",
-          "bm": "age ialah rentetan; ia mesti ditukar dengan int()"
-        },
-        {
-          "en": "print cannot show numbers",
-          "bm": "print tidak boleh memaparkan nombor"
-        },
-        {
-          "en": "1 is a string",
-          "bm": "1 ialah rentetan"
-        },
-        {
-          "en": "input() is not a Python function",
-          "bm": "input() bukan fungsi Python"
-        }
-      ],
-      "answer": 0
+      "answer": [
+        "VDBD"
+      ]
     },
     {
       "id": "f3ask-02-q10",
-      "subtopicId": "f3ask-02-02",
-      "type": "match",
+      "subtopicId": "f3ask-02-01",
+      "type": "fill",
       "prompt": {
-        "en": "Match each operator with its result for 9 and 4.",
-        "bm": "Padankan operator dengan hasilnya bagi 9 dan 4."
+        "en": "Decrypt \"IPUB\" which was encrypted with a Caesar cipher, key +1.",
+        "bm": "Nyahsulit \"IPUB\" yang disulitkan dengan sifer Caesar, kunci +1."
       },
       "explanation": {
-        "en": "Learn the difference between /, // and %.",
-        "bm": "Fahami perbezaan antara /, // dan %."
+        "en": "Shift each letter back by 1.",
+        "bm": "Anjakkan setiap huruf ke belakang sebanyak 1."
+      },
+      "difficulty": 2,
+      "answer": [
+        "HOTA"
+      ]
+    },
+    {
+      "id": "f3ask-02-q11",
+      "subtopicId": "f3ask-02-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Using a 2-row transposition (write letters in positions 1, 3, 5… then 2, 4, 6…), encrypt \"SEKOLAH\".",
+        "bm": "Menggunakan transposisi 2 baris (tulis huruf kedudukan 1, 3, 5… kemudian 2, 4, 6…), sulitkan \"SEKOLAH\"."
+      },
+      "explanation": {
+        "en": "S_K_L_H then E_O_A.",
+        "bm": "S_K_L_H kemudian E_O_A."
+      },
+      "difficulty": 2,
+      "answer": [
+        "SKLHEOA"
+      ]
+    },
+    {
+      "id": "f3ask-02-q12",
+      "subtopicId": "f3ask-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match each cipher with its method.",
+        "bm": "Padankan sifer dengan kaedahnya."
+      },
+      "explanation": {
+        "en": "Substitution changes letters; transposition changes order.",
+        "bm": "Penggantian menukar huruf; transposisi menukar susunan."
       },
       "difficulty": 2,
       "pairs": [
         {
           "left": {
-            "en": "9 // 4",
-            "bm": "9 // 4"
+            "en": "Reverse",
+            "bm": "Songsang"
           },
           "right": {
-            "en": "2",
-            "bm": "2"
+            "en": "Write the message backwards",
+            "bm": "Tulis mesej secara terbalik"
           }
         },
         {
           "left": {
-            "en": "9 % 4",
-            "bm": "9 % 4"
+            "en": "Caesar",
+            "bm": "Caesar"
           },
           "right": {
-            "en": "1",
-            "bm": "1"
+            "en": "Shift letters by a fixed number",
+            "bm": "Anjak huruf dengan nombor tetap"
           }
         },
         {
           "left": {
-            "en": "9 / 4",
-            "bm": "9 / 4"
+            "en": "Pigpen",
+            "bm": "Pigpen"
           },
           "right": {
-            "en": "2.25",
-            "bm": "2.25"
+            "en": "Swap letters for grid symbols",
+            "bm": "Tukar huruf kepada simbol grid"
           }
         },
         {
           "left": {
-            "en": "9 ** 2",
-            "bm": "9 ** 2"
+            "en": "Transposition",
+            "bm": "Transposisi"
           },
           "right": {
-            "en": "81",
-            "bm": "81"
+            "en": "Rearrange letter positions",
+            "bm": "Susun semula kedudukan huruf"
           }
         }
       ]
     },
     {
-      "id": "f3ask-02-q11",
-      "subtopicId": "f3ask-02-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "What does 5 == 5.0 evaluate to?",
-        "bm": "Apakah hasil 5 == 5.0?"
-      },
-      "explanation": {
-        "en": "The values are equal even though the types differ.",
-        "bm": "Nilainya sama walaupun jenis berbeza."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "True",
-          "bm": "True"
-        },
-        {
-          "en": "False",
-          "bm": "False"
-        },
-        {
-          "en": "Error",
-          "bm": "Error"
-        },
-        {
-          "en": "5",
-          "bm": "5"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "f3ask-02-q12",
-      "subtopicId": "f3ask-02-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which values does range(1, 6) produce?",
-        "bm": "Apakah nilai yang dihasilkan oleh range(1, 6)?"
-      },
-      "explanation": {
-        "en": "Start at 1, stop BEFORE 6.",
-        "bm": "Mula 1, berhenti SEBELUM 6."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "1, 2, 3, 4, 5",
-          "bm": "1, 2, 3, 4, 5"
-        },
-        {
-          "en": "1, 2, 3, 4, 5, 6",
-          "bm": "1, 2, 3, 4, 5, 6"
-        },
-        {
-          "en": "0, 1, 2, 3, 4, 5",
-          "bm": "0, 1, 2, 3, 4, 5"
-        },
-        {
-          "en": "2, 3, 4, 5, 6",
-          "bm": "2, 3, 4, 5, 6"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "f3ask-02-q13",
-      "subtopicId": "f3ask-02-03",
-      "type": "mcq",
+      "subtopicId": "f3ask-02-01",
+      "type": "order",
       "prompt": {
-        "en": "What is missing? if mark >= 40 print(\"Pass\")",
-        "bm": "Apakah yang tertinggal? if mark >= 40 print(\"Pass\")"
+        "en": "Arrange the steps of sending a secret message.",
+        "bm": "Susun langkah menghantar mesej rahsia."
       },
       "explanation": {
-        "en": "Correct: if mark >= 40:  then an indented print.",
-        "bm": "Betul: if mark >= 40:  kemudian print yang berinden."
+        "en": "Only people with the key can read it.",
+        "bm": "Hanya mereka yang mempunyai kunci boleh membacanya."
       },
       "difficulty": 2,
-      "options": [
+      "items": [
         {
-          "en": "A colon (:) after the condition and an indented block",
-          "bm": "Titik bertindih (:) selepas syarat dan blok berinden"
+          "en": "Write the plain text",
+          "bm": "Tulis teks biasa"
         },
         {
-          "en": "Quotes around mark",
-          "bm": "Tanda petik pada mark"
+          "en": "Encrypt with the key",
+          "bm": "Sulitkan dengan kunci"
         },
         {
-          "en": "A semicolon",
-          "bm": "Koma bertitik"
+          "en": "Send the cipher text",
+          "bm": "Hantar teks sifer"
         },
         {
-          "en": "Nothing",
-          "bm": "Tiada"
+          "en": "Receiver decrypts with the key",
+          "bm": "Penerima menyahsulit dengan kunci"
         }
-      ],
-      "answer": 0
+      ]
     },
     {
       "id": "f3ask-02-q14",
       "subtopicId": "f3ask-02-01",
       "type": "multi",
       "prompt": {
-        "en": "Select ALL valid Python variable names.",
-        "bm": "Pilih SEMUA nama pemboleh ubah Python yang sah."
+        "en": "Select ALL everyday uses of cryptography.",
+        "bm": "Pilih SEMUA kegunaan kriptografi dalam kehidupan harian."
       },
       "explanation": {
-        "en": "Names cannot start with a digit.",
-        "bm": "Nama tidak boleh bermula dengan digit."
+        "en": "Websites starting with https use encryption.",
+        "bm": "Laman web bermula dengan https menggunakan penyulitan."
       },
       "difficulty": 2,
       "options": [
         {
-          "en": "total_marks",
-          "bm": "total_marks"
+          "en": "Online banking",
+          "bm": "Perbankan dalam talian"
         },
         {
-          "en": "score2",
-          "bm": "score2"
+          "en": "Secure messaging apps",
+          "bm": "Aplikasi pemesejan selamat"
         },
         {
-          "en": "_count",
-          "bm": "_count"
+          "en": "Storing passwords safely",
+          "bm": "Menyimpan kata laluan dengan selamat"
         },
         {
-          "en": "2score",
-          "bm": "2score"
+          "en": "Printing a poster",
+          "bm": "Mencetak poster"
         }
       ],
       "answer": [
@@ -642,99 +612,132 @@
     },
     {
       "id": "f3ask-02-q15",
-      "subtopicId": "f3ask-02-03",
-      "type": "numeric",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
       "prompt": {
-        "en": "How many times does this loop print? for i in range(2, 10, 2): print(i)",
-        "bm": "Berapa kali gelung ini mencetak? for i in range(2, 10, 2): print(i)"
+        "en": "What is the main weakness of a Caesar cipher?",
+        "bm": "Apakah kelemahan utama sifer Caesar?"
       },
       "explanation": {
-        "en": "Values 2, 4, 6, 8 → 4 times.",
-        "bm": "Nilai 2, 4, 6, 8 → 4 kali."
+        "en": "Trying every shift (brute force) breaks it quickly.",
+        "bm": "Mencuba setiap anjakan (brute force) memecahkannya dengan cepat."
       },
       "difficulty": 2,
-      "answer": 4,
-      "tolerance": 0
+      "options": [
+        {
+          "en": "There are only 25 possible keys, so it is easy to crack",
+          "bm": "Hanya ada 25 kunci yang mungkin, jadi mudah dipecahkan"
+        },
+        {
+          "en": "It cannot be decrypted",
+          "bm": "Ia tidak boleh dinyahsulit"
+        },
+        {
+          "en": "It uses symbols",
+          "bm": "Ia menggunakan simbol"
+        },
+        {
+          "en": "It needs a computer",
+          "bm": "Ia memerlukan komputer"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3ask-02-q16",
-      "subtopicId": "f3ask-02-03",
-      "type": "fill",
+      "subtopicId": "f3ask-02-01",
+      "type": "mcq",
       "prompt": {
-        "en": "The keyword used for \"else if\" in Python is ______.",
-        "bm": "Kata kunci untuk \"else if\" dalam Python ialah ______."
+        "en": "Which cipher is the WEAKEST?",
+        "bm": "Sifer manakah PALING lemah?"
       },
       "explanation": {
-        "en": "if … elif … else.",
-        "bm": "if … elif … else."
+        "en": "Anyone can read a reversed message quickly.",
+        "bm": "Sesiapa sahaja boleh membaca mesej terbalik dengan cepat."
       },
       "difficulty": 2,
-      "answer": [
-        "elif"
-      ]
+      "options": [
+        {
+          "en": "Reverse cipher",
+          "bm": "Sifer songsang"
+        },
+        {
+          "en": "Caesar cipher with a secret key",
+          "bm": "Sifer Caesar dengan kunci rahsia"
+        },
+        {
+          "en": "A combination of substitution and transposition",
+          "bm": "Gabungan penggantian dan transposisi"
+        },
+        {
+          "en": "Modern encryption",
+          "bm": "Penyulitan moden"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "f3ask-02-q17",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "x = 0; while x < 3: x = x + 1. What is x after the loop?",
-        "bm": "x = 0; while x < 3: x = x + 1. Apakah nilai x selepas gelung?"
+        "en": "A club wants to send notices that only its members can read. Which choice is BEST?",
+        "bm": "Sebuah kelab mahu menghantar notis yang hanya boleh dibaca ahli. Pilihan manakah PALING sesuai?"
       },
       "explanation": {
-        "en": "x becomes 1, 2, 3; then 3 < 3 is False and the loop stops.",
-        "bm": "x menjadi 1, 2, 3; kemudian 3 < 3 False dan gelung berhenti."
+        "en": "Combining methods makes cracking harder.",
+        "bm": "Menggabungkan kaedah menjadikannya lebih sukar dipecahkan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "3",
-          "bm": "3"
+          "en": "Combine a Caesar shift with a transposition, and share the key only with members",
+          "bm": "Gabungkan anjakan Caesar dengan transposisi, dan kongsi kunci dengan ahli sahaja"
         },
         {
-          "en": "2",
-          "bm": "2"
+          "en": "Use a reverse cipher only",
+          "bm": "Gunakan sifer songsang sahaja"
         },
         {
-          "en": "4",
-          "bm": "4"
+          "en": "Post the key publicly",
+          "bm": "Siarkan kunci secara terbuka"
         },
         {
-          "en": "0",
-          "bm": "0"
+          "en": "Send plain text",
+          "bm": "Hantar teks biasa"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-02-q18",
-      "subtopicId": "f3ask-02-02",
+      "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "Which expression checks whether a number n is even?",
-        "bm": "Ungkapan manakah menyemak sama ada nombor n genap?"
+        "en": "Why must the key be kept secret?",
+        "bm": "Mengapakah kunci mesti dirahsiakan?"
       },
       "explanation": {
-        "en": "Even numbers leave remainder 0 when divided by 2.",
-        "bm": "Nombor genap berbaki 0 apabila dibahagi 2."
+        "en": "Security depends on protecting the key.",
+        "bm": "Keselamatan bergantung pada perlindungan kunci."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "n % 2 == 0",
-          "bm": "n % 2 == 0"
+          "en": "Anyone with the key can decrypt the message",
+          "bm": "Sesiapa yang mempunyai kunci boleh menyahsulit mesej"
         },
         {
-          "en": "n // 2 == 0",
-          "bm": "n // 2 == 0"
+          "en": "The key makes messages longer",
+          "bm": "Kunci memanjangkan mesej"
         },
         {
-          "en": "n / 2 == 1",
-          "bm": "n / 2 == 1"
+          "en": "Keys are not needed",
+          "bm": "Kunci tidak diperlukan"
         },
         {
-          "en": "n ** 2 == 0",
-          "bm": "n ** 2 == 0"
+          "en": "The key is the plain text",
+          "bm": "Kunci ialah teks biasa"
         }
       ],
       "answer": 0
@@ -744,63 +747,63 @@
       "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "What is printed? name = \"Ali\"; print(\"Hi \" + name * 2)",
-        "bm": "Apakah yang dicetak? name = \"Ali\"; print(\"Hi \" + name * 2)"
+        "en": "A message \"DSD\" was encrypted with an unknown Caesar shift. A friend guesses it means \"APA\". What is the key?",
+        "bm": "Mesej \"DSD\" disulitkan dengan anjakan Caesar yang tidak diketahui. Seorang kawan meneka maksudnya \"APA\". Apakah kuncinya?"
       },
       "explanation": {
-        "en": "Multiplying a string repeats it; * is done before +.",
-        "bm": "Mendarab rentetan mengulangnya; * dilakukan sebelum +."
+        "en": "A→D is a shift of 3 (and P→S also +3).",
+        "bm": "A→D ialah anjakan 3 (dan P→S juga +3)."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Hi AliAli",
-          "bm": "Hi AliAli"
+          "en": "+3",
+          "bm": "+3"
         },
         {
-          "en": "Hi Ali 2",
-          "bm": "Hi Ali 2"
+          "en": "+1",
+          "bm": "+1"
         },
         {
-          "en": "Error",
-          "bm": "Error"
+          "en": "+2",
+          "bm": "+2"
         },
         {
-          "en": "Hi Ali Ali",
-          "bm": "Hi Ali Ali"
+          "en": "+4",
+          "bm": "+4"
         }
       ],
       "answer": 0
     },
     {
       "id": "f3ask-02-q20",
-      "subtopicId": "f3ask-02-03",
+      "subtopicId": "f3ask-02-01",
       "type": "mcq",
       "prompt": {
-        "en": "mark = 75. if mark >= 80: g = \"A\" / elif mark >= 60: g = \"B\" / else: g = \"C\". What is g?",
-        "bm": "mark = 75. if mark >= 80: g = \"A\" / elif mark >= 60: g = \"B\" / else: g = \"C\". Apakah g?"
+        "en": "How does a transposition cipher differ from a substitution cipher when you count letters?",
+        "bm": "Bagaimanakah sifer transposisi berbeza daripada sifer penggantian apabila huruf dikira?"
       },
       "explanation": {
-        "en": "75 is not ≥ 80, but is ≥ 60 → \"B\".",
-        "bm": "75 tidak ≥ 80, tetapi ≥ 60 → \"B\"."
+        "en": "Letter frequency can hint which type was used.",
+        "bm": "Kekerapan huruf boleh membayangkan jenis yang digunakan."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "B",
-          "bm": "B"
+          "en": "Transposition keeps the same letters (only order changes); substitution changes the letters",
+          "bm": "Transposisi mengekalkan huruf yang sama (hanya susunan berubah); penggantian menukar huruf"
         },
         {
-          "en": "A",
-          "bm": "A"
+          "en": "Both change all letters",
+          "bm": "Kedua-duanya menukar semua huruf"
         },
         {
-          "en": "C",
-          "bm": "C"
+          "en": "Transposition removes letters",
+          "bm": "Transposisi membuang huruf"
         },
         {
-          "en": "Error",
-          "bm": "Error"
+          "en": "They are the same",
+          "bm": "Kedua-duanya sama"
         }
       ],
       "answer": 0

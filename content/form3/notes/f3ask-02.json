@@ -5,41 +5,21 @@
     "f3ask-02-01": {
       "keyPoints": [
         {
-          "en": "Types: int, float, str, bool. input() returns str — convert with int() or float().",
-          "bm": "Jenis: int, float, str, bool. input() memulangkan str — tukar dengan int() atau float()."
+          "en": "Cryptography protects data; encryption turns plain text into cipher text, decryption reverses it using the key.",
+          "bm": "Kriptografi melindungi data; penyulitan menukar teks biasa kepada teks sifer, nyahsulit menukarnya semula menggunakan kunci."
         },
         {
-          "en": "print() displays output. Variable names cannot start with a digit.",
-          "bm": "print() memaparkan output. Nama pemboleh ubah tidak boleh bermula dengan digit."
-        }
-      ]
-    },
-    "f3ask-02-02": {
-      "keyPoints": [
-        {
-          "en": "/ divide (3.5), // floor division (17 // 5 = 3), % remainder (17 % 5 = 2), ** power (2 ** 3 = 8).",
-          "bm": "/ bahagi (3.5), // bahagi integer (17 // 5 = 3), % baki (17 % 5 = 2), ** kuasa (2 ** 3 = 8)."
+          "en": "Reverse cipher (KOMPUTER → RETUPMOK); Caesar (shift letters, BUKU +3 → EXNX); Pigpen (grid symbols); transposition (rearrange order, SEKOLAH → SKLHEOA).",
+          "bm": "Sifer songsang (KOMPUTER → RETUPMOK); Caesar (anjak huruf, BUKU +3 → EXNX); Pigpen (simbol grid); transposisi (susun semula, SEKOLAH → SKLHEOA)."
         },
         {
-          "en": "Comparison: == != < > <= >=. Use = to assign, == to compare.",
-          "bm": "Perbandingan: == != < > <= >=. Gunakan = untuk umpukan, == untuk perbandingan."
-        }
-      ]
-    },
-    "f3ask-02-03": {
-      "keyPoints": [
-        {
-          "en": "if / elif / else need a colon and an indented block.",
-          "bm": "if / elif / else perlukan titik bertindih dan blok berinden."
-        },
-        {
-          "en": "range(5) → 0–4; range(1, 6) → 1–5; range(2, 10, 2) → 2, 4, 6, 8. while repeats until the condition is False.",
-          "bm": "range(5) → 0–4; range(1, 6) → 1–5; range(2, 10, 2) → 2, 4, 6, 8. while berulang sehingga syarat False."
+          "en": "Compare: reverse is weakest; Caesar has only 25 keys; combining methods and protecting the key makes ciphers stronger.",
+          "bm": "Perbandingan: songsang paling lemah; Caesar hanya 25 kunci; gabungan kaedah dan perlindungan kunci menjadikan sifer lebih kukuh."
         }
       ],
       "tip": {
-        "en": "Trace loops on paper, one line at a time.",
-        "bm": "Surih gelung di atas kertas, satu baris demi satu baris."
+        "en": "For Caesar, write the alphabet in a line and count the shift.",
+        "bm": "Untuk Caesar, tulis abjad dalam satu baris dan kira anjakan."
       }
     }
   }
