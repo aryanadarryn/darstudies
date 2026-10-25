@@ -11,6 +11,10 @@
     { "id": "addmath-08-f08", "subtopicId": "addmath-08-02", "front": { "en": "Non-parallel vectors: ha + kb = 0", "bm": "Vektor tidak selari: ha + kb = 0" }, "back": { "en": "Then h = 0 and k = 0", "bm": "Maka h = 0 dan k = 0" } },
     { "id": "addmath-08-f09", "subtopicId": "addmath-08-03", "front": { "en": "Magnitude of xi + yj", "bm": "Magnitud xi + yj" }, "back": { "en": "√(x² + y²)", "bm": "√(x² + y²)" } },
     { "id": "addmath-08-f10", "subtopicId": "addmath-08-03", "front": { "en": "Unit vector of r", "bm": "Vektor unit bagi r" }, "back": { "en": "r̂ = r/|r| = (xi + yj)/√(x² + y²)", "bm": "r̂ = r/|r| = (xi + yj)/√(x² + y²)" } },
-    { "id": "addmath-08-f11", "subtopicId": "addmath-08-03", "front": { "en": "Column vector form", "bm": "Bentuk vektor lajur" }, "back": { "en": "xi + yj = (x, y) written vertically", "bm": "xi + yj = (x, y) ditulis menegak" } }
+    { "id": "addmath-08-f11", "subtopicId": "addmath-08-03", "front": { "en": "Column vector form", "bm": "Bentuk vektor lajur" }, "back": { "en": "xi + yj = (x, y) written vertically", "bm": "xi + yj = (x, y) ditulis menegak" } },
+    { "id": "addmath-08-f12", "subtopicId": "addmath-08-01", "front": { "en": "Zero vector", "bm": "Vektor sifar" }, "back": { "en": "Magnitude 0 and no particular direction, e.g. AB + BA = 0", "bm": "Magnitud 0 dan tiada arah tertentu, cth. AB + BA = 0" } },
+    { "id": "addmath-08-f13", "subtopicId": "addmath-08-02", "front": { "en": "(2i + 3j) + (i − 5j)", "bm": "(2i + 3j) + (i − 5j)" }, "back": { "en": "3i − 2j", "bm": "3i − 2j" } },
+    { "id": "addmath-08-f14", "subtopicId": "addmath-08-03", "front": { "en": "|3i + 4j|", "bm": "|3i + 4j|" }, "back": { "en": "√(9 + 16) = 5", "bm": "√(9 + 16) = 5" } },
+    { "id": "addmath-08-f15", "subtopicId": "addmath-08-03", "front": { "en": "Unit vector in the direction of 6i − 8j", "bm": "Vektor unit dalam arah 6i − 8j" }, "back": { "en": "|6i − 8j| = 10 → 0.6i − 0.8j", "bm": "|6i − 8j| = 10 → 0.6i − 0.8j" } }
   ]
 }

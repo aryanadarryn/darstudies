@@ -10,6 +10,11 @@
     { "id": "addmath-05-f07", "subtopicId": "addmath-05-02", "front": { "en": "GP sum", "bm": "Hasil tambah JG" }, "back": { "en": "Sₙ = a(rⁿ − 1)/(r − 1) for r > 1; a(1 − rⁿ)/(1 − r) for r < 1", "bm": "Sₙ = a(rⁿ − 1)/(r − 1) bagi r > 1; a(1 − rⁿ)/(1 − r) bagi r < 1" } },
     { "id": "addmath-05-f08", "subtopicId": "addmath-05-02", "front": { "en": "Sum to infinity", "bm": "Hasil tambah hingga ketakterhinggaan" }, "back": { "en": "S∞ = a/(1 − r), only when −1 < r < 1", "bm": "S∞ = a/(1 − r), hanya apabila −1 < r < 1" } },
     { "id": "addmath-05-f09", "subtopicId": "addmath-05-02", "front": { "en": "Recurring decimal → fraction", "bm": "Perpuluhan berulang → pecahan" }, "back": { "en": "Write as a GP and use S∞, e.g. 0.333… = 0.3/(1 − 0.1) = 1/3", "bm": "Tulis sebagai JG dan guna S∞, cth. 0.333… = 0.3/(1 − 0.1) = 1/3" } },
-    { "id": "addmath-05-f10", "subtopicId": "addmath-05-02", "front": { "en": "Finding n in a GP", "bm": "Mencari n dalam JG" }, "back": { "en": "Use logarithms when n is in the index", "bm": "Guna logaritma apabila n dalam indeks" } }
+    { "id": "addmath-05-f10", "subtopicId": "addmath-05-02", "front": { "en": "Finding n in a GP", "bm": "Mencari n dalam JG" }, "back": { "en": "Use logarithms when n is in the index", "bm": "Guna logaritma apabila n dalam indeks" } },
+    { "id": "addmath-05-f11", "subtopicId": "addmath-05-01", "front": { "en": "AP or GP?", "bm": "JA atau JG?" }, "back": { "en": "AP: Tₙ₊₁ − Tₙ is constant. GP: Tₙ₊₁ ÷ Tₙ is constant", "bm": "JA: Tₙ₊₁ − Tₙ malar. JG: Tₙ₊₁ ÷ Tₙ malar" } },
+    { "id": "addmath-05-f12", "subtopicId": "addmath-05-01", "front": { "en": "T₁₀ of 3, 7, 11, …", "bm": "T₁₀ bagi 3, 7, 11, …" }, "back": { "en": "a = 3, d = 4 → T₁₀ = 3 + 9(4) = 39", "bm": "a = 3, d = 4 → T₁₀ = 3 + 9(4) = 39" } },
+    { "id": "addmath-05-f13", "subtopicId": "addmath-05-01", "front": { "en": "Sum of the first 20 positive integers", "bm": "Hasil tambah 20 integer positif pertama" }, "back": { "en": "S₂₀ = 20/2 × (1 + 20) = 210", "bm": "S₂₀ = 20/2 × (1 + 20) = 210" } },
+    { "id": "addmath-05-f14", "subtopicId": "addmath-05-02", "front": { "en": "T₆ of 2, 6, 18, …", "bm": "T₆ bagi 2, 6, 18, …" }, "back": { "en": "a = 2, r = 3 → T₆ = 2 × 3⁵ = 486", "bm": "a = 2, r = 3 → T₆ = 2 × 3⁵ = 486" } },
+    { "id": "addmath-05-f15", "subtopicId": "addmath-05-02", "front": { "en": "S∞ of 8 + 4 + 2 + …", "bm": "S∞ bagi 8 + 4 + 2 + …" }, "back": { "en": "a = 8, r = ½ → 8 ÷ (1 − ½) = 16", "bm": "a = 8, r = ½ → 8 ÷ (1 − ½) = 16" } }
   ]
 }

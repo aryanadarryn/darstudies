@@ -11,6 +11,10 @@
     { "id": "math-08-f08", "subtopicId": "math-08-02", "front": { "en": "Standard deviation", "bm": "Sisihan piawai" }, "back": { "en": "σ = √variance (same unit as data)", "bm": "σ = √varians (unit sama dengan data)" } },
     { "id": "math-08-f09", "subtopicId": "math-08-02", "front": { "en": "Add k to every value", "bm": "Tambah k kepada setiap nilai" }, "back": { "en": "Mean + k; range, IQR, SD unchanged", "bm": "Min + k; julat, JAK, sisihan piawai tidak berubah" } },
     { "id": "math-08-f10", "subtopicId": "math-08-02", "front": { "en": "Multiply every value by k", "bm": "Darab setiap nilai dengan k" }, "back": { "en": "Mean, range, SD × k; variance × k²", "bm": "Min, julat, sisihan piawai × k; varians × k²" } },
-    { "id": "math-08-f11", "subtopicId": "math-08-02", "front": { "en": "Box plot", "bm": "Plot kotak" }, "back": { "en": "Shows min, Q1, median, Q3, max", "bm": "Menunjukkan min, Q1, median, Q3, maks" } }
+    { "id": "math-08-f11", "subtopicId": "math-08-02", "front": { "en": "Box plot", "bm": "Plot kotak" }, "back": { "en": "Shows min, Q1, median, Q3, max", "bm": "Menunjukkan min, Q1, median, Q3, maks" } },
+    { "id": "math-08-f12", "subtopicId": "math-08-02", "front": { "en": "Range of 3, 7, 8, 12, 15", "bm": "Julat bagi 3, 7, 8, 12, 15" }, "back": { "en": "15 − 3 = 12", "bm": "15 − 3 = 12" } },
+    { "id": "math-08-f13", "subtopicId": "math-08-02", "front": { "en": "Variance of 2, 4, 6, 8", "bm": "Varians bagi 2, 4, 6, 8" }, "back": { "en": "Σx²/N − x̄² = 120/4 − 5² = 30 − 25 = 5 (so σ ≈ 2.24)", "bm": "Σx²/N − x̄² = 120/4 − 5² = 30 − 25 = 5 (jadi σ ≈ 2.24)" } },
+    { "id": "math-08-f14", "subtopicId": "math-08-02", "front": { "en": "Outlier", "bm": "Pencilan" }, "back": { "en": "A value far above or below the rest — it changes the range and SD a lot, the IQR very little", "bm": "Nilai yang jauh lebih tinggi atau rendah daripada yang lain — ia banyak mengubah julat dan sisihan piawai, tetapi sedikit sahaja julat antara kuartil" } },
+    { "id": "math-08-f15", "subtopicId": "math-08-01", "front": { "en": "Which of two players is more consistent?", "bm": "Antara dua pemain, siapa lebih konsisten?" }, "back": { "en": "The one with the smaller standard deviation (or IQR)", "bm": "Pemain dengan sisihan piawai (atau julat antara kuartil) yang lebih kecil" } }
   ]
 }

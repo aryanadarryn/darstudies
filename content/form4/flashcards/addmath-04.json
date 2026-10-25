@@ -12,6 +12,9 @@
     { "id": "addmath-04-f09", "subtopicId": "addmath-04-03", "front": { "en": "Power law & change of base", "bm": "Hukum kuasa & penukaran asas" }, "back": { "en": "log xⁿ = n log x; logₐ b = log b / log a", "bm": "log xⁿ = n log x; logₐ b = log b / log a" } },
     { "id": "addmath-04-f10", "subtopicId": "addmath-04-03", "front": { "en": "logₐ 1, logₐ a, logₐ (1/a)", "bm": "logₐ 1, logₐ a, logₐ (1/a)" }, "back": { "en": "0, 1, −1", "bm": "0, 1, −1" } },
     { "id": "addmath-04-f11", "subtopicId": "addmath-04-04", "front": { "en": "Solving aˣ = b", "bm": "Menyelesaikan aˣ = b" }, "back": { "en": "Same base → equate indices; otherwise x = log b / log a", "bm": "Asas sama → samakan indeks; jika tidak x = log b / log a" } },
-    { "id": "addmath-04-f12", "subtopicId": "addmath-04-04", "front": { "en": "Compound interest", "bm": "Faedah kompaun" }, "back": { "en": "A = P(1 + r)ⁿ — use logs to find n", "bm": "A = P(1 + r)ⁿ — guna log untuk mencari n" } }
+    { "id": "addmath-04-f12", "subtopicId": "addmath-04-04", "front": { "en": "Compound interest", "bm": "Faedah kompaun" }, "back": { "en": "A = P(1 + r)ⁿ — use logs to find n", "bm": "A = P(1 + r)ⁿ — guna log untuk mencari n" } },
+    { "id": "addmath-04-f13", "subtopicId": "addmath-04-01", "front": { "en": "Simplify 2³ × 2⁵ ÷ 2⁴", "bm": "Permudahkan 2³ × 2⁵ ÷ 2⁴" }, "back": { "en": "2⁸ ÷ 2⁴ = 2⁴ = 16", "bm": "2⁸ ÷ 2⁴ = 2⁴ = 16" } },
+    { "id": "addmath-04-f14", "subtopicId": "addmath-04-02", "front": { "en": "Simplify √50", "bm": "Permudahkan √50" }, "back": { "en": "√(25 × 2) = 5√2", "bm": "√(25 × 2) = 5√2" }, "tip": { "en": "Look for the largest square factor.", "bm": "Cari faktor kuasa dua terbesar." } },
+    { "id": "addmath-04-f15", "subtopicId": "addmath-04-03", "front": { "en": "Solve log₂ x = 5", "bm": "Selesaikan log₂ x = 5" }, "back": { "en": "x = 2⁵ = 32", "bm": "x = 2⁵ = 32" } }
   ]
 }

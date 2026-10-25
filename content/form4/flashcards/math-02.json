@@ -12,6 +12,9 @@
     { "id": "math-02-f09", "subtopicId": "math-02-01", "front": { "en": "1 + 1 in base 2", "bm": "1 + 1 dalam asas 2" }, "back": { "en": "10₂ (write 0, carry 1)", "bm": "10₂ (tulis 0, bawa 1)" } },
     { "id": "math-02-f10", "subtopicId": "math-02-01", "front": { "en": "Base x → base y (neither is 10)", "bm": "Asas x → asas y (kedua-duanya bukan 10)" }, "back": { "en": "Go through base 10 first (unless it's the 2 ↔ 8 shortcut)", "bm": "Tukar kepada asas 10 dahulu (kecuali jalan pintas 2 ↔ 8)" } },
     { "id": "math-02-f11", "subtopicId": "math-02-01", "front": { "en": "In any base, b⁰ = ?", "bm": "Dalam sebarang asas, b⁰ = ?" }, "back": { "en": "1 — the last digit is always the 'ones' place", "bm": "1 — digit terakhir sentiasa di tempat 'sa'" } },
-    { "id": "math-02-f12", "subtopicId": "math-02-01", "front": { "en": "Borrowing in base b subtraction", "bm": "Meminjam dalam penolakan asas b" }, "back": { "en": "Borrowing 1 from the next place gives b (not 10) to the current place", "bm": "Meminjam 1 dari tempat sebelah memberi b (bukan 10) kepada tempat semasa" } }
+    { "id": "math-02-f12", "subtopicId": "math-02-01", "front": { "en": "Borrowing in base b subtraction", "bm": "Meminjam dalam penolakan asas b" }, "back": { "en": "Borrowing 1 from the next place gives b (not 10) to the current place", "bm": "Meminjam 1 dari tempat sebelah memberi b (bukan 10) kepada tempat semasa" } },
+    { "id": "math-02-f13", "subtopicId": "math-02-01", "front": { "en": "Convert 1101₂ to base 10", "bm": "Tukar 1101₂ kepada asas 10" }, "back": { "en": "8 + 4 + 0 + 1 = 13", "bm": "8 + 4 + 0 + 1 = 13" } },
+    { "id": "math-02-f14", "subtopicId": "math-02-01", "front": { "en": "Convert 23 to base 5", "bm": "Tukar 23 kepada asas 5" }, "back": { "en": "23 ÷ 5 = 4 r 3; 4 ÷ 5 = 0 r 4 → 43₅", "bm": "23 ÷ 5 = 4 baki 3; 4 ÷ 5 = 0 baki 4 → 43₅" }, "tip": { "en": "Check: 4 × 5 + 3 = 23.", "bm": "Semak: 4 × 5 + 3 = 23." } },
+    { "id": "math-02-f15", "subtopicId": "math-02-01", "front": { "en": "Convert 57₈ to base 2", "bm": "Tukar 57₈ kepada asas 2" }, "back": { "en": "5 = 101, 7 = 111 → 101111₂", "bm": "5 = 101, 7 = 111 → 101111₂" } }
   ]
 }
