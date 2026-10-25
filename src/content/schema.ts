@@ -116,7 +116,11 @@ export const FormulasFileSchema = z.array(FormulaSchema)
 export type Formula = z.infer<typeof FormulaSchema>
 
 // ---- Flashcards (content/flashcards/<chapterId>.json) ----
-export const FlashcardSchema = z.object({ id: z.string(), subtopicId: z.string(), front: LangSchema, back: LangSchema })
+export const FlashcardSchema = z.object({
+  id: z.string(), subtopicId: z.string(), front: LangSchema, back: LangSchema,
+  /** Optional extras shown on the card: a clue before flipping, an example or use, and a memory hook. */
+  hint: LangSchema.optional(), example: LangSchema.optional(), tip: LangSchema.optional(),
+})
 export const FlashcardFileSchema = z.object({ chapterId: z.string(), cards: z.array(FlashcardSchema) })
 export type Flashcard = z.infer<typeof FlashcardSchema>
 
