@@ -1,17 +1,20 @@
 import { Link } from 'react-router-dom'
 import { PageHeader, Pill } from '../components/ui'
 import { chapterById, subjectById } from '../content'
+import { formOf } from '../content/ids'
 import { TOOLS } from '../content/toolIds'
+import FormSwitch, { useForm } from '../components/FormSwitch'
 import { useT } from '../i18n/useT'
 
 export default function ToolsPage() {
   const { t, L } = useT()
+  const form = useForm()
   return (
     <div>
-      <PageHeader back="/practice" title={`🧪 ${t('tools.title')}`} />
+      <PageHeader back="/practice" title={`🧪 ${t('tools.title')}`} right={<FormSwitch />} />
       <ul className="space-y-2 desk:grid desk:grid-cols-2 desk:gap-3 desk:space-y-0">
-        {TOOLS.map((tool) => {
-          const chips = tool.chapters.map((id) => {
+        {TOOLS.filter((tool) => tool.chapters.some((id) => formOf(id) === form)).map((tool) => {
+          const chips = tool.chapters.filter((id) => formOf(id) === form).map((id) => {
             const c = chapterById[id]
             return <Pill key={id} color={subjectById[c.subjectId].color}>{L(subjectById[c.subjectId].name)} {c.number}</Pill>
           })

@@ -66,7 +66,7 @@ export default function Practice() {
           <Link to="/practice/tools" className="text-sm font-semibold text-violet-700 dark:text-violet-300">→</Link>
         </div>
         <div className="grid grid-cols-2 gap-2 desk:grid-cols-3">
-          {TOOLS.filter((x) => x.built).map((tool) => (
+          {TOOLS.filter((x) => x.built && x.chapters.some((id) => formOf(id) === form)).map((tool) => (
             <Link key={tool.id} to={`/practice/tools/${tool.id}`} className="card !p-3 text-sm font-semibold">{L(tool.name)}</Link>
           ))}
         </div>
