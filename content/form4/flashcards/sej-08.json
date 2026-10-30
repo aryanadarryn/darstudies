@@ -51,6 +51,18 @@
     },
     {
       "id": "sej-08-f05",
+      "subtopicId": "sej-08-01",
+      "front": {
+        "en": "Importance of elections",
+        "bm": "Kepentingan pilihan raya"
+      },
+      "back": {
+        "en": "Democracy, legitimacy, path to independence",
+        "bm": "Demokrasi, kesahan, jalan ke arah kemerdekaan"
+      }
+    },
+    {
+      "id": "sej-08-f06",
       "subtopicId": "sej-08-02",
       "front": {
         "en": "First federal election",
@@ -59,18 +71,6 @@
       "back": {
         "en": "27 July 1955",
         "bm": "27 Julai 1955"
-      }
-    },
-    {
-      "id": "sej-08-f06",
-      "subtopicId": "sej-08-02",
-      "front": {
-        "en": "1955 seats",
-        "bm": "Kerusi 1955"
-      },
-      "back": {
-        "en": "52 elected (of 98); Alliance 51, PAS 1",
-        "bm": "52 dipilih (daripada 98); Perikatan 51, PAS 1"
       }
     },
     {
@@ -89,18 +89,6 @@
       "id": "sej-08-f08",
       "subtopicId": "sej-08-02",
       "front": {
-        "en": "Chief Minister 1955",
-        "bm": "Ketua Menteri 1955"
-      },
-      "back": {
-        "en": "Tunku Abdul Rahman",
-        "bm": "Tunku Abdul Rahman"
-      }
-    },
-    {
-      "id": "sej-08-f09",
-      "subtopicId": "sej-08-02",
-      "front": {
         "en": "PAS seat 1955",
         "bm": "Kerusi PAS 1955"
       },
@@ -110,7 +98,7 @@
       }
     },
     {
-      "id": "sej-08-f10",
+      "id": "sej-08-f09",
       "subtopicId": "sej-08-02",
       "front": {
         "en": "Parti Negara",
@@ -122,7 +110,7 @@
       }
     },
     {
-      "id": "sej-08-f11",
+      "id": "sej-08-f10",
       "subtopicId": "sej-08-02",
       "front": {
         "en": "Reasons Alliance won",
@@ -134,8 +122,8 @@
       }
     },
     {
-      "id": "sej-08-f12",
-      "subtopicId": "sej-08-03",
+      "id": "sej-08-f11",
+      "subtopicId": "sej-08-02",
       "front": {
         "en": "Sarawak first elections",
         "bm": "Pilihan raya pertama Sarawak"
@@ -146,8 +134,8 @@
       }
     },
     {
-      "id": "sej-08-f13",
-      "subtopicId": "sej-08-03",
+      "id": "sej-08-f12",
+      "subtopicId": "sej-08-02",
       "front": {
         "en": "Sabah first elections",
         "bm": "Pilihan raya pertama Sabah"
@@ -158,8 +146,8 @@
       }
     },
     {
-      "id": "sej-08-f14",
-      "subtopicId": "sej-08-03",
+      "id": "sej-08-f13",
+      "subtopicId": "sej-08-02",
       "front": {
         "en": "Secret ballot",
         "bm": "Undi rahsia"
@@ -170,15 +158,51 @@
       }
     },
     {
+      "id": "sej-08-f14",
+      "subtopicId": "sej-08-03",
+      "front": {
+        "en": "1955 seats",
+        "bm": "Kerusi 1955"
+      },
+      "back": {
+        "en": "52 elected (of 98); Alliance 51, PAS 1",
+        "bm": "52 dipilih (daripada 98); Perikatan 51, PAS 1"
+      }
+    },
+    {
       "id": "sej-08-f15",
       "subtopicId": "sej-08-03",
       "front": {
-        "en": "Importance of elections",
-        "bm": "Kepentingan pilihan raya"
+        "en": "Legislative Council 1948 vs 1955",
+        "bm": "Majlis Perundangan 1948 lwn 1955"
       },
       "back": {
-        "en": "Democracy, legitimacy, path to independence",
-        "bm": "Demokrasi, kesahan, jalan ke arah kemerdekaan"
+        "en": "1948: 75, all appointed. 1955: 98, of whom 52 elected",
+        "bm": "1948: 75, semua dilantik. 1955: 98, 52 daripadanya dipilih"
+      }
+    },
+    {
+      "id": "sej-08-f16",
+      "subtopicId": "sej-08-04",
+      "front": {
+        "en": "Chief Minister 1955",
+        "bm": "Ketua Menteri 1955"
+      },
+      "back": {
+        "en": "Tunku Abdul Rahman",
+        "bm": "Tunku Abdul Rahman"
+      }
+    },
+    {
+      "id": "sej-08-f17",
+      "subtopicId": "sej-08-04",
+      "front": {
+        "en": "First cabinet (1955)",
+        "bm": "Kabinet pertama (1955)"
+      },
+      "back": {
+        "en": "Tunku (Chief Minister, Home Affairs), Razak (Education), Dr Ismail (Natural Resources)",
+        "bm": "Tunku (Ketua Menteri, Hal Ehwal Dalam Negeri), Razak (Pelajaran), Dr Ismail (Sumber Asli)"
       }
     }
   ]

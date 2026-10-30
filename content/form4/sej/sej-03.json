@@ -167,37 +167,37 @@
       "subtopicId": "sej-03-01",
       "type": "mcq",
       "prompt": {
-        "en": "World War II took place from…",
-        "bm": "Perang Dunia Kedua berlaku dari…"
+        "en": "Which association, founded in 1938, openly opposed colonial rule before World War II?",
+        "bm": "Persatuan yang manakah, ditubuhkan pada 1938, menentang penjajahan secara terbuka sebelum Perang Dunia Kedua?"
       },
       "explanation": {
-        "en": "WWII began in Europe in 1939 and ended in 1945.",
-        "bm": "Perang Dunia Kedua bermula di Eropah pada 1939 dan berakhir pada 1945."
+        "en": "KMM, led by Ibrahim Yaacob, was the first openly anti-colonial Malay association.",
+        "bm": "KMM, dipimpin Ibrahim Yaacob, ialah persatuan Melayu pertama yang anti-penjajah secara terbuka."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "1939 – 1945",
-          "bm": "1939 – 1945"
+          "en": "Kesatuan Melayu Muda (KMM)",
+          "bm": "Kesatuan Melayu Muda (KMM)"
         },
         {
-          "en": "1914 – 1918",
-          "bm": "1914 – 1918"
+          "en": "UMNO",
+          "bm": "UMNO"
         },
         {
-          "en": "1948 – 1960",
-          "bm": "1948 – 1960"
+          "en": "MCA",
+          "bm": "MCA"
         },
         {
-          "en": "1941 – 1957",
-          "bm": "1941 – 1957"
+          "en": "Malayan Union",
+          "bm": "Malayan Union"
         }
       ],
       "answer": 0
     },
     {
       "id": "sej-03-q02",
-      "subtopicId": "sej-03-01",
+      "subtopicId": "sej-03-02",
       "type": "mcq",
       "prompt": {
         "en": "World War I took place from…",
@@ -233,30 +233,30 @@
       "subtopicId": "sej-03-02",
       "type": "mcq",
       "prompt": {
-        "en": "Where did Japanese troops first land in Malaya?",
-        "bm": "Di manakah tentera Jepun mula-mula mendarat di Tanah Melayu?"
+        "en": "The assassination that sparked World War I happened in…",
+        "bm": "Pembunuhan yang mencetuskan Perang Dunia Pertama berlaku di…"
       },
       "explanation": {
-        "en": "They landed at Kota Bharu, Kelantan, on 8 December 1941.",
-        "bm": "Mereka mendarat di Kota Bharu, Kelantan, pada 8 Disember 1941."
+        "en": "Archduke Franz Ferdinand was killed in Sarajevo on 28 June 1914.",
+        "bm": "Archduke Franz Ferdinand dibunuh di Sarajevo pada 28 Jun 1914."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Kota Bharu",
-          "bm": "Kota Bharu"
+          "en": "Sarajevo",
+          "bm": "Sarajevo"
         },
         {
-          "en": "Port Dickson",
-          "bm": "Port Dickson"
+          "en": "Versailles",
+          "bm": "Versailles"
         },
         {
-          "en": "Melaka",
-          "bm": "Melaka"
+          "en": "Berlin",
+          "bm": "Berlin"
         },
         {
-          "en": "Kuantan",
-          "bm": "Kuantan"
+          "en": "Pearl Harbor",
+          "bm": "Pearl Harbor"
         }
       ],
       "answer": 0
@@ -264,86 +264,98 @@
     {
       "id": "sej-03-q04",
       "subtopicId": "sej-03-02",
-      "type": "fill",
+      "type": "mcq",
       "prompt": {
-        "en": "Under Japanese rule, Singapore was renamed ______.",
-        "bm": "Semasa pendudukan Jepun, Singapura dinamakan ______."
+        "en": "How did World War I affect our country?",
+        "bm": "Bagaimanakah Perang Dunia Pertama memberi kesan kepada negara kita?"
       },
       "explanation": {
-        "en": "Syonan-to means \"Light of the South\".",
-        "bm": "Syonan-to bermaksud \"Cahaya Selatan\"."
+        "en": "In 1914 the German cruiser Emden raided Penang; the war also raised demand for our raw materials.",
+        "bm": "Pada 1914 kapal penjelajah Jerman Emden menyerang Pulau Pinang; perang juga meningkatkan permintaan bahan mentah kita."
       },
-      "difficulty": 1,
-      "answer": [
-        "Syonan-to",
-        "Syonanto",
-        "Syonan",
-        "Shonan-to",
-        "Shonanto"
-      ]
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The Emden attacked Penang and demand for rubber and tin rose",
+          "bm": "Emden menyerang Pulau Pinang dan permintaan getah serta bijih timah meningkat"
+        },
+        {
+          "en": "Japan occupied Malaya",
+          "bm": "Jepun menduduki Tanah Melayu"
+        },
+        {
+          "en": "The Malayan Union was formed",
+          "bm": "Malayan Union dibentuk"
+        },
+        {
+          "en": "Malaya became independent",
+          "bm": "Tanah Melayu merdeka"
+        }
+      ],
+      "answer": 0
     },
     {
       "id": "sej-03-q05",
-      "subtopicId": "sej-03-02",
+      "subtopicId": "sej-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "The feared Japanese military police were called the…",
-        "bm": "Polis tentera Jepun yang digeruni dipanggil…"
+        "en": "World War II took place from…",
+        "bm": "Perang Dunia Kedua berlaku dari…"
       },
       "explanation": {
-        "en": "The Kempeitai arrested, tortured and killed suspected enemies.",
-        "bm": "Kempeitai menangkap, menyeksa dan membunuh mereka yang disyaki musuh."
+        "en": "WWII began in Europe in 1939 and ended in 1945.",
+        "bm": "Perang Dunia Kedua bermula di Eropah pada 1939 dan berakhir pada 1945."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "Kempeitai",
-          "bm": "Kempeitai"
+          "en": "1939 – 1945",
+          "bm": "1939 – 1945"
         },
         {
-          "en": "MPAJA",
-          "bm": "MPAJA"
+          "en": "1914 – 1918",
+          "bm": "1914 – 1918"
         },
         {
-          "en": "Force 136",
-          "bm": "Force 136"
+          "en": "1948 – 1960",
+          "bm": "1948 – 1960"
         },
         {
-          "en": "Wataniah",
-          "bm": "Wataniah"
+          "en": "1941 – 1957",
+          "bm": "1941 – 1957"
         }
       ],
       "answer": 0
     },
     {
       "id": "sej-03-q06",
-      "subtopicId": "sej-03-02",
+      "subtopicId": "sej-03-03",
       "type": "mcq",
       "prompt": {
-        "en": "Singapore fell to Japan on…",
-        "bm": "Singapura jatuh ke tangan Jepun pada…"
+        "en": "World War II in Europe began when Germany invaded…",
+        "bm": "Perang Dunia Kedua di Eropah bermula apabila Jerman menyerang…"
       },
       "explanation": {
-        "en": "The British surrendered Singapore on 15 February 1942.",
-        "bm": "British menyerahkan Singapura pada 15 Februari 1942."
+        "en": "Germany invaded Poland on 1 September 1939; Britain and France declared war two days later.",
+        "bm": "Jerman menyerang Poland pada 1 September 1939; Britain dan Perancis mengisytiharkan perang dua hari kemudian."
       },
       "difficulty": 1,
       "options": [
         {
-          "en": "15 February 1942",
-          "bm": "15 February 1942"
+          "en": "Poland",
+          "bm": "Poland"
         },
         {
-          "en": "8 December 1941",
-          "bm": "8 December 1941"
+          "en": "France",
+          "bm": "France"
         },
         {
-          "en": "15 August 1945",
-          "bm": "15 August 1945"
+          "en": "Russia",
+          "bm": "Russia"
         },
         {
-          "en": "31 August 1957",
-          "bm": "31 August 1957"
+          "en": "Britain",
+          "bm": "Britain"
         }
       ],
       "answer": 0
@@ -351,6 +363,43 @@
     {
       "id": "sej-03-q07",
       "subtopicId": "sej-03-03",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL causes of World War II in Europe.",
+        "bm": "Pilih SEMUA punca Perang Dunia Kedua di Eropah."
+      },
+      "explanation": {
+        "en": "These three factors are the textbook's causes of WWII in Europe.",
+        "bm": "Tiga faktor ini ialah punca PD2 di Eropah dalam buku teks."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rise of fascism and Nazism",
+          "bm": "Kemunculan fasisme dan Nazisme"
+        },
+        {
+          "en": "Anger at the Treaty of Versailles",
+          "bm": "Ketidakpuasan hati terhadap Perjanjian Versailles"
+        },
+        {
+          "en": "Failure of the League of Nations",
+          "bm": "Kegagalan Liga Bangsa"
+        },
+        {
+          "en": "The Malayan Union",
+          "bm": "Malayan Union"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sej-03-q08",
+      "subtopicId": "sej-03-04",
       "type": "mcq",
       "prompt": {
         "en": "Japan surrendered after atomic bombs were dropped on…",
@@ -382,25 +431,107 @@
       "answer": 0
     },
     {
-      "id": "sej-03-q08",
-      "subtopicId": "sej-03-03",
-      "type": "fill",
+      "id": "sej-03-q09",
+      "subtopicId": "sej-03-04",
+      "type": "mcq",
       "prompt": {
-        "en": "The Double Tenth Revolt in Jesselton was led by Albert ______.",
-        "bm": "Pemberontakan Double Tenth di Jesselton dipimpin oleh Albert ______."
+        "en": "Which attack in December 1941 brought the USA into the war?",
+        "bm": "Serangan manakah pada Disember 1941 menyebabkan Amerika Syarikat menyertai perang?"
       },
       "explanation": {
-        "en": "Albert Kwok led the revolt on 10 October 1943.",
-        "bm": "Albert Kwok memimpin pemberontakan pada 10 Oktober 1943."
+        "en": "Japan attacked the US base at Pearl Harbor, Hawaii, on 7 December 1941 (Hawaii time).",
+        "bm": "Jepun menyerang pangkalan AS di Pearl Harbor, Hawaii, pada 7 Disember 1941 (waktu Hawaii)."
       },
-      "difficulty": 1,
-      "answer": [
-        "Kwok"
-      ]
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Pearl Harbor",
+          "bm": "Pearl Harbor"
+        },
+        {
+          "en": "Hiroshima",
+          "bm": "Hiroshima"
+        },
+        {
+          "en": "Kota Bharu",
+          "bm": "Kota Bharu"
+        },
+        {
+          "en": "Singapore",
+          "bm": "Singapore"
+        }
+      ],
+      "answer": 0
     },
     {
-      "id": "sej-03-q09",
-      "subtopicId": "sej-03-01",
+      "id": "sej-03-q10",
+      "subtopicId": "sej-03-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where did Japanese troops first land in Malaya?",
+        "bm": "Di manakah tentera Jepun mula-mula mendarat di Tanah Melayu?"
+      },
+      "explanation": {
+        "en": "They landed at Kota Bharu, Kelantan, on 8 December 1941.",
+        "bm": "Mereka mendarat di Kota Bharu, Kelantan, pada 8 Disember 1941."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kota Bharu",
+          "bm": "Kota Bharu"
+        },
+        {
+          "en": "Port Dickson",
+          "bm": "Port Dickson"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Kuantan",
+          "bm": "Kuantan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q11",
+      "subtopicId": "sej-03-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Singapore fell to Japan on…",
+        "bm": "Singapura jatuh ke tangan Jepun pada…"
+      },
+      "explanation": {
+        "en": "The British surrendered Singapore on 15 February 1942.",
+        "bm": "British menyerahkan Singapura pada 15 Februari 1942."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "15 February 1942",
+          "bm": "15 February 1942"
+        },
+        {
+          "en": "8 December 1941",
+          "bm": "8 December 1941"
+        },
+        {
+          "en": "15 August 1945",
+          "bm": "15 August 1945"
+        },
+        {
+          "en": "31 August 1957",
+          "bm": "31 August 1957"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q12",
+      "subtopicId": "sej-03-05",
       "type": "multi",
       "prompt": {
         "en": "Select ALL reasons Japan expanded into Southeast Asia.",
@@ -436,8 +567,62 @@
       ]
     },
     {
-      "id": "sej-03-q10",
-      "subtopicId": "sej-03-02",
+      "id": "sej-03-q13",
+      "subtopicId": "sej-03-06",
+      "type": "fill",
+      "prompt": {
+        "en": "Under Japanese rule, Singapore was renamed ______.",
+        "bm": "Semasa pendudukan Jepun, Singapura dinamakan ______."
+      },
+      "explanation": {
+        "en": "Syonan-to means \"Light of the South\".",
+        "bm": "Syonan-to bermaksud \"Cahaya Selatan\"."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Syonan-to",
+        "Syonanto",
+        "Syonan",
+        "Shonan-to",
+        "Shonanto"
+      ]
+    },
+    {
+      "id": "sej-03-q14",
+      "subtopicId": "sej-03-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "The feared Japanese military police were called the…",
+        "bm": "Polis tentera Jepun yang digeruni dipanggil…"
+      },
+      "explanation": {
+        "en": "The Kempeitai arrested, tortured and killed suspected enemies.",
+        "bm": "Kempeitai menangkap, menyeksa dan membunuh mereka yang disyaki musuh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kempeitai",
+          "bm": "Kempeitai"
+        },
+        {
+          "en": "MPAJA",
+          "bm": "MPAJA"
+        },
+        {
+          "en": "Force 136",
+          "bm": "Force 136"
+        },
+        {
+          "en": "Wataniah",
+          "bm": "Wataniah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q15",
+      "subtopicId": "sej-03-06",
       "type": "mcq",
       "prompt": {
         "en": "How did the Japanese treat the Chinese community?",
@@ -469,8 +654,8 @@
       "answer": 0
     },
     {
-      "id": "sej-03-q11",
-      "subtopicId": "sej-03-02",
+      "id": "sej-03-q16",
+      "subtopicId": "sej-03-06",
       "type": "mcq",
       "prompt": {
         "en": "What did \"Asia for Asians\" really mean in practice?",
@@ -502,8 +687,8 @@
       "answer": 0
     },
     {
-      "id": "sej-03-q12",
-      "subtopicId": "sej-03-02",
+      "id": "sej-03-q17",
+      "subtopicId": "sej-03-06",
       "type": "mcq",
       "prompt": {
         "en": "Which economic problem was common during the occupation?",
@@ -535,8 +720,58 @@
       "answer": 0
     },
     {
-      "id": "sej-03-q13",
-      "subtopicId": "sej-03-03",
+      "id": "sej-03-q18",
+      "subtopicId": "sej-03-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Japan treated Malays, Chinese and Indians differently. What was the long-term result?",
+        "bm": "Jepun melayan orang Melayu, Cina dan India secara berbeza. Apakah kesan jangka panjangnya?"
+      },
+      "explanation": {
+        "en": "\"Divide and rule\" left ethnic tension, which is why inter-ethnic cooperation later became vital.",
+        "bm": "\"Pecah dan perintah\" meninggalkan ketegangan kaum, sebab itu kerjasama antara kaum kemudian menjadi amat penting."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Ethnic suspicion and tension that later leaders had to overcome",
+          "bm": "Syak wasangka dan ketegangan kaum yang perlu diatasi oleh pemimpin kemudian"
+        },
+        {
+          "en": "Complete unity",
+          "bm": "Perpaduan sepenuhnya"
+        },
+        {
+          "en": "No effect at all",
+          "bm": "Tiada kesan langsung"
+        },
+        {
+          "en": "Immediate independence",
+          "bm": "Kemerdekaan serta-merta"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q19",
+      "subtopicId": "sej-03-07",
+      "type": "fill",
+      "prompt": {
+        "en": "The Double Tenth Revolt in Jesselton was led by Albert ______.",
+        "bm": "Pemberontakan Double Tenth di Jesselton dipimpin oleh Albert ______."
+      },
+      "explanation": {
+        "en": "Albert Kwok led the revolt on 10 October 1943.",
+        "bm": "Albert Kwok memimpin pemberontakan pada 10 Oktober 1943."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Kwok"
+      ]
+    },
+    {
+      "id": "sej-03-q20",
+      "subtopicId": "sej-03-07",
       "type": "match",
       "prompt": {
         "en": "Match each resistance group with its description.",
@@ -591,8 +826,8 @@
       ]
     },
     {
-      "id": "sej-03-q14",
-      "subtopicId": "sej-03-03",
+      "id": "sej-03-q21",
+      "subtopicId": "sej-03-07",
       "type": "order",
       "prompt": {
         "en": "Arrange these events in time order.",
@@ -623,140 +858,8 @@
       ]
     },
     {
-      "id": "sej-03-q15",
-      "subtopicId": "sej-03-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "What happened in the short period between Japan's surrender and the British return?",
-        "bm": "Apakah yang berlaku dalam tempoh singkat antara Jepun menyerah dan British kembali?"
-      },
-      "explanation": {
-        "en": "For about two weeks the MPAJA took revenge on suspected collaborators, causing ethnic tension.",
-        "bm": "Selama kira-kira dua minggu MPAJA membalas dendam terhadap mereka yang disyaki bersubahat, menimbulkan ketegangan kaum."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "The MPAJA (Bintang Tiga) took over many areas and acted harshly",
-          "bm": "MPAJA (Bintang Tiga) menguasai banyak kawasan dan bertindak kejam"
-        },
-        {
-          "en": "Malaya became independent",
-          "bm": "Tanah Melayu merdeka"
-        },
-        {
-          "en": "Malayan Union was formed",
-          "bm": "Malayan Union ditubuhkan"
-        },
-        {
-          "en": "Elections were held",
-          "bm": "Pilihan raya diadakan"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-03-q16",
-      "subtopicId": "sej-03-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which attack in December 1941 brought the USA into the war?",
-        "bm": "Serangan manakah pada Disember 1941 menyebabkan Amerika Syarikat menyertai perang?"
-      },
-      "explanation": {
-        "en": "Japan attacked the US base at Pearl Harbor, Hawaii, on 7 December 1941 (Hawaii time).",
-        "bm": "Jepun menyerang pangkalan AS di Pearl Harbor, Hawaii, pada 7 Disember 1941 (waktu Hawaii)."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Pearl Harbor",
-          "bm": "Pearl Harbor"
-        },
-        {
-          "en": "Hiroshima",
-          "bm": "Hiroshima"
-        },
-        {
-          "en": "Kota Bharu",
-          "bm": "Kota Bharu"
-        },
-        {
-          "en": "Singapore",
-          "bm": "Singapore"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-03-q17",
-      "subtopicId": "sej-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why did the fall of Singapore have a big impact on local nationalism?",
-        "bm": "Mengapakah kejatuhan Singapura memberi kesan besar kepada nasionalisme tempatan?"
-      },
-      "explanation": {
-        "en": "People lost faith in British protection and began to think about ruling themselves.",
-        "bm": "Rakyat hilang kepercayaan terhadap perlindungan British dan mula memikirkan pemerintahan sendiri."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "It proved the British were not invincible and could not protect the colony",
-          "bm": "Membuktikan British tidak kebal dan tidak mampu melindungi tanah jajahan"
-        },
-        {
-          "en": "It made Malaya rich",
-          "bm": "Menjadikan Tanah Melayu kaya"
-        },
-        {
-          "en": "It ended the war",
-          "bm": "Menamatkan perang"
-        },
-        {
-          "en": "It united Malaya with Japan permanently",
-          "bm": "Menyatukan Tanah Melayu dengan Jepun secara kekal"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-03-q18",
-      "subtopicId": "sej-03-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Japan treated Malays, Chinese and Indians differently. What was the long-term result?",
-        "bm": "Jepun melayan orang Melayu, Cina dan India secara berbeza. Apakah kesan jangka panjangnya?"
-      },
-      "explanation": {
-        "en": "\"Divide and rule\" left ethnic tension, which is why inter-ethnic cooperation later became vital.",
-        "bm": "\"Pecah dan perintah\" meninggalkan ketegangan kaum, sebab itu kerjasama antara kaum kemudian menjadi amat penting."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Ethnic suspicion and tension that later leaders had to overcome",
-          "bm": "Syak wasangka dan ketegangan kaum yang perlu diatasi oleh pemimpin kemudian"
-        },
-        {
-          "en": "Complete unity",
-          "bm": "Perpaduan sepenuhnya"
-        },
-        {
-          "en": "No effect at all",
-          "bm": "Tiada kesan langsung"
-        },
-        {
-          "en": "Immediate independence",
-          "bm": "Kemerdekaan serta-merta"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-03-q19",
-      "subtopicId": "sej-03-03",
+      "id": "sej-03-q22",
+      "subtopicId": "sej-03-07",
       "type": "mcq",
       "prompt": {
         "en": "What is the MOST important lesson from the Japanese Occupation for Malaysians today?",
@@ -788,8 +891,140 @@
       "answer": 0
     },
     {
-      "id": "sej-03-q20",
-      "subtopicId": "sej-03-03",
+      "id": "sej-03-q23",
+      "subtopicId": "sej-03-08",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did the fall of Singapore have a big impact on local nationalism?",
+        "bm": "Mengapakah kejatuhan Singapura memberi kesan besar kepada nasionalisme tempatan?"
+      },
+      "explanation": {
+        "en": "People lost faith in British protection and began to think about ruling themselves.",
+        "bm": "Rakyat hilang kepercayaan terhadap perlindungan British dan mula memikirkan pemerintahan sendiri."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It proved the British were not invincible and could not protect the colony",
+          "bm": "Membuktikan British tidak kebal dan tidak mampu melindungi tanah jajahan"
+        },
+        {
+          "en": "It made Malaya rich",
+          "bm": "Menjadikan Tanah Melayu kaya"
+        },
+        {
+          "en": "It ended the war",
+          "bm": "Menamatkan perang"
+        },
+        {
+          "en": "It united Malaya with Japan permanently",
+          "bm": "Menyatukan Tanah Melayu dengan Jepun secara kekal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q24",
+      "subtopicId": "sej-03-08",
+      "type": "mcq",
+      "prompt": {
+        "en": "PETA (Pembela Tanah Air), formed in 1943, was led by…",
+        "bm": "PETA (Pembela Tanah Air), ditubuhkan pada 1943, dipimpin oleh…"
+      },
+      "explanation": {
+        "en": "After the KMM was banned, Japan formed PETA under Ibrahim Yaacob.",
+        "bm": "Selepas KMM diharamkan, Jepun menubuhkan PETA di bawah Ibrahim Yaacob."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ibrahim Yaacob",
+          "bm": "Ibrahim Yaacob"
+        },
+        {
+          "en": "Dato' Onn Jaafar",
+          "bm": "Dato' Onn Jaafar"
+        },
+        {
+          "en": "Tunku Abdul Rahman",
+          "bm": "Tunku Abdul Rahman"
+        },
+        {
+          "en": "Chin Peng",
+          "bm": "Chin Peng"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q25",
+      "subtopicId": "sej-03-08",
+      "type": "mcq",
+      "prompt": {
+        "en": "KRIS (1945) planned to declare independence together with which country?",
+        "bm": "KRIS (1945) merancang mengisytiharkan kemerdekaan bersama negara manakah?"
+      },
+      "explanation": {
+        "en": "KRIS aimed for Melayu Raya with Indonesia, but Japan surrendered before the plan could go ahead.",
+        "bm": "KRIS bermatlamat Melayu Raya bersama Indonesia, tetapi Jepun menyerah kalah sebelum rancangan itu dilaksanakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Indonesia",
+          "bm": "Indonesia"
+        },
+        {
+          "en": "Japan",
+          "bm": "Japan"
+        },
+        {
+          "en": "Thailand",
+          "bm": "Thailand"
+        },
+        {
+          "en": "China",
+          "bm": "China"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q26",
+      "subtopicId": "sej-03-09",
+      "type": "mcq",
+      "prompt": {
+        "en": "What happened in the short period between Japan's surrender and the British return?",
+        "bm": "Apakah yang berlaku dalam tempoh singkat antara Jepun menyerah dan British kembali?"
+      },
+      "explanation": {
+        "en": "For about two weeks the MPAJA took revenge on suspected collaborators, causing ethnic tension.",
+        "bm": "Selama kira-kira dua minggu MPAJA membalas dendam terhadap mereka yang disyaki bersubahat, menimbulkan ketegangan kaum."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The MPAJA (Bintang Tiga) took over many areas and acted harshly",
+          "bm": "MPAJA (Bintang Tiga) menguasai banyak kawasan dan bertindak kejam"
+        },
+        {
+          "en": "Malaya became independent",
+          "bm": "Tanah Melayu merdeka"
+        },
+        {
+          "en": "Malayan Union was formed",
+          "bm": "Malayan Union ditubuhkan"
+        },
+        {
+          "en": "Elections were held",
+          "bm": "Pilihan raya diadakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-03-q27",
+      "subtopicId": "sej-03-09",
       "type": "mcq",
       "prompt": {
         "en": "Why did the MPAJA's actions after the surrender worry many people?",

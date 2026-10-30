@@ -20,6 +20,13 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'],
         navigateFallback: 'index.html',
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
+        // Note pictures are not precached (they would bloat the install); each is kept once it has been viewed.
+        globIgnores: ['**/img/**'],
+        runtimeCaching: [{
+          urlPattern: ({ url }) => url.pathname.includes('/img/'),
+          handler: 'CacheFirst',
+          options: { cacheName: 'note-images', expiration: { maxEntries: 300 } },
+        }],
       },
     }),
   ],

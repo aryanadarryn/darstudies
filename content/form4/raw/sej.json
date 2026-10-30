@@ -9,7 +9,7 @@
     "bm": "Sejarah"
   },
   "color": "#b45309",
-  "source": "Chapter titles follow the KSSM Sejarah Form 4 textbook (10 chapters). Subtopics grouped from the DSKP; learning content is original. Verify against the latest DSKP.",
+  "source": "Chapters and subtopics follow the KSSM Sejarah Form 4 textbook (Perincian DSKP dan Buku Teks Sejarah Tingkatan 4). Notes and questions are original; pictures from Wikimedia Commons with credits.",
   "chapters": [
     {
       "number": 1,
@@ -21,22 +21,29 @@
         {
           "code": "1.1",
           "title": {
-            "en": "Background of the Nation-State",
-            "bm": "Latar Belakang Negara Bangsa"
+            "en": "Background of the Nation-State before the Coming of the West",
+            "bm": "Latar Belakang Negara Bangsa Sebelum Kedatangan Barat"
           }
         },
         {
           "code": "1.2",
           "title": {
-            "en": "Features of the Traditional Malay Nation-State",
-            "bm": "Ciri-ciri Negara Bangsa Kerajaan Melayu Tradisional"
+            "en": "Features of the Nation-State of the Melaka Malay Sultanate",
+            "bm": "Ciri-ciri Negara Bangsa Kesultanan Melayu Melaka"
           }
         },
         {
           "code": "1.3",
           "title": {
-            "en": "Strengths of the Malay Sultanate of Melaka",
-            "bm": "Keunggulan Kesultanan Melayu Melaka"
+            "en": "Excellence of the System of Administration and Laws",
+            "bm": "Keunggulan Sistem Pentadbiran dan Undang-undang"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Roles of the Rulers and the People",
+            "bm": "Peranan Pemerintah dan Rakyat"
           }
         }
       ]
@@ -51,29 +58,57 @@
         {
           "code": "2.1",
           "title": {
-            "en": "Meaning and Spread of Nationalism",
-            "bm": "Maksud dan Perkembangan Nasionalisme"
+            "en": "Meaning of Nationalism",
+            "bm": "Maksud Nasionalisme"
           }
         },
         {
           "code": "2.2",
           "title": {
-            "en": "Nationalism in Asia",
-            "bm": "Nasionalisme di Asia"
+            "en": "Development of the Idea of Nationalism in the West",
+            "bm": "Perkembangan Idea Nasionalisme di Barat"
           }
         },
         {
           "code": "2.3",
           "title": {
-            "en": "Early Resistance in Our Country",
-            "bm": "Penentangan Awal di Negara Kita"
+            "en": "Development of Nationalism in Asia",
+            "bm": "Perkembangan Nasionalisme di Asia"
           }
         },
         {
           "code": "2.4",
           "title": {
-            "en": "Growth of Nationalism in Our Country",
-            "bm": "Perkembangan Nasionalisme di Negara Kita"
+            "en": "Development of Nationalism in Southeast Asia",
+            "bm": "Perkembangan Nasionalisme di Asia Tenggara"
+          }
+        },
+        {
+          "code": "2.5",
+          "title": {
+            "en": "Awareness of Nationalism in Our Country",
+            "bm": "Kesedaran Nasionalisme di Negara Kita"
+          }
+        },
+        {
+          "code": "2.6",
+          "title": {
+            "en": "Factors in the Rise of the Nationalist Movement",
+            "bm": "Faktor Kemunculan Gerakan Nasionalisme"
+          }
+        },
+        {
+          "code": "2.7",
+          "title": {
+            "en": "Development of Nationalism",
+            "bm": "Perkembangan Nasionalisme"
+          }
+        },
+        {
+          "code": "2.8",
+          "title": {
+            "en": "Effects of the Development of Nationalism",
+            "bm": "Kesan Perkembangan Nasionalisme"
           }
         }
       ]
@@ -88,22 +123,64 @@
         {
           "code": "3.1",
           "title": {
-            "en": "The World Wars",
-            "bm": "Perang Dunia"
+            "en": "Nationalism in Our Country before the World Wars",
+            "bm": "Nasionalisme di Negara Kita Sebelum Perang Dunia"
           }
         },
         {
           "code": "3.2",
           "title": {
-            "en": "The Japanese Occupation",
-            "bm": "Pendudukan Jepun"
+            "en": "Background of the World Wars",
+            "bm": "Latar Belakang Perang Dunia"
           }
         },
         {
           "code": "3.3",
           "title": {
-            "en": "Resistance and the End of the Occupation",
-            "bm": "Penentangan dan Berakhirnya Pendudukan"
+            "en": "World War II",
+            "bm": "Perang Dunia Kedua"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "World War II in the Asia Pacific",
+            "bm": "Perang Dunia Kedua di Asia Pasifik"
+          }
+        },
+        {
+          "code": "3.5",
+          "title": {
+            "en": "Factors of the Japanese Arrival in Our Country",
+            "bm": "Faktor Kedatangan Jepun ke Negara Kita"
+          }
+        },
+        {
+          "code": "3.6",
+          "title": {
+            "en": "Japanese Occupation Policies in Our Country",
+            "bm": "Dasar Pendudukan Jepun di Negara Kita"
+          }
+        },
+        {
+          "code": "3.7",
+          "title": {
+            "en": "The People's Struggle against the Japanese Occupation",
+            "bm": "Perjuangan Rakyat Menentang Pendudukan Jepun"
+          }
+        },
+        {
+          "code": "3.8",
+          "title": {
+            "en": "Local Nationalist Movements and the Japanese Occupation",
+            "bm": "Perkembangan Gerakan Nasionalisme Tempatan dan Pendudukan Jepun"
+          }
+        },
+        {
+          "code": "3.9",
+          "title": {
+            "en": "Our Country after the Japanese Defeat",
+            "bm": "Keadaan Negara Kita Selepas Kekalahan Jepun"
           }
         }
       ]
@@ -118,29 +195,50 @@
         {
           "code": "4.1",
           "title": {
-            "en": "The British Military Administration",
-            "bm": "Pentadbiran Tentera British"
+            "en": "British Military Administration",
+            "bm": "British Military Administration"
           }
         },
         {
           "code": "4.2",
           "title": {
-            "en": "The Malayan Union",
-            "bm": "Malayan Union"
+            "en": "The Malayan Union Idea",
+            "bm": "Gagasan Malayan Union"
           }
         },
         {
           "code": "4.3",
           "title": {
-            "en": "Opposition to the Malayan Union",
-            "bm": "Penentangan terhadap Malayan Union"
+            "en": "Reactions of the Local People to the Malayan Union",
+            "bm": "Reaksi Penduduk Tempatan terhadap Malayan Union"
           }
         },
         {
           "code": "4.4",
           "title": {
-            "en": "Sarawak and Sabah as Crown Colonies",
-            "bm": "Sarawak dan Sabah sebagai Tanah Jajahan Mahkota"
+            "en": "Cession of Sarawak to the British Government",
+            "bm": "Penyerahan Sarawak kepada Kerajaan British"
+          }
+        },
+        {
+          "code": "4.5",
+          "title": {
+            "en": "Reactions of the Local People to the Cession of Sarawak",
+            "bm": "Reaksi Penduduk Tempatan terhadap Penyerahan Sarawak"
+          }
+        },
+        {
+          "code": "4.6",
+          "title": {
+            "en": "Cession of Sabah to the British Government",
+            "bm": "Penyerahan Sabah kepada Kerajaan British"
+          }
+        },
+        {
+          "code": "4.7",
+          "title": {
+            "en": "Reactions of the Local People to the Cession of Sabah",
+            "bm": "Reaksi Penduduk Tempatan terhadap Penyerahan Sabah"
           }
         }
       ]
@@ -155,22 +253,29 @@
         {
           "code": "5.1",
           "title": {
-            "en": "Formation of the Federation of Malaya",
-            "bm": "Pembentukan Persekutuan Tanah Melayu"
+            "en": "Background of the Formation of the Federation of Malaya 1948",
+            "bm": "Latar Belakang Penubuhan Persekutuan Tanah Melayu 1948"
           }
         },
         {
           "code": "5.2",
+          "title": {
+            "en": "Factors in the Formation of the Federation of Malaya 1948",
+            "bm": "Faktor Penubuhan Persekutuan Tanah Melayu 1948"
+          }
+        },
+        {
+          "code": "5.3",
           "title": {
             "en": "Features of the Federation of Malaya 1948",
             "bm": "Ciri-ciri Persekutuan Tanah Melayu 1948"
           }
         },
         {
-          "code": "5.3",
+          "code": "5.4",
           "title": {
-            "en": "Reactions and Effects",
-            "bm": "Reaksi dan Kesan"
+            "en": "Effects of the Formation of the Federation of Malaya 1948",
+            "bm": "Kesan Penubuhan Persekutuan Tanah Melayu 1948"
           }
         }
       ]
@@ -185,29 +290,29 @@
         {
           "code": "6.1",
           "title": {
-            "en": "Background of the Communist Threat",
-            "bm": "Latar Belakang Ancaman Komunis"
+            "en": "Entry of Communist Influence into Our Country",
+            "bm": "Kemasukan Pengaruh Komunis di Negara Kita"
           }
         },
         {
           "code": "6.2",
           "title": {
-            "en": "Declaration of the Emergency",
-            "bm": "Perisytiharan Darurat"
+            "en": "The Communist Threat in Our Country",
+            "bm": "Ancaman Komunis di Negara Kita"
           }
         },
         {
           "code": "6.3",
           "title": {
-            "en": "Steps to Overcome the Communist Threat",
-            "bm": "Langkah Mengatasi Ancaman Komunis"
+            "en": "Efforts to Overcome the Communist Threat",
+            "bm": "Usaha Menangani Ancaman Komunis"
           }
         },
         {
           "code": "6.4",
           "title": {
-            "en": "Effects of the Emergency",
-            "bm": "Kesan Darurat"
+            "en": "Effects of the Emergency on Our Country",
+            "bm": "Kesan Zaman Darurat terhadap Negara Kita"
           }
         }
       ]
@@ -222,22 +327,36 @@
         {
           "code": "7.1",
           "title": {
-            "en": "Early Steps Towards Self-Government",
-            "bm": "Langkah Awal ke Arah Pemerintahan Sendiri"
+            "en": "Background of the Idea of an Independent Nation",
+            "bm": "Latar Belakang Idea Negara Merdeka"
           }
         },
         {
           "code": "7.2",
           "title": {
-            "en": "Inter-Ethnic Cooperation",
-            "bm": "Kerjasama Antara Kaum"
+            "en": "Communities Liaison Committee",
+            "bm": "Jawatankuasa Hubungan Antara Kaum"
           }
         },
         {
           "code": "7.3",
           "title": {
-            "en": "Negotiations for Independence",
-            "bm": "Rundingan Kemerdekaan"
+            "en": "The Member System",
+            "bm": "Sistem Ahli"
+          }
+        },
+        {
+          "code": "7.4",
+          "title": {
+            "en": "The National Education System",
+            "bm": "Sistem Pendidikan Kebangsaan"
+          }
+        },
+        {
+          "code": "7.5",
+          "title": {
+            "en": "Formation of Political Parties",
+            "bm": "Penubuhan Parti Politik"
           }
         }
       ]
@@ -252,22 +371,29 @@
         {
           "code": "8.1",
           "title": {
-            "en": "Early Elections",
-            "bm": "Pilihan Raya Awal"
+            "en": "Development of Elections in the Federation of Malaya",
+            "bm": "Perkembangan Pilihan Raya di Persekutuan Tanah Melayu"
           }
         },
         {
           "code": "8.2",
           "title": {
-            "en": "The 1955 Federal Election",
-            "bm": "Pilihan Raya Umum Persekutuan 1955"
+            "en": "Process of the First General Election",
+            "bm": "Proses Pilihan Raya Umum Pertama"
           }
         },
         {
           "code": "8.3",
           "title": {
-            "en": "Elections in Sabah and Sarawak",
-            "bm": "Pilihan Raya di Sabah dan Sarawak"
+            "en": "Formation of the Federal Legislative Council",
+            "bm": "Penubuhan Majlis Perundangan Persekutuan"
+          }
+        },
+        {
+          "code": "8.4",
+          "title": {
+            "en": "Role of the First Cabinet of the Federation of Malaya",
+            "bm": "Peranan Kabinet Pertama Persekutuan Tanah Melayu"
           }
         }
       ]
@@ -282,22 +408,29 @@
         {
           "code": "9.1",
           "title": {
-            "en": "Background of the Constitution",
-            "bm": "Latar Belakang Perlembagaan"
+            "en": "Independence Negotiations",
+            "bm": "Usaha Rundingan Kemerdekaan"
           }
         },
         {
           "code": "9.2",
           "title": {
-            "en": "Main Features of the Constitution",
-            "bm": "Ciri-ciri Utama Perlembagaan"
+            "en": "Role of the Federation of Malaya Constitutional Commission",
+            "bm": "Peranan Suruhanjaya Perlembagaan Persekutuan Tanah Melayu"
           }
         },
         {
           "code": "9.3",
           "title": {
-            "en": "Importance of the Constitution",
-            "bm": "Kepentingan Perlembagaan"
+            "en": "Steps in Drafting the Constitution of an Independent Federation of Malaya",
+            "bm": "Langkah Penggubalan Perlembagaan Persekutuan Tanah Melayu yang Merdeka"
+          }
+        },
+        {
+          "code": "9.4",
+          "title": {
+            "en": "The Federation of Malaya Agreement",
+            "bm": "Perjanjian Persekutuan Tanah Melayu"
           }
         }
       ]
@@ -312,22 +445,36 @@
         {
           "code": "10.1",
           "title": {
-            "en": "Towards the Proclamation",
-            "bm": "Ke Arah Pemasyhuran"
+            "en": "Meaning of Independence",
+            "bm": "Pengertian Kemerdekaan"
           }
         },
         {
           "code": "10.2",
           "title": {
-            "en": "The Proclamation on 31 August 1957",
-            "bm": "Pemasyhuran pada 31 Ogos 1957"
+            "en": "Preparations to Celebrate the Proclamation of Independence",
+            "bm": "Persediaan Menyambut Pemasyhuran Kemerdekaan Negara"
           }
         },
         {
           "code": "10.3",
           "title": {
-            "en": "National Symbols and the Meaning of Independence",
-            "bm": "Lambang Negara dan Makna Kemerdekaan"
+            "en": "The Moment of the Proclamation of Independence",
+            "bm": "Detik Pemasyhuran Kemerdekaan Negara"
+          }
+        },
+        {
+          "code": "10.4",
+          "title": {
+            "en": "Effects of Independence on Our Country",
+            "bm": "Kesan Kemerdekaan terhadap Negara Kita"
+          }
+        },
+        {
+          "code": "10.5",
+          "title": {
+            "en": "Principles of Sovereignty of the Federation of Malaya",
+            "bm": "Prinsip Kedaulatan Persekutuan Tanah Melayu"
           }
         }
       ]

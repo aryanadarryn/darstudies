@@ -5,46 +5,507 @@
     "f3sej-05-01": {
       "keyPoints": [
         {
-          "en": "Sarawak was under Brunei; Sabah under Brunei (west and north) and Sulu (east), ruled through pangeran, datu and local chiefs.",
-          "bm": "Sarawak di bawah Brunei; Sabah di bawah Brunei (barat dan utara) dan Sulu (timur), ditadbir melalui pangeran, datu dan ketua tempatan."
+          "en": "Before Western rule, Sarawak was part of the Brunei Sultanate; Sabah was under Brunei (west and north) and Sulu (east).",
+          "bm": "Sebelum pemerintahan Barat, Sarawak sebahagian daripada Kesultanan Brunei; Sabah di bawah Brunei (barat dan utara) dan Sulu (timur)."
+        },
+        {
+          "en": "Communities were led through tribal systems — e.g. the tuai rumah of an Iban longhouse.",
+          "bm": "Masyarakat dipimpin melalui sistem kesukuan — cth. tuai rumah bagi rumah panjang Iban."
+        },
+        {
+          "en": "Brunei governed through Pengiran and Malay Datu; in Sabah there were also independent local chiefs.",
+          "bm": "Brunei memerintah melalui Pengiran dan Datu Melayu; di Sabah terdapat juga ketua tempatan yang bebas."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Tuai rumah",
+            "bm": "Tuai rumah"
+          },
+          "meaning": {
+            "en": "Head of an Iban longhouse.",
+            "bm": "Ketua rumah panjang Iban."
+          }
+        },
+        {
+          "term": {
+            "en": "Datu system",
+            "bm": "Sistem Kedatuan"
+          },
+          "meaning": {
+            "en": "Malay Datu (e.g. Datu Patinggi, Datu Bandar, Datu Temenggung) who ran Sarawak's Malay community.",
+            "bm": "Datu Melayu (cth. Datu Patinggi, Datu Bandar, Datu Temenggung) yang mentadbir masyarakat Melayu Sarawak."
+          }
+        },
+        {
+          "term": {
+            "en": "Independent chief",
+            "bm": "Ketua bebas"
+          },
+          "meaning": {
+            "en": "A local leader in Sabah who ruled his area without being appointed by a sultan.",
+            "bm": "Pemimpin tempatan di Sabah yang memerintah kawasannya tanpa dilantik sultan."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "1. Tribal systems",
+            "bm": "1. Sistem kesukuan"
+          },
+          "points": [
+            {
+              "en": "Sarawak: Iban, Bidayuh, Melanau and others led by longhouse and village heads, guided by adat.",
+              "bm": "Sarawak: Iban, Bidayuh, Melanau dan lain-lain dipimpin ketua rumah panjang dan kampung, berpandukan adat."
+            },
+            {
+              "en": "Sabah: Kadazandusun, Murut, Bajau and others led by village chiefs.",
+              "bm": "Sabah: Kadazandusun, Murut, Bajau dan lain-lain dipimpin ketua kampung."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "2. Local administration",
+            "bm": "2. Sistem pentadbiran tempatan"
+          },
+          "points": [
+            {
+              "en": "A. Sarawak: Brunei appointed governors (e.g. Pengiran Indera Mahkota) to rule on its behalf.",
+              "bm": "A. Sarawak: Brunei melantik pembesar (cth. Pengiran Indera Mahkota) untuk memerintah bagi pihaknya."
+            },
+            {
+              "en": "B. Datu system in Sarawak: Malay Datu managed local affairs.",
+              "bm": "B. Sistem Kedatuan di Sarawak: Datu Melayu menguruskan hal ehwal setempat."
+            },
+            {
+              "en": "C. Sabah: Brunei and Sulu appointed chiefs to collect taxes.",
+              "bm": "C. Sabah: Brunei dan Sulu melantik pembesar untuk memungut cukai."
+            },
+            {
+              "en": "D. Independent chiefs in Sabah ruled some areas on their own.",
+              "bm": "D. Ketua bebas di Sabah memerintah sesetengah kawasan secara sendiri."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Who controlled Sarawak and Sabah before the Western powers came?",
+          "bm": "Siapakah yang menguasai Sarawak dan Sabah sebelum kedatangan kuasa Barat?"
+        },
+        "answer": {
+          "en": "Sarawak: the Brunei Sultanate. Sabah: Brunei in the west and north, Sulu in the east, plus independent local chiefs.",
+          "bm": "Sarawak: Kesultanan Brunei. Sabah: Brunei di barat dan utara, Sulu di timur, serta ketua tempatan yang bebas."
+        }
+      }
     },
     "f3sej-05-02": {
       "keyPoints": [
         {
-          "en": "James Brooke helped Pangeran Muda Hashim end a revolt and became Rajah in 1841.",
-          "bm": "James Brooke membantu Pangeran Muda Hashim menamatkan pemberontakan dan menjadi Raja pada 1841."
+          "en": "When James Brooke arrived (1839), local Malays and Bidayuh were rebelling against the Brunei governor Pengiran Indera Mahkota.",
+          "bm": "Ketika James Brooke tiba (1839), orang Melayu dan Bidayuh tempatan sedang memberontak terhadap pembesar Brunei, Pengiran Indera Mahkota."
         },
         {
-          "en": "Expansion from Brunei: Mukah/Bintulu 1861, Baram 1882, Trusan 1885, Limbang 1890, Lawas 1905. Rajahs: James → Charles (1868) → Vyner (1917).",
-          "bm": "Peluasan daripada Brunei: Mukah/Bintulu 1861, Baram 1882, Trusan 1885, Limbang 1890, Lawas 1905. Raja: James → Charles (1868) → Vyner (1917)."
+          "en": "Brooke helped Pengiran Muda Hashim end the revolt and was made Rajah of Sarawak in 1841.",
+          "bm": "Brooke membantu Pengiran Muda Hashim menamatkan pemberontakan dan dilantik sebagai Rajah Sarawak pada 1841."
+        },
+        {
+          "en": "He gained power through negotiation, threats, treaties and military force.",
+          "bm": "Beliau mendapat kuasa melalui rundingan, ugutan, perjanjian dan kekuatan tentera."
+        },
+        {
+          "en": "The Brooke dynasty expanded Sarawak by taking more land from Brunei until 1905.",
+          "bm": "Dinasti Brooke meluaskan Sarawak dengan mengambil lebih banyak wilayah daripada Brunei hingga 1905."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Rajah Putih",
+            "bm": "Rajah Putih"
+          },
+          "meaning": {
+            "en": "\"White Rajah\" — the Brooke rulers of Sarawak (1841–1946).",
+            "bm": "\"Raja Putih\" — pemerintah Brooke di Sarawak (1841–1946)."
+          }
+        },
+        {
+          "term": {
+            "en": "Brooke dynasty",
+            "bm": "Dinasti Brooke"
+          },
+          "meaning": {
+            "en": "James Brooke (1841–1868), Charles Brooke (1868–1917), Charles Vyner Brooke (1917–1946).",
+            "bm": "James Brooke (1841–1868), Charles Brooke (1868–1917), Charles Vyner Brooke (1917–1946)."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "How James Brooke gained power",
+            "bm": "James Brooke mendapatkan kuasa pemerintahan"
+          },
+          "points": [
+            {
+              "en": "Negotiation: offered help to Pengiran Muda Hashim in return for Sarawak.",
+              "bm": "Rundingan: menawarkan bantuan kepada Pengiran Muda Hashim sebagai balasan Sarawak."
+            },
+            {
+              "en": "Threats: pointed the guns of his ship at Brunei leaders to force them to keep their promise.",
+              "bm": "Ugutan: menghalakan meriam kapalnya ke arah pembesar Brunei untuk memaksa mereka menunaikan janji."
+            },
+            {
+              "en": "Treaties: the Sultan of Brunei confirmed him as Rajah (1842).",
+              "bm": "Perjanjian: Sultan Brunei mengesahkan beliau sebagai Rajah (1842)."
+            },
+            {
+              "en": "Military: with the British navy he attacked groups he called pirates.",
+              "bm": "Ketenteraan: bersama tentera laut British beliau menyerang kumpulan yang dianggapnya lanun."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Strengthening and expansion",
+            "bm": "Pengukuhan dan kronologi peluasan kuasa"
+          },
+          "points": [
+            {
+              "en": "Allied with Malay Datu and some Iban groups; built forts along the rivers.",
+              "bm": "Bersekutu dengan Datu Melayu dan sesetengah kumpulan Iban; membina kubu di sepanjang sungai."
+            },
+            {
+              "en": "Mukah and Bintulu (1861), Baram (1882), Trusan (1885), Limbang (1890), Lawas (1905).",
+              "bm": "Mukah dan Bintulu (1861), Baram (1882), Trusan (1885), Limbang (1890), Lawas (1905)."
+            },
+            {
+              "en": "1888: Sarawak became a British protectorate.",
+              "bm": "1888: Sarawak menjadi negeri naungan British."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1839",
+          "event": {
+            "en": "James Brooke arrives in Sarawak.",
+            "bm": "James Brooke tiba di Sarawak."
+          }
+        },
+        {
+          "date": "1841",
+          "event": {
+            "en": "Brooke becomes Rajah.",
+            "bm": "Brooke menjadi Rajah."
+          }
+        },
+        {
+          "date": "1868",
+          "event": {
+            "en": "Charles Brooke succeeds.",
+            "bm": "Charles Brooke mengambil alih."
+          }
+        },
+        {
+          "date": "1888",
+          "event": {
+            "en": "British protectorate.",
+            "bm": "Negeri naungan British."
+          }
+        },
+        {
+          "date": "1905",
+          "event": {
+            "en": "Lawas added — the last area taken from Brunei.",
+            "bm": "Lawas ditambah — kawasan terakhir diambil daripada Brunei."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/james-brooke.webp",
+          "alt": {
+            "en": "Sir James Brooke, first White Rajah of Sarawak (portrait by Francis Grant, 1847).",
+            "bm": "Sir James Brooke, Rajah Putih pertama Sarawak (potret oleh Francis Grant, 1847)."
+          },
+          "caption": {
+            "en": "Sir James Brooke, first White Rajah of Sarawak (portrait by Francis Grant, 1847).",
+            "bm": "Sir James Brooke, Rajah Putih pertama Sarawak (potret oleh Francis Grant, 1847)."
+          },
+          "credit": "Francis Grant · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_James_Brooke_(1847)_by_Francis_Grant.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why was Brunei unable to stop the Brookes from taking its territory?",
+          "bm": "Mengapakah Brunei tidak dapat menghalang Brooke mengambil wilayahnya?"
+        },
+        "answer": {
+          "en": "Brunei was weakened by internal conflicts and had little military strength, while the Brookes had the support of British warships.",
+          "bm": "Brunei lemah akibat konflik dalaman dan kekuatan tentera yang terhad, manakala Brooke mendapat sokongan kapal perang British."
+        }
+      }
     },
     "f3sej-05-03": {
       "keyPoints": [
         {
-          "en": "Overbeck and Dent got rights from Brunei and Sulu (1877–1878); British North Borneo Company received a royal charter in 1881.",
-          "bm": "Overbeck dan Dent mendapat hak daripada Brunei dan Sulu (1877–1878); Syarikat Borneo Utara British menerima piagam diraja pada 1881."
+          "en": "Sabah attracted foreign investors because of its strategic position and economic wealth.",
+          "bm": "Sabah menarik pemodal asing kerana kedudukan strategik dan kekayaan ekonominya."
         },
         {
-          "en": "The company sought profit through taxes and resources.",
-          "bm": "Syarikat mencari keuntungan melalui cukai dan sumber."
+          "en": "Early British footholds: Balambangan Island (1773) and Labuan (1846).",
+          "bm": "Pertapakan awal British: Pulau Balambangan (1773) dan Labuan (1846)."
+        },
+        {
+          "en": "Baron von Overbeck and Alfred Dent obtained leases from Brunei and Sulu (1877–1878).",
+          "bm": "Baron von Overbeck dan Alfred Dent mendapat pajakan daripada Brunei dan Sulu (1877–1878)."
+        },
+        {
+          "en": "The British North Borneo Company (BNBC) received a royal charter in 1881 and ruled Sabah until 1946.",
+          "bm": "Syarikat Borneo Utara British (SBUB) menerima piagam diraja pada 1881 dan memerintah Sabah hingga 1946."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Royal charter",
+            "bm": "Piagam diraja"
+          },
+          "meaning": {
+            "en": "Permission from the British Crown for a company to govern a territory.",
+            "bm": "Kebenaran Kerajaan British kepada syarikat untuk memerintah sesuatu wilayah."
+          }
+        },
+        {
+          "term": {
+            "en": "Balambangan",
+            "bm": "Balambangan"
+          },
+          "meaning": {
+            "en": "Island off northern Sabah where the EIC set up a trading post in 1773.",
+            "bm": "Pulau di utara Sabah tempat SHTI membuka pusat perdagangan pada 1773."
+          }
+        },
+        {
+          "term": {
+            "en": "Labuan",
+            "bm": "Labuan"
+          },
+          "meaning": {
+            "en": "Island ceded by Brunei to Britain in 1846; a coaling station and colony.",
+            "bm": "Pulau yang diserahkan Brunei kepada British pada 1846; stesen arang batu dan tanah jajahan."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Sabah before the BNBC",
+            "bm": "Sabah sebelum penguasaan SBUB"
+          },
+          "points": [
+            {
+              "en": "Balambangan: EIC trading post (1773), attacked by the Sulu and abandoned.",
+              "bm": "Balambangan: pusat perdagangan SHTI (1773), diserang orang Sulu dan ditinggalkan."
+            },
+            {
+              "en": "Labuan: ceded to Britain in 1846 and made a Crown colony in 1848.",
+              "bm": "Labuan: diserahkan kepada British pada 1846 dan dijadikan tanah jajahan mahkota pada 1848."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Establishment of the BNBC",
+            "bm": "Pertapakan SBUB"
+          },
+          "points": [
+            {
+              "en": "An American, Charles Lee Moses, first leased land from Brunei (1865); his rights passed to Overbeck.",
+              "bm": "Seorang warga Amerika, Charles Lee Moses, mula-mula memajak tanah daripada Brunei (1865); haknya berpindah kepada Overbeck."
+            },
+            {
+              "en": "Overbeck and Dent got leases from the Sultans of Brunei (1877) and Sulu (1878).",
+              "bm": "Overbeck dan Dent mendapat pajakan daripada Sultan Brunei (1877) dan Sultan Sulu (1878)."
+            },
+            {
+              "en": "Dent formed a company that received the royal charter on 1 November 1881.",
+              "bm": "Dent menubuhkan syarikat yang menerima piagam diraja pada 1 November 1881."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Expansion",
+            "bm": "Peluasan kuasa SBUB"
+          },
+          "points": [
+            {
+              "en": "The company gained more areas from Brunei in the 1880s–1900s; Sabah became a British protectorate in 1888.",
+              "bm": "Syarikat mendapat lebih banyak kawasan daripada Brunei pada 1880-an hingga 1900-an; Sabah menjadi negeri naungan British pada 1888."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/bnb-map.webp",
+          "alt": {
+            "en": "Map of British North Borneo, 1888.",
+            "bm": "Peta Borneo Utara British, 1888."
+          },
+          "caption": {
+            "en": "Map of British North Borneo, 1888.",
+            "bm": "Peta Borneo Utara British, 1888."
+          },
+          "credit": "Edward Stanford Ltd. for the British North Borneo Chartered Company. Currently kept by the · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_map_of_British_North_Borneo.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "What was the main aim of the British North Borneo Company?",
+          "bm": "Apakah matlamat utama Syarikat Borneo Utara British?"
+        },
+        "answer": {
+          "en": "To make profit for its shareholders from Sabah's land and resources.",
+          "bm": "Untuk mendapatkan keuntungan bagi pemegang saham daripada tanah dan sumber Sabah."
+        }
+      }
     },
     "f3sej-05-04": {
       "keyPoints": [
         {
-          "en": "Sarawak: absolute Rajah, Supreme Council (1855), Council Negri (1867), Divisions under Residents, local chiefs.",
-          "bm": "Sarawak: Raja berkuasa mutlak, Majlis Tertinggi (1855), Council Negri (1867), Bahagian di bawah Residen, ketua tempatan."
+          "en": "Western rule in Sarawak (Brookes) and Sabah (BNBC) was strengthened in five ways.",
+          "bm": "Pentadbiran Barat di Sarawak (Brooke) dan Sabah (SBUB) dimantapkan melalui lima cara."
         },
         {
-          "en": "Sabah: Court of Directors in London, Governor, Residents, native chiefs. Both became Crown Colonies in 1946.",
-          "bm": "Sabah: Lembaga Pengarah di London, Gabenor, Residen, ketua anak negeri. Kedua-duanya menjadi Tanah Jajahan Mahkota pada 1946."
+          "en": "Division of territory, keeping local chiefs, a hierarchy of officials, administration by ethnic group, and new laws.",
+          "bm": "Pembahagian wilayah, pengekalan pembesar tempatan, pentadbiran berhierarki, pentadbiran berasaskan kaum, dan perundangan."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Division (Bahagian)",
+            "bm": "Bahagian"
+          },
+          "meaning": {
+            "en": "Administrative area in Sarawak headed by a Resident.",
+            "bm": "Kawasan pentadbiran di Sarawak yang diketuai Residen."
+          }
+        },
+        {
+          "term": {
+            "en": "Residency",
+            "bm": "Residensi"
+          },
+          "meaning": {
+            "en": "Administrative area in Sabah headed by a Resident.",
+            "bm": "Kawasan pentadbiran di Sabah yang diketuai Residen."
+          }
+        },
+        {
+          "term": {
+            "en": "Council Negri",
+            "bm": "Majlis Negeri"
+          },
+          "meaning": {
+            "en": "Sarawak's state council, first held in 1867.",
+            "bm": "Majlis negeri Sarawak, pertama kali bersidang pada 1867."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "1. Division of territory",
+            "bm": "1. Pembahagian wilayah"
+          },
+          "points": [
+            {
+              "en": "Sarawak: Divisions under Residents, then districts under District Officers.",
+              "bm": "Sarawak: Bahagian di bawah Residen, kemudian daerah di bawah Pegawai Daerah."
+            },
+            {
+              "en": "Sabah: Residencies (e.g. West Coast, East Coast) and districts.",
+              "bm": "Sabah: Residensi (cth. Pantai Barat, Pantai Timur) dan daerah."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "2. Keeping local chiefs",
+            "bm": "2. Pengekalan pembesar tempatan"
+          },
+          "points": [
+            {
+              "en": "Sarawak: Malay Datu, Iban penghulu and Chinese Kapitan helped rule.",
+              "bm": "Sarawak: Datu Melayu, penghulu Iban dan Kapitan Cina membantu pentadbiran."
+            },
+            {
+              "en": "Sabah: native chiefs and village headmen were used to keep order and collect taxes.",
+              "bm": "Sabah: ketua anak negeri dan ketua kampung digunakan untuk menjaga keamanan dan memungut cukai."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "3. Hierarchy",
+            "bm": "3. Pentadbiran berhierarki"
+          },
+          "points": [
+            {
+              "en": "Sarawak: Rajah → Supreme Council (1855) and Council Negri (1867) → Residents → District Officers → local chiefs.",
+              "bm": "Sarawak: Rajah → Majlis Tertinggi (1855) dan Majlis Negeri (1867) → Residen → Pegawai Daerah → pembesar tempatan."
+            },
+            {
+              "en": "Sabah: Court of Directors (London) → Governor → Residents → District Officers → native chiefs.",
+              "bm": "Sabah: Lembaga Pengarah (London) → Gabenor → Residen → Pegawai Daerah → ketua anak negeri."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "4. Administration by ethnic group",
+            "bm": "4. Pentadbiran berasaskan kaum"
+          },
+          "points": [
+            {
+              "en": "Each community was managed through its own leaders and given different roles (e.g. Malays in administration, Chinese in trade and farming).",
+              "bm": "Setiap kaum diuruskan melalui pemimpin sendiri dan diberi peranan berbeza (cth. Melayu dalam pentadbiran, Cina dalam perdagangan dan pertanian)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "5. Laws",
+            "bm": "5. Perundangan"
+          },
+          "points": [
+            {
+              "en": "Western laws were introduced, while native customary law (adat) and native courts continued for local matters.",
+              "bm": "Undang-undang Barat diperkenalkan, sementara undang-undang adat dan mahkamah anak negeri diteruskan untuk hal tempatan."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Compare the rulers of Sarawak and Sabah under Western administration.",
+          "bm": "Bandingkan pemerintah Sarawak dan Sabah di bawah pentadbiran Barat."
+        },
+        "answer": {
+          "en": "Sarawak was ruled by a family — the Brooke Rajahs; Sabah was ruled by a company — the British North Borneo Company, run from London for profit.",
+          "bm": "Sarawak diperintah sebuah keluarga — Rajah Brooke; Sabah diperintah sebuah syarikat — Syarikat Borneo Utara British, ditadbir dari London untuk keuntungan."
+        }
+      }
     }
   }
 }

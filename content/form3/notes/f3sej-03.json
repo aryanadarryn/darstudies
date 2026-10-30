@@ -5,54 +5,500 @@
     "f3sej-03-01": {
       "keyPoints": [
         {
-          "en": "Tin: Perak (Larut, Kinta), Selangor (Klang Valley, Lukut, Ampang), Negeri Sembilan (Sungai Ujong); Pahang: gold and tin.",
-          "bm": "Bijih timah: Perak (Larut, Kinta), Selangor (Lembah Klang, Lukut, Ampang), Negeri Sembilan (Sungai Ujong); Pahang: emas dan bijih timah."
+          "en": "Perak, Selangor, Negeri Sembilan and Pahang were rich in tin, and Pahang also in gold.",
+          "bm": "Perak, Selangor, Negeri Sembilan dan Pahang kaya dengan bijih timah, dan Pahang juga dengan emas."
         },
         {
-          "en": "Demand from European industries and unrest (Larut Wars) drew British attention.",
-          "bm": "Permintaan industri Eropah dan kekacauan (Perang Larut) menarik perhatian British."
+          "en": "Tin had been mined for centuries — used as currency in Melaka and traded under Dutch monopolies.",
+          "bm": "Bijih timah dilombong sejak berabad-abad — digunakan sebagai mata wang di Melaka dan didagangkan di bawah monopoli Belanda."
+        },
+        {
+          "en": "In the 19th century big tin fields opened at Larut and Kinta (Perak), Klang and Lukut (Selangor) and Sungai Ujong (Negeri Sembilan), worked by Chinese miners.",
+          "bm": "Pada abad ke-19 kawasan bijih timah yang besar dibuka di Larut dan Kinta (Perak), Klang dan Lukut (Selangor) serta Sungai Ujong (Negeri Sembilan), diusahakan pelombong Cina."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Larut",
+            "bm": "Larut"
+          },
+          "meaning": {
+            "en": "Tin field in Perak opened by Long Jaafar (1840s); centre of the Larut Wars.",
+            "bm": "Kawasan bijih timah di Perak yang dibuka oleh Long Jaafar (1840-an); pusat Perang Larut."
+          }
+        },
+        {
+          "term": {
+            "en": "Gold mining",
+            "bm": "Perlombongan emas"
+          },
+          "meaning": {
+            "en": "Long carried out in Pahang (e.g. Raub); later by Western companies.",
+            "bm": "Lama dijalankan di Pahang (cth. Raub); kemudian oleh syarikat Barat."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Wealth in tin",
+            "bm": "Kekayaan bijih timah"
+          },
+          "points": [
+            {
+              "en": "15th century: tin coins and ingots used in Melaka's trade.",
+              "bm": "Abad ke-15: syiling dan jongkong timah digunakan dalam perdagangan Melaka."
+            },
+            {
+              "en": "16th–17th centuries: Western traders (especially the Dutch) sought tin from Perak.",
+              "bm": "Abad ke-16 hingga ke-17: pedagang Barat (terutamanya Belanda) mendapatkan bijih timah dari Perak."
+            },
+            {
+              "en": "18th–19th centuries: Chinese capital and labour expanded mining; demand rose with the canning industry.",
+              "bm": "Abad ke-18 hingga ke-19: modal dan buruh Cina meluaskan perlombongan; permintaan meningkat dengan industri mengetin."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Wealth in gold (Pahang)",
+            "bm": "Kekayaan emas (Pahang)"
+          },
+          "points": [
+            {
+              "en": "Gold was mined in Pahang from the 16th–17th centuries; in the 19th century Western companies opened mines such as at Raub.",
+              "bm": "Emas dilombong di Pahang sejak abad ke-16 hingga ke-17; pada abad ke-19 syarikat Barat membuka lombong seperti di Raub."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the wealth of the west-coast states attract British interest?",
+          "bm": "Mengapakah kekayaan negeri pantai barat menarik minat British?"
+        },
+        "answer": {
+          "en": "Their tin was needed by British industry and the Straits merchants had invested heavily in the mines.",
+          "bm": "Bijih timahnya diperlukan industri British dan pedagang Negeri-negeri Selat telah melabur dengan banyak dalam lombong."
+        }
+      }
     },
     "f3sej-03-02": {
       "keyPoints": [
         {
-          "en": "Perak: Pangkor Treaty, 20 January 1874 (Raja Abdullah Sultan; Resident J.W.W. Birch).",
-          "bm": "Perak: Perjanjian Pangkor, 20 Januari 1874 (Raja Abdullah Sultan; Residen J.W.W. Birch)."
+          "en": "The British expanded their power using manipulation, pressure and agreements with local rulers.",
+          "bm": "British meluaskan kuasa melalui manipulasi, desakan dan perjanjian dengan pemerintah tempatan."
         },
         {
-          "en": "Selangor Resident 1875; Sungai Ujong 1874, Negeri Sembilan united 1895; Pahang Resident 1888.",
-          "bm": "Residen Selangor 1875; Sungai Ujong 1874, Negeri Sembilan disatukan 1895; Residen Pahang 1888."
+          "en": "Perak: the Pangkor Treaty (20 January 1874) recognised Raja Abdullah as Sultan and brought a British Resident.",
+          "bm": "Perak: Perjanjian Pangkor (20 Januari 1874) mengiktiraf Raja Abdullah sebagai Sultan dan membawa Residen British."
         },
         {
-          "en": "Residential System: advice binding except Islam and Malay custom.",
-          "bm": "Sistem Residen: nasihat wajib diikuti kecuali agama Islam dan adat Melayu."
+          "en": "Selangor accepted a Resident in 1875, Pahang in 1888 and the united Negeri Sembilan in 1895.",
+          "bm": "Selangor menerima Residen pada 1875, Pahang pada 1888 dan Negeri Sembilan yang bersatu pada 1895."
+        },
+        {
+          "en": "Under the Residential System, the Resident's advice had to be followed except on Islam and Malay custom.",
+          "bm": "Di bawah Sistem Residen, nasihat Residen mesti dipatuhi kecuali dalam hal agama Islam dan adat Melayu."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Pangkor Treaty",
+            "bm": "Perjanjian Pangkor"
+          },
+          "meaning": {
+            "en": "1874 treaty that began British intervention in Perak.",
+            "bm": "Perjanjian 1874 yang memulakan campur tangan British di Perak."
+          }
+        },
+        {
+          "term": {
+            "en": "Resident",
+            "bm": "Residen"
+          },
+          "meaning": {
+            "en": "British officer whose \"advice\" the ruler had to accept.",
+            "bm": "Pegawai British yang \"nasihat\"nya mesti diterima raja."
+          }
+        },
+        {
+          "term": {
+            "en": "Larut Wars",
+            "bm": "Perang Larut"
+          },
+          "meaning": {
+            "en": "Fighting between Chinese secret societies (Ghee Hin, Hai San) over tin, mixed with a Perak succession dispute.",
+            "bm": "Pertempuran antara kongsi gelap Cina (Ghee Hin, Hai San) kerana bijih timah, bercampur dengan perebutan takhta Perak."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "1. Manipulation (Perak, Selangor, Sungai Ujong)",
+            "bm": "1. Strategi manipulasi (Perak, Selangor, Sungai Ujong)"
+          },
+          "points": [
+            {
+              "en": "Perak: Britain backed Raja Abdullah in the succession dispute in return for accepting a Resident.",
+              "bm": "Perak: British menyokong Raja Abdullah dalam perebutan takhta sebagai balasan menerima Residen."
+            },
+            {
+              "en": "Sungai Ujong: Britain supported Dato' Kelana against his rival.",
+              "bm": "Sungai Ujong: British menyokong Dato' Kelana menentang saingannya."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "2. Pressure on rulers (Selangor, Pahang)",
+            "bm": "2. Desakan dan paksaan (Selangor, Pahang)"
+          },
+          "points": [
+            {
+              "en": "Selangor: after a piracy incident, Sultan Abdul Samad was pressed to accept British protection.",
+              "bm": "Selangor: selepas peristiwa lanun, Sultan Abdul Samad didesak menerima perlindungan British."
+            },
+            {
+              "en": "Pahang: after the killing of a British subject (1888), Sultan Ahmad was forced to accept a Resident.",
+              "bm": "Pahang: selepas pembunuhan seorang rakyat British (1888), Sultan Ahmad dipaksa menerima Residen."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "3. Treaties",
+            "bm": "3. Perjanjian"
+          },
+          "points": [
+            {
+              "en": "Pangkor Treaty (1874), British–Sungai Ujong (1874), British–Selangor, British–Pahang (1887–1888), British–Negeri Sembilan (1889, 1895).",
+              "bm": "Perjanjian Pangkor (1874), British–Sungai Ujong (1874), British–Selangor, British–Pahang (1887–1888), British–Negeri Sembilan (1889, 1895)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "The Residential System",
+            "bm": "Sistem Residen"
+          },
+          "points": [
+            {
+              "en": "Role of the Resident: advise the ruler on all matters except Islam and Malay custom; collect taxes; keep order.",
+              "bm": "Peranan Residen: menasihati raja dalam semua perkara kecuali agama Islam dan adat Melayu; memungut cukai; menjaga keamanan."
+            },
+            {
+              "en": "Implementation: State Councils were set up; J.W.W. Birch (Perak) acted harshly and was killed at Pasir Salak (1875).",
+              "bm": "Pelaksanaan: Majlis Mesyuarat Negeri ditubuhkan; J.W.W. Birch (Perak) bertindak keras dan dibunuh di Pasir Salak (1875)."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "20 Jan 1874",
+          "event": {
+            "en": "Pangkor Treaty.",
+            "bm": "Perjanjian Pangkor."
+          }
+        },
+        {
+          "date": "1875",
+          "event": {
+            "en": "Selangor Resident; Birch killed at Pasir Salak.",
+            "bm": "Residen Selangor; Birch dibunuh di Pasir Salak."
+          }
+        },
+        {
+          "date": "1888",
+          "event": {
+            "en": "Pahang accepts a Resident.",
+            "bm": "Pahang menerima Residen."
+          }
+        },
+        {
+          "date": "1895",
+          "event": {
+            "en": "Negeri Sembilan united under a Resident.",
+            "bm": "Negeri Sembilan bersatu di bawah Residen."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/pasir-salak.webp",
+          "alt": {
+            "en": "Pasir Salak Historical Complex, Perak, near where J.W.W. Birch was killed in 1875.",
+            "bm": "Kompleks Sejarah Pasir Salak, Perak, berhampiran tempat J.W.W. Birch dibunuh pada 1875."
+          },
+          "caption": {
+            "en": "Pasir Salak Historical Complex, Perak, near where J.W.W. Birch was killed in 1875.",
+            "bm": "Kompleks Sejarah Pasir Salak, Perak, berhampiran tempat J.W.W. Birch dibunuh pada 1875."
+          },
+          "credit": "spicytropic · CC BY-SA 3.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kompleks_Sejarah_Pasir_Salak,_Perak,_Malaysia_-_panoramio.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Explain the meaning of the Residential System.",
+          "bm": "Jelaskan maksud Sistem Residen."
+        },
+        "answer": {
+          "en": "A system in which the ruler accepted a British Resident whose advice had to be followed in all matters except Islam and Malay custom — in practice the Resident held real power.",
+          "bm": "Sistem apabila raja menerima Residen British yang nasihatnya mesti dipatuhi dalam semua perkara kecuali agama Islam dan adat Melayu — secara praktiknya Residen memegang kuasa sebenar."
+        }
+      },
+      "tip": {
+        "en": "Remember the three strategies: Manipulasi, Desakan, Perjanjian.",
+        "bm": "Ingat tiga strategi: Manipulasi, Desakan, Perjanjian."
+      }
     },
     "f3sej-03-03": {
       "keyPoints": [
         {
-          "en": "FMS formed 1 July 1896: Perak, Selangor, Negeri Sembilan, Pahang.",
-          "bm": "NNMB dibentuk 1 Julai 1896: Perak, Selangor, Negeri Sembilan, Pahang."
+          "en": "The Federated Malay States (FMS) were formed on 1 July 1896: Perak, Selangor, Negeri Sembilan and Pahang.",
+          "bm": "Negeri-negeri Melayu Bersekutu (NNMB) dibentuk pada 1 Julai 1896: Perak, Selangor, Negeri Sembilan dan Pahang."
         },
         {
-          "en": "Reasons: uniform administration, help Pahang, faster economic development, stronger British control.",
-          "bm": "Sebab: pentadbiran seragam, membantu Pahang, pembangunan ekonomi lebih pesat, kawalan British lebih kukuh."
+          "en": "A Resident-General in Kuala Lumpur headed the federation; the first was Frank Swettenham.",
+          "bm": "Seorang Residen Jeneral di Kuala Lumpur mengetuai persekutuan; yang pertama ialah Frank Swettenham."
+        },
+        {
+          "en": "Reasons: uniform administration, help for poor Pahang, faster development and better defence.",
+          "bm": "Sebab: pentadbiran seragam, membantu Pahang yang miskin, pembangunan lebih pesat dan pertahanan lebih baik."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "FMS",
+            "bm": "NNMB"
+          },
+          "meaning": {
+            "en": "Federated Malay States (1896), with a central government in Kuala Lumpur.",
+            "bm": "Negeri-negeri Melayu Bersekutu (1896), dengan kerajaan pusat di Kuala Lumpur."
+          }
+        },
+        {
+          "term": {
+            "en": "Resident-General",
+            "bm": "Residen Jeneral"
+          },
+          "meaning": {
+            "en": "Head of the FMS administration, answering to the High Commissioner (the Governor of the Straits Settlements).",
+            "bm": "Ketua pentadbiran NNMB, bertanggungjawab kepada Pesuruhjaya Tinggi (Gabenor Negeri-negeri Selat)."
+          }
+        },
+        {
+          "term": {
+            "en": "Centralisation",
+            "bm": "Pemusatan kuasa"
+          },
+          "meaning": {
+            "en": "Gathering power in one central government.",
+            "bm": "Mengumpulkan kuasa dalam satu kerajaan pusat."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Features of the FMS",
+            "bm": "Ciri-ciri NNMB"
+          },
+          "points": [
+            {
+              "en": "Resident-General in Kuala Lumpur; a Resident in each state.",
+              "bm": "Residen Jeneral di Kuala Lumpur; seorang Residen di setiap negeri."
+            },
+            {
+              "en": "Federal departments (e.g. police, public works, railways) run from Kuala Lumpur.",
+              "bm": "Jabatan persekutuan (cth. polis, kerja raya, kereta api) ditadbir dari Kuala Lumpur."
+            },
+            {
+              "en": "Rulers kept authority only over Islam and Malay custom.",
+              "bm": "Raja-raja hanya berkuasa dalam hal agama Islam dan adat Melayu."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Factors in forming the FMS",
+            "bm": "Faktor pembentukan NNMB"
+          },
+          "points": [
+            {
+              "en": "Each state ran differently — a federation made rules uniform.",
+              "bm": "Setiap negeri ditadbir berbeza — persekutuan menyeragamkan peraturan."
+            },
+            {
+              "en": "Pahang was in debt and unrest; richer states could help it.",
+              "bm": "Pahang berhutang dan bergolak; negeri yang lebih kaya boleh membantunya."
+            },
+            {
+              "en": "Better coordination of roads, railways and economic development; stronger defence.",
+              "bm": "Penyelarasan jalan raya, kereta api dan pembangunan ekonomi yang lebih baik; pertahanan yang lebih kukuh."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/swettenham.webp",
+          "alt": {
+            "en": "Sir Frank Swettenham, first Resident-General of the FMS (portrait by John Singer Sargent, 1904).",
+            "bm": "Sir Frank Swettenham, Residen Jeneral pertama NNMB (potret oleh John Singer Sargent, 1904)."
+          },
+          "caption": {
+            "en": "Sir Frank Swettenham, first Resident-General of the FMS (portrait by John Singer Sargent, 1904).",
+            "bm": "Sir Frank Swettenham, Residen Jeneral pertama NNMB (potret oleh John Singer Sargent, 1904)."
+          },
+          "credit": "John Singer Sargent · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Frank_Swettenham_by_John_Singer_Sargent_1904.jpg"
+        },
+        {
+          "src": "img/sej/british-malaya-map.webp",
+          "alt": {
+            "en": "Map of British Malaya (about 1920) showing the Straits Settlements, the FMS and the UMS.",
+            "bm": "Peta Tanah Melayu British (sekitar 1920) menunjukkan Negeri-negeri Selat, NNMB dan NNMTB."
+          },
+          "caption": {
+            "en": "Map of British Malaya (about 1920) showing the Straits Settlements, the FMS and the UMS.",
+            "bm": "Peta Tanah Melayu British (sekitar 1920) menunjukkan Negeri-negeri Selat, NNMB dan NNMTB."
+          },
+          "credit": "Federated Malay States Survey Department (Kuala Lumpur). Auteur du texte · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_British_Malaya,_including_the_straits_Settlements,_federated_Malay_States_and_Malay_States_not_included_in_the_federation_-_btv1b530645902.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "How did forming the FMS affect the Malay rulers?",
+          "bm": "Bagaimanakah pembentukan NNMB memberi kesan kepada raja-raja Melayu?"
+        },
+        "answer": {
+          "en": "Power moved from the states to the Resident-General in Kuala Lumpur, so the rulers lost even more authority.",
+          "bm": "Kuasa berpindah dari negeri kepada Residen Jeneral di Kuala Lumpur, maka raja-raja kehilangan lebih banyak kuasa."
+        }
+      }
     },
     "f3sej-03-04": {
       "keyPoints": [
         {
-          "en": "Resident-General (Frank Swettenham) in Kuala Lumpur; Durbar 1897 at Kuala Kangsar; Federal Council 1909.",
-          "bm": "Residen Jeneral (Frank Swettenham) di Kuala Lumpur; Durbar 1897 di Kuala Kangsar; Majlis Mesyuarat Persekutuan 1909."
+          "en": "Each FMS state had a State Council; above them stood the federal government in Kuala Lumpur.",
+          "bm": "Setiap negeri NNMB mempunyai Majlis Mesyuarat Negeri; di atasnya ialah kerajaan persekutuan di Kuala Lumpur."
         },
         {
-          "en": "Central control reduced the Sultans' power further.",
-          "bm": "Kawalan pusat semakin mengurangkan kuasa Sultan."
+          "en": "The Durbar (Conference of Rulers) first met at Kuala Kangsar in 1897.",
+          "bm": "Durbar (Persidangan Raja-raja) pertama kali bersidang di Kuala Kangsar pada 1897."
+        },
+        {
+          "en": "A Federal Council was set up in 1909 to make laws for the FMS.",
+          "bm": "Majlis Mesyuarat Persekutuan ditubuhkan pada 1909 untuk menggubal undang-undang NNMB."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "State Council",
+            "bm": "Majlis Mesyuarat Negeri"
+          },
+          "meaning": {
+            "en": "Council of the ruler, Resident, Malay chiefs and Chinese leaders in each state.",
+            "bm": "Majlis raja, Residen, pembesar Melayu dan pemimpin Cina di setiap negeri."
+          }
+        },
+        {
+          "term": {
+            "en": "Durbar",
+            "bm": "Durbar"
+          },
+          "meaning": {
+            "en": "Meeting of the FMS rulers with British officials.",
+            "bm": "Persidangan raja-raja NNMB bersama pegawai British."
+          }
+        },
+        {
+          "term": {
+            "en": "Federal Council",
+            "bm": "Majlis Mesyuarat Persekutuan"
+          },
+          "meaning": {
+            "en": "1909 law-making council chaired by the High Commissioner.",
+            "bm": "Majlis pembuat undang-undang 1909 yang dipengerusikan Pesuruhjaya Tinggi."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Administrative structure",
+            "bm": "Struktur pentadbiran"
+          },
+          "points": [
+            {
+              "en": "High Commissioner → Resident-General → Residents → District Officers → penghulu.",
+              "bm": "Pesuruhjaya Tinggi → Residen Jeneral → Residen → Pegawai Daerah → penghulu."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Federal Council (1909)",
+            "bm": "Majlis Mesyuarat Persekutuan (1909)"
+          },
+          "points": [
+            {
+              "en": "Members: the High Commissioner (chair), the Resident-General, the four rulers, the four Residents and four unofficial members.",
+              "bm": "Anggota: Pesuruhjaya Tinggi (pengerusi), Residen Jeneral, empat orang raja, empat orang Residen dan empat ahli tidak rasmi."
+            },
+            {
+              "en": "The rulers could not veto laws, so their power fell further.",
+              "bm": "Raja-raja tidak boleh membatalkan undang-undang, maka kuasa mereka semakin berkurang."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "The Durbar",
+            "bm": "Pembentukan Durbar"
+          },
+          "points": [
+            {
+              "en": "First Durbar 1897 (Kuala Kangsar); second 1903 (Kuala Lumpur), where Sultan Idris of Perak asked for more Malays in the government.",
+              "bm": "Durbar pertama 1897 (Kuala Kangsar); kedua 1903 (Kuala Lumpur), apabila Sultan Idris Perak meminta lebih ramai orang Melayu dalam pentadbiran."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/durbar.webp",
+          "alt": {
+            "en": "The first Durbar of the FMS rulers at Kuala Kangsar, July 1897.",
+            "bm": "Durbar pertama raja-raja NNMB di Kuala Kangsar, Julai 1897."
+          },
+          "caption": {
+            "en": "The first Durbar of the FMS rulers at Kuala Kangsar, July 1897.",
+            "bm": "Durbar pertama raja-raja NNMB di Kuala Kangsar, Julai 1897."
+          },
+          "credit": "G.R. Lambert & Co. · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sultans_at_the_first_Malayan_Durbar.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the Federal Council 1909 reduce the power of the Malay rulers?",
+          "bm": "Mengapakah Majlis Mesyuarat Persekutuan 1909 mengurangkan kuasa raja-raja Melayu?"
+        },
+        "answer": {
+          "en": "Laws for all four states were made by the Federal Council, where the rulers were ordinary members without the power to veto.",
+          "bm": "Undang-undang bagi keempat-empat negeri dibuat oleh Majlis Mesyuarat Persekutuan, tempat raja-raja hanya ahli biasa tanpa kuasa membatalkan."
+        }
+      }
     }
   }
 }

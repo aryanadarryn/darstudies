@@ -160,6 +160,9 @@ for (const file of noteFiles) {
     noteCount++
     notedSubtopics.add(sid)
     if (!subtopicIds.has(sid) || !sid.startsWith(notes.chapterId + '-')) errors.push(`${file}: unknown subtopic ${sid}`)
+    for (const img of notes.subtopics[sid].images ?? []) {
+      if (!existsSync(join(import.meta.dirname, '..', 'public', img.src))) errors.push(`${file}: ${sid} picture not found: public/${img.src}`)
+    }
   }
 }
 

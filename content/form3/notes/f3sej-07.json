@@ -5,42 +5,397 @@
     "f3sej-07-01": {
       "keyPoints": [
         {
-          "en": "Aim: defend sovereignty, religion, customs and traditional rights. Forms: armed and non-armed.",
-          "bm": "Matlamat: mempertahankan kedaulatan, agama, adat dan hak tradisional. Bentuk: bersenjata dan tanpa senjata."
+          "en": "Local communities resisted to defend their sovereignty, religion, customs and rights.",
+          "bm": "Masyarakat tempatan menentang untuk mempertahankan kedaulatan, agama, adat dan hak mereka."
+        },
+        {
+          "en": "Armed resistance in the 19th century: Dol Said, Yam Tuan Antah, Dato' Bahaman, Rentap, Sharif Masahor.",
+          "bm": "Penentangan bersenjata abad ke-19: Dol Said, Yam Tuan Antah, Dato' Bahaman, Rentap, Sharif Masahor."
+        },
+        {
+          "en": "Armed resistance in the 20th century: Tok Janggut, Mat Salleh, Mat Sator.",
+          "bm": "Penentangan bersenjata abad ke-20: Tok Janggut, Mat Salleh, Mat Sator."
+        },
+        {
+          "en": "Other forms: challenging treaties and using the legal system.",
+          "bm": "Bentuk lain: mencabar perjanjian dan menggunakan sistem perundangan."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Armed resistance",
+            "bm": "Penentangan bersenjata"
+          },
+          "meaning": {
+            "en": "Fighting with weapons against colonial forces.",
+            "bm": "Bertempur dengan senjata menentang tentera penjajah."
+          }
+        },
+        {
+          "term": {
+            "en": "Non-armed resistance",
+            "bm": "Penentangan tidak bersenjata"
+          },
+          "meaning": {
+            "en": "Opposing through refusal, protest letters, treaties or the courts.",
+            "bm": "Menentang melalui keengganan, surat bantahan, perjanjian atau mahkamah."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Armed resistance — 19th century",
+            "bm": "Penentangan bersenjata — abad ke-19"
+          },
+          "points": [
+            {
+              "en": "Dol Said (Naning, 1831–1832): refused to pay one-tenth of produce to the British.",
+              "bm": "Dol Said (Naning, 1831–1832): enggan membayar sepersepuluh hasil kepada British."
+            },
+            {
+              "en": "Yam Tuan Antah (Negeri Sembilan, 1875): opposed British interference in Sungai Ujong.",
+              "bm": "Yam Tuan Antah (Negeri Sembilan, 1875): menentang campur tangan British di Sungai Ujong."
+            },
+            {
+              "en": "Dato' Bahaman (Pahang, 1891–1895), with Mat Kilau: angered by loss of chiefs' power.",
+              "bm": "Dato' Bahaman (Pahang, 1891–1895), bersama Mat Kilau: marah akibat kehilangan kuasa pembesar."
+            },
+            {
+              "en": "Rentap and Sharif Masahor (Sarawak): fought the Brookes.",
+              "bm": "Rentap dan Sharif Masahor (Sarawak): menentang Brooke."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Armed resistance — 20th century",
+            "bm": "Penentangan bersenjata — abad ke-20"
+          },
+          "points": [
+            {
+              "en": "Tok Janggut (Pasir Puteh, Kelantan, 1915): against new taxes and land rules.",
+              "bm": "Tok Janggut (Pasir Puteh, Kelantan, 1915): menentang cukai baharu dan peraturan tanah."
+            },
+            {
+              "en": "Mat Salleh (Sabah, 1894–1900): against the BNBC's taxes and interference.",
+              "bm": "Mat Salleh (Sabah, 1894–1900): menentang cukai dan campur tangan SBUB."
+            },
+            {
+              "en": "Mat Sator in Sabah continued resistance after Mat Salleh.",
+              "bm": "Mat Sator di Sabah meneruskan penentangan selepas Mat Salleh."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Challenging treaties and using the law",
+            "bm": "Mencabar perjanjian dan menggunakan sistem perundangan"
+          },
+          "points": [
+            {
+              "en": "Some rulers and chiefs disputed treaties and refused to follow them.",
+              "bm": "Sesetengah raja dan pembesar mempertikaikan perjanjian dan enggan mematuhinya."
+            },
+            {
+              "en": "Haji Abdul Rahman Limbong (Terengganu) defended farmers in court against land permit rules before the 1928 uprising.",
+              "bm": "Haji Abdul Rahman Limbong (Terengganu) membela petani di mahkamah menentang peraturan permit tanah sebelum kebangkitan 1928."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "State TWO aims of local resistance.",
+          "bm": "Nyatakan DUA matlamat penentangan masyarakat tempatan."
+        },
+        "answer": {
+          "en": "To defend the sovereignty of the state and the power of local leaders; to protect religion, customs and the people's rights (e.g. from unfair taxes).",
+          "bm": "Mempertahankan kedaulatan negeri dan kuasa pemimpin tempatan; melindungi agama, adat dan hak rakyat (cth. daripada cukai yang tidak adil)."
+        }
+      }
     },
     "f3sej-07-02": {
       "keyPoints": [
         {
-          "en": "Chiefs lost tax rights and powers; new taxes and land laws burdened people; customs and religion were ignored.",
-          "bm": "Pembesar hilang hak cukai dan kuasa; cukai dan undang-undang tanah baharu membebankan rakyat; adat dan agama diabaikan."
+          "en": "Western administration took power away from local rulers and chiefs.",
+          "bm": "Pentadbiran Barat mengambil kuasa daripada raja dan pembesar tempatan."
+        },
+        {
+          "en": "It replaced local laws and took over local finances, such as the right to collect taxes.",
+          "bm": "Ia menggantikan undang-undang tempatan dan mengambil alih kewangan tempatan, seperti hak memungut cukai."
+        },
+        {
+          "en": "Ordinary people suffered from new taxes, land permits and rules that ignored their customs.",
+          "bm": "Rakyat biasa menderita akibat cukai baharu, permit tanah dan peraturan yang mengabaikan adat mereka."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Loss of power",
+            "bm": "Kehilangan kuasa"
+          },
+          "meaning": {
+            "en": "Rulers and chiefs could no longer make decisions in their own areas.",
+            "bm": "Raja dan pembesar tidak lagi boleh membuat keputusan di kawasan masing-masing."
+          }
+        },
+        {
+          "term": {
+            "en": "Land permit",
+            "bm": "Permit tanah"
+          },
+          "meaning": {
+            "en": "Permission (and fee) needed to open or use land.",
+            "bm": "Kebenaran (dan bayaran) yang diperlukan untuk membuka atau menggunakan tanah."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Effects on governing power",
+            "bm": "Kesan terhadap kuasa pemerintahan"
+          },
+          "points": [
+            {
+              "en": "1. Local government: Residents and officers took over decisions.",
+              "bm": "1. Pemerintahan tempatan: Residen dan pegawai mengambil alih keputusan."
+            },
+            {
+              "en": "2. Local laws: Western laws and courts replaced many customs.",
+              "bm": "2. Perundangan tempatan: undang-undang dan mahkamah Barat menggantikan banyak adat."
+            },
+            {
+              "en": "3. Local finance: chiefs lost the right to collect taxes; the British collected them.",
+              "bm": "3. Kewangan tempatan: pembesar hilang hak memungut cukai; British yang memungutnya."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Effects on people's lives: hardship",
+            "bm": "Kesan terhadap kehidupan masyarakat: kesengsaraan"
+          },
+          "points": [
+            {
+              "en": "New taxes on land, produce, boats and even buffaloes; permits for land and forest products.",
+              "bm": "Cukai baharu ke atas tanah, hasil, perahu dan juga kerbau; permit untuk tanah dan hasil hutan."
+            },
+            {
+              "en": "Customs such as kerah and debt-bondage were banned without understanding local society.",
+              "bm": "Adat seperti kerah dan perhambaan hutang diharamkan tanpa memahami masyarakat tempatan."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the Residential System anger Malay chiefs?",
+          "bm": "Mengapakah Sistem Residen menimbulkan kemarahan pembesar Melayu?"
+        },
+        "answer": {
+          "en": "They lost their traditional powers and the right to collect taxes, which was their main source of income.",
+          "bm": "Mereka kehilangan kuasa tradisional dan hak memungut cukai, yang merupakan sumber pendapatan utama mereka."
+        }
+      }
     },
     "f3sej-07-03": {
       "keyPoints": [
         {
-          "en": "Dol Said (Naning 1831–32), Maharaja Lela (Perak 1875), Bahaman & Mat Kilau (Pahang 1891–95), Tok Janggut (Kelantan 1915), Abdul Rahman Limbong (Terengganu 1928).",
-          "bm": "Dol Said (Naning 1831–32), Maharaja Lela (Perak 1875), Bahaman & Mat Kilau (Pahang 1891–95), Tok Janggut (Kelantan 1915), Abdul Rahman Limbong (Terengganu 1928)."
+          "en": "Local resistance had strengths: unity (muafakat), forts, weapons and use of the law.",
+          "bm": "Penentangan tempatan mempunyai kekuatan: muafakat, kubu pertahanan, persenjataan dan perundangan."
         },
         {
-          "en": "Sarawak: Rentap, Sharif Masahor. Sabah: Mat Salleh (1894–1900), Antanom (1915).",
-          "bm": "Sarawak: Rentap, Sharif Masahor. Sabah: Mat Salleh (1894–1900), Antanom (1915)."
+          "en": "It also had weaknesses: limited weapons, Western legal threats, failure to interpret treaties and British trickery.",
+          "bm": "Ia juga mempunyai kelemahan: senjata yang terhad, ancaman perundangan Barat, gagal mentafsir perjanjian dan tipu muslihat British."
+        },
+        {
+          "en": "Most resistance failed against the better-armed British forces.",
+          "bm": "Kebanyakan penentangan gagal menghadapi tentera British yang lebih lengkap bersenjata."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Muafakat",
+            "bm": "Muafakat"
+          },
+          "meaning": {
+            "en": "Agreement and unity among leaders before acting.",
+            "bm": "Persetujuan dan perpaduan dalam kalangan pemimpin sebelum bertindak."
+          }
+        },
+        {
+          "term": {
+            "en": "Fort",
+            "bm": "Kubu"
+          },
+          "meaning": {
+            "en": "Defensive stronghold, e.g. Mat Salleh's fort at Tambunan, Rentap's fort at Bukit Sadok.",
+            "bm": "Kubu pertahanan, cth. kubu Mat Salleh di Tambunan, kubu Rentap di Bukit Sadok."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Strengths",
+            "bm": "Kekuatan"
+          },
+          "points": [
+            {
+              "en": "1. Muafakat: e.g. Perak chiefs met and agreed to remove Birch (1875).",
+              "bm": "1. Muafakat: cth. pembesar Perak bermesyuarat dan bersetuju menyingkirkan Birch (1875)."
+            },
+            {
+              "en": "2. Forts in hills and jungle that were hard to attack.",
+              "bm": "2. Kubu di bukit dan hutan yang sukar diserang."
+            },
+            {
+              "en": "3. Weapons: traditional weapons and some firearms; knowledge of the land.",
+              "bm": "3. Persenjataan: senjata tradisional dan sedikit senjata api; pengetahuan tentang kawasan."
+            },
+            {
+              "en": "4. Law: some leaders used legal arguments and the courts.",
+              "bm": "4. Perundangan: sesetengah pemimpin menggunakan hujah undang-undang dan mahkamah."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Weaknesses",
+            "bm": "Kelemahan"
+          },
+          "points": [
+            {
+              "en": "1. Armed struggle against modern guns, cannons and trained troops.",
+              "bm": "1. Penentangan bersenjata menghadapi senapang moden, meriam dan tentera terlatih."
+            },
+            {
+              "en": "2. Threat of Western law — leaders were tried, hanged or exiled.",
+              "bm": "2. Ancaman perundangan Barat — pemimpin dibicarakan, digantung atau dibuang negeri."
+            },
+            {
+              "en": "3. Failing to interpret treaties — e.g. not realising what \"advice\" in the Pangkor Treaty meant.",
+              "bm": "3. Gagal mentafsir perjanjian — cth. tidak menyedari maksud \"nasihat\" dalam Perjanjian Pangkor."
+            },
+            {
+              "en": "4. British trickery, e.g. false promises and bribing local informers.",
+              "bm": "4. Tipu muslihat British, cth. janji palsu dan merasuah pemberi maklumat tempatan."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/mat-salleh-memorial.webp",
+          "alt": {
+            "en": "Memorial at Tambunan, Sabah, marking the site of Mat Salleh's fort, where he died in 1900.",
+            "bm": "Tugu di Tambunan, Sabah, menandakan tapak kubu Mat Salleh, tempat beliau gugur pada 1900."
+          },
+          "caption": {
+            "en": "Memorial at Tambunan, Sabah, marking the site of Mat Salleh's fort, where he died in 1900.",
+            "bm": "Tugu di Tambunan, Sabah, menandakan tapak kubu Mat Salleh, tempat beliau gugur pada 1900."
+          },
+          "credit": "CEphoto, Uwe Aranas · CC BY-SA 3.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tambunan_Sabab_Mat-Salleh-Memorial-02.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did most local resistance fail?",
+          "bm": "Mengapakah kebanyakan penentangan tempatan gagal?"
+        },
+        "answer": {
+          "en": "The British had modern weapons and more troops; resistance was local and not united; and the British used trickery and the law against the leaders.",
+          "bm": "British mempunyai senjata moden dan tentera yang lebih ramai; penentangan bersifat setempat dan tidak bersatu; dan British menggunakan tipu muslihat serta undang-undang terhadap pemimpin."
+        }
+      }
     },
     "f3sej-07-04": {
       "keyPoints": [
         {
-          "en": "Resistance was crushed; leaders killed or exiled; British control tightened.",
-          "bm": "Penentangan dipatahkan; pemimpin dibunuh atau dibuang negeri; kawalan British diperketat."
+          "en": "Resistance affected both the British administration and the local community.",
+          "bm": "Penentangan memberi kesan kepada pentadbiran British dan masyarakat tempatan."
         },
         {
-          "en": "It inspired later nationalism; the fighters are remembered as heroes.",
-          "bm": "Ia menjadi inspirasi nasionalisme kemudian; pejuang dikenang sebagai wira."
+          "en": "The British strengthened their control but also became more careful with local customs.",
+          "bm": "British mengukuhkan kawalan tetapi juga lebih berhati-hati dengan adat tempatan."
+        },
+        {
+          "en": "Many leaders were killed, hanged or exiled — but their courage inspired later nationalists.",
+          "bm": "Ramai pemimpin terbunuh, digantung atau dibuang negeri — tetapi keberanian mereka memberi inspirasi kepada nasionalis kemudian."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Exile",
+            "bm": "Buang negeri"
+          },
+          "meaning": {
+            "en": "Sending someone away from his homeland as punishment, e.g. Sultan Abdullah to the Seychelles.",
+            "bm": "Menghantar seseorang keluar dari tanah airnya sebagai hukuman, cth. Sultan Abdullah ke Seychelles."
+          }
+        },
+        {
+          "term": {
+            "en": "Hero",
+            "bm": "Wira"
+          },
+          "meaning": {
+            "en": "A person admired for courage in defending the homeland.",
+            "bm": "Orang yang disanjung kerana keberanian mempertahankan tanah air."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Effects on the British administration",
+            "bm": "Kesan terhadap pentadbiran British"
+          },
+          "points": [
+            {
+              "en": "Military control was strengthened; more police and forts.",
+              "bm": "Kawalan ketenteraan diperkukuh; lebih banyak polis dan kubu."
+            },
+            {
+              "en": "British officers were told to respect Malay customs and work through rulers (indirect rule).",
+              "bm": "Pegawai British diarah menghormati adat Melayu dan bekerja melalui raja (pemerintahan tidak langsung)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Effects on local communities",
+            "bm": "Kesan terhadap masyarakat tempatan"
+          },
+          "points": [
+            {
+              "en": "Leaders punished: Dato' Maharaja Lela hanged; Sultan Abdullah exiled to the Seychelles; Haji Abdul Rahman Limbong exiled to Mecca.",
+              "bm": "Pemimpin dihukum: Dato' Maharaja Lela digantung; Sultan Abdullah dibuang ke Seychelles; Haji Abdul Rahman Limbong dibuang ke Mekah."
+            },
+            {
+              "en": "The spirit of patriotism lived on and inspired the nationalist movement of the 20th century.",
+              "bm": "Semangat patriotisme terus hidup dan memberi inspirasi kepada gerakan nasionalisme abad ke-20."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "What was the long-term significance of local resistance?",
+          "bm": "Apakah kepentingan jangka panjang penentangan tempatan?"
+        },
+        "answer": {
+          "en": "It showed that people were willing to sacrifice for their homeland and inspired later nationalists who won independence peacefully.",
+          "bm": "Ia menunjukkan rakyat sanggup berkorban demi tanah air dan memberi inspirasi kepada nasionalis kemudian yang mencapai kemerdekaan secara aman."
+        }
+      }
     }
   }
 }

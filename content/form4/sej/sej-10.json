@@ -145,39 +145,175 @@
     {
       "id": "sej-10-q01",
       "subtopicId": "sej-10-01",
-      "type": "mcq",
+      "type": "multi",
       "prompt": {
-        "en": "Where did Tunku first announce the date of independence?",
-        "bm": "Di manakah Tunku mula-mula mengumumkan tarikh kemerdekaan?"
+        "en": "Select ALL meanings of independence.",
+        "bm": "Pilih SEMUA makna kemerdekaan."
       },
       "explanation": {
-        "en": "He announced it on 20 February 1956 after returning from London.",
-        "bm": "Beliau mengumumkannya pada 20 Februari 1956 selepas pulang dari London."
+        "en": "Independence means sovereignty, not the absence of law.",
+        "bm": "Kemerdekaan bermaksud kedaulatan, bukan ketiadaan undang-undang."
       },
-      "difficulty": 1,
+      "difficulty": 2,
       "options": [
         {
-          "en": "Padang Bandar Hilir, Melaka",
-          "bm": "Padang Bandar Hilir, Melaka"
+          "en": "Freedom to govern ourselves",
+          "bm": "Bebas memerintah sendiri"
         },
         {
-          "en": "Stadium Merdeka",
-          "bm": "Stadium Merdeka"
+          "en": "Own foreign policy",
+          "bm": "Dasar luar sendiri"
         },
         {
-          "en": "London",
-          "bm": "London"
+          "en": "Own national symbols",
+          "bm": "Lambang negara sendiri"
         },
         {
-          "en": "Johor Bahru",
-          "bm": "Johor Bahru"
+          "en": "No more laws",
+          "bm": "Tiada lagi undang-undang"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sej-10-q02",
+      "subtopicId": "sej-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it important to remember HOW independence was achieved?",
+        "bm": "Mengapakah penting untuk mengingati BAGAIMANA kemerdekaan dicapai?"
+      },
+      "explanation": {
+        "en": "The method of independence is a model for solving problems today.",
+        "bm": "Cara kemerdekaan dicapai menjadi model penyelesaian masalah hari ini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It reminds us that unity and negotiation, not bloodshed, built our nation",
+          "bm": "Ia mengingatkan bahawa perpaduan dan rundingan, bukan pertumpahan darah, membina negara kita"
+        },
+        {
+          "en": "To blame other races",
+          "bm": "Untuk menyalahkan kaum lain"
+        },
+        {
+          "en": "Because it is only a holiday",
+          "bm": "Kerana ia hanya hari cuti"
+        },
+        {
+          "en": "To forget the past",
+          "bm": "Untuk melupakan masa lalu"
         }
       ],
       "answer": 0
     },
     {
-      "id": "sej-10-q02",
+      "id": "sej-10-q03",
+      "subtopicId": "sej-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Many colonies gained independence through war. What made Malaya's path different?",
+        "bm": "Banyak tanah jajahan merdeka melalui peperangan. Apakah yang membezakan Tanah Melayu?"
+      },
+      "explanation": {
+        "en": "The Alliance's 1955 mandate and the London talks secured independence peacefully.",
+        "bm": "Mandat Perikatan 1955 dan rundingan London memastikan kemerdekaan dicapai secara aman."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Negotiation backed by inter-ethnic unity and a strong election mandate",
+          "bm": "Rundingan yang disokong perpaduan kaum dan mandat pilihan raya yang kukuh"
+        },
+        {
+          "en": "Japanese help",
+          "bm": "Bantuan Jepun"
+        },
+        {
+          "en": "Communist victory",
+          "bm": "Kemenangan komunis"
+        },
+        {
+          "en": "British defeat in battle",
+          "bm": "Kekalahan British dalam pertempuran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q04",
       "subtopicId": "sej-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which stadium was built for the proclamation of independence?",
+        "bm": "Stadium manakah yang dibina untuk pemasyhuran kemerdekaan?"
+      },
+      "explanation": {
+        "en": "Stadium Merdeka in Kuala Lumpur hosted the ceremony on 31 August 1957.",
+        "bm": "Stadium Merdeka di Kuala Lumpur menjadi tempat istiadat pada 31 Ogos 1957."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Stadium Merdeka",
+          "bm": "Stadium Merdeka"
+        },
+        {
+          "en": "Stadium Negara",
+          "bm": "Stadium Negara"
+        },
+        {
+          "en": "Stadium Shah Alam",
+          "bm": "Stadium Shah Alam"
+        },
+        {
+          "en": "Stadium Bukit Jalil",
+          "bm": "Stadium Bukit Jalil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q05",
+      "subtopicId": "sej-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which committee prepared the venues, roads and decorations for Merdeka?",
+        "bm": "Jawatankuasa manakah yang menyediakan tempat, jalan raya dan hiasan untuk Merdeka?"
+      },
+      "explanation": {
+        "en": "The Celebrations Committee planned the programmes and guests.",
+        "bm": "Jawatankuasa Sambutan merancang atur cara dan tetamu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Physical Preparations Committee",
+          "bm": "Jawatankuasa Persediaan Fizikal"
+        },
+        {
+          "en": "Reid Commission",
+          "bm": "Suruhanjaya Reid"
+        },
+        {
+          "en": "Working Committee",
+          "bm": "Jawatankuasa Kerja"
+        },
+        {
+          "en": "Communities Liaison Committee",
+          "bm": "Jawatankuasa Hubungan Antara Kaum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q06",
+      "subtopicId": "sej-10-03",
       "type": "mcq",
       "prompt": {
         "en": "Where was independence proclaimed on 31 August 1957?",
@@ -209,8 +345,8 @@
       "answer": 0
     },
     {
-      "id": "sej-10-q03",
-      "subtopicId": "sej-10-02",
+      "id": "sej-10-q07",
+      "subtopicId": "sej-10-03",
       "type": "fill",
       "prompt": {
         "en": "Tunku shouted \"Merdeka!\" ______ times.",
@@ -228,124 +364,8 @@
       ]
     },
     {
-      "id": "sej-10-q04",
-      "subtopicId": "sej-10-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who became the first Prime Minister of the Federation of Malaya?",
-        "bm": "Siapakah Perdana Menteri pertama Persekutuan Tanah Melayu?"
-      },
-      "explanation": {
-        "en": "Tunku Abdul Rahman is known as Bapa Kemerdekaan (Father of Independence).",
-        "bm": "Tunku Abdul Rahman dikenali sebagai Bapa Kemerdekaan."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Tunku Abdul Rahman",
-          "bm": "Tunku Abdul Rahman"
-        },
-        {
-          "en": "Tun Abdul Razak",
-          "bm": "Tun Abdul Razak"
-        },
-        {
-          "en": "Dato' Onn Jaafar",
-          "bm": "Dato' Onn Jaafar"
-        },
-        {
-          "en": "Tun Hussein Onn",
-          "bm": "Tun Hussein Onn"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q05",
-      "subtopicId": "sej-10-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "What is the national anthem of Malaysia?",
-        "bm": "Apakah lagu kebangsaan Malaysia?"
-      },
-      "explanation": {
-        "en": "Negaraku was adopted in 1957.",
-        "bm": "Negaraku diterima pada 1957."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Negaraku",
-          "bm": "Negaraku"
-        },
-        {
-          "en": "Jalur Gemilang",
-          "bm": "Jalur Gemilang"
-        },
-        {
-          "en": "Rukun Negara",
-          "bm": "Rukun Negara"
-        },
-        {
-          "en": "Malaysia Berjaya",
-          "bm": "Malaysia Berjaya"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q06",
-      "subtopicId": "sej-10-03",
-      "type": "fill",
-      "prompt": {
-        "en": "The motto on the Jata Negara is \"Bersekutu Bertambah ______\".",
-        "bm": "Cogan kata pada Jata Negara ialah \"Bersekutu Bertambah ______\"."
-      },
-      "explanation": {
-        "en": "It means \"Unity is Strength\".",
-        "bm": "Maksudnya \"Unity is Strength\" (bersatu membawa kekuatan)."
-      },
-      "difficulty": 1,
-      "answer": [
-        "Mutu"
-      ]
-    },
-    {
-      "id": "sej-10-q07",
-      "subtopicId": "sej-10-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "How many stripes did the national flag have in 1957?",
-        "bm": "Berapakah jalur pada bendera kebangsaan pada 1957?"
-      },
-      "explanation": {
-        "en": "11 stripes for the 11 states of Malaya; it became 14 in 1963.",
-        "bm": "11 jalur bagi 11 negeri di Tanah Melayu; menjadi 14 pada 1963."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "11",
-          "bm": "11"
-        },
-        {
-          "en": "14",
-          "bm": "14"
-        },
-        {
-          "en": "13",
-          "bm": "13"
-        },
-        {
-          "en": "9",
-          "bm": "9"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "sej-10-q08",
-      "subtopicId": "sej-10-01",
+      "subtopicId": "sej-10-03",
       "type": "mcq",
       "prompt": {
         "en": "On which date did the Union Jack come down in Kuala Lumpur?",
@@ -378,7 +398,7 @@
     },
     {
       "id": "sej-10-q09",
-      "subtopicId": "sej-10-02",
+      "subtopicId": "sej-10-03",
       "type": "order",
       "prompt": {
         "en": "Arrange these events in order.",
@@ -411,6 +431,254 @@
     {
       "id": "sej-10-q10",
       "subtopicId": "sej-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who reads the Proclamation of Independence in the official ceremony?",
+        "bm": "Siapakah yang membaca Pemasyhuran Kemerdekaan dalam istiadat rasmi?"
+      },
+      "explanation": {
+        "en": "Tunku read it; the Duke of Gloucester represented the Queen and handed over the instrument.",
+        "bm": "Tunku membacanya; Duke of Gloucester mewakili Ratu dan menyerahkan dokumen kemerdekaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tunku Abdul Rahman",
+          "bm": "Tunku Abdul Rahman"
+        },
+        {
+          "en": "Duke of Gloucester",
+          "bm": "Duke of Gloucester"
+        },
+        {
+          "en": "Sir Donald MacGillivray",
+          "bm": "Sir Donald MacGillivray"
+        },
+        {
+          "en": "Tuanku Abdul Rahman",
+          "bm": "Tuanku Abdul Rahman"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q11",
+      "subtopicId": "sej-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did the Proclamation ceremony include both the Malay rulers and British representatives?",
+        "bm": "Mengapakah istiadat Pemasyhuran melibatkan raja-raja Melayu dan wakil British?"
+      },
+      "explanation": {
+        "en": "A negotiated handover gave the new nation international recognition.",
+        "bm": "Penyerahan secara rundingan memberi negara baharu pengiktirafan antarabangsa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It showed a peaceful, lawful transfer of power agreed by all parties",
+          "bm": "Menunjukkan pemindahan kuasa yang aman dan sah dipersetujui semua pihak"
+        },
+        {
+          "en": "The British were still in charge",
+          "bm": "British masih berkuasa"
+        },
+        {
+          "en": "The rulers wanted British rule",
+          "bm": "Raja mahu pemerintahan British"
+        },
+        {
+          "en": "It was a trade fair",
+          "bm": "Ia pesta perdagangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q12",
+      "subtopicId": "sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who became the first Prime Minister of the Federation of Malaya?",
+        "bm": "Siapakah Perdana Menteri pertama Persekutuan Tanah Melayu?"
+      },
+      "explanation": {
+        "en": "Tunku Abdul Rahman is known as Bapa Kemerdekaan (Father of Independence).",
+        "bm": "Tunku Abdul Rahman dikenali sebagai Bapa Kemerdekaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Tunku Abdul Rahman",
+          "bm": "Tunku Abdul Rahman"
+        },
+        {
+          "en": "Tun Abdul Razak",
+          "bm": "Tun Abdul Razak"
+        },
+        {
+          "en": "Dato' Onn Jaafar",
+          "bm": "Dato' Onn Jaafar"
+        },
+        {
+          "en": "Tun Hussein Onn",
+          "bm": "Tun Hussein Onn"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q13",
+      "subtopicId": "sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Soon after independence, Malaya became a member of the…",
+        "bm": "Tidak lama selepas merdeka, Tanah Melayu menjadi ahli…"
+      },
+      "explanation": {
+        "en": "Malaya joined the United Nations in September 1957.",
+        "bm": "Tanah Melayu menyertai Pertubuhan Bangsa-Bangsa Bersatu pada September 1957."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "United Nations",
+          "bm": "Pertubuhan Bangsa-Bangsa Bersatu"
+        },
+        {
+          "en": "Japanese Empire",
+          "bm": "Empayar Jepun"
+        },
+        {
+          "en": "Malayan Union",
+          "bm": "Malayan Union"
+        },
+        {
+          "en": "Straits Settlements",
+          "bm": "Negeri-negeri Selat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q14",
+      "subtopicId": "sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which action BEST shows \"filling independence\" (mengisi kemerdekaan)?",
+        "bm": "Tindakan manakah PALING menunjukkan \"mengisi kemerdekaan\"?"
+      },
+      "explanation": {
+        "en": "Filling independence means contributing positively and building unity.",
+        "bm": "Mengisi kemerdekaan bermaksud menyumbang secara positif dan membina perpaduan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Volunteering in a multiracial community project",
+          "bm": "Menjadi sukarelawan dalam projek komuniti berbilang kaum"
+        },
+        {
+          "en": "Hanging a flag but littering",
+          "bm": "Menggantung bendera tetapi membuang sampah merata-rata"
+        },
+        {
+          "en": "Avoiding school",
+          "bm": "Ponteng sekolah"
+        },
+        {
+          "en": "Spreading fake news",
+          "bm": "Menyebarkan berita palsu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q15",
+      "subtopicId": "sej-10-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the national anthem of Malaysia?",
+        "bm": "Apakah lagu kebangsaan Malaysia?"
+      },
+      "explanation": {
+        "en": "Negaraku was adopted in 1957.",
+        "bm": "Negaraku diterima pada 1957."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Negaraku",
+          "bm": "Negaraku"
+        },
+        {
+          "en": "Jalur Gemilang",
+          "bm": "Jalur Gemilang"
+        },
+        {
+          "en": "Rukun Negara",
+          "bm": "Rukun Negara"
+        },
+        {
+          "en": "Malaysia Berjaya",
+          "bm": "Malaysia Berjaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q16",
+      "subtopicId": "sej-10-05",
+      "type": "fill",
+      "prompt": {
+        "en": "The motto on the Jata Negara is \"Bersekutu Bertambah ______\".",
+        "bm": "Cogan kata pada Jata Negara ialah \"Bersekutu Bertambah ______\"."
+      },
+      "explanation": {
+        "en": "It means \"Unity is Strength\".",
+        "bm": "Maksudnya \"Unity is Strength\" (bersatu membawa kekuatan)."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Mutu"
+      ]
+    },
+    {
+      "id": "sej-10-q17",
+      "subtopicId": "sej-10-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many stripes did the national flag have in 1957?",
+        "bm": "Berapakah jalur pada bendera kebangsaan pada 1957?"
+      },
+      "explanation": {
+        "en": "11 stripes for the 11 states of Malaya; it became 14 in 1963.",
+        "bm": "11 jalur bagi 11 negeri di Tanah Melayu; menjadi 14 pada 1963."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "11",
+          "bm": "11"
+        },
+        {
+          "en": "14",
+          "bm": "14"
+        },
+        {
+          "en": "13",
+          "bm": "13"
+        },
+        {
+          "en": "9",
+          "bm": "9"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-10-q18",
+      "subtopicId": "sej-10-05",
       "type": "match",
       "prompt": {
         "en": "Match each national symbol with its description.",
@@ -465,45 +733,8 @@
       ]
     },
     {
-      "id": "sej-10-q11",
-      "subtopicId": "sej-10-03",
-      "type": "multi",
-      "prompt": {
-        "en": "Select ALL meanings of independence.",
-        "bm": "Pilih SEMUA makna kemerdekaan."
-      },
-      "explanation": {
-        "en": "Independence means sovereignty, not the absence of law.",
-        "bm": "Kemerdekaan bermaksud kedaulatan, bukan ketiadaan undang-undang."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Freedom to govern ourselves",
-          "bm": "Bebas memerintah sendiri"
-        },
-        {
-          "en": "Own foreign policy",
-          "bm": "Dasar luar sendiri"
-        },
-        {
-          "en": "Own national symbols",
-          "bm": "Lambang negara sendiri"
-        },
-        {
-          "en": "No more laws",
-          "bm": "Tiada lagi undang-undang"
-        }
-      ],
-      "answer": [
-        0,
-        1,
-        2
-      ]
-    },
-    {
-      "id": "sej-10-q12",
-      "subtopicId": "sej-10-03",
+      "id": "sej-10-q19",
+      "subtopicId": "sej-10-05",
       "type": "mcq",
       "prompt": {
         "en": "What did the 11-point star on the 1957 flag represent?",
@@ -535,107 +766,8 @@
       "answer": 0
     },
     {
-      "id": "sej-10-q13",
-      "subtopicId": "sej-10-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Soon after independence, Malaya became a member of the…",
-        "bm": "Tidak lama selepas merdeka, Tanah Melayu menjadi ahli…"
-      },
-      "explanation": {
-        "en": "Malaya joined the United Nations in September 1957.",
-        "bm": "Tanah Melayu menyertai Pertubuhan Bangsa-Bangsa Bersatu pada September 1957."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "United Nations",
-          "bm": "Pertubuhan Bangsa-Bangsa Bersatu"
-        },
-        {
-          "en": "Japanese Empire",
-          "bm": "Empayar Jepun"
-        },
-        {
-          "en": "Malayan Union",
-          "bm": "Malayan Union"
-        },
-        {
-          "en": "Straits Settlements",
-          "bm": "Negeri-negeri Selat"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q14",
-      "subtopicId": "sej-10-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why was Melaka chosen for the first announcement?",
-        "bm": "Mengapakah Melaka dipilih untuk pengumuman pertama?"
-      },
-      "explanation": {
-        "en": "Announcing freedom where colonisation began was symbolic.",
-        "bm": "Mengumumkan kebebasan di tempat bermulanya penjajahan amat simbolik."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "It was the historic centre of the Malay Sultanate, which fell to the Portuguese in 1511",
-          "bm": "Melaka pusat bersejarah Kesultanan Melayu yang jatuh ke tangan Portugis pada 1511"
-        },
-        {
-          "en": "It was the only city with a stadium",
-          "bm": "Satu-satunya bandar yang ada stadium"
-        },
-        {
-          "en": "The British lived there",
-          "bm": "British tinggal di sana"
-        },
-        {
-          "en": "It was the capital of Japan",
-          "bm": "Ibu kota Jepun"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q15",
-      "subtopicId": "sej-10-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who reads the Proclamation of Independence in the official ceremony?",
-        "bm": "Siapakah yang membaca Pemasyhuran Kemerdekaan dalam istiadat rasmi?"
-      },
-      "explanation": {
-        "en": "Tunku read it; the Duke of Gloucester represented the Queen and handed over the instrument.",
-        "bm": "Tunku membacanya; Duke of Gloucester mewakili Ratu dan menyerahkan dokumen kemerdekaan."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Tunku Abdul Rahman",
-          "bm": "Tunku Abdul Rahman"
-        },
-        {
-          "en": "Duke of Gloucester",
-          "bm": "Duke of Gloucester"
-        },
-        {
-          "en": "Sir Donald MacGillivray",
-          "bm": "Sir Donald MacGillivray"
-        },
-        {
-          "en": "Tuanku Abdul Rahman",
-          "bm": "Tuanku Abdul Rahman"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q16",
-      "subtopicId": "sej-10-03",
+      "id": "sej-10-q20",
+      "subtopicId": "sej-10-05",
       "type": "mcq",
       "prompt": {
         "en": "Which Rukun Negara principle links most directly to respecting national symbols?",
@@ -662,138 +794,6 @@
         {
           "en": "Courtesy and morality",
           "bm": "Kesopanan dan kesusilaan"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q17",
-      "subtopicId": "sej-10-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why is it important to remember HOW independence was achieved?",
-        "bm": "Mengapakah penting untuk mengingati BAGAIMANA kemerdekaan dicapai?"
-      },
-      "explanation": {
-        "en": "The method of independence is a model for solving problems today.",
-        "bm": "Cara kemerdekaan dicapai menjadi model penyelesaian masalah hari ini."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "It reminds us that unity and negotiation, not bloodshed, built our nation",
-          "bm": "Ia mengingatkan bahawa perpaduan dan rundingan, bukan pertumpahan darah, membina negara kita"
-        },
-        {
-          "en": "To blame other races",
-          "bm": "Untuk menyalahkan kaum lain"
-        },
-        {
-          "en": "Because it is only a holiday",
-          "bm": "Kerana ia hanya hari cuti"
-        },
-        {
-          "en": "To forget the past",
-          "bm": "Untuk melupakan masa lalu"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q18",
-      "subtopicId": "sej-10-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which action BEST shows \"filling independence\" (mengisi kemerdekaan)?",
-        "bm": "Tindakan manakah PALING menunjukkan \"mengisi kemerdekaan\"?"
-      },
-      "explanation": {
-        "en": "Filling independence means contributing positively and building unity.",
-        "bm": "Mengisi kemerdekaan bermaksud menyumbang secara positif dan membina perpaduan."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Volunteering in a multiracial community project",
-          "bm": "Menjadi sukarelawan dalam projek komuniti berbilang kaum"
-        },
-        {
-          "en": "Hanging a flag but littering",
-          "bm": "Menggantung bendera tetapi membuang sampah merata-rata"
-        },
-        {
-          "en": "Avoiding school",
-          "bm": "Ponteng sekolah"
-        },
-        {
-          "en": "Spreading fake news",
-          "bm": "Menyebarkan berita palsu"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q19",
-      "subtopicId": "sej-10-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why did the Proclamation ceremony include both the Malay rulers and British representatives?",
-        "bm": "Mengapakah istiadat Pemasyhuran melibatkan raja-raja Melayu dan wakil British?"
-      },
-      "explanation": {
-        "en": "A negotiated handover gave the new nation international recognition.",
-        "bm": "Penyerahan secara rundingan memberi negara baharu pengiktirafan antarabangsa."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "It showed a peaceful, lawful transfer of power agreed by all parties",
-          "bm": "Menunjukkan pemindahan kuasa yang aman dan sah dipersetujui semua pihak"
-        },
-        {
-          "en": "The British were still in charge",
-          "bm": "British masih berkuasa"
-        },
-        {
-          "en": "The rulers wanted British rule",
-          "bm": "Raja mahu pemerintahan British"
-        },
-        {
-          "en": "It was a trade fair",
-          "bm": "Ia pesta perdagangan"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-10-q20",
-      "subtopicId": "sej-10-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Many colonies gained independence through war. What made Malaya's path different?",
-        "bm": "Banyak tanah jajahan merdeka melalui peperangan. Apakah yang membezakan Tanah Melayu?"
-      },
-      "explanation": {
-        "en": "The Alliance's 1955 mandate and the London talks secured independence peacefully.",
-        "bm": "Mandat Perikatan 1955 dan rundingan London memastikan kemerdekaan dicapai secara aman."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Negotiation backed by inter-ethnic unity and a strong election mandate",
-          "bm": "Rundingan yang disokong perpaduan kaum dan mandat pilihan raya yang kukuh"
-        },
-        {
-          "en": "Japanese help",
-          "bm": "Bantuan Jepun"
-        },
-        {
-          "en": "Communist victory",
-          "bm": "Kemenangan komunis"
-        },
-        {
-          "en": "British defeat in battle",
-          "bm": "Kekalahan British dalam pertempuran"
         }
       ],
       "answer": 0

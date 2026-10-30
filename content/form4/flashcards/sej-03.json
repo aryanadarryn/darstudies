@@ -3,7 +3,7 @@
   "cards": [
     {
       "id": "sej-03-f01",
-      "subtopicId": "sej-03-01",
+      "subtopicId": "sej-03-02",
       "front": {
         "en": "World War I",
         "bm": "Perang Dunia Pertama"
@@ -15,7 +15,31 @@
     },
     {
       "id": "sej-03-f02",
-      "subtopicId": "sej-03-01",
+      "subtopicId": "sej-03-02",
+      "front": {
+        "en": "Treaty of Versailles",
+        "bm": "Perjanjian Versailles"
+      },
+      "back": {
+        "en": "28 June 1919 — Germany blamed, lost colonies, paid reparations",
+        "bm": "28 Jun 1919 — Jerman dipersalahkan, hilang tanah jajahan, bayar ganti rugi"
+      }
+    },
+    {
+      "id": "sej-03-f03",
+      "subtopicId": "sej-03-02",
+      "front": {
+        "en": "Emden at Penang",
+        "bm": "Emden di Pulau Pinang"
+      },
+      "back": {
+        "en": "28 Oct 1914 — German cruiser attacks Penang harbour",
+        "bm": "28 Okt 1914 — kapal penjelajah Jerman menyerang pelabuhan Pulau Pinang"
+      }
+    },
+    {
+      "id": "sej-03-f04",
+      "subtopicId": "sej-03-03",
       "front": {
         "en": "World War II",
         "bm": "Perang Dunia Kedua"
@@ -26,20 +50,20 @@
       }
     },
     {
-      "id": "sej-03-f03",
-      "subtopicId": "sej-03-01",
+      "id": "sej-03-f05",
+      "subtopicId": "sej-03-03",
       "front": {
-        "en": "Japan's motives",
-        "bm": "Motif Jepun"
+        "en": "D-Day",
+        "bm": "D-Day"
       },
       "back": {
-        "en": "Raw materials, markets, Co-Prosperity Sphere",
-        "bm": "Bahan mentah, pasaran, Kawasan Kesemakmuran Bersama"
+        "en": "6 June 1944 — Allied landing in Normandy",
+        "bm": "6 Jun 1944 — pendaratan tentera Berikat di Normandy"
       }
     },
     {
-      "id": "sej-03-f04",
-      "subtopicId": "sej-03-01",
+      "id": "sej-03-f06",
+      "subtopicId": "sej-03-04",
       "front": {
         "en": "Pearl Harbor",
         "bm": "Pearl Harbor"
@@ -50,116 +74,8 @@
       }
     },
     {
-      "id": "sej-03-f05",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "First landing",
-        "bm": "Pendaratan pertama"
-      },
-      "back": {
-        "en": "Kota Bharu, 8 Dec 1941",
-        "bm": "Kota Bharu, 8 Dis 1941"
-      }
-    },
-    {
-      "id": "sej-03-f06",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "Fall of Singapore",
-        "bm": "Kejatuhan Singapura"
-      },
-      "back": {
-        "en": "15 Feb 1942 → Syonan-to",
-        "bm": "15 Feb 1942 → Syonan-to"
-      }
-    },
-    {
       "id": "sej-03-f07",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "Sabah & Sarawak",
-        "bm": "Sabah & Sarawak"
-      },
-      "back": {
-        "en": "Occupied by Japan from Dec 1941 (Miri, Labuan)",
-        "bm": "Diduduki Jepun dari Dis 1941 (Miri, Labuan)"
-      }
-    },
-    {
-      "id": "sej-03-f08",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "Kempeitai",
-        "bm": "Kempeitai"
-      },
-      "back": {
-        "en": "Japanese military police",
-        "bm": "Polis tentera Jepun"
-      }
-    },
-    {
-      "id": "sej-03-f09",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "Sook Ching",
-        "bm": "Sook Ching"
-      },
-      "back": {
-        "en": "1942 purge of suspected anti-Japanese Chinese",
-        "bm": "Pembersihan 1942 terhadap orang Cina yang disyaki anti-Jepun"
-      }
-    },
-    {
-      "id": "sej-03-f10",
-      "subtopicId": "sej-03-02",
-      "front": {
-        "en": "\"Banana money\"",
-        "bm": "\"Duit pisang\""
-      },
-      "back": {
-        "en": "Japanese currency that lost value — inflation",
-        "bm": "Mata wang Jepun yang hilang nilai — inflasi"
-      }
-    },
-    {
-      "id": "sej-03-f11",
-      "subtopicId": "sej-03-03",
-      "front": {
-        "en": "MPAJA",
-        "bm": "MPAJA"
-      },
-      "back": {
-        "en": "Communist-led anti-Japanese guerrillas",
-        "bm": "Gerila anti-Jepun pimpinan komunis"
-      }
-    },
-    {
-      "id": "sej-03-f12",
-      "subtopicId": "sej-03-03",
-      "front": {
-        "en": "Force 136",
-        "bm": "Force 136"
-      },
-      "back": {
-        "en": "British unit training local resistance",
-        "bm": "Unit British yang melatih penentang tempatan"
-      }
-    },
-    {
-      "id": "sej-03-f13",
-      "subtopicId": "sej-03-03",
-      "front": {
-        "en": "Double Tenth",
-        "bm": "Double Tenth"
-      },
-      "back": {
-        "en": "10 Oct 1943, Jesselton — Albert Kwok",
-        "bm": "10 Okt 1943, Jesselton — Albert Kwok"
-      }
-    },
-    {
-      "id": "sej-03-f14",
-      "subtopicId": "sej-03-03",
+      "subtopicId": "sej-03-04",
       "front": {
         "en": "Atomic bombs",
         "bm": "Bom atom"
@@ -170,20 +86,128 @@
       }
     },
     {
-      "id": "sej-03-f15",
-      "subtopicId": "sej-03-03",
+      "id": "sej-03-f08",
+      "subtopicId": "sej-03-05",
       "front": {
-        "en": "Japan surrenders",
-        "bm": "Jepun menyerah"
+        "en": "Japan's motives",
+        "bm": "Motif Jepun"
       },
       "back": {
-        "en": "15 August 1945",
-        "bm": "15 Ogos 1945"
+        "en": "Raw materials, markets, Co-Prosperity Sphere",
+        "bm": "Bahan mentah, pasaran, Kawasan Kesemakmuran Bersama"
+      }
+    },
+    {
+      "id": "sej-03-f09",
+      "subtopicId": "sej-03-05",
+      "front": {
+        "en": "First landing",
+        "bm": "Pendaratan pertama"
+      },
+      "back": {
+        "en": "Kota Bharu, 8 Dec 1941",
+        "bm": "Kota Bharu, 8 Dis 1941"
+      }
+    },
+    {
+      "id": "sej-03-f10",
+      "subtopicId": "sej-03-05",
+      "front": {
+        "en": "Fall of Singapore",
+        "bm": "Kejatuhan Singapura"
+      },
+      "back": {
+        "en": "15 Feb 1942 → Syonan-to",
+        "bm": "15 Feb 1942 → Syonan-to"
+      }
+    },
+    {
+      "id": "sej-03-f11",
+      "subtopicId": "sej-03-05",
+      "front": {
+        "en": "Sabah & Sarawak",
+        "bm": "Sabah & Sarawak"
+      },
+      "back": {
+        "en": "Occupied by Japan from Dec 1941 (Miri, Labuan)",
+        "bm": "Diduduki Jepun dari Dis 1941 (Miri, Labuan)"
+      }
+    },
+    {
+      "id": "sej-03-f12",
+      "subtopicId": "sej-03-06",
+      "front": {
+        "en": "Kempeitai",
+        "bm": "Kempeitai"
+      },
+      "back": {
+        "en": "Japanese military police",
+        "bm": "Polis tentera Jepun"
+      }
+    },
+    {
+      "id": "sej-03-f13",
+      "subtopicId": "sej-03-06",
+      "front": {
+        "en": "Sook Ching",
+        "bm": "Sook Ching"
+      },
+      "back": {
+        "en": "1942 purge of suspected anti-Japanese Chinese",
+        "bm": "Pembersihan 1942 terhadap orang Cina yang disyaki anti-Jepun"
+      }
+    },
+    {
+      "id": "sej-03-f14",
+      "subtopicId": "sej-03-06",
+      "front": {
+        "en": "\"Banana money\"",
+        "bm": "\"Duit pisang\""
+      },
+      "back": {
+        "en": "Japanese currency that lost value — inflation",
+        "bm": "Mata wang Jepun yang hilang nilai — inflasi"
+      }
+    },
+    {
+      "id": "sej-03-f15",
+      "subtopicId": "sej-03-07",
+      "front": {
+        "en": "MPAJA",
+        "bm": "MPAJA"
+      },
+      "back": {
+        "en": "Communist-led anti-Japanese guerrillas",
+        "bm": "Gerila anti-Jepun pimpinan komunis"
       }
     },
     {
       "id": "sej-03-f16",
-      "subtopicId": "sej-03-03",
+      "subtopicId": "sej-03-07",
+      "front": {
+        "en": "Force 136",
+        "bm": "Force 136"
+      },
+      "back": {
+        "en": "British unit training local resistance",
+        "bm": "Unit British yang melatih penentang tempatan"
+      }
+    },
+    {
+      "id": "sej-03-f17",
+      "subtopicId": "sej-03-07",
+      "front": {
+        "en": "Double Tenth",
+        "bm": "Double Tenth"
+      },
+      "back": {
+        "en": "10 Oct 1943, Jesselton — Albert Kwok",
+        "bm": "10 Okt 1943, Jesselton — Albert Kwok"
+      }
+    },
+    {
+      "id": "sej-03-f18",
+      "subtopicId": "sej-03-08",
       "front": {
         "en": "Effect on nationalism",
         "bm": "Kesan kepada nasionalisme"
@@ -191,6 +215,30 @@
       "back": {
         "en": "British myth broken; people want self-rule",
         "bm": "Mitos British runtuh; rakyat mahu pemerintahan sendiri"
+      }
+    },
+    {
+      "id": "sej-03-f19",
+      "subtopicId": "sej-03-08",
+      "front": {
+        "en": "PETA and KRIS",
+        "bm": "PETA dan KRIS"
+      },
+      "back": {
+        "en": "PETA 1943 (Ibrahim Yaacob); KRIS 1945 — independence with Indonesia",
+        "bm": "PETA 1943 (Ibrahim Yaacob); KRIS 1945 — merdeka bersama Indonesia"
+      }
+    },
+    {
+      "id": "sej-03-f20",
+      "subtopicId": "sej-03-09",
+      "front": {
+        "en": "Japan surrenders",
+        "bm": "Jepun menyerah"
+      },
+      "back": {
+        "en": "15 August 1945",
+        "bm": "15 Ogos 1945"
       }
     }
   ]

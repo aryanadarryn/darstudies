@@ -5,53 +5,592 @@
     "f3sej-01-01": {
       "keyPoints": [
         {
-          "en": "Before colonisation, Malay sultanates had organised government, laws and busy trade; Melaka was a famous entrepôt.",
-          "bm": "Sebelum dijajah, kesultanan Melayu mempunyai pemerintahan tersusun, undang-undang dan perdagangan sibuk; Melaka ialah entrepot terkenal."
+          "en": "Before the Western powers came, our country was stable and prosperous.",
+          "bm": "Sebelum kuasa Barat datang, negara kita stabil dan makmur."
         },
         {
-          "en": "Strategic location, monsoon winds and natural wealth (tin, gold, forest products) brought prosperity.",
-          "bm": "Kedudukan strategik, angin monsun dan kekayaan alam (bijih timah, emas, hasil hutan) membawa kemakmuran."
+          "en": "Stability came from the system of government, laws and foreign relations.",
+          "bm": "Kestabilan datang daripada sistem pemerintahan, perundangan dan hubungan luar."
+        },
+        {
+          "en": "Prosperity came from natural resources, a good economic system and intellectual activity.",
+          "bm": "Kemakmuran datang daripada hasil alam, sistem ekonomi yang baik dan kegiatan keintelektualan."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Monarchy",
+            "bm": "Sistem pemerintahan beraja"
+          },
+          "meaning": {
+            "en": "Government headed by a ruler (raja/sultan) assisted by chiefs.",
+            "bm": "Pemerintahan yang diketuai raja/sultan dan dibantu pembesar."
+          }
+        },
+        {
+          "term": {
+            "en": "Adat Perpatih",
+            "bm": "Adat Perpatih"
+          },
+          "meaning": {
+            "en": "Matrilineal custom of Negeri Sembilan, with rule through Undang, Lembaga and Buapak.",
+            "bm": "Adat bersifat nasab ibu di Negeri Sembilan, dengan pemerintahan melalui Undang, Lembaga dan Buapak."
+          }
+        },
+        {
+          "term": {
+            "en": "Entrepôt",
+            "bm": "Pelabuhan entrepot"
+          },
+          "meaning": {
+            "en": "A port where goods are collected and re-exported, like Melaka.",
+            "bm": "Pelabuhan tempat barang dikumpul dan dieksport semula, seperti Melaka."
+          }
+        },
+        {
+          "term": {
+            "en": "Jawi",
+            "bm": "Tulisan Jawi"
+          },
+          "meaning": {
+            "en": "Malay written in Arabic-based script, used for letters, laws and literature.",
+            "bm": "Bahasa Melayu yang ditulis dengan huruf berasaskan Arab, digunakan untuk surat, undang-undang dan sastera."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Stability — a. Government and social structure",
+            "bm": "Kestabilan — a. Sistem pemerintahan dan struktur sosial"
+          },
+          "points": [
+            {
+              "en": "Malay states: the Sultan at the top, helped by chiefs (e.g. the Four Chiefs in Melaka).",
+              "bm": "Negeri Melayu: Sultan di puncak, dibantu pembesar (cth. Pembesar Empat di Melaka)."
+            },
+            {
+              "en": "Negeri Sembilan: Yang di-Pertuan Besar → Undang → Lembaga → Buapak → anak buah.",
+              "bm": "Negeri Sembilan: Yang di-Pertuan Besar → Undang → Lembaga → Buapak → anak buah."
+            },
+            {
+              "en": "Sarawak and Sabah: Brunei and Sulu appointed Pengiran and Datu; communities were led by their own chiefs.",
+              "bm": "Sarawak dan Sabah: Brunei dan Sulu melantik Pengiran dan Datu; masyarakat dipimpin oleh ketua masing-masing."
+            },
+            {
+              "en": "Society: the ruling class (ruler, royal family, chiefs) and the ruled (ordinary people, slaves).",
+              "bm": "Masyarakat: golongan pemerintah (raja, kerabat, pembesar) dan golongan diperintah (rakyat biasa, hamba)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Laws",
+            "bm": "b. Perundangan"
+          },
+          "points": [
+            {
+              "en": "Written laws such as Hukum Kanun Melaka, Undang-undang Laut Melaka, Undang-undang Kedah and Undang-undang 99 Perak.",
+              "bm": "Undang-undang bertulis seperti Hukum Kanun Melaka, Undang-undang Laut Melaka, Undang-undang Kedah dan Undang-undang 99 Perak."
+            },
+            {
+              "en": "Customary law: Adat Temenggung and Adat Perpatih; native adat in Sarawak and Sabah.",
+              "bm": "Undang-undang adat: Adat Temenggung dan Adat Perpatih; adat peribumi di Sarawak dan Sabah."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c. Foreign relations",
+            "bm": "c. Hubungan luar"
+          },
+          "points": [
+            {
+              "en": "Diplomatic and trade ties with China, Siam, India and the Arab world kept the states safe and busy.",
+              "bm": "Hubungan diplomatik dan perdagangan dengan China, Siam, India dan dunia Arab menjamin keselamatan dan kesibukan negeri."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Prosperity — natural resources and their benefits",
+            "bm": "Kemakmuran — hasil bumi dan manfaatnya"
+          },
+          "points": [
+            {
+              "en": "Tin and gold; forest products (rattan, resin, camphor, gaharu); sea products; birds' nests in Borneo.",
+              "bm": "Bijih timah dan emas; hasil hutan (rotan, damar, kapur barus, gaharu); hasil laut; sarang burung di Borneo."
+            },
+            {
+              "en": "These attracted traders and brought wealth to the rulers and people.",
+              "bm": "Hasil ini menarik pedagang dan membawa kekayaan kepada pemerintah dan rakyat."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Economic system",
+            "bm": "Sistem ekonomi"
+          },
+          "points": [
+            {
+              "en": "Trade and ports: Melaka was a great entrepôt; other ports included Kuala Kedah and Brunei.",
+              "bm": "Perdagangan dan pelabuhan: Melaka pelabuhan entrepot agung; pelabuhan lain termasuk Kuala Kedah dan Brunei."
+            },
+            {
+              "en": "Weights and measures (gantang, cupak, kati, tahil), currency (e.g. tin and gold coins) and taxes on trade.",
+              "bm": "Timbang, sukat dan ukur (gantang, cupak, kati, tahil), mata wang (cth. syiling timah dan emas) serta cukai perdagangan."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "Intellectual activities",
+            "bm": "Kegiatan keintelektualan"
+          },
+          "points": [
+            {
+              "en": "Non-formal education at home, at the palace and with religious teachers; formal education in pondok schools.",
+              "bm": "Pendidikan tidak formal di rumah, istana dan dengan guru agama; pendidikan formal di sekolah pondok."
+            },
+            {
+              "en": "Malay was the lingua franca; Jawi script was widely used; literature such as Sejarah Melayu and Hikayat Hang Tuah.",
+              "bm": "Bahasa Melayu lingua franca; tulisan Jawi digunakan dengan meluas; karya sastera seperti Sejarah Melayu dan Hikayat Hang Tuah."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/melaka-palace.webp",
+          "alt": {
+            "en": "Replica of the Melaka Sultanate palace — a reminder of the kingdom's greatness before 1511.",
+            "bm": "Replika istana Kesultanan Melayu Melaka — peringatan kegemilangan kerajaan sebelum 1511."
+          },
+          "caption": {
+            "en": "Replica of the Melaka Sultanate palace — a reminder of the kingdom's greatness before 1511.",
+            "bm": "Replika istana Kesultanan Melayu Melaka — peringatan kegemilangan kerajaan sebelum 1511."
+          },
+          "credit": "Adiput (talk) · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malacca_Sultanate_Palace.JPG"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Explain TWO reasons why the Malay kingdoms were stable before the Western powers came.",
+          "bm": "Jelaskan DUA sebab kerajaan Melayu stabil sebelum kedatangan kuasa Barat."
+        },
+        "answer": {
+          "en": "(1) An organised system of government — a ruler helped by chiefs with clear duties. (2) Written and customary laws kept order and justice.",
+          "bm": "(1) Sistem pemerintahan yang tersusun — raja dibantu pembesar yang mempunyai tugas jelas. (2) Undang-undang bertulis dan adat menjaga ketenteraman dan keadilan."
+        }
+      }
     },
     "f3sej-01-02": {
       "keyPoints": [
         {
-          "en": "Motives: Gold, Glory, Gospel (wealth, power, religion); the spice trade.",
-          "bm": "Motif: Gold, Glory, Gospel (kekayaan, kuasa, agama); perdagangan rempah."
+          "en": "Western powers came for different reasons in different centuries.",
+          "bm": "Kuasa Barat datang atas sebab yang berbeza pada abad yang berbeza."
         },
         {
-          "en": "After the Industrial Revolution: raw materials (tin, later rubber) and markets.",
-          "bm": "Selepas Revolusi Perindustrian: bahan mentah (bijih timah, kemudian getah) dan pasaran."
+          "en": "16th century: luxury goods (spices), Melaka as a collecting centre and port of call, and spreading Christianity (\"Gold, Glory, Gospel\").",
+          "bm": "Abad ke-16: barangan mewah (rempah), Melaka sebagai pusat pengumpulan barang dan pelabuhan persinggahan, serta menyebarkan agama Kristian (\"Gold, Glory, Gospel\")."
+        },
+        {
+          "en": "17th–18th centuries: the Industrial Revolution created demand for raw materials and markets.",
+          "bm": "Abad ke-17 hingga ke-18: Revolusi Perindustrian mewujudkan permintaan bahan mentah dan pasaran."
+        },
+        {
+          "en": "19th–20th centuries: the motorcar and canning industries, fertile land, the Suez Canal, steamships, the telegraph, rivalry and \"the White Man's Burden\".",
+          "bm": "Abad ke-19 hingga ke-20: industri kereta dan mengetin, tanah yang subur, Terusan Suez, kapal wap, telegraf, persaingan dan \"Beban Orang Putih\"."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "3G",
+            "bm": "3G"
+          },
+          "meaning": {
+            "en": "Gold (wealth), Glory (power and fame), Gospel (spreading Christianity).",
+            "bm": "Gold (kekayaan), Glory (kuasa dan kemasyhuran), Gospel (menyebarkan agama Kristian)."
+          }
+        },
+        {
+          "term": {
+            "en": "Industrial Revolution",
+            "bm": "Revolusi Perindustrian"
+          },
+          "meaning": {
+            "en": "Change from hand-made to machine production, starting in Britain in the 18th century.",
+            "bm": "Perubahan daripada pengeluaran tangan kepada mesin, bermula di Britain pada abad ke-18."
+          }
+        },
+        {
+          "term": {
+            "en": "Suez Canal",
+            "bm": "Terusan Suez"
+          },
+          "meaning": {
+            "en": "Opened in 1869; made the voyage from Europe to Asia much shorter.",
+            "bm": "Dibuka pada 1869; memendekkan pelayaran dari Eropah ke Asia."
+          }
+        },
+        {
+          "term": {
+            "en": "White Man's Burden",
+            "bm": "Beban Orang Putih"
+          },
+          "meaning": {
+            "en": "The Western claim that they had a duty to \"civilise\" other peoples — used to justify colonisation.",
+            "bm": "Dakwaan Barat bahawa mereka bertanggungjawab \"memperadabkan\" bangsa lain — digunakan untuk menghalalkan penjajahan."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "16th century",
+            "bm": "Abad ke-16"
+          },
+          "points": [
+            {
+              "en": "Luxury goods: spices, silk and porcelain fetched very high prices in Europe.",
+              "bm": "Barangan mewah: rempah, sutera dan tembikar mendapat harga yang sangat tinggi di Eropah."
+            },
+            {
+              "en": "Collecting centre and port of call: Melaka gathered goods from East and West and was a stop on the monsoon routes.",
+              "bm": "Pusat pengumpulan barang dan pelabuhan persinggahan: Melaka mengumpul barang dari Timur dan Barat serta menjadi persinggahan laluan monsun."
+            },
+            {
+              "en": "Religion: the Portuguese wanted to spread Christianity and weaken Muslim traders.",
+              "bm": "Agama: Portugis mahu menyebarkan agama Kristian dan melemahkan pedagang Islam."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "17th–18th centuries",
+            "bm": "Abad ke-17 hingga ke-18"
+          },
+          "points": [
+            {
+              "en": "The Industrial Revolution: factories needed raw materials (tin) and new markets for their products.",
+              "bm": "Revolusi Perindustrian: kilang memerlukan bahan mentah (bijih timah) dan pasaran baharu untuk keluarannya."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "19th–20th centuries",
+            "bm": "Abad ke-19 hingga ke-20"
+          },
+          "points": [
+            {
+              "en": "Motorcar industry → demand for rubber tyres; canning industry → demand for tin.",
+              "bm": "Industri kereta → permintaan tayar getah; industri mengetin → permintaan bijih timah."
+            },
+            {
+              "en": "Fertile land and rich resources suited plantations and mines.",
+              "bm": "Tanah yang subur dan hasil bumi yang kaya sesuai untuk ladang dan lombong."
+            },
+            {
+              "en": "Suez Canal (1869), steamships and the telegraph made travel and communication faster.",
+              "bm": "Terusan Suez (1869), kapal wap dan telegraf mempercepat perjalanan dan perhubungan."
+            },
+            {
+              "en": "Rivalry between Western powers and the \"White Man's Burden\" idea.",
+              "bm": "Persaingan antara kuasa Barat dan idea \"Beban Orang Putih\"."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "How did the motorcar industry affect our country?",
+          "bm": "Bagaimanakah industri kereta memberi kesan kepada negara kita?"
+        },
+        "answer": {
+          "en": "Cars needed rubber tyres, so demand for rubber soared in the early 1900s and the British opened huge rubber estates here.",
+          "bm": "Kereta memerlukan tayar getah, maka permintaan getah melonjak pada awal 1900-an dan British membuka ladang getah yang besar di sini."
+        }
+      },
+      "tip": {
+        "en": "Sort factors by century: 16th — 3G; 17th–18th — Industrial Revolution; 19th–20th — technology and industry.",
+        "bm": "Susun faktor mengikut abad: ke-16 — 3G; ke-17–18 — Revolusi Perindustrian; ke-19–20 — teknologi dan industri."
+      }
     },
     "f3sej-01-03": {
       "keyPoints": [
         {
-          "en": "Portuguese, Dutch and British competed to control trade and territory.",
-          "bm": "Portugis, Belanda dan British bersaing menguasai perdagangan dan wilayah."
+          "en": "The Portuguese, Dutch and British competed for colonies in the Malay world.",
+          "bm": "Portugis, Belanda dan British bersaing mendapatkan tanah jajahan di Alam Melayu."
         },
         {
-          "en": "Rivalry divided the Malay world by Western interests (later settled by the London Treaty 1824).",
-          "bm": "Persaingan membahagikan Alam Melayu mengikut kepentingan Barat (kemudian diselesaikan melalui Perjanjian London 1824)."
+          "en": "The Portuguese captured Melaka in 1511 under Afonso de Albuquerque.",
+          "bm": "Portugis menawan Melaka pada 1511 di bawah Afonso de Albuquerque."
+        },
+        {
+          "en": "The Dutch, allied with Johor, took Melaka from the Portuguese in 1641.",
+          "bm": "Belanda, bersekutu dengan Johor, merampas Melaka daripada Portugis pada 1641."
+        },
+        {
+          "en": "The British took Penang (1786) and Singapore (1819); the rivalry with the Dutch was settled by the London Treaty of 1824.",
+          "bm": "British mengambil Pulau Pinang (1786) dan Singapura (1819); persaingan dengan Belanda diselesaikan melalui Perjanjian London 1824."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Colony",
+            "bm": "Tanah jajahan"
+          },
+          "meaning": {
+            "en": "A territory controlled by a foreign power.",
+            "bm": "Wilayah yang dikuasai kuasa asing."
+          }
+        },
+        {
+          "term": {
+            "en": "VOC",
+            "bm": "VOC"
+          },
+          "meaning": {
+            "en": "Dutch East India Company — ran Dutch trade and colonies in the East.",
+            "bm": "Syarikat Hindia Timur Belanda — menguruskan perdagangan dan tanah jajahan Belanda di Timur."
+          }
+        },
+        {
+          "term": {
+            "en": "EIC",
+            "bm": "SHTI"
+          },
+          "meaning": {
+            "en": "British East India Company (Syarikat Hindia Timur Inggeris).",
+            "bm": "Syarikat Hindia Timur Inggeris (SHTI)."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Rivalry over the Malay world",
+            "bm": "Persaingan di Alam Melayu"
+          },
+          "points": [
+            {
+              "en": "After 1511, Johor and Acheh repeatedly attacked Portuguese Melaka.",
+              "bm": "Selepas 1511, Johor dan Acheh berulang kali menyerang Melaka Portugis."
+            },
+            {
+              "en": "The Dutch built their centre at Batavia and joined Johor to defeat the Portuguese in 1641.",
+              "bm": "Belanda membina pusatnya di Batavia dan bergabung dengan Johor untuk mengalahkan Portugis pada 1641."
+            },
+            {
+              "en": "In the late 1700s the British needed a base in the region for their India–China trade.",
+              "bm": "Pada akhir 1700-an British memerlukan pangkalan di rantau ini untuk perdagangan India–China."
+            },
+            {
+              "en": "British–Dutch rivalry over trade and influence ended with the London Treaty (1824).",
+              "bm": "Persaingan British–Belanda tentang perdagangan dan pengaruh berakhir dengan Perjanjian London (1824)."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1511",
+          "event": {
+            "en": "Portuguese capture Melaka.",
+            "bm": "Portugis menawan Melaka."
+          }
+        },
+        {
+          "date": "1641",
+          "event": {
+            "en": "Dutch and Johor take Melaka.",
+            "bm": "Belanda dan Johor merampas Melaka."
+          }
+        },
+        {
+          "date": "1786",
+          "event": {
+            "en": "British occupy Penang.",
+            "bm": "British menduduki Pulau Pinang."
+          }
+        },
+        {
+          "date": "1819",
+          "event": {
+            "en": "British open Singapore.",
+            "bm": "British membuka Singapura."
+          }
+        },
+        {
+          "date": "1824",
+          "event": {
+            "en": "London Treaty divides the Malay world.",
+            "bm": "Perjanjian London membahagikan Alam Melayu."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/a-famosa.webp",
+          "alt": {
+            "en": "Porta de Santiago (A Famosa), the surviving gate of the Portuguese fortress in Melaka.",
+            "bm": "Porta de Santiago (A Famosa), pintu gerbang kubu Portugis yang masih tinggal di Melaka."
+          },
+          "caption": {
+            "en": "Porta de Santiago (A Famosa), the surviving gate of the Portuguese fortress in Melaka.",
+            "bm": "Porta de Santiago (A Famosa), pintu gerbang kubu Portugis yang masih tinggal di Melaka."
+          },
+          "credit": "Marcin Konsek · CC BY-SA 4.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Malakka,_A_Famosa_(01).jpg"
+        },
+        {
+          "src": "img/sej/albuquerque.webp",
+          "alt": {
+            "en": "Afonso de Albuquerque, who led the Portuguese capture of Melaka in 1511.",
+            "bm": "Afonso de Albuquerque, yang mengetuai serangan Portugis menawan Melaka pada 1511."
+          },
+          "caption": {
+            "en": "Afonso de Albuquerque, who led the Portuguese capture of Melaka in 1511.",
+            "bm": "Afonso de Albuquerque, yang mengetuai serangan Portugis menawan Melaka pada 1511."
+          },
+          "credit": "Unknown author · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Afonso_de_Albuquerque_(ap%C3%B3s_1545)_-_Autor_desconhecido.png"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the Dutch help Johor attack Portuguese Melaka?",
+          "bm": "Mengapakah Belanda membantu Johor menyerang Melaka Portugis?"
+        },
+        "answer": {
+          "en": "Both wanted to remove the Portuguese: Johor to regain its lost lands and trade, and the Dutch to control the spice trade and the Strait of Melaka.",
+          "bm": "Kedua-duanya mahu menyingkirkan Portugis: Johor untuk mendapatkan semula wilayah dan perdagangannya, dan Belanda untuk menguasai perdagangan rempah dan Selat Melaka."
+        }
+      }
     },
     "f3sej-01-04": {
       "keyPoints": [
         {
-          "en": "Portuguese: force — Melaka 1511. Dutch: alliance with Johor — Melaka 1641; monopoly treaties.",
-          "bm": "Portugis: kekerasan — Melaka 1511. Belanda: pakatan dengan Johor — Melaka 1641; perjanjian monopoli."
+          "en": "The Dutch and the British used different strategies to control our country.",
+          "bm": "Belanda dan British menggunakan strategi berbeza untuk menguasai negara kita."
         },
         {
-          "en": "British: diplomacy — Penang 1786 (Francis Light), Singapore 1819 (Raffles, Tengku Hussein).",
-          "bm": "British: diplomasi — Pulau Pinang 1786 (Francis Light), Singapura 1819 (Raffles, Tengku Hussein)."
+          "en": "Dutch: physical attack, agreements (e.g. trade monopolies) and alliances.",
+          "bm": "Belanda: serangan fizikal, perjanjian (cth. monopoli perdagangan) dan pakatan."
+        },
+        {
+          "en": "British: manipulation, trickery, alliances, threats and pressure, agreements, leases and physical attack.",
+          "bm": "British: manipulasi, tipu helah, pakatan, ugutan dan desakan, perjanjian, pajakan dan serangan fizikal."
         }
       ],
-      "tip": {
-        "en": "Remember the dates 1511, 1641, 1786, 1819.",
-        "bm": "Ingat tarikh 1511, 1641, 1786, 1819."
+      "keywords": [
+        {
+          "term": {
+            "en": "Monopoly",
+            "bm": "Monopoli"
+          },
+          "meaning": {
+            "en": "Sole right to trade a product, e.g. the Dutch tin monopoly.",
+            "bm": "Hak tunggal memperdagangkan sesuatu barang, cth. monopoli bijih timah Belanda."
+          }
+        },
+        {
+          "term": {
+            "en": "Manipulation",
+            "bm": "Manipulasi"
+          },
+          "meaning": {
+            "en": "Exploiting local quarrels, e.g. succession disputes, for one's own gain.",
+            "bm": "Mengeksploitasi pertelingkahan tempatan, cth. perebutan takhta, untuk kepentingan sendiri."
+          }
+        },
+        {
+          "term": {
+            "en": "Lease",
+            "bm": "Pajakan"
+          },
+          "meaning": {
+            "en": "Renting land for a payment, e.g. Penang and Seberang Perai from Kedah.",
+            "bm": "Menyewa tanah dengan bayaran, cth. Pulau Pinang dan Seberang Perai daripada Kedah."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Dutch strategies",
+            "bm": "Strategi Belanda"
+          },
+          "points": [
+            {
+              "en": "Physical attack: the siege of Melaka with Johor (1641).",
+              "bm": "Serangan fizikal: pengepungan Melaka bersama Johor (1641)."
+            },
+            {
+              "en": "Agreements: treaties with local rulers to buy tin only from the Dutch.",
+              "bm": "Perjanjian: perjanjian dengan pemerintah tempatan untuk menjual bijih timah kepada Belanda sahaja."
+            },
+            {
+              "en": "Alliances: working with Johor against the Portuguese.",
+              "bm": "Pakatan: bekerjasama dengan Johor menentang Portugis."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "British strategies",
+            "bm": "Strategi British"
+          },
+          "points": [
+            {
+              "en": "Manipulation and trickery: e.g. Francis Light promised Kedah protection; Raffles recognised Tengku Hussein as Sultan to obtain Singapore.",
+              "bm": "Manipulasi dan tipu helah: cth. Francis Light menjanjikan perlindungan kepada Kedah; Raffles mengiktiraf Tengku Hussein sebagai Sultan untuk mendapatkan Singapura."
+            },
+            {
+              "en": "Threats and pressure on rulers to accept British officers (e.g. Pahang).",
+              "bm": "Ugutan dan desakan supaya raja menerima pegawai British (cth. Pahang)."
+            },
+            {
+              "en": "Agreements and leases: e.g. Pangkor Treaty (1874); Penang and Seberang Perai leased from Kedah.",
+              "bm": "Perjanjian dan pajakan: cth. Perjanjian Pangkor (1874); Pulau Pinang dan Seberang Perai dipajak daripada Kedah."
+            },
+            {
+              "en": "Physical attack: e.g. the Naning War (1831–1832).",
+              "bm": "Serangan fizikal: cth. Perang Naning (1831–1832)."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/stadthuys.webp",
+          "alt": {
+            "en": "The Stadthuys in Melaka, built during Dutch rule in the 1600s.",
+            "bm": "Stadthuys di Melaka, dibina semasa pemerintahan Belanda pada 1600-an."
+          },
+          "caption": {
+            "en": "The Stadthuys in Melaka, built during Dutch rule in the 1600s.",
+            "bm": "Stadthuys di Melaka, dibina semasa pemerintahan Belanda pada 1600-an."
+          },
+          "credit": "Philip Nalangan · CC BY 4.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stadthuys_Melaka_3.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Compare the strategies of the Dutch and the British.",
+          "bm": "Bandingkan strategi Belanda dengan British."
+        },
+        "answer": {
+          "en": "The Dutch relied more on force and trade monopolies; the British mostly used diplomacy — manipulation, agreements and leases — and used force only when needed.",
+          "bm": "Belanda lebih bergantung pada kekerasan dan monopoli perdagangan; British kebanyakannya menggunakan diplomasi — manipulasi, perjanjian dan pajakan — dan menggunakan kekerasan apabila perlu sahaja."
+        }
       }
     }
   }

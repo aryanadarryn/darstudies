@@ -252,6 +252,39 @@
     },
     {
       "id": "sej-01-q03",
+      "subtopicId": "sej-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why were kingdoms like Srivijaya and Melaka located near the sea?",
+        "bm": "Mengapakah kerajaan seperti Srivijaya dan Melaka terletak berhampiran laut?"
+      },
+      "explanation": {
+        "en": "Control of the Straits and ports brought wealth from trade.",
+        "bm": "Penguasaan selat dan pelabuhan membawa kekayaan daripada perdagangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To control trade routes and ports",
+          "bm": "Untuk menguasai laluan dan pelabuhan perdagangan"
+        },
+        {
+          "en": "To avoid farming",
+          "bm": "Untuk mengelak pertanian"
+        },
+        {
+          "en": "To hide from traders",
+          "bm": "Untuk bersembunyi daripada pedagang"
+        },
+        {
+          "en": "Because land was forbidden",
+          "bm": "Kerana tanah dilarang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-01-q04",
       "subtopicId": "sej-01-02",
       "type": "mcq",
       "prompt": {
@@ -284,7 +317,7 @@
       "answer": 0
     },
     {
-      "id": "sej-01-q04",
+      "id": "sej-01-q05",
       "subtopicId": "sej-01-02",
       "type": "fill",
       "prompt": {
@@ -301,7 +334,7 @@
       ]
     },
     {
-      "id": "sej-01-q05",
+      "id": "sej-01-q06",
       "subtopicId": "sej-01-02",
       "type": "mcq",
       "prompt": {
@@ -334,7 +367,143 @@
       "answer": 0
     },
     {
-      "id": "sej-01-q06",
+      "id": "sej-01-q07",
+      "subtopicId": "sej-01-02",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL features of a traditional Malay nation-state.",
+        "bm": "Pilih SEMUA ciri negara bangsa kerajaan Melayu tradisional."
+      },
+      "explanation": {
+        "en": "Elections and parliament came much later. Traditional kingdoms had sovereignty, territory, people, government and laws.",
+        "bm": "Pilihan raya dan parlimen muncul jauh kemudian. Kerajaan tradisional ada kedaulatan, wilayah, rakyat, kerajaan dan undang-undang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sovereignty",
+          "bm": "Kedaulatan"
+        },
+        {
+          "en": "Territory",
+          "bm": "Wilayah"
+        },
+        {
+          "en": "Written laws",
+          "bm": "Undang-undang bertulis"
+        },
+        {
+          "en": "A parliament elected by voters",
+          "bm": "Parlimen yang dipilih pengundi"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sej-01-q08",
+      "subtopicId": "sej-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Royal regalia such as the nobat and the yellow umbrella showed…",
+        "bm": "Alat kebesaran diraja seperti nobat dan payung kuning menunjukkan…"
+      },
+      "explanation": {
+        "en": "Regalia were symbols of the ruler's sovereignty.",
+        "bm": "Alat kebesaran ialah lambang kedaulatan raja."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the ruler's sovereignty and status",
+          "bm": "kedaulatan dan kedudukan raja"
+        },
+        {
+          "en": "the wealth of traders",
+          "bm": "kekayaan pedagang"
+        },
+        {
+          "en": "British power",
+          "bm": "kuasa British"
+        },
+        {
+          "en": "the size of the army",
+          "bm": "saiz tentera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-01-q09",
+      "subtopicId": "sej-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who founded Melaka around 1400?",
+        "bm": "Siapakah yang membuka Melaka sekitar tahun 1400?"
+      },
+      "explanation": {
+        "en": "Parameswara, a prince from Palembang, founded Melaka.",
+        "bm": "Parameswara, putera dari Palembang, membuka Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Parameswara",
+          "bm": "Parameswara"
+        },
+        {
+          "en": "Tun Perak",
+          "bm": "Tun Perak"
+        },
+        {
+          "en": "Hang Tuah",
+          "bm": "Hang Tuah"
+        },
+        {
+          "en": "Sultan Mahmud Syah",
+          "bm": "Sultan Mahmud Syah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-01-q10",
+      "subtopicId": "sej-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How is the traditional Malay nation-state reflected in Malaysia today?",
+        "bm": "Bagaimanakah negara bangsa Melayu tradisional tercermin dalam Malaysia hari ini?"
+      },
+      "explanation": {
+        "en": "The institution of the rulers, Islam and Malay are heritage elements carried into the 1957 Constitution.",
+        "bm": "Institusi raja, Islam dan bahasa Melayu ialah unsur warisan yang dibawa ke dalam Perlembagaan 1957."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The Malay rulers, Islam and the Malay language remain in the Federal Constitution",
+          "bm": "Raja-raja Melayu, Islam dan bahasa Melayu kekal dalam Perlembagaan Persekutuan"
+        },
+        {
+          "en": "Malaysia has no rulers",
+          "bm": "Malaysia tiada raja"
+        },
+        {
+          "en": "English is the national language",
+          "bm": "Bahasa Inggeris bahasa kebangsaan"
+        },
+        {
+          "en": "Laws are no longer written",
+          "bm": "Undang-undang tidak lagi bertulis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-01-q11",
       "subtopicId": "sej-01-03",
       "type": "mcq",
       "prompt": {
@@ -367,7 +536,7 @@
       "answer": 0
     },
     {
-      "id": "sej-01-q07",
+      "id": "sej-01-q12",
       "subtopicId": "sej-01-03",
       "type": "mcq",
       "prompt": {
@@ -400,7 +569,7 @@
       "answer": 0
     },
     {
-      "id": "sej-01-q08",
+      "id": "sej-01-q13",
       "subtopicId": "sej-01-03",
       "type": "fill",
       "prompt": {
@@ -417,7 +586,7 @@
       ]
     },
     {
-      "id": "sej-01-q09",
+      "id": "sej-01-q14",
       "subtopicId": "sej-01-03",
       "type": "match",
       "prompt": {
@@ -473,7 +642,7 @@
       ]
     },
     {
-      "id": "sej-01-q10",
+      "id": "sej-01-q15",
       "subtopicId": "sej-01-03",
       "type": "mcq",
       "prompt": {
@@ -506,143 +675,7 @@
       "answer": 0
     },
     {
-      "id": "sej-01-q11",
-      "subtopicId": "sej-01-02",
-      "type": "multi",
-      "prompt": {
-        "en": "Select ALL features of a traditional Malay nation-state.",
-        "bm": "Pilih SEMUA ciri negara bangsa kerajaan Melayu tradisional."
-      },
-      "explanation": {
-        "en": "Elections and parliament came much later. Traditional kingdoms had sovereignty, territory, people, government and laws.",
-        "bm": "Pilihan raya dan parlimen muncul jauh kemudian. Kerajaan tradisional ada kedaulatan, wilayah, rakyat, kerajaan dan undang-undang."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Sovereignty",
-          "bm": "Kedaulatan"
-        },
-        {
-          "en": "Territory",
-          "bm": "Wilayah"
-        },
-        {
-          "en": "Written laws",
-          "bm": "Undang-undang bertulis"
-        },
-        {
-          "en": "A parliament elected by voters",
-          "bm": "Parlimen yang dipilih pengundi"
-        }
-      ],
-      "answer": [
-        0,
-        1,
-        2
-      ]
-    },
-    {
-      "id": "sej-01-q12",
-      "subtopicId": "sej-01-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Royal regalia such as the nobat and the yellow umbrella showed…",
-        "bm": "Alat kebesaran diraja seperti nobat dan payung kuning menunjukkan…"
-      },
-      "explanation": {
-        "en": "Regalia were symbols of the ruler's sovereignty.",
-        "bm": "Alat kebesaran ialah lambang kedaulatan raja."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "the ruler's sovereignty and status",
-          "bm": "kedaulatan dan kedudukan raja"
-        },
-        {
-          "en": "the wealth of traders",
-          "bm": "kekayaan pedagang"
-        },
-        {
-          "en": "British power",
-          "bm": "kuasa British"
-        },
-        {
-          "en": "the size of the army",
-          "bm": "saiz tentera"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-01-q13",
-      "subtopicId": "sej-01-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "The relationship between ruler and people was based on a pact (waadat) between…",
-        "bm": "Hubungan raja dan rakyat berasaskan waadat antara…"
-      },
-      "explanation": {
-        "en": "In the Sejarah Melayu, Sang Sapurba (ruler) and Demang Lebar Daun (people) agreed the ruler would not shame the people and the people would not commit derhaka.",
-        "bm": "Dalam Sejarah Melayu, Sang Sapurba (raja) dan Demang Lebar Daun (rakyat) bersetuju raja tidak akan mengaibkan rakyat dan rakyat tidak akan derhaka."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Sang Sapurba & Demang Lebar Daun",
-          "bm": "Sang Sapurba & Demang Lebar Daun"
-        },
-        {
-          "en": "Parameswara & Hang Tuah",
-          "bm": "Parameswara & Hang Tuah"
-        },
-        {
-          "en": "Tun Perak & Tun Teja",
-          "bm": "Tun Perak & Tun Teja"
-        },
-        {
-          "en": "Sultan Mansur Syah & Hang Li Po",
-          "bm": "Sultan Mansur Syah & Hang Li Po"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-01-q14",
-      "subtopicId": "sej-01-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who founded Melaka around 1400?",
-        "bm": "Siapakah yang membuka Melaka sekitar tahun 1400?"
-      },
-      "explanation": {
-        "en": "Parameswara, a prince from Palembang, founded Melaka.",
-        "bm": "Parameswara, putera dari Palembang, membuka Melaka."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Parameswara",
-          "bm": "Parameswara"
-        },
-        {
-          "en": "Tun Perak",
-          "bm": "Tun Perak"
-        },
-        {
-          "en": "Hang Tuah",
-          "bm": "Hang Tuah"
-        },
-        {
-          "en": "Sultan Mahmud Syah",
-          "bm": "Sultan Mahmud Syah"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-01-q15",
+      "id": "sej-01-q16",
       "subtopicId": "sej-01-03",
       "type": "order",
       "prompt": {
@@ -672,39 +705,6 @@
           "bm": "Laksamana"
         }
       ]
-    },
-    {
-      "id": "sej-01-q16",
-      "subtopicId": "sej-01-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why were kingdoms like Srivijaya and Melaka located near the sea?",
-        "bm": "Mengapakah kerajaan seperti Srivijaya dan Melaka terletak berhampiran laut?"
-      },
-      "explanation": {
-        "en": "Control of the Straits and ports brought wealth from trade.",
-        "bm": "Penguasaan selat dan pelabuhan membawa kekayaan daripada perdagangan."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "To control trade routes and ports",
-          "bm": "Untuk menguasai laluan dan pelabuhan perdagangan"
-        },
-        {
-          "en": "To avoid farming",
-          "bm": "Untuk mengelak pertanian"
-        },
-        {
-          "en": "To hide from traders",
-          "bm": "Untuk bersembunyi daripada pedagang"
-        },
-        {
-          "en": "Because land was forbidden",
-          "bm": "Kerana tanah dilarang"
-        }
-      ],
-      "answer": 0
     },
     {
       "id": "sej-01-q17",
@@ -741,40 +741,40 @@
     },
     {
       "id": "sej-01-q18",
-      "subtopicId": "sej-01-02",
+      "subtopicId": "sej-01-04",
       "type": "mcq",
       "prompt": {
-        "en": "How is the traditional Malay nation-state reflected in Malaysia today?",
-        "bm": "Bagaimanakah negara bangsa Melayu tradisional tercermin dalam Malaysia hari ini?"
+        "en": "The relationship between ruler and people was based on a pact (waadat) between…",
+        "bm": "Hubungan raja dan rakyat berasaskan waadat antara…"
       },
       "explanation": {
-        "en": "The institution of the rulers, Islam and Malay are heritage elements carried into the 1957 Constitution.",
-        "bm": "Institusi raja, Islam dan bahasa Melayu ialah unsur warisan yang dibawa ke dalam Perlembagaan 1957."
+        "en": "In the Sejarah Melayu, Sang Sapurba (ruler) and Demang Lebar Daun (people) agreed the ruler would not shame the people and the people would not commit derhaka.",
+        "bm": "Dalam Sejarah Melayu, Sang Sapurba (raja) dan Demang Lebar Daun (rakyat) bersetuju raja tidak akan mengaibkan rakyat dan rakyat tidak akan derhaka."
       },
-      "difficulty": 3,
+      "difficulty": 2,
       "options": [
         {
-          "en": "The Malay rulers, Islam and the Malay language remain in the Federal Constitution",
-          "bm": "Raja-raja Melayu, Islam dan bahasa Melayu kekal dalam Perlembagaan Persekutuan"
+          "en": "Sang Sapurba & Demang Lebar Daun",
+          "bm": "Sang Sapurba & Demang Lebar Daun"
         },
         {
-          "en": "Malaysia has no rulers",
-          "bm": "Malaysia tiada raja"
+          "en": "Parameswara & Hang Tuah",
+          "bm": "Parameswara & Hang Tuah"
         },
         {
-          "en": "English is the national language",
-          "bm": "Bahasa Inggeris bahasa kebangsaan"
+          "en": "Tun Perak & Tun Teja",
+          "bm": "Tun Perak & Tun Teja"
         },
         {
-          "en": "Laws are no longer written",
-          "bm": "Undang-undang tidak lagi bertulis"
+          "en": "Sultan Mansur Syah & Hang Li Po",
+          "bm": "Sultan Mansur Syah & Hang Li Po"
         }
       ],
       "answer": 0
     },
     {
       "id": "sej-01-q19",
-      "subtopicId": "sej-01-03",
+      "subtopicId": "sej-01-04",
       "type": "mcq",
       "prompt": {
         "en": "If you were the Sultan of Melaka, which step would BEST keep the kingdom strong?",
@@ -807,7 +807,7 @@
     },
     {
       "id": "sej-01-q20",
-      "subtopicId": "sej-01-01",
+      "subtopicId": "sej-01-04",
       "type": "mcq",
       "prompt": {
         "en": "What lesson does the waadat teach about leaders and citizens today?",

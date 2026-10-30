@@ -75,6 +75,64 @@ function SubtopicView() {
         <div className="card text-sm">📝 {t('sub.notesSoon')}</div>
       ))}
 
+      {note?.images && note.images.length > 0 && (
+        <section className="space-y-3">
+          {note.images.map((img) => (
+            <figure key={img.src} className="card overflow-hidden !p-0">
+              <img src={import.meta.env.BASE_URL + img.src} alt={L(img.alt)} loading="lazy" decoding="async"
+                className="max-h-80 w-full bg-slate-100 object-contain dark:bg-slate-800" />
+              <figcaption className="p-3 text-sm">
+                {L(img.caption)}
+                <a href={img.sourceUrl} target="_blank" rel="noreferrer" className="mt-1 block text-[11px] muted underline">{t('sub.photoCredit')}: {img.credit}</a>
+              </figcaption>
+            </figure>
+          ))}
+        </section>
+      )}
+
+      {note?.keywords && note.keywords.length > 0 && (
+        <section className="card">
+          <h2 className="mb-3 text-sm font-bold uppercase tracking-wide" style={{ color }}>🔑 {t('sub.keywords')}</h2>
+          <dl className="grid gap-2 desk:grid-cols-2">
+            {note.keywords.map((k, i) => (
+              <div key={i} className="rounded-xl bg-slate-50 p-2.5 text-sm dark:bg-slate-800/60">
+                <dt className="font-bold" style={{ color }}>{L(k.term)}</dt>
+                <dd className="mt-0.5">{L(k.meaning)}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+      )}
+
+      {note?.sections && note.sections.length > 0 && (
+        <section className="card space-y-4">
+          <h2 className="text-sm font-bold uppercase tracking-wide" style={{ color }}>📖 {t('sub.notes')}</h2>
+          {note.sections.map((s, i) => (
+            <div key={i}>
+              <h3 className="mb-1.5 font-bold">{L(s.heading)}</h3>
+              <ul className="space-y-1.5 border-l-2 pl-3" style={{ borderColor: color }}>
+                {s.points.map((p, j) => <li key={j} className="text-sm leading-relaxed">{L(p)}</li>)}
+              </ul>
+            </div>
+          ))}
+        </section>
+      )}
+
+      {note?.timeline && note.timeline.length > 0 && (
+        <section className="card">
+          <h2 className="mb-3 text-sm font-bold uppercase tracking-wide" style={{ color }}>🕰️ {t('sub.timeline')}</h2>
+          <ol className="relative space-y-3 border-l-2 border-slate-200 pl-4 dark:border-slate-700">
+            {note.timeline.map((e, i) => (
+              <li key={i} className="relative text-sm">
+                <span className="absolute -left-[1.4rem] top-1 h-3 w-3 rounded-full border-2 border-white dark:border-slate-900" style={{ background: color }} />
+                <div className="font-bold tabular-nums" style={{ color }}>{e.date}</div>
+                <div>{L(e.event)}</div>
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
+
       {note?.example && (
         <section className="card">
           <h2 className="mb-2 text-sm font-bold uppercase tracking-wide" style={{ color }}>✍️ {t('sub.example')}</h2>

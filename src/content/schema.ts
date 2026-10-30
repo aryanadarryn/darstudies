@@ -132,8 +132,24 @@ export const BridgeSchema = z.object({
 export type Bridge = z.infer<typeof BridgeSchema>
 
 // ---- Subtopic notes (content/notes/<chapterId>.json) ----
+export const NoteImageSchema = z.object({
+  /** Path under public/ (e.g. img/sej/merdeka.jpg), resolved against the app's base URL. */
+  src: z.string().regex(/^img\/[a-z0-9/_-]+\.(jpg|png|webp)$/),
+  alt: LangSchema,
+  caption: LangSchema,
+  /** Author and licence, e.g. "Arkib Negara Malaysia · Public domain". */
+  credit: z.string().min(1),
+  /** The file's page on Wikimedia Commons (or other source), for attribution. */
+  sourceUrl: z.string().url(),
+})
 export const SubtopicNoteSchema = z.object({
   keyPoints: z.array(LangSchema).min(1),
+  /** Exam keywords (kata kunci) with a one-line meaning. */
+  keywords: z.array(z.object({ term: LangSchema, meaning: LangSchema })).optional(),
+  /** Fuller notes under the textbook's sub-headings (a, b, c …). */
+  sections: z.array(z.object({ heading: LangSchema, points: z.array(LangSchema).min(1) })).optional(),
+  timeline: z.array(z.object({ date: z.string().min(1), event: LangSchema })).optional(),
+  images: z.array(NoteImageSchema).optional(),
   example: z.object({ question: LangSchema, answer: LangSchema }).optional(),
   tip: LangSchema.optional(),
 })

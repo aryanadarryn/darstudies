@@ -341,89 +341,6 @@
     },
     {
       "id": "sej-04-q06",
-      "subtopicId": "sej-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "UMNO was founded on 11 May 1946. Who was its first president?",
-        "bm": "UMNO ditubuhkan pada 11 Mei 1946. Siapakah presiden pertamanya?"
-      },
-      "explanation": {
-        "en": "Dato' Onn Jaafar led UMNO in opposing the Malayan Union.",
-        "bm": "Dato' Onn Jaafar memimpin UMNO menentang Malayan Union."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Dato' Onn Jaafar",
-          "bm": "Dato' Onn Jaafar"
-        },
-        {
-          "en": "Tunku Abdul Rahman",
-          "bm": "Tunku Abdul Rahman"
-        },
-        {
-          "en": "Tun Abdul Razak",
-          "bm": "Tun Abdul Razak"
-        },
-        {
-          "en": "Ibrahim Haji Yaacob",
-          "bm": "Ibrahim Haji Yaacob"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q07",
-      "subtopicId": "sej-04-03",
-      "type": "fill",
-      "prompt": {
-        "en": "The first Pan-Malayan Malay Congress (March 1946) was held at the Sultan ______ Club, Kampung Baru.",
-        "bm": "Kongres Melayu Se-Malaya pertama (Mac 1946) diadakan di Kelab Sultan ______, Kampung Baru."
-      },
-      "explanation": {
-        "en": "Kelab Sultan Sulaiman in Kampung Baru, Kuala Lumpur.",
-        "bm": "Kelab Sultan Sulaiman di Kampung Baru, Kuala Lumpur."
-      },
-      "difficulty": 1,
-      "answer": [
-        "Sulaiman"
-      ]
-    },
-    {
-      "id": "sej-04-q08",
-      "subtopicId": "sej-04-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Sarawak and Sabah became British Crown Colonies in…",
-        "bm": "Sarawak dan Sabah menjadi Tanah Jajahan Mahkota British pada…"
-      },
-      "explanation": {
-        "en": "Both became Crown Colonies in July 1946.",
-        "bm": "Kedua-duanya menjadi Tanah Jajahan Mahkota pada Julai 1946."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "1946",
-          "bm": "1946"
-        },
-        {
-          "en": "1957",
-          "bm": "1957"
-        },
-        {
-          "en": "1963",
-          "bm": "1963"
-        },
-        {
-          "en": "1941",
-          "bm": "1941"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q09",
       "subtopicId": "sej-04-02",
       "type": "multi",
       "prompt": {
@@ -460,7 +377,7 @@
       ]
     },
     {
-      "id": "sej-04-q10",
+      "id": "sej-04-q07",
       "subtopicId": "sej-04-02",
       "type": "mcq",
       "prompt": {
@@ -493,171 +410,7 @@
       "answer": 0
     },
     {
-      "id": "sej-04-q11",
-      "subtopicId": "sej-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "How did the Malays show their protest against the Malayan Union?",
-        "bm": "Bagaimanakah orang Melayu menunjukkan bantahan terhadap Malayan Union?"
-      },
-      "explanation": {
-        "en": "The protests were peaceful but united.",
-        "bm": "Bantahan dibuat secara aman tetapi bersatu."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Wearing white bands on their songkok and boycotting the Governor's installation",
-          "bm": "Memakai kain putih di songkok dan memulaukan istiadat pelantikan Gabenor"
-        },
-        {
-          "en": "Armed revolt with Japan",
-          "bm": "Pemberontakan bersenjata bersama Jepun"
-        },
-        {
-          "en": "Moving to Singapore",
-          "bm": "Berpindah ke Singapura"
-        },
-        {
-          "en": "Supporting jus soli",
-          "bm": "Menyokong jus soli"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q12",
-      "subtopicId": "sej-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which group of British people ALSO opposed the Malayan Union?",
-        "bm": "Golongan British manakah yang JUGA menentang Malayan Union?"
-      },
-      "explanation": {
-        "en": "Former officers like Swettenham and Winstedt said it broke treaties with the rulers.",
-        "bm": "Bekas pegawai seperti Swettenham dan Winstedt berkata ia melanggar perjanjian dengan raja."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Retired British officers such as Frank Swettenham",
-          "bm": "Bekas pegawai British seperti Frank Swettenham"
-        },
-        {
-          "en": "The British Army in Japan",
-          "bm": "Tentera British di Jepun"
-        },
-        {
-          "en": "The Kempeitai",
-          "bm": "Kempeitai"
-        },
-        {
-          "en": "The MPAJA",
-          "bm": "MPAJA"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q13",
-      "subtopicId": "sej-04-03",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange these events in time order.",
-        "bm": "Susun peristiwa ini mengikut kronologi."
-      },
-      "explanation": {
-        "en": "Oct–Dec 1945 → March 1946 → 1 April 1946 → 11 May 1946.",
-        "bm": "Okt–Dis 1945 → Mac 1946 → 1 April 1946 → 11 Mei 1946."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "MacMichael obtains the rulers' signatures",
-          "bm": "MacMichael mendapatkan tandatangan raja"
-        },
-        {
-          "en": "First Pan-Malayan Malay Congress",
-          "bm": "Kongres Melayu Se-Malaya pertama"
-        },
-        {
-          "en": "Malayan Union inaugurated",
-          "bm": "Malayan Union dirasmikan"
-        },
-        {
-          "en": "UMNO founded",
-          "bm": "UMNO ditubuhkan"
-        }
-      ]
-    },
-    {
-      "id": "sej-04-q14",
-      "subtopicId": "sej-04-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who assassinated Governor Duncan Stewart of Sarawak in 1949 in protest against cession?",
-        "bm": "Siapakah yang membunuh Gabenor Duncan Stewart di Sarawak pada 1949 kerana menentang penyerahan?"
-      },
-      "explanation": {
-        "en": "Rosli Dhobi, of the Rukun 13 group, stabbed Stewart in Sibu on 3 December 1949.",
-        "bm": "Rosli Dhobi, ahli Rukun 13, menikam Stewart di Sibu pada 3 Disember 1949."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Rosli Dhobi",
-          "bm": "Rosli Dhobi"
-        },
-        {
-          "en": "Rentap",
-          "bm": "Rentap"
-        },
-        {
-          "en": "Mat Salleh",
-          "bm": "Mat Salleh"
-        },
-        {
-          "en": "Albert Kwok",
-          "bm": "Albert Kwok"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q15",
-      "subtopicId": "sej-04-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why was Sabah handed to the British Crown in 1946?",
-        "bm": "Mengapakah Sabah diserahkan kepada Kerajaan British pada 1946?"
-      },
-      "explanation": {
-        "en": "War damage was too costly for the company, so the Crown took over.",
-        "bm": "Kerosakan perang terlalu mahal bagi syarikat itu, jadi Kerajaan British mengambil alih."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "The British North Borneo Company could not afford to rebuild after the war",
-          "bm": "Syarikat Borneo Utara British tidak mampu membangunkan semula selepas perang"
-        },
-        {
-          "en": "Sabah asked to join Japan",
-          "bm": "Sabah mahu menyertai Jepun"
-        },
-        {
-          "en": "Brooke bought Sabah",
-          "bm": "Brooke membeli Sabah"
-        },
-        {
-          "en": "It became independent",
-          "bm": "Sabah merdeka"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q16",
+      "id": "sej-04-q08",
       "subtopicId": "sej-04-02",
       "type": "mcq",
       "prompt": {
@@ -690,40 +443,7 @@
       "answer": 0
     },
     {
-      "id": "sej-04-q17",
-      "subtopicId": "sej-04-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "What was the MOST significant result of the anti-Malayan Union movement?",
-        "bm": "Apakah hasil PALING penting gerakan anti-Malayan Union?"
-      },
-      "explanation": {
-        "en": "UMNO's unity led to the Federation of Malaya 1948 and set the path to independence.",
-        "bm": "Perpaduan UMNO membawa kepada Persekutuan Tanah Melayu 1948 dan membuka jalan kemerdekaan."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Malays united under one political body and forced the British to negotiate",
-          "bm": "Orang Melayu bersatu di bawah satu badan politik dan memaksa British berunding"
-        },
-        {
-          "en": "Malaya became a Crown Colony",
-          "bm": "Tanah Melayu menjadi Tanah Jajahan Mahkota"
-        },
-        {
-          "en": "The rulers lost all power",
-          "bm": "Raja hilang semua kuasa"
-        },
-        {
-          "en": "Japan returned",
-          "bm": "Jepun kembali"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-04-q18",
+      "id": "sej-04-q09",
       "subtopicId": "sej-04-02",
       "type": "mcq",
       "prompt": {
@@ -756,7 +476,188 @@
       "answer": 0
     },
     {
-      "id": "sej-04-q19",
+      "id": "sej-04-q10",
+      "subtopicId": "sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "UMNO was founded on 11 May 1946. Who was its first president?",
+        "bm": "UMNO ditubuhkan pada 11 Mei 1946. Siapakah presiden pertamanya?"
+      },
+      "explanation": {
+        "en": "Dato' Onn Jaafar led UMNO in opposing the Malayan Union.",
+        "bm": "Dato' Onn Jaafar memimpin UMNO menentang Malayan Union."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Dato' Onn Jaafar",
+          "bm": "Dato' Onn Jaafar"
+        },
+        {
+          "en": "Tunku Abdul Rahman",
+          "bm": "Tunku Abdul Rahman"
+        },
+        {
+          "en": "Tun Abdul Razak",
+          "bm": "Tun Abdul Razak"
+        },
+        {
+          "en": "Ibrahim Haji Yaacob",
+          "bm": "Ibrahim Haji Yaacob"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q11",
+      "subtopicId": "sej-04-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The first Pan-Malayan Malay Congress (March 1946) was held at the Sultan ______ Club, Kampung Baru.",
+        "bm": "Kongres Melayu Se-Malaya pertama (Mac 1946) diadakan di Kelab Sultan ______, Kampung Baru."
+      },
+      "explanation": {
+        "en": "Kelab Sultan Sulaiman in Kampung Baru, Kuala Lumpur.",
+        "bm": "Kelab Sultan Sulaiman di Kampung Baru, Kuala Lumpur."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Sulaiman"
+      ]
+    },
+    {
+      "id": "sej-04-q12",
+      "subtopicId": "sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "How did the Malays show their protest against the Malayan Union?",
+        "bm": "Bagaimanakah orang Melayu menunjukkan bantahan terhadap Malayan Union?"
+      },
+      "explanation": {
+        "en": "The protests were peaceful but united.",
+        "bm": "Bantahan dibuat secara aman tetapi bersatu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Wearing white bands on their songkok and boycotting the Governor's installation",
+          "bm": "Memakai kain putih di songkok dan memulaukan istiadat pelantikan Gabenor"
+        },
+        {
+          "en": "Armed revolt with Japan",
+          "bm": "Pemberontakan bersenjata bersama Jepun"
+        },
+        {
+          "en": "Moving to Singapore",
+          "bm": "Berpindah ke Singapura"
+        },
+        {
+          "en": "Supporting jus soli",
+          "bm": "Menyokong jus soli"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q13",
+      "subtopicId": "sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which group of British people ALSO opposed the Malayan Union?",
+        "bm": "Golongan British manakah yang JUGA menentang Malayan Union?"
+      },
+      "explanation": {
+        "en": "Former officers like Swettenham and Winstedt said it broke treaties with the rulers.",
+        "bm": "Bekas pegawai seperti Swettenham dan Winstedt berkata ia melanggar perjanjian dengan raja."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Retired British officers such as Frank Swettenham",
+          "bm": "Bekas pegawai British seperti Frank Swettenham"
+        },
+        {
+          "en": "The British Army in Japan",
+          "bm": "Tentera British di Jepun"
+        },
+        {
+          "en": "The Kempeitai",
+          "bm": "Kempeitai"
+        },
+        {
+          "en": "The MPAJA",
+          "bm": "MPAJA"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q14",
+      "subtopicId": "sej-04-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these events in time order.",
+        "bm": "Susun peristiwa ini mengikut kronologi."
+      },
+      "explanation": {
+        "en": "Oct–Dec 1945 → March 1946 → 1 April 1946 → 11 May 1946.",
+        "bm": "Okt–Dis 1945 → Mac 1946 → 1 April 1946 → 11 Mei 1946."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "MacMichael obtains the rulers' signatures",
+          "bm": "MacMichael mendapatkan tandatangan raja"
+        },
+        {
+          "en": "First Pan-Malayan Malay Congress",
+          "bm": "Kongres Melayu Se-Malaya pertama"
+        },
+        {
+          "en": "Malayan Union inaugurated",
+          "bm": "Malayan Union dirasmikan"
+        },
+        {
+          "en": "UMNO founded",
+          "bm": "UMNO ditubuhkan"
+        }
+      ]
+    },
+    {
+      "id": "sej-04-q15",
+      "subtopicId": "sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What was the MOST significant result of the anti-Malayan Union movement?",
+        "bm": "Apakah hasil PALING penting gerakan anti-Malayan Union?"
+      },
+      "explanation": {
+        "en": "UMNO's unity led to the Federation of Malaya 1948 and set the path to independence.",
+        "bm": "Perpaduan UMNO membawa kepada Persekutuan Tanah Melayu 1948 dan membuka jalan kemerdekaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Malays united under one political body and forced the British to negotiate",
+          "bm": "Orang Melayu bersatu di bawah satu badan politik dan memaksa British berunding"
+        },
+        {
+          "en": "Malaya became a Crown Colony",
+          "bm": "Tanah Melayu menjadi Tanah Jajahan Mahkota"
+        },
+        {
+          "en": "The rulers lost all power",
+          "bm": "Raja hilang semua kuasa"
+        },
+        {
+          "en": "Japan returned",
+          "bm": "Jepun kembali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q16",
       "subtopicId": "sej-04-03",
       "type": "mcq",
       "prompt": {
@@ -789,8 +690,74 @@
       "answer": 0
     },
     {
-      "id": "sej-04-q20",
+      "id": "sej-04-q17",
       "subtopicId": "sej-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sarawak and Sabah became British Crown Colonies in…",
+        "bm": "Sarawak dan Sabah menjadi Tanah Jajahan Mahkota British pada…"
+      },
+      "explanation": {
+        "en": "Both became Crown Colonies in July 1946.",
+        "bm": "Kedua-duanya menjadi Tanah Jajahan Mahkota pada Julai 1946."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1946",
+          "bm": "1946"
+        },
+        {
+          "en": "1957",
+          "bm": "1957"
+        },
+        {
+          "en": "1963",
+          "bm": "1963"
+        },
+        {
+          "en": "1941",
+          "bm": "1941"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q18",
+      "subtopicId": "sej-04-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who assassinated Governor Duncan Stewart of Sarawak in 1949 in protest against cession?",
+        "bm": "Siapakah yang membunuh Gabenor Duncan Stewart di Sarawak pada 1949 kerana menentang penyerahan?"
+      },
+      "explanation": {
+        "en": "Rosli Dhobi, of the Rukun 13 group, stabbed Stewart in Sibu on 3 December 1949.",
+        "bm": "Rosli Dhobi, ahli Rukun 13, menikam Stewart di Sibu pada 3 Disember 1949."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rosli Dhobi",
+          "bm": "Rosli Dhobi"
+        },
+        {
+          "en": "Rentap",
+          "bm": "Rentap"
+        },
+        {
+          "en": "Mat Salleh",
+          "bm": "Mat Salleh"
+        },
+        {
+          "en": "Albert Kwok",
+          "bm": "Albert Kwok"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q19",
+      "subtopicId": "sej-04-05",
       "type": "mcq",
       "prompt": {
         "en": "Compare the reactions in Malaya and Sarawak to the 1946 changes.",
@@ -817,6 +784,122 @@
         {
           "en": "Neither reacted",
           "bm": "Tiada reaksi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q20",
+      "subtopicId": "sej-04-05",
+      "type": "fill",
+      "prompt": {
+        "en": "Under Circular No. 9, ______ Malay teachers and civil servants in Sarawak resigned (write the number).",
+        "bm": "Akibat Pekeliling No. 9, seramai ______ orang guru dan kakitangan kerajaan Melayu di Sarawak meletakkan jawatan (tulis nombor)."
+      },
+      "explanation": {
+        "en": "338 resigned rather than obey the order banning them from the anti-cession movement.",
+        "bm": "Seramai 338 orang meletakkan jawatan daripada mematuhi arahan yang melarang mereka menyertai gerakan anti-penyerahan."
+      },
+      "difficulty": 1,
+      "answer": [
+        "338"
+      ]
+    },
+    {
+      "id": "sej-04-q21",
+      "subtopicId": "sej-04-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why was Sabah handed to the British Crown in 1946?",
+        "bm": "Mengapakah Sabah diserahkan kepada Kerajaan British pada 1946?"
+      },
+      "explanation": {
+        "en": "War damage was too costly for the company, so the Crown took over.",
+        "bm": "Kerosakan perang terlalu mahal bagi syarikat itu, jadi Kerajaan British mengambil alih."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The British North Borneo Company could not afford to rebuild after the war",
+          "bm": "Syarikat Borneo Utara British tidak mampu membangunkan semula selepas perang"
+        },
+        {
+          "en": "Sabah asked to join Japan",
+          "bm": "Sabah mahu menyertai Jepun"
+        },
+        {
+          "en": "Brooke bought Sabah",
+          "bm": "Brooke membeli Sabah"
+        },
+        {
+          "en": "It became independent",
+          "bm": "Sabah merdeka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q22",
+      "subtopicId": "sej-04-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sabah (North Borneo) became a British Crown Colony on…",
+        "bm": "Sabah (Borneo Utara) menjadi Tanah Jajahan Mahkota British pada…"
+      },
+      "explanation": {
+        "en": "The British North Borneo Company handed Sabah over on 15 July 1946.",
+        "bm": "Syarikat Borneo Utara British menyerahkan Sabah pada 15 Julai 1946."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "15 July 1946",
+          "bm": "15 July 1946"
+        },
+        {
+          "en": "1 April 1946",
+          "bm": "1 April 1946"
+        },
+        {
+          "en": "1 February 1948",
+          "bm": "1 February 1948"
+        },
+        {
+          "en": "31 August 1957",
+          "bm": "31 August 1957"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-04-q23",
+      "subtopicId": "sej-04-07",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why was there less open opposition in Sabah than in Sarawak?",
+        "bm": "Mengapakah penentangan terbuka di Sabah kurang berbanding di Sarawak?"
+      },
+      "explanation": {
+        "en": "The textbook links Sabah's reaction to British policy and to local socio-economic interests.",
+        "bm": "Buku teks mengaitkan reaksi Sabah dengan dasar British dan kepentingan sosioekonomi penduduk tempatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "British policy suppressed associations, and people were busy rebuilding after the war",
+          "bm": "Dasar British menyekat persatuan, dan rakyat sibuk membina semula kehidupan selepas perang"
+        },
+        {
+          "en": "Sabah had no Malay population",
+          "bm": "Sabah tiada penduduk Melayu"
+        },
+        {
+          "en": "Sabah was already independent",
+          "bm": "Sabah sudah merdeka"
+        },
+        {
+          "en": "The Brooke family ruled Sabah",
+          "bm": "Keluarga Brooke memerintah Sabah"
         }
       ],
       "answer": 0

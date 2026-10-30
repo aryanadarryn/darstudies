@@ -5,58 +5,635 @@
     "sej-07-01": {
       "keyPoints": [
         {
-          "en": "Member System (1951): local leaders held portfolios — training for self-rule.",
-          "bm": "Sistem Ahli (1951): pemimpin tempatan memegang portfolio — latihan pemerintahan sendiri."
+          "en": "After World War II, many organisations and parties put forward the idea of an independent nation.",
+          "bm": "Selepas Perang Dunia Kedua, banyak pertubuhan dan parti mengemukakan idea negara merdeka."
         },
         {
-          "en": "Dato' Onn left UMNO and formed the IMP (1951); Tunku became UMNO president.",
-          "bm": "Dato' Onn keluar UMNO dan menubuhkan IMP (1951); Tunku menjadi presiden UMNO."
+          "en": "Malay groups: KMM, PKMM, API, UMNO, Hizbul Muslimin and PAS; in Sarawak and Labuan, PKMS, the Pergerakan Pemuda Melayu and the Parti Kebangsaan Melayu Labuan.",
+          "bm": "Kumpulan Melayu: KMM, PKMM, API, UMNO, Hizbul Muslimin dan PAS; di Sarawak dan Labuan, PKMS, Pergerakan Pemuda Melayu dan Parti Kebangsaan Melayu Labuan."
         },
         {
-          "en": "The British made unity a condition for independence.",
-          "bm": "British menjadikan perpaduan syarat kemerdekaan."
+          "en": "Non-Malay and multi-ethnic parties: MIC (1946), MCA (1949) and IMP (1951).",
+          "bm": "Parti bukan Melayu dan berbilang kaum: MIC (1946), MCA (1949) dan IMP (1951)."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "PKMM",
+            "bm": "PKMM"
+          },
+          "meaning": {
+            "en": "Parti Kebangsaan Melayu Malaya (17 Oct 1945) — wanted independence and Melayu Raya.",
+            "bm": "Parti Kebangsaan Melayu Malaya (17 Okt 1945) — mahukan kemerdekaan dan Melayu Raya."
+          }
+        },
+        {
+          "term": {
+            "en": "API",
+            "bm": "API"
+          },
+          "meaning": {
+            "en": "Angkatan Pemuda Insaf (1946), Ahmad Boestamam — slogan \"Merdeka dengan darah\".",
+            "bm": "Angkatan Pemuda Insaf (1946), Ahmad Boestamam — slogan \"Merdeka dengan darah\"."
+          }
+        },
+        {
+          "term": {
+            "en": "Hizbul Muslimin",
+            "bm": "Hizbul Muslimin"
+          },
+          "meaning": {
+            "en": "Islamic party founded at Gunung Semanggol, Perak (1948); banned the same year.",
+            "bm": "Parti Islam yang ditubuhkan di Gunung Semanggol, Perak (1948); diharamkan pada tahun yang sama."
+          }
+        },
+        {
+          "term": {
+            "en": "MIC",
+            "bm": "MIC"
+          },
+          "meaning": {
+            "en": "Malayan Indian Congress, founded August 1946 by John Thivy.",
+            "bm": "Kongres India Malaya, ditubuhkan Ogos 1946 oleh John Thivy."
+          }
+        },
+        {
+          "term": {
+            "en": "IMP",
+            "bm": "IMP"
+          },
+          "meaning": {
+            "en": "Independence of Malaya Party (1951), Dato' Onn's multi-ethnic party.",
+            "bm": "Parti Kemerdekaan Malaya (1951), parti berbilang kaum Dato' Onn."
+          }
+        },
+        {
+          "term": {
+            "en": "PAS",
+            "bm": "PAS"
+          },
+          "meaning": {
+            "en": "Persatuan (later Parti) Islam Se-Malaya, founded 24 November 1951.",
+            "bm": "Persatuan (kemudian Parti) Islam Se-Malaya, ditubuhkan 24 November 1951."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Organisations and their ideas",
+            "bm": "Pertubuhan dan idea mereka"
+          },
+          "points": [
+            {
+              "en": "KMM (1938) and PKMM (1945): independence together with Indonesia (Melayu Raya).",
+              "bm": "KMM (1938) dan PKMM (1945): merdeka bersama Indonesia (Melayu Raya)."
+            },
+            {
+              "en": "API (1946): independence, even by force; banned in 1947.",
+              "bm": "API (1946): kemerdekaan, termasuk dengan kekerasan; diharamkan pada 1947."
+            },
+            {
+              "en": "UMNO (1946): first to defend the Malays against the Malayan Union; under Tunku Abdul Rahman (from 1951) its slogan became \"Merdeka\".",
+              "bm": "UMNO (1946): mula-mula mempertahankan orang Melayu daripada Malayan Union; di bawah Tunku Abdul Rahman (mulai 1951) slogannya menjadi \"Merdeka\"."
+            },
+            {
+              "en": "Sarawak: PKMS and Pergerakan Pemuda Melayu opposed the cession and wanted self-rule.",
+              "bm": "Sarawak: PKMS dan Pergerakan Pemuda Melayu menentang penyerahan dan mahukan pemerintahan sendiri."
+            },
+            {
+              "en": "MIC (1946), MCA (1949): defended their communities and later joined the Alliance.",
+              "bm": "MIC (1946), MCA (1949): membela komuniti masing-masing dan kemudian menyertai Perikatan."
+            },
+            {
+              "en": "IMP (1951): Dato' Onn left UMNO to form a party open to all races, but it won little support.",
+              "bm": "IMP (1951): Dato' Onn meninggalkan UMNO untuk menubuhkan parti terbuka kepada semua kaum, tetapi mendapat sokongan yang sedikit."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did Dato' Onn Jaafar leave UMNO in 1951?",
+          "bm": "Mengapakah Dato' Onn Jaafar meninggalkan UMNO pada 1951?"
+        },
+        "answer": {
+          "en": "He wanted UMNO to open membership to all races; when members refused, he left and formed the multi-ethnic IMP.",
+          "bm": "Beliau mahu UMNO membuka keahlian kepada semua kaum; apabila ahli menolak, beliau keluar dan menubuhkan IMP yang berbilang kaum."
+        }
+      },
+      "tip": {
+        "en": "Make a 3-column list: party — year — leader. Years are often tested.",
+        "bm": "Buat senarai 3 lajur: parti — tahun — pemimpin. Tahun kerap ditanya."
+      }
     },
     "sej-07-02": {
       "keyPoints": [
         {
-          "en": "CLC (1949) brought leaders of different races together.",
-          "bm": "CLC (1949) menghimpunkan pemimpin pelbagai kaum."
+          "en": "The Communities Liaison Committee (CLC, Jawatankuasa Hubungan Antara Kaum) was set up in 1949.",
+          "bm": "Jawatankuasa Hubungan Antara Kaum (CLC) ditubuhkan pada 1949."
         },
         {
-          "en": "UMNO–MCA pact won the 1952 Kuala Lumpur municipal election.",
-          "bm": "Pakatan UMNO–MCA memenangi pilihan raya perbandaran Kuala Lumpur 1952."
+          "en": "It was started by Malcolm MacDonald, British Commissioner-General for Southeast Asia, and chaired by Dato' E.E.C. Thuraisingham.",
+          "bm": "Ia dimulakan oleh Malcolm MacDonald, Pesuruhjaya Agung British di Asia Tenggara, dan dipengerusikan Dato' E.E.C. Thuraisingham."
         },
         {
-          "en": "MIC joined in 1954, forming the Alliance (UMNO–MCA–MIC).",
-          "bm": "MIC menyertai pada 1954, membentuk Perikatan (UMNO–MCA–MIC)."
+          "en": "Leaders of different races, including Dato' Onn and Tan Cheng Lock, discussed citizenship, the Malay economy, education and elections.",
+          "bm": "Pemimpin pelbagai kaum, termasuk Dato' Onn dan Tan Cheng Lock, membincangkan kewarganegaraan, ekonomi orang Melayu, pendidikan dan pilihan raya."
         }
       ],
-      "tip": {
-        "en": "Remember the dates as a ladder: 49 → 52 → 54 → 55.",
-        "bm": "Ingat tarikh sebagai tangga: 49 → 52 → 54 → 55."
+      "keywords": [
+        {
+          "term": {
+            "en": "CLC",
+            "bm": "CLC"
+          },
+          "meaning": {
+            "en": "Communities Liaison Committee (1949) — a forum for inter-ethnic understanding.",
+            "bm": "Jawatankuasa Hubungan Antara Kaum (1949) — forum persefahaman antara kaum."
+          }
+        },
+        {
+          "term": {
+            "en": "RIDA",
+            "bm": "RIDA"
+          },
+          "meaning": {
+            "en": "Rural and Industrial Development Authority (1950), chaired by Dato' Onn, to improve the Malays' economic position — an outcome of CLC talks.",
+            "bm": "Lembaga Kemajuan Kampung dan Perusahaan (1950), dipengerusikan Dato' Onn, untuk memajukan ekonomi orang Melayu — hasil perbincangan CLC."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Setting up the CLC",
+            "bm": "a. Penubuhan Jawatankuasa Hubungan Antara Kaum"
+          },
+          "points": [
+            {
+              "en": "Formed in 1949 because the British wanted inter-ethnic cooperation before granting self-government.",
+              "bm": "Ditubuhkan pada 1949 kerana British mahukan kerjasama kaum sebelum memberikan pemerintahan sendiri."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Role of the CLC",
+            "bm": "b. Peranan Jawatankuasa Hubungan Antara Kaum"
+          },
+          "points": [
+            {
+              "en": "Agreed to ease citizenship for non-Malays.",
+              "bm": "Bersetuju melonggarkan syarat kewarganegaraan bagi bukan Melayu."
+            },
+            {
+              "en": "Agreed to help the Malays economically, leading to RIDA (1950).",
+              "bm": "Bersetuju membantu ekonomi orang Melayu, membawa kepada RIDA (1950)."
+            },
+            {
+              "en": "Discussed a national education system and holding elections.",
+              "bm": "Membincangkan sistem pendidikan kebangsaan dan pengadaan pilihan raya."
+            },
+            {
+              "en": "Showed that leaders of different races could compromise — the spirit later seen in the Alliance.",
+              "bm": "Menunjukkan pemimpin pelbagai kaum boleh bertolak ansur — semangat yang kemudian terlihat dalam Perikatan."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "What was the role of the Communities Liaison Committee?",
+          "bm": "Apakah peranan Jawatankuasa Hubungan Antara Kaum?"
+        },
+        "answer": {
+          "en": "It brought leaders of the main races together to discuss and compromise on citizenship, the Malay economy, education and elections, building the trust needed for independence.",
+          "bm": "Ia menghimpunkan pemimpin kaum utama untuk berbincang dan bertolak ansur tentang kewarganegaraan, ekonomi orang Melayu, pendidikan dan pilihan raya, membina kepercayaan yang diperlukan untuk kemerdekaan."
+        }
       }
     },
     "sej-07-03": {
       "keyPoints": [
         {
-          "en": "London talks (Jan–Feb 1956): 4 rulers' + 4 Alliance representatives, led by Tunku.",
-          "bm": "Rundingan London (Jan–Feb 1956): 4 wakil raja + 4 wakil Perikatan, diketuai Tunku."
+          "en": "The Member System (Sistem Ahli) was introduced in 1951 by High Commissioner Sir Henry Gurney.",
+          "bm": "Sistem Ahli diperkenalkan pada 1951 oleh Pesuruhjaya Tinggi Sir Henry Gurney."
         },
         {
-          "en": "London Agreement, 8 Feb 1956: independence by 31 Aug 1957 if possible.",
-          "bm": "Perjanjian London, 8 Feb 1956: merdeka pada 31 Ogos 1957 jika boleh."
+          "en": "Local leaders were appointed to head government departments, like ministers.",
+          "bm": "Pemimpin tempatan dilantik mengetuai jabatan kerajaan, seperti menteri."
         },
         {
-          "en": "Reid Commission: 5 members from Britain, Australia, India and Pakistan; 131 memoranda.",
-          "bm": "Suruhanjaya Reid: 5 ahli dari Britain, Australia, India dan Pakistan; 131 memorandum."
-        },
-        {
-          "en": "Social contract: citizenship for non-Malays; Malay special position, Islam and Malay language protected.",
-          "bm": "Kontrak sosial: kerakyatan untuk bukan Melayu; kedudukan istimewa Melayu, Islam dan bahasa Melayu dilindungi."
+          "en": "It trained local leaders to run a government — a step towards self-government.",
+          "bm": "Ia melatih pemimpin tempatan mentadbir kerajaan — langkah ke arah pemerintahan sendiri."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Member System",
+            "bm": "Sistem Ahli"
+          },
+          "meaning": {
+            "en": "From 1951, members of the Legislative Council were given charge of departments, similar to ministers.",
+            "bm": "Mulai 1951, ahli Majlis Perundangan diberi tanggungjawab mengetuai jabatan, seperti menteri."
+          }
+        },
+        {
+          "term": {
+            "en": "Self-government",
+            "bm": "Pemerintahan sendiri"
+          },
+          "meaning": {
+            "en": "Local people running their own government.",
+            "bm": "Penduduk tempatan menjalankan kerajaan sendiri."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Formation",
+            "bm": "a. Pembentukan Sistem Ahli"
+          },
+          "points": [
+            {
+              "en": "Introduced in 1951 to give local leaders experience before independence.",
+              "bm": "Diperkenalkan pada 1951 untuk memberi pengalaman kepada pemimpin tempatan sebelum merdeka."
+            },
+            {
+              "en": "Local members included Dato' Onn Jaafar (Home Affairs), Tunku Yaacob (Agriculture and Forestry), Dato' Mahmud Mat (Land, Mines and Communications), Dr Lee Tiang Keng (Health) and E.E.C. Thuraisingham (Education).",
+              "bm": "Ahli tempatan termasuk Dato' Onn Jaafar (Hal Ehwal Dalam Negeri), Tunku Yaacob (Pertanian dan Perhutanan), Dato' Mahmud Mat (Tanah, Galian dan Perhubungan), Dr Lee Tiang Keng (Kesihatan) dan E.E.C. Thuraisingham (Pelajaran)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Features",
+            "bm": "b. Ciri-ciri Sistem Ahli"
+          },
+          "points": [
+            {
+              "en": "Members were appointed, not elected, and were responsible to the High Commissioner.",
+              "bm": "Ahli dilantik, bukan dipilih, dan bertanggungjawab kepada Pesuruhjaya Tinggi."
+            },
+            {
+              "en": "Members came from different races; important posts (defence, finance) stayed with British officials.",
+              "bm": "Ahli terdiri daripada pelbagai kaum; jawatan penting (pertahanan, kewangan) kekal di tangan pegawai British."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c. Importance towards independence",
+            "bm": "c. Kepentingan Sistem Ahli ke arah kemerdekaan"
+          },
+          "points": [
+            {
+              "en": "Gave local leaders administrative experience.",
+              "bm": "Memberi pengalaman pentadbiran kepada pemimpin tempatan."
+            },
+            {
+              "en": "Became the basis of the cabinet system after the 1955 election.",
+              "bm": "Menjadi asas kepada sistem kabinet selepas pilihan raya 1955."
+            },
+            {
+              "en": "Showed Britain that locals were ready to govern.",
+              "bm": "Membuktikan kepada British bahawa penduduk tempatan bersedia memerintah."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why was the Member System important for independence?",
+          "bm": "Mengapakah Sistem Ahli penting kepada kemerdekaan?"
+        },
+        "answer": {
+          "en": "It trained local leaders to run government departments, prepared the way for a cabinet, and proved locals could govern themselves.",
+          "bm": "Ia melatih pemimpin tempatan mengetuai jabatan kerajaan, menyediakan jalan untuk kabinet, dan membuktikan penduduk tempatan mampu memerintah sendiri."
+        }
+      }
+    },
+    "sej-07-04": {
+      "keyPoints": [
+        {
+          "en": "Committees studied education in Malaya, Sarawak and Sabah to build a national education system.",
+          "bm": "Jawatankuasa mengkaji pendidikan di Tanah Melayu, Sarawak dan Sabah untuk membentuk sistem pendidikan kebangsaan."
+        },
+        {
+          "en": "Barnes Report (1951) → Fenn-Wu Report (1951) → Education Ordinance (1952) → Woodhead Report in Sarawak and Sabah (1955) → Razak Report (1956).",
+          "bm": "Laporan Barnes (1951) → Laporan Fenn-Wu (1951) → Ordinan Pelajaran (1952) → Laporan Woodhead di Sarawak dan Sabah (1955) → Penyata Razak (1956)."
+        },
+        {
+          "en": "The Razak Report made Malay the national language and the main medium, with a common syllabus to build unity.",
+          "bm": "Penyata Razak menjadikan bahasa Melayu bahasa kebangsaan dan bahasa pengantar utama, dengan sukatan pelajaran yang sama untuk membina perpaduan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Vernacular schools",
+            "bm": "Sekolah vernakular"
+          },
+          "meaning": {
+            "en": "Schools teaching in the community's own language — Malay, Chinese or Tamil.",
+            "bm": "Sekolah yang mengajar dalam bahasa ibunda komuniti — Melayu, Cina atau Tamil."
+          }
+        },
+        {
+          "term": {
+            "en": "Barnes Report",
+            "bm": "Laporan Barnes"
+          },
+          "meaning": {
+            "en": "1951: proposed national schools in Malay and English, replacing vernacular schools.",
+            "bm": "1951: mencadangkan sekolah kebangsaan dalam bahasa Melayu dan Inggeris, menggantikan sekolah vernakular."
+          }
+        },
+        {
+          "term": {
+            "en": "Fenn-Wu Report",
+            "bm": "Laporan Fenn-Wu"
+          },
+          "meaning": {
+            "en": "1951: Chinese community's view — keep Chinese schools, while learning Malay and English.",
+            "bm": "1951: pandangan masyarakat Cina — kekalkan sekolah Cina, sambil mempelajari bahasa Melayu dan Inggeris."
+          }
+        },
+        {
+          "term": {
+            "en": "Razak Report",
+            "bm": "Penyata Razak"
+          },
+          "meaning": {
+            "en": "1956 report by Dato' Abdul Razak — basis of the national education system.",
+            "bm": "Penyata 1956 oleh Dato' Abdul Razak — asas sistem pendidikan kebangsaan."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Barnes Report 1951",
+            "bm": "a. Laporan Barnes 1951"
+          },
+          "points": [
+            {
+              "en": "Primary schools to use Malay and English only; vernacular Chinese and Tamil schools to be replaced by national schools.",
+              "bm": "Sekolah rendah menggunakan bahasa Melayu dan Inggeris sahaja; sekolah vernakular Cina dan Tamil diganti dengan sekolah kebangsaan."
+            },
+            {
+              "en": "The Chinese and Indian communities objected.",
+              "bm": "Masyarakat Cina dan India membantah."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Fenn-Wu Report 1951",
+            "bm": "b. Laporan Fenn-Wu 1951"
+          },
+          "points": [
+            {
+              "en": "By Dr William Fenn and Dr Wu Teh-yao: Chinese schools should continue, teaching Malay and English too, with a Malayan-centred syllabus.",
+              "bm": "Oleh Dr William Fenn dan Dr Wu Teh-yao: sekolah Cina diteruskan, turut mengajar bahasa Melayu dan Inggeris, dengan sukatan berorientasikan Tanah Melayu."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c. Education Ordinance 1952",
+            "bm": "c. Ordinan Pelajaran 1952"
+          },
+          "points": [
+            {
+              "en": "Accepted national schools using Malay and English; it could not be fully carried out because of the cost of the Emergency.",
+              "bm": "Menerima sekolah kebangsaan dalam bahasa Melayu dan Inggeris; tidak dapat dilaksanakan sepenuhnya kerana kos Darurat."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "d. Woodhead Report 1955 (Sarawak and Sabah)",
+            "bm": "d. Laporan Woodhead 1955 (Sarawak dan Sabah)"
+          },
+          "points": [
+            {
+              "en": "Studied the schools of Sarawak and Sabah and proposed ways to expand and improve schooling and teacher training there.",
+              "bm": "Mengkaji persekolahan di Sarawak dan Sabah serta mencadangkan cara meluaskan dan memperbaik persekolahan serta latihan guru di sana."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "e. Education Committee Report 1956 (Razak Report)",
+            "bm": "e. Penyata Jawatankuasa Pelajaran 1956 (Penyata Razak)"
+          },
+          "points": [
+            {
+              "en": "Malay as the national language and a compulsory subject; national primary schools in Malay, national-type schools in English, Chinese or Tamil.",
+              "bm": "Bahasa Melayu sebagai bahasa kebangsaan dan mata pelajaran wajib; sekolah rendah kebangsaan dalam bahasa Melayu, sekolah jenis kebangsaan dalam bahasa Inggeris, Cina atau Tamil."
+            },
+            {
+              "en": "A common syllabus and examinations for all schools to unite the people.",
+              "bm": "Sukatan pelajaran dan peperiksaan yang sama bagi semua sekolah untuk menyatupadukan rakyat."
+            },
+            {
+              "en": "Became the basis of the Education Ordinance 1957.",
+              "bm": "Menjadi asas kepada Ordinan Pelajaran 1957."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1951",
+          "event": {
+            "en": "Barnes Report and Fenn-Wu Report.",
+            "bm": "Laporan Barnes dan Laporan Fenn-Wu."
+          }
+        },
+        {
+          "date": "1952",
+          "event": {
+            "en": "Education Ordinance.",
+            "bm": "Ordinan Pelajaran."
+          }
+        },
+        {
+          "date": "1955",
+          "event": {
+            "en": "Woodhead Report (Sarawak and Sabah).",
+            "bm": "Laporan Woodhead (Sarawak dan Sabah)."
+          }
+        },
+        {
+          "date": "1956",
+          "event": {
+            "en": "Razak Report.",
+            "bm": "Penyata Razak."
+          }
+        },
+        {
+          "date": "1957",
+          "event": {
+            "en": "Education Ordinance 1957.",
+            "bm": "Ordinan Pelajaran 1957."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why was education important in the struggle for independence?",
+          "bm": "Mengapakah pendidikan penting dalam perjuangan kemerdekaan?"
+        },
+        "answer": {
+          "en": "A common national education system with one national language and a shared syllabus would unite the races and create loyalty to Malaya — something Britain wanted to see before granting independence.",
+          "bm": "Sistem pendidikan kebangsaan dengan satu bahasa kebangsaan dan sukatan yang sama akan menyatupadukan kaum dan melahirkan kesetiaan kepada Tanah Melayu — sesuatu yang British mahu lihat sebelum memberikan kemerdekaan."
+        }
+      },
+      "tip": {
+        "en": "Learn the order and one key idea of each report — a common \"susun mengikut kronologi\" question.",
+        "bm": "Hafal urutan dan satu idea utama setiap laporan — soalan lazim \"susun mengikut kronologi\"."
+      }
+    },
+    "sej-07-05": {
+      "keyPoints": [
+        {
+          "en": "Many political parties appeared after World War II.",
+          "bm": "Banyak parti politik muncul selepas Perang Dunia Kedua."
+        },
+        {
+          "en": "Political cooperation: PUTERA–AMCJA (1947), the National Conference and the National Convention (1953).",
+          "bm": "Kerjasama politik: PUTERA–AMCJA (1947), Persidangan Kebangsaan dan Konvensyen Kebangsaan (1953)."
+        },
+        {
+          "en": "UMNO and MCA cooperated in the 1952 Kuala Lumpur municipal election; MIC joined in 1954 to form the Alliance (Perikatan).",
+          "bm": "UMNO dan MCA bekerjasama dalam pilihan raya Majlis Perbandaran Kuala Lumpur 1952; MIC menyertainya pada 1954 untuk membentuk Perikatan."
+        },
+        {
+          "en": "The Alliance showed the British that the races could work together.",
+          "bm": "Perikatan membuktikan kepada British bahawa kaum-kaum boleh bekerjasama."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Alliance (Perikatan)",
+            "bm": "Perikatan"
+          },
+          "meaning": {
+            "en": "Coalition of UMNO, MCA and MIC that led Malaya to independence.",
+            "bm": "Gabungan UMNO, MCA dan MIC yang membawa Tanah Melayu ke arah kemerdekaan."
+          }
+        },
+        {
+          "term": {
+            "en": "National Conference",
+            "bm": "Persidangan Kebangsaan"
+          },
+          "meaning": {
+            "en": "1953 meeting led by Dato' Onn (IMP) and the Menteri Besar to discuss independence.",
+            "bm": "Pertemuan 1953 diketuai Dato' Onn (IMP) dan Menteri Besar untuk membincangkan kemerdekaan."
+          }
+        },
+        {
+          "term": {
+            "en": "National Convention",
+            "bm": "Konvensyen Kebangsaan"
+          },
+          "meaning": {
+            "en": "1953 UMNO–MCA meeting that demanded federal elections by 1954.",
+            "bm": "Pertemuan UMNO–MCA 1953 yang menuntut pilihan raya persekutuan menjelang 1954."
+          }
+        },
+        {
+          "term": {
+            "en": "Parti Negara",
+            "bm": "Parti Negara"
+          },
+          "meaning": {
+            "en": "Dato' Onn's party (1954) after the IMP failed.",
+            "bm": "Parti Dato' Onn (1954) selepas IMP gagal."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Rise of political parties after World War II",
+            "bm": "a. Kemunculan parti politik selepas Perang Dunia Kedua"
+          },
+          "points": [
+            {
+              "en": "Malay, Chinese, Indian and multi-ethnic parties were formed (e.g. UMNO, MIC, MCA, PAS, IMP, Parti Negara).",
+              "bm": "Parti Melayu, Cina, India dan berbilang kaum ditubuhkan (cth. UMNO, MIC, MCA, PAS, IMP, Parti Negara)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Political cooperation towards independence",
+            "bm": "b. Kerjasama politik ke arah kemerdekaan"
+          },
+          "points": [
+            {
+              "en": "PUTERA–AMCJA (1947): radical Malay and non-Malay groups together.",
+              "bm": "PUTERA–AMCJA (1947): kumpulan Melayu radikal dan bukan Melayu bersama."
+            },
+            {
+              "en": "National Conference (1953, IMP and Menteri Besar) vs National Convention (1953, UMNO–MCA) — two rival plans for independence.",
+              "bm": "Persidangan Kebangsaan (1953, IMP dan Menteri Besar) lwn Konvensyen Kebangsaan (1953, UMNO–MCA) — dua rancangan bersaing ke arah kemerdekaan."
+            },
+            {
+              "en": "UMNO–MCA pact (1952) → MIC joins (1954) → Alliance wins 51 of 52 seats (1955).",
+              "bm": "Pakatan UMNO–MCA (1952) → MIC menyertai (1954) → Perikatan menang 51 daripada 52 kerusi (1955)."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "Feb 1952",
+          "event": {
+            "en": "UMNO–MCA win the Kuala Lumpur municipal election.",
+            "bm": "UMNO–MCA menang pilihan raya Majlis Perbandaran Kuala Lumpur."
+          }
+        },
+        {
+          "date": "1953",
+          "event": {
+            "en": "National Conference and National Convention.",
+            "bm": "Persidangan Kebangsaan dan Konvensyen Kebangsaan."
+          }
+        },
+        {
+          "date": "1954",
+          "event": {
+            "en": "MIC joins — the Alliance is formed.",
+            "bm": "MIC menyertai — Perikatan terbentuk."
+          }
+        },
+        {
+          "date": "Jul 1955",
+          "event": {
+            "en": "Alliance wins the first federal election.",
+            "bm": "Perikatan menang pilihan raya persekutuan pertama."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the Alliance succeed while the multi-ethnic IMP failed?",
+          "bm": "Mengapakah Perikatan berjaya sedangkan IMP yang berbilang kaum gagal?"
+        },
+        "answer": {
+          "en": "The Alliance joined three strong communal parties, each keeping its own supporters, and shared power by compromise; the IMP asked people to leave their own communal parties, so few joined.",
+          "bm": "Perikatan menggabungkan tiga parti kaum yang kuat, masing-masing mengekalkan penyokong sendiri, dan berkongsi kuasa melalui tolak ansur; IMP meminta orang meninggalkan parti kaum mereka, maka sedikit yang menyertainya."
+        }
+      }
     }
   }
 }

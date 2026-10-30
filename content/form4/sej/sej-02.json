@@ -180,6 +180,105 @@
       "subtopicId": "sej-02-02",
       "type": "mcq",
       "prompt": {
+        "en": "Which European event spread the ideas of liberty, equality and fraternity?",
+        "bm": "Peristiwa di Eropah yang manakah menyebarkan idea kebebasan, kesamarataan dan persaudaraan?"
+      },
+      "explanation": {
+        "en": "The French Revolution spread ideas that later inspired nationalists.",
+        "bm": "Revolusi Perancis menyebarkan idea yang kemudian menyuntik semangat nasionalis."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The French Revolution (1789)",
+          "bm": "Revolusi Perancis (1789)"
+        },
+        {
+          "en": "The Meiji Restoration",
+          "bm": "Pemulihan Meiji"
+        },
+        {
+          "en": "World War II",
+          "bm": "Perang Dunia Kedua"
+        },
+        {
+          "en": "The Melaka Sultanate",
+          "bm": "Kesultanan Melaka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q03",
+      "subtopicId": "sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Glorious Revolution in England took place in…",
+        "bm": "Revolusi Keagungan di England berlaku pada tahun…"
+      },
+      "explanation": {
+        "en": "1688: James II was removed and parliament became supreme (Bill of Rights 1689).",
+        "bm": "1688: James II disingkirkan dan parlimen menjadi tertinggi (Bill of Rights 1689)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1688",
+          "bm": "1688"
+        },
+        {
+          "en": "1776",
+          "bm": "1776"
+        },
+        {
+          "en": "1789",
+          "bm": "1789"
+        },
+        {
+          "en": "1911",
+          "bm": "1911"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q04",
+      "subtopicId": "sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"No taxation without representation\" was a cry of which revolution?",
+        "bm": "\"Tiada cukai tanpa perwakilan\" ialah laungan revolusi yang manakah?"
+      },
+      "explanation": {
+        "en": "The American colonies refused British taxes when they had no say in the British parliament.",
+        "bm": "Tanah jajahan Amerika menolak cukai British kerana mereka tidak diwakili dalam parlimen British."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "American Revolution",
+          "bm": "Revolusi Amerika"
+        },
+        {
+          "en": "French Revolution",
+          "bm": "Revolusi Perancis"
+        },
+        {
+          "en": "Glorious Revolution",
+          "bm": "Revolusi Keagungan"
+        },
+        {
+          "en": "Meiji Restoration",
+          "bm": "Pemulihan Meiji"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q05",
+      "subtopicId": "sej-02-03",
+      "type": "mcq",
+      "prompt": {
         "en": "Who led the modernisation of Turkey?",
         "bm": "Siapakah yang memimpin pemodenan Turki?"
       },
@@ -209,8 +308,8 @@
       "answer": 0
     },
     {
-      "id": "sej-02-q03",
-      "subtopicId": "sej-02-02",
+      "id": "sej-02-q06",
+      "subtopicId": "sej-02-03",
       "type": "match",
       "prompt": {
         "en": "Match each nationalist with his country.",
@@ -265,115 +364,239 @@
       ]
     },
     {
-      "id": "sej-02-q04",
+      "id": "sej-02-q07",
       "subtopicId": "sej-02-03",
       "type": "mcq",
       "prompt": {
-        "en": "J.W.W. Birch was killed at Pasir Salak in 1875. Who led the resistance?",
-        "bm": "J.W.W. Birch dibunuh di Pasir Salak pada 1875. Siapakah yang memimpin penentangan?"
+        "en": "How did the Meiji Restoration (1868) inspire Asian nationalists?",
+        "bm": "Bagaimanakah Pemulihan Meiji (1868) menyuntik semangat nasionalis Asia?"
       },
       "explanation": {
-        "en": "Dato' Maharaja Lela opposed Birch, the first British Resident of Perak.",
-        "bm": "Dato' Maharaja Lela menentang Birch, Residen British pertama Perak."
+        "en": "Japan's victory over Russia (1905) and modernisation gave Asians confidence.",
+        "bm": "Kemenangan Jepun ke atas Rusia (1905) dan pemodenannya memberi keyakinan kepada orang Asia."
       },
-      "difficulty": 1,
+      "difficulty": 2,
       "options": [
         {
-          "en": "Dato' Maharaja Lela",
-          "bm": "Dato' Maharaja Lela"
+          "en": "Japan modernised and became strong, showing Asians could match the West",
+          "bm": "Jepun menjadi moden dan kuat, membuktikan Asia mampu menyaingi Barat"
         },
         {
-          "en": "Mat Kilau",
-          "bm": "Mat Kilau"
+          "en": "Japan became a British colony",
+          "bm": "Jepun menjadi jajahan British"
         },
         {
-          "en": "Tok Janggut",
-          "bm": "Tok Janggut"
+          "en": "Japan rejected all education",
+          "bm": "Jepun menolak semua pendidikan"
         },
         {
-          "en": "Rentap",
-          "bm": "Rentap"
+          "en": "Japan stopped trading",
+          "bm": "Jepun berhenti berdagang"
         }
       ],
       "answer": 0
     },
     {
-      "id": "sej-02-q05",
+      "id": "sej-02-q08",
       "subtopicId": "sej-02-03",
-      "type": "match",
+      "type": "mcq",
       "prompt": {
-        "en": "Match each local fighter with the state where he resisted.",
-        "bm": "Padankan pejuang tempatan dengan negeri penentangannya."
+        "en": "What can Malaysia learn from Gandhi's non-violent struggle?",
+        "bm": "Apakah yang boleh dipelajari Malaysia daripada perjuangan tanpa kekerasan Gandhi?"
       },
       "explanation": {
-        "en": "Resistance happened across the country against foreign interference.",
-        "bm": "Penentangan berlaku di seluruh negara menentang campur tangan asing."
+        "en": "Our own independence was won mainly through negotiation and inter-ethnic cooperation.",
+        "bm": "Kemerdekaan kita juga dicapai terutamanya melalui rundingan dan kerjasama antara kaum."
       },
-      "difficulty": 2,
-      "pairs": [
+      "difficulty": 3,
+      "options": [
         {
-          "left": {
-            "en": "Tok Janggut",
-            "bm": "Tok Janggut"
-          },
-          "right": {
-            "en": "Kelantan",
-            "bm": "Kelantan"
-          }
+          "en": "Freedom can be won through negotiation and unity, not only war",
+          "bm": "Kemerdekaan boleh dicapai melalui rundingan dan perpaduan, bukan hanya peperangan"
         },
         {
-          "left": {
-            "en": "Mat Kilau",
-            "bm": "Mat Kilau"
-          },
-          "right": {
-            "en": "Pahang",
-            "bm": "Pahang"
-          }
+          "en": "Violence is the only way",
+          "bm": "Kekerasan satu-satunya cara"
         },
         {
-          "left": {
-            "en": "Rentap",
-            "bm": "Rentap"
-          },
-          "right": {
-            "en": "Sarawak",
-            "bm": "Sarawak"
-          }
+          "en": "Nationalism is useless",
+          "bm": "Nasionalisme tidak berguna"
         },
         {
-          "left": {
-            "en": "Mat Salleh",
-            "bm": "Mat Salleh"
-          },
-          "right": {
-            "en": "Sabah",
-            "bm": "Sabah"
-          }
+          "en": "Foreign rule is best",
+          "bm": "Pemerintahan asing paling baik"
         }
-      ]
+      ],
+      "answer": 0
     },
     {
-      "id": "sej-02-q06",
-      "subtopicId": "sej-02-03",
-      "type": "fill",
+      "id": "sej-02-q09",
+      "subtopicId": "sej-02-04",
+      "type": "mcq",
       "prompt": {
-        "en": "Haji Abdul Rahman Limbong led a resistance in the state of ______ (1928).",
-        "bm": "Haji Abdul Rahman Limbong memimpin penentangan di negeri ______ (1928)."
+        "en": "Budi Utomo (1908) was an early nationalist movement in…",
+        "bm": "Budi Utomo (1908) ialah gerakan nasionalis awal di…"
       },
       "explanation": {
-        "en": "He opposed British land and tax rules in Terengganu.",
-        "bm": "Beliau menentang peraturan tanah dan cukai British di Terengganu."
+        "en": "Budi Utomo was founded in Java to advance education and culture.",
+        "bm": "Budi Utomo ditubuhkan di Jawa untuk memajukan pendidikan dan budaya."
       },
       "difficulty": 1,
-      "answer": [
-        "Terengganu",
-        "Trengganu"
-      ]
+      "options": [
+        {
+          "en": "Indonesia",
+          "bm": "Indonesia"
+        },
+        {
+          "en": "India",
+          "bm": "India"
+        },
+        {
+          "en": "the Philippines",
+          "bm": "Filipina"
+        },
+        {
+          "en": "Thailand",
+          "bm": "Thailand"
+        }
+      ],
+      "answer": 0
     },
     {
-      "id": "sej-02-q07",
+      "id": "sej-02-q10",
       "subtopicId": "sej-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "José Rizal of the Philippines is famous for the novel…",
+        "bm": "José Rizal dari Filipina terkenal dengan novel…"
+      },
+      "explanation": {
+        "en": "Noli Me Tangere (1887) exposed abuses under Spanish rule.",
+        "bm": "Noli Me Tangere (1887) mendedahkan penindasan di bawah pemerintahan Sepanyol."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Noli Me Tangere",
+          "bm": "Noli Me Tangere"
+        },
+        {
+          "en": "Hikayat Faridah Hanum",
+          "bm": "Hikayat Faridah Hanum"
+        },
+        {
+          "en": "Putera Gunung Tahan",
+          "bm": "Putera Gunung Tahan"
+        },
+        {
+          "en": "Sumpah Pemuda",
+          "bm": "Sumpah Pemuda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q11",
+      "subtopicId": "sej-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "What did the 1932 revolution in Siam (Thailand) achieve?",
+        "bm": "Apakah hasil revolusi 1932 di Siam (Thailand)?"
+      },
+      "explanation": {
+        "en": "Siam was never colonised; the People's Party ended absolute monarchy in 1932.",
+        "bm": "Siam tidak pernah dijajah; Parti Rakyat menamatkan raja mutlak pada 1932."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Absolute monarchy became constitutional monarchy",
+          "bm": "Raja mutlak bertukar kepada raja berperlembagaan"
+        },
+        {
+          "en": "Independence from Britain",
+          "bm": "Kemerdekaan daripada British"
+        },
+        {
+          "en": "A communist republic",
+          "bm": "Republik komunis"
+        },
+        {
+          "en": "Union with Burma",
+          "bm": "Penyatuan dengan Burma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q12",
+      "subtopicId": "sej-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did early local leaders resist the British?",
+        "bm": "Mengapakah pemimpin tempatan awal menentang British?"
+      },
+      "explanation": {
+        "en": "The new systems of tax, land and administration ignored local customs and leaders.",
+        "bm": "Sistem cukai, tanah dan pentadbiran baharu mengetepikan adat dan pemimpin tempatan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "British rules took away their power, land rights and tax income",
+          "bm": "Peraturan British merampas kuasa, hak tanah dan hasil cukai mereka"
+        },
+        {
+          "en": "They wanted British education",
+          "bm": "Mereka mahu pendidikan British"
+        },
+        {
+          "en": "They were paid to rebel",
+          "bm": "Mereka dibayar untuk memberontak"
+        },
+        {
+          "en": "They supported the Japanese",
+          "bm": "Mereka menyokong Jepun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q13",
+      "subtopicId": "sej-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which statement BEST compares early resistance with later nationalism?",
+        "bm": "Pernyataan manakah PALING tepat membandingkan penentangan awal dengan nasionalisme kemudian?"
+      },
+      "explanation": {
+        "en": "The method changed from local armed struggle to organised, peaceful national movements.",
+        "bm": "Kaedah berubah daripada perjuangan bersenjata setempat kepada gerakan kebangsaan yang tersusun dan aman."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Early resistance was local and armed; later nationalism was nationwide and used education, press and associations",
+          "bm": "Penentangan awal bersifat setempat dan bersenjata; nasionalisme kemudian menyeluruh dan menggunakan pendidikan, akhbar dan persatuan"
+        },
+        {
+          "en": "Both were led by the British",
+          "bm": "Kedua-duanya dipimpin British"
+        },
+        {
+          "en": "Later nationalism used only weapons",
+          "bm": "Nasionalisme kemudian hanya menggunakan senjata"
+        },
+        {
+          "en": "Early resistance was nationwide",
+          "bm": "Penentangan awal bersifat menyeluruh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q14",
+      "subtopicId": "sej-02-06",
       "type": "mcq",
       "prompt": {
         "en": "The Sultan Idris Training College (SITC) was opened in 1922 at…",
@@ -405,41 +628,8 @@
       "answer": 0
     },
     {
-      "id": "sej-02-q08",
-      "subtopicId": "sej-02-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Who led the Kesatuan Melayu Muda (KMM), founded in 1938?",
-        "bm": "Siapakah yang memimpin Kesatuan Melayu Muda (KMM) yang ditubuhkan pada 1938?"
-      },
-      "explanation": {
-        "en": "Ibrahim Haji Yaacob, an SITC graduate, led the KMM.",
-        "bm": "Ibrahim Haji Yaacob, lepasan SITC, memimpin KMM."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Ibrahim Haji Yaacob",
-          "bm": "Ibrahim Haji Yaacob"
-        },
-        {
-          "en": "Dato' Onn Jaafar",
-          "bm": "Dato' Onn Jaafar"
-        },
-        {
-          "en": "Tunku Abdul Rahman",
-          "bm": "Tunku Abdul Rahman"
-        },
-        {
-          "en": "Syed Syeikh al-Hadi",
-          "bm": "Syed Syeikh al-Hadi"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-02-q09",
-      "subtopicId": "sej-02-04",
+      "id": "sej-02-q15",
+      "subtopicId": "sej-02-06",
       "type": "mcq",
       "prompt": {
         "en": "Al-Imam (1906) was a…",
@@ -471,8 +661,8 @@
       "answer": 0
     },
     {
-      "id": "sej-02-q10",
-      "subtopicId": "sej-02-04",
+      "id": "sej-02-q16",
+      "subtopicId": "sej-02-06",
       "type": "multi",
       "prompt": {
         "en": "Select ALL factors that helped nationalism grow in our country.",
@@ -508,205 +698,8 @@
       ]
     },
     {
-      "id": "sej-02-q11",
-      "subtopicId": "sej-02-01",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which European event spread the ideas of liberty, equality and fraternity?",
-        "bm": "Peristiwa di Eropah yang manakah menyebarkan idea kebebasan, kesamarataan dan persaudaraan?"
-      },
-      "explanation": {
-        "en": "The French Revolution spread ideas that later inspired nationalists.",
-        "bm": "Revolusi Perancis menyebarkan idea yang kemudian menyuntik semangat nasionalis."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "The French Revolution (1789)",
-          "bm": "Revolusi Perancis (1789)"
-        },
-        {
-          "en": "The Meiji Restoration",
-          "bm": "Pemulihan Meiji"
-        },
-        {
-          "en": "World War II",
-          "bm": "Perang Dunia Kedua"
-        },
-        {
-          "en": "The Melaka Sultanate",
-          "bm": "Kesultanan Melaka"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-02-q12",
-      "subtopicId": "sej-02-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "How did the Meiji Restoration (1868) inspire Asian nationalists?",
-        "bm": "Bagaimanakah Pemulihan Meiji (1868) menyuntik semangat nasionalis Asia?"
-      },
-      "explanation": {
-        "en": "Japan's victory over Russia (1905) and modernisation gave Asians confidence.",
-        "bm": "Kemenangan Jepun ke atas Rusia (1905) dan pemodenannya memberi keyakinan kepada orang Asia."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Japan modernised and became strong, showing Asians could match the West",
-          "bm": "Jepun menjadi moden dan kuat, membuktikan Asia mampu menyaingi Barat"
-        },
-        {
-          "en": "Japan became a British colony",
-          "bm": "Jepun menjadi jajahan British"
-        },
-        {
-          "en": "Japan rejected all education",
-          "bm": "Jepun menolak semua pendidikan"
-        },
-        {
-          "en": "Japan stopped trading",
-          "bm": "Jepun berhenti berdagang"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-02-q13",
-      "subtopicId": "sej-02-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Budi Utomo (1908) was an early nationalist movement in…",
-        "bm": "Budi Utomo (1908) ialah gerakan nasionalis awal di…"
-      },
-      "explanation": {
-        "en": "Budi Utomo was founded in Java to advance education and culture.",
-        "bm": "Budi Utomo ditubuhkan di Jawa untuk memajukan pendidikan dan budaya."
-      },
-      "difficulty": 1,
-      "options": [
-        {
-          "en": "Indonesia",
-          "bm": "Indonesia"
-        },
-        {
-          "en": "India",
-          "bm": "India"
-        },
-        {
-          "en": "the Philippines",
-          "bm": "Filipina"
-        },
-        {
-          "en": "Thailand",
-          "bm": "Thailand"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-02-q14",
-      "subtopicId": "sej-02-03",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange these resistance events in time order.",
-        "bm": "Susun peristiwa penentangan ini mengikut kronologi."
-      },
-      "explanation": {
-        "en": "1875 → 1891 → 1915 → 1928.",
-        "bm": "1875 → 1891 → 1915 → 1928."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Birch killed at Pasir Salak (1875)",
-          "bm": "Birch dibunuh di Pasir Salak (1875)"
-        },
-        {
-          "en": "Pahang uprising of Mat Kilau (1891)",
-          "bm": "Kebangkitan Mat Kilau di Pahang (1891)"
-        },
-        {
-          "en": "Tok Janggut, Kelantan (1915)",
-          "bm": "Tok Janggut, Kelantan (1915)"
-        },
-        {
-          "en": "Abdul Rahman Limbong, Terengganu (1928)",
-          "bm": "Abdul Rahman Limbong, Terengganu (1928)"
-        }
-      ]
-    },
-    {
-      "id": "sej-02-q15",
-      "subtopicId": "sej-02-03",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why did early local leaders resist the British?",
-        "bm": "Mengapakah pemimpin tempatan awal menentang British?"
-      },
-      "explanation": {
-        "en": "The new systems of tax, land and administration ignored local customs and leaders.",
-        "bm": "Sistem cukai, tanah dan pentadbiran baharu mengetepikan adat dan pemimpin tempatan."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "British rules took away their power, land rights and tax income",
-          "bm": "Peraturan British merampas kuasa, hak tanah dan hasil cukai mereka"
-        },
-        {
-          "en": "They wanted British education",
-          "bm": "Mereka mahu pendidikan British"
-        },
-        {
-          "en": "They were paid to rebel",
-          "bm": "Mereka dibayar untuk memberontak"
-        },
-        {
-          "en": "They supported the Japanese",
-          "bm": "Mereka menyokong Jepun"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-02-q16",
-      "subtopicId": "sej-02-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "The Kesatuan Melayu Singapura (1926) is known as…",
-        "bm": "Kesatuan Melayu Singapura (1926) dikenali sebagai…"
-      },
-      "explanation": {
-        "en": "KMS, led by Mohd Eunos Abdullah, was the first Malay political association.",
-        "bm": "KMS, dipimpin Mohd Eunos Abdullah, ialah persatuan politik Melayu pertama."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "the first Malay political association",
-          "bm": "persatuan politik Melayu pertama"
-        },
-        {
-          "en": "the first Malay newspaper",
-          "bm": "akhbar Melayu pertama"
-        },
-        {
-          "en": "a British company",
-          "bm": "syarikat British"
-        },
-        {
-          "en": "a communist party",
-          "bm": "parti komunis"
-        }
-      ],
-      "answer": 0
-    },
-    {
       "id": "sej-02-q17",
-      "subtopicId": "sej-02-04",
+      "subtopicId": "sej-02-06",
       "type": "mcq",
       "prompt": {
         "en": "Why were teachers trained at SITC so influential in spreading nationalism?",
@@ -739,99 +732,186 @@
     },
     {
       "id": "sej-02-q18",
-      "subtopicId": "sej-02-04",
-      "type": "mcq",
+      "subtopicId": "sej-02-06",
+      "type": "fill",
       "prompt": {
-        "en": "Which statement BEST compares early resistance with later nationalism?",
-        "bm": "Pernyataan manakah PALING tepat membandingkan penentangan awal dengan nasionalisme kemudian?"
+        "en": "The first Malay newspaper, published in 1876, was Jawi ______.",
+        "bm": "Akhbar Melayu pertama yang diterbitkan pada 1876 ialah Jawi ______."
       },
       "explanation": {
-        "en": "The method changed from local armed struggle to organised, peaceful national movements.",
-        "bm": "Kaedah berubah daripada perjuangan bersenjata setempat kepada gerakan kebangsaan yang tersusun dan aman."
+        "en": "Jawi Peranakan (1876) began the Malay press that later spread nationalist ideas.",
+        "bm": "Jawi Peranakan (1876) memulakan akhbar Melayu yang kemudian menyebarkan idea nasionalisme."
       },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Early resistance was local and armed; later nationalism was nationwide and used education, press and associations",
-          "bm": "Penentangan awal bersifat setempat dan bersenjata; nasionalisme kemudian menyeluruh dan menggunakan pendidikan, akhbar dan persatuan"
-        },
-        {
-          "en": "Both were led by the British",
-          "bm": "Kedua-duanya dipimpin British"
-        },
-        {
-          "en": "Later nationalism used only weapons",
-          "bm": "Nasionalisme kemudian hanya menggunakan senjata"
-        },
-        {
-          "en": "Early resistance was nationwide",
-          "bm": "Penentangan awal bersifat menyeluruh"
-        }
-      ],
-      "answer": 0
+      "difficulty": 1,
+      "answer": [
+        "Peranakan"
+      ]
     },
     {
       "id": "sej-02-q19",
-      "subtopicId": "sej-02-02",
+      "subtopicId": "sej-02-07",
       "type": "mcq",
       "prompt": {
-        "en": "What can Malaysia learn from Gandhi's non-violent struggle?",
-        "bm": "Apakah yang boleh dipelajari Malaysia daripada perjuangan tanpa kekerasan Gandhi?"
+        "en": "Who led the Kesatuan Melayu Muda (KMM), founded in 1938?",
+        "bm": "Siapakah yang memimpin Kesatuan Melayu Muda (KMM) yang ditubuhkan pada 1938?"
       },
       "explanation": {
-        "en": "Our own independence was won mainly through negotiation and inter-ethnic cooperation.",
-        "bm": "Kemerdekaan kita juga dicapai terutamanya melalui rundingan dan kerjasama antara kaum."
+        "en": "Ibrahim Haji Yaacob, an SITC graduate, led the KMM.",
+        "bm": "Ibrahim Haji Yaacob, lepasan SITC, memimpin KMM."
       },
-      "difficulty": 3,
+      "difficulty": 1,
       "options": [
         {
-          "en": "Freedom can be won through negotiation and unity, not only war",
-          "bm": "Kemerdekaan boleh dicapai melalui rundingan dan perpaduan, bukan hanya peperangan"
+          "en": "Ibrahim Haji Yaacob",
+          "bm": "Ibrahim Haji Yaacob"
         },
         {
-          "en": "Violence is the only way",
-          "bm": "Kekerasan satu-satunya cara"
+          "en": "Dato' Onn Jaafar",
+          "bm": "Dato' Onn Jaafar"
         },
         {
-          "en": "Nationalism is useless",
-          "bm": "Nasionalisme tidak berguna"
+          "en": "Tunku Abdul Rahman",
+          "bm": "Tunku Abdul Rahman"
         },
         {
-          "en": "Foreign rule is best",
-          "bm": "Pemerintahan asing paling baik"
+          "en": "Syed Syeikh al-Hadi",
+          "bm": "Syed Syeikh al-Hadi"
         }
       ],
       "answer": 0
     },
     {
       "id": "sej-02-q20",
-      "subtopicId": "sej-02-03",
+      "subtopicId": "sej-02-07",
       "type": "mcq",
       "prompt": {
-        "en": "Which value is BEST shown by fighters like Tok Janggut and Mat Salleh?",
-        "bm": "Nilai manakah PALING ditonjolkan oleh pejuang seperti Tok Janggut dan Mat Salleh?"
+        "en": "The Kesatuan Melayu Singapura (1926) is known as…",
+        "bm": "Kesatuan Melayu Singapura (1926) dikenali sebagai…"
       },
       "explanation": {
-        "en": "They sacrificed their lives to defend their land and people.",
-        "bm": "Mereka berkorban nyawa demi mempertahankan tanah air dan rakyat."
+        "en": "KMS, led by Mohd Eunos Abdullah, was the first Malay political association.",
+        "bm": "KMS, dipimpin Mohd Eunos Abdullah, ialah persatuan politik Melayu pertama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the first Malay political association",
+          "bm": "persatuan politik Melayu pertama"
+        },
+        {
+          "en": "the first Malay newspaper",
+          "bm": "akhbar Melayu pertama"
+        },
+        {
+          "en": "a British company",
+          "bm": "syarikat British"
+        },
+        {
+          "en": "a communist party",
+          "bm": "parti komunis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q21",
+      "subtopicId": "sej-02-07",
+      "type": "mcq",
+      "prompt": {
+        "en": "Utusan Melayu, an important nationalist newspaper, was first published in…",
+        "bm": "Utusan Melayu, akhbar nasionalis yang penting, mula diterbitkan pada…"
+      },
+      "explanation": {
+        "en": "Utusan Melayu began in 1939, with Yusof Ishak and Abdul Rahim Kajai.",
+        "bm": "Utusan Melayu bermula pada 1939, dengan Yusof Ishak dan Abdul Rahim Kajai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1939",
+          "bm": "1939"
+        },
+        {
+          "en": "1906",
+          "bm": "1906"
+        },
+        {
+          "en": "1876",
+          "bm": "1876"
+        },
+        {
+          "en": "1957",
+          "bm": "1957"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-02-q22",
+      "subtopicId": "sej-02-08",
+      "type": "multi",
+      "prompt": {
+        "en": "Select ALL effects of the growth of nationalism in our country.",
+        "bm": "Pilih SEMUA kesan perkembangan nasionalisme di negara kita."
+      },
+      "explanation": {
+        "en": "Nationalism raised political, economic and social awareness; independence came only in 1957.",
+        "bm": "Nasionalisme meningkatkan kesedaran politik, ekonomi dan sosial; kemerdekaan hanya dicapai pada 1957."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Greater political awareness",
+          "bm": "Kesedaran politik meningkat"
+        },
+        {
+          "en": "More emphasis on education and the Malay language",
+          "bm": "Penekanan lebih kepada pendidikan dan bahasa Melayu"
+        },
+        {
+          "en": "Malays urged to take part in business",
+          "bm": "Orang Melayu digesa menceburi perniagaan"
+        },
+        {
+          "en": "Immediate independence in 1939",
+          "bm": "Kemerdekaan serta-merta pada 1939"
+        }
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sej-02-q23",
+      "subtopicId": "sej-02-08",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why were the associations of the 1930s important for the later struggle against the Malayan Union?",
+        "bm": "Mengapakah persatuan pada 1930-an penting kepada perjuangan menentang Malayan Union kemudiannya?"
+      },
+      "explanation": {
+        "en": "The 41 associations at the 1946 Malay Congress grew out of this earlier movement.",
+        "bm": "41 persatuan dalam Kongres Melayu 1946 lahir daripada gerakan terdahulu ini."
       },
       "difficulty": 3,
       "options": [
         {
-          "en": "Courage and love for the homeland",
-          "bm": "Keberanian dan cinta akan tanah air"
+          "en": "They trained leaders and built networks that could unite the Malays quickly",
+          "bm": "Ia melatih pemimpin dan membina rangkaian yang dapat menyatukan orang Melayu dengan cepat"
         },
         {
-          "en": "Greed",
-          "bm": "Tamak"
+          "en": "They were armed groups",
+          "bm": "Ia kumpulan bersenjata"
         },
         {
-          "en": "Laziness",
-          "bm": "Malas"
+          "en": "They were set up by the British government",
+          "bm": "Ia ditubuhkan oleh kerajaan British"
         },
         {
-          "en": "Fear of change",
-          "bm": "Takut akan perubahan"
+          "en": "They only discussed religion",
+          "bm": "Ia hanya membincangkan agama"
         }
       ],
       "answer": 0

@@ -306,24 +306,7 @@
     },
     {
       "id": "sej-06-q05",
-      "subtopicId": "sej-06-03",
-      "type": "fill",
-      "prompt": {
-        "en": "The 1950 plan to move squatters into New Villages was the ______ Plan.",
-        "bm": "Rancangan 1950 untuk memindahkan setinggan ke Kampung Baru ialah Rancangan ______."
-      },
-      "explanation": {
-        "en": "Lt-Gen Sir Harold Briggs designed it.",
-        "bm": "Leftenan Jeneral Sir Harold Briggs merangkanya."
-      },
-      "difficulty": 1,
-      "answer": [
-        "Briggs"
-      ]
-    },
-    {
-      "id": "sej-06-q06",
-      "subtopicId": "sej-06-03",
+      "subtopicId": "sej-06-02",
       "type": "mcq",
       "prompt": {
         "en": "Which High Commissioner was killed by communists at Fraser's Hill in 1951?",
@@ -355,7 +338,159 @@
       "answer": 0
     },
     {
+      "id": "sej-06-q06",
+      "subtopicId": "sej-06-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange these Emergency events in time order.",
+        "bm": "Susun peristiwa Darurat ini mengikut kronologi."
+      },
+      "explanation": {
+        "en": "1948 → 1950 → 1951 → 1955 → 1960.",
+        "bm": "1948 → 1950 → 1951 → 1955 → 1960."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Sungai Siput killings",
+          "bm": "Pembunuhan Sungai Siput"
+        },
+        {
+          "en": "Briggs Plan begins",
+          "bm": "Rancangan Briggs bermula"
+        },
+        {
+          "en": "Gurney assassinated",
+          "bm": "Gurney dibunuh"
+        },
+        {
+          "en": "Baling Talks",
+          "bm": "Rundingan Baling"
+        },
+        {
+          "en": "Emergency ends",
+          "bm": "Darurat tamat"
+        }
+      ]
+    },
+    {
       "id": "sej-06-q07",
+      "subtopicId": "sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which communist attack on a police station in 1950 is remembered for great bravery?",
+        "bm": "Serangan komunis ke atas balai polis manakah pada 1950 dikenang kerana keberanian luar biasa?"
+      },
+      "explanation": {
+        "en": "On 23 February 1950, police and villagers at Bukit Kepong, Johor, fought to the end.",
+        "bm": "Pada 23 Februari 1950, anggota polis dan penduduk di Bukit Kepong, Johor, berjuang hingga ke titisan darah terakhir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Bukit Kepong",
+          "bm": "Bukit Kepong"
+        },
+        {
+          "en": "Pasir Salak",
+          "bm": "Pasir Salak"
+        },
+        {
+          "en": "Sungai Siput",
+          "bm": "Sungai Siput"
+        },
+        {
+          "en": "Rundum",
+          "bm": "Rundum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-06-q08",
+      "subtopicId": "sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What does the sacrifice at Bukit Kepong teach young Malaysians?",
+        "bm": "Apakah pengajaran pengorbanan di Bukit Kepong kepada generasi muda Malaysia?"
+      },
+      "explanation": {
+        "en": "The defenders chose to fight rather than surrender.",
+        "bm": "Para pertahanan memilih untuk berjuang daripada menyerah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Loyalty and courage in defending the nation",
+          "bm": "Kesetiaan dan keberanian mempertahankan negara"
+        },
+        {
+          "en": "Surrender quickly",
+          "bm": "Menyerah dengan cepat"
+        },
+        {
+          "en": "Avoid public service",
+          "bm": "Elakkan berkhidmat kepada awam"
+        },
+        {
+          "en": "Security is not important",
+          "bm": "Keselamatan tidak penting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-06-q09",
+      "subtopicId": "sej-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did the government call it an \"Emergency\" rather than a \"war\"?",
+        "bm": "Mengapakah kerajaan memanggilnya \"Darurat\" dan bukan \"perang\"?"
+      },
+      "explanation": {
+        "en": "Insurers in London would not cover losses caused by \"war\".",
+        "bm": "Syarikat insurans di London tidak menanggung kerugian akibat \"perang\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "So insurance for estates and mines remained valid and trade could continue",
+          "bm": "Supaya insurans ladang dan lombong kekal sah dan perdagangan boleh diteruskan"
+        },
+        {
+          "en": "Because nobody was hurt",
+          "bm": "Kerana tiada sesiapa tercedera"
+        },
+        {
+          "en": "Because Japan said so",
+          "bm": "Kerana Jepun berkata demikian"
+        },
+        {
+          "en": "Because it lasted one week",
+          "bm": "Kerana ia berlangsung seminggu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-06-q10",
+      "subtopicId": "sej-06-03",
+      "type": "fill",
+      "prompt": {
+        "en": "The 1950 plan to move squatters into New Villages was the ______ Plan.",
+        "bm": "Rancangan 1950 untuk memindahkan setinggan ke Kampung Baru ialah Rancangan ______."
+      },
+      "explanation": {
+        "en": "Lt-Gen Sir Harold Briggs designed it.",
+        "bm": "Leftenan Jeneral Sir Harold Briggs merangkanya."
+      },
+      "difficulty": 1,
+      "answer": [
+        "Briggs"
+      ]
+    },
+    {
+      "id": "sej-06-q11",
       "subtopicId": "sej-06-03",
       "type": "mcq",
       "prompt": {
@@ -388,7 +523,7 @@
       "answer": 0
     },
     {
-      "id": "sej-06-q08",
+      "id": "sej-06-q12",
       "subtopicId": "sej-06-03",
       "type": "fill",
       "prompt": {
@@ -406,7 +541,7 @@
       ]
     },
     {
-      "id": "sej-06-q09",
+      "id": "sej-06-q13",
       "subtopicId": "sej-06-03",
       "type": "multi",
       "prompt": {
@@ -443,7 +578,7 @@
       ]
     },
     {
-      "id": "sej-06-q10",
+      "id": "sej-06-q14",
       "subtopicId": "sej-06-03",
       "type": "mcq",
       "prompt": {
@@ -476,7 +611,7 @@
       "answer": 0
     },
     {
-      "id": "sej-06-q11",
+      "id": "sej-06-q15",
       "subtopicId": "sej-06-03",
       "type": "mcq",
       "prompt": {
@@ -509,7 +644,7 @@
       "answer": 0
     },
     {
-      "id": "sej-06-q12",
+      "id": "sej-06-q16",
       "subtopicId": "sej-06-03",
       "type": "mcq",
       "prompt": {
@@ -542,110 +677,8 @@
       "answer": 0
     },
     {
-      "id": "sej-06-q13",
-      "subtopicId": "sej-06-02",
-      "type": "order",
-      "prompt": {
-        "en": "Arrange these Emergency events in time order.",
-        "bm": "Susun peristiwa Darurat ini mengikut kronologi."
-      },
-      "explanation": {
-        "en": "1948 → 1950 → 1951 → 1955 → 1960.",
-        "bm": "1948 → 1950 → 1951 → 1955 → 1960."
-      },
-      "difficulty": 2,
-      "items": [
-        {
-          "en": "Sungai Siput killings",
-          "bm": "Pembunuhan Sungai Siput"
-        },
-        {
-          "en": "Briggs Plan begins",
-          "bm": "Rancangan Briggs bermula"
-        },
-        {
-          "en": "Gurney assassinated",
-          "bm": "Gurney dibunuh"
-        },
-        {
-          "en": "Baling Talks",
-          "bm": "Rundingan Baling"
-        },
-        {
-          "en": "Emergency ends",
-          "bm": "Darurat tamat"
-        }
-      ]
-    },
-    {
-      "id": "sej-06-q14",
-      "subtopicId": "sej-06-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which was an effect of the Emergency on the economy?",
-        "bm": "Apakah kesan Darurat terhadap ekonomi?"
-      },
-      "explanation": {
-        "en": "Money went to defence, and attacks disrupted rubber and tin production.",
-        "bm": "Wang disalurkan untuk pertahanan, dan serangan mengganggu pengeluaran getah dan bijih timah."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "High spending on security and damage to estates and mines",
-          "bm": "Perbelanjaan keselamatan yang tinggi dan kerosakan ladang dan lombong"
-        },
-        {
-          "en": "Rubber exports stopped forever",
-          "bm": "Eksport getah berhenti selama-lamanya"
-        },
-        {
-          "en": "No effect",
-          "bm": "Tiada kesan"
-        },
-        {
-          "en": "Independence came sooner because of profits",
-          "bm": "Merdeka lebih cepat kerana keuntungan"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-06-q15",
-      "subtopicId": "sej-06-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "Which communist attack on a police station in 1950 is remembered for great bravery?",
-        "bm": "Serangan komunis ke atas balai polis manakah pada 1950 dikenang kerana keberanian luar biasa?"
-      },
-      "explanation": {
-        "en": "On 23 February 1950, police and villagers at Bukit Kepong, Johor, fought to the end.",
-        "bm": "Pada 23 Februari 1950, anggota polis dan penduduk di Bukit Kepong, Johor, berjuang hingga ke titisan darah terakhir."
-      },
-      "difficulty": 2,
-      "options": [
-        {
-          "en": "Bukit Kepong",
-          "bm": "Bukit Kepong"
-        },
-        {
-          "en": "Pasir Salak",
-          "bm": "Pasir Salak"
-        },
-        {
-          "en": "Sungai Siput",
-          "bm": "Sungai Siput"
-        },
-        {
-          "en": "Rundum",
-          "bm": "Rundum"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-06-q16",
-      "subtopicId": "sej-06-01",
+      "id": "sej-06-q17",
+      "subtopicId": "sej-06-03",
       "type": "match",
       "prompt": {
         "en": "Match each person with his role.",
@@ -700,7 +733,7 @@
       ]
     },
     {
-      "id": "sej-06-q17",
+      "id": "sej-06-q18",
       "subtopicId": "sej-06-03",
       "type": "mcq",
       "prompt": {
@@ -733,7 +766,40 @@
       "answer": 0
     },
     {
-      "id": "sej-06-q18",
+      "id": "sej-06-q19",
+      "subtopicId": "sej-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which was an effect of the Emergency on the economy?",
+        "bm": "Apakah kesan Darurat terhadap ekonomi?"
+      },
+      "explanation": {
+        "en": "Money went to defence, and attacks disrupted rubber and tin production.",
+        "bm": "Wang disalurkan untuk pertahanan, dan serangan mengganggu pengeluaran getah dan bijih timah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "High spending on security and damage to estates and mines",
+          "bm": "Perbelanjaan keselamatan yang tinggi dan kerosakan ladang dan lombong"
+        },
+        {
+          "en": "Rubber exports stopped forever",
+          "bm": "Eksport getah berhenti selama-lamanya"
+        },
+        {
+          "en": "No effect",
+          "bm": "Tiada kesan"
+        },
+        {
+          "en": "Independence came sooner because of profits",
+          "bm": "Merdeka lebih cepat kerana keuntungan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "sej-06-q20",
       "subtopicId": "sej-06-04",
       "type": "mcq",
       "prompt": {
@@ -761,72 +827,6 @@
         {
           "en": "It made Malaya a colony of Japan",
           "bm": "Menjadikan Tanah Melayu jajahan Jepun"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-06-q19",
-      "subtopicId": "sej-06-04",
-      "type": "mcq",
-      "prompt": {
-        "en": "What does the sacrifice at Bukit Kepong teach young Malaysians?",
-        "bm": "Apakah pengajaran pengorbanan di Bukit Kepong kepada generasi muda Malaysia?"
-      },
-      "explanation": {
-        "en": "The defenders chose to fight rather than surrender.",
-        "bm": "Para pertahanan memilih untuk berjuang daripada menyerah."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "Loyalty and courage in defending the nation",
-          "bm": "Kesetiaan dan keberanian mempertahankan negara"
-        },
-        {
-          "en": "Surrender quickly",
-          "bm": "Menyerah dengan cepat"
-        },
-        {
-          "en": "Avoid public service",
-          "bm": "Elakkan berkhidmat kepada awam"
-        },
-        {
-          "en": "Security is not important",
-          "bm": "Keselamatan tidak penting"
-        }
-      ],
-      "answer": 0
-    },
-    {
-      "id": "sej-06-q20",
-      "subtopicId": "sej-06-02",
-      "type": "mcq",
-      "prompt": {
-        "en": "Why did the government call it an \"Emergency\" rather than a \"war\"?",
-        "bm": "Mengapakah kerajaan memanggilnya \"Darurat\" dan bukan \"perang\"?"
-      },
-      "explanation": {
-        "en": "Insurers in London would not cover losses caused by \"war\".",
-        "bm": "Syarikat insurans di London tidak menanggung kerugian akibat \"perang\"."
-      },
-      "difficulty": 3,
-      "options": [
-        {
-          "en": "So insurance for estates and mines remained valid and trade could continue",
-          "bm": "Supaya insurans ladang dan lombong kekal sah dan perdagangan boleh diteruskan"
-        },
-        {
-          "en": "Because nobody was hurt",
-          "bm": "Kerana tiada sesiapa tercedera"
-        },
-        {
-          "en": "Because Japan said so",
-          "bm": "Kerana Jepun berkata demikian"
-        },
-        {
-          "en": "Because it lasted one week",
-          "bm": "Kerana ia berlangsung seminggu"
         }
       ],
       "answer": 0

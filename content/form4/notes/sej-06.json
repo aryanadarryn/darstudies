@@ -5,82 +5,633 @@
     "sej-06-01": {
       "keyPoints": [
         {
-          "en": "PKM founded in 1930; aimed to create a communist republic.",
-          "bm": "PKM ditubuhkan pada 1930; bertujuan mewujudkan republik komunis."
+          "en": "Communism was founded on the ideas of Karl Marx and Friedrich Engels: a classless society where the state owns property.",
+          "bm": "Komunisme berasaskan idea Karl Marx dan Friedrich Engels: masyarakat tanpa kelas dengan harta dimiliki negara."
         },
         {
-          "en": "During WWII it led the MPAJA and gained weapons and influence.",
-          "bm": "Semasa Perang Dunia Kedua ia memimpin MPAJA dan memperoleh senjata serta pengaruh."
+          "en": "Communist influence entered our country from China and from Indonesia in the 1920s.",
+          "bm": "Pengaruh komunis masuk ke negara kita dari China dan dari Indonesia pada 1920-an."
         },
         {
-          "en": "After the war it used strikes, then armed violence.",
-          "bm": "Selepas perang ia menggunakan mogok, kemudian keganasan bersenjata."
+          "en": "The Communist Party of Malaya (PKM) was founded in 1930.",
+          "bm": "Parti Komunis Malaya (PKM) ditubuhkan pada 1930."
+        },
+        {
+          "en": "Its aim was to drive out the British and set up a communist republic of Malaya.",
+          "bm": "Matlamatnya ialah mengusir British dan menubuhkan Republik Komunis Malaya."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Communism",
+            "bm": "Komunisme"
+          },
+          "meaning": {
+            "en": "Ideology aiming for a classless society, with the state owning all property and one party ruling.",
+            "bm": "Ideologi yang bermatlamat masyarakat tanpa kelas, dengan negara memiliki semua harta dan satu parti memerintah."
+          }
+        },
+        {
+          "term": {
+            "en": "PKM",
+            "bm": "PKM"
+          },
+          "meaning": {
+            "en": "Parti Komunis Malaya, founded 1930; led by Chin Peng from 1947.",
+            "bm": "Parti Komunis Malaya, ditubuhkan 1930; dipimpin Chin Peng sejak 1947."
+          }
+        },
+        {
+          "term": {
+            "en": "Min Yuen",
+            "bm": "Min Yuen"
+          },
+          "meaning": {
+            "en": "Civilian network that supplied the communists with food, money and information.",
+            "bm": "Rangkaian orang awam yang membekalkan makanan, wang dan maklumat kepada komunis."
+          }
+        },
+        {
+          "term": {
+            "en": "Infiltrate",
+            "bm": "Menyusup"
+          },
+          "meaning": {
+            "en": "To secretly enter organisations to control them — e.g. trade unions.",
+            "bm": "Masuk secara rahsia ke dalam pertubuhan untuk menguasainya — cth. kesatuan sekerja."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Communist influence from China",
+            "bm": "a. Kemasukan pengaruh komunis dari China"
+          },
+          "points": [
+            {
+              "en": "Agents from the Chinese Communist Party spread ideas among Chinese workers and schools in the 1920s.",
+              "bm": "Ejen Parti Komunis China menyebarkan fahaman dalam kalangan pekerja dan sekolah Cina pada 1920-an."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Communist influence from Indonesia",
+            "bm": "b. Kemasukan pengaruh komunis dari Indonesia"
+          },
+          "points": [
+            {
+              "en": "Members of the Indonesian Communist Party (PKI), such as Alimin and Musso, tried to spread communism among the Malays after a failed revolt in Indonesia (1926).",
+              "bm": "Ahli Parti Komunis Indonesia (PKI) seperti Alimin dan Musso cuba menyebarkan komunisme dalam kalangan orang Melayu selepas pemberontakan yang gagal di Indonesia (1926)."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c. Founding of the PKM",
+            "bm": "c. Penubuhan Parti Komunis Malaya"
+          },
+          "points": [
+            {
+              "en": "PKM was founded in 1930 and worked through trade unions and student groups.",
+              "bm": "PKM ditubuhkan pada 1930 dan bergerak melalui kesatuan sekerja dan kumpulan pelajar."
+            },
+            {
+              "en": "After the war it was legal at first, controlled many unions and organised strikes (1946–1948).",
+              "bm": "Selepas perang ia sah pada awalnya, menguasai banyak kesatuan dan menganjurkan mogok (1946–1948)."
+            },
+            {
+              "en": "In 1948 it turned to armed struggle from the jungle.",
+              "bm": "Pada 1948 ia beralih kepada perjuangan bersenjata dari hutan."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the PKM gain support after World War II?",
+          "bm": "Mengapakah PKM mendapat sokongan selepas Perang Dunia Kedua?"
+        },
+        "answer": {
+          "en": "Its MPAJA had fought the Japanese, so some saw it as heroes; it also exploited post-war hardship — low wages, food shortages — through trade unions.",
+          "bm": "MPAJA nya telah menentang Jepun, maka sesetengah orang menganggapnya wira; ia juga mengeksploitasi kesusahan selepas perang — gaji rendah, kekurangan makanan — melalui kesatuan sekerja."
+        }
+      }
     },
     "sej-06-02": {
       "keyPoints": [
         {
-          "en": "June 1948: three European planters killed at Sungai Siput, Perak.",
-          "bm": "Jun 1948: tiga pengurus ladang Eropah dibunuh di Sungai Siput, Perak."
+          "en": "On 16 June 1948 communists killed three European planters at Sungai Siput, Perak.",
+          "bm": "Pada 16 Jun 1948 komunis membunuh tiga orang pengurus ladang Eropah di Sungai Siput, Perak."
         },
         {
-          "en": "Emergency declared in 1948; PKM banned; it ended on 31 July 1960.",
-          "bm": "Darurat diisytiharkan pada 1948; PKM diharamkan; tamat pada 31 Julai 1960."
+          "en": "The British declared a State of Emergency, first in Perak and Johor and then throughout the country; it lasted until 31 July 1960.",
+          "bm": "British mengisytiharkan Darurat, mula-mula di Perak dan Johor dan kemudian di seluruh negara; ia berlarutan hingga 31 Julai 1960."
         },
         {
-          "en": "Called \"Emergency\" so insurance for estates and mines remained valid.",
-          "bm": "Dipanggil \"Darurat\" supaya insurans ladang dan lombong kekal sah."
+          "en": "Communists tried to cripple the economy, destroy infrastructure and threaten the people and security forces.",
+          "bm": "Komunis cuba melumpuhkan ekonomi, memusnahkan infrastruktur dan mengancam rakyat serta pasukan keselamatan."
+        },
+        {
+          "en": "The attack on Bukit Kepong police station (23 February 1950) is remembered for the police's bravery.",
+          "bm": "Serangan ke atas balai polis Bukit Kepong (23 Februari 1950) dikenang kerana keberanian anggota polis."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "State of Emergency",
+            "bm": "Darurat"
+          },
+          "meaning": {
+            "en": "Special government powers to deal with a serious threat to security.",
+            "bm": "Kuasa khas kerajaan untuk menghadapi ancaman keselamatan yang serius."
+          }
+        },
+        {
+          "term": {
+            "en": "Sabotage",
+            "bm": "Sabotaj"
+          },
+          "meaning": {
+            "en": "Deliberately destroying property, e.g. slashing rubber trees or blowing up bridges.",
+            "bm": "Memusnahkan harta dengan sengaja, cth. menetak pokok getah atau meletupkan jambatan."
+          }
+        },
+        {
+          "term": {
+            "en": "Bukit Kepong",
+            "bm": "Bukit Kepong"
+          },
+          "meaning": {
+            "en": "Police station in Johor attacked by about 180 communists; most defenders and some family members were killed.",
+            "bm": "Balai polis di Johor yang diserang kira-kira 180 komunis; kebanyakan anggota yang mempertahankannya dan sebahagian ahli keluarga terkorban."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Declaration of Emergency",
+            "bm": "a. Perisytiharan Darurat"
+          },
+          "points": [
+            {
+              "en": "After the Sungai Siput killings the British declared an Emergency and banned the PKM (July 1948).",
+              "bm": "Selepas pembunuhan di Sungai Siput British mengisytiharkan Darurat dan mengharamkan PKM (Julai 1948)."
+            },
+            {
+              "en": "It was called an \"Emergency\", not a war, so that insurance companies would still pay for losses of estates and mines.",
+              "bm": "Ia dipanggil \"Darurat\", bukan perang, supaya syarikat insurans masih membayar kerugian ladang dan lombong."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Communist actions",
+            "bm": "b. Tindakan komunis"
+          },
+          "points": [
+            {
+              "en": "Crippling the economy: slashing rubber trees, burning estates and attacking mines.",
+              "bm": "Melumpuhkan ekonomi: menetak pokok getah, membakar ladang dan menyerang lombong."
+            },
+            {
+              "en": "Destroying infrastructure: bridges, railways, trains and telephone lines.",
+              "bm": "Merosakkan infrastruktur: jambatan, landasan kereta api, kereta api dan talian telefon."
+            },
+            {
+              "en": "Threatening the people: killings, kidnapping and extortion.",
+              "bm": "Mengancam keselamatan rakyat: pembunuhan, penculikan dan peras ugut."
+            },
+            {
+              "en": "Threatening the security forces: ambushes and attacks on police stations, e.g. Bukit Kepong (1950); High Commissioner Sir Henry Gurney was killed at Fraser's Hill (6 October 1951).",
+              "bm": "Mengancam pasukan keselamatan: serangan hendap dan serangan ke atas balai polis, cth. Bukit Kepong (1950); Pesuruhjaya Tinggi Sir Henry Gurney dibunuh di Bukit Fraser (6 Oktober 1951)."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "16 Jun 1948",
+          "event": {
+            "en": "Three planters killed at Sungai Siput; Emergency declared.",
+            "bm": "Tiga pengurus ladang dibunuh di Sungai Siput; Darurat diisytiharkan."
+          }
+        },
+        {
+          "date": "23 Feb 1950",
+          "event": {
+            "en": "Attack on Bukit Kepong police station.",
+            "bm": "Serangan ke atas balai polis Bukit Kepong."
+          }
+        },
+        {
+          "date": "6 Oct 1951",
+          "event": {
+            "en": "Sir Henry Gurney killed at Fraser's Hill.",
+            "bm": "Sir Henry Gurney dibunuh di Bukit Fraser."
+          }
+        },
+        {
+          "date": "31 Jul 1960",
+          "event": {
+            "en": "Emergency ends.",
+            "bm": "Darurat tamat."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/sc-protection.webp",
+          "alt": {
+            "en": "Rubber workers go to work guarded by Special Constables, about 1950.",
+            "bm": "Pekerja getah ke tempat kerja dikawal Special Constables, sekitar 1950."
+          },
+          "caption": {
+            "en": "Rubber workers go to work guarded by Special Constables, about 1950.",
+            "bm": "Pekerja getah ke tempat kerja dikawal Special Constables, sekitar 1950."
+          },
+          "credit": "British Government · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SC_protection_team.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why did the government call it an \"Emergency\" and not a \"war\"?",
+          "bm": "Mengapakah kerajaan memanggilnya \"Darurat\" dan bukan \"perang\"?"
+        },
+        "answer": {
+          "en": "Insurance would not cover losses caused by war; calling it an Emergency let estates and mines claim insurance and kept the economy running.",
+          "bm": "Insurans tidak melindungi kerugian akibat perang; dengan menamakannya Darurat, ladang dan lombong masih boleh menuntut insurans dan ekonomi terus berjalan."
+        }
+      }
     },
     "sej-06-03": {
       "keyPoints": [
         {
-          "en": "Briggs Plan (1950): New Villages cut supplies to the communists.",
-          "bm": "Rancangan Briggs (1950): Kampung Baru memutuskan bekalan kepada komunis."
+          "en": "The government fought the communists with laws, security forces and campaigns to win people's support.",
+          "bm": "Kerajaan menentang komunis dengan undang-undang, pasukan keselamatan dan kempen memenangi sokongan rakyat."
         },
         {
-          "en": "Gurney killed (1951); Templer (1952) used \"hearts and minds\".",
-          "bm": "Gurney dibunuh (1951); Templer (1952) menggunakan \"hati dan fikiran\"."
+          "en": "The Briggs Plan (1950) moved squatters into New Villages to cut the communists' supplies.",
+          "bm": "Rancangan Briggs (1950) memindahkan setinggan ke Kampung Baru untuk memutuskan bekalan komunis."
         },
         {
-          "en": "ID cards, curfews, food control, Home Guard, rewards for surrender.",
-          "bm": "Kad pengenalan, perintah berkurung, kawalan makanan, Home Guard, ganjaran untuk menyerah diri."
+          "en": "Sir Gerald Templer (1952–1954) used the \"hearts and minds\" approach.",
+          "bm": "Sir Gerald Templer (1952–1954) menggunakan pendekatan \"memenangi hati dan fikiran\" rakyat."
         },
         {
-          "en": "White Areas from 1953 (Melaka first).",
-          "bm": "Kawasan Putih mulai 1953 (Melaka pertama)."
-        },
-        {
-          "en": "Baling Talks, December 1955: failed.",
-          "bm": "Rundingan Baling, Disember 1955: gagal."
+          "en": "The Baling Talks (28–29 December 1955) failed because the PKM refused to surrender.",
+          "bm": "Rundingan Baling (28–29 Disember 1955) gagal kerana PKM enggan menyerah diri."
         }
       ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Briggs Plan",
+            "bm": "Rancangan Briggs"
+          },
+          "meaning": {
+            "en": "Plan by Lt-Gen Sir Harold Briggs to resettle about half a million squatters into New Villages.",
+            "bm": "Rancangan Lt-Jen Sir Harold Briggs untuk menempatkan semula kira-kira setengah juta setinggan ke Kampung Baru."
+          }
+        },
+        {
+          "term": {
+            "en": "New Village",
+            "bm": "Kampung Baru"
+          },
+          "meaning": {
+            "en": "Guarded settlement with fences and basic facilities, cutting links with the Min Yuen.",
+            "bm": "Penempatan berkawal berpagar dengan kemudahan asas, memutuskan hubungan dengan Min Yuen."
+          }
+        },
+        {
+          "term": {
+            "en": "White area / Black area",
+            "bm": "Kawasan putih / kawasan hitam"
+          },
+          "meaning": {
+            "en": "White: free of communists, with controls lifted (first: Melaka, 1953). Black: still dangerous, under strict control.",
+            "bm": "Putih: bebas komunis, sekatan dilonggarkan (pertama: Melaka, 1953). Hitam: masih berbahaya, di bawah kawalan ketat."
+          }
+        },
+        {
+          "term": {
+            "en": "Psychological warfare",
+            "bm": "Perang saraf"
+          },
+          "meaning": {
+            "en": "Using propaganda, rewards and services to weaken the enemy and win the people.",
+            "bm": "Menggunakan propaganda, ganjaran dan perkhidmatan untuk melemahkan musuh dan memenangi rakyat."
+          }
+        },
+        {
+          "term": {
+            "en": "Senoi Praaq",
+            "bm": "Senoi Praaq"
+          },
+          "meaning": {
+            "en": "Police unit of Orang Asli who tracked communists in the deep jungle.",
+            "bm": "Unit polis Orang Asli yang menjejak komunis di hutan tebal."
+          }
+        },
+        {
+          "term": {
+            "en": "Home Guard",
+            "bm": "Home Guard"
+          },
+          "meaning": {
+            "en": "Volunteers who guarded their own villages.",
+            "bm": "Sukarelawan yang mengawal kampung masing-masing."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Emergency laws",
+            "bm": "a. Penguatkuasaan undang-undang darurat"
+          },
+          "points": [
+            {
+              "en": "Detention without trial, death penalty for carrying arms, food control and search powers.",
+              "bm": "Tahanan tanpa bicara, hukuman mati kerana memiliki senjata, kawalan makanan dan kuasa menggeledah."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Strengthening the security forces",
+            "bm": "b. Pemerkasaan pasukan keselamatan"
+          },
+          "points": [
+            {
+              "en": "Police: Special Branch (intelligence), Special Constables (guarding estates and mines), Women Police, Jungle Squads, Senoi Praaq and Auxiliary Police.",
+              "bm": "Polis: Cawangan Khas (risikan), Special Constables (mengawal ladang dan lombong), Polis Wanita, Polis Hutan, Senoi Praaq dan Polis Bantuan."
+            },
+            {
+              "en": "Army: the Malay Regiment, Commonwealth forces (e.g. Britain, Australia, New Zealand, Gurkhas) and the Sarawak Rangers (Iban trackers).",
+              "bm": "Tentera: Askar Melayu, tentera Komanwel (cth. Britain, Australia, New Zealand, Gurkha) dan Sarawak Rangers (penjejak Iban)."
+            },
+            {
+              "en": "Volunteers: the Home Guard.",
+              "bm": "Sukarelawan: Home Guard."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c–g. Control measures",
+            "bm": "c–g. Langkah kawalan"
+          },
+          "points": [
+            {
+              "en": "National registration and identity cards (from 1948) to identify communists and supporters.",
+              "bm": "Pendaftaran kebangsaan dan kad pengenalan (mulai 1948) untuk mengenal pasti komunis dan penyokongnya."
+            },
+            {
+              "en": "Briggs Plan: New Villages from 1950.",
+              "bm": "Rancangan Briggs: Kampung Baru mulai 1950."
+            },
+            {
+              "en": "Amnesty (pengampunan) offers to communists who surrendered.",
+              "bm": "Tawaran pengampunan kepada komunis yang menyerah diri."
+            },
+            {
+              "en": "\"People's Month against Bandits\" campaign (1950) and curfews.",
+              "bm": "Kempen Bulan Rakyat Melawan Penjahat (1950) dan perintah berkurung."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "h. Psychological warfare",
+            "bm": "h. Perang saraf"
+          },
+          "points": [
+            {
+              "en": "Templer's visits to villages; easier citizenship (1952); the Kuala Lumpur municipal election (1952).",
+              "bm": "Lawatan Templer ke kampung; syarat kewarganegaraan dilonggarkan (1952); pilihan raya Majlis Perbandaran Kuala Lumpur (1952)."
+            },
+            {
+              "en": "Cash rewards for information; winning the Orang Asli's trust; better information services (leaflets, radio, films).",
+              "bm": "Hadiah wang tunai untuk maklumat; memenangi kepercayaan Orang Asli; memajukan perkhidmatan penerangan (risalah, radio, filem)."
+            },
+            {
+              "en": "Declaring White and Black areas.",
+              "bm": "Memperkenalkan kawasan putih dan kawasan hitam."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "i. Baling Talks",
+            "bm": "i. Rundingan Baling"
+          },
+          "points": [
+            {
+              "en": "28–29 December 1955 at Baling, Kedah: Tunku Abdul Rahman, David Marshall (Singapore) and Tan Cheng Lock met Chin Peng.",
+              "bm": "28–29 Disember 1955 di Baling, Kedah: Tunku Abdul Rahman, David Marshall (Singapura) dan Tan Cheng Lock bertemu Chin Peng."
+            },
+            {
+              "en": "Failed: the PKM wanted to be recognised as a legal party and refused to surrender or be investigated.",
+              "bm": "Gagal: PKM mahu diiktiraf sebagai parti yang sah dan enggan menyerah diri atau disiasat."
+            }
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1948",
+          "event": {
+            "en": "Emergency laws and national registration.",
+            "bm": "Undang-undang darurat dan pendaftaran kebangsaan."
+          }
+        },
+        {
+          "date": "1950",
+          "event": {
+            "en": "Briggs Plan begins; Home Guard formed.",
+            "bm": "Rancangan Briggs bermula; Home Guard ditubuhkan."
+          }
+        },
+        {
+          "date": "1952",
+          "event": {
+            "en": "Templer arrives — \"hearts and minds\".",
+            "bm": "Templer tiba — \"memenangi hati dan fikiran\"."
+          }
+        },
+        {
+          "date": "Sep 1953",
+          "event": {
+            "en": "First White Area: Melaka.",
+            "bm": "Kawasan putih pertama: Melaka."
+          }
+        },
+        {
+          "date": "Dec 1955",
+          "event": {
+            "en": "Baling Talks.",
+            "bm": "Rundingan Baling."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/sej/new-village.webp",
+          "alt": {
+            "en": "A government-guarded New Village set up under the Briggs Plan, 1950s.",
+            "bm": "Kampung Baru berkawal yang dibina di bawah Rancangan Briggs, 1950-an."
+          },
+          "caption": {
+            "en": "A government-guarded New Village set up under the Briggs Plan, 1950s.",
+            "bm": "Kampung Baru berkawal yang dibina di bawah Rancangan Briggs, 1950-an."
+          },
+          "credit": "Unknown author · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Village_in_Malaya,_1950s.jpg"
+        },
+        {
+          "src": "img/sej/templer-homeguard.webp",
+          "alt": {
+            "en": "Sir Gerald Templer meets members of the Kinta Valley Home Guard, Perak, 1952.",
+            "bm": "Sir Gerald Templer bertemu anggota Home Guard Lembah Kinta, Perak, 1952."
+          },
+          "caption": {
+            "en": "Sir Gerald Templer meets members of the Kinta Valley Home Guard, Perak, 1952.",
+            "bm": "Sir Gerald Templer bertemu anggota Home Guard Lembah Kinta, Perak, 1952."
+          },
+          "credit": "Unknown author · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Gerald_Templer_and_his_assistant,_Major_Lord_Wynford_inspecting_the_members_of_Kinta_Valley_Home_Guard_in_Perak.jpg"
+        },
+        {
+          "src": "img/sej/baling.webp",
+          "alt": {
+            "en": "The Baling Talks, 28 December 1955 — from left, David Marshall, Tunku Abdul Rahman and Tan Cheng Lock.",
+            "bm": "Rundingan Baling, 28 Disember 1955 — dari kiri, David Marshall, Tunku Abdul Rahman dan Tan Cheng Lock."
+          },
+          "caption": {
+            "en": "The Baling Talks, 28 December 1955 — from left, David Marshall, Tunku Abdul Rahman and Tan Cheng Lock.",
+            "bm": "Rundingan Baling, 28 Disember 1955 — dari kiri, David Marshall, Tunku Abdul Rahman dan Tan Cheng Lock."
+          },
+          "credit": "Arkib Negara · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1955_Baling_Talks.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why was the \"hearts and minds\" approach more effective than force alone?",
+          "bm": "Mengapakah pendekatan \"memenangi hati dan fikiran\" lebih berkesan daripada kekerasan semata-mata?"
+        },
+        "answer": {
+          "en": "Communists depended on support from villagers. By giving security, services, citizenship and rewards, the government won people's loyalty, so they stopped helping the communists and gave information instead.",
+          "bm": "Komunis bergantung pada sokongan penduduk kampung. Dengan memberi keselamatan, kemudahan, kewarganegaraan dan ganjaran, kerajaan memenangi kesetiaan rakyat, maka mereka berhenti membantu komunis dan memberikan maklumat."
+        }
+      },
       "tip": {
-        "en": "Two-part answers: name the step, then say HOW it weakened the communists.",
-        "bm": "Jawapan dua bahagian: namakan langkah, kemudian nyatakan BAGAIMANA ia melemahkan komunis."
+        "en": "A long list! Group the measures under: Undang-undang, Pasukan keselamatan, Kawalan (IC, Briggs, berkurung), Perang saraf, Rundingan.",
+        "bm": "Senarai yang panjang! Kumpulkan langkah di bawah: Undang-undang, Pasukan keselamatan, Kawalan (IC, Briggs, berkurung), Perang saraf, Rundingan."
       }
     },
     "sej-06-04": {
       "keyPoints": [
         {
-          "en": "Politics: sped up independence and inter-ethnic cooperation.",
-          "bm": "Politik: mempercepat kemerdekaan dan kerjasama antara kaum."
+          "en": "Political effects: more people became citizens, the MCA was formed (1949) and independence came sooner.",
+          "bm": "Kesan politik: lebih ramai menjadi warganegara, MCA ditubuhkan (1949) dan kemerdekaan dipercepat."
         },
         {
-          "en": "Economy: high defence spending; estates and mines attacked.",
-          "bm": "Ekonomi: belanja pertahanan tinggi; ladang dan lombong diserang."
+          "en": "Socio-economic effects: high spending on security, suffering of the people and strained race relations.",
+          "bm": "Kesan sosioekonomi: perbelanjaan keselamatan yang tinggi, penderitaan rakyat dan hubungan kaum yang renggang."
         },
         {
-          "en": "Society: New Villages, fear, loss of life (e.g. Bukit Kepong, 1950).",
-          "bm": "Sosial: Kampung Baru, ketakutan, kehilangan nyawa (cth. Bukit Kepong, 1950)."
-        },
-        {
-          "en": "The PKM finally laid down arms in the Hat Yai Peace Agreement (1989).",
-          "bm": "PKM akhirnya meletakkan senjata melalui Perjanjian Damai Hat Yai (1989)."
+          "en": "The Emergency was declared over on 31 July 1960.",
+          "bm": "Darurat diisytiharkan tamat pada 31 Julai 1960."
         }
-      ]
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "MCA",
+            "bm": "MCA"
+          },
+          "meaning": {
+            "en": "Malayan Chinese Association, founded 27 February 1949 by Tan Cheng Lock; helped Chinese in New Villages and opposed communism.",
+            "bm": "Persatuan Cina Malaya, ditubuhkan 27 Februari 1949 oleh Tan Cheng Lock; membantu orang Cina di Kampung Baru dan menentang komunis."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "a. Political",
+            "bm": "a. Aspek politik"
+          },
+          "points": [
+            {
+              "en": "Citizenship rules were eased (1952) so more Chinese and Indians became citizens and loyal to Malaya.",
+              "bm": "Syarat kewarganegaraan dilonggarkan (1952) supaya lebih ramai orang Cina dan India menjadi warganegara dan setia kepada Tanah Melayu."
+            },
+            {
+              "en": "MCA was formed and later joined UMNO in the Alliance.",
+              "bm": "MCA ditubuhkan dan kemudian bergabung dengan UMNO dalam Perikatan."
+            },
+            {
+              "en": "Britain sped up self-government so that a local government could fight communism with the people's support.",
+              "bm": "British mempercepat pemerintahan sendiri supaya kerajaan tempatan dapat menentang komunis dengan sokongan rakyat."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "b. Socio-economic",
+            "bm": "b. Aspek sosioekonomi"
+          },
+          "points": [
+            {
+              "en": "Huge spending on security instead of development.",
+              "bm": "Perbelanjaan besar untuk keselamatan, bukan pembangunan."
+            },
+            {
+              "en": "Suffering: deaths, curfews, food control and resettlement.",
+              "bm": "Penderitaan: kematian, perintah berkurung, kawalan makanan dan penempatan semula."
+            },
+            {
+              "en": "Race relations were strained because most communists were Chinese and most security forces were Malays.",
+              "bm": "Hubungan kaum renggang kerana kebanyakan komunis orang Cina dan kebanyakan pasukan keselamatan orang Melayu."
+            }
+          ]
+        },
+        {
+          "heading": {
+            "en": "c. End of the Emergency",
+            "bm": "c. Penamatan Darurat"
+          },
+          "points": [
+            {
+              "en": "By the late 1950s most areas were \"white\"; the Emergency ended on 31 July 1960.",
+              "bm": "Menjelang akhir 1950-an kebanyakan kawasan menjadi \"putih\"; Darurat tamat pada 31 Julai 1960."
+            },
+            {
+              "en": "The PKM finally signed a peace agreement with Malaysia and Thailand at Hatyai on 2 December 1989.",
+              "bm": "PKM akhirnya menandatangani perjanjian damai dengan Malaysia dan Thailand di Hatyai pada 2 Disember 1989."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "How did the Emergency help speed up independence?",
+          "bm": "Bagaimanakah Darurat membantu mempercepat kemerdekaan?"
+        },
+        "answer": {
+          "en": "Britain realised that communism could only be defeated with local support, so it handed more power to local leaders — elections, the Member System and finally independence in 1957.",
+          "bm": "British sedar komunis hanya boleh dikalahkan dengan sokongan rakyat tempatan, maka ia menyerahkan lebih banyak kuasa kepada pemimpin tempatan — pilihan raya, Sistem Ahli dan akhirnya kemerdekaan pada 1957."
+        }
+      }
     }
   }
 }
