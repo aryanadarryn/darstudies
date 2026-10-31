@@ -1,5 +1,6 @@
 import type { Form } from '../content/ids'
 import type { SubjectId } from '../content/schema'
+import type { Profile } from '../lib/profile'
 
 export type TaskType = 'intro' | 'quiz' | 'flashcards' | 'formula-drill' | 'tool' | 'review' | 'rest'
 
@@ -56,4 +57,6 @@ export interface Settings {
   viewMode: 'auto' | 'mobile' | 'desktop'
   /** Which form's subjects Learn, Practice and the planner show. */
   form: Form
+  /** Nickname, picture and streak style (Me page). */
+  profile?: Profile
 }

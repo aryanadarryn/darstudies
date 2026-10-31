@@ -4,6 +4,9 @@ import { Link } from 'react-router-dom'
 import FormulaCard from '../components/formula/FormulaCard'
 import InstallPrompt from '../components/InstallPrompt'
 import { TrialBanner } from '../auth/Locked'
+import { useAccount } from '../auth/account'
+import Avatar from '../components/Avatar'
+import { displayName, streakIcon } from '../lib/profile'
 import TaskCard from '../components/TaskCard'
 import { Empty, ProgressBar, toast } from '../components/ui'
 import { formulasOf } from '../content'
@@ -21,6 +24,8 @@ import { useSettings } from '../store/settings'
 export default function Today() {
   const { t, lang } = useT()
   const settings = useSettings((s) => s.settings)
+  const profile = settings.profile
+  const name = displayName(profile, useAccount((s) => s.access?.full_name))
   const today = useToday()
   const [busy, setBusy] = useState(false)
 
@@ -69,11 +74,14 @@ export default function Today() {
       <header className="flex items-start justify-between">
         <div>
           <p className="text-sm muted">{dateLabel}</p>
-          <h1 className="text-2xl font-bold">{greeting} 👋</h1>
+          <h1 className="text-2xl font-bold">{greeting}{name ? `, ${name}` : ''} 👋</h1>
         </div>
+        <div className="flex items-center gap-2">
+        <Link to="/me" aria-label={t('profile.title')}><Avatar size={44} /></Link>
         <div className="flex flex-col items-center rounded-2xl bg-orange-100 px-3 py-1.5 text-orange-700 dark:bg-orange-900/40 dark:text-orange-200" title={t('today.streak')}>
-          <span className="text-xl font-bold leading-none">🔥 {streak ?? 0}</span>
+          <span className="text-xl font-bold leading-none">{streakIcon(profile)} {streak ?? 0}</span>
           <span className="text-[10px] font-semibold">{t('today.streak')}</span>
+        </div>
         </div>
       </header>
 

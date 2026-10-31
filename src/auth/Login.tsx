@@ -1,6 +1,8 @@
-import { useState, type ReactNode } from 'react'
+import { useEffect, useState, type ReactNode } from 'react'
 import { useT } from '../i18n/useT'
 import { useSettings } from '../store/settings'
+import { useAccount } from './account'
+import { forgetLastLogin, getLastLogin, getPending, setLastLogin, setPending } from './lastLogin'
 import { PROVIDERS, REDIRECT_URL, supabase, type Provider } from './supabase'
 
 const ICON: Record<Exclude<Provider, 'email'>, ReactNode> = {
@@ -30,17 +32,40 @@ const ICON: Record<Exclude<Provider, 'email'>, ReactNode> = {
   ),
 }
 
+/** Supabase lets one address request a new email every 60 seconds. */
+const RESEND_S = 60
+
+const btnOutline = 'flex min-h-12 w-full items-center justify-center gap-3 rounded-xl border border-slate-300 bg-white px-4 text-sm font-semibold text-slate-800 transition hover:bg-slate-50 disabled:opacity-60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800'
+const inputCls = 'min-h-12 w-full rounded-xl border border-slate-300 bg-white px-3 text-base dark:border-slate-700 dark:bg-slate-900'
+const linkCls = 'font-semibold text-violet-700 dark:text-violet-300'
+
 export default function Login() {
   const { t } = useT()
   const { settings, update } = useSettings()
-  const [email, setEmail] = useState('')
+  const linkFailed = useAccount((s) => s.linkFailed)
+  const [last, setLast] = useState(getLastLogin)
+  const usable = last && PROVIDERS.includes(last.method) && (last.method !== 'email' || !!last.email) ? last : null
+  const [showAll, setShowAll] = useState(!usable)
+  // A code sent in the last hour: reopening the app (e.g. after checking Gmail) lands back on the code box.
+  const [pending, setPendingState] = useState(getPending)
+  const [email, setEmail] = useState(pending?.email ?? last?.email ?? '')
+  const [code, setCode] = useState('')
+  const [now, setNow] = useState(Date.now())
   const [busy, setBusy] = useState<string | null>(null)
-  const [message, setMessage] = useState<{ ok: boolean; text: string } | null>(null)
+  const [message, setMessage] = useState<{ ok: boolean; text: string } | null>(linkFailed ? { ok: false, text: t('auth.linkFailed') } : null)
+
+  const wait = pending ? Math.max(0, Math.ceil((pending.sentAt + RESEND_S * 1000 - now) / 1000)) : 0
+  useEffect(() => {
+    if (!wait) return
+    const id = setInterval(() => setNow(Date.now()), 1000)
+    return () => clearInterval(id)
+  }, [wait])
 
   const oauth = async (provider: Exclude<Provider, 'email'>) => {
     if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
     setBusy(provider)
     setMessage(null)
+    setLastLogin({ method: provider, email: last?.email })
     const { error } = await supabase!.auth.signInWithOAuth({
       provider,
       // Microsoft needs the email scope to return the address.
@@ -52,16 +77,125 @@ export default function Login() {
     }
   }
 
-  const emailLink = async (e: React.FormEvent) => {
-    e.preventDefault()
+  const sendCode = async (raw: string) => {
+    const to = raw.trim().toLowerCase()
     if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
     setBusy('email')
-    const { error } = await supabase!.auth.signInWithOtp({ email: email.trim(), options: { emailRedirectTo: REDIRECT_URL() } })
+    setMessage(null)
+    const { error } = await supabase!.auth.signInWithOtp({ email: to, options: { emailRedirectTo: REDIRECT_URL() } })
     setBusy(null)
-    setMessage(error ? { ok: false, text: t('auth.error') } : { ok: true, text: t('auth.linkSent') })
+    // 429 means an email went out moments ago, so its code still works.
+    if (error && error.status !== 429) return setMessage({ ok: false, text: t('auth.error') })
+    const p = { email: to, sentAt: Date.now() }
+    setPending(p)
+    setPendingState(p)
+    setNow(p.sentAt)
+    setCode('')
+    setLastLogin({ method: 'email', email: to })
+    setLast({ method: 'email', email: to })
+  }
+
+  const verify = async (e: React.FormEvent) => {
+    e.preventDefault()
+    if (!pending) return
+    if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
+    setBusy('verify')
+    setMessage(null)
+    const { error } = await supabase!.auth.verifyOtp({ email: pending.email, token: code, type: 'email' })
+    setBusy(null)
+    // On success the account store picks up the session and the app replaces this screen.
+    if (error) setMessage({ ok: false, text: t('auth.badCode') })
+  }
+
+  const changeEmail = () => {
+    setPending(null)
+    setPendingState(null)
+    forgetLastLogin()
+    setLast(null)
+    setEmail('')
+    setMessage(null)
+    setShowAll(true)
   }
 
   const oauthProviders = PROVIDERS.filter((p): p is Exclude<Provider, 'email'> => p !== 'email')
+
+  let panel: ReactNode
+  if (pending) {
+    panel = (
+      <form onSubmit={verify} className="space-y-3">
+        <h2 className="text-center font-semibold">{t('auth.code')}</h2>
+        <p className="text-center text-sm">{t('auth.codeSent')} <strong className="break-all">{pending.email}</strong></p>
+        <p className="text-center text-xs muted">{t('auth.codeHint')}</p>
+        <input aria-label={t('auth.code')} inputMode="numeric" autoComplete="one-time-code" required autoFocus
+          maxLength={10} value={code} onChange={(e) => setCode(e.target.value.replace(/\D/g, ''))}
+          className={`${inputCls} text-center font-mono text-2xl tracking-[0.4em]`} />
+        <button type="submit" disabled={!!busy || code.length < 6} className="btn-primary w-full disabled:opacity-60">
+          {busy === 'verify' ? t('common.loading') : t('auth.verify')}
+        </button>
+        <div className="flex items-center justify-between gap-2 text-sm">
+          <button type="button" onClick={changeEmail} className={linkCls}>{t('auth.changeEmail')}</button>
+          <button type="button" onClick={() => sendCode(pending.email)} disabled={!!busy || wait > 0}
+            className={`${linkCls} disabled:font-normal disabled:text-slate-500`}>
+            {wait > 0 ? `${t('auth.resendIn')} ${wait}s` : t('auth.resend')}
+          </button>
+        </div>
+      </form>
+    )
+  } else if (!showAll && usable) {
+    // Returning user on this device: one tap.
+    const m = usable.method
+    panel = (
+      <div className="space-y-3">
+        <h2 className="text-center font-semibold">{t('auth.welcomeBack')}</h2>
+        {m === 'email' ? (
+          <button onClick={() => sendCode(usable.email!)} disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
+            <span className="block truncate">{busy === 'email' ? t('common.loading') : `${t('auth.continueAs')} ${usable.email}`}</span>
+          </button>
+        ) : (
+          <>
+            <button onClick={() => oauth(m)} disabled={!!busy} className={btnOutline}>
+              {ICON[m]}
+              {busy === m ? t('common.loading') : t(`auth.${m}`)}
+            </button>
+            {usable.email && <p className="text-center text-xs muted">{t('auth.lastUsed')}: {usable.email}</p>}
+          </>
+        )}
+        <div className="flex items-center justify-between gap-2 text-sm">
+          <button onClick={() => setShowAll(true)} className={linkCls}>{t('auth.otherWays')}</button>
+          <button onClick={changeEmail} className="muted">{t('auth.changeEmail')}</button>
+        </div>
+      </div>
+    )
+  } else {
+    panel = (
+      <>
+        <h2 className="text-center font-semibold">{t('auth.signIn')}</h2>
+        {oauthProviders.map((p) => (
+          <button key={p} onClick={() => oauth(p)} disabled={!!busy} className={btnOutline}>
+            {ICON[p]}
+            {busy === p ? t('common.loading') : t(`auth.${p}`)}
+          </button>
+        ))}
+
+        {PROVIDERS.includes('email') && (
+          <>
+            {oauthProviders.length > 0 && (
+              <div className="flex items-center gap-3 text-xs muted">
+                <span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />{t('auth.or')}<span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />
+              </div>
+            )}
+            <form onSubmit={(e) => { e.preventDefault(); void sendCode(email) }} className="space-y-2">
+              <label className="block text-sm font-medium" htmlFor="login-email">{t('auth.email')}</label>
+              <input id="login-email" type="email" required autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} className={inputCls} />
+              <button type="submit" disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
+                {busy === 'email' ? t('common.loading') : t('auth.sendLink')}
+              </button>
+            </form>
+          </>
+        )}
+      </>
+    )
+  }
 
   return (
     <div className="flex min-h-dvh items-center justify-center bg-slate-50 px-4 py-10 dark:bg-slate-950">
@@ -73,37 +207,11 @@ export default function Login() {
         </div>
 
         <div className="card space-y-3">
-          <h2 className="text-center font-semibold">{t('auth.signIn')}</h2>
-          {oauthProviders.map((p) => (
-            <button key={p} onClick={() => oauth(p)} disabled={!!busy}
-              className="flex min-h-12 w-full items-center justify-center gap-3 rounded-xl border border-slate-300 bg-white px-4 text-sm font-semibold text-slate-800 transition hover:bg-slate-50 disabled:opacity-60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800">
-              {ICON[p]}
-              {busy === p ? t('common.loading') : t(`auth.${p}`)}
-            </button>
-          ))}
-
-          {PROVIDERS.includes('email') && (
-            <>
-              {oauthProviders.length > 0 && (
-                <div className="flex items-center gap-3 text-xs muted">
-                  <span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />{t('auth.or')}<span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />
-                </div>
-              )}
-              <form onSubmit={emailLink} className="space-y-2">
-                <label className="block text-sm font-medium" htmlFor="login-email">{t('auth.email')}</label>
-                <input id="login-email" type="email" required autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)}
-                  className="min-h-12 w-full rounded-xl border border-slate-300 bg-white px-3 text-base dark:border-slate-700 dark:bg-slate-900" />
-                <button type="submit" disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
-                  {busy === 'email' ? t('common.loading') : t('auth.sendLink')}
-                </button>
-              </form>
-            </>
-          )}
-
+          {panel}
           {message && <p role="status" className={`text-center text-sm ${message.ok ? 'text-violet-700 dark:text-violet-300' : 'text-red-600'}`}>{message.text}</p>}
         </div>
 
-        <p className="text-center text-xs muted">{t('auth.trialNote')}</p>
+        <p className="text-center text-xs muted">{t('auth.stay')} {t('auth.trialNote')}</p>
         <div className="flex justify-center gap-2 text-xs">
           {(['en', 'bm'] as const).map((l) => (
             <button key={l} onClick={() => update({ lang: l })}

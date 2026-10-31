@@ -1,0 +1,10 @@
+<!-- Paste into Supabase → Authentication → Emails → "Magic Link" (and "Confirm signup"). Subject: Your Darstudies sign-in code -->
+<div style="font-family:system-ui,sans-serif;max-width:420px;margin:auto;padding:24px;color:#1e293b">
+  <h2 style="color:#6d28d9;margin:0 0 12px">Darstudies</h2>
+  <p>Your sign-in code / Kod log masuk anda:</p>
+  <p style="font-size:32px;font-weight:700;letter-spacing:8px;background:#f5f3ff;border-radius:12px;padding:16px;text-align:center;margin:16px 0">{{ .Token }}</p>
+  <p>Type this code in the app, or tap the button on the same phone or computer.<br>
+     Taip kod ini dalam aplikasi, atau ketik butang pada telefon atau komputer yang sama.</p>
+  <p style="text-align:center;margin:24px 0"><a href="{{ .ConfirmationURL }}" style="background:#6d28d9;color:#fff;text-decoration:none;padding:12px 24px;border-radius:12px;font-weight:600">Sign in / Log masuk</a></p>
+  <p style="font-size:12px;color:#64748b">The code works for 1 hour. If you didn't ask for it, ignore this email.<br>Kod sah selama 1 jam. Jika anda tidak memintanya, abaikan e-mel ini.</p>
+</div>

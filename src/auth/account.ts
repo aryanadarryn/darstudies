@@ -5,6 +5,7 @@ import { create } from 'zustand'
 import { resetContentMemo } from '../content'
 import { clearContentCache } from '../content/remote'
 import { type Access, canUse, type Feature } from './access'
+import { rememberSession } from './lastLogin'
 import { AUTH_ENABLED, supabase } from './supabase'
 import { useSettings } from '../store/settings'
 
@@ -15,6 +16,8 @@ interface AccountState {
   session: Session | null
   /** undefined when accounts are switched off (everything open). */
   access: Access | null | undefined
+  /** An email/OAuth link came back but could not sign the user in (expired, or opened in another browser). */
+  linkFailed: boolean
   init: () => Promise<void>
   refresh: () => Promise<void>
   signOut: () => Promise<void>
@@ -41,15 +44,28 @@ export const useAccount = create<AccountState>((set, get) => ({
   ready: !AUTH_ENABLED,
   session: null,
   access: AUTH_ENABLED ? null : undefined,
+  linkFailed: false,
 
   init: async () => {
     if (!supabase || started) return
     started = true
+    const returned = /[?&#](code|error|error_code)=/.test(location.search + location.hash)
     const { data } = await supabase.auth.getSession()
-    set({ session: data.session })
+    set({ session: data.session, linkFailed: returned && !data.session })
+    // Drop the one-time code or error from the address bar so a reload doesn't retry it.
+    if (returned) {
+      const u = new URL(location.href)
+      for (const k of ['code', 'error', 'error_code', 'error_description']) u.searchParams.delete(k)
+      if (/error|access_token/.test(u.hash)) u.hash = ''
+      history.replaceState(history.state, '', u)
+    }
     if (data.session) {
-      set({ access: readCache(data.session.user.id) })
-      await get().refresh()
+      rememberSession(data.session)
+      const cached = readCache(data.session.user.id)
+      set({ access: cached })
+      // Returning users open straight away on their saved access; the server check updates it in the background.
+      if (cached) void get().refresh()
+      else await get().refresh()
     }
     set({ ready: true })
     supabase.auth.onAuthStateChange((event, session) => {
@@ -60,7 +76,8 @@ export const useAccount = create<AccountState>((set, get) => ({
         return
       }
       if (event === 'SIGNED_IN' && prev !== session.user.id) {
-        set({ access: readCache(session.user.id) })
+        rememberSession(session)
+        set({ linkFailed: false, access: readCache(session.user.id) })
         // Defer: calling Supabase inside this callback can deadlock the auth client.
         setTimeout(() => void get().refresh(), 0)
       }

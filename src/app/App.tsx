@@ -7,6 +7,7 @@ import { isStandalone, setInstallable } from '../lib/installability'
 import { AUTH_ENABLED } from '../auth/supabase'
 import { getKV } from '../db/db'
 import { regeneratePlan } from '../lib/actions'
+import { pullProfile } from '../lib/profile'
 import { addDays, todayISO } from '../planner/dates'
 import { useSettings } from '../store/settings'
 import Layout from './Layout'
@@ -69,6 +70,9 @@ export default function App() {
   useEffect(() => { setInstallable(canInstall(access)) }, [access])
   // Plan generation depends on what the user may open, so wait for the account check.
   useEffect(() => { if (accountReady) load().then(weeklyRefresh) }, [load, accountReady])
+  // Profile edited on another device: take the account's copy once settings are loaded.
+  const userId = session?.user.id
+  useEffect(() => { if (ready && userId) void pullProfile() }, [ready, userId])
   useEffect(() => { document.documentElement.lang = lang === 'bm' ? 'ms' : 'en' }, [lang])
 
   if (!ready || !accountReady) return null

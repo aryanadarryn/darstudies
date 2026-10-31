@@ -7,6 +7,7 @@ import { subjectsOf, subtopicById } from '../content'
 import { formOf } from '../content/ids'
 import FormSwitch, { useForm } from '../components/FormSwitch'
 import AccountCard from '../auth/AccountCard'
+import ProfileCard from '../components/ProfileCard'
 import { downloadBlob, exportBackup, importBackup, resetAll } from '../db/backup'
 import { db, getKV } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -73,6 +74,7 @@ export default function Me() {
     <div>
       <PageHeader title={t('me.title')} />
       <div className="space-y-4 desk:grid desk:grid-cols-2 desk:items-start desk:gap-4 desk:space-y-0">
+      <ProfileCard />
       <AccountCard />
       <section className="card">
         <div className="mb-2 flex items-end justify-between">
