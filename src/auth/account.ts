@@ -49,7 +49,7 @@ export const useAccount = create<AccountState>((set, get) => ({
   init: async () => {
     if (!supabase || started) return
     started = true
-    const returned = /[?&#](code|error|error_code)=/.test(location.search + location.hash)
+    const returned = /[?&#](code|error|error_code|access_token)=/.test(location.search + location.hash)
     const { data } = await supabase.auth.getSession()
     set({ session: data.session, linkFailed: returned && !data.session })
     // Drop the one-time code or error from the address bar so a reload doesn't retry it.

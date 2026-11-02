@@ -3,7 +3,7 @@ import { useT } from '../i18n/useT'
 import { useSettings } from '../store/settings'
 import { useAccount } from './account'
 import { forgetLastLogin, getLastLogin, getPending, setLastLogin, setPending } from './lastLogin'
-import { PROVIDERS, REDIRECT_URL, supabase, type Provider } from './supabase'
+import { enabledProviders, PROVIDERS, REDIRECT_URL, supabase, type Provider } from './supabase'
 
 const ICON: Record<Exclude<Provider, 'email'>, ReactNode> = {
   google: (
@@ -43,8 +43,11 @@ export default function Login() {
   const { t } = useT()
   const { settings, update } = useSettings()
   const linkFailed = useAccount((s) => s.linkFailed)
+  // Start from the build's list, then drop any method switched off in Supabase so no button leads to an error.
+  const [providers, setProviders] = useState(PROVIDERS)
+  useEffect(() => { void enabledProviders().then(setProviders) }, [])
   const [last, setLast] = useState(getLastLogin)
-  const usable = last && PROVIDERS.includes(last.method) && (last.method !== 'email' || !!last.email) ? last : null
+  const usable = last && providers.includes(last.method) && (last.method !== 'email' || !!last.email) ? last : null
   const [showAll, setShowAll] = useState(!usable)
   // A code sent in the last hour: reopening the app (e.g. after checking Gmail) lands back on the code box.
   const [pending, setPendingState] = useState(getPending)
@@ -84,8 +87,12 @@ export default function Login() {
     setMessage(null)
     const { error } = await supabase!.auth.signInWithOtp({ email: to, options: { emailRedirectTo: REDIRECT_URL() } })
     setBusy(null)
-    // 429 means an email went out moments ago, so its code still works.
-    if (error && error.status !== 429) return setMessage({ ok: false, text: t('auth.error') })
+    if (error) {
+      // "only request this after N seconds": an email to this address went out moments ago, so its link still works.
+      // Any other 429 is the project-wide email limit: nothing was sent.
+      const justSent = error.status === 429 && /after \d+ seconds?/i.test(error.message)
+      if (!justSent) return setMessage({ ok: false, text: t(error.status === 429 || error.code === 'email_address_not_authorized' ? 'auth.emailBusy' : 'auth.error') })
+    }
     const p = { email: to, sentAt: Date.now() }
     setPending(p)
     setPendingState(p)
@@ -117,7 +124,7 @@ export default function Login() {
     setShowAll(true)
   }
 
-  const oauthProviders = PROVIDERS.filter((p): p is Exclude<Provider, 'email'> => p !== 'email')
+  const oauthProviders = providers.filter((p): p is Exclude<Provider, 'email'> => p !== 'email')
 
   let panel: ReactNode
   if (pending) {
@@ -177,7 +184,7 @@ export default function Login() {
           </button>
         ))}
 
-        {PROVIDERS.includes('email') && (
+        {providers.includes('email') && (
           <>
             {oauthProviders.length > 0 && (
               <div className="flex items-center gap-3 text-xs muted">
