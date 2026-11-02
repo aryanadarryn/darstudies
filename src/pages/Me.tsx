@@ -12,6 +12,7 @@ import { downloadBlob, exportBackup, importBackup, resetAll } from '../db/backup
 import { db, getKV } from '../db/db'
 import { useT } from '../i18n/useT'
 import { useMastery, useToday } from '../lib/hooks'
+import { ACCENT_VAR, ACCENTS, type Accent } from '../lib/accent'
 import { activeDates, BADGES, computeXP, earnedBadges, levelOf, streakNow, weekStart, XP_PER_LEVEL } from '../lib/progress'
 import { addDays, fromISO, toISO } from '../planner/dates'
 import { useSettings } from '../store/settings'
@@ -115,7 +116,7 @@ export default function Me() {
                 <XAxis dataKey="week" tick={{ fontSize: 10 }} />
                 <YAxis domain={[0, 100]} tick={{ fontSize: 10 }} />
                 <Tooltip formatter={(v) => `${v}%`} />
-                <Line type="monotone" dataKey="value" stroke="#6d28d9" strokeWidth={2.5} connectNulls dot={{ r: 3 }} />
+                <Line type="monotone" dataKey="value" stroke={ACCENT_VAR} strokeWidth={2.5} connectNulls dot={{ r: 3 }} />
               </LineChart>
             </ResponsiveContainer>
           </div>
@@ -166,6 +167,23 @@ export default function Me() {
           <span className="label">{t('me.theme')}</span>
           <Segmented value={settings.theme} onChange={(theme) => update({ theme })}
             options={[{ value: 'system', label: t('me.theme.system') }, { value: 'light', label: t('me.theme.light') }, { value: 'dark', label: t('me.theme.dark') }]} />
+        </div>
+        <div>
+          <span className="label">{t('me.accent')}</span>
+          <div className="flex flex-wrap gap-3" role="radiogroup" aria-label={t('me.accent')}>
+            {(Object.keys(ACCENTS) as Accent[]).map((a) => {
+              const on = (settings.accent ?? 'purple') === a
+              return (
+                <button key={a} role="radio" aria-checked={on} onClick={() => update({ accent: a })} className="flex w-14 flex-col items-center gap-1">
+                  <span style={{ backgroundColor: ACCENTS[a].hex }}
+                    className={`flex h-10 w-10 items-center justify-center rounded-full text-sm text-white ${on ? 'ring-2 ring-offset-2 ring-slate-400 dark:ring-offset-slate-900' : ''}`}>
+                    {on && '✓'}
+                  </span>
+                  <span className={`text-[11px] ${on ? 'font-semibold' : 'muted'}`}>{ACCENTS[a][lang]}</span>
+                </button>
+              )
+            })}
+          </div>
         </div>
         <label className="flex items-center gap-3">
           <span className="flex-1 text-sm font-medium">⏰ {t('me.reminder')}</span>

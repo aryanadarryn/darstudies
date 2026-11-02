@@ -11,6 +11,86 @@
 
 html, body, #root { min-height: 100%; }
 
+/* Colour themes (Me → Settings): the UI uses violet-* classes, re-pointed here at the chosen palette. */
+html[data-accent=pink] {
+  --color-violet-50: var(--color-pink-50);
+  --color-violet-100: var(--color-pink-100);
+  --color-violet-200: var(--color-pink-200);
+  --color-violet-300: var(--color-pink-300);
+  --color-violet-400: var(--color-pink-400);
+  --color-violet-500: var(--color-pink-500);
+  --color-violet-600: var(--color-pink-600);
+  --color-violet-700: var(--color-pink-700);
+  --color-violet-800: var(--color-pink-800);
+  --color-violet-900: var(--color-pink-900);
+  --color-violet-950: var(--color-pink-950);
+}
+html[data-accent=red] {
+  --color-violet-50: var(--color-red-50);
+  --color-violet-100: var(--color-red-100);
+  --color-violet-200: var(--color-red-200);
+  --color-violet-300: var(--color-red-300);
+  --color-violet-400: var(--color-red-400);
+  --color-violet-500: var(--color-red-500);
+  --color-violet-600: var(--color-red-600);
+  --color-violet-700: var(--color-red-700);
+  --color-violet-800: var(--color-red-800);
+  --color-violet-900: var(--color-red-900);
+  --color-violet-950: var(--color-red-950);
+}
+html[data-accent=orange] {
+  --color-violet-50: var(--color-orange-50);
+  --color-violet-100: var(--color-orange-100);
+  --color-violet-200: var(--color-orange-200);
+  --color-violet-300: var(--color-orange-300);
+  --color-violet-400: var(--color-orange-400);
+  --color-violet-500: var(--color-orange-500);
+  --color-violet-600: var(--color-orange-600);
+  --color-violet-700: var(--color-orange-700);
+  --color-violet-800: var(--color-orange-800);
+  --color-violet-900: var(--color-orange-900);
+  --color-violet-950: var(--color-orange-950);
+}
+html[data-accent=green] {
+  --color-violet-50: var(--color-green-50);
+  --color-violet-100: var(--color-green-100);
+  --color-violet-200: var(--color-green-200);
+  --color-violet-300: var(--color-green-300);
+  --color-violet-400: var(--color-green-400);
+  --color-violet-500: var(--color-green-500);
+  --color-violet-600: var(--color-green-600);
+  --color-violet-700: var(--color-green-700);
+  --color-violet-800: var(--color-green-800);
+  --color-violet-900: var(--color-green-900);
+  --color-violet-950: var(--color-green-950);
+}
+html[data-accent=teal] {
+  --color-violet-50: var(--color-teal-50);
+  --color-violet-100: var(--color-teal-100);
+  --color-violet-200: var(--color-teal-200);
+  --color-violet-300: var(--color-teal-300);
+  --color-violet-400: var(--color-teal-400);
+  --color-violet-500: var(--color-teal-500);
+  --color-violet-600: var(--color-teal-600);
+  --color-violet-700: var(--color-teal-700);
+  --color-violet-800: var(--color-teal-800);
+  --color-violet-900: var(--color-teal-900);
+  --color-violet-950: var(--color-teal-950);
+}
+html[data-accent=blue] {
+  --color-violet-50: var(--color-blue-50);
+  --color-violet-100: var(--color-blue-100);
+  --color-violet-200: var(--color-blue-200);
+  --color-violet-300: var(--color-blue-300);
+  --color-violet-400: var(--color-blue-400);
+  --color-violet-500: var(--color-blue-500);
+  --color-violet-600: var(--color-blue-600);
+  --color-violet-700: var(--color-blue-700);
+  --color-violet-800: var(--color-blue-800);
+  --color-violet-900: var(--color-blue-900);
+  --color-violet-950: var(--color-blue-950);
+}
+
 body {
   @apply bg-slate-50 text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100;
   -webkit-tap-highlight-color: transparent;

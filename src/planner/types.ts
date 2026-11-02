@@ -1,5 +1,6 @@
 import type { Form } from '../content/ids'
 import type { SubjectId } from '../content/schema'
+import type { Accent } from '../lib/accent'
 import type { Profile } from '../lib/profile'
 
 export type TaskType = 'intro' | 'quiz' | 'flashcards' | 'formula-drill' | 'tool' | 'review' | 'rest'
@@ -34,6 +35,8 @@ export interface Exam { id: string; name: string; date: string }
 export interface Settings {
   lang: 'en' | 'bm'
   theme: 'system' | 'light' | 'dark'
+  /** Colour theme for buttons and highlights; purple when missing. */
+  accent?: Accent
   onboarded: boolean
   schoolStart: string
   /** First day the plan was ever generated; phase B (bridge) runs for 14 days from here. */

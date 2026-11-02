@@ -7,6 +7,7 @@ import { isStandalone, setInstallable } from '../lib/installability'
 import { AUTH_ENABLED } from '../auth/supabase'
 import { getKV } from '../db/db'
 import { regeneratePlan } from '../lib/actions'
+import { ACCENTS } from '../lib/accent'
 import { pullProfile } from '../lib/profile'
 import { addDays, todayISO } from '../planner/dates'
 import { useSettings } from '../store/settings'
@@ -39,17 +40,19 @@ const AdminSettings = lazy(() => import('../admin/AdminSettings'))
 
 function useTheme() {
   const theme = useSettings((s) => s.settings.theme)
+  const accent = useSettings((s) => s.settings.accent) ?? 'purple'
   useEffect(() => {
     const mq = window.matchMedia('(prefers-color-scheme: dark)')
     const apply = () => {
       const dark = theme === 'dark' || (theme === 'system' && mq.matches)
       document.documentElement.classList.toggle('dark', dark)
-      document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#020617' : '#6d28d9')
+      document.documentElement.dataset.accent = accent
+      document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#020617' : ACCENTS[accent].hex)
     }
     apply()
     mq.addEventListener('change', apply)
     return () => mq.removeEventListener('change', apply)
-  }, [theme])
+  }, [theme, accent])
 }
 
 /** Refresh the plan once a week so new weak topics and finished chapters are taken into account. */

@@ -11,6 +11,7 @@ import Mcq from './Mcq'
 import Multi from './Multi'
 import Numeric from './Numeric'
 import Order from './Order'
+import { ACCENT_VAR } from '../../lib/accent'
 
 const initialResponse = (q: Question): QuizResponse | undefined =>
   q.type === 'order' ? shuffleIndices(q.items.length) : q.type === 'match' ? Array<number>(q.pairs.length).fill(-1) : undefined
@@ -36,7 +37,7 @@ function QuestionBody({ q, ...p }: { q: Question; value: QuizResponse | undefine
 
 export interface QuizResult { correct: number; total: number }
 
-export default function QuizRunner({ questions, color = '#6d28d9', onFinish, onRestart, onDone }: {
+export default function QuizRunner({ questions, color = ACCENT_VAR, onFinish, onRestart, onDone }: {
   questions: Question[]
   color?: string
   onFinish?: (r: QuizResult) => void
