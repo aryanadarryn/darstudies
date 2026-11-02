@@ -73,6 +73,13 @@ export function UserEditor({ user, plans, onClose, onSaved }: { user: AdminUser;
     await callFunction('admin-users', { action: 'delete', user_id: user.id })
   })
 
+  const setPassword = () => run(async () => {
+    const password = prompt(`New password for ${user.email} (at least 6 characters). Tell the user so they can sign in with it.`)
+    if (!password) throw new Error('Cancelled')
+    await callFunction('admin-users', { action: 'set_password', user_id: user.id, password })
+    alert('Password changed.')
+  })
+
   return (
     <Modal title={user.email ?? 'User'} onClose={onClose}>
       <div className="space-y-4">
@@ -121,7 +128,10 @@ export function UserEditor({ user, plans, onClose, onSaved }: { user: AdminUser;
 
         <ErrorNote error={error && (error as Error).message !== 'Cancelled' ? error : null} />
         <div className="flex flex-wrap justify-between gap-2">
-          <button className="btn-ghost text-red-600" onClick={deleteUser} disabled={busy || user.id === me}>Delete user</button>
+          <div className="flex flex-wrap gap-2">
+            <button className="btn-ghost" onClick={setPassword} disabled={busy}>🔑 Set new password</button>
+            <button className="btn-ghost text-red-600" onClick={deleteUser} disabled={busy || user.id === me}>Delete user</button>
+          </div>
           <div className="flex gap-2">
             <button className="btn-secondary" onClick={onClose}>Cancel</button>
             <button className="btn-primary disabled:opacity-60" onClick={save} disabled={busy || !trialEnd}>{busy ? 'Saving…' : 'Save'}</button>

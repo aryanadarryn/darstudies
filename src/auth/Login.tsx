@@ -1,8 +1,9 @@
 import { useEffect, useState, type ReactNode } from 'react'
+import type { StringKey } from '../i18n/strings'
 import { useT } from '../i18n/useT'
 import { useSettings } from '../store/settings'
 import { useAccount } from './account'
-import { forgetLastLogin, getLastLogin, getPending, setLastLogin, setPending } from './lastLogin'
+import { forgetLastLogin, getLastLogin, setLastLogin } from './lastLogin'
 import { enabledProviders, PROVIDERS, REDIRECT_URL, supabase, type Provider } from './supabase'
 
 const ICON: Record<Exclude<Provider, 'email'>, ReactNode> = {
@@ -32,12 +33,24 @@ const ICON: Record<Exclude<Provider, 'email'>, ReactNode> = {
   ),
 }
 
-/** Supabase lets one address request a new email every 60 seconds. */
-const RESEND_S = 60
+/** Supabase's default minimum password length. */
+const MIN_PASSWORD = 6
 
 const btnOutline = 'flex min-h-12 w-full items-center justify-center gap-3 rounded-xl border border-slate-300 bg-white px-4 text-sm font-semibold text-slate-800 transition hover:bg-slate-50 disabled:opacity-60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800'
 const inputCls = 'min-h-12 w-full rounded-xl border border-slate-300 bg-white px-3 text-base dark:border-slate-700 dark:bg-slate-900'
 const linkCls = 'font-semibold text-violet-700 dark:text-violet-300'
+
+/** Supabase error codes → message keys. */
+const ERRORS: Record<string, StringKey> = {
+  invalid_credentials: 'auth.wrongPassword',
+  user_already_exists: 'auth.exists',
+  email_exists: 'auth.exists',
+  weak_password: 'auth.weakPassword',
+  email_not_confirmed: 'auth.notConfirmed',
+  signup_disabled: 'auth.signupOff',
+  email_provider_disabled: 'auth.signupOff',
+  over_email_send_rate_limit: 'auth.notConfirmed',
+}
 
 export default function Login() {
   const { t } = useT()
@@ -49,20 +62,12 @@ export default function Login() {
   const [last, setLast] = useState(getLastLogin)
   const usable = last && providers.includes(last.method) && (last.method !== 'email' || !!last.email) ? last : null
   const [showAll, setShowAll] = useState(!usable)
-  // A code sent in the last hour: reopening the app (e.g. after checking Gmail) lands back on the code box.
-  const [pending, setPendingState] = useState(getPending)
-  const [email, setEmail] = useState(pending?.email ?? last?.email ?? '')
-  const [code, setCode] = useState('')
-  const [now, setNow] = useState(Date.now())
+  const [mode, setMode] = useState<'signin' | 'signup'>(last ? 'signin' : 'signup')
+  const [email, setEmail] = useState(last?.email ?? '')
+  const [password, setPassword] = useState('')
+  const [showPassword, setShowPassword] = useState(false)
   const [busy, setBusy] = useState<string | null>(null)
   const [message, setMessage] = useState<{ ok: boolean; text: string } | null>(linkFailed ? { ok: false, text: t('auth.linkFailed') } : null)
-
-  const wait = pending ? Math.max(0, Math.ceil((pending.sentAt + RESEND_S * 1000 - now) / 1000)) : 0
-  useEffect(() => {
-    if (!wait) return
-    const id = setInterval(() => setNow(Date.now()), 1000)
-    return () => clearInterval(id)
-  }, [wait])
 
   const oauth = async (provider: Exclude<Provider, 'email'>) => {
     if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
@@ -80,85 +85,84 @@ export default function Login() {
     }
   }
 
-  const sendCode = async (raw: string) => {
-    const to = raw.trim().toLowerCase()
-    if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
-    setBusy('email')
-    setMessage(null)
-    const { error } = await supabase!.auth.signInWithOtp({ email: to, options: { emailRedirectTo: REDIRECT_URL() } })
-    setBusy(null)
-    if (error) {
-      // "only request this after N seconds": an email to this address went out moments ago, so its link still works.
-      // Any other 429 is the project-wide email limit: nothing was sent.
-      const justSent = error.status === 429 && /after \d+ seconds?/i.test(error.message)
-      if (!justSent) return setMessage({ ok: false, text: t(error.status === 429 || error.code === 'email_address_not_authorized' ? 'auth.emailBusy' : 'auth.error') })
-    }
-    const p = { email: to, sentAt: Date.now() }
-    setPending(p)
-    setPendingState(p)
-    setNow(p.sentAt)
-    setCode('')
-    setLastLogin({ method: 'email', email: to })
-    setLast({ method: 'email', email: to })
-  }
-
-  const verify = async (e: React.FormEvent) => {
+  const submit = async (e: React.FormEvent) => {
     e.preventDefault()
-    if (!pending) return
     if (!navigator.onLine) return setMessage({ ok: false, text: t('auth.offline') })
-    setBusy('verify')
+    const address = email.trim().toLowerCase()
+    if (password.length < MIN_PASSWORD) return setMessage({ ok: false, text: t('auth.weakPassword') })
+    setBusy('password')
     setMessage(null)
-    const { error } = await supabase!.auth.verifyOtp({ email: pending.email, token: code, type: 'email' })
+    const { data, error } = mode === 'signin'
+      ? await supabase!.auth.signInWithPassword({ email: address, password })
+      : await supabase!.auth.signUp({ email: address, password })
     setBusy(null)
-    // On success the account store picks up the session and the app replaces this screen.
-    if (error) setMessage({ ok: false, text: t('auth.badCode') })
+    if (error) return setMessage({ ok: false, text: t(ERRORS[error.code ?? ''] ?? 'auth.error') })
+    // No session after sign-up means Supabase still wants the address confirmed by email.
+    if (!data.session) return setMessage({ ok: false, text: t('auth.notConfirmed') })
+    // Signed in: the account store picks up the session and the app replaces this screen.
+    setLastLogin({ method: 'email', email: address })
   }
 
-  const changeEmail = () => {
-    setPending(null)
-    setPendingState(null)
+  const switchAccount = () => {
     forgetLastLogin()
     setLast(null)
     setEmail('')
+    setPassword('')
     setMessage(null)
     setShowAll(true)
   }
 
   const oauthProviders = providers.filter((p): p is Exclude<Provider, 'email'> => p !== 'email')
+  const returning = !showAll && usable?.method === 'email'
+
+  const passwordForm = (
+    <form onSubmit={submit} className="space-y-2">
+      {!returning && (
+        <div className="grid grid-cols-2 gap-1 rounded-xl bg-slate-100 p-1 text-sm font-semibold dark:bg-slate-800">
+          {(['signin', 'signup'] as const).map((m) => (
+            <button key={m} type="button" aria-pressed={mode === m} onClick={() => { setMode(m); setMessage(null) }}
+              className={`rounded-lg py-2 ${mode === m ? 'bg-white shadow-sm dark:bg-slate-900' : 'muted'}`}>
+              {t(m === 'signin' ? 'auth.tabSignIn' : 'auth.tabSignUp')}
+            </button>
+          ))}
+        </div>
+      )}
+      {returning ? (
+        <p className="truncate text-center text-sm"><strong>{email}</strong></p>
+      ) : (
+        <>
+          <label className="block text-sm font-medium" htmlFor="login-email">{t('auth.email')}</label>
+          <input id="login-email" type="email" required autoComplete={mode === 'signin' ? 'username' : 'email'} value={email}
+            onChange={(e) => setEmail(e.target.value)} className={inputCls} />
+        </>
+      )}
+      {/* Hidden username keeps password managers matching the saved login when only the password box shows. */}
+      {returning && <input type="email" autoComplete="username" value={email} readOnly hidden />}
+      <label className="block text-sm font-medium" htmlFor="login-password">{t('auth.password')}</label>
+      <div className="relative">
+        <input id="login-password" type={showPassword ? 'text' : 'password'} required minLength={MIN_PASSWORD} autoFocus={returning}
+          autoComplete={mode === 'signin' ? 'current-password' : 'new-password'} value={password}
+          onChange={(e) => setPassword(e.target.value)} className={`${inputCls} pr-16`} />
+        <button type="button" onClick={() => setShowPassword((s) => !s)} className="absolute inset-y-0 right-0 px-3 text-xs font-semibold muted">
+          {t(showPassword ? 'auth.hide' : 'auth.show')}
+        </button>
+      </div>
+      {mode === 'signup' && <p className="text-xs muted">{t('auth.passwordHint')}</p>}
+      <button type="submit" disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
+        {busy === 'password' ? t('common.loading') : t(mode === 'signin' ? 'auth.tabSignIn' : 'auth.createAccount')}
+      </button>
+      {mode === 'signin' && <p className="text-center text-xs muted">{t('auth.forgot')}</p>}
+    </form>
+  )
 
   let panel: ReactNode
-  if (pending) {
-    panel = (
-      <form onSubmit={verify} className="space-y-3">
-        <h2 className="text-center font-semibold">{t('auth.code')}</h2>
-        <p className="text-center text-sm">{t('auth.codeSent')} <strong className="break-all">{pending.email}</strong></p>
-        <p className="text-center text-xs muted">{t('auth.codeHint')}</p>
-        <input aria-label={t('auth.code')} inputMode="numeric" autoComplete="one-time-code" required autoFocus
-          maxLength={10} value={code} onChange={(e) => setCode(e.target.value.replace(/\D/g, ''))}
-          className={`${inputCls} text-center font-mono text-2xl tracking-[0.4em]`} />
-        <button type="submit" disabled={!!busy || code.length < 6} className="btn-primary w-full disabled:opacity-60">
-          {busy === 'verify' ? t('common.loading') : t('auth.verify')}
-        </button>
-        <div className="flex items-center justify-between gap-2 text-sm">
-          <button type="button" onClick={changeEmail} className={linkCls}>{t('auth.changeEmail')}</button>
-          <button type="button" onClick={() => sendCode(pending.email)} disabled={!!busy || wait > 0}
-            className={`${linkCls} disabled:font-normal disabled:text-slate-500`}>
-            {wait > 0 ? `${t('auth.resendIn')} ${wait}s` : t('auth.resend')}
-          </button>
-        </div>
-      </form>
-    )
-  } else if (!showAll && usable) {
-    // Returning user on this device: one tap.
+  if (!showAll && usable) {
+    // Returning user on this device: their email is already filled in, or one tap for Google/Facebook.
     const m = usable.method
     panel = (
       <div className="space-y-3">
         <h2 className="text-center font-semibold">{t('auth.welcomeBack')}</h2>
-        {m === 'email' ? (
-          <button onClick={() => sendCode(usable.email!)} disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
-            <span className="block truncate">{busy === 'email' ? t('common.loading') : `${t('auth.continueAs')} ${usable.email}`}</span>
-          </button>
-        ) : (
+        {m === 'email' ? passwordForm : (
           <>
             <button onClick={() => oauth(m)} disabled={!!busy} className={btnOutline}>
               {ICON[m]}
@@ -169,7 +173,7 @@ export default function Login() {
         )}
         <div className="flex items-center justify-between gap-2 text-sm">
           <button onClick={() => setShowAll(true)} className={linkCls}>{t('auth.otherWays')}</button>
-          <button onClick={changeEmail} className="muted">{t('auth.changeEmail')}</button>
+          <button onClick={switchAccount} className="muted">{t('auth.changeEmail')}</button>
         </div>
       </div>
     )
@@ -191,13 +195,7 @@ export default function Login() {
                 <span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />{t('auth.or')}<span className="h-px flex-1 bg-slate-200 dark:bg-slate-700" />
               </div>
             )}
-            <form onSubmit={(e) => { e.preventDefault(); void sendCode(email) }} className="space-y-2">
-              <label className="block text-sm font-medium" htmlFor="login-email">{t('auth.email')}</label>
-              <input id="login-email" type="email" required autoComplete="email" value={email} onChange={(e) => setEmail(e.target.value)} className={inputCls} />
-              <button type="submit" disabled={!!busy} className="btn-primary w-full disabled:opacity-60">
-                {busy === 'email' ? t('common.loading') : t('auth.sendLink')}
-              </button>
-            </form>
+            {passwordForm}
           </>
         )}
       </>
