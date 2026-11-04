@@ -1,0 +1,403 @@
+{
+  "chapterId": "f2bi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A good email gets a reply, a good story keeps readers guessing, and a good review helps someone decide.",
+      "bm": "A good email gets a reply, a good story keeps readers guessing, and a good review helps someone decide."
+    },
+    "bigIdeas": [
+      {
+        "en": "Match your style to your reader.",
+        "bm": "Match your style to your reader."
+      },
+      {
+        "en": "Stories need a clear sequence.",
+        "bm": "Stories need a clear sequence."
+      },
+      {
+        "en": "Reviews give an opinion with reasons.",
+        "bm": "Reviews give an opinion with reasons."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Plan",
+              "bm": "Plan"
+            },
+            "detail": {
+              "en": "Purpose and reader",
+              "bm": "Purpose and reader"
+            }
+          },
+          {
+            "title": {
+              "en": "Draft",
+              "bm": "Draft"
+            },
+            "detail": {
+              "en": "Write your ideas",
+              "bm": "Write your ideas"
+            }
+          },
+          {
+            "title": {
+              "en": "Edit",
+              "bm": "Edit"
+            },
+            "detail": {
+              "en": "Check grammar and spelling",
+              "bm": "Check grammar and spelling"
+            }
+          },
+          {
+            "title": {
+              "en": "Publish",
+              "bm": "Publish"
+            },
+            "detail": {
+              "en": "Send or hand in",
+              "bm": "Send or hand in"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Informal",
+          "bm": "Informal"
+        },
+        "definition": {
+          "en": "Friendly style for people you know.",
+          "bm": "Friendly style for people you know."
+        }
+      },
+      {
+        "term": {
+          "en": "Sequence word",
+          "bm": "Sequence word"
+        },
+        "definition": {
+          "en": "first, then, finally.",
+          "bm": "first, then, finally."
+        }
+      },
+      {
+        "term": {
+          "en": "Review",
+          "bm": "Review"
+        },
+        "definition": {
+          "en": "Writing that gives an opinion about something.",
+          "bm": "Writing that gives an opinion about something."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-05-q01",
+      "subtopicId": "f2bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A friendly email can start with…",
+        "bm": "A friendly email can start with…"
+      },
+      "explanation": {
+        "en": "Informal greeting.",
+        "bm": "Informal greeting."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hi Sam,",
+          "bm": "Hi Sam,"
+        },
+        {
+          "en": "Dear Sir,",
+          "bm": "Dear Sir,"
+        },
+        {
+          "en": "To whom it may concern,",
+          "bm": "To whom it may concern,"
+        },
+        {
+          "en": "Yours faithfully,",
+          "bm": "Yours faithfully,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q02",
+      "subtopicId": "f2bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A suitable ending to a friend is…",
+        "bm": "A suitable ending to a friend is…"
+      },
+      "explanation": {
+        "en": "Informal closing.",
+        "bm": "Informal closing."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Take care,",
+          "bm": "Take care,"
+        },
+        {
+          "en": "Yours faithfully,",
+          "bm": "Yours faithfully,"
+        },
+        {
+          "en": "Dear Sir,",
+          "bm": "Dear Sir,"
+        },
+        {
+          "en": "Regards to the board,",
+          "bm": "Regards to the board,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q03",
+      "subtopicId": "f2bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A formal email should avoid…",
+        "bm": "A formal email should avoid…"
+      },
+      "explanation": {
+        "en": "Keep the tone respectful.",
+        "bm": "Keep the tone respectful."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "slang and emojis",
+          "bm": "slang and emojis"
+        },
+        {
+          "en": "polite words",
+          "bm": "polite words"
+        },
+        {
+          "en": "clear subject",
+          "bm": "clear subject"
+        },
+        {
+          "en": "correct spelling",
+          "bm": "correct spelling"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q04",
+      "subtopicId": "f2bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A story usually has…",
+        "bm": "A story usually has…"
+      },
+      "explanation": {
+        "en": "Basic structure.",
+        "bm": "Basic structure."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a beginning, middle and end",
+          "bm": "a beginning, middle and end"
+        },
+        {
+          "en": "only an ending",
+          "bm": "only an ending"
+        },
+        {
+          "en": "a list of prices",
+          "bm": "a list of prices"
+        },
+        {
+          "en": "no characters",
+          "bm": "no characters"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q05",
+      "subtopicId": "f2bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word shows sequence?",
+        "bm": "Which word shows sequence?"
+      },
+      "explanation": {
+        "en": "It shows what happened next.",
+        "bm": "It shows what happened next."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Afterwards",
+          "bm": "Afterwards"
+        },
+        {
+          "en": "Because",
+          "bm": "Because"
+        },
+        {
+          "en": "Although",
+          "bm": "Although"
+        },
+        {
+          "en": "However",
+          "bm": "However"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q06",
+      "subtopicId": "f2bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A strong story opening…",
+        "bm": "A strong story opening…"
+      },
+      "explanation": {
+        "en": "Hook the reader.",
+        "bm": "Hook the reader."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "makes readers curious",
+          "bm": "makes readers curious"
+        },
+        {
+          "en": "gives the ending",
+          "bm": "gives the ending"
+        },
+        {
+          "en": "lists characters only",
+          "bm": "lists characters only"
+        },
+        {
+          "en": "is the longest paragraph",
+          "bm": "is the longest paragraph"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q07",
+      "subtopicId": "f2bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A review should include…",
+        "bm": "A review should include…"
+      },
+      "explanation": {
+        "en": "Reasons support your view.",
+        "bm": "Reasons support your view."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "your opinion with reasons",
+          "bm": "your opinion with reasons"
+        },
+        {
+          "en": "only the title",
+          "bm": "only the title"
+        },
+        {
+          "en": "a shopping list",
+          "bm": "a shopping list"
+        },
+        {
+          "en": "no opinion",
+          "bm": "no opinion"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q08",
+      "subtopicId": "f2bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a useful review phrase?",
+        "bm": "Which is a useful review phrase?"
+      },
+      "explanation": {
+        "en": "It gives a recommendation.",
+        "bm": "It gives a recommendation."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "I would highly recommend it because…",
+          "bm": "I would highly recommend it because…"
+        },
+        {
+          "en": "Once upon a time…",
+          "bm": "Once upon a time…"
+        },
+        {
+          "en": "Dear Sir…",
+          "bm": "Dear Sir…"
+        },
+        {
+          "en": "First of all, the recipe…",
+          "bm": "First of all, the recipe…"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-05-q09",
+      "subtopicId": "f2bi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Good descriptions use…",
+        "bm": "Good descriptions use…"
+      },
+      "explanation": {
+        "en": "Appeal to the senses.",
+        "bm": "Appeal to the senses."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "adjectives and senses",
+          "bm": "adjectives and senses"
+        },
+        {
+          "en": "only numbers",
+          "bm": "only numbers"
+        },
+        {
+          "en": "no verbs",
+          "bm": "no verbs"
+        },
+        {
+          "en": "only names",
+          "bm": "only names"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

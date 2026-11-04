@@ -1,0 +1,482 @@
+{
+  "chapterId": "f2sci-13",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A \"shooting star\" is not a star at all. It is usually a grain of space dust burning up about 80 km above you.",
+      "bm": "\"Tahi bintang\" bukan bintang. Ia biasanya butiran debu angkasa yang terbakar kira-kira 80 km di atas anda."
+    },
+    "bigIdeas": [
+      {
+        "en": "Asteroids are rocky bodies; most are between Mars and Jupiter.",
+        "bm": "Asteroid ialah jasad berbatu; kebanyakannya antara Marikh dan Musytari."
+      },
+      {
+        "en": "Comets are icy bodies that grow tails near the Sun.",
+        "bm": "Komet ialah jasad berais yang membentuk ekor apabila hampir dengan Matahari."
+      },
+      {
+        "en": "A meteoroid becomes a meteor, and may land as a meteorite.",
+        "bm": "Meteoroid menjadi meteor, dan mungkin jatuh sebagai meteorit."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Meteoroid",
+              "bm": "Meteoroid"
+            },
+            "detail": {
+              "en": "Small rock in space",
+              "bm": "Batu kecil di angkasa"
+            }
+          },
+          {
+            "title": {
+              "en": "Meteor",
+              "bm": "Meteor"
+            },
+            "detail": {
+              "en": "Burns in the atmosphere",
+              "bm": "Terbakar dalam atmosfera"
+            }
+          },
+          {
+            "title": {
+              "en": "Meteorite",
+              "bm": "Meteorit"
+            },
+            "detail": {
+              "en": "Reaches the ground",
+              "bm": "Sampai ke tanah"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Asteroid",
+          "bm": "Asteroid"
+        },
+        "definition": {
+          "en": "A rocky body orbiting the Sun.",
+          "bm": "Jasad berbatu yang mengorbit Matahari."
+        }
+      },
+      {
+        "term": {
+          "en": "Comet",
+          "bm": "Komet"
+        },
+        "definition": {
+          "en": "A body of ice and dust with an orbit around the Sun.",
+          "bm": "Jasad ais dan debu yang mengorbit Matahari."
+        }
+      },
+      {
+        "term": {
+          "en": "Meteor",
+          "bm": "Meteor"
+        },
+        "definition": {
+          "en": "A streak of light from a burning meteoroid.",
+          "bm": "Jalur cahaya daripada meteoroid yang terbakar."
+        }
+      },
+      {
+        "term": {
+          "en": "Meteorite",
+          "bm": "Meteorit"
+        },
+        "definition": {
+          "en": "A piece that reaches Earth's surface.",
+          "bm": "Kepingan yang sampai ke permukaan Bumi."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-13-q01",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The asteroid belt lies between…",
+        "bm": "Lingkaran asteroid terletak antara…"
+      },
+      "explanation": {
+        "en": "Most asteroids orbit there.",
+        "bm": "Kebanyakan asteroid mengorbit di situ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Mars and Jupiter",
+          "bm": "Marikh dan Musytari"
+        },
+        {
+          "en": "Earth and Mars",
+          "bm": "Bumi dan Marikh"
+        },
+        {
+          "en": "Venus and Earth",
+          "bm": "Zuhrah dan Bumi"
+        },
+        {
+          "en": "Saturn and Uranus",
+          "bm": "Zuhal dan Uranus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q02",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A \"shooting star\" is really a…",
+        "bm": "\"Tahi bintang\" sebenarnya…"
+      },
+      "explanation": {
+        "en": "It is a meteoroid burning up.",
+        "bm": "Ia meteoroid yang terbakar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "meteor",
+          "bm": "meteor"
+        },
+        {
+          "en": "star",
+          "bm": "bintang"
+        },
+        {
+          "en": "planet",
+          "bm": "planet"
+        },
+        {
+          "en": "satellite",
+          "bm": "satelit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q03",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A comet is made mainly of…",
+        "bm": "Komet terdiri terutamanya daripada…"
+      },
+      "explanation": {
+        "en": "Often called a \"dirty snowball\".",
+        "bm": "Sering digelar \"bola salji kotor\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ice and dust",
+          "bm": "ais dan debu"
+        },
+        {
+          "en": "iron only",
+          "bm": "besi sahaja"
+        },
+        {
+          "en": "hot gas",
+          "bm": "gas panas"
+        },
+        {
+          "en": "water only",
+          "bm": "air sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q04",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A comet's tail points…",
+        "bm": "Ekor komet menghala…"
+      },
+      "explanation": {
+        "en": "Sunlight and the solar wind push it away.",
+        "bm": "Cahaya matahari dan angin suria menolaknya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "away from the Sun",
+          "bm": "menjauhi Matahari"
+        },
+        {
+          "en": "towards the Sun",
+          "bm": "ke arah Matahari"
+        },
+        {
+          "en": "towards Earth",
+          "bm": "ke arah Bumi"
+        },
+        {
+          "en": "always downwards",
+          "bm": "sentiasa ke bawah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q05",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which comet returns about every 76 years?",
+        "bm": "Komet manakah kembali kira-kira setiap 76 tahun?"
+      },
+      "explanation": {
+        "en": "It last passed in 1986.",
+        "bm": "Ia terakhir melintas pada 1986."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Halley's Comet",
+          "bm": "Komet Halley"
+        },
+        {
+          "en": "Hale-Bopp",
+          "bm": "Hale-Bopp"
+        },
+        {
+          "en": "NEOWISE",
+          "bm": "NEOWISE"
+        },
+        {
+          "en": "Ceres",
+          "bm": "Ceres"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q06",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A piece of rock that reaches the ground is a…",
+        "bm": "Batu yang sampai ke tanah dinamakan…"
+      },
+      "explanation": {
+        "en": "-ite means it landed.",
+        "bm": "-it bermaksud ia jatuh ke Bumi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "meteorite",
+          "bm": "meteorit"
+        },
+        {
+          "en": "meteor",
+          "bm": "meteor"
+        },
+        {
+          "en": "comet",
+          "bm": "komet"
+        },
+        {
+          "en": "moon",
+          "bm": "bulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q07",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do most meteoroids not reach Earth's surface?",
+        "bm": "Mengapa kebanyakan meteoroid tidak sampai ke permukaan Bumi?"
+      },
+      "explanation": {
+        "en": "Friction with air heats them.",
+        "bm": "Geseran dengan udara memanaskannya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They burn up in the atmosphere",
+          "bm": "Terbakar dalam atmosfera"
+        },
+        {
+          "en": "They bounce off the Moon",
+          "bm": "Melantun dari Bulan"
+        },
+        {
+          "en": "Gravity repels them",
+          "bm": "Graviti menolaknya"
+        },
+        {
+          "en": "They turn into water",
+          "bm": "Bertukar menjadi air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q08",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An asteroid impact can cause…",
+        "bm": "Hentaman asteroid boleh menyebabkan…"
+      },
+      "explanation": {
+        "en": "An impact is linked to the extinction of the dinosaurs.",
+        "bm": "Satu hentaman dikaitkan dengan kepupusan dinosaur."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "craters and major climate changes",
+          "bm": "kawah dan perubahan iklim besar"
+        },
+        {
+          "en": "more moons",
+          "bm": "lebih banyak bulan"
+        },
+        {
+          "en": "more stars",
+          "bm": "lebih banyak bintang"
+        },
+        {
+          "en": "longer years",
+          "bm": "tahun lebih panjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q09",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a difference between asteroids and comets?",
+        "bm": "Yang manakah perbezaan antara asteroid dan komet?"
+      },
+      "explanation": {
+        "en": "Composition is the main difference.",
+        "bm": "Komposisi ialah perbezaan utama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Asteroids are rocky; comets are icy",
+          "bm": "Asteroid berbatu; komet berais"
+        },
+        {
+          "en": "Comets are bigger than the Sun",
+          "bm": "Komet lebih besar daripada Matahari"
+        },
+        {
+          "en": "Asteroids shine by fusion",
+          "bm": "Asteroid bersinar melalui pelakuran"
+        },
+        {
+          "en": "Comets have no orbit",
+          "bm": "Komet tiada orbit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q10",
+      "subtopicId": "f2sci-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do agencies track near-Earth objects?",
+        "bm": "Mengapa agensi menjejaki objek berhampiran Bumi?"
+      },
+      "explanation": {
+        "en": "Early warning allows preparation.",
+        "bm": "Amaran awal membolehkan persediaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To give warning of possible collisions",
+          "bm": "Untuk memberi amaran kemungkinan perlanggaran"
+        },
+        {
+          "en": "To change the seasons",
+          "bm": "Untuk mengubah musim"
+        },
+        {
+          "en": "To measure rainfall",
+          "bm": "Untuk mengukur hujan"
+        },
+        {
+          "en": "To stop the Sun",
+          "bm": "Untuk menghentikan Matahari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-13-q11",
+      "subtopicId": "f2sci-13-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the term with where it is.",
+        "bm": "Padankan istilah dengan tempatnya."
+      },
+      "explanation": {
+        "en": "Same object, three names.",
+        "bm": "Objek sama, tiga nama."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Meteoroid",
+            "bm": "Meteoroid"
+          },
+          "right": {
+            "en": "in space",
+            "bm": "di angkasa"
+          }
+        },
+        {
+          "left": {
+            "en": "Meteor",
+            "bm": "Meteor"
+          },
+          "right": {
+            "en": "in the atmosphere",
+            "bm": "dalam atmosfera"
+          }
+        },
+        {
+          "left": {
+            "en": "Meteorite",
+            "bm": "Meteorit"
+          },
+          "right": {
+            "en": "on the ground",
+            "bm": "di tanah"
+          }
+        }
+      ]
+    }
+  ]
+}

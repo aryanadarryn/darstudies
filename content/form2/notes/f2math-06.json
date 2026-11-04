@@ -1,0 +1,214 @@
+{
+  "chapterId": "f2math-06",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-06-01": {
+      "keyPoints": [
+        {
+          "en": "Prisms and cylinders have two identical ends.",
+          "bm": "Prisma dan silinder ada dua hujung yang sama."
+        },
+        {
+          "en": "Pyramids and cones narrow to a point.",
+          "bm": "Piramid dan kon menirus ke satu titik."
+        },
+        {
+          "en": "Count faces, edges and vertices to describe a solid.",
+          "bm": "Kira permukaan, tepi dan bucu untuk menghuraikan pepejal."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Vertex",
+            "bm": "Bucu"
+          },
+          "meaning": {
+            "en": "Corner.",
+            "bm": "Penjuru."
+          }
+        },
+        {
+          "term": {
+            "en": "Edge",
+            "bm": "Tepi"
+          },
+          "meaning": {
+            "en": "Line where faces meet.",
+            "bm": "Garis pertemuan permukaan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/shapes3d.svg",
+          "alt": {
+            "en": "Common three-dimensional shapes.",
+            "bm": "Bentuk tiga dimensi yang biasa."
+          },
+          "caption": {
+            "en": "Common three-dimensional shapes.",
+            "bm": "Bentuk tiga dimensi yang biasa."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Vertices of a cube?",
+          "bm": "Bucu kubus?"
+        },
+        "answer": {
+          "en": "8",
+          "bm": "8"
+        }
+      },
+      "tip": {
+        "en": "Sketch the solid and tick each edge as you count.",
+        "bm": "Lakar pepejal dan tanda setiap tepi semasa mengira."
+      }
+    },
+    "f2math-06-02": {
+      "keyPoints": [
+        {
+          "en": "A net is the solid opened out flat.",
+          "bm": "Bentangan ialah pepejal yang dibuka rata."
+        },
+        {
+          "en": "A solid can have several different nets.",
+          "bm": "Satu pepejal boleh ada beberapa bentangan."
+        },
+        {
+          "en": "A cylinder's curved part is a rectangle.",
+          "bm": "Bahagian melengkung silinder ialah segi empat tepat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Net",
+            "bm": "Bentangan"
+          },
+          "meaning": {
+            "en": "Flat pattern of a solid.",
+            "bm": "Corak rata pepejal."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/nets.svg",
+          "alt": {
+            "en": "Nets of a cube and a cylinder.",
+            "bm": "Bentangan kubus dan silinder."
+          },
+          "caption": {
+            "en": "Nets of a cube and a cylinder.",
+            "bm": "Bentangan kubus dan silinder."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Solid with net of 2 triangles and 3 rectangles?",
+          "bm": "Pepejal dengan bentangan 2 segi tiga dan 3 segi empat tepat?"
+        },
+        "answer": {
+          "en": "Triangular prism",
+          "bm": "Prisma segi tiga"
+        }
+      },
+      "tip": {
+        "en": "Imagine folding the sides up.",
+        "bm": "Bayangkan melipat sisi-sisinya."
+      }
+    },
+    "f2math-06-03": {
+      "keyPoints": [
+        {
+          "en": "Surface area = total area of all faces.",
+          "bm": "Luas permukaan = jumlah luas semua permukaan."
+        },
+        {
+          "en": "Open or closed changes the total.",
+          "bm": "Terbuka atau tertutup mengubah jumlahnya."
+        },
+        {
+          "en": "Curved cylinder area = 2πrh.",
+          "bm": "Luas melengkung silinder = 2πjt."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Slant height",
+            "bm": "Tinggi condong"
+          },
+          "meaning": {
+            "en": "Length along a cone's side.",
+            "bm": "Panjang di sepanjang sisi kon."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Cube side 4 cm. SA?",
+          "bm": "Kubus sisi 4 cm. Luas permukaan?"
+        },
+        "answer": {
+          "en": "96 cm²",
+          "bm": "96 cm²"
+        }
+      },
+      "tip": {
+        "en": "Sketch the net so that no face is missed.",
+        "bm": "Lakar bentangan supaya tiada permukaan tertinggal."
+      }
+    },
+    "f2math-06-04": {
+      "keyPoints": [
+        {
+          "en": "Prism/cylinder: base area × height.",
+          "bm": "Prisma/silinder: luas tapak × tinggi."
+        },
+        {
+          "en": "Pyramid/cone: ⅓ × base area × height.",
+          "bm": "Piramid/kon: ⅓ × luas tapak × tinggi."
+        },
+        {
+          "en": "Sphere: (4/3)πr³.",
+          "bm": "Sfera: (4/3)πj³."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Volume",
+            "bm": "Isi padu"
+          },
+          "meaning": {
+            "en": "Space occupied, in cubic units.",
+            "bm": "Ruang dipenuhi, dalam unit padu."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Cuboid 2 × 3 × 4 cm. Volume?",
+          "bm": "Kuboid 2 × 3 × 4 cm. Isi padu?"
+        },
+        "answer": {
+          "en": "24 cm³",
+          "bm": "24 cm³"
+        }
+      },
+      "tip": {
+        "en": "Units: cm for length, cm² for area, cm³ for volume.",
+        "bm": "Unit: cm untuk panjang, cm² untuk luas, cm³ untuk isi padu."
+      }
+    }
+  }
+}

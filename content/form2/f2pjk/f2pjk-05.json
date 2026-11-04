@@ -1,0 +1,390 @@
+{
+  "chapterId": "f2pjk-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Nicotine in vapes can make the teenage brain addicted quickly. \"Saying no\" is a real skill you can practise.",
+      "bm": "Nikotin dalam vape boleh menyebabkan ketagihan dengan cepat pada otak remaja. \"Berkata tidak\" kemahiran yang boleh dilatih."
+    },
+    "bigIdeas": [
+      {
+        "en": "Substance abuse harms body and future.",
+        "bm": "Penyalahgunaan bahan memudaratkan badan dan masa depan."
+      },
+      {
+        "en": "Practise refusal skills.",
+        "bm": "Latih kemahiran menolak."
+      },
+      {
+        "en": "Basic first aid can save lives.",
+        "bm": "Pertolongan cemas asas boleh menyelamatkan nyawa."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Danger",
+              "bm": "Bahaya"
+            },
+            "detail": {
+              "en": "Check the scene",
+              "bm": "Periksa persekitaran"
+            }
+          },
+          {
+            "title": {
+              "en": "Response",
+              "bm": "Tindak balas"
+            },
+            "detail": {
+              "en": "Check the casualty",
+              "bm": "Periksa mangsa"
+            }
+          },
+          {
+            "title": {
+              "en": "Send for help",
+              "bm": "Dapatkan bantuan"
+            },
+            "detail": {
+              "en": "Call 999",
+              "bm": "Hubungi 999"
+            }
+          },
+          {
+            "title": {
+              "en": "Airway",
+              "bm": "Salur pernafasan"
+            },
+            "detail": {
+              "en": "Open it",
+              "bm": "Buka"
+            }
+          },
+          {
+            "title": {
+              "en": "Breathing",
+              "bm": "Pernafasan"
+            },
+            "detail": {
+              "en": "Look, listen, feel",
+              "bm": "Lihat, dengar, rasa"
+            }
+          },
+          {
+            "title": {
+              "en": "Circulation",
+              "bm": "Peredaran"
+            },
+            "detail": {
+              "en": "Start CPR if needed",
+              "bm": "Mula CPR jika perlu"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Addiction",
+          "bm": "Ketagihan"
+        },
+        "definition": {
+          "en": "Being unable to stop despite harm.",
+          "bm": "Tidak dapat berhenti walaupun memudaratkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Nicotine",
+          "bm": "Nikotin"
+        },
+        "definition": {
+          "en": "The addictive chemical in tobacco and most vapes.",
+          "bm": "Bahan ketagihan dalam tembakau dan kebanyakan vape."
+        }
+      },
+      {
+        "term": {
+          "en": "First aid",
+          "bm": "Pertolongan cemas"
+        },
+        "definition": {
+          "en": "Immediate help for an injury.",
+          "bm": "Bantuan segera bagi kecederaan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pjk-05-q01",
+      "subtopicId": "f2pjk-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The addictive chemical in cigarettes is…",
+        "bm": "Bahan ketagihan dalam rokok ialah…"
+      },
+      "explanation": {
+        "en": "Most vapes contain it too.",
+        "bm": "Kebanyakan vape juga mengandunginya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nicotine",
+          "bm": "nikotin"
+        },
+        {
+          "en": "vitamin C",
+          "bm": "vitamin C"
+        },
+        {
+          "en": "calcium",
+          "bm": "kalsium"
+        },
+        {
+          "en": "iron",
+          "bm": "zat besi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q02",
+      "subtopicId": "f2pjk-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a good refusal reply?",
+        "bm": "Yang manakah jawapan menolak yang baik?"
+      },
+      "explanation": {
+        "en": "Be clear and firm.",
+        "bm": "Jelas dan tegas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "\"No thanks, I don't do that.\"",
+          "bm": "\"Tak nak, saya tak buat benda tu.\""
+        },
+        {
+          "en": "\"Maybe tomorrow.\"",
+          "bm": "\"Mungkin esok.\""
+        },
+        {
+          "en": "\"Only once.\"",
+          "bm": "\"Sekali sahaja.\""
+        },
+        {
+          "en": "\"If you pay me.\"",
+          "bm": "\"Jika awak bayar.\""
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q03",
+      "subtopicId": "f2pjk-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Alcohol affects the…",
+        "bm": "Alkohol mempengaruhi…"
+      },
+      "explanation": {
+        "en": "It slows reactions.",
+        "bm": "Ia melambatkan tindak balas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "brain and liver",
+          "bm": "otak dan hati"
+        },
+        {
+          "en": "hair only",
+          "bm": "rambut sahaja"
+        },
+        {
+          "en": "nails only",
+          "bm": "kuku sahaja"
+        },
+        {
+          "en": "clothes",
+          "bm": "pakaian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q04",
+      "subtopicId": "f2pjk-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are teens more easily addicted?",
+        "bm": "Mengapa remaja lebih mudah ketagih?"
+      },
+      "explanation": {
+        "en": "The risk is higher at a younger age.",
+        "bm": "Risiko lebih tinggi pada usia muda."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Their brains are still developing",
+          "bm": "Otak mereka masih berkembang"
+        },
+        {
+          "en": "They are taller",
+          "bm": "Mereka lebih tinggi"
+        },
+        {
+          "en": "They eat more",
+          "bm": "Mereka makan lebih banyak"
+        },
+        {
+          "en": "They run faster",
+          "bm": "Mereka berlari lebih laju"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q05",
+      "subtopicId": "f2pjk-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Malaysian emergency number is…",
+        "bm": "Nombor kecemasan Malaysia ialah…"
+      },
+      "explanation": {
+        "en": "Use 112 from mobile phones also.",
+        "bm": "112 juga dari telefon mudah alih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "999",
+          "bm": "999"
+        },
+        {
+          "en": "111",
+          "bm": "111"
+        },
+        {
+          "en": "123",
+          "bm": "123"
+        },
+        {
+          "en": "555",
+          "bm": "555"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q06",
+      "subtopicId": "f2pjk-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "For a minor burn, first…",
+        "bm": "Bagi luka terbakar kecil, mula-mula…"
+      },
+      "explanation": {
+        "en": "Cool for at least 10 minutes.",
+        "bm": "Sejukkan sekurang-kurangnya 10 minit."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cool under running water",
+          "bm": "sejukkan di bawah air mengalir"
+        },
+        {
+          "en": "apply toothpaste",
+          "bm": "sapu ubat gigi"
+        },
+        {
+          "en": "pop blisters",
+          "bm": "pecahkan lepuh"
+        },
+        {
+          "en": "apply butter",
+          "bm": "sapu mentega"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q07",
+      "subtopicId": "f2pjk-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "For a nosebleed, you should…",
+        "bm": "Bagi hidung berdarah, anda patut…"
+      },
+      "explanation": {
+        "en": "Leaning back makes blood flow down the throat.",
+        "bm": "Mendongak menyebabkan darah mengalir ke tekak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "lean forward and pinch the soft part",
+          "bm": "condong ke depan dan picit bahagian lembut"
+        },
+        {
+          "en": "lean far back",
+          "bm": "mendongak jauh"
+        },
+        {
+          "en": "lie flat",
+          "bm": "baring rata"
+        },
+        {
+          "en": "blow hard",
+          "bm": "hembus kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-05-q08",
+      "subtopicId": "f2pjk-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the first step at an accident scene?",
+        "bm": "Apakah langkah pertama di tempat kemalangan?"
+      },
+      "explanation": {
+        "en": "DRSABC starts with Danger.",
+        "bm": "DRSABC bermula dengan Bahaya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Check for danger",
+          "bm": "Periksa bahaya"
+        },
+        {
+          "en": "Move the casualty at once",
+          "bm": "Alihkan mangsa segera"
+        },
+        {
+          "en": "Give water",
+          "bm": "Beri air"
+        },
+        {
+          "en": "Take a video",
+          "bm": "Rakam video"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

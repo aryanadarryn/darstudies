@@ -1,0 +1,499 @@
+{
+  "chapterId": "f2geo-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Asia reaches from frozen Siberia to the hot Arabian deserts and wet equatorial rainforests, so people live very differently.",
+      "bm": "Asia merentasi Siberia yang beku hingga gurun Arab yang panas dan hutan hujan khatulistiwa, jadi cara hidup sangat berbeza."
+    },
+    "bigIdeas": [
+      {
+        "en": "Asia has many climates because of its size.",
+        "bm": "Asia mempunyai banyak iklim kerana saiznya."
+      },
+      {
+        "en": "Climate shapes farming, clothes and housing.",
+        "bm": "Iklim membentuk pertanian, pakaian dan perumahan."
+      },
+      {
+        "en": "Monsoon Asia grows much of the world's rice.",
+        "bm": "Asia Monsun menanam sebahagian besar padi dunia."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          },
+          {
+            "en": "Activity",
+            "bm": "Kegiatan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Equatorial",
+              "bm": "Khatulistiwa"
+            },
+            "cells": [
+              {
+                "en": "Malaysia",
+                "bm": "Malaysia"
+              },
+              {
+                "en": "oil palm, rubber",
+                "bm": "kelapa sawit, getah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tropical monsoon",
+              "bm": "Monsun tropika"
+            },
+            "cells": [
+              {
+                "en": "Bangladesh",
+                "bm": "Bangladesh"
+              },
+              {
+                "en": "wet rice",
+                "bm": "padi sawah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Desert",
+              "bm": "Gurun"
+            },
+            "cells": [
+              {
+                "en": "Saudi Arabia",
+                "bm": "Arab Saudi"
+              },
+              {
+                "en": "oasis farming, oil",
+                "bm": "pertanian oasis, minyak"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Temperate",
+              "bm": "Sederhana"
+            },
+            "cells": [
+              {
+                "en": "Japan",
+                "bm": "Jepun"
+              },
+              {
+                "en": "fruit, industry",
+                "bm": "buah, industri"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tundra",
+              "bm": "Tundra"
+            },
+            "cells": [
+              {
+                "en": "Northern Russia",
+                "bm": "Utara Rusia"
+              },
+              {
+                "en": "reindeer herding",
+                "bm": "ternakan rusa kutub"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tundra",
+          "bm": "Tundra"
+        },
+        "definition": {
+          "en": "A very cold treeless region.",
+          "bm": "Kawasan sangat sejuk tanpa pokok."
+        }
+      },
+      {
+        "term": {
+          "en": "Oasis",
+          "bm": "Oasis"
+        },
+        "definition": {
+          "en": "A water source in a desert.",
+          "bm": "Sumber air di gurun."
+        }
+      },
+      {
+        "term": {
+          "en": "Nomad",
+          "bm": "Nomad"
+        },
+        "definition": {
+          "en": "A person who moves with herds or seasons.",
+          "bm": "Orang yang berpindah mengikut ternakan atau musim."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-07-q01",
+      "subtopicId": "f2geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which climate is found in Saudi Arabia?",
+        "bm": "Iklim manakah di Arab Saudi?"
+      },
+      "explanation": {
+        "en": "Very little rain falls.",
+        "bm": "Sangat sedikit hujan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hot desert",
+          "bm": "Gurun panas"
+        },
+        {
+          "en": "Tundra",
+          "bm": "Tundra"
+        },
+        {
+          "en": "Equatorial",
+          "bm": "Khatulistiwa"
+        },
+        {
+          "en": "Mediterranean",
+          "bm": "Mediterranean"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q02",
+      "subtopicId": "f2geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tundra climate is found in…",
+        "bm": "Iklim tundra terdapat di…"
+      },
+      "explanation": {
+        "en": "It is near the Arctic.",
+        "bm": "Ia berhampiran Artik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "northern Siberia",
+          "bm": "utara Siberia"
+        },
+        {
+          "en": "Malaysia",
+          "bm": "Malaysia"
+        },
+        {
+          "en": "Thailand",
+          "bm": "Thailand"
+        },
+        {
+          "en": "Sri Lanka",
+          "bm": "Sri Lanka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q03",
+      "subtopicId": "f2geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A monsoon climate has…",
+        "bm": "Iklim monsun mempunyai…"
+      },
+      "explanation": {
+        "en": "Wind direction changes with the season.",
+        "bm": "Arah angin berubah mengikut musim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "wet and dry seasons",
+          "bm": "musim basah dan kering"
+        },
+        {
+          "en": "no rain at all",
+          "bm": "tiada hujan langsung"
+        },
+        {
+          "en": "constant snow",
+          "bm": "salji sepanjang masa"
+        },
+        {
+          "en": "no wind",
+          "bm": "tiada angin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q04",
+      "subtopicId": "f2geo-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is Central Asia dry?",
+        "bm": "Mengapa Asia Tengah kering?"
+      },
+      "explanation": {
+        "en": "Moist sea winds rarely reach it.",
+        "bm": "Angin lembap dari laut jarang sampai."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is far from the sea",
+          "bm": "Ia jauh dari laut"
+        },
+        {
+          "en": "It has no mountains",
+          "bm": "Ia tiada gunung"
+        },
+        {
+          "en": "It lies on the equator",
+          "bm": "Ia di khatulistiwa"
+        },
+        {
+          "en": "It rains too much",
+          "bm": "Terlalu banyak hujan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q05",
+      "subtopicId": "f2geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Wet rice is mainly grown in…",
+        "bm": "Padi sawah terutamanya ditanam di…"
+      },
+      "explanation": {
+        "en": "It needs heat and plenty of water.",
+        "bm": "Ia memerlukan haba dan banyak air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "monsoon Asia",
+          "bm": "Asia Monsun"
+        },
+        {
+          "en": "the tundra",
+          "bm": "tundra"
+        },
+        {
+          "en": "the Arabian Desert",
+          "bm": "Gurun Arab"
+        },
+        {
+          "en": "Siberia",
+          "bm": "Siberia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q06",
+      "subtopicId": "f2geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "People in hot deserts often wear…",
+        "bm": "Penduduk gurun panas sering memakai…"
+      },
+      "explanation": {
+        "en": "Loose robes protect from sun and sand.",
+        "bm": "Jubah longgar melindungi daripada matahari dan pasir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "loose, light robes",
+          "bm": "jubah longgar dan ringan"
+        },
+        {
+          "en": "thick fur",
+          "bm": "bulu tebal"
+        },
+        {
+          "en": "diving suits",
+          "bm": "pakaian selam"
+        },
+        {
+          "en": "raincoats",
+          "bm": "baju hujan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q07",
+      "subtopicId": "f2geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Nomads herding yaks are found in…",
+        "bm": "Nomad yang menternak yak terdapat di…"
+      },
+      "explanation": {
+        "en": "Cold grasslands suit herding.",
+        "bm": "Padang rumput sejuk sesuai untuk ternakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mongolia and Tibet",
+          "bm": "Mongolia dan Tibet"
+        },
+        {
+          "en": "Kuala Lumpur",
+          "bm": "Kuala Lumpur"
+        },
+        {
+          "en": "Singapore",
+          "bm": "Singapura"
+        },
+        {
+          "en": "Maldives",
+          "bm": "Maldives"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q08",
+      "subtopicId": "f2geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stilt houses in Malaysia help to…",
+        "bm": "Rumah bertiang di Malaysia membantu…"
+      },
+      "explanation": {
+        "en": "They suit a hot, wet climate.",
+        "bm": "Ia sesuai dengan iklim panas lembap."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "allow air flow and avoid floods",
+          "bm": "mengalirkan udara dan mengelak banjir"
+        },
+        {
+          "en": "trap snow",
+          "bm": "memerangkap salji"
+        },
+        {
+          "en": "keep rain inside",
+          "bm": "menyimpan hujan di dalam"
+        },
+        {
+          "en": "add more heat",
+          "bm": "menambah haba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q09",
+      "subtopicId": "f2geo-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a good reason Japan's farmers grow apples in the north?",
+        "bm": "Apakah sebab baik petani Jepun menanam epal di utara?"
+      },
+      "explanation": {
+        "en": "Apples need cool winters.",
+        "bm": "Epal memerlukan musim sejuk."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Cool temperate climate",
+          "bm": "Iklim sederhana sejuk"
+        },
+        {
+          "en": "Desert heat",
+          "bm": "Panas gurun"
+        },
+        {
+          "en": "No rain",
+          "bm": "Tiada hujan"
+        },
+        {
+          "en": "Monsoon floods",
+          "bm": "Banjir monsun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-07-q10",
+      "subtopicId": "f2geo-07-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the place with its climate.",
+        "bm": "Padankan tempat dengan iklim."
+      },
+      "explanation": {
+        "en": "Location controls climate.",
+        "bm": "Lokasi mengawal iklim."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Malaysia",
+            "bm": "Malaysia"
+          },
+          "right": {
+            "en": "equatorial",
+            "bm": "khatulistiwa"
+          }
+        },
+        {
+          "left": {
+            "en": "Saudi Arabia",
+            "bm": "Arab Saudi"
+          },
+          "right": {
+            "en": "hot desert",
+            "bm": "gurun panas"
+          }
+        },
+        {
+          "left": {
+            "en": "Bangladesh",
+            "bm": "Bangladesh"
+          },
+          "right": {
+            "en": "tropical monsoon",
+            "bm": "monsun tropika"
+          }
+        }
+      ]
+    }
+  ]
+}

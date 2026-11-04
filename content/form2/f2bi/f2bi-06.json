@@ -1,0 +1,407 @@
+{
+  "chapterId": "f2bi-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Conversations are teamwork. Simple phrases help you agree, disagree politely and keep talking.",
+      "bm": "Conversations are teamwork. Simple phrases help you agree, disagree politely and keep talking."
+    },
+    "bigIdeas": [
+      {
+        "en": "Use polite phrases for opinions.",
+        "bm": "Use polite phrases for opinions."
+      },
+      {
+        "en": "Questions help you find details.",
+        "bm": "Questions help you find details."
+      },
+      {
+        "en": "Listen for key words, numbers and names.",
+        "bm": "Listen for key words, numbers and names."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Function",
+          "bm": "Function"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Opinion",
+              "bm": "Opinion"
+            },
+            "detail": {
+              "en": "I think…",
+              "bm": "I think…"
+            }
+          },
+          {
+            "label": {
+              "en": "Agree",
+              "bm": "Agree"
+            },
+            "detail": {
+              "en": "You are right.",
+              "bm": "You are right."
+            }
+          },
+          {
+            "label": {
+              "en": "Disagree",
+              "bm": "Disagree"
+            },
+            "detail": {
+              "en": "I see your point, but…",
+              "bm": "I see your point, but…"
+            }
+          },
+          {
+            "label": {
+              "en": "Ask",
+              "bm": "Ask"
+            },
+            "detail": {
+              "en": "Could you tell me…?",
+              "bm": "Could you tell me…?"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Polite form",
+          "bm": "Polite form"
+        },
+        "definition": {
+          "en": "A respectful way of speaking.",
+          "bm": "A respectful way of speaking."
+        }
+      },
+      {
+        "term": {
+          "en": "Stress",
+          "bm": "Stress"
+        },
+        "definition": {
+          "en": "Saying a word or syllable more strongly.",
+          "bm": "Saying a word or syllable more strongly."
+        }
+      },
+      {
+        "term": {
+          "en": "Clarify",
+          "bm": "Clarify"
+        },
+        "definition": {
+          "en": "Make something clearer.",
+          "bm": "Make something clearer."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-06-q01",
+      "subtopicId": "f2bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which phrase gives an opinion?",
+        "bm": "Which phrase gives an opinion?"
+      },
+      "explanation": {
+        "en": "It states a view.",
+        "bm": "It states a view."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "In my opinion,…",
+          "bm": "In my opinion,…"
+        },
+        {
+          "en": "Excuse me,…",
+          "bm": "Excuse me,…"
+        },
+        {
+          "en": "Goodbye,…",
+          "bm": "Goodbye,…"
+        },
+        {
+          "en": "Here you are,…",
+          "bm": "Here you are,…"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q02",
+      "subtopicId": "f2bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A polite way to disagree is…",
+        "bm": "A polite way to disagree is…"
+      },
+      "explanation": {
+        "en": "Keep it respectful.",
+        "bm": "Keep it respectful."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "I see your point, but…",
+          "bm": "I see your point, but…"
+        },
+        {
+          "en": "You are wrong.",
+          "bm": "You are wrong."
+        },
+        {
+          "en": "That is stupid.",
+          "bm": "That is stupid."
+        },
+        {
+          "en": "No way!",
+          "bm": "No way!"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q03",
+      "subtopicId": "f2bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "After giving an opinion, you should…",
+        "bm": "After giving an opinion, you should…"
+      },
+      "explanation": {
+        "en": "Reasons support your view.",
+        "bm": "Reasons support your view."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "give a reason",
+          "bm": "give a reason"
+        },
+        {
+          "en": "walk away",
+          "bm": "walk away"
+        },
+        {
+          "en": "change the topic",
+          "bm": "change the topic"
+        },
+        {
+          "en": "repeat it loudly",
+          "bm": "repeat it loudly"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q04",
+      "subtopicId": "f2bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A polite question is…",
+        "bm": "A polite question is…"
+      },
+      "explanation": {
+        "en": "\"Could\" is polite.",
+        "bm": "\"Could\" is polite."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Could you help me, please?",
+          "bm": "Could you help me, please?"
+        },
+        {
+          "en": "Help me!",
+          "bm": "Help me!"
+        },
+        {
+          "en": "You help.",
+          "bm": "You help."
+        },
+        {
+          "en": "Do it now.",
+          "bm": "Do it now."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q05",
+      "subtopicId": "f2bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If you do not hear something, say…",
+        "bm": "If you do not hear something, say…"
+      },
+      "explanation": {
+        "en": "Polite clarification.",
+        "bm": "Polite clarification."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sorry, could you repeat that?",
+          "bm": "Sorry, could you repeat that?"
+        },
+        {
+          "en": "What?!",
+          "bm": "What?!"
+        },
+        {
+          "en": "Nothing",
+          "bm": "Nothing"
+        },
+        {
+          "en": "Go away",
+          "bm": "Go away"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q06",
+      "subtopicId": "f2bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct indirect question.",
+        "bm": "Choose the correct indirect question."
+      },
+      "explanation": {
+        "en": "Normal word order after \"tell me\".",
+        "bm": "Normal word order after \"tell me\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Could you tell me where the station is?",
+          "bm": "Could you tell me where the station is?"
+        },
+        {
+          "en": "Could you tell me where is the station?",
+          "bm": "Could you tell me where is the station?"
+        },
+        {
+          "en": "Where you tell the station is?",
+          "bm": "Where you tell the station is?"
+        },
+        {
+          "en": "Tell where station?",
+          "bm": "Tell where station?"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q07",
+      "subtopicId": "f2bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Before listening, you should…",
+        "bm": "Before listening, you should…"
+      },
+      "explanation": {
+        "en": "You then know what to listen for.",
+        "bm": "You then know what to listen for."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "read the questions",
+          "bm": "read the questions"
+        },
+        {
+          "en": "close the book",
+          "bm": "close the book"
+        },
+        {
+          "en": "write an essay",
+          "bm": "write an essay"
+        },
+        {
+          "en": "do nothing",
+          "bm": "do nothing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q08",
+      "subtopicId": "f2bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "To catch key details, you listen for…",
+        "bm": "To catch key details, you listen for…"
+      },
+      "explanation": {
+        "en": "Focus on key information.",
+        "bm": "Focus on key information."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "names, numbers and dates",
+          "bm": "names, numbers and dates"
+        },
+        {
+          "en": "every single word",
+          "bm": "every single word"
+        },
+        {
+          "en": "only the first word",
+          "bm": "only the first word"
+        },
+        {
+          "en": "music",
+          "bm": "music"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-06-q09",
+      "subtopicId": "f2bi-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "If an answer is said twice in different words, you should…",
+        "bm": "If an answer is said twice in different words, you should…"
+      },
+      "explanation": {
+        "en": "Options are often paraphrased.",
+        "bm": "Options are often paraphrased."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "listen for the meaning",
+          "bm": "listen for the meaning"
+        },
+        {
+          "en": "choose the first word heard",
+          "bm": "choose the first word heard"
+        },
+        {
+          "en": "give up",
+          "bm": "give up"
+        },
+        {
+          "en": "write nothing",
+          "bm": "write nothing"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

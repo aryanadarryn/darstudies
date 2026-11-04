@@ -1,0 +1,475 @@
+{
+  "chapterId": "f2sci-12",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "If the Sun were a football, Earth would be a peppercorn about 25 metres away. The Solar System is mostly empty space.",
+      "bm": "Jika Matahari sebesar bola sepak, Bumi hanya sebesar biji lada kira-kira 25 meter jauhnya. Sistem Suria kebanyakannya ruang kosong."
+    },
+    "bigIdeas": [
+      {
+        "en": "Eight planets orbit the Sun.",
+        "bm": "Lapan planet mengorbit Matahari."
+      },
+      {
+        "en": "Inner planets are rocky; outer planets are giants.",
+        "bm": "Planet dalam berbatu; planet luar gergasi."
+      },
+      {
+        "en": "Gravity keeps the planets in orbit.",
+        "bm": "Graviti mengekalkan planet dalam orbit."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Planets",
+            "bm": "Planet"
+          },
+          {
+            "en": "Features",
+            "bm": "Ciri"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Inner",
+              "bm": "Dalam"
+            },
+            "cells": [
+              {
+                "en": "Mercury, Venus, Earth, Mars",
+                "bm": "Utarid, Zuhrah, Bumi, Marikh"
+              },
+              {
+                "en": "small and rocky",
+                "bm": "kecil dan berbatu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Outer",
+              "bm": "Luar"
+            },
+            "cells": [
+              {
+                "en": "Jupiter, Saturn, Uranus, Neptune",
+                "bm": "Musytari, Zuhal, Uranus, Neptun"
+              },
+              {
+                "en": "large; gas or ice",
+                "bm": "besar; gas atau ais"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Orbit",
+          "bm": "Orbit"
+        },
+        "definition": {
+          "en": "The path of one body around another.",
+          "bm": "Laluan satu jasad mengelilingi jasad lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Planet",
+          "bm": "Planet"
+        },
+        "definition": {
+          "en": "A large body orbiting a star.",
+          "bm": "Jasad besar yang mengorbit bintang."
+        }
+      },
+      {
+        "term": {
+          "en": "Astronomical unit",
+          "bm": "Unit astronomi"
+        },
+        "definition": {
+          "en": "The mean Earth–Sun distance.",
+          "bm": "Jarak purata Bumi–Matahari."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-12-q01",
+      "subtopicId": "f2sci-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many planets are in the Solar System?",
+        "bm": "Berapakah bilangan planet dalam Sistem Suria?"
+      },
+      "explanation": {
+        "en": "Pluto was reclassified in 2006.",
+        "bm": "Pluto diklasifikasikan semula pada 2006."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f2sci-12-q02",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which planet is closest to the Sun?",
+        "bm": "Planet manakah paling dekat dengan Matahari?"
+      },
+      "explanation": {
+        "en": "Mercury is the first planet.",
+        "bm": "Utarid ialah planet pertama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Mercury",
+          "bm": "Utarid"
+        },
+        {
+          "en": "Venus",
+          "bm": "Zuhrah"
+        },
+        {
+          "en": "Earth",
+          "bm": "Bumi"
+        },
+        {
+          "en": "Mars",
+          "bm": "Marikh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q03",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which planet is the largest?",
+        "bm": "Planet manakah terbesar?"
+      },
+      "explanation": {
+        "en": "Jupiter is a gas giant.",
+        "bm": "Musytari gergasi gas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Jupiter",
+          "bm": "Musytari"
+        },
+        {
+          "en": "Saturn",
+          "bm": "Zuhal"
+        },
+        {
+          "en": "Neptune",
+          "bm": "Neptun"
+        },
+        {
+          "en": "Earth",
+          "bm": "Bumi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q04",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which planet is known for its bright rings?",
+        "bm": "Planet manakah terkenal dengan gelang cerahnya?"
+      },
+      "explanation": {
+        "en": "Its rings are ice and rock.",
+        "bm": "Gelangnya ais dan batu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Saturn",
+          "bm": "Zuhal"
+        },
+        {
+          "en": "Mars",
+          "bm": "Marikh"
+        },
+        {
+          "en": "Mercury",
+          "bm": "Utarid"
+        },
+        {
+          "en": "Venus",
+          "bm": "Zuhrah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q05",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the hottest planet?",
+        "bm": "Planet manakah paling panas?"
+      },
+      "explanation": {
+        "en": "Its thick CO₂ atmosphere traps heat.",
+        "bm": "Atmosfera CO₂ tebal memerangkap haba."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Venus",
+          "bm": "Zuhrah"
+        },
+        {
+          "en": "Mercury",
+          "bm": "Utarid"
+        },
+        {
+          "en": "Mars",
+          "bm": "Marikh"
+        },
+        {
+          "en": "Jupiter",
+          "bm": "Musytari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q06",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mars looks red because of…",
+        "bm": "Marikh kelihatan merah kerana…"
+      },
+      "explanation": {
+        "en": "It is rust-like dust.",
+        "bm": "Ia debu seperti karat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "iron oxide on its surface",
+          "bm": "oksida besi pada permukaannya"
+        },
+        {
+          "en": "hot lava",
+          "bm": "lava panas"
+        },
+        {
+          "en": "red oceans",
+          "bm": "lautan merah"
+        },
+        {
+          "en": "the Sun's colour",
+          "bm": "warna Matahari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q07",
+      "subtopicId": "f2sci-12-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange from nearest the Sun.",
+        "bm": "Susun dari yang paling dekat dengan Matahari."
+      },
+      "explanation": {
+        "en": "My Very Educated Mother Just…",
+        "bm": "My Very Educated Mother Just…"
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Mercury",
+          "bm": "Utarid"
+        },
+        {
+          "en": "Venus",
+          "bm": "Zuhrah"
+        },
+        {
+          "en": "Earth",
+          "bm": "Bumi"
+        },
+        {
+          "en": "Mars",
+          "bm": "Marikh"
+        },
+        {
+          "en": "Jupiter",
+          "bm": "Musytari"
+        }
+      ]
+    },
+    {
+      "id": "f2sci-12-q08",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Earth supports life mainly because it has…",
+        "bm": "Bumi menyokong hidupan terutamanya kerana ia mempunyai…"
+      },
+      "explanation": {
+        "en": "It lies in the habitable zone.",
+        "bm": "Ia terletak dalam zon boleh didiami."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "liquid water and a suitable temperature",
+          "bm": "air cecair dan suhu sesuai"
+        },
+        {
+          "en": "rings",
+          "bm": "gelang"
+        },
+        {
+          "en": "the most moons",
+          "bm": "paling banyak bulan"
+        },
+        {
+          "en": "no atmosphere",
+          "bm": "tiada atmosfera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q09",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Outer planets have long years because…",
+        "bm": "Planet luar mempunyai tahun yang panjang kerana…"
+      },
+      "explanation": {
+        "en": "Farther planets take longer to go round the Sun.",
+        "bm": "Planet lebih jauh mengambil masa lebih lama mengelilingi Matahari."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "they have longer orbits and move slower",
+          "bm": "orbit lebih panjang dan bergerak lebih perlahan"
+        },
+        {
+          "en": "they spin faster",
+          "bm": "berputar lebih laju"
+        },
+        {
+          "en": "they are hotter",
+          "bm": "lebih panas"
+        },
+        {
+          "en": "they have rings",
+          "bm": "mempunyai gelang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q10",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What force keeps planets orbiting the Sun?",
+        "bm": "Daya apakah mengekalkan planet mengorbit Matahari?"
+      },
+      "explanation": {
+        "en": "The Sun has by far the most mass.",
+        "bm": "Matahari mempunyai jisim terbesar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Gravity",
+          "bm": "Graviti"
+        },
+        {
+          "en": "Friction",
+          "bm": "Geseran"
+        },
+        {
+          "en": "Magnetism",
+          "bm": "Kemagnetan"
+        },
+        {
+          "en": "Buoyancy",
+          "bm": "Daya apung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q11",
+      "subtopicId": "f2sci-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A day on Earth is due to its…",
+        "bm": "Satu hari di Bumi berpunca daripada…"
+      },
+      "explanation": {
+        "en": "One spin takes about 24 hours.",
+        "bm": "Satu putaran mengambil masa kira-kira 24 jam."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "rotation",
+          "bm": "putarannya"
+        },
+        {
+          "en": "revolution",
+          "bm": "peredarannya"
+        },
+        {
+          "en": "size",
+          "bm": "saiznya"
+        },
+        {
+          "en": "moon",
+          "bm": "bulannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-12-q12",
+      "subtopicId": "f2sci-12-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Our star is called the…",
+        "bm": "Bintang kita dinamakan…"
+      },
+      "explanation": {
+        "en": "It lies at the centre of the Solar System.",
+        "bm": "Ia terletak di pusat Sistem Suria."
+      },
+      "difficulty": 1,
+      "answer": [
+        "sun",
+        "matahari"
+      ]
+    }
+  ]
+}

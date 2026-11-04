@@ -1,0 +1,167 @@
+{
+  "chapterId": "f2sci-10",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-10-01": {
+      "keyPoints": [
+        {
+          "en": "Vibrations pass through solids, liquids and gases.",
+          "bm": "Getaran merambat melalui pepejal, cecair dan gas."
+        },
+        {
+          "en": "Sound cannot pass through a vacuum.",
+          "bm": "Bunyi tidak merambat melalui vakum."
+        },
+        {
+          "en": "Speed is highest in solids.",
+          "bm": "Laju paling tinggi dalam pepejal."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Medium",
+            "bm": "Medium"
+          },
+          "meaning": {
+            "en": "Material that carries sound.",
+            "bm": "Bahan yang membawa bunyi."
+          }
+        },
+        {
+          "term": {
+            "en": "Wavelength",
+            "bm": "Panjang gelombang"
+          },
+          "meaning": {
+            "en": "Distance between two compressions.",
+            "bm": "Jarak antara dua mampatan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Can astronauts talk directly in space?",
+          "bm": "Bolehkah angkasawan bercakap terus di angkasa?"
+        },
+        "answer": {
+          "en": "No: there is no medium.",
+          "bm": "Tidak: tiada medium."
+        }
+      },
+      "tip": {
+        "en": "Light is faster than sound: you see lightning first.",
+        "bm": "Cahaya lebih laju daripada bunyi: kilat dilihat dahulu."
+      }
+    },
+    "f2sci-10-02": {
+      "keyPoints": [
+        {
+          "en": "Loudness depends on amplitude.",
+          "bm": "Kenyaringan bergantung pada amplitud."
+        },
+        {
+          "en": "Pitch depends on frequency.",
+          "bm": "Kelangsingan bergantung pada frekuensi."
+        },
+        {
+          "en": "Strings: shorter, thinner or tighter gives a higher pitch.",
+          "bm": "Tali: lebih pendek, nipis atau tegang memberi kelangsingan lebih tinggi."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Amplitude",
+            "bm": "Amplitud"
+          },
+          "meaning": {
+            "en": "Height of the wave.",
+            "bm": "Ketinggian gelombang."
+          }
+        },
+        {
+          "term": {
+            "en": "Frequency",
+            "bm": "Frekuensi"
+          },
+          "meaning": {
+            "en": "Waves per second.",
+            "bm": "Gelombang sesaat."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/sound-waves.svg",
+          "alt": {
+            "en": "Loudness and pitch on a wave trace.",
+            "bm": "Kenyaringan dan kelangsingan pada surihan gelombang."
+          },
+          "caption": {
+            "en": "Loudness and pitch on a wave trace.",
+            "bm": "Kenyaringan dan kelangsingan pada surihan gelombang."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "A loud low note: amplitude and frequency?",
+          "bm": "Not rendah yang nyaring: amplitud dan frekuensi?"
+        },
+        "answer": {
+          "en": "Large amplitude; low frequency.",
+          "bm": "Amplitud besar; frekuensi rendah."
+        }
+      },
+      "tip": {
+        "en": "Loud is not the same as high-pitched.",
+        "bm": "Nyaring tidak sama dengan langsing."
+      }
+    },
+    "f2sci-10-03": {
+      "keyPoints": [
+        {
+          "en": "Hard surfaces reflect sound; soft ones absorb it.",
+          "bm": "Permukaan keras memantulkan bunyi; yang lembut menyerapnya."
+        },
+        {
+          "en": "Echo time covers the journey there and back.",
+          "bm": "Masa gema merangkumi perjalanan pergi dan balik."
+        },
+        {
+          "en": "Used in sonar, ultrasound and building design.",
+          "bm": "Digunakan dalam sonar, ultrabunyi dan reka bentuk bangunan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Sonar",
+            "bm": "Sonar"
+          },
+          "meaning": {
+            "en": "Echo-based detection.",
+            "bm": "Pengesanan berasaskan gema."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "t = 1 s, v = 340 m/s. Distance?",
+          "bm": "t = 1 s, v = 340 m/s. Jarak?"
+        },
+        "answer": {
+          "en": "170 m",
+          "bm": "170 m"
+        }
+      },
+      "tip": {
+        "en": "Always divide by 2 in echo questions.",
+        "bm": "Sentiasa bahagi 2 dalam soalan gema."
+      }
+    }
+  }
+}

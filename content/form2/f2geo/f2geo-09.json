@@ -1,0 +1,436 @@
+{
+  "chapterId": "f2geo-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Glaciers that have stood for thousands of years are shrinking within a lifetime. Global warming is a change people can already see.",
+      "bm": "Glasier yang wujud beribu tahun semakin mengecil dalam satu generasi. Pemanasan global perubahan yang sudah dapat dilihat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Global warming is a rise in Earth's average temperature.",
+        "bm": "Pemanasan global ialah kenaikan suhu purata Bumi."
+      },
+      {
+        "en": "Greenhouse gases from human activities are the main cause.",
+        "bm": "Gas rumah hijau daripada aktiviti manusia punca utama."
+      },
+      {
+        "en": "Every person, company and government can reduce it.",
+        "bm": "Setiap individu, syarikat dan kerajaan boleh mengurangkannya."
+      }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Burn fossil fuels",
+              "bm": "Bakar bahan api fosil"
+            },
+            "detail": {
+              "en": "Release CO₂",
+              "bm": "Bebaskan CO₂"
+            }
+          },
+          {
+            "title": {
+              "en": "More greenhouse gases",
+              "bm": "Lebih gas rumah hijau"
+            },
+            "detail": {
+              "en": "Trap more heat",
+              "bm": "Perangkap lebih haba"
+            }
+          },
+          {
+            "title": {
+              "en": "Warmer Earth",
+              "bm": "Bumi lebih panas"
+            },
+            "detail": {
+              "en": "Ice melts",
+              "bm": "Ais mencair"
+            }
+          },
+          {
+            "title": {
+              "en": "Less ice to reflect sun",
+              "bm": "Kurang ais memantul cahaya"
+            },
+            "detail": {
+              "en": "More warming",
+              "bm": "Lebih pemanasan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Greenhouse gas",
+          "bm": "Gas rumah hijau"
+        },
+        "definition": {
+          "en": "A gas that traps heat in the atmosphere.",
+          "bm": "Gas yang memerangkap haba dalam atmosfera."
+        }
+      },
+      {
+        "term": {
+          "en": "Fossil fuel",
+          "bm": "Bahan api fosil"
+        },
+        "definition": {
+          "en": "Coal, oil or natural gas.",
+          "bm": "Arang batu, minyak atau gas asli."
+        }
+      },
+      {
+        "term": {
+          "en": "Deforestation",
+          "bm": "Penebangan hutan"
+        },
+        "definition": {
+          "en": "Clearing large areas of trees.",
+          "bm": "Pembersihan kawasan pokok yang luas."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-09-q01",
+      "subtopicId": "f2geo-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Global warming means…",
+        "bm": "Pemanasan global bermaksud…"
+      },
+      "explanation": {
+        "en": "Measured over decades.",
+        "bm": "Diukur berdekad-dekad."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a rise in Earth's average temperature",
+          "bm": "kenaikan suhu purata Bumi"
+        },
+        {
+          "en": "colder winters only",
+          "bm": "musim sejuk lebih dingin sahaja"
+        },
+        {
+          "en": "less sunlight",
+          "bm": "kurang cahaya matahari"
+        },
+        {
+          "en": "more moons",
+          "bm": "lebih banyak bulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q02",
+      "subtopicId": "f2geo-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a greenhouse gas?",
+        "bm": "Yang manakah gas rumah hijau?"
+      },
+      "explanation": {
+        "en": "Methane is another.",
+        "bm": "Metana juga termasuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Carbon dioxide",
+          "bm": "Karbon dioksida"
+        },
+        {
+          "en": "Oxygen",
+          "bm": "Oksigen"
+        },
+        {
+          "en": "Nitrogen",
+          "bm": "Nitrogen"
+        },
+        {
+          "en": "Argon",
+          "bm": "Argon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q03",
+      "subtopicId": "f2geo-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A main human cause is…",
+        "bm": "Punca utama manusia ialah…"
+      },
+      "explanation": {
+        "en": "It adds CO₂ to the air.",
+        "bm": "Ia menambah CO₂ ke udara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "burning fossil fuels",
+          "bm": "pembakaran bahan api fosil"
+        },
+        {
+          "en": "planting trees",
+          "bm": "menanam pokok"
+        },
+        {
+          "en": "walking",
+          "bm": "berjalan kaki"
+        },
+        {
+          "en": "recycling",
+          "bm": "mengitar semula"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q04",
+      "subtopicId": "f2geo-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an effect of global warming?",
+        "bm": "Yang manakah kesan pemanasan global?"
+      },
+      "explanation": {
+        "en": "Ice melts and water expands.",
+        "bm": "Ais cair dan air mengembang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sea-level rise",
+          "bm": "Kenaikan aras laut"
+        },
+        {
+          "en": "More ice in the Arctic",
+          "bm": "Lebih ais di Artik"
+        },
+        {
+          "en": "Cooler oceans",
+          "bm": "Lautan lebih sejuk"
+        },
+        {
+          "en": "Fewer heatwaves",
+          "bm": "Kurang gelombang haba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q05",
+      "subtopicId": "f2geo-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does deforestation add to warming?",
+        "bm": "Mengapa penebangan hutan menambah pemanasan?"
+      },
+      "explanation": {
+        "en": "Fewer trees means more CO₂ in the air.",
+        "bm": "Kurang pokok bermakna lebih CO₂ di udara."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Trees that absorb CO₂ are lost",
+          "bm": "Pokok yang menyerap CO₂ hilang"
+        },
+        {
+          "en": "Trees produce all heat",
+          "bm": "Pokok menghasilkan semua haba"
+        },
+        {
+          "en": "Soil gets colder",
+          "bm": "Tanah lebih sejuk"
+        },
+        {
+          "en": "Rain stops forever",
+          "bm": "Hujan berhenti selamanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q06",
+      "subtopicId": "f2geo-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rising sea levels threaten…",
+        "bm": "Kenaikan aras laut mengancam…"
+      },
+      "explanation": {
+        "en": "Low-lying places flood.",
+        "bm": "Kawasan rendah akan banjir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "coastal towns and islands",
+          "bm": "bandar pesisir dan pulau"
+        },
+        {
+          "en": "mountain peaks",
+          "bm": "puncak gunung"
+        },
+        {
+          "en": "deserts only",
+          "bm": "gurun sahaja"
+        },
+        {
+          "en": "the Moon",
+          "bm": "Bulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q07",
+      "subtopicId": "f2geo-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How can warming affect Malaysian farmers?",
+        "bm": "Bagaimana pemanasan mempengaruhi petani Malaysia?"
+      },
+      "explanation": {
+        "en": "Weather patterns become less stable.",
+        "bm": "Corak cuaca kurang stabil."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Droughts, floods and lower yields",
+          "bm": "Kemarau, banjir dan hasil berkurang"
+        },
+        {
+          "en": "Snow on farms",
+          "bm": "Salji di ladang"
+        },
+        {
+          "en": "Longer winters",
+          "bm": "Musim sejuk lebih panjang"
+        },
+        {
+          "en": "No effect at all",
+          "bm": "Tiada kesan langsung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q08",
+      "subtopicId": "f2geo-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which helps to reduce warming?",
+        "bm": "Yang manakah membantu mengurangkan pemanasan?"
+      },
+      "explanation": {
+        "en": "It cuts fuel use.",
+        "bm": "Ia mengurangkan penggunaan bahan api."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Using public transport",
+          "bm": "Menggunakan pengangkutan awam"
+        },
+        {
+          "en": "Open burning",
+          "bm": "Pembakaran terbuka"
+        },
+        {
+          "en": "Wasting electricity",
+          "bm": "Membazir elektrik"
+        },
+        {
+          "en": "Clearing forest",
+          "bm": "Membersihkan hutan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q09",
+      "subtopicId": "f2geo-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Paris Agreement aims to…",
+        "bm": "Perjanjian Paris bertujuan…"
+      },
+      "explanation": {
+        "en": "Countries set emission targets.",
+        "bm": "Negara menetapkan sasaran pelepasan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "limit global temperature rise",
+          "bm": "mengehadkan kenaikan suhu global"
+        },
+        {
+          "en": "build more coal plants",
+          "bm": "membina lebih loji arang"
+        },
+        {
+          "en": "end all trade",
+          "bm": "menamatkan perdagangan"
+        },
+        {
+          "en": "ban all ships",
+          "bm": "mengharamkan semua kapal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-09-q10",
+      "subtopicId": "f2geo-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the most effective long-term step?",
+        "bm": "Langkah jangka panjang manakah paling berkesan?"
+      },
+      "explanation": {
+        "en": "It tackles the main cause.",
+        "bm": "Ia menangani punca utama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Shifting to renewable energy",
+          "bm": "Beralih kepada tenaga boleh diperbaharui"
+        },
+        {
+          "en": "Using more air-conditioners",
+          "bm": "Lebih banyak penyaman udara"
+        },
+        {
+          "en": "Burning waste",
+          "bm": "Membakar sisa"
+        },
+        {
+          "en": "Using more coal",
+          "bm": "Lebih banyak arang batu"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

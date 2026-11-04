@@ -1,0 +1,384 @@
+{
+  "chapterId": "f2bm-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Pantun hanya empat baris, tetapi menyimpan nilai dan kebijaksanaan orang Melayu.",
+      "bm": "Pantun hanya empat baris, tetapi menyimpan nilai dan kebijaksanaan orang Melayu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tema ialah persoalan utama karya.",
+        "bm": "Tema ialah persoalan utama karya."
+      },
+      {
+        "en": "Nilai dan pengajaran dapat dijadikan panduan.",
+        "bm": "Nilai dan pengajaran dapat dijadikan panduan."
+      },
+      {
+        "en": "Pantun dan sajak mempunyai ciri berbeza.",
+        "bm": "Pantun dan sajak mempunyai ciri berbeza."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Genre",
+          "bm": "Genre"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Pantun",
+              "bm": "Pantun"
+            },
+            "detail": {
+              "en": "Pembayang dan maksud",
+              "bm": "Pembayang dan maksud"
+            }
+          },
+          {
+            "label": {
+              "en": "Syair",
+              "bm": "Syair"
+            },
+            "detail": {
+              "en": "Empat baris bersajak a-a-a-a",
+              "bm": "Empat baris bersajak a-a-a-a"
+            }
+          },
+          {
+            "label": {
+              "en": "Sajak",
+              "bm": "Sajak"
+            },
+            "detail": {
+              "en": "Bentuk bebas",
+              "bm": "Bentuk bebas"
+            }
+          },
+          {
+            "label": {
+              "en": "Cerpen",
+              "bm": "Cerpen"
+            },
+            "detail": {
+              "en": "Cerita pendek",
+              "bm": "Cerita pendek"
+            }
+          },
+          {
+            "label": {
+              "en": "Novel",
+              "bm": "Novel"
+            },
+            "detail": {
+              "en": "Cerita panjang",
+              "bm": "Cerita panjang"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tema",
+          "bm": "Tema"
+        },
+        "definition": {
+          "en": "Persoalan utama karya.",
+          "bm": "Persoalan utama karya."
+        }
+      },
+      {
+        "term": {
+          "en": "Pembayang",
+          "bm": "Pembayang"
+        },
+        "definition": {
+          "en": "Dua baris awal pantun empat kerat.",
+          "bm": "Dua baris awal pantun empat kerat."
+        }
+      },
+      {
+        "term": {
+          "en": "Latar",
+          "bm": "Latar"
+        },
+        "definition": {
+          "en": "Masa, tempat dan masyarakat.",
+          "bm": "Masa, tempat dan masyarakat."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bm-06-q01",
+      "subtopicId": "f2bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dua baris pertama pantun empat kerat dinamakan…",
+        "bm": "Dua baris pertama pantun empat kerat dinamakan…"
+      },
+      "explanation": {
+        "en": "Dua baris akhir ialah maksud.",
+        "bm": "Dua baris akhir ialah maksud."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pembayang",
+          "bm": "pembayang"
+        },
+        {
+          "en": "maksud",
+          "bm": "maksud"
+        },
+        {
+          "en": "tema",
+          "bm": "tema"
+        },
+        {
+          "en": "watak",
+          "bm": "watak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q02",
+      "subtopicId": "f2bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rima akhir pantun empat kerat ialah…",
+        "bm": "Rima akhir pantun empat kerat ialah…"
+      },
+      "explanation": {
+        "en": "Baris selang-seli berima sama.",
+        "bm": "Baris selang-seli berima sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-b-c-d",
+          "bm": "a-b-c-d"
+        },
+        {
+          "en": "a-a-b-b",
+          "bm": "a-a-b-b"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q03",
+      "subtopicId": "f2bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Syair biasanya mempunyai rima akhir…",
+        "bm": "Syair biasanya mempunyai rima akhir…"
+      },
+      "explanation": {
+        "en": "Empat baris berima sama.",
+        "bm": "Empat baris berima sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-b-b-a",
+          "bm": "a-b-b-a"
+        },
+        {
+          "en": "a-b-c-a",
+          "bm": "a-b-c-a"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q04",
+      "subtopicId": "f2bm-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sajak berbeza daripada pantun kerana…",
+        "bm": "Sajak berbeza daripada pantun kerana…"
+      },
+      "explanation": {
+        "en": "Sajak tidak terikat.",
+        "bm": "Sajak tidak terikat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "bentuknya lebih bebas",
+          "bm": "bentuknya lebih bebas"
+        },
+        {
+          "en": "mesti empat baris",
+          "bm": "mesti empat baris"
+        },
+        {
+          "en": "tiada makna",
+          "bm": "tiada makna"
+        },
+        {
+          "en": "tidak boleh ditulis",
+          "bm": "tidak boleh ditulis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q05",
+      "subtopicId": "f2bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tema ialah…",
+        "bm": "Tema ialah…"
+      },
+      "explanation": {
+        "en": "Tema inti karya.",
+        "bm": "Tema inti karya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "persoalan utama",
+          "bm": "persoalan utama"
+        },
+        {
+          "en": "nama watak",
+          "bm": "nama watak"
+        },
+        {
+          "en": "tempat cerita",
+          "bm": "tempat cerita"
+        },
+        {
+          "en": "jumlah halaman",
+          "bm": "jumlah halaman"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q06",
+      "subtopicId": "f2bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Watak utama ialah…",
+        "bm": "Watak utama ialah…"
+      },
+      "explanation": {
+        "en": "Cerita berkisar pada watak itu.",
+        "bm": "Cerita berkisar pada watak itu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pelaku yang menjadi tumpuan cerita",
+          "bm": "pelaku yang menjadi tumpuan cerita"
+        },
+        {
+          "en": "pengarang",
+          "bm": "pengarang"
+        },
+        {
+          "en": "pembaca",
+          "bm": "pembaca"
+        },
+        {
+          "en": "penerbit",
+          "bm": "penerbit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q07",
+      "subtopicId": "f2bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Latar masyarakat merujuk kepada…",
+        "bm": "Latar masyarakat merujuk kepada…"
+      },
+      "explanation": {
+        "en": "Ia menggambarkan masyarakat.",
+        "bm": "Ia menggambarkan masyarakat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "cara hidup masyarakat dalam cerita",
+          "bm": "cara hidup masyarakat dalam cerita"
+        },
+        {
+          "en": "warna kulit buku",
+          "bm": "warna kulit buku"
+        },
+        {
+          "en": "harga novel",
+          "bm": "harga novel"
+        },
+        {
+          "en": "tahun cetakan",
+          "bm": "tahun cetakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-06-q08",
+      "subtopicId": "f2bm-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pengajaran dalam karya bermaksud…",
+        "bm": "Pengajaran dalam karya bermaksud…"
+      },
+      "explanation": {
+        "en": "Diambil daripada peristiwa cerita.",
+        "bm": "Diambil daripada peristiwa cerita."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "iktibar yang boleh diamalkan",
+          "bm": "iktibar yang boleh diamalkan"
+        },
+        {
+          "en": "ringkasan plot",
+          "bm": "ringkasan plot"
+        },
+        {
+          "en": "nama tempat",
+          "bm": "nama tempat"
+        },
+        {
+          "en": "panjang cerita",
+          "bm": "panjang cerita"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

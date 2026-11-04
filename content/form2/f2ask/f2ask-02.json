@@ -1,0 +1,459 @@
+{
+  "chapterId": "f2ask-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A recipe is an algorithm: clear steps, decisions (\"if it boils\") and repeats (\"stir until thick\").",
+      "bm": "Resipi ialah algoritma: langkah jelas, keputusan (\"jika mendidih\") dan ulangan (\"kacau sehingga pekat\")."
+    },
+    "bigIdeas": [
+      {
+        "en": "Algorithms are written as pseudocode or flowcharts.",
+        "bm": "Algoritma ditulis sebagai pseudokod atau carta alir."
+      },
+      {
+        "en": "There are three control structures.",
+        "bm": "Terdapat tiga struktur kawalan."
+      },
+      {
+        "en": "Test algorithms with sample data.",
+        "bm": "Uji algoritma dengan data contoh."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Meaning",
+            "bm": "Maksud"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Sequence",
+              "bm": "Urutan"
+            },
+            "cells": [
+              {
+                "en": "step by step",
+                "bm": "langkah demi langkah"
+              },
+              {
+                "en": "input → output",
+                "bm": "input → output"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Selection",
+              "bm": "Pilihan"
+            },
+            "cells": [
+              {
+                "en": "choose a path",
+                "bm": "memilih laluan"
+              },
+              {
+                "en": "if…else",
+                "bm": "if…else"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Repetition",
+              "bm": "Ulangan"
+            },
+            "cells": [
+              {
+                "en": "repeat steps",
+                "bm": "mengulang langkah"
+              },
+              {
+                "en": "for, while",
+                "bm": "for, while"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Algorithm",
+          "bm": "Algoritma"
+        },
+        "definition": {
+          "en": "Step-by-step instructions that solve a problem.",
+          "bm": "Arahan langkah demi langkah untuk menyelesaikan masalah."
+        }
+      },
+      {
+        "term": {
+          "en": "Pseudocode",
+          "bm": "Pseudokod"
+        },
+        "definition": {
+          "en": "Algorithm written in simple language.",
+          "bm": "Algoritma yang ditulis dalam bahasa mudah."
+        }
+      },
+      {
+        "term": {
+          "en": "Flowchart",
+          "bm": "Carta alir"
+        },
+        "definition": {
+          "en": "Algorithm drawn using symbols.",
+          "bm": "Algoritma yang dilukis menggunakan simbol."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2ask-02-q01",
+      "subtopicId": "f2ask-02-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the flowchart symbol to its use.",
+        "bm": "Padankan simbol carta alir dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "These are standard symbols.",
+        "bm": "Ini simbol piawai."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Oval",
+            "bm": "Bujur"
+          },
+          "right": {
+            "en": "start or end",
+            "bm": "mula atau tamat"
+          }
+        },
+        {
+          "left": {
+            "en": "Diamond",
+            "bm": "Berlian"
+          },
+          "right": {
+            "en": "decision",
+            "bm": "keputusan"
+          }
+        },
+        {
+          "left": {
+            "en": "Rectangle",
+            "bm": "Segi empat tepat"
+          },
+          "right": {
+            "en": "process",
+            "bm": "proses"
+          }
+        },
+        {
+          "left": {
+            "en": "Parallelogram",
+            "bm": "Segi empat selari"
+          },
+          "right": {
+            "en": "input or output",
+            "bm": "input atau output"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2ask-02-q02",
+      "subtopicId": "f2ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pseudocode is…",
+        "bm": "Pseudokod ialah…"
+      },
+      "explanation": {
+        "en": "It is not actual code.",
+        "bm": "Ia bukan kod sebenar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "steps in simple language",
+          "bm": "langkah dalam bahasa mudah"
+        },
+        {
+          "en": "a type of hardware",
+          "bm": "sejenis perkakasan"
+        },
+        {
+          "en": "a picture",
+          "bm": "gambar"
+        },
+        {
+          "en": "a virus",
+          "bm": "virus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q03",
+      "subtopicId": "f2ask-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A flowchart must always have…",
+        "bm": "Carta alir mesti sentiasa mempunyai…"
+      },
+      "explanation": {
+        "en": "Every algorithm must finish.",
+        "bm": "Setiap algoritma mesti tamat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a start and an end",
+          "bm": "mula dan tamat"
+        },
+        {
+          "en": "ten boxes",
+          "bm": "sepuluh kotak"
+        },
+        {
+          "en": "a loop",
+          "bm": "gelung"
+        },
+        {
+          "en": "music",
+          "bm": "muzik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q04",
+      "subtopicId": "f2ask-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"If marks ≥ 40 print Pass\" is…",
+        "bm": "\"Jika markah ≥ 40 cetak Lulus\" ialah…"
+      },
+      "explanation": {
+        "en": "A condition chooses the path.",
+        "bm": "Syarat memilih laluan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "selection",
+          "bm": "pilihan"
+        },
+        {
+          "en": "sequence",
+          "bm": "urutan"
+        },
+        {
+          "en": "repetition",
+          "bm": "ulangan"
+        },
+        {
+          "en": "input",
+          "bm": "input"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q05",
+      "subtopicId": "f2ask-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Printing 1 to 10 uses…",
+        "bm": "Mencetak 1 hingga 10 menggunakan…"
+      },
+      "explanation": {
+        "en": "A loop repeats.",
+        "bm": "Gelung mengulang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "repetition",
+          "bm": "ulangan"
+        },
+        {
+          "en": "selection",
+          "bm": "pilihan"
+        },
+        {
+          "en": "a decision only",
+          "bm": "keputusan sahaja"
+        },
+        {
+          "en": "no structure",
+          "bm": "tiada struktur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q06",
+      "subtopicId": "f2ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A loop runs \"for i = 1 to 5\". How many times does it run?",
+        "bm": "Gelung \"for i = 1 hingga 5\". Berapa kali ia berjalan?"
+      },
+      "explanation": {
+        "en": "1, 2, 3, 4, 5.",
+        "bm": "1, 2, 3, 4, 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-02-q07",
+      "subtopicId": "f2ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "total = 0; for i = 1 to 4: total = total + i. Find total.",
+        "bm": "jumlah = 0; for i = 1 hingga 4: jumlah = jumlah + i. Cari jumlah."
+      },
+      "explanation": {
+        "en": "1 + 2 + 3 + 4.",
+        "bm": "1 + 2 + 3 + 4."
+      },
+      "difficulty": 3,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-02-q08",
+      "subtopicId": "f2ask-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "x = 3; while x < 10: x = x + 2. What is x at the end?",
+        "bm": "x = 3; while x < 10: x = x + 2. Apakah x pada akhirnya?"
+      },
+      "explanation": {
+        "en": "3, 5, 7, 9, 11.",
+        "bm": "3, 5, 7, 9, 11."
+      },
+      "difficulty": 3,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-02-q09",
+      "subtopicId": "f2ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why test an algorithm?",
+        "bm": "Mengapa menguji algoritma?"
+      },
+      "explanation": {
+        "en": "Errors are cheaper to fix early.",
+        "bm": "Ralat lebih murah dibaiki awal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "To find errors",
+          "bm": "Untuk mencari ralat"
+        },
+        {
+          "en": "To make it longer",
+          "bm": "Untuk memanjangkannya"
+        },
+        {
+          "en": "To add colours",
+          "bm": "Untuk menambah warna"
+        },
+        {
+          "en": "To delete it",
+          "bm": "Untuk memadamnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q10",
+      "subtopicId": "f2ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logic error means…",
+        "bm": "Ralat logik bermaksud…"
+      },
+      "explanation": {
+        "en": "The steps themselves are wrong.",
+        "bm": "Langkah itu sendiri salah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "it runs but gives a wrong answer",
+          "bm": "ia berjalan tetapi jawapan salah"
+        },
+        {
+          "en": "it will not start",
+          "bm": "ia tidak bermula"
+        },
+        {
+          "en": "the screen is broken",
+          "bm": "skrin rosak"
+        },
+        {
+          "en": "a spelling error in comments",
+          "bm": "ejaan salah dalam komen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-02-q11",
+      "subtopicId": "f2ask-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which test data is best for \"marks ≥ 40\"?",
+        "bm": "Data ujian manakah terbaik untuk \"markah ≥ 40\"?"
+      },
+      "explanation": {
+        "en": "Test around the boundary.",
+        "bm": "Uji sekitar sempadan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "39, 40, 41",
+          "bm": "39, 40, 41"
+        },
+        {
+          "en": "40 only",
+          "bm": "40 only"
+        },
+        {
+          "en": "100 only",
+          "bm": "100 only"
+        },
+        {
+          "en": "0 only",
+          "bm": "0 only"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

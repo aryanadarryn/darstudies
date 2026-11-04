@@ -1,0 +1,583 @@
+{
+  "chapterId": "f2math-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Unfold a tissue box and it lies flat. That flat shape, the net, tells you exactly how much card is needed to make it.",
+      "bm": "Buka kotak tisu dan ia menjadi rata. Bentuk rata itu, iaitu bentangan, menunjukkan jumlah kad yang diperlukan untuk membuatnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "3D shapes are described by faces, edges and vertices.",
+        "bm": "Bentuk 3D dihuraikan melalui permukaan, tepi dan bucu."
+      },
+      {
+        "en": "Surface area is the total area of the net.",
+        "bm": "Luas permukaan ialah jumlah luas bentangan."
+      },
+      {
+        "en": "Volume is the space a solid occupies.",
+        "bm": "Isi padu ialah ruang yang dipenuhi oleh pepejal."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Volume",
+            "bm": "Isi padu"
+          },
+          {
+            "en": "Surface area",
+            "bm": "Luas permukaan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Cylinder",
+              "bm": "Silinder"
+            },
+            "cells": [
+              {
+                "en": "πr²h",
+                "bm": "πr²h"
+              },
+              {
+                "en": "2πr² + 2πrh",
+                "bm": "2πr² + 2πrh"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Cone",
+              "bm": "Kon"
+            },
+            "cells": [
+              {
+                "en": "⅓πr²h",
+                "bm": "⅓πr²h"
+              },
+              {
+                "en": "πr² + πrs",
+                "bm": "πr² + πrs"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sphere",
+              "bm": "Sfera"
+            },
+            "cells": [
+              {
+                "en": "(4/3)πr³",
+                "bm": "(4/3)πr³"
+              },
+              {
+                "en": "4πr²",
+                "bm": "4πr²"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Face",
+          "bm": "Permukaan"
+        },
+        "definition": {
+          "en": "A flat or curved surface of a solid.",
+          "bm": "Permukaan rata atau melengkung pada pepejal."
+        }
+      },
+      {
+        "term": {
+          "en": "Edge",
+          "bm": "Tepi"
+        },
+        "definition": {
+          "en": "Where two faces meet.",
+          "bm": "Tempat dua permukaan bertemu."
+        }
+      },
+      {
+        "term": {
+          "en": "Vertex",
+          "bm": "Bucu"
+        },
+        "definition": {
+          "en": "A corner of a solid.",
+          "bm": "Penjuru pepejal."
+        }
+      },
+      {
+        "term": {
+          "en": "Net",
+          "bm": "Bentangan"
+        },
+        "definition": {
+          "en": "A flat shape that folds into a solid.",
+          "bm": "Bentuk rata yang boleh dilipat menjadi pepejal."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-vol-cyl",
+      "f2-vol-cone",
+      "f2-vol-sph",
+      "f2-sa-sph"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the volume of a cylinder with r = 7 cm and h = 10 cm (π = 22/7).",
+        "bm": "Cari isi padu silinder dengan j = 7 cm dan t = 10 cm (π = 22/7)."
+      },
+      "steps": [
+        {
+          "en": "V = πr²h",
+          "bm": "V = πj²t"
+        },
+        {
+          "en": "22/7 × 49 × 10",
+          "bm": "22/7 × 49 × 10"
+        }
+      ],
+      "answer": {
+        "en": "1540 cm³",
+        "bm": "1540 cm³"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-06-q01",
+      "subtopicId": "f2math-06-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the solid with its number of faces (flat and curved).",
+        "bm": "Padankan pepejal dengan bilangan permukaannya (rata dan melengkung)."
+      },
+      "explanation": {
+        "en": "Count every flat and curved surface.",
+        "bm": "Kira setiap permukaan rata dan melengkung."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Cube",
+            "bm": "Kubus"
+          },
+          "right": {
+            "en": "6",
+            "bm": "6"
+          }
+        },
+        {
+          "left": {
+            "en": "Cylinder",
+            "bm": "Silinder"
+          },
+          "right": {
+            "en": "3",
+            "bm": "3"
+          }
+        },
+        {
+          "left": {
+            "en": "Cone",
+            "bm": "Kon"
+          },
+          "right": {
+            "en": "2",
+            "bm": "2"
+          }
+        },
+        {
+          "left": {
+            "en": "Sphere",
+            "bm": "Sfera"
+          },
+          "right": {
+            "en": "1",
+            "bm": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2math-06-q02",
+      "subtopicId": "f2math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many edges does a cuboid have?",
+        "bm": "Berapakah bilangan tepi kuboid?"
+      },
+      "explanation": {
+        "en": "4 + 4 + 4 = 12 edges.",
+        "bm": "4 + 4 + 4 = 12 tepi."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-06-q03",
+      "subtopicId": "f2math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many vertices does a triangular prism have?",
+        "bm": "Berapakah bilangan bucu prisma segi tiga?"
+      },
+      "explanation": {
+        "en": "Two triangles with 3 vertices each.",
+        "bm": "Dua segi tiga dengan 3 bucu setiap satu."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-06-q04",
+      "subtopicId": "f2math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A pyramid has a square base. How many edges?",
+        "bm": "Piramid bertapak segi empat sama. Berapa tepi?"
+      },
+      "explanation": {
+        "en": "4 on the base and 4 rising to the apex.",
+        "bm": "4 pada tapak dan 4 ke puncak."
+      },
+      "difficulty": 2,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-06-q05",
+      "subtopicId": "f2math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The net of a cylinder has…",
+        "bm": "Bentangan silinder mempunyai…"
+      },
+      "explanation": {
+        "en": "The curved face opens to a rectangle.",
+        "bm": "Permukaan melengkung terbuka menjadi segi empat tepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "two circles and a rectangle",
+          "bm": "dua bulatan dan satu segi empat tepat"
+        },
+        {
+          "en": "one circle and a sector",
+          "bm": "satu bulatan dan satu sektor"
+        },
+        {
+          "en": "six squares",
+          "bm": "enam segi empat sama"
+        },
+        {
+          "en": "two triangles",
+          "bm": "dua segi tiga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-06-q06",
+      "subtopicId": "f2math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The net of a cone has…",
+        "bm": "Bentangan kon mempunyai…"
+      },
+      "explanation": {
+        "en": "The curved face opens to a sector.",
+        "bm": "Permukaan melengkung terbuka menjadi sektor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a circle and a sector",
+          "bm": "bulatan dan sektor"
+        },
+        {
+          "en": "two circles",
+          "bm": "dua bulatan"
+        },
+        {
+          "en": "a square and four triangles",
+          "bm": "segi empat sama dan empat segi tiga"
+        },
+        {
+          "en": "three rectangles",
+          "bm": "tiga segi empat tepat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-06-q07",
+      "subtopicId": "f2math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many squares are in the net of a cube?",
+        "bm": "Berapa segi empat sama dalam bentangan kubus?"
+      },
+      "explanation": {
+        "en": "One for each face.",
+        "bm": "Satu bagi setiap permukaan."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-06-q08",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the surface area of a cube with side 2 cm.",
+        "bm": "Cari luas permukaan kubus bersisi 2 cm."
+      },
+      "explanation": {
+        "en": "6 × 2² = 24.",
+        "bm": "6 × 2² = 24."
+      },
+      "difficulty": 1,
+      "answer": 24,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q09",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the surface area of a cube with side 3 cm.",
+        "bm": "Cari luas permukaan kubus bersisi 3 cm."
+      },
+      "explanation": {
+        "en": "6 × 3² = 54.",
+        "bm": "6 × 3² = 54."
+      },
+      "difficulty": 1,
+      "answer": 54,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q10",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the surface area of a cube with side 5 cm.",
+        "bm": "Cari luas permukaan kubus bersisi 5 cm."
+      },
+      "explanation": {
+        "en": "6 × 5² = 150.",
+        "bm": "6 × 5² = 150."
+      },
+      "difficulty": 1,
+      "answer": 150,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q11",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the total surface area of a closed cylinder: r = 7 cm, h = 10 cm. (π = 22/7)",
+        "bm": "Cari jumlah luas permukaan silinder tertutup: j = 7 cm, t = 10 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "2πr² + 2πrh.",
+        "bm": "2πj² + 2πjt."
+      },
+      "difficulty": 2,
+      "answer": 748,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q12",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the total surface area of a closed cylinder: r = 7 cm, h = 5 cm. (π = 22/7)",
+        "bm": "Cari jumlah luas permukaan silinder tertutup: j = 7 cm, t = 5 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "2πr² + 2πrh.",
+        "bm": "2πj² + 2πjt."
+      },
+      "difficulty": 2,
+      "answer": 528,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q13",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the surface area of a sphere with radius 7 cm. (π = 22/7)",
+        "bm": "Cari luas permukaan sfera berjejari 7 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "4 × 22/7 × 49 = 616.",
+        "bm": "4 × 22/7 × 49 = 616."
+      },
+      "difficulty": 3,
+      "answer": 616,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q14",
+      "subtopicId": "f2math-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A cone has r = 7 cm and slant height 10 cm. Find the total surface area. (π = 22/7)",
+        "bm": "Kon dengan j = 7 cm dan tinggi condong 10 cm. Cari jumlah luas permukaan. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "πr² + πrs = 154 + 220 = 374.",
+        "bm": "πj² + πjs = 154 + 220 = 374."
+      },
+      "difficulty": 3,
+      "answer": 374,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-06-q15",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a cylinder: r = 7 cm, h = 10 cm. (π = 22/7)",
+        "bm": "Cari isi padu silinder: j = 7 cm, t = 10 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 7² × 10.",
+        "bm": "22/7 × 7² × 10."
+      },
+      "difficulty": 2,
+      "answer": 1540,
+      "tolerance": 0.01,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q16",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a cylinder: r = 7 cm, h = 4 cm. (π = 22/7)",
+        "bm": "Cari isi padu silinder: j = 7 cm, t = 4 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 7² × 4.",
+        "bm": "22/7 × 7² × 4."
+      },
+      "difficulty": 2,
+      "answer": 616,
+      "tolerance": 0.01,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q17",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a cylinder: r = 14 cm, h = 3 cm. (π = 22/7)",
+        "bm": "Cari isi padu silinder: j = 14 cm, t = 3 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 14² × 3.",
+        "bm": "22/7 × 14² × 3."
+      },
+      "difficulty": 2,
+      "answer": 1848,
+      "tolerance": 0.01,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q18",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a cone: r = 7 cm, h = 9 cm. (π = 22/7)",
+        "bm": "Cari isi padu kon: j = 7 cm, t = 9 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "⅓ × 22/7 × 49 × 9 = 462.",
+        "bm": "⅓ × 22/7 × 49 × 9 = 462."
+      },
+      "difficulty": 2,
+      "answer": 462,
+      "tolerance": 0.01,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q19",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a pyramid: base area 30 cm², height 10 cm.",
+        "bm": "Cari isi padu piramid: luas tapak 30 cm², tinggi 10 cm."
+      },
+      "explanation": {
+        "en": "⅓ × 30 × 10 = 100.",
+        "bm": "⅓ × 30 × 10 = 100."
+      },
+      "difficulty": 2,
+      "answer": 100,
+      "tolerance": 0,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q20",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the volume of a sphere with radius 3 cm, using π = 3.142, to 2 d.p.",
+        "bm": "Cari isi padu sfera berjejari 3 cm, guna π = 3.142, kepada 2 t.p."
+      },
+      "explanation": {
+        "en": "4/3 × 3.142 × 27 = 113.11.",
+        "bm": "4/3 × 3.142 × 27 = 113.11."
+      },
+      "difficulty": 3,
+      "answer": 113.11,
+      "tolerance": 0.005,
+      "unit": "cm³"
+    },
+    {
+      "id": "f2math-06-q21",
+      "subtopicId": "f2math-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A cylinder holds 1540 cm³ and has r = 7 cm. Find its height. (π = 22/7)",
+        "bm": "Silinder memuatkan 1540 cm³ dan j = 7 cm. Cari tingginya. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "h = 1540 ÷ (22/7 × 49) = 10.",
+        "bm": "t = 1540 ÷ (22/7 × 49) = 10."
+      },
+      "difficulty": 3,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "cm"
+    }
+  ]
+}

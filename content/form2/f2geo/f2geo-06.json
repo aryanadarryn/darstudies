@@ -1,0 +1,450 @@
+{
+  "chapterId": "f2geo-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Malaysia has its own satellites, the MEASAT series, carrying television and internet across the country.",
+      "bm": "Malaysia mempunyai satelit sendiri, siri MEASAT, yang membawa televisyen dan internet ke seluruh negara."
+    },
+    "bigIdeas": [
+      {
+        "en": "Telecommunications sends information over distance.",
+        "bm": "Telekomunikasi menghantar maklumat pada jarak jauh."
+      },
+      {
+        "en": "It supports learning, work and business.",
+        "bm": "Ia menyokong pembelajaran, kerja dan perniagaan."
+      },
+      {
+        "en": "Coverage gaps and cybercrime are challenges.",
+        "bm": "Liputan tidak menyeluruh dan jenayah siber ialah cabaran."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Telecommunications",
+          "bm": "Telekomunikasi"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Telephone",
+              "bm": "Telefon"
+            },
+            "detail": {
+              "en": "Voice calls",
+              "bm": "Panggilan suara"
+            }
+          },
+          {
+            "label": {
+              "en": "Internet",
+              "bm": "Internet"
+            },
+            "detail": {
+              "en": "Global network",
+              "bm": "Rangkaian global"
+            }
+          },
+          {
+            "label": {
+              "en": "Radio and TV",
+              "bm": "Radio dan TV"
+            },
+            "detail": {
+              "en": "Broadcasting",
+              "bm": "Penyiaran"
+            }
+          },
+          {
+            "label": {
+              "en": "Satellite",
+              "bm": "Satelit"
+            },
+            "detail": {
+              "en": "MEASAT",
+              "bm": "MEASAT"
+            }
+          },
+          {
+            "label": {
+              "en": "Fibre optics",
+              "bm": "Gentian optik"
+            },
+            "detail": {
+              "en": "High speed cables",
+              "bm": "Kabel laju tinggi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Telecommunications",
+          "bm": "Telekomunikasi"
+        },
+        "definition": {
+          "en": "Exchange of information over distance by electronic means.",
+          "bm": "Pertukaran maklumat jarak jauh secara elektronik."
+        }
+      },
+      {
+        "term": {
+          "en": "Satellite",
+          "bm": "Satelit"
+        },
+        "definition": {
+          "en": "A body in orbit that relays signals.",
+          "bm": "Objek dalam orbit yang memancarkan isyarat."
+        }
+      },
+      {
+        "term": {
+          "en": "Digital divide",
+          "bm": "Jurang digital"
+        },
+        "definition": {
+          "en": "Gap between those with and without internet.",
+          "bm": "Jurang antara yang ada dan tiada internet."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-06-q01",
+      "subtopicId": "f2geo-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "MEASAT is a Malaysian…",
+        "bm": "MEASAT ialah … Malaysia."
+      },
+      "explanation": {
+        "en": "It serves TV and broadband.",
+        "bm": "Ia untuk TV dan jalur lebar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "satellite",
+          "bm": "satelit"
+        },
+        {
+          "en": "train",
+          "bm": "kereta api"
+        },
+        {
+          "en": "ship",
+          "bm": "kapal"
+        },
+        {
+          "en": "bank",
+          "bm": "bank"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q02",
+      "subtopicId": "f2geo-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fibre optic cables use…",
+        "bm": "Kabel gentian optik menggunakan…"
+      },
+      "explanation": {
+        "en": "Light carries data fast.",
+        "bm": "Cahaya membawa data dengan laju."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "light signals",
+          "bm": "isyarat cahaya"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "steam",
+          "bm": "wap"
+        },
+        {
+          "en": "sound in air",
+          "bm": "bunyi di udara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q03",
+      "subtopicId": "f2geo-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "5G is mainly used for…",
+        "bm": "5G digunakan terutamanya untuk…"
+      },
+      "explanation": {
+        "en": "It increases speed and capacity.",
+        "bm": "Ia menambah laju dan kapasiti."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "fast mobile data",
+          "bm": "data mudah alih pantas"
+        },
+        {
+          "en": "cooking",
+          "bm": "memasak"
+        },
+        {
+          "en": "irrigation",
+          "bm": "pengairan"
+        },
+        {
+          "en": "road building",
+          "bm": "membina jalan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q04",
+      "subtopicId": "f2geo-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a benefit of telecommunications?",
+        "bm": "Yang manakah manfaat telekomunikasi?"
+      },
+      "explanation": {
+        "en": "Students can study anywhere.",
+        "bm": "Murid boleh belajar di mana-mana."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Online learning",
+          "bm": "Pembelajaran dalam talian"
+        },
+        {
+          "en": "More floods",
+          "bm": "Lebih banyak banjir"
+        },
+        {
+          "en": "Less information",
+          "bm": "Kurang maklumat"
+        },
+        {
+          "en": "Fewer jobs",
+          "bm": "Kurang pekerjaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q05",
+      "subtopicId": "f2geo-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "E-commerce helps small businesses by…",
+        "bm": "E-dagang membantu perniagaan kecil dengan…"
+      },
+      "explanation": {
+        "en": "Markets become wider.",
+        "bm": "Pasaran menjadi lebih luas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "reaching more customers",
+          "bm": "mencapai lebih ramai pelanggan"
+        },
+        {
+          "en": "closing shops",
+          "bm": "menutup kedai"
+        },
+        {
+          "en": "stopping delivery",
+          "bm": "menghentikan penghantaran"
+        },
+        {
+          "en": "banning money",
+          "bm": "melarang wang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q06",
+      "subtopicId": "f2geo-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How does telecoms help in disasters?",
+        "bm": "Bagaimana telekomunikasi membantu semasa bencana?"
+      },
+      "explanation": {
+        "en": "Fast information saves lives.",
+        "bm": "Maklumat pantas menyelamatkan nyawa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It sends warnings and coordinates rescue",
+          "bm": "Menghantar amaran dan menyelaras bantuan"
+        },
+        {
+          "en": "It stops rain",
+          "bm": "Menghentikan hujan"
+        },
+        {
+          "en": "It moves water",
+          "bm": "Menggerakkan air"
+        },
+        {
+          "en": "It builds dams",
+          "bm": "Membina empangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q07",
+      "subtopicId": "f2geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A major online risk is…",
+        "bm": "Risiko utama dalam talian ialah…"
+      },
+      "explanation": {
+        "en": "Scams and hacking are examples.",
+        "bm": "Penipuan dan penggodaman ialah contoh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cybercrime",
+          "bm": "jenayah siber"
+        },
+        {
+          "en": "rain",
+          "bm": "hujan"
+        },
+        {
+          "en": "drought",
+          "bm": "kemarau"
+        },
+        {
+          "en": "traffic jams",
+          "bm": "kesesakan lalu lintas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q08",
+      "subtopicId": "f2geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The digital divide means…",
+        "bm": "Jurang digital bermaksud…"
+      },
+      "explanation": {
+        "en": "Rural areas may be left behind.",
+        "bm": "Kawasan luar bandar mungkin ketinggalan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "some areas lack good internet",
+          "bm": "sesetengah kawasan kekurangan internet baik"
+        },
+        {
+          "en": "too many phones",
+          "bm": "terlalu banyak telefon"
+        },
+        {
+          "en": "free internet",
+          "bm": "internet percuma"
+        },
+        {
+          "en": "faster trains",
+          "bm": "tren lebih laju"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q09",
+      "subtopicId": "f2geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it costly to serve the interior of Sarawak?",
+        "bm": "Mengapa mahal membekalkan perkhidmatan ke pedalaman Sarawak?"
+      },
+      "explanation": {
+        "en": "Towers are expensive to build and maintain there.",
+        "bm": "Menara mahal dibina dan diselenggara di situ."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Terrain is rugged and population scattered",
+          "bm": "Muka bumi lasak dan penduduk berselerak"
+        },
+        {
+          "en": "No sunlight",
+          "bm": "Tiada cahaya matahari"
+        },
+        {
+          "en": "Too many towers",
+          "bm": "Terlalu banyak menara"
+        },
+        {
+          "en": "No need for it",
+          "bm": "Tiada keperluan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-06-q10",
+      "subtopicId": "f2geo-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is a responsible online action?",
+        "bm": "Apakah tindakan bertanggungjawab dalam talian?"
+      },
+      "explanation": {
+        "en": "It reduces fake news.",
+        "bm": "Ia mengurangkan berita palsu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Check facts before sharing",
+          "bm": "Semak fakta sebelum berkongsi"
+        },
+        {
+          "en": "Share all rumours",
+          "bm": "Kongsi semua khabar angin"
+        },
+        {
+          "en": "Share your password",
+          "bm": "Kongsi kata laluan"
+        },
+        {
+          "en": "Reply to scam calls",
+          "bm": "Membalas panggilan penipuan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

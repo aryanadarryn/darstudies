@@ -1,0 +1,354 @@
+{
+  "chapterId": "f2pjk-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "One-quarter protein, one-quarter carbohydrates, half vegetables and fruit: that is the Malaysian Healthy Plate.",
+      "bm": "Suku protein, suku karbohidrat, separuh sayur dan buah: itulah Pinggan Sihat Malaysia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Use the Healthy Plate as a guide.",
+        "bm": "Gunakan Pinggan Sihat sebagai panduan."
+      },
+      {
+        "en": "Avoid too much sugar, salt and fat.",
+        "bm": "Elak terlalu banyak gula, garam dan lemak."
+      },
+      {
+        "en": "A healthy body image matters.",
+        "bm": "Imej badan sihat penting."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Part of plate",
+          "bm": "Bahagian pinggan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Half",
+              "bm": "Separuh"
+            },
+            "detail": {
+              "en": "Vegetables and fruit",
+              "bm": "Sayur dan buah"
+            }
+          },
+          {
+            "label": {
+              "en": "Quarter",
+              "bm": "Suku"
+            },
+            "detail": {
+              "en": "Protein",
+              "bm": "Protein"
+            }
+          },
+          {
+            "label": {
+              "en": "Quarter",
+              "bm": "Suku"
+            },
+            "detail": {
+              "en": "Carbohydrates",
+              "bm": "Karbohidrat"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Healthy Plate",
+          "bm": "Pinggan Sihat"
+        },
+        "definition": {
+          "en": "A guide to food proportions.",
+          "bm": "Panduan kadar makanan."
+        }
+      },
+      {
+        "term": {
+          "en": "Body image",
+          "bm": "Imej badan"
+        },
+        "definition": {
+          "en": "How a person sees their own body.",
+          "bm": "Cara seseorang melihat badan sendiri."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pjk-03-q01",
+      "subtopicId": "f2pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the Malaysian Healthy Plate, half is…",
+        "bm": "Dalam Pinggan Sihat Malaysia, separuh ialah…"
+      },
+      "explanation": {
+        "en": "\"Suku Suku Separuh\".",
+        "bm": "\"Suku Suku Separuh\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "vegetables and fruit",
+          "bm": "sayur dan buah"
+        },
+        {
+          "en": "rice",
+          "bm": "nasi"
+        },
+        {
+          "en": "meat",
+          "bm": "daging"
+        },
+        {
+          "en": "sweets",
+          "bm": "gula-gula"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q02",
+      "subtopicId": "f2pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which drink is best at meals?",
+        "bm": "Minuman manakah terbaik semasa makan?"
+      },
+      "explanation": {
+        "en": "It has no added sugar.",
+        "bm": "Tiada gula tambahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Plain water",
+          "bm": "Air kosong"
+        },
+        {
+          "en": "Sweetened soda",
+          "bm": "Minuman soda bergula"
+        },
+        {
+          "en": "Energy drink",
+          "bm": "Minuman tenaga"
+        },
+        {
+          "en": "Syrup",
+          "bm": "Sirap"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q03",
+      "subtopicId": "f2pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a healthier cooking method?",
+        "bm": "Kaedah memasak manakah lebih sihat?"
+      },
+      "explanation": {
+        "en": "It adds no extra fat.",
+        "bm": "Tiada lemak tambahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Steaming",
+          "bm": "Mengukus"
+        },
+        {
+          "en": "Deep-frying",
+          "bm": "Menggoreng rendam"
+        },
+        {
+          "en": "Double frying",
+          "bm": "Menggoreng dua kali"
+        },
+        {
+          "en": "Adding more oil",
+          "bm": "Menambah minyak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q04",
+      "subtopicId": "f2pjk-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A food label shows 20 g sugar per serving. Why check it?",
+        "bm": "Label makanan menunjukkan 20 g gula sehidangan. Mengapa semak?"
+      },
+      "explanation": {
+        "en": "Sugar adds up quickly.",
+        "bm": "Gula cepat terkumpul."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To stay within daily limits",
+          "bm": "Untuk kekal dalam had harian"
+        },
+        {
+          "en": "To find the price",
+          "bm": "Untuk mencari harga"
+        },
+        {
+          "en": "To check colour",
+          "bm": "Untuk menyemak warna"
+        },
+        {
+          "en": "To find the shop",
+          "bm": "Untuk mencari kedai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q05",
+      "subtopicId": "f2pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Skipping breakfast often leads to…",
+        "bm": "Tidak bersarapan sering menyebabkan…"
+      },
+      "explanation": {
+        "en": "The brain needs fuel.",
+        "bm": "Otak memerlukan tenaga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "less focus in class",
+          "bm": "kurang fokus di kelas"
+        },
+        {
+          "en": "more energy",
+          "bm": "lebih tenaga"
+        },
+        {
+          "en": "better marks always",
+          "bm": "markah sentiasa baik"
+        },
+        {
+          "en": "longer sleep",
+          "bm": "tidur lebih lama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q06",
+      "subtopicId": "f2pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a healthy habit?",
+        "bm": "Yang manakah tabiat sihat?"
+      },
+      "explanation": {
+        "en": "It keeps energy steady.",
+        "bm": "Ia menstabilkan tenaga."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Eating at regular times",
+          "bm": "Makan pada waktu tetap"
+        },
+        {
+          "en": "Eating only snacks",
+          "bm": "Makan snek sahaja"
+        },
+        {
+          "en": "Fasting for fun",
+          "bm": "Berlapar untuk suka-suka"
+        },
+        {
+          "en": "Eating very late every night",
+          "bm": "Makan lewat setiap malam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q07",
+      "subtopicId": "f2pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is unhealthy about extreme dieting?",
+        "bm": "Apa yang tidak sihat tentang diet melampau?"
+      },
+      "explanation": {
+        "en": "Teens need nutrients.",
+        "bm": "Remaja memerlukan nutrien."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Lack of nutrients for growth",
+          "bm": "Kekurangan nutrien untuk tumbesaran"
+        },
+        {
+          "en": "It saves money",
+          "bm": "Ia menjimatkan wang"
+        },
+        {
+          "en": "It adds vitamins",
+          "bm": "Ia menambah vitamin"
+        },
+        {
+          "en": "It is always safe",
+          "bm": "Ia sentiasa selamat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-03-q08",
+      "subtopicId": "f2pjk-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A friend feels ashamed of their body and eats very little. You should…",
+        "bm": "Rakan malu dengan badannya dan makan sangat sedikit. Anda patut…"
+      },
+      "explanation": {
+        "en": "This may need professional help.",
+        "bm": "Ini mungkin memerlukan bantuan profesional."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "encourage them to speak with a trusted adult",
+          "bm": "menggalakkannya bercakap dengan orang dewasa dipercayai"
+        },
+        {
+          "en": "tease them",
+          "bm": "mengusiknya"
+        },
+        {
+          "en": "ignore them",
+          "bm": "mengabaikannya"
+        },
+        {
+          "en": "suggest eating less",
+          "bm": "mencadangkan makan kurang"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

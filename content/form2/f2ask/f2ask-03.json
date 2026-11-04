@@ -1,0 +1,422 @@
+{
+  "chapterId": "f2ask-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every app on your phone is built from variables, conditions and loops, the same ideas you practised in algorithms.",
+      "bm": "Setiap aplikasi telefon dibina daripada pemboleh ubah, syarat dan gelung, idea yang sama dalam algoritma."
+    },
+    "bigIdeas": [
+      {
+        "en": "Code runs in a programming environment.",
+        "bm": "Kod berjalan dalam persekitaran pengaturcaraan."
+      },
+      {
+        "en": "Variables change; constants stay the same.",
+        "bm": "Pemboleh ubah berubah; pemalar kekal."
+      },
+      {
+        "en": "Operators do calculations and comparisons.",
+        "bm": "Operator melakukan pengiraan dan perbandingan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Data type",
+          "bm": "Jenis data"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Integer",
+              "bm": "Integer"
+            },
+            "detail": {
+              "en": "25",
+              "bm": "25"
+            }
+          },
+          {
+            "label": {
+              "en": "Float",
+              "bm": "Float"
+            },
+            "detail": {
+              "en": "3.14",
+              "bm": "3.14"
+            }
+          },
+          {
+            "label": {
+              "en": "String",
+              "bm": "String"
+            },
+            "detail": {
+              "en": "\"Ali\"",
+              "bm": "\"Ali\""
+            }
+          },
+          {
+            "label": {
+              "en": "Boolean",
+              "bm": "Boolean"
+            },
+            "detail": {
+              "en": "True / False",
+              "bm": "True / False"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Variable",
+          "bm": "Pemboleh ubah"
+        },
+        "definition": {
+          "en": "A named store whose value can change.",
+          "bm": "Storan bernama yang nilainya boleh berubah."
+        }
+      },
+      {
+        "term": {
+          "en": "Constant",
+          "bm": "Pemalar"
+        },
+        "definition": {
+          "en": "A named value that does not change.",
+          "bm": "Nilai bernama yang tidak berubah."
+        }
+      },
+      {
+        "term": {
+          "en": "Operator",
+          "bm": "Operator"
+        },
+        "definition": {
+          "en": "A symbol that acts on values.",
+          "bm": "Simbol yang bertindak pada nilai."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2ask-03-q01",
+      "subtopicId": "f2ask-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An IDE is used to…",
+        "bm": "IDE digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Integrated Development Environment.",
+        "bm": "Persekitaran Pembangunan Bersepadu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "write and run code",
+          "bm": "menulis dan menjalankan kod"
+        },
+        {
+          "en": "print paper",
+          "bm": "mencetak kertas"
+        },
+        {
+          "en": "cook",
+          "bm": "memasak"
+        },
+        {
+          "en": "send post",
+          "bm": "menghantar pos"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q02",
+      "subtopicId": "f2ask-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a block-based coding tool?",
+        "bm": "Yang manakah alat pengekodan berasaskan blok?"
+      },
+      "explanation": {
+        "en": "Blocks snap together.",
+        "bm": "Blok disambung bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Scratch",
+          "bm": "Scratch"
+        },
+        {
+          "en": "Excel",
+          "bm": "Excel"
+        },
+        {
+          "en": "Paint",
+          "bm": "Paint"
+        },
+        {
+          "en": "Word",
+          "bm": "Word"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q03",
+      "subtopicId": "f2ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which data type stores \"Malaysia\"?",
+        "bm": "Jenis data manakah menyimpan \"Malaysia\"?"
+      },
+      "explanation": {
+        "en": "Text is a string.",
+        "bm": "Teks ialah string."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "String",
+          "bm": "String"
+        },
+        {
+          "en": "Integer",
+          "bm": "Integer"
+        },
+        {
+          "en": "Float",
+          "bm": "Float"
+        },
+        {
+          "en": "Boolean",
+          "bm": "Boolean"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q04",
+      "subtopicId": "f2ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which data type stores 3.5?",
+        "bm": "Jenis data manakah menyimpan 3.5?"
+      },
+      "explanation": {
+        "en": "It has a decimal point.",
+        "bm": "Ia ada titik perpuluhan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Float",
+          "bm": "Float"
+        },
+        {
+          "en": "Integer",
+          "bm": "Integer"
+        },
+        {
+          "en": "String",
+          "bm": "String"
+        },
+        {
+          "en": "Boolean",
+          "bm": "Boolean"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q05",
+      "subtopicId": "f2ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which should be a constant?",
+        "bm": "Yang manakah patut menjadi pemalar?"
+      },
+      "explanation": {
+        "en": "π does not change.",
+        "bm": "π tidak berubah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Value of π",
+          "bm": "Nilai π"
+        },
+        {
+          "en": "Your score",
+          "bm": "Skor anda"
+        },
+        {
+          "en": "Current temperature",
+          "bm": "Suhu semasa"
+        },
+        {
+          "en": "Number of visitors",
+          "bm": "Bilangan pelawat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q06",
+      "subtopicId": "f2ask-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is wrong with the name \"2total\"?",
+        "bm": "Apakah salah pada nama \"2total\"?"
+      },
+      "explanation": {
+        "en": "Most languages forbid this.",
+        "bm": "Kebanyakan bahasa melarangnya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It starts with a digit",
+          "bm": "Ia bermula dengan digit"
+        },
+        {
+          "en": "It is too short",
+          "bm": "Ia terlalu pendek"
+        },
+        {
+          "en": "It is too long",
+          "bm": "Ia terlalu panjang"
+        },
+        {
+          "en": "It has lowercase",
+          "bm": "Ia huruf kecil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q07",
+      "subtopicId": "f2ask-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "x = 7 + 3 × 2. Find x.",
+        "bm": "x = 7 + 3 × 2. Cari x."
+      },
+      "explanation": {
+        "en": "Multiply first.",
+        "bm": "Darab dahulu."
+      },
+      "difficulty": 1,
+      "answer": 13,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-03-q08",
+      "subtopicId": "f2ask-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "x = 17 % 5 (remainder). Find x.",
+        "bm": "x = 17 % 5 (baki). Cari x."
+      },
+      "explanation": {
+        "en": "17 = 3 × 5 + 2.",
+        "bm": "17 = 3 × 5 + 2."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-03-q09",
+      "subtopicId": "f2ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In code, \"==\" means…",
+        "bm": "Dalam kod, \"==\" bermaksud…"
+      },
+      "explanation": {
+        "en": "\"=\" assigns; \"==\" compares.",
+        "bm": "\"=\" memberi nilai; \"==\" membandingkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "compare for equality",
+          "bm": "bandingkan kesamaan"
+        },
+        {
+          "en": "assign a value",
+          "bm": "memberi nilai"
+        },
+        {
+          "en": "add two numbers",
+          "bm": "menambah dua nombor"
+        },
+        {
+          "en": "end the program",
+          "bm": "menamatkan program"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q10",
+      "subtopicId": "f2ask-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is printed? a = 5; if a > 3: print(\"Yes\") else: print(\"No\")",
+        "bm": "Apa dicetak? a = 5; if a > 3: print(\"Yes\") else: print(\"No\")"
+      },
+      "explanation": {
+        "en": "5 > 3 is true.",
+        "bm": "5 > 3 benar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Yes",
+          "bm": "Yes"
+        },
+        {
+          "en": "No",
+          "bm": "No"
+        },
+        {
+          "en": "a",
+          "bm": "a"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-03-q11",
+      "subtopicId": "f2ask-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "for i in range(3): count = count + 2, with count starting at 1. Find count.",
+        "bm": "for i in range(3): kira = kira + 2, kira bermula 1. Cari kira."
+      },
+      "explanation": {
+        "en": "1 + 2 + 2 + 2.",
+        "bm": "1 + 2 + 2 + 2."
+      },
+      "difficulty": 3,
+      "answer": 7,
+      "tolerance": 0
+    }
+  ]
+}

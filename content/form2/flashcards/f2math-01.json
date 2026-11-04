@@ -1,0 +1,125 @@
+{
+  "chapterId": "f2math-01",
+  "cards": [
+    {
+      "id": "f2math-01-f01",
+      "subtopicId": "f2math-01-01",
+      "front": {
+        "en": "Pattern",
+        "bm": "Pola"
+      },
+      "back": {
+        "en": "A rule that links a list of numbers or objects.",
+        "bm": "Peraturan yang menghubungkan senarai nombor atau objek."
+      }
+    },
+    {
+      "id": "f2math-01-f02",
+      "subtopicId": "f2math-01-01",
+      "front": {
+        "en": "Pascal's triangle rule",
+        "bm": "Peraturan segi tiga Pascal"
+      },
+      "back": {
+        "en": "Each number is the sum of the two numbers above it.",
+        "bm": "Setiap nombor ialah hasil tambah dua nombor di atasnya."
+      }
+    },
+    {
+      "id": "f2math-01-f03",
+      "subtopicId": "f2math-01-01",
+      "front": {
+        "en": "Fibonacci rule",
+        "bm": "Peraturan Fibonacci"
+      },
+      "back": {
+        "en": "Add the two previous numbers: 1, 1, 2, 3, 5, 8.",
+        "bm": "Tambah dua nombor sebelumnya: 1, 1, 2, 3, 5, 8."
+      }
+    },
+    {
+      "id": "f2math-01-f04",
+      "subtopicId": "f2math-01-01",
+      "front": {
+        "en": "Sum of row n of Pascal's triangle",
+        "bm": "Hasil tambah baris n segi tiga Pascal"
+      },
+      "back": {
+        "en": "2ⁿ",
+        "bm": "2ⁿ"
+      }
+    },
+    {
+      "id": "f2math-01-f05",
+      "subtopicId": "f2math-01-02",
+      "front": {
+        "en": "Sequence",
+        "bm": "Jujukan"
+      },
+      "back": {
+        "en": "Numbers arranged by a pattern.",
+        "bm": "Nombor yang disusun mengikut pola."
+      }
+    },
+    {
+      "id": "f2math-01-f06",
+      "subtopicId": "f2math-01-02",
+      "front": {
+        "en": "2, 6, 18, 54: what is the pattern?",
+        "bm": "2, 6, 18, 54: apakah polanya?"
+      },
+      "back": {
+        "en": "Multiply by 3.",
+        "bm": "Darab dengan 3."
+      }
+    },
+    {
+      "id": "f2math-01-f07",
+      "subtopicId": "f2math-01-02",
+      "front": {
+        "en": "Tₙ means…",
+        "bm": "Tₙ bermaksud…"
+      },
+      "back": {
+        "en": "The nth term of a sequence.",
+        "bm": "Sebutan ke-n dalam jujukan."
+      }
+    },
+    {
+      "id": "f2math-01-f08",
+      "subtopicId": "f2math-01-03",
+      "front": {
+        "en": "Tₙ for a sequence that adds d",
+        "bm": "Tₙ bagi jujukan yang menambah d"
+      },
+      "back": {
+        "en": "Tₙ = a + (n − 1)d, where a is the first term.",
+        "bm": "Tₙ = a + (n − 1)d, dengan a sebutan pertama."
+      }
+    },
+    {
+      "id": "f2math-01-f09",
+      "subtopicId": "f2math-01-03",
+      "front": {
+        "en": "nth term of 3, 5, 7, 9",
+        "bm": "Sebutan ke-n bagi 3, 5, 7, 9"
+      },
+      "back": {
+        "en": "2n + 1",
+        "bm": "2n + 1"
+      }
+    },
+    {
+      "id": "f2math-01-f10",
+      "subtopicId": "f2math-01-03",
+      "front": {
+        "en": "To find which term equals a value",
+        "bm": "Untuk mencari sebutan bagi suatu nilai"
+      },
+      "back": {
+        "en": "Set Tₙ equal to the value and solve for n.",
+        "bm": "Samakan Tₙ dengan nilai itu dan selesaikan n."
+      }
+    }
+  ]
+}

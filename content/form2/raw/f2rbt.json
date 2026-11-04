@@ -1,0 +1,104 @@
+{
+  "id": "f2rbt",
+  "name": {
+    "en": "Design and Technology",
+    "bm": "Reka Bentuk dan Teknologi"
+  },
+  "short": {
+    "en": "D&T",
+    "bm": "RBT"
+  },
+  "color": "#ea580c",
+  "source": "Chapter headings follow the KSSM RBT Form 2 textbook list (Bab 1 Penyelesaian Masalah secara Inventif, Bab 2 Aplikasi Teknologi). Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Inventive Problem Solving",
+        "bm": "Penyelesaian Masalah secara Inventif"
+      },
+      "theme": {
+        "en": "Design and Technology",
+        "bm": "Reka Bentuk dan Teknologi"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Identifying Problems",
+            "bm": "Pengenalpastian Masalah"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Function Analysis",
+            "bm": "Analisis Fungsi"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Physical Contradiction",
+            "bm": "Percanggahan Fizikal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Technology Application",
+        "bm": "Aplikasi Teknologi"
+      },
+      "theme": {
+        "en": "Design and Technology",
+        "bm": "Reka Bentuk dan Teknologi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Manufacturing Technology",
+            "bm": "Teknologi Pembuatan"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Mechanical Design",
+            "bm": "Reka Bentuk Mekanikal"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Electrical Design",
+            "bm": "Reka Bentuk Elektrik"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Electronic Design",
+            "bm": "Reka Bentuk Elektronik"
+          }
+        },
+        {
+          "code": "2.5",
+          "title": {
+            "en": "Aquaponic Design",
+            "bm": "Reka Bentuk Akuaponik"
+          }
+        },
+        {
+          "code": "2.6",
+          "title": {
+            "en": "Food Design",
+            "bm": "Reka Bentuk Makanan"
+          }
+        }
+      ]
+    }
+  ]
+}

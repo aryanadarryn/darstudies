@@ -1,0 +1,327 @@
+{
+  "chapterId": "f2psv-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "One carved block can make many identical prints. Printmaking is how art first reached many people.",
+      "bm": "Satu blok ukir boleh menghasilkan banyak cetakan serupa. Cetakan cara seni mula sampai kepada ramai."
+    },
+    "bigIdeas": [
+      {
+        "en": "A plate or block transfers ink.",
+        "bm": "Plat atau blok memindahkan dakwat."
+      },
+      {
+        "en": "Relief, intaglio and screen are methods.",
+        "bm": "Timbulan, intaglio dan saring ialah kaedah."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Printmaking",
+          "bm": "Seni Cetakan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Relief",
+              "bm": "Timbulan"
+            },
+            "detail": {
+              "en": "Lino, woodcut",
+              "bm": "Lino, ukiran kayu"
+            }
+          },
+          {
+            "label": {
+              "en": "Intaglio",
+              "bm": "Intaglio"
+            },
+            "detail": {
+              "en": "Etching",
+              "bm": "Punaran"
+            }
+          },
+          {
+            "label": {
+              "en": "Screen",
+              "bm": "Saring"
+            },
+            "detail": {
+              "en": "Silk screen",
+              "bm": "Sutera saring"
+            }
+          },
+          {
+            "label": {
+              "en": "Monoprint",
+              "bm": "Monocetak"
+            },
+            "detail": {
+              "en": "One-off print",
+              "bm": "Cetakan sekali"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Edition",
+          "bm": "Edisi"
+        },
+        "definition": {
+          "en": "Set of identical prints.",
+          "bm": "Set cetakan serupa."
+        }
+      },
+      {
+        "term": {
+          "en": "Lino print",
+          "bm": "Cetakan lino"
+        },
+        "definition": {
+          "en": "Print from carved linoleum.",
+          "bm": "Cetakan daripada linoleum diukir."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-04-q01",
+      "subtopicId": "f2psv-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Printmaking can produce…",
+        "bm": "Cetakan boleh menghasilkan…"
+      },
+      "explanation": {
+        "en": "An edition of prints.",
+        "bm": "Edisi cetakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "many similar copies",
+          "bm": "banyak salinan serupa"
+        },
+        {
+          "en": "only one work",
+          "bm": "satu karya sahaja"
+        },
+        {
+          "en": "sculptures",
+          "bm": "arca"
+        },
+        {
+          "en": "music",
+          "bm": "muzik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q02",
+      "subtopicId": "f2psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a relief print?",
+        "bm": "Yang manakah cetakan timbulan?"
+      },
+      "explanation": {
+        "en": "Raised areas take the ink.",
+        "bm": "Bahagian timbul menerima dakwat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Lino print",
+          "bm": "Cetakan lino"
+        },
+        {
+          "en": "Etching",
+          "bm": "Punaran"
+        },
+        {
+          "en": "Silk screen",
+          "bm": "Sutera saring"
+        },
+        {
+          "en": "Photo",
+          "bm": "Foto"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q03",
+      "subtopicId": "f2psv-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Early woodblock printing developed in…",
+        "bm": "Cetakan blok kayu awal berkembang di…"
+      },
+      "explanation": {
+        "en": "Later spread across Asia and Europe.",
+        "bm": "Kemudian tersebar ke Asia dan Eropah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "China",
+          "bm": "China"
+        },
+        {
+          "en": "Australia",
+          "bm": "Australia"
+        },
+        {
+          "en": "Iceland",
+          "bm": "Iceland"
+        },
+        {
+          "en": "Peru",
+          "bm": "Peru"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q04",
+      "subtopicId": "f2psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Silk screen pushes ink through…",
+        "bm": "Sutera saring menolak dakwat melalui…"
+      },
+      "explanation": {
+        "en": "A stencil blocks parts of the mesh.",
+        "bm": "Stensil menghalang sebahagian jaring."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a mesh",
+          "bm": "jaring"
+        },
+        {
+          "en": "a stone",
+          "bm": "batu"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        },
+        {
+          "en": "wood",
+          "bm": "kayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q05",
+      "subtopicId": "f2psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A brayer is used to…",
+        "bm": "Brayer digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It coats the block.",
+        "bm": "Ia menyapu blok."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "roll ink evenly",
+          "bm": "menggelek dakwat secara rata"
+        },
+        {
+          "en": "cut wood",
+          "bm": "memotong kayu"
+        },
+        {
+          "en": "fire clay",
+          "bm": "membakar tanah liat"
+        },
+        {
+          "en": "sew",
+          "bm": "menjahit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q06",
+      "subtopicId": "f2psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Prints come out…",
+        "bm": "Cetakan terhasil secara…"
+      },
+      "explanation": {
+        "en": "Words must be carved backwards.",
+        "bm": "Perkataan diukir secara terbalik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mirror image of the block",
+          "bm": "imej cermin blok"
+        },
+        {
+          "en": "always larger",
+          "bm": "sentiasa lebih besar"
+        },
+        {
+          "en": "in 3D",
+          "bm": "dalam 3D"
+        },
+        {
+          "en": "always in colour",
+          "bm": "sentiasa berwarna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-04-q07",
+      "subtopicId": "f2psv-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which step comes after inking the block?",
+        "bm": "Langkah manakah selepas mendakwat blok?"
+      },
+      "explanation": {
+        "en": "Pressure transfers the ink.",
+        "bm": "Tekanan memindahkan dakwat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Press the paper on it",
+          "bm": "Tekan kertas padanya"
+        },
+        {
+          "en": "Cut the block again",
+          "bm": "Potong blok lagi"
+        },
+        {
+          "en": "Wash the paper",
+          "bm": "Basuh kertas"
+        },
+        {
+          "en": "Frame it first",
+          "bm": "Bingkaikan dahulu"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

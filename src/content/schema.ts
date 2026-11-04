@@ -134,7 +134,7 @@ export type Bridge = z.infer<typeof BridgeSchema>
 // ---- Subtopic notes (content/notes/<chapterId>.json) ----
 export const NoteImageSchema = z.object({
   /** Path under public/ (e.g. img/sej/merdeka.jpg), resolved against the app's base URL. */
-  src: z.string().regex(/^img\/[a-z0-9/_-]+\.(jpg|png|webp)$/),
+  src: z.string().regex(/^img\/[a-z0-9/_-]+\.(jpg|png|webp|svg)$/),
   alt: LangSchema,
   caption: LangSchema,
   /** Author and licence, e.g. "Arkib Negara Malaysia · Public domain". */

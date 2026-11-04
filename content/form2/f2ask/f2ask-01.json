@@ -1,0 +1,523 @@
+{
+  "chapterId": "f2ask-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Website colours such as #6D28D9 are hexadecimal numbers. Computers use binary, and hex is a short way for people to write it.",
+      "bm": "Warna laman web seperti #6D28D9 ialah nombor perenambelasan. Komputer menggunakan perduaan, dan hex cara ringkas untuk manusia menulisnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Octal uses base 8; hex uses base 16.",
+        "bm": "Perlapanan menggunakan asas 8; perenambelasan asas 16."
+      },
+      {
+        "en": "One octal digit = 3 bits; one hex digit = 4 bits.",
+        "bm": "Satu digit perlapanan = 3 bit; satu digit hex = 4 bit."
+      },
+      {
+        "en": "ASCII gives each character a number.",
+        "bm": "ASCII memberi setiap aksara satu nombor."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Digits",
+            "bm": "Digit"
+          },
+          {
+            "en": "Example of 26",
+            "bm": "Contoh bagi 26"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Decimal (10)",
+              "bm": "Perpuluhan (10)"
+            },
+            "cells": [
+              {
+                "en": "0–9",
+                "bm": "0–9"
+              },
+              {
+                "en": "26",
+                "bm": "26"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Binary (2)",
+              "bm": "Perduaan (2)"
+            },
+            "cells": [
+              {
+                "en": "0–1",
+                "bm": "0–1"
+              },
+              {
+                "en": "11010",
+                "bm": "11010"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Octal (8)",
+              "bm": "Perlapanan (8)"
+            },
+            "cells": [
+              {
+                "en": "0–7",
+                "bm": "0–7"
+              },
+              {
+                "en": "32",
+                "bm": "32"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Hexadecimal (16)",
+              "bm": "Perenambelasan (16)"
+            },
+            "cells": [
+              {
+                "en": "0–9, A–F",
+                "bm": "0–9, A–F"
+              },
+              {
+                "en": "1A",
+                "bm": "1A"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Octal",
+          "bm": "Perlapanan"
+        },
+        "definition": {
+          "en": "Base-8 number system.",
+          "bm": "Sistem nombor asas 8."
+        }
+      },
+      {
+        "term": {
+          "en": "Hexadecimal",
+          "bm": "Perenambelasan"
+        },
+        "definition": {
+          "en": "Base-16 number system.",
+          "bm": "Sistem nombor asas 16."
+        }
+      },
+      {
+        "term": {
+          "en": "ASCII",
+          "bm": "ASCII"
+        },
+        "definition": {
+          "en": "Standard code for characters.",
+          "bm": "Kod piawai untuk aksara."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2ask-01-q01",
+      "subtopicId": "f2ask-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 64₁₀ to octal.",
+        "bm": "Tukarkan 64₁₀ kepada perlapanan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 8: 100₈.",
+        "bm": "Bahagi berulang dengan 8: 100₈."
+      },
+      "difficulty": 1,
+      "answer": [
+        "100"
+      ]
+    },
+    {
+      "id": "f2ask-01-q02",
+      "subtopicId": "f2ask-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 26₁₀ to octal.",
+        "bm": "Tukarkan 26₁₀ kepada perlapanan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 8: 32₈.",
+        "bm": "Bahagi berulang dengan 8: 32₈."
+      },
+      "difficulty": 1,
+      "answer": [
+        "32"
+      ]
+    },
+    {
+      "id": "f2ask-01-q03",
+      "subtopicId": "f2ask-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 100₁₀ to octal.",
+        "bm": "Tukarkan 100₁₀ kepada perlapanan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 8: 144₈.",
+        "bm": "Bahagi berulang dengan 8: 144₈."
+      },
+      "difficulty": 2,
+      "answer": [
+        "144"
+      ]
+    },
+    {
+      "id": "f2ask-01-q04",
+      "subtopicId": "f2ask-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 255₁₀ to octal.",
+        "bm": "Tukarkan 255₁₀ kepada perlapanan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 8: 377₈.",
+        "bm": "Bahagi berulang dengan 8: 377₈."
+      },
+      "difficulty": 2,
+      "answer": [
+        "377"
+      ]
+    },
+    {
+      "id": "f2ask-01-q05",
+      "subtopicId": "f2ask-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 37₈ to decimal.",
+        "bm": "Tukarkan 37₈ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 8: 31.",
+        "bm": "Guna nilai tempat 8: 31."
+      },
+      "difficulty": 2,
+      "answer": 31,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q06",
+      "subtopicId": "f2ask-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 120₈ to decimal.",
+        "bm": "Tukarkan 120₈ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 8: 80.",
+        "bm": "Guna nilai tempat 8: 80."
+      },
+      "difficulty": 2,
+      "answer": 80,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q07",
+      "subtopicId": "f2ask-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 777₈ to decimal.",
+        "bm": "Tukarkan 777₈ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 8: 511.",
+        "bm": "Guna nilai tempat 8: 511."
+      },
+      "difficulty": 2,
+      "answer": 511,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q08",
+      "subtopicId": "f2ask-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 26₁₀ to hexadecimal.",
+        "bm": "Tukarkan 26₁₀ kepada perenambelasan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 16: 1A₁₆.",
+        "bm": "Bahagi berulang dengan 16: 1A₁₆."
+      },
+      "difficulty": 1,
+      "answer": [
+        "1A",
+        "1a"
+      ]
+    },
+    {
+      "id": "f2ask-01-q09",
+      "subtopicId": "f2ask-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 255₁₀ to hexadecimal.",
+        "bm": "Tukarkan 255₁₀ kepada perenambelasan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 16: FF₁₆.",
+        "bm": "Bahagi berulang dengan 16: FF₁₆."
+      },
+      "difficulty": 1,
+      "answer": [
+        "FF",
+        "ff"
+      ]
+    },
+    {
+      "id": "f2ask-01-q10",
+      "subtopicId": "f2ask-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 171₁₀ to hexadecimal.",
+        "bm": "Tukarkan 171₁₀ kepada perenambelasan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 16: AB₁₆.",
+        "bm": "Bahagi berulang dengan 16: AB₁₆."
+      },
+      "difficulty": 2,
+      "answer": [
+        "AB",
+        "ab"
+      ]
+    },
+    {
+      "id": "f2ask-01-q11",
+      "subtopicId": "f2ask-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Convert 1000₁₀ to hexadecimal.",
+        "bm": "Tukarkan 1000₁₀ kepada perenambelasan."
+      },
+      "explanation": {
+        "en": "Divide repeatedly by 16: 3E8₁₆.",
+        "bm": "Bahagi berulang dengan 16: 3E8₁₆."
+      },
+      "difficulty": 3,
+      "answer": [
+        "3E8",
+        "3e8"
+      ]
+    },
+    {
+      "id": "f2ask-01-q12",
+      "subtopicId": "f2ask-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 1F₁₆ to decimal.",
+        "bm": "Tukarkan 1F₁₆ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 16: 31.",
+        "bm": "Guna nilai tempat 16: 31."
+      },
+      "difficulty": 2,
+      "answer": 31,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q13",
+      "subtopicId": "f2ask-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 2A₁₆ to decimal.",
+        "bm": "Tukarkan 2A₁₆ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 16: 42.",
+        "bm": "Guna nilai tempat 16: 42."
+      },
+      "difficulty": 2,
+      "answer": 42,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q14",
+      "subtopicId": "f2ask-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert FF₁₆ to decimal.",
+        "bm": "Tukarkan FF₁₆ kepada perpuluhan."
+      },
+      "explanation": {
+        "en": "Use place values of 16: 255.",
+        "bm": "Guna nilai tempat 16: 255."
+      },
+      "difficulty": 2,
+      "answer": 255,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q15",
+      "subtopicId": "f2ask-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In hexadecimal, F stands for…",
+        "bm": "Dalam perenambelasan, F mewakili…"
+      },
+      "explanation": {
+        "en": "A=10, …, F=15.",
+        "bm": "A=10, …, F=15."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "15",
+          "bm": "15"
+        },
+        {
+          "en": "16",
+          "bm": "16"
+        },
+        {
+          "en": "10",
+          "bm": "10"
+        },
+        {
+          "en": "14",
+          "bm": "14"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-01-q16",
+      "subtopicId": "f2ask-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do programmers like hexadecimal?",
+        "bm": "Mengapa pengatur cara suka perenambelasan?"
+      },
+      "explanation": {
+        "en": "1 hex digit = 4 bits.",
+        "bm": "1 digit hex = 4 bit."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It writes binary more compactly",
+          "bm": "Ia menulis perduaan dengan lebih ringkas"
+        },
+        {
+          "en": "Computers run on hex electricity",
+          "bm": "Komputer menggunakan elektrik hex"
+        },
+        {
+          "en": "It has fewer digits than binary digits",
+          "bm": "Digitnya kurang jenis"
+        },
+        {
+          "en": "It uses letters only",
+          "bm": "Ia guna huruf sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2ask-01-q17",
+      "subtopicId": "f2ask-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "The ASCII code of \"A\" is…",
+        "bm": "Kod ASCII bagi \"A\" ialah…"
+      },
+      "explanation": {
+        "en": "\"A\" is 65.",
+        "bm": "\"A\" ialah 65."
+      },
+      "difficulty": 1,
+      "answer": 65,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q18",
+      "subtopicId": "f2ask-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "The ASCII code of \"B\" is…",
+        "bm": "Kod ASCII bagi \"B\" ialah…"
+      },
+      "explanation": {
+        "en": "One more than \"A\".",
+        "bm": "Satu lebih daripada \"A\"."
+      },
+      "difficulty": 2,
+      "answer": 66,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q19",
+      "subtopicId": "f2ask-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "The ASCII code of \"a\" is…",
+        "bm": "Kod ASCII bagi \"a\" ialah…"
+      },
+      "explanation": {
+        "en": "Lowercase is 32 more than uppercase.",
+        "bm": "Huruf kecil 32 lebih daripada huruf besar."
+      },
+      "difficulty": 2,
+      "answer": 97,
+      "tolerance": 0
+    },
+    {
+      "id": "f2ask-01-q20",
+      "subtopicId": "f2ask-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which word has ASCII values 72, 73?",
+        "bm": "Perkataan manakah mempunyai nilai ASCII 72, 73?"
+      },
+      "explanation": {
+        "en": "H=72, I=73.",
+        "bm": "H=72, I=73."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "HI",
+          "bm": "HI"
+        },
+        {
+          "en": "AB",
+          "bm": "AB"
+        },
+        {
+          "en": "NO",
+          "bm": "NO"
+        },
+        {
+          "en": "OK",
+          "bm": "OK"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

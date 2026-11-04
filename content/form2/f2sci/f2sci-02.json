@@ -1,0 +1,620 @@
+{
+  "chapterId": "f2sci-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Remove the bees and fruit trees fail; remove the snakes and rats multiply. In an ecosystem, every organism depends on others.",
+      "bm": "Hapuskan lebah, pokok buah gagal; hapuskan ular, tikus membiak. Dalam ekosistem, setiap organisma bergantung pada organisma lain."
+    },
+    "bigIdeas": [
+      {
+        "en": "Energy flows from the Sun through food chains.",
+        "bm": "Tenaga mengalir dari Matahari melalui rantai makanan."
+      },
+      {
+        "en": "Nutrients such as carbon, oxygen and water are recycled.",
+        "bm": "Nutrien seperti karbon, oksigen dan air dikitar semula."
+      },
+      {
+        "en": "Humans must keep nature balanced.",
+        "bm": "Manusia mesti mengekalkan keseimbangan alam."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Sun",
+              "bm": "Matahari"
+            },
+            "detail": {
+              "en": "Energy source",
+              "bm": "Sumber tenaga"
+            }
+          },
+          {
+            "title": {
+              "en": "Producer",
+              "bm": "Pengeluar"
+            },
+            "detail": {
+              "en": "Plants make food",
+              "bm": "Tumbuhan menghasilkan makanan"
+            }
+          },
+          {
+            "title": {
+              "en": "Primary consumer",
+              "bm": "Pengguna primer"
+            },
+            "detail": {
+              "en": "Herbivore",
+              "bm": "Herbivor"
+            }
+          },
+          {
+            "title": {
+              "en": "Secondary consumer",
+              "bm": "Pengguna sekunder"
+            },
+            "detail": {
+              "en": "Carnivore",
+              "bm": "Karnivor"
+            }
+          },
+          {
+            "title": {
+              "en": "Decomposer",
+              "bm": "Pengurai"
+            },
+            "detail": {
+              "en": "Breaks down dead matter",
+              "bm": "Mengurai bahan mati"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Ecosystem",
+          "bm": "Ekosistem"
+        },
+        "definition": {
+          "en": "Organisms interacting with each other and their environment.",
+          "bm": "Organisma yang berinteraksi antara satu sama lain dan persekitaran."
+        }
+      },
+      {
+        "term": {
+          "en": "Producer",
+          "bm": "Pengeluar"
+        },
+        "definition": {
+          "en": "An organism that makes its own food.",
+          "bm": "Organisma yang menghasilkan makanan sendiri."
+        }
+      },
+      {
+        "term": {
+          "en": "Consumer",
+          "bm": "Pengguna"
+        },
+        "definition": {
+          "en": "An organism that eats other organisms.",
+          "bm": "Organisma yang memakan organisma lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Decomposer",
+          "bm": "Pengurai"
+        },
+        "definition": {
+          "en": "Breaks down dead organisms.",
+          "bm": "Mengurai organisma mati."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-02-q01",
+      "subtopicId": "f2sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The original source of energy in most food chains is…",
+        "bm": "Sumber asal tenaga bagi kebanyakan rantai makanan ialah…"
+      },
+      "explanation": {
+        "en": "Plants trap sunlight.",
+        "bm": "Tumbuhan memerangkap cahaya matahari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the Sun",
+          "bm": "Matahari"
+        },
+        {
+          "en": "soil",
+          "bm": "tanah"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "bacteria",
+          "bm": "bakteria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q02",
+      "subtopicId": "f2sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Grass → grasshopper → frog → snake. The producer is…",
+        "bm": "Rumput → belalang → katak → ular. Pengeluarnya ialah…"
+      },
+      "explanation": {
+        "en": "Producers make food by photosynthesis.",
+        "bm": "Pengeluar menghasilkan makanan melalui fotosintesis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "grass",
+          "bm": "rumput"
+        },
+        {
+          "en": "grasshopper",
+          "bm": "belalang"
+        },
+        {
+          "en": "frog",
+          "bm": "katak"
+        },
+        {
+          "en": "snake",
+          "bm": "ular"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q03",
+      "subtopicId": "f2sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Grass → grasshopper → frog → snake. The secondary consumer is…",
+        "bm": "Rumput → belalang → katak → ular. Pengguna sekunder ialah…"
+      },
+      "explanation": {
+        "en": "It eats the primary consumer.",
+        "bm": "Ia memakan pengguna primer."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "frog",
+          "bm": "katak"
+        },
+        {
+          "en": "grass",
+          "bm": "rumput"
+        },
+        {
+          "en": "grasshopper",
+          "bm": "belalang"
+        },
+        {
+          "en": "snake",
+          "bm": "ular"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q04",
+      "subtopicId": "f2sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In an energy pyramid, energy going up each level…",
+        "bm": "Dalam piramid tenaga, tenaga ke atas setiap aras…"
+      },
+      "explanation": {
+        "en": "Much is lost as heat at each level.",
+        "bm": "Banyak hilang sebagai haba pada setiap aras."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "decreases",
+          "bm": "berkurang"
+        },
+        {
+          "en": "increases",
+          "bm": "bertambah"
+        },
+        {
+          "en": "stays the same",
+          "bm": "kekal sama"
+        },
+        {
+          "en": "doubles",
+          "bm": "berganda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q05",
+      "subtopicId": "f2sci-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If all the snakes in a rice field die, what happens first?",
+        "bm": "Jika semua ular di sawah mati, apakah berlaku dahulu?"
+      },
+      "explanation": {
+        "en": "Rats lose a predator, then paddy is eaten more.",
+        "bm": "Tikus kehilangan pemangsa, kemudian padi lebih banyak dimakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The rat population rises",
+          "bm": "Populasi tikus bertambah"
+        },
+        {
+          "en": "The rat population falls",
+          "bm": "Populasi tikus berkurang"
+        },
+        {
+          "en": "Paddy increases",
+          "bm": "Padi bertambah"
+        },
+        {
+          "en": "Sunlight falls",
+          "bm": "Cahaya matahari berkurang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q06",
+      "subtopicId": "f2sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which process releases carbon dioxide?",
+        "bm": "Proses manakah membebaskan karbon dioksida?"
+      },
+      "explanation": {
+        "en": "Respiration releases CO₂.",
+        "bm": "Respirasi membebaskan CO₂."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Respiration",
+          "bm": "Respirasi"
+        },
+        {
+          "en": "Photosynthesis",
+          "bm": "Fotosintesis"
+        },
+        {
+          "en": "Condensation",
+          "bm": "Kondensasi"
+        },
+        {
+          "en": "Freezing",
+          "bm": "Pembekuan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q07",
+      "subtopicId": "f2sci-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which process removes carbon dioxide from the air?",
+        "bm": "Proses manakah menyingkirkan karbon dioksida dari udara?"
+      },
+      "explanation": {
+        "en": "Plants use CO₂ to make food.",
+        "bm": "Tumbuhan menggunakan CO₂ untuk membuat makanan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Photosynthesis",
+          "bm": "Fotosintesis"
+        },
+        {
+          "en": "Combustion",
+          "bm": "Pembakaran"
+        },
+        {
+          "en": "Respiration",
+          "bm": "Respirasi"
+        },
+        {
+          "en": "Decay",
+          "bm": "Pereputan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q08",
+      "subtopicId": "f2sci-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the water cycle.",
+        "bm": "Susun kitar air."
+      },
+      "explanation": {
+        "en": "Water rises, forms clouds, falls and flows back.",
+        "bm": "Air naik, membentuk awan, turun dan mengalir kembali."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Evaporation",
+          "bm": "Penyejatan"
+        },
+        {
+          "en": "Condensation",
+          "bm": "Kondensasi"
+        },
+        {
+          "en": "Precipitation",
+          "bm": "Kerpasan"
+        },
+        {
+          "en": "Runoff to the sea",
+          "bm": "Larian permukaan ke laut"
+        }
+      ]
+    },
+    {
+      "id": "f2sci-02-q09",
+      "subtopicId": "f2sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mosquitoes feeding on humans is an example of…",
+        "bm": "Nyamuk menghisap darah manusia ialah contoh…"
+      },
+      "explanation": {
+        "en": "One benefits and the other is harmed.",
+        "bm": "Satu mendapat manfaat dan satu lagi dirugikan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "parasitism",
+          "bm": "parasitisme"
+        },
+        {
+          "en": "mutualism",
+          "bm": "mutualisme"
+        },
+        {
+          "en": "commensalism",
+          "bm": "komensalisme"
+        },
+        {
+          "en": "competition",
+          "bm": "persaingan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q10",
+      "subtopicId": "f2sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A bee and a flower both benefit. This is…",
+        "bm": "Lebah dan bunga sama-sama mendapat manfaat. Ini ialah…"
+      },
+      "explanation": {
+        "en": "Both organisms gain.",
+        "bm": "Kedua-dua organisma mendapat faedah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mutualism",
+          "bm": "mutualisme"
+        },
+        {
+          "en": "parasitism",
+          "bm": "parasitisme"
+        },
+        {
+          "en": "predation",
+          "bm": "pemangsaan"
+        },
+        {
+          "en": "competition",
+          "bm": "persaingan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q11",
+      "subtopicId": "f2sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An orchid growing on a tree without harming it shows…",
+        "bm": "Orkid yang tumbuh pada pokok tanpa merosakkannya menunjukkan…"
+      },
+      "explanation": {
+        "en": "One benefits and the other is unaffected.",
+        "bm": "Satu mendapat manfaat dan satu lagi tidak terjejas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "commensalism",
+          "bm": "komensalisme"
+        },
+        {
+          "en": "parasitism",
+          "bm": "parasitisme"
+        },
+        {
+          "en": "mutualism",
+          "bm": "mutualisme"
+        },
+        {
+          "en": "predation",
+          "bm": "pemangsaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q12",
+      "subtopicId": "f2sci-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Barn owls are used in oil palm estates to control rats. This is…",
+        "bm": "Burung pungguk jelapang digunakan di ladang kelapa sawit untuk mengawal tikus. Ini ialah…"
+      },
+      "explanation": {
+        "en": "A natural predator reduces the pest.",
+        "bm": "Pemangsa semula jadi mengurangkan perosak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "biological control",
+          "bm": "kawalan biologi"
+        },
+        {
+          "en": "chemical control",
+          "bm": "kawalan kimia"
+        },
+        {
+          "en": "mutualism",
+          "bm": "mutualisme"
+        },
+        {
+          "en": "pollution",
+          "bm": "pencemaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q13",
+      "subtopicId": "f2sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which helps keep nature balanced?",
+        "bm": "Yang manakah membantu mengekalkan keseimbangan alam?"
+      },
+      "explanation": {
+        "en": "Trees restore habitats and take in CO₂.",
+        "bm": "Pokok memulihkan habitat dan menyerap CO₂."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Reforestation",
+          "bm": "Penanaman semula hutan"
+        },
+        {
+          "en": "Illegal logging",
+          "bm": "Pembalakan haram"
+        },
+        {
+          "en": "Open burning",
+          "bm": "Pembakaran terbuka"
+        },
+        {
+          "en": "River dumping",
+          "bm": "Pembuangan ke sungai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q14",
+      "subtopicId": "f2sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an effect of deforestation?",
+        "bm": "Yang manakah kesan penebangan hutan?"
+      },
+      "explanation": {
+        "en": "Without roots, soil is washed away.",
+        "bm": "Tanpa akar, tanah dihanyutkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Soil erosion and flash floods",
+          "bm": "Hakisan tanah dan banjir kilat"
+        },
+        {
+          "en": "More habitats",
+          "bm": "Lebih banyak habitat"
+        },
+        {
+          "en": "Cleaner air",
+          "bm": "Udara lebih bersih"
+        },
+        {
+          "en": "Less runoff",
+          "bm": "Kurang larian permukaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-02-q15",
+      "subtopicId": "f2sci-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which practice is most sustainable?",
+        "bm": "Amalan manakah paling lestari?"
+      },
+      "explanation": {
+        "en": "It meets today's needs and protects the future.",
+        "bm": "Ia memenuhi keperluan semasa dan melindungi masa depan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Selective logging with replanting",
+          "bm": "Pembalakan terpilih dengan penanaman semula"
+        },
+        {
+          "en": "Clear-felling",
+          "bm": "Tebang habis"
+        },
+        {
+          "en": "Burning for farmland",
+          "bm": "Membakar untuk tanah ladang"
+        },
+        {
+          "en": "Mining rivers",
+          "bm": "Melombong sungai"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

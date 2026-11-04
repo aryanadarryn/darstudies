@@ -1,0 +1,327 @@
+{
+  "chapterId": "f2psv-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Batik painting grew in Malaysia in the 1950s when artists used wax-resist to make art, not only clothes.",
+      "bm": "Catan batik berkembang di Malaysia pada 1950-an apabila pelukis menggunakan teknik rintang lilin untuk seni, bukan pakaian sahaja."
+    },
+    "bigIdeas": [
+      {
+        "en": "Painting uses pigment on a surface.",
+        "bm": "Catan menggunakan pigmen pada permukaan."
+      },
+      {
+        "en": "Watercolour, acrylic and oil behave differently.",
+        "bm": "Warna air, akrilik dan minyak berbeza."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Painting",
+          "bm": "Seni Catan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Watercolour",
+              "bm": "Warna air"
+            },
+            "detail": {
+              "en": "Transparent",
+              "bm": "Lut sinar"
+            }
+          },
+          {
+            "label": {
+              "en": "Acrylic",
+              "bm": "Akrilik"
+            },
+            "detail": {
+              "en": "Dries fast",
+              "bm": "Cepat kering"
+            }
+          },
+          {
+            "label": {
+              "en": "Oil",
+              "bm": "Minyak"
+            },
+            "detail": {
+              "en": "Dries slowly",
+              "bm": "Lambat kering"
+            }
+          },
+          {
+            "label": {
+              "en": "Batik",
+              "bm": "Batik"
+            },
+            "detail": {
+              "en": "Wax-resist",
+              "bm": "Rintang lilin"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Pigment",
+          "bm": "Pigmen"
+        },
+        "definition": {
+          "en": "Colouring substance.",
+          "bm": "Bahan pewarna."
+        }
+      },
+      {
+        "term": {
+          "en": "Canvas",
+          "bm": "Kanvas"
+        },
+        "definition": {
+          "en": "Stretched cloth for painting.",
+          "bm": "Kain tegang untuk catan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-03-q01",
+      "subtopicId": "f2psv-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which dries the fastest?",
+        "bm": "Yang manakah paling cepat kering?"
+      },
+      "explanation": {
+        "en": "It is water-based.",
+        "bm": "Ia berasaskan air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Acrylic",
+          "bm": "Akrilik"
+        },
+        {
+          "en": "Oil paint",
+          "bm": "Cat minyak"
+        },
+        {
+          "en": "Wet clay",
+          "bm": "Tanah liat basah"
+        },
+        {
+          "en": "Glue stick",
+          "bm": "Gam batang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q02",
+      "subtopicId": "f2psv-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Watercolour is usually…",
+        "bm": "Warna air biasanya…"
+      },
+      "explanation": {
+        "en": "Light shows through.",
+        "bm": "Cahaya menembusi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "transparent",
+          "bm": "lut sinar"
+        },
+        {
+          "en": "very thick",
+          "bm": "sangat tebal"
+        },
+        {
+          "en": "metal",
+          "bm": "logam"
+        },
+        {
+          "en": "a pencil",
+          "bm": "pensel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q03",
+      "subtopicId": "f2psv-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Impasto means paint is applied…",
+        "bm": "Impasto bermaksud cat disapu…"
+      },
+      "explanation": {
+        "en": "Strokes stand out.",
+        "bm": "Sapuan menonjol."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "thickly",
+          "bm": "dengan tebal"
+        },
+        {
+          "en": "with sand only",
+          "bm": "dengan pasir sahaja"
+        },
+        {
+          "en": "on metal only",
+          "bm": "pada logam sahaja"
+        },
+        {
+          "en": "by machine only",
+          "bm": "dengan mesin sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q04",
+      "subtopicId": "f2psv-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Batik uses wax to…",
+        "bm": "Batik menggunakan lilin untuk…"
+      },
+      "explanation": {
+        "en": "Dye does not enter waxed areas.",
+        "bm": "Pewarna tidak memasuki kawasan berlilin."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "resist dye",
+          "bm": "menghalang pewarna"
+        },
+        {
+          "en": "add perfume",
+          "bm": "menambah wangian"
+        },
+        {
+          "en": "melt metal",
+          "bm": "melebur logam"
+        },
+        {
+          "en": "strengthen wood",
+          "bm": "menguatkan kayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q05",
+      "subtopicId": "f2psv-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who pioneered batik painting in Malaysia?",
+        "bm": "Siapakah perintis catan batik di Malaysia?"
+      },
+      "explanation": {
+        "en": "A Penang artist.",
+        "bm": "Pelukis Pulau Pinang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Chuah Thean Teng",
+          "bm": "Chuah Thean Teng"
+        },
+        {
+          "en": "Leonardo da Vinci",
+          "bm": "Leonardo da Vinci"
+        },
+        {
+          "en": "Vincent van Gogh",
+          "bm": "Vincent van Gogh"
+        },
+        {
+          "en": "Pablo Picasso",
+          "bm": "Pablo Picasso"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q06",
+      "subtopicId": "f2psv-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which movement is known for light effects?",
+        "bm": "Aliran manakah terkenal dengan kesan cahaya?"
+      },
+      "explanation": {
+        "en": "Monet was a key artist.",
+        "bm": "Monet tokoh utamanya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Impressionism",
+          "bm": "Impresionisme"
+        },
+        {
+          "en": "Cubism",
+          "bm": "Kubisme"
+        },
+        {
+          "en": "Surrealism",
+          "bm": "Surealisme"
+        },
+        {
+          "en": "Pop Art",
+          "bm": "Pop Art"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-03-q07",
+      "subtopicId": "f2psv-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the Nanyang style important in Southeast Asia?",
+        "bm": "Mengapa gaya Nanyang penting di Asia Tenggara?"
+      },
+      "explanation": {
+        "en": "It developed in Singapore and Malaya.",
+        "bm": "Ia berkembang di Singapura dan Tanah Melayu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It joined Western and Asian art with local themes",
+          "bm": "Ia menggabungkan seni Barat dan Asia dengan tema tempatan"
+        },
+        {
+          "en": "It banned colour",
+          "bm": "Ia melarang warna"
+        },
+        {
+          "en": "It stopped painting",
+          "bm": "Ia menghentikan catan"
+        },
+        {
+          "en": "It used only photos",
+          "bm": "Ia guna foto sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "chapterId": "f2psv-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You can recognise a famous brand from a tiny logo at speed. Logos carry huge meaning in a small space.",
+      "bm": "Anda boleh mengenali jenama terkenal daripada logo kecil dengan pantas. Logo membawa makna besar dalam ruang kecil."
+    },
+    "bigIdeas": [
+      {
+        "en": "A symbol represents an idea.",
+        "bm": "Simbol mewakili idea."
+      },
+      {
+        "en": "A logo identifies an organisation.",
+        "bm": "Logo mengenal pasti organisasi."
+      },
+      {
+        "en": "Good logos are simple and memorable.",
+        "bm": "Logo baik mudah dan mudah diingat."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Graphic Design: Symbols and Logos",
+          "bm": "Seni Reka Grafik: Simbol dan Logo"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Wordmark",
+              "bm": "Tanda kata"
+            },
+            "detail": {
+              "en": "Letters only",
+              "bm": "Huruf sahaja"
+            }
+          },
+          {
+            "label": {
+              "en": "Pictorial",
+              "bm": "Bergambar"
+            },
+            "detail": {
+              "en": "An image",
+              "bm": "Satu imej"
+            }
+          },
+          {
+            "label": {
+              "en": "Abstract",
+              "bm": "Abstrak"
+            },
+            "detail": {
+              "en": "A shape",
+              "bm": "Satu bentuk"
+            }
+          },
+          {
+            "label": {
+              "en": "Combination",
+              "bm": "Gabungan"
+            },
+            "detail": {
+              "en": "Text and image",
+              "bm": "Teks dan imej"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Logo",
+          "bm": "Logo"
+        },
+        "definition": {
+          "en": "Visual identity of an organisation.",
+          "bm": "Identiti visual sesebuah organisasi."
+        }
+      },
+      {
+        "term": {
+          "en": "Symbol",
+          "bm": "Simbol"
+        },
+        "definition": {
+          "en": "A sign standing for an idea.",
+          "bm": "Tanda yang mewakili idea."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-10-q01",
+      "subtopicId": "f2psv-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A red octagon traffic sign is a…",
+        "bm": "Papan tanda lalu lintas oktagon merah ialah…"
+      },
+      "explanation": {
+        "en": "It means stop.",
+        "bm": "Ia bermaksud berhenti."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "symbol",
+          "bm": "simbol"
+        },
+        {
+          "en": "painting",
+          "bm": "catan"
+        },
+        {
+          "en": "sculpture",
+          "bm": "arca"
+        },
+        {
+          "en": "drawing tool",
+          "bm": "alat lukisan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q02",
+      "subtopicId": "f2psv-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logo is used to…",
+        "bm": "Logo digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It builds recognition.",
+        "bm": "Ia membina pengenalan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "identify an organisation",
+          "bm": "mengenal pasti organisasi"
+        },
+        {
+          "en": "cook food",
+          "bm": "memasak makanan"
+        },
+        {
+          "en": "measure mass",
+          "bm": "mengukur jisim"
+        },
+        {
+          "en": "weigh paper",
+          "bm": "menimbang kertas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q03",
+      "subtopicId": "f2psv-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logo made only of letters is a…",
+        "bm": "Logo dengan huruf sahaja ialah…"
+      },
+      "explanation": {
+        "en": "Type is the design.",
+        "bm": "Tulisan ialah reka bentuknya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "wordmark",
+          "bm": "tanda kata"
+        },
+        {
+          "en": "pictorial mark",
+          "bm": "tanda bergambar"
+        },
+        {
+          "en": "abstract mark",
+          "bm": "tanda abstrak"
+        },
+        {
+          "en": "mascot",
+          "bm": "maskot"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q04",
+      "subtopicId": "f2psv-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A logo that combines text and an image is a…",
+        "bm": "Logo yang menggabungkan teks dan imej ialah…"
+      },
+      "explanation": {
+        "en": "It uses both.",
+        "bm": "Ia menggunakan kedua-duanya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "combination mark",
+          "bm": "tanda gabungan"
+        },
+        {
+          "en": "wordmark",
+          "bm": "tanda kata"
+        },
+        {
+          "en": "stamp",
+          "bm": "setem"
+        },
+        {
+          "en": "lettermark",
+          "bm": "tanda huruf"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q05",
+      "subtopicId": "f2psv-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good logo should be…",
+        "bm": "Logo baik mestilah…"
+      },
+      "explanation": {
+        "en": "Simple logos scale well.",
+        "bm": "Logo ringkas sesuai pada pelbagai saiz."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "simple and memorable",
+          "bm": "mudah dan mudah diingat"
+        },
+        {
+          "en": "very detailed",
+          "bm": "sangat terperinci"
+        },
+        {
+          "en": "always in many colours",
+          "bm": "sentiasa banyak warna"
+        },
+        {
+          "en": "hard to read",
+          "bm": "sukar dibaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q06",
+      "subtopicId": "f2psv-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should a logo work in black and white?",
+        "bm": "Mengapa logo perlu berfungsi dalam hitam putih?"
+      },
+      "explanation": {
+        "en": "It must work everywhere.",
+        "bm": "Ia mesti sesuai di mana-mana."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "For cheap printing and clarity",
+          "bm": "Untuk cetakan murah dan kejelasan"
+        },
+        {
+          "en": "Colours are illegal",
+          "bm": "Warna dilarang"
+        },
+        {
+          "en": "To hide it",
+          "bm": "Untuk menyembunyikannya"
+        },
+        {
+          "en": "It is more expensive",
+          "bm": "Ia lebih mahal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-10-q07",
+      "subtopicId": "f2psv-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a logo need to scale?",
+        "bm": "Mengapa logo perlu sesuai pada pelbagai saiz?"
+      },
+      "explanation": {
+        "en": "It must stay readable at every size.",
+        "bm": "Ia mesti mudah dibaca pada semua saiz."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It appears on both stamps and billboards",
+          "bm": "Ia muncul pada setem dan papan iklan"
+        },
+        {
+          "en": "To save ink only",
+          "bm": "Untuk jimat dakwat sahaja"
+        },
+        {
+          "en": "To change meaning",
+          "bm": "Untuk mengubah makna"
+        },
+        {
+          "en": "To add detail",
+          "bm": "Untuk menambah butiran"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

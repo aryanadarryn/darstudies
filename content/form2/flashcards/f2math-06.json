@@ -1,0 +1,149 @@
+{
+  "chapterId": "f2math-06",
+  "cards": [
+    {
+      "id": "f2math-06-f01",
+      "subtopicId": "f2math-06-01",
+      "front": {
+        "en": "Cuboid: F, E, V",
+        "bm": "Kuboid: P, T, B"
+      },
+      "back": {
+        "en": "6 faces, 12 edges, 8 vertices.",
+        "bm": "6 permukaan, 12 tepi, 8 bucu."
+      }
+    },
+    {
+      "id": "f2math-06-f02",
+      "subtopicId": "f2math-06-01",
+      "front": {
+        "en": "Cone: faces",
+        "bm": "Kon: permukaan"
+      },
+      "back": {
+        "en": "1 circular face and 1 curved face; 1 vertex.",
+        "bm": "1 permukaan bulat dan 1 melengkung; 1 bucu."
+      }
+    },
+    {
+      "id": "f2math-06-f03",
+      "subtopicId": "f2math-06-01",
+      "front": {
+        "en": "Prism",
+        "bm": "Prisma"
+      },
+      "back": {
+        "en": "Same cross-section all along.",
+        "bm": "Keratan rentas sama sepanjang pepejal."
+      }
+    },
+    {
+      "id": "f2math-06-f04",
+      "subtopicId": "f2math-06-01",
+      "front": {
+        "en": "Sphere",
+        "bm": "Sfera"
+      },
+      "back": {
+        "en": "One curved surface, no edges.",
+        "bm": "Satu permukaan melengkung, tiada tepi."
+      }
+    },
+    {
+      "id": "f2math-06-f05",
+      "subtopicId": "f2math-06-02",
+      "front": {
+        "en": "Net",
+        "bm": "Bentangan"
+      },
+      "back": {
+        "en": "A flat shape that folds into a solid.",
+        "bm": "Bentuk rata yang dilipat menjadi pepejal."
+      }
+    },
+    {
+      "id": "f2math-06-f06",
+      "subtopicId": "f2math-06-02",
+      "front": {
+        "en": "Net of a pyramid (square base)",
+        "bm": "Bentangan piramid (tapak segi empat sama)"
+      },
+      "back": {
+        "en": "1 square and 4 triangles.",
+        "bm": "1 segi empat sama dan 4 segi tiga."
+      }
+    },
+    {
+      "id": "f2math-06-f07",
+      "subtopicId": "f2math-06-03",
+      "front": {
+        "en": "SA of cube",
+        "bm": "Luas permukaan kubus"
+      },
+      "back": {
+        "en": "6s²",
+        "bm": "6s²"
+      }
+    },
+    {
+      "id": "f2math-06-f08",
+      "subtopicId": "f2math-06-03",
+      "front": {
+        "en": "SA of cylinder",
+        "bm": "Luas permukaan silinder"
+      },
+      "back": {
+        "en": "2πr² + 2πrh",
+        "bm": "2πj² + 2πjt"
+      }
+    },
+    {
+      "id": "f2math-06-f09",
+      "subtopicId": "f2math-06-03",
+      "front": {
+        "en": "SA of sphere",
+        "bm": "Luas permukaan sfera"
+      },
+      "back": {
+        "en": "4πr²",
+        "bm": "4πj²"
+      }
+    },
+    {
+      "id": "f2math-06-f10",
+      "subtopicId": "f2math-06-04",
+      "front": {
+        "en": "Volume of a prism",
+        "bm": "Isi padu prisma"
+      },
+      "back": {
+        "en": "Cross-section area × length.",
+        "bm": "Luas keratan rentas × panjang."
+      }
+    },
+    {
+      "id": "f2math-06-f11",
+      "subtopicId": "f2math-06-04",
+      "front": {
+        "en": "Volume of a pyramid",
+        "bm": "Isi padu piramid"
+      },
+      "back": {
+        "en": "⅓ × base area × height.",
+        "bm": "⅓ × luas tapak × tinggi."
+      }
+    },
+    {
+      "id": "f2math-06-f12",
+      "subtopicId": "f2math-06-04",
+      "front": {
+        "en": "Volume of a cone",
+        "bm": "Isi padu kon"
+      },
+      "back": {
+        "en": "⅓πr²h",
+        "bm": "⅓πj²t"
+      }
+    }
+  ]
+}

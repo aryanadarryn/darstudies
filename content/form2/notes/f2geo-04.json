@@ -1,0 +1,143 @@
+{
+  "chapterId": "f2geo-04",
+  "reviewed": false,
+  "subtopics": {
+    "f2geo-04-01": {
+      "keyPoints": [
+        {
+          "en": "Elements: temperature, rain, wind, pressure, humidity.",
+          "bm": "Elemen: suhu, hujan, angin, tekanan, kelembapan."
+        },
+        {
+          "en": "Measured at weather stations.",
+          "bm": "Diukur di stesen cuaca."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Humidity",
+            "bm": "Kelembapan"
+          },
+          "meaning": {
+            "en": "Water vapour in the air.",
+            "bm": "Wap air dalam udara."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Name the wind direction tool.",
+          "bm": "Namakan alat arah angin."
+        },
+        "answer": {
+          "en": "Wind vane",
+          "bm": "Ram angin"
+        }
+      },
+      "tip": {
+        "en": "Pair each element with its tool.",
+        "bm": "Pasangkan setiap elemen dengan alatnya."
+      }
+    },
+    "f2geo-04-02": {
+      "keyPoints": [
+        {
+          "en": "Latitude sets sun strength.",
+          "bm": "Latitud menentukan kekuatan matahari."
+        },
+        {
+          "en": "Altitude cools the air.",
+          "bm": "Altitud menyejukkan udara."
+        },
+        {
+          "en": "Winds and mountains affect rainfall.",
+          "bm": "Angin dan gunung mempengaruhi hujan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Altitude",
+            "bm": "Altitud"
+          },
+          "meaning": {
+            "en": "Height above sea level.",
+            "bm": "Ketinggian dari aras laut."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why is Genting cooler than KL?",
+          "bm": "Mengapa Genting lebih sejuk daripada KL?"
+        },
+        "answer": {
+          "en": "Higher altitude",
+          "bm": "Altitud lebih tinggi"
+        }
+      },
+      "tip": {
+        "en": "Explain \"how\", not only \"what\".",
+        "bm": "Terangkan \"bagaimana\", bukan hanya \"apa\"."
+      }
+    },
+    "f2geo-04-03": {
+      "keyPoints": [
+        {
+          "en": "Hot and wet all year.",
+          "bm": "Panas dan lembap sepanjang tahun."
+        },
+        {
+          "en": "Rain patterns follow the monsoons.",
+          "bm": "Pola hujan mengikut monsun."
+        },
+        {
+          "en": "Climate affects farming and daily life.",
+          "bm": "Iklim mempengaruhi pertanian dan kehidupan harian."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Monsoon",
+            "bm": "Monsun"
+          },
+          "meaning": {
+            "en": "Seasonal wind.",
+            "bm": "Angin bermusim."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/p-monsoon.webp",
+          "alt": {
+            "en": "Heavy monsoon rain.",
+            "bm": "Hujan monsun yang lebat."
+          },
+          "caption": {
+            "en": "Heavy monsoon rain.",
+            "bm": "Hujan monsun yang lebat."
+          },
+          "credit": "lensnmatter · CC BY 2.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monsoon_(36877269620).jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Months of Northeast Monsoon?",
+          "bm": "Bulan Monsun Timur Laut?"
+        },
+        "answer": {
+          "en": "November to March",
+          "bm": "November hingga Mac"
+        }
+      },
+      "tip": {
+        "en": "Monsoons are named after the wind's origin.",
+        "bm": "Monsun dinamakan mengikut asal angin."
+      }
+    }
+  }
+}

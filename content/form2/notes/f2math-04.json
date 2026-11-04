@@ -1,0 +1,140 @@
+{
+  "chapterId": "f2math-04",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-04-01": {
+      "keyPoints": [
+        {
+          "en": "Regular: equal sides and equal angles.",
+          "bm": "Sekata: sisi dan sudut sama."
+        },
+        {
+          "en": "Number of axes of symmetry = number of sides.",
+          "bm": "Bilangan paksi simetri = bilangan sisi."
+        },
+        {
+          "en": "Can be drawn using a circle and equal angles at the centre.",
+          "bm": "Boleh dilukis menggunakan bulatan dan sudut sama di pusat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Polygon",
+            "bm": "Poligon"
+          },
+          "meaning": {
+            "en": "Closed shape with straight sides.",
+            "bm": "Bentuk tertutup dengan sisi lurus."
+          }
+        },
+        {
+          "term": {
+            "en": "Diagonal",
+            "bm": "Pepenjuru"
+          },
+          "meaning": {
+            "en": "Joins two non-adjacent vertices.",
+            "bm": "Menyambung dua bucu yang tidak bersebelahan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/polygons.svg",
+          "alt": {
+            "en": "Regular polygons from 3 to 8 sides.",
+            "bm": "Poligon sekata dari 3 hingga 8 sisi."
+          },
+          "caption": {
+            "en": "Regular polygons from 3 to 8 sides.",
+            "bm": "Poligon sekata dari 3 hingga 8 sisi."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Axes of symmetry of a regular pentagon?",
+          "bm": "Paksi simetri pentagon sekata?"
+        },
+        "answer": {
+          "en": "5",
+          "bm": "5"
+        }
+      },
+      "tip": {
+        "en": "Rectangle and rhombus are not regular.",
+        "bm": "Segi empat tepat dan rombus bukan sekata."
+      }
+    },
+    "f2math-04-02": {
+      "keyPoints": [
+        {
+          "en": "Sum of interior angles = (n − 2) × 180°.",
+          "bm": "Hasil tambah sudut pedalaman = (n − 2) × 180°."
+        },
+        {
+          "en": "Exterior angles always sum to 360°.",
+          "bm": "Sudut peluaran sentiasa berjumlah 360°."
+        },
+        {
+          "en": "Interior + exterior = 180° at each vertex.",
+          "bm": "Pedalaman + peluaran = 180° pada setiap bucu."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Interior angle",
+            "bm": "Sudut pedalaman"
+          },
+          "meaning": {
+            "en": "Inside the polygon.",
+            "bm": "Di dalam poligon."
+          }
+        },
+        {
+          "term": {
+            "en": "Exterior angle",
+            "bm": "Sudut peluaran"
+          },
+          "meaning": {
+            "en": "Outside, on a straight line.",
+            "bm": "Di luar, pada garis lurus."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/poly-angles.svg",
+          "alt": {
+            "en": "Interior and exterior angles lie on a straight line.",
+            "bm": "Sudut pedalaman dan peluaran terletak pada garis lurus."
+          },
+          "caption": {
+            "en": "Interior and exterior angles lie on a straight line.",
+            "bm": "Sudut pedalaman dan peluaran terletak pada garis lurus."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Each exterior angle is 30°. Number of sides?",
+          "bm": "Setiap sudut peluaran 30°. Bilangan sisi?"
+        },
+        "answer": {
+          "en": "12",
+          "bm": "12"
+        }
+      },
+      "tip": {
+        "en": "It is often quicker to find the exterior angle first.",
+        "bm": "Biasanya lebih cepat mencari sudut peluaran dahulu."
+      }
+    }
+  }
+}

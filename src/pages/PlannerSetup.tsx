@@ -4,6 +4,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ConfidenceSection, DatesSection, TimeSection, type Draft } from '../components/PlanSettingsForm'
 import { ProgressBar, Segmented, toast } from '../components/ui'
+import { type Form, FORMS } from '../content/ids'
 import { useT } from '../i18n/useT'
 import { regeneratePlan } from '../lib/actions'
 import { todayISO } from '../planner/dates'
@@ -50,8 +51,8 @@ export default function PlannerSetup() {
       </div>
       <div className="text-left">
         <span className="label">{t('form.label')}</span>
-        <Segmented value={String(draft.form ?? 4)} onChange={(v) => setDraft({ ...draft, form: v === '3' ? 3 : 4 })}
-          options={[{ value: '3', label: t('form.3') }, { value: '4', label: t('form.4') }]} />
+        <Segmented value={String(draft.form ?? 4)} onChange={(v) => setDraft({ ...draft, form: Number(v) as Form })}
+          options={FORMS.map((f) => ({ value: String(f), label: t(`form.${f}`) }))} />
       </div>
     </div>,
     <div key="1"><h2 className="mb-1 text-xl font-bold">📅 {t('setup.dates')}</h2><p className="mb-4 text-sm muted">{t('setup.dateHint')}</p><DatesSection draft={draft} set={setDraft} /></div>,

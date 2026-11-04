@@ -1,0 +1,413 @@
+{
+  "chapterId": "f2muzik-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Pop, rock, jazz, dangdut, K-pop: each has its own history, instruments and purpose. Listening carefully reveals why.",
+      "bm": "Pop, rock, jaz, dangdut, K-pop: setiap satu mempunyai sejarah, alat dan tujuan tersendiri. Mendengar dengan teliti mendedahkan sebabnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Music is judged on genre, background, instruments, function and performance.",
+        "bm": "Muzik dinilai dari segi genre, latar, alat, fungsi dan cara persembahan."
+      },
+      {
+        "en": "Malaysia has rich traditional music.",
+        "bm": "Malaysia mempunyai muzik tradisional yang kaya."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Listening for",
+          "bm": "Mendengar untuk"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Genre",
+              "bm": "Genre"
+            },
+            "detail": {
+              "en": "Pop, rock, jazz",
+              "bm": "Pop, rock, jaz"
+            }
+          },
+          {
+            "label": {
+              "en": "Background",
+              "bm": "Latar"
+            },
+            "detail": {
+              "en": "Where it began",
+              "bm": "Asal usul"
+            }
+          },
+          {
+            "label": {
+              "en": "Instruments",
+              "bm": "Alat"
+            },
+            "detail": {
+              "en": "What you hear",
+              "bm": "Apa yang didengar"
+            }
+          },
+          {
+            "label": {
+              "en": "Function",
+              "bm": "Fungsi"
+            },
+            "detail": {
+              "en": "Dance, worship, ceremony",
+              "bm": "Tarian, ibadah, upacara"
+            }
+          },
+          {
+            "label": {
+              "en": "Performance",
+              "bm": "Persembahan"
+            },
+            "detail": {
+              "en": "Solo or band",
+              "bm": "Solo atau kumpulan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Genre",
+          "bm": "Genre"
+        },
+        "definition": {
+          "en": "A category of music.",
+          "bm": "Kategori muzik."
+        }
+      },
+      {
+        "term": {
+          "en": "Keroncong",
+          "bm": "Keroncong"
+        },
+        "definition": {
+          "en": "Music with Portuguese-influenced roots in the Malay world.",
+          "bm": "Muzik berakar pengaruh Portugis di Alam Melayu."
+        }
+      },
+      {
+        "term": {
+          "en": "Dikir barat",
+          "bm": "Dikir barat"
+        },
+        "definition": {
+          "en": "A Kelantan call-and-response group singing.",
+          "bm": "Nyanyian berkumpulan Kelantan secara bersahutan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2muzik-05-q01",
+      "subtopicId": "f2muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a popular music genre?",
+        "bm": "Yang manakah genre muzik popular?"
+      },
+      "explanation": {
+        "en": "Rock uses guitars and drums.",
+        "bm": "Rock menggunakan gitar dan dram."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Rock",
+          "bm": "Rock"
+        },
+        {
+          "en": "Sonata",
+          "bm": "Sonata"
+        },
+        {
+          "en": "Sijil",
+          "bm": "Sijil"
+        },
+        {
+          "en": "Tekat",
+          "bm": "Tekat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q02",
+      "subtopicId": "f2muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Jazz is known for…",
+        "bm": "Jaz terkenal dengan…"
+      },
+      "explanation": {
+        "en": "Players create on the spot.",
+        "bm": "Pemain mencipta serta-merta."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "improvisation",
+          "bm": "improvisasi"
+        },
+        {
+          "en": "silence",
+          "bm": "kesenyapan"
+        },
+        {
+          "en": "no rhythm",
+          "bm": "tiada ritma"
+        },
+        {
+          "en": "only violins",
+          "bm": "biola sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q03",
+      "subtopicId": "f2muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A band with guitar, bass and drums commonly plays…",
+        "bm": "Kumpulan dengan gitar, bes dan dram biasanya memainkan…"
+      },
+      "explanation": {
+        "en": "Typical band line-up.",
+        "bm": "Susunan kumpulan biasa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "rock or pop",
+          "bm": "rock or pop"
+        },
+        {
+          "en": "gamelan",
+          "bm": "gamelan"
+        },
+        {
+          "en": "nasyid only",
+          "bm": "nasyid only"
+        },
+        {
+          "en": "opera only",
+          "bm": "opera only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q04",
+      "subtopicId": "f2muzik-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a song's function matter?",
+        "bm": "Mengapa fungsi lagu penting?"
+      },
+      "explanation": {
+        "en": "A dance song needs a steady beat.",
+        "bm": "Lagu tarian memerlukan detik tetap."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It explains why it sounds as it does",
+          "bm": "Ia menjelaskan bunyinya"
+        },
+        {
+          "en": "It changes the title",
+          "bm": "Ia menukar tajuk"
+        },
+        {
+          "en": "It decides the price",
+          "bm": "Ia menentukan harga"
+        },
+        {
+          "en": "It removes instruments",
+          "bm": "Ia membuang alat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q05",
+      "subtopicId": "f2muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dikir barat comes from…",
+        "bm": "Dikir barat berasal dari…"
+      },
+      "explanation": {
+        "en": "Sung in groups with a leader.",
+        "bm": "Dinyanyikan berkumpulan dengan ketua."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q06",
+      "subtopicId": "f2muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sape is a string instrument from…",
+        "bm": "Sape ialah alat bertali dari…"
+      },
+      "explanation": {
+        "en": "Played by the Orang Ulu.",
+        "bm": "Dimainkan oleh Orang Ulu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Kedah",
+          "bm": "Kedah"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q07",
+      "subtopicId": "f2muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sompoton is a mouth organ from…",
+        "bm": "Sompoton ialah organ mulut dari…"
+      },
+      "explanation": {
+        "en": "Made of gourd and bamboo.",
+        "bm": "Diperbuat daripada labu dan buluh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Pahang",
+          "bm": "Pahang"
+        },
+        {
+          "en": "Selangor",
+          "bm": "Selangor"
+        },
+        {
+          "en": "Penang",
+          "bm": "Penang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q08",
+      "subtopicId": "f2muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dondang sayang is linked with…",
+        "bm": "Dondang sayang dikaitkan dengan…"
+      },
+      "explanation": {
+        "en": "Melaka's pantun singing.",
+        "bm": "Nyanyian pantun Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Melaka",
+          "bm": "Melaka"
+        },
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-05-q09",
+      "subtopicId": "f2muzik-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which best describes respectful listening to another culture's music?",
+        "bm": "Yang manakah terbaik menggambarkan mendengar muzik budaya lain dengan hormat?"
+      },
+      "explanation": {
+        "en": "Context helps appreciation.",
+        "bm": "Konteks membantu penghargaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Learn its background before judging",
+          "bm": "Pelajari latarnya sebelum menilai"
+        },
+        {
+          "en": "Mock its sound",
+          "bm": "Mengejek bunyinya"
+        },
+        {
+          "en": "Ignore its meaning",
+          "bm": "Mengabaikan maknanya"
+        },
+        {
+          "en": "Say only yours is good",
+          "bm": "Mengatakan muzik sendiri sahaja bagus"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

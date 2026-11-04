@@ -1,0 +1,403 @@
+{
+  "id": "f2geo",
+  "name": {
+    "en": "Geography",
+    "bm": "Geografi"
+  },
+  "short": {
+    "en": "Geography",
+    "bm": "Geografi"
+  },
+  "color": "#0284c7",
+  "source": "Chapter titles follow the KSSM Geography Form 2 textbook list (11 chapters) and the DSKP themes. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Scale and Distance",
+        "bm": "Skala dan Jarak"
+      },
+      "theme": {
+        "en": "Geographical Skills",
+        "bm": "Kemahiran Geografi"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Scale",
+            "bm": "Skala"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Distance",
+            "bm": "Jarak"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Finding Actual Distance Using Scale",
+            "bm": "Menentukan Jarak Sebenar Menggunakan Skala"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Topographic Maps",
+        "bm": "Peta Topografi"
+      },
+      "theme": {
+        "en": "Geographical Skills",
+        "bm": "Kemahiran Geografi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Meaning of Topographic Maps",
+            "bm": "Maksud Peta Topografi"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Eastings and Northings",
+            "bm": "Garisan Timuran dan Garisan Utaraan"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Grid References",
+            "bm": "Rujukan Grid"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Physical and Cultural Landscape Features",
+            "bm": "Ciri Pandang Darat Fizikal dan Budaya"
+          }
+        },
+        {
+          "code": "2.5",
+          "title": {
+            "en": "Interpreting Topographic Maps",
+            "bm": "Mentafsir Peta Topografi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Influence of Earth's Movement on Weather and Climate",
+        "bm": "Pengaruh Pergerakan Bumi terhadap Cuaca dan Iklim"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Earth's Movements",
+            "bm": "Pergerakan Bumi"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Effects of Earth's Movements on Weather and Climate",
+            "bm": "Kesan Pergerakan Bumi terhadap Cuaca dan Iklim"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Weather and Climate in Malaysia",
+        "bm": "Cuaca dan Iklim di Malaysia"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Elements of Weather and Climate",
+            "bm": "Elemen Cuaca dan Iklim"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Factors Influencing Weather and Climate",
+            "bm": "Faktor yang Mempengaruhi Cuaca dan Iklim"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Types of Weather and Climate in Malaysia",
+            "bm": "Jenis Cuaca dan Iklim di Malaysia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Transport in Malaysia",
+        "bm": "Pengangkutan di Malaysia"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Types of Transport",
+            "bm": "Jenis Pengangkutan"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Importance of Transport",
+            "bm": "Kepentingan Pengangkutan"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Issues and Challenges in Transport",
+            "bm": "Isu dan Cabaran dalam Pengangkutan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Telecommunications in Malaysia",
+        "bm": "Telekomunikasi di Malaysia"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Types of Telecommunications",
+            "bm": "Jenis Telekomunikasi"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Importance of Telecommunications",
+            "bm": "Kepentingan Telekomunikasi"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Issues and Challenges in Telecommunications",
+            "bm": "Isu dan Cabaran dalam Telekomunikasi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Climate Diversity and its Influence on Human Activities in Asia",
+        "bm": "Kepelbagaian Iklim dan Pengaruh terhadap Kegiatan Manusia di Asia"
+      },
+      "theme": {
+        "en": "Physical Geography",
+        "bm": "Geografi Fizikal"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Types of Climate in Asia",
+            "bm": "Jenis Iklim di Asia"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Influence of Climate on Human Activities",
+            "bm": "Pengaruh Iklim terhadap Kegiatan Manusia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Types and Progress of Transport in Asia",
+        "bm": "Jenis dan Kemajuan Pengangkutan di Asia"
+      },
+      "theme": {
+        "en": "Human Geography",
+        "bm": "Geografi Manusia"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Types of Transport in Asia",
+            "bm": "Jenis Pengangkutan di Asia"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Progress and Challenges of Transport in Asia",
+            "bm": "Kemajuan dan Cabaran Pengangkutan di Asia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Global Warming",
+        "bm": "Pemanasan Global"
+      },
+      "theme": {
+        "en": "Environmental Issues and Management",
+        "bm": "Isu dan Pengurusan Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Meaning of Global Warming",
+            "bm": "Maksud Pemanasan Global"
+          }
+        },
+        {
+          "code": "9.2",
+          "title": {
+            "en": "Causes and Effects of Global Warming",
+            "bm": "Punca dan Kesan Pemanasan Global"
+          }
+        },
+        {
+          "code": "9.3",
+          "title": {
+            "en": "Measures to Reduce Global Warming",
+            "bm": "Langkah Mengurangkan Pemanasan Global"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Green Technology",
+        "bm": "Teknologi Hijau"
+      },
+      "theme": {
+        "en": "Environmental Issues and Management",
+        "bm": "Isu dan Pengurusan Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Concept of Green Technology",
+            "bm": "Konsep Teknologi Hijau"
+          }
+        },
+        {
+          "code": "10.2",
+          "title": {
+            "en": "Features of Green Technology Products",
+            "bm": "Ciri-ciri Produk Teknologi Hijau"
+          }
+        },
+        {
+          "code": "10.3",
+          "title": {
+            "en": "Examples of Green Technology Products",
+            "bm": "Contoh Produk Teknologi Hijau"
+          }
+        },
+        {
+          "code": "10.4",
+          "title": {
+            "en": "Importance of Green Technology",
+            "bm": "Kepentingan Teknologi Hijau"
+          }
+        },
+        {
+          "code": "10.5",
+          "title": {
+            "en": "Green Technology Practices",
+            "bm": "Amalan Berkonsepkan Teknologi Hijau"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": {
+        "en": "Fieldwork Guide",
+        "bm": "Panduan Kerja Lapangan"
+      },
+      "theme": {
+        "en": "Fieldwork",
+        "bm": "Kerja Lapangan"
+      },
+      "subtopics": [
+        {
+          "code": "11.1",
+          "title": {
+            "en": "Choosing an Issue and Title",
+            "bm": "Pemilihan Isu dan Tajuk"
+          }
+        },
+        {
+          "code": "11.2",
+          "title": {
+            "en": "Setting Objectives and Choosing Methods",
+            "bm": "Menentukan Objektif dan Kaedah Kajian"
+          }
+        },
+        {
+          "code": "11.3",
+          "title": {
+            "en": "Recording, Collecting and Analysing Data",
+            "bm": "Cara Merekod, Mengumpul dan Menganalisis Data"
+          }
+        },
+        {
+          "code": "11.4",
+          "title": {
+            "en": "Concluding and Writing the Report",
+            "bm": "Merumus dan Menulis Laporan Kajian"
+          }
+        }
+      ]
+    }
+  ]
+}

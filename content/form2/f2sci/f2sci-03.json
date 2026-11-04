@@ -1,0 +1,667 @@
+{
+  "chapterId": "f2sci-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A nasi lemak takes about a day to pass through your body, and most of its goodness is absorbed in a tube about six metres long.",
+      "bm": "Nasi lemak mengambil masa kira-kira sehari untuk melalui badan, dan kebanyakan khasiatnya diserap dalam tiub kira-kira enam meter panjang."
+    },
+    "bigIdeas": [
+      {
+        "en": "Food has seven classes, each with its own function.",
+        "bm": "Makanan mempunyai tujuh kelas, setiap satu dengan fungsinya."
+      },
+      {
+        "en": "A balanced diet gives the right amount of each class.",
+        "bm": "Gizi seimbang memberi jumlah setiap kelas yang betul."
+      },
+      {
+        "en": "Digestion breaks food into small soluble molecules.",
+        "bm": "Pencernaan menguraikan makanan kepada molekul kecil dan larut."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Mouth",
+              "bm": "Mulut"
+            },
+            "detail": {
+              "en": "Amylase acts on starch",
+              "bm": "Amilase bertindak pada kanji"
+            }
+          },
+          {
+            "title": {
+              "en": "Oesophagus",
+              "bm": "Esofagus"
+            },
+            "detail": {
+              "en": "Peristalsis",
+              "bm": "Peristalsis"
+            }
+          },
+          {
+            "title": {
+              "en": "Stomach",
+              "bm": "Perut"
+            },
+            "detail": {
+              "en": "Protease and acid",
+              "bm": "Protease dan asid"
+            }
+          },
+          {
+            "title": {
+              "en": "Duodenum",
+              "bm": "Duodenum"
+            },
+            "detail": {
+              "en": "Bile and pancreatic juice",
+              "bm": "Hempedu dan jus pankreas"
+            }
+          },
+          {
+            "title": {
+              "en": "Small intestine",
+              "bm": "Usus kecil"
+            },
+            "detail": {
+              "en": "Absorption through villi",
+              "bm": "Penyerapan melalui vilus"
+            }
+          },
+          {
+            "title": {
+              "en": "Large intestine",
+              "bm": "Usus besar"
+            },
+            "detail": {
+              "en": "Water absorbed",
+              "bm": "Air diserap"
+            }
+          },
+          {
+            "title": {
+              "en": "Rectum",
+              "bm": "Rektum"
+            },
+            "detail": {
+              "en": "Defecation",
+              "bm": "Penyahtinjaan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Balanced diet",
+          "bm": "Gizi seimbang"
+        },
+        "definition": {
+          "en": "A diet with all food classes in the right proportions.",
+          "bm": "Diet dengan semua kelas makanan dalam kadar yang betul."
+        }
+      },
+      {
+        "term": {
+          "en": "Digestion",
+          "bm": "Pencernaan"
+        },
+        "definition": {
+          "en": "Breaking food into small soluble molecules.",
+          "bm": "Menguraikan makanan kepada molekul kecil dan larut."
+        }
+      },
+      {
+        "term": {
+          "en": "Enzyme",
+          "bm": "Enzim"
+        },
+        "definition": {
+          "en": "A protein that speeds up a reaction.",
+          "bm": "Protein yang mempercepat tindak balas."
+        }
+      },
+      {
+        "term": {
+          "en": "Villus",
+          "bm": "Vilus"
+        },
+        "definition": {
+          "en": "A finger-like fold that absorbs nutrients.",
+          "bm": "Lipatan seperti jari yang menyerap nutrien."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-03-q01",
+      "subtopicId": "f2sci-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the food class with its function.",
+        "bm": "Padankan kelas makanan dengan fungsinya."
+      },
+      "explanation": {
+        "en": "Each class has a main job.",
+        "bm": "Setiap kelas ada fungsi utama."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Carbohydrate",
+            "bm": "Karbohidrat"
+          },
+          "right": {
+            "en": "main energy source",
+            "bm": "sumber tenaga utama"
+          }
+        },
+        {
+          "left": {
+            "en": "Protein",
+            "bm": "Protein"
+          },
+          "right": {
+            "en": "growth and repair",
+            "bm": "pembesaran dan pembaikan"
+          }
+        },
+        {
+          "left": {
+            "en": "Fat",
+            "bm": "Lemak"
+          },
+          "right": {
+            "en": "stored energy",
+            "bm": "simpanan tenaga"
+          }
+        },
+        {
+          "left": {
+            "en": "Fibre",
+            "bm": "Pelawas"
+          },
+          "right": {
+            "en": "prevents constipation",
+            "bm": "mencegah sembelit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2sci-03-q02",
+      "subtopicId": "f2sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which food is rich in protein?",
+        "bm": "Makanan manakah kaya dengan protein?"
+      },
+      "explanation": {
+        "en": "Fish, eggs and meat are high in protein.",
+        "bm": "Ikan, telur dan daging tinggi protein."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Fish",
+          "bm": "Ikan"
+        },
+        {
+          "en": "Rice",
+          "bm": "Nasi"
+        },
+        {
+          "en": "Butter",
+          "bm": "Mentega"
+        },
+        {
+          "en": "Sugar",
+          "bm": "Gula"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q03",
+      "subtopicId": "f2sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lack of vitamin C causes…",
+        "bm": "Kekurangan vitamin C menyebabkan…"
+      },
+      "explanation": {
+        "en": "Scurvy causes bleeding gums.",
+        "bm": "Skurvi menyebabkan gusi berdarah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "scurvy",
+          "bm": "skurvi"
+        },
+        {
+          "en": "rickets",
+          "bm": "riket"
+        },
+        {
+          "en": "night blindness",
+          "bm": "rabun malam"
+        },
+        {
+          "en": "anaemia",
+          "bm": "anemia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q04",
+      "subtopicId": "f2sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lack of iron causes…",
+        "bm": "Kekurangan zat besi menyebabkan…"
+      },
+      "explanation": {
+        "en": "Iron is needed to make haemoglobin.",
+        "bm": "Zat besi diperlukan untuk menghasilkan hemoglobin."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "anaemia",
+          "bm": "anemia"
+        },
+        {
+          "en": "goitre",
+          "bm": "goiter"
+        },
+        {
+          "en": "scurvy",
+          "bm": "skurvi"
+        },
+        {
+          "en": "rickets",
+          "bm": "riket"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q05",
+      "subtopicId": "f2sci-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which test identifies starch?",
+        "bm": "Ujian manakah mengenal pasti kanji?"
+      },
+      "explanation": {
+        "en": "Benedict's tests reducing sugar; Millon's tests protein.",
+        "bm": "Benedict menguji gula penurun; Millon menguji protein."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Iodine turns blue-black",
+          "bm": "Iodin menjadi biru kehitaman"
+        },
+        {
+          "en": "Benedict's turns brick-red",
+          "bm": "Benedict menjadi merah bata"
+        },
+        {
+          "en": "Millon's turns red",
+          "bm": "Millon menjadi merah"
+        },
+        {
+          "en": "Alcohol-emulsion turns cloudy",
+          "bm": "Emulsi alkohol menjadi keruh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q06",
+      "subtopicId": "f2sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A balanced diet means…",
+        "bm": "Gizi seimbang bermaksud…"
+      },
+      "explanation": {
+        "en": "Each class in the right proportion.",
+        "bm": "Setiap kelas dalam kadar yang betul."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "all food classes in the right amounts",
+          "bm": "semua kelas makanan dalam jumlah betul"
+        },
+        {
+          "en": "eating only vegetables",
+          "bm": "makan sayur sahaja"
+        },
+        {
+          "en": "no carbohydrates",
+          "bm": "tiada karbohidrat"
+        },
+        {
+          "en": "eating as much as possible",
+          "bm": "makan sebanyak mungkin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q07",
+      "subtopicId": "f2sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who generally needs the most energy per day?",
+        "bm": "Siapakah secara amnya memerlukan tenaga paling banyak sehari?"
+      },
+      "explanation": {
+        "en": "Energy needs rise with activity and growth.",
+        "bm": "Keperluan tenaga meningkat dengan aktiviti dan pembesaran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "An active teenage athlete",
+          "bm": "Remaja atlet yang aktif"
+        },
+        {
+          "en": "An inactive elderly person",
+          "bm": "Warga emas yang tidak aktif"
+        },
+        {
+          "en": "A sleeping infant",
+          "bm": "Bayi yang tidur"
+        },
+        {
+          "en": "An office worker at rest",
+          "bm": "Pekerja pejabat yang berehat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q08",
+      "subtopicId": "f2sci-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Too much saturated fat and sugar in the long term may lead to…",
+        "bm": "Terlalu banyak lemak tepu dan gula dalam jangka panjang boleh menyebabkan…"
+      },
+      "explanation": {
+        "en": "Excess energy is stored as fat.",
+        "bm": "Tenaga berlebihan disimpan sebagai lemak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "obesity and heart disease",
+          "bm": "obesiti dan penyakit jantung"
+        },
+        {
+          "en": "scurvy",
+          "bm": "skurvi"
+        },
+        {
+          "en": "goitre",
+          "bm": "goiter"
+        },
+        {
+          "en": "rickets",
+          "bm": "riket"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q09",
+      "subtopicId": "f2sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Digestion of starch begins in the…",
+        "bm": "Pencernaan kanji bermula di…"
+      },
+      "explanation": {
+        "en": "Saliva contains amylase.",
+        "bm": "Air liur mengandungi amilase."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mouth",
+          "bm": "mulut"
+        },
+        {
+          "en": "stomach",
+          "bm": "perut"
+        },
+        {
+          "en": "large intestine",
+          "bm": "usus besar"
+        },
+        {
+          "en": "rectum",
+          "bm": "rektum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q10",
+      "subtopicId": "f2sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bile is produced by the…",
+        "bm": "Hempedu dihasilkan oleh…"
+      },
+      "explanation": {
+        "en": "It is stored in the gall bladder.",
+        "bm": "Ia disimpan dalam pundi hempedu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "liver",
+          "bm": "hati"
+        },
+        {
+          "en": "stomach",
+          "bm": "perut"
+        },
+        {
+          "en": "pancreas",
+          "bm": "pankreas"
+        },
+        {
+          "en": "mouth",
+          "bm": "mulut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q11",
+      "subtopicId": "f2sci-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hydrochloric acid in the stomach…",
+        "bm": "Asid hidroklorik dalam perut…"
+      },
+      "explanation": {
+        "en": "Pepsin works best in acid.",
+        "bm": "Pepsin bertindak terbaik dalam asid."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "kills bacteria and helps pepsin work",
+          "bm": "membunuh bakteria dan membantu pepsin"
+        },
+        {
+          "en": "digests starch",
+          "bm": "mencerna kanji"
+        },
+        {
+          "en": "absorbs water",
+          "bm": "menyerap air"
+        },
+        {
+          "en": "makes bile",
+          "bm": "menghasilkan hempedu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q12",
+      "subtopicId": "f2sci-03-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the path of food.",
+        "bm": "Susun laluan makanan."
+      },
+      "explanation": {
+        "en": "This is the alimentary canal.",
+        "bm": "Ini ialah salur pencernaan."
+      },
+      "difficulty": 3,
+      "items": [
+        {
+          "en": "Mouth",
+          "bm": "Mulut"
+        },
+        {
+          "en": "Oesophagus",
+          "bm": "Esofagus"
+        },
+        {
+          "en": "Stomach",
+          "bm": "Perut"
+        },
+        {
+          "en": "Small intestine",
+          "bm": "Usus kecil"
+        },
+        {
+          "en": "Large intestine",
+          "bm": "Usus besar"
+        }
+      ]
+    },
+    {
+      "id": "f2sci-03-q13",
+      "subtopicId": "f2sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Digested food is absorbed mainly in the…",
+        "bm": "Makanan tercerna diserap terutamanya di…"
+      },
+      "explanation": {
+        "en": "Villi provide a large surface area.",
+        "bm": "Vilus memberi luas permukaan yang besar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "small intestine",
+          "bm": "usus kecil"
+        },
+        {
+          "en": "stomach",
+          "bm": "perut"
+        },
+        {
+          "en": "oesophagus",
+          "bm": "esofagus"
+        },
+        {
+          "en": "mouth",
+          "bm": "mulut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q14",
+      "subtopicId": "f2sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is absorbed in the large intestine?",
+        "bm": "Apakah yang diserap dalam usus besar?"
+      },
+      "explanation": {
+        "en": "Most nutrients were absorbed earlier.",
+        "bm": "Kebanyakan nutrien diserap lebih awal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Water",
+          "bm": "Air"
+        },
+        {
+          "en": "Glucose",
+          "bm": "Glukosa"
+        },
+        {
+          "en": "Starch",
+          "bm": "Kanji"
+        },
+        {
+          "en": "Protein",
+          "bm": "Protein"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-03-q15",
+      "subtopicId": "f2sci-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does a low-fibre diet cause constipation?",
+        "bm": "Mengapakah diet rendah pelawas menyebabkan sembelit?"
+      },
+      "explanation": {
+        "en": "Fibre helps peristalsis.",
+        "bm": "Pelawas membantu peristalsis."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Food moves slowly and the faeces harden",
+          "bm": "Makanan bergerak perlahan dan tinja mengeras"
+        },
+        {
+          "en": "There is too much water",
+          "bm": "Terlalu banyak air"
+        },
+        {
+          "en": "Bile stops",
+          "bm": "Hempedu berhenti"
+        },
+        {
+          "en": "Villi grow larger",
+          "bm": "Vilus membesar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

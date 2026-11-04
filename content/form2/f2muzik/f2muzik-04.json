@@ -1,0 +1,332 @@
+{
+  "chapterId": "f2muzik-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every song begins with a small idea, sometimes just a few beats tapped on a desk.",
+      "bm": "Setiap lagu bermula dengan idea kecil, kadangkala hanya beberapa detik diketuk di atas meja."
+    },
+    "bigIdeas": [
+      {
+        "en": "Use meter, notes and rests to create rhythm.",
+        "bm": "Gunakan meter, not dan tanda rehat untuk mencipta irama."
+      },
+      {
+        "en": "Plan and rehearse before performing.",
+        "bm": "Rancang dan berlatih sebelum persembahan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Choose a meter",
+              "bm": "Pilih meter"
+            },
+            "detail": {
+              "en": "4/4",
+              "bm": "4/4"
+            }
+          },
+          {
+            "title": {
+              "en": "Write a rhythm",
+              "bm": "Tulis irama"
+            },
+            "detail": {
+              "en": "Notes and rests",
+              "bm": "Not dan rehat"
+            }
+          },
+          {
+            "title": {
+              "en": "Clap and improve",
+              "bm": "Tepuk dan baiki"
+            },
+            "detail": {
+              "en": "Check it flows",
+              "bm": "Semak alirannya"
+            }
+          },
+          {
+            "title": {
+              "en": "Perform",
+              "bm": "Persembahan"
+            },
+            "detail": {
+              "en": "Share your work",
+              "bm": "Kongsi karya anda"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Meter",
+          "bm": "Meter"
+        },
+        "definition": {
+          "en": "The pattern of beats in a bar.",
+          "bm": "Corak detik dalam bar."
+        }
+      },
+      {
+        "term": {
+          "en": "Rhythm",
+          "bm": "Irama"
+        },
+        "definition": {
+          "en": "The pattern of long and short sounds.",
+          "bm": "Corak bunyi panjang dan pendek."
+        }
+      },
+      {
+        "term": {
+          "en": "Rehearsal",
+          "bm": "Latihan"
+        },
+        "definition": {
+          "en": "Practice before a show.",
+          "bm": "Latihan sebelum persembahan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2muzik-04-q01",
+      "subtopicId": "f2muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which meter has 3 beats in a bar?",
+        "bm": "Meter manakah ada 3 detik dalam satu bar?"
+      },
+      "explanation": {
+        "en": "The top number shows beats.",
+        "bm": "Nombor atas menunjukkan detik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "3/4",
+          "bm": "3/4"
+        },
+        {
+          "en": "4/4",
+          "bm": "4/4"
+        },
+        {
+          "en": "2/4",
+          "bm": "2/4"
+        },
+        {
+          "en": "6/8",
+          "bm": "6/8"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-04-q02",
+      "subtopicId": "f2muzik-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "In 4/4 you write a minim and a crotchet. How many crotchet beats remain in the bar?",
+        "bm": "Dalam 4/4 anda menulis minim dan krocet. Berapa detik krocet lagi dalam bar?"
+      },
+      "explanation": {
+        "en": "4 − 2 − 1 = 1.",
+        "bm": "4 − 2 − 1 = 1."
+      },
+      "difficulty": 2,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f2muzik-04-q03",
+      "subtopicId": "f2muzik-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many crotchet beats are in 2 bars of 3/4?",
+        "bm": "Berapa detik krocet dalam 2 bar 3/4?"
+      },
+      "explanation": {
+        "en": "3 × 2 = 6.",
+        "bm": "3 × 2 = 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2muzik-04-q04",
+      "subtopicId": "f2muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which bar is correct in 3/4?",
+        "bm": "Bar manakah betul dalam 3/4?"
+      },
+      "explanation": {
+        "en": "It adds up to 3.",
+        "bm": "Jumlahnya 3."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "crotchet, crotchet, crotchet",
+          "bm": "krocet, krocet, krocet"
+        },
+        {
+          "en": "minim, minim",
+          "bm": "minim, minim"
+        },
+        {
+          "en": "semibreve",
+          "bm": "semibrif"
+        },
+        {
+          "en": "minim, crotchet, crotchet",
+          "bm": "minim, krocet, krocet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-04-q05",
+      "subtopicId": "f2muzik-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A rest in a rhythm is…",
+        "bm": "Tanda rehat dalam irama ialah…"
+      },
+      "explanation": {
+        "en": "Silence is part of music.",
+        "bm": "Senyap sebahagian muzik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a timed silence",
+          "bm": "senyap yang bermasa"
+        },
+        {
+          "en": "a mistake",
+          "bm": "kesilapan"
+        },
+        {
+          "en": "the end of music",
+          "bm": "penamat muzik"
+        },
+        {
+          "en": "a loud sound",
+          "bm": "bunyi kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-04-q06",
+      "subtopicId": "f2muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Before performing, you should…",
+        "bm": "Sebelum persembahan, anda perlu…"
+      },
+      "explanation": {
+        "en": "Practice builds confidence.",
+        "bm": "Latihan membina keyakinan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rehearse",
+          "bm": "berlatih"
+        },
+        {
+          "en": "skip practice",
+          "bm": "tidak berlatih"
+        },
+        {
+          "en": "change everything",
+          "bm": "menukar semuanya"
+        },
+        {
+          "en": "leave early",
+          "bm": "pulang awal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-04-q07",
+      "subtopicId": "f2muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good stage manner includes…",
+        "bm": "Adab pentas yang baik termasuk…"
+      },
+      "explanation": {
+        "en": "Respect the audience.",
+        "bm": "Hormati penonton."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "bowing and thanking the audience",
+          "bm": "tunduk dan berterima kasih kepada penonton"
+        },
+        {
+          "en": "arguing on stage",
+          "bm": "bertengkar di pentas"
+        },
+        {
+          "en": "leaving mid-song",
+          "bm": "beredar di tengah lagu"
+        },
+        {
+          "en": "talking loudly",
+          "bm": "bercakap kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-04-q08",
+      "subtopicId": "f2muzik-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Recording your rehearsal helps you…",
+        "bm": "Merakam latihan membantu anda…"
+      },
+      "explanation": {
+        "en": "Listening back is honest feedback.",
+        "bm": "Mendengar semula maklum balas yang jujur."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "find what to improve",
+          "bm": "mengenal pasti perkara untuk diperbaik"
+        },
+        {
+          "en": "avoid practice",
+          "bm": "mengelak latihan"
+        },
+        {
+          "en": "change the audience",
+          "bm": "menukar penonton"
+        },
+        {
+          "en": "cancel the show",
+          "bm": "membatalkan persembahan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

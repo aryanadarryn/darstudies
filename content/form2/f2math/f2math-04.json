@@ -1,0 +1,593 @@
+{
+  "chapterId": "f2math-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Honeycomb cells are hexagons because six angles of 120° fit perfectly round a point with no gaps. Polygon angles explain why.",
+      "bm": "Sel sarang lebah berbentuk heksagon kerana enam sudut 120° muat sempurna di sekeliling titik tanpa ruang. Sudut poligon menjelaskan sebabnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "A regular polygon has equal sides and equal angles.",
+        "bm": "Poligon sekata mempunyai sisi sama panjang dan sudut sama besar."
+      },
+      {
+        "en": "Sum of interior angles = (n − 2) × 180°.",
+        "bm": "Hasil tambah sudut pedalaman = (n − 2) × 180°."
+      },
+      {
+        "en": "Exterior angles of any polygon add to 360°.",
+        "bm": "Sudut peluaran mana-mana poligon berjumlah 360°."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Sum of interior angles",
+            "bm": "Hasil tambah sudut pedalaman"
+          },
+          {
+            "en": "Each exterior (regular)",
+            "bm": "Setiap sudut peluaran (sekata)"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Pentagon",
+              "bm": "Pentagon"
+            },
+            "cells": [
+              {
+                "en": "540°",
+                "bm": "540°"
+              },
+              {
+                "en": "72°",
+                "bm": "72°"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Hexagon",
+              "bm": "Heksagon"
+            },
+            "cells": [
+              {
+                "en": "720°",
+                "bm": "720°"
+              },
+              {
+                "en": "60°",
+                "bm": "60°"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Octagon",
+              "bm": "Oktagon"
+            },
+            "cells": [
+              {
+                "en": "1080°",
+                "bm": "1080°"
+              },
+              {
+                "en": "45°",
+                "bm": "45°"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Regular polygon",
+          "bm": "Poligon sekata"
+        },
+        "definition": {
+          "en": "All sides and all angles are equal.",
+          "bm": "Semua sisi dan semua sudut sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Interior angle",
+          "bm": "Sudut pedalaman"
+        },
+        "definition": {
+          "en": "An angle inside the polygon.",
+          "bm": "Sudut di dalam poligon."
+        }
+      },
+      {
+        "term": {
+          "en": "Exterior angle",
+          "bm": "Sudut peluaran"
+        },
+        "definition": {
+          "en": "Angle between one side and the extension of the next.",
+          "bm": "Sudut antara satu sisi dengan sambungan sisi seterusnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Axis of symmetry",
+          "bm": "Paksi simetri"
+        },
+        "definition": {
+          "en": "A regular n-gon has n axes.",
+          "bm": "Poligon sekata n sisi ada n paksi."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-poly-sum",
+      "f2-poly-ext"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find each interior angle of a regular nonagon (9 sides).",
+        "bm": "Cari setiap sudut pedalaman nonagon sekata (9 sisi)."
+      },
+      "steps": [
+        {
+          "en": "Sum = (9 − 2) × 180° = 1260°.",
+          "bm": "Hasil tambah = (9 − 2) × 180° = 1260°."
+        },
+        {
+          "en": "1260° ÷ 9",
+          "bm": "1260° ÷ 9"
+        }
+      ],
+      "answer": {
+        "en": "140°",
+        "bm": "140°"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-04-q01",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 5-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 5 sisi."
+      },
+      "explanation": {
+        "en": "(5 − 2) × 180° = 540°.",
+        "bm": "(5 − 2) × 180° = 540°."
+      },
+      "difficulty": 1,
+      "answer": 540,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q02",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 6-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 6 sisi."
+      },
+      "explanation": {
+        "en": "(6 − 2) × 180° = 720°.",
+        "bm": "(6 − 2) × 180° = 720°."
+      },
+      "difficulty": 1,
+      "answer": 720,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q03",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 7-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 7 sisi."
+      },
+      "explanation": {
+        "en": "(7 − 2) × 180° = 900°.",
+        "bm": "(7 − 2) × 180° = 900°."
+      },
+      "difficulty": 2,
+      "answer": 900,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q04",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 8-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 8 sisi."
+      },
+      "explanation": {
+        "en": "(8 − 2) × 180° = 1080°.",
+        "bm": "(8 − 2) × 180° = 1080°."
+      },
+      "difficulty": 2,
+      "answer": 1080,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q05",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 10-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 10 sisi."
+      },
+      "explanation": {
+        "en": "(10 − 2) × 180° = 1440°.",
+        "bm": "(10 − 2) × 180° = 1440°."
+      },
+      "difficulty": 2,
+      "answer": 1440,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q06",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sum of the interior angles of a 12-sided polygon.",
+        "bm": "Cari hasil tambah sudut pedalaman poligon 12 sisi."
+      },
+      "explanation": {
+        "en": "(12 − 2) × 180° = 1800°.",
+        "bm": "(12 − 2) × 180° = 1800°."
+      },
+      "difficulty": 2,
+      "answer": 1800,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q07",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 5-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 5 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 5 = 72°.",
+        "bm": "360° ÷ 5 = 72°."
+      },
+      "difficulty": 1,
+      "answer": 72,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q08",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 6-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 6 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 6 = 60°.",
+        "bm": "360° ÷ 6 = 60°."
+      },
+      "difficulty": 1,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q09",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 8-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 8 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 8 = 45°.",
+        "bm": "360° ÷ 8 = 45°."
+      },
+      "difficulty": 2,
+      "answer": 45,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q10",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 9-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 9 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 9 = 40°.",
+        "bm": "360° ÷ 9 = 40°."
+      },
+      "difficulty": 2,
+      "answer": 40,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q11",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 10-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 10 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 10 = 36°.",
+        "bm": "360° ÷ 10 = 36°."
+      },
+      "difficulty": 2,
+      "answer": 36,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q12",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each exterior angle of a regular 12-sided polygon.",
+        "bm": "Cari setiap sudut peluaran poligon sekata 12 sisi."
+      },
+      "explanation": {
+        "en": "360° ÷ 12 = 30°.",
+        "bm": "360° ÷ 12 = 30°."
+      },
+      "difficulty": 2,
+      "answer": 30,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q13",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each interior angle of a regular 6-sided polygon.",
+        "bm": "Cari setiap sudut pedalaman poligon sekata 6 sisi."
+      },
+      "explanation": {
+        "en": "180° − (360° ÷ 6) = 120°.",
+        "bm": "180° − (360° ÷ 6) = 120°."
+      },
+      "difficulty": 2,
+      "answer": 120,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q14",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each interior angle of a regular 10-sided polygon.",
+        "bm": "Cari setiap sudut pedalaman poligon sekata 10 sisi."
+      },
+      "explanation": {
+        "en": "180° − (360° ÷ 10) = 144°.",
+        "bm": "180° − (360° ÷ 10) = 144°."
+      },
+      "difficulty": 2,
+      "answer": 144,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q15",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each interior angle of a regular 12-sided polygon.",
+        "bm": "Cari setiap sudut pedalaman poligon sekata 12 sisi."
+      },
+      "explanation": {
+        "en": "180° − (360° ÷ 12) = 150°.",
+        "bm": "180° − (360° ÷ 12) = 150°."
+      },
+      "difficulty": 2,
+      "answer": 150,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q16",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find each interior angle of a regular 20-sided polygon.",
+        "bm": "Cari setiap sudut pedalaman poligon sekata 20 sisi."
+      },
+      "explanation": {
+        "en": "180° − (360° ÷ 20) = 162°.",
+        "bm": "180° − (360° ÷ 20) = 162°."
+      },
+      "difficulty": 2,
+      "answer": 162,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-04-q17",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Each exterior angle of a regular polygon is 24°. How many sides does it have?",
+        "bm": "Setiap sudut peluaran poligon sekata ialah 24°. Berapakah bilangan sisinya?"
+      },
+      "explanation": {
+        "en": "360° ÷ 24° = 15.",
+        "bm": "360° ÷ 24° = 15."
+      },
+      "difficulty": 3,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-04-q18",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Each exterior angle of a regular polygon is 40°. How many sides does it have?",
+        "bm": "Setiap sudut peluaran poligon sekata ialah 40°. Berapakah bilangan sisinya?"
+      },
+      "explanation": {
+        "en": "360° ÷ 40° = 9.",
+        "bm": "360° ÷ 40° = 9."
+      },
+      "difficulty": 3,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-04-q19",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Each exterior angle of a regular polygon is 36°. How many sides does it have?",
+        "bm": "Setiap sudut peluaran poligon sekata ialah 36°. Berapakah bilangan sisinya?"
+      },
+      "explanation": {
+        "en": "360° ÷ 36° = 10.",
+        "bm": "360° ÷ 36° = 10."
+      },
+      "difficulty": 3,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-04-q20",
+      "subtopicId": "f2math-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Each interior angle of a regular polygon is 156°. How many sides?",
+        "bm": "Setiap sudut pedalaman poligon sekata ialah 156°. Berapa sisi?"
+      },
+      "explanation": {
+        "en": "Exterior = 24°, and 360° ÷ 24° = 15.",
+        "bm": "Peluaran = 24°, dan 360° ÷ 24° = 15."
+      },
+      "difficulty": 3,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-04-q21",
+      "subtopicId": "f2math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many axes of symmetry does a regular octagon have?",
+        "bm": "Berapakah bilangan paksi simetri oktagon sekata?"
+      },
+      "explanation": {
+        "en": "A regular n-gon has n axes.",
+        "bm": "Poligon sekata n sisi ada n paksi."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-04-q22",
+      "subtopicId": "f2math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which shape is a regular polygon?",
+        "bm": "Bentuk manakah poligon sekata?"
+      },
+      "explanation": {
+        "en": "Only a square has all sides and angles equal.",
+        "bm": "Hanya segi empat sama mempunyai semua sisi dan sudut sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Square",
+          "bm": "Segi empat sama"
+        },
+        {
+          "en": "Rectangle",
+          "bm": "Segi empat tepat"
+        },
+        {
+          "en": "Rhombus",
+          "bm": "Rombus"
+        },
+        {
+          "en": "Trapezium",
+          "bm": "Trapezium"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-04-q23",
+      "subtopicId": "f2math-04-01",
+      "type": "fill",
+      "prompt": {
+        "en": "A 7-sided polygon is called a…",
+        "bm": "Poligon 7 sisi dinamakan…"
+      },
+      "explanation": {
+        "en": "Hepta means seven.",
+        "bm": "Hepta bermaksud tujuh."
+      },
+      "difficulty": 1,
+      "answer": [
+        "heptagon",
+        "heptagon"
+      ]
+    },
+    {
+      "id": "f2math-04-q24",
+      "subtopicId": "f2math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A regular hexagon has how many diagonals?",
+        "bm": "Heksagon sekata mempunyai berapa pepenjuru?"
+      },
+      "explanation": {
+        "en": "n(n − 3) ÷ 2 = 6 × 3 ÷ 2 = 9.",
+        "bm": "n(n − 3) ÷ 2 = 6 × 3 ÷ 2 = 9."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "9",
+          "bm": "9"
+        },
+        {
+          "en": "12",
+          "bm": "12"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        }
+      ],
+      "answer": 1
+    }
+  ]
+}

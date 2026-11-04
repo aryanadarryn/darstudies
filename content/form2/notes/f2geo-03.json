@@ -1,0 +1,101 @@
+{
+  "chapterId": "f2geo-03",
+  "reviewed": false,
+  "subtopics": {
+    "f2geo-03-01": {
+      "keyPoints": [
+        {
+          "en": "Rotation: west to east, about 24 hours.",
+          "bm": "Putaran: barat ke timur, kira-kira 24 jam."
+        },
+        {
+          "en": "Revolution: about 365¼ days.",
+          "bm": "Peredaran: kira-kira 365¼ hari."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Axis",
+            "bm": "Paksi"
+          },
+          "meaning": {
+            "en": "Imaginary line through the poles.",
+            "bm": "Garis khayalan melalui kutub."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/seasons.svg",
+          "alt": {
+            "en": "Earth's position in its orbit at the key dates.",
+            "bm": "Kedudukan Bumi dalam orbit pada tarikh penting."
+          },
+          "caption": {
+            "en": "Earth's position in its orbit at the key dates.",
+            "bm": "Kedudukan Bumi dalam orbit pada tarikh penting."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "What does an extra ¼ day create?",
+          "bm": "Apakah terhasil daripada ¼ hari tambahan?"
+        },
+        "answer": {
+          "en": "A leap year every four years.",
+          "bm": "Tahun lompat setiap empat tahun."
+        }
+      },
+      "tip": {
+        "en": "Rotate = spin; revolve = orbit.",
+        "bm": "Putar = pusing diri; edar = mengelilingi."
+      }
+    },
+    "f2geo-03-02": {
+      "keyPoints": [
+        {
+          "en": "The overhead Sun shifts between the tropics.",
+          "bm": "Matahari tegak beralih antara Sartan dan Jadi."
+        },
+        {
+          "en": "Sun angle affects temperature.",
+          "bm": "Sudut Matahari mempengaruhi suhu."
+        },
+        {
+          "en": "Near the equator temperatures vary little.",
+          "bm": "Berhampiran khatulistiwa, suhu kurang berubah."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Hemisphere",
+            "bm": "Hemisfera"
+          },
+          "meaning": {
+            "en": "Half of the Earth.",
+            "bm": "Separuh Bumi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which season does Australia have in December?",
+          "bm": "Musim apa di Australia pada Disember?"
+        },
+        "answer": {
+          "en": "Summer",
+          "bm": "Musim panas"
+        }
+      },
+      "tip": {
+        "en": "Seasons are opposite in the two hemispheres.",
+        "bm": "Musim bertentangan di kedua-dua hemisfera."
+      }
+    }
+  }
+}

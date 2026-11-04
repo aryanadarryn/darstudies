@@ -1,0 +1,436 @@
+{
+  "chapterId": "f2rbt-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why do pencils have erasers on the end? Someone saw two tools could be one. Inventive thinking looks at old problems in new ways.",
+      "bm": "Mengapa pensel ada pemadam di hujungnya? Seseorang melihat dua alat boleh jadi satu. Pemikiran inventif melihat masalah lama dengan cara baharu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Separate routine problems from inventive ones.",
+        "bm": "Asingkan masalah biasa daripada masalah inventif."
+      },
+      {
+        "en": "Function analysis shows how parts act on one another.",
+        "bm": "Analisis fungsi menunjukkan cara komponen saling bertindak."
+      },
+      {
+        "en": "A physical contradiction needs opposite properties at once.",
+        "bm": "Percanggahan fizikal memerlukan sifat bertentangan serentak."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Identify the problem",
+              "bm": "Kenal pasti masalah"
+            },
+            "detail": {
+              "en": "Is it inventive?",
+              "bm": "Adakah inventif?"
+            }
+          },
+          {
+            "title": {
+              "en": "Function analysis",
+              "bm": "Analisis fungsi"
+            },
+            "detail": {
+              "en": "Components and their actions",
+              "bm": "Komponen dan tindakan"
+            }
+          },
+          {
+            "title": {
+              "en": "Find the contradiction",
+              "bm": "Cari percanggahan"
+            },
+            "detail": {
+              "en": "Opposing needs",
+              "bm": "Keperluan bertentangan"
+            }
+          },
+          {
+            "title": {
+              "en": "Apply separation",
+              "bm": "Gunakan pemisahan"
+            },
+            "detail": {
+              "en": "Time, space or condition",
+              "bm": "Masa, ruang atau keadaan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Inventive problem",
+          "bm": "Masalah inventif"
+        },
+        "definition": {
+          "en": "A problem with no known obvious solution.",
+          "bm": "Masalah tanpa penyelesaian jelas yang diketahui."
+        }
+      },
+      {
+        "term": {
+          "en": "Function analysis",
+          "bm": "Analisis fungsi"
+        },
+        "definition": {
+          "en": "Studying what each part does to another.",
+          "bm": "Mengkaji tindakan setiap komponen pada komponen lain."
+        }
+      },
+      {
+        "term": {
+          "en": "Physical contradiction",
+          "bm": "Percanggahan fizikal"
+        },
+        "definition": {
+          "en": "One thing must have opposite properties.",
+          "bm": "Satu benda perlu mempunyai sifat bertentangan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2rbt-01-q01",
+      "subtopicId": "f2rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A non-inventive problem…",
+        "bm": "Masalah bukan inventif…"
+      },
+      "explanation": {
+        "en": "Just follow the known method.",
+        "bm": "Ikut kaedah yang diketahui."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "has a known solution",
+          "bm": "ada penyelesaian yang diketahui"
+        },
+        {
+          "en": "can never be solved",
+          "bm": "tidak boleh diselesaikan"
+        },
+        {
+          "en": "needs a new science",
+          "bm": "memerlukan sains baharu"
+        },
+        {
+          "en": "has no cause",
+          "bm": "tiada punca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q02",
+      "subtopicId": "f2rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is more likely an inventive problem?",
+        "bm": "Yang manakah lebih cenderung masalah inventif?"
+      },
+      "explanation": {
+        "en": "It contains a contradiction.",
+        "bm": "Ia mengandungi percanggahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "An umbrella that must be big in rain but small in a bag",
+          "bm": "Payung perlu besar semasa hujan tetapi kecil dalam beg"
+        },
+        {
+          "en": "Changing a light bulb",
+          "bm": "Menukar mentol lampu"
+        },
+        {
+          "en": "Sharpening a pencil",
+          "bm": "Mengasah pensel"
+        },
+        {
+          "en": "Tying shoelaces",
+          "bm": "Mengikat tali kasut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q03",
+      "subtopicId": "f2rbt-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the first step in solving a problem?",
+        "bm": "Apakah langkah pertama menyelesaikan masalah?"
+      },
+      "explanation": {
+        "en": "Solutions depend on the real problem.",
+        "bm": "Penyelesaian bergantung pada masalah sebenar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Define the real cause",
+          "bm": "Mentakrifkan punca sebenar"
+        },
+        {
+          "en": "Buy materials",
+          "bm": "Membeli bahan"
+        },
+        {
+          "en": "Build it",
+          "bm": "Membinanya"
+        },
+        {
+          "en": "Advertise",
+          "bm": "Mengiklankan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q04",
+      "subtopicId": "f2rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A function analysis lists…",
+        "bm": "Analisis fungsi menyenaraikan…"
+      },
+      "explanation": {
+        "en": "It maps how parts work.",
+        "bm": "Ia memetakan cara komponen berfungsi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "components and actions",
+          "bm": "komponen dan tindakan"
+        },
+        {
+          "en": "prices only",
+          "bm": "harga sahaja"
+        },
+        {
+          "en": "colours only",
+          "bm": "warna sahaja"
+        },
+        {
+          "en": "customers only",
+          "bm": "pelanggan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q05",
+      "subtopicId": "f2rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In \"brush removes dirt\", brush is the…",
+        "bm": "Dalam \"berus membuang kotoran\", berus ialah…"
+      },
+      "explanation": {
+        "en": "The tool acts on the object.",
+        "bm": "Alat bertindak pada objek."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tool",
+          "bm": "alat"
+        },
+        {
+          "en": "object",
+          "bm": "objek"
+        },
+        {
+          "en": "product price",
+          "bm": "harga produk"
+        },
+        {
+          "en": "user",
+          "bm": "pengguna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q06",
+      "subtopicId": "f2rbt-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A harmful function in a design is…",
+        "bm": "Fungsi memudaratkan dalam reka bentuk ialah…"
+      },
+      "explanation": {
+        "en": "Designers aim to remove it.",
+        "bm": "Pereka berusaha membuangnya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "an unwanted action, such as heat damaging a part",
+          "bm": "tindakan tidak diingini, seperti haba merosakkan komponen"
+        },
+        {
+          "en": "a useful action",
+          "bm": "tindakan berguna"
+        },
+        {
+          "en": "a colour",
+          "bm": "warna"
+        },
+        {
+          "en": "a label",
+          "bm": "label"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q07",
+      "subtopicId": "f2rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A physical contradiction is when…",
+        "bm": "Percanggahan fizikal berlaku apabila…"
+      },
+      "explanation": {
+        "en": "For example hot and cold.",
+        "bm": "Contohnya panas dan sejuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "something must be both A and not A",
+          "bm": "sesuatu perlu menjadi A dan bukan A"
+        },
+        {
+          "en": "two people disagree",
+          "bm": "dua orang tidak bersetuju"
+        },
+        {
+          "en": "a tool breaks",
+          "bm": "alat rosak"
+        },
+        {
+          "en": "materials run out",
+          "bm": "bahan habis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q08",
+      "subtopicId": "f2rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A folding umbrella solves its contradiction by separation in…",
+        "bm": "Payung lipat menyelesaikan percanggahan melalui pemisahan…"
+      },
+      "explanation": {
+        "en": "Big when used, small when stored.",
+        "bm": "Besar semasa digunakan, kecil semasa disimpan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "time",
+          "bm": "masa"
+        },
+        {
+          "en": "colour",
+          "bm": "warna"
+        },
+        {
+          "en": "smell",
+          "bm": "bau"
+        },
+        {
+          "en": "price",
+          "bm": "harga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q09",
+      "subtopicId": "f2rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A runway must be strong for planes but passable for people: which is a separation in space?",
+        "bm": "Landasan perlu kuat untuk kapal terbang tetapi boleh dilalui orang: yang manakah pemisahan ruang?"
+      },
+      "explanation": {
+        "en": "Different places serve different needs.",
+        "bm": "Tempat berbeza memenuhi keperluan berbeza."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "An underground walkway",
+          "bm": "Laluan bawah tanah"
+        },
+        {
+          "en": "Faster planes",
+          "bm": "Kapal terbang lebih laju"
+        },
+        {
+          "en": "More paint",
+          "bm": "Lebih banyak cat"
+        },
+        {
+          "en": "Longer hours",
+          "bm": "Waktu lebih panjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-01-q10",
+      "subtopicId": "f2rbt-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which product shows separation by condition?",
+        "bm": "Produk manakah menunjukkan pemisahan keadaan?"
+      },
+      "explanation": {
+        "en": "Behaviour changes with the condition.",
+        "bm": "Sifat berubah mengikut keadaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Glasses that darken in sunlight",
+          "bm": "Cermin mata yang menggelap dalam cahaya matahari"
+        },
+        {
+          "en": "A normal cup",
+          "bm": "Cawan biasa"
+        },
+        {
+          "en": "A wooden chair",
+          "bm": "Kerusi kayu"
+        },
+        {
+          "en": "A paper clip",
+          "bm": "Klip kertas"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

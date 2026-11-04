@@ -1,0 +1,440 @@
+{
+  "chapterId": "f2bm-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Tambah imbuhan pada kata \"ajar\" dan anda mendapat mengajar, pelajar, pelajaran dan pengajaran. Satu kata dasar boleh berkembang menjadi banyak makna.",
+      "bm": "Tambah imbuhan pada kata \"ajar\" dan anda mendapat mengajar, pelajar, pelajaran dan pengajaran. Satu kata dasar boleh berkembang menjadi banyak makna."
+    },
+    "bigIdeas": [
+      {
+        "en": "Imbuhan membentuk kata terbitan.",
+        "bm": "Imbuhan membentuk kata terbitan."
+      },
+      {
+        "en": "Imbuhan meN- berubah mengikut huruf awal.",
+        "bm": "Imbuhan meN- berubah mengikut huruf awal."
+      },
+      {
+        "en": "Apitan hadir serentak di awal dan akhir kata.",
+        "bm": "Apitan hadir serentak di awal dan akhir kata."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Imbuhan",
+          "bm": "Imbuhan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Awalan",
+              "bm": "Awalan"
+            },
+            "detail": {
+              "en": "membaca, pelajar",
+              "bm": "membaca, pelajar"
+            }
+          },
+          {
+            "label": {
+              "en": "Akhiran",
+              "bm": "Akhiran"
+            },
+            "detail": {
+              "en": "makanan, ajarkan",
+              "bm": "makanan, ajarkan"
+            }
+          },
+          {
+            "label": {
+              "en": "Apitan",
+              "bm": "Apitan"
+            },
+            "detail": {
+              "en": "pelajaran, mempelajari",
+              "bm": "pelajaran, mempelajari"
+            }
+          },
+          {
+            "label": {
+              "en": "Sisipan",
+              "bm": "Sisipan"
+            },
+            "detail": {
+              "en": "gerigi, telunjuk",
+              "bm": "gerigi, telunjuk"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata dasar",
+          "bm": "Kata dasar"
+        },
+        "definition": {
+          "en": "Kata asal tanpa imbuhan.",
+          "bm": "Kata asal tanpa imbuhan."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata terbitan",
+          "bm": "Kata terbitan"
+        },
+        "definition": {
+          "en": "Kata dasar yang menerima imbuhan.",
+          "bm": "Kata dasar yang menerima imbuhan."
+        }
+      },
+      {
+        "term": {
+          "en": "Apitan",
+          "bm": "Apitan"
+        },
+        "definition": {
+          "en": "Imbuhan di awal dan akhir kata serentak.",
+          "bm": "Imbuhan di awal dan akhir kata serentak."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bm-02-q01",
+      "subtopicId": "f2bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Imbuhan meN- + \"tulis\" menjadi…",
+        "bm": "Imbuhan meN- + \"tulis\" menjadi…"
+      },
+      "explanation": {
+        "en": "Huruf t digugurkan.",
+        "bm": "Huruf t digugurkan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "menulis",
+          "bm": "menulis"
+        },
+        {
+          "en": "mentulis",
+          "bm": "mentulis"
+        },
+        {
+          "en": "mengtulis",
+          "bm": "mengtulis"
+        },
+        {
+          "en": "metulis",
+          "bm": "metulis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q02",
+      "subtopicId": "f2bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Imbuhan meN- + \"baca\" menjadi…",
+        "bm": "Imbuhan meN- + \"baca\" menjadi…"
+      },
+      "explanation": {
+        "en": "meN- menjadi mem- bagi b.",
+        "bm": "meN- menjadi mem- bagi b."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "membaca",
+          "bm": "membaca"
+        },
+        {
+          "en": "menbaca",
+          "bm": "menbaca"
+        },
+        {
+          "en": "mengbaca",
+          "bm": "mengbaca"
+        },
+        {
+          "en": "mebaca",
+          "bm": "mebaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q03",
+      "subtopicId": "f2bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Imbuhan meN- + \"sapu\" menjadi…",
+        "bm": "Imbuhan meN- + \"sapu\" menjadi…"
+      },
+      "explanation": {
+        "en": "meN- menjadi meny- dan s digugurkan.",
+        "bm": "meN- menjadi meny- dan s digugurkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "menyapu",
+          "bm": "menyapu"
+        },
+        {
+          "en": "mensapu",
+          "bm": "mensapu"
+        },
+        {
+          "en": "mesapu",
+          "bm": "mesapu"
+        },
+        {
+          "en": "mengsapu",
+          "bm": "mengsapu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q04",
+      "subtopicId": "f2bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Imbuhan meN- + \"kira\" menjadi…",
+        "bm": "Imbuhan meN- + \"kira\" menjadi…"
+      },
+      "explanation": {
+        "en": "meN- menjadi meng- dan k digugurkan.",
+        "bm": "meN- menjadi meng- dan k digugurkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mengira",
+          "bm": "mengira"
+        },
+        {
+          "en": "mengkira",
+          "bm": "mengkira"
+        },
+        {
+          "en": "menkira",
+          "bm": "menkira"
+        },
+        {
+          "en": "mekira",
+          "bm": "mekira"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q05",
+      "subtopicId": "f2bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah ejaan yang betul?",
+        "bm": "Yang manakah ejaan yang betul?"
+      },
+      "explanation": {
+        "en": "k digugurkan pada kata dasar \"kesan\".",
+        "bm": "k digugurkan pada kata dasar \"kesan\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "mengesan",
+          "bm": "mengesan"
+        },
+        {
+          "en": "mengkesan",
+          "bm": "mengkesan"
+        },
+        {
+          "en": "menkesan",
+          "bm": "menkesan"
+        },
+        {
+          "en": "menesan",
+          "bm": "menesan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q06",
+      "subtopicId": "f2bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah mempunyai akhiran?",
+        "bm": "Yang manakah mempunyai akhiran?"
+      },
+      "explanation": {
+        "en": "Akhiran -an.",
+        "bm": "Akhiran -an."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "makanan",
+          "bm": "makanan"
+        },
+        {
+          "en": "membaca",
+          "bm": "membaca"
+        },
+        {
+          "en": "belajar",
+          "bm": "belajar"
+        },
+        {
+          "en": "gerigi",
+          "bm": "gerigi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q07",
+      "subtopicId": "f2bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah mengandungi apitan?",
+        "bm": "Yang manakah mengandungi apitan?"
+      },
+      "explanation": {
+        "en": "pe- dan -an hadir bersama.",
+        "bm": "pe- dan -an hadir bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pelajaran",
+          "bm": "pelajaran"
+        },
+        {
+          "en": "pelajar",
+          "bm": "pelajar"
+        },
+        {
+          "en": "ajaran",
+          "bm": "ajaran"
+        },
+        {
+          "en": "ajarkan",
+          "bm": "ajarkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q08",
+      "subtopicId": "f2bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pilih ayat yang betul.",
+        "bm": "Pilih ayat yang betul."
+      },
+      "explanation": {
+        "en": "Kata kerja berakhiran -kan tidak diikuti kata sendi \"tentang\".",
+        "bm": "Kata kerja berakhiran -kan tidak diikuti kata sendi \"tentang\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Dia menerangkan kepada kami.",
+          "bm": "Dia menerangkan kepada kami."
+        },
+        {
+          "en": "Dia menerangkan tentang kami.",
+          "bm": "Dia menerangkan tentang kami."
+        },
+        {
+          "en": "Dia menerang kepada kami.",
+          "bm": "Dia menerang kepada kami."
+        },
+        {
+          "en": "Dia terangkan tentang kepada kami.",
+          "bm": "Dia terangkan tentang kepada kami."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q09",
+      "subtopicId": "f2bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata manakah mengandungi sisipan?",
+        "bm": "Kata manakah mengandungi sisipan?"
+      },
+      "explanation": {
+        "en": "Sisipan -el- pada \"tunjuk\".",
+        "bm": "Sisipan -el- pada \"tunjuk\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "telunjuk",
+          "bm": "telunjuk"
+        },
+        {
+          "en": "tunjukkan",
+          "bm": "tunjukkan"
+        },
+        {
+          "en": "menunjuk",
+          "bm": "menunjuk"
+        },
+        {
+          "en": "petunjuk",
+          "bm": "petunjuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-02-q10",
+      "subtopicId": "f2bm-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sisipan -er- terdapat dalam…",
+        "bm": "Sisipan -er- terdapat dalam…"
+      },
+      "explanation": {
+        "en": "gigi → gerigi.",
+        "bm": "gigi → gerigi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gerigi",
+          "bm": "gerigi"
+        },
+        {
+          "en": "bergigi",
+          "bm": "bergigi"
+        },
+        {
+          "en": "gigian",
+          "bm": "gigian"
+        },
+        {
+          "en": "menggigit",
+          "bm": "menggigit"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

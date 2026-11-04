@@ -3,7 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks'
 import { Link } from 'react-router-dom'
 import { MasteryRing, PageHeader } from '../components/ui'
 import { subjectsOf } from '../content'
-import type { Form } from '../content/ids'
+import { type Form, FORMS } from '../content/ids'
 import { useChooseForm, useForm } from '../components/FormSwitch'
 import { db } from '../db/db'
 import { useT } from '../i18n/useT'
@@ -13,13 +13,14 @@ import { LockBadge, TrialBanner } from '../auth/Locked'
 
 export const SUBJECT_EMOJI: Record<string, string> = {
   phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️',
+  f2bm: '📖', f2bi: '🗣️', f2math: '🔢', f2sci: '🔬', f2sej: '🏛️', f2geo: '🌏', f2pi: '🕌', f2rbt: '🛠️', f2ask: '💻', f2psv: '🎨', f2muzik: '🎵', f2pjk: '🏃',
   f3bm: '📖', f3bi: '🗣️', f3math: '🔢', f3sci: '🔬', f3sej: '🏛️', f3geo: '🌏', f3pi: '🕌', f3rbt: '🛠️', f3ask: '💻', f3psv: '🎨', f3muzik: '🎵', f3pjk: '🏃',
 }
 
 // The tab only changes what Learn shows; it is remembered per device and starts on the study form.
 const TAB_KEY = 'learn.form'
 function readTab(): Form | null {
-  try { const v = localStorage.getItem(TAB_KEY); return v === '3' ? 3 : v === '4' ? 4 : null } catch { return null }
+  try { const v = localStorage.getItem(TAB_KEY); return v === '2' ? 2 : v === '3' ? 3 : v === '4' ? 4 : null } catch { return null }
 }
 function saveTab(f: Form) {
   try { localStorage.setItem(TAB_KEY, String(f)) } catch { /* storage unavailable */ }
@@ -38,19 +39,19 @@ export default function Learn() {
 
   return (
     <div>
-      <PageHeader title={t('learn.title')} subtitle={`${t(tab === 3 ? 'form.3' : 'form.4')} KSSM · DLP`} />
-      <div role="tablist" aria-label={t('form.label')} className="mb-3 grid grid-cols-2 gap-1 rounded-2xl bg-slate-200 p-1 dark:bg-slate-800">
-        {([3, 4] as const).map((f) => (
+      <PageHeader title={t('learn.title')} subtitle={`${t(`form.${tab}`)} KSSM · DLP`} />
+      <div role="tablist" aria-label={t('form.label')} className="mb-3 grid grid-cols-3 gap-1 rounded-2xl bg-slate-200 p-1 dark:bg-slate-800">
+        {FORMS.map((f) => (
           <button key={f} role="tab" aria-selected={tab === f} onClick={() => pick(f)}
             className={`min-h-11 rounded-xl px-3 py-1.5 text-sm font-bold transition ${tab === f ? 'bg-violet-700 text-white shadow' : 'text-slate-600 dark:text-slate-300'}`}>
-            {t(f === 3 ? 'form.3' : 'form.4')}
+            {t(`form.${f}`)}
             <span className={`block text-[11px] font-medium ${tab === f ? 'text-violet-100' : 'muted'}`}>{subjectsOf(f).length} {t('learn.subjects')}</span>
           </button>
         ))}
       </div>
       {tab !== studyForm && (
         <div className="card mb-3 flex flex-wrap items-center justify-between gap-2 text-sm">
-          <span>{t(studyForm === 3 ? 'learn.planIs3' : 'learn.planIs4')}</span>
+          <span>{t(`learn.planIs${studyForm}`)}</span>
           <button className="btn-secondary min-h-9 px-3 text-xs" onClick={() => chooseForm(tab)}>{t('learn.usePlanForm')}</button>
         </div>
       )}

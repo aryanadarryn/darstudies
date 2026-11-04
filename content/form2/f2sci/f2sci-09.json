@@ -1,0 +1,603 @@
+{
+  "chapterId": "f2sci-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Railway tracks have small gaps so that they can expand on a hot day without buckling.",
+      "bm": "Landasan kereta api ada ruang kecil supaya ia boleh mengembang pada hari panas tanpa melengkung."
+    },
+    "bigIdeas": [
+      {
+        "en": "Heat is energy; temperature shows how hot something is.",
+        "bm": "Haba ialah tenaga; suhu menunjukkan darjah kepanasan."
+      },
+      {
+        "en": "Heat moves by conduction, convection and radiation.",
+        "bm": "Haba berpindah melalui konduksi, perolakan dan sinaran."
+      },
+      {
+        "en": "Dark, dull surfaces absorb and emit more heat.",
+        "bm": "Permukaan gelap dan pudar menyerap dan membebaskan lebih banyak haba."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Where",
+            "bm": "Di mana"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Conduction",
+              "bm": "Konduksi"
+            },
+            "cells": [
+              {
+                "en": "solids",
+                "bm": "pepejal"
+              },
+              {
+                "en": "hot spoon handle",
+                "bm": "pemegang sudu panas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Convection",
+              "bm": "Perolakan"
+            },
+            "cells": [
+              {
+                "en": "liquids and gases",
+                "bm": "cecair dan gas"
+              },
+              {
+                "en": "sea breeze",
+                "bm": "bayu laut"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Radiation",
+              "bm": "Sinaran"
+            },
+            "cells": [
+              {
+                "en": "no medium needed",
+                "bm": "tiada medium diperlukan"
+              },
+              {
+                "en": "heat from the Sun",
+                "bm": "haba dari Matahari"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Heat",
+          "bm": "Haba"
+        },
+        "definition": {
+          "en": "Energy that flows from hot to cold, in joules.",
+          "bm": "Tenaga yang mengalir dari panas ke sejuk, dalam joule."
+        }
+      },
+      {
+        "term": {
+          "en": "Temperature",
+          "bm": "Suhu"
+        },
+        "definition": {
+          "en": "How hot or cold an object is, in °C.",
+          "bm": "Darjah kepanasan objek, dalam °C."
+        }
+      },
+      {
+        "term": {
+          "en": "Thermal equilibrium",
+          "bm": "Keseimbangan terma"
+        },
+        "definition": {
+          "en": "No net heat flow because temperatures are equal.",
+          "bm": "Tiada aliran haba bersih kerana suhu sama."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-09-q01",
+      "subtopicId": "f2sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SI unit of heat is the…",
+        "bm": "Unit SI bagi haba ialah…"
+      },
+      "explanation": {
+        "en": "Heat is a form of energy.",
+        "bm": "Haba ialah sejenis tenaga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "joule",
+          "bm": "joule"
+        },
+        {
+          "en": "degree Celsius",
+          "bm": "darjah Celsius"
+        },
+        {
+          "en": "newton",
+          "bm": "newton"
+        },
+        {
+          "en": "volt",
+          "bm": "volt"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q02",
+      "subtopicId": "f2sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Temperature is measured with a…",
+        "bm": "Suhu diukur dengan…"
+      },
+      "explanation": {
+        "en": "It reads in °C.",
+        "bm": "Bacaannya dalam °C."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "thermometer",
+          "bm": "termometer"
+        },
+        {
+          "en": "ammeter",
+          "bm": "ammeter"
+        },
+        {
+          "en": "ruler",
+          "bm": "pembaris"
+        },
+        {
+          "en": "balance",
+          "bm": "neraca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q03",
+      "subtopicId": "f2sci-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A bath and a cup of water are both at 40 °C. Which has more heat?",
+        "bm": "Air mandi dan secawan air sama-sama 40 °C. Yang mana ada lebih haba?"
+      },
+      "explanation": {
+        "en": "More mass stores more heat at the same temperature.",
+        "bm": "Lebih banyak jisim menyimpan lebih banyak haba pada suhu sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "The bath",
+          "bm": "Air mandi"
+        },
+        {
+          "en": "The cup",
+          "bm": "Secawan air"
+        },
+        {
+          "en": "They are equal",
+          "bm": "Sama"
+        },
+        {
+          "en": "Neither has heat",
+          "bm": "Tiada haba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q04",
+      "subtopicId": "f2sci-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 25 °C to kelvin (add 273).",
+        "bm": "Tukarkan 25 °C kepada kelvin (tambah 273)."
+      },
+      "explanation": {
+        "en": "25 + 273 = 298.",
+        "bm": "25 + 273 = 298."
+      },
+      "difficulty": 2,
+      "answer": 298,
+      "tolerance": 0,
+      "unit": "K"
+    },
+    {
+      "id": "f2sci-09-q05",
+      "subtopicId": "f2sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Heat travels from…",
+        "bm": "Haba mengalir dari…"
+      },
+      "explanation": {
+        "en": "Until the temperatures are equal.",
+        "bm": "Sehingga suhu sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "hot to cold",
+          "bm": "panas ke sejuk"
+        },
+        {
+          "en": "cold to hot",
+          "bm": "sejuk ke panas"
+        },
+        {
+          "en": "big to small",
+          "bm": "besar ke kecil"
+        },
+        {
+          "en": "light to heavy",
+          "bm": "ringan ke berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q06",
+      "subtopicId": "f2sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Heat from the Sun reaches Earth by…",
+        "bm": "Haba dari Matahari sampai ke Bumi melalui…"
+      },
+      "explanation": {
+        "en": "Space has no particles.",
+        "bm": "Angkasa tiada zarah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "radiation",
+          "bm": "sinaran"
+        },
+        {
+          "en": "conduction",
+          "bm": "konduksi"
+        },
+        {
+          "en": "convection",
+          "bm": "perolakan"
+        },
+        {
+          "en": "evaporation",
+          "bm": "penyejatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q07",
+      "subtopicId": "f2sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A sea breeze blows during the day because…",
+        "bm": "Bayu laut bertiup pada waktu siang kerana…"
+      },
+      "explanation": {
+        "en": "Cool air from the sea replaces the rising air.",
+        "bm": "Udara sejuk dari laut menggantikan udara yang naik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "land heats faster and warm air rises",
+          "bm": "tanah cepat panas dan udara panas naik"
+        },
+        {
+          "en": "the sea heats faster",
+          "bm": "laut cepat panas"
+        },
+        {
+          "en": "air stops moving",
+          "bm": "udara berhenti bergerak"
+        },
+        {
+          "en": "land is cooler",
+          "bm": "tanah lebih sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q08",
+      "subtopicId": "f2sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do cooking pots have plastic handles?",
+        "bm": "Mengapa periuk ada pemegang plastik?"
+      },
+      "explanation": {
+        "en": "It stops heat reaching your hand.",
+        "bm": "Ia menghalang haba sampai ke tangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Plastic is a poor conductor",
+          "bm": "Plastik konduktor lemah"
+        },
+        {
+          "en": "Plastic is a good conductor",
+          "bm": "Plastik konduktor baik"
+        },
+        {
+          "en": "It makes the pot boil sooner",
+          "bm": "Supaya cepat mendidih"
+        },
+        {
+          "en": "Plastic is heavy",
+          "bm": "Plastik berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q09",
+      "subtopicId": "f2sci-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hot water at 80 °C is mixed with cold water at 20 °C. The final temperature is…",
+        "bm": "Air panas 80 °C dicampur dengan air sejuk 20 °C. Suhu akhirnya…"
+      },
+      "explanation": {
+        "en": "They reach thermal equilibrium.",
+        "bm": "Mencapai keseimbangan terma."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "between 20 °C and 80 °C",
+          "bm": "antara 20 °C dan 80 °C"
+        },
+        {
+          "en": "exactly 100 °C",
+          "bm": "tepat 100 °C"
+        },
+        {
+          "en": "below 20 °C",
+          "bm": "bawah 20 °C"
+        },
+        {
+          "en": "above 80 °C",
+          "bm": "atas 80 °C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q10",
+      "subtopicId": "f2sci-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "On heating, most matter…",
+        "bm": "Apabila dipanaskan, kebanyakan jirim…"
+      },
+      "explanation": {
+        "en": "Particles vibrate more and take more space.",
+        "bm": "Zarah bergetar lebih dan mengambil lebih ruang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "expands",
+          "bm": "mengembang"
+        },
+        {
+          "en": "contracts",
+          "bm": "mengecut"
+        },
+        {
+          "en": "vanishes",
+          "bm": "hilang"
+        },
+        {
+          "en": "gets heavier",
+          "bm": "bertambah berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q11",
+      "subtopicId": "f2sci-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mercury rises in a thermometer because it…",
+        "bm": "Merkuri naik dalam termometer kerana ia…"
+      },
+      "explanation": {
+        "en": "The tube is narrow, so the rise is visible.",
+        "bm": "Tiubnya sempit, jadi kenaikan dapat dilihat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "expands uniformly when heated",
+          "bm": "mengembang secara seragam apabila dipanaskan"
+        },
+        {
+          "en": "evaporates",
+          "bm": "menyejat"
+        },
+        {
+          "en": "contracts",
+          "bm": "mengecut"
+        },
+        {
+          "en": "loses mass",
+          "bm": "kehilangan jisim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q12",
+      "subtopicId": "f2sci-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A tight metal lid can be loosened by running hot water over it because…",
+        "bm": "Penutup logam yang ketat dilonggarkan dengan air panas kerana…"
+      },
+      "explanation": {
+        "en": "Metal expands more for the same heating.",
+        "bm": "Logam mengembang lebih bagi pemanasan sama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "the metal expands more than the glass",
+          "bm": "logam mengembang lebih daripada kaca"
+        },
+        {
+          "en": "the glass melts",
+          "bm": "kaca melebur"
+        },
+        {
+          "en": "the water is sticky",
+          "bm": "air melekit"
+        },
+        {
+          "en": "the lid contracts",
+          "bm": "penutup mengecut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q13",
+      "subtopicId": "f2sci-09-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which surface absorbs heat best?",
+        "bm": "Permukaan manakah paling baik menyerap haba?"
+      },
+      "explanation": {
+        "en": "Shiny surfaces reflect heat.",
+        "bm": "Permukaan berkilat memantulkan haba."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Dark and dull",
+          "bm": "Gelap dan pudar"
+        },
+        {
+          "en": "White and shiny",
+          "bm": "Putih dan berkilat"
+        },
+        {
+          "en": "Silver and smooth",
+          "bm": "Perak dan licin"
+        },
+        {
+          "en": "Glass mirror",
+          "bm": "Cermin kaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q14",
+      "subtopicId": "f2sci-09-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "We wear light-coloured clothes on hot days because…",
+        "bm": "Kita memakai pakaian cerah pada hari panas kerana…"
+      },
+      "explanation": {
+        "en": "Light colours reflect more radiation.",
+        "bm": "Warna cerah memantulkan lebih banyak sinaran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "they absorb less heat",
+          "bm": "menyerap kurang haba"
+        },
+        {
+          "en": "they absorb more heat",
+          "bm": "menyerap lebih haba"
+        },
+        {
+          "en": "they conduct well",
+          "bm": "mengalirkan haba dengan baik"
+        },
+        {
+          "en": "they are heavier",
+          "bm": "lebih berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-09-q15",
+      "subtopicId": "f2sci-09-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A vacuum flask keeps drinks hot partly because its silvered walls…",
+        "bm": "Termos mengekalkan kepanasan minuman antara lain kerana dinding berperaknya…"
+      },
+      "explanation": {
+        "en": "The vacuum stops conduction and convection.",
+        "bm": "Vakum menghalang konduksi dan perolakan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "reduce heat loss by radiation",
+          "bm": "mengurangkan kehilangan haba melalui sinaran"
+        },
+        {
+          "en": "add heat",
+          "bm": "menambah haba"
+        },
+        {
+          "en": "conduct heat out",
+          "bm": "mengalirkan haba keluar"
+        },
+        {
+          "en": "absorb all heat",
+          "bm": "menyerap semua haba"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

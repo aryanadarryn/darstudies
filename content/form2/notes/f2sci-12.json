@@ -1,0 +1,86 @@
+{
+  "chapterId": "f2sci-12",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-12-01": {
+      "keyPoints": [
+        {
+          "en": "The Sun holds about 99.8% of the Solar System's mass.",
+          "bm": "Matahari memegang kira-kira 99.8% jisim Sistem Suria."
+        },
+        {
+          "en": "Planets differ in size, atmosphere and orbit.",
+          "bm": "Planet berbeza dari segi saiz, atmosfera dan orbit."
+        },
+        {
+          "en": "Each planet has a different day and year.",
+          "bm": "Setiap planet mempunyai hari dan tahun berbeza."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Orbit",
+            "bm": "Orbit"
+          },
+          "meaning": {
+            "en": "Path round the Sun.",
+            "bm": "Laluan mengelilingi Matahari."
+          }
+        },
+        {
+          "term": {
+            "en": "Atmosphere",
+            "bm": "Atmosfera"
+          },
+          "meaning": {
+            "en": "Gases around a planet.",
+            "bm": "Gas di sekeliling planet."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/solar.svg",
+          "alt": {
+            "en": "Order of the planets (not to scale).",
+            "bm": "Susunan planet (tidak mengikut skala)."
+          },
+          "caption": {
+            "en": "Order of the planets (not to scale).",
+            "bm": "Susunan planet (tidak mengikut skala)."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        },
+        {
+          "src": "img/f2/p-solar.webp",
+          "alt": {
+            "en": "A NASA montage of the planets.",
+            "bm": "Montaj planet oleh NASA."
+          },
+          "caption": {
+            "en": "A NASA montage of the planets.",
+            "bm": "Montaj planet oleh NASA."
+          },
+          "credit": "NASA · Public domain · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Solar_System_Montage_-_GPN-2000-000454.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which planet has the shortest year?",
+          "bm": "Planet manakah mempunyai tahun paling singkat?"
+        },
+        "answer": {
+          "en": "Mercury",
+          "bm": "Utarid"
+        }
+      },
+      "tip": {
+        "en": "Do not mix up rotation (day) with revolution (year).",
+        "bm": "Jangan keliru antara putaran (hari) dan peredaran (tahun)."
+      }
+    }
+  }
+}

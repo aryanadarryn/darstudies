@@ -1,0 +1,409 @@
+{
+  "chapterId": "f2muzik-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A dotted crotchet lasts one and a half beats. Reading notation lets you play music you have never heard before.",
+      "bm": "Krocet bertitik bernilai satu setengah detik. Membaca notasi membolehkan anda memainkan muzik yang belum pernah didengar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Notes and rests have time values.",
+        "bm": "Not dan tanda rehat mempunyai nilai masa."
+      },
+      {
+        "en": "The stave shows pitch.",
+        "bm": "Baluk menunjukkan pic."
+      },
+      {
+        "en": "Chords are built from scale notes.",
+        "bm": "Kord dibina daripada not skel."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Note",
+          "bm": "Not"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Semibreve",
+              "bm": "Semibrif"
+            },
+            "detail": {
+              "en": "4",
+              "bm": "4"
+            }
+          },
+          {
+            "label": {
+              "en": "Minim",
+              "bm": "Minim"
+            },
+            "detail": {
+              "en": "2",
+              "bm": "2"
+            }
+          },
+          {
+            "label": {
+              "en": "Crotchet",
+              "bm": "Krocet"
+            },
+            "detail": {
+              "en": "1",
+              "bm": "1"
+            }
+          },
+          {
+            "label": {
+              "en": "Dotted crotchet",
+              "bm": "Krocet bertitik"
+            },
+            "detail": {
+              "en": "1½",
+              "bm": "1½"
+            }
+          },
+          {
+            "label": {
+              "en": "Quaver",
+              "bm": "Kuaver"
+            },
+            "detail": {
+              "en": "½",
+              "bm": "½"
+            }
+          },
+          {
+            "label": {
+              "en": "Semiquaver",
+              "bm": "Semikuaver"
+            },
+            "detail": {
+              "en": "¼",
+              "bm": "¼"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Dotted note",
+          "bm": "Not bertitik"
+        },
+        "definition": {
+          "en": "A dot adds half the note's value.",
+          "bm": "Titik menambah separuh nilai not."
+        }
+      },
+      {
+        "term": {
+          "en": "Stave",
+          "bm": "Baluk"
+        },
+        "definition": {
+          "en": "Five lines and four spaces.",
+          "bm": "Lima garisan dan empat ruang."
+        }
+      },
+      {
+        "term": {
+          "en": "Chord",
+          "bm": "Kord"
+        },
+        "definition": {
+          "en": "Three or more notes together.",
+          "bm": "Tiga atau lebih not serentak."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2muzik-03-q01",
+      "subtopicId": "f2muzik-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats is a minim in 4/4?",
+        "bm": "Berapa detik minim dalam 4/4?"
+      },
+      "explanation": {
+        "en": "A minim is 2 crotchets.",
+        "bm": "Minim sama dengan 2 krocet."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2muzik-03-q02",
+      "subtopicId": "f2muzik-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many quavers fit in a dotted crotchet?",
+        "bm": "Berapa kuaver dalam satu krocet bertitik?"
+      },
+      "explanation": {
+        "en": "1½ beats ÷ ½ beat = 3.",
+        "bm": "1½ detik ÷ ½ detik = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2muzik-03-q03",
+      "subtopicId": "f2muzik-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many beats does a dotted minim have in 4/4?",
+        "bm": "Berapa detik minim bertitik dalam 4/4?"
+      },
+      "explanation": {
+        "en": "2 + 1 = 3.",
+        "bm": "2 + 1 = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2muzik-03-q04",
+      "subtopicId": "f2muzik-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which rest lasts one beat in 4/4?",
+        "bm": "Tanda rehat manakah bernilai satu detik dalam 4/4?"
+      },
+      "explanation": {
+        "en": "Equal to a crotchet.",
+        "bm": "Sama dengan krocet."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Crotchet rest",
+          "bm": "Rehat krocet"
+        },
+        {
+          "en": "Semibreve rest",
+          "bm": "Rehat semibrif"
+        },
+        {
+          "en": "Minim rest",
+          "bm": "Rehat minim"
+        },
+        {
+          "en": "Quaver rest",
+          "bm": "Rehat kuaver"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q05",
+      "subtopicId": "f2muzik-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The treble clef is also called the…",
+        "bm": "Klef trebel juga dipanggil…"
+      },
+      "explanation": {
+        "en": "It circles the G line.",
+        "bm": "Ia melingkari garisan G."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "G clef",
+          "bm": "klef G"
+        },
+        {
+          "en": "F clef",
+          "bm": "klef F"
+        },
+        {
+          "en": "C clef",
+          "bm": "klef C"
+        },
+        {
+          "en": "A clef",
+          "bm": "klef A"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q06",
+      "subtopicId": "f2muzik-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The treble clef lines from the bottom spell…",
+        "bm": "Garisan klef trebel dari bawah ialah…"
+      },
+      "explanation": {
+        "en": "Every Good Boy Does Fine.",
+        "bm": "Every Good Boy Does Fine."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "E G B D F",
+          "bm": "E G B D F"
+        },
+        {
+          "en": "F A C E G",
+          "bm": "F A C E G"
+        },
+        {
+          "en": "A B C D E",
+          "bm": "A B C D E"
+        },
+        {
+          "en": "G B D F A",
+          "bm": "G B D F A"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q07",
+      "subtopicId": "f2muzik-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The treble clef spaces spell…",
+        "bm": "Ruang klef trebel ialah…"
+      },
+      "explanation": {
+        "en": "FACE from the bottom.",
+        "bm": "FACE dari bawah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "F A C E",
+          "bm": "F A C E"
+        },
+        {
+          "en": "E G B D",
+          "bm": "E G B D"
+        },
+        {
+          "en": "A C E G",
+          "bm": "A C E G"
+        },
+        {
+          "en": "C E G B",
+          "bm": "C E G B"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q08",
+      "subtopicId": "f2muzik-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "G major has which sharp?",
+        "bm": "G major mempunyai syap…"
+      },
+      "explanation": {
+        "en": "One sharp only.",
+        "bm": "Satu syap sahaja."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "F♯",
+          "bm": "F♯"
+        },
+        {
+          "en": "C♯",
+          "bm": "C♯"
+        },
+        {
+          "en": "G♯",
+          "bm": "G♯"
+        },
+        {
+          "en": "B♯",
+          "bm": "B♯"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q09",
+      "subtopicId": "f2muzik-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The relative minor of G major is…",
+        "bm": "Minor relatif G major ialah…"
+      },
+      "explanation": {
+        "en": "Three semitones down.",
+        "bm": "Tiga semiton ke bawah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "E minor",
+          "bm": "E minor"
+        },
+        {
+          "en": "A minor",
+          "bm": "A minor"
+        },
+        {
+          "en": "D minor",
+          "bm": "D minor"
+        },
+        {
+          "en": "B minor",
+          "bm": "B minor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-03-q10",
+      "subtopicId": "f2muzik-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The primary chords of G major are…",
+        "bm": "Kord utama G major ialah…"
+      },
+      "explanation": {
+        "en": "I, IV and V.",
+        "bm": "I, IV dan V."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "G, C, D",
+          "bm": "G, C, D"
+        },
+        {
+          "en": "G, B, D",
+          "bm": "G, B, D"
+        },
+        {
+          "en": "C, F, G",
+          "bm": "C, F, G"
+        },
+        {
+          "en": "A, D, E",
+          "bm": "A, D, E"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

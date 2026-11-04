@@ -1,0 +1,331 @@
+{
+  "chapterId": "f2psv-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A sealed box with a tiny hole can take a real photo. No lens is needed: light passing through the hole makes the picture.",
+      "bm": "Kotak tertutup dengan lubang kecil boleh merakam foto sebenar. Lensa tidak diperlukan: cahaya melalui lubang menghasilkan gambar."
+    },
+    "bigIdeas": [
+      {
+        "en": "A pinhole camera has no lens.",
+        "bm": "Kamera pinhole tiada lensa."
+      },
+      {
+        "en": "The image is upside down.",
+        "bm": "Imej terbalik."
+      },
+      {
+        "en": "Ibn al-Haytham studied this effect long ago.",
+        "bm": "Ibn al-Haytham telah mengkaji kesan ini lama dahulu."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Photographic Art",
+          "bm": "Seni Foto"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Hole",
+              "bm": "Lubang"
+            },
+            "detail": {
+              "en": "Lets light in",
+              "bm": "Membenarkan cahaya masuk"
+            }
+          },
+          {
+            "label": {
+              "en": "Box",
+              "bm": "Kotak"
+            },
+            "detail": {
+              "en": "Light-tight",
+              "bm": "Kedap cahaya"
+            }
+          },
+          {
+            "label": {
+              "en": "Film",
+              "bm": "Filem"
+            },
+            "detail": {
+              "en": "Records the image",
+              "bm": "Merakam imej"
+            }
+          },
+          {
+            "label": {
+              "en": "Exposure",
+              "bm": "Dedahan"
+            },
+            "detail": {
+              "en": "Length of time",
+              "bm": "Tempoh masa"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Exposure",
+          "bm": "Dedahan"
+        },
+        "definition": {
+          "en": "Time that light reaches the film.",
+          "bm": "Masa cahaya sampai ke filem."
+        }
+      },
+      {
+        "term": {
+          "en": "Camera obscura",
+          "bm": "Kamera obscura"
+        },
+        "definition": {
+          "en": "A dark room with a small hole that projects an image.",
+          "bm": "Bilik gelap berlubang kecil yang memancarkan imej."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-11-q01",
+      "subtopicId": "f2psv-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pinhole camera has…",
+        "bm": "Kamera pinhole mempunyai…"
+      },
+      "explanation": {
+        "en": "Just a tiny hole.",
+        "bm": "Hanya lubang kecil."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "no lens",
+          "bm": "tiada lensa"
+        },
+        {
+          "en": "a zoom lens",
+          "bm": "lensa zum"
+        },
+        {
+          "en": "a screen",
+          "bm": "skrin"
+        },
+        {
+          "en": "a battery",
+          "bm": "bateri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q02",
+      "subtopicId": "f2psv-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The inside should be…",
+        "bm": "Bahagian dalam perlu…"
+      },
+      "explanation": {
+        "en": "Only hole light should reach the film.",
+        "bm": "Hanya cahaya lubang boleh sampai ke filem."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "dark and light-tight",
+          "bm": "gelap dan kedap cahaya"
+        },
+        {
+          "en": "bright white",
+          "bm": "putih terang"
+        },
+        {
+          "en": "open",
+          "bm": "terbuka"
+        },
+        {
+          "en": "full of water",
+          "bm": "penuh dengan air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q03",
+      "subtopicId": "f2psv-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The image is…",
+        "bm": "Imejnya…"
+      },
+      "explanation": {
+        "en": "Light travels in straight lines.",
+        "bm": "Cahaya bergerak lurus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "inverted",
+          "bm": "terbalik"
+        },
+        {
+          "en": "always in colour",
+          "bm": "sentiasa berwarna"
+        },
+        {
+          "en": "always larger",
+          "bm": "sentiasa lebih besar"
+        },
+        {
+          "en": "three-dimensional",
+          "bm": "tiga dimensi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q04",
+      "subtopicId": "f2psv-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A smaller hole gives…",
+        "bm": "Lubang lebih kecil memberi…"
+      },
+      "explanation": {
+        "en": "Less light enters.",
+        "bm": "Kurang cahaya masuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a sharper but dimmer image",
+          "bm": "imej lebih tajam tetapi malap"
+        },
+        {
+          "en": "a brighter image",
+          "bm": "imej lebih terang"
+        },
+        {
+          "en": "no image",
+          "bm": "tiada imej"
+        },
+        {
+          "en": "a colour image",
+          "bm": "imej berwarna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q05",
+      "subtopicId": "f2psv-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are exposures long?",
+        "bm": "Mengapa dedahan lama?"
+      },
+      "explanation": {
+        "en": "Long exposure collects light.",
+        "bm": "Dedahan lama mengumpul cahaya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Very little light enters",
+          "bm": "Sangat sedikit cahaya masuk"
+        },
+        {
+          "en": "Film is slow to burn",
+          "bm": "Filem lambat terbakar"
+        },
+        {
+          "en": "The box is heavy",
+          "bm": "Kotak berat"
+        },
+        {
+          "en": "It needs batteries",
+          "bm": "Ia perlukan bateri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q06",
+      "subtopicId": "f2psv-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The scholar linked to the camera obscura is…",
+        "bm": "Ilmuwan yang dikaitkan dengan kamera obscura ialah…"
+      },
+      "explanation": {
+        "en": "He wrote the Book of Optics.",
+        "bm": "Beliau menulis Kitab Optik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ibn al-Haytham",
+          "bm": "Ibn al-Haytham"
+        },
+        {
+          "en": "Newton",
+          "bm": "Newton"
+        },
+        {
+          "en": "Einstein",
+          "bm": "Einstein"
+        },
+        {
+          "en": "Pasteur",
+          "bm": "Pasteur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-11-q07",
+      "subtopicId": "f2psv-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Camera obscura means…",
+        "bm": "Kamera obscura bermaksud…"
+      },
+      "explanation": {
+        "en": "From Latin.",
+        "bm": "Daripada bahasa Latin."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "dark room",
+          "bm": "bilik gelap"
+        },
+        {
+          "en": "bright lens",
+          "bm": "lensa cerah"
+        },
+        {
+          "en": "small film",
+          "bm": "filem kecil"
+        },
+        {
+          "en": "colour box",
+          "bm": "kotak warna"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

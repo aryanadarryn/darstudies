@@ -1,0 +1,630 @@
+{
+  "chapterId": "f2sci-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Ant stings hurt because of acid; rubbing on a mild alkali such as baking soda eases the pain. That is neutralisation in everyday life.",
+      "bm": "Sengatan semut pedih kerana asid; menyapu alkali lemah seperti soda penaik melegakan kesakitan. Itulah peneutralan dalam kehidupan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Acids have pH below 7 and alkalis above 7.",
+        "bm": "Asid mempunyai pH bawah 7 dan alkali atas 7."
+      },
+      {
+        "en": "Indicators show whether a substance is acidic or alkaline.",
+        "bm": "Penunjuk menunjukkan sama ada bahan berasid atau beralkali."
+      },
+      {
+        "en": "Acid + alkali → salt + water.",
+        "bm": "Asid + alkali → garam + air."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Acid",
+            "bm": "Asid"
+          },
+          {
+            "en": "Alkali",
+            "bm": "Alkali"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Taste",
+              "bm": "Rasa"
+            },
+            "cells": [
+              {
+                "en": "sour",
+                "bm": "masam"
+              },
+              {
+                "en": "bitter",
+                "bm": "pahit"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Feel",
+              "bm": "Rasa sentuhan"
+            },
+            "cells": [
+              {
+                "en": "corrosive",
+                "bm": "mengakis"
+              },
+              {
+                "en": "soapy",
+                "bm": "licin"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Litmus",
+              "bm": "Litmus"
+            },
+            "cells": [
+              {
+                "en": "blue → red",
+                "bm": "biru → merah"
+              },
+              {
+                "en": "red → blue",
+                "bm": "merah → biru"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "pH",
+              "bm": "pH"
+            },
+            "cells": [
+              {
+                "en": "below 7",
+                "bm": "bawah 7"
+              },
+              {
+                "en": "above 7",
+                "bm": "atas 7"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Acid",
+          "bm": "Asid"
+        },
+        "definition": {
+          "en": "A substance that shows acidic properties in water.",
+          "bm": "Bahan yang menunjukkan sifat asid dalam air."
+        }
+      },
+      {
+        "term": {
+          "en": "Alkali",
+          "bm": "Alkali"
+        },
+        "definition": {
+          "en": "A substance that shows alkaline properties in water.",
+          "bm": "Bahan yang menunjukkan sifat alkali dalam air."
+        }
+      },
+      {
+        "term": {
+          "en": "pH",
+          "bm": "pH"
+        },
+        "definition": {
+          "en": "A scale of how acidic or alkaline a solution is.",
+          "bm": "Skala keasidan atau kealkalian larutan."
+        }
+      },
+      {
+        "term": {
+          "en": "Neutralisation",
+          "bm": "Peneutralan"
+        },
+        "definition": {
+          "en": "An acid reacts with an alkali to form salt and water.",
+          "bm": "Asid bertindak balas dengan alkali menghasilkan garam dan air."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-06-q01",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an acid found in vinegar?",
+        "bm": "Asid manakah terdapat dalam cuka?"
+      },
+      "explanation": {
+        "en": "Vinegar contains ethanoic (acetic) acid.",
+        "bm": "Cuka mengandungi asid etanoik (asetik)."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ethanoic acid",
+          "bm": "Asid etanoik"
+        },
+        {
+          "en": "Citric acid",
+          "bm": "Asid sitrik"
+        },
+        {
+          "en": "Hydrochloric acid",
+          "bm": "Asid hidroklorik"
+        },
+        {
+          "en": "Sulphuric acid",
+          "bm": "Asid sulfurik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q02",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Acid turns blue litmus paper…",
+        "bm": "Asid menukarkan kertas litmus biru kepada…"
+      },
+      "explanation": {
+        "en": "A red colour indicates acid.",
+        "bm": "Warna merah menunjukkan asid."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "red",
+          "bm": "merah"
+        },
+        {
+          "en": "green",
+          "bm": "hijau"
+        },
+        {
+          "en": "yellow",
+          "bm": "kuning"
+        },
+        {
+          "en": "it stays blue",
+          "bm": "kekal biru"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q03",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A solution with pH 12 is…",
+        "bm": "Larutan dengan pH 12 ialah…"
+      },
+      "explanation": {
+        "en": "Far above 7.",
+        "bm": "Jauh melebihi 7."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "strongly alkaline",
+          "bm": "alkali kuat"
+        },
+        {
+          "en": "strongly acidic",
+          "bm": "asid kuat"
+        },
+        {
+          "en": "neutral",
+          "bm": "neutral"
+        },
+        {
+          "en": "weakly acidic",
+          "bm": "asid lemah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q04",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An acid reacts with a reactive metal to produce…",
+        "bm": "Asid bertindak balas dengan logam reaktif menghasilkan…"
+      },
+      "explanation": {
+        "en": "Hydrogen gives a pop with a burning splint.",
+        "bm": "Hidrogen menghasilkan bunyi pop dengan kayu uji menyala."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "salt and hydrogen",
+          "bm": "garam dan hidrogen"
+        },
+        {
+          "en": "salt and water",
+          "bm": "garam dan air"
+        },
+        {
+          "en": "only water",
+          "bm": "air sahaja"
+        },
+        {
+          "en": "oxygen",
+          "bm": "oksigen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q05",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An acid reacts with a carbonate to produce…",
+        "bm": "Asid bertindak balas dengan karbonat menghasilkan…"
+      },
+      "explanation": {
+        "en": "The CO₂ turns limewater cloudy.",
+        "bm": "CO₂ mengeruhkan air kapur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "salt, water and carbon dioxide",
+          "bm": "garam, air dan karbon dioksida"
+        },
+        {
+          "en": "salt and hydrogen",
+          "bm": "garam dan hidrogen"
+        },
+        {
+          "en": "only salt",
+          "bm": "garam sahaja"
+        },
+        {
+          "en": "oxygen and water",
+          "bm": "oksigen dan air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q06",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Acids show their properties only in the presence of…",
+        "bm": "Asid menunjukkan sifatnya hanya dengan kehadiran…"
+      },
+      "explanation": {
+        "en": "Dry acid does not change litmus.",
+        "bm": "Asid kering tidak mengubah litmus."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "oil",
+          "bm": "minyak"
+        },
+        {
+          "en": "air",
+          "bm": "udara"
+        },
+        {
+          "en": "heat",
+          "bm": "haba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q07",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the strongest acid?",
+        "bm": "Yang manakah asid paling kuat?"
+      },
+      "explanation": {
+        "en": "The lower the pH, the stronger the acid.",
+        "bm": "Semakin rendah pH, semakin kuat asid."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "pH 1",
+          "bm": "pH 1"
+        },
+        {
+          "en": "pH 3",
+          "bm": "pH 3"
+        },
+        {
+          "en": "pH 5",
+          "bm": "pH 5"
+        },
+        {
+          "en": "pH 6",
+          "bm": "pH 6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q08",
+      "subtopicId": "f2sci-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which household substance is alkaline?",
+        "bm": "Bahan rumah manakah beralkali?"
+      },
+      "explanation": {
+        "en": "Soap feels slippery and has pH above 7.",
+        "bm": "Sabun licin dan pHnya melebihi 7."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Soap solution",
+          "bm": "Larutan sabun"
+        },
+        {
+          "en": "Lime juice",
+          "bm": "Jus limau"
+        },
+        {
+          "en": "Vinegar",
+          "bm": "Cuka"
+        },
+        {
+          "en": "Tamarind juice",
+          "bm": "Air asam jawa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q09",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Acid + alkali gives…",
+        "bm": "Asid + alkali menghasilkan…"
+      },
+      "explanation": {
+        "en": "This is neutralisation.",
+        "bm": "Ini ialah peneutralan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "salt and water",
+          "bm": "garam dan air"
+        },
+        {
+          "en": "hydrogen",
+          "bm": "hidrogen"
+        },
+        {
+          "en": "acid only",
+          "bm": "asid sahaja"
+        },
+        {
+          "en": "carbon dioxide",
+          "bm": "karbon dioksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q10",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The pH of a neutral solution is…",
+        "bm": "pH larutan neutral ialah…"
+      },
+      "explanation": {
+        "en": "Pure water has pH 7 at 25 °C.",
+        "bm": "Air tulen mempunyai pH 7 pada 25 °C."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "7",
+          "bm": "7"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "14",
+          "bm": "14"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q11",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which treats excess stomach acid?",
+        "bm": "Yang manakah merawat asid perut berlebihan?"
+      },
+      "explanation": {
+        "en": "Antacids contain a mild base.",
+        "bm": "Antasid mengandungi bes lemah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Antacid",
+          "bm": "Antasid"
+        },
+        {
+          "en": "Vinegar",
+          "bm": "Cuka"
+        },
+        {
+          "en": "Lime juice",
+          "bm": "Jus limau"
+        },
+        {
+          "en": "Soda water only",
+          "bm": "Air soda sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q12",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Farmers add lime to soil to…",
+        "bm": "Petani menambah kapur pada tanah untuk…"
+      },
+      "explanation": {
+        "en": "Lime is alkaline.",
+        "bm": "Kapur beralkali."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "neutralise acidic soil",
+          "bm": "menyahkan keasidan tanah"
+        },
+        {
+          "en": "make the soil more acidic",
+          "bm": "menjadikan tanah lebih berasid"
+        },
+        {
+          "en": "kill all the plants",
+          "bm": "membunuh semua tumbuhan"
+        },
+        {
+          "en": "add water",
+          "bm": "menambah air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q13",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hydrochloric acid + sodium hydroxide gives…",
+        "bm": "Asid hidroklorik + natrium hidroksida menghasilkan…"
+      },
+      "explanation": {
+        "en": "The salt comes from the acid and alkali.",
+        "bm": "Garam terhasil daripada asid dan alkali."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "sodium chloride and water",
+          "bm": "natrium klorida dan air"
+        },
+        {
+          "en": "sodium sulphate and water",
+          "bm": "natrium sulfat dan air"
+        },
+        {
+          "en": "hydrogen and salt",
+          "bm": "hidrogen dan garam"
+        },
+        {
+          "en": "chlorine and water",
+          "bm": "klorin dan air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q14",
+      "subtopicId": "f2sci-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "During titration, phenolphthalein is pink in alkali and turns colourless when…",
+        "bm": "Semasa pentitratan, fenolftalein berwarna merah jambu dalam alkali dan menjadi tanpa warna apabila…"
+      },
+      "explanation": {
+        "en": "The colour change marks the end point.",
+        "bm": "Perubahan warna menandakan takat akhir."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "the alkali is neutralised",
+          "bm": "alkali dinetralkan"
+        },
+        {
+          "en": "more alkali is added",
+          "bm": "lebih alkali ditambah"
+        },
+        {
+          "en": "it is heated",
+          "bm": "dipanaskan"
+        },
+        {
+          "en": "it is cooled",
+          "bm": "disejukkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-06-q15",
+      "subtopicId": "f2sci-06-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Acids taste…",
+        "bm": "Asid terasa…"
+      },
+      "explanation": {
+        "en": "Lemons taste sour because of citric acid.",
+        "bm": "Lemon masam kerana asid sitrik."
+      },
+      "difficulty": 1,
+      "answer": [
+        "sour",
+        "masam"
+      ]
+    }
+  ]
+}

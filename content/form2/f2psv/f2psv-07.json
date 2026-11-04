@@ -1,0 +1,327 @@
+{
+  "chapterId": "f2psv-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The Proton Saga, launched in 1985, was the first Malaysian national car. Behind every product is an industrial designer.",
+      "bm": "Proton Saga, dilancarkan pada 1985, kereta nasional pertama Malaysia. Di sebalik setiap produk ada pereka industri."
+    },
+    "bigIdeas": [
+      {
+        "en": "Industrial design shapes mass-produced products.",
+        "bm": "Reka bentuk industri membentuk produk keluaran besar-besaran."
+      },
+      {
+        "en": "Function, ergonomics, safety and looks must work together.",
+        "bm": "Fungsi, ergonomik, keselamatan dan rupa mesti seiring."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Industrial Design",
+          "bm": "Reka Bentuk Industri"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Function",
+              "bm": "Fungsi"
+            },
+            "detail": {
+              "en": "Does it work?",
+              "bm": "Adakah ia berfungsi?"
+            }
+          },
+          {
+            "label": {
+              "en": "Ergonomics",
+              "bm": "Ergonomik"
+            },
+            "detail": {
+              "en": "Comfort",
+              "bm": "Keselesaan"
+            }
+          },
+          {
+            "label": {
+              "en": "Aesthetics",
+              "bm": "Estetika"
+            },
+            "detail": {
+              "en": "Good looks",
+              "bm": "Rupa menarik"
+            }
+          },
+          {
+            "label": {
+              "en": "Materials",
+              "bm": "Bahan"
+            },
+            "detail": {
+              "en": "Cost and durability",
+              "bm": "Kos dan ketahanan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Mass production",
+          "bm": "Pengeluaran besar-besaran"
+        },
+        "definition": {
+          "en": "Making products in large numbers.",
+          "bm": "Menghasilkan produk dalam jumlah besar."
+        }
+      },
+      {
+        "term": {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        "definition": {
+          "en": "A test model.",
+          "bm": "Model ujian."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-07-q01",
+      "subtopicId": "f2psv-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Industrial design grew with the…",
+        "bm": "Reka bentuk industri berkembang dengan…"
+      },
+      "explanation": {
+        "en": "Factories made large quantities.",
+        "bm": "Kilang menghasilkan kuantiti besar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Industrial Revolution",
+          "bm": "Revolusi Perindustrian"
+        },
+        {
+          "en": "Stone Age",
+          "bm": "Zaman Batu"
+        },
+        {
+          "en": "Bronze Age",
+          "bm": "Zaman Gangsa"
+        },
+        {
+          "en": "Melaka Sultanate",
+          "bm": "Kesultanan Melaka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q02",
+      "subtopicId": "f2psv-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Bauhaus school is known for…",
+        "bm": "Sekolah Bauhaus terkenal dengan…"
+      },
+      "explanation": {
+        "en": "It began in Germany in 1919.",
+        "bm": "Ia bermula di Jerman pada 1919."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "form following function",
+          "bm": "bentuk mengikut fungsi"
+        },
+        {
+          "en": "ornaments only",
+          "bm": "hiasan sahaja"
+        },
+        {
+          "en": "farming",
+          "bm": "pertanian"
+        },
+        {
+          "en": "cave art",
+          "bm": "seni gua"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q03",
+      "subtopicId": "f2psv-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia's first national car was…",
+        "bm": "Kereta nasional pertama Malaysia ialah…"
+      },
+      "explanation": {
+        "en": "Launched in 1985.",
+        "bm": "Dilancarkan pada 1985."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Proton Saga",
+          "bm": "Proton Saga"
+        },
+        {
+          "en": "Perodua Myvi",
+          "bm": "Perodua Myvi"
+        },
+        {
+          "en": "Inokom",
+          "bm": "Inokom"
+        },
+        {
+          "en": "Naza Ria",
+          "bm": "Naza Ria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q04",
+      "subtopicId": "f2psv-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a principle of product design?",
+        "bm": "Yang manakah prinsip reka bentuk produk?"
+      },
+      "explanation": {
+        "en": "A product must work.",
+        "bm": "Produk mesti berfungsi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Function",
+          "bm": "Fungsi"
+        },
+        {
+          "en": "Darkness",
+          "bm": "Kegelapan"
+        },
+        {
+          "en": "Rarity",
+          "bm": "Kelangkaan"
+        },
+        {
+          "en": "Noise",
+          "bm": "Kebisingan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q05",
+      "subtopicId": "f2psv-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rounded phone edges mainly improve…",
+        "bm": "Tepi telefon yang bulat terutamanya meningkatkan…"
+      },
+      "explanation": {
+        "en": "It is comfortable to hold.",
+        "bm": "Selesa dipegang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ergonomics",
+          "bm": "ergonomik"
+        },
+        {
+          "en": "battery chemistry",
+          "bm": "kimia bateri"
+        },
+        {
+          "en": "signal speed",
+          "bm": "laju isyarat"
+        },
+        {
+          "en": "weight",
+          "bm": "berat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q06",
+      "subtopicId": "f2psv-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why build a prototype?",
+        "bm": "Mengapa membina prototaip?"
+      },
+      "explanation": {
+        "en": "Faults are found early.",
+        "bm": "Kesilapan dikesan awal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To test before mass production",
+          "bm": "Untuk menguji sebelum pengeluaran besar"
+        },
+        {
+          "en": "To sell immediately",
+          "bm": "Untuk dijual segera"
+        },
+        {
+          "en": "To avoid design",
+          "bm": "Untuk mengelak reka bentuk"
+        },
+        {
+          "en": "To waste material",
+          "bm": "Untuk membazir bahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-07-q07",
+      "subtopicId": "f2psv-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which choice is most eco-friendly?",
+        "bm": "Pilihan manakah paling mesra alam?"
+      },
+      "explanation": {
+        "en": "Think about the whole life of a product.",
+        "bm": "Fikirkan seluruh hayat produk."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Recyclable parts that are easy to repair",
+          "bm": "Komponen boleh dikitar dan mudah dibaiki"
+        },
+        {
+          "en": "Single-use plastic parts",
+          "bm": "Komponen plastik sekali guna"
+        },
+        {
+          "en": "Glued-shut products",
+          "bm": "Produk digam rapat"
+        },
+        {
+          "en": "Toxic coatings",
+          "bm": "Salutan toksik"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

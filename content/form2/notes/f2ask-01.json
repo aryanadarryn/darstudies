@@ -1,0 +1,120 @@
+{
+  "chapterId": "f2ask-01",
+  "reviewed": false,
+  "subtopics": {
+    "f2ask-01-01": {
+      "keyPoints": [
+        {
+          "en": "Place values: 8⁰, 8¹, 8²…",
+          "bm": "Nilai tempat: 8⁰, 8¹, 8²…"
+        },
+        {
+          "en": "Divide by 8 and read remainders upwards.",
+          "bm": "Bahagi 8 dan baca baki dari bawah ke atas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Base",
+            "bm": "Asas"
+          },
+          "meaning": {
+            "en": "Number of digits used.",
+            "bm": "Bilangan digit digunakan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "34₁₀ in octal?",
+          "bm": "34₁₀ dalam perlapanan?"
+        },
+        "answer": {
+          "en": "42₈",
+          "bm": "42₈"
+        }
+      },
+      "tip": {
+        "en": "Octal never contains 8 or 9.",
+        "bm": "Perlapanan tiada digit 8 atau 9."
+      }
+    },
+    "f2ask-01-02": {
+      "keyPoints": [
+        {
+          "en": "Letters A–F stand for 10–15.",
+          "bm": "Huruf A–F mewakili 10–15."
+        },
+        {
+          "en": "Divide by 16 and read remainders upwards.",
+          "bm": "Bahagi 16 dan baca baki dari bawah ke atas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Nibble",
+            "bm": "Nibel"
+          },
+          "meaning": {
+            "en": "Four bits.",
+            "bm": "Empat bit."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "A5₁₆ in decimal?",
+          "bm": "A5₁₆ dalam perpuluhan?"
+        },
+        "answer": {
+          "en": "165",
+          "bm": "165"
+        }
+      },
+      "tip": {
+        "en": "Web colours are written in hex.",
+        "bm": "Warna web ditulis dalam hex."
+      }
+    },
+    "f2ask-01-03": {
+      "keyPoints": [
+        {
+          "en": "Each character has a code number.",
+          "bm": "Setiap aksara mempunyai nombor kod."
+        },
+        {
+          "en": "Letters are in sequence.",
+          "bm": "Huruf berada dalam urutan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Character",
+            "bm": "Aksara"
+          },
+          "meaning": {
+            "en": "Letter, digit or symbol.",
+            "bm": "Huruf, digit atau simbol."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Code for \"C\"?",
+          "bm": "Kod bagi \"C\"?"
+        },
+        "answer": {
+          "en": "67",
+          "bm": "67"
+        }
+      },
+      "tip": {
+        "en": "Know A=65 and count on.",
+        "bm": "Hafal A=65 dan kira seterusnya."
+      }
+    }
+  }
+}

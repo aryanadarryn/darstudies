@@ -1,0 +1,440 @@
+{
+  "chapterId": "f2pi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Tajwid means reciting each letter correctly, giving it its full right. It is how the Quran has been preserved in sound for centuries.",
+      "bm": "Tajwid bermaksud menyebut setiap huruf dengan betul, memberi haknya. Dengan itu Al-Quran terpelihara bacaannya berabad-abad."
+    },
+    "bigIdeas": [
+      {
+        "en": "Nun sakinah and tanwin have four main rules.",
+        "bm": "Nun sakinah dan tanwin mempunyai empat hukum utama."
+      },
+      {
+        "en": "Mim sakinah has three rules.",
+        "bm": "Mim sakinah mempunyai tiga hukum."
+      },
+      {
+        "en": "Verses guide us on brotherhood, trust and hope in Allah's forgiveness.",
+        "bm": "Ayat membimbing tentang persaudaraan, amanah dan harapan kepada keampunan Allah."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Rule",
+          "bm": "Hukum"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Izhar",
+              "bm": "Izhar"
+            },
+            "detail": {
+              "en": "clear",
+              "bm": "jelas"
+            }
+          },
+          {
+            "label": {
+              "en": "Idgham",
+              "bm": "Idgham"
+            },
+            "detail": {
+              "en": "merged",
+              "bm": "dimasukkan"
+            }
+          },
+          {
+            "label": {
+              "en": "Iqlab",
+              "bm": "Iqlab"
+            },
+            "detail": {
+              "en": "changed to mim",
+              "bm": "ditukar kepada mim"
+            }
+          },
+          {
+            "label": {
+              "en": "Ikhfa'",
+              "bm": "Ikhfa'"
+            },
+            "detail": {
+              "en": "hidden",
+              "bm": "disembunyikan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tajwid",
+          "bm": "Tajwid"
+        },
+        "definition": {
+          "en": "Rules for correct recitation.",
+          "bm": "Peraturan bacaan yang betul."
+        }
+      },
+      {
+        "term": {
+          "en": "Nun sakinah",
+          "bm": "Nun sakinah"
+        },
+        "definition": {
+          "en": "Nun with a sukun (no vowel).",
+          "bm": "Nun bertanda sukun."
+        }
+      },
+      {
+        "term": {
+          "en": "Tanwin",
+          "bm": "Tanwin"
+        },
+        "definition": {
+          "en": "Double vowel mark sounding like \"n\".",
+          "bm": "Tanda baris dua yang berbunyi \"n\"."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pi-01-q01",
+      "subtopicId": "f2pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many main rules are there for nun sakinah and tanwin?",
+        "bm": "Berapa hukum utama nun sakinah dan tanwin?"
+      },
+      "explanation": {
+        "en": "Izhar, idgham, iqlab, ikhfa'.",
+        "bm": "Izhar, idgham, iqlab, ikhfa'."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "10",
+          "bm": "10"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q02",
+      "subtopicId": "f2pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which rule applies when nun sakinah meets ba (ب)?",
+        "bm": "Hukum apabila nun sakinah bertemu ba (ب)?"
+      },
+      "explanation": {
+        "en": "The nun sound changes to mim.",
+        "bm": "Bunyi nun ditukar kepada mim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Iqlab",
+          "bm": "Iqlab"
+        },
+        {
+          "en": "Izhar",
+          "bm": "Izhar"
+        },
+        {
+          "en": "Idgham",
+          "bm": "Idgham"
+        },
+        {
+          "en": "Ikhfa'",
+          "bm": "Ikhfa'"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q03",
+      "subtopicId": "f2pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Izhar applies with the letters of the…",
+        "bm": "Izhar berlaku dengan huruf…"
+      },
+      "explanation": {
+        "en": "Six throat letters.",
+        "bm": "Enam huruf halqi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "throat",
+          "bm": "halqi (kerongkong)"
+        },
+        {
+          "en": "lips",
+          "bm": "bibir"
+        },
+        {
+          "en": "nose",
+          "bm": "hidung"
+        },
+        {
+          "en": "teeth",
+          "bm": "gigi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q04",
+      "subtopicId": "f2pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Idgham ma'al ghunnah has which letters?",
+        "bm": "Idgham ma'al ghunnah melibatkan huruf…"
+      },
+      "explanation": {
+        "en": "Merged with a nasal sound.",
+        "bm": "Dimasukkan dengan dengung."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "ي ن م و",
+          "bm": "ي ن م و"
+        },
+        {
+          "en": "ل ر",
+          "bm": "ل ر"
+        },
+        {
+          "en": "ب",
+          "bm": "ب"
+        },
+        {
+          "en": "ء ه",
+          "bm": "ء ه"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q05",
+      "subtopicId": "f2pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many rules does mim sakinah have?",
+        "bm": "Berapa hukum mim sakinah?"
+      },
+      "explanation": {
+        "en": "Ikhfa' syafawi, idgham mithlain, izhar syafawi.",
+        "bm": "Ikhfa' syafawi, idgham mithlain, izhar syafawi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q06",
+      "subtopicId": "f2pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mim sakinah meets ba (ب). The rule is…",
+        "bm": "Mim sakinah bertemu ba (ب). Hukumnya…"
+      },
+      "explanation": {
+        "en": "Read hidden with the lips.",
+        "bm": "Dibaca tersembunyi dengan bibir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ikhfa' syafawi",
+          "bm": "Ikhfa' syafawi"
+        },
+        {
+          "en": "Izhar syafawi",
+          "bm": "Izhar syafawi"
+        },
+        {
+          "en": "Iqlab",
+          "bm": "Iqlab"
+        },
+        {
+          "en": "Idgham bila ghunnah",
+          "bm": "Idgham bila ghunnah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q07",
+      "subtopicId": "f2pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mim sakinah meets mim (م). The rule is…",
+        "bm": "Mim sakinah bertemu mim (م). Hukumnya…"
+      },
+      "explanation": {
+        "en": "Two mims merge.",
+        "bm": "Dua mim dimasukkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Idgham mithlain",
+          "bm": "Idgham mithlain"
+        },
+        {
+          "en": "Izhar syafawi",
+          "bm": "Izhar syafawi"
+        },
+        {
+          "en": "Ikhfa' syafawi",
+          "bm": "Ikhfa' syafawi"
+        },
+        {
+          "en": "Iqlab",
+          "bm": "Iqlab"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q08",
+      "subtopicId": "f2pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Believers are described in the Quran as…",
+        "bm": "Orang beriman digambarkan dalam Al-Quran sebagai…"
+      },
+      "explanation": {
+        "en": "Surah Al-Hujurat 49:10.",
+        "bm": "Surah Al-Hujurat 49:10."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "brothers to one another",
+          "bm": "bersaudara"
+        },
+        {
+          "en": "strangers",
+          "bm": "orang asing"
+        },
+        {
+          "en": "enemies",
+          "bm": "musuh"
+        },
+        {
+          "en": "rivals",
+          "bm": "pesaing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q09",
+      "subtopicId": "f2pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which attitude reflects trust (amanah) towards property?",
+        "bm": "Sikap manakah mencerminkan amanah terhadap harta?"
+      },
+      "explanation": {
+        "en": "Amanah means being trustworthy.",
+        "bm": "Amanah bermaksud boleh dipercayai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Returning what was entrusted",
+          "bm": "Memulangkan yang diamanahkan"
+        },
+        {
+          "en": "Taking without asking",
+          "bm": "Mengambil tanpa izin"
+        },
+        {
+          "en": "Wasting it",
+          "bm": "Membazirnya"
+        },
+        {
+          "en": "Lying about it",
+          "bm": "Berbohong tentangnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-01-q10",
+      "subtopicId": "f2pi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why should a Muslim keep hoping for Allah's forgiveness?",
+        "bm": "Mengapa Muslim terus mengharap keampunan Allah?"
+      },
+      "explanation": {
+        "en": "Hope leads to repentance.",
+        "bm": "Harapan membawa kepada taubat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Allah is Most Forgiving, so we repent and improve",
+          "bm": "Allah Maha Pengampun, maka kita bertaubat dan memperbaiki diri"
+        },
+        {
+          "en": "Sins do not matter",
+          "bm": "Dosa tidak penting"
+        },
+        {
+          "en": "Repentance is not needed",
+          "bm": "Taubat tidak perlu"
+        },
+        {
+          "en": "Good deeds are pointless",
+          "bm": "Amal baik tiada makna"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

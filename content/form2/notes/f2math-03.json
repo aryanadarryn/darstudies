@@ -1,0 +1,76 @@
+{
+  "chapterId": "f2math-03",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-03-01": {
+      "keyPoints": [
+        {
+          "en": "Writing a formula: pick letters, then write the relationship.",
+          "bm": "Menulis rumus: pilih huruf, kemudian tulis hubungannya."
+        },
+        {
+          "en": "Rearrange by undoing operations in reverse order.",
+          "bm": "Susun semula dengan menyongsangkan operasi mengikut urutan terbalik."
+        },
+        {
+          "en": "Substitute only after the formula is arranged.",
+          "bm": "Gantikan nilai selepas rumus disusun."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Subject",
+            "bm": "Perkara rumus"
+          },
+          "meaning": {
+            "en": "Variable on its own.",
+            "bm": "Pemboleh ubah sendirian."
+          }
+        },
+        {
+          "term": {
+            "en": "Substitute",
+            "bm": "Gantikan"
+          },
+          "meaning": {
+            "en": "Replace a letter with its value.",
+            "bm": "Menukar huruf kepada nilainya."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Word problems",
+            "bm": "Masalah perkataan"
+          },
+          "points": [
+            {
+              "en": "RM5 per book plus RM3 delivery: C = 5n + 3.",
+              "bm": "RM5 sebuah buku dan RM3 penghantaran: C = 5n + 3."
+            },
+            {
+              "en": "Define each letter before writing the formula.",
+              "bm": "Takrifkan setiap huruf sebelum menulis rumus."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "C = 5n + 3. Find n when C = 28.",
+          "bm": "C = 5n + 3. Cari n apabila C = 28."
+        },
+        "answer": {
+          "en": "n = 5",
+          "bm": "n = 5"
+        }
+      },
+      "tip": {
+        "en": "Write each step on a new line to avoid sign errors.",
+        "bm": "Tulis setiap langkah pada baris baharu untuk mengelakkan ralat tanda."
+      }
+    }
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "chapterId": "f2math-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A vending machine is a function: one button gives exactly one drink. In maths, one input gives exactly one output, and a graph shows them all at once.",
+      "bm": "Mesin layan diri ialah fungsi: satu butang memberi tepat satu minuman. Dalam matematik, satu input memberi tepat satu output, dan graf menunjukkan semuanya sekali gus."
+    },
+    "bigIdeas": [
+      {
+        "en": "A function links each input to exactly one output.",
+        "bm": "Fungsi menghubungkan setiap input kepada tepat satu output."
+      },
+      {
+        "en": "A table of values gives points to plot.",
+        "bm": "Jadual nilai memberi titik untuk diplot."
+      },
+      {
+        "en": "Each type of function has a typical graph shape.",
+        "bm": "Setiap jenis fungsi mempunyai bentuk graf yang tersendiri."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          },
+          {
+            "en": "Shape",
+            "bm": "Bentuk"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Linear",
+              "bm": "Linear"
+            },
+            "cells": [
+              {
+                "en": "y = 2x + 1",
+                "bm": "y = 2x + 1"
+              },
+              {
+                "en": "straight line",
+                "bm": "garis lurus"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Quadratic",
+              "bm": "Kuadratik"
+            },
+            "cells": [
+              {
+                "en": "y = x² − 3",
+                "bm": "y = x² − 3"
+              },
+              {
+                "en": "parabola",
+                "bm": "parabola"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Cubic",
+              "bm": "Kubik"
+            },
+            "cells": [
+              {
+                "en": "y = x³",
+                "bm": "y = x³"
+              },
+              {
+                "en": "S-shaped curve",
+                "bm": "lengkung bentuk S"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Reciprocal",
+              "bm": "Salingan"
+            },
+            "cells": [
+              {
+                "en": "y = 4/x",
+                "bm": "y = 4/x"
+              },
+              {
+                "en": "two curves",
+                "bm": "dua lengkung"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Function",
+          "bm": "Fungsi"
+        },
+        "definition": {
+          "en": "A relation where each input has exactly one output.",
+          "bm": "Hubungan yang setiap input mempunyai tepat satu output."
+        }
+      },
+      {
+        "term": {
+          "en": "Input / output",
+          "bm": "Input / output"
+        },
+        "definition": {
+          "en": "The value put in and the value that comes out.",
+          "bm": "Nilai yang dimasukkan dan nilai yang terhasil."
+        }
+      },
+      {
+        "term": {
+          "en": "Table of values",
+          "bm": "Jadual nilai"
+        },
+        "definition": {
+          "en": "Pairs of x and y used to draw a graph.",
+          "bm": "Pasangan x dan y untuk melukis graf."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "For y = x² − 3, find y when x = −2 and x = 2.",
+        "bm": "Bagi y = x² − 3, cari y apabila x = −2 dan x = 2."
+      },
+      "steps": [
+        {
+          "en": "(−2)² − 3 = 1",
+          "bm": "(−2)² − 3 = 1"
+        },
+        {
+          "en": "2² − 3 = 1",
+          "bm": "2² − 3 = 1"
+        }
+      ],
+      "answer": {
+        "en": "y = 1 for both",
+        "bm": "y = 1 bagi kedua-duanya"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-08-q01",
+      "subtopicId": "f2math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "f(x) = 2x + 3. Find f(4).",
+        "bm": "f(x) = 2x + 3. Cari f(4)."
+      },
+      "explanation": {
+        "en": "2(4) + 3 = 11.",
+        "bm": "2(4) + 3 = 11."
+      },
+      "difficulty": 1,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q02",
+      "subtopicId": "f2math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "f(x) = 5x − 1. Find f(3).",
+        "bm": "f(x) = 5x − 1. Cari f(3)."
+      },
+      "explanation": {
+        "en": "5(3) − 1 = 14.",
+        "bm": "5(3) − 1 = 14."
+      },
+      "difficulty": 1,
+      "answer": 14,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q03",
+      "subtopicId": "f2math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "f(x) = -3x + 2. Find f(2).",
+        "bm": "f(x) = -3x + 2. Cari f(2)."
+      },
+      "explanation": {
+        "en": "-3(2) + 2 = -4.",
+        "bm": "-3(2) + 2 = -4."
+      },
+      "difficulty": 1,
+      "answer": -4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q04",
+      "subtopicId": "f2math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "f(x) = 4x + 0. Find f(-2).",
+        "bm": "f(x) = 4x + 0. Cari f(-2)."
+      },
+      "explanation": {
+        "en": "4(-2) + 0 = -8.",
+        "bm": "4(-2) + 0 = -8."
+      },
+      "difficulty": 1,
+      "answer": -8,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q05",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x² + 2. Find y when x = 3.",
+        "bm": "y = x² + 2. Cari y apabila x = 3."
+      },
+      "explanation": {
+        "en": "(3)² + 2 = 11.",
+        "bm": "(3)² + 2 = 11."
+      },
+      "difficulty": 2,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q06",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x² + 1. Find y when x = -2.",
+        "bm": "y = x² + 1. Cari y apabila x = -2."
+      },
+      "explanation": {
+        "en": "(-2)² + 1 = 5.",
+        "bm": "(-2)² + 1 = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q07",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x² − 3. Find y when x = 4.",
+        "bm": "y = x² − 3. Cari y apabila x = 4."
+      },
+      "explanation": {
+        "en": "(4)² − 3 = 13.",
+        "bm": "(4)² − 3 = 13."
+      },
+      "difficulty": 2,
+      "answer": 13,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q08",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x³. Find y when x = −3.",
+        "bm": "y = x³. Cari y apabila x = −3."
+      },
+      "explanation": {
+        "en": "(−3)³ = −27.",
+        "bm": "(−3)³ = −27."
+      },
+      "difficulty": 2,
+      "answer": -27,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q09",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 12/x. Find y when x = 4.",
+        "bm": "y = 12/x. Cari y apabila x = 4."
+      },
+      "explanation": {
+        "en": "12 ÷ 4 = 3.",
+        "bm": "12 ÷ 4 = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q10",
+      "subtopicId": "f2math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a function?",
+        "bm": "Yang manakah fungsi?"
+      },
+      "explanation": {
+        "en": "Each student has exactly one birth date.",
+        "bm": "Setiap murid ada tepat satu tarikh lahir."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Each student → their birth date",
+          "bm": "Setiap murid → tarikh lahirnya"
+        },
+        {
+          "en": "A number → its square roots",
+          "bm": "Nombor → punca kuasa duanya"
+        },
+        {
+          "en": "A person → their cousins",
+          "bm": "Seseorang → sepupunya"
+        },
+        {
+          "en": "A teacher → their students",
+          "bm": "Guru → muridnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-08-q11",
+      "subtopicId": "f2math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The vertical line test checks whether…",
+        "bm": "Ujian garis mencancang menyemak sama ada…"
+      },
+      "explanation": {
+        "en": "If a vertical line cuts twice, an input has two outputs.",
+        "bm": "Jika garis mencancang memotong dua kali, satu input ada dua output."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a graph is a function",
+          "bm": "graf ialah fungsi"
+        },
+        {
+          "en": "a line is straight",
+          "bm": "garis itu lurus"
+        },
+        {
+          "en": "the gradient is positive",
+          "bm": "kecerunan positif"
+        },
+        {
+          "en": "two lines meet",
+          "bm": "dua garis bertemu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-08-q12",
+      "subtopicId": "f2math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The graph of y = 3x − 1 is a…",
+        "bm": "Graf y = 3x − 1 ialah…"
+      },
+      "explanation": {
+        "en": "The highest power of x is 1.",
+        "bm": "Kuasa tertinggi x ialah 1."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "parabola",
+          "bm": "parabola"
+        },
+        {
+          "en": "circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "two curves",
+          "bm": "dua lengkung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-08-q13",
+      "subtopicId": "f2math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The graph of y = x² + 2 is a…",
+        "bm": "Graf y = x² + 2 ialah…"
+      },
+      "explanation": {
+        "en": "The highest power of x is 2.",
+        "bm": "Kuasa tertinggi x ialah 2."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "parabola",
+          "bm": "parabola"
+        },
+        {
+          "en": "circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "S-shaped curve",
+          "bm": "lengkung bentuk S"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-08-q14",
+      "subtopicId": "f2math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The graph of y = 4/x…",
+        "bm": "Graf y = 4/x…"
+      },
+      "explanation": {
+        "en": "x = 0 is not allowed.",
+        "bm": "x = 0 tidak dibenarkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "never touches the axes",
+          "bm": "tidak menyentuh paksi"
+        },
+        {
+          "en": "passes through (0, 0)",
+          "bm": "melalui (0, 0)"
+        },
+        {
+          "en": "is a straight line",
+          "bm": "ialah garis lurus"
+        },
+        {
+          "en": "touches the y-axis at 4",
+          "bm": "menyentuh paksi-y pada 4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-08-q15",
+      "subtopicId": "f2math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "y = x² − 4 cuts the x-axis at…",
+        "bm": "y = x² − 4 memotong paksi-x pada…"
+      },
+      "explanation": {
+        "en": "x² = 4 means x = ±2.",
+        "bm": "x² = 4 bermaksud x = ±2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "x = ±2",
+          "bm": "x = ±2"
+        },
+        {
+          "en": "x = ±4",
+          "bm": "x = ±4"
+        },
+        {
+          "en": "x = 4 only",
+          "bm": "x = 4 only"
+        },
+        {
+          "en": "x = 2 only",
+          "bm": "x = 2 only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-08-q16",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "For y = 2x + 3, at what value of y does it cross the y-axis?",
+        "bm": "Bagi y = 2x + 3, pada nilai y berapakah ia memotong paksi-y?"
+      },
+      "explanation": {
+        "en": "Put x = 0.",
+        "bm": "Letak x = 0."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q17",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "For y = 2x − 6, at what value of x does it cross the x-axis?",
+        "bm": "Bagi y = 2x − 6, pada nilai x berapakah ia memotong paksi-x?"
+      },
+      "explanation": {
+        "en": "Put y = 0.",
+        "bm": "Letak y = 0."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q18",
+      "subtopicId": "f2math-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x² + k passes through (3, 14). Find k.",
+        "bm": "y = x² + k melalui (3, 14). Cari k."
+      },
+      "explanation": {
+        "en": "14 = 9 + k.",
+        "bm": "14 = 9 + k."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q19",
+      "subtopicId": "f2math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "f(x) = 2x + 3 and f(a) = 15. Find a.",
+        "bm": "f(x) = 2x + 3 dan f(a) = 15. Cari a."
+      },
+      "explanation": {
+        "en": "2a + 3 = 15.",
+        "bm": "2a + 3 = 15."
+      },
+      "difficulty": 3,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-08-q20",
+      "subtopicId": "f2math-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which point lies on y = x² − 1?",
+        "bm": "Titik manakah terletak pada y = x² − 1?"
+      },
+      "explanation": {
+        "en": "2² − 1 = 3.",
+        "bm": "2² − 1 = 3."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "(2, 3)",
+          "bm": "(2, 3)"
+        },
+        {
+          "en": "(2, 5)",
+          "bm": "(2, 5)"
+        },
+        {
+          "en": "(3, 3)",
+          "bm": "(3, 3)"
+        },
+        {
+          "en": "(0, 1)",
+          "bm": "(0, 1)"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

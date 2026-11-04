@@ -1,0 +1,120 @@
+{
+  "chapterId": "f2geo-01",
+  "reviewed": false,
+  "subtopics": {
+    "f2geo-01-01": {
+      "keyPoints": [
+        {
+          "en": "Scale shows how much the real world is reduced.",
+          "bm": "Skala menunjukkan pengecilan dunia sebenar."
+        },
+        {
+          "en": "Three types: statement, ratio and linear.",
+          "bm": "Tiga jenis: pernyataan, nisbah dan lurus."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Ratio scale",
+            "bm": "Skala nisbah"
+          },
+          "meaning": {
+            "en": "Written as 1 : n.",
+            "bm": "Ditulis 1 : n."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "1 cm represents 2 km. Write as a ratio.",
+          "bm": "1 cm mewakili 2 km. Tulis sebagai nisbah."
+        },
+        "answer": {
+          "en": "1 : 200 000",
+          "bm": "1 : 200 000"
+        }
+      },
+      "tip": {
+        "en": "Both sides of the ratio use the same unit.",
+        "bm": "Kedua-dua belah nisbah menggunakan unit sama."
+      }
+    },
+    "f2geo-01-02": {
+      "keyPoints": [
+        {
+          "en": "Straight-line distance uses a ruler.",
+          "bm": "Jarak lurus menggunakan pembaris."
+        },
+        {
+          "en": "Curved distance uses string or paper.",
+          "bm": "Jarak berliku menggunakan tali atau kertas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Route",
+            "bm": "Laluan"
+          },
+          "meaning": {
+            "en": "A path followed.",
+            "bm": "Jalan yang diikuti."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which is longer: straight line or road?",
+          "bm": "Yang mana lebih panjang: lurus atau jalan?"
+        },
+        "answer": {
+          "en": "Road",
+          "bm": "Jalan"
+        }
+      },
+      "tip": {
+        "en": "Mark start and end points before measuring.",
+        "bm": "Tanda titik mula dan akhir sebelum mengukur."
+      }
+    },
+    "f2geo-01-03": {
+      "keyPoints": [
+        {
+          "en": "Convert the map distance using the scale.",
+          "bm": "Tukar jarak peta menggunakan skala."
+        },
+        {
+          "en": "Convert cm to km at the end.",
+          "bm": "Tukar cm ke km pada akhirnya."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Actual distance",
+            "bm": "Jarak sebenar"
+          },
+          "meaning": {
+            "en": "Distance on the ground.",
+            "bm": "Jarak di muka bumi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "3 cm at 1 : 50 000?",
+          "bm": "3 cm pada 1 : 50 000?"
+        },
+        "answer": {
+          "en": "1.5 km",
+          "bm": "1.5 km"
+        }
+      },
+      "tip": {
+        "en": "Show the unit conversion in your working.",
+        "bm": "Tunjukkan penukaran unit dalam jalan kira."
+      }
+    }
+  }
+}

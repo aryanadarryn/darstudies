@@ -1,0 +1,515 @@
+{
+  "chapterId": "f2sej-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An inscription carved in 683 CE at Kedukan Bukit is among the oldest surviving records of Old Malay. Our language has a long written history.",
+      "bm": "Prasasti Kedukan Bukit bertarikh 683 M antara rekod tertua bahasa Melayu Kuno yang masih wujud. Bahasa kita mempunyai sejarah bertulis yang panjang."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sanskrit and Old Malay were used, in scripts like Pallava.",
+        "bm": "Bahasa Sanskrit dan Melayu Kuno digunakan, dengan tulisan seperti Pallava."
+      },
+      {
+        "en": "Literature recorded kings and religion.",
+        "bm": "Persuratan merakam raja dan agama."
+      },
+      {
+        "en": "Temples and a layered society show their civilisation.",
+        "bm": "Candi dan masyarakat berlapis menunjukkan tamadun."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "King",
+              "bm": "Raja"
+            },
+            "detail": {
+              "en": "Highest position",
+              "bm": "Kedudukan tertinggi"
+            }
+          },
+          {
+            "title": {
+              "en": "Nobles and priests",
+              "bm": "Bangsawan dan pendeta"
+            },
+            "detail": {
+              "en": "Help rule",
+              "bm": "Membantu memerintah"
+            }
+          },
+          {
+            "title": {
+              "en": "Common people",
+              "bm": "Rakyat biasa"
+            },
+            "detail": {
+              "en": "Farmers, traders, artisans",
+              "bm": "Petani, pedagang, tukang"
+            }
+          },
+          {
+            "title": {
+              "en": "Slaves",
+              "bm": "Hamba"
+            },
+            "detail": {
+              "en": "Lowest position",
+              "bm": "Kedudukan terendah"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Pallava script",
+          "bm": "Tulisan Pallava"
+        },
+        "definition": {
+          "en": "A script from South India used in early inscriptions.",
+          "bm": "Tulisan dari India Selatan yang digunakan pada prasasti awal."
+        }
+      },
+      {
+        "term": {
+          "en": "Old Malay",
+          "bm": "Melayu Kuno"
+        },
+        "definition": {
+          "en": "The early form of the Malay language.",
+          "bm": "Bentuk awal bahasa Melayu."
+        }
+      },
+      {
+        "term": {
+          "en": "Candi",
+          "bm": "Candi"
+        },
+        "definition": {
+          "en": "A Hindu or Buddhist temple structure.",
+          "bm": "Binaan keagamaan Hindu atau Buddha."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sej-03-q01",
+      "subtopicId": "f2sej-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which language was used in Srivijaya inscriptions?",
+        "bm": "Bahasa manakah digunakan pada prasasti Srivijaya?"
+      },
+      "explanation": {
+        "en": "The Kedukan Bukit inscription is an example.",
+        "bm": "Prasasti Kedukan Bukit ialah contoh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Old Malay",
+          "bm": "Melayu Kuno"
+        },
+        {
+          "en": "English",
+          "bm": "Inggeris"
+        },
+        {
+          "en": "Portuguese",
+          "bm": "Portugis"
+        },
+        {
+          "en": "Dutch",
+          "bm": "Belanda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q02",
+      "subtopicId": "f2sej-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Kedukan Bukit inscription dates to…",
+        "bm": "Prasasti Kedukan Bukit bertarikh…"
+      },
+      "explanation": {
+        "en": "It records the journey of Dapunta Hyang.",
+        "bm": "Ia merakam perjalanan Dapunta Hyang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "683 CE",
+          "bm": "683 CE"
+        },
+        {
+          "en": "1511 CE",
+          "bm": "1511 CE"
+        },
+        {
+          "en": "1957 CE",
+          "bm": "1957 CE"
+        },
+        {
+          "en": "100 BCE",
+          "bm": "100 BCE"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q03",
+      "subtopicId": "f2sej-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pallava script came from…",
+        "bm": "Tulisan Pallava berasal dari…"
+      },
+      "explanation": {
+        "en": "It arrived with Indian trade and religion.",
+        "bm": "Ia tiba bersama perdagangan dan agama India."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "South India",
+          "bm": "India Selatan"
+        },
+        {
+          "en": "Arabia",
+          "bm": "Arab"
+        },
+        {
+          "en": "China",
+          "bm": "China"
+        },
+        {
+          "en": "Portugal",
+          "bm": "Portugal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q04",
+      "subtopicId": "f2sej-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Negarakertagama, by Prapanca, describes…",
+        "bm": "Negarakertagama, karya Prapanca, menggambarkan…"
+      },
+      "explanation": {
+        "en": "It was written in 1365.",
+        "bm": "Ia ditulis pada 1365."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the Majapahit kingdom",
+          "bm": "kerajaan Majapahit"
+        },
+        {
+          "en": "Portuguese Melaka",
+          "bm": "Melaka Portugis"
+        },
+        {
+          "en": "the Roman Empire",
+          "bm": "Empayar Rom"
+        },
+        {
+          "en": "Funan",
+          "bm": "Funan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q05",
+      "subtopicId": "f2sej-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are inscriptions and old texts important sources?",
+        "bm": "Mengapa prasasti dan teks lama sumber penting?"
+      },
+      "explanation": {
+        "en": "They must still be weighed carefully.",
+        "bm": "Ia tetap perlu dinilai dengan teliti."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They give direct evidence about the past",
+          "bm": "Memberi bukti langsung tentang masa lampau"
+        },
+        {
+          "en": "They are modern novels",
+          "bm": "Ia novel moden"
+        },
+        {
+          "en": "They are always fully accurate",
+          "bm": "Ia sentiasa tepat sepenuhnya"
+        },
+        {
+          "en": "They are about space",
+          "bm": "Ia tentang angkasa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q06",
+      "subtopicId": "f2sej-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Borobudur is an example of…",
+        "bm": "Borobudur ialah contoh…"
+      },
+      "explanation": {
+        "en": "It stands in Central Java.",
+        "bm": "Ia terletak di Jawa Tengah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Buddhist monumental architecture",
+          "bm": "seni bina monumen Buddha"
+        },
+        {
+          "en": "a modern mosque",
+          "bm": "masjid moden"
+        },
+        {
+          "en": "a Portuguese fort",
+          "bm": "kota Portugis"
+        },
+        {
+          "en": "a skyscraper",
+          "bm": "bangunan pencakar langit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q07",
+      "subtopicId": "f2sej-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Angkor Wat was originally dedicated to…",
+        "bm": "Angkor Wat pada asalnya didedikasikan kepada…"
+      },
+      "explanation": {
+        "en": "It later became a Buddhist site.",
+        "bm": "Ia kemudian menjadi tapak Buddha."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Vishnu",
+          "bm": "Vishnu"
+        },
+        {
+          "en": "Athena",
+          "bm": "Athena"
+        },
+        {
+          "en": "Zeus",
+          "bm": "Zeus"
+        },
+        {
+          "en": "Thor",
+          "bm": "Thor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q08",
+      "subtopicId": "f2sej-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What do large stone monuments suggest about a kingdom?",
+        "bm": "Apakah yang ditunjukkan monumen batu besar tentang kerajaan?"
+      },
+      "explanation": {
+        "en": "Such projects need resources and leadership.",
+        "bm": "Projek begini memerlukan sumber dan kepimpinan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Organised labour, wealth and skill",
+          "bm": "Tenaga kerja tersusun, kekayaan dan kemahiran"
+        },
+        {
+          "en": "Poverty",
+          "bm": "Kemiskinan"
+        },
+        {
+          "en": "Few people",
+          "bm": "Sedikit penduduk"
+        },
+        {
+          "en": "No religion",
+          "bm": "Tiada agama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q09",
+      "subtopicId": "f2sej-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The king stood at the…",
+        "bm": "Raja berada di…"
+      },
+      "explanation": {
+        "en": "Society was layered.",
+        "bm": "Masyarakat berlapis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "top of society",
+          "bm": "lapisan teratas masyarakat"
+        },
+        {
+          "en": "bottom of society",
+          "bm": "lapisan terbawah masyarakat"
+        },
+        {
+          "en": "middle",
+          "bm": "pertengahan"
+        },
+        {
+          "en": "outside society",
+          "bm": "luar masyarakat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q10",
+      "subtopicId": "f2sej-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which group formed the majority?",
+        "bm": "Kumpulan manakah merupakan majoriti?"
+      },
+      "explanation": {
+        "en": "They farmed, traded and paid dues.",
+        "bm": "Mereka bertani, berdagang dan membayar cukai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Common people",
+          "bm": "Rakyat biasa"
+        },
+        {
+          "en": "Kings",
+          "bm": "Raja"
+        },
+        {
+          "en": "Nobles",
+          "bm": "Bangsawan"
+        },
+        {
+          "en": "Priests",
+          "bm": "Pendeta"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q11",
+      "subtopicId": "f2sej-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hindu-influenced kingdoms such as Angkor also gave high status to…",
+        "bm": "Kerajaan berpengaruh Hindu seperti Angkor turut memberi status tinggi kepada…"
+      },
+      "explanation": {
+        "en": "Priests performed royal rituals.",
+        "bm": "Pendeta melaksanakan upacara diraja."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Brahmins (priests)",
+          "bm": "Brahmin (pendeta)"
+        },
+        {
+          "en": "Sailors only",
+          "bm": "Pelaut sahaja"
+        },
+        {
+          "en": "Foreign guests",
+          "bm": "Tetamu asing"
+        },
+        {
+          "en": "Children",
+          "bm": "Kanak-kanak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-03-q12",
+      "subtopicId": "f2sej-03-02",
+      "type": "match",
+      "prompt": {
+        "en": "Match the work to its theme.",
+        "bm": "Padankan karya dengan temanya."
+      },
+      "explanation": {
+        "en": "Sources are linked to their kingdoms.",
+        "bm": "Sumber dikaitkan dengan kerajaan masing-masing."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Negarakertagama",
+            "bm": "Negarakertagama"
+          },
+          "right": {
+            "en": "Majapahit",
+            "bm": "Majapahit"
+          }
+        },
+        {
+          "left": {
+            "en": "Kedukan Bukit",
+            "bm": "Kedukan Bukit"
+          },
+          "right": {
+            "en": "Srivijaya",
+            "bm": "Srivijaya"
+          }
+        },
+        {
+          "left": {
+            "en": "Angkor inscriptions",
+            "bm": "Prasasti Angkor"
+          },
+          "right": {
+            "en": "Khmer kings",
+            "bm": "Raja Khmer"
+          }
+        }
+      ]
+    }
+  ]
+}

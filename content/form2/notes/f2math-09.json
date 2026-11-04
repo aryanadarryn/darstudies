@@ -1,0 +1,125 @@
+{
+  "chapterId": "f2math-09",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-09-01": {
+      "keyPoints": [
+        {
+          "en": "Speed = distance ÷ time.",
+          "bm": "Laju = jarak ÷ masa."
+        },
+        {
+          "en": "Use total distance ÷ total time for average speed.",
+          "bm": "Guna jumlah jarak ÷ jumlah masa untuk laju purata."
+        },
+        {
+          "en": "Do not average the speeds themselves.",
+          "bm": "Jangan purata laju-laju itu sendiri."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Uniform speed",
+            "bm": "Laju seragam"
+          },
+          "meaning": {
+            "en": "Constant rate.",
+            "bm": "Kadar tetap."
+          }
+        },
+        {
+          "term": {
+            "en": "Average speed",
+            "bm": "Laju purata"
+          },
+          "meaning": {
+            "en": "Whole trip rate.",
+            "bm": "Kadar seluruh perjalanan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "45 min for 60 km. Speed?",
+          "bm": "45 min untuk 60 km. Laju?"
+        },
+        "answer": {
+          "en": "80 km/h",
+          "bm": "80 km/j"
+        }
+      },
+      "tip": {
+        "en": "Convert minutes to hours first: 45 min = 0.75 h.",
+        "bm": "Tukar minit kepada jam dahulu: 45 min = 0.75 j."
+      }
+    },
+    "f2math-09-02": {
+      "keyPoints": [
+        {
+          "en": "a = (v − u) ÷ t.",
+          "bm": "a = (v − u) ÷ t."
+        },
+        {
+          "en": "Positive when speeding up.",
+          "bm": "Positif apabila laju bertambah."
+        },
+        {
+          "en": "Negative when slowing down.",
+          "bm": "Negatif apabila laju berkurang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Initial speed",
+            "bm": "Laju awal"
+          },
+          "meaning": {
+            "en": "Speed at the start.",
+            "bm": "Laju pada permulaan."
+          }
+        },
+        {
+          "term": {
+            "en": "Final speed",
+            "bm": "Laju akhir"
+          },
+          "meaning": {
+            "en": "Speed at the end.",
+            "bm": "Laju pada akhirnya."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/speed-time.svg",
+          "alt": {
+            "en": "Speed–time graph: acceleration, uniform speed, deceleration.",
+            "bm": "Graf laju–masa: pecutan, laju seragam, nyahpecutan."
+          },
+          "caption": {
+            "en": "Speed–time graph: acceleration, uniform speed, deceleration.",
+            "bm": "Graf laju–masa: pecutan, laju seragam, nyahpecutan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "0 to 20 m/s in 10 s?",
+          "bm": "0 ke 20 m/s dalam 10 s?"
+        },
+        "answer": {
+          "en": "2 m/s²",
+          "bm": "2 m/s²"
+        }
+      },
+      "tip": {
+        "en": "Keep units the same before calculating.",
+        "bm": "Pastikan unit sama sebelum mengira."
+      }
+    }
+  }
+}

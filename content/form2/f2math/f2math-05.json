@@ -1,0 +1,599 @@
+{
+  "chapterId": "f2math-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why are manhole covers round? A circle has the same width in every direction, so the cover cannot fall through the hole.",
+      "bm": "Mengapa penutup lurang bulat? Bulatan mempunyai lebar yang sama pada setiap arah, jadi penutup tidak boleh jatuh ke dalam lubang."
+    },
+    "bigIdeas": [
+      {
+        "en": "All points on a circle are the same distance from its centre.",
+        "bm": "Semua titik pada bulatan sama jarak dari pusatnya."
+      },
+      {
+        "en": "A perpendicular from the centre bisects a chord.",
+        "bm": "Garis serenjang dari pusat membahagi dua sama perentas."
+      },
+      {
+        "en": "C = 2πr and A = πr².",
+        "bm": "L = 2πj dan A = πj²."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Parts of a circle",
+          "bm": "Bahagian bulatan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Radius",
+              "bm": "Jejari"
+            },
+            "detail": {
+              "en": "Centre to edge",
+              "bm": "Pusat ke tepi"
+            }
+          },
+          {
+            "label": {
+              "en": "Diameter",
+              "bm": "Diameter"
+            },
+            "detail": {
+              "en": "Twice the radius",
+              "bm": "Dua kali jejari"
+            }
+          },
+          {
+            "label": {
+              "en": "Chord",
+              "bm": "Perentas"
+            },
+            "detail": {
+              "en": "Joins two points on the circle",
+              "bm": "Menyambung dua titik pada bulatan"
+            }
+          },
+          {
+            "label": {
+              "en": "Arc",
+              "bm": "Lengkok"
+            },
+            "detail": {
+              "en": "Part of the circumference",
+              "bm": "Sebahagian lilitan"
+            }
+          },
+          {
+            "label": {
+              "en": "Sector",
+              "bm": "Sektor"
+            },
+            "detail": {
+              "en": "A \"pizza slice\"",
+              "bm": "Seperti hirisan piza"
+            }
+          },
+          {
+            "label": {
+              "en": "Segment",
+              "bm": "Tembereng"
+            },
+            "detail": {
+              "en": "Cut off by a chord",
+              "bm": "Dipotong oleh perentas"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Circumference",
+          "bm": "Lilitan"
+        },
+        "definition": {
+          "en": "The distance around a circle.",
+          "bm": "Jarak di sekeliling bulatan."
+        }
+      },
+      {
+        "term": {
+          "en": "Chord",
+          "bm": "Perentas"
+        },
+        "definition": {
+          "en": "A straight line joining two points on a circle.",
+          "bm": "Garis lurus yang menyambung dua titik pada bulatan."
+        }
+      },
+      {
+        "term": {
+          "en": "Arc",
+          "bm": "Lengkok"
+        },
+        "definition": {
+          "en": "Part of the circumference.",
+          "bm": "Sebahagian lilitan."
+        }
+      },
+      {
+        "term": {
+          "en": "Sector",
+          "bm": "Sektor"
+        },
+        "definition": {
+          "en": "Region between two radii and an arc.",
+          "bm": "Rantau antara dua jejari dan lengkok."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-circ",
+      "f2-area-circ",
+      "f2-arc",
+      "f2-sector"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the area of a sector with radius 7 cm and angle 90° (π = 22/7).",
+        "bm": "Cari luas sektor berjejari 7 cm dan bersudut 90° (π = 22/7)."
+      },
+      "steps": [
+        {
+          "en": "Fraction of circle = 90/360 = ¼.",
+          "bm": "Pecahan bulatan = 90/360 = ¼."
+        },
+        {
+          "en": "¼ × 22/7 × 7 × 7",
+          "bm": "¼ × 22/7 × 7 × 7"
+        }
+      ],
+      "answer": {
+        "en": "38.5 cm²",
+        "bm": "38.5 cm²"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-05-q01",
+      "subtopicId": "f2math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The longest chord of a circle is the…",
+        "bm": "Perentas terpanjang bulatan ialah…"
+      },
+      "explanation": {
+        "en": "The diameter passes through the centre.",
+        "bm": "Diameter melalui pusat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "radius",
+          "bm": "jejari"
+        },
+        {
+          "en": "diameter",
+          "bm": "diameter"
+        },
+        {
+          "en": "arc",
+          "bm": "lengkok"
+        },
+        {
+          "en": "sector",
+          "bm": "sektor"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-05-q02",
+      "subtopicId": "f2math-05-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the part with its description.",
+        "bm": "Padankan bahagian dengan huraiannya."
+      },
+      "explanation": {
+        "en": "These are the basic parts.",
+        "bm": "Ini bahagian asas."
+      },
+      "difficulty": 1,
+      "pairs": [
+        {
+          "left": {
+            "en": "Radius",
+            "bm": "Jejari"
+          },
+          "right": {
+            "en": "centre to circumference",
+            "bm": "pusat ke lilitan"
+          }
+        },
+        {
+          "left": {
+            "en": "Arc",
+            "bm": "Lengkok"
+          },
+          "right": {
+            "en": "part of the circumference",
+            "bm": "sebahagian lilitan"
+          }
+        },
+        {
+          "left": {
+            "en": "Segment",
+            "bm": "Tembereng"
+          },
+          "right": {
+            "en": "chord and arc region",
+            "bm": "rantau perentas dan lengkok"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2math-05-q03",
+      "subtopicId": "f2math-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The diameter is 18 cm. Find the radius (cm).",
+        "bm": "Diameter ialah 18 cm. Cari jejari (cm)."
+      },
+      "explanation": {
+        "en": "r = d ÷ 2.",
+        "bm": "j = d ÷ 2."
+      },
+      "difficulty": 1,
+      "answer": 9,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q04",
+      "subtopicId": "f2math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A circle has radius 13 cm. A chord is 5 cm from the centre. Find the chord length.",
+        "bm": "Bulatan berjejari 13 cm. Perentas berjarak 5 cm dari pusat. Cari panjang perentas."
+      },
+      "explanation": {
+        "en": "Half chord = √(13² − 5²) = 12, so chord = 24.",
+        "bm": "Separuh perentas = √(13² − 5²) = 12, maka perentas = 24."
+      },
+      "difficulty": 3,
+      "answer": 24,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q05",
+      "subtopicId": "f2math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A circle has radius 10 cm. A chord is 6 cm from the centre. Find the chord length.",
+        "bm": "Bulatan berjejari 10 cm. Perentas berjarak 6 cm dari pusat. Cari panjang perentas."
+      },
+      "explanation": {
+        "en": "Half chord = √(10² − 6²) = 8, so chord = 16.",
+        "bm": "Separuh perentas = √(10² − 6²) = 8, maka perentas = 16."
+      },
+      "difficulty": 3,
+      "answer": 16,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q06",
+      "subtopicId": "f2math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A circle has radius 17 cm. A chord is 8 cm from the centre. Find the chord length.",
+        "bm": "Bulatan berjejari 17 cm. Perentas berjarak 8 cm dari pusat. Cari panjang perentas."
+      },
+      "explanation": {
+        "en": "Half chord = √(17² − 8²) = 15, so chord = 30.",
+        "bm": "Separuh perentas = √(17² − 8²) = 15, maka perentas = 30."
+      },
+      "difficulty": 3,
+      "answer": 30,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q07",
+      "subtopicId": "f2math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A chord is 16 cm long and 6 cm from the centre. Find the radius.",
+        "bm": "Perentas 16 cm panjang dan 6 cm dari pusat. Cari jejari."
+      },
+      "explanation": {
+        "en": "r = √(8² + 6²) = 10.",
+        "bm": "j = √(8² + 6²) = 10."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q08",
+      "subtopicId": "f2math-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A line from the centre perpendicular to a chord…",
+        "bm": "Garis dari pusat yang serenjang dengan perentas…"
+      },
+      "explanation": {
+        "en": "It cuts the chord into two equal parts.",
+        "bm": "Ia memotong perentas kepada dua bahagian sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "bisects the chord",
+          "bm": "membahagi dua sama perentas"
+        },
+        {
+          "en": "is parallel to the chord",
+          "bm": "selari dengan perentas"
+        },
+        {
+          "en": "equals the chord",
+          "bm": "sama panjang dengan perentas"
+        },
+        {
+          "en": "is a tangent",
+          "bm": "ialah tangen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-05-q09",
+      "subtopicId": "f2math-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two equal chords in a circle are…",
+        "bm": "Dua perentas sama panjang dalam bulatan…"
+      },
+      "explanation": {
+        "en": "Equal chords are the same distance from the centre.",
+        "bm": "Perentas sama panjang sama jarak dari pusat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "equidistant from the centre",
+          "bm": "sama jarak dari pusat"
+        },
+        {
+          "en": "always parallel",
+          "bm": "sentiasa selari"
+        },
+        {
+          "en": "always diameters",
+          "bm": "sentiasa diameter"
+        },
+        {
+          "en": "perpendicular",
+          "bm": "serenjang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-05-q10",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the circumference of a circle with radius 7 cm. (π = 22/7)",
+        "bm": "Cari lilitan bulatan berjejari 7 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "2 × 22/7 × 7 = 44.",
+        "bm": "2 × 22/7 × 7 = 44."
+      },
+      "difficulty": 1,
+      "answer": 44,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q11",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the circumference of a circle with radius 14 cm. (π = 22/7)",
+        "bm": "Cari lilitan bulatan berjejari 14 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "2 × 22/7 × 14 = 88.",
+        "bm": "2 × 22/7 × 14 = 88."
+      },
+      "difficulty": 1,
+      "answer": 88,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q12",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the circumference of a circle with radius 21 cm. (π = 22/7)",
+        "bm": "Cari lilitan bulatan berjejari 21 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "2 × 22/7 × 21 = 132.",
+        "bm": "2 × 22/7 × 21 = 132."
+      },
+      "difficulty": 1,
+      "answer": 132,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q13",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the area of a circle with radius 7 cm. (π = 22/7)",
+        "bm": "Cari luas bulatan berjejari 7 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 7 × 7 = 154.",
+        "bm": "22/7 × 7 × 7 = 154."
+      },
+      "difficulty": 2,
+      "answer": 154,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-05-q14",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the area of a circle with radius 14 cm. (π = 22/7)",
+        "bm": "Cari luas bulatan berjejari 14 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 14 × 14 = 616.",
+        "bm": "22/7 × 14 × 14 = 616."
+      },
+      "difficulty": 2,
+      "answer": 616,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-05-q15",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the area of a circle with radius 3.5 cm. (π = 22/7)",
+        "bm": "Cari luas bulatan berjejari 3.5 cm. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "22/7 × 3.5 × 3.5 = 38.5.",
+        "bm": "22/7 × 3.5 × 3.5 = 38.5."
+      },
+      "difficulty": 2,
+      "answer": 38.5,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-05-q16",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the arc length: radius 7 cm, angle 90°. (π = 22/7)",
+        "bm": "Cari panjang lengkok: jejari 7 cm, sudut 90°. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "90/360 × 2 × 22/7 × 7.",
+        "bm": "90/360 × 2 × 22/7 × 7."
+      },
+      "difficulty": 2,
+      "answer": 11,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q17",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the arc length: radius 14 cm, angle 60°. (π = 22/7)",
+        "bm": "Cari panjang lengkok: jejari 14 cm, sudut 60°. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "60/360 × 2 × 22/7 × 14.",
+        "bm": "60/360 × 2 × 22/7 × 14."
+      },
+      "difficulty": 2,
+      "answer": 14.666666666666668,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q18",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the arc length: radius 21 cm, angle 120°. (π = 22/7)",
+        "bm": "Cari panjang lengkok: jejari 21 cm, sudut 120°. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "120/360 × 2 × 22/7 × 21.",
+        "bm": "120/360 × 2 × 22/7 × 21."
+      },
+      "difficulty": 2,
+      "answer": 44,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2math-05-q19",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sector area: radius 7 cm, angle 60°. (π = 22/7)",
+        "bm": "Cari luas sektor: jejari 7 cm, sudut 60°. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "60/360 × 22/7 × 7².",
+        "bm": "60/360 × 22/7 × 7²."
+      },
+      "difficulty": 3,
+      "answer": 25.666666666666668,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-05-q20",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the sector area: radius 14 cm, angle 45°. (π = 22/7)",
+        "bm": "Cari luas sektor: jejari 14 cm, sudut 45°. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "45/360 × 22/7 × 14².",
+        "bm": "45/360 × 22/7 × 14²."
+      },
+      "difficulty": 3,
+      "answer": 77,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    },
+    {
+      "id": "f2math-05-q21",
+      "subtopicId": "f2math-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "The circumference is 44 cm. Find the area. (π = 22/7)",
+        "bm": "Lilitan ialah 44 cm. Cari luas. (π = 22/7)"
+      },
+      "explanation": {
+        "en": "r = 7, so A = 22/7 × 49 = 154.",
+        "bm": "j = 7, maka A = 22/7 × 49 = 154."
+      },
+      "difficulty": 3,
+      "answer": 154,
+      "tolerance": 0.01,
+      "unit": "cm²"
+    }
+  ]
+}

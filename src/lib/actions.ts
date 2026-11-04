@@ -85,7 +85,7 @@ export async function regeneratePlan(settings: Settings) {
     // Only plan subjects the user can open (everything when accounts are off).
     chapters: ALL_CHAPTERS.filter((c) => c.form === form && (canNow('learn', c.subjectId) || canNow('quiz', c.subjectId)))
       .map((c) => ({ id: c.id, subjectId: c.subjectId, number: c.number, written: c.written })),
-    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS && (form === 3 || canNow('flashcards')), existing: keep,
+    introDone, weakSubtopics: weak, hasFlashcards: HAS_FLASHCARDS && (form !== 4 || canNow('flashcards')), existing: keep,
   })
   await db.transaction('rw', db.tasks, db.kv, async () => {
     await db.tasks.bulkDelete(drop)

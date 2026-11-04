@@ -1,0 +1,407 @@
+{
+  "chapterId": "f2pi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Believing that Allah is All-Powerful gives a Muslim courage: nothing is beyond His power.",
+      "bm": "Percaya bahawa Allah Maha Berkuasa memberi Muslim keberanian: tiada apa di luar kuasa-Nya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Al-Qadir and Al-Qawiy mean Allah is All-Powerful and Most Strong.",
+        "bm": "Al-Qadir dan Al-Qawiy bermaksud Allah Maha Berkuasa dan Maha Kuat."
+      },
+      {
+        "en": "Angels always obey Allah.",
+        "bm": "Malaikat sentiasa taat kepada Allah."
+      },
+      {
+        "en": "Allah revealed Books as guidance.",
+        "bm": "Allah menurunkan kitab sebagai panduan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Book",
+          "bm": "Kitab"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Taurat",
+              "bm": "Taurat"
+            },
+            "detail": {
+              "en": "Musa",
+              "bm": "Musa"
+            }
+          },
+          {
+            "label": {
+              "en": "Zabur",
+              "bm": "Zabur"
+            },
+            "detail": {
+              "en": "Daud",
+              "bm": "Daud"
+            }
+          },
+          {
+            "label": {
+              "en": "Injil",
+              "bm": "Injil"
+            },
+            "detail": {
+              "en": "Isa",
+              "bm": "Isa"
+            }
+          },
+          {
+            "label": {
+              "en": "Al-Quran",
+              "bm": "Al-Quran"
+            },
+            "detail": {
+              "en": "Muhammad",
+              "bm": "Muhammad"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Al-Qadir",
+          "bm": "Al-Qadir"
+        },
+        "definition": {
+          "en": "The All-Powerful.",
+          "bm": "Yang Maha Berkuasa."
+        }
+      },
+      {
+        "term": {
+          "en": "Al-Qawiy",
+          "bm": "Al-Qawiy"
+        },
+        "definition": {
+          "en": "The Most Strong.",
+          "bm": "Yang Maha Kuat."
+        }
+      },
+      {
+        "term": {
+          "en": "Malaikat",
+          "bm": "Malaikat"
+        },
+        "definition": {
+          "en": "Beings created from light who obey Allah.",
+          "bm": "Makhluk daripada cahaya yang taat kepada Allah."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pi-03-q01",
+      "subtopicId": "f2pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Al-Qadir means…",
+        "bm": "Al-Qadir bermaksud…"
+      },
+      "explanation": {
+        "en": "One of the Asma'ul Husna.",
+        "bm": "Antara Asma'ul Husna."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "The All-Powerful",
+          "bm": "Yang Maha Berkuasa"
+        },
+        {
+          "en": "The All-Hearing",
+          "bm": "Yang Maha Mendengar"
+        },
+        {
+          "en": "The Most Merciful",
+          "bm": "Yang Maha Penyayang"
+        },
+        {
+          "en": "The Creator only",
+          "bm": "Pencipta sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q02",
+      "subtopicId": "f2pi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which attitude reflects belief in Al-Qawiy?",
+        "bm": "Sikap manakah mencerminkan iman kepada Al-Qawiy?"
+      },
+      "explanation": {
+        "en": "Effort with reliance on Allah.",
+        "bm": "Usaha dan tawakal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Relying on Allah while working hard",
+          "bm": "Bertawakal sambil berusaha"
+        },
+        {
+          "en": "Giving up easily",
+          "bm": "Mudah putus asa"
+        },
+        {
+          "en": "Being arrogant",
+          "bm": "Sombong"
+        },
+        {
+          "en": "Avoiding effort",
+          "bm": "Mengelak usaha"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q03",
+      "subtopicId": "f2pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which angel brought revelation?",
+        "bm": "Malaikat manakah menyampaikan wahyu?"
+      },
+      "explanation": {
+        "en": "He delivered the Quran to the Prophet ﷺ.",
+        "bm": "Baginda menerima Al-Quran melaluinya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Jibril",
+          "bm": "Jibril"
+        },
+        {
+          "en": "Mikail",
+          "bm": "Mikail"
+        },
+        {
+          "en": "Israfil",
+          "bm": "Israfil"
+        },
+        {
+          "en": "Malik",
+          "bm": "Malik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q04",
+      "subtopicId": "f2pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Angels are created from…",
+        "bm": "Malaikat dicipta daripada…"
+      },
+      "explanation": {
+        "en": "Humans from clay; jinn from fire.",
+        "bm": "Manusia daripada tanah; jin daripada api."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "light",
+          "bm": "cahaya"
+        },
+        {
+          "en": "clay",
+          "bm": "tanah"
+        },
+        {
+          "en": "fire",
+          "bm": "api"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q05",
+      "subtopicId": "f2pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which angels record our deeds?",
+        "bm": "Malaikat manakah mencatat amalan?"
+      },
+      "explanation": {
+        "en": "They write good and bad deeds.",
+        "bm": "Mereka mencatat amalan baik dan buruk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Raqib and Atid",
+          "bm": "Raqib dan Atid"
+        },
+        {
+          "en": "Munkar and Nakir",
+          "bm": "Munkar dan Nakir"
+        },
+        {
+          "en": "Jibril and Mikail",
+          "bm": "Jibril dan Mikail"
+        },
+        {
+          "en": "Ridwan and Malik",
+          "bm": "Ridwan dan Malik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q06",
+      "subtopicId": "f2pi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Believing in angels should make us…",
+        "bm": "Beriman kepada malaikat membuatkan kita…"
+      },
+      "explanation": {
+        "en": "Our deeds are recorded.",
+        "bm": "Amalan kita dicatat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "careful in our actions",
+          "bm": "berhati-hati dalam tindakan"
+        },
+        {
+          "en": "careless",
+          "bm": "cuai"
+        },
+        {
+          "en": "afraid to learn",
+          "bm": "takut belajar"
+        },
+        {
+          "en": "stop worship",
+          "bm": "berhenti beribadah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q07",
+      "subtopicId": "f2pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which book was revealed to Prophet Muhammad ﷺ?",
+        "bm": "Kitab manakah diturunkan kepada Nabi Muhammad ﷺ?"
+      },
+      "explanation": {
+        "en": "It is the final book.",
+        "bm": "Ia kitab terakhir."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Al-Quran",
+          "bm": "Al-Quran"
+        },
+        {
+          "en": "Taurat",
+          "bm": "Taurat"
+        },
+        {
+          "en": "Zabur",
+          "bm": "Zabur"
+        },
+        {
+          "en": "Injil",
+          "bm": "Injil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q08",
+      "subtopicId": "f2pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Zabur was revealed to Prophet…",
+        "bm": "Zabur diturunkan kepada Nabi…"
+      },
+      "explanation": {
+        "en": "Prophet Musa received Taurat.",
+        "bm": "Nabi Musa menerima Taurat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Daud",
+          "bm": "Daud"
+        },
+        {
+          "en": "Musa",
+          "bm": "Musa"
+        },
+        {
+          "en": "Isa",
+          "bm": "Isa"
+        },
+        {
+          "en": "Ibrahim",
+          "bm": "Ibrahim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pi-03-q09",
+      "subtopicId": "f2pi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why were revealed books sent?",
+        "bm": "Mengapa kitab diturunkan?"
+      },
+      "explanation": {
+        "en": "They set out right and wrong.",
+        "bm": "Ia menjelaskan betul dan salah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To guide humans",
+          "bm": "Untuk membimbing manusia"
+        },
+        {
+          "en": "To entertain",
+          "bm": "Untuk hiburan"
+        },
+        {
+          "en": "For decoration",
+          "bm": "Untuk hiasan"
+        },
+        {
+          "en": "For trade",
+          "bm": "Untuk perdagangan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

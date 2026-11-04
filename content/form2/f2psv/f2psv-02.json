@@ -1,0 +1,317 @@
+{
+  "chapterId": "f2psv-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Before writing existed, people drew on cave walls. Drawing is one of the oldest human skills.",
+      "bm": "Sebelum tulisan wujud, manusia melukis di dinding gua. Melukis antara kemahiran tertua manusia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Drawing uses line and tone.",
+        "bm": "Lukisan menggunakan garisan dan ton."
+      },
+      {
+        "en": "Cave art is the earliest known form.",
+        "bm": "Seni gua bentuk terawal yang diketahui."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Drawing",
+          "bm": "Seni Lukisan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Line",
+              "bm": "Garisan"
+            },
+            "detail": {
+              "en": "Contour, gesture",
+              "bm": "Kontur, gestur"
+            }
+          },
+          {
+            "label": {
+              "en": "Tone",
+              "bm": "Ton"
+            },
+            "detail": {
+              "en": "Hatching, shading",
+              "bm": "Garis tindih, lorekan"
+            }
+          },
+          {
+            "label": {
+              "en": "Tools",
+              "bm": "Alat"
+            },
+            "detail": {
+              "en": "Pencil, charcoal",
+              "bm": "Pensel, arang"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hatching",
+          "bm": "Garis selari"
+        },
+        "definition": {
+          "en": "Shading with parallel lines.",
+          "bm": "Lorekan dengan garisan selari."
+        }
+      },
+      {
+        "term": {
+          "en": "Contour",
+          "bm": "Kontur"
+        },
+        "definition": {
+          "en": "An outline drawing.",
+          "bm": "Lukisan garis luar."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-02-q01",
+      "subtopicId": "f2psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a drawing tool?",
+        "bm": "Yang manakah alat melukis?"
+      },
+      "explanation": {
+        "en": "Charcoal makes dark marks.",
+        "bm": "Arang menghasilkan tanda gelap."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Charcoal",
+          "bm": "Arang"
+        },
+        {
+          "en": "Hammer",
+          "bm": "Tukul"
+        },
+        {
+          "en": "Oven",
+          "bm": "Ketuhar"
+        },
+        {
+          "en": "Saw",
+          "bm": "Gergaji"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q02",
+      "subtopicId": "f2psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Drawing mainly uses…",
+        "bm": "Lukisan terutamanya menggunakan…"
+      },
+      "explanation": {
+        "en": "These create form.",
+        "bm": "Ia membentuk rupa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "line and tone",
+          "bm": "garisan dan ton"
+        },
+        {
+          "en": "clay",
+          "bm": "tanah liat"
+        },
+        {
+          "en": "wood carving",
+          "bm": "ukiran kayu"
+        },
+        {
+          "en": "fabric",
+          "bm": "kain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q03",
+      "subtopicId": "f2psv-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Crosshatching means…",
+        "bm": "Garis silang bermaksud…"
+      },
+      "explanation": {
+        "en": "More crossing is darker.",
+        "bm": "Lebih bersilang lebih gelap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "lines crossing to make tone",
+          "bm": "garisan bersilang untuk menghasilkan ton"
+        },
+        {
+          "en": "using paint",
+          "bm": "menggunakan cat"
+        },
+        {
+          "en": "cutting paper",
+          "bm": "memotong kertas"
+        },
+        {
+          "en": "using glue",
+          "bm": "menggunakan gam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q04",
+      "subtopicId": "f2psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The earliest drawings are found…",
+        "bm": "Lukisan terawal ditemui…"
+      },
+      "explanation": {
+        "en": "Prehistoric people drew on walls.",
+        "bm": "Manusia prasejarah melukis pada dinding."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "in caves",
+          "bm": "di dalam gua"
+        },
+        {
+          "en": "in newspapers",
+          "bm": "dalam surat khabar"
+        },
+        {
+          "en": "on phones",
+          "bm": "pada telefon"
+        },
+        {
+          "en": "in banks",
+          "bm": "di bank"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q05",
+      "subtopicId": "f2psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gua Tambun in Perak is famous for…",
+        "bm": "Gua Tambun di Perak terkenal dengan…"
+      },
+      "explanation": {
+        "en": "It is a Malaysian site.",
+        "bm": "Ia tapak di Malaysia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "prehistoric cave paintings",
+          "bm": "lukisan gua prasejarah"
+        },
+        {
+          "en": "tin mining museum",
+          "bm": "muzium bijih timah"
+        },
+        {
+          "en": "modern graffiti",
+          "bm": "grafiti moden"
+        },
+        {
+          "en": "stained glass",
+          "bm": "kaca berwarna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q06",
+      "subtopicId": "f2psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Leonardo da Vinci is known for detailed…",
+        "bm": "Leonardo da Vinci terkenal dengan … terperinci."
+      },
+      "explanation": {
+        "en": "His notebooks are famous.",
+        "bm": "Buku notanya terkenal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "studies and sketches",
+          "bm": "kajian dan lakaran"
+        },
+        {
+          "en": "photos",
+          "bm": "foto"
+        },
+        {
+          "en": "digital art",
+          "bm": "seni digital"
+        },
+        {
+          "en": "ceramics",
+          "bm": "seramik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-02-q07",
+      "subtopicId": "f2psv-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is drawing a basic skill?",
+        "bm": "Mengapa melukis kemahiran asas?"
+      },
+      "explanation": {
+        "en": "Most art begins with a sketch.",
+        "bm": "Kebanyakan seni bermula dengan lakaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It records ideas before making a work",
+          "bm": "Ia merakam idea sebelum menghasilkan karya"
+        },
+        {
+          "en": "It replaces all art",
+          "bm": "Ia menggantikan semua seni"
+        },
+        {
+          "en": "It needs no practice",
+          "bm": "Ia tidak perlu latihan"
+        },
+        {
+          "en": "It is only for children",
+          "bm": "Ia untuk kanak-kanak sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

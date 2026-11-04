@@ -1,0 +1,559 @@
+{
+  "chapterId": "f2sej-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Today's sultans in Perak and elsewhere still hold court ceremonies with roots in Melaka. Those traditions have lasted over five centuries.",
+      "bm": "Sultan-sultan hari ini di Perak dan negeri lain masih melaksanakan istiadat yang berakar dari Melaka. Tradisi itu bertahan lebih lima abad."
+    },
+    "bigIdeas": [
+      {
+        "en": "These sultanates have links to Melaka and Johor-Riau.",
+        "bm": "Kesultanan ini mempunyai kaitan dengan Melaka dan Johor Riau."
+      },
+      {
+        "en": "Bugis leaders founded the Selangor sultanate.",
+        "bm": "Pemimpin Bugis mengasaskan Kesultanan Selangor."
+      },
+      {
+        "en": "Government, Islam, law, custom and literature carried on.",
+        "bm": "Pemerintahan, Islam, undang-undang, adat dan persuratan diteruskan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "First sultan",
+            "bm": "Sultan pertama"
+          },
+          {
+            "en": "Link",
+            "bm": "Kaitan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Pahang",
+              "bm": "Pahang"
+            },
+            "cells": [
+              {
+                "en": "Sultan Muhammad Shah",
+                "bm": "Sultan Muhammad Shah"
+              },
+              {
+                "en": "son of Sultan Mansur Shah",
+                "bm": "putera Sultan Mansur Shah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Perak",
+              "bm": "Perak"
+            },
+            "cells": [
+              {
+                "en": "Sultan Muzaffar Shah I",
+                "bm": "Sultan Muzaffar Shah I"
+              },
+              {
+                "en": "son of Sultan Mahmud Shah",
+                "bm": "putera Sultan Mahmud Shah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Terengganu",
+              "bm": "Terengganu"
+            },
+            "cells": [
+              {
+                "en": "Sultan Zainal Abidin I",
+                "bm": "Sultan Zainal Abidin I"
+              },
+              {
+                "en": "Johor-Riau family link",
+                "bm": "kaitan keluarga Johor Riau"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Selangor",
+              "bm": "Selangor"
+            },
+            "cells": [
+              {
+                "en": "Sultan Salehuddin",
+                "bm": "Sultan Salehuddin"
+              },
+              {
+                "en": "Bugis; Raja Lumu",
+                "bm": "Bugis; Raja Lumu"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Bugis",
+          "bm": "Bugis"
+        },
+        "definition": {
+          "en": "A seafaring people from Sulawesi.",
+          "bm": "Bangsa pelaut dari Sulawesi."
+        }
+      },
+      {
+        "term": {
+          "en": "Adat istiadat",
+          "bm": "Adat istiadat"
+        },
+        "definition": {
+          "en": "Royal customs and ceremonies.",
+          "bm": "Adat dan upacara diraja."
+        }
+      },
+      {
+        "term": {
+          "en": "Misa Melayu",
+          "bm": "Misa Melayu"
+        },
+        "definition": {
+          "en": "A historical work about Perak by Raja Chulan.",
+          "bm": "Karya sejarah Perak oleh Raja Chulan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sej-07-q01",
+      "subtopicId": "f2sej-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first Sultan of Perak was…",
+        "bm": "Sultan pertama Perak ialah…"
+      },
+      "explanation": {
+        "en": "He was a son of Sultan Mahmud Shah of Melaka.",
+        "bm": "Baginda putera Sultan Mahmud Shah Melaka."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sultan Muzaffar Shah I",
+          "bm": "Sultan Muzaffar Shah I"
+        },
+        {
+          "en": "Sultan Salehuddin",
+          "bm": "Sultan Salehuddin"
+        },
+        {
+          "en": "Sultan Zainal Abidin I",
+          "bm": "Sultan Zainal Abidin I"
+        },
+        {
+          "en": "Parameswara",
+          "bm": "Parameswara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q02",
+      "subtopicId": "f2sej-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first Sultan of Selangor was…",
+        "bm": "Sultan pertama Selangor ialah…"
+      },
+      "explanation": {
+        "en": "He was of Bugis descent.",
+        "bm": "Baginda berketurunan Bugis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sultan Salehuddin (Raja Lumu)",
+          "bm": "Sultan Salehuddin (Raja Lumu)"
+        },
+        {
+          "en": "Sultan Muhammad Shah",
+          "bm": "Sultan Muhammad Shah"
+        },
+        {
+          "en": "Long Yunus",
+          "bm": "Long Yunus"
+        },
+        {
+          "en": "Raja Melewar",
+          "bm": "Raja Melewar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q03",
+      "subtopicId": "f2sej-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Pahang sultanate began under a son of…",
+        "bm": "Kesultanan Pahang bermula di bawah putera…"
+      },
+      "explanation": {
+        "en": "Sultan Muhammad Shah became its ruler in about 1470.",
+        "bm": "Sultan Muhammad Shah menjadi pemerintah sekitar 1470."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sultan Mansur Shah",
+          "bm": "Sultan Mansur Shah"
+        },
+        {
+          "en": "Sultan Mahmud Shah",
+          "bm": "Sultan Mahmud Shah"
+        },
+        {
+          "en": "Long Yunus",
+          "bm": "Long Yunus"
+        },
+        {
+          "en": "Raja Lumu",
+          "bm": "Raja Lumu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q04",
+      "subtopicId": "f2sej-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sultan Zainal Abidin I founded the sultanate of…",
+        "bm": "Sultan Zainal Abidin I mengasaskan kesultanan…"
+      },
+      "explanation": {
+        "en": "It was founded in the early 18th century.",
+        "bm": "Diasaskan pada awal abad ke-18."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Terengganu",
+          "bm": "Terengganu"
+        },
+        {
+          "en": "Kedah",
+          "bm": "Kedah"
+        },
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q05",
+      "subtopicId": "f2sej-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What did these foundings have in common?",
+        "bm": "Apakah persamaan pengasasan kesultanan ini?"
+      },
+      "explanation": {
+        "en": "Most trace links to Melaka or Johor-Riau.",
+        "bm": "Kebanyakan berkait dengan Melaka atau Johor Riau."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Royal or noble links to earlier Malay courts",
+          "bm": "Kaitan diraja atau pembesar dengan istana Melayu terdahulu"
+        },
+        {
+          "en": "All were founded by Europeans",
+          "bm": "Semua diasaskan oleh orang Eropah"
+        },
+        {
+          "en": "All began in 1957",
+          "bm": "Semua bermula pada 1957"
+        },
+        {
+          "en": "None had Islam",
+          "bm": "Tiada Islam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q06",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which aspect is part of Melaka's legacy?",
+        "bm": "Aspek manakah warisan Melaka?"
+      },
+      "explanation": {
+        "en": "It was adapted in each state.",
+        "bm": "Ia disesuaikan di setiap negeri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "System of officers",
+          "bm": "Sistem pembesar"
+        },
+        {
+          "en": "Tin dredges",
+          "bm": "Kapal korek"
+        },
+        {
+          "en": "Railways",
+          "bm": "Kereta api"
+        },
+        {
+          "en": "Rubber estates",
+          "bm": "Ladang getah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q07",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Perak's \"Four Officers\" system shows…",
+        "bm": "Sistem Orang Besar Berempat Perak menunjukkan…"
+      },
+      "explanation": {
+        "en": "The hierarchy followed the Melaka pattern.",
+        "bm": "Hierarki mengikut corak Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "continuity from Melaka",
+          "bm": "kesinambungan dari Melaka"
+        },
+        {
+          "en": "British invention",
+          "bm": "ciptaan British"
+        },
+        {
+          "en": "Siamese rule",
+          "bm": "pemerintahan Siam"
+        },
+        {
+          "en": "no officers",
+          "bm": "tiada pembesar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q08",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which law text is linked with Pahang?",
+        "bm": "Teks undang-undang manakah dikaitkan dengan Pahang?"
+      },
+      "explanation": {
+        "en": "It draws on Melaka's laws.",
+        "bm": "Ia berpandukan undang-undang Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Undang-Undang Pahang",
+          "bm": "Undang-Undang Pahang"
+        },
+        {
+          "en": "Hukum Kanun Brunei",
+          "bm": "Hukum Kanun Brunei"
+        },
+        {
+          "en": "Malayan Union Order",
+          "bm": "Perintah Malayan Union"
+        },
+        {
+          "en": "Adat Perpatih",
+          "bm": "Adat Perpatih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q09",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Misa Melayu is about…",
+        "bm": "Misa Melayu mengisahkan…"
+      },
+      "explanation": {
+        "en": "Written by Raja Chulan.",
+        "bm": "Dikarang oleh Raja Chulan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Perak",
+          "bm": "Perak"
+        },
+        {
+          "en": "Kelantan",
+          "bm": "Kelantan"
+        },
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q10",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How did Islam shape government in these states?",
+        "bm": "Bagaimana Islam mempengaruhi pemerintahan negeri-negeri ini?"
+      },
+      "explanation": {
+        "en": "This continues in the role of rulers today.",
+        "bm": "Ini diteruskan dalam peranan raja hari ini."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "The sultan headed religion and law drew on Islam",
+          "bm": "Sultan mengetuai agama dan undang-undang berpandukan Islam"
+        },
+        {
+          "en": "Islam was banned",
+          "bm": "Islam dilarang"
+        },
+        {
+          "en": "Only traders followed Islam",
+          "bm": "Hanya pedagang mengikut Islam"
+        },
+        {
+          "en": "There was no connection",
+          "bm": "Tiada kaitan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q11",
+      "subtopicId": "f2sej-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do these sultanates matter to Malaysia now?",
+        "bm": "Mengapa kesultanan ini penting bagi Malaysia sekarang?"
+      },
+      "explanation": {
+        "en": "Rulers remain in nine states.",
+        "bm": "Raja-raja kekal di sembilan negeri."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They are the root of our constitutional monarchy",
+          "bm": "Ia akar raja berperlembagaan kita"
+        },
+        {
+          "en": "They ended in 1511",
+          "bm": "Ia berakhir pada 1511"
+        },
+        {
+          "en": "They were colonies of Portugal",
+          "bm": "Ia jajahan Portugal"
+        },
+        {
+          "en": "They have no heritage",
+          "bm": "Ia tiada warisan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-07-q12",
+      "subtopicId": "f2sej-07-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the state with its founder.",
+        "bm": "Padankan negeri dengan pengasasnya."
+      },
+      "explanation": {
+        "en": "Each has its own founding story.",
+        "bm": "Setiap satu ada kisah pengasasan."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Perak",
+            "bm": "Perak"
+          },
+          "right": {
+            "en": "Sultan Muzaffar Shah I",
+            "bm": "Sultan Muzaffar Shah I"
+          }
+        },
+        {
+          "left": {
+            "en": "Pahang",
+            "bm": "Pahang"
+          },
+          "right": {
+            "en": "Sultan Muhammad Shah",
+            "bm": "Sultan Muhammad Shah"
+          }
+        },
+        {
+          "left": {
+            "en": "Terengganu",
+            "bm": "Terengganu"
+          },
+          "right": {
+            "en": "Sultan Zainal Abidin I",
+            "bm": "Sultan Zainal Abidin I"
+          }
+        },
+        {
+          "left": {
+            "en": "Selangor",
+            "bm": "Selangor"
+          },
+          "right": {
+            "en": "Sultan Salehuddin",
+            "bm": "Sultan Salehuddin"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "chapterId": "f2math-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A car's speedometer shows speed at this very moment. Your average speed for the whole journey is usually a different number.",
+      "bm": "Meter laju kereta menunjukkan laju pada saat itu. Laju purata untuk seluruh perjalanan biasanya berbeza."
+    },
+    "bigIdeas": [
+      {
+        "en": "Speed = distance ÷ time.",
+        "bm": "Laju = jarak ÷ masa."
+      },
+      {
+        "en": "Average speed = total distance ÷ total time.",
+        "bm": "Laju purata = jumlah jarak ÷ jumlah masa."
+      },
+      {
+        "en": "Acceleration is the rate of change of speed.",
+        "bm": "Pecutan ialah kadar perubahan laju."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Uniform speed",
+              "bm": "Laju seragam"
+            },
+            "detail": {
+              "en": "Same distance each second",
+              "bm": "Jarak sama setiap saat"
+            }
+          },
+          {
+            "title": {
+              "en": "Acceleration",
+              "bm": "Pecutan"
+            },
+            "detail": {
+              "en": "Speed increases",
+              "bm": "Laju bertambah"
+            }
+          },
+          {
+            "title": {
+              "en": "Deceleration",
+              "bm": "Nyahpecutan"
+            },
+            "detail": {
+              "en": "Speed decreases",
+              "bm": "Laju berkurang"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Speed",
+          "bm": "Laju"
+        },
+        "definition": {
+          "en": "Distance travelled per unit time.",
+          "bm": "Jarak yang dilalui per unit masa."
+        }
+      },
+      {
+        "term": {
+          "en": "Average speed",
+          "bm": "Laju purata"
+        },
+        "definition": {
+          "en": "Total distance divided by total time.",
+          "bm": "Jumlah jarak dibahagi jumlah masa."
+        }
+      },
+      {
+        "term": {
+          "en": "Acceleration",
+          "bm": "Pecutan"
+        },
+        "definition": {
+          "en": "Change in speed per unit time.",
+          "bm": "Perubahan laju per unit masa."
+        }
+      },
+      {
+        "term": {
+          "en": "Deceleration",
+          "bm": "Nyahpecutan"
+        },
+        "definition": {
+          "en": "Speed decreasing over time.",
+          "bm": "Laju berkurang mengikut masa."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-speed",
+      "f2-accel"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "A car goes from 10 m/s to 30 m/s in 5 s. Find its acceleration.",
+        "bm": "Kereta berubah dari 10 m/s ke 30 m/s dalam 5 s. Cari pecutannya."
+      },
+      "steps": [
+        {
+          "en": "Change in speed = 20 m/s.",
+          "bm": "Perubahan laju = 20 m/s."
+        },
+        {
+          "en": "20 ÷ 5",
+          "bm": "20 ÷ 5"
+        }
+      ],
+      "answer": {
+        "en": "4 m/s²",
+        "bm": "4 m/s²"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-09-q01",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car travels 150 km in 3 hours. Find its speed.",
+        "bm": "Kereta bergerak 150 km dalam 3 jam. Cari lajunya."
+      },
+      "explanation": {
+        "en": "150 ÷ 3 = 50.",
+        "bm": "150 ÷ 3 = 50."
+      },
+      "difficulty": 1,
+      "answer": 50,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q02",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car travels 240 km in 4 hours. Find its speed.",
+        "bm": "Kereta bergerak 240 km dalam 4 jam. Cari lajunya."
+      },
+      "explanation": {
+        "en": "240 ÷ 4 = 60.",
+        "bm": "240 ÷ 4 = 60."
+      },
+      "difficulty": 1,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q03",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car travels 90 km in 1.5 hours. Find its speed.",
+        "bm": "Kereta bergerak 90 km dalam 1.5 jam. Cari lajunya."
+      },
+      "explanation": {
+        "en": "90 ÷ 1.5 = 60.",
+        "bm": "90 ÷ 1.5 = 60."
+      },
+      "difficulty": 1,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q04",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car travels 400 km in 5 hours. Find its speed.",
+        "bm": "Kereta bergerak 400 km dalam 5 jam. Cari lajunya."
+      },
+      "explanation": {
+        "en": "400 ÷ 5 = 80.",
+        "bm": "400 ÷ 5 = 80."
+      },
+      "difficulty": 1,
+      "answer": 80,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q05",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bus moves at 60 km/h for 2.5 hours. Find the distance.",
+        "bm": "Bas bergerak 60 km/j selama 2.5 jam. Cari jaraknya."
+      },
+      "explanation": {
+        "en": "60 × 2.5 = 150.",
+        "bm": "60 × 2.5 = 150."
+      },
+      "difficulty": 1,
+      "answer": 150,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f2math-09-q06",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bus moves at 80 km/h for 3 hours. Find the distance.",
+        "bm": "Bas bergerak 80 km/j selama 3 jam. Cari jaraknya."
+      },
+      "explanation": {
+        "en": "80 × 3 = 240.",
+        "bm": "80 × 3 = 240."
+      },
+      "difficulty": 1,
+      "answer": 240,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f2math-09-q07",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bus moves at 90 km/h for 2 hours. Find the distance.",
+        "bm": "Bas bergerak 90 km/j selama 2 jam. Cari jaraknya."
+      },
+      "explanation": {
+        "en": "90 × 2 = 180.",
+        "bm": "90 × 2 = 180."
+      },
+      "difficulty": 1,
+      "answer": 180,
+      "tolerance": 0,
+      "unit": "km"
+    },
+    {
+      "id": "f2math-09-q08",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 72 km/h to m/s.",
+        "bm": "Tukarkan 72 km/j kepada m/s."
+      },
+      "explanation": {
+        "en": "72 × 1000 ÷ 3600 = 20.",
+        "bm": "72 × 1000 ÷ 3600 = 20."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f2math-09-q09",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 15 m/s to km/h.",
+        "bm": "Tukarkan 15 m/s kepada km/j."
+      },
+      "explanation": {
+        "en": "15 × 3.6 = 54.",
+        "bm": "15 × 3.6 = 54."
+      },
+      "difficulty": 2,
+      "answer": 54,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q10",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A trip covers 100 km in 2 h, then 200 km in 3 h. Find the average speed.",
+        "bm": "Perjalanan 100 km dalam 2 j, kemudian 200 km dalam 3 j. Cari laju purata."
+      },
+      "explanation": {
+        "en": "300 km ÷ 5 h = 60.",
+        "bm": "300 km ÷ 5 j = 60."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q11",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Ali drives 120 km at 60 km/h, then 120 km at 40 km/h. Find the average speed.",
+        "bm": "Ali memandu 120 km pada 60 km/j, kemudian 120 km pada 40 km/j. Cari laju purata."
+      },
+      "explanation": {
+        "en": "Time = 2 + 3 = 5 h; 240 ÷ 5 = 48.",
+        "bm": "Masa = 2 + 3 = 5 j; 240 ÷ 5 = 48."
+      },
+      "difficulty": 3,
+      "answer": 48,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q12",
+      "subtopicId": "f2math-09-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A train leaves at 0915 and arrives at 1145, travelling 300 km. Find its average speed.",
+        "bm": "Kereta api bertolak 0915 dan tiba 1145, menempuh 300 km. Cari laju puratanya."
+      },
+      "explanation": {
+        "en": "2.5 h, so 300 ÷ 2.5 = 120.",
+        "bm": "2.5 j, maka 300 ÷ 2.5 = 120."
+      },
+      "difficulty": 3,
+      "answer": 120,
+      "tolerance": 0,
+      "unit": "km/h"
+    },
+    {
+      "id": "f2math-09-q13",
+      "subtopicId": "f2math-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Speed changes from 0 m/s to 20 m/s in 5 s. Find the acceleration.",
+        "bm": "Laju berubah dari 0 m/s ke 20 m/s dalam 5 s. Cari pecutan."
+      },
+      "explanation": {
+        "en": "(20 − 0) ÷ 5 = 4.",
+        "bm": "(20 − 0) ÷ 5 = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f2math-09-q14",
+      "subtopicId": "f2math-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Speed changes from 10 m/s to 30 m/s in 4 s. Find the acceleration.",
+        "bm": "Laju berubah dari 10 m/s ke 30 m/s dalam 4 s. Cari pecutan."
+      },
+      "explanation": {
+        "en": "(30 − 10) ÷ 4 = 5.",
+        "bm": "(30 − 10) ÷ 4 = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f2math-09-q15",
+      "subtopicId": "f2math-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Speed changes from 5 m/s to 25 m/s in 10 s. Find the acceleration.",
+        "bm": "Laju berubah dari 5 m/s ke 25 m/s dalam 10 s. Cari pecutan."
+      },
+      "explanation": {
+        "en": "(25 − 5) ÷ 10 = 2.",
+        "bm": "(25 − 5) ÷ 10 = 2."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f2math-09-q16",
+      "subtopicId": "f2math-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A lorry slows from 30 m/s to 10 m/s in 4 s. Find the acceleration (use a negative value).",
+        "bm": "Lori perlahan dari 30 m/s ke 10 m/s dalam 4 s. Cari pecutan (guna nilai negatif)."
+      },
+      "explanation": {
+        "en": "(10 − 30) ÷ 4 = −5.",
+        "bm": "(10 − 30) ÷ 4 = −5."
+      },
+      "difficulty": 3,
+      "answer": -5,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f2math-09-q17",
+      "subtopicId": "f2math-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A car accelerates at 3 m/s² from rest for 6 s. Find its final speed.",
+        "bm": "Kereta memecut 3 m/s² dari pegun selama 6 s. Cari laju akhirnya."
+      },
+      "explanation": {
+        "en": "0 + 3 × 6 = 18.",
+        "bm": "0 + 3 × 6 = 18."
+      },
+      "difficulty": 3,
+      "answer": 18,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f2math-09-q18",
+      "subtopicId": "f2math-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A negative acceleration is called…",
+        "bm": "Pecutan negatif dinamakan…"
+      },
+      "explanation": {
+        "en": "The speed is falling.",
+        "bm": "Laju menurun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "deceleration",
+          "bm": "nyahpecutan"
+        },
+        {
+          "en": "uniform speed",
+          "bm": "laju seragam"
+        },
+        {
+          "en": "distance",
+          "bm": "jarak"
+        },
+        {
+          "en": "rest",
+          "bm": "pegun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-09-q19",
+      "subtopicId": "f2math-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which unit is used for acceleration?",
+        "bm": "Unit manakah bagi pecutan?"
+      },
+      "explanation": {
+        "en": "Speed per unit time.",
+        "bm": "Laju per unit masa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "m/s²",
+          "bm": "m/s²"
+        },
+        {
+          "en": "m/s",
+          "bm": "m/s"
+        },
+        {
+          "en": "km",
+          "bm": "km"
+        },
+        {
+          "en": "s",
+          "bm": "s"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-09-q20",
+      "subtopicId": "f2math-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Uniform speed means…",
+        "bm": "Laju seragam bermaksud…"
+      },
+      "explanation": {
+        "en": "The rate of movement does not change.",
+        "bm": "Kadar pergerakan tidak berubah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "equal distances in equal times",
+          "bm": "jarak sama dalam masa sama"
+        },
+        {
+          "en": "speed always rising",
+          "bm": "laju sentiasa naik"
+        },
+        {
+          "en": "the object is at rest",
+          "bm": "objek pegun"
+        },
+        {
+          "en": "speed is always falling",
+          "bm": "laju sentiasa turun"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

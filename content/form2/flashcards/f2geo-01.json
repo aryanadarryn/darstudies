@@ -1,0 +1,77 @@
+{
+  "chapterId": "f2geo-01",
+  "cards": [
+    {
+      "id": "f2geo-01-f01",
+      "subtopicId": "f2geo-01-01",
+      "front": {
+        "en": "Scale",
+        "bm": "Skala"
+      },
+      "back": {
+        "en": "Map distance : real distance.",
+        "bm": "Jarak peta : jarak sebenar."
+      }
+    },
+    {
+      "id": "f2geo-01-f02",
+      "subtopicId": "f2geo-01-01",
+      "front": {
+        "en": "1 : 100 000",
+        "bm": "1 : 100 000"
+      },
+      "back": {
+        "en": "1 cm = 1 km.",
+        "bm": "1 cm = 1 km."
+      }
+    },
+    {
+      "id": "f2geo-01-f03",
+      "subtopicId": "f2geo-01-01",
+      "front": {
+        "en": "Large-scale map",
+        "bm": "Peta skala besar"
+      },
+      "back": {
+        "en": "Small area, much detail.",
+        "bm": "Kawasan kecil, banyak butiran."
+      }
+    },
+    {
+      "id": "f2geo-01-f04",
+      "subtopicId": "f2geo-01-02",
+      "front": {
+        "en": "Measuring curves",
+        "bm": "Mengukur lengkok"
+      },
+      "back": {
+        "en": "Use string or the edge of paper.",
+        "bm": "Guna tali atau tepi kertas."
+      }
+    },
+    {
+      "id": "f2geo-01-f05",
+      "subtopicId": "f2geo-01-03",
+      "front": {
+        "en": "Actual distance",
+        "bm": "Jarak sebenar"
+      },
+      "back": {
+        "en": "Map distance × scale.",
+        "bm": "Jarak peta × skala."
+      }
+    },
+    {
+      "id": "f2geo-01-f06",
+      "subtopicId": "f2geo-01-03",
+      "front": {
+        "en": "cm to km",
+        "bm": "cm ke km"
+      },
+      "back": {
+        "en": "Divide by 100 000.",
+        "bm": "Bahagi 100 000."
+      }
+    }
+  ]
+}

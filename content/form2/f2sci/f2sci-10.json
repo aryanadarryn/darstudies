@@ -1,0 +1,554 @@
+{
+  "chapterId": "f2sci-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Ships measure the depth of the sea by timing an echo, and bats hunt in the dark in the same way.",
+      "bm": "Kapal mengukur kedalaman laut dengan masa gema, dan kelawar memburu dalam gelap dengan cara yang sama."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sound is a longitudinal wave made by vibrations.",
+        "bm": "Bunyi ialah gelombang membujur yang terhasil daripada getaran."
+      },
+      {
+        "en": "Amplitude controls loudness; frequency controls pitch.",
+        "bm": "Amplitud mengawal kenyaringan; frekuensi mengawal kelangsingan."
+      },
+      {
+        "en": "Reflected sound gives echoes, used in sonar.",
+        "bm": "Bunyi terpantul memberi gema, digunakan dalam sonar."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Change",
+          "bm": "Perubahan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Larger amplitude",
+              "bm": "Amplitud lebih besar"
+            },
+            "detail": {
+              "en": "louder",
+              "bm": "lebih nyaring"
+            }
+          },
+          {
+            "label": {
+              "en": "Higher frequency",
+              "bm": "Frekuensi lebih tinggi"
+            },
+            "detail": {
+              "en": "higher pitch",
+              "bm": "lebih langsing"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Frequency",
+          "bm": "Frekuensi"
+        },
+        "definition": {
+          "en": "Vibrations per second, in hertz.",
+          "bm": "Getaran sesaat, dalam hertz."
+        }
+      },
+      {
+        "term": {
+          "en": "Amplitude",
+          "bm": "Amplitud"
+        },
+        "definition": {
+          "en": "Greatest displacement from rest.",
+          "bm": "Sesaran maksimum dari kedudukan rehat."
+        }
+      },
+      {
+        "term": {
+          "en": "Echo",
+          "bm": "Gema"
+        },
+        "definition": {
+          "en": "A reflected sound.",
+          "bm": "Bunyi yang dipantulkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Ultrasound",
+          "bm": "Ultrabunyi"
+        },
+        "definition": {
+          "en": "Sound above 20 000 Hz.",
+          "bm": "Bunyi melebihi 20 000 Hz."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-sci-echo",
+      "f2-sci-freq"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "An echo returns in 2 s in water (1500 m/s). How deep is the seabed?",
+        "bm": "Gema kembali dalam 2 s di dalam air (1500 m/s). Berapa dalam dasar laut?"
+      },
+      "steps": [
+        {
+          "en": "Total distance = 1500 × 2 = 3000 m.",
+          "bm": "Jumlah jarak = 1500 × 2 = 3000 m."
+        },
+        {
+          "en": "Depth is half of it.",
+          "bm": "Kedalaman ialah separuhnya."
+        }
+      ],
+      "answer": {
+        "en": "1500 m",
+        "bm": "1500 m"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2sci-10-q01",
+      "subtopicId": "f2sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sound is produced by…",
+        "bm": "Bunyi terhasil daripada…"
+      },
+      "explanation": {
+        "en": "Vibrations pass through a medium.",
+        "bm": "Getaran merambat melalui medium."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "vibrating objects",
+          "bm": "objek yang bergetar"
+        },
+        {
+          "en": "still objects",
+          "bm": "objek pegun"
+        },
+        {
+          "en": "light",
+          "bm": "cahaya"
+        },
+        {
+          "en": "magnets only",
+          "bm": "magnet sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q02",
+      "subtopicId": "f2sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sound cannot travel through…",
+        "bm": "Bunyi tidak boleh merambat melalui…"
+      },
+      "explanation": {
+        "en": "It needs particles to pass on the vibrations.",
+        "bm": "Ia memerlukan zarah untuk merambat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a vacuum",
+          "bm": "vakum"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "steel",
+          "bm": "keluli"
+        },
+        {
+          "en": "air",
+          "bm": "udara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q03",
+      "subtopicId": "f2sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sound travels fastest in…",
+        "bm": "Bunyi merambat paling laju dalam…"
+      },
+      "explanation": {
+        "en": "Particles are closest in solids.",
+        "bm": "Zarah paling rapat dalam pepejal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "solids",
+          "bm": "pepejal"
+        },
+        {
+          "en": "liquids",
+          "bm": "cecair"
+        },
+        {
+          "en": "gases",
+          "bm": "gas"
+        },
+        {
+          "en": "a vacuum",
+          "bm": "vakum"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q04",
+      "subtopicId": "f2sci-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A wave has frequency 170 Hz and wavelength 2 m. Find its speed.",
+        "bm": "Gelombang berfrekuensi 170 Hz dan panjang gelombang 2 m. Cari lajunya."
+      },
+      "explanation": {
+        "en": "170 × 2 = 340.",
+        "bm": "170 × 2 = 340."
+      },
+      "difficulty": 2,
+      "answer": 340,
+      "tolerance": 0.01,
+      "unit": "m/s"
+    },
+    {
+      "id": "f2sci-10-q05",
+      "subtopicId": "f2sci-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A sound of 680 Hz travels at 340 m/s. Find its wavelength.",
+        "bm": "Bunyi 680 Hz merambat pada 340 m/s. Cari panjang gelombang."
+      },
+      "explanation": {
+        "en": "340 ÷ 680 = 0.5.",
+        "bm": "340 ÷ 680 = 0.5."
+      },
+      "difficulty": 3,
+      "answer": 0.5,
+      "tolerance": 0.01,
+      "unit": "m"
+    },
+    {
+      "id": "f2sci-10-q06",
+      "subtopicId": "f2sci-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Humans can usually hear between…",
+        "bm": "Manusia biasanya boleh mendengar antara…"
+      },
+      "explanation": {
+        "en": "This is the audible range.",
+        "bm": "Ini julat kebolehdengaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "20 Hz and 20 000 Hz",
+          "bm": "20 Hz and 20 000 Hz"
+        },
+        {
+          "en": "2 Hz and 200 Hz",
+          "bm": "2 Hz and 200 Hz"
+        },
+        {
+          "en": "200 Hz and 2 000 000 Hz",
+          "bm": "200 Hz and 2 000 000 Hz"
+        },
+        {
+          "en": "0 Hz and 20 Hz",
+          "bm": "0 Hz and 20 Hz"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q07",
+      "subtopicId": "f2sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hitting a drum harder makes the sound…",
+        "bm": "Memukul gendang lebih kuat menjadikan bunyi…"
+      },
+      "explanation": {
+        "en": "Amplitude rises.",
+        "bm": "Amplitud bertambah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "louder",
+          "bm": "lebih nyaring"
+        },
+        {
+          "en": "higher in pitch",
+          "bm": "lebih langsing"
+        },
+        {
+          "en": "slower",
+          "bm": "lebih perlahan"
+        },
+        {
+          "en": "disappear",
+          "bm": "hilang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q08",
+      "subtopicId": "f2sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A tighter guitar string gives…",
+        "bm": "Tali gitar yang lebih tegang memberi…"
+      },
+      "explanation": {
+        "en": "Its frequency increases.",
+        "bm": "Frekuensinya bertambah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a higher pitch",
+          "bm": "kelangsingan lebih tinggi"
+        },
+        {
+          "en": "a lower pitch",
+          "bm": "kelangsingan lebih rendah"
+        },
+        {
+          "en": "no sound",
+          "bm": "tiada bunyi"
+        },
+        {
+          "en": "less speed",
+          "bm": "kurang laju"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q09",
+      "subtopicId": "f2sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A thin, short string has…",
+        "bm": "Tali yang nipis dan pendek mempunyai…"
+      },
+      "explanation": {
+        "en": "It vibrates faster.",
+        "bm": "Ia bergetar lebih pantas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a high frequency",
+          "bm": "frekuensi tinggi"
+        },
+        {
+          "en": "a low frequency",
+          "bm": "frekuensi rendah"
+        },
+        {
+          "en": "no amplitude",
+          "bm": "tiada amplitud"
+        },
+        {
+          "en": "no mass",
+          "bm": "tiada jisim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q10",
+      "subtopicId": "f2sci-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Loudness is measured in…",
+        "bm": "Kenyaringan diukur dalam…"
+      },
+      "explanation": {
+        "en": "Frequency is in hertz.",
+        "bm": "Frekuensi dalam hertz."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "decibels",
+          "bm": "desibel"
+        },
+        {
+          "en": "hertz",
+          "bm": "hertz"
+        },
+        {
+          "en": "metres",
+          "bm": "meter"
+        },
+        {
+          "en": "newtons",
+          "bm": "newton"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q11",
+      "subtopicId": "f2sci-10-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "An echo from a cliff returns in 4 s; sound moves at 340 m/s. Find the distance to the cliff.",
+        "bm": "Gema dari tebing kembali dalam 4 s; bunyi bergerak 340 m/s. Cari jarak ke tebing."
+      },
+      "explanation": {
+        "en": "340 × 4 ÷ 2 = 680.",
+        "bm": "340 × 4 ÷ 2 = 680."
+      },
+      "difficulty": 2,
+      "answer": 680,
+      "tolerance": 0.01,
+      "unit": "m"
+    },
+    {
+      "id": "f2sci-10-q12",
+      "subtopicId": "f2sci-10-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Sonar in water (1500 m/s) detects a shoal after 0.4 s. How deep is it?",
+        "bm": "Sonar dalam air (1500 m/s) mengesan kumpulan ikan selepas 0.4 s. Berapa dalamnya?"
+      },
+      "explanation": {
+        "en": "1500 × 0.4 ÷ 2 = 300.",
+        "bm": "1500 × 0.4 ÷ 2 = 300."
+      },
+      "difficulty": 3,
+      "answer": 300,
+      "tolerance": 0.01,
+      "unit": "m"
+    },
+    {
+      "id": "f2sci-10-q13",
+      "subtopicId": "f2sci-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which surface reflects sound best?",
+        "bm": "Permukaan manakah paling baik memantulkan bunyi?"
+      },
+      "explanation": {
+        "en": "Soft surfaces absorb sound.",
+        "bm": "Permukaan lembut menyerap bunyi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hard and smooth",
+          "bm": "Keras dan licin"
+        },
+        {
+          "en": "Soft and rough",
+          "bm": "Lembut dan kasar"
+        },
+        {
+          "en": "Curtains",
+          "bm": "Langsir"
+        },
+        {
+          "en": "Carpet",
+          "bm": "Permaidani"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q14",
+      "subtopicId": "f2sci-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ultrasound is used in hospitals to…",
+        "bm": "Ultrabunyi digunakan di hospital untuk…"
+      },
+      "explanation": {
+        "en": "Its echoes form an image.",
+        "bm": "Gemanya membentuk imej."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "scan an unborn baby",
+          "bm": "mengimbas bayi dalam kandungan"
+        },
+        {
+          "en": "measure temperature",
+          "bm": "mengukur suhu"
+        },
+        {
+          "en": "make X-rays",
+          "bm": "menghasilkan sinar-X"
+        },
+        {
+          "en": "stop bleeding",
+          "bm": "menghentikan pendarahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-10-q15",
+      "subtopicId": "f2sci-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do concert halls have soft seats and panels?",
+        "bm": "Mengapa dewan konsert ada kerusi dan panel lembut?"
+      },
+      "explanation": {
+        "en": "Soft materials absorb sound.",
+        "bm": "Bahan lembut menyerap bunyi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To reduce unwanted echoes",
+          "bm": "Untuk mengurangkan gema yang tidak diingini"
+        },
+        {
+          "en": "To raise the pitch",
+          "bm": "Untuk meningkatkan kelangsingan"
+        },
+        {
+          "en": "To make the sound faster",
+          "bm": "Untuk menambah laju bunyi"
+        },
+        {
+          "en": "To stop vibration of instruments",
+          "bm": "Untuk menghentikan getaran alat muzik"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

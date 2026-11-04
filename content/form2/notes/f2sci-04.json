@@ -1,0 +1,136 @@
+{
+  "chapterId": "f2sci-04",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-04-01": {
+      "keyPoints": [
+        {
+          "en": "Infectious diseases spread through air, water, food, contact and vectors.",
+          "bm": "Penyakit berjangkit merebak melalui udara, air, makanan, sentuhan dan vektor."
+        },
+        {
+          "en": "Non-infectious diseases come from lifestyle, genes or environment.",
+          "bm": "Penyakit tidak berjangkit berpunca daripada gaya hidup, gen atau persekitaran."
+        },
+        {
+          "en": "Prevent by good hygiene and healthy living.",
+          "bm": "Cegah dengan kebersihan dan gaya hidup sihat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Pathogen",
+            "bm": "Patogen"
+          },
+          "meaning": {
+            "en": "Disease-causing microorganism.",
+            "bm": "Mikroorganisma penyebab penyakit."
+          }
+        },
+        {
+          "term": {
+            "en": "Vector",
+            "bm": "Vektor"
+          },
+          "meaning": {
+            "en": "Animal carrier.",
+            "bm": "Haiwan pembawa."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Vector of dengue?",
+          "bm": "Vektor denggi?"
+        },
+        "answer": {
+          "en": "Aedes mosquito",
+          "bm": "Nyamuk Aedes"
+        }
+      },
+      "tip": {
+        "en": "Break the chain: remove the vector, not only the symptoms.",
+        "bm": "Putuskan rantaian: hapuskan vektor, bukan simptom sahaja."
+      }
+    },
+    "f2sci-04-02": {
+      "keyPoints": [
+        {
+          "en": "Line 1: skin, mucus, cilia, acid.",
+          "bm": "Barisan 1: kulit, mukus, silia, asid."
+        },
+        {
+          "en": "Line 2: phagocytes engulf pathogens.",
+          "bm": "Barisan 2: fagosit menelan patogen."
+        },
+        {
+          "en": "Line 3: lymphocytes make antibodies.",
+          "bm": "Barisan 3: limfosit menghasilkan antibodi."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Antigen",
+            "bm": "Antigen"
+          },
+          "meaning": {
+            "en": "Foreign substance.",
+            "bm": "Bahan asing."
+          }
+        },
+        {
+          "term": {
+            "en": "Antibody",
+            "bm": "Antibodi"
+          },
+          "meaning": {
+            "en": "Fights an antigen.",
+            "bm": "Melawan antigen."
+          }
+        }
+      ],
+      "sections": [
+        {
+          "heading": {
+            "en": "Types of immunity",
+            "bm": "Jenis keimunan"
+          },
+          "points": [
+            {
+              "en": "Natural active: after recovering from a disease.",
+              "bm": "Aktif semula jadi: selepas sembuh daripada penyakit."
+            },
+            {
+              "en": "Artificial active: from a vaccine.",
+              "bm": "Aktif buatan: daripada vaksin."
+            },
+            {
+              "en": "Natural passive: from mother to baby.",
+              "bm": "Pasif semula jadi: daripada ibu kepada bayi."
+            },
+            {
+              "en": "Artificial passive: from an antiserum injection.",
+              "bm": "Pasif buatan: daripada suntikan antiserum."
+            }
+          ]
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Immunity after getting chickenpox?",
+          "bm": "Keimunan selepas cacar air?"
+        },
+        "answer": {
+          "en": "Natural active",
+          "bm": "Aktif semula jadi"
+        }
+      },
+      "tip": {
+        "en": "Active = body makes; passive = body receives.",
+        "bm": "Aktif = badan hasilkan; pasif = badan terima."
+      }
+    }
+  }
+}

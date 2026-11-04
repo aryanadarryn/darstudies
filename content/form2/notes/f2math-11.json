@@ -1,0 +1,313 @@
+{
+  "chapterId": "f2math-11",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-11-01": {
+      "keyPoints": [
+        {
+          "en": "A transformation maps every point to an image.",
+          "bm": "Transformasi memetakan setiap titik kepada imej."
+        },
+        {
+          "en": "Image points are marked with a prime: A′.",
+          "bm": "Titik imej ditanda dengan prima: A′."
+        },
+        {
+          "en": "Congruence means same shape and size.",
+          "bm": "Kekongruenan bermaksud bentuk dan saiz sama."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Image",
+            "bm": "Imej"
+          },
+          "meaning": {
+            "en": "The result of a move.",
+            "bm": "Hasil pergerakan."
+          }
+        },
+        {
+          "term": {
+            "en": "Congruent",
+            "bm": "Kongruen"
+          },
+          "meaning": {
+            "en": "Identical in shape and size.",
+            "bm": "Sama bentuk dan saiz."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Do congruent shapes need the same position?",
+          "bm": "Adakah bentuk kongruen perlu kedudukan sama?"
+        },
+        "answer": {
+          "en": "No",
+          "bm": "Tidak"
+        }
+      },
+      "tip": {
+        "en": "Trace paper can help you test moves.",
+        "bm": "Kertas surih boleh membantu menguji pergerakan."
+      }
+    },
+    "f2math-11-02": {
+      "keyPoints": [
+        {
+          "en": "Every point moves the same distance and direction.",
+          "bm": "Setiap titik bergerak sama jarak dan arah."
+        },
+        {
+          "en": "Vector (a, b): a horizontal, b vertical.",
+          "bm": "Vektor (a, b): a mengufuk, b mencancang."
+        },
+        {
+          "en": "Add the vector to find the image.",
+          "bm": "Tambah vektor untuk mencari imej."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Vector",
+            "bm": "Vektor"
+          },
+          "meaning": {
+            "en": "Size and direction of a move.",
+            "bm": "Magnitud dan arah pergerakan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/translation.svg",
+          "alt": {
+            "en": "Translation by the vector (6, 3).",
+            "bm": "Translasi dengan vektor (6, 3)."
+          },
+          "caption": {
+            "en": "Translation by the vector (6, 3).",
+            "bm": "Translasi dengan vektor (6, 3)."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(1, 1) by (2, 3)?",
+          "bm": "(1, 1) dengan (2, 3)?"
+        },
+        "answer": {
+          "en": "(3, 4)",
+          "bm": "(3, 4)"
+        }
+      },
+      "tip": {
+        "en": "Vector = image − object.",
+        "bm": "Vektor = imej − objek."
+      }
+    },
+    "f2math-11-03": {
+      "keyPoints": [
+        {
+          "en": "Object and image are equal distances from the axis.",
+          "bm": "Objek dan imej sama jarak dari paksi."
+        },
+        {
+          "en": "The orientation flips.",
+          "bm": "Orientasi terbalik."
+        },
+        {
+          "en": "Line joining point and image is perpendicular to the axis.",
+          "bm": "Garis menyambung titik dan imej serenjang dengan paksi."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Axis of reflection",
+            "bm": "Paksi pantulan"
+          },
+          "meaning": {
+            "en": "The mirror line.",
+            "bm": "Garis cermin."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/reflection.svg",
+          "alt": {
+            "en": "Reflection in the y-axis.",
+            "bm": "Pantulan pada paksi-y."
+          },
+          "caption": {
+            "en": "Reflection in the y-axis.",
+            "bm": "Pantulan pada paksi-y."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(2, 5) in the x-axis?",
+          "bm": "(2, 5) pada paksi-x?"
+        },
+        "answer": {
+          "en": "(2, −5)",
+          "bm": "(2, −5)"
+        }
+      },
+      "tip": {
+        "en": "Count squares to the axis, then the same again beyond it.",
+        "bm": "Kira petak ke paksi, kemudian bilangan yang sama melepasinya."
+      }
+    },
+    "f2math-11-04": {
+      "keyPoints": [
+        {
+          "en": "State the centre, angle and direction.",
+          "bm": "Nyatakan pusat, sudut dan arah."
+        },
+        {
+          "en": "Distance from the centre stays the same.",
+          "bm": "Jarak dari pusat kekal."
+        },
+        {
+          "en": "A 180° turn needs no direction.",
+          "bm": "Putaran 180° tidak memerlukan arah."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Centre of rotation",
+            "bm": "Pusat putaran"
+          },
+          "meaning": {
+            "en": "The fixed point.",
+            "bm": "Titik tetap."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/rotation.svg",
+          "alt": {
+            "en": "Rotation of 90° clockwise about the origin.",
+            "bm": "Putaran 90° ikut jam pada asalan."
+          },
+          "caption": {
+            "en": "Rotation of 90° clockwise about the origin.",
+            "bm": "Putaran 90° ikut jam pada asalan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(1, 0) by 90° anticlockwise?",
+          "bm": "(1, 0) 90° lawan jam?"
+        },
+        "answer": {
+          "en": "(0, 1)",
+          "bm": "(0, 1)"
+        }
+      },
+      "tip": {
+        "en": "Use tracing paper to check a rotation.",
+        "bm": "Gunakan kertas surih untuk menyemak putaran."
+      }
+    },
+    "f2math-11-05": {
+      "keyPoints": [
+        {
+          "en": "Translation, reflection and rotation are isometries.",
+          "bm": "Translasi, pantulan dan putaran ialah isometri."
+        },
+        {
+          "en": "Lengths, angles and area are unchanged.",
+          "bm": "Panjang, sudut dan luas tidak berubah."
+        },
+        {
+          "en": "Enlargement is not an isometry.",
+          "bm": "Pembesaran bukan isometri."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Isometry",
+            "bm": "Isometri"
+          },
+          "meaning": {
+            "en": "Same size and shape.",
+            "bm": "Sama saiz dan bentuk."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Is doubling a shape an isometry?",
+          "bm": "Adakah menggandakan bentuk suatu isometri?"
+        },
+        "answer": {
+          "en": "No",
+          "bm": "Tidak"
+        }
+      },
+      "tip": {
+        "en": "Measure one side before and after to test it.",
+        "bm": "Ukur satu sisi sebelum dan selepas untuk menguji."
+      }
+    },
+    "f2math-11-06": {
+      "keyPoints": [
+        {
+          "en": "Turn the shape through 360° about its centre.",
+          "bm": "Putarkan bentuk 360° pada pusatnya."
+        },
+        {
+          "en": "Count how many times it matches itself.",
+          "bm": "Kira berapa kali ia menepati dirinya."
+        },
+        {
+          "en": "A regular n-gon has order n.",
+          "bm": "Poligon sekata n sisi ada peringkat n."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Order",
+            "bm": "Peringkat"
+          },
+          "meaning": {
+            "en": "Matches in one full turn.",
+            "bm": "Padanan dalam satu pusingan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Order of a regular pentagon?",
+          "bm": "Peringkat pentagon sekata?"
+        },
+        "answer": {
+          "en": "5",
+          "bm": "5"
+        }
+      },
+      "tip": {
+        "en": "Order 1 means no rotational symmetry.",
+        "bm": "Peringkat 1 bermaksud tiada simetri putaran."
+      }
+    }
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "chapterId": "f2math-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Road signs warn of a 10% slope: the road rises 10 m for every 100 m across. That ratio is gradient.",
+      "bm": "Papan tanda memberi amaran cerun 10%: jalan naik 10 m bagi setiap 100 m mengufuk. Nisbah itulah kecerunan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Gradient = vertical distance ÷ horizontal distance.",
+        "bm": "Kecerunan = jarak mencancang ÷ jarak mengufuk."
+      },
+      {
+        "en": "Sign shows direction; size shows steepness.",
+        "bm": "Tanda menunjukkan arah; magnitud menunjukkan kecuraman."
+      },
+      {
+        "en": "Gradients can be found from two points or intercepts.",
+        "bm": "Kecerunan boleh dicari daripada dua titik atau pintasan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Line",
+          "bm": "Garis"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Rises to the right",
+              "bm": "Naik ke kanan"
+            },
+            "detail": {
+              "en": "positive",
+              "bm": "positif"
+            }
+          },
+          {
+            "label": {
+              "en": "Falls to the right",
+              "bm": "Turun ke kanan"
+            },
+            "detail": {
+              "en": "negative",
+              "bm": "negatif"
+            }
+          },
+          {
+            "label": {
+              "en": "Horizontal",
+              "bm": "Mengufuk"
+            },
+            "detail": {
+              "en": "0",
+              "bm": "0"
+            }
+          },
+          {
+            "label": {
+              "en": "Vertical",
+              "bm": "Mencancang"
+            },
+            "detail": {
+              "en": "undefined",
+              "bm": "tidak tertakrif"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Gradient",
+          "bm": "Kecerunan"
+        },
+        "definition": {
+          "en": "The steepness of a line.",
+          "bm": "Kecuraman suatu garis."
+        }
+      },
+      {
+        "term": {
+          "en": "x-intercept",
+          "bm": "Pintasan-x"
+        },
+        "definition": {
+          "en": "Where a line cuts the x-axis.",
+          "bm": "Tempat garis memotong paksi-x."
+        }
+      },
+      {
+        "term": {
+          "en": "y-intercept",
+          "bm": "Pintasan-y"
+        },
+        "definition": {
+          "en": "Where a line cuts the y-axis.",
+          "bm": "Tempat garis memotong paksi-y."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-grad",
+      "f2-grad-int"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the gradient of the line through (1, 2) and (5, 10).",
+        "bm": "Cari kecerunan garis melalui (1, 2) dan (5, 10)."
+      },
+      "steps": [
+        {
+          "en": "(10 − 2) ÷ (5 − 1)",
+          "bm": "(10 − 2) ÷ (5 − 1)"
+        },
+        {
+          "en": "8 ÷ 4",
+          "bm": "8 ÷ 4"
+        }
+      ],
+      "answer": {
+        "en": "2",
+        "bm": "2"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-10-q01",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (1, 2) and (5, 10).",
+        "bm": "Cari kecerunan garis melalui (1, 2) dan (5, 10)."
+      },
+      "explanation": {
+        "en": "(10 − 2) ÷ (5 − 1) = 2.",
+        "bm": "(10 − 2) ÷ (5 − 1) = 2."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q02",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (0, 0) and (4, 12).",
+        "bm": "Cari kecerunan garis melalui (0, 0) dan (4, 12)."
+      },
+      "explanation": {
+        "en": "(12 − 0) ÷ (4 − 0) = 3.",
+        "bm": "(12 − 0) ÷ (4 − 0) = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q03",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (2, 3) and (6, 5).",
+        "bm": "Cari kecerunan garis melalui (2, 3) dan (6, 5)."
+      },
+      "explanation": {
+        "en": "(5 − 3) ÷ (6 − 2) = 0.5.",
+        "bm": "(5 − 3) ÷ (6 − 2) = 0.5."
+      },
+      "difficulty": 2,
+      "answer": 0.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q04",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (1, 8) and (3, 2).",
+        "bm": "Cari kecerunan garis melalui (1, 8) dan (3, 2)."
+      },
+      "explanation": {
+        "en": "(2 − 8) ÷ (3 − 1) = -3.",
+        "bm": "(2 − 8) ÷ (3 − 1) = -3."
+      },
+      "difficulty": 2,
+      "answer": -3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q05",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (-2, 4) and (2, -4).",
+        "bm": "Cari kecerunan garis melalui (-2, 4) dan (2, -4)."
+      },
+      "explanation": {
+        "en": "(-4 − 4) ÷ (2 − -2) = -2.",
+        "bm": "(-4 − 4) ÷ (2 − -2) = -2."
+      },
+      "difficulty": 2,
+      "answer": -2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q06",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the gradient of the line through (-1, -2) and (3, 6).",
+        "bm": "Cari kecerunan garis melalui (-1, -2) dan (3, 6)."
+      },
+      "explanation": {
+        "en": "(6 − -2) ÷ (3 − -1) = 2.",
+        "bm": "(6 − -2) ÷ (3 − -1) = 2."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q07",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A slope rises 12 m over a horizontal distance of 3 m. Find the gradient.",
+        "bm": "Cerun naik 12 m bagi jarak mengufuk 3 m. Cari kecerunan."
+      },
+      "explanation": {
+        "en": "12 ÷ 3 = 4.",
+        "bm": "12 ÷ 3 = 4."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q08",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A slope rises 10 m over a horizontal distance of 2 m. Find the gradient.",
+        "bm": "Cerun naik 10 m bagi jarak mengufuk 2 m. Cari kecerunan."
+      },
+      "explanation": {
+        "en": "10 ÷ 2 = 5.",
+        "bm": "10 ÷ 2 = 5."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q09",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A slope rises 15 m over a horizontal distance of 5 m. Find the gradient.",
+        "bm": "Cerun naik 15 m bagi jarak mengufuk 5 m. Cari kecerunan."
+      },
+      "explanation": {
+        "en": "15 ÷ 5 = 3.",
+        "bm": "15 ÷ 5 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q10",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line has x-intercept 6 and y-intercept 3. Find its gradient.",
+        "bm": "Garis mempunyai pintasan-x 6 dan pintasan-y 3. Cari kecerunannya."
+      },
+      "explanation": {
+        "en": "−(3 ÷ 6) = -0.5.",
+        "bm": "−(3 ÷ 6) = -0.5."
+      },
+      "difficulty": 2,
+      "answer": -0.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q11",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line has x-intercept 8 and y-intercept 4. Find its gradient.",
+        "bm": "Garis mempunyai pintasan-x 8 dan pintasan-y 4. Cari kecerunannya."
+      },
+      "explanation": {
+        "en": "−(4 ÷ 8) = -0.5.",
+        "bm": "−(4 ÷ 8) = -0.5."
+      },
+      "difficulty": 2,
+      "answer": -0.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q12",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line has x-intercept 2 and y-intercept 6. Find its gradient.",
+        "bm": "Garis mempunyai pintasan-x 2 dan pintasan-y 6. Cari kecerunannya."
+      },
+      "explanation": {
+        "en": "−(6 ÷ 2) = -3.",
+        "bm": "−(6 ÷ 2) = -3."
+      },
+      "difficulty": 2,
+      "answer": -3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q13",
+      "subtopicId": "f2math-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A horizontal line has a gradient of…",
+        "bm": "Garis mengufuk mempunyai kecerunan…"
+      },
+      "explanation": {
+        "en": "There is no vertical change.",
+        "bm": "Tiada perubahan mencancang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "−1",
+          "bm": "−1"
+        },
+        {
+          "en": "undefined",
+          "bm": "tidak tertakrif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-10-q14",
+      "subtopicId": "f2math-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A line falling to the right has a…",
+        "bm": "Garis yang turun ke kanan mempunyai…"
+      },
+      "explanation": {
+        "en": "y decreases as x increases.",
+        "bm": "y berkurang apabila x bertambah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "negative gradient",
+          "bm": "kecerunan negatif"
+        },
+        {
+          "en": "positive gradient",
+          "bm": "kecerunan positif"
+        },
+        {
+          "en": "zero gradient",
+          "bm": "kecerunan sifar"
+        },
+        {
+          "en": "undefined gradient",
+          "bm": "kecerunan tidak tertakrif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-10-q15",
+      "subtopicId": "f2math-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which line is the steepest?",
+        "bm": "Garis manakah paling curam?"
+      },
+      "explanation": {
+        "en": "Compare the size of the number, ignoring the sign.",
+        "bm": "Bandingkan magnitud, abaikan tanda."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "m = 0.5",
+          "bm": "m = 0.5"
+        },
+        {
+          "en": "m = −4",
+          "bm": "m = −4"
+        },
+        {
+          "en": "m = 2",
+          "bm": "m = 2"
+        },
+        {
+          "en": "m = 1",
+          "bm": "m = 1"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-10-q16",
+      "subtopicId": "f2math-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The gradient of a vertical line is…",
+        "bm": "Kecerunan garis mencancang ialah…"
+      },
+      "explanation": {
+        "en": "The horizontal change is zero, and we cannot divide by zero.",
+        "bm": "Perubahan mengufuk sifar, dan kita tidak boleh membahagi dengan sifar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "undefined",
+          "bm": "tidak tertakrif"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "infinite speed",
+          "bm": "laju tak terhingga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-10-q17",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The line through (2, k) and (4, 9) has gradient 3. Find k.",
+        "bm": "Garis melalui (2, k) dan (4, 9) mempunyai kecerunan 3. Cari k."
+      },
+      "explanation": {
+        "en": "(9 − k) ÷ 2 = 3, so k = 3.",
+        "bm": "(9 − k) ÷ 2 = 3, maka k = 3."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q18",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line with gradient 2 passes through (1, 3) and (p, 11). Find p.",
+        "bm": "Garis berkecerunan 2 melalui (1, 3) dan (p, 11). Cari p."
+      },
+      "explanation": {
+        "en": "8 ÷ (p − 1) = 2, so p = 5.",
+        "bm": "8 ÷ (p − 1) = 2, maka p = 5."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q19",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A line has gradient −2 and y-intercept 8. Find its x-intercept.",
+        "bm": "Garis berkecerunan −2 dan pintasan-y 8. Cari pintasan-x."
+      },
+      "explanation": {
+        "en": "−(8 ÷ x) = −2, so x = 4.",
+        "bm": "−(8 ÷ x) = −2, maka x = 4."
+      },
+      "difficulty": 3,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-10-q20",
+      "subtopicId": "f2math-10-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A ramp rises 1.5 m along a horizontal distance of 12 m. Find the gradient.",
+        "bm": "Tanjakan naik 1.5 m bagi jarak mengufuk 12 m. Cari kecerunan."
+      },
+      "explanation": {
+        "en": "1.5 ÷ 12 = 0.125.",
+        "bm": "1.5 ÷ 12 = 0.125."
+      },
+      "difficulty": 3,
+      "answer": 0.125,
+      "tolerance": 0.01
+    }
+  ]
+}

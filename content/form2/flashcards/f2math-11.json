@@ -1,0 +1,149 @@
+{
+  "chapterId": "f2math-11",
+  "cards": [
+    {
+      "id": "f2math-11-f01",
+      "subtopicId": "f2math-11-01",
+      "front": {
+        "en": "Transformation",
+        "bm": "Transformasi"
+      },
+      "back": {
+        "en": "A move from an object to an image.",
+        "bm": "Pergerakan dari objek ke imej."
+      }
+    },
+    {
+      "id": "f2math-11-f02",
+      "subtopicId": "f2math-11-01",
+      "front": {
+        "en": "Congruent",
+        "bm": "Kongruen"
+      },
+      "back": {
+        "en": "Same shape and size.",
+        "bm": "Bentuk dan saiz sama."
+      }
+    },
+    {
+      "id": "f2math-11-f03",
+      "subtopicId": "f2math-11-02",
+      "front": {
+        "en": "Translation",
+        "bm": "Translasi"
+      },
+      "back": {
+        "en": "A slide described by a vector (a, b).",
+        "bm": "Gelongsor yang dihuraikan dengan vektor (a, b)."
+      }
+    },
+    {
+      "id": "f2math-11-f04",
+      "subtopicId": "f2math-11-02",
+      "front": {
+        "en": "(a, b) means…",
+        "bm": "(a, b) bermaksud…"
+      },
+      "back": {
+        "en": "a right/left and b up/down.",
+        "bm": "a kanan/kiri dan b atas/bawah."
+      }
+    },
+    {
+      "id": "f2math-11-f05",
+      "subtopicId": "f2math-11-03",
+      "front": {
+        "en": "Reflection in the y-axis",
+        "bm": "Pantulan pada paksi-y"
+      },
+      "back": {
+        "en": "(x, y) → (−x, y)",
+        "bm": "(x, y) → (−x, y)"
+      }
+    },
+    {
+      "id": "f2math-11-f06",
+      "subtopicId": "f2math-11-03",
+      "front": {
+        "en": "Reflection in the x-axis",
+        "bm": "Pantulan pada paksi-x"
+      },
+      "back": {
+        "en": "(x, y) → (x, −y)",
+        "bm": "(x, y) → (x, −y)"
+      }
+    },
+    {
+      "id": "f2math-11-f07",
+      "subtopicId": "f2math-11-04",
+      "front": {
+        "en": "90° clockwise about O",
+        "bm": "90° ikut jam pada O"
+      },
+      "back": {
+        "en": "(x, y) → (y, −x)",
+        "bm": "(x, y) → (y, −x)"
+      }
+    },
+    {
+      "id": "f2math-11-f08",
+      "subtopicId": "f2math-11-04",
+      "front": {
+        "en": "90° anticlockwise about O",
+        "bm": "90° lawan jam pada O"
+      },
+      "back": {
+        "en": "(x, y) → (−y, x)",
+        "bm": "(x, y) → (−y, x)"
+      }
+    },
+    {
+      "id": "f2math-11-f09",
+      "subtopicId": "f2math-11-04",
+      "front": {
+        "en": "180° about O",
+        "bm": "180° pada O"
+      },
+      "back": {
+        "en": "(x, y) → (−x, −y)",
+        "bm": "(x, y) → (−x, −y)"
+      }
+    },
+    {
+      "id": "f2math-11-f10",
+      "subtopicId": "f2math-11-05",
+      "front": {
+        "en": "Isometry",
+        "bm": "Isometri"
+      },
+      "back": {
+        "en": "Keeps all lengths and angles.",
+        "bm": "Mengekalkan semua panjang dan sudut."
+      }
+    },
+    {
+      "id": "f2math-11-f11",
+      "subtopicId": "f2math-11-06",
+      "front": {
+        "en": "Order of rotational symmetry",
+        "bm": "Peringkat simetri putaran"
+      },
+      "back": {
+        "en": "Number of matching positions in one full turn.",
+        "bm": "Bilangan kedudukan sepadan dalam satu pusingan."
+      }
+    },
+    {
+      "id": "f2math-11-f12",
+      "subtopicId": "f2math-11-06",
+      "front": {
+        "en": "Smallest angle of rotation",
+        "bm": "Sudut putaran terkecil"
+      },
+      "back": {
+        "en": "360° ÷ order",
+        "bm": "360° ÷ peringkat"
+      }
+    }
+  ]
+}

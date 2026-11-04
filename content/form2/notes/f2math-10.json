@@ -1,0 +1,73 @@
+{
+  "chapterId": "f2math-10",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-10-01": {
+      "keyPoints": [
+        {
+          "en": "Gradient measures steepness and direction.",
+          "bm": "Kecerunan mengukur kecuraman dan arah."
+        },
+        {
+          "en": "Use the same order of points on top and bottom.",
+          "bm": "Gunakan susunan titik yang sama di atas dan di bawah."
+        },
+        {
+          "en": "Parallel lines have the same gradient.",
+          "bm": "Garis selari mempunyai kecerunan sama."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Gradient",
+            "bm": "Kecerunan"
+          },
+          "meaning": {
+            "en": "Rise over run.",
+            "bm": "Naik per mengufuk."
+          }
+        },
+        {
+          "term": {
+            "en": "Intercept",
+            "bm": "Pintasan"
+          },
+          "meaning": {
+            "en": "Where a line cuts an axis.",
+            "bm": "Tempat garis memotong paksi."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/gradient.svg",
+          "alt": {
+            "en": "Lines with positive and negative gradients.",
+            "bm": "Garis dengan kecerunan positif dan negatif."
+          },
+          "caption": {
+            "en": "Lines with positive and negative gradients.",
+            "bm": "Garis dengan kecerunan positif dan negatif."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(0, 1) and (2, 7)?",
+          "bm": "(0, 1) dan (2, 7)?"
+        },
+        "answer": {
+          "en": "3",
+          "bm": "3"
+        }
+      },
+      "tip": {
+        "en": "If y2 − y1 uses point B first, x2 − x1 must also use B first.",
+        "bm": "Jika y2 − y1 guna titik B dahulu, x2 − x1 juga mesti guna B dahulu."
+      }
+    }
+  }
+}

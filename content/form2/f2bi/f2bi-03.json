@@ -1,0 +1,424 @@
+{
+  "chapterId": "f2bi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Whether booking a ferry or describing a festival, strong vocabulary helps you say what you really mean.",
+      "bm": "Whether booking a ferry or describing a festival, strong vocabulary helps you say what you really mean."
+    },
+    "bigIdeas": [
+      {
+        "en": "Group words by topic to remember them.",
+        "bm": "Group words by topic to remember them."
+      },
+      {
+        "en": "Collocations are words that go together.",
+        "bm": "Collocations are words that go together."
+      },
+      {
+        "en": "Prefixes and suffixes build new words.",
+        "bm": "Prefixes and suffixes build new words."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Word groups",
+          "bm": "Kumpulan kata"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Transport",
+              "bm": "Transport"
+            },
+            "detail": {
+              "en": "ferry, bicycle, platform",
+              "bm": "ferry, bicycle, platform"
+            }
+          },
+          {
+            "label": {
+              "en": "Journey",
+              "bm": "Journey"
+            },
+            "detail": {
+              "en": "departure, arrival, luggage",
+              "bm": "departure, arrival, luggage"
+            }
+          },
+          {
+            "label": {
+              "en": "Culture",
+              "bm": "Culture"
+            },
+            "detail": {
+              "en": "festival, tradition, costume",
+              "bm": "festival, tradition, costume"
+            }
+          },
+          {
+            "label": {
+              "en": "Word building",
+              "bm": "Word building"
+            },
+            "detail": {
+              "en": "un-, re-, -ful, -less",
+              "bm": "un-, re-, -ful, -less"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Collocation",
+          "bm": "Collocation"
+        },
+        "definition": {
+          "en": "Words that usually go together: catch a bus.",
+          "bm": "Words that usually go together: catch a bus."
+        }
+      },
+      {
+        "term": {
+          "en": "Prefix",
+          "bm": "Prefix"
+        },
+        "definition": {
+          "en": "Letters added at the start of a word: un-.",
+          "bm": "Letters added at the start of a word: un-."
+        }
+      },
+      {
+        "term": {
+          "en": "Suffix",
+          "bm": "Suffix"
+        },
+        "definition": {
+          "en": "Letters added at the end of a word: -ful.",
+          "bm": "Letters added at the end of a word: -ful."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-03-q01",
+      "subtopicId": "f2bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You wait for a train on the…",
+        "bm": "You wait for a train on the…"
+      },
+      "explanation": {
+        "en": "Trains stop at a platform.",
+        "bm": "Trains stop at a platform."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "platform",
+          "bm": "platform"
+        },
+        {
+          "en": "runway",
+          "bm": "runway"
+        },
+        {
+          "en": "harbour",
+          "bm": "harbour"
+        },
+        {
+          "en": "deck",
+          "bm": "deck"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q02",
+      "subtopicId": "f2bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A plane takes off from a…",
+        "bm": "A plane takes off from a…"
+      },
+      "explanation": {
+        "en": "Runway is for planes.",
+        "bm": "Runway is for planes."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "runway",
+          "bm": "runway"
+        },
+        {
+          "en": "platform",
+          "bm": "platform"
+        },
+        {
+          "en": "pier",
+          "bm": "pier"
+        },
+        {
+          "en": "jetty",
+          "bm": "jetty"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q03",
+      "subtopicId": "f2bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "We ___ the bus at the last stop.",
+        "bm": "We ___ the bus at the last stop."
+      },
+      "explanation": {
+        "en": "Get off = leave a vehicle.",
+        "bm": "Get off = leave a vehicle."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "got off",
+          "bm": "got off"
+        },
+        {
+          "en": "took off",
+          "bm": "took off"
+        },
+        {
+          "en": "put off",
+          "bm": "put off"
+        },
+        {
+          "en": "turned off",
+          "bm": "turned off"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q04",
+      "subtopicId": "f2bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A special celebration is a…",
+        "bm": "A special celebration is a…"
+      },
+      "explanation": {
+        "en": "Festival = celebration.",
+        "bm": "Festival = celebration."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "festival",
+          "bm": "festival"
+        },
+        {
+          "en": "stadium",
+          "bm": "stadium"
+        },
+        {
+          "en": "menu",
+          "bm": "menu"
+        },
+        {
+          "en": "platform",
+          "bm": "platform"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q05",
+      "subtopicId": "f2bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Baju kurung is a traditional…",
+        "bm": "Baju kurung is a traditional…"
+      },
+      "explanation": {
+        "en": "Clothing.",
+        "bm": "Clothing."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "costume",
+          "bm": "costume"
+        },
+        {
+          "en": "ferry",
+          "bm": "ferry"
+        },
+        {
+          "en": "instrument",
+          "bm": "instrument"
+        },
+        {
+          "en": "meal",
+          "bm": "meal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q06",
+      "subtopicId": "f2bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence shows respect for culture?",
+        "bm": "Which sentence shows respect for culture?"
+      },
+      "explanation": {
+        "en": "Follow local customs.",
+        "bm": "Follow local customs."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "We removed our shoes before entering the temple.",
+          "bm": "We removed our shoes before entering the temple."
+        },
+        {
+          "en": "We shouted in the temple.",
+          "bm": "We shouted in the temple."
+        },
+        {
+          "en": "We ignored the signs.",
+          "bm": "We ignored the signs."
+        },
+        {
+          "en": "We walked on the altar.",
+          "bm": "We walked on the altar."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q07",
+      "subtopicId": "f2bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Unhappy\" uses the prefix…",
+        "bm": "\"Unhappy\" uses the prefix…"
+      },
+      "explanation": {
+        "en": "un- means not.",
+        "bm": "un- means not."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "un-",
+          "bm": "un-"
+        },
+        {
+          "en": "-ful",
+          "bm": "-ful"
+        },
+        {
+          "en": "re-",
+          "bm": "re-"
+        },
+        {
+          "en": "-py",
+          "bm": "-py"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q08",
+      "subtopicId": "f2bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Add a suffix to \"care\" meaning \"without care\".",
+        "bm": "Add a suffix to \"care\" meaning \"without care\"."
+      },
+      "explanation": {
+        "en": "-less means without.",
+        "bm": "-less means without."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "careless",
+          "bm": "careless"
+        },
+        {
+          "en": "careful",
+          "bm": "careful"
+        },
+        {
+          "en": "recare",
+          "bm": "recare"
+        },
+        {
+          "en": "uncare",
+          "bm": "uncare"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q09",
+      "subtopicId": "f2bi-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct word: \"Her ___ surprised us.\"",
+        "bm": "Choose the correct word: \"Her ___ surprised us.\""
+      },
+      "explanation": {
+        "en": "A noun is needed.",
+        "bm": "A noun is needed."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "kindness",
+          "bm": "kindness"
+        },
+        {
+          "en": "kindly",
+          "bm": "kindly"
+        },
+        {
+          "en": "kind",
+          "bm": "kind"
+        },
+        {
+          "en": "unkind",
+          "bm": "unkind"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-03-q10",
+      "subtopicId": "f2bi-03-03",
+      "type": "fill",
+      "prompt": {
+        "en": "Write a word from \"help\" meaning \"giving help\".",
+        "bm": "Write a word from \"help\" meaning \"giving help\"."
+      },
+      "explanation": {
+        "en": "-ful means full of.",
+        "bm": "-ful means full of."
+      },
+      "difficulty": 2,
+      "answer": [
+        "helpful"
+      ]
+    }
+  ]
+}

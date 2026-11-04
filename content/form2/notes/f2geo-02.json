@@ -1,0 +1,196 @@
+{
+  "chapterId": "f2geo-02",
+  "reviewed": false,
+  "subtopics": {
+    "f2geo-02-01": {
+      "keyPoints": [
+        {
+          "en": "Used by planners, hikers and the army.",
+          "bm": "Digunakan oleh perancang, pendaki dan tentera."
+        },
+        {
+          "en": "Has a key, scale and grid.",
+          "bm": "Mempunyai petunjuk, skala dan grid."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Legend",
+            "bm": "Petunjuk"
+          },
+          "meaning": {
+            "en": "Explains map symbols.",
+            "bm": "Menerangkan simbol peta."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Name two parts of a map.",
+          "bm": "Namakan dua bahagian peta."
+        },
+        "answer": {
+          "en": "Key, scale",
+          "bm": "Petunjuk, skala"
+        }
+      },
+      "tip": {
+        "en": "Check the key first.",
+        "bm": "Semak petunjuk dahulu."
+      }
+    },
+    "f2geo-02-02": {
+      "keyPoints": [
+        {
+          "en": "Eastings run north–south and are numbered eastward.",
+          "bm": "Timuran merentang utara–selatan dan bernombor ke timur."
+        },
+        {
+          "en": "Northings run east–west and are numbered northward.",
+          "bm": "Utaraan merentang timur–barat dan bernombor ke utara."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Grid",
+            "bm": "Grid"
+          },
+          "meaning": {
+            "en": "Network of lines on a map.",
+            "bm": "Rangkaian garisan pada peta."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which is read first?",
+          "bm": "Yang mana dibaca dahulu?"
+        },
+        "answer": {
+          "en": "Easting",
+          "bm": "Timuran"
+        }
+      },
+      "tip": {
+        "en": "\"Along the corridor, up the stairs.\"",
+        "bm": "\"Sepanjang koridor, naik tangga.\""
+      }
+    },
+    "f2geo-02-03": {
+      "keyPoints": [
+        {
+          "en": "Four figures: one grid square.",
+          "bm": "Empat angka: satu petak grid."
+        },
+        {
+          "en": "Six figures: one precise point.",
+          "bm": "Enam angka: satu titik tepat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Grid square",
+            "bm": "Petak grid"
+          },
+          "meaning": {
+            "en": "Named by its bottom-left corner.",
+            "bm": "Dinamakan mengikut sudut kiri bawah."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Easting of 482315?",
+          "bm": "Timuran bagi 482315?"
+        },
+        "answer": {
+          "en": "482",
+          "bm": "482"
+        }
+      },
+      "tip": {
+        "en": "Use the bottom-left corner of a square.",
+        "bm": "Gunakan sudut kiri bawah petak."
+      }
+    },
+    "f2geo-02-04": {
+      "keyPoints": [
+        {
+          "en": "Physical: rivers, hills, forests.",
+          "bm": "Fizikal: sungai, bukit, hutan."
+        },
+        {
+          "en": "Cultural: roads, buildings, farms.",
+          "bm": "Budaya: jalan, bangunan, ladang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Relief",
+            "bm": "Relief"
+          },
+          "meaning": {
+            "en": "Shape and height of land.",
+            "bm": "Bentuk dan ketinggian tanah."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Is a dam physical or cultural?",
+          "bm": "Empangan fizikal atau budaya?"
+        },
+        "answer": {
+          "en": "Cultural",
+          "bm": "Budaya"
+        }
+      },
+      "tip": {
+        "en": "Ask whether people made it.",
+        "bm": "Tanya sama ada manusia membinanya."
+      }
+    },
+    "f2geo-02-05": {
+      "keyPoints": [
+        {
+          "en": "Read land use, settlement and transport.",
+          "bm": "Baca guna tanah, petempatan dan pengangkutan."
+        },
+        {
+          "en": "Link them to relief and rivers.",
+          "bm": "Kaitkan dengan relief dan sungai."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Settlement",
+            "bm": "Petempatan"
+          },
+          "meaning": {
+            "en": "Where people live.",
+            "bm": "Tempat tinggal penduduk."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why few roads in steep areas?",
+          "bm": "Mengapa sedikit jalan di kawasan curam?"
+        },
+        "answer": {
+          "en": "Hard and costly to build.",
+          "bm": "Sukar dan mahal dibina."
+        }
+      },
+      "tip": {
+        "en": "Give evidence from the map.",
+        "bm": "Beri bukti daripada peta."
+      }
+    }
+  }
+}

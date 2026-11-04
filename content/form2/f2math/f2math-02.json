@@ -1,0 +1,714 @@
+{
+  "chapterId": "f2math-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Expansion opens the brackets and factorisation closes them again, much like unpacking and repacking a bag so that everything fits.",
+      "bm": "Kembangan membuka kurungan dan pemfaktoran menutupnya semula, seperti membongkar dan mengemas beg supaya semuanya muat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Expanding multiplies every term in one bracket by every term in the other.",
+        "bm": "Kembangan mendarab setiap sebutan dalam satu kurungan dengan setiap sebutan dalam kurungan lain."
+      },
+      {
+        "en": "Factorisation is the reverse of expansion.",
+        "bm": "Pemfaktoran ialah songsangan kembangan."
+      },
+      {
+        "en": "Algebraic fractions follow the same rules as number fractions.",
+        "bm": "Pecahan algebra mengikut peraturan yang sama seperti pecahan nombor."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Expanded",
+            "bm": "Dikembangkan"
+          },
+          {
+            "en": "Factorised",
+            "bm": "Difaktorkan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Common factor",
+              "bm": "Faktor sepunya"
+            },
+            "cells": [
+              {
+                "en": "6x + 9",
+                "bm": "6x + 9"
+              },
+              {
+                "en": "3(2x + 3)",
+                "bm": "3(2x + 3)"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Difference of squares",
+              "bm": "Beza dua kuasa dua"
+            },
+            "cells": [
+              {
+                "en": "x² − 25",
+                "bm": "x² − 25"
+              },
+              {
+                "en": "(x + 5)(x − 5)",
+                "bm": "(x + 5)(x − 5)"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Trinomial",
+              "bm": "Trinomial"
+            },
+            "cells": [
+              {
+                "en": "x² + 5x + 6",
+                "bm": "x² + 5x + 6"
+              },
+              {
+                "en": "(x + 2)(x + 3)",
+                "bm": "(x + 2)(x + 3)"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Expansion",
+          "bm": "Kembangan"
+        },
+        "definition": {
+          "en": "Multiplying out brackets.",
+          "bm": "Mendarab keluar kurungan."
+        }
+      },
+      {
+        "term": {
+          "en": "Factorisation",
+          "bm": "Pemfaktoran"
+        },
+        "definition": {
+          "en": "Writing an expression as a product of factors.",
+          "bm": "Menulis ungkapan sebagai hasil darab faktor."
+        }
+      },
+      {
+        "term": {
+          "en": "HCF",
+          "bm": "FSTB"
+        },
+        "definition": {
+          "en": "Highest common factor of the terms.",
+          "bm": "Faktor sepunya terbesar bagi sebutan."
+        }
+      },
+      {
+        "term": {
+          "en": "Algebraic fraction",
+          "bm": "Pecahan algebra"
+        },
+        "definition": {
+          "en": "A fraction with algebraic terms.",
+          "bm": "Pecahan yang mengandungi sebutan algebra."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-exp-sq",
+      "f2-diff-sq"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Factorise x² + 7x + 12.",
+        "bm": "Faktorkan x² + 7x + 12."
+      },
+      "steps": [
+        {
+          "en": "Find two numbers that multiply to 12 and add to 7.",
+          "bm": "Cari dua nombor yang hasil darabnya 12 dan hasil tambahnya 7."
+        },
+        {
+          "en": "3 and 4 work.",
+          "bm": "3 dan 4 sesuai."
+        }
+      ],
+      "answer": {
+        "en": "(x + 3)(x + 4)",
+        "bm": "(x + 3)(x + 4)"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-02-q01",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Expand (x + 2)(x + 3) = x² + px + q. What is p?",
+        "bm": "Kembangkan (x + 2)(x + 3) = x² + px + q. Berapakah p?"
+      },
+      "explanation": {
+        "en": "p = 2 + (3) = 5.",
+        "bm": "p = 2 + (3) = 5."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q02",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Expand (x + 5)(x + 4) = x² + px + q. What is p?",
+        "bm": "Kembangkan (x + 5)(x + 4) = x² + px + q. Berapakah p?"
+      },
+      "explanation": {
+        "en": "p = 5 + (4) = 9.",
+        "bm": "p = 5 + (4) = 9."
+      },
+      "difficulty": 1,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q03",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Expand (x + 1)(x + 6) = x² + px + q. What is p?",
+        "bm": "Kembangkan (x + 1)(x + 6) = x² + px + q. Berapakah p?"
+      },
+      "explanation": {
+        "en": "p = 1 + (6) = 7.",
+        "bm": "p = 1 + (6) = 7."
+      },
+      "difficulty": 1,
+      "answer": 7,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q04",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Expand (x + 3)(x − 2) = x² + px + q. What is p?",
+        "bm": "Kembangkan (x + 3)(x − 2) = x² + px + q. Berapakah p?"
+      },
+      "explanation": {
+        "en": "p = 3 + (-2) = 1.",
+        "bm": "p = 3 + (-2) = 1."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q05",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Expand (x + 4)(x − 5) = x² + px + q. What is p?",
+        "bm": "Kembangkan (x + 4)(x − 5) = x² + px + q. Berapakah p?"
+      },
+      "explanation": {
+        "en": "p = 4 + (-5) = -1.",
+        "bm": "p = 4 + (-5) = -1."
+      },
+      "difficulty": 1,
+      "answer": -1,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q06",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "(x + 3)(x + 4) = x² + px + q. What is q?",
+        "bm": "(x + 3)(x + 4) = x² + px + q. Berapakah q?"
+      },
+      "explanation": {
+        "en": "q = 3 × (4) = 12.",
+        "bm": "q = 3 × (4) = 12."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q07",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "(x + 2)(x + 7) = x² + px + q. What is q?",
+        "bm": "(x + 2)(x + 7) = x² + px + q. Berapakah q?"
+      },
+      "explanation": {
+        "en": "q = 2 × (7) = 14.",
+        "bm": "q = 2 × (7) = 14."
+      },
+      "difficulty": 1,
+      "answer": 14,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q08",
+      "subtopicId": "f2math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "(x + 6)(x − 3) = x² + px + q. What is q?",
+        "bm": "(x + 6)(x − 3) = x² + px + q. Berapakah q?"
+      },
+      "explanation": {
+        "en": "q = 6 × (-3) = -18.",
+        "bm": "q = 6 × (-3) = -18."
+      },
+      "difficulty": 1,
+      "answer": -18,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-02-q09",
+      "subtopicId": "f2math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Expand (x + 3)².",
+        "bm": "Kembangkan (x + 3)²."
+      },
+      "explanation": {
+        "en": "(x + 3)(x + 3) = x² + 6x + 9.",
+        "bm": "(x + 3)(x + 3) = x² + 6x + 9."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "x² + 9",
+          "bm": "x² + 9"
+        },
+        {
+          "en": "x² + 6x + 9",
+          "bm": "x² + 6x + 9"
+        },
+        {
+          "en": "x² + 3x + 9",
+          "bm": "x² + 3x + 9"
+        },
+        {
+          "en": "2x + 6",
+          "bm": "2x + 6"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q10",
+      "subtopicId": "f2math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Expand 2(3x − 4).",
+        "bm": "Kembangkan 2(3x − 4)."
+      },
+      "explanation": {
+        "en": "Multiply both terms by 2.",
+        "bm": "Darabkan kedua-dua sebutan dengan 2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "6x − 8",
+          "bm": "6x − 8"
+        },
+        {
+          "en": "6x − 4",
+          "bm": "6x − 4"
+        },
+        {
+          "en": "5x − 8",
+          "bm": "5x − 8"
+        },
+        {
+          "en": "6x + 8",
+          "bm": "6x + 8"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-02-q11",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise 4x + 12.",
+        "bm": "Faktorkan 4x + 12."
+      },
+      "explanation": {
+        "en": "The HCF is 4.",
+        "bm": "FSTB ialah 4."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "4(x + 3)",
+          "bm": "4(x + 3)"
+        },
+        {
+          "en": "2(x + 6x)",
+          "bm": "2(x + 6x)"
+        },
+        {
+          "en": "4(x + 12)",
+          "bm": "4(x + 12)"
+        },
+        {
+          "en": "x(4 + 12)",
+          "bm": "x(4 + 12)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-02-q12",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise x² − 49.",
+        "bm": "Faktorkan x² − 49."
+      },
+      "explanation": {
+        "en": "Difference of two squares.",
+        "bm": "Beza dua kuasa dua."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "(x − 7)²",
+          "bm": "(x − 7)²"
+        },
+        {
+          "en": "(x + 7)²",
+          "bm": "(x + 7)²"
+        },
+        {
+          "en": "(x + 7)(x − 7)",
+          "bm": "(x + 7)(x − 7)"
+        },
+        {
+          "en": "x(x − 49)",
+          "bm": "x(x − 49)"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "id": "f2math-02-q13",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise x² + 8x + 15.",
+        "bm": "Faktorkan x² + 8x + 15."
+      },
+      "explanation": {
+        "en": "3 × 5 = 15 and 3 + 5 = 8.",
+        "bm": "3 × 5 = 15 dan 3 + 5 = 8."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "(x + 1)(x + 15)",
+          "bm": "(x + 1)(x + 15)"
+        },
+        {
+          "en": "(x + 3)(x + 5)",
+          "bm": "(x + 3)(x + 5)"
+        },
+        {
+          "en": "(x + 2)(x + 6)",
+          "bm": "(x + 2)(x + 6)"
+        },
+        {
+          "en": "(x − 3)(x − 5)",
+          "bm": "(x − 3)(x − 5)"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q14",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise x² − x − 6.",
+        "bm": "Faktorkan x² − x − 6."
+      },
+      "explanation": {
+        "en": "−3 × 2 = −6 and −3 + 2 = −1.",
+        "bm": "−3 × 2 = −6 dan −3 + 2 = −1."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "(x − 3)(x + 2)",
+          "bm": "(x − 3)(x + 2)"
+        },
+        {
+          "en": "(x + 3)(x − 2)",
+          "bm": "(x + 3)(x − 2)"
+        },
+        {
+          "en": "(x − 6)(x + 1)",
+          "bm": "(x − 6)(x + 1)"
+        },
+        {
+          "en": "(x − 1)(x + 6)",
+          "bm": "(x − 1)(x + 6)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-02-q15",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise 3x² + 6x.",
+        "bm": "Faktorkan 3x² + 6x."
+      },
+      "explanation": {
+        "en": "The HCF is 3x.",
+        "bm": "FSTB ialah 3x."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "3(x² + 6x)",
+          "bm": "3(x² + 6x)"
+        },
+        {
+          "en": "3x(x + 2)",
+          "bm": "3x(x + 2)"
+        },
+        {
+          "en": "x(3x + 2)",
+          "bm": "x(3x + 2)"
+        },
+        {
+          "en": "6x(x + 1)",
+          "bm": "6x(x + 1)"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q16",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise 2x² − 18.",
+        "bm": "Faktorkan 2x² − 18."
+      },
+      "explanation": {
+        "en": "2(x² − 9), then difference of squares.",
+        "bm": "2(x² − 9), kemudian beza dua kuasa dua."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "2(x − 3)²",
+          "bm": "2(x − 3)²"
+        },
+        {
+          "en": "2(x + 3)(x − 3)",
+          "bm": "2(x + 3)(x − 3)"
+        },
+        {
+          "en": "(2x + 3)(x − 6)",
+          "bm": "(2x + 3)(x − 6)"
+        },
+        {
+          "en": "2(x² − 9x)",
+          "bm": "2(x² − 9x)"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q17",
+      "subtopicId": "f2math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Factorise ax + ay + bx + by.",
+        "bm": "Faktorkan ax + ay + bx + by."
+      },
+      "explanation": {
+        "en": "a(x + y) + b(x + y) = (a + b)(x + y).",
+        "bm": "a(x + y) + b(x + y) = (a + b)(x + y)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "(a + b)(x + y)",
+          "bm": "(a + b)(x + y)"
+        },
+        {
+          "en": "ab(x + y)",
+          "bm": "ab(x + y)"
+        },
+        {
+          "en": "(a + x)(b + y)",
+          "bm": "(a + x)(b + y)"
+        },
+        {
+          "en": "xy(a + b)",
+          "bm": "xy(a + b)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-02-q18",
+      "subtopicId": "f2math-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify 1/x + 2/x.",
+        "bm": "Permudahkan 1/x + 2/x."
+      },
+      "explanation": {
+        "en": "Same denominator: add the numerators.",
+        "bm": "Penyebut sama: tambah pengangka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "3/x",
+          "bm": "3/x"
+        },
+        {
+          "en": "3/x²",
+          "bm": "3/x²"
+        },
+        {
+          "en": "2/x",
+          "bm": "2/x"
+        },
+        {
+          "en": "3/2x",
+          "bm": "3/2x"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-02-q19",
+      "subtopicId": "f2math-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify (x² − 4) ÷ (x + 2).",
+        "bm": "Permudahkan (x² − 4) ÷ (x + 2)."
+      },
+      "explanation": {
+        "en": "(x + 2)(x − 2) ÷ (x + 2) = x − 2.",
+        "bm": "(x + 2)(x − 2) ÷ (x + 2) = x − 2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "x + 2",
+          "bm": "x + 2"
+        },
+        {
+          "en": "x − 2",
+          "bm": "x − 2"
+        },
+        {
+          "en": "x − 4",
+          "bm": "x − 4"
+        },
+        {
+          "en": "x² − 2",
+          "bm": "x² − 2"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q20",
+      "subtopicId": "f2math-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify 1/x + 1/(2x).",
+        "bm": "Permudahkan 1/x + 1/(2x)."
+      },
+      "explanation": {
+        "en": "Common denominator 2x: 2/(2x) + 1/(2x) = 3/(2x).",
+        "bm": "Penyebut sepunya 2x: 2/(2x) + 1/(2x) = 3/(2x)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "2/(3x)",
+          "bm": "2/(3x)"
+        },
+        {
+          "en": "3/(2x)",
+          "bm": "3/(2x)"
+        },
+        {
+          "en": "1/(3x)",
+          "bm": "1/(3x)"
+        },
+        {
+          "en": "2/x",
+          "bm": "2/x"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-02-q21",
+      "subtopicId": "f2math-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify (2x/3) × (9/x²).",
+        "bm": "Permudahkan (2x/3) × (9/x²)."
+      },
+      "explanation": {
+        "en": "18x ÷ 3x² = 6/x.",
+        "bm": "18x ÷ 3x² = 6/x."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "6/x",
+          "bm": "6/x"
+        },
+        {
+          "en": "18/x",
+          "bm": "18/x"
+        },
+        {
+          "en": "6x",
+          "bm": "6x"
+        },
+        {
+          "en": "2/(3x)",
+          "bm": "2/(3x)"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

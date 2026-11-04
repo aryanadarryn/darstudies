@@ -1,0 +1,450 @@
+{
+  "chapterId": "f2geo-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Solar panels on school roofs can make clean electricity for classrooms. Green technology turns environmental problems into solutions.",
+      "bm": "Panel solar di bumbung sekolah boleh menjana elektrik bersih untuk kelas. Teknologi hijau menukar masalah alam sekitar kepada penyelesaian."
+    },
+    "bigIdeas": [
+      {
+        "en": "Green technology reduces harm to the environment.",
+        "bm": "Teknologi hijau mengurangkan kemudaratan alam sekitar."
+      },
+      {
+        "en": "Green products save energy and cut waste.",
+        "bm": "Produk hijau menjimatkan tenaga dan mengurangkan sisa."
+      },
+      {
+        "en": "Daily habits can follow green ideas.",
+        "bm": "Tabiat harian boleh mengikut idea hijau."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Green technology",
+          "bm": "Teknologi hijau"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Energy",
+              "bm": "Tenaga"
+            },
+            "detail": {
+              "en": "Solar panels",
+              "bm": "Panel suria"
+            }
+          },
+          {
+            "label": {
+              "en": "Buildings",
+              "bm": "Bangunan"
+            },
+            "detail": {
+              "en": "Natural lighting",
+              "bm": "Pencahayaan semula jadi"
+            }
+          },
+          {
+            "label": {
+              "en": "Transport",
+              "bm": "Pengangkutan"
+            },
+            "detail": {
+              "en": "Electric vehicles",
+              "bm": "Kenderaan elektrik"
+            }
+          },
+          {
+            "label": {
+              "en": "Waste",
+              "bm": "Sisa"
+            },
+            "detail": {
+              "en": "Recycling, composting",
+              "bm": "Kitar semula, kompos"
+            }
+          },
+          {
+            "label": {
+              "en": "Water",
+              "bm": "Air"
+            },
+            "detail": {
+              "en": "Rainwater harvesting",
+              "bm": "Penuaian air hujan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Green technology",
+          "bm": "Teknologi hijau"
+        },
+        "definition": {
+          "en": "Products and methods that protect the environment.",
+          "bm": "Produk dan kaedah yang melindungi alam sekitar."
+        }
+      },
+      {
+        "term": {
+          "en": "Renewable",
+          "bm": "Boleh diperbaharui"
+        },
+        "definition": {
+          "en": "Can be replaced naturally.",
+          "bm": "Boleh diganti secara semula jadi."
+        }
+      },
+      {
+        "term": {
+          "en": "Energy efficiency",
+          "bm": "Kecekapan tenaga"
+        },
+        "definition": {
+          "en": "Doing the same job using less energy.",
+          "bm": "Melakukan kerja sama dengan kurang tenaga."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-10-q01",
+      "subtopicId": "f2geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Green technology aims to…",
+        "bm": "Teknologi hijau bertujuan…"
+      },
+      "explanation": {
+        "en": "It supports sustainability.",
+        "bm": "Ia menyokong kelestarian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reduce harm to the environment",
+          "bm": "mengurangkan kemudaratan alam sekitar"
+        },
+        {
+          "en": "use more coal",
+          "bm": "menggunakan lebih arang batu"
+        },
+        {
+          "en": "produce more waste",
+          "bm": "menghasilkan lebih sisa"
+        },
+        {
+          "en": "cut all forests",
+          "bm": "menebang semua hutan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q02",
+      "subtopicId": "f2geo-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A green product is usually…",
+        "bm": "Produk hijau biasanya…"
+      },
+      "explanation": {
+        "en": "It meets these criteria.",
+        "bm": "Ia menepati kriteria ini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "low in pollution and energy use",
+          "bm": "rendah pencemaran dan tenaga"
+        },
+        {
+          "en": "highly toxic",
+          "bm": "sangat toksik"
+        },
+        {
+          "en": "single-use",
+          "bm": "sekali guna"
+        },
+        {
+          "en": "fuel-hungry",
+          "bm": "kuat bahan api"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q03",
+      "subtopicId": "f2geo-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A green product feature is that it…",
+        "bm": "Ciri produk hijau ialah ia…"
+      },
+      "explanation": {
+        "en": "It reduces waste.",
+        "bm": "Ia mengurangkan sisa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "can be recycled",
+          "bm": "boleh dikitar semula"
+        },
+        {
+          "en": "pollutes rivers",
+          "bm": "mencemarkan sungai"
+        },
+        {
+          "en": "uses more energy",
+          "bm": "menggunakan lebih tenaga"
+        },
+        {
+          "en": "lasts a day",
+          "bm": "tahan sehari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q04",
+      "subtopicId": "f2geo-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An appliance has a 5-star energy label. This means…",
+        "bm": "Peralatan berlabel tenaga 5 bintang bermaksud…"
+      },
+      "explanation": {
+        "en": "More stars means more efficient.",
+        "bm": "Lebih bintang bermakna lebih cekap."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "it uses electricity efficiently",
+          "bm": "ia cekap menggunakan elektrik"
+        },
+        {
+          "en": "it is the biggest",
+          "bm": "ia paling besar"
+        },
+        {
+          "en": "it is the most expensive",
+          "bm": "ia paling mahal"
+        },
+        {
+          "en": "it uses no electricity",
+          "bm": "ia tidak guna elektrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q05",
+      "subtopicId": "f2geo-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a green technology product?",
+        "bm": "Yang manakah produk teknologi hijau?"
+      },
+      "explanation": {
+        "en": "It uses renewable energy.",
+        "bm": "Ia menggunakan tenaga boleh diperbaharui."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Solar panel",
+          "bm": "Panel suria"
+        },
+        {
+          "en": "Diesel generator",
+          "bm": "Penjana diesel"
+        },
+        {
+          "en": "Plastic straw",
+          "bm": "Straw plastik"
+        },
+        {
+          "en": "Coal furnace",
+          "bm": "Relau arang batu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q06",
+      "subtopicId": "f2geo-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "LED lamps are green because they…",
+        "bm": "Lampu LED hijau kerana ia…"
+      },
+      "explanation": {
+        "en": "They are efficient and last long.",
+        "bm": "Ia cekap dan tahan lama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "use less electricity",
+          "bm": "menggunakan kurang elektrik"
+        },
+        {
+          "en": "burn fuel",
+          "bm": "membakar bahan api"
+        },
+        {
+          "en": "last only hours",
+          "bm": "tahan beberapa jam"
+        },
+        {
+          "en": "contain more mercury",
+          "bm": "mengandungi lebih merkuri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q07",
+      "subtopicId": "f2geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Green technology benefits the economy by…",
+        "bm": "Teknologi hijau memberi manfaat ekonomi dengan…"
+      },
+      "explanation": {
+        "en": "New industries also grow.",
+        "bm": "Industri baharu turut berkembang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "lowering energy costs and creating new jobs",
+          "bm": "mengurangkan kos tenaga dan mewujudkan pekerjaan"
+        },
+        {
+          "en": "closing industries",
+          "bm": "menutup industri"
+        },
+        {
+          "en": "raising pollution",
+          "bm": "meningkatkan pencemaran"
+        },
+        {
+          "en": "adding waste",
+          "bm": "menambah sisa"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q08",
+      "subtopicId": "f2geo-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is green technology important for future generations?",
+        "bm": "Mengapa teknologi hijau penting untuk generasi akan datang?"
+      },
+      "explanation": {
+        "en": "This is sustainability.",
+        "bm": "Inilah kelestarian."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It keeps resources and a healthy environment",
+          "bm": "Ia mengekalkan sumber dan persekitaran sihat"
+        },
+        {
+          "en": "It uses all resources now",
+          "bm": "Ia menghabiskan semua sumber sekarang"
+        },
+        {
+          "en": "It removes laws",
+          "bm": "Ia menghapuskan undang-undang"
+        },
+        {
+          "en": "It increases emissions",
+          "bm": "Ia meningkatkan pelepasan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q09",
+      "subtopicId": "f2geo-10-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a green practice at school?",
+        "bm": "Yang manakah amalan hijau di sekolah?"
+      },
+      "explanation": {
+        "en": "It reduces landfill waste.",
+        "bm": "Ia mengurangkan sisa di tapak pelupusan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Composting food waste",
+          "bm": "Mengkompos sisa makanan"
+        },
+        {
+          "en": "Leaving fans on",
+          "bm": "Membiarkan kipas terpasang"
+        },
+        {
+          "en": "Open burning",
+          "bm": "Pembakaran terbuka"
+        },
+        {
+          "en": "Wasting paper",
+          "bm": "Membazir kertas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-10-q10",
+      "subtopicId": "f2geo-10-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rainwater harvesting saves…",
+        "bm": "Penuaian air hujan menjimatkan…"
+      },
+      "explanation": {
+        "en": "It can be used for gardens and toilets.",
+        "bm": "Ia boleh digunakan untuk taman dan tandas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "treated water",
+          "bm": "air terawat"
+        },
+        {
+          "en": "petrol",
+          "bm": "petrol"
+        },
+        {
+          "en": "coal",
+          "bm": "arang batu"
+        },
+        {
+          "en": "paper",
+          "bm": "kertas"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

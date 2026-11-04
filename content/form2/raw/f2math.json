@@ -1,0 +1,429 @@
+{
+  "id": "f2math",
+  "name": {
+    "en": "Mathematics",
+    "bm": "Matematik"
+  },
+  "short": {
+    "en": "Maths",
+    "bm": "Math"
+  },
+  "color": "#0d9488",
+  "source": "Chapter and subtopic titles follow the KSSM Mathematics Form 2 textbook list (13 chapters). Calculated answers are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Patterns and Sequences",
+        "bm": "Pola dan Jujukan"
+      },
+      "theme": {
+        "en": "Numbers and Operations",
+        "bm": "Nombor dan Operasi"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Patterns",
+            "bm": "Pola"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Sequences",
+            "bm": "Jujukan"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Patterns and Sequences",
+            "bm": "Pola dan Jujukan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Factorisation and Algebraic Fractions",
+        "bm": "Pemfaktoran dan Pecahan Algebra"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Expansion",
+            "bm": "Kembangan"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Factorisation",
+            "bm": "Pemfaktoran"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Algebraic Expressions and Laws of Basic Arithmetic Operations",
+            "bm": "Ungkapan Algebra dan Hukum Operasi Asas Aritmetik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Algebraic Formulae",
+        "bm": "Rumus Algebra"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Algebraic Formulae",
+            "bm": "Rumus Algebra"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Polygons",
+        "bm": "Poligon"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Regular Polygons",
+            "bm": "Poligon Sekata"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Interior Angles and Exterior Angles of Polygons",
+            "bm": "Sudut Pedalaman dan Sudut Peluaran Poligon"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Circles",
+        "bm": "Bulatan"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Properties of Circles",
+            "bm": "Sifat Bulatan"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Symmetry and Chords",
+            "bm": "Simetri Perentas"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Circumference and Area of a Circle",
+            "bm": "Lilitan dan Luas Bulatan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Three-Dimensional Geometrical Shapes",
+        "bm": "Bentuk Geometri Tiga Dimensi"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Geometric Properties of Three-Dimensional Shapes",
+            "bm": "Sifat Geometri Bentuk Tiga Dimensi"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Nets of Three-Dimensional Shapes",
+            "bm": "Bentangan Bentuk Tiga Dimensi"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Surface Area of Three-Dimensional Shapes",
+            "bm": "Luas Permukaan Bentuk Tiga Dimensi"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Volume of Three-Dimensional Shapes",
+            "bm": "Isi Padu Bentuk Tiga Dimensi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Coordinates",
+        "bm": "Koordinat"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Distance in the Cartesian Coordinate System",
+            "bm": "Jarak dalam Sistem Koordinat Cartes"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Midpoint in the Cartesian Coordinate System",
+            "bm": "Titik Tengah dalam Sistem Koordinat Cartes"
+          }
+        },
+        {
+          "code": "7.3",
+          "title": {
+            "en": "The Cartesian Coordinate System",
+            "bm": "Sistem Koordinat Cartes"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Graphs of Functions",
+        "bm": "Graf Fungsi"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Functions",
+            "bm": "Fungsi"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Graphs of Functions",
+            "bm": "Graf Fungsi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Speed and Acceleration",
+        "bm": "Laju dan Pecutan"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Speed",
+            "bm": "Laju"
+          }
+        },
+        {
+          "code": "9.2",
+          "title": {
+            "en": "Acceleration",
+            "bm": "Pecutan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Gradient of a Straight Line",
+        "bm": "Kecerunan Garis Lurus"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Gradient",
+            "bm": "Kecerunan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": {
+        "en": "Isometric Transformations",
+        "bm": "Transformasi Isometri"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "11.1",
+          "title": {
+            "en": "Transformations",
+            "bm": "Transformasi"
+          }
+        },
+        {
+          "code": "11.2",
+          "title": {
+            "en": "Translation",
+            "bm": "Translasi"
+          }
+        },
+        {
+          "code": "11.3",
+          "title": {
+            "en": "Reflection",
+            "bm": "Pantulan"
+          }
+        },
+        {
+          "code": "11.4",
+          "title": {
+            "en": "Rotation",
+            "bm": "Putaran"
+          }
+        },
+        {
+          "code": "11.5",
+          "title": {
+            "en": "Translation, Reflection and Rotation as an Isometry",
+            "bm": "Translasi, Pantulan dan Putaran sebagai Isometri"
+          }
+        },
+        {
+          "code": "11.6",
+          "title": {
+            "en": "Rotational Symmetry",
+            "bm": "Simetri Putaran"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": {
+        "en": "Measures of Central Tendencies",
+        "bm": "Sukatan Kecenderungan Memusat"
+      },
+      "theme": {
+        "en": "Statistics and Probability",
+        "bm": "Statistik dan Kebarangkalian"
+      },
+      "subtopics": [
+        {
+          "code": "12.1",
+          "title": {
+            "en": "Measures of Central Tendencies",
+            "bm": "Sukatan Kecenderungan Memusat"
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": {
+        "en": "Simple Probability",
+        "bm": "Kebarangkalian Mudah"
+      },
+      "theme": {
+        "en": "Statistics and Probability",
+        "bm": "Statistik dan Kebarangkalian"
+      },
+      "subtopics": [
+        {
+          "code": "13.1",
+          "title": {
+            "en": "Experimental Probability",
+            "bm": "Kebarangkalian Eksperimen"
+          }
+        },
+        {
+          "code": "13.2",
+          "title": {
+            "en": "Theoretical Probability Involving Equally Likely Outcomes",
+            "bm": "Kebarangkalian Teori yang Melibatkan Kesudahan Sama Boleh Jadi"
+          }
+        },
+        {
+          "code": "13.3",
+          "title": {
+            "en": "Probability of the Complement of an Event",
+            "bm": "Kebarangkalian Peristiwa Pelengkap"
+          }
+        },
+        {
+          "code": "13.4",
+          "title": {
+            "en": "Simple Probability",
+            "bm": "Kebarangkalian Mudah"
+          }
+        }
+      ]
+    }
+  ]
+}

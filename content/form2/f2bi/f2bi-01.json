@@ -1,0 +1,450 @@
+{
+  "chapterId": "f2bi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Have you ever been on a plane? That question uses the present perfect. Tenses tell listeners when things happen.",
+      "bm": "Have you ever been on a plane? That question uses the present perfect. Tenses tell listeners when things happen."
+    },
+    "bigIdeas": [
+      {
+        "en": "Present simple is for habits and facts.",
+        "bm": "Present simple is for habits and facts."
+      },
+      {
+        "en": "Past simple is for finished actions.",
+        "bm": "Past simple is for finished actions."
+      },
+      {
+        "en": "Present perfect links the past to now.",
+        "bm": "Present perfect links the past to now."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Tense",
+          "bm": "Tense"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Present simple",
+              "bm": "Present simple"
+            },
+            "detail": {
+              "en": "She walks to school.",
+              "bm": "She walks to school."
+            }
+          },
+          {
+            "label": {
+              "en": "Present continuous",
+              "bm": "Present continuous"
+            },
+            "detail": {
+              "en": "She is walking now.",
+              "bm": "She is walking now."
+            }
+          },
+          {
+            "label": {
+              "en": "Past simple",
+              "bm": "Past simple"
+            },
+            "detail": {
+              "en": "She walked yesterday.",
+              "bm": "She walked yesterday."
+            }
+          },
+          {
+            "label": {
+              "en": "Past continuous",
+              "bm": "Past continuous"
+            },
+            "detail": {
+              "en": "She was walking at 8.",
+              "bm": "She was walking at 8."
+            }
+          },
+          {
+            "label": {
+              "en": "Present perfect",
+              "bm": "Present perfect"
+            },
+            "detail": {
+              "en": "She has walked here before.",
+              "bm": "She has walked here before."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tense",
+          "bm": "Tense"
+        },
+        "definition": {
+          "en": "The verb form that shows time.",
+          "bm": "The verb form that shows time."
+        }
+      },
+      {
+        "term": {
+          "en": "Irregular verb",
+          "bm": "Irregular verb"
+        },
+        "definition": {
+          "en": "A verb that does not add -ed: go → went.",
+          "bm": "A verb that does not add -ed: go → went."
+        }
+      },
+      {
+        "term": {
+          "en": "Past participle",
+          "bm": "Past participle"
+        },
+        "definition": {
+          "en": "The form used in perfect tenses: seen, written.",
+          "bm": "The form used in perfect tenses: seen, written."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-01-q01",
+      "subtopicId": "f2bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "She ___ to school every day.",
+        "bm": "She ___ to school every day."
+      },
+      "explanation": {
+        "en": "Habit with he/she/it adds -s.",
+        "bm": "Habit with he/she/it adds -s."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "walks",
+          "bm": "walks"
+        },
+        {
+          "en": "walking",
+          "bm": "walking"
+        },
+        {
+          "en": "walk",
+          "bm": "walk"
+        },
+        {
+          "en": "is walk",
+          "bm": "is walk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q02",
+      "subtopicId": "f2bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Look! The bus ___.",
+        "bm": "Look! The bus ___."
+      },
+      "explanation": {
+        "en": "Happening now.",
+        "bm": "Happening now."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "is coming",
+          "bm": "is coming"
+        },
+        {
+          "en": "comes",
+          "bm": "comes"
+        },
+        {
+          "en": "came",
+          "bm": "came"
+        },
+        {
+          "en": "come",
+          "bm": "come"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q03",
+      "subtopicId": "f2bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water ___ at 100 °C.",
+        "bm": "Water ___ at 100 °C."
+      },
+      "explanation": {
+        "en": "A general fact.",
+        "bm": "A general fact."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "boils",
+          "bm": "boils"
+        },
+        {
+          "en": "is boiling",
+          "bm": "is boiling"
+        },
+        {
+          "en": "boiled",
+          "bm": "boiled"
+        },
+        {
+          "en": "boil",
+          "bm": "boil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q04",
+      "subtopicId": "f2bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "We ___ a movie last night.",
+        "bm": "We ___ a movie last night."
+      },
+      "explanation": {
+        "en": "\"Last night\" is finished time.",
+        "bm": "\"Last night\" is finished time."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "watched",
+          "bm": "watched"
+        },
+        {
+          "en": "watch",
+          "bm": "watch"
+        },
+        {
+          "en": "watching",
+          "bm": "watching"
+        },
+        {
+          "en": "have watched",
+          "bm": "have watched"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q05",
+      "subtopicId": "f2bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "I ___ when the phone rang.",
+        "bm": "I ___ when the phone rang."
+      },
+      "explanation": {
+        "en": "A longer action interrupted.",
+        "bm": "A longer action interrupted."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "was sleeping",
+          "bm": "was sleeping"
+        },
+        {
+          "en": "slept",
+          "bm": "slept"
+        },
+        {
+          "en": "sleep",
+          "bm": "sleep"
+        },
+        {
+          "en": "am sleeping",
+          "bm": "am sleeping"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q06",
+      "subtopicId": "f2bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The past of \"go\" is…",
+        "bm": "The past of \"go\" is…"
+      },
+      "explanation": {
+        "en": "Irregular.",
+        "bm": "Irregular."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "went",
+          "bm": "went"
+        },
+        {
+          "en": "goed",
+          "bm": "goed"
+        },
+        {
+          "en": "gone",
+          "bm": "gone"
+        },
+        {
+          "en": "going",
+          "bm": "going"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q07",
+      "subtopicId": "f2bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "I ___ never eaten durian.",
+        "bm": "I ___ never eaten durian."
+      },
+      "explanation": {
+        "en": "I/you/we/they + have.",
+        "bm": "I/you/we/they + have."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "have",
+          "bm": "have"
+        },
+        {
+          "en": "has",
+          "bm": "has"
+        },
+        {
+          "en": "am",
+          "bm": "am"
+        },
+        {
+          "en": "was",
+          "bm": "was"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q08",
+      "subtopicId": "f2bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "He ___ just finished his homework.",
+        "bm": "He ___ just finished his homework."
+      },
+      "explanation": {
+        "en": "He + has.",
+        "bm": "He + has."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "has",
+          "bm": "has"
+        },
+        {
+          "en": "have",
+          "bm": "have"
+        },
+        {
+          "en": "is",
+          "bm": "is"
+        },
+        {
+          "en": "did",
+          "bm": "did"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q09",
+      "subtopicId": "f2bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choose the correct sentence.",
+        "bm": "Choose the correct sentence."
+      },
+      "explanation": {
+        "en": "\"Since\" pairs with present perfect.",
+        "bm": "\"Since\" pairs with present perfect."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "I have lived here since 2020.",
+          "bm": "I have lived here since 2020."
+        },
+        {
+          "en": "I live here since 2020.",
+          "bm": "I live here since 2020."
+        },
+        {
+          "en": "I have live here since 2020.",
+          "bm": "I have live here since 2020."
+        },
+        {
+          "en": "I lived here since 2020 now.",
+          "bm": "I lived here since 2020 now."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-01-q10",
+      "subtopicId": "f2bi-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence uses \"for\" correctly?",
+        "bm": "Which sentence uses \"for\" correctly?"
+      },
+      "explanation": {
+        "en": "\"For\" + a period of time.",
+        "bm": "\"For\" + a period of time."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "She has studied for three hours.",
+          "bm": "She has studied for three hours."
+        },
+        {
+          "en": "She has studied for Monday.",
+          "bm": "She has studied for Monday."
+        },
+        {
+          "en": "She studied for since Monday.",
+          "bm": "She studied for since Monday."
+        },
+        {
+          "en": "She has for studied.",
+          "bm": "She has for studied."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

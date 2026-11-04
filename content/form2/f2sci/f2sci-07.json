@@ -1,0 +1,592 @@
+{
+  "chapterId": "f2sci-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your home is wired in parallel: if one bulb blows, the others stay on. In series, one fault would darken the whole house.",
+      "bm": "Rumah anda didawai secara selari: jika satu mentol terbakar, yang lain tetap menyala. Secara bersiri, satu kerosakan akan menggelapkan seluruh rumah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Current is the flow of charge; V = IR links current, voltage and resistance.",
+        "bm": "Arus ialah pengaliran cas; V = IR menghubungkan arus, voltan dan rintangan."
+      },
+      {
+        "en": "Series and parallel circuits share current and voltage differently.",
+        "bm": "Litar bersiri dan selari berkongsi arus dan voltan secara berbeza."
+      },
+      {
+        "en": "Magnets have north and south poles; like poles repel.",
+        "bm": "Magnet ada kutub utara dan selatan; kutub sama menolak."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Series",
+            "bm": "Bersiri"
+          },
+          {
+            "en": "Parallel",
+            "bm": "Selari"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Current",
+              "bm": "Arus"
+            },
+            "cells": [
+              {
+                "en": "same everywhere",
+                "bm": "sama di semua tempat"
+              },
+              {
+                "en": "splits in branches",
+                "bm": "terbahagi dalam cabang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Voltage",
+              "bm": "Voltan"
+            },
+            "cells": [
+              {
+                "en": "shared",
+                "bm": "dikongsi"
+              },
+              {
+                "en": "same across each branch",
+                "bm": "sama merentasi cabang"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Resistance",
+              "bm": "Rintangan"
+            },
+            "cells": [
+              {
+                "en": "R₁ + R₂",
+                "bm": "R₁ + R₂"
+              },
+              {
+                "en": "smaller than each",
+                "bm": "lebih kecil daripada setiap satu"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Current",
+          "bm": "Arus"
+        },
+        "definition": {
+          "en": "Rate of flow of electric charge, in amperes.",
+          "bm": "Kadar pengaliran cas elektrik, dalam ampere."
+        }
+      },
+      {
+        "term": {
+          "en": "Voltage",
+          "bm": "Voltan"
+        },
+        "definition": {
+          "en": "Energy per charge, in volts.",
+          "bm": "Tenaga per cas, dalam volt."
+        }
+      },
+      {
+        "term": {
+          "en": "Resistance",
+          "bm": "Rintangan"
+        },
+        "definition": {
+          "en": "Opposition to current, in ohms.",
+          "bm": "Halangan kepada arus, dalam ohm."
+        }
+      },
+      {
+        "term": {
+          "en": "Magnetic field",
+          "bm": "Medan magnet"
+        },
+        "definition": {
+          "en": "The region where a magnetic force acts.",
+          "bm": "Kawasan yang dikenakan daya magnet."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-sci-ohm",
+      "f2-sci-series",
+      "f2-sci-parallel"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "A 12 V supply is across a 4 Ω resistor. Find the current.",
+        "bm": "Bekalan 12 V merentasi perintang 4 Ω. Cari arus."
+      },
+      "steps": [
+        {
+          "en": "I = V ÷ R",
+          "bm": "I = V ÷ R"
+        },
+        {
+          "en": "12 ÷ 4",
+          "bm": "12 ÷ 4"
+        }
+      ],
+      "answer": {
+        "en": "3 A",
+        "bm": "3 A"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2sci-07-q01",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Voltage 12 V, resistance 4 Ω. Find the current.",
+        "bm": "Voltan 12 V, rintangan 4 Ω. Cari arus."
+      },
+      "explanation": {
+        "en": "12 ÷ 4 = 3.",
+        "bm": "12 ÷ 4 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q02",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Voltage 6 V, resistance 2 Ω. Find the current.",
+        "bm": "Voltan 6 V, rintangan 2 Ω. Cari arus."
+      },
+      "explanation": {
+        "en": "6 ÷ 2 = 3.",
+        "bm": "6 ÷ 2 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q03",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Voltage 9 V, resistance 3 Ω. Find the current.",
+        "bm": "Voltan 9 V, rintangan 3 Ω. Cari arus."
+      },
+      "explanation": {
+        "en": "9 ÷ 3 = 3.",
+        "bm": "9 ÷ 3 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q04",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Voltage 24 V, resistance 6 Ω. Find the current.",
+        "bm": "Voltan 24 V, rintangan 6 Ω. Cari arus."
+      },
+      "explanation": {
+        "en": "24 ÷ 6 = 4.",
+        "bm": "24 ÷ 6 = 4."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q05",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Current 2 A flows through a 5 Ω resistor. Find the voltage.",
+        "bm": "Arus 2 A melalui perintang 5 Ω. Cari voltan."
+      },
+      "explanation": {
+        "en": "2 × 5 = 10.",
+        "bm": "2 × 5 = 10."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f2sci-07-q06",
+      "subtopicId": "f2sci-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 6 V cell drives 0.5 A through a lamp. Find the resistance.",
+        "bm": "Sel 6 V memacu 0.5 A melalui lampu. Cari rintangan."
+      },
+      "explanation": {
+        "en": "6 ÷ 0.5 = 12.",
+        "bm": "6 ÷ 0.5 = 12."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f2sci-07-q07",
+      "subtopicId": "f2sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which instrument measures current?",
+        "bm": "Alat manakah mengukur arus?"
+      },
+      "explanation": {
+        "en": "An ammeter is connected in series.",
+        "bm": "Ammeter disambung secara bersiri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ammeter",
+          "bm": "Ammeter"
+        },
+        {
+          "en": "Voltmeter",
+          "bm": "Voltmeter"
+        },
+        {
+          "en": "Thermometer",
+          "bm": "Termometer"
+        },
+        {
+          "en": "Barometer",
+          "bm": "Barometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q08",
+      "subtopicId": "f2sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A voltmeter is connected…",
+        "bm": "Voltmeter disambung…"
+      },
+      "explanation": {
+        "en": "It measures the voltage across it.",
+        "bm": "Ia mengukur voltan merentasi komponen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "in parallel with the component",
+          "bm": "selari dengan komponen"
+        },
+        {
+          "en": "in series",
+          "bm": "secara bersiri"
+        },
+        {
+          "en": "to the magnet",
+          "bm": "pada magnet"
+        },
+        {
+          "en": "anywhere with no wires",
+          "bm": "di mana-mana tanpa wayar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q09",
+      "subtopicId": "f2sci-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rubbing a balloon on hair gives it static charge because…",
+        "bm": "Menggosok belon pada rambut memberi cas statik kerana…"
+      },
+      "explanation": {
+        "en": "Only electrons move between the materials.",
+        "bm": "Hanya elektron bergerak antara bahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "electrons are transferred",
+          "bm": "elektron dipindahkan"
+        },
+        {
+          "en": "protons are transferred",
+          "bm": "proton dipindahkan"
+        },
+        {
+          "en": "atoms are destroyed",
+          "bm": "atom dimusnahkan"
+        },
+        {
+          "en": "air is heated",
+          "bm": "udara dipanaskan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q10",
+      "subtopicId": "f2sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Two resistors of 3 Ω and 5 Ω are in series. Find the total resistance.",
+        "bm": "Perintang 3 Ω dan 5 Ω bersiri. Cari jumlah rintangan."
+      },
+      "explanation": {
+        "en": "3 + 5 = 8.",
+        "bm": "3 + 5 = 8."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f2sci-07-q11",
+      "subtopicId": "f2sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Two 6 Ω resistors are in parallel. Find the total resistance.",
+        "bm": "Dua perintang 6 Ω selari. Cari jumlah rintangan."
+      },
+      "explanation": {
+        "en": "1/R = 1/6 + 1/6, so R = 3.",
+        "bm": "1/R = 1/6 + 1/6, maka R = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f2sci-07-q12",
+      "subtopicId": "f2sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 12 V supply is across 2 Ω and 4 Ω in series. Find the current.",
+        "bm": "Bekalan 12 V merentasi 2 Ω dan 4 Ω bersiri. Cari arus."
+      },
+      "explanation": {
+        "en": "R = 6; I = 12 ÷ 6 = 2.",
+        "bm": "R = 6; I = 12 ÷ 6 = 2."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q13",
+      "subtopicId": "f2sci-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 12 V supply is across 3 Ω and 6 Ω in parallel. Find the total current.",
+        "bm": "Bekalan 12 V merentasi 3 Ω dan 6 Ω selari. Cari jumlah arus."
+      },
+      "explanation": {
+        "en": "4 A + 2 A = 6 A.",
+        "bm": "4 A + 2 A = 6 A."
+      },
+      "difficulty": 3,
+      "answer": 6,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f2sci-07-q14",
+      "subtopicId": "f2sci-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a parallel circuit, when one bulb blows…",
+        "bm": "Dalam litar selari, apabila satu mentol terbakar…"
+      },
+      "explanation": {
+        "en": "Each branch has its own path.",
+        "bm": "Setiap cabang ada laluan sendiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the other bulbs stay lit",
+          "bm": "mentol lain tetap menyala"
+        },
+        {
+          "en": "all bulbs go off",
+          "bm": "semua mentol padam"
+        },
+        {
+          "en": "current doubles everywhere",
+          "bm": "arus berganda di semua tempat"
+        },
+        {
+          "en": "the cell explodes",
+          "bm": "sel meletup"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q15",
+      "subtopicId": "f2sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Like magnetic poles…",
+        "bm": "Kutub magnet yang sama…"
+      },
+      "explanation": {
+        "en": "N–N or S–S repel.",
+        "bm": "U–U atau S–S menolak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "repel",
+          "bm": "menolak"
+        },
+        {
+          "en": "attract",
+          "bm": "menarik"
+        },
+        {
+          "en": "stay still",
+          "bm": "tidak bertindak"
+        },
+        {
+          "en": "become electric",
+          "bm": "menjadi elektrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q16",
+      "subtopicId": "f2sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is attracted to a magnet?",
+        "bm": "Yang manakah ditarik oleh magnet?"
+      },
+      "explanation": {
+        "en": "Iron, cobalt and nickel are magnetic.",
+        "bm": "Besi, kobalt dan nikel bersifat magnet."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Iron nail",
+          "bm": "Paku besi"
+        },
+        {
+          "en": "Copper wire",
+          "bm": "Dawai kuprum"
+        },
+        {
+          "en": "Plastic ruler",
+          "bm": "Pembaris plastik"
+        },
+        {
+          "en": "Wooden stick",
+          "bm": "Kayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q17",
+      "subtopicId": "f2sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Magnetic field lines point…",
+        "bm": "Garis medan magnet menghala…"
+      },
+      "explanation": {
+        "en": "Compass needles follow the lines.",
+        "bm": "Jarum kompas mengikut garis itu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "from north to south outside the magnet",
+          "bm": "dari utara ke selatan di luar magnet"
+        },
+        {
+          "en": "from south to north outside the magnet",
+          "bm": "dari selatan ke utara di luar magnet"
+        },
+        {
+          "en": "in circles only",
+          "bm": "dalam bulatan sahaja"
+        },
+        {
+          "en": "nowhere",
+          "bm": "tiada arah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-07-q18",
+      "subtopicId": "f2sci-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "To strengthen an electromagnet, you can…",
+        "bm": "Untuk menguatkan elektromagnet, anda boleh…"
+      },
+      "explanation": {
+        "en": "Both make the field stronger.",
+        "bm": "Kedua-duanya menguatkan medan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "add more coils and increase the current",
+          "bm": "menambah lilitan dan meningkatkan arus"
+        },
+        {
+          "en": "remove the iron core",
+          "bm": "mengeluarkan teras besi"
+        },
+        {
+          "en": "use a lower current",
+          "bm": "mengurangkan arus"
+        },
+        {
+          "en": "use plastic wire",
+          "bm": "menggunakan dawai plastik"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

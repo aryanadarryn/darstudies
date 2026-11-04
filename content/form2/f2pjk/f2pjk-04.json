@@ -1,0 +1,364 @@
+{
+  "chapterId": "f2pjk-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Teenagers often need around 8–10 hours of sleep: your body and brain are still growing.",
+      "bm": "Remaja biasanya memerlukan sekitar 8–10 jam tidur: badan dan otak anda masih membesar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Bodies and emotions change in adolescence.",
+        "bm": "Badan dan emosi berubah semasa remaja."
+      },
+      {
+        "en": "Hygiene becomes more important.",
+        "bm": "Kebersihan menjadi lebih penting."
+      },
+      {
+        "en": "Talking helps manage stress.",
+        "bm": "Bercakap membantu mengurus tekanan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Adolescence",
+          "bm": "Remaja"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Physical",
+              "bm": "Fizikal"
+            },
+            "detail": {
+              "en": "Growth spurts",
+              "bm": "Pertumbuhan pesat"
+            }
+          },
+          {
+            "label": {
+              "en": "Emotional",
+              "bm": "Emosi"
+            },
+            "detail": {
+              "en": "Mood changes",
+              "bm": "Perubahan emosi"
+            }
+          },
+          {
+            "label": {
+              "en": "Social",
+              "bm": "Sosial"
+            },
+            "detail": {
+              "en": "Peer influence",
+              "bm": "Pengaruh rakan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Puberty",
+          "bm": "Akil baligh"
+        },
+        "definition": {
+          "en": "Stage when the body matures.",
+          "bm": "Peringkat badan menjadi matang."
+        }
+      },
+      {
+        "term": {
+          "en": "Stress",
+          "bm": "Tekanan"
+        },
+        "definition": {
+          "en": "The body's response to demands.",
+          "bm": "Tindak balas badan terhadap tuntutan."
+        }
+      },
+      {
+        "term": {
+          "en": "Peer pressure",
+          "bm": "Pengaruh rakan sebaya"
+        },
+        "definition": {
+          "en": "Being influenced by friends.",
+          "bm": "Dipengaruhi oleh rakan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pjk-04-q01",
+      "subtopicId": "f2pjk-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Puberty brings…",
+        "bm": "Akil baligh membawa…"
+      },
+      "explanation": {
+        "en": "It happens at different ages.",
+        "bm": "Ia berlaku pada umur berbeza."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "physical and emotional changes",
+          "bm": "perubahan fizikal dan emosi"
+        },
+        {
+          "en": "no change",
+          "bm": "tiada perubahan"
+        },
+        {
+          "en": "loss of height",
+          "bm": "kehilangan ketinggian"
+        },
+        {
+          "en": "shorter sleep needs only",
+          "bm": "keperluan tidur singkat sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q02",
+      "subtopicId": "f2pjk-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Growth spurts differ between people because…",
+        "bm": "Pertumbuhan pesat berbeza kerana…"
+      },
+      "explanation": {
+        "en": "It is normal.",
+        "bm": "Ia normal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "everyone has their own timing",
+          "bm": "setiap orang ada masa tersendiri"
+        },
+        {
+          "en": "some do not grow",
+          "bm": "ada yang tidak membesar"
+        },
+        {
+          "en": "only boys grow",
+          "bm": "hanya lelaki membesar"
+        },
+        {
+          "en": "only girls grow",
+          "bm": "hanya perempuan membesar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q03",
+      "subtopicId": "f2pjk-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why bathe daily in hot weather?",
+        "bm": "Mengapa mandi setiap hari pada cuaca panas?"
+      },
+      "explanation": {
+        "en": "Keeps skin healthy.",
+        "bm": "Menjaga kesihatan kulit."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "To remove sweat and bacteria",
+          "bm": "Untuk membuang peluh dan bakteria"
+        },
+        {
+          "en": "To gain weight",
+          "bm": "Untuk menambah berat"
+        },
+        {
+          "en": "To sleep less",
+          "bm": "Untuk kurang tidur"
+        },
+        {
+          "en": "To add stress",
+          "bm": "Untuk menambah tekanan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q04",
+      "subtopicId": "f2pjk-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Teeth should be brushed…",
+        "bm": "Gigi perlu diberus…"
+      },
+      "explanation": {
+        "en": "Morning and night.",
+        "bm": "Pagi dan malam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "at least twice a day",
+          "bm": "sekurang-kurangnya dua kali sehari"
+        },
+        {
+          "en": "once a week",
+          "bm": "seminggu sekali"
+        },
+        {
+          "en": "never",
+          "bm": "tidak pernah"
+        },
+        {
+          "en": "only before exams",
+          "bm": "sebelum peperiksaan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q05",
+      "subtopicId": "f2pjk-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Acne is best managed by…",
+        "bm": "Jerawat paling baik diurus dengan…"
+      },
+      "explanation": {
+        "en": "Squeezing spreads bacteria.",
+        "bm": "Memicit menyebarkan bakteria."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "gentle cleaning, not squeezing",
+          "bm": "membersihkan lembut, tidak memicit"
+        },
+        {
+          "en": "squeezing hard",
+          "bm": "memicit kuat"
+        },
+        {
+          "en": "never washing",
+          "bm": "tidak mencuci"
+        },
+        {
+          "en": "using dirty cloths",
+          "bm": "menggunakan kain kotor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q06",
+      "subtopicId": "f2pjk-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A healthy way to handle stress is…",
+        "bm": "Cara sihat mengurus tekanan ialah…"
+      },
+      "explanation": {
+        "en": "Sharing helps.",
+        "bm": "Berkongsi membantu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "talking to someone you trust",
+          "bm": "bercakap dengan orang yang dipercayai"
+        },
+        {
+          "en": "hurting others",
+          "bm": "menyakiti orang lain"
+        },
+        {
+          "en": "skipping all meals",
+          "bm": "tidak makan langsung"
+        },
+        {
+          "en": "staying up all night",
+          "bm": "berjaga sepanjang malam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q07",
+      "subtopicId": "f2pjk-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which supports mental health?",
+        "bm": "Yang manakah menyokong kesihatan mental?"
+      },
+      "explanation": {
+        "en": "Body and mind are linked.",
+        "bm": "Badan dan minda berkait."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Enough sleep and exercise",
+          "bm": "Tidur dan senaman yang cukup"
+        },
+        {
+          "en": "Comparing yourself online all day",
+          "bm": "Membandingkan diri dalam talian sepanjang hari"
+        },
+        {
+          "en": "Avoiding all people always",
+          "bm": "Mengelak semua orang selalu"
+        },
+        {
+          "en": "Skipping meals",
+          "bm": "Tidak makan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-04-q08",
+      "subtopicId": "f2pjk-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A friend talks about wanting to hurt themself. You should…",
+        "bm": "Rakan bercakap tentang ingin mencederakan diri. Anda patut…"
+      },
+      "explanation": {
+        "en": "Getting help is the priority. In Malaysia, Talian Kasih is 15999.",
+        "bm": "Mendapatkan bantuan ialah keutamaan. Di Malaysia, Talian Kasih ialah 15999."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "tell a trusted adult immediately",
+          "bm": "memberitahu orang dewasa dipercayai segera"
+        },
+        {
+          "en": "keep it secret",
+          "bm": "merahsiakannya"
+        },
+        {
+          "en": "joke about it",
+          "bm": "bergurau mengenainya"
+        },
+        {
+          "en": "ignore it",
+          "bm": "mengabaikannya"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

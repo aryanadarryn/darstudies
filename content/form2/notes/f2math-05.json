@@ -1,0 +1,192 @@
+{
+  "chapterId": "f2math-05",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-05-01": {
+      "keyPoints": [
+        {
+          "en": "A circle is all points the same distance from a centre.",
+          "bm": "Bulatan ialah semua titik yang sama jarak dari pusat."
+        },
+        {
+          "en": "Parts: radius, diameter, chord, arc, sector, segment.",
+          "bm": "Bahagian: jejari, diameter, perentas, lengkok, sektor, tembereng."
+        },
+        {
+          "en": "The diameter is the longest chord.",
+          "bm": "Diameter ialah perentas terpanjang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Circumference",
+            "bm": "Lilitan"
+          },
+          "meaning": {
+            "en": "Perimeter of a circle.",
+            "bm": "Perimeter bulatan."
+          }
+        },
+        {
+          "term": {
+            "en": "Arc",
+            "bm": "Lengkok"
+          },
+          "meaning": {
+            "en": "Part of the circumference.",
+            "bm": "Sebahagian lilitan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/circle-parts.svg",
+          "alt": {
+            "en": "Parts of a circle.",
+            "bm": "Bahagian bulatan."
+          },
+          "caption": {
+            "en": "Parts of a circle.",
+            "bm": "Bahagian bulatan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "r = 6 cm. Diameter?",
+          "bm": "j = 6 cm. Diameter?"
+        },
+        "answer": {
+          "en": "12 cm",
+          "bm": "12 cm"
+        }
+      },
+      "tip": {
+        "en": "Do not mix up sector and segment.",
+        "bm": "Jangan keliru antara sektor dengan tembereng."
+      }
+    },
+    "f2math-05-02": {
+      "keyPoints": [
+        {
+          "en": "A diameter perpendicular to a chord bisects it.",
+          "bm": "Diameter yang serenjang dengan perentas membahagi dua sama perentas itu."
+        },
+        {
+          "en": "Equal chords are the same distance from the centre.",
+          "bm": "Perentas sama panjang sama jarak dari pusat."
+        },
+        {
+          "en": "Use Pythagoras with half the chord.",
+          "bm": "Gunakan Pythagoras dengan separuh perentas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Bisect",
+            "bm": "Bahagi dua sama"
+          },
+          "meaning": {
+            "en": "Cut into two equal parts.",
+            "bm": "Potong kepada dua bahagian sama."
+          }
+        },
+        {
+          "term": {
+            "en": "Perpendicular",
+            "bm": "Serenjang"
+          },
+          "meaning": {
+            "en": "Meets at 90°.",
+            "bm": "Bertemu pada 90°."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/chord-sym.svg",
+          "alt": {
+            "en": "A line from the centre, perpendicular to a chord, bisects it.",
+            "bm": "Garis dari pusat yang serenjang dengan perentas membahagi dua sama perentas itu."
+          },
+          "caption": {
+            "en": "A line from the centre, perpendicular to a chord, bisects it.",
+            "bm": "Garis dari pusat yang serenjang dengan perentas membahagi dua sama perentas itu."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "r = 5 cm, 3 cm from centre. Chord?",
+          "bm": "j = 5 cm, 3 cm dari pusat. Perentas?"
+        },
+        "answer": {
+          "en": "8 cm",
+          "bm": "8 cm"
+        }
+      },
+      "tip": {
+        "en": "Halve the chord before using Pythagoras.",
+        "bm": "Bahagi dua perentas sebelum guna Pythagoras."
+      }
+    },
+    "f2math-05-03": {
+      "keyPoints": [
+        {
+          "en": "C = 2πr and A = πr².",
+          "bm": "L = 2πj dan A = πj²."
+        },
+        {
+          "en": "Arc length = (θ/360°) × 2πr.",
+          "bm": "Panjang lengkok = (θ/360°) × 2πj."
+        },
+        {
+          "en": "Sector area = (θ/360°) × πr².",
+          "bm": "Luas sektor = (θ/360°) × πj²."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "π",
+            "bm": "π"
+          },
+          "meaning": {
+            "en": "About 3.142 or 22/7.",
+            "bm": "Kira-kira 3.142 atau 22/7."
+          }
+        },
+        {
+          "term": {
+            "en": "Sector",
+            "bm": "Sektor"
+          },
+          "meaning": {
+            "en": "Pizza-slice region.",
+            "bm": "Rantau seperti hirisan piza."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "r = 7 cm. Area (π = 22/7)?",
+          "bm": "j = 7 cm. Luas (π = 22/7)?"
+        },
+        "answer": {
+          "en": "154 cm²",
+          "bm": "154 cm²"
+        }
+      },
+      "tip": {
+        "en": "Choose π = 22/7 when r is a multiple of 7.",
+        "bm": "Pilih π = 22/7 apabila j gandaan 7."
+      }
+    }
+  }
+}

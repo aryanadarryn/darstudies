@@ -1,0 +1,77 @@
+{
+  "chapterId": "f2ask-02",
+  "cards": [
+    {
+      "id": "f2ask-02-f01",
+      "subtopicId": "f2ask-02-01",
+      "front": {
+        "en": "Algorithm",
+        "bm": "Algoritma"
+      },
+      "back": {
+        "en": "Steps to solve a problem.",
+        "bm": "Langkah menyelesaikan masalah."
+      }
+    },
+    {
+      "id": "f2ask-02-f02",
+      "subtopicId": "f2ask-02-01",
+      "front": {
+        "en": "Diamond symbol",
+        "bm": "Simbol berlian"
+      },
+      "back": {
+        "en": "Decision.",
+        "bm": "Keputusan."
+      }
+    },
+    {
+      "id": "f2ask-02-f03",
+      "subtopicId": "f2ask-02-02",
+      "front": {
+        "en": "Three structures",
+        "bm": "Tiga struktur"
+      },
+      "back": {
+        "en": "Sequence, selection, repetition.",
+        "bm": "Urutan, pilihan, ulangan."
+      }
+    },
+    {
+      "id": "f2ask-02-f04",
+      "subtopicId": "f2ask-02-02",
+      "front": {
+        "en": "Nested if",
+        "bm": "If bersarang"
+      },
+      "back": {
+        "en": "An if inside another if.",
+        "bm": "If di dalam if lain."
+      }
+    },
+    {
+      "id": "f2ask-02-f05",
+      "subtopicId": "f2ask-02-03",
+      "front": {
+        "en": "Trace table",
+        "bm": "Jadual surih"
+      },
+      "back": {
+        "en": "Records variable values step by step.",
+        "bm": "Merekod nilai pemboleh ubah setiap langkah."
+      }
+    },
+    {
+      "id": "f2ask-02-f06",
+      "subtopicId": "f2ask-02-03",
+      "front": {
+        "en": "Boundary testing",
+        "bm": "Ujian sempadan"
+      },
+      "back": {
+        "en": "Testing values at the limit.",
+        "bm": "Menguji nilai pada had."
+      }
+    }
+  ]
+}

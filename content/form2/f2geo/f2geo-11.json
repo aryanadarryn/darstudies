@@ -1,0 +1,450 @@
+{
+  "chapterId": "f2geo-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In fieldwork you leave the classroom and become a real geographer: you measure, interview and map your own area.",
+      "bm": "Dalam kerja lapangan, anda keluar dari kelas dan menjadi ahli geografi sebenar: mengukur, menemu bual dan memetakan kawasan sendiri."
+    },
+    "bigIdeas": [
+      {
+        "en": "Fieldwork begins with a clear issue and objectives.",
+        "bm": "Kerja lapangan bermula dengan isu dan objektif yang jelas."
+      },
+      {
+        "en": "Data comes from observation, interviews, questionnaires and measurement.",
+        "bm": "Data diperoleh melalui pemerhatian, temu bual, soal selidik dan pengukuran."
+      },
+      {
+        "en": "Results are analysed and reported.",
+        "bm": "Dapatan dianalisis dan dilaporkan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Choose a title",
+              "bm": "Pilih tajuk"
+            },
+            "detail": {
+              "en": "Local issue",
+              "bm": "Isu tempatan"
+            }
+          },
+          {
+            "title": {
+              "en": "Set objectives",
+              "bm": "Tetapkan objektif"
+            },
+            "detail": {
+              "en": "What to find out",
+              "bm": "Apa yang dikaji"
+            }
+          },
+          {
+            "title": {
+              "en": "Choose methods",
+              "bm": "Pilih kaedah"
+            },
+            "detail": {
+              "en": "Survey, interview",
+              "bm": "Tinjauan, temu bual"
+            }
+          },
+          {
+            "title": {
+              "en": "Collect and record",
+              "bm": "Kumpul dan rekod"
+            },
+            "detail": {
+              "en": "Tables and notes",
+              "bm": "Jadual dan catatan"
+            }
+          },
+          {
+            "title": {
+              "en": "Analyse",
+              "bm": "Analisis"
+            },
+            "detail": {
+              "en": "Graphs and maps",
+              "bm": "Graf dan peta"
+            }
+          },
+          {
+            "title": {
+              "en": "Report",
+              "bm": "Laporan"
+            },
+            "detail": {
+              "en": "Findings and suggestions",
+              "bm": "Dapatan dan cadangan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Objective",
+          "bm": "Objektif"
+        },
+        "definition": {
+          "en": "What a study aims to find out.",
+          "bm": "Perkara yang ingin dikaji."
+        }
+      },
+      {
+        "term": {
+          "en": "Questionnaire",
+          "bm": "Soal selidik"
+        },
+        "definition": {
+          "en": "Written questions for respondents.",
+          "bm": "Soalan bertulis untuk responden."
+        }
+      },
+      {
+        "term": {
+          "en": "Primary data",
+          "bm": "Data primer"
+        },
+        "definition": {
+          "en": "Data you collect yourself.",
+          "bm": "Data yang dikumpul sendiri."
+        }
+      },
+      {
+        "term": {
+          "en": "Secondary data",
+          "bm": "Data sekunder"
+        },
+        "definition": {
+          "en": "Data from books, reports and websites.",
+          "bm": "Data daripada buku, laporan dan laman web."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-11-q01",
+      "subtopicId": "f2geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good fieldwork title should be…",
+        "bm": "Tajuk kerja lapangan yang baik mestilah…"
+      },
+      "explanation": {
+        "en": "It must be something you can study.",
+        "bm": "Ia mesti boleh dikaji."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "clear and focused on a local issue",
+          "bm": "jelas dan fokus pada isu tempatan"
+        },
+        {
+          "en": "about the entire world",
+          "bm": "tentang seluruh dunia"
+        },
+        {
+          "en": "very vague",
+          "bm": "sangat kabur"
+        },
+        {
+          "en": "without any place",
+          "bm": "tanpa tempat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q02",
+      "subtopicId": "f2geo-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which title suits a fieldwork study?",
+        "bm": "Tajuk manakah sesuai untuk kerja lapangan?"
+      },
+      "explanation": {
+        "en": "It is specific and reachable.",
+        "bm": "Ia khusus dan boleh dicapai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Waste management at Taman Melati",
+          "bm": "Pengurusan sisa di Taman Melati"
+        },
+        {
+          "en": "History of the universe",
+          "bm": "Sejarah alam semesta"
+        },
+        {
+          "en": "All rivers in Asia",
+          "bm": "Semua sungai di Asia"
+        },
+        {
+          "en": "Life on Mars",
+          "bm": "Kehidupan di Marikh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q03",
+      "subtopicId": "f2geo-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Objectives usually start with verbs such as…",
+        "bm": "Objektif biasanya bermula dengan kata kerja seperti…"
+      },
+      "explanation": {
+        "en": "They state actions in the study.",
+        "bm": "Ia menyatakan tindakan kajian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "identify, explain, suggest",
+          "bm": "mengenal pasti, menjelaskan, mencadangkan"
+        },
+        {
+          "en": "sleep, eat, run",
+          "bm": "tidur, makan, lari"
+        },
+        {
+          "en": "always, never",
+          "bm": "sentiasa, tidak pernah"
+        },
+        {
+          "en": "big, small",
+          "bm": "besar, kecil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q04",
+      "subtopicId": "f2geo-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Asking residents questions face to face is called…",
+        "bm": "Menyoal penduduk secara bersemuka dinamakan…"
+      },
+      "explanation": {
+        "en": "It gives detailed answers.",
+        "bm": "Ia memberi jawapan terperinci."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "interview",
+          "bm": "temu bual"
+        },
+        {
+          "en": "observation",
+          "bm": "pemerhatian"
+        },
+        {
+          "en": "measurement",
+          "bm": "pengukuran"
+        },
+        {
+          "en": "mapping",
+          "bm": "pemetaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q05",
+      "subtopicId": "f2geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Data you collect yourself is…",
+        "bm": "Data yang dikumpul sendiri ialah…"
+      },
+      "explanation": {
+        "en": "Reference books are secondary.",
+        "bm": "Buku rujukan ialah sekunder."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "primary data",
+          "bm": "data primer"
+        },
+        {
+          "en": "secondary data",
+          "bm": "data sekunder"
+        },
+        {
+          "en": "fake data",
+          "bm": "data palsu"
+        },
+        {
+          "en": "old data",
+          "bm": "data lama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q06",
+      "subtopicId": "f2geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The best way to show percentage shares is a…",
+        "bm": "Cara terbaik menunjukkan bahagian peratusan ialah…"
+      },
+      "explanation": {
+        "en": "A pie shows parts of a whole.",
+        "bm": "Pai menunjukkan bahagian daripada keseluruhan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pie chart",
+          "bm": "carta pai"
+        },
+        {
+          "en": "line map",
+          "bm": "peta garis"
+        },
+        {
+          "en": "contour",
+          "bm": "kontur"
+        },
+        {
+          "en": "grid reference",
+          "bm": "rujukan grid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q07",
+      "subtopicId": "f2geo-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "30 of 50 respondents agree. What percentage is this?",
+        "bm": "30 daripada 50 responden bersetuju. Berapa peratus?"
+      },
+      "explanation": {
+        "en": "30 ÷ 50 × 100 = 60.",
+        "bm": "30 ÷ 50 × 100 = 60."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0.01,
+      "unit": "%"
+    },
+    {
+      "id": "f2geo-11-q08",
+      "subtopicId": "f2geo-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why use more than one data method?",
+        "bm": "Mengapa guna lebih daripada satu kaedah data?"
+      },
+      "explanation": {
+        "en": "Methods confirm one another.",
+        "bm": "Kaedah saling mengesahkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To check that results are reliable",
+          "bm": "Untuk menyemak kebolehpercayaan dapatan"
+        },
+        {
+          "en": "To save no time",
+          "bm": "Untuk tidak menjimatkan masa"
+        },
+        {
+          "en": "To confuse readers",
+          "bm": "Untuk mengelirukan pembaca"
+        },
+        {
+          "en": "To avoid analysis",
+          "bm": "Untuk mengelak analisis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q09",
+      "subtopicId": "f2geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A report usually ends with…",
+        "bm": "Laporan biasanya berakhir dengan…"
+      },
+      "explanation": {
+        "en": "It sums up the findings.",
+        "bm": "Ia merumuskan dapatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "conclusion and references",
+          "bm": "rumusan dan rujukan"
+        },
+        {
+          "en": "the title",
+          "bm": "tajuk"
+        },
+        {
+          "en": "the objectives only",
+          "bm": "objektif sahaja"
+        },
+        {
+          "en": "a blank page",
+          "bm": "halaman kosong"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-11-q10",
+      "subtopicId": "f2geo-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why acknowledge sources in your report?",
+        "bm": "Mengapa mengakui sumber dalam laporan?"
+      },
+      "explanation": {
+        "en": "It is research integrity.",
+        "bm": "Ini integriti penyelidikan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To be honest and let readers check",
+          "bm": "Untuk jujur dan membolehkan pembaca menyemak"
+        },
+        {
+          "en": "To make it longer",
+          "bm": "Untuk memanjangkannya"
+        },
+        {
+          "en": "It is never required",
+          "bm": "Ia tidak pernah diperlukan"
+        },
+        {
+          "en": "To hide the sources",
+          "bm": "Untuk menyembunyikan sumber"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

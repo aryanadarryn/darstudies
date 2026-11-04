@@ -1,0 +1,526 @@
+{
+  "chapterId": "f2sej-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Kings of the Malay World were seen as god-like, yet the wealth of their kingdoms depended on ordinary farmers, sailors and traders.",
+      "bm": "Raja Alam Melayu dianggap seperti dewa, tetapi kekayaan kerajaan bergantung pada petani, pelaut dan pedagang."
+    },
+    "bigIdeas": [
+      {
+        "en": "Kings held supreme power, helped by officials.",
+        "bm": "Raja memegang kuasa tertinggi, dibantu oleh pegawai."
+      },
+      {
+        "en": "Farming and irrigation fed the people.",
+        "bm": "Pertanian dan pengairan memberi makan rakyat."
+      },
+      {
+        "en": "Spices, forest products and sea products drew foreign traders.",
+        "bm": "Rempah, hasil hutan dan hasil laut menarik pedagang luar."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Economy",
+          "bm": "Ekonomi"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Paddy",
+              "bm": "Padi"
+            },
+            "detail": {
+              "en": "Wet rice and irrigation",
+              "bm": "Padi sawah dan pengairan"
+            }
+          },
+          {
+            "label": {
+              "en": "Spices",
+              "bm": "Rempah"
+            },
+            "detail": {
+              "en": "Pepper, cloves",
+              "bm": "Lada, cengkih"
+            }
+          },
+          {
+            "label": {
+              "en": "Forest goods",
+              "bm": "Hasil hutan"
+            },
+            "detail": {
+              "en": "Camphor, ebony, resin",
+              "bm": "Kapur barus, kayu arang, damar"
+            }
+          },
+          {
+            "label": {
+              "en": "Sea goods",
+              "bm": "Hasil laut"
+            },
+            "detail": {
+              "en": "Pearls, tortoiseshell",
+              "bm": "Mutiara, kulit penyu"
+            }
+          },
+          {
+            "label": {
+              "en": "Mining",
+              "bm": "Perlombongan"
+            },
+            "detail": {
+              "en": "Tin, gold",
+              "bm": "Bijih timah, emas"
+            }
+          },
+          {
+            "label": {
+              "en": "Trade",
+              "bm": "Perdagangan"
+            },
+            "detail": {
+              "en": "Ports and tax",
+              "bm": "Pelabuhan dan cukai"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Devaraja",
+          "bm": "Dewaraja"
+        },
+        "definition": {
+          "en": "The idea of the king as a god-king.",
+          "bm": "Konsep raja sebagai raja-dewa."
+        }
+      },
+      {
+        "term": {
+          "en": "Datu",
+          "bm": "Datu"
+        },
+        "definition": {
+          "en": "A local chief in Srivijaya.",
+          "bm": "Pembesar tempatan di Srivijaya."
+        }
+      },
+      {
+        "term": {
+          "en": "Mahapatih",
+          "bm": "Mahapatih"
+        },
+        "definition": {
+          "en": "Chief minister of Majapahit.",
+          "bm": "Ketua menteri Majapahit."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sej-02-q01",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The highest authority in these kingdoms was the…",
+        "bm": "Pihak berkuasa tertinggi dalam kerajaan ini ialah…"
+      },
+      "explanation": {
+        "en": "The king was central to government.",
+        "bm": "Raja menjadi teras pemerintahan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "king",
+          "bm": "raja"
+        },
+        {
+          "en": "trader",
+          "bm": "pedagang"
+        },
+        {
+          "en": "farmer",
+          "bm": "petani"
+        },
+        {
+          "en": "sailor",
+          "bm": "pelaut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q02",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The devaraja concept in Angkor means…",
+        "bm": "Konsep dewaraja di Angkor bermaksud…"
+      },
+      "explanation": {
+        "en": "This strengthened royal authority.",
+        "bm": "Ini mengukuhkan kuasa raja."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the king was seen as a god-king",
+          "bm": "raja dianggap raja-dewa"
+        },
+        {
+          "en": "the people chose their king by vote",
+          "bm": "rakyat memilih raja melalui undi"
+        },
+        {
+          "en": "no king existed",
+          "bm": "tiada raja"
+        },
+        {
+          "en": "priests were kings",
+          "bm": "pendeta menjadi raja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q03",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Telaga Batu inscription of Srivijaya shows…",
+        "bm": "Prasasti Telaga Batu di Srivijaya menunjukkan…"
+      },
+      "explanation": {
+        "en": "It carries a curse on disloyal officials.",
+        "bm": "Ia mengandungi sumpahan terhadap pegawai yang tidak setia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "officials swore loyalty to the king",
+          "bm": "pegawai bersumpah setia kepada raja"
+        },
+        {
+          "en": "a rice recipe",
+          "bm": "resipi nasi"
+        },
+        {
+          "en": "the first map of Asia",
+          "bm": "peta pertama Asia"
+        },
+        {
+          "en": "a trade with Spain",
+          "bm": "perdagangan dengan Sepanyol"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q04",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gajah Mada held the post of…",
+        "bm": "Gajah Mada memegang jawatan…"
+      },
+      "explanation": {
+        "en": "He was the chief minister of Majapahit.",
+        "bm": "Beliau ketua menteri Majapahit."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mahapatih",
+          "bm": "Mahapatih"
+        },
+        {
+          "en": "Laksamana",
+          "bm": "Laksamana"
+        },
+        {
+          "en": "Sultan",
+          "bm": "Sultan"
+        },
+        {
+          "en": "Syahbandar",
+          "bm": "Syahbandar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q05",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did kings build grand temples?",
+        "bm": "Mengapa raja membina candi besar?"
+      },
+      "explanation": {
+        "en": "Religion and rule were linked.",
+        "bm": "Agama dan pemerintahan berkait."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To show power and legitimacy",
+          "bm": "Untuk menunjukkan kuasa dan keabsahan"
+        },
+        {
+          "en": "To store rice",
+          "bm": "Untuk menyimpan padi"
+        },
+        {
+          "en": "To keep ships",
+          "bm": "Untuk menyimpan kapal"
+        },
+        {
+          "en": "To mine tin",
+          "bm": "Untuk melombong bijih timah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q06",
+      "subtopicId": "f2sej-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A lesson from wise leaders of these kingdoms for today is…",
+        "bm": "Iktibar daripada pemimpin bijaksana kerajaan ini untuk masa kini ialah…"
+      },
+      "explanation": {
+        "en": "DSKP links leadership to prosperity.",
+        "bm": "DSKP mengaitkan kepimpinan dengan kemakmuran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "good organisation brings national prosperity",
+          "bm": "organisasi yang baik membawa kemakmuran negara"
+        },
+        {
+          "en": "trade should be stopped",
+          "bm": "perdagangan perlu dihentikan"
+        },
+        {
+          "en": "farming is useless",
+          "bm": "pertanian tidak berguna"
+        },
+        {
+          "en": "officials are not needed",
+          "bm": "pegawai tidak diperlukan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q07",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The main crop of agrarian kingdoms was…",
+        "bm": "Tanaman utama kerajaan agraria ialah…"
+      },
+      "explanation": {
+        "en": "Wet rice grew in river plains.",
+        "bm": "Padi sawah ditanam di dataran sungai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "paddy",
+          "bm": "padi"
+        },
+        {
+          "en": "wheat",
+          "bm": "gandum"
+        },
+        {
+          "en": "rubber",
+          "bm": "getah"
+        },
+        {
+          "en": "oil palm",
+          "bm": "kelapa sawit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q08",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which was a forest product traded?",
+        "bm": "Yang manakah hasil hutan yang didagangkan?"
+      },
+      "explanation": {
+        "en": "Camphor from Barus was famous.",
+        "bm": "Kapur barus dari Barus terkenal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Camphor",
+          "bm": "Kapur barus"
+        },
+        {
+          "en": "Salt",
+          "bm": "Garam"
+        },
+        {
+          "en": "Glass",
+          "bm": "Kaca"
+        },
+        {
+          "en": "Silk",
+          "bm": "Sutera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q09",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Foreign traders came mainly for…",
+        "bm": "Pedagang luar datang terutamanya untuk…"
+      },
+      "explanation": {
+        "en": "These goods had high value in distant markets.",
+        "bm": "Barang ini bernilai tinggi di pasaran jauh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "spices and forest goods",
+          "bm": "rempah dan hasil hutan"
+        },
+        {
+          "en": "oil",
+          "bm": "minyak"
+        },
+        {
+          "en": "coal",
+          "bm": "arang batu"
+        },
+        {
+          "en": "cars",
+          "bm": "kereta"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q10",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Barays at Angkor were used to…",
+        "bm": "Baray di Angkor digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Allowed more than one rice crop.",
+        "bm": "Membolehkan lebih daripada satu musim padi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "store water for irrigation",
+          "bm": "menyimpan air untuk pengairan"
+        },
+        {
+          "en": "keep elephants",
+          "bm": "memelihara gajah"
+        },
+        {
+          "en": "build ships",
+          "bm": "membina kapal"
+        },
+        {
+          "en": "mine gold",
+          "bm": "melombong emas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q11",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why did Srivijaya collect port taxes?",
+        "bm": "Mengapa Srivijaya mengutip cukai pelabuhan?"
+      },
+      "explanation": {
+        "en": "Trade income supported the state.",
+        "bm": "Hasil perdagangan menyokong negara."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To fund administration and a navy",
+          "bm": "Untuk membiayai pentadbiran dan angkatan laut"
+        },
+        {
+          "en": "To stop all trade",
+          "bm": "Untuk menghentikan semua perdagangan"
+        },
+        {
+          "en": "To pay China's army",
+          "bm": "Untuk membayar tentera China"
+        },
+        {
+          "en": "To grow rice",
+          "bm": "Untuk menanam padi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-02-q12",
+      "subtopicId": "f2sej-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which pairing is correct?",
+        "bm": "Pasangan manakah betul?"
+      },
+      "explanation": {
+        "en": "Angkor relied on rice; Srivijaya relied on sea trade.",
+        "bm": "Angkor bergantung pada padi; Srivijaya pada perdagangan laut."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Agrarian: Angkor; maritime: Srivijaya",
+          "bm": "Agraria: Angkor; maritim: Srivijaya"
+        },
+        {
+          "en": "Agrarian: Funan only; maritime: Angkor",
+          "bm": "Agraria: Funan sahaja; maritim: Angkor"
+        },
+        {
+          "en": "Agrarian: Srivijaya; maritime: Angkor",
+          "bm": "Agraria: Srivijaya; maritim: Angkor"
+        },
+        {
+          "en": "Both Angkor",
+          "bm": "Kedua-duanya Angkor"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

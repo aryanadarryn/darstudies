@@ -1,0 +1,172 @@
+{
+  "chapterId": "f2math-07",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-07-01": {
+      "keyPoints": [
+        {
+          "en": "Horizontal distance: difference in x.",
+          "bm": "Jarak mengufuk: beza x."
+        },
+        {
+          "en": "Vertical distance: difference in y.",
+          "bm": "Jarak mencancang: beza y."
+        },
+        {
+          "en": "Otherwise use Pythagoras' theorem.",
+          "bm": "Selain itu, gunakan teorem Pythagoras."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Distance",
+            "bm": "Jarak"
+          },
+          "meaning": {
+            "en": "Length between two points.",
+            "bm": "Panjang antara dua titik."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/distance.svg",
+          "alt": {
+            "en": "The distance AB is the hypotenuse of a right-angled triangle.",
+            "bm": "Jarak AB ialah hipotenus segi tiga bersudut tegak."
+          },
+          "caption": {
+            "en": "The distance AB is the hypotenuse of a right-angled triangle.",
+            "bm": "Jarak AB ialah hipotenus segi tiga bersudut tegak."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(0, 0) to (5, 12)?",
+          "bm": "(0, 0) ke (5, 12)?"
+        },
+        "answer": {
+          "en": "13 units",
+          "bm": "13 unit"
+        }
+      },
+      "tip": {
+        "en": "Squaring removes negative signs, but subtract carefully first.",
+        "bm": "Kuasa dua membuang tanda negatif, tetapi tolak dengan teliti dahulu."
+      }
+    },
+    "f2math-07-02": {
+      "keyPoints": [
+        {
+          "en": "Add the x-coordinates and halve.",
+          "bm": "Tambah koordinat-x dan bahagi dua."
+        },
+        {
+          "en": "Add the y-coordinates and halve.",
+          "bm": "Tambah koordinat-y dan bahagi dua."
+        },
+        {
+          "en": "Work backwards to find a missing endpoint.",
+          "bm": "Kerja ke belakang untuk mencari hujung yang hilang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Midpoint",
+            "bm": "Titik tengah"
+          },
+          "meaning": {
+            "en": "Halfway point.",
+            "bm": "Titik separuh jalan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/midpoint.svg",
+          "alt": {
+            "en": "M is the midpoint of AB.",
+            "bm": "M ialah titik tengah AB."
+          },
+          "caption": {
+            "en": "M is the midpoint of AB.",
+            "bm": "M ialah titik tengah AB."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "(2, 6) and (4, 10)?",
+          "bm": "(2, 6) dan (4, 10)?"
+        },
+        "answer": {
+          "en": "(3, 8)",
+          "bm": "(3, 8)"
+        }
+      },
+      "tip": {
+        "en": "Midpoint formula adds; distance formula subtracts.",
+        "bm": "Rumus titik tengah menambah; rumus jarak menolak."
+      }
+    },
+    "f2math-07-03": {
+      "keyPoints": [
+        {
+          "en": "The plane has four quadrants.",
+          "bm": "Satah mempunyai empat sukuan."
+        },
+        {
+          "en": "Use distance and midpoint together in problems.",
+          "bm": "Gunakan jarak dan titik tengah bersama dalam masalah."
+        },
+        {
+          "en": "Coordinates can find perimeter and area.",
+          "bm": "Koordinat boleh digunakan untuk mencari perimeter dan luas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Cartesian plane",
+            "bm": "Satah Cartes"
+          },
+          "meaning": {
+            "en": "Grid with x- and y-axes.",
+            "bm": "Grid dengan paksi-x dan paksi-y."
+          }
+        },
+        {
+          "term": {
+            "en": "Quadrant",
+            "bm": "Sukuan"
+          },
+          "meaning": {
+            "en": "One of four regions.",
+            "bm": "Satu daripada empat rantau."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Sides of a square from (0, 0) to (4, 0)?",
+          "bm": "Sisi segi empat sama dari (0, 0) ke (4, 0)?"
+        },
+        "answer": {
+          "en": "4 units",
+          "bm": "4 unit"
+        }
+      },
+      "tip": {
+        "en": "Always sketch the points first.",
+        "bm": "Sentiasa lakar titik-titik itu dahulu."
+      }
+    }
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "chapterId": "f2sci-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A long spanner undoes a stuck nut because force times distance gives a bigger turning effect. Science makes hard jobs easier.",
+      "bm": "Spanar panjang membuka nat yang ketat kerana daya didarab jarak memberi kesan putaran lebih besar. Sains memudahkan kerja sukar."
+    },
+    "bigIdeas": [
+      {
+        "en": "A force is a push or pull measured in newtons.",
+        "bm": "Daya ialah tolakan atau tarikan yang diukur dalam newton."
+      },
+      {
+        "en": "Forces can change shape, speed or direction.",
+        "bm": "Daya boleh mengubah bentuk, laju atau arah."
+      },
+      {
+        "en": "Moment = force × perpendicular distance.",
+        "bm": "Momen = daya × jarak serenjang."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Types of force",
+          "bm": "Jenis daya"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Weight",
+              "bm": "Berat"
+            },
+            "detail": {
+              "en": "Pull of gravity",
+              "bm": "Tarikan graviti"
+            }
+          },
+          {
+            "label": {
+              "en": "Friction",
+              "bm": "Geseran"
+            },
+            "detail": {
+              "en": "Opposes motion",
+              "bm": "Menentang gerakan"
+            }
+          },
+          {
+            "label": {
+              "en": "Normal reaction",
+              "bm": "Tindak balas normal"
+            },
+            "detail": {
+              "en": "Push from a surface",
+              "bm": "Tolakan dari permukaan"
+            }
+          },
+          {
+            "label": {
+              "en": "Buoyant force",
+              "bm": "Daya apung"
+            },
+            "detail": {
+              "en": "Upward in a fluid",
+              "bm": "Ke atas dalam bendalir"
+            }
+          },
+          {
+            "label": {
+              "en": "Tension",
+              "bm": "Tegangan"
+            },
+            "detail": {
+              "en": "Force in a rope",
+              "bm": "Daya dalam tali"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Force",
+          "bm": "Daya"
+        },
+        "definition": {
+          "en": "A push or a pull, in newtons (N).",
+          "bm": "Tolakan atau tarikan, dalam newton (N)."
+        }
+      },
+      {
+        "term": {
+          "en": "Weight",
+          "bm": "Berat"
+        },
+        "definition": {
+          "en": "Gravitational pull on a mass.",
+          "bm": "Tarikan graviti terhadap jisim."
+        }
+      },
+      {
+        "term": {
+          "en": "Moment",
+          "bm": "Momen"
+        },
+        "definition": {
+          "en": "Turning effect of a force.",
+          "bm": "Kesan putaran suatu daya."
+        }
+      },
+      {
+        "term": {
+          "en": "Pressure",
+          "bm": "Tekanan"
+        },
+        "definition": {
+          "en": "Force per unit area.",
+          "bm": "Daya per unit luas."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-sci-weight",
+      "f2-sci-moment",
+      "f2-sci-pressure"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the weight of a 50 kg student (g = 10 N/kg).",
+        "bm": "Cari berat murid 50 kg (g = 10 N/kg)."
+      },
+      "steps": [
+        {
+          "en": "W = mg",
+          "bm": "W = mg"
+        },
+        {
+          "en": "50 × 10",
+          "bm": "50 × 10"
+        }
+      ],
+      "answer": {
+        "en": "500 N",
+        "bm": "500 N"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2sci-08-q01",
+      "subtopicId": "f2sci-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the weight of a 50 kg object (g = 10 N/kg).",
+        "bm": "Cari berat objek 50 kg (g = 10 N/kg)."
+      },
+      "explanation": {
+        "en": "50 × 10 = 500.",
+        "bm": "50 × 10 = 500."
+      },
+      "difficulty": 1,
+      "answer": 500,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f2sci-08-q02",
+      "subtopicId": "f2sci-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the weight of a 12 kg object (g = 10 N/kg).",
+        "bm": "Cari berat objek 12 kg (g = 10 N/kg)."
+      },
+      "explanation": {
+        "en": "12 × 10 = 120.",
+        "bm": "12 × 10 = 120."
+      },
+      "difficulty": 2,
+      "answer": 120,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f2sci-08-q03",
+      "subtopicId": "f2sci-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the weight of a 0.5 kg object (g = 10 N/kg).",
+        "bm": "Cari berat objek 0.5 kg (g = 10 N/kg)."
+      },
+      "explanation": {
+        "en": "0.5 × 10 = 5.",
+        "bm": "0.5 × 10 = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f2sci-08-q04",
+      "subtopicId": "f2sci-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 60 kg astronaut is on the Moon, where g = 1.6 N/kg. Find the weight.",
+        "bm": "Angkasawan 60 kg di Bulan dengan g = 1.6 N/kg. Cari berat."
+      },
+      "explanation": {
+        "en": "60 × 1.6 = 96.",
+        "bm": "60 × 1.6 = 96."
+      },
+      "difficulty": 3,
+      "answer": 96,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f2sci-08-q05",
+      "subtopicId": "f2sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The SI unit of force is the…",
+        "bm": "Unit SI bagi daya ialah…"
+      },
+      "explanation": {
+        "en": "Named after Isaac Newton.",
+        "bm": "Dinamakan sempena Isaac Newton."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "newton",
+          "bm": "newton"
+        },
+        {
+          "en": "joule",
+          "bm": "joule"
+        },
+        {
+          "en": "watt",
+          "bm": "watt"
+        },
+        {
+          "en": "kilogram",
+          "bm": "kilogram"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q06",
+      "subtopicId": "f2sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which force slows a sliding box?",
+        "bm": "Daya manakah memperlahankan kotak yang menggelongsor?"
+      },
+      "explanation": {
+        "en": "Friction opposes motion.",
+        "bm": "Geseran menentang gerakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Friction",
+          "bm": "Geseran"
+        },
+        {
+          "en": "Weight",
+          "bm": "Berat"
+        },
+        {
+          "en": "Buoyancy",
+          "bm": "Daya apung"
+        },
+        {
+          "en": "Magnetism",
+          "bm": "Kemagnetan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q07",
+      "subtopicId": "f2sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mass and weight differ because…",
+        "bm": "Jisim dan berat berbeza kerana…"
+      },
+      "explanation": {
+        "en": "Weight depends on gravity.",
+        "bm": "Berat bergantung pada graviti."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mass stays the same; weight changes with gravity",
+          "bm": "jisim kekal; berat berubah mengikut graviti"
+        },
+        {
+          "en": "they are always equal",
+          "bm": "kedua-duanya sentiasa sama"
+        },
+        {
+          "en": "weight is in kg",
+          "bm": "berat dalam kg"
+        },
+        {
+          "en": "mass changes on the Moon",
+          "bm": "jisim berubah di Bulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q08",
+      "subtopicId": "f2sci-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A boat floats because…",
+        "bm": "Bot terapung kerana…"
+      },
+      "explanation": {
+        "en": "The forces are balanced.",
+        "bm": "Daya-daya seimbang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "buoyant force balances its weight",
+          "bm": "daya apung mengimbangi beratnya"
+        },
+        {
+          "en": "it has no mass",
+          "bm": "ia tiada jisim"
+        },
+        {
+          "en": "water has no force",
+          "bm": "air tiada daya"
+        },
+        {
+          "en": "friction lifts it",
+          "bm": "geseran mengangkatnya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q09",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 20 N force acts 0.5 m from a pivot. Find the moment.",
+        "bm": "Daya 20 N bertindak 0.5 m dari fulkrum. Cari momen."
+      },
+      "explanation": {
+        "en": "20 × 0.5 = 10.",
+        "bm": "20 × 0.5 = 10."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "N m"
+    },
+    {
+      "id": "f2sci-08-q10",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 15 N force acts 0.4 m from a pivot. Find the moment.",
+        "bm": "Daya 15 N bertindak 0.4 m dari fulkrum. Cari momen."
+      },
+      "explanation": {
+        "en": "15 × 0.4 = 6.",
+        "bm": "15 × 0.4 = 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0.01,
+      "unit": "N m"
+    },
+    {
+      "id": "f2sci-08-q11",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 40 N force acts 1.5 m from a pivot. Find the moment.",
+        "bm": "Daya 40 N bertindak 1.5 m dari fulkrum. Cari momen."
+      },
+      "explanation": {
+        "en": "40 × 1.5 = 60.",
+        "bm": "40 × 1.5 = 60."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0.01,
+      "unit": "N m"
+    },
+    {
+      "id": "f2sci-08-q12",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A force of 100 N acts on 2 m². Find the pressure.",
+        "bm": "Daya 100 N bertindak pada 2 m². Cari tekanan."
+      },
+      "explanation": {
+        "en": "100 ÷ 2 = 50.",
+        "bm": "100 ÷ 2 = 50."
+      },
+      "difficulty": 2,
+      "answer": 50,
+      "tolerance": 0.01,
+      "unit": "Pa"
+    },
+    {
+      "id": "f2sci-08-q13",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A force of 600 N acts on 0.02 m². Find the pressure.",
+        "bm": "Daya 600 N bertindak pada 0.02 m². Cari tekanan."
+      },
+      "explanation": {
+        "en": "600 ÷ 0.02 = 30000.",
+        "bm": "600 ÷ 0.02 = 30000."
+      },
+      "difficulty": 2,
+      "answer": 30000,
+      "tolerance": 0.01,
+      "unit": "Pa"
+    },
+    {
+      "id": "f2sci-08-q14",
+      "subtopicId": "f2sci-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A force can change an object's…",
+        "bm": "Daya boleh mengubah objek dari segi…"
+      },
+      "explanation": {
+        "en": "These are the common effects.",
+        "bm": "Ini kesan yang biasa."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shape, speed and direction",
+          "bm": "bentuk, laju dan arah"
+        },
+        {
+          "en": "colour only",
+          "bm": "warna sahaja"
+        },
+        {
+          "en": "mass",
+          "bm": "jisim"
+        },
+        {
+          "en": "age",
+          "bm": "umur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q15",
+      "subtopicId": "f2sci-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a door handle far from the hinge?",
+        "bm": "Mengapa pemegang pintu jauh dari engsel?"
+      },
+      "explanation": {
+        "en": "Less force is needed.",
+        "bm": "Kurang daya diperlukan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A larger distance gives a larger moment",
+          "bm": "Jarak lebih besar memberi momen lebih besar"
+        },
+        {
+          "en": "To make it lighter",
+          "bm": "Supaya lebih ringan"
+        },
+        {
+          "en": "To reduce mass",
+          "bm": "Untuk mengurangkan jisim"
+        },
+        {
+          "en": "To add friction",
+          "bm": "Untuk menambah geseran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q16",
+      "subtopicId": "f2sci-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do knives cut better when sharp?",
+        "bm": "Mengapa pisau lebih mudah memotong apabila tajam?"
+      },
+      "explanation": {
+        "en": "P = F ÷ A.",
+        "bm": "P = F ÷ A."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A small area gives high pressure",
+          "bm": "Luas kecil memberi tekanan tinggi"
+        },
+        {
+          "en": "Mass rises",
+          "bm": "Jisim bertambah"
+        },
+        {
+          "en": "Friction rises",
+          "bm": "Geseran bertambah"
+        },
+        {
+          "en": "Weight falls",
+          "bm": "Berat berkurang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-08-q17",
+      "subtopicId": "f2sci-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A lever is balanced: 30 N acts 0.2 m from the pivot. What force at 0.5 m on the other side balances it?",
+        "bm": "Tuas seimbang: 30 N bertindak 0.2 m dari fulkrum. Berapakah daya pada 0.5 m di sebelah lain?"
+      },
+      "explanation": {
+        "en": "30 × 0.2 = F × 0.5.",
+        "bm": "30 × 0.2 = F × 0.5."
+      },
+      "difficulty": 3,
+      "answer": 12,
+      "tolerance": 0.01,
+      "unit": "N"
+    }
+  ]
+}

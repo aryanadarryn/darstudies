@@ -1,0 +1,182 @@
+{
+  "chapterId": "f2sci-07",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-07-01": {
+      "keyPoints": [
+        {
+          "en": "Current flows when charges move in a closed circuit.",
+          "bm": "Arus mengalir apabila cas bergerak dalam litar tertutup."
+        },
+        {
+          "en": "Static charge comes from rubbing materials together.",
+          "bm": "Cas statik terhasil daripada menggosok bahan."
+        },
+        {
+          "en": "V = IR for a component at constant temperature.",
+          "bm": "V = IR bagi komponen pada suhu tetap."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Ammeter",
+            "bm": "Ammeter"
+          },
+          "meaning": {
+            "en": "Measures current in series.",
+            "bm": "Mengukur arus secara bersiri."
+          }
+        },
+        {
+          "term": {
+            "en": "Voltmeter",
+            "bm": "Voltmeter"
+          },
+          "meaning": {
+            "en": "Measures voltage in parallel.",
+            "bm": "Mengukur voltan secara selari."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "V = 9 V, I = 3 A. R?",
+          "bm": "V = 9 V, I = 3 A. R?"
+        },
+        "answer": {
+          "en": "3 Ω",
+          "bm": "3 Ω"
+        }
+      },
+      "tip": {
+        "en": "Cover the letter you want in the V–I–R triangle.",
+        "bm": "Tutup huruf yang dikehendaki dalam segi tiga V–I–R."
+      }
+    },
+    "f2sci-07-02": {
+      "keyPoints": [
+        {
+          "en": "Series: one path; current is the same.",
+          "bm": "Bersiri: satu laluan; arus sama."
+        },
+        {
+          "en": "Parallel: several paths; voltage is the same.",
+          "bm": "Selari: beberapa laluan; voltan sama."
+        },
+        {
+          "en": "Homes use parallel wiring.",
+          "bm": "Rumah menggunakan pendawaian selari."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Series",
+            "bm": "Bersiri"
+          },
+          "meaning": {
+            "en": "Connected end to end.",
+            "bm": "Disambung hujung ke hujung."
+          }
+        },
+        {
+          "term": {
+            "en": "Parallel",
+            "bm": "Selari"
+          },
+          "meaning": {
+            "en": "Connected in branches.",
+            "bm": "Disambung dalam cabang."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/circuits.svg",
+          "alt": {
+            "en": "Series and parallel circuits.",
+            "bm": "Litar bersiri dan selari."
+          },
+          "caption": {
+            "en": "Series and parallel circuits.",
+            "bm": "Litar bersiri dan selari."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "4 Ω and 4 Ω in parallel?",
+          "bm": "4 Ω dan 4 Ω selari?"
+        },
+        "answer": {
+          "en": "2 Ω",
+          "bm": "2 Ω"
+        }
+      },
+      "tip": {
+        "en": "Parallel total is always smaller than the smallest resistor.",
+        "bm": "Jumlah selari sentiasa lebih kecil daripada perintang terkecil."
+      }
+    },
+    "f2sci-07-03": {
+      "keyPoints": [
+        {
+          "en": "Like poles repel; unlike poles attract.",
+          "bm": "Kutub sama menolak; kutub berlainan menarik."
+        },
+        {
+          "en": "Field lines show force direction and strength.",
+          "bm": "Garis medan menunjukkan arah dan kekuatan daya."
+        },
+        {
+          "en": "A current creates a magnetic field.",
+          "bm": "Arus menghasilkan medan magnet."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Compass",
+            "bm": "Kompas"
+          },
+          "meaning": {
+            "en": "Small magnet that shows direction.",
+            "bm": "Magnet kecil yang menunjukkan arah."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/magnet-field.svg",
+          "alt": {
+            "en": "Field lines of a bar magnet run from north to south.",
+            "bm": "Garis medan magnet bar dari utara ke selatan."
+          },
+          "caption": {
+            "en": "Field lines of a bar magnet run from north to south.",
+            "bm": "Garis medan magnet bar dari utara ke selatan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "One use of electromagnets?",
+          "bm": "Satu kegunaan elektromagnet?"
+        },
+        "answer": {
+          "en": "Lifting scrap iron; electric bells.",
+          "bm": "Mengangkat besi buruk; loceng elektrik."
+        }
+      },
+      "tip": {
+        "en": "Field lines never cross.",
+        "bm": "Garis medan tidak pernah bersilang."
+      }
+    }
+  }
+}

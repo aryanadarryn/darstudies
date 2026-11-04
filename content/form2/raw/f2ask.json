@@ -1,0 +1,117 @@
+{
+  "id": "f2ask",
+  "name": {
+    "en": "Basic Computer Science",
+    "bm": "Asas Sains Komputer"
+  },
+  "short": {
+    "en": "Comp. Sci.",
+    "bm": "ASK"
+  },
+  "color": "#2563eb",
+  "source": "Follows the KSSM ASK Form 2 textbook structure (Bab 1 Perwakilan Data, Bab 2 Algoritma, Bab 3 Kod Arahan). Conversions are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Data Representation",
+        "bm": "Perwakilan Data"
+      },
+      "theme": {
+        "en": "Data Representation",
+        "bm": "Perwakilan Data"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Octal Number System",
+            "bm": "Sistem Nombor Perlapanan"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Hexadecimal Number System",
+            "bm": "Sistem Nombor Perenambelasan"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "ASCII Code",
+            "bm": "Kod ASCII"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Algorithms",
+        "bm": "Algoritma"
+      },
+      "theme": {
+        "en": "Algorithms",
+        "bm": "Algoritma"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Developing Algorithms: Pseudocode and Flowcharts",
+            "bm": "Pembangunan Algoritma: Pseudokod dan Carta Alir"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Control Structures",
+            "bm": "Struktur Kawalan"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Testing Algorithms",
+            "bm": "Menguji Algoritma"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Instruction Code",
+        "bm": "Kod Arahan"
+      },
+      "theme": {
+        "en": "Instruction Code",
+        "bm": "Kod Arahan"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Instruction Code Environment",
+            "bm": "Persekitaran Kod Arahan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Data Types, Variables and Constants",
+            "bm": "Jenis Data, Pemboleh Ubah dan Pemalar"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Operators and Control Structures in Code",
+            "bm": "Operator dan Struktur Kawalan dalam Kod"
+          }
+        }
+      ]
+    }
+  ]
+}

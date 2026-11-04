@@ -1,4 +1,4 @@
-import type { Form } from '../content/ids'
+import { type Form, FORMS } from '../content/ids'
 import { useT } from '../i18n/useT'
 import { regeneratePlan } from '../lib/actions'
 import { useSettings } from '../store/settings'
@@ -21,17 +21,17 @@ export function useChooseForm() {
   }
 }
 
-/** "Form 3 | Form 4" toggle. Learn, Practice and the planner all follow the chosen form. */
+/** "Form 2 | Form 3 | Form 4" toggle. Learn, Practice and the planner all follow the chosen form. */
 export default function FormSwitch({ className = '' }: { className?: string }) {
   const { t } = useT()
   const form = useForm()
   const choose = useChooseForm()
   return (
     <div role="radiogroup" aria-label={t('form.label')} className={`inline-flex rounded-full bg-slate-200 p-0.5 text-xs font-semibold dark:bg-slate-800 ${className}`}>
-      {([3, 4] as const).map((f) => (
+      {FORMS.map((f) => (
         <button key={f} role="radio" aria-checked={form === f} onClick={() => choose(f)}
           className={`min-h-8 rounded-full px-3 transition ${form === f ? 'bg-violet-700 text-white shadow' : 'text-slate-600 dark:text-slate-300'}`}>
-          {t(f === 3 ? 'form.3' : 'form.4')}
+          {t(`form.${f}`)}
         </button>
       ))}
     </div>

@@ -1,0 +1,199 @@
+{
+  "chapterId": "f2sci-09",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-09-01": {
+      "keyPoints": [
+        {
+          "en": "Heat depends on mass, material and temperature.",
+          "bm": "Haba bergantung pada jisim, bahan dan suhu."
+        },
+        {
+          "en": "Temperature measures the average energy of particles.",
+          "bm": "Suhu mengukur tenaga purata zarah."
+        },
+        {
+          "en": "Heat is in joules; temperature is in °C or K.",
+          "bm": "Haba dalam joule; suhu dalam °C atau K."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Joule",
+            "bm": "Joule"
+          },
+          "meaning": {
+            "en": "Unit of energy.",
+            "bm": "Unit tenaga."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which has more heat: 1 L or 1 cup at 90 °C?",
+          "bm": "Yang mana ada lebih haba: 1 L atau secawan pada 90 °C?"
+        },
+        "answer": {
+          "en": "1 L",
+          "bm": "1 L"
+        }
+      },
+      "tip": {
+        "en": "Same temperature does not mean the same heat.",
+        "bm": "Suhu sama tidak bermakna haba sama."
+      }
+    },
+    "f2sci-09-02": {
+      "keyPoints": [
+        {
+          "en": "Conduction in solids, convection in fluids, radiation through empty space.",
+          "bm": "Konduksi dalam pepejal, perolakan dalam bendalir, sinaran melalui ruang kosong."
+        },
+        {
+          "en": "Metals are good conductors; air and plastic are insulators.",
+          "bm": "Logam konduktor baik; udara dan plastik penebat."
+        },
+        {
+          "en": "Heat flow stops at thermal equilibrium.",
+          "bm": "Aliran haba berhenti pada keseimbangan terma."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Insulator",
+            "bm": "Penebat"
+          },
+          "meaning": {
+            "en": "Poor conductor of heat.",
+            "bm": "Konduktor haba yang lemah."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/heat-flow.svg",
+          "alt": {
+            "en": "Heat flows from hot to cold until equilibrium.",
+            "bm": "Haba mengalir dari panas ke sejuk hingga keseimbangan."
+          },
+          "caption": {
+            "en": "Heat flows from hot to cold until equilibrium.",
+            "bm": "Haba mengalir dari panas ke sejuk hingga keseimbangan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why is an air gap in a wall useful?",
+          "bm": "Mengapa ruang udara dalam dinding berguna?"
+        },
+        "answer": {
+          "en": "Air is a poor conductor.",
+          "bm": "Udara konduktor lemah."
+        }
+      },
+      "tip": {
+        "en": "Convection cannot happen in solids.",
+        "bm": "Perolakan tidak berlaku dalam pepejal."
+      }
+    },
+    "f2sci-09-03": {
+      "keyPoints": [
+        {
+          "en": "Heating makes matter expand; cooling makes it contract.",
+          "bm": "Pemanasan mengembangkan jirim; penyejukan mengecutkannya."
+        },
+        {
+          "en": "Gases expand most, then liquids, then solids.",
+          "bm": "Gas paling mengembang, diikuti cecair, kemudian pepejal."
+        },
+        {
+          "en": "Engineers leave gaps to allow for this.",
+          "bm": "Jurutera meninggalkan ruang untuk tujuan ini."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Expansion",
+            "bm": "Pengembangan"
+          },
+          "meaning": {
+            "en": "Increase in volume.",
+            "bm": "Pertambahan isi padu."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why are electric cables slack on hot days?",
+          "bm": "Mengapa kabel elektrik kendur pada hari panas?"
+        },
+        "answer": {
+          "en": "The metal expands.",
+          "bm": "Logam mengembang."
+        }
+      },
+      "tip": {
+        "en": "Mass does not change when matter expands.",
+        "bm": "Jisim tidak berubah apabila jirim mengembang."
+      }
+    },
+    "f2sci-09-04": {
+      "keyPoints": [
+        {
+          "en": "Dark, dull surfaces absorb and emit heat well.",
+          "bm": "Permukaan gelap dan pudar menyerap dan membebaskan haba dengan baik."
+        },
+        {
+          "en": "White, shiny surfaces reflect heat.",
+          "bm": "Permukaan putih dan berkilat memantulkan haba."
+        },
+        {
+          "en": "Used in clothes, houses and flasks.",
+          "bm": "Digunakan pada pakaian, rumah dan termos."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Absorb",
+            "bm": "Serap"
+          },
+          "meaning": {
+            "en": "Take in heat.",
+            "bm": "Mengambil haba."
+          }
+        },
+        {
+          "term": {
+            "en": "Emit",
+            "bm": "Bebas"
+          },
+          "meaning": {
+            "en": "Give out heat.",
+            "bm": "Mengeluarkan haba."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why are fuel tanks silver?",
+          "bm": "Mengapa tangki bahan api berwarna perak?"
+        },
+        "answer": {
+          "en": "To reflect heat.",
+          "bm": "Untuk memantulkan haba."
+        }
+      },
+      "tip": {
+        "en": "Good absorbers are also good emitters.",
+        "bm": "Penyerap baik juga pemancar baik."
+      }
+    }
+  }
+}

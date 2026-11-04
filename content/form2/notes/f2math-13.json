@@ -1,0 +1,199 @@
+{
+  "chapterId": "f2math-13",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-13-01": {
+      "keyPoints": [
+        {
+          "en": "Found by actually doing an experiment.",
+          "bm": "Diperoleh dengan menjalankan eksperimen."
+        },
+        {
+          "en": "Results can differ every time.",
+          "bm": "Keputusan boleh berbeza setiap kali."
+        },
+        {
+          "en": "More trials give a more reliable value.",
+          "bm": "Lebih banyak cubaan memberi nilai lebih boleh dipercayai."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Trial",
+            "bm": "Cubaan"
+          },
+          "meaning": {
+            "en": "One run of an experiment.",
+            "bm": "Satu kali eksperimen."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Head 12 of 30 tosses?",
+          "bm": "Kepala 12 daripada 30 lambungan?"
+        },
+        "answer": {
+          "en": "0.4",
+          "bm": "0.4"
+        }
+      },
+      "tip": {
+        "en": "Experimental values need not equal 1/2 for a coin.",
+        "bm": "Nilai eksperimen syiling tidak semestinya 1/2."
+      }
+    },
+    "f2math-13-02": {
+      "keyPoints": [
+        {
+          "en": "P(A) = n(A) ÷ n(S).",
+          "bm": "P(A) = n(A) ÷ n(S)."
+        },
+        {
+          "en": "Only when outcomes are equally likely.",
+          "bm": "Hanya apabila kesudahan sama boleh jadi."
+        },
+        {
+          "en": "Fair dice, coins and cards are typical examples.",
+          "bm": "Dadu, syiling dan kad adil ialah contoh biasa."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Outcome",
+            "bm": "Kesudahan"
+          },
+          "meaning": {
+            "en": "One possible result.",
+            "bm": "Satu hasil yang mungkin."
+          }
+        },
+        {
+          "term": {
+            "en": "Event",
+            "bm": "Peristiwa"
+          },
+          "meaning": {
+            "en": "A set of outcomes.",
+            "bm": "Set kesudahan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/prob-line.svg",
+          "alt": {
+            "en": "The probability scale runs from 0 to 1.",
+            "bm": "Skala kebarangkalian dari 0 hingga 1."
+          },
+          "caption": {
+            "en": "The probability scale runs from 0 to 1.",
+            "bm": "Skala kebarangkalian dari 0 hingga 1."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "P(head) for a fair coin?",
+          "bm": "P(kepala) bagi syiling adil?"
+        },
+        "answer": {
+          "en": "1/2",
+          "bm": "1/2"
+        }
+      },
+      "tip": {
+        "en": "Write the sample space in curly brackets first.",
+        "bm": "Tulis ruang sampel dalam kurungan dahulu."
+      }
+    },
+    "f2math-13-03": {
+      "keyPoints": [
+        {
+          "en": "A′ is everything not in A.",
+          "bm": "A′ ialah semua yang bukan dalam A."
+        },
+        {
+          "en": "P(A) + P(A′) = 1.",
+          "bm": "P(A) + P(A′) = 1."
+        },
+        {
+          "en": "Sometimes it is quicker to find the complement.",
+          "bm": "Kadangkala lebih cepat mencari pelengkap."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Complement",
+            "bm": "Pelengkap"
+          },
+          "meaning": {
+            "en": "Not the event.",
+            "bm": "Bukan peristiwa itu."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "P(pass) = 0.9. P(fail)?",
+          "bm": "P(lulus) = 0.9. P(gagal)?"
+        },
+        "answer": {
+          "en": "0.1",
+          "bm": "0.1"
+        }
+      },
+      "tip": {
+        "en": "Look out for the word \"not\".",
+        "bm": "Perhatikan perkataan \"bukan\"."
+      }
+    },
+    "f2math-13-04": {
+      "keyPoints": [
+        {
+          "en": "Use probability to make predictions.",
+          "bm": "Gunakan kebarangkalian untuk membuat ramalan."
+        },
+        {
+          "en": "Expected count = probability × total.",
+          "bm": "Bilangan dijangka = kebarangkalian × jumlah."
+        },
+        {
+          "en": "Use it for everyday choices.",
+          "bm": "Gunakannya untuk pilihan harian."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Prediction",
+            "bm": "Ramalan"
+          },
+          "meaning": {
+            "en": "An estimate of future results.",
+            "bm": "Anggaran keputusan masa depan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "P = 0.2 in 50 trials. Expected?",
+          "bm": "P = 0.2 dalam 50 cubaan. Dijangka?"
+        },
+        "answer": {
+          "en": "10",
+          "bm": "10"
+        }
+      },
+      "tip": {
+        "en": "Fractions, decimals and percentages all work: stay consistent.",
+        "bm": "Pecahan, perpuluhan dan peratus semua boleh: kekal konsisten."
+      }
+    }
+  }
+}

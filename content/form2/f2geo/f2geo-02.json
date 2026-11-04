@@ -1,0 +1,449 @@
+{
+  "chapterId": "f2geo-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Hikers read a topographic map to see hills, rivers and paths before setting off, and the contour lines even show how steep the climb will be.",
+      "bm": "Pendaki membaca peta topografi untuk melihat bukit, sungai dan laluan sebelum bertolak, malah garisan kontur menunjukkan kecuraman."
+    },
+    "bigIdeas": [
+      {
+        "en": "Topographic maps show physical and cultural features.",
+        "bm": "Peta topografi menunjukkan ciri fizikal dan budaya."
+      },
+      {
+        "en": "Eastings and northings locate any point.",
+        "bm": "Timuran dan utaraan menentukan lokasi sebarang titik."
+      },
+      {
+        "en": "Contours show height and slope.",
+        "bm": "Kontur menunjukkan ketinggian dan kecerunan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Feature",
+          "bm": "Ciri"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "River",
+              "bm": "Sungai"
+            },
+            "detail": {
+              "en": "physical",
+              "bm": "fizikal"
+            }
+          },
+          {
+            "label": {
+              "en": "Hill",
+              "bm": "Bukit"
+            },
+            "detail": {
+              "en": "physical",
+              "bm": "fizikal"
+            }
+          },
+          {
+            "label": {
+              "en": "Road",
+              "bm": "Jalan raya"
+            },
+            "detail": {
+              "en": "cultural",
+              "bm": "budaya"
+            }
+          },
+          {
+            "label": {
+              "en": "School",
+              "bm": "Sekolah"
+            },
+            "detail": {
+              "en": "cultural",
+              "bm": "budaya"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Topographic map",
+          "bm": "Peta topografi"
+        },
+        "definition": {
+          "en": "A map showing relief and landscape features.",
+          "bm": "Peta yang menunjukkan relief dan ciri landskap."
+        }
+      },
+      {
+        "term": {
+          "en": "Easting",
+          "bm": "Timuran"
+        },
+        "definition": {
+          "en": "A vertical grid line numbered eastward.",
+          "bm": "Garisan grid menegak yang bernombor ke timur."
+        }
+      },
+      {
+        "term": {
+          "en": "Northing",
+          "bm": "Utaraan"
+        },
+        "definition": {
+          "en": "A horizontal grid line numbered northward.",
+          "bm": "Garisan grid mendatar yang bernombor ke utara."
+        }
+      },
+      {
+        "term": {
+          "en": "Contour",
+          "bm": "Kontur"
+        },
+        "definition": {
+          "en": "A line joining places of equal height.",
+          "bm": "Garisan menyambungkan tempat sama tinggi."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-02-q01",
+      "subtopicId": "f2geo-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which feature is cultural?",
+        "bm": "Ciri manakah budaya?"
+      },
+      "explanation": {
+        "en": "It is built by people.",
+        "bm": "Ia dibina oleh manusia."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Railway",
+          "bm": "Landasan kereta api"
+        },
+        {
+          "en": "River",
+          "bm": "Sungai"
+        },
+        {
+          "en": "Hill",
+          "bm": "Bukit"
+        },
+        {
+          "en": "Forest",
+          "bm": "Hutan semula jadi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q02",
+      "subtopicId": "f2geo-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a grid reference, you read first the…",
+        "bm": "Dalam rujukan grid, baca dahulu…"
+      },
+      "explanation": {
+        "en": "Along the corridor, then up the stairs.",
+        "bm": "Sepanjang koridor, kemudian naik tangga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "easting",
+          "bm": "timuran"
+        },
+        {
+          "en": "northing",
+          "bm": "utaraan"
+        },
+        {
+          "en": "contour",
+          "bm": "kontur"
+        },
+        {
+          "en": "scale",
+          "bm": "skala"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q03",
+      "subtopicId": "f2geo-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A four-figure grid reference identifies…",
+        "bm": "Rujukan grid empat angka mengenal pasti…"
+      },
+      "explanation": {
+        "en": "Six figures locate a point.",
+        "bm": "Enam angka menentukan titik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a grid square",
+          "bm": "petak grid"
+        },
+        {
+          "en": "an exact point",
+          "bm": "titik tepat"
+        },
+        {
+          "en": "a contour",
+          "bm": "kontur"
+        },
+        {
+          "en": "a height",
+          "bm": "ketinggian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q04",
+      "subtopicId": "f2geo-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A six-figure reference is 123456. Its easting is…",
+        "bm": "Rujukan enam angka ialah 123456. Timurannya…"
+      },
+      "explanation": {
+        "en": "The first three figures give the easting.",
+        "bm": "Tiga angka pertama ialah timuran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "123",
+          "bm": "123"
+        },
+        {
+          "en": "456",
+          "bm": "456"
+        },
+        {
+          "en": "12",
+          "bm": "12"
+        },
+        {
+          "en": "56",
+          "bm": "56"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q05",
+      "subtopicId": "f2geo-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Close contour lines mean…",
+        "bm": "Kontur yang rapat bermaksud…"
+      },
+      "explanation": {
+        "en": "Height changes quickly.",
+        "bm": "Ketinggian berubah cepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a steep slope",
+          "bm": "cerun curam"
+        },
+        {
+          "en": "a gentle slope",
+          "bm": "cerun landai"
+        },
+        {
+          "en": "flat land",
+          "bm": "tanah rata"
+        },
+        {
+          "en": "a lake",
+          "bm": "tasik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q06",
+      "subtopicId": "f2geo-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which symbol colour normally shows water?",
+        "bm": "Warna simbol manakah biasanya menunjukkan air?"
+      },
+      "explanation": {
+        "en": "Blue is used for water features.",
+        "bm": "Biru digunakan untuk ciri air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Blue",
+          "bm": "Biru"
+        },
+        {
+          "en": "Red",
+          "bm": "Merah"
+        },
+        {
+          "en": "Brown",
+          "bm": "Coklat"
+        },
+        {
+          "en": "Black",
+          "bm": "Hitam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q07",
+      "subtopicId": "f2geo-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A settlement along a road is…",
+        "bm": "Petempatan di sepanjang jalan ialah…"
+      },
+      "explanation": {
+        "en": "It follows the line of a route.",
+        "bm": "Ia mengikut garis laluan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "linear",
+          "bm": "berjajar"
+        },
+        {
+          "en": "scattered",
+          "bm": "berselerak"
+        },
+        {
+          "en": "nucleated",
+          "bm": "berkelompok"
+        },
+        {
+          "en": "circular",
+          "bm": "membulat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q08",
+      "subtopicId": "f2geo-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rubber estates on gentle hills suggest the main activity is…",
+        "bm": "Ladang getah di bukit landai menunjukkan kegiatan utama ialah…"
+      },
+      "explanation": {
+        "en": "Map symbols reveal the land use.",
+        "bm": "Simbol peta menunjukkan guna tanah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "agriculture",
+          "bm": "pertanian"
+        },
+        {
+          "en": "fishing",
+          "bm": "perikanan"
+        },
+        {
+          "en": "mining",
+          "bm": "perlombongan"
+        },
+        {
+          "en": "shipbuilding",
+          "bm": "pembinaan kapal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q09",
+      "subtopicId": "f2geo-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are towns often near river mouths and roads?",
+        "bm": "Mengapa bandar sering berada dekat muara sungai dan jalan raya?"
+      },
+      "explanation": {
+        "en": "Accessibility attracts settlement.",
+        "bm": "Kemudahsampaian menarik petempatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "For easy access and trade",
+          "bm": "Untuk kemudahan akses dan perdagangan"
+        },
+        {
+          "en": "To avoid people",
+          "bm": "Untuk mengelak penduduk"
+        },
+        {
+          "en": "Because of contours only",
+          "bm": "Kerana kontur sahaja"
+        },
+        {
+          "en": "For cold weather",
+          "bm": "Untuk cuaca sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-02-q10",
+      "subtopicId": "f2geo-02-02",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the steps to read a six-figure reference.",
+        "bm": "Susun langkah membaca rujukan enam angka."
+      },
+      "explanation": {
+        "en": "East first, then north.",
+        "bm": "Timur dahulu, kemudian utara."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Read the easting",
+          "bm": "Baca timuran"
+        },
+        {
+          "en": "Estimate tenths eastwards",
+          "bm": "Anggar persepuluhan ke timur"
+        },
+        {
+          "en": "Read the northing",
+          "bm": "Baca utaraan"
+        },
+        {
+          "en": "Estimate tenths northwards",
+          "bm": "Anggar persepuluhan ke utara"
+        }
+      ]
+    }
+  ]
+}

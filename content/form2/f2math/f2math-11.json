@@ -1,0 +1,676 @@
+{
+  "chapterId": "f2math-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Slide a tile, flip it or spin it. It is still the same size and shape. Those moves are isometries, and they make up every wallpaper and batik pattern.",
+      "bm": "Gelongsorkan tile, terbalikkannya atau pusingkannya. Saiz dan bentuknya tetap sama. Pergerakan itu ialah isometri, dan ia membentuk setiap corak kertas dinding dan batik."
+    },
+    "bigIdeas": [
+      {
+        "en": "A transformation moves an object to a new image.",
+        "bm": "Transformasi menggerakkan objek ke imej baharu."
+      },
+      {
+        "en": "Isometries keep shape and size.",
+        "bm": "Isometri mengekalkan bentuk dan saiz."
+      },
+      {
+        "en": "Order of rotational symmetry counts matching positions per turn.",
+        "bm": "Peringkat simetri putaran mengira kedudukan sepadan dalam satu pusingan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Described by",
+            "bm": "Dihuraikan dengan"
+          },
+          {
+            "en": "Orientation",
+            "bm": "Orientasi"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Translation",
+              "bm": "Translasi"
+            },
+            "cells": [
+              {
+                "en": "vector (a, b)",
+                "bm": "vektor (a, b)"
+              },
+              {
+                "en": "same",
+                "bm": "sama"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Reflection",
+              "bm": "Pantulan"
+            },
+            "cells": [
+              {
+                "en": "axis of reflection",
+                "bm": "paksi pantulan"
+              },
+              {
+                "en": "flipped",
+                "bm": "terbalik"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Rotation",
+              "bm": "Putaran"
+            },
+            "cells": [
+              {
+                "en": "centre, angle, direction",
+                "bm": "pusat, sudut, arah"
+              },
+              {
+                "en": "same",
+                "bm": "sama"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Object and image",
+          "bm": "Objek dan imej"
+        },
+        "definition": {
+          "en": "The original shape and its transformed copy.",
+          "bm": "Bentuk asal dan salinan yang ditransformasi."
+        }
+      },
+      {
+        "term": {
+          "en": "Congruent",
+          "bm": "Kongruen"
+        },
+        "definition": {
+          "en": "Same shape and same size.",
+          "bm": "Bentuk dan saiz yang sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Isometry",
+          "bm": "Isometri"
+        },
+        "definition": {
+          "en": "A transformation that keeps lengths unchanged.",
+          "bm": "Transformasi yang mengekalkan panjang."
+        }
+      },
+      {
+        "term": {
+          "en": "Order of rotational symmetry",
+          "bm": "Peringkat simetri putaran"
+        },
+        "definition": {
+          "en": "Number of times a shape fits itself in one full turn.",
+          "bm": "Bilangan kali bentuk menepati dirinya dalam satu pusingan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Translate P(2, 3) by the vector (4, −1).",
+        "bm": "Translasikan P(2, 3) dengan vektor (4, −1)."
+      },
+      "steps": [
+        {
+          "en": "Add the vector to the coordinates.",
+          "bm": "Tambah vektor kepada koordinat."
+        },
+        {
+          "en": "(2 + 4, 3 − 1)",
+          "bm": "(2 + 4, 3 − 1)"
+        }
+      ],
+      "answer": {
+        "en": "(6, 2)",
+        "bm": "(6, 2)"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-11-q01",
+      "subtopicId": "f2math-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A transformation that keeps shape and size is called…",
+        "bm": "Transformasi yang mengekalkan bentuk dan saiz dinamakan…"
+      },
+      "explanation": {
+        "en": "Iso means equal; metry means measure.",
+        "bm": "Iso bermaksud sama; metri bermaksud ukuran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "isometry",
+          "bm": "isometri"
+        },
+        {
+          "en": "enlargement",
+          "bm": "pembesaran"
+        },
+        {
+          "en": "ratio",
+          "bm": "nisbah"
+        },
+        {
+          "en": "net",
+          "bm": "bentangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q02",
+      "subtopicId": "f2math-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Object and image in an isometry are…",
+        "bm": "Objek dan imej dalam isometri adalah…"
+      },
+      "explanation": {
+        "en": "They have the same shape and size.",
+        "bm": "Bentuk dan saiznya sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "congruent",
+          "bm": "kongruen"
+        },
+        {
+          "en": "different in size",
+          "bm": "berbeza saiz"
+        },
+        {
+          "en": "always parallel",
+          "bm": "sentiasa selari"
+        },
+        {
+          "en": "always equal in position",
+          "bm": "sentiasa sama kedudukan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q03",
+      "subtopicId": "f2math-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Translate (2, 3) by the vector (4, -1). What is the x-coordinate of the image?",
+        "bm": "Translasikan (2, 3) dengan vektor (4, -1). Apakah koordinat-x imej?"
+      },
+      "explanation": {
+        "en": "2 + (4) = 6.",
+        "bm": "2 + (4) = 6."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q04",
+      "subtopicId": "f2math-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Translate (-1, 5) by the vector (3, 2). What is the x-coordinate of the image?",
+        "bm": "Translasikan (-1, 5) dengan vektor (3, 2). Apakah koordinat-x imej?"
+      },
+      "explanation": {
+        "en": "-1 + (3) = 2.",
+        "bm": "-1 + (3) = 2."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q05",
+      "subtopicId": "f2math-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Translate (0, -2) by the vector (-4, 6). What is the x-coordinate of the image?",
+        "bm": "Translasikan (0, -2) dengan vektor (-4, 6). Apakah koordinat-x imej?"
+      },
+      "explanation": {
+        "en": "0 + (-4) = -4.",
+        "bm": "0 + (-4) = -4."
+      },
+      "difficulty": 1,
+      "answer": -4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q06",
+      "subtopicId": "f2math-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A(1, 4) has image A′(5, 2) under a translation. What is the first number of the vector?",
+        "bm": "A(1, 4) mempunyai imej A′(5, 2) di bawah translasi. Apakah nombor pertama vektor?"
+      },
+      "explanation": {
+        "en": "5 − 1 = 4.",
+        "bm": "5 − 1 = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q07",
+      "subtopicId": "f2math-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A(1, 4) has image A′(5, 2) under a translation. What is the second number of the vector?",
+        "bm": "A(1, 4) mempunyai imej A′(5, 2) di bawah translasi. Apakah nombor kedua vektor?"
+      },
+      "explanation": {
+        "en": "2 − 4 = −2.",
+        "bm": "2 − 4 = −2."
+      },
+      "difficulty": 2,
+      "answer": -2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q08",
+      "subtopicId": "f2math-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Reflect (3, 5) in the y-axis. What is the x-coordinate of the image?",
+        "bm": "Pantulkan (3, 5) pada paksi-y. Apakah koordinat-x imej?"
+      },
+      "explanation": {
+        "en": "x changes sign.",
+        "bm": "x bertukar tanda."
+      },
+      "difficulty": 1,
+      "answer": -3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q09",
+      "subtopicId": "f2math-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Reflect (3, 5) in the x-axis. What is the y-coordinate of the image?",
+        "bm": "Pantulkan (3, 5) pada paksi-x. Apakah koordinat-y imej?"
+      },
+      "explanation": {
+        "en": "y changes sign.",
+        "bm": "y bertukar tanda."
+      },
+      "difficulty": 1,
+      "answer": -5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q10",
+      "subtopicId": "f2math-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Reflect (1, 4) in the line x = 3. What is the x-coordinate of the image?",
+        "bm": "Pantulkan (1, 4) pada garis x = 3. Apakah koordinat-x imej?"
+      },
+      "explanation": {
+        "en": "It is 2 from the line, so 3 + 2 = 5.",
+        "bm": "Jaraknya 2 dari garis, maka 3 + 2 = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q11",
+      "subtopicId": "f2math-11-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Reflect (2, 7) in the line y = 4. What is the y-coordinate of the image?",
+        "bm": "Pantulkan (2, 7) pada garis y = 4. Apakah koordinat-y imej?"
+      },
+      "explanation": {
+        "en": "It is 3 above, so 4 − 3 = 1.",
+        "bm": "Jaraknya 3 di atas, maka 4 − 3 = 1."
+      },
+      "difficulty": 3,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q12",
+      "subtopicId": "f2math-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rotate (2, 3) by 90° clockwise about the origin.",
+        "bm": "Putarkan (2, 3) 90° ikut jam pada asalan."
+      },
+      "explanation": {
+        "en": "(x, y) → (y, −x).",
+        "bm": "(x, y) → (y, −x)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "(3, −2)",
+          "bm": "(3, −2)"
+        },
+        {
+          "en": "(−3, 2)",
+          "bm": "(−3, 2)"
+        },
+        {
+          "en": "(−2, −3)",
+          "bm": "(−2, −3)"
+        },
+        {
+          "en": "(2, −3)",
+          "bm": "(2, −3)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q13",
+      "subtopicId": "f2math-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rotate (2, 3) by 180° about the origin.",
+        "bm": "Putarkan (2, 3) 180° pada asalan."
+      },
+      "explanation": {
+        "en": "(x, y) → (−x, −y).",
+        "bm": "(x, y) → (−x, −y)."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "(−2, −3)",
+          "bm": "(−2, −3)"
+        },
+        {
+          "en": "(3, 2)",
+          "bm": "(3, 2)"
+        },
+        {
+          "en": "(−3, 2)",
+          "bm": "(−3, 2)"
+        },
+        {
+          "en": "(2, −3)",
+          "bm": "(2, −3)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q14",
+      "subtopicId": "f2math-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rotate (4, 1) by 90° anticlockwise about the origin.",
+        "bm": "Putarkan (4, 1) 90° lawan jam pada asalan."
+      },
+      "explanation": {
+        "en": "(x, y) → (−y, x).",
+        "bm": "(x, y) → (−y, x)."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "(−1, 4)",
+          "bm": "(−1, 4)"
+        },
+        {
+          "en": "(1, −4)",
+          "bm": "(1, −4)"
+        },
+        {
+          "en": "(−4, −1)",
+          "bm": "(−4, −1)"
+        },
+        {
+          "en": "(1, 4)",
+          "bm": "(1, 4)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q15",
+      "subtopicId": "f2math-11-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "To describe a rotation you must state…",
+        "bm": "Untuk menghuraikan putaran, anda mesti menyatakan…"
+      },
+      "explanation": {
+        "en": "All three are needed.",
+        "bm": "Ketiga-tiganya diperlukan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "centre, angle and direction",
+          "bm": "pusat, sudut dan arah"
+        },
+        {
+          "en": "a vector only",
+          "bm": "vektor sahaja"
+        },
+        {
+          "en": "an axis",
+          "bm": "paksi"
+        },
+        {
+          "en": "a scale factor",
+          "bm": "faktor skala"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q16",
+      "subtopicId": "f2math-11-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which property changes after a reflection?",
+        "bm": "Sifat manakah berubah selepas pantulan?"
+      },
+      "explanation": {
+        "en": "The image is flipped; everything else stays.",
+        "bm": "Imej terbalik; yang lain kekal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "orientation",
+          "bm": "orientasi"
+        },
+        {
+          "en": "side lengths",
+          "bm": "panjang sisi"
+        },
+        {
+          "en": "angles",
+          "bm": "sudut"
+        },
+        {
+          "en": "area",
+          "bm": "luas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q17",
+      "subtopicId": "f2math-11-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A shape is translated, then reflected. The image is…",
+        "bm": "Bentuk ditranslasi, kemudian dipantul. Imejnya…"
+      },
+      "explanation": {
+        "en": "Combined isometries are still isometries.",
+        "bm": "Gabungan isometri masih isometri."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "congruent to the object",
+          "bm": "kongruen dengan objek"
+        },
+        {
+          "en": "larger",
+          "bm": "lebih besar"
+        },
+        {
+          "en": "smaller",
+          "bm": "lebih kecil"
+        },
+        {
+          "en": "a different shape",
+          "bm": "bentuk lain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-11-q18",
+      "subtopicId": "f2math-11-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the order of rotational symmetry of a square?",
+        "bm": "Apakah peringkat simetri putaran segi empat sama?"
+      },
+      "explanation": {
+        "en": "It fits itself 4 times in a full turn.",
+        "bm": "Ia menepati dirinya 4 kali dalam satu pusingan."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q19",
+      "subtopicId": "f2math-11-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the order of rotational symmetry of a regular hexagon?",
+        "bm": "Apakah peringkat simetri putaran heksagon sekata?"
+      },
+      "explanation": {
+        "en": "It fits itself 6 times in a full turn.",
+        "bm": "Ia menepati dirinya 6 kali dalam satu pusingan."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q20",
+      "subtopicId": "f2math-11-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the order of rotational symmetry of an equilateral triangle?",
+        "bm": "Apakah peringkat simetri putaran segi tiga sama sisi?"
+      },
+      "explanation": {
+        "en": "It fits itself 3 times in a full turn.",
+        "bm": "Ia menepati dirinya 3 kali dalam satu pusingan."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q21",
+      "subtopicId": "f2math-11-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the order of rotational symmetry of a rectangle?",
+        "bm": "Apakah peringkat simetri putaran segi empat tepat?"
+      },
+      "explanation": {
+        "en": "It fits itself 2 times in a full turn.",
+        "bm": "Ia menepati dirinya 2 kali dalam satu pusingan."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-11-q22",
+      "subtopicId": "f2math-11-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "A shape has order of rotational symmetry 5. What is the smallest angle of rotation that fits it onto itself?",
+        "bm": "Bentuk mempunyai peringkat simetri putaran 5. Apakah sudut putaran terkecil yang menepatinya?"
+      },
+      "explanation": {
+        "en": "360° ÷ 5 = 72°.",
+        "bm": "360° ÷ 5 = 72°."
+      },
+      "difficulty": 3,
+      "answer": 72,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f2math-11-q23",
+      "subtopicId": "f2math-11-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which letter has rotational symmetry of order 2?",
+        "bm": "Huruf manakah ada simetri putaran peringkat 2?"
+      },
+      "explanation": {
+        "en": "S looks the same after a half turn.",
+        "bm": "S kelihatan sama selepas setengah pusingan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "S",
+          "bm": "S"
+        },
+        {
+          "en": "A",
+          "bm": "A"
+        },
+        {
+          "en": "C",
+          "bm": "C"
+        },
+        {
+          "en": "T",
+          "bm": "T"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

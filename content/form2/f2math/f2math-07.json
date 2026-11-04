@@ -1,0 +1,496 @@
+{
+  "chapterId": "f2math-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your phone's map finds the distance between two places from their coordinates. The same idea works on a Cartesian plane with Pythagoras' theorem.",
+      "bm": "Peta telefon mencari jarak antara dua tempat daripada koordinatnya. Idea yang sama digunakan pada satah Cartes dengan teorem Pythagoras."
+    },
+    "bigIdeas": [
+      {
+        "en": "Distance comes from Pythagoras' theorem.",
+        "bm": "Jarak berasal daripada teorem Pythagoras."
+      },
+      {
+        "en": "A midpoint averages the x and y coordinates.",
+        "bm": "Titik tengah ialah purata koordinat x dan y."
+      },
+      {
+        "en": "Coordinates help solve shape and map problems.",
+        "bm": "Koordinat membantu menyelesaikan masalah bentuk dan peta."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Find horizontal change",
+              "bm": "Cari perubahan mengufuk"
+            },
+            "detail": {
+              "en": "x₂ − x₁",
+              "bm": "x₂ − x₁"
+            }
+          },
+          {
+            "title": {
+              "en": "Find vertical change",
+              "bm": "Cari perubahan mencancang"
+            },
+            "detail": {
+              "en": "y₂ − y₁",
+              "bm": "y₂ − y₁"
+            }
+          },
+          {
+            "title": {
+              "en": "Square and add",
+              "bm": "Kuasa dua dan tambah"
+            },
+            "detail": {
+              "en": "Pythagoras",
+              "bm": "Pythagoras"
+            }
+          },
+          {
+            "title": {
+              "en": "Take the square root",
+              "bm": "Ambil punca kuasa dua"
+            },
+            "detail": {
+              "en": "That is the distance",
+              "bm": "Itulah jarak"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Coordinates",
+          "bm": "Koordinat"
+        },
+        "definition": {
+          "en": "An ordered pair (x, y) giving a position.",
+          "bm": "Pasangan tertib (x, y) yang memberi kedudukan."
+        }
+      },
+      {
+        "term": {
+          "en": "Midpoint",
+          "bm": "Titik tengah"
+        },
+        "definition": {
+          "en": "The point halfway between two points.",
+          "bm": "Titik di tengah-tengah dua titik."
+        }
+      },
+      {
+        "term": {
+          "en": "Origin",
+          "bm": "Asalan"
+        },
+        "definition": {
+          "en": "The point (0, 0).",
+          "bm": "Titik (0, 0)."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-dist",
+      "f2-mid"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the distance between A(−2, −1) and B(4, 3)… then its midpoint.",
+        "bm": "Cari jarak antara A(−2, −1) dan B(4, 3)… kemudian titik tengahnya."
+      },
+      "steps": [
+        {
+          "en": "Changes: 6 and 4.",
+          "bm": "Perubahan: 6 dan 4."
+        },
+        {
+          "en": "√(36 + 16) = √52 ≈ 7.21.",
+          "bm": "√(36 + 16) = √52 ≈ 7.21."
+        },
+        {
+          "en": "Midpoint = ((−2 + 4)/2, (−1 + 3)/2).",
+          "bm": "Titik tengah = ((−2 + 4)/2, (−1 + 3)/2)."
+        }
+      ],
+      "answer": {
+        "en": "7.21 units; (1, 1)",
+        "bm": "7.21 unit; (1, 1)"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-07-q01",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (1, 1) and (4, 5).",
+        "bm": "Cari jarak antara (1, 1) dan (4, 5)."
+      },
+      "explanation": {
+        "en": "√(3² + 4²) = 5.",
+        "bm": "√(3² + 4²) = 5."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q02",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (0, 0) and (6, 8).",
+        "bm": "Cari jarak antara (0, 0) dan (6, 8)."
+      },
+      "explanation": {
+        "en": "√(6² + 8²) = 10.",
+        "bm": "√(6² + 8²) = 10."
+      },
+      "difficulty": 1,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q03",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (2, 3) and (7, 15).",
+        "bm": "Cari jarak antara (2, 3) dan (7, 15)."
+      },
+      "explanation": {
+        "en": "√(5² + 12²) = 13.",
+        "bm": "√(5² + 12²) = 13."
+      },
+      "difficulty": 2,
+      "answer": 13,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q04",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (-1, 2) and (7, 8).",
+        "bm": "Cari jarak antara (-1, 2) dan (7, 8)."
+      },
+      "explanation": {
+        "en": "√(8² + 6²) = 10.",
+        "bm": "√(8² + 6²) = 10."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q05",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (-3, -4) and (5, 11).",
+        "bm": "Cari jarak antara (-3, -4) dan (5, 11)."
+      },
+      "explanation": {
+        "en": "√(8² + 15²) = 17.",
+        "bm": "√(8² + 15²) = 17."
+      },
+      "difficulty": 2,
+      "answer": 17,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q06",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the distance between (2, 5) and (2, 11).",
+        "bm": "Cari jarak antara (2, 5) dan (2, 11)."
+      },
+      "explanation": {
+        "en": "Same x, so subtract the y values.",
+        "bm": "x sama, jadi tolak nilai y."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q07",
+      "subtopicId": "f2math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The distance from (1, 2) to (k, 5) is 5, with k > 1. Find k.",
+        "bm": "Jarak dari (1, 2) ke (k, 5) ialah 5, dengan k > 1. Cari k."
+      },
+      "explanation": {
+        "en": "(k − 1)² + 9 = 25, so k − 1 = 4.",
+        "bm": "(k − 1)² + 9 = 25, maka k − 1 = 4."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q08",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (2, 4) and (6, 8). Find the x-coordinate of M.",
+        "bm": "M ialah titik tengah (2, 4) dan (6, 8). Cari koordinat-x M."
+      },
+      "explanation": {
+        "en": "(2 + 6) ÷ 2 = 4.",
+        "bm": "(2 + 6) ÷ 2 = 4."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q09",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (-2, 3) and (8, 5). Find the x-coordinate of M.",
+        "bm": "M ialah titik tengah (-2, 3) dan (8, 5). Cari koordinat-x M."
+      },
+      "explanation": {
+        "en": "(-2 + 8) ÷ 2 = 3.",
+        "bm": "(-2 + 8) ÷ 2 = 3."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q10",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (1, 7) and (4, 2). Find the x-coordinate of M.",
+        "bm": "M ialah titik tengah (1, 7) dan (4, 2). Cari koordinat-x M."
+      },
+      "explanation": {
+        "en": "(1 + 4) ÷ 2 = 2.5.",
+        "bm": "(1 + 4) ÷ 2 = 2.5."
+      },
+      "difficulty": 1,
+      "answer": 2.5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q11",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (2, 4) and (6, 8). Find the y-coordinate of M.",
+        "bm": "M ialah titik tengah (2, 4) dan (6, 8). Cari koordinat-y M."
+      },
+      "explanation": {
+        "en": "(4 + 8) ÷ 2 = 6.",
+        "bm": "(4 + 8) ÷ 2 = 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q12",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (-2, 3) and (8, 5). Find the y-coordinate of M.",
+        "bm": "M ialah titik tengah (-2, 3) dan (8, 5). Cari koordinat-y M."
+      },
+      "explanation": {
+        "en": "(3 + 5) ÷ 2 = 4.",
+        "bm": "(3 + 5) ÷ 2 = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q13",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M is the midpoint of (0, -6) and (4, 2). Find the y-coordinate of M.",
+        "bm": "M ialah titik tengah (0, -6) dan (4, 2). Cari koordinat-y M."
+      },
+      "explanation": {
+        "en": "(-6 + 2) ÷ 2 = -2.",
+        "bm": "(-6 + 2) ÷ 2 = -2."
+      },
+      "difficulty": 2,
+      "answer": -2,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q14",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M(3, 4) is the midpoint of A(1, 2) and B(p, q). Find p.",
+        "bm": "M(3, 4) ialah titik tengah A(1, 2) dan B(p, q). Cari p."
+      },
+      "explanation": {
+        "en": "(1 + p) ÷ 2 = 3, so p = 5.",
+        "bm": "(1 + p) ÷ 2 = 3, maka p = 5."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q15",
+      "subtopicId": "f2math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "M(3, 4) is the midpoint of A(1, 2) and B(p, q). Find q.",
+        "bm": "M(3, 4) ialah titik tengah A(1, 2) dan B(p, q). Cari q."
+      },
+      "explanation": {
+        "en": "(2 + q) ÷ 2 = 4, so q = 6.",
+        "bm": "(2 + q) ÷ 2 = 4, maka q = 6."
+      },
+      "difficulty": 3,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-07-q16",
+      "subtopicId": "f2math-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the perimeter of a triangle with vertices (0, 0), (3, 0) and (3, 4).",
+        "bm": "Cari perimeter segi tiga dengan bucu (0, 0), (3, 0) dan (3, 4)."
+      },
+      "explanation": {
+        "en": "3 + 4 + 5 = 12.",
+        "bm": "3 + 4 + 5 = 12."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0,
+      "unit": "units"
+    },
+    {
+      "id": "f2math-07-q17",
+      "subtopicId": "f2math-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A rectangle has vertices (1, 1), (5, 1), (5, 4), (1, 4). Find its area.",
+        "bm": "Segi empat tepat dengan bucu (1, 1), (5, 1), (5, 4), (1, 4). Cari luasnya."
+      },
+      "explanation": {
+        "en": "4 × 3 = 12.",
+        "bm": "4 × 3 = 12."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0,
+      "unit": "units²"
+    },
+    {
+      "id": "f2math-07-q18",
+      "subtopicId": "f2math-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The point (−3, 4) lies in which quadrant?",
+        "bm": "Titik (−3, 4) terletak dalam sukuan mana?"
+      },
+      "explanation": {
+        "en": "x negative and y positive gives quadrant II.",
+        "bm": "x negatif dan y positif ialah sukuan II."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "I",
+          "bm": "I"
+        },
+        {
+          "en": "II",
+          "bm": "II"
+        },
+        {
+          "en": "III",
+          "bm": "III"
+        },
+        {
+          "en": "IV",
+          "bm": "IV"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "id": "f2math-07-q19",
+      "subtopicId": "f2math-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A point on the y-axis always has…",
+        "bm": "Titik pada paksi-y sentiasa mempunyai…"
+      },
+      "explanation": {
+        "en": "Its horizontal distance from the origin is zero.",
+        "bm": "Jarak mengufuknya dari asalan ialah sifar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "x = 0",
+          "bm": "x = 0"
+        },
+        {
+          "en": "y = 0",
+          "bm": "y = 0"
+        },
+        {
+          "en": "x = y",
+          "bm": "x = y"
+        },
+        {
+          "en": "x = 1",
+          "bm": "x = 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-07-q20",
+      "subtopicId": "f2math-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(0, 3) and Q(4, 0) are ends of a diameter of a circle. Find the radius.",
+        "bm": "P(0, 3) dan Q(4, 0) ialah hujung diameter bulatan. Cari jejari."
+      },
+      "explanation": {
+        "en": "Diameter = 5, so radius = 2.5.",
+        "bm": "Diameter = 5, maka jejari = 2.5."
+      },
+      "difficulty": 3,
+      "answer": 2.5,
+      "tolerance": 0,
+      "unit": "units"
+    }
+  ]
+}

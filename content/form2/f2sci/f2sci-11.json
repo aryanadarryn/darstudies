@@ -1,0 +1,538 @@
+{
+  "chapterId": "f2sci-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The light you see from some stars left them before you were born. Looking at the night sky means looking back in time.",
+      "bm": "Cahaya bintang yang anda lihat telah bertolak sebelum anda dilahirkan. Melihat langit malam bermakna melihat masa lampau."
+    },
+    "bigIdeas": [
+      {
+        "en": "The Sun is a star: a hot ball of gas that shines by nuclear fusion.",
+        "bm": "Matahari ialah bintang: bebola gas panas yang bersinar melalui pelakuran nuklear."
+      },
+      {
+        "en": "A star's life depends on its mass.",
+        "bm": "Hayat bintang bergantung pada jisimnya."
+      },
+      {
+        "en": "Galaxies are huge groups of stars; ours is the Milky Way.",
+        "bm": "Galaksi ialah kumpulan besar bintang; galaksi kita ialah Bima Sakti."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Nebula",
+              "bm": "Nebula"
+            },
+            "detail": {
+              "en": "Cloud of gas and dust",
+              "bm": "Awan gas dan debu"
+            }
+          },
+          {
+            "title": {
+              "en": "Protostar",
+              "bm": "Protobintang"
+            },
+            "detail": {
+              "en": "Gas clumps and heats up",
+              "bm": "Gas bergumpal dan panas"
+            }
+          },
+          {
+            "title": {
+              "en": "Main-sequence star",
+              "bm": "Bintang jujukan utama"
+            },
+            "detail": {
+              "en": "Stable fusion",
+              "bm": "Pelakuran stabil"
+            }
+          },
+          {
+            "title": {
+              "en": "Red giant",
+              "bm": "Gergasi merah"
+            },
+            "detail": {
+              "en": "Swells as fuel runs out",
+              "bm": "Membesar apabila bahan api habis"
+            }
+          },
+          {
+            "title": {
+              "en": "White dwarf or supernova",
+              "bm": "Kerdil putih atau supernova"
+            },
+            "detail": {
+              "en": "Depends on mass",
+              "bm": "Bergantung pada jisim"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Star",
+          "bm": "Bintang"
+        },
+        "definition": {
+          "en": "A hot ball of gas producing its own light.",
+          "bm": "Bebola gas panas yang menghasilkan cahaya sendiri."
+        }
+      },
+      {
+        "term": {
+          "en": "Galaxy",
+          "bm": "Galaksi"
+        },
+        "definition": {
+          "en": "A vast group of stars, gas and dust.",
+          "bm": "Kumpulan besar bintang, gas dan debu."
+        }
+      },
+      {
+        "term": {
+          "en": "Light year",
+          "bm": "Tahun cahaya"
+        },
+        "definition": {
+          "en": "The distance light travels in one year.",
+          "bm": "Jarak yang dilalui cahaya dalam setahun."
+        }
+      },
+      {
+        "term": {
+          "en": "Nebula",
+          "bm": "Nebula"
+        },
+        "definition": {
+          "en": "A cloud of gas and dust where stars form.",
+          "bm": "Awan gas dan debu tempat bintang terbentuk."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-11-q01",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The nearest star to Earth is…",
+        "bm": "Bintang paling dekat dengan Bumi ialah…"
+      },
+      "explanation": {
+        "en": "Proxima Centauri is the nearest after the Sun.",
+        "bm": "Proxima Centauri paling dekat selepas Matahari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the Sun",
+          "bm": "Matahari"
+        },
+        {
+          "en": "Proxima Centauri",
+          "bm": "Proxima Centauri"
+        },
+        {
+          "en": "Polaris",
+          "bm": "Polaris"
+        },
+        {
+          "en": "Sirius",
+          "bm": "Sirius"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q02",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Our galaxy is called…",
+        "bm": "Galaksi kita dinamakan…"
+      },
+      "explanation": {
+        "en": "The Solar System lies inside it.",
+        "bm": "Sistem Suria terletak di dalamnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the Milky Way",
+          "bm": "Bima Sakti"
+        },
+        {
+          "en": "Andromeda",
+          "bm": "Andromeda"
+        },
+        {
+          "en": "Orion",
+          "bm": "Orion"
+        },
+        {
+          "en": "the Solar System",
+          "bm": "Sistem Suria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q03",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stars are mainly made of…",
+        "bm": "Bintang terutamanya terdiri daripada…"
+      },
+      "explanation": {
+        "en": "Hydrogen fuses into helium.",
+        "bm": "Hidrogen melakur menjadi helium."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "hydrogen and helium",
+          "bm": "hidrogen dan helium"
+        },
+        {
+          "en": "iron and rock",
+          "bm": "besi dan batu"
+        },
+        {
+          "en": "water and ice",
+          "bm": "air dan ais"
+        },
+        {
+          "en": "oxygen and carbon dioxide",
+          "bm": "oksigen dan karbon dioksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q04",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A light year measures…",
+        "bm": "Tahun cahaya mengukur…"
+      },
+      "explanation": {
+        "en": "Despite the name, it is a distance.",
+        "bm": "Walaupun namanya begitu, ia ialah jarak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "distance",
+          "bm": "jarak"
+        },
+        {
+          "en": "time",
+          "bm": "masa"
+        },
+        {
+          "en": "brightness",
+          "bm": "kecerahan"
+        },
+        {
+          "en": "mass",
+          "bm": "jisim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q05",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hottest stars look…",
+        "bm": "Bintang paling panas kelihatan…"
+      },
+      "explanation": {
+        "en": "Colour shows surface temperature.",
+        "bm": "Warna menunjukkan suhu permukaan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "blue-white",
+          "bm": "biru keputihan"
+        },
+        {
+          "en": "red",
+          "bm": "merah"
+        },
+        {
+          "en": "orange",
+          "bm": "jingga"
+        },
+        {
+          "en": "black",
+          "bm": "hitam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q06",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Sun will most likely end as a…",
+        "bm": "Matahari berkemungkinan berakhir sebagai…"
+      },
+      "explanation": {
+        "en": "It does not have enough mass for a supernova.",
+        "bm": "Jisimnya tidak cukup untuk supernova."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "white dwarf",
+          "bm": "kerdil putih"
+        },
+        {
+          "en": "black hole",
+          "bm": "lohong hitam"
+        },
+        {
+          "en": "neutron star",
+          "bm": "bintang neutron"
+        },
+        {
+          "en": "nebula only",
+          "bm": "nebula sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q07",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stars shine because of…",
+        "bm": "Bintang bersinar kerana…"
+      },
+      "explanation": {
+        "en": "Fusion releases huge energy.",
+        "bm": "Pelakuran membebaskan tenaga yang besar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "nuclear fusion in the core",
+          "bm": "pelakuran nuklear dalam teras"
+        },
+        {
+          "en": "burning coal",
+          "bm": "pembakaran arang"
+        },
+        {
+          "en": "reflecting sunlight",
+          "bm": "memantulkan cahaya matahari"
+        },
+        {
+          "en": "electric current",
+          "bm": "arus elektrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q08",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which shape is the Milky Way?",
+        "bm": "Apakah bentuk Bima Sakti?"
+      },
+      "explanation": {
+        "en": "It is a barred spiral galaxy.",
+        "bm": "Ia ialah galaksi pilin berpalang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Spiral",
+          "bm": "Pilin"
+        },
+        {
+          "en": "Square",
+          "bm": "Segi empat sama"
+        },
+        {
+          "en": "Ring",
+          "bm": "Cincin"
+        },
+        {
+          "en": "Cube",
+          "bm": "Kubus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q09",
+      "subtopicId": "f2sci-11-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the constellation with its use.",
+        "bm": "Padankan buruj dengan kegunaannya."
+      },
+      "explanation": {
+        "en": "People have long used stars for direction and timing.",
+        "bm": "Sejak dahulu manusia menggunakan bintang untuk arah dan masa."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "Orion",
+            "bm": "Orion"
+          },
+          "right": {
+            "en": "marks the planting season in some cultures",
+            "bm": "menandakan musim menanam dalam sesetengah budaya"
+          }
+        },
+        {
+          "left": {
+            "en": "Southern Cross",
+            "bm": "Pari"
+          },
+          "right": {
+            "en": "shows the direction south",
+            "bm": "menunjukkan arah selatan"
+          }
+        },
+        {
+          "left": {
+            "en": "Ursa Major",
+            "bm": "Biduk"
+          },
+          "right": {
+            "en": "helps find the North Star",
+            "bm": "membantu mencari Bintang Utara"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f2sci-11-q10",
+      "subtopicId": "f2sci-11-01",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the life cycle of a Sun-like star.",
+        "bm": "Susun kitaran hidup bintang seperti Matahari."
+      },
+      "explanation": {
+        "en": "Massive stars instead end in a supernova.",
+        "bm": "Bintang besar pula berakhir dengan supernova."
+      },
+      "difficulty": 3,
+      "items": [
+        {
+          "en": "Nebula",
+          "bm": "Nebula"
+        },
+        {
+          "en": "Protostar",
+          "bm": "Protobintang"
+        },
+        {
+          "en": "Main-sequence star",
+          "bm": "Bintang jujukan utama"
+        },
+        {
+          "en": "Red giant",
+          "bm": "Gergasi merah"
+        },
+        {
+          "en": "White dwarf",
+          "bm": "Kerdil putih"
+        }
+      ]
+    },
+    {
+      "id": "f2sci-11-q11",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A massive star can end as…",
+        "bm": "Bintang berjisim besar boleh berakhir sebagai…"
+      },
+      "explanation": {
+        "en": "High mass leads to a violent end.",
+        "bm": "Jisim besar membawa kepada pengakhiran yang dahsyat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a supernova then a neutron star or black hole",
+          "bm": "supernova kemudian bintang neutron atau lohong hitam"
+        },
+        {
+          "en": "a planet",
+          "bm": "planet"
+        },
+        {
+          "en": "a moon",
+          "bm": "bulan"
+        },
+        {
+          "en": "a comet",
+          "bm": "komet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-11-q12",
+      "subtopicId": "f2sci-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do stars seem to move across the sky at night?",
+        "bm": "Mengapa bintang kelihatan bergerak merentasi langit pada waktu malam?"
+      },
+      "explanation": {
+        "en": "The motion we see is due to Earth's spin.",
+        "bm": "Gerakan yang dilihat berpunca daripada putaran Bumi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Earth rotates",
+          "bm": "Bumi berputar"
+        },
+        {
+          "en": "Stars orbit Earth",
+          "bm": "Bintang mengorbit Bumi"
+        },
+        {
+          "en": "The Moon pulls them",
+          "bm": "Bulan menariknya"
+        },
+        {
+          "en": "Clouds push them",
+          "bm": "Awan menolaknya"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

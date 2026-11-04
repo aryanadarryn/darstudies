@@ -1,0 +1,77 @@
+{
+  "chapterId": "f2ask-03",
+  "cards": [
+    {
+      "id": "f2ask-03-f01",
+      "subtopicId": "f2ask-03-01",
+      "front": {
+        "en": "IDE",
+        "bm": "IDE"
+      },
+      "back": {
+        "en": "Tool to write and run code.",
+        "bm": "Alat menulis dan menjalankan kod."
+      }
+    },
+    {
+      "id": "f2ask-03-f02",
+      "subtopicId": "f2ask-03-02",
+      "front": {
+        "en": "Variable",
+        "bm": "Pemboleh ubah"
+      },
+      "back": {
+        "en": "Its value can change.",
+        "bm": "Nilainya boleh berubah."
+      }
+    },
+    {
+      "id": "f2ask-03-f03",
+      "subtopicId": "f2ask-03-02",
+      "front": {
+        "en": "Constant",
+        "bm": "Pemalar"
+      },
+      "back": {
+        "en": "Its value stays the same.",
+        "bm": "Nilainya kekal."
+      }
+    },
+    {
+      "id": "f2ask-03-f04",
+      "subtopicId": "f2ask-03-02",
+      "front": {
+        "en": "Data types",
+        "bm": "Jenis data"
+      },
+      "back": {
+        "en": "Integer, float, string, boolean.",
+        "bm": "Integer, float, string, boolean."
+      }
+    },
+    {
+      "id": "f2ask-03-f05",
+      "subtopicId": "f2ask-03-03",
+      "front": {
+        "en": "Comparison operators",
+        "bm": "Operator perbandingan"
+      },
+      "back": {
+        "en": "==, !=, <, >, <=, >=",
+        "bm": "==, !=, <, >, <=, >="
+      }
+    },
+    {
+      "id": "f2ask-03-f06",
+      "subtopicId": "f2ask-03-03",
+      "front": {
+        "en": "Modulo (%)",
+        "bm": "Modulus (%)"
+      },
+      "back": {
+        "en": "Gives the remainder.",
+        "bm": "Memberi baki."
+      }
+    }
+  ]
+}

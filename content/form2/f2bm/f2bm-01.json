@@ -1,0 +1,434 @@
+{
+  "chapterId": "f2bm-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Setiap ayat dibina daripada golongan kata. Kenal golongan kata dan anda akan lebih mudah membina ayat yang gramatis.",
+      "bm": "Setiap ayat dibina daripada golongan kata. Kenal golongan kata dan anda akan lebih mudah membina ayat yang gramatis."
+    },
+    "bigIdeas": [
+      {
+        "en": "Kata nama menamakan orang, benda dan tempat.",
+        "bm": "Kata nama menamakan orang, benda dan tempat."
+      },
+      {
+        "en": "Kata kerja menunjukkan perbuatan atau keadaan.",
+        "bm": "Kata kerja menunjukkan perbuatan atau keadaan."
+      },
+      {
+        "en": "Kata adjektif menerangkan sifat.",
+        "bm": "Kata adjektif menerangkan sifat."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Golongan",
+          "bm": "Golongan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Kata nama am",
+              "bm": "Kata nama am"
+            },
+            "detail": {
+              "en": "guru, kereta",
+              "bm": "guru, kereta"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata nama khas",
+              "bm": "Kata nama khas"
+            },
+            "detail": {
+              "en": "Ali, Pulau Pinang",
+              "bm": "Ali, Pulau Pinang"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata kerja transitif",
+              "bm": "Kata kerja transitif"
+            },
+            "detail": {
+              "en": "membaca buku",
+              "bm": "membaca buku"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata kerja tak transitif",
+              "bm": "Kata kerja tak transitif"
+            },
+            "detail": {
+              "en": "menangis",
+              "bm": "menangis"
+            }
+          },
+          {
+            "label": {
+              "en": "Kata adjektif",
+              "bm": "Kata adjektif"
+            },
+            "detail": {
+              "en": "cantik, tinggi",
+              "bm": "cantik, tinggi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata nama khas",
+          "bm": "Kata nama khas"
+        },
+        "definition": {
+          "en": "Nama khusus; huruf awal ditulis dengan huruf besar.",
+          "bm": "Nama khusus; huruf awal ditulis dengan huruf besar."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata kerja transitif",
+          "bm": "Kata kerja transitif"
+        },
+        "definition": {
+          "en": "Kata kerja yang memerlukan objek.",
+          "bm": "Kata kerja yang memerlukan objek."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata adjektif",
+          "bm": "Kata adjektif"
+        },
+        "definition": {
+          "en": "Kata yang menerangkan sifat kata nama.",
+          "bm": "Kata yang menerangkan sifat kata nama."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bm-01-q01",
+      "subtopicId": "f2bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah kata nama khas?",
+        "bm": "Yang manakah kata nama khas?"
+      },
+      "explanation": {
+        "en": "Kuantan ialah nama tempat yang khusus.",
+        "bm": "Kuantan ialah nama tempat yang khusus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kuantan",
+          "bm": "Kuantan"
+        },
+        {
+          "en": "bandar",
+          "bm": "bandar"
+        },
+        {
+          "en": "sungai",
+          "bm": "sungai"
+        },
+        {
+          "en": "guru",
+          "bm": "guru"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q02",
+      "subtopicId": "f2bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata ganti nama diri pertama ialah…",
+        "bm": "Kata ganti nama diri pertama ialah…"
+      },
+      "explanation": {
+        "en": "Saya merujuk kepada diri penutur.",
+        "bm": "Saya merujuk kepada diri penutur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "saya",
+          "bm": "saya"
+        },
+        {
+          "en": "awak",
+          "bm": "awak"
+        },
+        {
+          "en": "dia",
+          "bm": "dia"
+        },
+        {
+          "en": "mereka",
+          "bm": "mereka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q03",
+      "subtopicId": "f2bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Kami\" digunakan apabila…",
+        "bm": "\"Kami\" digunakan apabila…"
+      },
+      "explanation": {
+        "en": "\"Kita\" pula termasuk orang yang dilawan bercakap.",
+        "bm": "\"Kita\" pula termasuk orang yang dilawan bercakap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "orang yang dilawan bercakap tidak termasuk",
+          "bm": "orang yang dilawan bercakap tidak termasuk"
+        },
+        {
+          "en": "orang yang dilawan bercakap termasuk",
+          "bm": "orang yang dilawan bercakap termasuk"
+        },
+        {
+          "en": "merujuk seorang sahaja",
+          "bm": "merujuk seorang sahaja"
+        },
+        {
+          "en": "merujuk binatang",
+          "bm": "merujuk binatang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q04",
+      "subtopicId": "f2bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah ayat dengan kata kerja transitif?",
+        "bm": "Yang manakah ayat dengan kata kerja transitif?"
+      },
+      "explanation": {
+        "en": "Membaca memerlukan objek, iaitu buku.",
+        "bm": "Membaca memerlukan objek, iaitu buku."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ali membaca buku.",
+          "bm": "Ali membaca buku."
+        },
+        {
+          "en": "Ali menangis.",
+          "bm": "Ali menangis."
+        },
+        {
+          "en": "Ali tidur.",
+          "bm": "Ali tidur."
+        },
+        {
+          "en": "Ali berlari.",
+          "bm": "Ali berlari."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q05",
+      "subtopicId": "f2bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata kerja tak transitif berpelengkap terdapat dalam ayat…",
+        "bm": "Kata kerja tak transitif berpelengkap terdapat dalam ayat…"
+      },
+      "explanation": {
+        "en": "Merah melengkapi \"berbaju\", bukan objek.",
+        "bm": "Merah melengkapi \"berbaju\", bukan objek."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Dia berbaju merah.",
+          "bm": "Dia berbaju merah."
+        },
+        {
+          "en": "Dia makan nasi.",
+          "bm": "Dia makan nasi."
+        },
+        {
+          "en": "Dia membeli kereta.",
+          "bm": "Dia membeli kereta."
+        },
+        {
+          "en": "Dia menulis surat.",
+          "bm": "Dia menulis surat."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q06",
+      "subtopicId": "f2bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Antara berikut, yang manakah boleh menjadi ayat pasif?",
+        "bm": "Antara berikut, yang manakah boleh menjadi ayat pasif?"
+      },
+      "explanation": {
+        "en": "Hanya ayat bertransitif boleh dipasifkan.",
+        "bm": "Hanya ayat bertransitif boleh dipasifkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Adik membasuh pinggan.",
+          "bm": "Adik membasuh pinggan."
+        },
+        {
+          "en": "Adik menangis.",
+          "bm": "Adik menangis."
+        },
+        {
+          "en": "Adik tidur.",
+          "bm": "Adik tidur."
+        },
+        {
+          "en": "Adik ketawa.",
+          "bm": "Adik ketawa."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q07",
+      "subtopicId": "f2bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata adjektif warna ialah…",
+        "bm": "Kata adjektif warna ialah…"
+      },
+      "explanation": {
+        "en": "Biru menerangkan warna.",
+        "bm": "Biru menerangkan warna."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "biru",
+          "bm": "biru"
+        },
+        {
+          "en": "lari",
+          "bm": "lari"
+        },
+        {
+          "en": "buku",
+          "bm": "buku"
+        },
+        {
+          "en": "dia",
+          "bm": "dia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q08",
+      "subtopicId": "f2bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Amat cantik\" menunjukkan kata adjektif dengan…",
+        "bm": "\"Amat cantik\" menunjukkan kata adjektif dengan…"
+      },
+      "explanation": {
+        "en": "\"Amat\" menguatkan sifat.",
+        "bm": "\"Amat\" menguatkan sifat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "kata penguat",
+          "bm": "kata penguat"
+        },
+        {
+          "en": "kata sendi",
+          "bm": "kata sendi"
+        },
+        {
+          "en": "kata hubung",
+          "bm": "kata hubung"
+        },
+        {
+          "en": "kata seru",
+          "bm": "kata seru"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q09",
+      "subtopicId": "f2bm-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat manakah menggunakan kata adjektif dengan betul?",
+        "bm": "Ayat manakah menggunakan kata adjektif dengan betul?"
+      },
+      "explanation": {
+        "en": "Besar menerangkan sifat rumah.",
+        "bm": "Besar menerangkan sifat rumah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rumah itu sangat besar.",
+          "bm": "Rumah itu sangat besar."
+        },
+        {
+          "en": "Rumah itu sangat berlari.",
+          "bm": "Rumah itu sangat berlari."
+        },
+        {
+          "en": "Rumah itu amat membaca.",
+          "bm": "Rumah itu amat membaca."
+        },
+        {
+          "en": "Rumah itu sangat dia.",
+          "bm": "Rumah itu sangat dia."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-01-q10",
+      "subtopicId": "f2bm-01-01",
+      "type": "fill",
+      "prompt": {
+        "en": "Kata nama khas ditulis dengan huruf ___ pada awal perkataan.",
+        "bm": "Kata nama khas ditulis dengan huruf ___ pada awal perkataan."
+      },
+      "explanation": {
+        "en": "Contoh: Melaka.",
+        "bm": "Contoh: Melaka."
+      },
+      "difficulty": 1,
+      "answer": [
+        "besar"
+      ]
+    }
+  ]
+}

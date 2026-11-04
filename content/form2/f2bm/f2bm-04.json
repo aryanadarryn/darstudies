@@ -1,0 +1,407 @@
+{
+  "chapterId": "f2bm-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"Dari\" untuk tempat dan masa, \"daripada\" untuk orang dan benda. Kesilapan kecil ini antara yang paling kerap dalam karangan.",
+      "bm": "\"Dari\" untuk tempat dan masa, \"daripada\" untuk orang dan benda. Kesilapan kecil ini antara yang paling kerap dalam karangan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Kata sendi nama digunakan di depan frasa nama.",
+        "bm": "Kata sendi nama digunakan di depan frasa nama."
+      },
+      {
+        "en": "Ayat tunggal mempunyai satu subjek dan satu predikat.",
+        "bm": "Ayat tunggal mempunyai satu subjek dan satu predikat."
+      },
+      {
+        "en": "Ayat majmuk digabungkan oleh kata hubung.",
+        "bm": "Ayat majmuk digabungkan oleh kata hubung."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Kata sendi",
+          "bm": "Kata sendi"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "dari",
+              "bm": "dari"
+            },
+            "detail": {
+              "en": "tempat, masa",
+              "bm": "tempat, masa"
+            }
+          },
+          {
+            "label": {
+              "en": "daripada",
+              "bm": "daripada"
+            },
+            "detail": {
+              "en": "orang, benda, perbandingan",
+              "bm": "orang, benda, perbandingan"
+            }
+          },
+          {
+            "label": {
+              "en": "kepada",
+              "bm": "kepada"
+            },
+            "detail": {
+              "en": "orang, haiwan, perkara abstrak",
+              "bm": "orang, haiwan, perkara abstrak"
+            }
+          },
+          {
+            "label": {
+              "en": "ke",
+              "bm": "ke"
+            },
+            "detail": {
+              "en": "tempat, arah, masa",
+              "bm": "tempat, arah, masa"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Subjek",
+          "bm": "Subjek"
+        },
+        "definition": {
+          "en": "Perkara yang diceritakan.",
+          "bm": "Perkara yang diceritakan."
+        }
+      },
+      {
+        "term": {
+          "en": "Predikat",
+          "bm": "Predikat"
+        },
+        "definition": {
+          "en": "Cerita tentang subjek.",
+          "bm": "Cerita tentang subjek."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata hubung",
+          "bm": "Kata hubung"
+        },
+        "definition": {
+          "en": "Kata yang menggabungkan ayat.",
+          "bm": "Kata yang menggabungkan ayat."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bm-04-q01",
+      "subtopicId": "f2bm-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pilih yang betul: \"Dia pulang ___ Kuantan.\"",
+        "bm": "Pilih yang betul: \"Dia pulang ___ Kuantan.\""
+      },
+      "explanation": {
+        "en": "Dari untuk tempat.",
+        "bm": "Dari untuk tempat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dari",
+          "bm": "dari"
+        },
+        {
+          "en": "daripada",
+          "bm": "daripada"
+        },
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        },
+        {
+          "en": "pada",
+          "bm": "pada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q02",
+      "subtopicId": "f2bm-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pilih yang betul: \"Saya menerima hadiah ___ ibu.\"",
+        "bm": "Pilih yang betul: \"Saya menerima hadiah ___ ibu.\""
+      },
+      "explanation": {
+        "en": "Daripada untuk orang.",
+        "bm": "Daripada untuk orang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "daripada",
+          "bm": "daripada"
+        },
+        {
+          "en": "dari",
+          "bm": "dari"
+        },
+        {
+          "en": "di",
+          "bm": "di"
+        },
+        {
+          "en": "ke",
+          "bm": "ke"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q03",
+      "subtopicId": "f2bm-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pilih yang betul: \"Dia pergi ___ pasar.\"",
+        "bm": "Pilih yang betul: \"Dia pergi ___ pasar.\""
+      },
+      "explanation": {
+        "en": "Ke untuk tempat.",
+        "bm": "Ke untuk tempat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ke",
+          "bm": "ke"
+        },
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        },
+        {
+          "en": "di",
+          "bm": "di"
+        },
+        {
+          "en": "daripada",
+          "bm": "daripada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q04",
+      "subtopicId": "f2bm-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"di\" dieja rapat apabila…",
+        "bm": "\"di\" dieja rapat apabila…"
+      },
+      "explanation": {
+        "en": "Contoh: dibaca berbanding di sekolah.",
+        "bm": "Contoh: dibaca berbanding di sekolah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "ia imbuhan kata kerja pasif",
+          "bm": "ia imbuhan kata kerja pasif"
+        },
+        {
+          "en": "ia kata sendi tempat",
+          "bm": "ia kata sendi tempat"
+        },
+        {
+          "en": "ia diikuti nama tempat",
+          "bm": "ia diikuti nama tempat"
+        },
+        {
+          "en": "ia kata nama",
+          "bm": "ia kata nama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q05",
+      "subtopicId": "f2bm-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dalam \"Burung itu terbang\", predikatnya ialah…",
+        "bm": "Dalam \"Burung itu terbang\", predikatnya ialah…"
+      },
+      "explanation": {
+        "en": "Terbang menceritakan subjek.",
+        "bm": "Terbang menceritakan subjek."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "terbang",
+          "bm": "terbang"
+        },
+        {
+          "en": "burung",
+          "bm": "burung"
+        },
+        {
+          "en": "itu",
+          "bm": "itu"
+        },
+        {
+          "en": "burung itu",
+          "bm": "burung itu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q06",
+      "subtopicId": "f2bm-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah ayat majmuk?",
+        "bm": "Yang manakah ayat majmuk?"
+      },
+      "explanation": {
+        "en": "Dua ayat digabung dengan \"dan\".",
+        "bm": "Dua ayat digabung dengan \"dan\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ali membaca dan Abu menulis.",
+          "bm": "Ali membaca dan Abu menulis."
+        },
+        {
+          "en": "Ali membaca.",
+          "bm": "Ali membaca."
+        },
+        {
+          "en": "Abu menulis surat.",
+          "bm": "Abu menulis surat."
+        },
+        {
+          "en": "Dia tidur.",
+          "bm": "Dia tidur."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q07",
+      "subtopicId": "f2bm-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata hubung pancangan ialah…",
+        "bm": "Kata hubung pancangan ialah…"
+      },
+      "explanation": {
+        "en": "Yang memancangkan ayat kecil.",
+        "bm": "Yang memancangkan ayat kecil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "yang",
+          "bm": "yang"
+        },
+        {
+          "en": "dan",
+          "bm": "dan"
+        },
+        {
+          "en": "tetapi",
+          "bm": "tetapi"
+        },
+        {
+          "en": "atau",
+          "bm": "atau"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q08",
+      "subtopicId": "f2bm-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat majmuk pancangan ialah…",
+        "bm": "Ayat majmuk pancangan ialah…"
+      },
+      "explanation": {
+        "en": "Ayat kecil dipancangkan dengan \"yang\".",
+        "bm": "Ayat kecil dipancangkan dengan \"yang\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Murid yang rajin itu lulus.",
+          "bm": "Murid yang rajin itu lulus."
+        },
+        {
+          "en": "Murid itu lulus.",
+          "bm": "Murid itu lulus."
+        },
+        {
+          "en": "Murid lulus dan gembira.",
+          "bm": "Murid lulus dan gembira."
+        },
+        {
+          "en": "Murid itu rajin tetapi penat.",
+          "bm": "Murid itu rajin tetapi penat."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bm-04-q09",
+      "subtopicId": "f2bm-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata hubung gabungan ialah…",
+        "bm": "Kata hubung gabungan ialah…"
+      },
+      "explanation": {
+        "en": "Menggabungkan dua ayat setara.",
+        "bm": "Menggabungkan dua ayat setara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tetapi",
+          "bm": "tetapi"
+        },
+        {
+          "en": "yang",
+          "bm": "yang"
+        },
+        {
+          "en": "kerana",
+          "bm": "kerana"
+        },
+        {
+          "en": "apabila",
+          "bm": "apabila"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

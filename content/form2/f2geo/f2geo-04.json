@@ -1,0 +1,422 @@
+{
+  "chapterId": "f2geo-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Malaysia's monsoons bring such heavy rain that east coast fishermen plan their year around them.",
+      "bm": "Monsun Malaysia membawa hujan lebat sehingga nelayan pantai timur merancang kerja setahun mengikutnya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Weather is short term; climate is long term.",
+        "bm": "Cuaca ialah jangka pendek; iklim jangka panjang."
+      },
+      {
+        "en": "Latitude, relief and wind affect climate.",
+        "bm": "Latitud, relief dan angin mempengaruhi iklim."
+      },
+      {
+        "en": "Malaysia has an equatorial climate with monsoons.",
+        "bm": "Malaysia beriklim khatulistiwa dengan monsun."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Months",
+            "bm": "Bulan"
+          },
+          {
+            "en": "Effect",
+            "bm": "Kesan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Southwest",
+              "bm": "Barat Daya"
+            },
+            "cells": [
+              {
+                "en": "May–September",
+                "bm": "Mei–September"
+              },
+              {
+                "en": "drier",
+                "bm": "lebih kering"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Northeast",
+              "bm": "Timur Laut"
+            },
+            "cells": [
+              {
+                "en": "November–March",
+                "bm": "November–Mac"
+              },
+              {
+                "en": "heavy rain in the east",
+                "bm": "hujan lebat di timur"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Weather",
+          "bm": "Cuaca"
+        },
+        "definition": {
+          "en": "Atmospheric conditions at a place for a short time.",
+          "bm": "Keadaan atmosfera di suatu tempat dalam masa singkat."
+        }
+      },
+      {
+        "term": {
+          "en": "Climate",
+          "bm": "Iklim"
+        },
+        "definition": {
+          "en": "The average weather over about 30 years.",
+          "bm": "Purata cuaca selama kira-kira 30 tahun."
+        }
+      },
+      {
+        "term": {
+          "en": "Monsoon",
+          "bm": "Monsun"
+        },
+        "definition": {
+          "en": "A seasonal change in wind direction.",
+          "bm": "Perubahan arah angin mengikut musim."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-04-q01",
+      "subtopicId": "f2geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an element of weather?",
+        "bm": "Yang manakah elemen cuaca?"
+      },
+      "explanation": {
+        "en": "Others include rainfall, wind and humidity.",
+        "bm": "Lain-lain termasuk hujan, angin dan kelembapan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Temperature",
+          "bm": "Suhu"
+        },
+        {
+          "en": "Population",
+          "bm": "Penduduk"
+        },
+        {
+          "en": "Road",
+          "bm": "Jalan"
+        },
+        {
+          "en": "Forest",
+          "bm": "Hutan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q02",
+      "subtopicId": "f2geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rainfall is measured with a…",
+        "bm": "Hujan diukur dengan…"
+      },
+      "explanation": {
+        "en": "Measured in millimetres.",
+        "bm": "Diukur dalam milimeter."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "rain gauge",
+          "bm": "tolok hujan"
+        },
+        {
+          "en": "barometer",
+          "bm": "barometer"
+        },
+        {
+          "en": "wind vane",
+          "bm": "ram angin"
+        },
+        {
+          "en": "hygrometer",
+          "bm": "higrometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q03",
+      "subtopicId": "f2geo-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Air pressure is measured with a…",
+        "bm": "Tekanan udara diukur dengan…"
+      },
+      "explanation": {
+        "en": "Often in hectopascals.",
+        "bm": "Biasanya dalam hektopascal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "barometer",
+          "bm": "barometer"
+        },
+        {
+          "en": "thermometer",
+          "bm": "termometer"
+        },
+        {
+          "en": "rain gauge",
+          "bm": "tolok hujan"
+        },
+        {
+          "en": "anemometer",
+          "bm": "anemometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q04",
+      "subtopicId": "f2geo-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Daily max 33 °C and min 24 °C. Find the daily temperature range.",
+        "bm": "Suhu maksimum 33 °C dan minimum 24 °C. Cari julat suhu harian."
+      },
+      "explanation": {
+        "en": "33 − 24 = 9.",
+        "bm": "33 − 24 = 9."
+      },
+      "difficulty": 2,
+      "answer": 9,
+      "tolerance": 0.01,
+      "unit": "°C"
+    },
+    {
+      "id": "f2geo-04-q05",
+      "subtopicId": "f2geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Higher altitude generally means…",
+        "bm": "Altitud lebih tinggi biasanya bermaksud…"
+      },
+      "explanation": {
+        "en": "That is why Cameron Highlands is cool.",
+        "bm": "Sebab itu Cameron Highlands sejuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cooler temperature",
+          "bm": "suhu lebih sejuk"
+        },
+        {
+          "en": "hotter temperature",
+          "bm": "suhu lebih panas"
+        },
+        {
+          "en": "more sand",
+          "bm": "lebih pasir"
+        },
+        {
+          "en": "no wind",
+          "bm": "tiada angin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q06",
+      "subtopicId": "f2geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The location of Malaysia near the equator gives…",
+        "bm": "Lokasi Malaysia dekat khatulistiwa memberi…"
+      },
+      "explanation": {
+        "en": "Strong sunlight all year.",
+        "bm": "Cahaya matahari kuat sepanjang tahun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "high temperatures all year",
+          "bm": "suhu tinggi sepanjang tahun"
+        },
+        {
+          "en": "snow",
+          "bm": "salji"
+        },
+        {
+          "en": "four seasons",
+          "bm": "empat musim"
+        },
+        {
+          "en": "polar nights",
+          "bm": "malam kutub"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q07",
+      "subtopicId": "f2geo-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Windward sides of mountains receive more rain because…",
+        "bm": "Cerun menghadap angin menerima lebih hujan kerana…"
+      },
+      "explanation": {
+        "en": "This is relief rainfall.",
+        "bm": "Ini hujan relief."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "moist air rises and cools",
+          "bm": "udara lembap naik dan menyejuk"
+        },
+        {
+          "en": "air sinks and warms",
+          "bm": "udara turun dan memanas"
+        },
+        {
+          "en": "there is no moisture",
+          "bm": "tiada kelembapan"
+        },
+        {
+          "en": "the Sun is closer",
+          "bm": "Matahari lebih dekat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q08",
+      "subtopicId": "f2geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia's climate is…",
+        "bm": "Iklim Malaysia ialah…"
+      },
+      "explanation": {
+        "en": "Hot and wet all year.",
+        "bm": "Panas dan lembap sepanjang tahun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "equatorial",
+          "bm": "khatulistiwa"
+        },
+        {
+          "en": "polar",
+          "bm": "kutub"
+        },
+        {
+          "en": "desert",
+          "bm": "gurun"
+        },
+        {
+          "en": "Mediterranean",
+          "bm": "Mediterranean"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q09",
+      "subtopicId": "f2geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Northeast Monsoon brings heavy rain to…",
+        "bm": "Monsun Timur Laut membawa hujan lebat ke…"
+      },
+      "explanation": {
+        "en": "Kelantan and Terengganu often flood.",
+        "bm": "Kelantan dan Terengganu sering banjir."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the east coast of Peninsular Malaysia",
+          "bm": "pantai timur Semenanjung Malaysia"
+        },
+        {
+          "en": "the west coast only",
+          "bm": "pantai barat sahaja"
+        },
+        {
+          "en": "Perlis only",
+          "bm": "Perlis sahaja"
+        },
+        {
+          "en": "nowhere",
+          "bm": "tiada tempat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-04-q10",
+      "subtopicId": "f2geo-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Afternoon thunderstorms in Malaysia are often caused by…",
+        "bm": "Ribut petir petang di Malaysia sering disebabkan oleh…"
+      },
+      "explanation": {
+        "en": "Hot air rises, cools and forms clouds.",
+        "bm": "Udara panas naik, menyejuk dan membentuk awan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "convection from strong heating",
+          "bm": "perolakan daripada pemanasan kuat"
+        },
+        {
+          "en": "snow melting",
+          "bm": "salji mencair"
+        },
+        {
+          "en": "cold fronts from the Arctic",
+          "bm": "jisim sejuk Artik"
+        },
+        {
+          "en": "tidal waves",
+          "bm": "ombak besar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

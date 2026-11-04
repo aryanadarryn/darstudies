@@ -1,0 +1,139 @@
+{
+  "chapterId": "f2ask-02",
+  "reviewed": false,
+  "subtopics": {
+    "f2ask-02-01": {
+      "keyPoints": [
+        {
+          "en": "Pseudocode uses plain words.",
+          "bm": "Pseudokod menggunakan perkataan mudah."
+        },
+        {
+          "en": "Flowcharts use standard symbols.",
+          "bm": "Carta alir menggunakan simbol piawai."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Process",
+            "bm": "Proses"
+          },
+          "meaning": {
+            "en": "An action or calculation.",
+            "bm": "Tindakan atau pengiraan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/flowchart.svg",
+          "alt": {
+            "en": "A flowchart using selection.",
+            "bm": "Carta alir yang menggunakan pilihan."
+          },
+          "caption": {
+            "en": "A flowchart using selection.",
+            "bm": "Carta alir yang menggunakan pilihan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Symbol for input?",
+          "bm": "Simbol untuk input?"
+        },
+        "answer": {
+          "en": "Parallelogram",
+          "bm": "Segi empat selari"
+        }
+      },
+      "tip": {
+        "en": "Draw arrows clearly from top to bottom.",
+        "bm": "Lukis anak panah jelas dari atas ke bawah."
+      }
+    },
+    "f2ask-02-02": {
+      "keyPoints": [
+        {
+          "en": "Sequence runs in order.",
+          "bm": "Urutan berjalan mengikut turutan."
+        },
+        {
+          "en": "Selection checks a condition.",
+          "bm": "Pilihan menyemak syarat."
+        },
+        {
+          "en": "Repetition loops.",
+          "bm": "Ulangan menggelung."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Loop",
+            "bm": "Gelung"
+          },
+          "meaning": {
+            "en": "Repeated steps.",
+            "bm": "Langkah berulang."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which structure uses \"while\"?",
+          "bm": "Struktur mana menggunakan \"while\"?"
+        },
+        "answer": {
+          "en": "Repetition",
+          "bm": "Ulangan"
+        }
+      },
+      "tip": {
+        "en": "Trace loops on paper.",
+        "bm": "Surih gelung di atas kertas."
+      }
+    },
+    "f2ask-02-03": {
+      "keyPoints": [
+        {
+          "en": "Check inputs and expected outputs.",
+          "bm": "Semak input dan output dijangka."
+        },
+        {
+          "en": "Fix errors and test again.",
+          "bm": "Baiki ralat dan uji semula."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Debug",
+            "bm": "Nyahpepijat"
+          },
+          "meaning": {
+            "en": "Finding and fixing errors.",
+            "bm": "Mencari dan membaiki ralat."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Syntax or logic: wrong formula?",
+          "bm": "Sintaks atau logik: rumus salah?"
+        },
+        "answer": {
+          "en": "Logic",
+          "bm": "Logik"
+        }
+      },
+      "tip": {
+        "en": "Test normal, boundary and invalid data.",
+        "bm": "Uji data biasa, sempadan dan tidak sah."
+      }
+    }
+  }
+}

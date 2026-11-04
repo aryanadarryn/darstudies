@@ -1,0 +1,354 @@
+{
+  "chapterId": "f2pjk-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In football, moving to space without the ball matters as much as dribbling. Games are about skill and thinking.",
+      "bm": "Dalam bola sepak, bergerak ke ruang tanpa bola sama penting dengan menggelecek. Permainan melibatkan kemahiran dan pemikiran."
+    },
+    "bigIdeas": [
+      {
+        "en": "Practise skills then apply them in games.",
+        "bm": "Latih kemahiran kemudian gunakan dalam permainan."
+      },
+      {
+        "en": "Know the rules.",
+        "bm": "Ketahui peraturan."
+      },
+      {
+        "en": "Play with sportsmanship.",
+        "bm": "Bermain dengan semangat kesukanan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Category",
+          "bm": "Kategori"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Invasion",
+              "bm": "Serangan"
+            },
+            "detail": {
+              "en": "Football, netball, hockey",
+              "bm": "Bola sepak, bola jaring, hoki"
+            }
+          },
+          {
+            "label": {
+              "en": "Net",
+              "bm": "Jaring"
+            },
+            "detail": {
+              "en": "Badminton, sepak takraw",
+              "bm": "Badminton, sepak takraw"
+            }
+          },
+          {
+            "label": {
+              "en": "Athletics",
+              "bm": "Olahraga"
+            },
+            "detail": {
+              "en": "Sprints, jumps, throws",
+              "bm": "Lari pecut, lompat, lontar"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Sportsmanship",
+          "bm": "Semangat kesukanan"
+        },
+        "definition": {
+          "en": "Fair and respectful play.",
+          "bm": "Bermain adil dan hormat."
+        }
+      },
+      {
+        "term": {
+          "en": "Tactic",
+          "bm": "Taktik"
+        },
+        "definition": {
+          "en": "A plan to gain advantage.",
+          "bm": "Rancangan untuk mendapat kelebihan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pjk-02-q01",
+      "subtopicId": "f2pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an invasion game?",
+        "bm": "Yang manakah permainan serangan?"
+      },
+      "explanation": {
+        "en": "Teams invade the other half.",
+        "bm": "Pasukan menyerang kawasan lawan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Football",
+          "bm": "Bola sepak"
+        },
+        {
+          "en": "Badminton",
+          "bm": "Badminton"
+        },
+        {
+          "en": "Bowling",
+          "bm": "Boling"
+        },
+        {
+          "en": "Golf",
+          "bm": "Golf"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q02",
+      "subtopicId": "f2pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A chest pass in netball is used for…",
+        "bm": "Hantaran dada dalam bola jaring digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Both hands at chest level.",
+        "bm": "Kedua-dua tangan pada paras dada."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "short accurate passes",
+          "bm": "hantaran pendek tepat"
+        },
+        {
+          "en": "shooting only",
+          "bm": "menjaring sahaja"
+        },
+        {
+          "en": "defending only",
+          "bm": "mempertahan sahaja"
+        },
+        {
+          "en": "serving",
+          "bm": "servis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q03",
+      "subtopicId": "f2pjk-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why move into space after passing?",
+        "bm": "Mengapa bergerak ke ruang selepas menghantar?"
+      },
+      "explanation": {
+        "en": "Passing and moving is key.",
+        "bm": "Hantar dan gerak ialah kunci."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "To get open for the return pass",
+          "bm": "Untuk bersedia menerima hantaran semula"
+        },
+        {
+          "en": "To rest",
+          "bm": "Untuk berehat"
+        },
+        {
+          "en": "To avoid the game",
+          "bm": "Untuk mengelak permainan"
+        },
+        {
+          "en": "To block teammates",
+          "bm": "Untuk menghalang rakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q04",
+      "subtopicId": "f2pjk-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sepak takraw is played using…",
+        "bm": "Sepak takraw dimainkan menggunakan…"
+      },
+      "explanation": {
+        "en": "Hands are not allowed.",
+        "bm": "Tangan tidak dibenarkan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "feet, head and body except hands",
+          "bm": "kaki, kepala dan badan kecuali tangan"
+        },
+        {
+          "en": "rackets",
+          "bm": "raket"
+        },
+        {
+          "en": "hands",
+          "bm": "tangan"
+        },
+        {
+          "en": "sticks",
+          "bm": "kayu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q05",
+      "subtopicId": "f2pjk-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In badminton, a clear shot goes…",
+        "bm": "Dalam badminton, pukulan lambung pergi…"
+      },
+      "explanation": {
+        "en": "It pushes the opponent back.",
+        "bm": "Ia menolak lawan ke belakang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "high to the back of the court",
+          "bm": "tinggi ke belakang gelanggang"
+        },
+        {
+          "en": "low to the net",
+          "bm": "rendah ke jaring"
+        },
+        {
+          "en": "out of the hall",
+          "bm": "keluar dewan"
+        },
+        {
+          "en": "to your own court",
+          "bm": "ke gelanggang sendiri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q06",
+      "subtopicId": "f2pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A sprint start uses…",
+        "bm": "Permulaan lari pecut menggunakan…"
+      },
+      "explanation": {
+        "en": "It gives explosive drive.",
+        "bm": "Ia memberi dorongan kuat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a crouch start",
+          "bm": "permulaan berlepas rendah"
+        },
+        {
+          "en": "a walk",
+          "bm": "berjalan"
+        },
+        {
+          "en": "a jump",
+          "bm": "melompat"
+        },
+        {
+          "en": "a sit",
+          "bm": "duduk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q07",
+      "subtopicId": "f2pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In the relay, the baton must be passed…",
+        "bm": "Dalam lari berganti-ganti, baton mesti dihantar…"
+      },
+      "explanation": {
+        "en": "Otherwise the team is disqualified.",
+        "bm": "Jika tidak, pasukan dibatalkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "inside the changeover zone",
+          "bm": "di dalam zon pertukaran"
+        },
+        {
+          "en": "anywhere",
+          "bm": "di mana-mana"
+        },
+        {
+          "en": "after the finish",
+          "bm": "selepas penamat"
+        },
+        {
+          "en": "by throwing",
+          "bm": "dengan melontar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-02-q08",
+      "subtopicId": "f2pjk-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which technique gives a long jump its distance?",
+        "bm": "Teknik manakah memberi jarak pada lompat jauh?"
+      },
+      "explanation": {
+        "en": "Speed turns into distance.",
+        "bm": "Kelajuan ditukar kepada jarak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Fast run-up and strong take-off",
+          "bm": "Larian laju dan lonjakan kuat"
+        },
+        {
+          "en": "Standing still",
+          "bm": "Berdiri diam"
+        },
+        {
+          "en": "Walking",
+          "bm": "Berjalan"
+        },
+        {
+          "en": "Landing first",
+          "bm": "Mendarat dahulu"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

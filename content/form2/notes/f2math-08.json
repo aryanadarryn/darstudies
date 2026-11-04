@@ -1,0 +1,138 @@
+{
+  "chapterId": "f2math-08",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-08-01": {
+      "keyPoints": [
+        {
+          "en": "A function can be shown as an equation, table, arrow diagram or graph.",
+          "bm": "Fungsi boleh ditunjukkan sebagai persamaan, jadual, gambar rajah anak panah atau graf."
+        },
+        {
+          "en": "Many-to-one is a function; one-to-many is not.",
+          "bm": "Banyak kepada satu ialah fungsi; satu kepada banyak bukan fungsi."
+        },
+        {
+          "en": "f(x) is the output for input x.",
+          "bm": "f(x) ialah output bagi input x."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Input",
+            "bm": "Input"
+          },
+          "meaning": {
+            "en": "Value put in.",
+            "bm": "Nilai dimasukkan."
+          }
+        },
+        {
+          "term": {
+            "en": "Output",
+            "bm": "Output"
+          },
+          "meaning": {
+            "en": "Value that comes out.",
+            "bm": "Nilai dihasilkan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "f(x) = x + 5. f(2)?",
+          "bm": "f(x) = x + 5. f(2)?"
+        },
+        "answer": {
+          "en": "7",
+          "bm": "7"
+        }
+      },
+      "tip": {
+        "en": "Put negative inputs in brackets.",
+        "bm": "Letak input negatif dalam kurungan."
+      }
+    },
+    "f2math-08-02": {
+      "keyPoints": [
+        {
+          "en": "Make a table of x and y values.",
+          "bm": "Bina jadual nilai x dan y."
+        },
+        {
+          "en": "Plot points and join with a line or smooth curve.",
+          "bm": "Plot titik dan sambung dengan garis atau lengkung licin."
+        },
+        {
+          "en": "Read values from the graph with guide lines.",
+          "bm": "Baca nilai daripada graf dengan garis panduan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Parabola",
+            "bm": "Parabola"
+          },
+          "meaning": {
+            "en": "U-shaped curve of a quadratic.",
+            "bm": "Lengkung bentuk U bagi kuadratik."
+          }
+        },
+        {
+          "term": {
+            "en": "Scale",
+            "bm": "Skala"
+          },
+          "meaning": {
+            "en": "The value of each grid square.",
+            "bm": "Nilai setiap petak grid."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/fn-graphs.svg",
+          "alt": {
+            "en": "Linear and quadratic graphs.",
+            "bm": "Graf linear dan kuadratik."
+          },
+          "caption": {
+            "en": "Linear and quadratic graphs.",
+            "bm": "Graf linear dan kuadratik."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        },
+        {
+          "src": "img/f2/fn-graphs2.svg",
+          "alt": {
+            "en": "Cubic and reciprocal graphs.",
+            "bm": "Graf kubik dan salingan."
+          },
+          "caption": {
+            "en": "Cubic and reciprocal graphs.",
+            "bm": "Graf kubik dan salingan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Shape of y = −x²?",
+          "bm": "Bentuk y = −x²?"
+        },
+        "answer": {
+          "en": "An upside-down parabola (∩)",
+          "bm": "Parabola terbalik (∩)"
+        }
+      },
+      "tip": {
+        "en": "Draw curves freehand and smoothly; do not use a ruler.",
+        "bm": "Lukis lengkung dengan licin tanpa pembaris."
+      }
+    }
+  }
+}

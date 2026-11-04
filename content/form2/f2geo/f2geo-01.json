@@ -1,0 +1,350 @@
+{
+  "chapterId": "f2geo-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A map fits a whole country onto one page. Scale tells you exactly how much it has been shrunk.",
+      "bm": "Peta memuatkan seluruh negara pada satu halaman. Skala menunjukkan sebanyak mana ia dikecilkan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Scale is the ratio of map distance to actual distance.",
+        "bm": "Skala ialah nisbah jarak peta kepada jarak sebenar."
+      },
+      {
+        "en": "Scale can be a statement, a linear scale or a ratio.",
+        "bm": "Skala boleh berbentuk pernyataan, skala lurus atau nisbah."
+      },
+      {
+        "en": "Actual distance = map distance × scale.",
+        "bm": "Jarak sebenar = jarak peta × skala."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Types of scale",
+          "bm": "Jenis skala"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Statement",
+              "bm": "Pernyataan"
+            },
+            "detail": {
+              "en": "1 cm represents 1 km",
+              "bm": "1 cm mewakili 1 km"
+            }
+          },
+          {
+            "label": {
+              "en": "Ratio",
+              "bm": "Nisbah"
+            },
+            "detail": {
+              "en": "1 : 100 000",
+              "bm": "1 : 100 000"
+            }
+          },
+          {
+            "label": {
+              "en": "Linear",
+              "bm": "Lurus"
+            },
+            "detail": {
+              "en": "A marked bar",
+              "bm": "Bar bertanda"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Scale",
+          "bm": "Skala"
+        },
+        "definition": {
+          "en": "Relationship between map distance and real distance.",
+          "bm": "Hubungan antara jarak peta dengan jarak sebenar."
+        }
+      },
+      {
+        "term": {
+          "en": "Straight-line distance",
+          "bm": "Jarak lurus"
+        },
+        "definition": {
+          "en": "Shortest distance between two points.",
+          "bm": "Jarak terpendek antara dua titik."
+        }
+      },
+      {
+        "term": {
+          "en": "Curved distance",
+          "bm": "Jarak berliku"
+        },
+        "definition": {
+          "en": "Distance along a road or river.",
+          "bm": "Jarak mengikut jalan atau sungai."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-01-q01",
+      "subtopicId": "f2geo-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map of scale 1 : 50000, two towns are 5 cm apart. Find the actual distance.",
+        "bm": "Pada peta berskala 1 : 50000, dua bandar berjarak 5 cm. Cari jarak sebenar."
+      },
+      "explanation": {
+        "en": "5 × 50000 cm = 2.5 km.",
+        "bm": "5 × 50000 cm = 2.5 km."
+      },
+      "difficulty": 2,
+      "answer": 2.5,
+      "tolerance": 0.01,
+      "unit": "km"
+    },
+    {
+      "id": "f2geo-01-q02",
+      "subtopicId": "f2geo-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map of scale 1 : 100000, two towns are 4 cm apart. Find the actual distance.",
+        "bm": "Pada peta berskala 1 : 100000, dua bandar berjarak 4 cm. Cari jarak sebenar."
+      },
+      "explanation": {
+        "en": "4 × 100000 cm = 4 km.",
+        "bm": "4 × 100000 cm = 4 km."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0.01,
+      "unit": "km"
+    },
+    {
+      "id": "f2geo-01-q03",
+      "subtopicId": "f2geo-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map of scale 1 : 25000, two towns are 6 cm apart. Find the actual distance.",
+        "bm": "Pada peta berskala 1 : 25000, dua bandar berjarak 6 cm. Cari jarak sebenar."
+      },
+      "explanation": {
+        "en": "6 × 25000 cm = 1.5 km.",
+        "bm": "6 × 25000 cm = 1.5 km."
+      },
+      "difficulty": 2,
+      "answer": 1.5,
+      "tolerance": 0.01,
+      "unit": "km"
+    },
+    {
+      "id": "f2geo-01-q04",
+      "subtopicId": "f2geo-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a map of scale 1 : 50000, two towns are 8 cm apart. Find the actual distance.",
+        "bm": "Pada peta berskala 1 : 50000, dua bandar berjarak 8 cm. Cari jarak sebenar."
+      },
+      "explanation": {
+        "en": "8 × 50000 cm = 4 km.",
+        "bm": "8 × 50000 cm = 4 km."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0.01,
+      "unit": "km"
+    },
+    {
+      "id": "f2geo-01-q05",
+      "subtopicId": "f2geo-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Actual distance is 10 km and the scale is 1 : 50 000. Find the map distance.",
+        "bm": "Jarak sebenar 10 km dan skala 1 : 50 000. Cari jarak peta."
+      },
+      "explanation": {
+        "en": "1 000 000 cm ÷ 50 000 = 20 cm.",
+        "bm": "1 000 000 cm ÷ 50 000 = 20 cm."
+      },
+      "difficulty": 3,
+      "answer": 20,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f2geo-01-q06",
+      "subtopicId": "f2geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A scale of 1 : 50 000 means 1 cm on the map is…",
+        "bm": "Skala 1 : 50 000 bermaksud 1 cm pada peta ialah…"
+      },
+      "explanation": {
+        "en": "50 000 cm = 0.5 km.",
+        "bm": "50 000 cm = 0.5 km."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "0.5 km",
+          "bm": "0.5 km"
+        },
+        {
+          "en": "5 km",
+          "bm": "5 km"
+        },
+        {
+          "en": "50 km",
+          "bm": "50 km"
+        },
+        {
+          "en": "1 km",
+          "bm": "1 km"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-01-q07",
+      "subtopicId": "f2geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which map shows more detail?",
+        "bm": "Peta manakah menunjukkan lebih butiran?"
+      },
+      "explanation": {
+        "en": "A larger scale shows a small area in more detail.",
+        "bm": "Skala besar menunjukkan kawasan kecil dengan lebih terperinci."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1 : 25 000",
+          "bm": "1 : 25 000"
+        },
+        {
+          "en": "1 : 1 000 000",
+          "bm": "1 : 1 000 000"
+        },
+        {
+          "en": "1 : 500 000",
+          "bm": "1 : 500 000"
+        },
+        {
+          "en": "1 : 10 000 000",
+          "bm": "1 : 10 000 000"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-01-q08",
+      "subtopicId": "f2geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "To measure a winding road, you use…",
+        "bm": "Untuk mengukur jalan berliku, gunakan…"
+      },
+      "explanation": {
+        "en": "The string follows the bends.",
+        "bm": "Tali mengikut selekoh."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "string or a strip of paper",
+          "bm": "tali atau jalur kertas"
+        },
+        {
+          "en": "a compass only",
+          "bm": "kompas sahaja"
+        },
+        {
+          "en": "a protractor",
+          "bm": "protraktor"
+        },
+        {
+          "en": "a thermometer",
+          "bm": "termometer"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-01-q09",
+      "subtopicId": "f2geo-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A straight-line distance is also called…",
+        "bm": "Jarak lurus juga dikenali sebagai…"
+      },
+      "explanation": {
+        "en": "It ignores bends.",
+        "bm": "Ia mengabaikan selekoh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "\"as the crow flies\"",
+          "bm": "\"jarak udara\""
+        },
+        {
+          "en": "a contour",
+          "bm": "kontur"
+        },
+        {
+          "en": "a bearing",
+          "bm": "bearing"
+        },
+        {
+          "en": "a grid",
+          "bm": "grid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-01-q10",
+      "subtopicId": "f2geo-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A map is enlarged 2× by photocopying. What happens to a statement scale?",
+        "bm": "Peta dibesarkan 2× dengan fotokopi. Apa berlaku pada skala pernyataan?"
+      },
+      "explanation": {
+        "en": "A linear scale bar would still be correct, since it enlarges too.",
+        "bm": "Skala lurus masih betul kerana ia turut membesar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It becomes wrong",
+          "bm": "Ia menjadi salah"
+        },
+        {
+          "en": "It stays correct",
+          "bm": "Ia kekal betul"
+        },
+        {
+          "en": "It doubles itself",
+          "bm": "Ia berganda sendiri"
+        },
+        {
+          "en": "It disappears",
+          "bm": "Ia hilang"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "chapterId": "f2bi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You do not read a timetable the way you read a story. Good readers change how they read to suit their purpose.",
+      "bm": "You do not read a timetable the way you read a story. Good readers change how they read to suit their purpose."
+    },
+    "bigIdeas": [
+      {
+        "en": "Skim for the gist; scan for details.",
+        "bm": "Skim for the gist; scan for details."
+      },
+      {
+        "en": "Topic sentences hold the main idea.",
+        "bm": "Topic sentences hold the main idea."
+      },
+      {
+        "en": "Inference uses clues in the text.",
+        "bm": "Inference uses clues in the text."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Skim",
+              "bm": "Skim"
+            },
+            "detail": {
+              "en": "Find the gist",
+              "bm": "Find the gist"
+            }
+          },
+          {
+            "title": {
+              "en": "Read questions",
+              "bm": "Read questions"
+            },
+            "detail": {
+              "en": "Know what to look for",
+              "bm": "Know what to look for"
+            }
+          },
+          {
+            "title": {
+              "en": "Scan",
+              "bm": "Scan"
+            },
+            "detail": {
+              "en": "Find details",
+              "bm": "Find details"
+            }
+          },
+          {
+            "title": {
+              "en": "Check",
+              "bm": "Check"
+            },
+            "detail": {
+              "en": "Match with the text",
+              "bm": "Match with the text"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Skimming",
+          "bm": "Skimming"
+        },
+        "definition": {
+          "en": "Reading quickly for general meaning.",
+          "bm": "Reading quickly for general meaning."
+        }
+      },
+      {
+        "term": {
+          "en": "Scanning",
+          "bm": "Scanning"
+        },
+        "definition": {
+          "en": "Searching quickly for specific details.",
+          "bm": "Searching quickly for specific details."
+        }
+      },
+      {
+        "term": {
+          "en": "Inference",
+          "bm": "Inference"
+        },
+        "definition": {
+          "en": "Working out what is not directly stated.",
+          "bm": "Working out what is not directly stated."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-04-q01",
+      "subtopicId": "f2bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To find a train time in a timetable, you…",
+        "bm": "To find a train time in a timetable, you…"
+      },
+      "explanation": {
+        "en": "Scanning finds specific details.",
+        "bm": "Scanning finds specific details."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "scan",
+          "bm": "scan"
+        },
+        {
+          "en": "skim",
+          "bm": "skim"
+        },
+        {
+          "en": "translate",
+          "bm": "translate"
+        },
+        {
+          "en": "memorise",
+          "bm": "memorise"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q02",
+      "subtopicId": "f2bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To get a general idea of an article, you…",
+        "bm": "To get a general idea of an article, you…"
+      },
+      "explanation": {
+        "en": "Skim for gist.",
+        "bm": "Skim for gist."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "skim",
+          "bm": "skim"
+        },
+        {
+          "en": "scan",
+          "bm": "scan"
+        },
+        {
+          "en": "copy",
+          "bm": "copy"
+        },
+        {
+          "en": "skip it",
+          "bm": "skip it"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q03",
+      "subtopicId": "f2bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The main idea is often in the…",
+        "bm": "The main idea is often in the…"
+      },
+      "explanation": {
+        "en": "Usually the first sentence.",
+        "bm": "Usually the first sentence."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "topic sentence",
+          "bm": "topic sentence"
+        },
+        {
+          "en": "title page",
+          "bm": "title page"
+        },
+        {
+          "en": "page number",
+          "bm": "page number"
+        },
+        {
+          "en": "caption only",
+          "bm": "caption only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q04",
+      "subtopicId": "f2bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"For example\" usually introduces…",
+        "bm": "\"For example\" usually introduces…"
+      },
+      "explanation": {
+        "en": "It supports the main idea.",
+        "bm": "It supports the main idea."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a supporting detail",
+          "bm": "a supporting detail"
+        },
+        {
+          "en": "the title",
+          "bm": "the title"
+        },
+        {
+          "en": "a new topic",
+          "bm": "a new topic"
+        },
+        {
+          "en": "the writer's name",
+          "bm": "the writer's name"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q05",
+      "subtopicId": "f2bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good summary…",
+        "bm": "A good summary…"
+      },
+      "explanation": {
+        "en": "Keep it short.",
+        "bm": "Keep it short."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "keeps only the main points",
+          "bm": "keeps only the main points"
+        },
+        {
+          "en": "copies every sentence",
+          "bm": "copies every sentence"
+        },
+        {
+          "en": "adds opinions",
+          "bm": "adds opinions"
+        },
+        {
+          "en": "is longer than the text",
+          "bm": "is longer than the text"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q06",
+      "subtopicId": "f2bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Ali lost his bag. He was upset.\" \"He\" refers to…",
+        "bm": "\"Ali lost his bag. He was upset.\" \"He\" refers to…"
+      },
+      "explanation": {
+        "en": "Reference word.",
+        "bm": "Reference word."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ali",
+          "bm": "Ali"
+        },
+        {
+          "en": "the bag",
+          "bm": "the bag"
+        },
+        {
+          "en": "a friend",
+          "bm": "a friend"
+        },
+        {
+          "en": "the teacher",
+          "bm": "the teacher"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q07",
+      "subtopicId": "f2bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Sara took an umbrella and looked at the dark clouds.\" We can infer that…",
+        "bm": "\"Sara took an umbrella and looked at the dark clouds.\" We can infer that…"
+      },
+      "explanation": {
+        "en": "Clouds and umbrella suggest rain.",
+        "bm": "Clouds and umbrella suggest rain."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "it might rain",
+          "bm": "it might rain"
+        },
+        {
+          "en": "it is night",
+          "bm": "it is night"
+        },
+        {
+          "en": "she is sick",
+          "bm": "she is sick"
+        },
+        {
+          "en": "she is late",
+          "bm": "she is late"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q08",
+      "subtopicId": "f2bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"The room fell silent when the teacher walked in.\" This suggests students…",
+        "bm": "\"The room fell silent when the teacher walked in.\" This suggests students…"
+      },
+      "explanation": {
+        "en": "The change in behaviour shows it.",
+        "bm": "The change in behaviour shows it."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "respected or feared the teacher",
+          "bm": "respected or feared the teacher"
+        },
+        {
+          "en": "were asleep",
+          "bm": "were asleep"
+        },
+        {
+          "en": "were absent",
+          "bm": "were absent"
+        },
+        {
+          "en": "were outside",
+          "bm": "were outside"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-04-q09",
+      "subtopicId": "f2bi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A fact is something that…",
+        "bm": "A fact is something that…"
+      },
+      "explanation": {
+        "en": "Opinions show feelings.",
+        "bm": "Opinions show feelings."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "can be proved",
+          "bm": "can be proved"
+        },
+        {
+          "en": "someone feels",
+          "bm": "someone feels"
+        },
+        {
+          "en": "is always funny",
+          "bm": "is always funny"
+        },
+        {
+          "en": "is always wrong",
+          "bm": "is always wrong"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

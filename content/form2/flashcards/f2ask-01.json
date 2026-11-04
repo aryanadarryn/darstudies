@@ -1,0 +1,77 @@
+{
+  "chapterId": "f2ask-01",
+  "cards": [
+    {
+      "id": "f2ask-01-f01",
+      "subtopicId": "f2ask-01-01",
+      "front": {
+        "en": "Octal digits",
+        "bm": "Digit perlapanan"
+      },
+      "back": {
+        "en": "0–7",
+        "bm": "0–7"
+      }
+    },
+    {
+      "id": "f2ask-01-f02",
+      "subtopicId": "f2ask-01-01",
+      "front": {
+        "en": "Binary to octal",
+        "bm": "Perduaan ke perlapanan"
+      },
+      "back": {
+        "en": "Group bits in threes.",
+        "bm": "Kumpul bit tiga-tiga."
+      }
+    },
+    {
+      "id": "f2ask-01-f03",
+      "subtopicId": "f2ask-01-02",
+      "front": {
+        "en": "Hex digits",
+        "bm": "Digit hex"
+      },
+      "back": {
+        "en": "0–9, A–F",
+        "bm": "0–9, A–F"
+      }
+    },
+    {
+      "id": "f2ask-01-f04",
+      "subtopicId": "f2ask-01-02",
+      "front": {
+        "en": "Binary to hex",
+        "bm": "Perduaan ke hex"
+      },
+      "back": {
+        "en": "Group bits in fours.",
+        "bm": "Kumpul bit empat-empat."
+      }
+    },
+    {
+      "id": "f2ask-01-f05",
+      "subtopicId": "f2ask-01-03",
+      "front": {
+        "en": "ASCII \"A\"",
+        "bm": "ASCII \"A\""
+      },
+      "back": {
+        "en": "65",
+        "bm": "65"
+      }
+    },
+    {
+      "id": "f2ask-01-f06",
+      "subtopicId": "f2ask-01-03",
+      "front": {
+        "en": "ASCII \"a\"",
+        "bm": "ASCII \"a\""
+      },
+      "back": {
+        "en": "97",
+        "bm": "97"
+      }
+    }
+  ]
+}

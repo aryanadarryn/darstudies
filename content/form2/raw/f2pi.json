@@ -1,0 +1,240 @@
+{
+  "id": "f2pi",
+  "name": {
+    "en": "Islamic Education",
+    "bm": "Pendidikan Islam"
+  },
+  "short": {
+    "en": "Islamic Ed.",
+    "bm": "P. Islam"
+  },
+  "color": "#047857",
+  "source": "Fields and lesson titles follow the KSSM Pendidikan Islam Form 2 textbook list. Learning content is original and should be reviewed by a Pendidikan Islam teacher before use.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Al-Quran: Recitation, Tajwid and Understanding",
+        "bm": "Al-Quran: Tilawah, Tajwid dan Kefahaman"
+      },
+      "theme": {
+        "en": "Al-Quran",
+        "bm": "Al-Quran"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Easy Tajwid: Nun Sakinah and Tanwin",
+            "bm": "Mudahnya Tajwid: Hukum Nun Sakinah dan Tanwin"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Easy Tajwid: Mim Sakinah",
+            "bm": "Mudahnya Tajwid: Hukum Mim Sakinah"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Understanding Selected Verses",
+            "bm": "Kefahaman Ayat Pilihan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Hadith: Preventing Wrong and Seeking the Halal",
+        "bm": "Hadis: Mencegah Mungkar dan Mencari yang Halal"
+      },
+      "theme": {
+        "en": "Hadith",
+        "bm": "Hadis"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Forbidding Wrong Brings Blessing",
+            "bm": "Mungkar Dicegah Hidup Berkat"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Seeking the Halal",
+            "bm": "Mencari yang Halal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Aqidah: Belief in Allah, Angels and Books",
+        "bm": "Akidah: Allah, Malaikat dan Kitab"
+      },
+      "theme": {
+        "en": "Aqidah",
+        "bm": "Akidah"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Power of Allah: Al-Qadir and Al-Qawiy",
+            "bm": "Kekuatan dan Kekuasaan Allah: Al-Qadir dan Al-Qawiy"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Obedience of the Angels",
+            "bm": "Ketaatan Malaikat"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Guidance from Allah: the Revealed Books",
+            "bm": "Panduan daripada Allah: Kitab"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Fiqh: Prayer, Fasting and Ease",
+        "bm": "Fiqah: Solat, Puasa dan Rukhsah"
+      },
+      "theme": {
+        "en": "Fiqh",
+        "bm": "Fiqah"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Congregational Prayer and Friday Prayer",
+            "bm": "Solat Berjemaah dan Solat Jumaat"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Tayammum",
+            "bm": "Tayammum"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Rukhsah: Allah's Ease",
+            "bm": "Rukhsah Anugerah daripada Allah"
+          }
+        },
+        {
+          "code": "4.4",
+          "title": {
+            "en": "Fasting and Sunnah Prayers",
+            "bm": "Puasa dan Solat Sunat"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Sirah: Dawn of Da'wah and Madinah",
+        "bm": "Sirah: Fajar Dakwah dan Madinah"
+      },
+      "theme": {
+        "en": "Sirah",
+        "bm": "Sirah"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "The Dawn of Da'wah",
+            "bm": "Terbitnya Fajar Dakwah"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "The Hijrah",
+            "bm": "Hijrah Detik Bersejarah"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Leadership of the Prophet in Madinah",
+            "bm": "Kepimpinan Rasulullah di Madinah"
+          }
+        },
+        {
+          "code": "5.4",
+          "title": {
+            "en": "Women as Role Models",
+            "bm": "Wanita Suri Teladan Ummah"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Islamic Character (Akhlak)",
+        "bm": "Akhlak Islamiah"
+      },
+      "theme": {
+        "en": "Akhlak",
+        "bm": "Akhlak"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Manners in the Mosque",
+            "bm": "Masjid Destinasiku"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Modesty Protects Faith",
+            "bm": "Malu Perisai Iman"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Love and Friendship",
+            "bm": "Menyemai Kasih Menuai Sayang"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Honouring Parents",
+            "bm": "Muliakan Ibu Bapa Bahagiakan Keluarga"
+          }
+        },
+        {
+          "code": "6.5",
+          "title": {
+            "en": "Treating Neighbours Well",
+            "bm": "Santuni Jiranmu"
+          }
+        }
+      ]
+    }
+  ]
+}

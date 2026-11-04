@@ -1,0 +1,562 @@
+{
+  "chapterId": "f2math-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A formula is a recipe: put in the known numbers and the answer comes out. Rearrange it and the same recipe answers a different question.",
+      "bm": "Rumus ialah resipi: masukkan nombor yang diketahui dan jawapan akan terhasil. Susun semula, dan resipi yang sama menjawab soalan lain."
+    },
+    "bigIdeas": [
+      {
+        "en": "A formula is an equation connecting variables.",
+        "bm": "Rumus ialah persamaan yang menghubungkan pemboleh ubah."
+      },
+      {
+        "en": "The subject is the variable on its own.",
+        "bm": "Perkara rumus ialah pemboleh ubah yang berdiri sendiri."
+      },
+      {
+        "en": "Do the same operation to both sides when rearranging.",
+        "bm": "Lakukan operasi yang sama pada kedua-dua belah semasa menyusun semula."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Write the formula",
+              "bm": "Tulis rumus"
+            },
+            "detail": {
+              "en": "A = l × w",
+              "bm": "A = l × w"
+            }
+          },
+          {
+            "title": {
+              "en": "Choose the new subject",
+              "bm": "Pilih perkara rumus baharu"
+            },
+            "detail": {
+              "en": "w",
+              "bm": "w"
+            }
+          },
+          {
+            "title": {
+              "en": "Undo operations",
+              "bm": "Songsangkan operasi"
+            },
+            "detail": {
+              "en": "Divide both sides by l",
+              "bm": "Bahagi kedua-dua belah dengan l"
+            }
+          },
+          {
+            "title": {
+              "en": "Write the result",
+              "bm": "Tulis hasil"
+            },
+            "detail": {
+              "en": "w = A ÷ l",
+              "bm": "w = A ÷ l"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Formula",
+          "bm": "Rumus"
+        },
+        "definition": {
+          "en": "An equation showing a relationship between variables.",
+          "bm": "Persamaan yang menunjukkan hubungan antara pemboleh ubah."
+        }
+      },
+      {
+        "term": {
+          "en": "Subject",
+          "bm": "Perkara rumus"
+        },
+        "definition": {
+          "en": "The single variable on one side of a formula.",
+          "bm": "Pemboleh ubah tunggal pada satu belah rumus."
+        }
+      },
+      {
+        "term": {
+          "en": "Variable",
+          "bm": "Pemboleh ubah"
+        },
+        "definition": {
+          "en": "A letter that stands for a value that can change.",
+          "bm": "Huruf yang mewakili nilai yang boleh berubah."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Make x the subject of y = 3x − 5.",
+        "bm": "Jadikan x perkara rumus bagi y = 3x − 5."
+      },
+      "steps": [
+        {
+          "en": "Add 5: y + 5 = 3x.",
+          "bm": "Tambah 5: y + 5 = 3x."
+        },
+        {
+          "en": "Divide by 3.",
+          "bm": "Bahagi dengan 3."
+        }
+      ],
+      "answer": {
+        "en": "x = (y + 5)/3",
+        "bm": "x = (y + 5)/3"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-03-q01",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 2x + 4. Find y when x = 3.",
+        "bm": "y = 2x + 4. Cari y apabila x = 3."
+      },
+      "explanation": {
+        "en": "2(3) + 4 = 10.",
+        "bm": "2(3) + 4 = 10."
+      },
+      "difficulty": 1,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q02",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 5x + 3. Find y when x = 2.",
+        "bm": "y = 5x + 3. Cari y apabila x = 2."
+      },
+      "explanation": {
+        "en": "5(2) + 3 = 13.",
+        "bm": "5(2) + 3 = 13."
+      },
+      "difficulty": 1,
+      "answer": 13,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q03",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 3x + 2. Find y when x = 7.",
+        "bm": "y = 3x + 2. Cari y apabila x = 7."
+      },
+      "explanation": {
+        "en": "3(7) + 2 = 23.",
+        "bm": "3(7) + 2 = 23."
+      },
+      "difficulty": 1,
+      "answer": 23,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q04",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "P = 2(l + w). Find P when l = 8 and w = 3.",
+        "bm": "P = 2(l + w). Cari P apabila l = 8 dan w = 3."
+      },
+      "explanation": {
+        "en": "2(8 + 3) = 22.",
+        "bm": "2(8 + 3) = 22."
+      },
+      "difficulty": 1,
+      "answer": 22,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q05",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "P = 2(l + w). Find P when l = 12 and w = 5.",
+        "bm": "P = 2(l + w). Cari P apabila l = 12 dan w = 5."
+      },
+      "explanation": {
+        "en": "2(12 + 5) = 34.",
+        "bm": "2(12 + 5) = 34."
+      },
+      "difficulty": 1,
+      "answer": 34,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q06",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "P = 2(l + w). Find P when l = 20 and w = 7.",
+        "bm": "P = 2(l + w). Cari P apabila l = 20 dan w = 7."
+      },
+      "explanation": {
+        "en": "2(20 + 7) = 54.",
+        "bm": "2(20 + 7) = 54."
+      },
+      "difficulty": 1,
+      "answer": 54,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q07",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 3x + 5. Find x when y = 26.",
+        "bm": "y = 3x + 5. Cari x apabila y = 26."
+      },
+      "explanation": {
+        "en": "x = (26 − 5) ÷ 3 = 7.",
+        "bm": "x = (26 − 5) ÷ 3 = 7."
+      },
+      "difficulty": 2,
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-03-q08",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 4x + 2. Find x when y = 30.",
+        "bm": "y = 4x + 2. Cari x apabila y = 30."
+      },
+      "explanation": {
+        "en": "x = (30 − 2) ÷ 4 = 7.",
+        "bm": "x = (30 − 2) ÷ 4 = 7."
+      },
+      "difficulty": 2,
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-03-q09",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 2x + 9. Find x when y = 25.",
+        "bm": "y = 2x + 9. Cari x apabila y = 25."
+      },
+      "explanation": {
+        "en": "x = (25 − 9) ÷ 2 = 8.",
+        "bm": "x = (25 − 9) ÷ 2 = 8."
+      },
+      "difficulty": 2,
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-03-q10",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A = ½bh. Find A when b = 10 and h = 6.",
+        "bm": "A = ½bh. Cari A apabila b = 10 dan h = 6."
+      },
+      "explanation": {
+        "en": "½ × 10 × 6 = 30.",
+        "bm": "½ × 10 × 6 = 30."
+      },
+      "difficulty": 2,
+      "answer": 30,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q11",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A = ½bh. Find h when A = 24 and b = 8.",
+        "bm": "A = ½bh. Cari h apabila A = 24 dan b = 8."
+      },
+      "explanation": {
+        "en": "h = 2A ÷ b = 48 ÷ 8 = 6.",
+        "bm": "h = 2A ÷ b = 48 ÷ 8 = 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-03-q12",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make x the subject of y = x + 7.",
+        "bm": "Jadikan x perkara rumus bagi y = x + 7."
+      },
+      "explanation": {
+        "en": "Subtract 7 from both sides.",
+        "bm": "Tolak 7 daripada kedua-dua belah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "x = y − 7",
+          "bm": "x = y − 7"
+        },
+        {
+          "en": "x = y + 7",
+          "bm": "x = y + 7"
+        },
+        {
+          "en": "x = 7 − y",
+          "bm": "x = 7 − y"
+        },
+        {
+          "en": "x = 7y",
+          "bm": "x = 7y"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q13",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make b the subject of a = 2b − 6.",
+        "bm": "Jadikan b perkara rumus bagi a = 2b − 6."
+      },
+      "explanation": {
+        "en": "Add 6, then divide by 2.",
+        "bm": "Tambah 6, kemudian bahagi dengan 2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "b = (a + 6)/2",
+          "bm": "b = (a + 6)/2"
+        },
+        {
+          "en": "b = (a − 6)/2",
+          "bm": "b = (a − 6)/2"
+        },
+        {
+          "en": "b = 2a + 6",
+          "bm": "b = 2a + 6"
+        },
+        {
+          "en": "b = a + 3/2",
+          "bm": "b = a + 3/2"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q14",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make r the subject of C = 2πr.",
+        "bm": "Jadikan r perkara rumus bagi C = 2πr."
+      },
+      "explanation": {
+        "en": "Divide both sides by 2π.",
+        "bm": "Bahagi kedua-dua belah dengan 2π."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "r = C/(2π)",
+          "bm": "r = C/(2π)"
+        },
+        {
+          "en": "r = 2πC",
+          "bm": "r = 2πC"
+        },
+        {
+          "en": "r = C − 2π",
+          "bm": "r = C − 2π"
+        },
+        {
+          "en": "r = 2π/C",
+          "bm": "r = 2π/C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q15",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make x the subject of y = x².",
+        "bm": "Jadikan x perkara rumus bagi y = x²."
+      },
+      "explanation": {
+        "en": "Take the square root of both sides.",
+        "bm": "Ambil punca kuasa dua pada kedua-dua belah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "x = √y",
+          "bm": "x = √y"
+        },
+        {
+          "en": "x = y²",
+          "bm": "x = y²"
+        },
+        {
+          "en": "x = y/2",
+          "bm": "x = y/2"
+        },
+        {
+          "en": "x = 2y",
+          "bm": "x = 2y"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q16",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make y the subject of x = (y + 3)/4.",
+        "bm": "Jadikan y perkara rumus bagi x = (y + 3)/4."
+      },
+      "explanation": {
+        "en": "Multiply by 4, then subtract 3.",
+        "bm": "Darab dengan 4, kemudian tolak 3."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "y = 4x − 3",
+          "bm": "y = 4x − 3"
+        },
+        {
+          "en": "y = 4x + 3",
+          "bm": "y = 4x + 3"
+        },
+        {
+          "en": "y = x/4 − 3",
+          "bm": "y = x/4 − 3"
+        },
+        {
+          "en": "y = (x − 3)/4",
+          "bm": "y = (x − 3)/4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q17",
+      "subtopicId": "f2math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Make a the subject of v = u + at.",
+        "bm": "Jadikan a perkara rumus bagi v = u + at."
+      },
+      "explanation": {
+        "en": "Subtract u, then divide by t.",
+        "bm": "Tolak u, kemudian bahagi dengan t."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a = (v − u)/t",
+          "bm": "a = (v − u)/t"
+        },
+        {
+          "en": "a = v − u − t",
+          "bm": "a = v − u − t"
+        },
+        {
+          "en": "a = (v + u)/t",
+          "bm": "a = (v + u)/t"
+        },
+        {
+          "en": "a = t/(v − u)",
+          "bm": "a = t/(v − u)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-03-q18",
+      "subtopicId": "f2math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "V = πr²h with π = 3.142. Find V when r = 2 and h = 5, to 2 d.p.",
+        "bm": "V = πj²t dengan π = 3.142. Cari V apabila j = 2 dan t = 5, kepada 2 t.p."
+      },
+      "explanation": {
+        "en": "3.142 × 4 × 5 = 62.84.",
+        "bm": "3.142 × 4 × 5 = 62.84."
+      },
+      "difficulty": 3,
+      "answer": 62.84,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f2math-03-q19",
+      "subtopicId": "f2math-03-01",
+      "type": "match",
+      "prompt": {
+        "en": "Match the formula to its meaning.",
+        "bm": "Padankan rumus dengan maksudnya."
+      },
+      "explanation": {
+        "en": "These are standard formulae.",
+        "bm": "Ini ialah rumus piawai."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "P = 2(l + w)",
+            "bm": "P = 2(l + w)"
+          },
+          "right": {
+            "en": "perimeter of a rectangle",
+            "bm": "perimeter segi empat tepat"
+          }
+        },
+        {
+          "left": {
+            "en": "A = lw",
+            "bm": "A = lw"
+          },
+          "right": {
+            "en": "area of a rectangle",
+            "bm": "luas segi empat tepat"
+          }
+        },
+        {
+          "left": {
+            "en": "V = lwh",
+            "bm": "V = lwh"
+          },
+          "right": {
+            "en": "volume of a cuboid",
+            "bm": "isi padu kuboid"
+          }
+        }
+      ]
+    }
+  ]
+}

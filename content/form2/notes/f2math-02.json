@@ -1,0 +1,162 @@
+{
+  "chapterId": "f2math-02",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-02-01": {
+      "keyPoints": [
+        {
+          "en": "Expanding one bracket: multiply each term inside by the term outside.",
+          "bm": "Kembangan satu kurungan: darab setiap sebutan di dalam dengan sebutan di luar."
+        },
+        {
+          "en": "Two brackets: first, outer, inner, last.",
+          "bm": "Dua kurungan: pertama, luar, dalam, akhir."
+        },
+        {
+          "en": "Collect like terms at the end.",
+          "bm": "Himpunkan sebutan serupa pada akhirnya."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Like terms",
+            "bm": "Sebutan serupa"
+          },
+          "meaning": {
+            "en": "Same variables and powers.",
+            "bm": "Pemboleh ubah dan kuasa yang sama."
+          }
+        },
+        {
+          "term": {
+            "en": "Expansion",
+            "bm": "Kembangan"
+          },
+          "meaning": {
+            "en": "Multiplying out.",
+            "bm": "Pendaraban keluar."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Expand (x + 2)(x − 5).",
+          "bm": "Kembangkan (x + 2)(x − 5)."
+        },
+        "answer": {
+          "en": "x² − 3x − 10",
+          "bm": "x² − 3x − 10"
+        }
+      },
+      "tip": {
+        "en": "(x + 3)² is not x² + 9. Remember the middle term.",
+        "bm": "(x + 3)² bukan x² + 9. Ingat sebutan tengah."
+      }
+    },
+    "f2math-02-02": {
+      "keyPoints": [
+        {
+          "en": "Always look for the HCF first.",
+          "bm": "Sentiasa cari FSTB dahulu."
+        },
+        {
+          "en": "Difference of squares: a² − b² = (a + b)(a − b).",
+          "bm": "Beza dua kuasa dua: a² − b² = (a + b)(a − b)."
+        },
+        {
+          "en": "Trinomials: use cross-multiplication.",
+          "bm": "Trinomial: gunakan pendaraban silang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Factor",
+            "bm": "Faktor"
+          },
+          "meaning": {
+            "en": "Divides an expression exactly.",
+            "bm": "Membahagi ungkapan dengan tepat."
+          }
+        },
+        {
+          "term": {
+            "en": "HCF",
+            "bm": "FSTB"
+          },
+          "meaning": {
+            "en": "Largest common factor.",
+            "bm": "Faktor sepunya terbesar."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Factorise x² − 16.",
+          "bm": "Faktorkan x² − 16."
+        },
+        "answer": {
+          "en": "(x + 4)(x − 4)",
+          "bm": "(x + 4)(x − 4)"
+        }
+      },
+      "tip": {
+        "en": "Expand your answer to check it.",
+        "bm": "Kembangkan jawapan anda untuk menyemak."
+      }
+    },
+    "f2math-02-03": {
+      "keyPoints": [
+        {
+          "en": "Add or subtract: use a common denominator.",
+          "bm": "Tambah atau tolak: gunakan penyebut sepunya."
+        },
+        {
+          "en": "Multiply: multiply numerators and denominators, then cancel.",
+          "bm": "Darab: darab pengangka dan penyebut, kemudian mansuhkan."
+        },
+        {
+          "en": "Divide: multiply by the reciprocal.",
+          "bm": "Bahagi: darab dengan salingan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Denominator",
+            "bm": "Penyebut"
+          },
+          "meaning": {
+            "en": "The bottom of a fraction.",
+            "bm": "Bahagian bawah pecahan."
+          }
+        },
+        {
+          "term": {
+            "en": "Reciprocal",
+            "bm": "Salingan"
+          },
+          "meaning": {
+            "en": "A fraction turned upside down.",
+            "bm": "Pecahan yang disongsangkan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "a/3 + a/6",
+          "bm": "a/3 + a/6"
+        },
+        "answer": {
+          "en": "a/2",
+          "bm": "a/2"
+        }
+      },
+      "tip": {
+        "en": "Only cancel factors, never single terms joined by + or −.",
+        "bm": "Mansuhkan faktor sahaja, bukan sebutan yang disambung dengan + atau −."
+      }
+    }
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "chapterId": "f2geo-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The MRT moves thousands of people every hour without adding one car to the road. Transport shapes how our towns grow.",
+      "bm": "MRT menggerakkan ribuan orang setiap jam tanpa menambah sebuah kereta di jalan raya. Pengangkutan membentuk perkembangan bandar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Road, rail, water and air transport serve different needs.",
+        "bm": "Pengangkutan jalan raya, rel, air dan udara memenuhi keperluan berbeza."
+      },
+      {
+        "en": "Transport supports the economy and society.",
+        "bm": "Pengangkutan menyokong ekonomi dan masyarakat."
+      },
+      {
+        "en": "Congestion and pollution are key challenges.",
+        "bm": "Kesesakan dan pencemaran cabaran utama."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          },
+          {
+            "en": "Advantage",
+            "bm": "Kelebihan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Road",
+              "bm": "Jalan raya"
+            },
+            "cells": [
+              {
+                "en": "PLUS Expressway",
+                "bm": "Lebuh Raya PLUS"
+              },
+              {
+                "en": "door to door",
+                "bm": "pintu ke pintu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Rail",
+              "bm": "Rel"
+            },
+            "cells": [
+              {
+                "en": "ETS, MRT",
+                "bm": "ETS, MRT"
+              },
+              {
+                "en": "moves many people",
+                "bm": "mengangkut ramai"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Water",
+              "bm": "Air"
+            },
+            "cells": [
+              {
+                "en": "Port Klang",
+                "bm": "Pelabuhan Klang"
+              },
+              {
+                "en": "cheap for bulk",
+                "bm": "murah untuk pukal"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Air",
+              "bm": "Udara"
+            },
+            "cells": [
+              {
+                "en": "KLIA",
+                "bm": "KLIA"
+              },
+              {
+                "en": "fastest",
+                "bm": "paling laju"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Public transport",
+          "bm": "Pengangkutan awam"
+        },
+        "definition": {
+          "en": "Transport open to everyone for a fare.",
+          "bm": "Pengangkutan untuk semua dengan tambang."
+        }
+      },
+      {
+        "term": {
+          "en": "Congestion",
+          "bm": "Kesesakan"
+        },
+        "definition": {
+          "en": "Too many vehicles on a road.",
+          "bm": "Terlalu banyak kenderaan di jalan."
+        }
+      },
+      {
+        "term": {
+          "en": "Port",
+          "bm": "Pelabuhan"
+        },
+        "definition": {
+          "en": "A place where ships load and unload.",
+          "bm": "Tempat kapal memunggah dan memuatkan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-05-q01",
+      "subtopicId": "f2geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia's main international airport is…",
+        "bm": "Lapangan terbang antarabangsa utama Malaysia ialah…"
+      },
+      "explanation": {
+        "en": "At Sepang, Selangor.",
+        "bm": "Di Sepang, Selangor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "KLIA",
+          "bm": "KLIA"
+        },
+        {
+          "en": "LIMA",
+          "bm": "LIMA"
+        },
+        {
+          "en": "KLCC",
+          "bm": "KLCC"
+        },
+        {
+          "en": "LRT",
+          "bm": "LRT"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q02",
+      "subtopicId": "f2geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is rail transport?",
+        "bm": "Yang manakah pengangkutan rel?"
+      },
+      "explanation": {
+        "en": "The Electric Train Service runs on rail.",
+        "bm": "Perkhidmatan Tren Elektrik bergerak di atas rel."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ETS",
+          "bm": "ETS"
+        },
+        {
+          "en": "Ferry",
+          "bm": "Feri"
+        },
+        {
+          "en": "Lorry",
+          "bm": "Lori"
+        },
+        {
+          "en": "Airplane",
+          "bm": "Kapal terbang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q03",
+      "subtopicId": "f2geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is best for moving heavy bulk goods overseas?",
+        "bm": "Yang manakah terbaik untuk barang pukal berat ke luar negara?"
+      },
+      "explanation": {
+        "en": "Cost per tonne is low.",
+        "bm": "Kos per tan rendah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ship",
+          "bm": "Kapal"
+        },
+        {
+          "en": "Motorcycle",
+          "bm": "Motosikal"
+        },
+        {
+          "en": "Monorail",
+          "bm": "Monorel"
+        },
+        {
+          "en": "Taxi",
+          "bm": "Teksi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q04",
+      "subtopicId": "f2geo-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which port is Malaysia's largest container port?",
+        "bm": "Pelabuhan manakah pelabuhan kontena terbesar Malaysia?"
+      },
+      "explanation": {
+        "en": "It lies on the Straits of Melaka.",
+        "bm": "Ia di Selat Melaka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Port Klang",
+          "bm": "Pelabuhan Klang"
+        },
+        {
+          "en": "Kuantan Port",
+          "bm": "Pelabuhan Kuantan"
+        },
+        {
+          "en": "Sandakan Port",
+          "bm": "Pelabuhan Sandakan"
+        },
+        {
+          "en": "Miri Port",
+          "bm": "Pelabuhan Miri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q05",
+      "subtopicId": "f2geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Transport helps the economy by…",
+        "bm": "Pengangkutan membantu ekonomi dengan…"
+      },
+      "explanation": {
+        "en": "Goods reach buyers faster.",
+        "bm": "Barang sampai lebih cepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "moving goods to markets",
+          "bm": "membawa barang ke pasaran"
+        },
+        {
+          "en": "stopping trade",
+          "bm": "menghentikan perdagangan"
+        },
+        {
+          "en": "closing ports",
+          "bm": "menutup pelabuhan"
+        },
+        {
+          "en": "removing jobs",
+          "bm": "menghapuskan pekerjaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q06",
+      "subtopicId": "f2geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which shows a social benefit?",
+        "bm": "Yang manakah manfaat sosial?"
+      },
+      "explanation": {
+        "en": "Access improves quality of life.",
+        "bm": "Akses meningkatkan kualiti hidup."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Rural people reach hospitals and schools",
+          "bm": "Penduduk luar bandar sampai ke hospital dan sekolah"
+        },
+        {
+          "en": "More smog",
+          "bm": "Lebih banyak jerebu"
+        },
+        {
+          "en": "More traffic accidents",
+          "bm": "Lebih banyak kemalangan"
+        },
+        {
+          "en": "Longer journeys",
+          "bm": "Perjalanan lebih lama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q07",
+      "subtopicId": "f2geo-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do Sabah and Sarawak depend more on air and river travel?",
+        "bm": "Mengapa Sabah dan Sarawak lebih bergantung pada udara dan sungai?"
+      },
+      "explanation": {
+        "en": "Roads are costly to build there.",
+        "bm": "Jalan raya mahal dibina di situ."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rugged terrain and long distances",
+          "bm": "Muka bumi lasak dan jarak jauh"
+        },
+        {
+          "en": "No rivers",
+          "bm": "Tiada sungai"
+        },
+        {
+          "en": "No people",
+          "bm": "Tiada penduduk"
+        },
+        {
+          "en": "Cold climate",
+          "bm": "Iklim sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q08",
+      "subtopicId": "f2geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a transport problem in big cities?",
+        "bm": "Yang manakah masalah pengangkutan di bandar besar?"
+      },
+      "explanation": {
+        "en": "Many cars use the same roads.",
+        "bm": "Banyak kereta di jalan sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Traffic congestion",
+          "bm": "Kesesakan lalu lintas"
+        },
+        {
+          "en": "Too few people",
+          "bm": "Terlalu sedikit penduduk"
+        },
+        {
+          "en": "Too little fuel use",
+          "bm": "Terlalu sedikit bahan api"
+        },
+        {
+          "en": "No vehicles",
+          "bm": "Tiada kenderaan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q09",
+      "subtopicId": "f2geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which helps to reduce congestion?",
+        "bm": "Yang manakah membantu mengurangkan kesesakan?"
+      },
+      "explanation": {
+        "en": "MRT and LRT carry many riders.",
+        "bm": "MRT dan LRT membawa ramai penumpang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Better public transport",
+          "bm": "Pengangkutan awam lebih baik"
+        },
+        {
+          "en": "More private cars",
+          "bm": "Lebih banyak kereta persendirian"
+        },
+        {
+          "en": "Fewer trains",
+          "bm": "Kurang tren"
+        },
+        {
+          "en": "Narrower roads",
+          "bm": "Jalan lebih sempit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-05-q10",
+      "subtopicId": "f2geo-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is a good solution to vehicle air pollution?",
+        "bm": "Apakah penyelesaian baik bagi pencemaran udara kenderaan?"
+      },
+      "explanation": {
+        "en": "They cut exhaust emissions.",
+        "bm": "Ia mengurangkan pelepasan ekzos."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Electric vehicles and carpooling",
+          "bm": "Kenderaan elektrik dan berkongsi kereta"
+        },
+        {
+          "en": "More old lorries",
+          "bm": "Lebih banyak lori lama"
+        },
+        {
+          "en": "Burning tyres",
+          "bm": "Membakar tayar"
+        },
+        {
+          "en": "Banning buses",
+          "bm": "Mengharamkan bas"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "chapterId": "f2geo-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Earth's tilt, not its distance from the Sun, is the reason for seasons. Places in Malaysia near the equator barely notice, while Europe gets snow.",
+      "bm": "Kecondongan Bumi, bukan jaraknya dari Matahari, menyebabkan musim. Malaysia dekat khatulistiwa hampir tidak merasainya, sedangkan Eropah bersalji."
+    },
+    "bigIdeas": [
+      {
+        "en": "Rotation gives day and night.",
+        "bm": "Putaran menghasilkan siang dan malam."
+      },
+      {
+        "en": "Revolution and tilt give seasons.",
+        "bm": "Peredaran dan kecondongan menghasilkan musim."
+      },
+      {
+        "en": "The overhead Sun moves between the tropics.",
+        "bm": "Matahari tegak bergerak antara garisan sartan dan jadi."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Time",
+            "bm": "Masa"
+          },
+          {
+            "en": "Effect",
+            "bm": "Kesan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Rotation",
+              "bm": "Putaran"
+            },
+            "cells": [
+              {
+                "en": "about 24 hours",
+                "bm": "kira-kira 24 jam"
+              },
+              {
+                "en": "day and night",
+                "bm": "siang dan malam"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Revolution",
+              "bm": "Peredaran"
+            },
+            "cells": [
+              {
+                "en": "about 365¼ days",
+                "bm": "kira-kira 365¼ hari"
+              },
+              {
+                "en": "seasons",
+                "bm": "musim"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Rotation",
+          "bm": "Putaran"
+        },
+        "definition": {
+          "en": "Earth spinning on its axis.",
+          "bm": "Bumi berputar pada paksinya."
+        }
+      },
+      {
+        "term": {
+          "en": "Revolution",
+          "bm": "Peredaran"
+        },
+        "definition": {
+          "en": "Earth moving around the Sun.",
+          "bm": "Bumi mengelilingi Matahari."
+        }
+      },
+      {
+        "term": {
+          "en": "Equinox",
+          "bm": "Ekuinoks"
+        },
+        "definition": {
+          "en": "When the overhead Sun is on the equator.",
+          "bm": "Apabila Matahari tegak di khatulistiwa."
+        }
+      },
+      {
+        "term": {
+          "en": "Solstice",
+          "bm": "Solstis"
+        },
+        "definition": {
+          "en": "When the overhead Sun is furthest from the equator.",
+          "bm": "Apabila Matahari tegak paling jauh dari khatulistiwa."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-03-q01",
+      "subtopicId": "f2geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Earth's rotation takes about…",
+        "bm": "Putaran Bumi mengambil masa kira-kira…"
+      },
+      "explanation": {
+        "en": "This makes one day.",
+        "bm": "Ini menjadikan satu hari."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "24 hours",
+          "bm": "24 jam"
+        },
+        {
+          "en": "7 days",
+          "bm": "7 hari"
+        },
+        {
+          "en": "30 days",
+          "bm": "30 hari"
+        },
+        {
+          "en": "365 days",
+          "bm": "365 hari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q02",
+      "subtopicId": "f2geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Earth's axis is tilted at about…",
+        "bm": "Paksi Bumi condong kira-kira…"
+      },
+      "explanation": {
+        "en": "From the vertical.",
+        "bm": "Dari garis tegak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "23½°",
+          "bm": "23½°"
+        },
+        {
+          "en": "5°",
+          "bm": "5°"
+        },
+        {
+          "en": "45°",
+          "bm": "45°"
+        },
+        {
+          "en": "90°",
+          "bm": "90°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q03",
+      "subtopicId": "f2geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Earth rotates from…",
+        "bm": "Bumi berputar dari…"
+      },
+      "explanation": {
+        "en": "So the Sun appears to rise in the east.",
+        "bm": "Maka Matahari kelihatan terbit di timur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "west to east",
+          "bm": "barat ke timur"
+        },
+        {
+          "en": "east to west",
+          "bm": "timur ke barat"
+        },
+        {
+          "en": "north to south",
+          "bm": "utara ke selatan"
+        },
+        {
+          "en": "south to north",
+          "bm": "selatan ke utara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q04",
+      "subtopicId": "f2geo-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Revolution causes…",
+        "bm": "Peredaran menyebabkan…"
+      },
+      "explanation": {
+        "en": "Tilt alters the angle of sunlight.",
+        "bm": "Kecondongan mengubah sudut cahaya matahari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "seasons with the tilt",
+          "bm": "musim bersama kecondongan"
+        },
+        {
+          "en": "tides only",
+          "bm": "pasang surut sahaja"
+        },
+        {
+          "en": "day and night",
+          "bm": "siang dan malam"
+        },
+        {
+          "en": "earthquakes",
+          "bm": "gempa bumi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q05",
+      "subtopicId": "f2geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "On 21 March, the overhead Sun is at the…",
+        "bm": "Pada 21 Mac, Matahari tegak di…"
+      },
+      "explanation": {
+        "en": "This is an equinox.",
+        "bm": "Ini ekuinoks."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "equator",
+          "bm": "khatulistiwa"
+        },
+        {
+          "en": "Tropic of Cancer",
+          "bm": "Garisan Sartan"
+        },
+        {
+          "en": "Tropic of Capricorn",
+          "bm": "Garisan Jadi"
+        },
+        {
+          "en": "North Pole",
+          "bm": "Kutub Utara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q06",
+      "subtopicId": "f2geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "On 21 June, the overhead Sun is at the…",
+        "bm": "Pada 21 Jun, Matahari tegak di…"
+      },
+      "explanation": {
+        "en": "Summer solstice in the north.",
+        "bm": "Solstis musim panas di utara."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tropic of Cancer",
+          "bm": "Garisan Sartan"
+        },
+        {
+          "en": "Tropic of Capricorn",
+          "bm": "Garisan Jadi"
+        },
+        {
+          "en": "equator",
+          "bm": "khatulistiwa"
+        },
+        {
+          "en": "Arctic Circle",
+          "bm": "Bulatan Artik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q07",
+      "subtopicId": "f2geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In December, the Northern Hemisphere has…",
+        "bm": "Pada Disember, Hemisfera Utara mengalami…"
+      },
+      "explanation": {
+        "en": "It tilts away from the Sun.",
+        "bm": "Ia condong menjauhi Matahari."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "winter",
+          "bm": "musim sejuk"
+        },
+        {
+          "en": "summer",
+          "bm": "musim panas"
+        },
+        {
+          "en": "monsoon only",
+          "bm": "monsun sahaja"
+        },
+        {
+          "en": "no change",
+          "bm": "tiada perubahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q08",
+      "subtopicId": "f2geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does Malaysia not have four seasons?",
+        "bm": "Mengapa Malaysia tiada empat musim?"
+      },
+      "explanation": {
+        "en": "Sunlight is strong all year.",
+        "bm": "Cahaya matahari kuat sepanjang tahun."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It lies near the equator",
+          "bm": "Ia berhampiran khatulistiwa"
+        },
+        {
+          "en": "It is an island only",
+          "bm": "Ia pulau sahaja"
+        },
+        {
+          "en": "The Sun never shines",
+          "bm": "Matahari tidak bersinar"
+        },
+        {
+          "en": "Its axis is straight",
+          "bm": "Paksinya tegak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q09",
+      "subtopicId": "f2geo-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do places at high latitudes have longer summer days?",
+        "bm": "Mengapa tempat di latitud tinggi mempunyai siang lebih panjang pada musim panas?"
+      },
+      "explanation": {
+        "en": "Tilt lengthens daylight.",
+        "bm": "Kecondongan memanjangkan siang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Their hemisphere tilts towards the Sun",
+          "bm": "Hemisferanya condong ke arah Matahari"
+        },
+        {
+          "en": "The Sun moves closer",
+          "bm": "Matahari mendekat"
+        },
+        {
+          "en": "Earth stops rotating",
+          "bm": "Bumi berhenti berputar"
+        },
+        {
+          "en": "They have more cloud",
+          "bm": "Lebih banyak awan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-03-q10",
+      "subtopicId": "f2geo-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many degrees does Earth rotate in one hour?",
+        "bm": "Berapa darjah Bumi berputar dalam satu jam?"
+      },
+      "explanation": {
+        "en": "360° ÷ 24 = 15°.",
+        "bm": "360° ÷ 24 = 15°."
+      },
+      "difficulty": 2,
+      "answer": 15,
+      "tolerance": 0.01,
+      "unit": "°"
+    }
+  ]
+}

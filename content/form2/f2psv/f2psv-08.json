@@ -1,0 +1,317 @@
+{
+  "chapterId": "f2psv-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Tekat, using gold thread on velvet, was once a craft of royal courts in Perak.",
+      "bm": "Tekat, menggunakan benang emas pada baldu, pernah menjadi kraf istana di Perak."
+    },
+    "bigIdeas": [
+      {
+        "en": "Embroidery decorates fabric using thread.",
+        "bm": "Sulaman menghias kain menggunakan benang."
+      },
+      {
+        "en": "Tools and stitches create the design.",
+        "bm": "Alat dan jahitan membentuk reka corak."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Embroidery",
+          "bm": "Seni Sulaman"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Tools",
+              "bm": "Alatan"
+            },
+            "detail": {
+              "en": "Needle, hoop",
+              "bm": "Jarum, pemidang"
+            }
+          },
+          {
+            "label": {
+              "en": "Materials",
+              "bm": "Bahan"
+            },
+            "detail": {
+              "en": "Thread, fabric",
+              "bm": "Benang, kain"
+            }
+          },
+          {
+            "label": {
+              "en": "Stitches",
+              "bm": "Jahitan"
+            },
+            "detail": {
+              "en": "Chain, satin",
+              "bm": "Rantai, satin"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tekat",
+          "bm": "Tekat"
+        },
+        "definition": {
+          "en": "Gold thread embroidery.",
+          "bm": "Sulaman benang emas."
+        }
+      },
+      {
+        "term": {
+          "en": "Pemidang",
+          "bm": "Pemidang"
+        },
+        "definition": {
+          "en": "A frame holding the fabric tight.",
+          "bm": "Bingkai yang menegangkan kain."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2psv-08-q01",
+      "subtopicId": "f2psv-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Embroidery decorates…",
+        "bm": "Sulaman menghias…"
+      },
+      "explanation": {
+        "en": "Thread is stitched into cloth.",
+        "bm": "Benang dijahit pada kain."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fabric",
+          "bm": "kain"
+        },
+        {
+          "en": "metal only",
+          "bm": "logam sahaja"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        },
+        {
+          "en": "stone",
+          "bm": "batu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q02",
+      "subtopicId": "f2psv-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A design for embroidery should first be…",
+        "bm": "Reka corak sulaman perlu dahulu…"
+      },
+      "explanation": {
+        "en": "It guides the stitches.",
+        "bm": "Ia memandu jahitan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sketched and transferred",
+          "bm": "dilakar dan dipindahkan"
+        },
+        {
+          "en": "burned",
+          "bm": "dibakar"
+        },
+        {
+          "en": "melted",
+          "bm": "dileburkan"
+        },
+        {
+          "en": "printed in 3D",
+          "bm": "dicetak 3D"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q03",
+      "subtopicId": "f2psv-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tekat uses…",
+        "bm": "Tekat menggunakan…"
+      },
+      "explanation": {
+        "en": "Often on velvet.",
+        "bm": "Biasanya pada baldu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "gold thread",
+          "bm": "benang emas"
+        },
+        {
+          "en": "fishing line",
+          "bm": "tali pancing"
+        },
+        {
+          "en": "wire mesh",
+          "bm": "jaring dawai"
+        },
+        {
+          "en": "plastic string",
+          "bm": "tali plastik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q04",
+      "subtopicId": "f2psv-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pemidang is used to…",
+        "bm": "Pemidang digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It keeps stitching even.",
+        "bm": "Ia memastikan jahitan sekata."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "stretch the fabric",
+          "bm": "menegangkan kain"
+        },
+        {
+          "en": "cut wood",
+          "bm": "memotong kayu"
+        },
+        {
+          "en": "weigh thread",
+          "bm": "menimbang benang"
+        },
+        {
+          "en": "dye cloth",
+          "bm": "mewarna kain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q05",
+      "subtopicId": "f2psv-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which stitch makes a line of loops?",
+        "bm": "Jahitan manakah menghasilkan garisan gelung?"
+      },
+      "explanation": {
+        "en": "Each loop holds the next.",
+        "bm": "Setiap gelung memegang seterusnya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Chain stitch",
+          "bm": "Jahitan rantai"
+        },
+        {
+          "en": "Satin stitch",
+          "bm": "Jahitan satin"
+        },
+        {
+          "en": "Cross stitch",
+          "bm": "Jahitan silang"
+        },
+        {
+          "en": "Running stitch",
+          "bm": "Jahitan jelujur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q06",
+      "subtopicId": "f2psv-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Satin stitch is used to…",
+        "bm": "Jahitan satin digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Threads lie side by side.",
+        "bm": "Benang bersebelahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "fill shapes smoothly",
+          "bm": "mengisi bentuk dengan licin"
+        },
+        {
+          "en": "join two wood blocks",
+          "bm": "menyambung dua blok kayu"
+        },
+        {
+          "en": "make holes",
+          "bm": "membuat lubang"
+        },
+        {
+          "en": "hem only",
+          "bm": "melipat tepi sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2psv-08-q07",
+      "subtopicId": "f2psv-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "To keep the back neat, you should…",
+        "bm": "Untuk mengemaskan bahagian belakang, anda perlu…"
+      },
+      "explanation": {
+        "en": "Good technique shows at the back.",
+        "bm": "Teknik baik terlihat di belakang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "secure the ends and avoid long jumps",
+          "bm": "mengemaskan hujung dan mengelak lompatan panjang"
+        },
+        {
+          "en": "use knots everywhere",
+          "bm": "guna simpul di mana-mana"
+        },
+        {
+          "en": "use tape",
+          "bm": "guna pita"
+        },
+        {
+          "en": "glue it",
+          "bm": "menggamnya"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

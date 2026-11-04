@@ -1,0 +1,101 @@
+{
+  "chapterId": "f2math-10",
+  "cards": [
+    {
+      "id": "f2math-10-f01",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Gradient",
+        "bm": "Kecerunan"
+      },
+      "back": {
+        "en": "Vertical distance ÷ horizontal distance",
+        "bm": "Jarak mencancang ÷ jarak mengufuk"
+      }
+    },
+    {
+      "id": "f2math-10-f02",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Gradient from two points",
+        "bm": "Kecerunan daripada dua titik"
+      },
+      "back": {
+        "en": "(y₂ − y₁) ÷ (x₂ − x₁)",
+        "bm": "(y₂ − y₁) ÷ (x₂ − x₁)"
+      }
+    },
+    {
+      "id": "f2math-10-f03",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Gradient from intercepts",
+        "bm": "Kecerunan daripada pintasan"
+      },
+      "back": {
+        "en": "−(y-intercept ÷ x-intercept)",
+        "bm": "−(pintasan-y ÷ pintasan-x)"
+      }
+    },
+    {
+      "id": "f2math-10-f04",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Positive gradient",
+        "bm": "Kecerunan positif"
+      },
+      "back": {
+        "en": "Rises to the right.",
+        "bm": "Naik ke kanan."
+      }
+    },
+    {
+      "id": "f2math-10-f05",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Negative gradient",
+        "bm": "Kecerunan negatif"
+      },
+      "back": {
+        "en": "Falls to the right.",
+        "bm": "Turun ke kanan."
+      }
+    },
+    {
+      "id": "f2math-10-f06",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Zero gradient",
+        "bm": "Kecerunan sifar"
+      },
+      "back": {
+        "en": "Horizontal line.",
+        "bm": "Garis mengufuk."
+      }
+    },
+    {
+      "id": "f2math-10-f07",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Undefined gradient",
+        "bm": "Kecerunan tidak tertakrif"
+      },
+      "back": {
+        "en": "Vertical line.",
+        "bm": "Garis mencancang."
+      }
+    },
+    {
+      "id": "f2math-10-f08",
+      "subtopicId": "f2math-10-01",
+      "front": {
+        "en": "Steeper line",
+        "bm": "Garis lebih curam"
+      },
+      "back": {
+        "en": "Larger gradient size.",
+        "bm": "Magnitud kecerunan lebih besar."
+      }
+    }
+  ]
+}

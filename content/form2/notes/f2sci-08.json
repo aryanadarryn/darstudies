@@ -1,0 +1,110 @@
+{
+  "chapterId": "f2sci-08",
+  "reviewed": false,
+  "subtopics": {
+    "f2sci-08-01": {
+      "keyPoints": [
+        {
+          "en": "Force has size and direction, and is measured in newtons.",
+          "bm": "Daya ada magnitud dan arah, dan diukur dalam newton."
+        },
+        {
+          "en": "Weight is the gravitational force on a mass.",
+          "bm": "Berat ialah daya graviti pada jisim."
+        },
+        {
+          "en": "Types: friction, normal reaction, buoyancy, tension.",
+          "bm": "Jenis: geseran, tindak balas normal, apungan, tegangan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Mass",
+            "bm": "Jisim"
+          },
+          "meaning": {
+            "en": "Amount of matter (kg).",
+            "bm": "Kuantiti jirim (kg)."
+          }
+        },
+        {
+          "term": {
+            "en": "Weight",
+            "bm": "Berat"
+          },
+          "meaning": {
+            "en": "Force of gravity (N).",
+            "bm": "Daya graviti (N)."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Is mass the same on the Moon?",
+          "bm": "Adakah jisim sama di Bulan?"
+        },
+        "answer": {
+          "en": "Yes",
+          "bm": "Ya"
+        }
+      },
+      "tip": {
+        "en": "Do not give weight in kilograms.",
+        "bm": "Jangan beri berat dalam kilogram."
+      }
+    },
+    "f2sci-08-02": {
+      "keyPoints": [
+        {
+          "en": "A force can change motion or shape.",
+          "bm": "Daya boleh mengubah gerakan atau bentuk."
+        },
+        {
+          "en": "A larger distance from a pivot gives a larger moment.",
+          "bm": "Jarak lebih jauh dari fulkrum memberi momen lebih besar."
+        },
+        {
+          "en": "A smaller area gives a higher pressure.",
+          "bm": "Luas lebih kecil memberi tekanan lebih tinggi."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Pivot",
+            "bm": "Fulkrum"
+          },
+          "meaning": {
+            "en": "The point of turning.",
+            "bm": "Titik putaran."
+          }
+        },
+        {
+          "term": {
+            "en": "Lever",
+            "bm": "Tuas"
+          },
+          "meaning": {
+            "en": "A bar that turns on a pivot.",
+            "bm": "Batang yang berputar pada fulkrum."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Force 10 N at 0.3 m?",
+          "bm": "Daya 10 N pada 0.3 m?"
+        },
+        "answer": {
+          "en": "3 N m",
+          "bm": "3 N m"
+        }
+      },
+      "tip": {
+        "en": "Convert cm to m before finding a moment in N m.",
+        "bm": "Tukar cm kepada m sebelum mencari momen dalam N m."
+      }
+    }
+  }
+}

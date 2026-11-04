@@ -1,0 +1,374 @@
+{
+  "chapterId": "f2muzik-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In a canon, voices enter one after another with the same melody. \"Row, Row, Row Your Boat\" is a famous round.",
+      "bm": "Dalam canon, suara masuk satu demi satu dengan melodi yang sama. \"Row, Row, Row Your Boat\" pusingan yang terkenal."
+    },
+    "bigIdeas": [
+      {
+        "en": "A canon overlaps the same melody.",
+        "bm": "Canon menindih melodi yang sama."
+      },
+      {
+        "en": "Pitch, dynamics and tempo must be correct.",
+        "bm": "Pic, dinamik dan tempo mesti betul."
+      },
+      {
+        "en": "Good posture and breathing improve sound.",
+        "bm": "Postur dan pernafasan baik memperbaik bunyi."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Singing well",
+          "bm": "Bernyanyi baik"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Posture",
+              "bm": "Postur"
+            },
+            "detail": {
+              "en": "Stand tall",
+              "bm": "Berdiri tegak"
+            }
+          },
+          {
+            "label": {
+              "en": "Breath",
+              "bm": "Pernafasan"
+            },
+            "detail": {
+              "en": "From the diaphragm",
+              "bm": "Dari diafragma"
+            }
+          },
+          {
+            "label": {
+              "en": "Register",
+              "bm": "Register"
+            },
+            "detail": {
+              "en": "Head, middle, chest",
+              "bm": "Kepala, tengah, dada"
+            }
+          },
+          {
+            "label": {
+              "en": "Diction",
+              "bm": "Sebutan"
+            },
+            "detail": {
+              "en": "Clear words",
+              "bm": "Perkataan jelas"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Canon",
+          "bm": "Canon"
+        },
+        "definition": {
+          "en": "Same melody entering at different times.",
+          "bm": "Melodi sama yang masuk pada masa berbeza."
+        }
+      },
+      {
+        "term": {
+          "en": "Register",
+          "bm": "Register"
+        },
+        "definition": {
+          "en": "Range of the voice: head, middle, chest.",
+          "bm": "Julat suara: kepala, tengah, dada."
+        }
+      },
+      {
+        "term": {
+          "en": "Diction",
+          "bm": "Sebutan"
+        },
+        "definition": {
+          "en": "Clear pronunciation in singing.",
+          "bm": "Sebutan jelas semasa menyanyi."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2muzik-01-q01",
+      "subtopicId": "f2muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A canon uses…",
+        "bm": "Canon menggunakan…"
+      },
+      "explanation": {
+        "en": "Voices overlap.",
+        "bm": "Suara bertindih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the same melody entering at different times",
+          "bm": "melodi sama yang masuk pada masa berbeza"
+        },
+        {
+          "en": "different lyrics only",
+          "bm": "lirik berbeza sahaja"
+        },
+        {
+          "en": "no melody",
+          "bm": "tiada melodi"
+        },
+        {
+          "en": "drums only",
+          "bm": "gendang sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q02",
+      "subtopicId": "f2muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a two-part canon, group 2 starts…",
+        "bm": "Dalam canon dua bahagian, kumpulan 2 bermula…"
+      },
+      "explanation": {
+        "en": "Entries are staggered.",
+        "bm": "Kemasukan berperingkat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "after group 1 has begun",
+          "bm": "selepas kumpulan 1 bermula"
+        },
+        {
+          "en": "before group 1",
+          "bm": "sebelum kumpulan 1"
+        },
+        {
+          "en": "after the song ends",
+          "bm": "selepas lagu tamat"
+        },
+        {
+          "en": "never",
+          "bm": "tidak pernah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q03",
+      "subtopicId": "f2muzik-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hardest part of a canon is usually…",
+        "bm": "Bahagian paling sukar canon biasanya…"
+      },
+      "explanation": {
+        "en": "Listen but keep your own line.",
+        "bm": "Dengar tetapi kekalkan bahagian sendiri."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "holding your part while others sing",
+          "bm": "mengekalkan bahagian sendiri ketika orang lain menyanyi"
+        },
+        {
+          "en": "the words",
+          "bm": "perkataan"
+        },
+        {
+          "en": "the title",
+          "bm": "tajuk"
+        },
+        {
+          "en": "standing",
+          "bm": "berdiri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q04",
+      "subtopicId": "f2muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Good singing posture is…",
+        "bm": "Postur menyanyi yang baik ialah…"
+      },
+      "explanation": {
+        "en": "It frees the breath.",
+        "bm": "Ia membebaskan pernafasan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "standing tall with relaxed shoulders",
+          "bm": "berdiri tegak dengan bahu santai"
+        },
+        {
+          "en": "bending forward",
+          "bm": "membongkok"
+        },
+        {
+          "en": "lying down",
+          "bm": "berbaring"
+        },
+        {
+          "en": "with crossed arms",
+          "bm": "tangan bersilang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q05",
+      "subtopicId": "f2muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Singers breathe mainly from the…",
+        "bm": "Penyanyi bernafas terutamanya dari…"
+      },
+      "explanation": {
+        "en": "It gives controlled air.",
+        "bm": "Ia memberi kawalan udara."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "diaphragm",
+          "bm": "diaphragm"
+        },
+        {
+          "en": "throat",
+          "bm": "throat"
+        },
+        {
+          "en": "nose only",
+          "bm": "nose only"
+        },
+        {
+          "en": "jaw",
+          "bm": "jaw"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q06",
+      "subtopicId": "f2muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Head voice is used for…",
+        "bm": "Suara kepala digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Chest voice is lower.",
+        "bm": "Suara dada lebih rendah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "higher notes",
+          "bm": "not tinggi"
+        },
+        {
+          "en": "very low notes",
+          "bm": "not sangat rendah"
+        },
+        {
+          "en": "whispering",
+          "bm": "berbisik"
+        },
+        {
+          "en": "drumming",
+          "bm": "memukul gendang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q07",
+      "subtopicId": "f2muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why warm up before singing?",
+        "bm": "Mengapa memanaskan suara sebelum menyanyi?"
+      },
+      "explanation": {
+        "en": "Reduces strain.",
+        "bm": "Mengurangkan ketegangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To prepare and protect the voice",
+          "bm": "Untuk menyediakan dan melindungi suara"
+        },
+        {
+          "en": "To tire the voice",
+          "bm": "Untuk memenatkan suara"
+        },
+        {
+          "en": "To stop breathing",
+          "bm": "Untuk berhenti bernafas"
+        },
+        {
+          "en": "To lower pitch forever",
+          "bm": "Untuk menurunkan pic selamanya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-01-q08",
+      "subtopicId": "f2muzik-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If the choir goes flat, the best fix is to…",
+        "bm": "Jika koir menjadi flat, cara terbaik ialah…"
+      },
+      "explanation": {
+        "en": "Breath supports pitch.",
+        "bm": "Pernafasan menyokong pic."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "listen and support with better breath",
+          "bm": "mendengar dan menyokong dengan pernafasan lebih baik"
+        },
+        {
+          "en": "sing louder only",
+          "bm": "menyanyi lebih kuat sahaja"
+        },
+        {
+          "en": "stop for the day",
+          "bm": "berhenti seharian"
+        },
+        {
+          "en": "change the words",
+          "bm": "menukar perkataan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

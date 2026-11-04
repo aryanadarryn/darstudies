@@ -1,0 +1,219 @@
+{
+  "id": "f2bi",
+  "name": {
+    "en": "English Language",
+    "bm": "Bahasa Inggeris"
+  },
+  "short": {
+    "en": "English",
+    "bm": "English"
+  },
+  "color": "#4f46e5",
+  "source": "Skill-based chapters aligned to the Form 2 CEFR-aligned syllabus (Pulse 2, Units 6 to 9, CEFR A2). Exact textbook unit titles could not be confirmed online, so chapters are arranged by language skill. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Grammar: Tenses",
+        "bm": "Tatabahasa: Kala"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Present Simple and Continuous",
+            "bm": "Present Simple dan Continuous"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Past Simple and Continuous",
+            "bm": "Past Simple dan Continuous"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Present Perfect",
+            "bm": "Present Perfect"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Grammar: Modals, Comparatives and Connectors",
+        "bm": "Tatabahasa: Modal, Perbandingan dan Kata Hubung"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Must, Have to and Should",
+            "bm": "Must, Have to dan Should"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Comparatives and Superlatives",
+            "bm": "Perbandingan dan Superlatif"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Conjunctions and Relative Clauses",
+            "bm": "Kata Hubung dan Klausa Relatif"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Vocabulary: Travel, Transport and Culture",
+        "bm": "Kosa Kata: Perjalanan, Pengangkutan dan Budaya"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Journeys and Transport",
+            "bm": "Perjalanan dan Pengangkutan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "People and Culture",
+            "bm": "Masyarakat dan Budaya"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Word Formation",
+            "bm": "Pembentukan Kata"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Reading Skills",
+        "bm": "Kemahiran Membaca"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Skimming and Scanning",
+            "bm": "Membaca Sekilas dan Imbas"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Main Idea and Details",
+            "bm": "Idea Utama dan Butiran"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Inference and Reference",
+            "bm": "Inferens dan Rujukan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Writing Skills",
+        "bm": "Kemahiran Menulis"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Emails and Messages",
+            "bm": "E-mel dan Mesej"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Stories",
+            "bm": "Cerita"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Reviews and Descriptions",
+            "bm": "Ulasan dan Huraian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Speaking and Listening",
+        "bm": "Bertutur dan Mendengar"
+      },
+      "theme": {
+        "en": "Pulse 2 themes (CEFR A2)",
+        "bm": "Tema Pulse 2 (CEFR A2)"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Giving Opinions",
+            "bm": "Memberi Pendapat"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Asking for Information",
+            "bm": "Meminta Maklumat"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Listening for Details",
+            "bm": "Mendengar Butiran"
+          }
+        }
+      ]
+    }
+  ]
+}

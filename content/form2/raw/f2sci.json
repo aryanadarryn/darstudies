@@ -1,0 +1,408 @@
+{
+  "id": "f2sci",
+  "name": {
+    "en": "Science",
+    "bm": "Sains"
+  },
+  "short": {
+    "en": "Science",
+    "bm": "Sains"
+  },
+  "color": "#16a34a",
+  "source": "Chapter and subtopic titles follow the KSSM Science Form 2 textbook list (13 chapters). Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Biodiversity",
+        "bm": "Biodiversiti"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Diversity of Organisms",
+            "bm": "Kepelbagaian Organisma"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Classification of Organisms",
+            "bm": "Pengelasan Organisma"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Ecosystem",
+        "bm": "Ekosistem"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Energy Flow in Ecosystems",
+            "bm": "Aliran Tenaga dalam Ekosistem"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Nutrient Cycle in Ecosystems",
+            "bm": "Kitar Nutrien dalam Ekosistem"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Interdependence and Interaction among Organisms and the Environment",
+            "bm": "Saling Bersandaran dan Interaksi antara Organisma dan antara Organisma dengan Persekitaran"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Role of Humans in Maintaining a Balanced Nature",
+            "bm": "Peranan Manusia dalam Mengekalkan Keseimbangan Alam"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Nutrition",
+        "bm": "Nutrisi"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Classes of Food",
+            "bm": "Kelas Makanan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Importance of a Balanced Diet",
+            "bm": "Kepentingan Gizi Seimbang"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Human Digestive System",
+            "bm": "Sistem Pencernaan Manusia"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "Absorption and Transportation of Digested Food and Defecation",
+            "bm": "Proses Penyerapan dan Pengangkutan Hasil Pencernaan serta Penyahtinjaan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Human Health",
+        "bm": "Kesihatan Manusia"
+      },
+      "theme": {
+        "en": "Maintenance and Continuity of Life",
+        "bm": "Penyenggaraan dan Kesinambungan Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Infectious and Non-infectious Diseases",
+            "bm": "Penyakit Berjangkit dan Penyakit Tidak Berjangkit"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Body Defence",
+            "bm": "Pertahanan Badan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Water and Solution",
+        "bm": "Air dan Larutan"
+      },
+      "theme": {
+        "en": "Exploration of Elements in Nature",
+        "bm": "Penerokaan Unsur dalam Alam"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Physical Characteristics of Water",
+            "bm": "Sifat Fizik Air"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Solution and Rate of Solubility",
+            "bm": "Larutan dan Kadar Keterlarutan"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Water Purification and Supply",
+            "bm": "Pembersihan dan Pembekalan Air"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Acid and Alkali",
+        "bm": "Asid dan Alkali"
+      },
+      "theme": {
+        "en": "Exploration of Elements in Nature",
+        "bm": "Penerokaan Unsur dalam Alam"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Properties of Acids and Alkalis",
+            "bm": "Sifat Asid dan Alkali"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Neutralisation",
+            "bm": "Peneutralan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Electricity and Magnetism",
+        "bm": "Keelektrikan dan Kemagnetan"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Electricity",
+            "bm": "Keelektrikan"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Flow of Electric Current in Series and Parallel Circuits",
+            "bm": "Pengaliran Arus Elektrik dalam Litar Bersiri dan Litar Selari"
+          }
+        },
+        {
+          "code": "7.3",
+          "title": {
+            "en": "Magnetism",
+            "bm": "Kemagnetan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Force and Motion",
+        "bm": "Daya dan Gerakan"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Force",
+            "bm": "Daya"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Effects of Force",
+            "bm": "Kesan Daya"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Heat",
+        "bm": "Haba"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Relationship between Temperature and Heat",
+            "bm": "Hubung Kait Suhu dengan Haba"
+          }
+        },
+        {
+          "code": "9.2",
+          "title": {
+            "en": "Heat Flow and Thermal Equilibrium",
+            "bm": "Pengaliran Haba dan Keseimbangan Haba"
+          }
+        },
+        {
+          "code": "9.3",
+          "title": {
+            "en": "Principle of Expansion and Contraction of Matter",
+            "bm": "Prinsip Pengembangan dan Pengecutan Jirim"
+          }
+        },
+        {
+          "code": "9.4",
+          "title": {
+            "en": "Relationship between the Type of Surface and Heat Absorption and Emission",
+            "bm": "Hubung Kait Jenis Permukaan Objek dengan Penyerapan dan Pembebasan Haba"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Sound Waves",
+        "bm": "Gelombang Bunyi"
+      },
+      "theme": {
+        "en": "Energy and Sustainability of Life",
+        "bm": "Tenaga dan Kelestarian Hidup"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Characteristics of Sound Waves",
+            "bm": "Ciri Gelombang Bunyi"
+          }
+        },
+        {
+          "code": "10.2",
+          "title": {
+            "en": "Loudness and Pitch of Sound",
+            "bm": "Kenyaringan dan Kelangsingan Bunyi"
+          }
+        },
+        {
+          "code": "10.3",
+          "title": {
+            "en": "Phenomena and Applications of the Reflection of Sound Waves",
+            "bm": "Fenomena dan Aplikasi Pantulan Gelombang Bunyi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": {
+        "en": "Stars and Galaxies in the Universe",
+        "bm": "Bintang dan Galaksi dalam Alam Semesta"
+      },
+      "theme": {
+        "en": "Earth and Space Exploration",
+        "bm": "Penerokaan Bumi dan Angkasa Lepas"
+      },
+      "subtopics": [
+        {
+          "code": "11.1",
+          "title": {
+            "en": "Stars and Galaxies in the Universe",
+            "bm": "Bintang dan Galaksi dalam Alam Semesta"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": {
+        "en": "The Solar System",
+        "bm": "Sistem Suria"
+      },
+      "theme": {
+        "en": "Earth and Space Exploration",
+        "bm": "Penerokaan Bumi dan Angkasa Lepas"
+      },
+      "subtopics": [
+        {
+          "code": "12.1",
+          "title": {
+            "en": "The Solar System",
+            "bm": "Sistem Suria"
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": {
+        "en": "Meteoroids, Asteroids and Comets",
+        "bm": "Meteoroid, Asteroid dan Komet"
+      },
+      "theme": {
+        "en": "Earth and Space Exploration",
+        "bm": "Penerokaan Bumi dan Angkasa Lepas"
+      },
+      "subtopics": [
+        {
+          "code": "13.1",
+          "title": {
+            "en": "Other Members of the Solar System: Meteoroids, Asteroids and Comets",
+            "bm": "Jasad Lain dalam Sistem Suria iaitu Meteoroid, Asteroid dan Komet"
+          }
+        }
+      ]
+    }
+  ]
+}

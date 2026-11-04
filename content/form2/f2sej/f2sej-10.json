@@ -1,0 +1,569 @@
+{
+  "chapterId": "f2sej-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Santubong in Sarawak was a trading port centuries ago, with Chinese ceramics found by archaeologists. Borneo has been part of the Malay World from early on.",
+      "bm": "Santubong di Sarawak pelabuhan perdagangan berabad-abad lalu, dengan seramik China ditemui ahli arkeologi. Borneo sebahagian Alam Melayu sejak awal."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sarawak and Sabah linked to Brunei and Sulu.",
+        "bm": "Sarawak dan Sabah berkait dengan Brunei dan Sulu."
+      },
+      {
+        "en": "Local leaders ruled their own areas.",
+        "bm": "Pemimpin tempatan memerintah kawasan masing-masing."
+      },
+      {
+        "en": "A rich mix of communities shapes Borneo's heritage.",
+        "bm": "Pelbagai masyarakat membentuk warisan Borneo."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Home",
+            "bm": "Kawasan"
+          },
+          {
+            "en": "Unique feature",
+            "bm": "Keunikan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Iban",
+              "bm": "Iban"
+            },
+            "cells": [
+              {
+                "en": "Sarawak",
+                "bm": "Sarawak"
+              },
+              {
+                "en": "longhouse; Gawai",
+                "bm": "rumah panjang; Gawai"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Melanau",
+              "bm": "Melanau"
+            },
+            "cells": [
+              {
+                "en": "Sarawak coast",
+                "bm": "pesisir Sarawak"
+              },
+              {
+                "en": "Kaul festival",
+                "bm": "Pesta Kaul"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Kadazan-Dusun",
+              "bm": "Kadazan-Dusun"
+            },
+            "cells": [
+              {
+                "en": "Sabah",
+                "bm": "Sabah"
+              },
+              {
+                "en": "Kaamatan",
+                "bm": "Kaamatan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Bajau",
+              "bm": "Bajau"
+            },
+            "cells": [
+              {
+                "en": "Sabah coast",
+                "bm": "pesisir Sabah"
+              },
+              {
+                "en": "Regatta Lepa",
+                "bm": "Regatta Lepa"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Santubong",
+          "bm": "Santubong"
+        },
+        "definition": {
+          "en": "An old trading port in Sarawak.",
+          "bm": "Pelabuhan perdagangan lama di Sarawak."
+        }
+      },
+      {
+        "term": {
+          "en": "Tamu",
+          "bm": "Tamu"
+        },
+        "definition": {
+          "en": "A traditional open market in Sabah.",
+          "bm": "Pasar terbuka tradisional di Sabah."
+        }
+      },
+      {
+        "term": {
+          "en": "Longhouse",
+          "bm": "Rumah panjang"
+        },
+        "definition": {
+          "en": "A shared long house of a community.",
+          "bm": "Rumah panjang yang didiami bersama."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sej-10-q01",
+      "subtopicId": "f2sej-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Santubong is in…",
+        "bm": "Santubong terletak di…"
+      },
+      "explanation": {
+        "en": "Near Kuching.",
+        "bm": "Berhampiran Kuching."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Kedah",
+          "bm": "Kedah"
+        },
+        {
+          "en": "Johor",
+          "bm": "Johor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q02",
+      "subtopicId": "f2sej-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sultanates held influence in Borneo?",
+        "bm": "Kesultanan manakah berpengaruh di Borneo?"
+      },
+      "explanation": {
+        "en": "Both claimed parts of northern Borneo.",
+        "bm": "Kedua-duanya menuntut sebahagian utara Borneo."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Brunei and Sulu",
+          "bm": "Brunei dan Sulu"
+        },
+        {
+          "en": "Johor and Kedah only",
+          "bm": "Johor dan Kedah sahaja"
+        },
+        {
+          "en": "Melaka and Goa",
+          "bm": "Melaka dan Goa"
+        },
+        {
+          "en": "Aceh and Pattani",
+          "bm": "Aceh dan Pattani"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q03",
+      "subtopicId": "f2sej-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do Chinese ceramics at Santubong matter?",
+        "bm": "Mengapa seramik China di Santubong penting?"
+      },
+      "explanation": {
+        "en": "Traders brought goods from afar.",
+        "bm": "Pedagang membawa barang dari jauh."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They are evidence of long-distance trade",
+          "bm": "Ia bukti perdagangan jarak jauh"
+        },
+        {
+          "en": "They show a Chinese colony",
+          "bm": "Ia menunjukkan jajahan China"
+        },
+        {
+          "en": "They prove there were no locals",
+          "bm": "Ia membuktikan tiada penduduk tempatan"
+        },
+        {
+          "en": "They were made in 1990",
+          "bm": "Ia dibuat pada 1990"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q04",
+      "subtopicId": "f2sej-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Datu Patinggi Ali was a local leader of…",
+        "bm": "Datu Patinggi Ali ialah pemimpin tempatan di…"
+      },
+      "explanation": {
+        "en": "He led local Malays in the Sarawak River area.",
+        "bm": "Beliau mengetuai Melayu tempatan di kawasan Sungai Sarawak."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sarawak",
+          "bm": "Sarawak"
+        },
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Perak",
+          "bm": "Perak"
+        },
+        {
+          "en": "Pahang",
+          "bm": "Pahang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q05",
+      "subtopicId": "f2sej-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sharif Osman of the 19th century is linked with…",
+        "bm": "Sharif Osman pada abad ke-19 dikaitkan dengan…"
+      },
+      "explanation": {
+        "en": "He ruled the Marudu Bay area.",
+        "bm": "Beliau menguasai kawasan Teluk Marudu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Marudu, Sabah",
+          "bm": "Marudu, Sabah"
+        },
+        {
+          "en": "Rembau",
+          "bm": "Rembau"
+        },
+        {
+          "en": "Klang",
+          "bm": "Klang"
+        },
+        {
+          "en": "Kuala Terengganu",
+          "bm": "Kuala Terengganu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q06",
+      "subtopicId": "f2sej-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What does local rule in Borneo tell us?",
+        "bm": "Apakah yang ditunjukkan oleh pemerintahan tempatan di Borneo?"
+      },
+      "explanation": {
+        "en": "Local leadership existed long before.",
+        "bm": "Kepimpinan tempatan wujud sejak lama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Communities had their own leaders before colonial rule",
+          "bm": "Masyarakat mempunyai pemimpin sendiri sebelum penjajahan"
+        },
+        {
+          "en": "Borneo had no people",
+          "bm": "Borneo tiada penduduk"
+        },
+        {
+          "en": "Only Britain ruled there always",
+          "bm": "Hanya British memerintah selamanya"
+        },
+        {
+          "en": "Leaders were all foreign",
+          "bm": "Semua pemimpin asing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q07",
+      "subtopicId": "f2sej-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sago is especially linked with which group?",
+        "bm": "Sagu dikaitkan terutamanya dengan kumpulan mana?"
+      },
+      "explanation": {
+        "en": "Melanau communities process sago.",
+        "bm": "Masyarakat Melanau memproses sagu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Melanau",
+          "bm": "Melanau"
+        },
+        {
+          "en": "Minangkabau",
+          "bm": "Minangkabau"
+        },
+        {
+          "en": "Bugis",
+          "bm": "Bugis"
+        },
+        {
+          "en": "Acehnese",
+          "bm": "Aceh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q08",
+      "subtopicId": "f2sej-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Edible birds' nests in Sabah come from caves such as…",
+        "bm": "Sarang burung di Sabah datang dari gua seperti…"
+      },
+      "explanation": {
+        "en": "They are valuable trade goods.",
+        "bm": "Ia barang dagangan bernilai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Gomantong",
+          "bm": "Gomantong"
+        },
+        {
+          "en": "Niah only",
+          "bm": "Niah sahaja"
+        },
+        {
+          "en": "Batu",
+          "bm": "Batu"
+        },
+        {
+          "en": "Tempurung",
+          "bm": "Tempurung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q09",
+      "subtopicId": "f2sej-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A tamu is best described as…",
+        "bm": "Tamu paling tepat digambarkan sebagai…"
+      },
+      "explanation": {
+        "en": "It still operates in Sabah.",
+        "bm": "Ia masih beroperasi di Sabah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a traditional market to exchange goods",
+          "bm": "pasar tradisional untuk menukar barang"
+        },
+        {
+          "en": "a fort",
+          "bm": "kubu"
+        },
+        {
+          "en": "a religion",
+          "bm": "agama"
+        },
+        {
+          "en": "a law",
+          "bm": "undang-undang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q10",
+      "subtopicId": "f2sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hari Gawai is celebrated by…",
+        "bm": "Hari Gawai disambut oleh…"
+      },
+      "explanation": {
+        "en": "It is a harvest celebration.",
+        "bm": "Ia sambutan menuai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Dayak communities of Sarawak",
+          "bm": "masyarakat Dayak di Sarawak"
+        },
+        {
+          "en": "Malacca Portuguese",
+          "bm": "Portugis Melaka"
+        },
+        {
+          "en": "Kelantan Malays",
+          "bm": "Melayu Kelantan"
+        },
+        {
+          "en": "Hakka only",
+          "bm": "Hakka sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q11",
+      "subtopicId": "f2sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pesta Kaamatan is celebrated in…",
+        "bm": "Pesta Kaamatan disambut di…"
+      },
+      "explanation": {
+        "en": "A Kadazan-Dusun harvest festival.",
+        "bm": "Pesta menuai Kadazan-Dusun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sabah",
+          "bm": "Sabah"
+        },
+        {
+          "en": "Selangor",
+          "bm": "Selangor"
+        },
+        {
+          "en": "Perlis",
+          "bm": "Perlis"
+        },
+        {
+          "en": "Penang",
+          "bm": "Pulau Pinang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q12",
+      "subtopicId": "f2sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Regatta Lepa is linked with the…",
+        "bm": "Regatta Lepa dikaitkan dengan…"
+      },
+      "explanation": {
+        "en": "Lepa are decorated boats.",
+        "bm": "Lepa ialah perahu berhias."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Bajau of Semporna",
+          "bm": "Bajau di Semporna"
+        },
+        {
+          "en": "Iban of Kapit",
+          "bm": "Iban di Kapit"
+        },
+        {
+          "en": "Malays of Kedah",
+          "bm": "Melayu Kedah"
+        },
+        {
+          "en": "Dusun of Tambunan",
+          "bm": "Dusun di Tambunan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-10-q13",
+      "subtopicId": "f2sej-10-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a longhouse more than a house?",
+        "bm": "Mengapa rumah panjang lebih daripada sekadar rumah?"
+      },
+      "explanation": {
+        "en": "Shared ruai hosts gatherings.",
+        "bm": "Ruai bersama menjadi tempat perjumpaan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It is a community living and meeting space",
+          "bm": "Ia ruang kehidupan dan pertemuan masyarakat"
+        },
+        {
+          "en": "It is a market only",
+          "bm": "Ia pasar sahaja"
+        },
+        {
+          "en": "It is only for chiefs",
+          "bm": "Ia untuk ketua sahaja"
+        },
+        {
+          "en": "It is empty",
+          "bm": "Ia kosong"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

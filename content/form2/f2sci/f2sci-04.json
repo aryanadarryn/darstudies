@@ -1,0 +1,597 @@
+{
+  "chapterId": "f2sci-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Vaccines train your body with a harmless copy of a pathogen, so your defences recognise the real one quickly.",
+      "bm": "Vaksin melatih badan dengan salinan patogen yang tidak berbahaya, supaya pertahanan badan cepat mengenali patogen sebenar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Infectious diseases spread; non-infectious diseases do not.",
+        "bm": "Penyakit berjangkit merebak; penyakit tidak berjangkit tidak."
+      },
+      {
+        "en": "The body has three lines of defence.",
+        "bm": "Badan mempunyai tiga barisan pertahanan."
+      },
+      {
+        "en": "Immunity can be natural or artificial.",
+        "bm": "Keimunan boleh jadi semula jadi atau buatan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Spread",
+            "bm": "Merebak"
+          },
+          {
+            "en": "Examples",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Infectious",
+              "bm": "Berjangkit"
+            },
+            "cells": [
+              {
+                "en": "Yes",
+                "bm": "Ya"
+              },
+              {
+                "en": "Dengue, flu, COVID-19",
+                "bm": "Denggi, selesema, COVID-19"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Non-infectious",
+              "bm": "Tidak berjangkit"
+            },
+            "cells": [
+              {
+                "en": "No",
+                "bm": "Tidak"
+              },
+              {
+                "en": "Diabetes, cancer",
+                "bm": "Diabetes, kanser"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Pathogen",
+          "bm": "Patogen"
+        },
+        "definition": {
+          "en": "A microorganism that causes disease.",
+          "bm": "Mikroorganisma yang menyebabkan penyakit."
+        }
+      },
+      {
+        "term": {
+          "en": "Vector",
+          "bm": "Vektor"
+        },
+        "definition": {
+          "en": "An animal that carries pathogens.",
+          "bm": "Haiwan yang membawa patogen."
+        }
+      },
+      {
+        "term": {
+          "en": "Antibody",
+          "bm": "Antibodi"
+        },
+        "definition": {
+          "en": "A protein that fights a specific antigen.",
+          "bm": "Protein yang melawan antigen tertentu."
+        }
+      },
+      {
+        "term": {
+          "en": "Immunity",
+          "bm": "Keimunan"
+        },
+        "definition": {
+          "en": "The ability to resist infection.",
+          "bm": "Keupayaan menentang jangkitan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-04-q01",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dengue is spread by…",
+        "bm": "Denggi disebarkan oleh…"
+      },
+      "explanation": {
+        "en": "The Aedes mosquito is the vector.",
+        "bm": "Nyamuk Aedes ialah vektornya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Aedes mosquitoes",
+          "bm": "nyamuk Aedes"
+        },
+        {
+          "en": "rats",
+          "bm": "tikus"
+        },
+        {
+          "en": "houseflies",
+          "bm": "lalat"
+        },
+        {
+          "en": "contaminated water",
+          "bm": "air tercemar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q02",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a non-infectious disease?",
+        "bm": "Yang manakah penyakit tidak berjangkit?"
+      },
+      "explanation": {
+        "en": "It cannot pass from person to person.",
+        "bm": "Ia tidak boleh merebak antara orang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Diabetes",
+          "bm": "Diabetes"
+        },
+        {
+          "en": "Influenza",
+          "bm": "Selesema"
+        },
+        {
+          "en": "Tuberculosis",
+          "bm": "Batuk kering"
+        },
+        {
+          "en": "Malaria",
+          "bm": "Malaria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q03",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaria is caused by…",
+        "bm": "Malaria disebabkan oleh…"
+      },
+      "explanation": {
+        "en": "Plasmodium is spread by Anopheles mosquitoes.",
+        "bm": "Plasmodium disebarkan oleh nyamuk Anopheles."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a protozoan",
+          "bm": "protozoa"
+        },
+        {
+          "en": "a virus",
+          "bm": "virus"
+        },
+        {
+          "en": "a fungus",
+          "bm": "fungus"
+        },
+        {
+          "en": "a worm",
+          "bm": "cacing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q04",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ringworm is caused by a…",
+        "bm": "Kurap disebabkan oleh…"
+      },
+      "explanation": {
+        "en": "Despite its name, it is a fungus.",
+        "bm": "Walaupun namanya begitu, ia fungus."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "fungus",
+          "bm": "fungus"
+        },
+        {
+          "en": "worm",
+          "bm": "cacing"
+        },
+        {
+          "en": "virus",
+          "bm": "virus"
+        },
+        {
+          "en": "vector",
+          "bm": "vektor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q05",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the best way to stop Aedes breeding?",
+        "bm": "Cara terbaik menghentikan pembiakan Aedes?"
+      },
+      "explanation": {
+        "en": "Larvae grow in still water.",
+        "bm": "Jentik-jentik membesar dalam air tenang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Remove stagnant water",
+          "bm": "Buang air bertakung"
+        },
+        {
+          "en": "Open windows",
+          "bm": "Buka tingkap"
+        },
+        {
+          "en": "Cut grass only",
+          "bm": "Potong rumput sahaja"
+        },
+        {
+          "en": "Burn rubbish",
+          "bm": "Bakar sampah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q06",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which disease is spread by contaminated food and water?",
+        "bm": "Penyakit manakah merebak melalui makanan dan air tercemar?"
+      },
+      "explanation": {
+        "en": "Cholera bacteria live in dirty water.",
+        "bm": "Bakteria kolera hidup dalam air kotor."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Cholera",
+          "bm": "Kolera"
+        },
+        {
+          "en": "Dengue",
+          "bm": "Denggi"
+        },
+        {
+          "en": "Malaria",
+          "bm": "Malaria"
+        },
+        {
+          "en": "Diabetes",
+          "bm": "Diabetes"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q07",
+      "subtopicId": "f2sci-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An example of a hereditary disease is…",
+        "bm": "Contoh penyakit baka ialah…"
+      },
+      "explanation": {
+        "en": "It is passed through genes.",
+        "bm": "Ia diwarisi melalui gen."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "thalassaemia",
+          "bm": "talasemia"
+        },
+        {
+          "en": "dengue",
+          "bm": "denggi"
+        },
+        {
+          "en": "cholera",
+          "bm": "kolera"
+        },
+        {
+          "en": "flu",
+          "bm": "selesema"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q08",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first line of defence includes…",
+        "bm": "Barisan pertahanan pertama termasuk…"
+      },
+      "explanation": {
+        "en": "They stop pathogens entering.",
+        "bm": "Ia menghalang patogen masuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "skin and mucus",
+          "bm": "kulit dan mukus"
+        },
+        {
+          "en": "antibodies",
+          "bm": "antibodi"
+        },
+        {
+          "en": "white blood cells only",
+          "bm": "sel darah putih sahaja"
+        },
+        {
+          "en": "vaccines",
+          "bm": "vaksin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q09",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which cells engulf pathogens?",
+        "bm": "Sel manakah menelan patogen?"
+      },
+      "explanation": {
+        "en": "This process is phagocytosis.",
+        "bm": "Proses ini ialah fagositosis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Phagocytes",
+          "bm": "Fagosit"
+        },
+        {
+          "en": "Red blood cells",
+          "bm": "Sel darah merah"
+        },
+        {
+          "en": "Platelets",
+          "bm": "Platlet"
+        },
+        {
+          "en": "Nerve cells",
+          "bm": "Sel saraf"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q10",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lymphocytes produce…",
+        "bm": "Limfosit menghasilkan…"
+      },
+      "explanation": {
+        "en": "Antibodies target specific antigens.",
+        "bm": "Antibodi menyasarkan antigen tertentu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "antibodies",
+          "bm": "antibodi"
+        },
+        {
+          "en": "bile",
+          "bm": "hempedu"
+        },
+        {
+          "en": "haemoglobin",
+          "bm": "hemoglobin"
+        },
+        {
+          "en": "saliva",
+          "bm": "air liur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q11",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A vaccine gives…",
+        "bm": "Vaksin memberi…"
+      },
+      "explanation": {
+        "en": "The body makes its own antibodies.",
+        "bm": "Badan menghasilkan antibodi sendiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "artificial active immunity",
+          "bm": "keimunan aktif buatan"
+        },
+        {
+          "en": "natural passive immunity",
+          "bm": "keimunan pasif semula jadi"
+        },
+        {
+          "en": "no immunity",
+          "bm": "tiada keimunan"
+        },
+        {
+          "en": "artificial passive immunity",
+          "bm": "keimunan pasif buatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q12",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A baby receiving antibodies from breast milk has…",
+        "bm": "Bayi yang menerima antibodi melalui susu ibu mempunyai…"
+      },
+      "explanation": {
+        "en": "Antibodies come from the mother.",
+        "bm": "Antibodi datang daripada ibu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "natural passive immunity",
+          "bm": "keimunan pasif semula jadi"
+        },
+        {
+          "en": "artificial active immunity",
+          "bm": "keimunan aktif buatan"
+        },
+        {
+          "en": "natural active immunity",
+          "bm": "keimunan aktif semula jadi"
+        },
+        {
+          "en": "artificial passive immunity",
+          "bm": "keimunan pasif buatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q13",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An anti-tetanus serum gives immediate but short-lived protection because…",
+        "bm": "Serum anti-tetanus memberi perlindungan segera tetapi singkat kerana…"
+      },
+      "explanation": {
+        "en": "This is artificial passive immunity.",
+        "bm": "Ini ialah keimunan pasif buatan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "ready-made antibodies are given",
+          "bm": "antibodi siap diberikan"
+        },
+        {
+          "en": "the body makes many antibodies",
+          "bm": "badan menghasilkan banyak antibodi"
+        },
+        {
+          "en": "it kills all cells",
+          "bm": "ia membunuh semua sel"
+        },
+        {
+          "en": "it is a vitamin",
+          "bm": "ia ialah vitamin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q14",
+      "subtopicId": "f2sci-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do vaccinated people respond faster to the real pathogen?",
+        "bm": "Mengapa orang yang divaksin bertindak lebih pantas terhadap patogen sebenar?"
+      },
+      "explanation": {
+        "en": "The body remembers the antigen.",
+        "bm": "Badan mengingati antigen."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Memory cells make antibodies quickly",
+          "bm": "Sel memori menghasilkan antibodi dengan cepat"
+        },
+        {
+          "en": "Skin gets thicker",
+          "bm": "Kulit menebal"
+        },
+        {
+          "en": "Blood stops flowing",
+          "bm": "Darah berhenti"
+        },
+        {
+          "en": "Mucus disappears",
+          "bm": "Mukus hilang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-04-q15",
+      "subtopicId": "f2sci-04-02",
+      "type": "fill",
+      "prompt": {
+        "en": "A foreign substance that triggers antibodies is an…",
+        "bm": "Bahan asing yang merangsang antibodi ialah…"
+      },
+      "explanation": {
+        "en": "Antibody fights antigen.",
+        "bm": "Antibodi melawan antigen."
+      },
+      "difficulty": 1,
+      "answer": [
+        "antigen"
+      ]
+    }
+  ]
+}

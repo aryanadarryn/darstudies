@@ -1,0 +1,462 @@
+{
+  "chapterId": "f2math-12",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "One billionaire walks into a room and the mean income leaps, yet the median barely moves. Choosing the right average matters.",
+      "bm": "Seorang jutawan masuk ke bilik, min pendapatan melonjak, tetapi median hampir tidak berubah. Memilih purata yang betul itu penting."
+    },
+    "bigIdeas": [
+      {
+        "en": "Mode is the most frequent value.",
+        "bm": "Mod ialah nilai paling kerap."
+      },
+      {
+        "en": "Median is the middle value when data are in order.",
+        "bm": "Median ialah nilai tengah apabila data disusun."
+      },
+      {
+        "en": "Mean is the sum of data divided by the count.",
+        "bm": "Min ialah hasil tambah data dibahagi bilangan data."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "How to find",
+            "bm": "Cara mencari"
+          },
+          {
+            "en": "Best when",
+            "bm": "Sesuai apabila"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Mode",
+              "bm": "Mod"
+            },
+            "cells": [
+              {
+                "en": "most frequent",
+                "bm": "paling kerap"
+              },
+              {
+                "en": "data are categories",
+                "bm": "data kategori"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Median",
+              "bm": "Median"
+            },
+            "cells": [
+              {
+                "en": "middle value",
+                "bm": "nilai tengah"
+              },
+              {
+                "en": "extreme values exist",
+                "bm": "ada nilai ekstrem"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Mean",
+              "bm": "Min"
+            },
+            "cells": [
+              {
+                "en": "sum ÷ count",
+                "bm": "jumlah ÷ bilangan"
+              },
+              {
+                "en": "no extreme values",
+                "bm": "tiada nilai ekstrem"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Mode",
+          "bm": "Mod"
+        },
+        "definition": {
+          "en": "Value with the highest frequency.",
+          "bm": "Nilai dengan kekerapan tertinggi."
+        }
+      },
+      {
+        "term": {
+          "en": "Median",
+          "bm": "Median"
+        },
+        "definition": {
+          "en": "The middle value of ordered data.",
+          "bm": "Nilai tengah data tersusun."
+        }
+      },
+      {
+        "term": {
+          "en": "Mean",
+          "bm": "Min"
+        },
+        "definition": {
+          "en": "Total of all values ÷ number of values.",
+          "bm": "Jumlah semua nilai ÷ bilangan nilai."
+        }
+      },
+      {
+        "term": {
+          "en": "Frequency",
+          "bm": "Kekerapan"
+        },
+        "definition": {
+          "en": "How many times a value occurs.",
+          "bm": "Bilangan kali nilai berlaku."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-mean"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the mean of 4, 8, 6, 2.",
+        "bm": "Cari min bagi 4, 8, 6, 2."
+      },
+      "steps": [
+        {
+          "en": "Sum = 20",
+          "bm": "Jumlah = 20"
+        },
+        {
+          "en": "20 ÷ 4",
+          "bm": "20 ÷ 4"
+        }
+      ],
+      "answer": {
+        "en": "5",
+        "bm": "5"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-12-q01",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mean of 2, 4, 6, 8, 10.",
+        "bm": "Cari min bagi 2, 4, 6, 8, 10."
+      },
+      "explanation": {
+        "en": "30 ÷ 5 = 6.",
+        "bm": "30 ÷ 5 = 6."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q02",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mean of 3, 5, 7, 9.",
+        "bm": "Cari min bagi 3, 5, 7, 9."
+      },
+      "explanation": {
+        "en": "24 ÷ 4 = 6.",
+        "bm": "24 ÷ 4 = 6."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q03",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mean of 10, 20, 30.",
+        "bm": "Cari min bagi 10, 20, 30."
+      },
+      "explanation": {
+        "en": "60 ÷ 3 = 20.",
+        "bm": "60 ÷ 3 = 20."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q04",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mean of 1, 2, 3, 4, 5, 9.",
+        "bm": "Cari min bagi 1, 2, 3, 4, 5, 9."
+      },
+      "explanation": {
+        "en": "24 ÷ 6 = 4.",
+        "bm": "24 ÷ 6 = 4."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q05",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the median of 3, 7, 2, 9, 5.",
+        "bm": "Cari median bagi 3, 7, 2, 9, 5."
+      },
+      "explanation": {
+        "en": "In order: 2, 3, 5, 7, 9. Median = 5.",
+        "bm": "Tertib: 2, 3, 5, 7, 9. Median = 5."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q06",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the median of 4, 1, 8, 6.",
+        "bm": "Cari median bagi 4, 1, 8, 6."
+      },
+      "explanation": {
+        "en": "In order: 1, 4, 6, 8. Median = 5.",
+        "bm": "Tertib: 1, 4, 6, 8. Median = 5."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q07",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the median of 12, 15, 11, 14, 18, 20, 13.",
+        "bm": "Cari median bagi 12, 15, 11, 14, 18, 20, 13."
+      },
+      "explanation": {
+        "en": "In order: 11, 12, 13, 14, 15, 18, 20. Median = 14.",
+        "bm": "Tertib: 11, 12, 13, 14, 15, 18, 20. Median = 14."
+      },
+      "difficulty": 2,
+      "answer": 14,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q08",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mode of 2, 3, 3, 5, 7.",
+        "bm": "Cari mod bagi 2, 3, 3, 5, 7."
+      },
+      "explanation": {
+        "en": "3 occurs most often.",
+        "bm": "3 paling kerap berlaku."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q09",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mode of 6, 6, 8, 8, 8, 9.",
+        "bm": "Cari mod bagi 6, 6, 8, 8, 8, 9."
+      },
+      "explanation": {
+        "en": "8 occurs most often.",
+        "bm": "8 paling kerap berlaku."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q10",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the mode of 1, 4, 4, 4, 5, 5.",
+        "bm": "Cari mod bagi 1, 4, 4, 4, 5, 5."
+      },
+      "explanation": {
+        "en": "4 occurs most often.",
+        "bm": "4 paling kerap berlaku."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q11",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Scores: 1 (×2), 2 (×3), 3 (×5). Find the mean.",
+        "bm": "Skor: 1 (×2), 2 (×3), 3 (×5). Cari min."
+      },
+      "explanation": {
+        "en": "(2 + 6 + 15) ÷ 10 = 2.3.",
+        "bm": "(2 + 6 + 15) ÷ 10 = 2.3."
+      },
+      "difficulty": 2,
+      "answer": 2.3,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-12-q12",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Scores: 1 (×2), 2 (×3), 3 (×5). Find the mode.",
+        "bm": "Skor: 1 (×2), 2 (×3), 3 (×5). Cari mod."
+      },
+      "explanation": {
+        "en": "3 has the highest frequency.",
+        "bm": "3 mempunyai kekerapan tertinggi."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q13",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The mean of 5 numbers is 12. Four of them are 10, 11, 13, 14. Find the fifth.",
+        "bm": "Min 5 nombor ialah 12. Empat daripadanya 10, 11, 13, 14. Cari yang kelima."
+      },
+      "explanation": {
+        "en": "60 − 48 = 12.",
+        "bm": "60 − 48 = 12."
+      },
+      "difficulty": 3,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q14",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The mean of 4 marks is 70. A fifth mark raises the mean to 72. Find the fifth mark.",
+        "bm": "Min 4 markah ialah 70. Markah kelima menaikkan min kepada 72. Cari markah kelima."
+      },
+      "explanation": {
+        "en": "360 − 280 = 80.",
+        "bm": "360 − 280 = 80."
+      },
+      "difficulty": 3,
+      "answer": 80,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q15",
+      "subtopicId": "f2math-12-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Each value in a set with mean 8 is multiplied by 3. Find the new mean.",
+        "bm": "Setiap nilai dalam set bermin 8 didarab 3. Cari min baharu."
+      },
+      "explanation": {
+        "en": "The mean is also multiplied by 3.",
+        "bm": "Min juga didarab 3."
+      },
+      "difficulty": 3,
+      "answer": 24,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-12-q16",
+      "subtopicId": "f2math-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Salaries: RM2000, RM2200, RM2100, RM30000. Which average best represents them?",
+        "bm": "Gaji: RM2000, RM2200, RM2100, RM30000. Purata manakah paling mewakili?"
+      },
+      "explanation": {
+        "en": "The extreme value distorts the mean.",
+        "bm": "Nilai ekstrem memesongkan min."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "median",
+          "bm": "median"
+        },
+        {
+          "en": "mean",
+          "bm": "min"
+        },
+        {
+          "en": "total",
+          "bm": "jumlah"
+        },
+        {
+          "en": "range",
+          "bm": "julat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-12-q17",
+      "subtopicId": "f2math-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The favourite colours of a class are best summarised with…",
+        "bm": "Warna kegemaran kelas paling sesuai diringkaskan dengan…"
+      },
+      "explanation": {
+        "en": "Colours are not numbers.",
+        "bm": "Warna bukan nombor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mode",
+          "bm": "mod"
+        },
+        {
+          "en": "mean",
+          "bm": "min"
+        },
+        {
+          "en": "median",
+          "bm": "median"
+        },
+        {
+          "en": "gradient",
+          "bm": "kecerunan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

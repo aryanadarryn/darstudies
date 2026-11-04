@@ -1,0 +1,440 @@
+{
+  "chapterId": "f2geo-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Japan's Shinkansen has run since 1964, and China now has the world's largest high-speed rail network.",
+      "bm": "Shinkansen Jepun beroperasi sejak 1964, dan China kini mempunyai rangkaian rel berkelajuan tinggi terbesar di dunia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Asia uses road, rail, sea and air transport.",
+        "bm": "Asia menggunakan jalan raya, rel, laut dan udara."
+      },
+      {
+        "en": "Major ports and airports link Asia to the world.",
+        "bm": "Pelabuhan dan lapangan terbang utama menghubungkan Asia dengan dunia."
+      },
+      {
+        "en": "Rugged terrain and cost remain challenges.",
+        "bm": "Muka bumi lasak dan kos kekal menjadi cabaran."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Country",
+          "bm": "Negara"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Japan",
+              "bm": "Jepun"
+            },
+            "detail": {
+              "en": "Shinkansen",
+              "bm": "Shinkansen"
+            }
+          },
+          {
+            "label": {
+              "en": "China",
+              "bm": "China"
+            },
+            "detail": {
+              "en": "High-speed rail, Port of Shanghai",
+              "bm": "Rel laju, Pelabuhan Shanghai"
+            }
+          },
+          {
+            "label": {
+              "en": "Singapore",
+              "bm": "Singapura"
+            },
+            "detail": {
+              "en": "Changi, Port of Singapore",
+              "bm": "Changi, Pelabuhan Singapura"
+            }
+          },
+          {
+            "label": {
+              "en": "UAE",
+              "bm": "UAE"
+            },
+            "detail": {
+              "en": "Dubai International Airport",
+              "bm": "Lapangan Terbang Antarabangsa Dubai"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "High-speed rail",
+          "bm": "Rel berkelajuan tinggi"
+        },
+        "definition": {
+          "en": "Trains faster than about 250 km/h.",
+          "bm": "Tren melebihi kira-kira 250 km/j."
+        }
+      },
+      {
+        "term": {
+          "en": "Hub",
+          "bm": "Hab"
+        },
+        "definition": {
+          "en": "A central connecting point for transport.",
+          "bm": "Titik penghubung utama pengangkutan."
+        }
+      },
+      {
+        "term": {
+          "en": "Silk Road",
+          "bm": "Jalan Sutera"
+        },
+        "definition": {
+          "en": "Old trade route linking Asia and Europe.",
+          "bm": "Laluan perdagangan lama Asia dan Eropah."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2geo-08-q01",
+      "subtopicId": "f2geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Shinkansen is in…",
+        "bm": "Shinkansen terdapat di…"
+      },
+      "explanation": {
+        "en": "It began in 1964.",
+        "bm": "Ia bermula pada 1964."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Japan",
+          "bm": "Jepun"
+        },
+        {
+          "en": "Laos",
+          "bm": "Laos"
+        },
+        {
+          "en": "Nepal",
+          "bm": "Nepal"
+        },
+        {
+          "en": "Brunei",
+          "bm": "Brunei"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q02",
+      "subtopicId": "f2geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is one of the busiest ports in Asia?",
+        "bm": "Yang manakah antara pelabuhan tersibuk di Asia?"
+      },
+      "explanation": {
+        "en": "It is a major container port.",
+        "bm": "Ia pelabuhan kontena utama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Shanghai",
+          "bm": "Shanghai"
+        },
+        {
+          "en": "Kathmandu",
+          "bm": "Kathmandu"
+        },
+        {
+          "en": "Ulaanbaatar",
+          "bm": "Ulaanbaatar"
+        },
+        {
+          "en": "Vientiane",
+          "bm": "Vientiane"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q03",
+      "subtopicId": "f2geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Camels are still used in…",
+        "bm": "Unta masih digunakan di…"
+      },
+      "explanation": {
+        "en": "They are suited to dry conditions.",
+        "bm": "Ia sesuai dengan keadaan kering."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "desert regions",
+          "bm": "kawasan gurun"
+        },
+        {
+          "en": "tropical islands",
+          "bm": "pulau tropika"
+        },
+        {
+          "en": "the Arctic",
+          "bm": "Artik"
+        },
+        {
+          "en": "rice fields",
+          "bm": "sawah padi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q04",
+      "subtopicId": "f2geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yaks are used to carry loads in…",
+        "bm": "Yak digunakan membawa muatan di…"
+      },
+      "explanation": {
+        "en": "They cope with altitude and cold.",
+        "bm": "Ia tahan altitud dan sejuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the Himalayas",
+          "bm": "Himalaya"
+        },
+        {
+          "en": "Singapore",
+          "bm": "Singapura"
+        },
+        {
+          "en": "Maldives",
+          "bm": "Maldives"
+        },
+        {
+          "en": "Dubai",
+          "bm": "Dubai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q05",
+      "subtopicId": "f2geo-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is sea transport important for Indonesia and the Philippines?",
+        "bm": "Mengapa pengangkutan laut penting bagi Indonesia dan Filipina?"
+      },
+      "explanation": {
+        "en": "Islands need sea links.",
+        "bm": "Pulau memerlukan hubungan laut."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They are made up of many islands",
+          "bm": "Ia terdiri daripada banyak pulau"
+        },
+        {
+          "en": "They have no people",
+          "bm": "Tiada penduduk"
+        },
+        {
+          "en": "They have no ships",
+          "bm": "Tiada kapal"
+        },
+        {
+          "en": "They are landlocked",
+          "bm": "Tiada laut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q06",
+      "subtopicId": "f2geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an example of progress?",
+        "bm": "Yang manakah contoh kemajuan?"
+      },
+      "explanation": {
+        "en": "Journeys become quicker.",
+        "bm": "Perjalanan lebih cepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "High-speed rail",
+          "bm": "Rel berkelajuan tinggi"
+        },
+        {
+          "en": "Ox-carts only",
+          "bm": "Pedati sahaja"
+        },
+        {
+          "en": "Fewer ports",
+          "bm": "Kurang pelabuhan"
+        },
+        {
+          "en": "Closed airports",
+          "bm": "Lapangan terbang ditutup"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q07",
+      "subtopicId": "f2geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dubai and Singapore airports are important as…",
+        "bm": "Lapangan terbang Dubai dan Singapura penting sebagai…"
+      },
+      "explanation": {
+        "en": "They connect flights across the world.",
+        "bm": "Ia menghubungkan penerbangan seluruh dunia."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "international hubs",
+          "bm": "hab antarabangsa"
+        },
+        {
+          "en": "farm areas",
+          "bm": "kawasan ladang"
+        },
+        {
+          "en": "military camps only",
+          "bm": "kem tentera sahaja"
+        },
+        {
+          "en": "nature reserves",
+          "bm": "simpanan alam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q08",
+      "subtopicId": "f2geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a major challenge for building in Nepal?",
+        "bm": "Yang manakah cabaran utama pembinaan di Nepal?"
+      },
+      "explanation": {
+        "en": "Terrain raises the cost.",
+        "bm": "Muka bumi menaikkan kos."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mountainous land",
+          "bm": "Kawasan bergunung"
+        },
+        {
+          "en": "Flat plains everywhere",
+          "bm": "Dataran rata di mana-mana"
+        },
+        {
+          "en": "Too many ports",
+          "bm": "Terlalu banyak pelabuhan"
+        },
+        {
+          "en": "No need for roads",
+          "bm": "Tiada keperluan jalan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q09",
+      "subtopicId": "f2geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a likely effect of modern transport?",
+        "bm": "Yang manakah kesan pengangkutan moden?"
+      },
+      "explanation": {
+        "en": "Better links grow economies.",
+        "bm": "Rangkaian lebih baik mengembangkan ekonomi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "More trade and tourism",
+          "bm": "Lebih banyak perdagangan dan pelancongan"
+        },
+        {
+          "en": "Less movement of goods",
+          "bm": "Kurang pergerakan barang"
+        },
+        {
+          "en": "Fewer jobs in cities",
+          "bm": "Kurang pekerjaan di bandar"
+        },
+        {
+          "en": "Slower delivery",
+          "bm": "Penghantaran lebih lambat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2geo-08-q10",
+      "subtopicId": "f2geo-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which challenge is common in big Asian cities?",
+        "bm": "Cabaran manakah lazim di bandar besar Asia?"
+      },
+      "explanation": {
+        "en": "Dense traffic causes both.",
+        "bm": "Lalu lintas padat menyebabkan kedua-duanya."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Congestion and air pollution",
+          "bm": "Kesesakan dan pencemaran udara"
+        },
+        {
+          "en": "Too few people",
+          "bm": "Terlalu sedikit penduduk"
+        },
+        {
+          "en": "Empty roads",
+          "bm": "Jalan kosong"
+        },
+        {
+          "en": "Too much snow",
+          "bm": "Terlalu banyak salji"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

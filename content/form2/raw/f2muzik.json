@@ -1,0 +1,157 @@
+{
+  "id": "f2muzik",
+  "name": {
+    "en": "Music",
+    "bm": "Pendidikan Muzik"
+  },
+  "short": {
+    "en": "Music",
+    "bm": "Muzik"
+  },
+  "color": "#7c3aed",
+  "source": "Fields follow the KSSM Pendidikan Muzik Form 2 curriculum alignment document (5 fields: vocal ensemble, music ensemble, reading and writing notation, music creation, music appreciation). Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Vocal Ensemble",
+        "bm": "Ensembel Vokal"
+      },
+      "theme": {
+        "en": "Music",
+        "bm": "Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Singing in Canon",
+            "bm": "Bernyanyi secara Canon"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Singing Technique",
+            "bm": "Teknik Nyanyian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Music Ensemble",
+        "bm": "Ensembel Muzik"
+      },
+      "theme": {
+        "en": "Music",
+        "bm": "Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Playing from a Score",
+            "bm": "Bermain Berdasarkan Skor"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Playing Together",
+            "bm": "Bermain Bersama"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Reading and Writing Music Notation",
+        "bm": "Membaca dan Menulis Notasi Muzik"
+      },
+      "theme": {
+        "en": "Music",
+        "bm": "Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Note and Rest Values",
+            "bm": "Nilai Not dan Tanda Rehat"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Pitch on the Stave",
+            "bm": "Pic pada Baluk"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Scales and Chords",
+            "bm": "Skel dan Kord"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Creating Music",
+        "bm": "Penghasilan Muzik"
+      },
+      "theme": {
+        "en": "Music",
+        "bm": "Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Creating Rhythm Patterns",
+            "bm": "Mencipta Corak Irama"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Planning a Performance",
+            "bm": "Merancang Persembahan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Music Appreciation",
+        "bm": "Apresiasi Muzik"
+      },
+      "theme": {
+        "en": "Music",
+        "bm": "Muzik"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Popular Music",
+            "bm": "Muzik Popular"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Malaysian and World Music",
+            "bm": "Muzik Malaysia dan Dunia"
+          }
+        }
+      ]
+    }
+  ]
+}

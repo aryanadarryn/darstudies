@@ -1,0 +1,120 @@
+{
+  "chapterId": "f2ask-03",
+  "reviewed": false,
+  "subtopics": {
+    "f2ask-03-01": {
+      "keyPoints": [
+        {
+          "en": "Write, run and debug in an environment.",
+          "bm": "Tulis, jalankan dan nyahpepijat dalam persekitaran."
+        },
+        {
+          "en": "Save your work often.",
+          "bm": "Simpan kerja dengan kerap."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Compiler",
+            "bm": "Pengkompil"
+          },
+          "meaning": {
+            "en": "Translates code for the computer.",
+            "bm": "Menterjemah kod untuk komputer."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Scratch or Python: block-based?",
+          "bm": "Scratch atau Python: berasaskan blok?"
+        },
+        "answer": {
+          "en": "Scratch",
+          "bm": "Scratch"
+        }
+      },
+      "tip": {
+        "en": "Start with small programs.",
+        "bm": "Mula dengan atur cara kecil."
+      }
+    },
+    "f2ask-03-02": {
+      "keyPoints": [
+        {
+          "en": "Choose the correct data type.",
+          "bm": "Pilih jenis data yang betul."
+        },
+        {
+          "en": "Give variables meaningful names.",
+          "bm": "Beri nama pemboleh ubah yang bermakna."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "String",
+            "bm": "String"
+          },
+          "meaning": {
+            "en": "Text data.",
+            "bm": "Data teks."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Type of True?",
+          "bm": "Jenis bagi True?"
+        },
+        "answer": {
+          "en": "Boolean",
+          "bm": "Boolean"
+        }
+      },
+      "tip": {
+        "en": "Use camelCase or snake_case consistently.",
+        "bm": "Guna camelCase atau snake_case secara konsisten."
+      }
+    },
+    "f2ask-03-03": {
+      "keyPoints": [
+        {
+          "en": "Arithmetic: + − × ÷ %.",
+          "bm": "Aritmetik: + − × ÷ %."
+        },
+        {
+          "en": "Conditions and loops control flow.",
+          "bm": "Syarat dan gelung mengawal aliran."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Assignment",
+            "bm": "Umpukan"
+          },
+          "meaning": {
+            "en": "Storing a value in a variable.",
+            "bm": "Menyimpan nilai dalam pemboleh ubah."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "17 % 2?",
+          "bm": "17 % 2?"
+        },
+        "answer": {
+          "en": "1",
+          "bm": "1"
+        }
+      },
+      "tip": {
+        "en": "Do not confuse = and ==.",
+        "bm": "Jangan keliru = dan ==."
+      }
+    }
+  }
+}

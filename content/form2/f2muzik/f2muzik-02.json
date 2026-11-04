@@ -1,0 +1,364 @@
+{
+  "chapterId": "f2muzik-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "In an ensemble, every player is a team member: nobody can play the song alone.",
+      "bm": "Dalam ensembel, setiap pemain ahli pasukan: tiada siapa boleh memainkan lagu seorang diri."
+    },
+    "bigIdeas": [
+      {
+        "en": "Use correct technique on your instrument.",
+        "bm": "Gunakan teknik betul pada alat muzik."
+      },
+      {
+        "en": "Follow the score and conductor.",
+        "bm": "Ikut skor dan konduktor."
+      },
+      {
+        "en": "Listen and balance with others.",
+        "bm": "Dengar dan imbangi dengan orang lain."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Family",
+          "bm": "Keluarga"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Recorder",
+              "bm": "Rekoder"
+            },
+            "detail": {
+              "en": "Soprano, alto",
+              "bm": "Soprano, alto"
+            }
+          },
+          {
+            "label": {
+              "en": "Percussion",
+              "bm": "Perkusi"
+            },
+            "detail": {
+              "en": "Kompang, xylophone",
+              "bm": "Kompang, xilofon"
+            }
+          },
+          {
+            "label": {
+              "en": "Gamelan",
+              "bm": "Gamelan"
+            },
+            "detail": {
+              "en": "Saron, gong",
+              "bm": "Saron, gong"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Ensemble",
+          "bm": "Ensembel"
+        },
+        "definition": {
+          "en": "A group performing together.",
+          "bm": "Kumpulan yang bermain bersama."
+        }
+      },
+      {
+        "term": {
+          "en": "Score",
+          "bm": "Skor"
+        },
+        "definition": {
+          "en": "Written music for all parts.",
+          "bm": "Muzik bertulis untuk semua bahagian."
+        }
+      },
+      {
+        "term": {
+          "en": "Conductor",
+          "bm": "Konduktor"
+        },
+        "definition": {
+          "en": "Leads the ensemble.",
+          "bm": "Memimpin ensembel."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2muzik-02-q01",
+      "subtopicId": "f2muzik-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A score shows…",
+        "bm": "Skor menunjukkan…"
+      },
+      "explanation": {
+        "en": "It shows parts.",
+        "bm": "Ia menunjukkan bahagian."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "written music",
+          "bm": "muzik bertulis"
+        },
+        {
+          "en": "a shopping list",
+          "bm": "senarai belian"
+        },
+        {
+          "en": "a map",
+          "bm": "peta"
+        },
+        {
+          "en": "a poem only",
+          "bm": "puisi sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q02",
+      "subtopicId": "f2muzik-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A bar line divides music into…",
+        "bm": "Garis bar membahagikan muzik kepada…"
+      },
+      "explanation": {
+        "en": "Each bar has set beats.",
+        "bm": "Setiap bar ada detik tetap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "measures",
+          "bm": "bar"
+        },
+        {
+          "en": "verses only",
+          "bm": "rangkap sahaja"
+        },
+        {
+          "en": "instruments",
+          "bm": "alat muzik"
+        },
+        {
+          "en": "groups of players",
+          "bm": "kumpulan pemain"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q03",
+      "subtopicId": "f2muzik-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"D.C. al Fine\" tells you to…",
+        "bm": "\"D.C. al Fine\" menyuruh anda…"
+      },
+      "explanation": {
+        "en": "A common road map sign.",
+        "bm": "Tanda arah yang biasa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "go back to the start and stop at Fine",
+          "bm": "kembali ke awal dan berhenti pada Fine"
+        },
+        {
+          "en": "stop now",
+          "bm": "berhenti sekarang"
+        },
+        {
+          "en": "play louder",
+          "bm": "main lebih kuat"
+        },
+        {
+          "en": "play faster",
+          "bm": "main lebih laju"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q04",
+      "subtopicId": "f2muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In an ensemble, players must…",
+        "bm": "Dalam ensembel, pemain mesti…"
+      },
+      "explanation": {
+        "en": "Balance matters.",
+        "bm": "Keseimbangan penting."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "listen to each other",
+          "bm": "mendengar satu sama lain"
+        },
+        {
+          "en": "play as loud as possible",
+          "bm": "main sekuat mungkin"
+        },
+        {
+          "en": "ignore the tempo",
+          "bm": "abaikan tempo"
+        },
+        {
+          "en": "choose their own key",
+          "bm": "pilih kunci sendiri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q05",
+      "subtopicId": "f2muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A conductor shows…",
+        "bm": "Konduktor menunjukkan…"
+      },
+      "explanation": {
+        "en": "Everyone watches the beat.",
+        "bm": "Semua melihat detik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "tempo and cues",
+          "bm": "tempo dan isyarat"
+        },
+        {
+          "en": "prices",
+          "bm": "harga"
+        },
+        {
+          "en": "seating fees",
+          "bm": "yuran tempat duduk"
+        },
+        {
+          "en": "song titles only",
+          "bm": "tajuk lagu sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q06",
+      "subtopicId": "f2muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kompang is played by…",
+        "bm": "Kompang dimainkan dengan…"
+      },
+      "explanation": {
+        "en": "It is a frame drum.",
+        "bm": "Ia gendang berbingkai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "hand striking",
+          "bm": "pukulan tangan"
+        },
+        {
+          "en": "blowing",
+          "bm": "meniup"
+        },
+        {
+          "en": "plucking",
+          "bm": "memetik"
+        },
+        {
+          "en": "bowing",
+          "bm": "menggesek"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q07",
+      "subtopicId": "f2muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is part of the gamelan?",
+        "bm": "Yang manakah sebahagian gamelan?"
+      },
+      "explanation": {
+        "en": "A metal-keyed instrument.",
+        "bm": "Alat berbilah logam."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Saron",
+          "bm": "Saron"
+        },
+        {
+          "en": "Guitar",
+          "bm": "Guitar"
+        },
+        {
+          "en": "Violin",
+          "bm": "Violin"
+        },
+        {
+          "en": "Clarinet",
+          "bm": "Clarinet"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2muzik-02-q08",
+      "subtopicId": "f2muzik-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why tune before performing?",
+        "bm": "Mengapa menala sebelum persembahan?"
+      },
+      "explanation": {
+        "en": "Out-of-tune parts clash.",
+        "bm": "Bahagian tidak ditala akan bercanggah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "So parts sound in harmony",
+          "bm": "Supaya bahagian kedengaran harmoni"
+        },
+        {
+          "en": "To make it louder",
+          "bm": "Untuk menguatkannya"
+        },
+        {
+          "en": "To save strings",
+          "bm": "Untuk menjimatkan tali"
+        },
+        {
+          "en": "To shorten the song",
+          "bm": "Untuk memendekkan lagu"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

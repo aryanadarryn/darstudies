@@ -1,0 +1,336 @@
+{
+  "chapterId": "f2pjk-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A two-minute warm-up lowers your risk of injury and helps you perform better.",
+      "bm": "Memanaskan badan dua minit mengurangkan risiko kecederaan dan membantu prestasi."
+    },
+    "bigIdeas": [
+      {
+        "en": "Fitness has health and skill components.",
+        "bm": "Kecergasan terdiri daripada komponen kesihatan dan kemahiran."
+      },
+      {
+        "en": "Warm up and cool down every time.",
+        "bm": "Panaskan dan sejukkan badan setiap kali."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Health-related fitness",
+          "bm": "Kecergasan kesihatan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Cardiovascular endurance",
+              "bm": "Daya tahan kardiovaskular"
+            },
+            "detail": {
+              "en": "Running",
+              "bm": "Larian"
+            }
+          },
+          {
+            "label": {
+              "en": "Muscular strength",
+              "bm": "Kekuatan otot"
+            },
+            "detail": {
+              "en": "Lifting",
+              "bm": "Mengangkat"
+            }
+          },
+          {
+            "label": {
+              "en": "Muscular endurance",
+              "bm": "Daya tahan otot"
+            },
+            "detail": {
+              "en": "Sit-ups",
+              "bm": "Bangun tubi"
+            }
+          },
+          {
+            "label": {
+              "en": "Flexibility",
+              "bm": "Kelenturan"
+            },
+            "detail": {
+              "en": "Stretching",
+              "bm": "Regangan"
+            }
+          },
+          {
+            "label": {
+              "en": "Body composition",
+              "bm": "Komposisi badan"
+            },
+            "detail": {
+              "en": "Fat and muscle",
+              "bm": "Lemak dan otot"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Flexibility",
+          "bm": "Kelenturan"
+        },
+        "definition": {
+          "en": "Range of movement at a joint.",
+          "bm": "Julat pergerakan sendi."
+        }
+      },
+      {
+        "term": {
+          "en": "SEGAK",
+          "bm": "SEGAK"
+        },
+        "definition": {
+          "en": "Malaysia's school fitness test.",
+          "bm": "Ujian kecergasan sekolah Malaysia."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2pjk-01-q01",
+      "subtopicId": "f2pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Long-distance running builds…",
+        "bm": "Larian jarak jauh membina…"
+      },
+      "explanation": {
+        "en": "Heart and lungs work longer.",
+        "bm": "Jantung dan paru-paru bekerja lebih lama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cardiovascular endurance",
+          "bm": "daya tahan kardiovaskular"
+        },
+        {
+          "en": "only flexibility",
+          "bm": "kelenturan sahaja"
+        },
+        {
+          "en": "height",
+          "bm": "ketinggian"
+        },
+        {
+          "en": "hair strength",
+          "bm": "kekuatan rambut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-01-q02",
+      "subtopicId": "f2pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sit and reach measures…",
+        "bm": "Duduk dan jangkau mengukur…"
+      },
+      "explanation": {
+        "en": "Hamstrings and lower back.",
+        "bm": "Otot hamstring dan belakang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "flexibility",
+          "bm": "kelenturan"
+        },
+        {
+          "en": "speed",
+          "bm": "kelajuan"
+        },
+        {
+          "en": "power",
+          "bm": "kuasa"
+        },
+        {
+          "en": "balance",
+          "bm": "keseimbangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-01-q03",
+      "subtopicId": "f2pjk-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which test is in SEGAK?",
+        "bm": "Ujian manakah dalam SEGAK?"
+      },
+      "explanation": {
+        "en": "It tests heart fitness.",
+        "bm": "Ia menguji kecergasan jantung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Step-up test",
+          "bm": "Naik turun bangku"
+        },
+        {
+          "en": "Marathon",
+          "bm": "Maraton"
+        },
+        {
+          "en": "High jump",
+          "bm": "Lompat tinggi"
+        },
+        {
+          "en": "Discus",
+          "bm": "Lempar cakera"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-01-q04",
+      "subtopicId": "f2pjk-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Your mass is 50 kg and height 1.6 m. Find your BMI to 1 d.p.",
+        "bm": "Jisim 50 kg dan tinggi 1.6 m. Cari BMI kepada 1 t.p."
+      },
+      "explanation": {
+        "en": "50 ÷ 1.6² = 19.5.",
+        "bm": "50 ÷ 1.6² = 19.5."
+      },
+      "difficulty": 2,
+      "answer": 19.5,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2pjk-01-q05",
+      "subtopicId": "f2pjk-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximum heart rate ≈ 220 − age. Find it for a 14-year-old.",
+        "bm": "Kadar nadi maksimum ≈ 220 − umur. Cari bagi murid 14 tahun."
+      },
+      "explanation": {
+        "en": "220 − 14 = 206.",
+        "bm": "220 − 14 = 206."
+      },
+      "difficulty": 3,
+      "answer": 206,
+      "tolerance": 0
+    },
+    {
+      "id": "f2pjk-01-q06",
+      "subtopicId": "f2pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Warming up helps to…",
+        "bm": "Memanaskan badan membantu…"
+      },
+      "explanation": {
+        "en": "Blood flow increases.",
+        "bm": "Aliran darah bertambah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "prepare muscles and reduce injury",
+          "bm": "menyediakan otot dan mengurangkan kecederaan"
+        },
+        {
+          "en": "make you sleepy",
+          "bm": "membuat anda mengantuk"
+        },
+        {
+          "en": "end exercise",
+          "bm": "menamatkan senaman"
+        },
+        {
+          "en": "lose all energy",
+          "bm": "menghilangkan semua tenaga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-01-q07",
+      "subtopicId": "f2pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which comes at the end of exercise?",
+        "bm": "Yang manakah pada akhir senaman?"
+      },
+      "explanation": {
+        "en": "It lowers the heart rate gradually.",
+        "bm": "Ia menurunkan nadi secara beransur-ansur."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Cooling down and stretching",
+          "bm": "Menyejukkan badan dan regangan"
+        },
+        {
+          "en": "Sprinting",
+          "bm": "Lari pecut"
+        },
+        {
+          "en": "Heavy lifting",
+          "bm": "Mengangkat berat"
+        },
+        {
+          "en": "Skipping water",
+          "bm": "Tidak minum air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2pjk-01-q08",
+      "subtopicId": "f2pjk-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is the best warm-up before football?",
+        "bm": "Yang manakah terbaik sebelum bola sepak?"
+      },
+      "explanation": {
+        "en": "It matches the sport's movements.",
+        "bm": "Ia sepadan dengan gerakan sukan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Light jog, then dynamic stretches",
+          "bm": "Jog ringan, kemudian regangan dinamik"
+        },
+        {
+          "en": "Sitting still",
+          "bm": "Duduk diam"
+        },
+        {
+          "en": "Heavy weights first",
+          "bm": "Angkat berat dahulu"
+        },
+        {
+          "en": "Sleeping",
+          "bm": "Tidur"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

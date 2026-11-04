@@ -1,0 +1,177 @@
+{
+  "chapterId": "f2math-01",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-01-01": {
+      "keyPoints": [
+        {
+          "en": "A pattern can be made of numbers, shapes or objects.",
+          "bm": "Pola boleh terdiri daripada nombor, bentuk atau objek."
+        },
+        {
+          "en": "Pascal's triangle: edges are 1; inside numbers add the two above.",
+          "bm": "Segi tiga Pascal: tepinya 1; nombor di dalam menambah dua nombor di atasnya."
+        },
+        {
+          "en": "Fibonacci: each number is the sum of the two before.",
+          "bm": "Fibonacci: setiap nombor ialah hasil tambah dua nombor sebelumnya."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Pattern",
+            "bm": "Pola"
+          },
+          "meaning": {
+            "en": "Rule behind a list.",
+            "bm": "Peraturan di sebalik senarai."
+          }
+        },
+        {
+          "term": {
+            "en": "Fibonacci",
+            "bm": "Fibonacci"
+          },
+          "meaning": {
+            "en": "1, 1, 2, 3, 5, 8, …",
+            "bm": "1, 1, 2, 3, 5, 8, …"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/pascal.svg",
+          "alt": {
+            "en": "Pascal's triangle: each number is the sum of the two above it.",
+            "bm": "Segi tiga Pascal: setiap nombor ialah hasil tambah dua nombor di atasnya."
+          },
+          "caption": {
+            "en": "Pascal's triangle: each number is the sum of the two above it.",
+            "bm": "Segi tiga Pascal: setiap nombor ialah hasil tambah dua nombor di atasnya."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Next two numbers: 1, 1, 2, 3, 5?",
+          "bm": "Dua nombor seterusnya: 1, 1, 2, 3, 5?"
+        },
+        "answer": {
+          "en": "8 and 13",
+          "bm": "8 dan 13"
+        }
+      },
+      "tip": {
+        "en": "Look at the difference between terms first.",
+        "bm": "Lihat beza antara sebutan dahulu."
+      }
+    },
+    "f2math-01-02": {
+      "keyPoints": [
+        {
+          "en": "Describe a sequence in words: \"start at 5, add 3\".",
+          "bm": "Huraikan jujukan dengan perkataan: \"mula dengan 5, tambah 3\"."
+        },
+        {
+          "en": "Common rules: add, subtract, multiply, divide.",
+          "bm": "Peraturan lazim: tambah, tolak, darab, bahagi."
+        },
+        {
+          "en": "A rule can use a fixed number each time.",
+          "bm": "Peraturan boleh menggunakan nombor tetap setiap kali."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Sequence",
+            "bm": "Jujukan"
+          },
+          "meaning": {
+            "en": "Ordered numbers following a pattern.",
+            "bm": "Nombor tersusun mengikut pola."
+          }
+        },
+        {
+          "term": {
+            "en": "Term",
+            "bm": "Sebutan"
+          },
+          "meaning": {
+            "en": "One number in a sequence.",
+            "bm": "Satu nombor dalam jujukan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Pattern of 48, 24, 12, 6?",
+          "bm": "Pola bagi 48, 24, 12, 6?"
+        },
+        "answer": {
+          "en": "Divide by 2",
+          "bm": "Bahagi dengan 2"
+        }
+      },
+      "tip": {
+        "en": "If differences are not equal, try ratios.",
+        "bm": "Jika beza tidak sama, cuba nisbah."
+      }
+    },
+    "f2math-01-03": {
+      "keyPoints": [
+        {
+          "en": "Algebra describes a pattern: Tₙ = 3n + 2.",
+          "bm": "Algebra menghuraikan pola: Tₙ = 3n + 2."
+        },
+        {
+          "en": "Substitute n to find any term.",
+          "bm": "Gantikan n untuk mencari mana-mana sebutan."
+        },
+        {
+          "en": "Solve Tₙ = value to find a term's position.",
+          "bm": "Selesaikan Tₙ = nilai untuk mencari kedudukan sebutan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "nth term",
+            "bm": "Sebutan ke-n"
+          },
+          "meaning": {
+            "en": "Algebraic expression for any term.",
+            "bm": "Ungkapan algebra bagi mana-mana sebutan."
+          }
+        },
+        {
+          "term": {
+            "en": "Common difference",
+            "bm": "Beza sepunya"
+          },
+          "meaning": {
+            "en": "The fixed amount added each step.",
+            "bm": "Nilai tetap yang ditambah setiap langkah."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Tₙ = 2n − 1. T₁₀?",
+          "bm": "Tₙ = 2n − 1. T₁₀?"
+        },
+        "answer": {
+          "en": "19",
+          "bm": "19"
+        }
+      },
+      "tip": {
+        "en": "Check your expression using n = 1 and n = 2.",
+        "bm": "Semak ungkapan anda dengan n = 1 dan n = 2."
+      }
+    }
+  }
+}

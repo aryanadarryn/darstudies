@@ -1,0 +1,477 @@
+{
+  "chapterId": "f2math-13",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A weather forecast of 70% rain is probability at work: it turns uncertainty into a number you can plan with.",
+      "bm": "Ramalan cuaca 70% hujan ialah kebarangkalian: ia menukar ketidakpastian kepada nombor yang boleh dirancang."
+    },
+    "bigIdeas": [
+      {
+        "en": "Probability is a number from 0 to 1.",
+        "bm": "Kebarangkalian ialah nombor dari 0 hingga 1."
+      },
+      {
+        "en": "Experiments estimate it; theory calculates it.",
+        "bm": "Eksperimen menganggarkannya; teori mengiranya."
+      },
+      {
+        "en": "P(A′) = 1 − P(A).",
+        "bm": "P(A′) = 1 − P(A)."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "List the sample space",
+              "bm": "Senaraikan ruang sampel"
+            },
+            "detail": {
+              "en": "S",
+              "bm": "S"
+            }
+          },
+          {
+            "title": {
+              "en": "Find the event",
+              "bm": "Cari peristiwa"
+            },
+            "detail": {
+              "en": "A",
+              "bm": "A"
+            }
+          },
+          {
+            "title": {
+              "en": "Count both",
+              "bm": "Kira kedua-duanya"
+            },
+            "detail": {
+              "en": "n(A), n(S)",
+              "bm": "n(A), n(S)"
+            }
+          },
+          {
+            "title": {
+              "en": "Divide",
+              "bm": "Bahagi"
+            },
+            "detail": {
+              "en": "P(A) = n(A) ÷ n(S)",
+              "bm": "P(A) = n(A) ÷ n(S)"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Sample space",
+          "bm": "Ruang sampel"
+        },
+        "definition": {
+          "en": "The set of all possible outcomes.",
+          "bm": "Set semua kesudahan yang mungkin."
+        }
+      },
+      {
+        "term": {
+          "en": "Event",
+          "bm": "Peristiwa"
+        },
+        "definition": {
+          "en": "Some of the outcomes from a sample space.",
+          "bm": "Sebahagian kesudahan dalam ruang sampel."
+        }
+      },
+      {
+        "term": {
+          "en": "Equally likely",
+          "bm": "Sama boleh jadi"
+        },
+        "definition": {
+          "en": "Outcomes have the same chance.",
+          "bm": "Kesudahan mempunyai peluang sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Complement",
+          "bm": "Pelengkap"
+        },
+        "definition": {
+          "en": "All outcomes not in the event.",
+          "bm": "Semua kesudahan yang bukan dalam peristiwa."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f2-prob",
+      "f2-prob-c"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "A fair die is rolled. Find P(even number).",
+        "bm": "Dadu adil dilambung. Cari P(nombor genap)."
+      },
+      "steps": [
+        {
+          "en": "S = {1, 2, 3, 4, 5, 6}; n(S) = 6.",
+          "bm": "S = {1, 2, 3, 4, 5, 6}; n(S) = 6."
+        },
+        {
+          "en": "A = {2, 4, 6}; n(A) = 3.",
+          "bm": "A = {2, 4, 6}; n(A) = 3."
+        }
+      ],
+      "answer": {
+        "en": "3/6 = 1/2",
+        "bm": "3/6 = 1/2"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f2math-13-q01",
+      "subtopicId": "f2math-13-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A coin was tossed 50 times and showed heads 28 times. Find the experimental probability of heads.",
+        "bm": "Syiling dilambung 50 kali dan menunjukkan kepala 28 kali. Cari kebarangkalian eksperimen kepala."
+      },
+      "explanation": {
+        "en": "28 ÷ 50 = 0.56.",
+        "bm": "28 ÷ 50 = 0.56."
+      },
+      "difficulty": 1,
+      "answer": 0.56,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q02",
+      "subtopicId": "f2math-13-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A coin was tossed 40 times and showed heads 10 times. Find the experimental probability of heads.",
+        "bm": "Syiling dilambung 40 kali dan menunjukkan kepala 10 kali. Cari kebarangkalian eksperimen kepala."
+      },
+      "explanation": {
+        "en": "10 ÷ 40 = 0.25.",
+        "bm": "10 ÷ 40 = 0.25."
+      },
+      "difficulty": 1,
+      "answer": 0.25,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q03",
+      "subtopicId": "f2math-13-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A coin was tossed 200 times and showed heads 130 times. Find the experimental probability of heads.",
+        "bm": "Syiling dilambung 200 kali dan menunjukkan kepala 130 kali. Cari kebarangkalian eksperimen kepala."
+      },
+      "explanation": {
+        "en": "130 ÷ 200 = 0.65.",
+        "bm": "130 ÷ 200 = 0.65."
+      },
+      "difficulty": 1,
+      "answer": 0.65,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q04",
+      "subtopicId": "f2math-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "As an experiment is repeated more times, the experimental probability…",
+        "bm": "Apabila eksperimen diulang lebih banyak kali, kebarangkalian eksperimen…"
+      },
+      "explanation": {
+        "en": "More trials give a better estimate.",
+        "bm": "Lebih banyak cubaan memberi anggaran lebih baik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "approaches the theoretical value",
+          "bm": "menghampiri nilai teori"
+        },
+        {
+          "en": "always equals 1",
+          "bm": "sentiasa 1"
+        },
+        {
+          "en": "always equals 0",
+          "bm": "sentiasa 0"
+        },
+        {
+          "en": "grows without limit",
+          "bm": "bertambah tanpa had"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-13-q05",
+      "subtopicId": "f2math-13-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A spinner landed on red 24 times in 80 spins. Estimate how many reds there would be in 200 spins.",
+        "bm": "Pemutar berhenti pada merah 24 kali dalam 80 putaran. Anggarkan bilangan merah dalam 200 putaran."
+      },
+      "explanation": {
+        "en": "0.3 × 200 = 60.",
+        "bm": "0.3 × 200 = 60."
+      },
+      "difficulty": 2,
+      "answer": 60,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-13-q06",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bag holds 3 red and 7 blue balls. Find P(red) as a decimal.",
+        "bm": "Beg mengandungi 3 bola merah dan 7 biru. Cari P(merah) dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "3 ÷ 10 = 0.3.",
+        "bm": "3 ÷ 10 = 0.3."
+      },
+      "difficulty": 1,
+      "answer": 0.3,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q07",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A fair die is rolled. Find P(a number greater than 4) to 2 d.p.",
+        "bm": "Dadu adil dilambung. Cari P(nombor lebih besar daripada 4) kepada 2 t.p."
+      },
+      "explanation": {
+        "en": "2 ÷ 6 ≈ 0.33.",
+        "bm": "2 ÷ 6 ≈ 0.33."
+      },
+      "difficulty": 1,
+      "answer": 0.33,
+      "tolerance": 0.02
+    },
+    {
+      "id": "f2math-13-q08",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "One letter is picked from M, A, L, A, Y, S, I, A. Find P(A) as a decimal.",
+        "bm": "Satu huruf dipilih daripada M, A, L, A, Y, S, I, A. Cari P(A) dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "3 ÷ 8 = 0.375.",
+        "bm": "3 ÷ 8 = 0.375."
+      },
+      "difficulty": 2,
+      "answer": 0.375,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q09",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find P(a prime number) when picking from 1 to 10, as a decimal.",
+        "bm": "Cari P(nombor perdana) apabila memilih daripada 1 hingga 10, dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "2, 3, 5, 7: 4 ÷ 10.",
+        "bm": "2, 3, 5, 7: 4 ÷ 10."
+      },
+      "difficulty": 2,
+      "answer": 0.4,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q10",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bag has 12 balls. P(red) = 1/3. How many red balls?",
+        "bm": "Beg ada 12 bola. P(merah) = 1/3. Berapa bola merah?"
+      },
+      "explanation": {
+        "en": "12 × 1/3 = 4.",
+        "bm": "12 × 1/3 = 4."
+      },
+      "difficulty": 3,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-13-q11",
+      "subtopicId": "f2math-13-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A box has 5 red and x blue pens. P(red) = 1/4. Find x.",
+        "bm": "Kotak ada 5 pen merah dan x pen biru. P(merah) = 1/4. Cari x."
+      },
+      "explanation": {
+        "en": "5 ÷ (5 + x) = 1/4, so x = 15.",
+        "bm": "5 ÷ (5 + x) = 1/4, maka x = 15."
+      },
+      "difficulty": 3,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-13-q12",
+      "subtopicId": "f2math-13-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(A) = 0.3. Find P(A′).",
+        "bm": "P(A) = 0.3. Cari P(A′)."
+      },
+      "explanation": {
+        "en": "1 − 0.3 = 0.7.",
+        "bm": "1 − 0.3 = 0.7."
+      },
+      "difficulty": 1,
+      "answer": 0.7,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q13",
+      "subtopicId": "f2math-13-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(A) = 0.85. Find P(A′).",
+        "bm": "P(A) = 0.85. Cari P(A′)."
+      },
+      "explanation": {
+        "en": "1 − 0.85 = 0.15.",
+        "bm": "1 − 0.85 = 0.15."
+      },
+      "difficulty": 1,
+      "answer": 0.15,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q14",
+      "subtopicId": "f2math-13-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(A) = 0.42. Find P(A′).",
+        "bm": "P(A) = 0.42. Cari P(A′)."
+      },
+      "explanation": {
+        "en": "1 − 0.42 = 0.58.",
+        "bm": "1 − 0.42 = 0.58."
+      },
+      "difficulty": 1,
+      "answer": 0.58,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q15",
+      "subtopicId": "f2math-13-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "The chance of rain is 3/5. Find the chance of no rain, as a decimal.",
+        "bm": "Peluang hujan ialah 3/5. Cari peluang tiada hujan, dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "1 − 3/5 = 2/5 = 0.4.",
+        "bm": "1 − 3/5 = 2/5 = 0.4."
+      },
+      "difficulty": 2,
+      "answer": 0.4,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q16",
+      "subtopicId": "f2math-13-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "If P(A) = 1, then the event is…",
+        "bm": "Jika P(A) = 1, peristiwa itu…"
+      },
+      "explanation": {
+        "en": "1 means it always happens.",
+        "bm": "1 bermaksud ia sentiasa berlaku."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "certain",
+          "bm": "pasti"
+        },
+        {
+          "en": "impossible",
+          "bm": "mustahil"
+        },
+        {
+          "en": "unlikely",
+          "bm": "kurang berkemungkinan"
+        },
+        {
+          "en": "even",
+          "bm": "sama boleh jadi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2math-13-q17",
+      "subtopicId": "f2math-13-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A class has 18 girls and 12 boys. Find P(a boy is picked) as a decimal.",
+        "bm": "Kelas ada 18 perempuan dan 12 lelaki. Cari P(lelaki dipilih) dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "12 ÷ 30 = 0.4.",
+        "bm": "12 ÷ 30 = 0.4."
+      },
+      "difficulty": 2,
+      "answer": 0.4,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f2math-13-q18",
+      "subtopicId": "f2math-13-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(win) = 0.05 with 400 tickets sold. How many tickets win?",
+        "bm": "P(menang) = 0.05 dengan 400 tiket dijual. Berapa tiket menang?"
+      },
+      "explanation": {
+        "en": "0.05 × 400 = 20.",
+        "bm": "0.05 × 400 = 20."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0
+    },
+    {
+      "id": "f2math-13-q19",
+      "subtopicId": "f2math-13-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A bag has 4 red, 6 blue and 10 green marbles. Find P(not green) as a decimal.",
+        "bm": "Beg ada 4 guli merah, 6 biru dan 10 hijau. Cari P(bukan hijau) dalam perpuluhan."
+      },
+      "explanation": {
+        "en": "10 ÷ 20 = 0.5.",
+        "bm": "10 ÷ 20 = 0.5."
+      },
+      "difficulty": 3,
+      "answer": 0.5,
+      "tolerance": 0.01
+    }
+  ]
+}

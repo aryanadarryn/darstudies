@@ -1,0 +1,135 @@
+{
+  "chapterId": "f2muzik-03",
+  "reviewed": false,
+  "subtopics": {
+    "f2muzik-03-01": {
+      "keyPoints": [
+        {
+          "en": "Beats depend on the time signature.",
+          "bm": "Detik bergantung pada tanda masa."
+        },
+        {
+          "en": "A dot adds half.",
+          "bm": "Titik menambah separuh."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Time signature",
+            "bm": "Tanda masa"
+          },
+          "meaning": {
+            "en": "Shows beats in a bar.",
+            "bm": "Menunjukkan detik dalam bar."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "4/4: how many crotchets per bar?",
+          "bm": "4/4: berapa krocet setiap bar?"
+        },
+        "answer": {
+          "en": "4",
+          "bm": "4"
+        }
+      },
+      "tip": {
+        "en": "Count aloud while reading.",
+        "bm": "Kira dengan kuat semasa membaca."
+      }
+    },
+    "f2muzik-03-02": {
+      "keyPoints": [
+        {
+          "en": "Five lines, four spaces.",
+          "bm": "Lima garisan, empat ruang."
+        },
+        {
+          "en": "Ledger lines extend the stave.",
+          "bm": "Garis tambahan memanjangkan baluk."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Ledger line",
+            "bm": "Garis tambahan"
+          },
+          "meaning": {
+            "en": "Short line above or below the stave.",
+            "bm": "Garis pendek di atas atau bawah baluk."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/stave.svg",
+          "alt": {
+            "en": "The C major scale on a stave.",
+            "bm": "Skel C major pada baluk."
+          },
+          "caption": {
+            "en": "The C major scale on a stave.",
+            "bm": "Skel C major pada baluk."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Note on the second line?",
+          "bm": "Not pada garisan kedua?"
+        },
+        "answer": {
+          "en": "G",
+          "bm": "G"
+        }
+      },
+      "tip": {
+        "en": "Use a memory phrase.",
+        "bm": "Gunakan frasa ingatan."
+      }
+    },
+    "f2muzik-03-03": {
+      "keyPoints": [
+        {
+          "en": "Scales follow a pattern of tones and semitones.",
+          "bm": "Skel mengikut pola ton dan semiton."
+        },
+        {
+          "en": "Chords I, IV and V fit most simple songs.",
+          "bm": "Kord I, IV dan V sesuai dengan kebanyakan lagu mudah."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Key signature",
+            "bm": "Tanda kunci"
+          },
+          "meaning": {
+            "en": "Sharps or flats for a key.",
+            "bm": "Syap atau flat bagi kunci."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Sharps in G major?",
+          "bm": "Syap dalam G major?"
+        },
+        "answer": {
+          "en": "F♯",
+          "bm": "F♯"
+        }
+      },
+      "tip": {
+        "en": "Play chords slowly on a keyboard or recorder.",
+        "bm": "Mainkan kord perlahan pada papan kekunci."
+      }
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "chapterId": "f2sej-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Tomé Pires wrote that 84 languages could be heard in Melaka. In the 15th century it was among the busiest ports in the world.",
+      "bm": "Tomé Pires mencatatkan 84 bahasa kedengaran di Melaka. Pada abad ke-15, ia antara pelabuhan tersibuk di dunia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Parameswara chose a sheltered, strategic site.",
+        "bm": "Parameswara memilih lokasi yang terlindung dan strategik."
+      },
+      {
+        "en": "Strong leaders, laws and administration brought glory.",
+        "bm": "Pemimpin kuat, undang-undang dan pentadbiran membawa kegemilangan."
+      },
+      {
+        "en": "Melaka fell to the Portuguese in 1511.",
+        "bm": "Melaka jatuh ke tangan Portugis pada 1511."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Officer",
+          "bm": "Pembesar"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Bendahara",
+              "bm": "Bendahara"
+            },
+            "detail": {
+              "en": "chief minister",
+              "bm": "ketua menteri"
+            }
+          },
+          {
+            "label": {
+              "en": "Temenggung",
+              "bm": "Temenggung"
+            },
+            "detail": {
+              "en": "security and order",
+              "bm": "keselamatan dan ketenteraman"
+            }
+          },
+          {
+            "label": {
+              "en": "Laksamana",
+              "bm": "Laksamana"
+            },
+            "detail": {
+              "en": "fleet commander",
+              "bm": "ketua angkatan laut"
+            }
+          },
+          {
+            "label": {
+              "en": "Penghulu Bendahari",
+              "bm": "Penghulu Bendahari"
+            },
+            "detail": {
+              "en": "finance",
+              "bm": "kewangan"
+            }
+          },
+          {
+            "label": {
+              "en": "Syahbandar",
+              "bm": "Syahbandar"
+            },
+            "detail": {
+              "en": "port officer",
+              "bm": "pegawai pelabuhan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Sultanate",
+          "bm": "Kesultanan"
+        },
+        "definition": {
+          "en": "A state ruled by a sultan.",
+          "bm": "Negara yang diperintah oleh sultan."
+        }
+      },
+      {
+        "term": {
+          "en": "Hukum Kanun Melaka",
+          "bm": "Hukum Kanun Melaka"
+        },
+        "definition": {
+          "en": "The land laws of Melaka.",
+          "bm": "Undang-undang darat Melaka."
+        }
+      },
+      {
+        "term": {
+          "en": "Undang-Undang Laut Melaka",
+          "bm": "Undang-Undang Laut Melaka"
+        },
+        "definition": {
+          "en": "The maritime laws of Melaka.",
+          "bm": "Undang-undang laut Melaka."
+        }
+      },
+      {
+        "term": {
+          "en": "Syahbandar",
+          "bm": "Syahbandar"
+        },
+        "definition": {
+          "en": "An officer who managed traders at the port.",
+          "bm": "Pegawai yang menguruskan pedagang di pelabuhan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sej-05-q01",
+      "subtopicId": "f2sej-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Melaka was founded by…",
+        "bm": "Melaka diasaskan oleh…"
+      },
+      "explanation": {
+        "en": "He arrived around 1400.",
+        "bm": "Beliau tiba sekitar 1400."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Parameswara",
+          "bm": "Parameswara"
+        },
+        {
+          "en": "Tun Perak",
+          "bm": "Tun Perak"
+        },
+        {
+          "en": "Hang Tuah",
+          "bm": "Hang Tuah"
+        },
+        {
+          "en": "Sultan Mahmud Shah",
+          "bm": "Sultan Mahmud Shah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q02",
+      "subtopicId": "f2sej-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Melaka's location was good because it…",
+        "bm": "Lokasi Melaka baik kerana ia…"
+      },
+      "explanation": {
+        "en": "Monsoon traders could wait safely there.",
+        "bm": "Pedagang monsun boleh menunggu dengan selamat di situ."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "had a sheltered harbour by the straits",
+          "bm": "mempunyai pelabuhan terlindung di selat"
+        },
+        {
+          "en": "was in the mountains",
+          "bm": "di pergunungan"
+        },
+        {
+          "en": "had no water",
+          "bm": "tiada air"
+        },
+        {
+          "en": "was far from trade routes",
+          "bm": "jauh dari laluan perdagangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q03",
+      "subtopicId": "f2sej-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Where did Parameswara come from before Melaka?",
+        "bm": "Dari manakah Parameswara sebelum ke Melaka?"
+      },
+      "explanation": {
+        "en": "He moved through Temasik and Muar.",
+        "bm": "Beliau bergerak melalui Temasik dan Muar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Palembang via Temasik",
+          "bm": "Palembang melalui Temasik"
+        },
+        {
+          "en": "Goa",
+          "bm": "Goa"
+        },
+        {
+          "en": "Lisbon",
+          "bm": "Lisbon"
+        },
+        {
+          "en": "Beijing",
+          "bm": "Beijing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q04",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The chief minister of Melaka was the…",
+        "bm": "Ketua menteri Melaka ialah…"
+      },
+      "explanation": {
+        "en": "Tun Perak is the most famous.",
+        "bm": "Tun Perak paling terkenal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Bendahara",
+          "bm": "Bendahara"
+        },
+        {
+          "en": "Syahbandar",
+          "bm": "Syahbandar"
+        },
+        {
+          "en": "Temenggung",
+          "bm": "Temenggung"
+        },
+        {
+          "en": "Laksamana",
+          "bm": "Laksamana"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q05",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who commanded Melaka's fleet?",
+        "bm": "Siapakah mengetuai angkatan laut Melaka?"
+      },
+      "explanation": {
+        "en": "Hang Tuah held this post.",
+        "bm": "Hang Tuah memegang jawatan ini."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Laksamana",
+          "bm": "Laksamana"
+        },
+        {
+          "en": "Bendahara",
+          "bm": "Bendahara"
+        },
+        {
+          "en": "Penghulu Bendahari",
+          "bm": "Penghulu Bendahari"
+        },
+        {
+          "en": "Sultan",
+          "bm": "Sultan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q06",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which law governed matters at sea?",
+        "bm": "Undang-undang manakah mengawal hal ehwal laut?"
+      },
+      "explanation": {
+        "en": "It covered ships and sailors.",
+        "bm": "Ia merangkumi kapal dan pelaut."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Undang-Undang Laut Melaka",
+          "bm": "Undang-Undang Laut Melaka"
+        },
+        {
+          "en": "Hukum Kanun Melaka",
+          "bm": "Hukum Kanun Melaka"
+        },
+        {
+          "en": "Adat Perpatih",
+          "bm": "Adat Perpatih"
+        },
+        {
+          "en": "Constitution of 1957",
+          "bm": "Perlembagaan 1957"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q07",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Melaka's port had how many Syahbandar?",
+        "bm": "Pelabuhan Melaka ada berapa Syahbandar?"
+      },
+      "explanation": {
+        "en": "Each served a different group of traders.",
+        "bm": "Setiap seorang melayani kumpulan pedagang berbeza."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "10",
+          "bm": "10"
+        },
+        {
+          "en": "20",
+          "bm": "20"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q08",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which foreign admiral visited Melaka?",
+        "bm": "Laksamana asing manakah melawat Melaka?"
+      },
+      "explanation": {
+        "en": "He visited in the early 15th century.",
+        "bm": "Beliau melawat pada awal abad ke-15."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Zheng He",
+          "bm": "Zheng He"
+        },
+        {
+          "en": "Columbus",
+          "bm": "Columbus"
+        },
+        {
+          "en": "Magellan's pilot",
+          "bm": "Jurumudi Magellan"
+        },
+        {
+          "en": "Drake",
+          "bm": "Drake"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q09",
+      "subtopicId": "f2sej-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How did Melaka become a centre of Islam?",
+        "bm": "Bagaimana Melaka menjadi pusat Islam?"
+      },
+      "explanation": {
+        "en": "Scholars and traders spread Islam widely.",
+        "bm": "Ulama dan pedagang menyebarkan Islam secara meluas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rulers embraced Islam and supported scholars",
+          "bm": "Pemerintah menerima Islam dan menyokong ulama"
+        },
+        {
+          "en": "The Portuguese spread it",
+          "bm": "Portugis menyebarkannya"
+        },
+        {
+          "en": "China ordered it",
+          "bm": "China memerintahkannya"
+        },
+        {
+          "en": "Traders stopped coming",
+          "bm": "Pedagang berhenti datang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q10",
+      "subtopicId": "f2sej-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Melaka fell to the Portuguese in…",
+        "bm": "Melaka jatuh ke tangan Portugis pada…"
+      },
+      "explanation": {
+        "en": "Afonso de Albuquerque led the attack.",
+        "bm": "Afonso de Albuquerque mengetuai serangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1511",
+          "bm": "1511"
+        },
+        {
+          "en": "1400",
+          "bm": "1400"
+        },
+        {
+          "en": "1641",
+          "bm": "1641"
+        },
+        {
+          "en": "1824",
+          "bm": "1824"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q11",
+      "subtopicId": "f2sej-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who was the sultan when Melaka fell?",
+        "bm": "Siapakah sultan ketika Melaka jatuh?"
+      },
+      "explanation": {
+        "en": "He retreated and fought on.",
+        "bm": "Baginda berundur dan terus berjuang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sultan Mahmud Shah",
+          "bm": "Sultan Mahmud Shah"
+        },
+        {
+          "en": "Sultan Mansur Shah",
+          "bm": "Sultan Mansur Shah"
+        },
+        {
+          "en": "Parameswara",
+          "bm": "Parameswara"
+        },
+        {
+          "en": "Sultan Muzaffar Shah",
+          "bm": "Sultan Muzaffar Shah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sej-05-q12",
+      "subtopicId": "f2sej-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which was an internal weakness of Melaka?",
+        "bm": "Yang manakah kelemahan dalaman Melaka?"
+      },
+      "explanation": {
+        "en": "Internal disputes weakened defence.",
+        "bm": "Pertikaian dalaman melemahkan pertahanan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rivalry among officials",
+          "bm": "Persaingan antara pembesar"
+        },
+        {
+          "en": "Too many schools",
+          "bm": "Terlalu banyak sekolah"
+        },
+        {
+          "en": "No trade",
+          "bm": "Tiada perdagangan"
+        },
+        {
+          "en": "Too many ships",
+          "bm": "Terlalu banyak kapal"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

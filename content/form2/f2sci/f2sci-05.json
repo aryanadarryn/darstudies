@@ -1,0 +1,586 @@
+{
+  "chapterId": "f2sci-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Water expands as it freezes. That is why ice floats, and why fish survive under frozen lakes.",
+      "bm": "Air mengembang apabila membeku. Sebab itu ais terapung, dan ikan dapat hidup di bawah tasik beku."
+    },
+    "bigIdeas": [
+      {
+        "en": "Pure water has fixed boiling and freezing points.",
+        "bm": "Air tulen mempunyai takat didih dan takat beku yang tetap."
+      },
+      {
+        "en": "A solution contains a solute dissolved in a solvent.",
+        "bm": "Larutan mengandungi zat terlarut yang larut dalam pelarut."
+      },
+      {
+        "en": "Water is treated in stages before it reaches homes.",
+        "bm": "Air dirawat melalui beberapa peringkat sebelum sampai ke rumah."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Screening",
+              "bm": "Penyaringan"
+            },
+            "detail": {
+              "en": "Removes large objects",
+              "bm": "Membuang objek besar"
+            }
+          },
+          {
+            "title": {
+              "en": "Coagulation",
+              "bm": "Pengentalan"
+            },
+            "detail": {
+              "en": "Alum clumps dirt",
+              "bm": "Tawas menggumpal kotoran"
+            }
+          },
+          {
+            "title": {
+              "en": "Sedimentation",
+              "bm": "Pengenapan"
+            },
+            "detail": {
+              "en": "Clumps settle",
+              "bm": "Gumpalan mendap"
+            }
+          },
+          {
+            "title": {
+              "en": "Filtration",
+              "bm": "Penapisan"
+            },
+            "detail": {
+              "en": "Sand and gravel",
+              "bm": "Pasir dan batu kelikir"
+            }
+          },
+          {
+            "title": {
+              "en": "Chlorination",
+              "bm": "Pengklorinan"
+            },
+            "detail": {
+              "en": "Kills germs",
+              "bm": "Membunuh kuman"
+            }
+          },
+          {
+            "title": {
+              "en": "Fluoridation",
+              "bm": "Pengfluoridaan"
+            },
+            "detail": {
+              "en": "Protects teeth",
+              "bm": "Melindungi gigi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Solute",
+          "bm": "Zat terlarut"
+        },
+        "definition": {
+          "en": "The substance that dissolves.",
+          "bm": "Bahan yang larut."
+        }
+      },
+      {
+        "term": {
+          "en": "Solvent",
+          "bm": "Pelarut"
+        },
+        "definition": {
+          "en": "The substance that dissolves the solute.",
+          "bm": "Bahan yang melarutkan zat terlarut."
+        }
+      },
+      {
+        "term": {
+          "en": "Saturated solution",
+          "bm": "Larutan tepu"
+        },
+        "definition": {
+          "en": "Can dissolve no more solute at that temperature.",
+          "bm": "Tidak boleh melarutkan lagi zat terlarut pada suhu itu."
+        }
+      },
+      {
+        "term": {
+          "en": "Electrolysis",
+          "bm": "Elektrolisis"
+        },
+        "definition": {
+          "en": "Splitting a compound using electricity.",
+          "bm": "Menguraikan sebatian menggunakan elektrik."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2sci-05-q01",
+      "subtopicId": "f2sci-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the boiling point of pure water at standard pressure?",
+        "bm": "Apakah takat didih air tulen pada tekanan piawai?"
+      },
+      "explanation": {
+        "en": "Water boils at 100 °C.",
+        "bm": "Air mendidih pada 100 °C."
+      },
+      "difficulty": 1,
+      "answer": 100,
+      "tolerance": 0,
+      "unit": "°C"
+    },
+    {
+      "id": "f2sci-05-q02",
+      "subtopicId": "f2sci-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the freezing point of pure water?",
+        "bm": "Apakah takat beku air tulen?"
+      },
+      "explanation": {
+        "en": "Water freezes at 0 °C.",
+        "bm": "Air membeku pada 0 °C."
+      },
+      "difficulty": 1,
+      "answer": 0,
+      "tolerance": 0,
+      "unit": "°C"
+    },
+    {
+      "id": "f2sci-05-q03",
+      "subtopicId": "f2sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Impurities such as salt cause water's boiling point to…",
+        "bm": "Bendasing seperti garam menyebabkan takat didih air…"
+      },
+      "explanation": {
+        "en": "Salt raises the boiling point and lowers the freezing point.",
+        "bm": "Garam meningkatkan takat didih dan menurunkan takat beku."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "rise",
+          "bm": "meningkat"
+        },
+        {
+          "en": "fall",
+          "bm": "menurun"
+        },
+        {
+          "en": "stay the same",
+          "bm": "kekal"
+        },
+        {
+          "en": "become 0 °C",
+          "bm": "menjadi 0 °C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q04",
+      "subtopicId": "f2sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Electrolysis of water produces hydrogen and oxygen in the volume ratio…",
+        "bm": "Elektrolisis air menghasilkan hidrogen dan oksigen dalam nisbah isi padu…"
+      },
+      "explanation": {
+        "en": "H₂O has two hydrogen atoms for each oxygen atom.",
+        "bm": "H₂O ada dua atom hidrogen bagi setiap atom oksigen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2 : 1",
+          "bm": "2 : 1"
+        },
+        {
+          "en": "1 : 2",
+          "bm": "1 : 2"
+        },
+        {
+          "en": "1 : 1",
+          "bm": "1 : 1"
+        },
+        {
+          "en": "3 : 1",
+          "bm": "3 : 1"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q05",
+      "subtopicId": "f2sci-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water evaporates faster when…",
+        "bm": "Air menyejat lebih cepat apabila…"
+      },
+      "explanation": {
+        "en": "These factors help molecules escape.",
+        "bm": "Faktor ini membantu molekul terlepas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "the air is hot, dry and windy",
+          "bm": "udara panas, kering dan berangin"
+        },
+        {
+          "en": "the air is cold and still",
+          "bm": "udara sejuk dan tenang"
+        },
+        {
+          "en": "humidity is high",
+          "bm": "kelembapan tinggi"
+        },
+        {
+          "en": "the surface area is small",
+          "bm": "luas permukaan kecil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q06",
+      "subtopicId": "f2sci-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In salt water, the solute is…",
+        "bm": "Dalam air garam, zat terlarutnya ialah…"
+      },
+      "explanation": {
+        "en": "Salt dissolves in water.",
+        "bm": "Garam larut dalam air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "salt",
+          "bm": "garam"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "air",
+          "bm": "udara"
+        },
+        {
+          "en": "the glass",
+          "bm": "gelas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q07",
+      "subtopicId": "f2sci-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water is called a universal solvent because…",
+        "bm": "Air digelar pelarut universal kerana…"
+      },
+      "explanation": {
+        "en": "Many, but not all, substances dissolve in it.",
+        "bm": "Banyak, tetapi bukan semua, bahan larut di dalamnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "it dissolves many substances",
+          "bm": "ia melarutkan banyak bahan"
+        },
+        {
+          "en": "it dissolves everything",
+          "bm": "ia melarutkan segalanya"
+        },
+        {
+          "en": "it is a metal",
+          "bm": "ia logam"
+        },
+        {
+          "en": "it boils at 100 °C",
+          "bm": "ia mendidih pada 100 °C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q08",
+      "subtopicId": "f2sci-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A solution that cannot dissolve more solute is…",
+        "bm": "Larutan yang tidak boleh melarutkan lagi zat terlarut ialah…"
+      },
+      "explanation": {
+        "en": "It has reached its limit at that temperature.",
+        "bm": "Ia mencapai hadnya pada suhu itu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "saturated",
+          "bm": "tepu"
+        },
+        {
+          "en": "dilute",
+          "bm": "cair"
+        },
+        {
+          "en": "concentrated only",
+          "bm": "pekat sahaja"
+        },
+        {
+          "en": "frozen",
+          "bm": "beku"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q09",
+      "subtopicId": "f2sci-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which increases the rate of dissolving sugar?",
+        "bm": "Yang manakah meningkatkan kadar melarut gula?"
+      },
+      "explanation": {
+        "en": "Temperature, stirring, and small particles all help.",
+        "bm": "Suhu, kacauan, dan zarah kecil semuanya membantu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Stirring and using hot water",
+          "bm": "Mengacau dan menggunakan air panas"
+        },
+        {
+          "en": "Using large lumps",
+          "bm": "Menggunakan ketulan besar"
+        },
+        {
+          "en": "Cooling the water",
+          "bm": "Menyejukkan air"
+        },
+        {
+          "en": "Using less water",
+          "bm": "Menggunakan kurang air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q10",
+      "subtopicId": "f2sci-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A solution has 25 g of sugar in 100 g of water at its limit. How many grams dissolve in 300 g of water?",
+        "bm": "Larutan mengandungi 25 g gula dalam 100 g air pada hadnya. Berapa gram larut dalam 300 g air?"
+      },
+      "explanation": {
+        "en": "25 × 3 = 75.",
+        "bm": "25 × 3 = 75."
+      },
+      "difficulty": 3,
+      "answer": 75,
+      "tolerance": 0,
+      "unit": "g"
+    },
+    {
+      "id": "f2sci-05-q11",
+      "subtopicId": "f2sci-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which solvent removes nail polish?",
+        "bm": "Pelarut manakah menanggalkan pengilat kuku?"
+      },
+      "explanation": {
+        "en": "Organic solvents dissolve what water cannot.",
+        "bm": "Pelarut organik melarutkan bahan yang tidak larut dalam air."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Acetone",
+          "bm": "Aseton"
+        },
+        {
+          "en": "Water",
+          "bm": "Air"
+        },
+        {
+          "en": "Vinegar",
+          "bm": "Cuka"
+        },
+        {
+          "en": "Milk",
+          "bm": "Susu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q12",
+      "subtopicId": "f2sci-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Chlorine is added to water to…",
+        "bm": "Klorin ditambah ke dalam air untuk…"
+      },
+      "explanation": {
+        "en": "It disinfects the water.",
+        "bm": "Ia menyahkuman air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "kill germs",
+          "bm": "membunuh kuman"
+        },
+        {
+          "en": "add colour",
+          "bm": "menambah warna"
+        },
+        {
+          "en": "add flavour",
+          "bm": "menambah rasa"
+        },
+        {
+          "en": "remove sand",
+          "bm": "membuang pasir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q13",
+      "subtopicId": "f2sci-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fluoride is added to water to…",
+        "bm": "Fluorida ditambah ke dalam air untuk…"
+      },
+      "explanation": {
+        "en": "It strengthens tooth enamel.",
+        "bm": "Ia menguatkan enamel gigi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "prevent tooth decay",
+          "bm": "mencegah kerosakan gigi"
+        },
+        {
+          "en": "kill fish",
+          "bm": "membunuh ikan"
+        },
+        {
+          "en": "make water sweet",
+          "bm": "memaniskan air"
+        },
+        {
+          "en": "remove colour",
+          "bm": "membuang warna"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2sci-05-q14",
+      "subtopicId": "f2sci-05-03",
+      "type": "order",
+      "prompt": {
+        "en": "Arrange the water treatment stages.",
+        "bm": "Susun peringkat rawatan air."
+      },
+      "explanation": {
+        "en": "Large solids go first; germs are killed last.",
+        "bm": "Pepejal besar dibuang dahulu; kuman dibunuh terakhir."
+      },
+      "difficulty": 2,
+      "items": [
+        {
+          "en": "Screening",
+          "bm": "Penyaringan"
+        },
+        {
+          "en": "Coagulation",
+          "bm": "Pengentalan"
+        },
+        {
+          "en": "Sedimentation",
+          "bm": "Pengenapan"
+        },
+        {
+          "en": "Filtration",
+          "bm": "Penapisan"
+        },
+        {
+          "en": "Chlorination",
+          "bm": "Pengklorinan"
+        }
+      ]
+    },
+    {
+      "id": "f2sci-05-q15",
+      "subtopicId": "f2sci-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which method gives the purest drinking water?",
+        "bm": "Kaedah manakah memberi air minuman paling tulen?"
+      },
+      "explanation": {
+        "en": "It separates the water from all dissolved substances.",
+        "bm": "Ia mengasingkan air daripada semua bahan terlarut."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Distillation",
+          "bm": "Penyulingan"
+        },
+        {
+          "en": "Filtration only",
+          "bm": "Penapisan sahaja"
+        },
+        {
+          "en": "Boiling only",
+          "bm": "Pendidihan sahaja"
+        },
+        {
+          "en": "Leaving it to settle",
+          "bm": "Membiarkannya mendap"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

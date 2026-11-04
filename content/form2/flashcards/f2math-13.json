@@ -1,0 +1,125 @@
+{
+  "chapterId": "f2math-13",
+  "cards": [
+    {
+      "id": "f2math-13-f01",
+      "subtopicId": "f2math-13-01",
+      "front": {
+        "en": "Experimental probability",
+        "bm": "Kebarangkalian eksperimen"
+      },
+      "back": {
+        "en": "Frequency of event ÷ number of trials.",
+        "bm": "Kekerapan peristiwa ÷ bilangan cubaan."
+      }
+    },
+    {
+      "id": "f2math-13-f02",
+      "subtopicId": "f2math-13-01",
+      "front": {
+        "en": "More trials",
+        "bm": "Lebih banyak cubaan"
+      },
+      "back": {
+        "en": "Closer to the theoretical value.",
+        "bm": "Lebih hampir nilai teori."
+      }
+    },
+    {
+      "id": "f2math-13-f03",
+      "subtopicId": "f2math-13-02",
+      "front": {
+        "en": "Sample space",
+        "bm": "Ruang sampel"
+      },
+      "back": {
+        "en": "All possible outcomes.",
+        "bm": "Semua kesudahan yang mungkin."
+      }
+    },
+    {
+      "id": "f2math-13-f04",
+      "subtopicId": "f2math-13-02",
+      "front": {
+        "en": "Theoretical probability",
+        "bm": "Kebarangkalian teori"
+      },
+      "back": {
+        "en": "n(A) ÷ n(S)",
+        "bm": "n(A) ÷ n(S)"
+      }
+    },
+    {
+      "id": "f2math-13-f05",
+      "subtopicId": "f2math-13-02",
+      "front": {
+        "en": "Equally likely",
+        "bm": "Sama boleh jadi"
+      },
+      "back": {
+        "en": "Same chance for each outcome.",
+        "bm": "Peluang sama bagi setiap kesudahan."
+      }
+    },
+    {
+      "id": "f2math-13-f06",
+      "subtopicId": "f2math-13-03",
+      "front": {
+        "en": "Complement A′",
+        "bm": "Pelengkap A′"
+      },
+      "back": {
+        "en": "All outcomes not in A.",
+        "bm": "Semua kesudahan bukan dalam A."
+      }
+    },
+    {
+      "id": "f2math-13-f07",
+      "subtopicId": "f2math-13-03",
+      "front": {
+        "en": "P(A′)",
+        "bm": "P(A′)"
+      },
+      "back": {
+        "en": "1 − P(A)",
+        "bm": "1 − P(A)"
+      }
+    },
+    {
+      "id": "f2math-13-f08",
+      "subtopicId": "f2math-13-03",
+      "front": {
+        "en": "Range of probability",
+        "bm": "Julat kebarangkalian"
+      },
+      "back": {
+        "en": "0 ≤ P ≤ 1",
+        "bm": "0 ≤ P ≤ 1"
+      }
+    },
+    {
+      "id": "f2math-13-f09",
+      "subtopicId": "f2math-13-04",
+      "front": {
+        "en": "Expected number",
+        "bm": "Bilangan dijangka"
+      },
+      "back": {
+        "en": "Probability × number of trials.",
+        "bm": "Kebarangkalian × bilangan cubaan."
+      }
+    },
+    {
+      "id": "f2math-13-f10",
+      "subtopicId": "f2math-13-04",
+      "front": {
+        "en": "Impossible event",
+        "bm": "Peristiwa mustahil"
+      },
+      "back": {
+        "en": "P = 0",
+        "bm": "P = 0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "chapterId": "f2math-12",
+  "reviewed": false,
+  "subtopics": {
+    "f2math-12-01": {
+      "keyPoints": [
+        {
+          "en": "Arrange data in order before finding the median.",
+          "bm": "Susun data dahulu sebelum mencari median."
+        },
+        {
+          "en": "In a frequency table, multiply each score by its frequency.",
+          "bm": "Dalam jadual kekerapan, darab setiap skor dengan kekerapannya."
+        },
+        {
+          "en": "Choose the measure that suits the data.",
+          "bm": "Pilih sukatan yang sesuai dengan data."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Mean",
+            "bm": "Min"
+          },
+          "meaning": {
+            "en": "Arithmetic average.",
+            "bm": "Purata aritmetik."
+          }
+        },
+        {
+          "term": {
+            "en": "Median",
+            "bm": "Median"
+          },
+          "meaning": {
+            "en": "Middle value.",
+            "bm": "Nilai tengah."
+          }
+        },
+        {
+          "term": {
+            "en": "Mode",
+            "bm": "Mod"
+          },
+          "meaning": {
+            "en": "Most frequent.",
+            "bm": "Paling kerap."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f2/data-center.svg",
+          "alt": {
+            "en": "In this bar chart, the mode is the tallest bar.",
+            "bm": "Dalam carta bar ini, mod ialah bar tertinggi."
+          },
+          "caption": {
+            "en": "In this bar chart, the mode is the tallest bar.",
+            "bm": "Dalam carta bar ini, mod ialah bar tertinggi."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Median of 2, 9, 4, 6?",
+          "bm": "Median bagi 2, 9, 4, 6?"
+        },
+        "answer": {
+          "en": "5",
+          "bm": "5"
+        }
+      },
+      "tip": {
+        "en": "Sum of values = mean × number of values.",
+        "bm": "Jumlah nilai = min × bilangan nilai."
+      }
+    }
+  }
+}

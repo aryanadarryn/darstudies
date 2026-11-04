@@ -1,0 +1,450 @@
+{
+  "chapterId": "f2bi-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You must stop at a red light, but you should wear a helmet on a bike path. One word changes how strong a rule sounds.",
+      "bm": "You must stop at a red light, but you should wear a helmet on a bike path. One word changes how strong a rule sounds."
+    },
+    "bigIdeas": [
+      {
+        "en": "Modals show obligation and advice.",
+        "bm": "Modals show obligation and advice."
+      },
+      {
+        "en": "Comparatives compare two things.",
+        "bm": "Comparatives compare two things."
+      },
+      {
+        "en": "Connectors join ideas.",
+        "bm": "Connectors join ideas."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Word",
+          "bm": "Word"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "must",
+              "bm": "must"
+            },
+            "detail": {
+              "en": "strong rule",
+              "bm": "strong rule"
+            }
+          },
+          {
+            "label": {
+              "en": "have to",
+              "bm": "have to"
+            },
+            "detail": {
+              "en": "required by others",
+              "bm": "required by others"
+            }
+          },
+          {
+            "label": {
+              "en": "mustn't",
+              "bm": "mustn't"
+            },
+            "detail": {
+              "en": "not allowed",
+              "bm": "not allowed"
+            }
+          },
+          {
+            "label": {
+              "en": "don't have to",
+              "bm": "don't have to"
+            },
+            "detail": {
+              "en": "not necessary",
+              "bm": "not necessary"
+            }
+          },
+          {
+            "label": {
+              "en": "should",
+              "bm": "should"
+            },
+            "detail": {
+              "en": "advice",
+              "bm": "advice"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Modal verb",
+          "bm": "Modal verb"
+        },
+        "definition": {
+          "en": "A helping verb such as must or should.",
+          "bm": "A helping verb such as must or should."
+        }
+      },
+      {
+        "term": {
+          "en": "Comparative",
+          "bm": "Comparative"
+        },
+        "definition": {
+          "en": "Form comparing two: taller.",
+          "bm": "Form comparing two: taller."
+        }
+      },
+      {
+        "term": {
+          "en": "Superlative",
+          "bm": "Superlative"
+        },
+        "definition": {
+          "en": "Form for the most: tallest.",
+          "bm": "Form for the most: tallest."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2bi-02-q01",
+      "subtopicId": "f2bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You ___ use your phone during the exam.",
+        "bm": "You ___ use your phone during the exam."
+      },
+      "explanation": {
+        "en": "It is forbidden.",
+        "bm": "It is forbidden."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "mustn't",
+          "bm": "mustn't"
+        },
+        {
+          "en": "don't have to",
+          "bm": "don't have to"
+        },
+        {
+          "en": "should",
+          "bm": "should"
+        },
+        {
+          "en": "can",
+          "bm": "can"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q02",
+      "subtopicId": "f2bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "It's free, so you ___ pay.",
+        "bm": "It's free, so you ___ pay."
+      },
+      "explanation": {
+        "en": "Not necessary.",
+        "bm": "Not necessary."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "don't have to",
+          "bm": "don't have to"
+        },
+        {
+          "en": "mustn't",
+          "bm": "mustn't"
+        },
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "have to",
+          "bm": "have to"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q03",
+      "subtopicId": "f2bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "You look tired. You ___ rest.",
+        "bm": "You look tired. You ___ rest."
+      },
+      "explanation": {
+        "en": "Advice.",
+        "bm": "Advice."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "should",
+          "bm": "should"
+        },
+        {
+          "en": "must not",
+          "bm": "must not"
+        },
+        {
+          "en": "had",
+          "bm": "had"
+        },
+        {
+          "en": "are",
+          "bm": "are"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q04",
+      "subtopicId": "f2bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yesterday I ___ wake up early for the trip.",
+        "bm": "Yesterday I ___ wake up early for the trip."
+      },
+      "explanation": {
+        "en": "\"Must\" has no past form; use had to.",
+        "bm": "\"Must\" has no past form; use had to."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "had to",
+          "bm": "had to"
+        },
+        {
+          "en": "have to",
+          "bm": "have to"
+        },
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "mustn't",
+          "bm": "mustn't"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q05",
+      "subtopicId": "f2bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kinabalu is ___ than Tahan.",
+        "bm": "Kinabalu is ___ than Tahan."
+      },
+      "explanation": {
+        "en": "Short adjective + -er.",
+        "bm": "Short adjective + -er."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "higher",
+          "bm": "higher"
+        },
+        {
+          "en": "high",
+          "bm": "high"
+        },
+        {
+          "en": "highest",
+          "bm": "highest"
+        },
+        {
+          "en": "more high",
+          "bm": "more high"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q06",
+      "subtopicId": "f2bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "This is the ___ book in the shop.",
+        "bm": "This is the ___ book in the shop."
+      },
+      "explanation": {
+        "en": "Long adjective: most.",
+        "bm": "Long adjective: most."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "most expensive",
+          "bm": "most expensive"
+        },
+        {
+          "en": "expensivest",
+          "bm": "expensivest"
+        },
+        {
+          "en": "more expensive",
+          "bm": "more expensive"
+        },
+        {
+          "en": "expensive",
+          "bm": "expensive"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q07",
+      "subtopicId": "f2bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "My marks are ___ than last year.",
+        "bm": "My marks are ___ than last year."
+      },
+      "explanation": {
+        "en": "Irregular: good → better.",
+        "bm": "Irregular: good → better."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "better",
+          "bm": "better"
+        },
+        {
+          "en": "gooder",
+          "bm": "gooder"
+        },
+        {
+          "en": "more good",
+          "bm": "more good"
+        },
+        {
+          "en": "best",
+          "bm": "best"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q08",
+      "subtopicId": "f2bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "She was tired, ___ she kept studying.",
+        "bm": "She was tired, ___ she kept studying."
+      },
+      "explanation": {
+        "en": "\"But\" shows contrast.",
+        "bm": "\"But\" shows contrast."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "but",
+          "bm": "but"
+        },
+        {
+          "en": "because",
+          "bm": "because"
+        },
+        {
+          "en": "so",
+          "bm": "so"
+        },
+        {
+          "en": "if",
+          "bm": "if"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q09",
+      "subtopicId": "f2bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The girl ___ won the race is my friend.",
+        "bm": "The girl ___ won the race is my friend."
+      },
+      "explanation": {
+        "en": "\"Who\" is for people.",
+        "bm": "\"Who\" is for people."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "where",
+          "bm": "where"
+        },
+        {
+          "en": "when",
+          "bm": "when"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2bi-02-q10",
+      "subtopicId": "f2bi-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "This is the place ___ we met.",
+        "bm": "This is the place ___ we met."
+      },
+      "explanation": {
+        "en": "\"Where\" is for places.",
+        "bm": "\"Where\" is for places."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "where",
+          "bm": "where"
+        },
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "what",
+          "bm": "what"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

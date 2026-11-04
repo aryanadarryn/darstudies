@@ -1,0 +1,502 @@
+{
+  "chapterId": "f2rbt-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Fish waste can feed plants, and plants can clean water for fish. Aquaponics shows how smart design joins technology and nature.",
+      "bm": "Sisa ikan boleh menyuburkan tumbuhan, dan tumbuhan membersihkan air untuk ikan. Akuaponik menunjukkan reka bentuk bijak menggabungkan teknologi dan alam."
+    },
+    "bigIdeas": [
+      {
+        "en": "Technology turns designs into products.",
+        "bm": "Teknologi menukar reka bentuk kepada produk."
+      },
+      {
+        "en": "Mechanical, electrical and electronic systems differ.",
+        "bm": "Sistem mekanikal, elektrik dan elektronik berbeza."
+      },
+      {
+        "en": "Aquaponics and food design meet everyday needs.",
+        "bm": "Akuaponik dan reka bentuk makanan memenuhi keperluan harian."
+      }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Fish",
+              "bm": "Ikan"
+            },
+            "detail": {
+              "en": "Make waste",
+              "bm": "Menghasilkan sisa"
+            }
+          },
+          {
+            "title": {
+              "en": "Bacteria",
+              "bm": "Bakteria"
+            },
+            "detail": {
+              "en": "Change waste to nitrate",
+              "bm": "Menukar sisa kepada nitrat"
+            }
+          },
+          {
+            "title": {
+              "en": "Plants",
+              "bm": "Tumbuhan"
+            },
+            "detail": {
+              "en": "Absorb nutrients",
+              "bm": "Menyerap nutrien"
+            }
+          },
+          {
+            "title": {
+              "en": "Clean water",
+              "bm": "Air bersih"
+            },
+            "detail": {
+              "en": "Returns to fish",
+              "bm": "Kembali kepada ikan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Prototype",
+          "bm": "Prototaip"
+        },
+        "definition": {
+          "en": "An early working model.",
+          "bm": "Model awal yang berfungsi."
+        }
+      },
+      {
+        "term": {
+          "en": "Mechanism",
+          "bm": "Mekanisme"
+        },
+        "definition": {
+          "en": "Parts that transmit motion or force.",
+          "bm": "Komponen yang memindahkan gerakan atau daya."
+        }
+      },
+      {
+        "term": {
+          "en": "Aquaponics",
+          "bm": "Akuaponik"
+        },
+        "definition": {
+          "en": "Fish and plants grown in one system.",
+          "bm": "Ikan dan tumbuhan dalam satu sistem."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f2rbt-02-q01",
+      "subtopicId": "f2rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A 3D printer is an example of…",
+        "bm": "Pencetak 3D ialah contoh…"
+      },
+      "explanation": {
+        "en": "It builds layer by layer.",
+        "bm": "Ia membina lapisan demi lapisan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "additive manufacturing",
+          "bm": "pembuatan tambahan"
+        },
+        {
+          "en": "farming",
+          "bm": "pertanian"
+        },
+        {
+          "en": "painting only",
+          "bm": "mengecat sahaja"
+        },
+        {
+          "en": "electrical wiring",
+          "bm": "pendawaian elektrik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q02",
+      "subtopicId": "f2rbt-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which manufacturing step shapes wood or metal by removing material?",
+        "bm": "Langkah pembuatan manakah membentuk kayu atau logam dengan membuang bahan?"
+      },
+      "explanation": {
+        "en": "This is subtractive.",
+        "bm": "Ini penolakan bahan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Cutting and drilling",
+          "bm": "Memotong dan menggerudi"
+        },
+        {
+          "en": "Printing a poster",
+          "bm": "Mencetak poster"
+        },
+        {
+          "en": "Packing",
+          "bm": "Membungkus"
+        },
+        {
+          "en": "Labelling",
+          "bm": "Melabel"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q03",
+      "subtopicId": "f2rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a mechanical component?",
+        "bm": "Yang manakah komponen mekanikal?"
+      },
+      "explanation": {
+        "en": "Gears transmit motion.",
+        "bm": "Gear memindahkan gerakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Gear",
+          "bm": "Gear"
+        },
+        {
+          "en": "Resistor",
+          "bm": "Perintang"
+        },
+        {
+          "en": "Transistor",
+          "bm": "Transistor"
+        },
+        {
+          "en": "Software",
+          "bm": "Perisian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q04",
+      "subtopicId": "f2rbt-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two gears with teeth 40 and 20 are meshed. The small gear turns…",
+        "bm": "Dua gear bergigi 40 dan 20 bersambung. Gear kecil berputar…"
+      },
+      "explanation": {
+        "en": "Fewer teeth means faster turns.",
+        "bm": "Lebih sedikit gigi bermakna lebih laju."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "faster",
+          "bm": "lebih laju"
+        },
+        {
+          "en": "slower",
+          "bm": "lebih perlahan"
+        },
+        {
+          "en": "at the same speed",
+          "bm": "pada laju sama"
+        },
+        {
+          "en": "not at all",
+          "bm": "tidak langsung"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q05",
+      "subtopicId": "f2rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A switch in a circuit is used to…",
+        "bm": "Suis dalam litar digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It controls the current flow.",
+        "bm": "Ia mengawal aliran arus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "open or close the circuit",
+          "bm": "membuka atau menutup litar"
+        },
+        {
+          "en": "store fuel",
+          "bm": "menyimpan bahan api"
+        },
+        {
+          "en": "change colour",
+          "bm": "menukar warna"
+        },
+        {
+          "en": "make noise",
+          "bm": "menghasilkan bunyi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q06",
+      "subtopicId": "f2rbt-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A fuse protects a circuit by…",
+        "bm": "Fius melindungi litar dengan…"
+      },
+      "explanation": {
+        "en": "It breaks the circuit.",
+        "bm": "Ia memutuskan litar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "melting when the current is too large",
+          "bm": "melebur apabila arus terlalu besar"
+        },
+        {
+          "en": "adding voltage",
+          "bm": "menambah voltan"
+        },
+        {
+          "en": "storing charge",
+          "bm": "menyimpan cas"
+        },
+        {
+          "en": "making light",
+          "bm": "menghasilkan cahaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q07",
+      "subtopicId": "f2rbt-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "An LED needs which kind of connection?",
+        "bm": "LED memerlukan sambungan…"
+      },
+      "explanation": {
+        "en": "Current passes one way only.",
+        "bm": "Arus melalui satu arah sahaja."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "correct polarity",
+          "bm": "kekutuban betul"
+        },
+        {
+          "en": "no power",
+          "bm": "tiada kuasa"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "fuel",
+          "bm": "bahan api"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q08",
+      "subtopicId": "f2rbt-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which component limits current?",
+        "bm": "Komponen manakah mengehadkan arus?"
+      },
+      "explanation": {
+        "en": "It protects LEDs.",
+        "bm": "Ia melindungi LED."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Resistor",
+          "bm": "Perintang"
+        },
+        {
+          "en": "Gear",
+          "bm": "Gear"
+        },
+        {
+          "en": "Pulley",
+          "bm": "Takal"
+        },
+        {
+          "en": "Spring",
+          "bm": "Spring"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q09",
+      "subtopicId": "f2rbt-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "In aquaponics, plants get nutrients from…",
+        "bm": "Dalam akuaponik, tumbuhan mendapat nutrien daripada…"
+      },
+      "explanation": {
+        "en": "Bacteria convert ammonia to nitrate.",
+        "bm": "Bakteria menukar ammonia kepada nitrat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fish waste changed by bacteria",
+          "bm": "sisa ikan yang ditukar oleh bakteria"
+        },
+        {
+          "en": "sea salt",
+          "bm": "garam laut"
+        },
+        {
+          "en": "sand only",
+          "bm": "pasir sahaja"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q10",
+      "subtopicId": "f2rbt-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is aquaponics considered water-efficient?",
+        "bm": "Mengapa akuaponik dianggap cekap air?"
+      },
+      "explanation": {
+        "en": "Little water is lost.",
+        "bm": "Sedikit air hilang."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Water recirculates",
+          "bm": "Air dikitar semula"
+        },
+        {
+          "en": "It uses no water",
+          "bm": "Tidak guna air"
+        },
+        {
+          "en": "It uses seawater only",
+          "bm": "Guna air laut sahaja"
+        },
+        {
+          "en": "It needs flooding",
+          "bm": "Memerlukan banjir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q11",
+      "subtopicId": "f2rbt-02-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Food design considers…",
+        "bm": "Reka bentuk makanan mengambil kira…"
+      },
+      "explanation": {
+        "en": "Food should be appealing and healthy.",
+        "bm": "Makanan perlu menarik dan sihat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nutrition, taste and presentation",
+          "bm": "khasiat, rasa dan penyajian"
+        },
+        {
+          "en": "engine power",
+          "bm": "kuasa enjin"
+        },
+        {
+          "en": "tyre width",
+          "bm": "lebar tayar"
+        },
+        {
+          "en": "circuit voltage",
+          "bm": "voltan litar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f2rbt-02-q12",
+      "subtopicId": "f2rbt-02-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which helps keep food safe?",
+        "bm": "Yang manakah menjaga keselamatan makanan?"
+      },
+      "explanation": {
+        "en": "Hygiene prevents food poisoning.",
+        "bm": "Kebersihan mencegah keracunan makanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Clean tools and correct storage",
+          "bm": "Alat bersih dan penyimpanan betul"
+        },
+        {
+          "en": "Dirty cloths",
+          "bm": "Kain kotor"
+        },
+        {
+          "en": "Warm storage of raw meat",
+          "bm": "Simpan daging mentah di tempat panas"
+        },
+        {
+          "en": "Skipping hand washing",
+          "bm": "Tidak mencuci tangan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}
