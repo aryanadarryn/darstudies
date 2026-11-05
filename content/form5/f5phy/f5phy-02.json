@@ -1,0 +1,564 @@
+{
+  "chapterId": "f5phy-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A small push on a car jack lifts two tonnes. An aeroplane stays up because air moves faster over its wing. Pressure explains both.",
+      "bm": "Tolakan kecil pada jek kereta mengangkat dua tan. Kapal terbang kekal di udara kerana udara lebih laju di atas sayap. Tekanan menerangkan kedua-duanya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Liquid pressure depends on depth and density.",
+        "bm": "Tekanan cecair bergantung pada kedalaman dan ketumpatan."
+      },
+      {
+        "en": "Pascal: pressure transmits equally.",
+        "bm": "Pascal: tekanan dipindahkan sama rata."
+      },
+      {
+        "en": "Bernoulli: faster flow means lower pressure.",
+        "bm": "Bernoulli: aliran laju bermakna tekanan rendah."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Principles",
+          "bm": "Prinsip"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Pascal",
+              "bm": "Pascal"
+            },
+            "detail": {
+              "en": "Hydraulic jack",
+              "bm": "Jek hidraulik"
+            }
+          },
+          {
+            "label": {
+              "en": "Archimedes",
+              "bm": "Archimedes"
+            },
+            "detail": {
+              "en": "Ships, submarines",
+              "bm": "Kapal, kapal selam"
+            }
+          },
+          {
+            "label": {
+              "en": "Bernoulli",
+              "bm": "Bernoulli"
+            },
+            "detail": {
+              "en": "Aerofoil, carburettor",
+              "bm": "Aerofoil, karburetor"
+            }
+          },
+          {
+            "label": {
+              "en": "Atmospheric",
+              "bm": "Atmosfera"
+            },
+            "detail": {
+              "en": "Suction cup",
+              "bm": "Penyedut"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Pressure",
+          "bm": "Tekanan"
+        },
+        "definition": {
+          "en": "Force per unit area.",
+          "bm": "Daya per unit luas."
+        }
+      },
+      {
+        "term": {
+          "en": "Buoyant force",
+          "bm": "Daya apung"
+        },
+        "definition": {
+          "en": "Upward force equal to the weight of displaced fluid.",
+          "bm": "Daya ke atas sama dengan berat bendalir tersesar."
+        }
+      },
+      {
+        "term": {
+          "en": "Aerofoil",
+          "bm": "Aerofoil"
+        },
+        "definition": {
+          "en": "Wing shape that causes lift.",
+          "bm": "Bentuk sayap yang menghasilkan daya angkat."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-liq",
+      "f5-py-pascal",
+      "f5-py-buoy",
+      "f5-py-boyle"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-02-q01",
+      "subtopicId": "f5phy-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find water pressure at 5 m (ρ = 1000 kg/m³, g = 9.81).",
+        "bm": "Cari tekanan air pada 5 m (ρ = 1000 kg/m³, g = 9.81)."
+      },
+      "explanation": {
+        "en": "hρg.",
+        "bm": "hρg."
+      },
+      "difficulty": 1,
+      "answer": 49050,
+      "tolerance": 0.01,
+      "unit": "Pa"
+    },
+    {
+      "id": "f5phy-02-q02",
+      "subtopicId": "f5phy-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find pressure at 2 m in oil of density 800 kg/m³ (g = 9.81).",
+        "bm": "Cari tekanan pada 2 m dalam minyak berketumpatan 800 kg/m³ (g = 9.81)."
+      },
+      "explanation": {
+        "en": "hρg.",
+        "bm": "hρg."
+      },
+      "difficulty": 2,
+      "answer": 15696,
+      "tolerance": 0.01,
+      "unit": "Pa"
+    },
+    {
+      "id": "f5phy-02-q03",
+      "subtopicId": "f5phy-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dams are thicker at the base because…",
+        "bm": "Empangan lebih tebal di dasar kerana…"
+      },
+      "explanation": {
+        "en": "P = hρg.",
+        "bm": "P = hρg."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "pressure rises with depth",
+          "bm": "tekanan meningkat dengan kedalaman"
+        },
+        {
+          "en": "water is lighter there",
+          "bm": "air lebih ringan di situ"
+        },
+        {
+          "en": "it looks better",
+          "bm": "kelihatan lebih cantik"
+        },
+        {
+          "en": "air pressure is higher",
+          "bm": "tekanan udara lebih tinggi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q04",
+      "subtopicId": "f5phy-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Atmospheric pressure is 10 m of water (P = hρg). Find the total pressure at 10 m underwater, in atm.",
+        "bm": "Tekanan atmosfera bersamaan 10 m air. Cari jumlah tekanan pada 10 m di dalam air, dalam atm."
+      },
+      "explanation": {
+        "en": "1 atm + 1 atm.",
+        "bm": "1 atm + 1 atm."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0.01,
+      "unit": "atm"
+    },
+    {
+      "id": "f5phy-02-q05",
+      "subtopicId": "f5phy-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Atmospheric pressure is measured with a…",
+        "bm": "Tekanan atmosfera diukur dengan…"
+      },
+      "explanation": {
+        "en": "Often in mercury height.",
+        "bm": "Selalunya tinggi merkuri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "barometer",
+          "bm": "barometer"
+        },
+        {
+          "en": "ammeter",
+          "bm": "ammeter"
+        },
+        {
+          "en": "hydrometer only",
+          "bm": "hidrometer sahaja"
+        },
+        {
+          "en": "spring balance",
+          "bm": "neraca spring"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q06",
+      "subtopicId": "f5phy-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A drinking straw works because…",
+        "bm": "Straw minuman berfungsi kerana…"
+      },
+      "explanation": {
+        "en": "Sucking lowers the pressure inside.",
+        "bm": "Menyedut menurunkan tekanan di dalam."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "atmospheric pressure pushes liquid up",
+          "bm": "tekanan atmosfera menolak cecair naik"
+        },
+        {
+          "en": "you pull the liquid directly",
+          "bm": "anda menarik cecair secara langsung"
+        },
+        {
+          "en": "the liquid has no weight",
+          "bm": "cecair tiada berat"
+        },
+        {
+          "en": "gravity stops",
+          "bm": "graviti berhenti"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q07",
+      "subtopicId": "f5phy-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A gas at P = 100 kPa and V = 2 L is compressed to 1 L at constant temperature. Find the new pressure.",
+        "bm": "Gas pada P = 100 kPa dan V = 2 L dimampat kepada 1 L pada suhu tetap. Cari tekanan baharu."
+      },
+      "explanation": {
+        "en": "P₁V₁ = P₂V₂.",
+        "bm": "P₁V₁ = P₂V₂."
+      },
+      "difficulty": 2,
+      "answer": 200,
+      "tolerance": 0.01,
+      "unit": "kPa"
+    },
+    {
+      "id": "f5phy-02-q08",
+      "subtopicId": "f5phy-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gas pressure comes from…",
+        "bm": "Tekanan gas terhasil daripada…"
+      },
+      "explanation": {
+        "en": "Collisions exert force.",
+        "bm": "Perlanggaran mengenakan daya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "molecules hitting the walls",
+          "bm": "molekul menghentam dinding"
+        },
+        {
+          "en": "the colour of the gas",
+          "bm": "warna gas"
+        },
+        {
+          "en": "the container's shape",
+          "bm": "bentuk bekas"
+        },
+        {
+          "en": "light",
+          "bm": "cahaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q09",
+      "subtopicId": "f5phy-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A hydraulic jack: F₁ = 50 N, A₁ = 0.01 m², A₂ = 0.5 m². Find F₂.",
+        "bm": "Jek hidraulik: F₁ = 50 N, A₁ = 0.01 m², A₂ = 0.5 m². Cari F₂."
+      },
+      "explanation": {
+        "en": "F₂ = F₁A₂/A₁.",
+        "bm": "F₂ = F₁A₂/A₁."
+      },
+      "difficulty": 2,
+      "answer": 2500,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-02-q10",
+      "subtopicId": "f5phy-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Piston A₁ = 2 cm² moves 10 cm, A₂ = 50 cm². How far does the large piston rise?",
+        "bm": "Omboh A₁ = 2 cm² bergerak 10 cm, A₂ = 50 cm². Berapa jauh omboh besar naik?"
+      },
+      "explanation": {
+        "en": "A₁d₁ = A₂d₂.",
+        "bm": "A₁d₁ = A₂d₂."
+      },
+      "difficulty": 3,
+      "answer": 0.4,
+      "tolerance": 0.01,
+      "unit": "cm"
+    },
+    {
+      "id": "f5phy-02-q11",
+      "subtopicId": "f5phy-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Brake systems use…",
+        "bm": "Sistem brek menggunakan…"
+      },
+      "explanation": {
+        "en": "Force passes through the fluid.",
+        "bm": "Daya dipindahkan melalui bendalir."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Pascal's principle",
+          "bm": "Prinsip Pascal"
+        },
+        {
+          "en": "Bernoulli's principle",
+          "bm": "Prinsip Bernoulli"
+        },
+        {
+          "en": "Archimedes' principle",
+          "bm": "Prinsip Archimedes"
+        },
+        {
+          "en": "Ohm's law",
+          "bm": "Hukum Ohm"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q12",
+      "subtopicId": "f5phy-02-05",
+      "type": "numeric",
+      "prompt": {
+        "en": "An object displaces 0.02 m³ of water (ρ = 1000). Find the buoyant force (g = 9.81).",
+        "bm": "Objek menyesarkan 0.02 m³ air (ρ = 1000). Cari daya apung (g = 9.81)."
+      },
+      "explanation": {
+        "en": "ρVg.",
+        "bm": "ρVg."
+      },
+      "difficulty": 2,
+      "answer": 196.20000000000002,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-02-q13",
+      "subtopicId": "f5phy-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A ship rises when moving from river to sea because seawater is…",
+        "bm": "Kapal timbul lebih tinggi dari sungai ke laut kerana air laut…"
+      },
+      "explanation": {
+        "en": "Less volume is needed for the same upthrust.",
+        "bm": "Kurang isi padu diperlukan bagi daya apung sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "denser",
+          "bm": "lebih tumpat"
+        },
+        {
+          "en": "warmer",
+          "bm": "lebih panas"
+        },
+        {
+          "en": "less dense",
+          "bm": "kurang tumpat"
+        },
+        {
+          "en": "saltless",
+          "bm": "tiada garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q14",
+      "subtopicId": "f5phy-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A submarine sinks by…",
+        "bm": "Kapal selam tenggelam dengan…"
+      },
+      "explanation": {
+        "en": "Weight increases beyond upthrust.",
+        "bm": "Berat melebihi daya apung."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "taking water into ballast tanks",
+          "bm": "mengisi air ke dalam tangki balast"
+        },
+        {
+          "en": "heating its hull",
+          "bm": "memanaskan badannya"
+        },
+        {
+          "en": "turning off lights",
+          "bm": "memadam lampu"
+        },
+        {
+          "en": "removing all air from cabins",
+          "bm": "mengeluarkan udara dari kabin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q15",
+      "subtopicId": "f5phy-02-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bernoulli: where fluid flows faster, pressure is…",
+        "bm": "Bernoulli: di tempat bendalir lebih laju, tekanan…"
+      },
+      "explanation": {
+        "en": "Basis of lift.",
+        "bm": "Asas daya angkat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "lower",
+          "bm": "lebih rendah"
+        },
+        {
+          "en": "higher",
+          "bm": "lebih tinggi"
+        },
+        {
+          "en": "unchanged",
+          "bm": "tidak berubah"
+        },
+        {
+          "en": "zero",
+          "bm": "sifar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q16",
+      "subtopicId": "f5phy-02-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "An aerofoil creates lift because…",
+        "bm": "Aerofoil menghasilkan daya angkat kerana…"
+      },
+      "explanation": {
+        "en": "Lower pressure above; higher below.",
+        "bm": "Tekanan rendah di atas; tinggi di bawah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "air is faster above the wing",
+          "bm": "udara lebih laju di atas sayap"
+        },
+        {
+          "en": "the wing is heavy",
+          "bm": "sayap berat"
+        },
+        {
+          "en": "air is slower above",
+          "bm": "udara lebih perlahan di atas"
+        },
+        {
+          "en": "the engine pulls up",
+          "bm": "enjin menarik ke atas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-02-q17",
+      "subtopicId": "f5phy-02-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why can two passing ships be pulled together?",
+        "bm": "Mengapa dua kapal yang melintas boleh tertarik bersama?"
+      },
+      "explanation": {
+        "en": "Higher outside pressure pushes inward.",
+        "bm": "Tekanan luar lebih tinggi menolak ke dalam."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Fast water between them lowers pressure",
+          "bm": "Air laju di antaranya menurunkan tekanan"
+        },
+        {
+          "en": "Magnetism",
+          "bm": "Kemagnetan"
+        },
+        {
+          "en": "Gravity of the ships",
+          "bm": "Graviti kapal"
+        },
+        {
+          "en": "Waves push from the middle",
+          "bm": "Ombak menolak dari tengah"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

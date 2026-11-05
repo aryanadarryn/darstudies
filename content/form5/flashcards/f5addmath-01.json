@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-01",
+  "cards": [
+    {
+      "id": "f5addmath-01-f01",
+      "subtopicId": "f5addmath-01-01",
+      "front": {
+        "en": "π rad",
+        "bm": "π rad"
+      },
+      "back": {
+        "en": "180°",
+        "bm": "180°"
+      }
+    },
+    {
+      "id": "f5addmath-01-f02",
+      "subtopicId": "f5addmath-01-01",
+      "front": {
+        "en": "Degrees to radians",
+        "bm": "Darjah ke radian"
+      },
+      "back": {
+        "en": "× π/180",
+        "bm": "× π/180"
+      }
+    },
+    {
+      "id": "f5addmath-01-f03",
+      "subtopicId": "f5addmath-01-02",
+      "front": {
+        "en": "Arc length",
+        "bm": "Panjang lengkok"
+      },
+      "back": {
+        "en": "s = rθ",
+        "bm": "s = jθ"
+      }
+    },
+    {
+      "id": "f5addmath-01-f04",
+      "subtopicId": "f5addmath-01-03",
+      "front": {
+        "en": "Sector area",
+        "bm": "Luas sektor"
+      },
+      "back": {
+        "en": "A = ½r²θ",
+        "bm": "L = ½j²θ"
+      }
+    },
+    {
+      "id": "f5addmath-01-f05",
+      "subtopicId": "f5addmath-01-04",
+      "front": {
+        "en": "Segment area",
+        "bm": "Luas tembereng"
+      },
+      "back": {
+        "en": "½r²(θ − sin θ)",
+        "bm": "½j²(θ − sin θ)"
+      }
+    },
+    {
+      "id": "f5addmath-01-f06",
+      "subtopicId": "f5addmath-01-04",
+      "front": {
+        "en": "Chord length",
+        "bm": "Panjang perentas"
+      },
+      "back": {
+        "en": "2r sin(θ/2)",
+        "bm": "2j sin(θ/2)"
+      }
+    }
+  ]
+}

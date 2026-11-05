@@ -1,0 +1,245 @@
+{
+  "chapterId": "f5phy-02",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-02-01": {
+      "keyPoints": [
+        {
+          "en": "P = hρg; it does not depend on container shape.",
+          "bm": "P = hρg; tidak bergantung pada bentuk bekas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Depth",
+            "bm": "Kedalaman"
+          },
+          "meaning": {
+            "en": "Distance below the surface.",
+            "bm": "Jarak dari permukaan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Pressure doubles when depth…",
+          "bm": "Tekanan berganda apabila kedalaman…"
+        },
+        "answer": {
+          "en": "doubles",
+          "bm": "berganda"
+        }
+      },
+      "tip": {
+        "en": "Use SI units: m, kg/m³.",
+        "bm": "Guna unit SI: m, kg/m³."
+      }
+    },
+    "f5phy-02-02": {
+      "keyPoints": [
+        {
+          "en": "Air weight causes pressure.",
+          "bm": "Berat udara menyebabkan tekanan."
+        },
+        {
+          "en": "It falls with altitude.",
+          "bm": "Ia berkurang dengan altitud."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Barometer",
+            "bm": "Barometer"
+          },
+          "meaning": {
+            "en": "Measures atmospheric pressure.",
+            "bm": "Mengukur tekanan atmosfera."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Standard pressure in cm Hg?",
+          "bm": "Tekanan piawai dalam cm Hg?"
+        },
+        "answer": {
+          "en": "76",
+          "bm": "76"
+        }
+      },
+      "tip": {
+        "en": "Add atmospheric pressure for total pressure.",
+        "bm": "Tambah tekanan atmosfera untuk jumlah."
+      }
+    },
+    "f5phy-02-03": {
+      "keyPoints": [
+        {
+          "en": "Gas molecules collide with walls.",
+          "bm": "Molekul gas berlanggar dengan dinding."
+        },
+        {
+          "en": "Measured with a manometer or Bourdon gauge.",
+          "bm": "Diukur dengan manometer atau tolok Bourdon."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Manometer",
+            "bm": "Manometer"
+          },
+          "meaning": {
+            "en": "U-tube gas pressure meter.",
+            "bm": "Alat tiub-U tekanan gas."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Compress a gas at fixed T: pressure?",
+          "bm": "Mampat gas pada T tetap: tekanan?"
+        },
+        "answer": {
+          "en": "Increases",
+          "bm": "Bertambah"
+        }
+      },
+      "tip": {
+        "en": "Keep the same units on both sides.",
+        "bm": "Kekalkan unit sama di kedua-dua belah."
+      }
+    },
+    "f5phy-02-04": {
+      "keyPoints": [
+        {
+          "en": "Pressure is transmitted equally.",
+          "bm": "Tekanan dipindahkan sama rata."
+        },
+        {
+          "en": "Force gain, distance loss.",
+          "bm": "Daya bertambah, jarak berkurang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Hydraulic",
+            "bm": "Hidraulik"
+          },
+          "meaning": {
+            "en": "Using a liquid under pressure.",
+            "bm": "Menggunakan cecair bertekanan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Use of Pascal's principle?",
+          "bm": "Kegunaan prinsip Pascal?"
+        },
+        "answer": {
+          "en": "Car brakes",
+          "bm": "Brek kereta"
+        }
+      },
+      "tip": {
+        "en": "Air bubbles spoil hydraulic systems.",
+        "bm": "Gelembung udara merosakkan sistem hidraulik."
+      }
+    },
+    "f5phy-02-05": {
+      "keyPoints": [
+        {
+          "en": "Upthrust = weight of displaced fluid.",
+          "bm": "Daya apung = berat bendalir tersesar."
+        },
+        {
+          "en": "Floating: upthrust = weight.",
+          "bm": "Terapung: daya apung = berat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Displace",
+            "bm": "Sesar"
+          },
+          "meaning": {
+            "en": "Push aside.",
+            "bm": "Menolak ke tepi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Apparent weight?",
+          "bm": "Berat ketara?"
+        },
+        "answer": {
+          "en": "Real weight − upthrust",
+          "bm": "Berat sebenar − daya apung"
+        }
+      },
+      "tip": {
+        "en": "V is the submerged volume only.",
+        "bm": "V ialah isi padu tenggelam sahaja."
+      }
+    },
+    "f5phy-02-06": {
+      "keyPoints": [
+        {
+          "en": "Faster flow, lower pressure.",
+          "bm": "Aliran laju, tekanan rendah."
+        },
+        {
+          "en": "Used in wings and Venturi tubes.",
+          "bm": "Digunakan pada sayap dan tiub Venturi."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Lift",
+            "bm": "Daya angkat"
+          },
+          "meaning": {
+            "en": "Upward force on a wing.",
+            "bm": "Daya ke atas pada sayap."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/bernoulli.svg",
+          "alt": {
+            "en": "Faster flow in the narrow part means lower pressure.",
+            "bm": "Aliran laju di bahagian sempit bermakna tekanan rendah."
+          },
+          "caption": {
+            "en": "Faster flow in the narrow part means lower pressure.",
+            "bm": "Aliran laju di bahagian sempit bermakna tekanan rendah."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Narrow tube: speed?",
+          "bm": "Tiub sempit: laju?"
+        },
+        "answer": {
+          "en": "Higher",
+          "bm": "Lebih tinggi"
+        }
+      },
+      "tip": {
+        "en": "Explain with both speed and pressure.",
+        "bm": "Terangkan dengan laju dan tekanan."
+      }
+    }
+  }
+}

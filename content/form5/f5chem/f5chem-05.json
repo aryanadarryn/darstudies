@@ -1,0 +1,635 @@
+{
+  "chapterId": "f5chem-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Malaysia is a leading palm oil producer, and that same oil becomes soap, margarine and biodiesel.",
+      "bm": "Malaysia pengeluar utama minyak sawit, dan minyak itu menjadi sabun, marjerin dan biodiesel."
+    },
+    "bigIdeas": [
+      {
+        "en": "Oils and fats are esters of glycerol.",
+        "bm": "Minyak dan lemak ialah ester gliserol."
+      },
+      {
+        "en": "Soap and detergent clean through emulsification.",
+        "bm": "Sabun dan detergen mencuci melalui pengemulsian."
+      },
+      {
+        "en": "Additives, medicines and nanotech must be used safely.",
+        "bm": "Bahan tambah, ubat dan nanoteknologi mesti digunakan dengan selamat."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Function",
+            "bm": "Fungsi"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Preservative",
+              "bm": "Pengawet"
+            },
+            "cells": [
+              {
+                "en": "slow spoilage",
+                "bm": "melambatkan kerosakan"
+              },
+              {
+                "en": "sodium benzoate",
+                "bm": "natrium benzoat"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Antioxidant",
+              "bm": "Pengantioksida"
+            },
+            "cells": [
+              {
+                "en": "stop oxidation",
+                "bm": "menghalang pengoksidaan"
+              },
+              {
+                "en": "vitamin C",
+                "bm": "vitamin C"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Flavouring",
+              "bm": "Perisa"
+            },
+            "cells": [
+              {
+                "en": "add taste",
+                "bm": "menambah rasa"
+              },
+              {
+                "en": "MSG",
+                "bm": "MSG"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Stabiliser",
+              "bm": "Penstabil"
+            },
+            "cells": [
+              {
+                "en": "keep mixtures",
+                "bm": "mengekalkan campuran"
+              },
+              {
+                "en": "lecithin",
+                "bm": "lesitin"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Saponification",
+          "bm": "Saponifikasi"
+        },
+        "definition": {
+          "en": "Alkaline hydrolysis of fats to soap.",
+          "bm": "Hidrolisis lemak beralkali menjadi sabun."
+        }
+      },
+      {
+        "term": {
+          "en": "Antibiotic",
+          "bm": "Antibiotik"
+        },
+        "definition": {
+          "en": "Medicine that kills or slows bacteria.",
+          "bm": "Ubat yang membunuh atau melambatkan bakteria."
+        }
+      },
+      {
+        "term": {
+          "en": "Nanotechnology",
+          "bm": "Nanoteknologi"
+        },
+        "definition": {
+          "en": "Working with particles of 1–100 nm.",
+          "bm": "Bekerja dengan zarah 1–100 nm."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5chem-05-q01",
+      "subtopicId": "f5chem-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Oils differ from fats because oils are usually…",
+        "bm": "Minyak berbeza daripada lemak kerana minyak biasanya…"
+      },
+      "explanation": {
+        "en": "C=C bonds lower the melting point.",
+        "bm": "Ikatan C=C menurunkan takat lebur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "liquid and unsaturated",
+          "bm": "cecair dan tak tepu"
+        },
+        {
+          "en": "solid and saturated",
+          "bm": "pepejal dan tepu"
+        },
+        {
+          "en": "metals",
+          "bm": "logam"
+        },
+        {
+          "en": "gases",
+          "bm": "gas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q02",
+      "subtopicId": "f5chem-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Margarine is made through…",
+        "bm": "Marjerin dihasilkan melalui…"
+      },
+      "explanation": {
+        "en": "A nickel catalyst is used.",
+        "bm": "Mangkin nikel digunakan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "hydrogenation of oils",
+          "bm": "penghidrogenan minyak"
+        },
+        {
+          "en": "fermentation",
+          "bm": "penapaian"
+        },
+        {
+          "en": "electrolysis",
+          "bm": "elektrolisis"
+        },
+        {
+          "en": "distillation",
+          "bm": "penyulingan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q03",
+      "subtopicId": "f5chem-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Soap is made by reacting fat with…",
+        "bm": "Sabun dihasilkan dengan menindakbalaskan lemak dengan…"
+      },
+      "explanation": {
+        "en": "Saponification.",
+        "bm": "Saponifikasi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sodium hydroxide",
+          "bm": "natrium hidroksida"
+        },
+        {
+          "en": "hydrochloric acid",
+          "bm": "asid hidroklorik"
+        },
+        {
+          "en": "water alone",
+          "bm": "air sahaja"
+        },
+        {
+          "en": "salt alone",
+          "bm": "garam sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q04",
+      "subtopicId": "f5chem-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do detergents work better in hard water?",
+        "bm": "Mengapa detergen lebih berkesan dalam air liat?"
+      },
+      "explanation": {
+        "en": "Soap forms scum.",
+        "bm": "Sabun membentuk kekat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They do not form scum with Ca²⁺ or Mg²⁺",
+          "bm": "Ia tidak membentuk kekat dengan Ca²⁺ atau Mg²⁺"
+        },
+        {
+          "en": "They are stronger acids",
+          "bm": "Ia asid lebih kuat"
+        },
+        {
+          "en": "They contain gold",
+          "bm": "Ia mengandungi emas"
+        },
+        {
+          "en": "They do not dissolve",
+          "bm": "Ia tidak larut"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q05",
+      "subtopicId": "f5chem-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hydrophobic tail of soap…",
+        "bm": "Ekor hidrofobik sabun…"
+      },
+      "explanation": {
+        "en": "The head dissolves in water.",
+        "bm": "Kepala larut dalam air."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "dissolves in grease",
+          "bm": "larut dalam gris"
+        },
+        {
+          "en": "dissolves in water",
+          "bm": "larut dalam air"
+        },
+        {
+          "en": "gives colour",
+          "bm": "memberi warna"
+        },
+        {
+          "en": "is an ion",
+          "bm": "ialah ion"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q06",
+      "subtopicId": "f5chem-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sodium benzoate is a…",
+        "bm": "Natrium benzoat ialah…"
+      },
+      "explanation": {
+        "en": "It stops microbes.",
+        "bm": "Ia menghalang mikrob."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "preservative",
+          "bm": "pengawet"
+        },
+        {
+          "en": "colouring",
+          "bm": "pewarna"
+        },
+        {
+          "en": "sweetener",
+          "bm": "pemanis"
+        },
+        {
+          "en": "stabiliser",
+          "bm": "penstabil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q07",
+      "subtopicId": "f5chem-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Antioxidants in food…",
+        "bm": "Pengantioksida dalam makanan…"
+      },
+      "explanation": {
+        "en": "They stop oxidation of fats.",
+        "bm": "Ia menghalang pengoksidaan lemak."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "slow rancidity",
+          "bm": "melambatkan ketengikan"
+        },
+        {
+          "en": "add sugar",
+          "bm": "menambah gula"
+        },
+        {
+          "en": "add colour",
+          "bm": "menambah warna"
+        },
+        {
+          "en": "cause spoilage",
+          "bm": "menyebabkan kerosakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q08",
+      "subtopicId": "f5chem-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A risk from overuse of additives is…",
+        "bm": "Risiko penggunaan bahan tambah berlebihan ialah…"
+      },
+      "explanation": {
+        "en": "Read the labels.",
+        "bm": "Baca label."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "allergies and other health effects",
+          "bm": "alahan dan kesan kesihatan lain"
+        },
+        {
+          "en": "more vitamins",
+          "bm": "lebih vitamin"
+        },
+        {
+          "en": "better sleep",
+          "bm": "tidur lebih baik"
+        },
+        {
+          "en": "stronger bones",
+          "bm": "tulang lebih kuat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q09",
+      "subtopicId": "f5chem-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Antibiotics treat…",
+        "bm": "Antibiotik merawat…"
+      },
+      "explanation": {
+        "en": "They do not work on viruses.",
+        "bm": "Ia tidak berkesan pada virus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "bacterial infections",
+          "bm": "jangkitan bakteria"
+        },
+        {
+          "en": "all viruses",
+          "bm": "semua virus"
+        },
+        {
+          "en": "colds caused by viruses",
+          "bm": "selesema akibat virus"
+        },
+        {
+          "en": "broken bones",
+          "bm": "tulang patah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q10",
+      "subtopicId": "f5chem-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why finish an antibiotic course?",
+        "bm": "Mengapa menghabiskan kursus antibiotik?"
+      },
+      "explanation": {
+        "en": "Survivors may become resistant.",
+        "bm": "Yang terselamat mungkin rintang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "To prevent resistant bacteria",
+          "bm": "Mencegah bakteria rintang"
+        },
+        {
+          "en": "To use up the bottle",
+          "bm": "Untuk menghabiskan botol"
+        },
+        {
+          "en": "To gain weight",
+          "bm": "Untuk menambah berat"
+        },
+        {
+          "en": "To stop sleep",
+          "bm": "Untuk menghentikan tidur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q11",
+      "subtopicId": "f5chem-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an analgesic?",
+        "bm": "Yang manakah analgesik?"
+      },
+      "explanation": {
+        "en": "It relieves pain.",
+        "bm": "Ia melegakan sakit."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Paracetamol",
+          "bm": "Parasetamol"
+        },
+        {
+          "en": "Penicillin",
+          "bm": "Penisilin"
+        },
+        {
+          "en": "Insulin",
+          "bm": "Insulin"
+        },
+        {
+          "en": "Vitamin A",
+          "bm": "Vitamin A"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q12",
+      "subtopicId": "f5chem-05-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "A nanometre is…",
+        "bm": "Satu nanometer ialah…"
+      },
+      "explanation": {
+        "en": "One billionth of a metre.",
+        "bm": "Satu per bilion meter."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "10⁻⁹ m",
+          "bm": "10⁻⁹ m"
+        },
+        {
+          "en": "10⁻³ m",
+          "bm": "10⁻³ m"
+        },
+        {
+          "en": "10⁻⁶ m",
+          "bm": "10⁻⁶ m"
+        },
+        {
+          "en": "10⁹ m",
+          "bm": "10⁹ m"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q13",
+      "subtopicId": "f5chem-05-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do nanoparticles react so well?",
+        "bm": "Mengapa zarah nano sangat reaktif?"
+      },
+      "explanation": {
+        "en": "Surface area per volume rises.",
+        "bm": "Luas permukaan per isi padu naik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "They have a very large surface area",
+          "bm": "Luas permukaannya sangat besar"
+        },
+        {
+          "en": "They are heavy",
+          "bm": "Ia berat"
+        },
+        {
+          "en": "They are ionic only",
+          "bm": "Ia ion sahaja"
+        },
+        {
+          "en": "They have no atoms",
+          "bm": "Tiada atom"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q14",
+      "subtopicId": "f5chem-05-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Green technology in waste management aims to…",
+        "bm": "Teknologi hijau dalam pengurusan sisa bertujuan…"
+      },
+      "explanation": {
+        "en": "Example: palm oil mill effluent to biogas.",
+        "bm": "Contoh: efluen kilang sawit kepada biogas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reduce pollution and reuse waste",
+          "bm": "mengurangkan pencemaran dan mengguna semula sisa"
+        },
+        {
+          "en": "increase landfill",
+          "bm": "menambah tapak pelupusan"
+        },
+        {
+          "en": "burn all waste",
+          "bm": "membakar semua sisa"
+        },
+        {
+          "en": "dump in rivers",
+          "bm": "membuang ke sungai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-05-q15",
+      "subtopicId": "f5chem-05-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Palm oil mill effluent can be turned into…",
+        "bm": "Efluen kilang sawit boleh ditukar menjadi…"
+      },
+      "explanation": {
+        "en": "Bacteria digest it anaerobically.",
+        "bm": "Bakteria menghadamnya secara anaerob."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "biogas",
+          "bm": "biogas"
+        },
+        {
+          "en": "steel",
+          "bm": "keluli"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        },
+        {
+          "en": "gold",
+          "bm": "emas"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

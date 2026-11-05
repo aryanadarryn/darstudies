@@ -1,0 +1,162 @@
+{
+  "chapterId": "f5phy-03",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-03-01": {
+      "keyPoints": [
+        {
+          "en": "Charge flow makes current.",
+          "bm": "Aliran cas menghasilkan arus."
+        },
+        {
+          "en": "Electric field drives charge.",
+          "bm": "Medan elektrik menggerakkan cas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Coulomb",
+            "bm": "Coulomb"
+          },
+          "meaning": {
+            "en": "Unit of charge.",
+            "bm": "Unit cas."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "1 V means?",
+          "bm": "1 V bermaksud?"
+        },
+        "answer": {
+          "en": "1 J per coulomb",
+          "bm": "1 J per coulomb"
+        }
+      },
+      "tip": {
+        "en": "Time must be in seconds.",
+        "bm": "Masa mesti dalam saat."
+      }
+    },
+    "f5phy-03-02": {
+      "keyPoints": [
+        {
+          "en": "R = V/I.",
+          "bm": "R = V/I."
+        },
+        {
+          "en": "Long, thin, hot wires have more resistance.",
+          "bm": "Dawai panjang, nipis, panas lebih rintangan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Resistivity",
+            "bm": "Kerintangan"
+          },
+          "meaning": {
+            "en": "Property of the material.",
+            "bm": "Sifat bahan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Better conductor: Cu or nichrome?",
+          "bm": "Konduktor lebih baik: Cu atau nikrom?"
+        },
+        "answer": {
+          "en": "Copper",
+          "bm": "Kuprum"
+        }
+      },
+      "tip": {
+        "en": "Simplify parallel parts first.",
+        "bm": "Permudahkan bahagian selari dahulu."
+      }
+    },
+    "f5phy-03-03": {
+      "keyPoints": [
+        {
+          "en": "Terminal voltage falls as current rises.",
+          "bm": "Voltan terminal turun apabila arus naik."
+        },
+        {
+          "en": "Graph: V = −rI + E.",
+          "bm": "Graf: V = −rI + E."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Terminal voltage",
+            "bm": "Voltan terminal"
+          },
+          "meaning": {
+            "en": "Voltage across the cell in use.",
+            "bm": "Voltan merentasi sel semasa digunakan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Lost volts?",
+          "bm": "Voltan hilang?"
+        },
+        "answer": {
+          "en": "Ir",
+          "bm": "Ir"
+        }
+      },
+      "tip": {
+        "en": "Include r in the total resistance.",
+        "bm": "Masukkan r dalam jumlah rintangan."
+      }
+    },
+    "f5phy-03-04": {
+      "keyPoints": [
+        {
+          "en": "E = VIt.",
+          "bm": "E = VIt."
+        },
+        {
+          "en": "1 kWh = 3.6 × 10⁶ J.",
+          "bm": "1 kWj = 3.6 × 10⁶ J."
+        },
+        {
+          "en": "Efficient appliances save money.",
+          "bm": "Peralatan cekap menjimatkan wang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Efficiency",
+            "bm": "Kecekapan"
+          },
+          "meaning": {
+            "en": "Output ÷ input.",
+            "bm": "Output ÷ input."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Unit billed at home?",
+          "bm": "Unit dibilkan di rumah?"
+        },
+        "answer": {
+          "en": "kWh",
+          "bm": "kWj"
+        }
+      },
+      "tip": {
+        "en": "Use tariff rates from the question.",
+        "bm": "Guna kadar tarif dalam soalan."
+      }
+    }
+  }
+}

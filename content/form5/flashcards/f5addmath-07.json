@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-07",
+  "cards": [
+    {
+      "id": "f5addmath-07-f01",
+      "subtopicId": "f5addmath-07-01",
+      "front": {
+        "en": "At most",
+        "bm": "Paling banyak"
+      },
+      "back": {
+        "en": "≤",
+        "bm": "≤"
+      }
+    },
+    {
+      "id": "f5addmath-07-f02",
+      "subtopicId": "f5addmath-07-01",
+      "front": {
+        "en": "At least",
+        "bm": "Sekurang-kurangnya"
+      },
+      "back": {
+        "en": "≥",
+        "bm": "≥"
+      }
+    },
+    {
+      "id": "f5addmath-07-f03",
+      "subtopicId": "f5addmath-07-01",
+      "front": {
+        "en": "Solid vs dashed",
+        "bm": "Garis penuh dan putus-putus"
+      },
+      "back": {
+        "en": "≤ ≥ solid; < > dashed.",
+        "bm": "≤ ≥ penuh; < > putus-putus."
+      }
+    },
+    {
+      "id": "f5addmath-07-f04",
+      "subtopicId": "f5addmath-07-02",
+      "front": {
+        "en": "Feasible region",
+        "bm": "Rantau tersaur"
+      },
+      "back": {
+        "en": "Satisfies all constraints.",
+        "bm": "Memenuhi semua kekangan."
+      }
+    },
+    {
+      "id": "f5addmath-07-f05",
+      "subtopicId": "f5addmath-07-02",
+      "front": {
+        "en": "Objective function",
+        "bm": "Fungsi objektif"
+      },
+      "back": {
+        "en": "k = ax + by",
+        "bm": "k = ax + by"
+      }
+    },
+    {
+      "id": "f5addmath-07-f06",
+      "subtopicId": "f5addmath-07-02",
+      "front": {
+        "en": "Optimum",
+        "bm": "Optimum"
+      },
+      "back": {
+        "en": "At a vertex.",
+        "bm": "Di bucu."
+      }
+    }
+  ]
+}

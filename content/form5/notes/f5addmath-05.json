@@ -1,0 +1,139 @@
+{
+  "chapterId": "f5addmath-05",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-05-01": {
+      "keyPoints": [
+        {
+          "en": "Discrete variables are counted; continuous are measured.",
+          "bm": "Diskret dibilang; selanjar diukur."
+        },
+        {
+          "en": "Tabulate probabilities.",
+          "bm": "Jadualkan kebarangkalian."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Random variable",
+            "bm": "Pemboleh ubah rawak"
+          },
+          "meaning": {
+            "en": "Value from a chance event.",
+            "bm": "Nilai daripada peristiwa rawak."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Is a test score out of 100 discrete?",
+          "bm": "Adakah skor ujian daripada 100 diskret?"
+        },
+        "answer": {
+          "en": "Yes",
+          "bm": "Ya"
+        }
+      },
+      "tip": {
+        "en": "Check the sum is 1.",
+        "bm": "Semak jumlah ialah 1."
+      }
+    },
+    "f5addmath-05-02": {
+      "keyPoints": [
+        {
+          "en": "Fixed n, independent trials, constant p.",
+          "bm": "n tetap, cubaan bebas, p tetap."
+        },
+        {
+          "en": "q = 1 − p.",
+          "bm": "q = 1 − p."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Trial",
+            "bm": "Cubaan"
+          },
+          "meaning": {
+            "en": "One run of the experiment.",
+            "bm": "Satu kali eksperimen."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "B(10, 0.5) mean?",
+          "bm": "B(10, 0.5) min?"
+        },
+        "answer": {
+          "en": "5",
+          "bm": "5"
+        }
+      },
+      "tip": {
+        "en": "\"At least\" may use 1 minus P(0).",
+        "bm": "\"Sekurang-kurangnya\" boleh guna 1 tolak P(0)."
+      }
+    },
+    "f5addmath-05-03": {
+      "keyPoints": [
+        {
+          "en": "Convert X to Z.",
+          "bm": "Tukar X kepada Z."
+        },
+        {
+          "en": "Use the table and a sketch.",
+          "bm": "Guna jadual dan lakaran."
+        },
+        {
+          "en": "Total area under the curve is 1.",
+          "bm": "Jumlah luas di bawah lengkung ialah 1."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Standard normal",
+            "bm": "Normal piawai"
+          },
+          "meaning": {
+            "en": "μ = 0, σ = 1.",
+            "bm": "μ = 0, σ = 1."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/normal.svg",
+          "alt": {
+            "en": "The normal curve: about 68% lies within 1σ of the mean.",
+            "bm": "Lengkung normal: kira-kira 68% dalam 1σ dari min."
+          },
+          "caption": {
+            "en": "The normal curve: about 68% lies within 1σ of the mean.",
+            "bm": "Lengkung normal: kira-kira 68% dalam 1σ dari min."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "X = μ gives Z = ?",
+          "bm": "X = μ memberi Z = ?"
+        },
+        "answer": {
+          "en": "0",
+          "bm": "0"
+        }
+      },
+      "tip": {
+        "en": "Always sketch and shade.",
+        "bm": "Sentiasa lakar dan lorek."
+      }
+    }
+  }
+}

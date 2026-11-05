@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5math-02",
+  "cards": [
+    {
+      "id": "f5math-02-f01",
+      "subtopicId": "f5math-02-01",
+      "front": {
+        "en": "Order",
+        "bm": "Peringkat"
+      },
+      "back": {
+        "en": "Rows × columns.",
+        "bm": "Baris × lajur."
+      }
+    },
+    {
+      "id": "f5math-02-f02",
+      "subtopicId": "f5math-02-01",
+      "front": {
+        "en": "Equal matrices",
+        "bm": "Matriks sama"
+      },
+      "back": {
+        "en": "Same order and same elements.",
+        "bm": "Peringkat dan unsur sama."
+      }
+    },
+    {
+      "id": "f5math-02-f03",
+      "subtopicId": "f5math-02-02",
+      "front": {
+        "en": "AB exists when",
+        "bm": "AB wujud apabila"
+      },
+      "back": {
+        "en": "Columns of A = rows of B.",
+        "bm": "Lajur A = baris B."
+      }
+    },
+    {
+      "id": "f5math-02-f04",
+      "subtopicId": "f5math-02-02",
+      "front": {
+        "en": "Identity I",
+        "bm": "Identiti I"
+      },
+      "back": {
+        "en": "AI = IA = A",
+        "bm": "AI = IA = A"
+      }
+    },
+    {
+      "id": "f5math-02-f05",
+      "subtopicId": "f5math-02-02",
+      "front": {
+        "en": "Determinant",
+        "bm": "Penentu"
+      },
+      "back": {
+        "en": "ad − bc",
+        "bm": "ad − bc"
+      }
+    },
+    {
+      "id": "f5math-02-f06",
+      "subtopicId": "f5math-02-02",
+      "front": {
+        "en": "Inverse",
+        "bm": "Songsangan"
+      },
+      "back": {
+        "en": "1/(ad − bc) × [d −b; −c a]",
+        "bm": "1/(ad − bc) × [d −b; −c a]"
+      }
+    }
+  ]
+}

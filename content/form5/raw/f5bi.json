@@ -1,0 +1,231 @@
+{
+  "id": "f5bi",
+  "name": {
+    "en": "English Language",
+    "bm": "Bahasa Inggeris"
+  },
+  "short": {
+    "en": "English",
+    "bm": "English"
+  },
+  "color": "#4f46e5",
+  "source": "Skill-based chapters aligned to the Form 5 CEFR-aligned English syllabus. Exact textbook unit titles could not be confirmed online, so chapters are arranged by language skill. Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Tenses and Time",
+        "bm": "Tenses and Time"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Perfect Tenses",
+            "bm": "Perfect Tenses"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Future Forms",
+            "bm": "Future Forms"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Conditionals and Modals",
+        "bm": "Conditionals and Modals"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Conditionals",
+            "bm": "Conditionals"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Modal Verbs",
+            "bm": "Modal Verbs"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Passive and Reported Speech",
+        "bm": "Passive and Reported Speech"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Passive Voice",
+            "bm": "Passive Voice"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Reported Speech",
+            "bm": "Reported Speech"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Clauses and Linkers",
+        "bm": "Clauses and Linkers"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Relative Clauses",
+            "bm": "Relative Clauses"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Linkers",
+            "bm": "Linkers"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Vocabulary Building",
+        "bm": "Vocabulary Building"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Phrasal Verbs",
+            "bm": "Phrasal Verbs"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Collocations and Word Formation",
+            "bm": "Collocations and Word Formation"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Reading Skills",
+        "bm": "Reading Skills"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Skimming and Scanning",
+            "bm": "Skimming and Scanning"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Inference and Reference",
+            "bm": "Inference and Reference"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Writing Skills",
+        "bm": "Writing Skills"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Emails and Letters",
+            "bm": "Emails and Letters"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Essays, Articles and Reviews",
+            "bm": "Essays, Articles and Reviews"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Literature and Speaking",
+        "bm": "Literature and Speaking"
+      },
+      "theme": {
+        "en": "English Skills",
+        "bm": "Kemahiran Bahasa Inggeris"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Literature Elements",
+            "bm": "Literature Elements"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Speaking Skills",
+            "bm": "Speaking Skills"
+          }
+        }
+      ]
+    }
+  ]
+}

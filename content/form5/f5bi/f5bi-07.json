@@ -1,0 +1,384 @@
+{
+  "chapterId": "f5bi-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Writing well means knowing your reader. A message to a friend and a complaint to a company should not sound the same.",
+      "bm": "Writing well means knowing your reader. A message to a friend and a complaint to a company should not sound the same."
+    },
+    "bigIdeas": [
+      {
+        "en": "Match register to reader.",
+        "bm": "Match register to reader."
+      },
+      {
+        "en": "Organise ideas clearly.",
+        "bm": "Organise ideas clearly."
+      },
+      {
+        "en": "Each format has its own features.",
+        "bm": "Each format has its own features."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Format",
+          "bm": "Format"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Informal email",
+              "bm": "Informal email"
+            },
+            "detail": {
+              "en": "friendly, contractions",
+              "bm": "friendly, contractions"
+            }
+          },
+          {
+            "label": {
+              "en": "Formal email",
+              "bm": "Formal email"
+            },
+            "detail": {
+              "en": "polite, no slang",
+              "bm": "polite, no slang"
+            }
+          },
+          {
+            "label": {
+              "en": "Article",
+              "bm": "Article"
+            },
+            "detail": {
+              "en": "catchy title, engaging tone",
+              "bm": "catchy title, engaging tone"
+            }
+          },
+          {
+            "label": {
+              "en": "Review",
+              "bm": "Review"
+            },
+            "detail": {
+              "en": "opinion and recommendation",
+              "bm": "opinion and recommendation"
+            }
+          },
+          {
+            "label": {
+              "en": "Essay",
+              "bm": "Essay"
+            },
+            "detail": {
+              "en": "clear thesis and reasons",
+              "bm": "clear thesis and reasons"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Register",
+          "bm": "Register"
+        },
+        "definition": {
+          "en": "Formality level of language.",
+          "bm": "Formality level of language."
+        }
+      },
+      {
+        "term": {
+          "en": "Thesis",
+          "bm": "Thesis"
+        },
+        "definition": {
+          "en": "The main claim of an essay.",
+          "bm": "The main claim of an essay."
+        }
+      },
+      {
+        "term": {
+          "en": "Paragraph",
+          "bm": "Paragraph"
+        },
+        "definition": {
+          "en": "A group of sentences on one idea.",
+          "bm": "A group of sentences on one idea."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-07-q01",
+      "subtopicId": "f5bi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Formal email greeting:",
+        "bm": "Formal email greeting:"
+      },
+      "explanation": {
+        "en": "Polite.",
+        "bm": "Polite."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Dear Sir or Madam,",
+          "bm": "Dear Sir or Madam,"
+        },
+        {
+          "en": "Hey dude!",
+          "bm": "Hey dude!"
+        },
+        {
+          "en": "Yo there,",
+          "bm": "Yo there,"
+        },
+        {
+          "en": "Hiya mate,",
+          "bm": "Hiya mate,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q02",
+      "subtopicId": "f5bi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Closing for \"Dear Mr Tan\":",
+        "bm": "Closing for \"Dear Mr Tan\":"
+      },
+      "explanation": {
+        "en": "When the name is known.",
+        "bm": "When the name is known."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Yours sincerely,",
+          "bm": "Yours sincerely,"
+        },
+        {
+          "en": "Cheers,",
+          "bm": "Cheers,"
+        },
+        {
+          "en": "See ya,",
+          "bm": "See ya,"
+        },
+        {
+          "en": "Love,",
+          "bm": "Love,"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q03",
+      "subtopicId": "f5bi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Best formal request:",
+        "bm": "Best formal request:"
+      },
+      "explanation": {
+        "en": "Polite register.",
+        "bm": "Polite register."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "I would be grateful if you could reply soon.",
+          "bm": "I would be grateful if you could reply soon."
+        },
+        {
+          "en": "Reply fast!",
+          "bm": "Reply fast!"
+        },
+        {
+          "en": "Gimme an answer.",
+          "bm": "Gimme an answer."
+        },
+        {
+          "en": "Hurry up and write.",
+          "bm": "Hurry up and write."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q04",
+      "subtopicId": "f5bi-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A complaint email should…",
+        "bm": "A complaint email should…"
+      },
+      "explanation": {
+        "en": "Clear and calm.",
+        "bm": "Clear and calm."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "state the problem and request a solution",
+          "bm": "state the problem and request a solution"
+        },
+        {
+          "en": "insult the reader",
+          "bm": "insult the reader"
+        },
+        {
+          "en": "hide the problem",
+          "bm": "hide the problem"
+        },
+        {
+          "en": "use only slang",
+          "bm": "use only slang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q05",
+      "subtopicId": "f5bi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A review should include…",
+        "bm": "A review should include…"
+      },
+      "explanation": {
+        "en": "Tell readers what you think.",
+        "bm": "Tell readers what you think."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "opinion and recommendation",
+          "bm": "opinion and recommendation"
+        },
+        {
+          "en": "only a list of prices",
+          "bm": "only a list of prices"
+        },
+        {
+          "en": "no opinion",
+          "bm": "no opinion"
+        },
+        {
+          "en": "only a plot copy",
+          "bm": "only a plot copy"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q06",
+      "subtopicId": "f5bi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An engaging article often starts with…",
+        "bm": "An engaging article often starts with…"
+      },
+      "explanation": {
+        "en": "A hook.",
+        "bm": "A hook."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a question or surprising fact",
+          "bm": "a question or surprising fact"
+        },
+        {
+          "en": "a list of names",
+          "bm": "a list of names"
+        },
+        {
+          "en": "an apology",
+          "bm": "an apology"
+        },
+        {
+          "en": "the conclusion only",
+          "bm": "the conclusion only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q07",
+      "subtopicId": "f5bi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A good essay conclusion should…",
+        "bm": "A good essay conclusion should…"
+      },
+      "explanation": {
+        "en": "It rounds things off.",
+        "bm": "It rounds things off."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "restate the main idea and close",
+          "bm": "restate the main idea and close"
+        },
+        {
+          "en": "add entirely new points",
+          "bm": "add entirely new points"
+        },
+        {
+          "en": "be blank",
+          "bm": "be blank"
+        },
+        {
+          "en": "repeat the question only",
+          "bm": "repeat the question only"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-07-q08",
+      "subtopicId": "f5bi-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "For an opinion essay, you should…",
+        "bm": "For an opinion essay, you should…"
+      },
+      "explanation": {
+        "en": "Support your opinion.",
+        "bm": "Support your opinion."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "give reasons and examples",
+          "bm": "give reasons and examples"
+        },
+        {
+          "en": "only write one line",
+          "bm": "only write one line"
+        },
+        {
+          "en": "never use paragraphs",
+          "bm": "never use paragraphs"
+        },
+        {
+          "en": "avoid taking a side",
+          "bm": "avoid taking a side"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

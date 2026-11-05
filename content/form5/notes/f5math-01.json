@@ -1,0 +1,120 @@
+{
+  "chapterId": "f5math-01",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-01-01": {
+      "keyPoints": [
+        {
+          "en": "y ∝ xⁿ means y = kxⁿ.",
+          "bm": "y ∝ xⁿ bermaksud y = kxⁿ."
+        },
+        {
+          "en": "Graph y against xⁿ is a straight line.",
+          "bm": "Graf y melawan xⁿ ialah garis lurus."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "k",
+            "bm": "k"
+          },
+          "meaning": {
+            "en": "Constant of variation.",
+            "bm": "Pemalar ubahan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "y = 15 when x = 5. k?",
+          "bm": "y = 15 apabila x = 5. k?"
+        },
+        "answer": {
+          "en": "3",
+          "bm": "3"
+        }
+      },
+      "tip": {
+        "en": "Write the equation first.",
+        "bm": "Tulis persamaan dahulu."
+      }
+    },
+    "f5math-01-02": {
+      "keyPoints": [
+        {
+          "en": "y ∝ 1/xⁿ means y = k/xⁿ.",
+          "bm": "y ∝ 1/xⁿ bermaksud y = k/xⁿ."
+        },
+        {
+          "en": "As x rises, y falls.",
+          "bm": "Apabila x naik, y turun."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Inverse",
+            "bm": "Songsang"
+          },
+          "meaning": {
+            "en": "Opposite direction.",
+            "bm": "Arah bertentangan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "xy = 24, x = 6. y?",
+          "bm": "xy = 24, x = 6. y?"
+        },
+        "answer": {
+          "en": "4",
+          "bm": "4"
+        }
+      },
+      "tip": {
+        "en": "Multiply to find k, not divide.",
+        "bm": "Darab untuk mencari k, bukan bahagi."
+      }
+    },
+    "f5math-01-03": {
+      "keyPoints": [
+        {
+          "en": "Joint: multiply variables.",
+          "bm": "Tercantum: darab pemboleh ubah."
+        },
+        {
+          "en": "Combined: mix direct and inverse.",
+          "bm": "Bergabung: campuran langsung dan songsang."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Joint",
+            "bm": "Tercantum"
+          },
+          "meaning": {
+            "en": "Directly with two or more.",
+            "bm": "Langsung dengan dua atau lebih."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Equation if y ∝ x²/z?",
+          "bm": "Persamaan jika y ∝ x²/z?"
+        },
+        "answer": {
+          "en": "y = kx²/z",
+          "bm": "y = kx²/z"
+        }
+      },
+      "tip": {
+        "en": "Check k with a second pair if given.",
+        "bm": "Semak k dengan pasangan kedua jika diberi."
+      }
+    }
+  }
+}

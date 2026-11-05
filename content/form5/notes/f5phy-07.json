@@ -1,0 +1,150 @@
+{
+  "chapterId": "f5phy-07",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-07-01": {
+      "keyPoints": [
+        {
+          "en": "Energy is transferred in quanta.",
+          "bm": "Tenaga dipindahkan dalam kuantum."
+        },
+        {
+          "en": "Higher frequency means more energy per photon.",
+          "bm": "Frekuensi tinggi bermakna lebih tenaga per foton."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Quantum",
+            "bm": "Kuantum"
+          },
+          "meaning": {
+            "en": "A discrete packet of energy.",
+            "bm": "Paket tenaga diskret."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "UV or visible: higher E?",
+          "bm": "UV atau nampak: E lebih tinggi?"
+        },
+        "answer": {
+          "en": "UV",
+          "bm": "UV"
+        }
+      },
+      "tip": {
+        "en": "Convert nm to m first.",
+        "bm": "Tukar nm kepada m dahulu."
+      }
+    },
+    "f5phy-07-02": {
+      "keyPoints": [
+        {
+          "en": "Emission is instant above threshold.",
+          "bm": "Pancaran serta-merta melebihi ambang."
+        },
+        {
+          "en": "Used in solar cells and sensors.",
+          "bm": "Digunakan pada sel suria dan penderia."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Photoelectron",
+            "bm": "Fotoelektron"
+          },
+          "meaning": {
+            "en": "An electron freed by light.",
+            "bm": "Elektron dibebaskan oleh cahaya."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/q-solar.webp",
+          "alt": {
+            "en": "Solar panels make use of the photoelectric effect.",
+            "bm": "Panel solar memanfaatkan kesan fotoelektrik."
+          },
+          "caption": {
+            "en": "Solar panels make use of the photoelectric effect.",
+            "bm": "Panel solar memanfaatkan kesan fotoelektrik."
+          },
+          "credit": "Grendelkhan · CC BY-SA 4.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Dim UV or bright red on zinc?",
+          "bm": "UV malap atau merah terang pada zink?"
+        },
+        "answer": {
+          "en": "Dim UV",
+          "bm": "UV malap"
+        }
+      },
+      "tip": {
+        "en": "Separate intensity from frequency.",
+        "bm": "Asingkan keamatan daripada frekuensi."
+      }
+    },
+    "f5phy-07-03": {
+      "keyPoints": [
+        {
+          "en": "hf = W + Kₘₐₓ.",
+          "bm": "hf = W + Kₘₐₓ."
+        },
+        {
+          "en": "A graph gives h and W.",
+          "bm": "Graf memberi h dan W."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Stopping potential",
+            "bm": "Keupayaan penghenti"
+          },
+          "meaning": {
+            "en": "Voltage that stops the fastest electrons.",
+            "bm": "Voltan yang menghentikan elektron terlaju."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/photoelectric.svg",
+          "alt": {
+            "en": "Maximum kinetic energy against frequency.",
+            "bm": "Tenaga kinetik maksimum melawan frekuensi."
+          },
+          "caption": {
+            "en": "Maximum kinetic energy against frequency.",
+            "bm": "Tenaga kinetik maksimum melawan frekuensi."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "f = f₀: Kₘₐₓ?",
+          "bm": "f = f₀: Kₘₐₓ?"
+        },
+        "answer": {
+          "en": "0",
+          "bm": "0"
+        }
+      },
+      "tip": {
+        "en": "Check eV or J before calculating.",
+        "bm": "Semak eV atau J sebelum mengira."
+      }
+    }
+  }
+}

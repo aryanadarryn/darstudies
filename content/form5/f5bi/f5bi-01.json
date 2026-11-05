@@ -1,0 +1,388 @@
+{
+  "chapterId": "f5bi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "English tenses tell you more than time. They show whether an action is finished, ongoing or still connected to now.",
+      "bm": "English tenses tell you more than time. They show whether an action is finished, ongoing or still connected to now."
+    },
+    "bigIdeas": [
+      {
+        "en": "Present perfect links past and present.",
+        "bm": "Present perfect links past and present."
+      },
+      {
+        "en": "Past perfect shows the earlier of two past actions.",
+        "bm": "Past perfect shows the earlier of two past actions."
+      },
+      {
+        "en": "Future forms show plans, predictions and schedules.",
+        "bm": "Future forms show plans, predictions and schedules."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Form",
+            "bm": "Form"
+          },
+          {
+            "en": "Example",
+            "bm": "Example"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Present perfect",
+              "bm": "Present perfect"
+            },
+            "cells": [
+              {
+                "en": "have/has + V3",
+                "bm": "have/has + V3"
+              },
+              {
+                "en": "I have finished.",
+                "bm": "I have finished."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Past perfect",
+              "bm": "Past perfect"
+            },
+            "cells": [
+              {
+                "en": "had + V3",
+                "bm": "had + V3"
+              },
+              {
+                "en": "She had left.",
+                "bm": "She had left."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Present perfect continuous",
+              "bm": "Present perfect continuous"
+            },
+            "cells": [
+              {
+                "en": "have been + V-ing",
+                "bm": "have been + V-ing"
+              },
+              {
+                "en": "We have been waiting.",
+                "bm": "We have been waiting."
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Future perfect",
+              "bm": "Future perfect"
+            },
+            "cells": [
+              {
+                "en": "will have + V3",
+                "bm": "will have + V3"
+              },
+              {
+                "en": "They will have arrived.",
+                "bm": "They will have arrived."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Past participle",
+          "bm": "Past participle"
+        },
+        "definition": {
+          "en": "The V3 verb form, such as \"written\".",
+          "bm": "The V3 verb form, such as \"written\"."
+        }
+      },
+      {
+        "term": {
+          "en": "Time marker",
+          "bm": "Time marker"
+        },
+        "definition": {
+          "en": "Words like \"since\" and \"already\".",
+          "bm": "Words like \"since\" and \"already\"."
+        }
+      },
+      {
+        "term": {
+          "en": "Auxiliary",
+          "bm": "Auxiliary"
+        },
+        "definition": {
+          "en": "A helping verb.",
+          "bm": "A helping verb."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-01-q01",
+      "subtopicId": "f5bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "I ___ this film three times.",
+        "bm": "I ___ this film three times."
+      },
+      "explanation": {
+        "en": "Experience up to now.",
+        "bm": "Experience up to now."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "have seen",
+          "bm": "have seen"
+        },
+        {
+          "en": "saw yesterday",
+          "bm": "saw yesterday"
+        },
+        {
+          "en": "am seeing",
+          "bm": "am seeing"
+        },
+        {
+          "en": "seeing",
+          "bm": "seeing"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q02",
+      "subtopicId": "f5bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "By the time we arrived, the train ___.",
+        "bm": "By the time we arrived, the train ___."
+      },
+      "explanation": {
+        "en": "The earlier past action.",
+        "bm": "The earlier past action."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "had left",
+          "bm": "had left"
+        },
+        {
+          "en": "leaves",
+          "bm": "leaves"
+        },
+        {
+          "en": "has left",
+          "bm": "has left"
+        },
+        {
+          "en": "is leaving",
+          "bm": "is leaving"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q03",
+      "subtopicId": "f5bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "She has lived here ___ 2019.",
+        "bm": "She has lived here ___ 2019."
+      },
+      "explanation": {
+        "en": "\"Since\" is for a starting point.",
+        "bm": "\"Since\" is for a starting point."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "since",
+          "bm": "since"
+        },
+        {
+          "en": "for",
+          "bm": "for"
+        },
+        {
+          "en": "during",
+          "bm": "during"
+        },
+        {
+          "en": "at",
+          "bm": "at"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q04",
+      "subtopicId": "f5bi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "They ___ for two hours when the rain finally stopped.",
+        "bm": "They ___ for two hours when the rain finally stopped."
+      },
+      "explanation": {
+        "en": "Past perfect continuous.",
+        "bm": "Past perfect continuous."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "had been playing",
+          "bm": "had been playing"
+        },
+        {
+          "en": "are playing",
+          "bm": "are playing"
+        },
+        {
+          "en": "play",
+          "bm": "play"
+        },
+        {
+          "en": "have been played",
+          "bm": "have been played"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q05",
+      "subtopicId": "f5bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Look at those clouds! It ___ rain.",
+        "bm": "Look at those clouds! It ___ rain."
+      },
+      "explanation": {
+        "en": "A prediction from evidence.",
+        "bm": "A prediction from evidence."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "is going to",
+          "bm": "is going to"
+        },
+        {
+          "en": "was",
+          "bm": "was"
+        },
+        {
+          "en": "has",
+          "bm": "has"
+        },
+        {
+          "en": "had",
+          "bm": "had"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q06",
+      "subtopicId": "f5bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The bus ___ at 7:30 tomorrow, according to the timetable.",
+        "bm": "The bus ___ at 7:30 tomorrow, according to the timetable."
+      },
+      "explanation": {
+        "en": "Simple present for schedules.",
+        "bm": "Simple present for schedules."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "leaves",
+          "bm": "leaves"
+        },
+        {
+          "en": "left",
+          "bm": "left"
+        },
+        {
+          "en": "has left",
+          "bm": "has left"
+        },
+        {
+          "en": "leaving",
+          "bm": "leaving"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q07",
+      "subtopicId": "f5bi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "By next June, I ___ my SPM exams.",
+        "bm": "By next June, I ___ my SPM exams."
+      },
+      "explanation": {
+        "en": "Future perfect.",
+        "bm": "Future perfect."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "will have finished",
+          "bm": "will have finished"
+        },
+        {
+          "en": "finish",
+          "bm": "finish"
+        },
+        {
+          "en": "finished",
+          "bm": "finished"
+        },
+        {
+          "en": "have finish",
+          "bm": "have finish"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-01-q08",
+      "subtopicId": "f5bi-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "I ___ help you tomorrow, I promise. (one word)",
+        "bm": "I ___ help you tomorrow, I promise. (one word)"
+      },
+      "explanation": {
+        "en": "\"Will\" is used for promises.",
+        "bm": "\"Will\" is used for promises."
+      },
+      "difficulty": 2,
+      "answer": [
+        "will"
+      ]
+    }
+  ]
+}

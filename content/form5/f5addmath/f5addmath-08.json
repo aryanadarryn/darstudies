@@ -1,0 +1,445 @@
+{
+  "chapterId": "f5addmath-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Differentiate position and you get velocity; do it again and you get acceleration. Calculus was made for motion.",
+      "bm": "Bezakan kedudukan dan anda mendapat halaju; bezakan lagi dan anda mendapat pecutan. Kalkulus dicipta untuk gerakan."
+    },
+    "bigIdeas": [
+      {
+        "en": "v = ds/dt and a = dv/dt.",
+        "bm": "v = ds/dt dan a = dv/dt."
+      },
+      {
+        "en": "Integrate to go backwards.",
+        "bm": "Kamir untuk ke belakang."
+      },
+      {
+        "en": "Total distance differs from displacement.",
+        "bm": "Jumlah jarak berbeza daripada sesaran."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Displacement s",
+              "bm": "Sesaran s"
+            },
+            "detail": {
+              "en": "Position from O",
+              "bm": "Kedudukan dari O"
+            }
+          },
+          {
+            "title": {
+              "en": "Differentiate",
+              "bm": "Bezakan"
+            },
+            "detail": {
+              "en": "v = ds/dt",
+              "bm": "v = ds/dt"
+            }
+          },
+          {
+            "title": {
+              "en": "Differentiate",
+              "bm": "Bezakan"
+            },
+            "detail": {
+              "en": "a = dv/dt",
+              "bm": "a = dv/dt"
+            }
+          },
+          {
+            "title": {
+              "en": "Integrate back",
+              "bm": "Kamir semula"
+            },
+            "detail": {
+              "en": "s = ∫v dt",
+              "bm": "s = ∫v dt"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Displacement",
+          "bm": "Sesaran"
+        },
+        "definition": {
+          "en": "Position relative to a fixed point.",
+          "bm": "Kedudukan relatif kepada titik tetap."
+        }
+      },
+      {
+        "term": {
+          "en": "Velocity",
+          "bm": "Halaju"
+        },
+        "definition": {
+          "en": "Rate of change of displacement.",
+          "bm": "Kadar perubahan sesaran."
+        }
+      },
+      {
+        "term": {
+          "en": "Instantaneous rest",
+          "bm": "Pegun seketika"
+        },
+        "definition": {
+          "en": "v = 0 at an instant.",
+          "bm": "v = 0 pada satu ketika."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-v",
+      "f5-am-a"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "s = t² − 4t. Find when the particle is momentarily at rest.",
+        "bm": "s = t² − 4t. Cari bila zarah pegun seketika."
+      },
+      "steps": [
+        {
+          "en": "v = 2t − 4 = 0",
+          "bm": "v = 2t − 4 = 0"
+        }
+      ],
+      "answer": {
+        "en": "t = 2 s",
+        "bm": "t = 2 s"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-08-q01",
+      "subtopicId": "f5addmath-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t² − 4t. Find s at t = 5.",
+        "bm": "s = t² − 4t. Cari s pada t = 5."
+      },
+      "explanation": {
+        "en": "25 − 20.",
+        "bm": "25 − 20."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "m"
+    },
+    {
+      "id": "f5addmath-08-q02",
+      "subtopicId": "f5addmath-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t² − 4t. When does the particle return to O (t > 0)?",
+        "bm": "s = t² − 4t. Bila zarah kembali ke O (t > 0)?"
+      },
+      "explanation": {
+        "en": "t(t − 4) = 0.",
+        "bm": "t(t − 4) = 0."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0,
+      "unit": "s"
+    },
+    {
+      "id": "f5addmath-08-q03",
+      "subtopicId": "f5addmath-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t² − 4t. Find the total distance in the first 5 s.",
+        "bm": "s = t² − 4t. Cari jumlah jarak dalam 5 s pertama."
+      },
+      "explanation": {
+        "en": "|−4| + |5 − (−4)| = 4 + 9.",
+        "bm": "|−4| + |5 − (−4)| = 4 + 9."
+      },
+      "difficulty": 3,
+      "answer": 13,
+      "tolerance": 0,
+      "unit": "m"
+    },
+    {
+      "id": "f5addmath-08-q04",
+      "subtopicId": "f5addmath-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "v = 3t² − 6t. Find displacement from t = 0 to t = 3.",
+        "bm": "v = 3t² − 6t. Cari sesaran dari t = 0 hingga t = 3."
+      },
+      "explanation": {
+        "en": "[t³ − 3t²] = 27 − 27.",
+        "bm": "[t³ − 3t²] = 27 − 27."
+      },
+      "difficulty": 3,
+      "answer": 0,
+      "tolerance": 0,
+      "unit": "m"
+    },
+    {
+      "id": "f5addmath-08-q05",
+      "subtopicId": "f5addmath-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = 3t² + 2t. Find v at t = 2.",
+        "bm": "s = 3t² + 2t. Cari v pada t = 2."
+      },
+      "explanation": {
+        "en": "v = 6t + 2.",
+        "bm": "v = 6t + 2."
+      },
+      "difficulty": 1,
+      "answer": 14,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f5addmath-08-q06",
+      "subtopicId": "f5addmath-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = 1t² + 6t. Find v at t = 3.",
+        "bm": "s = 1t² + 6t. Cari v pada t = 3."
+      },
+      "explanation": {
+        "en": "v = 2t + 6.",
+        "bm": "v = 2t + 6."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f5addmath-08-q07",
+      "subtopicId": "f5addmath-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = 2t² − 4t. Find v at t = 5.",
+        "bm": "s = 2t² − 4t. Cari v pada t = 5."
+      },
+      "explanation": {
+        "en": "v = 4t − 4.",
+        "bm": "v = 4t − 4."
+      },
+      "difficulty": 2,
+      "answer": 16,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f5addmath-08-q08",
+      "subtopicId": "f5addmath-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t³ − 12t. Find when the particle is at instantaneous rest (t > 0).",
+        "bm": "s = t³ − 12t. Bila zarah pegun seketika (t > 0)?"
+      },
+      "explanation": {
+        "en": "3t² − 12 = 0.",
+        "bm": "3t² − 12 = 0."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0,
+      "unit": "s"
+    },
+    {
+      "id": "f5addmath-08-q09",
+      "subtopicId": "f5addmath-08-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "a = 2t, v = 3 at t = 0. Find v at t = 4.",
+        "bm": "a = 2t, v = 3 pada t = 0. Cari v pada t = 4."
+      },
+      "explanation": {
+        "en": "v = t² + 3.",
+        "bm": "v = t² + 3."
+      },
+      "difficulty": 3,
+      "answer": 19,
+      "tolerance": 0,
+      "unit": "m/s"
+    },
+    {
+      "id": "f5addmath-08-q10",
+      "subtopicId": "f5addmath-08-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "v = 5t + 2. Find the acceleration.",
+        "bm": "v = 5t + 2. Cari pecutan."
+      },
+      "explanation": {
+        "en": "dv/dt = 5.",
+        "bm": "dv/dt = 5."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f5addmath-08-q11",
+      "subtopicId": "f5addmath-08-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "v = t² − 3t. Find a at t = 4.",
+        "bm": "v = t² − 3t. Cari a pada t = 4."
+      },
+      "explanation": {
+        "en": "2t − 3.",
+        "bm": "2t − 3."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f5addmath-08-q12",
+      "subtopicId": "f5addmath-08-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t³ − 6t². Find a at t = 3.",
+        "bm": "s = t³ − 6t². Cari a pada t = 3."
+      },
+      "explanation": {
+        "en": "6t − 12.",
+        "bm": "6t − 12."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0,
+      "unit": "m/s²"
+    },
+    {
+      "id": "f5addmath-08-q13",
+      "subtopicId": "f5addmath-08-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "s = t³ − 6t². At what t is the velocity a minimum?",
+        "bm": "s = t³ − 6t². Pada t berapa halaju minimum?"
+      },
+      "explanation": {
+        "en": "a = 6t − 12 = 0.",
+        "bm": "a = 6t − 12 = 0."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0,
+      "unit": "s"
+    },
+    {
+      "id": "f5addmath-08-q14",
+      "subtopicId": "f5addmath-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Negative acceleration with positive velocity means the particle…",
+        "bm": "Pecutan negatif dengan halaju positif bermaksud zarah…"
+      },
+      "explanation": {
+        "en": "They act in opposite directions.",
+        "bm": "Bertindak pada arah bertentangan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "is slowing down",
+          "bm": "semakin perlahan"
+        },
+        {
+          "en": "is speeding up",
+          "bm": "semakin laju"
+        },
+        {
+          "en": "is at rest",
+          "bm": "pegun"
+        },
+        {
+          "en": "has reversed",
+          "bm": "telah berpatah balik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-08-q15",
+      "subtopicId": "f5addmath-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Velocity is the derivative of…",
+        "bm": "Halaju ialah terbitan…"
+      },
+      "explanation": {
+        "en": "v = ds/dt.",
+        "bm": "v = ds/dt."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "displacement",
+          "bm": "sesaran"
+        },
+        {
+          "en": "acceleration",
+          "bm": "pecutan"
+        },
+        {
+          "en": "time",
+          "bm": "masa"
+        },
+        {
+          "en": "mass",
+          "bm": "jisim"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-08-q16",
+      "subtopicId": "f5addmath-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Distance and displacement can differ because…",
+        "bm": "Jarak dan sesaran boleh berbeza kerana…"
+      },
+      "explanation": {
+        "en": "Displacement can cancel.",
+        "bm": "Sesaran boleh terbatal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a particle can reverse direction",
+          "bm": "zarah boleh berpatah balik"
+        },
+        {
+          "en": "units differ",
+          "bm": "unit berbeza"
+        },
+        {
+          "en": "time stops",
+          "bm": "masa berhenti"
+        },
+        {
+          "en": "acceleration is zero",
+          "bm": "pecutan sifar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

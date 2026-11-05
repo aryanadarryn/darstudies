@@ -1,0 +1,531 @@
+{
+  "chapterId": "f5math-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Zoom in on a photo and the shape stays the same while the size changes. That is enlargement, and honeycombs are natural tessellations.",
+      "bm": "Zum foto dan bentuknya kekal sementara saiz berubah. Itulah pembesaran, dan sarang lebah ialah teselasi semula jadi."
+    },
+    "bigIdeas": [
+      {
+        "en": "Congruent shapes are identical in shape and size.",
+        "bm": "Bentuk kongruen sama bentuk dan saiz."
+      },
+      {
+        "en": "Enlargement uses a centre and scale factor k.",
+        "bm": "Pembesaran menggunakan pusat dan faktor skala k."
+      },
+      {
+        "en": "Area scales by k².",
+        "bm": "Luas berubah mengikut k²."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Test",
+          "bm": "Ujian"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "SSS",
+              "bm": "SSS"
+            },
+            "detail": {
+              "en": "3 sides equal",
+              "bm": "3 sisi sama"
+            }
+          },
+          {
+            "label": {
+              "en": "SAS",
+              "bm": "SAS"
+            },
+            "detail": {
+              "en": "2 sides and the included angle",
+              "bm": "2 sisi dan sudut kandung"
+            }
+          },
+          {
+            "label": {
+              "en": "ASA",
+              "bm": "ASA"
+            },
+            "detail": {
+              "en": "2 angles and the included side",
+              "bm": "2 sudut dan sisi kandung"
+            }
+          },
+          {
+            "label": {
+              "en": "AAS",
+              "bm": "AAS"
+            },
+            "detail": {
+              "en": "2 angles and a side",
+              "bm": "2 sudut dan satu sisi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Scale factor",
+          "bm": "Faktor skala"
+        },
+        "definition": {
+          "en": "Image length ÷ object length.",
+          "bm": "Panjang imej ÷ panjang objek."
+        }
+      },
+      {
+        "term": {
+          "en": "Similar",
+          "bm": "Serupa"
+        },
+        "definition": {
+          "en": "Same shape, not always the same size.",
+          "bm": "Bentuk sama, saiz tidak semestinya sama."
+        }
+      },
+      {
+        "term": {
+          "en": "Tessellation",
+          "bm": "Teselasi"
+        },
+        "definition": {
+          "en": "Shapes that cover a plane without gaps.",
+          "bm": "Bentuk yang menutup satah tanpa ruang."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-enl-area"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "An object of area 6 cm² is enlarged with k = 3. Find the image area.",
+        "bm": "Objek seluas 6 cm² dibesarkan dengan k = 3. Cari luas imej."
+      },
+      "steps": [
+        {
+          "en": "Area of image = k² × area of object.",
+          "bm": "Luas imej = k² × luas objek."
+        },
+        {
+          "en": "9 × 6",
+          "bm": "9 × 6"
+        }
+      ],
+      "answer": {
+        "en": "54 cm²",
+        "bm": "54 cm²"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-05-q01",
+      "subtopicId": "f5math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is not a congruence test?",
+        "bm": "Yang manakah bukan ujian kekongruenan?"
+      },
+      "explanation": {
+        "en": "AAA shows similarity only.",
+        "bm": "AAA hanya menunjukkan keserupaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "AAA",
+          "bm": "AAA"
+        },
+        {
+          "en": "SSS",
+          "bm": "SSS"
+        },
+        {
+          "en": "SAS",
+          "bm": "SAS"
+        },
+        {
+          "en": "ASA",
+          "bm": "ASA"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q02",
+      "subtopicId": "f5math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Congruent triangles have…",
+        "bm": "Segi tiga kongruen mempunyai…"
+      },
+      "explanation": {
+        "en": "All parts match.",
+        "bm": "Semua bahagian sepadan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "same shape and size",
+          "bm": "bentuk dan saiz sama"
+        },
+        {
+          "en": "same shape only",
+          "bm": "bentuk sama sahaja"
+        },
+        {
+          "en": "same area only",
+          "bm": "luas sama sahaja"
+        },
+        {
+          "en": "different angles",
+          "bm": "sudut berbeza"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q03",
+      "subtopicId": "f5math-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "SSA does not always prove congruence because…",
+        "bm": "SSA tidak semestinya membuktikan kekongruenan kerana…"
+      },
+      "explanation": {
+        "en": "This is the ambiguous case.",
+        "bm": "Ini kes ambiguiti."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "it can give two different triangles",
+          "bm": "ia boleh menghasilkan dua segi tiga berbeza"
+        },
+        {
+          "en": "sides cannot be equal",
+          "bm": "sisi tidak boleh sama"
+        },
+        {
+          "en": "it is the same as SSS",
+          "bm": "ia sama dengan SSS"
+        },
+        {
+          "en": "angles do not matter",
+          "bm": "sudut tidak penting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q04",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Enlargement with k = 2. A side of 6 cm has image length?",
+        "bm": "Pembesaran dengan k = 2. Sisi 6 cm mempunyai panjang imej?"
+      },
+      "explanation": {
+        "en": "2 × 6.",
+        "bm": "2 × 6."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f5math-05-q05",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Enlargement with k = 3. A side of 5 cm has image length?",
+        "bm": "Pembesaran dengan k = 3. Sisi 5 cm mempunyai panjang imej?"
+      },
+      "explanation": {
+        "en": "3 × 5.",
+        "bm": "3 × 5."
+      },
+      "difficulty": 1,
+      "answer": 15,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f5math-05-q06",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Enlargement with k = 0.5. A side of 8 cm has image length?",
+        "bm": "Pembesaran dengan k = 0.5. Sisi 8 cm mempunyai panjang imej?"
+      },
+      "explanation": {
+        "en": "0.5 × 8.",
+        "bm": "0.5 × 8."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f5math-05-q07",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Enlargement with k = 1.5. A side of 4 cm has image length?",
+        "bm": "Pembesaran dengan k = 1.5. Sisi 4 cm mempunyai panjang imej?"
+      },
+      "explanation": {
+        "en": "1.5 × 4.",
+        "bm": "1.5 × 4."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0,
+      "unit": "cm"
+    },
+    {
+      "id": "f5math-05-q08",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Object area 5 cm², k = 2. Find the image area.",
+        "bm": "Luas objek 5 cm², k = 2. Cari luas imej."
+      },
+      "explanation": {
+        "en": "2² × 5.",
+        "bm": "2² × 5."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5math-05-q09",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Object area 4 cm², k = 3. Find the image area.",
+        "bm": "Luas objek 4 cm², k = 3. Cari luas imej."
+      },
+      "explanation": {
+        "en": "3² × 4.",
+        "bm": "3² × 4."
+      },
+      "difficulty": 2,
+      "answer": 36,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5math-05-q10",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Object area 2 cm², k = 4. Find the image area.",
+        "bm": "Luas objek 2 cm², k = 4. Cari luas imej."
+      },
+      "explanation": {
+        "en": "4² × 2.",
+        "bm": "4² × 2."
+      },
+      "difficulty": 2,
+      "answer": 32,
+      "tolerance": 0,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5math-05-q11",
+      "subtopicId": "f5math-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Object area 8 cm² and image area 72 cm². Find k (positive).",
+        "bm": "Luas objek 8 cm² dan luas imej 72 cm². Cari k (positif)."
+      },
+      "explanation": {
+        "en": "√(72 ÷ 8).",
+        "bm": "√(72 ÷ 8)."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-05-q12",
+      "subtopicId": "f5math-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "With negative scale factor k = −2, the image is…",
+        "bm": "Dengan faktor skala negatif k = −2, imej…"
+      },
+      "explanation": {
+        "en": "Size doubles; direction reverses.",
+        "bm": "Saiz berganda; arah terbalik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "on the opposite side of the centre and inverted",
+          "bm": "di sebelah bertentangan pusat dan terbalik"
+        },
+        {
+          "en": "smaller",
+          "bm": "lebih kecil"
+        },
+        {
+          "en": "on the same side",
+          "bm": "di sebelah yang sama"
+        },
+        {
+          "en": "unchanged",
+          "bm": "tidak berubah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q13",
+      "subtopicId": "f5math-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Combined transformation AB means…",
+        "bm": "Gabungan transformasi AB bermaksud…"
+      },
+      "explanation": {
+        "en": "Read from right to left.",
+        "bm": "Baca dari kanan ke kiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "do B first, then A",
+          "bm": "buat B dahulu, kemudian A"
+        },
+        {
+          "en": "do A first, then B",
+          "bm": "buat A dahulu, kemudian B"
+        },
+        {
+          "en": "do them together",
+          "bm": "buat serentak"
+        },
+        {
+          "en": "do only A",
+          "bm": "buat A sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q14",
+      "subtopicId": "f5math-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Two translations combined give…",
+        "bm": "Gabungan dua translasi menghasilkan…"
+      },
+      "explanation": {
+        "en": "Add the vectors.",
+        "bm": "Tambah vektor."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "one translation",
+          "bm": "satu translasi"
+        },
+        {
+          "en": "a rotation",
+          "bm": "putaran"
+        },
+        {
+          "en": "an enlargement",
+          "bm": "pembesaran"
+        },
+        {
+          "en": "nothing",
+          "bm": "tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q15",
+      "subtopicId": "f5math-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which regular polygon does not tessellate alone?",
+        "bm": "Poligon sekata manakah tidak teselasi sendirian?"
+      },
+      "explanation": {
+        "en": "108° does not divide 360°.",
+        "bm": "108° tidak membahagi 360°."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Pentagon",
+          "bm": "Pentagon"
+        },
+        {
+          "en": "Square",
+          "bm": "Segi empat sama"
+        },
+        {
+          "en": "Hexagon",
+          "bm": "Heksagon"
+        },
+        {
+          "en": "Equilateral triangle",
+          "bm": "Segi tiga sama sisi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-05-q16",
+      "subtopicId": "f5math-05-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Angles at a tessellation vertex sum to…",
+        "bm": "Sudut di bucu teselasi berjumlah…"
+      },
+      "explanation": {
+        "en": "No gaps, no overlaps.",
+        "bm": "Tiada ruang atau pertindihan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "360°",
+          "bm": "360°"
+        },
+        {
+          "en": "180°",
+          "bm": "180°"
+        },
+        {
+          "en": "90°",
+          "bm": "90°"
+        },
+        {
+          "en": "540°",
+          "bm": "540°"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

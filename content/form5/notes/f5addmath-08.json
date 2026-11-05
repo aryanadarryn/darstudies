@@ -1,0 +1,135 @@
+{
+  "chapterId": "f5addmath-08",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-08-01": {
+      "keyPoints": [
+        {
+          "en": "Displacement can be negative.",
+          "bm": "Sesaran boleh negatif."
+        },
+        {
+          "en": "For total distance, find when v = 0 first.",
+          "bm": "Bagi jumlah jarak, cari bila v = 0 dahulu."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Total distance",
+            "bm": "Jumlah jarak"
+          },
+          "meaning": {
+            "en": "Sum of all path lengths.",
+            "bm": "Hasil tambah semua panjang laluan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "s = 0 means?",
+          "bm": "s = 0 bermaksud?"
+        },
+        "answer": {
+          "en": "At the fixed point O",
+          "bm": "Di titik tetap O"
+        }
+      },
+      "tip": {
+        "en": "Sketch the motion on a line.",
+        "bm": "Lakar gerakan pada garis."
+      }
+    },
+    "f5addmath-08-02": {
+      "keyPoints": [
+        {
+          "en": "v > 0 moves right; v < 0 moves left.",
+          "bm": "v > 0 ke kanan; v < 0 ke kiri."
+        },
+        {
+          "en": "Integrate a to find v, with a constant.",
+          "bm": "Kamir a untuk mencari v, dengan pemalar."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Initial velocity",
+            "bm": "Halaju awal"
+          },
+          "meaning": {
+            "en": "v at t = 0.",
+            "bm": "v pada t = 0."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "v at t = 0 for v = 2t + 5?",
+          "bm": "v pada t = 0 bagi v = 2t + 5?"
+        },
+        "answer": {
+          "en": "5",
+          "bm": "5"
+        }
+      },
+      "tip": {
+        "en": "Use initial conditions to find c.",
+        "bm": "Guna syarat awal untuk mencari c."
+      }
+    },
+    "f5addmath-08-03": {
+      "keyPoints": [
+        {
+          "en": "a = 0 at maximum or minimum velocity.",
+          "bm": "a = 0 pada halaju maksimum atau minimum."
+        },
+        {
+          "en": "Same signs: speeding up.",
+          "bm": "Tanda sama: semakin laju."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Deceleration",
+            "bm": "Nyahpecutan"
+          },
+          "meaning": {
+            "en": "Slowing down.",
+            "bm": "Semakin perlahan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/kinematics.svg",
+          "alt": {
+            "en": "Displacement, velocity and acceleration against time.",
+            "bm": "Sesaran, halaju dan pecutan melawan masa."
+          },
+          "caption": {
+            "en": "Displacement, velocity and acceleration against time.",
+            "bm": "Sesaran, halaju dan pecutan melawan masa."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "a = 0 and v = 4: speed changing?",
+          "bm": "a = 0 dan v = 4: laju berubah?"
+        },
+        "answer": {
+          "en": "No",
+          "bm": "Tidak"
+        }
+      },
+      "tip": {
+        "en": "Learn the s → v → a chain.",
+        "bm": "Hafal rantai s → v → a."
+      }
+    }
+  }
+}

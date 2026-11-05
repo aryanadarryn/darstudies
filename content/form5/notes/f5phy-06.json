@@ -1,0 +1,110 @@
+{
+  "chapterId": "f5phy-06",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-06-01": {
+      "keyPoints": [
+        {
+          "en": "Decay is random and spontaneous.",
+          "bm": "Reputan rawak dan spontan."
+        },
+        {
+          "en": "Balance nucleon and proton numbers.",
+          "bm": "Seimbangkan nombor nukleon dan proton."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Isotope",
+            "bm": "Isotop"
+          },
+          "meaning": {
+            "en": "Same protons, different neutrons.",
+            "bm": "Proton sama, neutron berbeza."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/half-life.svg",
+          "alt": {
+            "en": "Activity halves every half-life.",
+            "bm": "Keaktifan berkurang separuh setiap separuh hayat."
+          },
+          "caption": {
+            "en": "Activity halves every half-life.",
+            "bm": "Keaktifan berkurang separuh setiap separuh hayat."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        },
+        {
+          "src": "img/f5/q-linac.webp",
+          "alt": {
+            "en": "A radiotherapy linear accelerator.",
+            "bm": "Pemecut linear radioterapi."
+          },
+          "caption": {
+            "en": "A radiotherapy linear accelerator.",
+            "bm": "Pemecut linear radioterapi."
+          },
+          "credit": "Narenfox · CC BY-SA 4.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linear_Accelerator_-_Elekta_Compact_model.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "²³⁸U α decay gives nucleon number?",
+          "bm": "²³⁸U reputan α memberi nombor nukleon?"
+        },
+        "answer": {
+          "en": "234",
+          "bm": "234"
+        }
+      },
+      "tip": {
+        "en": "Check both numbers balance.",
+        "bm": "Semak kedua-dua nombor seimbang."
+      }
+    },
+    "f5phy-06-02": {
+      "keyPoints": [
+        {
+          "en": "Mass defect becomes energy.",
+          "bm": "Cacat jisim menjadi tenaga."
+        },
+        {
+          "en": "Reactors have fuel, moderator, control rods and coolant.",
+          "bm": "Reaktor mempunyai bahan api, moderator, rod kawalan dan penyejuk."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Coolant",
+            "bm": "Penyejuk"
+          },
+          "meaning": {
+            "en": "Carries heat away.",
+            "bm": "Membawa haba keluar."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Advantage of nuclear power?",
+          "bm": "Kelebihan kuasa nuklear?"
+        },
+        "answer": {
+          "en": "Low carbon emissions",
+          "bm": "Pelepasan karbon rendah"
+        }
+      },
+      "tip": {
+        "en": "Use kg and m/s in E = mc².",
+        "bm": "Guna kg dan m/s dalam E = mc²."
+      }
+    }
+  }
+}

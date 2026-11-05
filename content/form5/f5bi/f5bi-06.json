@@ -1,0 +1,374 @@
+{
+  "chapterId": "f5bi-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "You don't have to read every word. Good readers know how to find what they need quickly.",
+      "bm": "You don't have to read every word. Good readers know how to find what they need quickly."
+    },
+    "bigIdeas": [
+      {
+        "en": "Skim for gist; scan for details.",
+        "bm": "Skim for gist; scan for details."
+      },
+      {
+        "en": "Inference means reading between the lines.",
+        "bm": "Inference means reading between the lines."
+      },
+      {
+        "en": "Reference words link ideas.",
+        "bm": "Reference words link ideas."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Skill",
+          "bm": "Skill"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Skimming",
+              "bm": "Skimming"
+            },
+            "detail": {
+              "en": "main idea",
+              "bm": "main idea"
+            }
+          },
+          {
+            "label": {
+              "en": "Scanning",
+              "bm": "Scanning"
+            },
+            "detail": {
+              "en": "specific details",
+              "bm": "specific details"
+            }
+          },
+          {
+            "label": {
+              "en": "Inferring",
+              "bm": "Inferring"
+            },
+            "detail": {
+              "en": "implied meaning",
+              "bm": "implied meaning"
+            }
+          },
+          {
+            "label": {
+              "en": "Referring",
+              "bm": "Referring"
+            },
+            "detail": {
+              "en": "what \"it\" or \"they\" means",
+              "bm": "what \"it\" or \"they\" means"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Gist",
+          "bm": "Gist"
+        },
+        "definition": {
+          "en": "The main idea.",
+          "bm": "The main idea."
+        }
+      },
+      {
+        "term": {
+          "en": "Inference",
+          "bm": "Inference"
+        },
+        "definition": {
+          "en": "A conclusion from clues.",
+          "bm": "A conclusion from clues."
+        }
+      },
+      {
+        "term": {
+          "en": "Topic sentence",
+          "bm": "Topic sentence"
+        },
+        "definition": {
+          "en": "The sentence stating the paragraph's point.",
+          "bm": "The sentence stating the paragraph's point."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-06-q01",
+      "subtopicId": "f5bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To find a date in a passage, you should…",
+        "bm": "To find a date in a passage, you should…"
+      },
+      "explanation": {
+        "en": "Look for specifics.",
+        "bm": "Look for specifics."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "scan",
+          "bm": "scan"
+        },
+        {
+          "en": "skim",
+          "bm": "skim"
+        },
+        {
+          "en": "translate",
+          "bm": "translate"
+        },
+        {
+          "en": "memorise",
+          "bm": "memorise"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q02",
+      "subtopicId": "f5bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To find the main idea quickly, you should…",
+        "bm": "To find the main idea quickly, you should…"
+      },
+      "explanation": {
+        "en": "Read for gist.",
+        "bm": "Read for gist."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "skim",
+          "bm": "skim"
+        },
+        {
+          "en": "scan",
+          "bm": "scan"
+        },
+        {
+          "en": "copy",
+          "bm": "copy"
+        },
+        {
+          "en": "paraphrase each word",
+          "bm": "paraphrase each word"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q03",
+      "subtopicId": "f5bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A paragraph's main idea is often in its…",
+        "bm": "A paragraph's main idea is often in its…"
+      },
+      "explanation": {
+        "en": "Usually near the start.",
+        "bm": "Usually near the start."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "topic sentence",
+          "bm": "topic sentence"
+        },
+        {
+          "en": "last comma",
+          "bm": "last comma"
+        },
+        {
+          "en": "footnote",
+          "bm": "footnote"
+        },
+        {
+          "en": "page number",
+          "bm": "page number"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q04",
+      "subtopicId": "f5bi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Best first step with a timed reading?",
+        "bm": "Best first step with a timed reading?"
+      },
+      "explanation": {
+        "en": "It focuses reading.",
+        "bm": "It focuses reading."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Read the questions, then scan",
+          "bm": "Read the questions, then scan"
+        },
+        {
+          "en": "Read every word twice",
+          "bm": "Read every word twice"
+        },
+        {
+          "en": "Answer randomly",
+          "bm": "Answer randomly"
+        },
+        {
+          "en": "Translate the passage",
+          "bm": "Translate the passage"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q05",
+      "subtopicId": "f5bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In \"Ali lost his pen. It was new.\", \"It\" refers to…",
+        "bm": "In \"Ali lost his pen. It was new.\", \"It\" refers to…"
+      },
+      "explanation": {
+        "en": "Reference word.",
+        "bm": "Reference word."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the pen",
+          "bm": "the pen"
+        },
+        {
+          "en": "Ali",
+          "bm": "Ali"
+        },
+        {
+          "en": "new",
+          "bm": "new"
+        },
+        {
+          "en": "lost",
+          "bm": "lost"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q06",
+      "subtopicId": "f5bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"She slammed the door and refused to speak.\" We can infer she is…",
+        "bm": "\"She slammed the door and refused to speak.\" We can infer she is…"
+      },
+      "explanation": {
+        "en": "Clues show mood.",
+        "bm": "Clues show mood."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "angry",
+          "bm": "angry"
+        },
+        {
+          "en": "sleepy",
+          "bm": "sleepy"
+        },
+        {
+          "en": "delighted",
+          "bm": "delighted"
+        },
+        {
+          "en": "hungry",
+          "bm": "hungry"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q07",
+      "subtopicId": "f5bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An unknown word's meaning is best guessed from…",
+        "bm": "An unknown word's meaning is best guessed from…"
+      },
+      "explanation": {
+        "en": "Surrounding words.",
+        "bm": "Surrounding words."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "context",
+          "bm": "context"
+        },
+        {
+          "en": "its length",
+          "bm": "its length"
+        },
+        {
+          "en": "its first letter",
+          "bm": "its first letter"
+        },
+        {
+          "en": "page colour",
+          "bm": "page colour"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-06-q08",
+      "subtopicId": "f5bi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Writer's attitude can be identified through…",
+        "bm": "Writer's attitude can be identified through…"
+      },
+      "explanation": {
+        "en": "Words like \"sadly\" reveal attitude.",
+        "bm": "Words like \"sadly\" reveal attitude."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "word choice and tone",
+          "bm": "word choice and tone"
+        },
+        {
+          "en": "font size",
+          "bm": "font size"
+        },
+        {
+          "en": "paper quality",
+          "bm": "paper quality"
+        },
+        {
+          "en": "margin width",
+          "bm": "margin width"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

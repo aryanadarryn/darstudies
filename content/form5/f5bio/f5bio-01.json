@@ -1,0 +1,407 @@
+{
+  "chapterId": "f5bio-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A tree can live for centuries because its growing tips and cambium keep making new cells.",
+      "bm": "Pokok boleh hidup berabad-abad kerana hujung pertumbuhan dan kambiumnya terus menghasilkan sel baharu."
+    },
+    "bigIdeas": [
+      {
+        "en": "Plant tissues are meristematic or permanent.",
+        "bm": "Tisu tumbuhan ialah meristem atau kekal."
+      },
+      {
+        "en": "Primary growth lengthens; secondary growth thickens.",
+        "bm": "Pertumbuhan primer memanjangkan; sekunder menebalkan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Function",
+            "bm": "Fungsi"
+          },
+          {
+            "en": "Feature",
+            "bm": "Ciri"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Parenchyma",
+              "bm": "Parenkima"
+            },
+            "cells": [
+              {
+                "en": "storage",
+                "bm": "simpanan"
+              },
+              {
+                "en": "thin walls",
+                "bm": "dinding nipis"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Collenchyma",
+              "bm": "Kolenkima"
+            },
+            "cells": [
+              {
+                "en": "flexible support",
+                "bm": "sokongan lentur"
+              },
+              {
+                "en": "uneven walls",
+                "bm": "dinding tak sekata"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Sclerenchyma",
+              "bm": "Sklerenkima"
+            },
+            "cells": [
+              {
+                "en": "rigid support",
+                "bm": "sokongan tegar"
+              },
+              {
+                "en": "lignin",
+                "bm": "lignin"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Meristem",
+          "bm": "Meristem"
+        },
+        "definition": {
+          "en": "Dividing plant tissue.",
+          "bm": "Tisu tumbuhan yang membahagi."
+        }
+      },
+      {
+        "term": {
+          "en": "Cambium",
+          "bm": "Kambium"
+        },
+        "definition": {
+          "en": "Lateral meristem causing thickening.",
+          "bm": "Meristem sisi yang menebalkan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-01-q01",
+      "subtopicId": "f5bio-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which tissue stores food?",
+        "bm": "Tisu manakah menyimpan makanan?"
+      },
+      "explanation": {
+        "en": "Thin walls and large vacuoles.",
+        "bm": "Dinding nipis dan vakuol besar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Parenchyma",
+          "bm": "Parenkima"
+        },
+        {
+          "en": "Xylem",
+          "bm": "Xilem"
+        },
+        {
+          "en": "Sclerenchyma",
+          "bm": "Sklerenkima"
+        },
+        {
+          "en": "Epidermis only",
+          "bm": "Epidermis sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q02",
+      "subtopicId": "f5bio-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Xylem transports…",
+        "bm": "Xilem mengangkut…"
+      },
+      "explanation": {
+        "en": "Phloem moves sugars.",
+        "bm": "Floem mengangkut gula."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "water and mineral salts",
+          "bm": "air dan garam mineral"
+        },
+        {
+          "en": "sucrose",
+          "bm": "sukrosa"
+        },
+        {
+          "en": "oxygen only",
+          "bm": "oksigen sahaja"
+        },
+        {
+          "en": "hormones only",
+          "bm": "hormon sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q03",
+      "subtopicId": "f5bio-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sclerenchyma gives strength because…",
+        "bm": "Sklerenkima memberi kekuatan kerana…"
+      },
+      "explanation": {
+        "en": "Mature cells are dead and rigid.",
+        "bm": "Sel matang mati dan tegar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "its walls have lignin",
+          "bm": "dindingnya berlignin"
+        },
+        {
+          "en": "it is alive and thin",
+          "bm": "hidup dan nipis"
+        },
+        {
+          "en": "it stores oil",
+          "bm": "ia menyimpan minyak"
+        },
+        {
+          "en": "it has chloroplasts",
+          "bm": "ada kloroplas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q04",
+      "subtopicId": "f5bio-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Apical meristem causes…",
+        "bm": "Meristem apeks menyebabkan…"
+      },
+      "explanation": {
+        "en": "At root and shoot tips.",
+        "bm": "Di hujung akar dan pucuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "increase in length",
+          "bm": "pertambahan panjang"
+        },
+        {
+          "en": "increase in width",
+          "bm": "pertambahan lebar"
+        },
+        {
+          "en": "leaf fall",
+          "bm": "daun gugur"
+        },
+        {
+          "en": "flowering only",
+          "bm": "pembungaan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q05",
+      "subtopicId": "f5bio-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Annual rings result from…",
+        "bm": "Gelang tahunan terhasil daripada…"
+      },
+      "explanation": {
+        "en": "Cambium makes new xylem.",
+        "bm": "Kambium membentuk xilem baharu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "secondary growth",
+          "bm": "pertumbuhan sekunder"
+        },
+        {
+          "en": "primary growth",
+          "bm": "pertumbuhan primer"
+        },
+        {
+          "en": "photosynthesis only",
+          "bm": "fotosintesis sahaja"
+        },
+        {
+          "en": "transpiration",
+          "bm": "transpirasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q06",
+      "subtopicId": "f5bio-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do monocots lack thick trunks like dicots?",
+        "bm": "Mengapa monokot tiada batang tebal seperti dikot?"
+      },
+      "explanation": {
+        "en": "So no true secondary growth.",
+        "bm": "Maka tiada pertumbuhan sekunder sebenar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "They have no vascular cambium",
+          "bm": "Tiada kambium vaskular"
+        },
+        {
+          "en": "They have no roots",
+          "bm": "Tiada akar"
+        },
+        {
+          "en": "They have no leaves",
+          "bm": "Tiada daun"
+        },
+        {
+          "en": "They grow only at night",
+          "bm": "Tumbuh pada malam sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q07",
+      "subtopicId": "f5bio-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The growth curve of annual plants is…",
+        "bm": "Lengkung pertumbuhan tumbuhan semusim ialah…"
+      },
+      "explanation": {
+        "en": "Slow, rapid, then plateau.",
+        "bm": "Perlahan, pesat, kemudian mendatar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "S-shaped",
+          "bm": "bentuk S"
+        },
+        {
+          "en": "a straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "W-shaped",
+          "bm": "bentuk W"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q08",
+      "subtopicId": "f5bio-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Biennial plants complete their life cycle in…",
+        "bm": "Tumbuhan dwimusim melengkapkan kitaran dalam…"
+      },
+      "explanation": {
+        "en": "Annual: one year.",
+        "bm": "Semusim: satu tahun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "two years",
+          "bm": "dua tahun"
+        },
+        {
+          "en": "one month",
+          "bm": "sebulan"
+        },
+        {
+          "en": "ten years",
+          "bm": "sepuluh tahun"
+        },
+        {
+          "en": "one day",
+          "bm": "sehari"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-01-q09",
+      "subtopicId": "f5bio-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Dry mass is the best growth measure because…",
+        "bm": "Jisim kering ukuran terbaik kerana…"
+      },
+      "explanation": {
+        "en": "But the plant must be killed.",
+        "bm": "Tetapi tumbuhan perlu dimatikan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "water content varies",
+          "bm": "kandungan air berubah"
+        },
+        {
+          "en": "it is the easiest",
+          "bm": "paling mudah"
+        },
+        {
+          "en": "the plant stays alive",
+          "bm": "tumbuhan kekal hidup"
+        },
+        {
+          "en": "it includes water",
+          "bm": "termasuk air"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-05",
+  "cards": [
+    {
+      "id": "f5addmath-05-f01",
+      "subtopicId": "f5addmath-05-01",
+      "front": {
+        "en": "Sum of probabilities",
+        "bm": "Jumlah kebarangkalian"
+      },
+      "back": {
+        "en": "Equals 1.",
+        "bm": "Sama dengan 1."
+      }
+    },
+    {
+      "id": "f5addmath-05-f02",
+      "subtopicId": "f5addmath-05-02",
+      "front": {
+        "en": "Binomial",
+        "bm": "Binomial"
+      },
+      "back": {
+        "en": "P(X = r) = ⁿCᵣ pʳ qⁿ⁻ʳ",
+        "bm": "P(X = r) = ⁿCᵣ pʳ qⁿ⁻ʳ"
+      }
+    },
+    {
+      "id": "f5addmath-05-f03",
+      "subtopicId": "f5addmath-05-02",
+      "front": {
+        "en": "Binomial mean",
+        "bm": "Min binomial"
+      },
+      "back": {
+        "en": "np",
+        "bm": "np"
+      }
+    },
+    {
+      "id": "f5addmath-05-f04",
+      "subtopicId": "f5addmath-05-02",
+      "front": {
+        "en": "Binomial SD",
+        "bm": "Sisihan binomial"
+      },
+      "back": {
+        "en": "√(npq)",
+        "bm": "√(npq)"
+      }
+    },
+    {
+      "id": "f5addmath-05-f05",
+      "subtopicId": "f5addmath-05-03",
+      "front": {
+        "en": "Z-score",
+        "bm": "Skor-Z"
+      },
+      "back": {
+        "en": "(X − μ)/σ",
+        "bm": "(X − μ)/σ"
+      }
+    },
+    {
+      "id": "f5addmath-05-f06",
+      "subtopicId": "f5addmath-05-03",
+      "front": {
+        "en": "Symmetry",
+        "bm": "Simetri"
+      },
+      "back": {
+        "en": "P(Z < −a) = P(Z > a)",
+        "bm": "P(Z < −a) = P(Z > a)"
+      }
+    }
+  ]
+}

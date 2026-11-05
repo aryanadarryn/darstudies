@@ -1,0 +1,1351 @@
+[
+ {
+  "id": "f5-var-direct",
+  "subtopicId": "f5math-01-01",
+  "latex": "y = kx",
+  "name": {
+   "en": "Direct variation",
+   "bm": "Ubahan langsung"
+  },
+  "symbols": [
+   {
+    "symbol": "k",
+    "meaning": {
+     "en": "constant of variation",
+     "bm": "pemalar ubahan"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "y increases in step with x.",
+   "bm": "y bertambah seiring dengan x."
+  },
+  "commonMistake": {
+   "en": "Forgetting to find k first.",
+   "bm": "Terlupa mencari k dahulu."
+  }
+ },
+ {
+  "id": "f5-var-inverse",
+  "subtopicId": "f5math-01-02",
+  "latex": "y = \\frac{k}{x}",
+  "name": {
+   "en": "Inverse variation",
+   "bm": "Ubahan songsang"
+  },
+  "symbols": [
+   {
+    "symbol": "k",
+    "meaning": {
+     "en": "constant of variation",
+     "bm": "pemalar ubahan"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "y falls as x rises.",
+   "bm": "y menurun apabila x meningkat."
+  }
+ },
+ {
+  "id": "f5-mat-det",
+  "subtopicId": "f5math-02-02",
+  "latex": "\\det A = ad - bc",
+  "name": {
+   "en": "Determinant of a 2×2 matrix",
+   "bm": "Penentu matriks 2×2"
+  },
+  "symbols": [
+   {
+    "symbol": "a, b, c, d",
+    "meaning": {
+     "en": "matrix elements",
+     "bm": "unsur matriks"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Testing whether an inverse exists.",
+   "bm": "Menguji kewujudan songsangan."
+  },
+  "commonMistake": {
+   "en": "If it equals 0, the inverse does not exist.",
+   "bm": "Jika sifar, songsangan tidak wujud."
+  }
+ },
+ {
+  "id": "f5-mat-inverse",
+  "subtopicId": "f5math-02-02",
+  "latex": "A^{-1} = \\frac{1}{ad-bc}\\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix}",
+  "name": {
+   "en": "Inverse of a 2×2 matrix",
+   "bm": "Songsangan matriks 2×2"
+  },
+  "symbols": [
+   {
+    "symbol": "a, b, c, d",
+    "meaning": {
+     "en": "matrix elements",
+     "bm": "unsur matriks"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Solving simultaneous equations by matrix.",
+   "bm": "Menyelesaikan persamaan serentak dengan matriks."
+  },
+  "commonMistake": {
+   "en": "Swap a and d; change signs of b and c.",
+   "bm": "Tukar a dan d; ubah tanda b dan c."
+  }
+ },
+ {
+  "id": "f5-ins-coins",
+  "subtopicId": "f5math-03-01",
+  "latex": "\\text{Paid} = \\left(\\frac{\\text{coverage}}{\\text{required}}\\right)\\times\\text{loss} - \\text{deductible}",
+  "name": {
+   "en": "Co-insurance payout",
+   "bm": "Bayaran ko-insurans"
+  },
+  "symbols": [
+   {
+    "symbol": "required",
+    "meaning": {
+     "en": "percentage × value of property",
+     "bm": "peratus × nilai harta"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Property is under-insured.",
+   "bm": "Harta diinsuranskan kurang."
+  }
+ },
+ {
+  "id": "f5-enl-area",
+  "subtopicId": "f5math-05-02",
+  "latex": "A' = k^2 A",
+  "name": {
+   "en": "Area under enlargement",
+   "bm": "Luas di bawah pembesaran"
+  },
+  "symbols": [
+   {
+    "symbol": "k",
+    "meaning": {
+     "en": "scale factor",
+     "bm": "faktor skala"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Finding the image area.",
+   "bm": "Mencari luas imej."
+  },
+  "commonMistake": {
+   "en": "Using k instead of k².",
+   "bm": "Menggunakan k, bukan k²."
+  }
+ },
+ {
+  "id": "f5-trig-graph",
+  "subtopicId": "f5math-06-02",
+  "latex": "y = a\\sin bx + c",
+  "name": {
+   "en": "Sine graph",
+   "bm": "Graf sinus"
+  },
+  "symbols": [
+   {
+    "symbol": "a",
+    "meaning": {
+     "en": "amplitude",
+     "bm": "amplitud"
+    }
+   },
+   {
+    "symbol": "b",
+    "meaning": {
+     "en": "number of cycles in 360°",
+     "bm": "bilangan kitaran dalam 360°"
+    }
+   },
+   {
+    "symbol": "c",
+    "meaning": {
+     "en": "vertical shift",
+     "bm": "anjakan menegak"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Sketching trigonometric graphs.",
+   "bm": "Melakar graf trigonometri."
+  },
+  "toolId": "trig-ratios"
+ },
+ {
+  "id": "f5-var",
+  "subtopicId": "f5math-07-02",
+  "latex": "\\sigma^2 = \\frac{\\sum f x^2}{\\sum f} - \\bar{x}^2",
+  "name": {
+   "en": "Variance (grouped)",
+   "bm": "Varians (terkumpul)"
+  },
+  "symbols": [
+   {
+    "symbol": "f",
+    "meaning": {
+     "en": "frequency",
+     "bm": "kekerapan"
+    }
+   },
+   {
+    "symbol": "x",
+    "meaning": {
+     "en": "midpoint",
+     "bm": "titik tengah"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Spread of grouped data.",
+   "bm": "Serakan data terkumpul."
+  }
+ },
+ {
+  "id": "f5-sd",
+  "subtopicId": "f5math-07-02",
+  "latex": "\\sigma = \\sqrt{\\sigma^2}",
+  "name": {
+   "en": "Standard deviation",
+   "bm": "Sisihan piawai"
+  },
+  "symbols": [
+   {
+    "symbol": "\\sigma^2",
+    "meaning": {
+     "en": "variance",
+     "bm": "varians"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Comparing the spread of data.",
+   "bm": "Membandingkan serakan data."
+  },
+  "commonMistake": {
+   "en": "Forgetting to take the square root.",
+   "bm": "Terlupa mengambil punca kuasa dua."
+  }
+ },
+ {
+  "id": "f5-am-arc",
+  "subtopicId": "f5addmath-01-02",
+  "latex": "s = r\\theta",
+  "name": {
+   "en": "Arc length",
+   "bm": "Panjang lengkok"
+  },
+  "symbols": [
+   {
+    "symbol": "\\theta",
+    "meaning": {
+     "en": "angle in radians",
+     "bm": "sudut dalam radian"
+    }
+   },
+   {
+    "symbol": "r",
+    "meaning": {
+     "en": "radius",
+     "bm": "jejari"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "θ is in radians.",
+   "bm": "θ dalam radian."
+  },
+  "commonMistake": {
+   "en": "Using degrees.",
+   "bm": "Menggunakan darjah."
+  }
+ },
+ {
+  "id": "f5-am-sector",
+  "subtopicId": "f5addmath-01-03",
+  "latex": "A = \\frac{1}{2}r^2\\theta",
+  "name": {
+   "en": "Area of a sector",
+   "bm": "Luas sektor"
+  },
+  "symbols": [
+   {
+    "symbol": "\\theta",
+    "meaning": {
+     "en": "angle in radians",
+     "bm": "sudut dalam radian"
+    }
+   },
+   {
+    "symbol": "r",
+    "meaning": {
+     "en": "radius",
+     "bm": "jejari"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Finding a sector's area.",
+   "bm": "Mencari luas sektor."
+  }
+ },
+ {
+  "id": "f5-am-power",
+  "subtopicId": "f5addmath-02-02",
+  "latex": "\\frac{d}{dx}x^n = nx^{n-1}",
+  "name": {
+   "en": "Power rule",
+   "bm": "Petua kuasa"
+  },
+  "symbols": [
+   {
+    "symbol": "n",
+    "meaning": {
+     "en": "power",
+     "bm": "kuasa"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Differentiating a power of x.",
+   "bm": "Membezakan kuasa x."
+  }
+ },
+ {
+  "id": "f5-am-chain",
+  "subtopicId": "f5addmath-02-02",
+  "latex": "\\frac{dy}{dx} = \\frac{dy}{du}\\cdot\\frac{du}{dx}",
+  "name": {
+   "en": "Chain rule",
+   "bm": "Petua rantai"
+  },
+  "symbols": [
+   {
+    "symbol": "u",
+    "meaning": {
+     "en": "inner function",
+     "bm": "fungsi dalam"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Differentiating a composite function.",
+   "bm": "Membezakan fungsi gubahan."
+  },
+  "commonMistake": {
+   "en": "Forgetting the inner derivative.",
+   "bm": "Terlupa terbitan dalam."
+  }
+ },
+ {
+  "id": "f5-am-int",
+  "subtopicId": "f5addmath-03-02",
+  "latex": "\\int x^n\\,dx = \\frac{x^{n+1}}{n+1} + c",
+  "name": {
+   "en": "Power rule for integration",
+   "bm": "Petua kuasa pengamiran"
+  },
+  "symbols": [
+   {
+    "symbol": "c",
+    "meaning": {
+     "en": "constant of integration",
+     "bm": "pemalar pengamiran"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "n ≠ −1.",
+   "bm": "n ≠ −1."
+  },
+  "commonMistake": {
+   "en": "Leaving out +c.",
+   "bm": "Tertinggal +c."
+  }
+ },
+ {
+  "id": "f5-am-area",
+  "subtopicId": "f5addmath-03-04",
+  "latex": "A = \\int_a^b y\\,dx",
+  "name": {
+   "en": "Area under a curve",
+   "bm": "Luas di bawah lengkung"
+  },
+  "symbols": [
+   {
+    "symbol": "a, b",
+    "meaning": {
+     "en": "limits",
+     "bm": "had"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Area between the curve and the x-axis.",
+   "bm": "Luas antara lengkung dan paksi-x."
+  }
+ },
+ {
+  "id": "f5-am-vol",
+  "subtopicId": "f5addmath-03-04",
+  "latex": "V = \\pi\\int_a^b y^2\\,dx",
+  "name": {
+   "en": "Volume of revolution",
+   "bm": "Isi padu kisaran"
+  },
+  "symbols": [
+   {
+    "symbol": "y",
+    "meaning": {
+     "en": "function of x",
+     "bm": "fungsi x"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Rotation around the x-axis.",
+   "bm": "Putaran pada paksi-x."
+  },
+  "commonMistake": {
+   "en": "Forgetting to square y.",
+   "bm": "Terlupa kuasa dua y."
+  }
+ },
+ {
+  "id": "f5-am-perm",
+  "subtopicId": "f5addmath-04-01",
+  "latex": "{}^nP_r = \\frac{n!}{(n-r)!}",
+  "name": {
+   "en": "Permutations",
+   "bm": "Pilih atur"
+  },
+  "symbols": [
+   {
+    "symbol": "n",
+    "meaning": {
+     "en": "number of objects",
+     "bm": "bilangan objek"
+    }
+   },
+   {
+    "symbol": "r",
+    "meaning": {
+     "en": "number chosen",
+     "bm": "bilangan dipilih"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "When order matters.",
+   "bm": "Apabila susunan penting."
+  }
+ },
+ {
+  "id": "f5-am-comb",
+  "subtopicId": "f5addmath-04-02",
+  "latex": "{}^nC_r = \\frac{n!}{r!(n-r)!}",
+  "name": {
+   "en": "Combinations",
+   "bm": "Gabungan"
+  },
+  "symbols": [
+   {
+    "symbol": "n",
+    "meaning": {
+     "en": "number of objects",
+     "bm": "bilangan objek"
+    }
+   },
+   {
+    "symbol": "r",
+    "meaning": {
+     "en": "number chosen",
+     "bm": "bilangan dipilih"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "When order does not matter.",
+   "bm": "Apabila susunan tidak penting."
+  }
+ },
+ {
+  "id": "f5-am-bin",
+  "subtopicId": "f5addmath-05-02",
+  "latex": "P(X=r) = {}^nC_r\\,p^r q^{n-r}",
+  "name": {
+   "en": "Binomial probability",
+   "bm": "Kebarangkalian binomial"
+  },
+  "symbols": [
+   {
+    "symbol": "p",
+    "meaning": {
+     "en": "probability of success",
+     "bm": "kebarangkalian berjaya"
+    }
+   },
+   {
+    "symbol": "q",
+    "meaning": {
+     "en": "1 − p",
+     "bm": "1 − p"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Fixed independent trials with two outcomes.",
+   "bm": "Percubaan bebas tetap dengan dua kesudahan."
+  }
+ },
+ {
+  "id": "f5-am-z",
+  "subtopicId": "f5addmath-05-03",
+  "latex": "Z = \\frac{X-\\mu}{\\sigma}",
+  "name": {
+   "en": "Standard normal score",
+   "bm": "Skor normal piawai"
+  },
+  "symbols": [
+   {
+    "symbol": "\\mu",
+    "meaning": {
+     "en": "mean",
+     "bm": "min"
+    }
+   },
+   {
+    "symbol": "\\sigma",
+    "meaning": {
+     "en": "standard deviation",
+     "bm": "sisihan piawai"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Using normal distribution tables.",
+   "bm": "Menggunakan jadual taburan normal."
+  },
+  "commonMistake": {
+   "en": "Using variance instead of σ.",
+   "bm": "Menggunakan varians, bukan σ."
+  }
+ },
+ {
+  "id": "f5-am-id",
+  "subtopicId": "f5addmath-06-04",
+  "latex": "\\sin^2 x + \\cos^2 x = 1",
+  "name": {
+   "en": "Basic identity",
+   "bm": "Identiti asas"
+  },
+  "symbols": [
+   {
+    "symbol": "x",
+    "meaning": {
+     "en": "angle",
+     "bm": "sudut"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Simplifying and proving.",
+   "bm": "Memudahkan dan membuktikan."
+  }
+ },
+ {
+  "id": "f5-am-sin2",
+  "subtopicId": "f5addmath-06-05",
+  "latex": "\\sin 2A = 2\\sin A\\cos A",
+  "name": {
+   "en": "Double angle: sine",
+   "bm": "Sudut berganda: sinus"
+  },
+  "symbols": [
+   {
+    "symbol": "A",
+    "meaning": {
+     "en": "angle",
+     "bm": "sudut"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Rewriting sin 2A.",
+   "bm": "Menulis semula sin 2A."
+  }
+ },
+ {
+  "id": "f5-am-cos2",
+  "subtopicId": "f5addmath-06-05",
+  "latex": "\\cos 2A = 1 - 2\\sin^2 A",
+  "name": {
+   "en": "Double angle: cosine",
+   "bm": "Sudut berganda: kosinus"
+  },
+  "symbols": [
+   {
+    "symbol": "A",
+    "meaning": {
+     "en": "angle",
+     "bm": "sudut"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Rewriting cos 2A.",
+   "bm": "Menulis semula cos 2A."
+  }
+ },
+ {
+  "id": "f5-am-sinadd",
+  "subtopicId": "f5addmath-06-05",
+  "latex": "\\sin(A+B) = \\sin A\\cos B + \\cos A\\sin B",
+  "name": {
+   "en": "Addition formula",
+   "bm": "Rumus penambahan"
+  },
+  "symbols": [
+   {
+    "symbol": "A, B",
+    "meaning": {
+     "en": "angles",
+     "bm": "sudut"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Finding exact values of compound angles.",
+   "bm": "Mencari nilai tepat sudut majmuk."
+  }
+ },
+ {
+  "id": "f5-am-v",
+  "subtopicId": "f5addmath-08-02",
+  "latex": "v = \\frac{ds}{dt}",
+  "name": {
+   "en": "Velocity",
+   "bm": "Halaju"
+  },
+  "symbols": [
+   {
+    "symbol": "s",
+    "meaning": {
+     "en": "displacement",
+     "bm": "sesaran"
+    }
+   },
+   {
+    "symbol": "t",
+    "meaning": {
+     "en": "time",
+     "bm": "masa"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "From a displacement function.",
+   "bm": "Daripada fungsi sesaran."
+  },
+  "toolId": "motion-graph"
+ },
+ {
+  "id": "f5-am-a",
+  "subtopicId": "f5addmath-08-03",
+  "latex": "a = \\frac{dv}{dt}",
+  "name": {
+   "en": "Acceleration",
+   "bm": "Pecutan"
+  },
+  "symbols": [
+   {
+    "symbol": "v",
+    "meaning": {
+     "en": "velocity",
+     "bm": "halaju"
+    }
+   },
+   {
+    "symbol": "t",
+    "meaning": {
+     "en": "time",
+     "bm": "masa"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "From a velocity function.",
+   "bm": "Daripada fungsi halaju."
+  },
+  "toolId": "motion-graph"
+ },
+ {
+  "id": "f5-py-res",
+  "subtopicId": "f5phy-01-01",
+  "latex": "F = \\sqrt{F_1^2 + F_2^2}",
+  "name": {
+   "en": "Resultant of perpendicular forces",
+   "bm": "Paduan daya berserenjang"
+  },
+  "symbols": [
+   {
+    "symbol": "F_1, F_2",
+    "meaning": {
+     "en": "forces",
+     "bm": "daya"
+    },
+    "unit": "N"
+   }
+  ],
+  "whenToUse": {
+   "en": "Forces at right angles.",
+   "bm": "Daya pada sudut tegak."
+  }
+ },
+ {
+  "id": "f5-py-comp",
+  "subtopicId": "f5phy-01-02",
+  "latex": "F_x = F\\cos\\theta,\\; F_y = F\\sin\\theta",
+  "name": {
+   "en": "Components of a force",
+   "bm": "Komponen daya"
+  },
+  "symbols": [
+   {
+    "symbol": "\\theta",
+    "meaning": {
+     "en": "angle with the horizontal",
+     "bm": "sudut dengan ufuk"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Resolving a force.",
+   "bm": "Meleraikan daya."
+  }
+ },
+ {
+  "id": "f5-py-hooke",
+  "subtopicId": "f5phy-01-04",
+  "latex": "F = kx",
+  "name": {
+   "en": "Hooke's law",
+   "bm": "Hukum Hooke"
+  },
+  "symbols": [
+   {
+    "symbol": "k",
+    "meaning": {
+     "en": "spring constant",
+     "bm": "pemalar spring"
+    },
+    "unit": "N/m"
+   },
+   {
+    "symbol": "x",
+    "meaning": {
+     "en": "extension",
+     "bm": "pemanjangan"
+    },
+    "unit": "m"
+   }
+  ],
+  "whenToUse": {
+   "en": "Within the elastic limit.",
+   "bm": "Dalam had kenyal."
+  },
+  "commonMistake": {
+   "en": "Using total length instead of extension.",
+   "bm": "Menggunakan panjang penuh, bukan pemanjangan."
+  }
+ },
+ {
+  "id": "f5-py-epe",
+  "subtopicId": "f5phy-01-04",
+  "latex": "E = \\frac{1}{2}kx^2",
+  "name": {
+   "en": "Elastic potential energy",
+   "bm": "Tenaga keupayaan kenyal"
+  },
+  "symbols": [
+   {
+    "symbol": "k",
+    "meaning": {
+     "en": "spring constant",
+     "bm": "pemalar spring"
+    },
+    "unit": "N/m"
+   },
+   {
+    "symbol": "x",
+    "meaning": {
+     "en": "extension",
+     "bm": "pemanjangan"
+    },
+    "unit": "m"
+   }
+  ],
+  "whenToUse": {
+   "en": "Energy stored in a spring.",
+   "bm": "Tenaga tersimpan dalam spring."
+  }
+ },
+ {
+  "id": "f5-py-liq",
+  "subtopicId": "f5phy-02-01",
+  "latex": "P = h\\rho g",
+  "name": {
+   "en": "Liquid pressure",
+   "bm": "Tekanan cecair"
+  },
+  "symbols": [
+   {
+    "symbol": "h",
+    "meaning": {
+     "en": "depth",
+     "bm": "kedalaman"
+    },
+    "unit": "m"
+   },
+   {
+    "symbol": "\\rho",
+    "meaning": {
+     "en": "density",
+     "bm": "ketumpatan"
+    },
+    "unit": "kg/m³"
+   },
+   {
+    "symbol": "g",
+    "meaning": {
+     "en": "gravitational field strength",
+     "bm": "kekuatan medan graviti"
+    },
+    "unit": "N/kg"
+   }
+  ],
+  "whenToUse": {
+   "en": "Pressure at a depth.",
+   "bm": "Tekanan pada kedalaman."
+  }
+ },
+ {
+  "id": "f5-py-pascal",
+  "subtopicId": "f5phy-02-04",
+  "latex": "\\frac{F_1}{A_1} = \\frac{F_2}{A_2}",
+  "name": {
+   "en": "Pascal's principle",
+   "bm": "Prinsip Pascal"
+  },
+  "symbols": [
+   {
+    "symbol": "F",
+    "meaning": {
+     "en": "force",
+     "bm": "daya"
+    },
+    "unit": "N"
+   },
+   {
+    "symbol": "A",
+    "meaning": {
+     "en": "area",
+     "bm": "luas"
+    },
+    "unit": "m²"
+   }
+  ],
+  "whenToUse": {
+   "en": "Hydraulic systems.",
+   "bm": "Sistem hidraulik."
+  }
+ },
+ {
+  "id": "f5-py-buoy",
+  "subtopicId": "f5phy-02-05",
+  "latex": "F_b = \\rho V g",
+  "name": {
+   "en": "Buoyant force",
+   "bm": "Daya apungan"
+  },
+  "symbols": [
+   {
+    "symbol": "V",
+    "meaning": {
+     "en": "volume displaced",
+     "bm": "isi padu tersesar"
+    },
+    "unit": "m³"
+   }
+  ],
+  "whenToUse": {
+   "en": "Archimedes' principle.",
+   "bm": "Prinsip Archimedes."
+  }
+ },
+ {
+  "id": "f5-py-boyle",
+  "subtopicId": "f5phy-02-03",
+  "latex": "P_1V_1 = P_2V_2",
+  "name": {
+   "en": "Boyle's law",
+   "bm": "Hukum Boyle"
+  },
+  "symbols": [
+   {
+    "symbol": "P",
+    "meaning": {
+     "en": "pressure",
+     "bm": "tekanan"
+    },
+    "unit": "Pa"
+   },
+   {
+    "symbol": "V",
+    "meaning": {
+     "en": "volume",
+     "bm": "isi padu"
+    },
+    "unit": "m³"
+   }
+  ],
+  "whenToUse": {
+   "en": "Fixed gas mass at constant temperature.",
+   "bm": "Jisim gas tetap pada suhu malar."
+  }
+ },
+ {
+  "id": "f5-py-ohm",
+  "subtopicId": "f5phy-03-02",
+  "latex": "V = IR",
+  "name": {
+   "en": "Ohm's law",
+   "bm": "Hukum Ohm"
+  },
+  "symbols": [
+   {
+    "symbol": "V",
+    "meaning": {
+     "en": "potential difference",
+     "bm": "beza keupayaan"
+    },
+    "unit": "V"
+   },
+   {
+    "symbol": "I",
+    "meaning": {
+     "en": "current",
+     "bm": "arus"
+    },
+    "unit": "A"
+   },
+   {
+    "symbol": "R",
+    "meaning": {
+     "en": "resistance",
+     "bm": "rintangan"
+    },
+    "unit": "Ω"
+   }
+  ],
+  "whenToUse": {
+   "en": "Current, voltage and resistance.",
+   "bm": "Arus, voltan dan rintangan."
+  },
+  "toolId": "electricity-calc"
+ },
+ {
+  "id": "f5-py-emf",
+  "subtopicId": "f5phy-03-03",
+  "latex": "\\varepsilon = V + Ir",
+  "name": {
+   "en": "Electromotive force",
+   "bm": "Daya gerak elektrik"
+  },
+  "symbols": [
+   {
+    "symbol": "r",
+    "meaning": {
+     "en": "internal resistance",
+     "bm": "rintangan dalam"
+    },
+    "unit": "Ω"
+   }
+  ],
+  "whenToUse": {
+   "en": "Cells with internal resistance.",
+   "bm": "Sel dengan rintangan dalam."
+  }
+ },
+ {
+  "id": "f5-py-power",
+  "subtopicId": "f5phy-03-04",
+  "latex": "P = IV = I^2R",
+  "name": {
+   "en": "Electrical power",
+   "bm": "Kuasa elektrik"
+  },
+  "symbols": [
+   {
+    "symbol": "P",
+    "meaning": {
+     "en": "power",
+     "bm": "kuasa"
+    },
+    "unit": "W"
+   }
+  ],
+  "whenToUse": {
+   "en": "Rate of energy use.",
+   "bm": "Kadar penggunaan tenaga."
+  },
+  "toolId": "electricity-calc"
+ },
+ {
+  "id": "f5-py-rho",
+  "subtopicId": "f5phy-03-02",
+  "latex": "R = \\frac{\\rho l}{A}",
+  "name": {
+   "en": "Resistance of a wire",
+   "bm": "Rintangan wayar"
+  },
+  "symbols": [
+   {
+    "symbol": "\\rho",
+    "meaning": {
+     "en": "resistivity",
+     "bm": "kerintangan"
+    },
+    "unit": "Ω m"
+   },
+   {
+    "symbol": "l",
+    "meaning": {
+     "en": "length",
+     "bm": "panjang"
+    },
+    "unit": "m"
+   },
+   {
+    "symbol": "A",
+    "meaning": {
+     "en": "cross-sectional area",
+     "bm": "luas keratan rentas"
+    },
+    "unit": "m²"
+   }
+  ],
+  "whenToUse": {
+   "en": "Comparing wires.",
+   "bm": "Membandingkan wayar."
+  }
+ },
+ {
+  "id": "f5-py-trans",
+  "subtopicId": "f5phy-04-03",
+  "latex": "\\frac{V_s}{V_p} = \\frac{N_s}{N_p}",
+  "name": {
+   "en": "Transformer equation",
+   "bm": "Persamaan transformer"
+  },
+  "symbols": [
+   {
+    "symbol": "N",
+    "meaning": {
+     "en": "number of turns",
+     "bm": "bilangan lilitan"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Ideal transformers.",
+   "bm": "Transformer unggul."
+  }
+ },
+ {
+  "id": "f5-py-eff",
+  "subtopicId": "f5phy-04-03",
+  "latex": "\\eta = \\frac{V_sI_s}{V_pI_p}\\times 100\\%",
+  "name": {
+   "en": "Transformer efficiency",
+   "bm": "Kecekapan transformer"
+  },
+  "symbols": [
+   {
+    "symbol": "\\eta",
+    "meaning": {
+     "en": "efficiency",
+     "bm": "kecekapan"
+    }
+   }
+  ],
+  "whenToUse": {
+   "en": "Comparing output and input power.",
+   "bm": "Membandingkan kuasa keluaran dan masukan."
+  }
+ },
+ {
+  "id": "f5-py-gain",
+  "subtopicId": "f5phy-05-03",
+  "latex": "\\beta = \\frac{I_C}{I_B}",
+  "name": {
+   "en": "Transistor current gain",
+   "bm": "Gandaan arus transistor"
+  },
+  "symbols": [
+   {
+    "symbol": "I_C",
+    "meaning": {
+     "en": "collector current",
+     "bm": "arus pengumpul"
+    },
+    "unit": "A"
+   },
+   {
+    "symbol": "I_B",
+    "meaning": {
+     "en": "base current",
+     "bm": "arus tapak"
+    },
+    "unit": "A"
+   }
+  ],
+  "whenToUse": {
+   "en": "Transistor amplifiers.",
+   "bm": "Penguat transistor."
+  }
+ },
+ {
+  "id": "f5-py-ee",
+  "subtopicId": "f5phy-05-01",
+  "latex": "E = eV = \\frac{1}{2}mv^2",
+  "name": {
+   "en": "Energy of an accelerated electron",
+   "bm": "Tenaga elektron dipecutkan"
+  },
+  "symbols": [
+   {
+    "symbol": "e",
+    "meaning": {
+     "en": "electron charge",
+     "bm": "cas elektron"
+    },
+    "unit": "C"
+   },
+   {
+    "symbol": "V",
+    "meaning": {
+     "en": "potential difference",
+     "bm": "beza keupayaan"
+    },
+    "unit": "V"
+   }
+  ],
+  "whenToUse": {
+   "en": "Electrons in an electron gun.",
+   "bm": "Elektron dalam senapang elektron."
+  }
+ },
+ {
+  "id": "f5-py-emc",
+  "subtopicId": "f5phy-06-02",
+  "latex": "E = mc^2",
+  "name": {
+   "en": "Mass–energy relation",
+   "bm": "Hubungan jisim–tenaga"
+  },
+  "symbols": [
+   {
+    "symbol": "m",
+    "meaning": {
+     "en": "mass defect",
+     "bm": "cacat jisim"
+    },
+    "unit": "kg"
+   },
+   {
+    "symbol": "c",
+    "meaning": {
+     "en": "speed of light",
+     "bm": "laju cahaya"
+    },
+    "unit": "m/s"
+   }
+  ],
+  "whenToUse": {
+   "en": "Nuclear reactions.",
+   "bm": "Tindak balas nuklear."
+  },
+  "commonMistake": {
+   "en": "Using grams or u without converting.",
+   "bm": "Menggunakan gram atau u tanpa menukar."
+  }
+ },
+ {
+  "id": "f5-py-photon",
+  "subtopicId": "f5phy-07-01",
+  "latex": "E = hf",
+  "name": {
+   "en": "Photon energy",
+   "bm": "Tenaga foton"
+  },
+  "symbols": [
+   {
+    "symbol": "h",
+    "meaning": {
+     "en": "Planck's constant",
+     "bm": "pemalar Planck"
+    },
+    "unit": "J s"
+   },
+   {
+    "symbol": "f",
+    "meaning": {
+     "en": "frequency",
+     "bm": "frekuensi"
+    },
+    "unit": "Hz"
+   }
+  ],
+  "whenToUse": {
+   "en": "Energy of light quanta.",
+   "bm": "Tenaga kuantum cahaya."
+  }
+ },
+ {
+  "id": "f5-py-einstein",
+  "subtopicId": "f5phy-07-03",
+  "latex": "hf = W + \\frac{1}{2}mv^2",
+  "name": {
+   "en": "Einstein's photoelectric equation",
+   "bm": "Persamaan fotoelektrik Einstein"
+  },
+  "symbols": [
+   {
+    "symbol": "W",
+    "meaning": {
+     "en": "work function",
+     "bm": "fungsi kerja"
+    },
+    "unit": "J"
+   }
+  ],
+  "whenToUse": {
+   "en": "Photoelectric effect.",
+   "bm": "Kesan fotoelektrik."
+  }
+ },
+ {
+  "id": "f5-ch-cell",
+  "subtopicId": "f5chem-01-02",
+  "latex": "E^\\circ_{\\text{cell}} = E^\\circ_{\\text{cathode}} - E^\\circ_{\\text{anode}}",
+  "name": {
+   "en": "Standard cell voltage",
+   "bm": "Voltan sel piawai"
+  },
+  "symbols": [
+   {
+    "symbol": "E^\\circ",
+    "meaning": {
+     "en": "standard electrode potential",
+     "bm": "keupayaan elektrod piawai"
+    },
+    "unit": "V"
+   }
+  ],
+  "whenToUse": {
+   "en": "Voltaic cell calculations.",
+   "bm": "Pengiraan sel kimia."
+  },
+  "commonMistake": {
+   "en": "Multiplying E° by moles.",
+   "bm": "Mendarab E° dengan mol."
+  }
+ },
+ {
+  "id": "f5-ch-faraday",
+  "subtopicId": "f5chem-01-04",
+  "latex": "Q = It",
+  "name": {
+   "en": "Quantity of charge",
+   "bm": "Kuantiti cas"
+  },
+  "symbols": [
+   {
+    "symbol": "I",
+    "meaning": {
+     "en": "current",
+     "bm": "arus"
+    },
+    "unit": "A"
+   },
+   {
+    "symbol": "t",
+    "meaning": {
+     "en": "time",
+     "bm": "masa"
+    },
+    "unit": "s"
+   }
+  ],
+  "whenToUse": {
+   "en": "Electrolysis calculations.",
+   "bm": "Pengiraan elektrolisis."
+  }
+ },
+ {
+  "id": "f5-ch-q",
+  "subtopicId": "f5chem-03-02",
+  "latex": "Q = mc\\theta",
+  "name": {
+   "en": "Heat change",
+   "bm": "Perubahan haba"
+  },
+  "symbols": [
+   {
+    "symbol": "m",
+    "meaning": {
+     "en": "mass of solution",
+     "bm": "jisim larutan"
+    },
+    "unit": "g"
+   },
+   {
+    "symbol": "c",
+    "meaning": {
+     "en": "specific heat capacity",
+     "bm": "muatan haba tentu"
+    },
+    "unit": "J/g°C"
+   },
+   {
+    "symbol": "\\theta",
+    "meaning": {
+     "en": "temperature change",
+     "bm": "perubahan suhu"
+    },
+    "unit": "°C"
+   }
+  ],
+  "whenToUse": {
+   "en": "Heat of reaction.",
+   "bm": "Haba tindak balas."
+  },
+  "commonMistake": {
+   "en": "Using solute mass rather than solution mass.",
+   "bm": "Menggunakan jisim zat terlarut, bukan larutan."
+  }
+ }
+]

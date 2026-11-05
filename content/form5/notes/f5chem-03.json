@@ -1,0 +1,135 @@
+{
+  "chapterId": "f5chem-03",
+  "reviewed": false,
+  "subtopics": {
+    "f5chem-03-01": {
+      "keyPoints": [
+        {
+          "en": "Energy diagrams compare reactants and products.",
+          "bm": "Gambar rajah tenaga membandingkan bahan dan hasil."
+        },
+        {
+          "en": "Bond breaking takes in energy; forming gives it out.",
+          "bm": "Pemutusan menyerap tenaga; pembentukan membebaskan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "ΔH",
+            "bm": "ΔH"
+          },
+          "meaning": {
+            "en": "Heat of reaction.",
+            "bm": "Haba tindak balas."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/energy-profile.svg",
+          "alt": {
+            "en": "Energy profiles of exothermic and endothermic reactions.",
+            "bm": "Profil tenaga tindak balas eksotermik dan endotermik."
+          },
+          "caption": {
+            "en": "Energy profiles of exothermic and endothermic reactions.",
+            "bm": "Profil tenaga tindak balas eksotermik dan endotermik."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which sign for burning?",
+          "bm": "Tanda apa bagi pembakaran?"
+        },
+        "answer": {
+          "en": "Negative",
+          "bm": "Negatif"
+        }
+      },
+      "tip": {
+        "en": "Show ΔH on the diagram.",
+        "bm": "Tunjukkan ΔH pada rajah."
+      }
+    },
+    "f5chem-03-02": {
+      "keyPoints": [
+        {
+          "en": "Q = mcθ; then divide by moles.",
+          "bm": "Q = mcθ; kemudian bahagi mol."
+        },
+        {
+          "en": "State the sign and units.",
+          "bm": "Nyatakan tanda dan unit."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Specific heat capacity",
+            "bm": "Muatan haba tentu"
+          },
+          "meaning": {
+            "en": "Heat for 1 g to rise 1 °C.",
+            "bm": "Haba untuk 1 g naik 1 °C."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "m in Q = mcθ for solutions?",
+          "bm": "m dalam Q = mcθ bagi larutan?"
+        },
+        "answer": {
+          "en": "Total mass of solution",
+          "bm": "Jumlah jisim larutan"
+        }
+      },
+      "tip": {
+        "en": "Use a polystyrene cup to reduce heat loss.",
+        "bm": "Guna cawan polistirena untuk mengurangkan kehilangan haba."
+      }
+    },
+    "f5chem-03-03": {
+      "keyPoints": [
+        {
+          "en": "Hot and cold packs use chemistry.",
+          "bm": "Pek panas dan sejuk menggunakan kimia."
+        },
+        {
+          "en": "Compare fuels by energy and pollution.",
+          "bm": "Bandingkan bahan api dari segi tenaga dan pencemaran."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Biofuel",
+            "bm": "Biobahan api"
+          },
+          "meaning": {
+            "en": "Fuel from plants.",
+            "bm": "Bahan api daripada tumbuhan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Hot pack reaction type?",
+          "bm": "Jenis tindak balas pek panas?"
+        },
+        "answer": {
+          "en": "Exothermic",
+          "bm": "Eksotermik"
+        }
+      },
+      "tip": {
+        "en": "Give reasons with data.",
+        "bm": "Beri sebab berserta data."
+      }
+    }
+  }
+}

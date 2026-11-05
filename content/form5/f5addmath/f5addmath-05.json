@@ -1,0 +1,482 @@
+{
+  "chapterId": "f5addmath-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Test scores and adult heights form a bell curve. The normal distribution lets you say how unusual a result is.",
+      "bm": "Skor ujian dan ketinggian dewasa membentuk lengkung loceng. Taburan normal menunjukkan betapa luar biasa sesuatu keputusan."
+    },
+    "bigIdeas": [
+      {
+        "en": "A random variable assigns numbers to outcomes.",
+        "bm": "Pemboleh ubah rawak memberi nombor kepada kesudahan."
+      },
+      {
+        "en": "Binomial: fixed trials with two outcomes.",
+        "bm": "Binomial: cubaan tetap dengan dua kesudahan."
+      },
+      {
+        "en": "Normal: use Z = (X − μ)/σ.",
+        "bm": "Normal: guna Z = (X − μ)/σ."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Type",
+            "bm": "Jenis"
+          },
+          {
+            "en": "Mean",
+            "bm": "Min"
+          },
+          {
+            "en": "Variance",
+            "bm": "Varians"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Binomial",
+              "bm": "Binomial"
+            },
+            "cells": [
+              {
+                "en": "discrete",
+                "bm": "diskret"
+              },
+              {
+                "en": "np",
+                "bm": "np"
+              },
+              {
+                "en": "npq",
+                "bm": "npq"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Normal",
+              "bm": "Normal"
+            },
+            "cells": [
+              {
+                "en": "continuous",
+                "bm": "selanjar"
+              },
+              {
+                "en": "μ",
+                "bm": "μ"
+              },
+              {
+                "en": "σ²",
+                "bm": "σ²"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Discrete",
+          "bm": "Diskret"
+        },
+        "definition": {
+          "en": "Takes countable values.",
+          "bm": "Nilai boleh dibilang."
+        }
+      },
+      {
+        "term": {
+          "en": "Continuous",
+          "bm": "Selanjar"
+        },
+        "definition": {
+          "en": "Takes any value in a range.",
+          "bm": "Nilai apa-apa dalam julat."
+        }
+      },
+      {
+        "term": {
+          "en": "Z-score",
+          "bm": "Skor-Z"
+        },
+        "definition": {
+          "en": "Standard deviations from the mean.",
+          "bm": "Sisihan piawai dari min."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-bin",
+      "f5-am-z"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "X ~ B(5, 0.5). Find P(X = 2).",
+        "bm": "X ~ B(5, 0.5). Cari P(X = 2)."
+      },
+      "steps": [
+        {
+          "en": "⁵C₂ (0.5)² (0.5)³",
+          "bm": "⁵C₂ (0.5)² (0.5)³"
+        },
+        {
+          "en": "10 × 0.03125",
+          "bm": "10 × 0.03125"
+        }
+      ],
+      "answer": {
+        "en": "0.3125",
+        "bm": "0.3125"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-05-q01",
+      "subtopicId": "f5addmath-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Number of heads in 5 tosses is…",
+        "bm": "Bilangan kepala dalam 5 lambungan ialah…"
+      },
+      "explanation": {
+        "en": "Countable values.",
+        "bm": "Nilai boleh dibilang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "discrete",
+          "bm": "diskret"
+        },
+        {
+          "en": "continuous",
+          "bm": "selanjar"
+        },
+        {
+          "en": "constant",
+          "bm": "pemalar"
+        },
+        {
+          "en": "a formula",
+          "bm": "rumus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-05-q02",
+      "subtopicId": "f5addmath-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Height of a student is…",
+        "bm": "Ketinggian murid ialah…"
+      },
+      "explanation": {
+        "en": "It is measured.",
+        "bm": "Ia diukur."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "continuous",
+          "bm": "selanjar"
+        },
+        {
+          "en": "discrete",
+          "bm": "diskret"
+        },
+        {
+          "en": "constant",
+          "bm": "pemalar"
+        },
+        {
+          "en": "a matrix",
+          "bm": "matriks"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-05-q03",
+      "subtopicId": "f5addmath-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "The probabilities of a distribution are 0.2, 0.5 and k. Find k.",
+        "bm": "Kebarangkalian suatu taburan ialah 0.2, 0.5 dan k. Cari k."
+      },
+      "explanation": {
+        "en": "They sum to 1.",
+        "bm": "Jumlahnya 1."
+      },
+      "difficulty": 2,
+      "answer": 0.3,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q04",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(5, 0.5). Find P(X = 2) to 4 d.p.",
+        "bm": "X ~ B(5, 0.5). Cari P(X = 2) kepada 4 t.p."
+      },
+      "explanation": {
+        "en": "5C2 (0.5)^2 (0.5)^3.",
+        "bm": "5C2 (0.5)^2 (0.5)^3."
+      },
+      "difficulty": 2,
+      "answer": 0.3125,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q05",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(4, 0.5). Find P(X = 1) to 4 d.p.",
+        "bm": "X ~ B(4, 0.5). Cari P(X = 1) kepada 4 t.p."
+      },
+      "explanation": {
+        "en": "4C1 (0.5)^1 (0.5)^3.",
+        "bm": "4C1 (0.5)^1 (0.5)^3."
+      },
+      "difficulty": 2,
+      "answer": 0.25,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q06",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(6, 0.2). Find P(X = 2) to 4 d.p.",
+        "bm": "X ~ B(6, 0.2). Cari P(X = 2) kepada 4 t.p."
+      },
+      "explanation": {
+        "en": "6C2 (0.2)^2 (0.8)^4.",
+        "bm": "6C2 (0.2)^2 (0.8)^4."
+      },
+      "difficulty": 3,
+      "answer": 0.2458,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q07",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(5, 0.3). Find P(X = 0) to 4 d.p.",
+        "bm": "X ~ B(5, 0.3). Cari P(X = 0) kepada 4 t.p."
+      },
+      "explanation": {
+        "en": "5C0 (0.3)^0 (0.7)^5.",
+        "bm": "5C0 (0.3)^0 (0.7)^5."
+      },
+      "difficulty": 3,
+      "answer": 0.1681,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q08",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(20, 0.3). Find the mean.",
+        "bm": "X ~ B(20, 0.3). Cari min."
+      },
+      "explanation": {
+        "en": "np.",
+        "bm": "np."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q09",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(20, 0.3). Find the variance.",
+        "bm": "X ~ B(20, 0.3). Cari varians."
+      },
+      "explanation": {
+        "en": "npq.",
+        "bm": "npq."
+      },
+      "difficulty": 2,
+      "answer": 4.2,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q10",
+      "subtopicId": "f5addmath-05-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ B(n, 0.4) has mean 8. Find n.",
+        "bm": "X ~ B(n, 0.4) mempunyai min 8. Cari n."
+      },
+      "explanation": {
+        "en": "8 ÷ 0.4.",
+        "bm": "8 ÷ 0.4."
+      },
+      "difficulty": 3,
+      "answer": 20,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q11",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ N(50, 5²). Find Z when X = 60.",
+        "bm": "X ~ N(50, 5²). Cari Z apabila X = 60."
+      },
+      "explanation": {
+        "en": "(60 − 50) ÷ 5.",
+        "bm": "(60 − 50) ÷ 5."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q12",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ N(50, 10²). Find Z when X = 45.",
+        "bm": "X ~ N(50, 10²). Cari Z apabila X = 45."
+      },
+      "explanation": {
+        "en": "(45 − 50) ÷ 10.",
+        "bm": "(45 − 50) ÷ 10."
+      },
+      "difficulty": 1,
+      "answer": -0.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q13",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "X ~ N(60, 10²). Find Z when X = 75.",
+        "bm": "X ~ N(60, 10²). Cari Z apabila X = 75."
+      },
+      "explanation": {
+        "en": "(75 − 60) ÷ 10.",
+        "bm": "(75 − 60) ÷ 10."
+      },
+      "difficulty": 1,
+      "answer": 1.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q14",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Z = 1.2, μ = 50, σ = 5. Find X.",
+        "bm": "Z = 1.2, μ = 50, σ = 5. Cari X."
+      },
+      "explanation": {
+        "en": "50 + 1.2 × 5.",
+        "bm": "50 + 1.2 × 5."
+      },
+      "difficulty": 2,
+      "answer": 56,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q15",
+      "subtopicId": "f5addmath-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The normal curve is symmetrical about…",
+        "bm": "Lengkung normal simetri pada…"
+      },
+      "explanation": {
+        "en": "Mean, median and mode coincide.",
+        "bm": "Min, median dan mod sama."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the mean",
+          "bm": "min"
+        },
+        {
+          "en": "zero always",
+          "bm": "sentiasa sifar"
+        },
+        {
+          "en": "the variance",
+          "bm": "varians"
+        },
+        {
+          "en": "the x-axis",
+          "bm": "paksi-x"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-05-q16",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(Z < 0) for a standard normal distribution?",
+        "bm": "P(Z < 0) bagi taburan normal piawai?"
+      },
+      "explanation": {
+        "en": "Half the curve.",
+        "bm": "Separuh lengkung."
+      },
+      "difficulty": 2,
+      "answer": 0.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q17",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "P(Z > 1) = 0.1587. Find P(−1 < Z < 1).",
+        "bm": "P(Z > 1) = 0.1587. Cari P(−1 < Z < 1)."
+      },
+      "explanation": {
+        "en": "1 − 2(0.1587).",
+        "bm": "1 − 2(0.1587)."
+      },
+      "difficulty": 3,
+      "answer": 0.6826,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-05-q18",
+      "subtopicId": "f5addmath-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Marks ~ N(60, 10²). P(X > 70) = 0.1587. Of 500 students, how many score over 70? (nearest whole)",
+        "bm": "Markah ~ N(60, 10²). P(X > 70) = 0.1587. Daripada 500 murid, berapa mendapat lebih 70? (terdekat)"
+      },
+      "explanation": {
+        "en": "500 × 0.1587 = 79.35.",
+        "bm": "500 × 0.1587 = 79.35."
+      },
+      "difficulty": 3,
+      "answer": 79,
+      "tolerance": 0.01
+    }
+  ]
+}

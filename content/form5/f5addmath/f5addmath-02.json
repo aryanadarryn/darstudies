@@ -1,0 +1,485 @@
+{
+  "chapterId": "f5addmath-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Differentiation finds the rate of change. It tells you the steepest point on a road, the speed from a position, or the cheapest can to make.",
+      "bm": "Pembezaan mencari kadar perubahan. Ia menunjukkan titik paling curam, laju daripada kedudukan, atau tin paling murah."
+    },
+    "bigIdeas": [
+      {
+        "en": "The derivative is the gradient of a curve.",
+        "bm": "Terbitan ialah kecerunan lengkung."
+      },
+      {
+        "en": "Use power, product, quotient and chain rules.",
+        "bm": "Guna petua kuasa, hasil darab, hasil bahagi dan rantai."
+      },
+      {
+        "en": "Set dy/dx = 0 to find turning points.",
+        "bm": "Tetapkan dy/dx = 0 untuk mencari titik pusingan."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Function",
+            "bm": "Fungsi"
+          },
+          {
+            "en": "Derivative",
+            "bm": "Terbitan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Power",
+              "bm": "Kuasa"
+            },
+            "cells": [
+              {
+                "en": "axⁿ",
+                "bm": "axⁿ"
+              },
+              {
+                "en": "naxⁿ⁻¹",
+                "bm": "naxⁿ⁻¹"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Product",
+              "bm": "Hasil darab"
+            },
+            "cells": [
+              {
+                "en": "uv",
+                "bm": "uv"
+              },
+              {
+                "en": "u dv/dx + v du/dx",
+                "bm": "u dv/dx + v du/dx"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Quotient",
+              "bm": "Hasil bahagi"
+            },
+            "cells": [
+              {
+                "en": "u/v",
+                "bm": "u/v"
+              },
+              {
+                "en": "(v du/dx − u dv/dx)/v²",
+                "bm": "(v du/dx − u dv/dx)/v²"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Chain",
+              "bm": "Rantai"
+            },
+            "cells": [
+              {
+                "en": "y = f(u)",
+                "bm": "y = f(u)"
+              },
+              {
+                "en": "dy/du × du/dx",
+                "bm": "dy/du × du/dx"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Derivative",
+          "bm": "Terbitan"
+        },
+        "definition": {
+          "en": "The rate of change of y with respect to x.",
+          "bm": "Kadar perubahan y terhadap x."
+        }
+      },
+      {
+        "term": {
+          "en": "Stationary point",
+          "bm": "Titik pegun"
+        },
+        "definition": {
+          "en": "Where dy/dx = 0.",
+          "bm": "Tempat dy/dx = 0."
+        }
+      },
+      {
+        "term": {
+          "en": "Normal",
+          "bm": "Normal"
+        },
+        "definition": {
+          "en": "Line perpendicular to the tangent.",
+          "bm": "Garis serenjang dengan tangen."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-power",
+      "f5-am-chain"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the stationary point of y = x² − 6x + 5.",
+        "bm": "Cari titik pegun y = x² − 6x + 5."
+      },
+      "steps": [
+        {
+          "en": "dy/dx = 2x − 6 = 0, so x = 3.",
+          "bm": "dy/dx = 2x − 6 = 0, maka x = 3."
+        },
+        {
+          "en": "y = 9 − 18 + 5",
+          "bm": "y = 9 − 18 + 5"
+        }
+      ],
+      "answer": {
+        "en": "(3, −4), a minimum",
+        "bm": "(3, −4), minimum"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-02-q01",
+      "subtopicId": "f5addmath-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the limit of (x² − 4)/(x − 2) as x → 2.",
+        "bm": "Cari had (x² − 4)/(x − 2) apabila x → 2."
+      },
+      "explanation": {
+        "en": "Factorise: x + 2 → 4.",
+        "bm": "Faktorkan: x + 2 → 4."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q02",
+      "subtopicId": "f5addmath-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the limit of (x² − 9)/(x − 3) as x → 3.",
+        "bm": "Cari had (x² − 9)/(x − 3) apabila x → 3."
+      },
+      "explanation": {
+        "en": "x + 3 → 6.",
+        "bm": "x + 3 → 6."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q03",
+      "subtopicId": "f5addmath-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the limit of 3x + 2 as x → 4.",
+        "bm": "Cari had 3x + 2 apabila x → 4."
+      },
+      "explanation": {
+        "en": "Substitute.",
+        "bm": "Gantikan."
+      },
+      "difficulty": 2,
+      "answer": 14,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q04",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 3x^2. Find dy/dx at x = 2.",
+        "bm": "y = 3x^2. Cari dy/dx pada x = 2."
+      },
+      "explanation": {
+        "en": "6x^1 at x = 2.",
+        "bm": "6x^1 pada x = 2."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q05",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 5x^3. Find dy/dx at x = 1.",
+        "bm": "y = 5x^3. Cari dy/dx pada x = 1."
+      },
+      "explanation": {
+        "en": "15x^2 at x = 1.",
+        "bm": "15x^2 pada x = 1."
+      },
+      "difficulty": 1,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q06",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 2x^4. Find dy/dx at x = 1.",
+        "bm": "y = 2x^4. Cari dy/dx pada x = 1."
+      },
+      "explanation": {
+        "en": "8x^3 at x = 1.",
+        "bm": "8x^3 pada x = 1."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q07",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 4x^2. Find dy/dx at x = -1.",
+        "bm": "y = 4x^2. Cari dy/dx pada x = -1."
+      },
+      "explanation": {
+        "en": "8x^1 at x = -1.",
+        "bm": "8x^1 pada x = -1."
+      },
+      "difficulty": 1,
+      "answer": -8,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q08",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = (2x + 1)³. Find dy/dx at x = 1.",
+        "bm": "y = (2x + 1)³. Cari dy/dx pada x = 1."
+      },
+      "explanation": {
+        "en": "3(2x + 1)² × 2 = 54.",
+        "bm": "3(2x + 1)² × 2 = 54."
+      },
+      "difficulty": 2,
+      "answer": 54,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q09",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x²(x + 1). Find dy/dx at x = 2.",
+        "bm": "y = x²(x + 1). Cari dy/dx pada x = 2."
+      },
+      "explanation": {
+        "en": "3x² + 2x = 16.",
+        "bm": "3x² + 2x = 16."
+      },
+      "difficulty": 3,
+      "answer": 16,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q10",
+      "subtopicId": "f5addmath-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x/(x + 1). Find dy/dx at x = 1.",
+        "bm": "y = x/(x + 1). Cari dy/dx pada x = 1."
+      },
+      "explanation": {
+        "en": "1/(x + 1)² = ¼.",
+        "bm": "1/(x + 1)² = ¼."
+      },
+      "difficulty": 3,
+      "answer": 0.25,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-02-q11",
+      "subtopicId": "f5addmath-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x³. Find d²y/dx² at x = 2.",
+        "bm": "y = x³. Cari d²y/dx² pada x = 2."
+      },
+      "explanation": {
+        "en": "6x = 12.",
+        "bm": "6x = 12."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q12",
+      "subtopicId": "f5addmath-02-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = 2x⁴ − 3x. Find d²y/dx² at x = 1.",
+        "bm": "y = 2x⁴ − 3x. Cari d²y/dx² pada x = 1."
+      },
+      "explanation": {
+        "en": "24x² = 24.",
+        "bm": "24x² = 24."
+      },
+      "difficulty": 2,
+      "answer": 24,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q13",
+      "subtopicId": "f5addmath-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "At a stationary point, d²y/dx² > 0 means a…",
+        "bm": "Pada titik pegun, d²y/dx² > 0 bermaksud…"
+      },
+      "explanation": {
+        "en": "The curve opens up.",
+        "bm": "Lengkung terbuka ke atas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "minimum",
+          "bm": "minimum"
+        },
+        {
+          "en": "maximum",
+          "bm": "maksimum"
+        },
+        {
+          "en": "inflection only",
+          "bm": "lengkok balas sahaja"
+        },
+        {
+          "en": "discontinuity",
+          "bm": "ketakselanjaran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-02-q14",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Gradient of the tangent to y = x² at x = 3.",
+        "bm": "Kecerunan tangen y = x² pada x = 3."
+      },
+      "explanation": {
+        "en": "2x.",
+        "bm": "2x."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q15",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Gradient of the normal to y = x² at x = 2.",
+        "bm": "Kecerunan normal y = x² pada x = 2."
+      },
+      "explanation": {
+        "en": "−1 ÷ 4.",
+        "bm": "−1 ÷ 4."
+      },
+      "difficulty": 2,
+      "answer": -0.25,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-02-q16",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the x-coordinate of the stationary point of y = x² − 8x + 3.",
+        "bm": "Cari koordinat-x titik pegun y = x² − 8x + 3."
+      },
+      "explanation": {
+        "en": "2x − 8 = 0.",
+        "bm": "2x − 8 = 0."
+      },
+      "difficulty": 3,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q17",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Area A = x(20 − 2x). Find the x that gives the maximum area.",
+        "bm": "Luas A = x(20 − 2x). Cari x yang memberi luas maksimum."
+      },
+      "explanation": {
+        "en": "20 − 4x = 0.",
+        "bm": "20 − 4x = 0."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-02-q18",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "r increases at 2 cm/s. Find dA/dt for a circle when r = 5, to 2 d.p. (π = 3.142).",
+        "bm": "j bertambah 2 cm/s. Cari dA/dt bagi bulatan apabila j = 5, kepada 2 t.p. (π = 3.142)."
+      },
+      "explanation": {
+        "en": "2πr × 2.",
+        "bm": "2πj × 2."
+      },
+      "difficulty": 3,
+      "answer": 62.84,
+      "tolerance": 0.001,
+      "unit": "cm²/s"
+    },
+    {
+      "id": "f5addmath-02-q19",
+      "subtopicId": "f5addmath-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "y = x² and x changes from 3 to 3.01. Estimate the change in y.",
+        "bm": "y = x² dan x berubah dari 3 ke 3.01. Anggar perubahan y."
+      },
+      "explanation": {
+        "en": "δy ≈ (dy/dx) δx = 6 × 0.01.",
+        "bm": "δy ≈ (dy/dx) δx = 6 × 0.01."
+      },
+      "difficulty": 3,
+      "answer": 0.06,
+      "tolerance": 0.001
+    }
+  ]
+}

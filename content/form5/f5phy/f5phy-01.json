@@ -1,0 +1,450 @@
+{
+  "chapterId": "f5phy-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A suspension bridge stands still while thousands of tonnes pull on it, because the forces balance perfectly.",
+      "bm": "Jambatan gantung kekal pegun walaupun beribu tan menarik, kerana daya-daya seimbang dengan sempurna."
+    },
+    "bigIdeas": [
+      {
+        "en": "Forces add as vectors.",
+        "bm": "Daya ditambah sebagai vektor."
+      },
+      {
+        "en": "A force can be split into two perpendicular parts.",
+        "bm": "Daya boleh dileraikan kepada dua komponen serenjang."
+      },
+      {
+        "en": "Hooke's law: F = kx within the elastic limit.",
+        "bm": "Hukum Hooke: F = kx dalam had kenyal."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Net force",
+            "bm": "Daya bersih"
+          },
+          {
+            "en": "Motion",
+            "bm": "Gerakan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Balanced",
+              "bm": "Seimbang"
+            },
+            "cells": [
+              {
+                "en": "0",
+                "bm": "0"
+              },
+              {
+                "en": "at rest or uniform velocity",
+                "bm": "pegun atau halaju seragam"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Unbalanced",
+              "bm": "Tak seimbang"
+            },
+            "cells": [
+              {
+                "en": "F = ma",
+                "bm": "F = ma"
+              },
+              {
+                "en": "accelerates",
+                "bm": "memecut"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Resultant force",
+          "bm": "Daya paduan"
+        },
+        "definition": {
+          "en": "A single force with the same effect as all the forces.",
+          "bm": "Satu daya yang sama kesannya dengan semua daya."
+        }
+      },
+      {
+        "term": {
+          "en": "Equilibrium",
+          "bm": "Keseimbangan"
+        },
+        "definition": {
+          "en": "Net force is zero.",
+          "bm": "Daya bersih sifar."
+        }
+      },
+      {
+        "term": {
+          "en": "Spring constant",
+          "bm": "Pemalar spring"
+        },
+        "definition": {
+          "en": "Force per unit extension.",
+          "bm": "Daya per unit regangan."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-res",
+      "f5-py-comp",
+      "f5-py-hooke",
+      "f5-py-epe"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-01-q01",
+      "subtopicId": "f5phy-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Forces of 5 N and 3 N act in the same direction. Find the resultant.",
+        "bm": "Daya 5 N dan 3 N bertindak pada arah sama. Cari paduan."
+      },
+      "explanation": {
+        "en": "5 + 3.",
+        "bm": "5 + 3."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q02",
+      "subtopicId": "f5phy-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Forces of 9 N and 4 N act in opposite directions. Find the resultant.",
+        "bm": "Daya 9 N dan 4 N bertindak pada arah bertentangan. Cari paduan."
+      },
+      "explanation": {
+        "en": "9 − 4.",
+        "bm": "9 − 4."
+      },
+      "difficulty": 1,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q03",
+      "subtopicId": "f5phy-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Perpendicular forces of 6 N and 8 N act on a box. Find the resultant.",
+        "bm": "Daya serenjang 6 N dan 8 N bertindak pada kotak. Cari paduan."
+      },
+      "explanation": {
+        "en": "√(36 + 64).",
+        "bm": "√(36 + 64)."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q04",
+      "subtopicId": "f5phy-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A lift of 800 kg moves up with a = 2 m/s². Find the tension (g = 9.81).",
+        "bm": "Lif 800 kg naik dengan a = 2 m/s². Cari tegangan (g = 9.81)."
+      },
+      "explanation": {
+        "en": "T = m(g + a).",
+        "bm": "T = m(g + a)."
+      },
+      "difficulty": 2,
+      "answer": 9448,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q05",
+      "subtopicId": "f5phy-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 60 kg person stands on a scale in a lift accelerating down at 1 m/s². Find the reading in N (g = 9.81).",
+        "bm": "Orang 60 kg berdiri pada penimbang dalam lif memecut ke bawah 1 m/s². Cari bacaan dalam N (g = 9.81)."
+      },
+      "explanation": {
+        "en": "R = m(g − a).",
+        "bm": "R = m(g − a)."
+      },
+      "difficulty": 3,
+      "answer": 528.6,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q06",
+      "subtopicId": "f5phy-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "F = 20 N at 30° to the horizontal. Find the horizontal component.",
+        "bm": "F = 20 N pada 30° dengan ufuk. Cari komponen mengufuk."
+      },
+      "explanation": {
+        "en": "F cos 30°.",
+        "bm": "F kos 30°."
+      },
+      "difficulty": 1,
+      "answer": 17.320508075688775,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q07",
+      "subtopicId": "f5phy-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "F = 20 N at 30° to the horizontal. Find the vertical component.",
+        "bm": "F = 20 N pada 30° dengan ufuk. Cari komponen mencancang."
+      },
+      "explanation": {
+        "en": "F sin 30°.",
+        "bm": "F sin 30°."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q08",
+      "subtopicId": "f5phy-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 5 kg block rests on a smooth 30° slope. Find the force down the slope (g = 9.81).",
+        "bm": "Bongkah 5 kg di atas cerun licin 30°. Cari daya ke bawah cerun (g = 9.81)."
+      },
+      "explanation": {
+        "en": "mg sin 30°.",
+        "bm": "mg sin 30°."
+      },
+      "difficulty": 3,
+      "answer": 24.525000000000002,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q09",
+      "subtopicId": "f5phy-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In equilibrium, the resultant force is…",
+        "bm": "Dalam keseimbangan, daya paduan ialah…"
+      },
+      "explanation": {
+        "en": "Forces cancel.",
+        "bm": "Daya saling membatalkan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "equal to the weight",
+          "bm": "sama dengan berat"
+        },
+        {
+          "en": "the largest force",
+          "bm": "daya terbesar"
+        },
+        {
+          "en": "always upward",
+          "bm": "sentiasa ke atas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-01-q10",
+      "subtopicId": "f5phy-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A car at constant velocity on a flat road has…",
+        "bm": "Kereta pada halaju seragam di jalan rata mempunyai…"
+      },
+      "explanation": {
+        "en": "Thrust balances drag and friction.",
+        "bm": "Tujah mengimbangi seretan dan geseran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "zero net force",
+          "bm": "daya bersih sifar"
+        },
+        {
+          "en": "forward net force",
+          "bm": "daya bersih ke hadapan"
+        },
+        {
+          "en": "no forces at all",
+          "bm": "tiada daya langsung"
+        },
+        {
+          "en": "changing mass",
+          "bm": "jisim berubah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-01-q11",
+      "subtopicId": "f5phy-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 10 N picture hangs from two vertical strings sharing the load equally. Find the tension in each.",
+        "bm": "Gambar 10 N digantung pada dua tali tegak berkongsi sama rata. Cari tegangan setiap tali."
+      },
+      "explanation": {
+        "en": "10 ÷ 2.",
+        "bm": "10 ÷ 2."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q12",
+      "subtopicId": "f5phy-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A spring with k = 200 N/m stretches 0.05 m. Find the force.",
+        "bm": "Spring k = 200 N/m teregang 0.05 m. Cari daya."
+      },
+      "explanation": {
+        "en": "200 × 0.05.",
+        "bm": "200 × 0.05."
+      },
+      "difficulty": 1,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "N"
+    },
+    {
+      "id": "f5phy-01-q13",
+      "subtopicId": "f5phy-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 12 N force stretches a spring 0.03 m. Find k.",
+        "bm": "Daya 12 N meregangkan spring 0.03 m. Cari k."
+      },
+      "explanation": {
+        "en": "12 ÷ 0.03.",
+        "bm": "12 ÷ 0.03."
+      },
+      "difficulty": 2,
+      "answer": 400,
+      "tolerance": 0.01,
+      "unit": "N/m"
+    },
+    {
+      "id": "f5phy-01-q14",
+      "subtopicId": "f5phy-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the elastic potential energy of F = 10 N, x = 0.05 m.",
+        "bm": "Cari tenaga keupayaan kenyal bagi F = 10 N, x = 0.05 m."
+      },
+      "explanation": {
+        "en": "½Fx.",
+        "bm": "½Fx."
+      },
+      "difficulty": 2,
+      "answer": 0.25,
+      "tolerance": 0.01,
+      "unit": "J"
+    },
+    {
+      "id": "f5phy-01-q15",
+      "subtopicId": "f5phy-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Two identical springs k = 100 N/m are in parallel. Find the total k.",
+        "bm": "Dua spring serupa k = 100 N/m selari. Cari jumlah k."
+      },
+      "explanation": {
+        "en": "Parallel adds.",
+        "bm": "Selari ditambah."
+      },
+      "difficulty": 3,
+      "answer": 200,
+      "tolerance": 0.01,
+      "unit": "N/m"
+    },
+    {
+      "id": "f5phy-01-q16",
+      "subtopicId": "f5phy-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Two identical springs k = 100 N/m are in series. Find the total k.",
+        "bm": "Dua spring serupa k = 100 N/m bersiri. Cari jumlah k."
+      },
+      "explanation": {
+        "en": "1/k = 1/100 + 1/100.",
+        "bm": "1/k = 1/100 + 1/100."
+      },
+      "difficulty": 3,
+      "answer": 50,
+      "tolerance": 0.01,
+      "unit": "N/m"
+    },
+    {
+      "id": "f5phy-01-q17",
+      "subtopicId": "f5phy-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Beyond the elastic limit, a spring…",
+        "bm": "Melebihi had kenyal, spring…"
+      },
+      "explanation": {
+        "en": "It is permanently deformed.",
+        "bm": "Ia berubah bentuk kekal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "does not return to its original length",
+          "bm": "tidak kembali kepada panjang asal"
+        },
+        {
+          "en": "becomes stronger",
+          "bm": "menjadi lebih kuat"
+        },
+        {
+          "en": "has more mass",
+          "bm": "bertambah jisim"
+        },
+        {
+          "en": "loses all its force at once",
+          "bm": "hilang semua daya serta-merta"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

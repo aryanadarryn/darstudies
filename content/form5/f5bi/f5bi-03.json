@@ -1,0 +1,370 @@
+{
+  "chapterId": "f5bi-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "News reports often say \"A man was arrested\" because what happened matters more than who did it.",
+      "bm": "News reports often say \"A man was arrested\" because what happened matters more than who did it."
+    },
+    "bigIdeas": [
+      {
+        "en": "Passive focuses on the receiver.",
+        "bm": "Passive focuses on the receiver."
+      },
+      {
+        "en": "Reported speech shifts tense, pronouns and time words.",
+        "bm": "Reported speech shifts tense, pronouns and time words."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Direct",
+          "bm": "Direct"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "\"I am tired.\"",
+              "bm": "\"I am tired.\""
+            },
+            "detail": {
+              "en": "He said he was tired.",
+              "bm": "He said he was tired."
+            }
+          },
+          {
+            "label": {
+              "en": "\"I will go.\"",
+              "bm": "\"I will go.\""
+            },
+            "detail": {
+              "en": "She said she would go.",
+              "bm": "She said she would go."
+            }
+          },
+          {
+            "label": {
+              "en": "\"I saw it.\"",
+              "bm": "\"I saw it.\""
+            },
+            "detail": {
+              "en": "He said he had seen it.",
+              "bm": "He said he had seen it."
+            }
+          },
+          {
+            "label": {
+              "en": "\"Do you know?\"",
+              "bm": "\"Do you know?\""
+            },
+            "detail": {
+              "en": "She asked if I knew.",
+              "bm": "She asked if I knew."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Passive voice",
+          "bm": "Passive voice"
+        },
+        "definition": {
+          "en": "Subject receives the action.",
+          "bm": "Subject receives the action."
+        }
+      },
+      {
+        "term": {
+          "en": "Reporting verb",
+          "bm": "Reporting verb"
+        },
+        "definition": {
+          "en": "Said, told or asked.",
+          "bm": "Said, told or asked."
+        }
+      },
+      {
+        "term": {
+          "en": "Backshift",
+          "bm": "Backshift"
+        },
+        "definition": {
+          "en": "Moving a tense one step back.",
+          "bm": "Moving a tense one step back."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-03-q01",
+      "subtopicId": "f5bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Passive of \"They clean the room\":",
+        "bm": "Passive of \"They clean the room\":"
+      },
+      "explanation": {
+        "en": "be + V3.",
+        "bm": "be + V3."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "The room is cleaned.",
+          "bm": "The room is cleaned."
+        },
+        {
+          "en": "The room cleans.",
+          "bm": "The room cleans."
+        },
+        {
+          "en": "The room cleaned them.",
+          "bm": "The room cleaned them."
+        },
+        {
+          "en": "They are cleaned the room.",
+          "bm": "They are cleaned the room."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q02",
+      "subtopicId": "f5bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The bridge ___ in 1985.",
+        "bm": "The bridge ___ in 1985."
+      },
+      "explanation": {
+        "en": "Past passive.",
+        "bm": "Past passive."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "was built",
+          "bm": "was built"
+        },
+        {
+          "en": "built",
+          "bm": "built"
+        },
+        {
+          "en": "is building",
+          "bm": "is building"
+        },
+        {
+          "en": "has build",
+          "bm": "has build"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q03",
+      "subtopicId": "f5bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The results ___ next week.",
+        "bm": "The results ___ next week."
+      },
+      "explanation": {
+        "en": "Future passive.",
+        "bm": "Future passive."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "will be announced",
+          "bm": "will be announced"
+        },
+        {
+          "en": "will announce",
+          "bm": "will announce"
+        },
+        {
+          "en": "announced",
+          "bm": "announced"
+        },
+        {
+          "en": "are announce",
+          "bm": "are announce"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q04",
+      "subtopicId": "f5bi-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A new school ___ at the moment.",
+        "bm": "A new school ___ at the moment."
+      },
+      "explanation": {
+        "en": "Present continuous passive.",
+        "bm": "Present continuous passive."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "is being built",
+          "bm": "is being built"
+        },
+        {
+          "en": "is built being",
+          "bm": "is built being"
+        },
+        {
+          "en": "has building",
+          "bm": "has building"
+        },
+        {
+          "en": "was build",
+          "bm": "was build"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q05",
+      "subtopicId": "f5bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"I like tea,\" she said. → She said she ___ tea.",
+        "bm": "\"I like tea,\" she said. → She said she ___ tea."
+      },
+      "explanation": {
+        "en": "Backshift.",
+        "bm": "Backshift."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "liked",
+          "bm": "liked"
+        },
+        {
+          "en": "likes",
+          "bm": "likes"
+        },
+        {
+          "en": "like",
+          "bm": "like"
+        },
+        {
+          "en": "liking",
+          "bm": "liking"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q06",
+      "subtopicId": "f5bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Where do you live?\" he asked. → He asked where I ___.",
+        "bm": "\"Where do you live?\" he asked. → He asked where I ___."
+      },
+      "explanation": {
+        "en": "Statement word order.",
+        "bm": "Statement word order."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "lived",
+          "bm": "lived"
+        },
+        {
+          "en": "do live",
+          "bm": "do live"
+        },
+        {
+          "en": "did I live",
+          "bm": "did I live"
+        },
+        {
+          "en": "living",
+          "bm": "living"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q07",
+      "subtopicId": "f5bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"I will call tomorrow.\" → She said she would call ___.",
+        "bm": "\"I will call tomorrow.\" → She said she would call ___."
+      },
+      "explanation": {
+        "en": "Time words change.",
+        "bm": "Time words change."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the next day",
+          "bm": "the next day"
+        },
+        {
+          "en": "tomorrow day",
+          "bm": "tomorrow day"
+        },
+        {
+          "en": "yesterday",
+          "bm": "yesterday"
+        },
+        {
+          "en": "now",
+          "bm": "now"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-03-q08",
+      "subtopicId": "f5bi-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Don't move!\" → The officer told us ___.",
+        "bm": "\"Don't move!\" → The officer told us ___."
+      },
+      "explanation": {
+        "en": "Reported command.",
+        "bm": "Reported command."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "not to move",
+          "bm": "not to move"
+        },
+        {
+          "en": "don't move",
+          "bm": "don't move"
+        },
+        {
+          "en": "not moved",
+          "bm": "not moved"
+        },
+        {
+          "en": "no moving",
+          "bm": "no moving"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "chapterId": "f5bi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Native speakers say \"give up\", not \"surrender\", in everyday talk. Learning natural combinations is what makes English sound right.",
+      "bm": "Native speakers say \"give up\", not \"surrender\", in everyday talk. Learning natural combinations is what makes English sound right."
+    },
+    "bigIdeas": [
+      {
+        "en": "Phrasal verbs change meaning with particles.",
+        "bm": "Phrasal verbs change meaning with particles."
+      },
+      {
+        "en": "Collocations are natural word pairs.",
+        "bm": "Collocations are natural word pairs."
+      },
+      {
+        "en": "Prefixes and suffixes build new words.",
+        "bm": "Prefixes and suffixes build new words."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Phrasal verb",
+          "bm": "Phrasal verb"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "give up",
+              "bm": "give up"
+            },
+            "detail": {
+              "en": "stop trying",
+              "bm": "stop trying"
+            }
+          },
+          {
+            "label": {
+              "en": "look after",
+              "bm": "look after"
+            },
+            "detail": {
+              "en": "care for",
+              "bm": "care for"
+            }
+          },
+          {
+            "label": {
+              "en": "run out of",
+              "bm": "run out of"
+            },
+            "detail": {
+              "en": "have none left",
+              "bm": "have none left"
+            }
+          },
+          {
+            "label": {
+              "en": "put off",
+              "bm": "put off"
+            },
+            "detail": {
+              "en": "delay",
+              "bm": "delay"
+            }
+          },
+          {
+            "label": {
+              "en": "turn down",
+              "bm": "turn down"
+            },
+            "detail": {
+              "en": "reject",
+              "bm": "reject"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Phrasal verb",
+          "bm": "Phrasal verb"
+        },
+        "definition": {
+          "en": "Verb + particle with its own meaning.",
+          "bm": "Verb + particle with its own meaning."
+        }
+      },
+      {
+        "term": {
+          "en": "Collocation",
+          "bm": "Collocation"
+        },
+        "definition": {
+          "en": "Words that often go together.",
+          "bm": "Words that often go together."
+        }
+      },
+      {
+        "term": {
+          "en": "Suffix",
+          "bm": "Suffix"
+        },
+        "definition": {
+          "en": "Word ending, such as -ness.",
+          "bm": "Word ending, such as -ness."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-05-q01",
+      "subtopicId": "f5bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "We ___ of sugar, so I bought more.",
+        "bm": "We ___ of sugar, so I bought more."
+      },
+      "explanation": {
+        "en": "\"Run out of\" means have none left.",
+        "bm": "\"Run out of\" means have none left."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ran out",
+          "bm": "ran out"
+        },
+        {
+          "en": "ran in",
+          "bm": "ran in"
+        },
+        {
+          "en": "ran over",
+          "bm": "ran over"
+        },
+        {
+          "en": "ran up",
+          "bm": "ran up"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q02",
+      "subtopicId": "f5bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The match was ___ because of the storm.",
+        "bm": "The match was ___ because of the storm."
+      },
+      "explanation": {
+        "en": "Delayed.",
+        "bm": "Delayed."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "put off",
+          "bm": "put off"
+        },
+        {
+          "en": "put on",
+          "bm": "put on"
+        },
+        {
+          "en": "put up",
+          "bm": "put up"
+        },
+        {
+          "en": "put in",
+          "bm": "put in"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q03",
+      "subtopicId": "f5bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "She ___ the job offer because the pay was low.",
+        "bm": "She ___ the job offer because the pay was low."
+      },
+      "explanation": {
+        "en": "Rejected.",
+        "bm": "Rejected."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "turned down",
+          "bm": "turned down"
+        },
+        {
+          "en": "turned up",
+          "bm": "turned up"
+        },
+        {
+          "en": "turned on",
+          "bm": "turned on"
+        },
+        {
+          "en": "turned in",
+          "bm": "turned in"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q04",
+      "subtopicId": "f5bi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "I can't ___ with this noise any longer.",
+        "bm": "I can't ___ with this noise any longer."
+      },
+      "explanation": {
+        "en": "\"Put up with\" means tolerate.",
+        "bm": "\"Put up with\" means tolerate."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "put up",
+          "bm": "put up"
+        },
+        {
+          "en": "put off",
+          "bm": "put off"
+        },
+        {
+          "en": "put out",
+          "bm": "put out"
+        },
+        {
+          "en": "put down",
+          "bm": "put down"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q05",
+      "subtopicId": "f5bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is correct?",
+        "bm": "Which is correct?"
+      },
+      "explanation": {
+        "en": "A collocation.",
+        "bm": "A collocation."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "make a decision",
+          "bm": "make a decision"
+        },
+        {
+          "en": "do a decision",
+          "bm": "do a decision"
+        },
+        {
+          "en": "take a mistake",
+          "bm": "take a mistake"
+        },
+        {
+          "en": "do a noise",
+          "bm": "do a noise"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q06",
+      "subtopicId": "f5bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is correct?",
+        "bm": "Which is correct?"
+      },
+      "explanation": {
+        "en": "A collocation.",
+        "bm": "A collocation."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "heavy rain",
+          "bm": "heavy rain"
+        },
+        {
+          "en": "strong rain",
+          "bm": "strong rain"
+        },
+        {
+          "en": "big rain",
+          "bm": "big rain"
+        },
+        {
+          "en": "hard raining",
+          "bm": "hard raining"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q07",
+      "subtopicId": "f5bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The noun of \"happy\" is…",
+        "bm": "The noun of \"happy\" is…"
+      },
+      "explanation": {
+        "en": "-ness makes a noun.",
+        "bm": "-ness makes a noun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "happiness",
+          "bm": "happiness"
+        },
+        {
+          "en": "happily",
+          "bm": "happily"
+        },
+        {
+          "en": "unhappy",
+          "bm": "unhappy"
+        },
+        {
+          "en": "happier",
+          "bm": "happier"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-05-q08",
+      "subtopicId": "f5bi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Her ___ to help was noticed. (willing)",
+        "bm": "Her ___ to help was noticed. (willing)"
+      },
+      "explanation": {
+        "en": "A noun is needed.",
+        "bm": "A noun is needed."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "willingness",
+          "bm": "willingness"
+        },
+        {
+          "en": "willingly",
+          "bm": "willingly"
+        },
+        {
+          "en": "unwilling",
+          "bm": "unwilling"
+        },
+        {
+          "en": "willed",
+          "bm": "willed"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

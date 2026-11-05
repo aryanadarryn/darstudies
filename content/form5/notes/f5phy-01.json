@@ -1,0 +1,188 @@
+{
+  "chapterId": "f5phy-01",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-01-01": {
+      "keyPoints": [
+        {
+          "en": "Add vectors with parallelogram or triangle methods.",
+          "bm": "Tambah vektor dengan kaedah segi empat selari atau segi tiga."
+        },
+        {
+          "en": "Net force causes acceleration.",
+          "bm": "Daya bersih menyebabkan pecutan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Vector",
+            "bm": "Vektor"
+          },
+          "meaning": {
+            "en": "Has size and direction.",
+            "bm": "Ada magnitud dan arah."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/forces.svg",
+          "alt": {
+            "en": "Adding perpendicular forces; forces in equilibrium.",
+            "bm": "Menambah daya serenjang; daya dalam keseimbangan."
+          },
+          "caption": {
+            "en": "Adding perpendicular forces; forces in equilibrium.",
+            "bm": "Menambah daya serenjang; daya dalam keseimbangan."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "5 N east + 5 N west?",
+          "bm": "5 N timur + 5 N barat?"
+        },
+        "answer": {
+          "en": "0 N",
+          "bm": "0 N"
+        }
+      },
+      "tip": {
+        "en": "Draw a free-body diagram first.",
+        "bm": "Lukis gambar rajah jasad bebas dahulu."
+      }
+    },
+    "f5phy-01-02": {
+      "keyPoints": [
+        {
+          "en": "Fx = F cos θ, Fy = F sin θ.",
+          "bm": "Fx = F kos θ, Fy = F sin θ."
+        },
+        {
+          "en": "θ is measured from the horizontal.",
+          "bm": "θ diukur dari ufuk."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Component",
+            "bm": "Komponen"
+          },
+          "meaning": {
+            "en": "Part of a force along an axis.",
+            "bm": "Bahagian daya pada paksi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Slope force of a weight?",
+          "bm": "Daya cerun bagi berat?"
+        },
+        "answer": {
+          "en": "mg sin θ",
+          "bm": "mg sin θ"
+        }
+      },
+      "tip": {
+        "en": "Check which angle you are given.",
+        "bm": "Semak sudut yang diberi."
+      }
+    },
+    "f5phy-01-03": {
+      "keyPoints": [
+        {
+          "en": "Forces in each direction balance.",
+          "bm": "Daya pada setiap arah seimbang."
+        },
+        {
+          "en": "Use a closed triangle of forces.",
+          "bm": "Gunakan segi tiga daya tertutup."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Tension",
+            "bm": "Tegangan"
+          },
+          "meaning": {
+            "en": "Pull in a string.",
+            "bm": "Tarikan dalam tali."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Three forces in equilibrium form?",
+          "bm": "Tiga daya dalam keseimbangan membentuk?"
+        },
+        "answer": {
+          "en": "A closed triangle",
+          "bm": "Segi tiga tertutup"
+        }
+      },
+      "tip": {
+        "en": "Resolve along and across a slope.",
+        "bm": "Leraikan sepanjang dan merentasi cerun."
+      }
+    },
+    "f5phy-01-04": {
+      "keyPoints": [
+        {
+          "en": "Elastic materials return to their shape.",
+          "bm": "Bahan kenyal kembali kepada bentuk asal."
+        },
+        {
+          "en": "k is the gradient of an F–x graph.",
+          "bm": "k ialah kecerunan graf F–x."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Elastic limit",
+            "bm": "Had kenyal"
+          },
+          "meaning": {
+            "en": "The limit for recovery.",
+            "bm": "Had pemulihan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/hooke.svg",
+          "alt": {
+            "en": "F–x graph: the gradient is k.",
+            "bm": "Graf F–x: kecerunan ialah k."
+          },
+          "caption": {
+            "en": "F–x graph: the gradient is k.",
+            "bm": "Graf F–x: kecerunan ialah k."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Area under an F–x graph?",
+          "bm": "Luas di bawah graf F–x?"
+        },
+        "answer": {
+          "en": "Elastic potential energy",
+          "bm": "Tenaga keupayaan kenyal"
+        }
+      },
+      "tip": {
+        "en": "Convert cm to m first.",
+        "bm": "Tukar cm kepada m dahulu."
+      }
+    }
+  }
+}

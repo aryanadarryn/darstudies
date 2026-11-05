@@ -1,0 +1,48 @@
+{
+  "chapterId": "f5math-08",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-08-01": {
+      "keyPoints": [
+        {
+          "en": "State variables and assumptions clearly.",
+          "bm": "Nyatakan pemboleh ubah dan andaian dengan jelas."
+        },
+        {
+          "en": "Choose the type of function that fits the data.",
+          "bm": "Pilih jenis fungsi yang sesuai dengan data."
+        },
+        {
+          "en": "Interpret the answer in the real situation.",
+          "bm": "Tafsir jawapan dalam situasi sebenar."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Variable",
+            "bm": "Pemboleh ubah"
+          },
+          "meaning": {
+            "en": "A quantity that changes.",
+            "bm": "Kuantiti yang berubah."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Fixed RM10 + RM2 per item: model?",
+          "bm": "Tetap RM10 + RM2 setiap barang: model?"
+        },
+        "answer": {
+          "en": "C = 2n + 10",
+          "bm": "C = 2n + 10"
+        }
+      },
+      "tip": {
+        "en": "Include units in your final answer.",
+        "bm": "Sertakan unit dalam jawapan akhir."
+      }
+    }
+  }
+}

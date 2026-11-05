@@ -1,0 +1,542 @@
+{
+  "chapterId": "f5phy-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Motors turn current into motion; generators turn motion into current. Your whole grid relies on this pair.",
+      "bm": "Motor menukar arus kepada gerakan; penjana menukar gerakan kepada arus. Seluruh grid bergantung pada pasangan ini."
+    },
+    "bigIdeas": [
+      {
+        "en": "A current in a field feels a force (left-hand rule).",
+        "bm": "Arus dalam medan mengalami daya (petua tangan kiri)."
+      },
+      {
+        "en": "Changing flux induces e.m.f. (Faraday, Lenz).",
+        "bm": "Perubahan fluks mengaruh d.g.e. (Faraday, Lenz)."
+      },
+      {
+        "en": "Transformers change a.c. voltage.",
+        "bm": "Transformer mengubah voltan a.u."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Converts",
+            "bm": "Menukar"
+          },
+          {
+            "en": "Rule",
+            "bm": "Petua"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Motor",
+              "bm": "Motor"
+            },
+            "cells": [
+              {
+                "en": "electrical to kinetic",
+                "bm": "elektrik ke kinetik"
+              },
+              {
+                "en": "Left hand",
+                "bm": "Tangan kiri"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Generator",
+              "bm": "Penjana"
+            },
+            "cells": [
+              {
+                "en": "kinetic to electrical",
+                "bm": "kinetik ke elektrik"
+              },
+              {
+                "en": "Right hand",
+                "bm": "Tangan kanan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Transformer",
+              "bm": "Transformer"
+            },
+            "cells": [
+              {
+                "en": "a.c. voltage up or down",
+                "bm": "voltan a.u. naik atau turun"
+              },
+              {
+                "en": "Vs/Vp = Ns/Np",
+                "bm": "Vs/Vp = Ns/Np"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Induced current",
+          "bm": "Arus aruhan"
+        },
+        "definition": {
+          "en": "Current caused by a changing magnetic field.",
+          "bm": "Arus akibat medan magnet berubah."
+        }
+      },
+      {
+        "term": {
+          "en": "Lenz's law",
+          "bm": "Hukum Lenz"
+        },
+        "definition": {
+          "en": "Induced current opposes its cause.",
+          "bm": "Arus aruhan menentang penyebabnya."
+        }
+      },
+      {
+        "term": {
+          "en": "Step-up transformer",
+          "bm": "Transformer injak naik"
+        },
+        "definition": {
+          "en": "Raises voltage: Ns > Np.",
+          "bm": "Menaikkan voltan: Ns > Np."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-trans",
+      "f5-py-eff"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-04-q01",
+      "subtopicId": "f5phy-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which rule gives the force on a wire in a motor?",
+        "bm": "Petua manakah memberi daya pada dawai dalam motor?"
+      },
+      "explanation": {
+        "en": "Motor effect.",
+        "bm": "Kesan motor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Fleming's left-hand rule",
+          "bm": "Petua tangan kiri Fleming"
+        },
+        {
+          "en": "Fleming's right-hand rule",
+          "bm": "Petua tangan kanan Fleming"
+        },
+        {
+          "en": "Ohm's law",
+          "bm": "Hukum Ohm"
+        },
+        {
+          "en": "Lenz's law",
+          "bm": "Hukum Lenz"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q02",
+      "subtopicId": "f5phy-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To increase a motor's speed you can…",
+        "bm": "Untuk menambah laju motor, anda boleh…"
+      },
+      "explanation": {
+        "en": "More current, more force.",
+        "bm": "Lebih arus, lebih daya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "raise the current",
+          "bm": "menambah arus"
+        },
+        {
+          "en": "reduce the turns",
+          "bm": "mengurangkan lilitan"
+        },
+        {
+          "en": "weaken the magnet",
+          "bm": "melemahkan magnet"
+        },
+        {
+          "en": "remove the commutator",
+          "bm": "mengeluarkan komutator"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q03",
+      "subtopicId": "f5phy-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The commutator in a d.c. motor…",
+        "bm": "Komutator dalam motor a.t…"
+      },
+      "explanation": {
+        "en": "Keeps rotation in one direction.",
+        "bm": "Mengekalkan putaran satu arah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "reverses the current every half turn",
+          "bm": "menyongsangkan arus setiap setengah pusingan"
+        },
+        {
+          "en": "adds voltage",
+          "bm": "menambah voltan"
+        },
+        {
+          "en": "stops the coil",
+          "bm": "menghentikan gegelung"
+        },
+        {
+          "en": "cools it",
+          "bm": "menyejukkannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q04",
+      "subtopicId": "f5phy-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "An e.m.f. is induced when…",
+        "bm": "D.g.e. diaruh apabila…"
+      },
+      "explanation": {
+        "en": "Faraday's law.",
+        "bm": "Hukum Faraday."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "magnetic flux through a coil changes",
+          "bm": "fluks magnet melalui gegelung berubah"
+        },
+        {
+          "en": "the magnet is still",
+          "bm": "magnet pegun"
+        },
+        {
+          "en": "no field is present",
+          "bm": "tiada medan"
+        },
+        {
+          "en": "the coil is removed",
+          "bm": "gegelung dikeluarkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q05",
+      "subtopicId": "f5phy-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A stronger induced e.m.f. comes from…",
+        "bm": "D.g.e. aruhan lebih kuat terhasil daripada…"
+      },
+      "explanation": {
+        "en": "Rate of change of flux.",
+        "bm": "Kadar perubahan fluks."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "more turns and faster motion",
+          "bm": "lebih lilitan dan gerakan lebih laju"
+        },
+        {
+          "en": "fewer turns",
+          "bm": "kurang lilitan"
+        },
+        {
+          "en": "slower motion",
+          "bm": "gerakan lebih perlahan"
+        },
+        {
+          "en": "a weaker magnet",
+          "bm": "magnet lebih lemah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q06",
+      "subtopicId": "f5phy-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lenz's law follows from conservation of…",
+        "bm": "Hukum Lenz berasal daripada keabadian…"
+      },
+      "explanation": {
+        "en": "You must do work to induce current.",
+        "bm": "Kerja mesti dilakukan untuk mengaruh arus."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "energy",
+          "bm": "tenaga"
+        },
+        {
+          "en": "mass",
+          "bm": "jisim"
+        },
+        {
+          "en": "charge only",
+          "bm": "cas sahaja"
+        },
+        {
+          "en": "momentum only",
+          "bm": "momentum sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q07",
+      "subtopicId": "f5phy-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A generator's output with slip rings is…",
+        "bm": "Output penjana dengan gelang gelincir ialah…"
+      },
+      "explanation": {
+        "en": "A commutator would give d.c.",
+        "bm": "Komutator memberi a.t."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a.c.",
+          "bm": "a.u."
+        },
+        {
+          "en": "d.c.",
+          "bm": "a.t."
+        },
+        {
+          "en": "zero",
+          "bm": "sifar"
+        },
+        {
+          "en": "constant",
+          "bm": "malar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q08",
+      "subtopicId": "f5phy-04-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Vp = 240 V, Np = 1200, Ns = 60. Find Vs.",
+        "bm": "Vp = 240 V, Np = 1200, Ns = 60. Cari Vs."
+      },
+      "explanation": {
+        "en": "240 × 60 ÷ 1200.",
+        "bm": "240 × 60 ÷ 1200."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5phy-04-q09",
+      "subtopicId": "f5phy-04-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Vp = 12 V, Np = 100, Ns = 2000. Find Vs.",
+        "bm": "Vp = 12 V, Np = 100, Ns = 2000. Cari Vs."
+      },
+      "explanation": {
+        "en": "12 × 2000 ÷ 100.",
+        "bm": "12 × 2000 ÷ 100."
+      },
+      "difficulty": 2,
+      "answer": 240,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5phy-04-q10",
+      "subtopicId": "f5phy-04-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Vp = 240 V, Np = 2000, Ns = 100. Find Vs.",
+        "bm": "Vp = 240 V, Np = 2000, Ns = 100. Cari Vs."
+      },
+      "explanation": {
+        "en": "240 × 100 ÷ 2000.",
+        "bm": "240 × 100 ÷ 2000."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5phy-04-q11",
+      "subtopicId": "f5phy-04-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "An ideal transformer: VpIp = VsIs. Vp = 240 V, Vs = 12 V, Is = 2 A. Find Ip.",
+        "bm": "Transformer unggul: VpIp = VsIs. Vp = 240 V, Vs = 12 V, Is = 2 A. Cari Ip."
+      },
+      "explanation": {
+        "en": "24 ÷ 240.",
+        "bm": "24 ÷ 240."
+      },
+      "difficulty": 2,
+      "answer": 0.1,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f5phy-04-q12",
+      "subtopicId": "f5phy-04-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Input power 100 W and output 90 W. Find the efficiency in %.",
+        "bm": "Kuasa input 100 W dan output 90 W. Cari kecekapan dalam %."
+      },
+      "explanation": {
+        "en": "90 ÷ 100 × 100.",
+        "bm": "90 ÷ 100 × 100."
+      },
+      "difficulty": 3,
+      "answer": 90,
+      "tolerance": 0.01,
+      "unit": "%"
+    },
+    {
+      "id": "f5phy-04-q13",
+      "subtopicId": "f5phy-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is grid power sent at very high voltage?",
+        "bm": "Mengapa kuasa grid dihantar pada voltan sangat tinggi?"
+      },
+      "explanation": {
+        "en": "Power loss depends on I².",
+        "bm": "Kehilangan kuasa bergantung pada I²."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Lower current reduces I²R loss",
+          "bm": "Arus rendah mengurangkan kehilangan I²R"
+        },
+        {
+          "en": "It looks safer",
+          "bm": "Kelihatan lebih selamat"
+        },
+        {
+          "en": "Cables are lighter by law",
+          "bm": "Kabel lebih ringan oleh undang-undang"
+        },
+        {
+          "en": "Voltage has no loss",
+          "bm": "Voltan tiada kehilangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q14",
+      "subtopicId": "f5phy-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Transformers need a.c. because…",
+        "bm": "Transformer memerlukan a.u. kerana…"
+      },
+      "explanation": {
+        "en": "Steady d.c. gives no induction.",
+        "bm": "A.t. malar tidak mengaruh."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "flux must keep changing",
+          "bm": "fluks mesti terus berubah"
+        },
+        {
+          "en": "d.c. is too strong",
+          "bm": "a.t. terlalu kuat"
+        },
+        {
+          "en": "iron dislikes d.c.",
+          "bm": "besi tidak sesuai dengan a.t."
+        },
+        {
+          "en": "a.c. has no current",
+          "bm": "a.u. tiada arus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-04-q15",
+      "subtopicId": "f5phy-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Laminating the core reduces…",
+        "bm": "Melaminakan teras mengurangkan…"
+      },
+      "explanation": {
+        "en": "Layers cut the eddy paths.",
+        "bm": "Lapisan memutuskan laluan arus pusar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "eddy currents",
+          "bm": "arus pusar"
+        },
+        {
+          "en": "the turns",
+          "bm": "lilitan"
+        },
+        {
+          "en": "the voltage",
+          "bm": "voltan"
+        },
+        {
+          "en": "mass to zero",
+          "bm": "jisim kepada sifar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

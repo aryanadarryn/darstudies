@@ -1,0 +1,421 @@
+{
+  "chapterId": "f5bio-12",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "No two people are alike, not even identical twins. Variation is what lets a species survive change.",
+      "bm": "Tiada dua orang yang sama, walau kembar seiras. Variasi membolehkan spesies bertahan menghadapi perubahan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Variation is continuous or discontinuous.",
+        "bm": "Variasi selanjar atau tak selanjar."
+      },
+      {
+        "en": "Genes, environment and mutation cause it.",
+        "bm": "Gen, persekitaran dan mutasi menyebabkannya."
+      },
+      {
+        "en": "Natural selection acts on variation.",
+        "bm": "Pemilihan semula jadi bertindak pada variasi."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Continuous",
+            "bm": "Selanjar"
+          },
+          {
+            "en": "Discontinuous",
+            "bm": "Tak selanjar"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Example",
+              "bm": "Contoh"
+            },
+            "cells": [
+              {
+                "en": "height",
+                "bm": "ketinggian"
+              },
+              {
+                "en": "blood group",
+                "bm": "kumpulan darah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Graph",
+              "bm": "Graf"
+            },
+            "cells": [
+              {
+                "en": "normal curve",
+                "bm": "lengkung normal"
+              },
+              {
+                "en": "bar chart",
+                "bm": "carta bar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Control",
+              "bm": "Kawalan"
+            },
+            "cells": [
+              {
+                "en": "many genes + environment",
+                "bm": "banyak gen + persekitaran"
+              },
+              {
+                "en": "one or few genes",
+                "bm": "satu atau sedikit gen"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Mutation",
+          "bm": "Mutasi"
+        },
+        "definition": {
+          "en": "A change in DNA.",
+          "bm": "Perubahan dalam DNA."
+        }
+      },
+      {
+        "term": {
+          "en": "Crossing over",
+          "bm": "Pindah silang"
+        },
+        "definition": {
+          "en": "Exchange of DNA in meiosis.",
+          "bm": "Pertukaran DNA dalam meiosis."
+        }
+      },
+      {
+        "term": {
+          "en": "Natural selection",
+          "bm": "Pemilihan semula jadi"
+        },
+        "definition": {
+          "en": "Better-suited individuals survive more.",
+          "bm": "Individu lebih sesuai lebih bertahan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-12-q01",
+      "subtopicId": "f5bio-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Height shows…",
+        "bm": "Ketinggian menunjukkan…"
+      },
+      "explanation": {
+        "en": "A range of values.",
+        "bm": "Julat nilai."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "continuous variation",
+          "bm": "variasi selanjar"
+        },
+        {
+          "en": "discontinuous variation",
+          "bm": "variasi tak selanjar"
+        },
+        {
+          "en": "no variation",
+          "bm": "tiada variasi"
+        },
+        {
+          "en": "a single gene only",
+          "bm": "satu gen sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q02",
+      "subtopicId": "f5bio-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Blood group shows…",
+        "bm": "Kumpulan darah menunjukkan…"
+      },
+      "explanation": {
+        "en": "Clear groups.",
+        "bm": "Kumpulan jelas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "discontinuous variation",
+          "bm": "variasi tak selanjar"
+        },
+        {
+          "en": "continuous variation",
+          "bm": "variasi selanjar"
+        },
+        {
+          "en": "environmental effect only",
+          "bm": "kesan persekitaran sahaja"
+        },
+        {
+          "en": "no inheritance",
+          "bm": "tiada pewarisan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q03",
+      "subtopicId": "f5bio-12-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Continuous variation graphs are usually…",
+        "bm": "Graf variasi selanjar biasanya…"
+      },
+      "explanation": {
+        "en": "Most are near the mean.",
+        "bm": "Kebanyakan hampir min."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "bell-shaped histograms",
+          "bm": "histogram bentuk loceng"
+        },
+        {
+          "en": "pie charts",
+          "bm": "carta pai"
+        },
+        {
+          "en": "two bars",
+          "bm": "dua bar"
+        },
+        {
+          "en": "straight lines",
+          "bm": "garis lurus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q04",
+      "subtopicId": "f5bio-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A source of variation in meiosis is…",
+        "bm": "Sumber variasi dalam meiosis ialah…"
+      },
+      "explanation": {
+        "en": "Also independent assortment.",
+        "bm": "Juga penyusunan bebas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "crossing over",
+          "bm": "pindah silang"
+        },
+        {
+          "en": "mitosis only",
+          "bm": "mitosis sahaja"
+        },
+        {
+          "en": "respiration",
+          "bm": "respirasi"
+        },
+        {
+          "en": "transpiration",
+          "bm": "transpirasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q05",
+      "subtopicId": "f5bio-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Down syndrome is caused by…",
+        "bm": "Sindrom Down disebabkan oleh…"
+      },
+      "explanation": {
+        "en": "A chromosomal mutation.",
+        "bm": "Mutasi kromosom."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "an extra chromosome 21",
+          "bm": "kromosom 21 tambahan"
+        },
+        {
+          "en": "a virus",
+          "bm": "virus"
+        },
+        {
+          "en": "lack of vitamins",
+          "bm": "kekurangan vitamin"
+        },
+        {
+          "en": "a bacterial infection",
+          "bm": "jangkitan bakteria"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q06",
+      "subtopicId": "f5bio-12-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which can cause mutations?",
+        "bm": "Yang manakah boleh menyebabkan mutasi?"
+      },
+      "explanation": {
+        "en": "A mutagen.",
+        "bm": "Mutagen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "UV radiation",
+          "bm": "Sinaran UV"
+        },
+        {
+          "en": "Clean water",
+          "bm": "Air bersih"
+        },
+        {
+          "en": "Sleep",
+          "bm": "Tidur"
+        },
+        {
+          "en": "Vitamin C",
+          "bm": "Vitamin C"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q07",
+      "subtopicId": "f5bio-12-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Natural selection depends on…",
+        "bm": "Pemilihan semula jadi bergantung pada…"
+      },
+      "explanation": {
+        "en": "Better-suited traits spread.",
+        "bm": "Sifat lebih sesuai tersebar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "variation among individuals",
+          "bm": "variasi antara individu"
+        },
+        {
+          "en": "no differences",
+          "bm": "tiada perbezaan"
+        },
+        {
+          "en": "all being identical",
+          "bm": "semua serupa"
+        },
+        {
+          "en": "cloning only",
+          "bm": "pengklonan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q08",
+      "subtopicId": "f5bio-12-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a population with low variation at greater risk?",
+        "bm": "Mengapa populasi dengan variasi rendah berisiko lebih besar?"
+      },
+      "explanation": {
+        "en": "Few can survive the change.",
+        "bm": "Sedikit yang dapat bertahan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "One disease could wipe out all",
+          "bm": "Satu penyakit boleh menghapuskan semua"
+        },
+        {
+          "en": "It grows faster",
+          "bm": "Tumbuh lebih cepat"
+        },
+        {
+          "en": "It has more alleles",
+          "bm": "Lebih banyak alel"
+        },
+        {
+          "en": "It always adapts",
+          "bm": "Sentiasa menyesuaikan diri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-12-q09",
+      "subtopicId": "f5bio-12-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Antibiotic-resistant bacteria are an example of…",
+        "bm": "Bakteria rintang antibiotik contoh…"
+      },
+      "explanation": {
+        "en": "Resistant ones survive and multiply.",
+        "bm": "Yang rintang bertahan dan membiak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "natural selection",
+          "bm": "pemilihan semula jadi"
+        },
+        {
+          "en": "photosynthesis",
+          "bm": "fotosintesis"
+        },
+        {
+          "en": "fertilisation",
+          "bm": "persenyawaan"
+        },
+        {
+          "en": "hibernation",
+          "bm": "hibernasi"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

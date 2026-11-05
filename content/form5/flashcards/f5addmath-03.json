@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-03",
+  "cards": [
+    {
+      "id": "f5addmath-03-f01",
+      "subtopicId": "f5addmath-03-02",
+      "front": {
+        "en": "Power rule",
+        "bm": "Petua kuasa"
+      },
+      "back": {
+        "en": "∫xⁿ dx = xⁿ⁺¹/(n+1) + c",
+        "bm": "∫xⁿ dx = xⁿ⁺¹/(n+1) + c"
+      }
+    },
+    {
+      "id": "f5addmath-03-f02",
+      "subtopicId": "f5addmath-03-02",
+      "front": {
+        "en": "Linear brackets",
+        "bm": "Kurungan linear"
+      },
+      "back": {
+        "en": "∫(ax+b)ⁿ dx = (ax+b)ⁿ⁺¹/[a(n+1)] + c",
+        "bm": "∫(ax+b)ⁿ dx = (ax+b)ⁿ⁺¹/[a(n+1)] + c"
+      }
+    },
+    {
+      "id": "f5addmath-03-f03",
+      "subtopicId": "f5addmath-03-03",
+      "front": {
+        "en": "Definite integral",
+        "bm": "Kamiran tentu"
+      },
+      "back": {
+        "en": "F(b) − F(a)",
+        "bm": "F(b) − F(a)"
+      }
+    },
+    {
+      "id": "f5addmath-03-f04",
+      "subtopicId": "f5addmath-03-03",
+      "front": {
+        "en": "Swap limits",
+        "bm": "Tukar had"
+      },
+      "back": {
+        "en": "Changes the sign.",
+        "bm": "Mengubah tanda."
+      }
+    },
+    {
+      "id": "f5addmath-03-f05",
+      "subtopicId": "f5addmath-03-04",
+      "front": {
+        "en": "Area",
+        "bm": "Luas"
+      },
+      "back": {
+        "en": "∫y dx",
+        "bm": "∫y dx"
+      }
+    },
+    {
+      "id": "f5addmath-03-f06",
+      "subtopicId": "f5addmath-03-04",
+      "front": {
+        "en": "Volume about x-axis",
+        "bm": "Isi padu pada paksi-x"
+      },
+      "back": {
+        "en": "π∫y² dx",
+        "bm": "π∫y² dx"
+      }
+    }
+  ]
+}

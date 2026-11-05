@@ -1,0 +1,397 @@
+{
+  "chapterId": "f5sej-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Who runs your school, and who owns the land under it? In Malaysia the first is federal and the second belongs to the state.",
+      "bm": "Siapa mentadbir sekolah anda, dan siapa memiliki tanahnya? Di Malaysia yang pertama persekutuan dan yang kedua milik negeri."
+    },
+    "bigIdeas": [
+      {
+        "en": "Power is shared between federal and state governments.",
+        "bm": "Kuasa dikongsi antara kerajaan persekutuan dan negeri."
+      },
+      {
+        "en": "The Ninth Schedule lists who controls what.",
+        "bm": "Jadual Kesembilan menyenaraikan bidang kuasa."
+      },
+      {
+        "en": "Councils and funding keep them working together.",
+        "bm": "Majlis dan peruntukan memastikan mereka bekerjasama."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "List",
+          "bm": "Senarai"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Federal",
+              "bm": "Persekutuan"
+            },
+            "detail": {
+              "en": "defence, education, foreign affairs",
+              "bm": "pertahanan, pendidikan, hal ehwal luar"
+            }
+          },
+          {
+            "label": {
+              "en": "State",
+              "bm": "Negeri"
+            },
+            "detail": {
+              "en": "land, Islam, forests",
+              "bm": "tanah, Islam, hutan"
+            }
+          },
+          {
+            "label": {
+              "en": "Concurrent",
+              "bm": "Bersama"
+            },
+            "detail": {
+              "en": "town planning, social welfare",
+              "bm": "perancangan bandar, kebajikan masyarakat"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Federation",
+          "bm": "Persekutuan"
+        },
+        "definition": {
+          "en": "Union of states under a central government.",
+          "bm": "Gabungan negeri di bawah kerajaan pusat."
+        }
+      },
+      {
+        "term": {
+          "en": "Ninth Schedule",
+          "bm": "Jadual Kesembilan"
+        },
+        "definition": {
+          "en": "Lists federal, state and shared powers.",
+          "bm": "Senarai kuasa persekutuan, negeri dan bersama."
+        }
+      },
+      {
+        "term": {
+          "en": "National Finance Council",
+          "bm": "Majlis Kewangan Negara"
+        },
+        "definition": {
+          "en": "Federal and state body on finance.",
+          "bm": "Badan persekutuan dan negeri berkaitan kewangan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5sej-04-q01",
+      "subtopicId": "f5sej-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Federated Malay States was formed in…",
+        "bm": "Negeri-Negeri Melayu Bersekutu dibentuk pada…"
+      },
+      "explanation": {
+        "en": "Perak, Selangor, Negeri Sembilan and Pahang.",
+        "bm": "Perak, Selangor, Negeri Sembilan dan Pahang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "1896",
+          "bm": "1896"
+        },
+        {
+          "en": "1824",
+          "bm": "1824"
+        },
+        {
+          "en": "1948",
+          "bm": "1948"
+        },
+        {
+          "en": "1963",
+          "bm": "1963"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q02",
+      "subtopicId": "f5sej-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Federation of Malaya was established on…",
+        "bm": "Persekutuan Tanah Melayu ditubuhkan pada…"
+      },
+      "explanation": {
+        "en": "It replaced the Malayan Union.",
+        "bm": "Ia menggantikan Malayan Union."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1 February 1948",
+          "bm": "1 Februari 1948"
+        },
+        {
+          "en": "31 August 1957",
+          "bm": "31 Ogos 1957"
+        },
+        {
+          "en": "16 September 1963",
+          "bm": "16 September 1963"
+        },
+        {
+          "en": "1 April 1946",
+          "bm": "1 April 1946"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q03",
+      "subtopicId": "f5sej-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Defence is on the…",
+        "bm": "Pertahanan terletak dalam…"
+      },
+      "explanation": {
+        "en": "National matters are federal.",
+        "bm": "Hal negara ialah urusan persekutuan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Federal List",
+          "bm": "Senarai Persekutuan"
+        },
+        {
+          "en": "State List",
+          "bm": "Senarai Negeri"
+        },
+        {
+          "en": "Concurrent List",
+          "bm": "Senarai Bersama"
+        },
+        {
+          "en": "Local council list",
+          "bm": "senarai majlis tempatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q04",
+      "subtopicId": "f5sej-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Land is under…",
+        "bm": "Tanah terletak di bawah…"
+      },
+      "explanation": {
+        "en": "States also control forests.",
+        "bm": "Negeri juga mengawal hutan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the State List",
+          "bm": "Senarai Negeri"
+        },
+        {
+          "en": "the Federal List",
+          "bm": "Senarai Persekutuan"
+        },
+        {
+          "en": "foreign control",
+          "bm": "kawalan asing"
+        },
+        {
+          "en": "the courts",
+          "bm": "mahkamah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q05",
+      "subtopicId": "f5sej-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If a federal and a state law conflict, then…",
+        "bm": "Jika undang-undang persekutuan dan negeri bercanggah…"
+      },
+      "explanation": {
+        "en": "Article 75.",
+        "bm": "Perkara 75."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "federal law prevails",
+          "bm": "undang-undang persekutuan mengatasi"
+        },
+        {
+          "en": "state law prevails",
+          "bm": "undang-undang negeri mengatasi"
+        },
+        {
+          "en": "both are void",
+          "bm": "kedua-duanya terbatal"
+        },
+        {
+          "en": "a vote is held",
+          "bm": "undian diadakan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q06",
+      "subtopicId": "f5sej-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sabah and Sarawak have extra autonomy over…",
+        "bm": "Sabah dan Sarawak mempunyai autonomi tambahan dalam…"
+      },
+      "explanation": {
+        "en": "Safeguards agreed in 1963.",
+        "bm": "Jaminan dipersetujui pada 1963."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "immigration",
+          "bm": "imigresen"
+        },
+        {
+          "en": "defence",
+          "bm": "pertahanan"
+        },
+        {
+          "en": "currency",
+          "bm": "mata wang"
+        },
+        {
+          "en": "foreign affairs",
+          "bm": "hal ehwal luar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q07",
+      "subtopicId": "f5sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The National Land Council…",
+        "bm": "Majlis Tanah Negara…"
+      },
+      "explanation": {
+        "en": "It brings federal and state leaders together.",
+        "bm": "Ia menghimpunkan pemimpin persekutuan dan negeri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "coordinates land policy",
+          "bm": "menyelaras dasar tanah"
+        },
+        {
+          "en": "elects the Agong",
+          "bm": "memilih Agong"
+        },
+        {
+          "en": "runs the army",
+          "bm": "mengurus tentera"
+        },
+        {
+          "en": "writes textbooks",
+          "bm": "menulis buku teks"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q08",
+      "subtopicId": "f5sej-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A state government receives money from the federal government through…",
+        "bm": "Kerajaan negeri menerima wang daripada persekutuan melalui…"
+      },
+      "explanation": {
+        "en": "Capitation and road grants are examples.",
+        "bm": "Contohnya geran mengikut bilangan penduduk dan jalan raya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "grants",
+          "bm": "geran"
+        },
+        {
+          "en": "fines only",
+          "bm": "denda sahaja"
+        },
+        {
+          "en": "tourism tickets",
+          "bm": "tiket pelancongan"
+        },
+        {
+          "en": "school fees",
+          "bm": "yuran sekolah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5sej-04-q09",
+      "subtopicId": "f5sej-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which strengthens the federal system?",
+        "bm": "Yang manakah mengukuhkan sistem persekutuan?"
+      },
+      "explanation": {
+        "en": "Trust keeps it working.",
+        "bm": "Kepercayaan memastikan ia berfungsi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A shared national identity and good cooperation",
+          "bm": "Identiti negara dikongsi dan kerjasama baik"
+        },
+        {
+          "en": "State rivalry",
+          "bm": "Persaingan negeri"
+        },
+        {
+          "en": "Separate armies",
+          "bm": "Tentera berasingan"
+        },
+        {
+          "en": "No laws",
+          "bm": "Tiada undang-undang"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

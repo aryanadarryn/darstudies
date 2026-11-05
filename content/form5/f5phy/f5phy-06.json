@@ -1,0 +1,490 @@
+{
+  "chapterId": "f5phy-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A tiny loss of mass releases huge energy: E = mc² powers the Sun and nuclear plants.",
+      "bm": "Kehilangan jisim yang kecil membebaskan tenaga besar: E = mc² menjana Matahari dan loji nuklear."
+    },
+    "bigIdeas": [
+      {
+        "en": "Unstable nuclei decay by α, β and γ.",
+        "bm": "Nukleus tak stabil mereput melalui α, β dan γ."
+      },
+      {
+        "en": "Half-life is the time for activity to halve.",
+        "bm": "Separuh hayat ialah masa keaktifan berkurang separuh."
+      },
+      {
+        "en": "Fission and fusion release energy.",
+        "bm": "Pembelahan dan pelakuran membebaskan tenaga."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Is",
+            "bm": "Ialah"
+          },
+          {
+            "en": "Stopped by",
+            "bm": "Dihalang oleh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "α",
+              "bm": "α"
+            },
+            "cells": [
+              {
+                "en": "helium nucleus",
+                "bm": "nukleus helium"
+              },
+              {
+                "en": "paper",
+                "bm": "kertas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "β",
+              "bm": "β"
+            },
+            "cells": [
+              {
+                "en": "fast electron",
+                "bm": "elektron laju"
+              },
+              {
+                "en": "aluminium",
+                "bm": "aluminium"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "γ",
+              "bm": "γ"
+            },
+            "cells": [
+              {
+                "en": "electromagnetic wave",
+                "bm": "gelombang elektromagnet"
+              },
+              {
+                "en": "thick lead",
+                "bm": "plumbum tebal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Half-life",
+          "bm": "Separuh hayat"
+        },
+        "definition": {
+          "en": "Time for half the nuclei to decay.",
+          "bm": "Masa separuh nukleus mereput."
+        }
+      },
+      {
+        "term": {
+          "en": "Mass defect",
+          "bm": "Cacat jisim"
+        },
+        "definition": {
+          "en": "Mass lost in a nuclear reaction.",
+          "bm": "Jisim hilang dalam tindak balas nuklear."
+        }
+      },
+      {
+        "term": {
+          "en": "Chain reaction",
+          "bm": "Tindak balas berantai"
+        },
+        "definition": {
+          "en": "Neutrons from fission cause more fission.",
+          "bm": "Neutron daripada pembelahan menyebabkan lebih pembelahan."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-emc"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-06-q01",
+      "subtopicId": "f5phy-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which radiation is the most penetrating?",
+        "bm": "Sinaran manakah paling menembusi?"
+      },
+      "explanation": {
+        "en": "Needs thick lead.",
+        "bm": "Perlu plumbum tebal."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "γ",
+          "bm": "γ"
+        },
+        {
+          "en": "α",
+          "bm": "α"
+        },
+        {
+          "en": "β",
+          "bm": "β"
+        },
+        {
+          "en": "all equal",
+          "bm": "semua sama"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q02",
+      "subtopicId": "f5phy-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "α decay reduces the nucleon number by…",
+        "bm": "Reputan α mengurangkan nombor nukleon sebanyak…"
+      },
+      "explanation": {
+        "en": "α is a ⁴He nucleus.",
+        "bm": "α ialah nukleus ⁴He."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q03",
+      "subtopicId": "f5phy-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "β⁻ decay raises the proton number by…",
+        "bm": "Reputan β⁻ menaikkan nombor proton sebanyak…"
+      },
+      "explanation": {
+        "en": "A neutron becomes a proton.",
+        "bm": "Neutron menjadi proton."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q04",
+      "subtopicId": "f5phy-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Activity 800 Bq after 2 half-lives: find what remains.",
+        "bm": "Keaktifan 800 Bq selepas 2 separuh hayat: cari yang tinggal."
+      },
+      "explanation": {
+        "en": "800 ÷ 2^2.",
+        "bm": "800 ÷ 2^2."
+      },
+      "difficulty": 1,
+      "answer": 200,
+      "tolerance": 0.01,
+      "unit": "Bq"
+    },
+    {
+      "id": "f5phy-06-q05",
+      "subtopicId": "f5phy-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Activity 1000 Bq after 3 half-lives: find what remains.",
+        "bm": "Keaktifan 1000 Bq selepas 3 separuh hayat: cari yang tinggal."
+      },
+      "explanation": {
+        "en": "1000 ÷ 2^3.",
+        "bm": "1000 ÷ 2^3."
+      },
+      "difficulty": 2,
+      "answer": 125,
+      "tolerance": 0.01,
+      "unit": "Bq"
+    },
+    {
+      "id": "f5phy-06-q06",
+      "subtopicId": "f5phy-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Activity 640 Bq after 4 half-lives: find what remains.",
+        "bm": "Keaktifan 640 Bq selepas 4 separuh hayat: cari yang tinggal."
+      },
+      "explanation": {
+        "en": "640 ÷ 2^4.",
+        "bm": "640 ÷ 2^4."
+      },
+      "difficulty": 2,
+      "answer": 40,
+      "tolerance": 0.01,
+      "unit": "Bq"
+    },
+    {
+      "id": "f5phy-06-q07",
+      "subtopicId": "f5phy-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A source falls from 160 to 20 counts/s in 15 days. Find the half-life.",
+        "bm": "Sumber turun daripada 160 kepada 20 bilangan/s dalam 15 hari. Cari separuh hayat."
+      },
+      "explanation": {
+        "en": "3 half-lives in 15 days.",
+        "bm": "3 separuh hayat dalam 15 hari."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "days"
+    },
+    {
+      "id": "f5phy-06-q08",
+      "subtopicId": "f5phy-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is a short half-life useful for medical tracers?",
+        "bm": "Mengapa separuh hayat pendek berguna untuk penyurih perubatan?"
+      },
+      "explanation": {
+        "en": "Patients receive less exposure.",
+        "bm": "Pesakit menerima kurang pendedahan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It leaves the body quickly with less dose",
+          "bm": "Ia cepat hilang dan dos kurang"
+        },
+        {
+          "en": "It lasts for centuries",
+          "bm": "Ia tahan berabad-abad"
+        },
+        {
+          "en": "It has no radiation",
+          "bm": "Tiada sinaran"
+        },
+        {
+          "en": "It is cheaper to store for years",
+          "bm": "Lebih murah disimpan bertahun-tahun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q09",
+      "subtopicId": "f5phy-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the energy of a 2 × 10⁻³ kg mass defect, in units of 10¹⁴ J (c = 3 × 10⁸ m/s).",
+        "bm": "Cari tenaga bagi cacat jisim 2 × 10⁻³ kg, dalam unit 10¹⁴ J (c = 3 × 10⁸ m/s)."
+      },
+      "explanation": {
+        "en": "2e−3 × 9e16.",
+        "bm": "2e−3 × 9e16."
+      },
+      "difficulty": 2,
+      "answer": 1.8,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-06-q10",
+      "subtopicId": "f5phy-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Fission releases 200 MeV. Convert to units of 10⁻¹¹ J (1 MeV = 1.6e−13 J).",
+        "bm": "Pembelahan membebaskan 200 MeV. Tukar kepada unit 10⁻¹¹ J (1 MeV = 1.6e−13 J)."
+      },
+      "explanation": {
+        "en": "200 × 1.6e−13.",
+        "bm": "200 × 1.6e−13."
+      },
+      "difficulty": 3,
+      "answer": 3.2,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-06-q11",
+      "subtopicId": "f5phy-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Nuclear fission means…",
+        "bm": "Pembelahan nuklear bermaksud…"
+      },
+      "explanation": {
+        "en": "Used in reactors.",
+        "bm": "Digunakan dalam reaktor."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a heavy nucleus splits",
+          "bm": "nukleus berat terbelah"
+        },
+        {
+          "en": "light nuclei join",
+          "bm": "nukleus ringan bergabung"
+        },
+        {
+          "en": "electrons orbit",
+          "bm": "elektron mengorbit"
+        },
+        {
+          "en": "atoms cool",
+          "bm": "atom menyejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q12",
+      "subtopicId": "f5phy-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Sun shines by…",
+        "bm": "Matahari bersinar melalui…"
+      },
+      "explanation": {
+        "en": "Hydrogen fuses to helium.",
+        "bm": "Hidrogen melakur menjadi helium."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nuclear fusion",
+          "bm": "pelakuran nuklear"
+        },
+        {
+          "en": "fission",
+          "bm": "pembelahan"
+        },
+        {
+          "en": "burning coal",
+          "bm": "pembakaran arang"
+        },
+        {
+          "en": "α decay",
+          "bm": "reputan α"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q13",
+      "subtopicId": "f5phy-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Control rods in a reactor…",
+        "bm": "Rod kawalan dalam reaktor…"
+      },
+      "explanation": {
+        "en": "They slow the chain reaction.",
+        "bm": "Ia melambatkan tindak balas berantai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "absorb neutrons",
+          "bm": "menyerap neutron"
+        },
+        {
+          "en": "release neutrons",
+          "bm": "membebaskan neutron"
+        },
+        {
+          "en": "heat the water",
+          "bm": "memanaskan air"
+        },
+        {
+          "en": "spin the turbine",
+          "bm": "memutar turbin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-06-q14",
+      "subtopicId": "f5phy-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The moderator in a reactor…",
+        "bm": "Moderator dalam reaktor…"
+      },
+      "explanation": {
+        "en": "Water or graphite.",
+        "bm": "Air atau grafit."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "slows neutrons so fission is likely",
+          "bm": "memperlahan neutron supaya pembelahan lebih mungkin"
+        },
+        {
+          "en": "stops all reactions",
+          "bm": "menghentikan semua tindak balas"
+        },
+        {
+          "en": "produces fuel",
+          "bm": "menghasilkan bahan api"
+        },
+        {
+          "en": "generates electricity directly",
+          "bm": "menjana elektrik terus"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

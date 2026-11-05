@@ -1,0 +1,380 @@
+{
+  "chapterId": "f5bi-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Poems and stories are practice for understanding people. Speaking well is simply practice in being understood.",
+      "bm": "Poems and stories are practice for understanding people. Speaking well is simply practice in being understood."
+    },
+    "bigIdeas": [
+      {
+        "en": "Study theme, character, setting and moral values.",
+        "bm": "Study theme, character, setting and moral values."
+      },
+      {
+        "en": "Speaking needs clarity, turn-taking and support for your views.",
+        "bm": "Speaking needs clarity, turn-taking and support for your views."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Element",
+          "bm": "Element"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Theme",
+              "bm": "Theme"
+            },
+            "detail": {
+              "en": "main message",
+              "bm": "main message"
+            }
+          },
+          {
+            "label": {
+              "en": "Character",
+              "bm": "Character"
+            },
+            "detail": {
+              "en": "person in the story",
+              "bm": "person in the story"
+            }
+          },
+          {
+            "label": {
+              "en": "Setting",
+              "bm": "Setting"
+            },
+            "detail": {
+              "en": "time and place",
+              "bm": "time and place"
+            }
+          },
+          {
+            "label": {
+              "en": "Moral value",
+              "bm": "Moral value"
+            },
+            "detail": {
+              "en": "lesson learned",
+              "bm": "lesson learned"
+            }
+          },
+          {
+            "label": {
+              "en": "Plot",
+              "bm": "Plot"
+            },
+            "detail": {
+              "en": "sequence of events",
+              "bm": "sequence of events"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Theme",
+          "bm": "Theme"
+        },
+        "definition": {
+          "en": "The central idea.",
+          "bm": "The central idea."
+        }
+      },
+      {
+        "term": {
+          "en": "Metaphor",
+          "bm": "Metaphor"
+        },
+        "definition": {
+          "en": "Direct comparison without \"like\" or \"as\".",
+          "bm": "Direct comparison without \"like\" or \"as\"."
+        }
+      },
+      {
+        "term": {
+          "en": "Turn-taking",
+          "bm": "Turn-taking"
+        },
+        "definition": {
+          "en": "Letting others speak and responding.",
+          "bm": "Letting others speak and responding."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-08-q01",
+      "subtopicId": "f5bi-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The setting of a story is its…",
+        "bm": "The setting of a story is its…"
+      },
+      "explanation": {
+        "en": "When and where.",
+        "bm": "When and where."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "time and place",
+          "bm": "time and place"
+        },
+        {
+          "en": "main lesson",
+          "bm": "main lesson"
+        },
+        {
+          "en": "author's name",
+          "bm": "author's name"
+        },
+        {
+          "en": "price",
+          "bm": "price"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q02",
+      "subtopicId": "f5bi-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Life is a journey\" is an example of a…",
+        "bm": "\"Life is a journey\" is an example of a…"
+      },
+      "explanation": {
+        "en": "Direct comparison.",
+        "bm": "Direct comparison."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "metaphor",
+          "bm": "metaphor"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "rhyme",
+          "bm": "rhyme"
+        },
+        {
+          "en": "pun",
+          "bm": "pun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q03",
+      "subtopicId": "f5bi-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"As brave as a lion\" is a…",
+        "bm": "\"As brave as a lion\" is a…"
+      },
+      "explanation": {
+        "en": "Uses \"as\".",
+        "bm": "Uses \"as\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "metaphor",
+          "bm": "metaphor"
+        },
+        {
+          "en": "personification",
+          "bm": "personification"
+        },
+        {
+          "en": "hyperbole",
+          "bm": "hyperbole"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q04",
+      "subtopicId": "f5bi-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "To support a point about a character, you should…",
+        "bm": "To support a point about a character, you should…"
+      },
+      "explanation": {
+        "en": "Use evidence.",
+        "bm": "Use evidence."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "quote or describe an event from the text",
+          "bm": "quote or describe an event from the text"
+        },
+        {
+          "en": "guess freely",
+          "bm": "guess freely"
+        },
+        {
+          "en": "name the publisher",
+          "bm": "name the publisher"
+        },
+        {
+          "en": "count the pages",
+          "bm": "count the pages"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q05",
+      "subtopicId": "f5bi-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A polite way to disagree is…",
+        "bm": "A polite way to disagree is…"
+      },
+      "explanation": {
+        "en": "Respectful.",
+        "bm": "Respectful."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "I see your point, but…",
+          "bm": "I see your point, but…"
+        },
+        {
+          "en": "You are wrong!",
+          "bm": "You are wrong!"
+        },
+        {
+          "en": "That is stupid.",
+          "bm": "That is stupid."
+        },
+        {
+          "en": "Stop talking.",
+          "bm": "Stop talking."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q06",
+      "subtopicId": "f5bi-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "To invite another speaker in:",
+        "bm": "To invite another speaker in:"
+      },
+      "explanation": {
+        "en": "Good turn-taking.",
+        "bm": "Good turn-taking."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "What do you think?",
+          "bm": "What do you think?"
+        },
+        {
+          "en": "Be quiet.",
+          "bm": "Be quiet."
+        },
+        {
+          "en": "I am not finished, ever.",
+          "bm": "I am not finished, ever."
+        },
+        {
+          "en": "Nobody asked you.",
+          "bm": "Nobody asked you."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q07",
+      "subtopicId": "f5bi-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a discussion, a good speaker should…",
+        "bm": "In a discussion, a good speaker should…"
+      },
+      "explanation": {
+        "en": "Develop ideas.",
+        "bm": "Develop ideas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "give reasons and examples",
+          "bm": "give reasons and examples"
+        },
+        {
+          "en": "talk the entire time",
+          "bm": "talk the entire time"
+        },
+        {
+          "en": "whisper",
+          "bm": "whisper"
+        },
+        {
+          "en": "read a script word for word",
+          "bm": "read a script word for word"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-08-q08",
+      "subtopicId": "f5bi-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If you don't know a word while speaking, you should…",
+        "bm": "If you don't know a word while speaking, you should…"
+      },
+      "explanation": {
+        "en": "Keep the talk going.",
+        "bm": "Keep the talk going."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "paraphrase using simpler words",
+          "bm": "paraphrase using simpler words"
+        },
+        {
+          "en": "stop completely",
+          "bm": "stop completely"
+        },
+        {
+          "en": "walk away",
+          "bm": "walk away"
+        },
+        {
+          "en": "shout it louder",
+          "bm": "shout it louder"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

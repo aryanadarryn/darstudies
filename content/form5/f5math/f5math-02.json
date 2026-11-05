@@ -1,0 +1,487 @@
+{
+  "chapterId": "f5math-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Every photo on your phone is stored as a matrix of pixel numbers. Filters are matrix calculations.",
+      "bm": "Setiap foto dalam telefon disimpan sebagai matriks nombor piksel. Penapis ialah pengiraan matriks."
+    },
+    "bigIdeas": [
+      {
+        "en": "A matrix has rows and columns.",
+        "bm": "Matriks mempunyai baris dan lajur."
+      },
+      {
+        "en": "Add or subtract only same orders.",
+        "bm": "Tambah atau tolak hanya peringkat sama."
+      },
+      {
+        "en": "Multiply rows by columns.",
+        "bm": "Darab baris dengan lajur."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Check orders",
+              "bm": "Semak peringkat"
+            },
+            "detail": {
+              "en": "m × n and n × p",
+              "bm": "m × n dan n × p"
+            }
+          },
+          {
+            "title": {
+              "en": "Multiply row by column",
+              "bm": "Darab baris dengan lajur"
+            },
+            "detail": {
+              "en": "Add the products",
+              "bm": "Tambah hasil darab"
+            }
+          },
+          {
+            "title": {
+              "en": "Inverse",
+              "bm": "Songsang"
+            },
+            "detail": {
+              "en": "1/(ad − bc)",
+              "bm": "1/(ad − bc)"
+            }
+          },
+          {
+            "title": {
+              "en": "Solve equations",
+              "bm": "Selesaikan persamaan"
+            },
+            "detail": {
+              "en": "X = A⁻¹B",
+              "bm": "X = A⁻¹B"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Order",
+          "bm": "Peringkat"
+        },
+        "definition": {
+          "en": "Rows × columns.",
+          "bm": "Baris × lajur."
+        }
+      },
+      {
+        "term": {
+          "en": "Identity matrix",
+          "bm": "Matriks identiti"
+        },
+        "definition": {
+          "en": "Diagonal of 1s and zeros elsewhere.",
+          "bm": "Pepenjuru 1 dan selainnya sifar."
+        }
+      },
+      {
+        "term": {
+          "en": "Determinant",
+          "bm": "Penentu"
+        },
+        "definition": {
+          "en": "ad − bc for a 2 × 2 matrix.",
+          "bm": "ad − bc bagi matriks 2 × 2."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-mat-inverse",
+      "f5-mat-det"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the determinant of [3 2; 5 4].",
+        "bm": "Cari penentu [3 2; 5 4]."
+      },
+      "steps": [
+        {
+          "en": "ad − bc",
+          "bm": "ad − bc"
+        },
+        {
+          "en": "3 × 4 − 2 × 5",
+          "bm": "3 × 4 − 2 × 5"
+        }
+      ],
+      "answer": {
+        "en": "2",
+        "bm": "2"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-02-q01",
+      "subtopicId": "f5math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A matrix with 2 rows and 3 columns has order…",
+        "bm": "Matriks 2 baris dan 3 lajur berperingkat…"
+      },
+      "explanation": {
+        "en": "Rows first.",
+        "bm": "Baris dahulu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2 × 3",
+          "bm": "2 × 3"
+        },
+        {
+          "en": "3 × 2",
+          "bm": "3 × 2"
+        },
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-02-q02",
+      "subtopicId": "f5math-02-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many elements does a 3 × 4 matrix have?",
+        "bm": "Berapa unsur dalam matriks 3 × 4?"
+      },
+      "explanation": {
+        "en": "3 × 4.",
+        "bm": "3 × 4."
+      },
+      "difficulty": 1,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q03",
+      "subtopicId": "f5math-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A square matrix has…",
+        "bm": "Matriks segi empat sama mempunyai…"
+      },
+      "explanation": {
+        "en": "Such as 2 × 2.",
+        "bm": "Seperti 2 × 2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "equal rows and columns",
+          "bm": "baris dan lajur sama"
+        },
+        {
+          "en": "only zeros",
+          "bm": "sifar sahaja"
+        },
+        {
+          "en": "one row",
+          "bm": "satu baris"
+        },
+        {
+          "en": "one column",
+          "bm": "satu lajur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-02-q04",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the determinant of [3 2; 5 4].",
+        "bm": "Cari penentu [3 2; 5 4]."
+      },
+      "explanation": {
+        "en": "3×4 − 2×5.",
+        "bm": "3×4 − 2×5."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q05",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the determinant of [6 1; 4 2].",
+        "bm": "Cari penentu [6 1; 4 2]."
+      },
+      "explanation": {
+        "en": "6×2 − 1×4.",
+        "bm": "6×2 − 1×4."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q06",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the determinant of [2 5; 1 3].",
+        "bm": "Cari penentu [2 5; 1 3]."
+      },
+      "explanation": {
+        "en": "2×3 − 5×1.",
+        "bm": "2×3 − 5×1."
+      },
+      "difficulty": 2,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q07",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the determinant of [7 3; 2 1].",
+        "bm": "Cari penentu [7 3; 2 1]."
+      },
+      "explanation": {
+        "en": "7×1 − 3×2.",
+        "bm": "7×1 − 3×2."
+      },
+      "difficulty": 2,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q08",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "[2 3] + [4 5]: what is the first element?",
+        "bm": "[2 3] + [4 5]: apakah unsur pertama?"
+      },
+      "explanation": {
+        "en": "2 + 4.",
+        "bm": "2 + 4."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q09",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "3 × [2 5]: what is the second element?",
+        "bm": "3 × [2 5]: apakah unsur kedua?"
+      },
+      "explanation": {
+        "en": "3 × 5.",
+        "bm": "3 × 5."
+      },
+      "difficulty": 1,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q10",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "[1 2] × [3; 4]: find the result.",
+        "bm": "[1 2] × [3; 4]: cari hasilnya."
+      },
+      "explanation": {
+        "en": "1×3 + 2×4.",
+        "bm": "1×3 + 2×4."
+      },
+      "difficulty": 2,
+      "answer": 11,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q11",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "[2 1; 0 3] × [1; 2]: find the top element.",
+        "bm": "[2 1; 0 3] × [1; 2]: cari unsur atas."
+      },
+      "explanation": {
+        "en": "2×1 + 1×2.",
+        "bm": "2×1 + 1×2."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q12",
+      "subtopicId": "f5math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A is 2 × 3 and B is 3 × 4. The order of AB is…",
+        "bm": "A ialah 2 × 3 dan B ialah 3 × 4. Peringkat AB ialah…"
+      },
+      "explanation": {
+        "en": "Outer numbers remain.",
+        "bm": "Nombor luar kekal."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2 × 4",
+          "bm": "2 × 4"
+        },
+        {
+          "en": "3 × 3",
+          "bm": "3 × 3"
+        },
+        {
+          "en": "4 × 2",
+          "bm": "4 × 2"
+        },
+        {
+          "en": "not possible",
+          "bm": "tidak boleh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-02-q13",
+      "subtopicId": "f5math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A matrix has no inverse when…",
+        "bm": "Matriks tiada songsangan apabila…"
+      },
+      "explanation": {
+        "en": "You cannot divide by zero.",
+        "bm": "Tidak boleh bahagi dengan sifar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "its determinant is 0",
+          "bm": "penentunya 0"
+        },
+        {
+          "en": "its determinant is 1",
+          "bm": "penentunya 1"
+        },
+        {
+          "en": "it is 2 × 2",
+          "bm": "ia 2 × 2"
+        },
+        {
+          "en": "all elements are positive",
+          "bm": "semua unsur positif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-02-q14",
+      "subtopicId": "f5math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The inverse of [3 1; 5 2] is…",
+        "bm": "Songsangan [3 1; 5 2] ialah…"
+      },
+      "explanation": {
+        "en": "Determinant = 1; swap a, d and negate b, c.",
+        "bm": "Penentu = 1; tukar a, d dan negatifkan b, c."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "[2 −1; −5 3]",
+          "bm": "[2 −1; −5 3]"
+        },
+        {
+          "en": "[3 −1; −5 2]",
+          "bm": "[3 −1; −5 2]"
+        },
+        {
+          "en": "[2 1; 5 3]",
+          "bm": "[2 1; 5 3]"
+        },
+        {
+          "en": "[−2 1; 5 −3]",
+          "bm": "[−2 1; 5 −3]"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-02-q15",
+      "subtopicId": "f5math-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Solve with matrices: 2x + y = 5 and x + y = 3. Find x.",
+        "bm": "Selesaikan dengan matriks: 2x + y = 5 dan x + y = 3. Cari x."
+      },
+      "explanation": {
+        "en": "x = (1×5 − 1×3) ÷ 1.",
+        "bm": "x = (1×5 − 1×3) ÷ 1."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-02-q16",
+      "subtopicId": "f5math-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Matrix multiplication is generally…",
+        "bm": "Pendaraban matriks secara amnya…"
+      },
+      "explanation": {
+        "en": "Order matters.",
+        "bm": "Susunan penting."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "not commutative (AB ≠ BA)",
+          "bm": "bukan kalis tukar tertib (AB ≠ BA)"
+        },
+        {
+          "en": "always commutative",
+          "bm": "sentiasa kalis tukar tertib"
+        },
+        {
+          "en": "impossible",
+          "bm": "mustahil"
+        },
+        {
+          "en": "the same as addition",
+          "bm": "sama dengan penambahan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

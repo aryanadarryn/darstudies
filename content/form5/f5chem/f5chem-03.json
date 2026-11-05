@@ -1,0 +1,491 @@
+{
+  "chapterId": "f5chem-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An instant cold pack gets icy when squeezed; a self-heating can warms itself. Both use chemistry to move heat.",
+      "bm": "Pek sejuk segera menjadi dingin apabila dipicit; tin swa-panas memanaskan diri. Kedua-duanya memindahkan haba melalui kimia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Exothermic reactions release heat; ΔH is negative.",
+        "bm": "Tindak balas eksotermik membebaskan haba; ΔH negatif."
+      },
+      {
+        "en": "Endothermic reactions absorb heat; ΔH is positive.",
+        "bm": "Tindak balas endotermik menyerap haba; ΔH positif."
+      },
+      {
+        "en": "Q = mcθ gives the heat change.",
+        "bm": "Q = mcθ memberi perubahan haba."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Exothermic",
+            "bm": "Eksotermik"
+          },
+          {
+            "en": "Endothermic",
+            "bm": "Endotermik"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Heat",
+              "bm": "Haba"
+            },
+            "cells": [
+              {
+                "en": "released",
+                "bm": "dibebaskan"
+              },
+              {
+                "en": "absorbed",
+                "bm": "diserap"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "ΔH",
+              "bm": "ΔH"
+            },
+            "cells": [
+              {
+                "en": "negative",
+                "bm": "negatif"
+              },
+              {
+                "en": "positive",
+                "bm": "positif"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Temperature",
+              "bm": "Suhu"
+            },
+            "cells": [
+              {
+                "en": "rises",
+                "bm": "naik"
+              },
+              {
+                "en": "falls",
+                "bm": "turun"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Example",
+              "bm": "Contoh"
+            },
+            "cells": [
+              {
+                "en": "combustion",
+                "bm": "pembakaran"
+              },
+              {
+                "en": "photosynthesis",
+                "bm": "fotosintesis"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Heat of neutralisation",
+          "bm": "Haba penetralan"
+        },
+        "definition": {
+          "en": "Heat when 1 mol of water forms from acid and alkali.",
+          "bm": "Haba apabila 1 mol air terbentuk daripada asid dan alkali."
+        }
+      },
+      {
+        "term": {
+          "en": "Heat of combustion",
+          "bm": "Haba pembakaran"
+        },
+        "definition": {
+          "en": "Heat when 1 mol of a substance burns completely.",
+          "bm": "Haba apabila 1 mol bahan terbakar lengkap."
+        }
+      },
+      {
+        "term": {
+          "en": "Fuel value",
+          "bm": "Nilai bahan api"
+        },
+        "definition": {
+          "en": "Energy per gram of fuel.",
+          "bm": "Tenaga per gram bahan api."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-ch-q"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5chem-03-q01",
+      "subtopicId": "f5chem-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "An exothermic reaction…",
+        "bm": "Tindak balas eksotermik…"
+      },
+      "explanation": {
+        "en": "Temperature rises.",
+        "bm": "Suhu naik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "releases heat",
+          "bm": "membebaskan haba"
+        },
+        {
+          "en": "absorbs heat",
+          "bm": "menyerap haba"
+        },
+        {
+          "en": "has positive ΔH",
+          "bm": "mempunyai ΔH positif"
+        },
+        {
+          "en": "always needs light",
+          "bm": "sentiasa perlu cahaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q02",
+      "subtopicId": "f5chem-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is endothermic?",
+        "bm": "Yang manakah endotermik?"
+      },
+      "explanation": {
+        "en": "Used in cold packs.",
+        "bm": "Digunakan dalam pek sejuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Dissolving NH₄NO₃",
+          "bm": "Melarutkan NH₄NO₃"
+        },
+        {
+          "en": "Burning petrol",
+          "bm": "Pembakaran petrol"
+        },
+        {
+          "en": "Neutralisation",
+          "bm": "Penetralan"
+        },
+        {
+          "en": "Rusting",
+          "bm": "Pengaratan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q03",
+      "subtopicId": "f5chem-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In an exothermic energy diagram…",
+        "bm": "Dalam gambar rajah aras tenaga eksotermik…"
+      },
+      "explanation": {
+        "en": "Energy is released.",
+        "bm": "Tenaga dibebaskan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "products are lower than reactants",
+          "bm": "hasil lebih rendah daripada bahan"
+        },
+        {
+          "en": "products are higher",
+          "bm": "hasil lebih tinggi"
+        },
+        {
+          "en": "both are equal",
+          "bm": "kedua-duanya sama"
+        },
+        {
+          "en": "no energy change",
+          "bm": "tiada perubahan tenaga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q04",
+      "subtopicId": "f5chem-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Breaking bonds is…",
+        "bm": "Memutuskan ikatan adalah…"
+      },
+      "explanation": {
+        "en": "Forming bonds releases energy.",
+        "bm": "Pembentukan ikatan membebaskan tenaga."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "endothermic",
+          "bm": "endotermik"
+        },
+        {
+          "en": "exothermic",
+          "bm": "eksotermik"
+        },
+        {
+          "en": "instant cooling only",
+          "bm": "penyejukan segera sahaja"
+        },
+        {
+          "en": "energy free",
+          "bm": "tanpa tenaga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q05",
+      "subtopicId": "f5chem-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "100 g water rises 10 °C (c = 4.2 J/g°C). Find Q in J.",
+        "bm": "100 g air naik 10 °C (c = 4.2 J/g°C). Cari Q dalam J."
+      },
+      "explanation": {
+        "en": "mcθ.",
+        "bm": "mcθ."
+      },
+      "difficulty": 1,
+      "answer": 4200,
+      "tolerance": 0.01,
+      "unit": "J"
+    },
+    {
+      "id": "f5chem-03-q06",
+      "subtopicId": "f5chem-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "200 g solution rises 5 °C (c = 4.2). Find Q in kJ.",
+        "bm": "200 g larutan naik 5 °C (c = 4.2). Cari Q dalam kJ."
+      },
+      "explanation": {
+        "en": "4200 J.",
+        "bm": "4200 J."
+      },
+      "difficulty": 2,
+      "answer": 4.2,
+      "tolerance": 0.01,
+      "unit": "kJ"
+    },
+    {
+      "id": "f5chem-03-q07",
+      "subtopicId": "f5chem-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "0.05 mol of water forms and 2.85 kJ is released. Find the heat of neutralisation.",
+        "bm": "0.05 mol air terbentuk dan 2.85 kJ dibebaskan. Cari haba penetralan."
+      },
+      "explanation": {
+        "en": "2.85 ÷ 0.05.",
+        "bm": "2.85 ÷ 0.05."
+      },
+      "difficulty": 3,
+      "answer": 57,
+      "tolerance": 0.01,
+      "unit": "kJ/mol"
+    },
+    {
+      "id": "f5chem-03-q08",
+      "subtopicId": "f5chem-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "0.01 mol of fuel heats 200 g of water by 25 °C. Find the heat of combustion in kJ/mol (c = 4.2).",
+        "bm": "0.01 mol bahan api memanaskan 200 g air sebanyak 25 °C. Cari haba pembakaran dalam kJ/mol (c = 4.2)."
+      },
+      "explanation": {
+        "en": "21 kJ ÷ 0.01.",
+        "bm": "21 kJ ÷ 0.01."
+      },
+      "difficulty": 3,
+      "answer": 2100,
+      "tolerance": 0.01,
+      "unit": "kJ/mol"
+    },
+    {
+      "id": "f5chem-03-q09",
+      "subtopicId": "f5chem-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is the heat of neutralisation with a weak acid lower?",
+        "bm": "Mengapa haba penetralan asid lemah lebih rendah?"
+      },
+      "explanation": {
+        "en": "Partial ionisation absorbs energy.",
+        "bm": "Pengionan separa menyerap tenaga."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Some heat ionises the acid",
+          "bm": "Sebahagian haba mengionkan asid"
+        },
+        {
+          "en": "No water forms",
+          "bm": "Tiada air terbentuk"
+        },
+        {
+          "en": "It has no H⁺",
+          "bm": "Tiada H⁺"
+        },
+        {
+          "en": "It is colder",
+          "bm": "Ia lebih sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q10",
+      "subtopicId": "f5chem-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Higher alcohols have larger heats of combustion because…",
+        "bm": "Alkohol lebih tinggi mempunyai haba pembakaran lebih besar kerana…"
+      },
+      "explanation": {
+        "en": "More CO₂ and water form.",
+        "bm": "Lebih banyak CO₂ dan air terbentuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "they have more C and H atoms",
+          "bm": "lebih banyak atom C dan H"
+        },
+        {
+          "en": "they are lighter",
+          "bm": "lebih ringan"
+        },
+        {
+          "en": "they have no oxygen",
+          "bm": "tiada oksigen"
+        },
+        {
+          "en": "they are ionic",
+          "bm": "bersifat ion"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q11",
+      "subtopicId": "f5chem-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Instant cold packs are…",
+        "bm": "Pek sejuk segera adalah…"
+      },
+      "explanation": {
+        "en": "They absorb heat from surroundings.",
+        "bm": "Ia menyerap haba dari persekitaran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "endothermic",
+          "bm": "endotermik"
+        },
+        {
+          "en": "exothermic",
+          "bm": "eksotermik"
+        },
+        {
+          "en": "nuclear",
+          "bm": "nuklear"
+        },
+        {
+          "en": "redox only",
+          "bm": "redoks sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-03-q12",
+      "subtopicId": "f5chem-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "A fuel gives 2100 kJ per 46 g. Find its fuel value to the nearest kJ/g.",
+        "bm": "Bahan api memberi 2100 kJ per 46 g. Cari nilai bahan api kepada kJ/g terdekat."
+      },
+      "explanation": {
+        "en": "2100 ÷ 46 ≈ 45.7.",
+        "bm": "2100 ÷ 46 ≈ 45.7."
+      },
+      "difficulty": 2,
+      "answer": 46,
+      "tolerance": 0.02,
+      "unit": "kJ/g"
+    },
+    {
+      "id": "f5chem-03-q13",
+      "subtopicId": "f5chem-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choosing a good fuel means considering…",
+        "bm": "Memilih bahan api yang baik mengambil kira…"
+      },
+      "explanation": {
+        "en": "Hydrogen burns cleanly, for example.",
+        "bm": "Contohnya hidrogen terbakar bersih."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "fuel value, cost and pollution",
+          "bm": "nilai bahan api, kos dan pencemaran"
+        },
+        {
+          "en": "colour only",
+          "bm": "warna sahaja"
+        },
+        {
+          "en": "smell only",
+          "bm": "bau sahaja"
+        },
+        {
+          "en": "the bottle shape",
+          "bm": "bentuk botol"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

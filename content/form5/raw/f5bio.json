@@ -1,0 +1,478 @@
+{
+  "id": "f5bio",
+  "name": {
+    "en": "Biology",
+    "bm": "Biologi"
+  },
+  "short": {
+    "en": "Biology",
+    "bm": "Biologi"
+  },
+  "color": "#16a34a",
+  "source": "Chapter and subtopic titles follow the KSSM Biology Form 5 textbook list (13 chapters). Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Organisation of Plant Tissues and Growth",
+        "bm": "Organisasi Tisu Tumbuhan dan Pertumbuhan"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Organisation of Plant Tissues",
+            "bm": "Organisasi Tisu Tumbuhan"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Meristematic Tissues and Growth",
+            "bm": "Tisu Meristem dan Pertumbuhan"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Growth Curves",
+            "bm": "Lengkung Pertumbuhan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Leaf Structure and Function",
+        "bm": "Struktur dan Fungsi Daun"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Leaf Structure",
+            "bm": "Struktur Daun"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Main Organ for Gaseous Exchange",
+            "bm": "Organ Utama Pertukaran Gas"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Main Organ for Transpiration",
+            "bm": "Organ Utama Transpirasi"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Main Organ for Photosynthesis",
+            "bm": "Organ Utama Fotosintesis"
+          }
+        },
+        {
+          "code": "2.5",
+          "title": {
+            "en": "Compensation Point",
+            "bm": "Titik Pampasan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Nutrition in Plants",
+        "bm": "Nutrisi dalam Tumbuhan"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Main Inorganic Nutrients",
+            "bm": "Nutrien Tak Organik Utama"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Organ for Water and Mineral Salts Uptake",
+            "bm": "Organ Pengambilan Air dan Garam Mineral"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Diversity in Plant Nutrition",
+            "bm": "Kepelbagaian dalam Nutrisi Tumbuhan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Transport in Plants",
+        "bm": "Pengangkutan dalam Tumbuhan"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Vascular Tissues",
+            "bm": "Tisu Vaskular"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Transport of Water and Mineral Salts",
+            "bm": "Pengangkutan Air dan Garam Mineral"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Translocation",
+            "bm": "Translokasi"
+          }
+        },
+        {
+          "code": "4.4",
+          "title": {
+            "en": "Phytoremediation",
+            "bm": "Fitoremediasi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Response in Plants",
+        "bm": "Gerak Balas dalam Tumbuhan"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Types of Responses",
+            "bm": "Jenis Gerak Balas"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Phytohormones",
+            "bm": "Fitohormon"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Application of Phytohormones in Agriculture",
+            "bm": "Aplikasi Fitohormon dalam Pertanian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Sexual Reproduction in Flowering Plants",
+        "bm": "Pembiakan Seks dalam Tumbuhan Berbunga"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Structure of a Flower",
+            "bm": "Struktur Bunga"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Development of Pollen Grains and Embryo Sac",
+            "bm": "Pembentukan Debunga dan Pundi Embrio"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Pollination and Fertilisation",
+            "bm": "Pendebungaan dan Persenyawaan"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Development of Seed and Fruit",
+            "bm": "Perkembangan Biji Benih dan Buah"
+          }
+        },
+        {
+          "code": "6.5",
+          "title": {
+            "en": "Importance of Seed for Survival",
+            "bm": "Kepentingan Biji Benih untuk Kemandirian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Adaptations of Plants in Different Habitats",
+        "bm": "Penyesuaian Tumbuhan pada Habitat"
+      },
+      "theme": {
+        "en": "Plant Physiology",
+        "bm": "Fisiologi Tumbuhan"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Plant Adaptations Based on Habitat",
+            "bm": "Penyesuaian Tumbuhan Berdasarkan Habitat"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Biodiversity",
+        "bm": "Biodiversiti"
+      },
+      "theme": {
+        "en": "Ecosystem and Environmental Sustainability",
+        "bm": "Ekosistem dan Kelestarian Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Diversity of Species",
+            "bm": "Kepelbagaian Spesies"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Importance of Biodiversity",
+            "bm": "Kepentingan Biodiversiti"
+          }
+        },
+        {
+          "code": "8.3",
+          "title": {
+            "en": "Preservation and Conservation of Biodiversity",
+            "bm": "Pemeliharaan dan Pemuliharaan Biodiversiti"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": {
+        "en": "Ecosystem",
+        "bm": "Ekosistem"
+      },
+      "theme": {
+        "en": "Ecosystem and Environmental Sustainability",
+        "bm": "Ekosistem dan Kelestarian Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "9.1",
+          "title": {
+            "en": "Components of an Ecosystem",
+            "bm": "Komponen Ekosistem"
+          }
+        },
+        {
+          "code": "9.2",
+          "title": {
+            "en": "Interactions in an Ecosystem",
+            "bm": "Interaksi dalam Ekosistem"
+          }
+        },
+        {
+          "code": "9.3",
+          "title": {
+            "en": "Balance in an Ecosystem",
+            "bm": "Keseimbangan dalam Ekosistem"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": {
+        "en": "Environmental Sustainability",
+        "bm": "Kelestarian Alam Sekitar"
+      },
+      "theme": {
+        "en": "Ecosystem and Environmental Sustainability",
+        "bm": "Ekosistem dan Kelestarian Alam Sekitar"
+      },
+      "subtopics": [
+        {
+          "code": "10.1",
+          "title": {
+            "en": "Environmental Issues",
+            "bm": "Isu Alam Sekitar"
+          }
+        },
+        {
+          "code": "10.2",
+          "title": {
+            "en": "Conservation and Preservation of the Environment",
+            "bm": "Usaha Pemuliharaan dan Pemeliharaan Alam Sekitar"
+          }
+        },
+        {
+          "code": "10.3",
+          "title": {
+            "en": "Roles of Individuals and Community",
+            "bm": "Peranan Individu dan Komuniti dalam Kelestarian Alam Sekitar"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": {
+        "en": "Inheritance",
+        "bm": "Pewarisan"
+      },
+      "theme": {
+        "en": "Inheritance, Variation and Genetic Technology",
+        "bm": "Pewarisan, Variasi dan Teknologi Genetik"
+      },
+      "subtopics": [
+        {
+          "code": "11.1",
+          "title": {
+            "en": "Concept of Inheritance",
+            "bm": "Konsep Pewarisan"
+          }
+        },
+        {
+          "code": "11.2",
+          "title": {
+            "en": "Mendel's Laws",
+            "bm": "Hukum Mendel"
+          }
+        },
+        {
+          "code": "11.3",
+          "title": {
+            "en": "Inheritance in Humans",
+            "bm": "Pewarisan Sifat dalam Manusia"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": {
+        "en": "Variation",
+        "bm": "Variasi"
+      },
+      "theme": {
+        "en": "Inheritance, Variation and Genetic Technology",
+        "bm": "Pewarisan, Variasi dan Teknologi Genetik"
+      },
+      "subtopics": [
+        {
+          "code": "12.1",
+          "title": {
+            "en": "Types of Variation",
+            "bm": "Jenis Variasi"
+          }
+        },
+        {
+          "code": "12.2",
+          "title": {
+            "en": "Factors Affecting Variation",
+            "bm": "Faktor yang Mempengaruhi Variasi"
+          }
+        },
+        {
+          "code": "12.3",
+          "title": {
+            "en": "Importance of Variation in Natural Selection",
+            "bm": "Kepentingan Variasi dalam Pemilihan Semula Jadi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": {
+        "en": "Genetic Technology",
+        "bm": "Teknologi Genetik"
+      },
+      "theme": {
+        "en": "Inheritance, Variation and Genetic Technology",
+        "bm": "Pewarisan, Variasi dan Teknologi Genetik"
+      },
+      "subtopics": [
+        {
+          "code": "13.1",
+          "title": {
+            "en": "Genetic Engineering",
+            "bm": "Kejuruteraan Genetik"
+          }
+        },
+        {
+          "code": "13.2",
+          "title": {
+            "en": "Application of Genetic Technology in Daily Life",
+            "bm": "Aplikasi Teknologi Genetik dalam Kehidupan Seharian"
+          }
+        },
+        {
+          "code": "13.3",
+          "title": {
+            "en": "Ethical Issues in Genetic Technology",
+            "bm": "Isu Etika dalam Teknologi Genetik"
+          }
+        }
+      ]
+    }
+  ]
+}

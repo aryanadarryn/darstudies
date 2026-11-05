@@ -1,0 +1,507 @@
+{
+  "chapterId": "f5addmath-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Integration adds up tiny strips to find a total, like the area under a curve or how far a car has travelled.",
+      "bm": "Pengamiran menjumlahkan jalur kecil untuk mencari jumlah, seperti luas di bawah lengkung atau jarak perjalanan kereta."
+    },
+    "bigIdeas": [
+      {
+        "en": "Integration reverses differentiation.",
+        "bm": "Pengamiran menyongsangkan pembezaan."
+      },
+      {
+        "en": "Indefinite integrals need + c.",
+        "bm": "Kamiran tak tentu memerlukan + c."
+      },
+      {
+        "en": "Definite integrals give numbers such as area.",
+        "bm": "Kamiran tentu memberi nombor seperti luas."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Add 1 to the power",
+              "bm": "Tambah 1 pada kuasa"
+            },
+            "detail": {
+              "en": "xⁿ → xⁿ⁺¹",
+              "bm": "xⁿ → xⁿ⁺¹"
+            }
+          },
+          {
+            "title": {
+              "en": "Divide by new power",
+              "bm": "Bahagi kuasa baharu"
+            },
+            "detail": {
+              "en": "÷ (n + 1)",
+              "bm": "÷ (n + 1)"
+            }
+          },
+          {
+            "title": {
+              "en": "Add c",
+              "bm": "Tambah c"
+            },
+            "detail": {
+              "en": "Indefinite only",
+              "bm": "Tak tentu sahaja"
+            }
+          },
+          {
+            "title": {
+              "en": "Substitute limits",
+              "bm": "Gantikan had"
+            },
+            "detail": {
+              "en": "F(b) − F(a)",
+              "bm": "F(b) − F(a)"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Indefinite integral",
+          "bm": "Kamiran tak tentu"
+        },
+        "definition": {
+          "en": "Family of functions with + c.",
+          "bm": "Keluarga fungsi dengan + c."
+        }
+      },
+      {
+        "term": {
+          "en": "Definite integral",
+          "bm": "Kamiran tentu"
+        },
+        "definition": {
+          "en": "Value between limits.",
+          "bm": "Nilai antara had."
+        }
+      },
+      {
+        "term": {
+          "en": "Volume of revolution",
+          "bm": "Isi padu kisaran"
+        },
+        "definition": {
+          "en": "Solid formed by rotating a region.",
+          "bm": "Pepejal terhasil daripada memutar rantau."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-int",
+      "f5-am-area",
+      "f5-am-vol"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find ∫₁³ 2x dx.",
+        "bm": "Cari ∫₁³ 2x dx."
+      },
+      "steps": [
+        {
+          "en": "[x²] from 1 to 3",
+          "bm": "[x²] dari 1 hingga 3"
+        },
+        {
+          "en": "9 − 1",
+          "bm": "9 − 1"
+        }
+      ],
+      "answer": {
+        "en": "8",
+        "bm": "8"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-03-q01",
+      "subtopicId": "f5addmath-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If dy/dx = 3x², then ∫3x² dx = …",
+        "bm": "Jika dy/dx = 3x², maka ∫3x² dx = …"
+      },
+      "explanation": {
+        "en": "Reverse of differentiating x³.",
+        "bm": "Songsangan pembezaan x³."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "x³ + c",
+          "bm": "x³ + c"
+        },
+        {
+          "en": "6x + c",
+          "bm": "6x + c"
+        },
+        {
+          "en": "3x³ + c",
+          "bm": "3x³ + c"
+        },
+        {
+          "en": "x² + c",
+          "bm": "x² + c"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-03-q02",
+      "subtopicId": "f5addmath-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why do we write + c?",
+        "bm": "Mengapa ditulis + c?"
+      },
+      "explanation": {
+        "en": "Any constant could have been there.",
+        "bm": "Mana-mana pemalar mungkin ada."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Constants vanish on differentiation",
+          "bm": "Pemalar hilang semasa pembezaan"
+        },
+        {
+          "en": "For decoration",
+          "bm": "Untuk hiasan"
+        },
+        {
+          "en": "To add a variable",
+          "bm": "Untuk menambah pemboleh ubah"
+        },
+        {
+          "en": "Because c = 0",
+          "bm": "Kerana c = 0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-03-q03",
+      "subtopicId": "f5addmath-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "∫x⁴ dx = …",
+        "bm": "∫x⁴ dx = …"
+      },
+      "explanation": {
+        "en": "Add 1; divide by new power.",
+        "bm": "Tambah 1; bahagi kuasa baharu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "x⁵/5 + c",
+          "bm": "x⁵/5 + c"
+        },
+        {
+          "en": "4x³ + c",
+          "bm": "4x³ + c"
+        },
+        {
+          "en": "x⁵ + c",
+          "bm": "x⁵ + c"
+        },
+        {
+          "en": "5x⁵ + c",
+          "bm": "5x⁵ + c"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-03-q04",
+      "subtopicId": "f5addmath-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "∫5 dx = …",
+        "bm": "∫5 dx = …"
+      },
+      "explanation": {
+        "en": "A constant integrates to kx.",
+        "bm": "Pemalar dikamir menjadi kx."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "5x + c",
+          "bm": "5x + c"
+        },
+        {
+          "en": "5 + c",
+          "bm": "5 + c"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "x⁵ + c",
+          "bm": "x⁵ + c"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-03-q05",
+      "subtopicId": "f5addmath-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "∫(2x + 1)³ dx = …",
+        "bm": "∫(2x + 1)³ dx = …"
+      },
+      "explanation": {
+        "en": "Divide by 4 and by 2.",
+        "bm": "Bahagi 4 dan 2."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "(2x + 1)⁴/8 + c",
+          "bm": "(2x + 1)⁴/8 + c"
+        },
+        {
+          "en": "(2x + 1)⁴/4 + c",
+          "bm": "(2x + 1)⁴/4 + c"
+        },
+        {
+          "en": "3(2x + 1)² + c",
+          "bm": "3(2x + 1)² + c"
+        },
+        {
+          "en": "(2x + 1)⁴ + c",
+          "bm": "(2x + 1)⁴ + c"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-03-q06",
+      "subtopicId": "f5addmath-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "dy/dx = 2x and the curve passes through (1, 5). Find y at x = 3.",
+        "bm": "dy/dx = 2x dan lengkung melalui (1, 5). Cari y pada x = 3."
+      },
+      "explanation": {
+        "en": "y = x² + 4.",
+        "bm": "y = x² + 4."
+      },
+      "difficulty": 3,
+      "answer": 13,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q07",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find ∫ from 1 to 3 of 2x dx.",
+        "bm": "Cari ∫ dari 1 hingga 3 bagi 2x dx."
+      },
+      "explanation": {
+        "en": "Antiderivative x^2: 9 − 1.",
+        "bm": "Antiterbitan x^2: 9 − 1."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q08",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find ∫ from 0 to 2 of 3x² dx.",
+        "bm": "Cari ∫ dari 0 hingga 2 bagi 3x² dx."
+      },
+      "explanation": {
+        "en": "Antiderivative x^3: 8 − 0.",
+        "bm": "Antiterbitan x^3: 8 − 0."
+      },
+      "difficulty": 1,
+      "answer": 8,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q09",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find ∫ from 2 to 4 of 2x dx.",
+        "bm": "Cari ∫ dari 2 hingga 4 bagi 2x dx."
+      },
+      "explanation": {
+        "en": "Antiderivative x^2: 16 − 4.",
+        "bm": "Antiterbitan x^2: 16 − 4."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q10",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find ∫ from 1 to 2 of 4x³ dx.",
+        "bm": "Cari ∫ dari 1 hingga 2 bagi 4x³ dx."
+      },
+      "explanation": {
+        "en": "Antiderivative x^4: 16 − 1.",
+        "bm": "Antiterbitan x^4: 16 − 1."
+      },
+      "difficulty": 2,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q11",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "If ∫₁⁴ f(x) dx = 7, find ∫₄¹ f(x) dx.",
+        "bm": "Jika ∫₁⁴ f(x) dx = 7, cari ∫₄¹ f(x) dx."
+      },
+      "explanation": {
+        "en": "Swapping limits changes the sign.",
+        "bm": "Menukar had mengubah tanda."
+      },
+      "difficulty": 2,
+      "answer": -7,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q12",
+      "subtopicId": "f5addmath-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "If ∫₁³ f(x) dx = 5, find ∫₁³ [2f(x) + 1] dx.",
+        "bm": "Jika ∫₁³ f(x) dx = 5, cari ∫₁³ [2f(x) + 1] dx."
+      },
+      "explanation": {
+        "en": "10 + 2.",
+        "bm": "10 + 2."
+      },
+      "difficulty": 3,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q13",
+      "subtopicId": "f5addmath-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Area under y = x² from x = 0 to 3.",
+        "bm": "Luas di bawah y = x² dari x = 0 hingga 3."
+      },
+      "explanation": {
+        "en": "[x³/3] = 9.",
+        "bm": "[x³/3] = 9."
+      },
+      "difficulty": 2,
+      "answer": 9,
+      "tolerance": 0,
+      "unit": "units²"
+    },
+    {
+      "id": "f5addmath-03-q14",
+      "subtopicId": "f5addmath-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Area under y = 2x + 1 from x = 1 to 3.",
+        "bm": "Luas di bawah y = 2x + 1 dari x = 1 hingga 3."
+      },
+      "explanation": {
+        "en": "(9 + 3) − (1 + 1).",
+        "bm": "(9 + 3) − (1 + 1)."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "units²"
+    },
+    {
+      "id": "f5addmath-03-q15",
+      "subtopicId": "f5addmath-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Area between y = 4 − x² and the x-axis from −2 to 2 (2 d.p.).",
+        "bm": "Luas antara y = 4 − x² dan paksi-x dari −2 hingga 2 (2 t.p.)."
+      },
+      "explanation": {
+        "en": "[4x − x³/3] = 32/3.",
+        "bm": "[4x − x³/3] = 32/3."
+      },
+      "difficulty": 3,
+      "answer": 10.67,
+      "tolerance": 0.002,
+      "unit": "units²"
+    },
+    {
+      "id": "f5addmath-03-q16",
+      "subtopicId": "f5addmath-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Volume generated by rotating y = x from 0 to 3 about the x-axis, in terms of π: give the multiple of π.",
+        "bm": "Isi padu apabila y = x dari 0 hingga 3 diputar pada paksi-x, dalam sebutan π: beri gandaan π."
+      },
+      "explanation": {
+        "en": "π∫x² dx = 9π.",
+        "bm": "π∫x² dx = 9π."
+      },
+      "difficulty": 3,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-03-q17",
+      "subtopicId": "f5addmath-03-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A definite integral gives a negative value when the curve is…",
+        "bm": "Kamiran tentu memberi nilai negatif apabila lengkung…"
+      },
+      "explanation": {
+        "en": "Take the absolute value for area.",
+        "bm": "Ambil nilai mutlak untuk luas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "below the x-axis",
+          "bm": "di bawah paksi-x"
+        },
+        {
+          "en": "above the x-axis",
+          "bm": "di atas paksi-x"
+        },
+        {
+          "en": "a straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "horizontal",
+          "bm": "mengufuk"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

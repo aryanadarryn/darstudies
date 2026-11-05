@@ -1,0 +1,616 @@
+{
+  "chapterId": "f5chem-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Petrol, vinegar, alcohol and perfume differ only by their carbon chains and functional groups.",
+      "bm": "Petrol, cuka, alkohol dan minyak wangi berbeza hanya dari segi rantai karbon dan kumpulan berfungsi."
+    },
+    "bigIdeas": [
+      {
+        "en": "Organic compounds contain carbon.",
+        "bm": "Sebatian organik mengandungi karbon."
+      },
+      {
+        "en": "Each homologous series has a general formula.",
+        "bm": "Setiap siri homolog ada formula am."
+      },
+      {
+        "en": "Functional groups decide properties.",
+        "bm": "Kumpulan berfungsi menentukan sifat."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "General formula",
+            "bm": "Formula am"
+          },
+          {
+            "en": "Group",
+            "bm": "Kumpulan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Alkane",
+              "bm": "Alkana"
+            },
+            "cells": [
+              {
+                "en": "CₙH₂ₙ₊₂",
+                "bm": "CₙH₂ₙ₊₂"
+              },
+              {
+                "en": "C–C",
+                "bm": "C–C"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Alkene",
+              "bm": "Alkena"
+            },
+            "cells": [
+              {
+                "en": "CₙH₂ₙ",
+                "bm": "CₙH₂ₙ"
+              },
+              {
+                "en": "C=C",
+                "bm": "C=C"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Alcohol",
+              "bm": "Alkohol"
+            },
+            "cells": [
+              {
+                "en": "CₙH₂ₙ₊₁OH",
+                "bm": "CₙH₂ₙ₊₁OH"
+              },
+              {
+                "en": "–OH",
+                "bm": "–OH"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Carboxylic acid",
+              "bm": "Asid karboksilik"
+            },
+            "cells": [
+              {
+                "en": "CₙH₂ₙ₊₁COOH",
+                "bm": "CₙH₂ₙ₊₁COOH"
+              },
+              {
+                "en": "–COOH",
+                "bm": "–COOH"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Ester",
+              "bm": "Ester"
+            },
+            "cells": [
+              {
+                "en": "R–COO–R′",
+                "bm": "R–COO–R′"
+              },
+              {
+                "en": "–COO–",
+                "bm": "–COO–"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Hydrocarbon",
+          "bm": "Hidrokarbon"
+        },
+        "definition": {
+          "en": "Contains only carbon and hydrogen.",
+          "bm": "Hanya mengandungi karbon dan hidrogen."
+        }
+      },
+      {
+        "term": {
+          "en": "Isomers",
+          "bm": "Isomer"
+        },
+        "definition": {
+          "en": "Same molecular formula, different structure.",
+          "bm": "Formula molekul sama, struktur berbeza."
+        }
+      },
+      {
+        "term": {
+          "en": "Unsaturated",
+          "bm": "Tak tepu"
+        },
+        "definition": {
+          "en": "Contains a carbon double or triple bond.",
+          "bm": "Mengandungi ikatan karbon ganda dua atau tiga."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5chem-02-q01",
+      "subtopicId": "f5chem-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is organic?",
+        "bm": "Yang manakah organik?"
+      },
+      "explanation": {
+        "en": "CO₂ is treated as inorganic.",
+        "bm": "CO₂ dianggap tak organik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ethanol",
+          "bm": "Etanol"
+        },
+        {
+          "en": "Sodium chloride",
+          "bm": "Natrium klorida"
+        },
+        {
+          "en": "Water",
+          "bm": "Air"
+        },
+        {
+          "en": "Carbon dioxide",
+          "bm": "Karbon dioksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q02",
+      "subtopicId": "f5chem-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Crude oil is separated by…",
+        "bm": "Petroleum diasingkan melalui…"
+      },
+      "explanation": {
+        "en": "Fractions have different boiling points.",
+        "bm": "Pecahan mempunyai takat didih berbeza."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "fractional distillation",
+          "bm": "penyulingan berperingkat"
+        },
+        {
+          "en": "filtration",
+          "bm": "penapisan"
+        },
+        {
+          "en": "electrolysis",
+          "bm": "elektrolisis"
+        },
+        {
+          "en": "crystallisation",
+          "bm": "penghabluran"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q03",
+      "subtopicId": "f5chem-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "General formula of alkanes is…",
+        "bm": "Formula am alkana ialah…"
+      },
+      "explanation": {
+        "en": "Example: C₂H₆.",
+        "bm": "Contoh: C₂H₆."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "CₙH₂ₙ₊₂",
+          "bm": "CₙH₂ₙ₊₂"
+        },
+        {
+          "en": "CₙH₂ₙ",
+          "bm": "CₙH₂ₙ"
+        },
+        {
+          "en": "CₙH₂ₙ₋₂",
+          "bm": "CₙH₂ₙ₋₂"
+        },
+        {
+          "en": "CₙH₂ₙ₊₁OH",
+          "bm": "CₙH₂ₙ₊₁OH"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q04",
+      "subtopicId": "f5chem-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "C₂H₅OH belongs to the…",
+        "bm": "C₂H₅OH tergolong dalam…"
+      },
+      "explanation": {
+        "en": "It has –OH.",
+        "bm": "Ia mempunyai –OH."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "alcohols",
+          "bm": "alkohol"
+        },
+        {
+          "en": "alkanes",
+          "bm": "alkana"
+        },
+        {
+          "en": "esters",
+          "bm": "ester"
+        },
+        {
+          "en": "alkenes",
+          "bm": "alkena"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q05",
+      "subtopicId": "f5chem-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many H atoms are in an alkane with 4 carbon atoms?",
+        "bm": "Berapa atom H dalam alkana dengan 4 atom karbon?"
+      },
+      "explanation": {
+        "en": "2(4) + 2.",
+        "bm": "2(4) + 2."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-02-q06",
+      "subtopicId": "f5chem-02-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the relative molecular mass of C₂H₅OH (C = 12, H = 1, O = 16).",
+        "bm": "Cari jisim molekul relatif C₂H₅OH (C = 12, H = 1, O = 16)."
+      },
+      "explanation": {
+        "en": "24 + 6 + 16.",
+        "bm": "24 + 6 + 16."
+      },
+      "difficulty": 2,
+      "answer": 46,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-02-q07",
+      "subtopicId": "f5chem-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Boiling point rises along a homologous series because…",
+        "bm": "Takat didih naik sepanjang siri homolog kerana…"
+      },
+      "explanation": {
+        "en": "Larger molecules attract more.",
+        "bm": "Molekul lebih besar lebih menarik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "intermolecular forces get stronger",
+          "bm": "daya antara molekul menjadi lebih kuat"
+        },
+        {
+          "en": "bonds become ionic",
+          "bm": "ikatan menjadi ion"
+        },
+        {
+          "en": "molecules get smaller",
+          "bm": "molekul menjadi lebih kecil"
+        },
+        {
+          "en": "density falls to zero",
+          "bm": "ketumpatan menjadi sifar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q08",
+      "subtopicId": "f5chem-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bromine water with an alkene turns…",
+        "bm": "Air bromin dengan alkena menjadi…"
+      },
+      "explanation": {
+        "en": "Addition across C=C.",
+        "bm": "Penambahan pada C=C."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "colourless",
+          "bm": "tanpa warna"
+        },
+        {
+          "en": "blue",
+          "bm": "biru"
+        },
+        {
+          "en": "brown",
+          "bm": "perang"
+        },
+        {
+          "en": "black",
+          "bm": "hitam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q09",
+      "subtopicId": "f5chem-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fermentation of glucose produces…",
+        "bm": "Penapaian glukosa menghasilkan…"
+      },
+      "explanation": {
+        "en": "Yeast acts as the catalyst.",
+        "bm": "Yis bertindak sebagai mangkin."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ethanol and carbon dioxide",
+          "bm": "etanol dan karbon dioksida"
+        },
+        {
+          "en": "ethene only",
+          "bm": "etena sahaja"
+        },
+        {
+          "en": "methane and water",
+          "bm": "metana dan air"
+        },
+        {
+          "en": "ester and salt",
+          "bm": "ester dan garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q10",
+      "subtopicId": "f5chem-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Oxidising ethanol gives…",
+        "bm": "Mengoksidakan etanol menghasilkan…"
+      },
+      "explanation": {
+        "en": "Acidified KMnO₄ is an oxidiser.",
+        "bm": "KMnO₄ berasid ialah pengoksida."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ethanoic acid",
+          "bm": "asid etanoik"
+        },
+        {
+          "en": "ethene",
+          "bm": "etena"
+        },
+        {
+          "en": "methane",
+          "bm": "metana"
+        },
+        {
+          "en": "propane",
+          "bm": "propana"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q11",
+      "subtopicId": "f5chem-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Alcohol + carboxylic acid gives…",
+        "bm": "Alkohol + asid karboksilik menghasilkan…"
+      },
+      "explanation": {
+        "en": "Esterification.",
+        "bm": "Pengesteran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ester and water",
+          "bm": "ester dan air"
+        },
+        {
+          "en": "salt only",
+          "bm": "garam sahaja"
+        },
+        {
+          "en": "alkene",
+          "bm": "alkena"
+        },
+        {
+          "en": "alkane",
+          "bm": "alkana"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q12",
+      "subtopicId": "f5chem-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ethanol is dehydrated to ethene using…",
+        "bm": "Etanol didehidratkan menjadi etena menggunakan…"
+      },
+      "explanation": {
+        "en": "Water is removed.",
+        "bm": "Air dikeluarkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "heated porcelain chips",
+          "bm": "serpihan porselin panas"
+        },
+        {
+          "en": "bromine water",
+          "bm": "air bromin"
+        },
+        {
+          "en": "yeast",
+          "bm": "yis"
+        },
+        {
+          "en": "salt bridge",
+          "bm": "titian garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q13",
+      "subtopicId": "f5chem-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Isomers have the same…",
+        "bm": "Isomer mempunyai … yang sama."
+      },
+      "explanation": {
+        "en": "Structures differ.",
+        "bm": "Struktur berbeza."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "molecular formula",
+          "bm": "formula molekul"
+        },
+        {
+          "en": "structure",
+          "bm": "struktur"
+        },
+        {
+          "en": "boiling point",
+          "bm": "takat didih"
+        },
+        {
+          "en": "shape",
+          "bm": "bentuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-02-q14",
+      "subtopicId": "f5chem-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many isomers does C₄H₁₀ have?",
+        "bm": "Berapa isomer C₄H₁₀?"
+      },
+      "explanation": {
+        "en": "Butane and 2-methylpropane.",
+        "bm": "Butana dan 2-metilpropana."
+      },
+      "difficulty": 2,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-02-q15",
+      "subtopicId": "f5chem-02-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many isomers does C₅H₁₂ have?",
+        "bm": "Berapa isomer C₅H₁₂?"
+      },
+      "explanation": {
+        "en": "Pentane, 2-methylbutane, 2,2-dimethylpropane.",
+        "bm": "Pentana, 2-metilbutana, 2,2-dimetilpropana."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-02-q16",
+      "subtopicId": "f5chem-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "CH₃CH(CH₃)CH₃ is named…",
+        "bm": "CH₃CH(CH₃)CH₃ dinamakan…"
+      },
+      "explanation": {
+        "en": "Longest chain has 3 carbons.",
+        "bm": "Rantai terpanjang 3 karbon."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2-methylpropane",
+          "bm": "2-metilpropana"
+        },
+        {
+          "en": "butane",
+          "bm": "butana"
+        },
+        {
+          "en": "propene",
+          "bm": "propena"
+        },
+        {
+          "en": "1-methylethane",
+          "bm": "1-metiletana"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

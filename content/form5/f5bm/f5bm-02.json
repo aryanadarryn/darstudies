@@ -1,0 +1,374 @@
+{
+  "chapterId": "f5bm-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Ayat yang jelas bermula dengan subjek dan predikat yang lengkap.",
+      "bm": "Ayat yang jelas bermula dengan subjek dan predikat yang lengkap."
+    },
+    "bigIdeas": [
+      {
+        "en": "Ayat mempunyai subjek dan predikat.",
+        "bm": "Ayat mempunyai subjek dan predikat."
+      },
+      {
+        "en": "Ayat majmuk menggabungkan dua ayat atau lebih.",
+        "bm": "Ayat majmuk menggabungkan dua ayat atau lebih."
+      },
+      {
+        "en": "Ayat aktif boleh ditukar kepada ayat pasif.",
+        "bm": "Ayat aktif boleh ditukar kepada ayat pasif."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Pola",
+          "bm": "Pola"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "FN + FN",
+              "bm": "FN + FN"
+            },
+            "detail": {
+              "en": "Ali murid.",
+              "bm": "Ali murid."
+            }
+          },
+          {
+            "label": {
+              "en": "FN + FK",
+              "bm": "FN + FK"
+            },
+            "detail": {
+              "en": "Adik menangis.",
+              "bm": "Adik menangis."
+            }
+          },
+          {
+            "label": {
+              "en": "FN + FA",
+              "bm": "FN + FA"
+            },
+            "detail": {
+              "en": "Baju itu cantik.",
+              "bm": "Baju itu cantik."
+            }
+          },
+          {
+            "label": {
+              "en": "FN + FS",
+              "bm": "FN + FS"
+            },
+            "detail": {
+              "en": "Ibu di dapur.",
+              "bm": "Ibu di dapur."
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Subjek",
+          "bm": "Subjek"
+        },
+        "definition": {
+          "en": "Benda atau orang yang diceritakan.",
+          "bm": "Benda atau orang yang diceritakan."
+        }
+      },
+      {
+        "term": {
+          "en": "Predikat",
+          "bm": "Predikat"
+        },
+        "definition": {
+          "en": "Keterangan tentang subjek.",
+          "bm": "Keterangan tentang subjek."
+        }
+      },
+      {
+        "term": {
+          "en": "Ayat pasif",
+          "bm": "Ayat pasif"
+        },
+        "definition": {
+          "en": "Ayat yang menumpukan pada benda dikenakan tindakan.",
+          "bm": "Ayat yang menumpukan pada benda dikenakan tindakan."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bm-02-q01",
+      "subtopicId": "f5bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Subjek dalam \"Adik saya menangis\" ialah…",
+        "bm": "Subjek dalam \"Adik saya menangis\" ialah…"
+      },
+      "explanation": {
+        "en": "Predikatnya \"menangis\".",
+        "bm": "Predikatnya \"menangis\"."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "adik saya",
+          "bm": "adik saya"
+        },
+        {
+          "en": "menangis",
+          "bm": "menangis"
+        },
+        {
+          "en": "saya menangis",
+          "bm": "saya menangis"
+        },
+        {
+          "en": "adik menangis",
+          "bm": "adik menangis"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q02",
+      "subtopicId": "f5bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pola \"Baju itu cantik\" ialah…",
+        "bm": "Pola \"Baju itu cantik\" ialah…"
+      },
+      "explanation": {
+        "en": "Predikat frasa adjektif.",
+        "bm": "Predikat frasa adjektif."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "FN + FA",
+          "bm": "FN + FA"
+        },
+        {
+          "en": "FN + FN",
+          "bm": "FN + FN"
+        },
+        {
+          "en": "FN + FK",
+          "bm": "FN + FK"
+        },
+        {
+          "en": "FN + FS",
+          "bm": "FN + FS"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q03",
+      "subtopicId": "f5bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat majmuk pancangan menggunakan kata…",
+        "bm": "Ayat majmuk pancangan menggunakan kata…"
+      },
+      "explanation": {
+        "en": "\"Yang\" memancangkan ayat kecil.",
+        "bm": "\"Yang\" memancangkan ayat kecil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "yang",
+          "bm": "yang"
+        },
+        {
+          "en": "dan",
+          "bm": "dan"
+        },
+        {
+          "en": "atau",
+          "bm": "atau"
+        },
+        {
+          "en": "tetapi",
+          "bm": "tetapi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q04",
+      "subtopicId": "f5bm-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Yang manakah ayat majmuk gabungan?",
+        "bm": "Yang manakah ayat majmuk gabungan?"
+      },
+      "explanation": {
+        "en": "\"Dan\" menggabungkan dua ayat setara.",
+        "bm": "\"Dan\" menggabungkan dua ayat setara."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Abang membaca dan adik bermain.",
+          "bm": "Abang membaca dan adik bermain."
+        },
+        {
+          "en": "Abang yang pandai itu membaca.",
+          "bm": "Abang yang pandai itu membaca."
+        },
+        {
+          "en": "Abang membaca.",
+          "bm": "Abang membaca."
+        },
+        {
+          "en": "Membaca abang itu.",
+          "bm": "Membaca abang itu."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q05",
+      "subtopicId": "f5bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat \"Buku itu dibaca oleh Ali\" ialah ayat…",
+        "bm": "Ayat \"Buku itu dibaca oleh Ali\" ialah ayat…"
+      },
+      "explanation": {
+        "en": "Ada imbuhan di-.",
+        "bm": "Ada imbuhan di-."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "pasif",
+          "bm": "pasif"
+        },
+        {
+          "en": "aktif",
+          "bm": "aktif"
+        },
+        {
+          "en": "tanya",
+          "bm": "tanya"
+        },
+        {
+          "en": "perintah",
+          "bm": "perintah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q06",
+      "subtopicId": "f5bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pasif bagi \"Ali membaca buku itu\" ialah…",
+        "bm": "Pasif bagi \"Ali membaca buku itu\" ialah…"
+      },
+      "explanation": {
+        "en": "Objek menjadi subjek.",
+        "bm": "Objek menjadi subjek."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Buku itu dibaca oleh Ali.",
+          "bm": "Buku itu dibaca oleh Ali."
+        },
+        {
+          "en": "Buku itu membaca Ali.",
+          "bm": "Buku itu membaca Ali."
+        },
+        {
+          "en": "Ali dibaca buku itu.",
+          "bm": "Ali dibaca buku itu."
+        },
+        {
+          "en": "Membaca buku itu Ali.",
+          "bm": "Membaca buku itu Ali."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q07",
+      "subtopicId": "f5bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat yang betul dengan kata ganti diri pertama ialah…",
+        "bm": "Ayat yang betul dengan kata ganti diri pertama ialah…"
+      },
+      "explanation": {
+        "en": "Kata ganti pertama menggunakan pasif tanpa di-.",
+        "bm": "Kata ganti pertama menggunakan pasif tanpa di-."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Buku itu saya baca.",
+          "bm": "Buku itu saya baca."
+        },
+        {
+          "en": "Buku itu dibaca oleh saya.",
+          "bm": "Buku itu dibaca oleh saya."
+        },
+        {
+          "en": "Buku itu saya dibaca.",
+          "bm": "Buku itu saya dibaca."
+        },
+        {
+          "en": "Buku itu dibaca saya.",
+          "bm": "Buku itu dibaca saya."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-02-q08",
+      "subtopicId": "f5bm-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat yang betul ialah…",
+        "bm": "Ayat yang betul ialah…"
+      },
+      "explanation": {
+        "en": "Aspek diletakkan sebelum kata ganti nama.",
+        "bm": "Aspek diletakkan sebelum kata ganti nama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Surat itu sudah kamu baca.",
+          "bm": "Surat itu sudah kamu baca."
+        },
+        {
+          "en": "Surat itu sudah dibaca kamu.",
+          "bm": "Surat itu sudah dibaca kamu."
+        },
+        {
+          "en": "Surat itu kamu sudah dibaca.",
+          "bm": "Surat itu kamu sudah dibaca."
+        },
+        {
+          "en": "Kamu dibaca surat itu.",
+          "bm": "Kamu dibaca surat itu."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

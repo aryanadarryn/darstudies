@@ -1,0 +1,173 @@
+{
+  "chapterId": "f5math-05",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-05-01": {
+      "keyPoints": [
+        {
+          "en": "Corresponding sides and angles are equal.",
+          "bm": "Sisi dan sudut sepadan sama."
+        },
+        {
+          "en": "Name vertices in matching order.",
+          "bm": "Namakan bucu mengikut susunan sepadan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Corresponding",
+            "bm": "Sepadan"
+          },
+          "meaning": {
+            "en": "In matching positions.",
+            "bm": "Pada kedudukan yang sepadan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Hypotenuse and a side equal in right triangles?",
+          "bm": "Hipotenus dan sisi sama pada segi tiga tegak?"
+        },
+        "answer": {
+          "en": "RHS congruent",
+          "bm": "Kongruen RHS"
+        }
+      },
+      "tip": {
+        "en": "Give the test name with reasons.",
+        "bm": "Beri nama ujian dengan sebab."
+      }
+    },
+    "f5math-05-02": {
+      "keyPoints": [
+        {
+          "en": "Find k from image ÷ object.",
+          "bm": "Cari k daripada imej ÷ objek."
+        },
+        {
+          "en": "Lines through corresponding points meet at the centre.",
+          "bm": "Garis melalui titik sepadan bertemu di pusat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Centre",
+            "bm": "Pusat"
+          },
+          "meaning": {
+            "en": "Fixed point of enlargement.",
+            "bm": "Titik tetap pembesaran."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/enlargement.svg",
+          "alt": {
+            "en": "Enlargement with centre O and k = 2.",
+            "bm": "Pembesaran dengan pusat O dan k = 2."
+          },
+          "caption": {
+            "en": "Enlargement with centre O and k = 2.",
+            "bm": "Pembesaran dengan pusat O dan k = 2."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "k = ½ makes the image…",
+          "bm": "k = ½ menjadikan imej…"
+        },
+        "answer": {
+          "en": "smaller",
+          "bm": "lebih kecil"
+        }
+      },
+      "tip": {
+        "en": "Square k for area.",
+        "bm": "Kuasa duakan k untuk luas."
+      }
+    },
+    "f5math-05-03": {
+      "keyPoints": [
+        {
+          "en": "Apply the right-hand letter first.",
+          "bm": "Lakukan huruf kanan dahulu."
+        },
+        {
+          "en": "A single transformation can sometimes replace two.",
+          "bm": "Satu transformasi kadangkala boleh menggantikan dua."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Equivalent",
+            "bm": "Setara"
+          },
+          "meaning": {
+            "en": "Having the same effect.",
+            "bm": "Kesan yang sama."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "AB ≠ BA generally?",
+          "bm": "AB ≠ BA secara amnya?"
+        },
+        "answer": {
+          "en": "Yes",
+          "bm": "Ya"
+        }
+      },
+      "tip": {
+        "en": "Sketch each stage.",
+        "bm": "Lakar setiap peringkat."
+      }
+    },
+    "f5math-05-04": {
+      "keyPoints": [
+        {
+          "en": "Tile a plane using isometries.",
+          "bm": "Tutup satah menggunakan isometri."
+        },
+        {
+          "en": "Seen in tiles and batik.",
+          "bm": "Terlihat pada tile dan batik."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Vertex",
+            "bm": "Bucu"
+          },
+          "meaning": {
+            "en": "Where tiles meet.",
+            "bm": "Tempat tile bertemu."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Hexagon angle sum at a vertex?",
+          "bm": "Hasil tambah sudut heksagon di bucu?"
+        },
+        "answer": {
+          "en": "3 × 120° = 360°",
+          "bm": "3 × 120° = 360°"
+        }
+      },
+      "tip": {
+        "en": "Look for 360° at each vertex.",
+        "bm": "Cari 360° di setiap bucu."
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-02",
+  "cards": [
+    {
+      "id": "f5addmath-02-f01",
+      "subtopicId": "f5addmath-02-01",
+      "front": {
+        "en": "Limit",
+        "bm": "Had"
+      },
+      "back": {
+        "en": "Value approached as x nears a point.",
+        "bm": "Nilai yang dihampiri apabila x menghampiri titik."
+      }
+    },
+    {
+      "id": "f5addmath-02-f02",
+      "subtopicId": "f5addmath-02-02",
+      "front": {
+        "en": "Power rule",
+        "bm": "Petua kuasa"
+      },
+      "back": {
+        "en": "d/dx(axⁿ) = naxⁿ⁻¹",
+        "bm": "d/dx(axⁿ) = naxⁿ⁻¹"
+      }
+    },
+    {
+      "id": "f5addmath-02-f03",
+      "subtopicId": "f5addmath-02-02",
+      "front": {
+        "en": "Chain rule",
+        "bm": "Petua rantai"
+      },
+      "back": {
+        "en": "dy/dx = dy/du × du/dx",
+        "bm": "dy/dx = dy/du × du/dx"
+      }
+    },
+    {
+      "id": "f5addmath-02-f04",
+      "subtopicId": "f5addmath-02-03",
+      "front": {
+        "en": "Second derivative test",
+        "bm": "Ujian terbitan kedua"
+      },
+      "back": {
+        "en": "> 0 min; < 0 max.",
+        "bm": "> 0 min; < 0 maks."
+      }
+    },
+    {
+      "id": "f5addmath-02-f05",
+      "subtopicId": "f5addmath-02-04",
+      "front": {
+        "en": "Normal gradient",
+        "bm": "Kecerunan normal"
+      },
+      "back": {
+        "en": "−1 ÷ tangent gradient.",
+        "bm": "−1 ÷ kecerunan tangen."
+      }
+    },
+    {
+      "id": "f5addmath-02-f06",
+      "subtopicId": "f5addmath-02-04",
+      "front": {
+        "en": "Rates of change",
+        "bm": "Kadar perubahan"
+      },
+      "back": {
+        "en": "dy/dt = dy/dx × dx/dt",
+        "bm": "dy/dt = dy/dx × dx/dt"
+      }
+    }
+  ]
+}

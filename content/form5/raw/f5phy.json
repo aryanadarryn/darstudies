@@ -1,0 +1,281 @@
+{
+  "id": "f5phy",
+  "name": {
+    "en": "Physics",
+    "bm": "Fizik"
+  },
+  "short": {
+    "en": "Physics",
+    "bm": "Fizik"
+  },
+  "color": "#2563eb",
+  "source": "Chapter and subtopic titles follow the KSSM Physics Form 5 textbook list (7 chapters). Calculated answers are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Force and Motion II",
+        "bm": "Daya dan Gerakan II"
+      },
+      "theme": {
+        "en": "Newtonian Mechanics",
+        "bm": "Mekanik Newton"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Resultant Force",
+            "bm": "Daya Paduan"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Resolution of Forces",
+            "bm": "Leraian Daya"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Forces in Equilibrium",
+            "bm": "Keseimbangan Daya"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Elasticity",
+            "bm": "Kekenyalan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Pressure",
+        "bm": "Tekanan"
+      },
+      "theme": {
+        "en": "Fluids",
+        "bm": "Bendalir"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Liquid Pressure",
+            "bm": "Tekanan Cecair"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Atmospheric Pressure",
+            "bm": "Tekanan Atmosfera"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Gas Pressure",
+            "bm": "Tekanan Gas"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Pascal's Principle",
+            "bm": "Prinsip Pascal"
+          }
+        },
+        {
+          "code": "2.5",
+          "title": {
+            "en": "Archimedes' Principle",
+            "bm": "Prinsip Archimedes"
+          }
+        },
+        {
+          "code": "2.6",
+          "title": {
+            "en": "Bernoulli's Principle",
+            "bm": "Prinsip Bernoulli"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Electricity",
+        "bm": "Elektrik"
+      },
+      "theme": {
+        "en": "Electricity and Electromagnetism",
+        "bm": "Elektrik dan Keelektromagnetan"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Current and Potential Difference",
+            "bm": "Arus dan Beza Keupayaan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Resistance",
+            "bm": "Rintangan"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Electromotive Force and Internal Resistance",
+            "bm": "Daya Gerak Elektrik dan Rintangan Dalam"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "Electrical Energy and Power",
+            "bm": "Tenaga dan Kuasa Elektrik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Electromagnetism",
+        "bm": "Keelektromagnetan"
+      },
+      "theme": {
+        "en": "Electricity and Electromagnetism",
+        "bm": "Elektrik dan Keelektromagnetan"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Force on a Current-carrying Conductor in a Magnetic Field",
+            "bm": "Daya ke atas Konduktor Pembawa Arus dalam Medan Magnet"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Electromagnetic Induction",
+            "bm": "Aruhan Elektromagnet"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Transformer",
+            "bm": "Transformer"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Electronics",
+        "bm": "Elektronik"
+      },
+      "theme": {
+        "en": "Applied Physics",
+        "bm": "Fizik Gunaan"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Electron",
+            "bm": "Elektron"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Semiconductor Diode",
+            "bm": "Diod Semikonduktor"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Transistor",
+            "bm": "Transistor"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Nuclear Physics",
+        "bm": "Fizik Nuklear"
+      },
+      "theme": {
+        "en": "Modern Physics",
+        "bm": "Fizik Moden"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Radioactive Decay",
+            "bm": "Reputan Radioaktif"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Nuclear Energy",
+            "bm": "Tenaga Nuklear"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Quantum Physics",
+        "bm": "Fizik Kuantum"
+      },
+      "theme": {
+        "en": "Modern Physics",
+        "bm": "Fizik Moden"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Quantum Theory of Light",
+            "bm": "Teori Kuantum Cahaya"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Photoelectric Effect",
+            "bm": "Kesan Fotoelektrik"
+          }
+        },
+        {
+          "code": "7.3",
+          "title": {
+            "en": "Einstein's Photoelectric Theory",
+            "bm": "Teori Fotoelektrik Einstein"
+          }
+        }
+      ]
+    }
+  ]
+}

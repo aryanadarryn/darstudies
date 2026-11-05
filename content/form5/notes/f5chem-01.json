@@ -1,0 +1,264 @@
+{
+  "chapterId": "f5chem-01",
+  "reviewed": false,
+  "subtopics": {
+    "f5chem-01-01": {
+      "keyPoints": [
+        {
+          "en": "Redox can be defined by oxygen, hydrogen, electrons or oxidation number.",
+          "bm": "Redoks boleh ditakrifkan dengan oksigen, hidrogen, elektron atau nombor pengoksidaan."
+        },
+        {
+          "en": "The two always happen together.",
+          "bm": "Kedua-duanya sentiasa berlaku bersama."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Half-equation",
+            "bm": "Setengah persamaan"
+          },
+          "meaning": {
+            "en": "Shows electrons for one species.",
+            "bm": "Menunjukkan elektron bagi satu spesies."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Mg → Mg²⁺ + 2e⁻ is?",
+          "bm": "Mg → Mg²⁺ + 2e⁻ ialah?"
+        },
+        "answer": {
+          "en": "Oxidation",
+          "bm": "Pengoksidaan"
+        }
+      },
+      "tip": {
+        "en": "Elements have oxidation number 0.",
+        "bm": "Unsur mempunyai nombor pengoksidaan 0."
+      }
+    },
+    "f5chem-01-02": {
+      "keyPoints": [
+        {
+          "en": "Measured against E°(H⁺/H₂) = 0 V.",
+          "bm": "Diukur berbanding E°(H⁺/H₂) = 0 V."
+        },
+        {
+          "en": "Lower E°: stronger reducing agent.",
+          "bm": "E° lebih rendah: agen penurunan lebih kuat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Standard conditions",
+            "bm": "Keadaan piawai"
+          },
+          "meaning": {
+            "en": "1 mol/dm³, 25 °C, 1 atm.",
+            "bm": "1 mol/dm³, 25 °C, 1 atm."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Zn or Cu: stronger reducer?",
+          "bm": "Zn atau Cu: penurun lebih kuat?"
+        },
+        "answer": {
+          "en": "Zn",
+          "bm": "Zn"
+        }
+      },
+      "tip": {
+        "en": "Do not multiply E° by mole numbers.",
+        "bm": "Jangan darab E° dengan bilangan mol."
+      }
+    },
+    "f5chem-01-03": {
+      "keyPoints": [
+        {
+          "en": "Electrons flow from anode to cathode through the wire.",
+          "bm": "Elektron mengalir dari anod ke katod melalui wayar."
+        },
+        {
+          "en": "Salt bridge ions balance charge.",
+          "bm": "Ion titian garam mengimbangi cas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Cell notation",
+            "bm": "Notasi sel"
+          },
+          "meaning": {
+            "en": "Zn|Zn²⁺||Cu²⁺|Cu",
+            "bm": "Zn|Zn²⁺||Cu²⁺|Cu"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/cell.svg",
+          "alt": {
+            "en": "A Daniell cell.",
+            "bm": "Sel Daniell."
+          },
+          "caption": {
+            "en": "A Daniell cell.",
+            "bm": "Sel Daniell."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Direction of electron flow?",
+          "bm": "Arah aliran elektron?"
+        },
+        "answer": {
+          "en": "Zn to Cu",
+          "bm": "Zn ke Cu"
+        }
+      },
+      "tip": {
+        "en": "Label + and − clearly.",
+        "bm": "Labelkan + dan − dengan jelas."
+      }
+    },
+    "f5chem-01-04": {
+      "keyPoints": [
+        {
+          "en": "Current causes non-spontaneous change.",
+          "bm": "Arus menyebabkan perubahan tak spontan."
+        },
+        {
+          "en": "Uses: plating, purifying and extraction.",
+          "bm": "Kegunaan: penyaduran, penulenan dan pengekstrakan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Electrolyte",
+            "bm": "Elektrolit"
+          },
+          "meaning": {
+            "en": "Liquid with mobile ions.",
+            "bm": "Cecair dengan ion bebas."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "To purify copper, impure copper is?",
+          "bm": "Untuk menulenkan kuprum, kuprum tak tulen ialah?"
+        },
+        "answer": {
+          "en": "Anode",
+          "bm": "Anod"
+        }
+      },
+      "tip": {
+        "en": "Check concentration and electrode type.",
+        "bm": "Semak kepekatan dan jenis elektrod."
+      }
+    },
+    "f5chem-01-05": {
+      "keyPoints": [
+        {
+          "en": "Metals below carbon: reduction by carbon.",
+          "bm": "Logam di bawah karbon: penurunan oleh karbon."
+        },
+        {
+          "en": "Metals above carbon: electrolysis.",
+          "bm": "Logam di atas karbon: elektrolisis."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Ore",
+            "bm": "Bijih"
+          },
+          "meaning": {
+            "en": "Rock containing a metal.",
+            "bm": "Batuan mengandungi logam."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/q-blast.webp",
+          "alt": {
+            "en": "A blast furnace for iron.",
+            "bm": "Relau bagas untuk besi."
+          },
+          "caption": {
+            "en": "A blast furnace for iron.",
+            "bm": "Relau bagas untuk besi."
+          },
+          "credit": "Aboli-20 · CC BY-SA 4.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BLAST_FURNACE_FOR_SMELTING_OF_IRON_TO_PRODUCE_PIG_IRON.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Why add limestone to the furnace?",
+          "bm": "Mengapa batu kapur ditambah?"
+        },
+        "answer": {
+          "en": "To remove impurities as slag",
+          "bm": "Membuang bendasing sebagai sanga"
+        }
+      },
+      "tip": {
+        "en": "Malaysia's Perak was famous for tin.",
+        "bm": "Perak di Malaysia terkenal dengan bijih timah."
+      }
+    },
+    "f5chem-01-06": {
+      "keyPoints": [
+        {
+          "en": "Rust is hydrated iron(III) oxide.",
+          "bm": "Karat ialah ferum(III) oksida terhidrat."
+        },
+        {
+          "en": "Protect by painting, alloying, or sacrificial metals.",
+          "bm": "Lindungi dengan cat, aloi, atau logam korban."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Galvanised",
+            "bm": "Digalvani"
+          },
+          "meaning": {
+            "en": "Coated with zinc.",
+            "bm": "Disalut zink."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Salt water and rusting?",
+          "bm": "Air garam dan pengaratan?"
+        },
+        "answer": {
+          "en": "It speeds up rusting.",
+          "bm": "Ia mempercepat pengaratan."
+        }
+      },
+      "tip": {
+        "en": "Use half-equations to explain.",
+        "bm": "Guna setengah persamaan untuk menerangkan."
+      }
+    }
+  }
+}

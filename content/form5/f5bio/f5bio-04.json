@@ -1,0 +1,426 @@
+{
+  "chapterId": "f5bio-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Water climbs over 80 m up the tallest trees without any pump, pulled by evaporation from the leaves.",
+      "bm": "Air naik melebihi 80 m ke pokok tertinggi tanpa pam, ditarik oleh penyejatan daripada daun."
+    },
+    "bigIdeas": [
+      {
+        "en": "Xylem moves water up; phloem moves sugar both ways.",
+        "bm": "Xilem menggerakkan air ke atas; floem menggerakkan gula dua hala."
+      },
+      {
+        "en": "Transpiration pull, cohesion and adhesion lift water.",
+        "bm": "Tarikan transpirasi, kohesi dan adhesi mengangkat air."
+      },
+      {
+        "en": "Plants can clean polluted soil.",
+        "bm": "Tumbuhan boleh membersihkan tanah tercemar."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Root pressure",
+              "bm": "Tekanan akar"
+            },
+            "detail": {
+              "en": "Pushes water",
+              "bm": "Menolak air"
+            }
+          },
+          {
+            "title": {
+              "en": "Capillary action",
+              "bm": "Tindakan kapilari"
+            },
+            "detail": {
+              "en": "Cohesion, adhesion",
+              "bm": "Kohesi, adhesi"
+            }
+          },
+          {
+            "title": {
+              "en": "Transpiration pull",
+              "bm": "Tarikan transpirasi"
+            },
+            "detail": {
+              "en": "Main force",
+              "bm": "Daya utama"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Translocation",
+          "bm": "Translokasi"
+        },
+        "definition": {
+          "en": "Moving sucrose through phloem.",
+          "bm": "Pengangkutan sukrosa melalui floem."
+        }
+      },
+      {
+        "term": {
+          "en": "Cohesion",
+          "bm": "Kohesi"
+        },
+        "definition": {
+          "en": "Water molecules attract each other.",
+          "bm": "Molekul air saling menarik."
+        }
+      },
+      {
+        "term": {
+          "en": "Phytoremediation",
+          "bm": "Fitoremediasi"
+        },
+        "definition": {
+          "en": "Using plants to clean up pollution.",
+          "bm": "Menggunakan tumbuhan untuk membersihkan pencemaran."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-04-q01",
+      "subtopicId": "f5bio-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Phloem transports…",
+        "bm": "Floem mengangkut…"
+      },
+      "explanation": {
+        "en": "From source to sink.",
+        "bm": "Dari sumber ke sinki."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sucrose",
+          "bm": "sukrosa"
+        },
+        {
+          "en": "water only",
+          "bm": "air sahaja"
+        },
+        {
+          "en": "oxygen",
+          "bm": "oksigen"
+        },
+        {
+          "en": "carbon dioxide",
+          "bm": "karbon dioksida"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q02",
+      "subtopicId": "f5bio-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Xylem vessels are…",
+        "bm": "Salur xilem ialah…"
+      },
+      "explanation": {
+        "en": "Good for water flow.",
+        "bm": "Baik untuk aliran air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "dead, hollow and lignified",
+          "bm": "mati, berongga dan berlignin"
+        },
+        {
+          "en": "alive with nuclei",
+          "bm": "hidup dengan nukleus"
+        },
+        {
+          "en": "filled with sugar",
+          "bm": "dipenuhi gula"
+        },
+        {
+          "en": "full of chloroplasts",
+          "bm": "penuh kloroplas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q03",
+      "subtopicId": "f5bio-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The main force moving water up tall trees is…",
+        "bm": "Daya utama menaikkan air pada pokok tinggi ialah…"
+      },
+      "explanation": {
+        "en": "Evaporation creates tension.",
+        "bm": "Penyejatan menghasilkan tegangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "transpiration pull",
+          "bm": "tarikan transpirasi"
+        },
+        {
+          "en": "root pressure",
+          "bm": "tekanan akar"
+        },
+        {
+          "en": "gravity",
+          "bm": "graviti"
+        },
+        {
+          "en": "wind",
+          "bm": "angin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q04",
+      "subtopicId": "f5bio-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Guttation shows the effect of…",
+        "bm": "Gutasi menunjukkan kesan…"
+      },
+      "explanation": {
+        "en": "Water droplets at leaf edges.",
+        "bm": "Titisan air di tepi daun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "root pressure",
+          "bm": "tekanan akar"
+        },
+        {
+          "en": "translocation",
+          "bm": "translokasi"
+        },
+        {
+          "en": "photosynthesis",
+          "bm": "fotosintesis"
+        },
+        {
+          "en": "respiration only",
+          "bm": "respirasi sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q05",
+      "subtopicId": "f5bio-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Adhesion in xylem is attraction between…",
+        "bm": "Adhesi dalam xilem ialah tarikan antara…"
+      },
+      "explanation": {
+        "en": "Cohesion is water with water.",
+        "bm": "Kohesi ialah air dengan air."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "water and vessel walls",
+          "bm": "air dan dinding salur"
+        },
+        {
+          "en": "water and water",
+          "bm": "air dan air"
+        },
+        {
+          "en": "sugar and water",
+          "bm": "gula dan air"
+        },
+        {
+          "en": "air and leaf",
+          "bm": "udara dan daun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q06",
+      "subtopicId": "f5bio-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A ring-barking experiment removes…",
+        "bm": "Eksperimen penggelangan membuang…"
+      },
+      "explanation": {
+        "en": "Sugar builds up above the ring.",
+        "bm": "Gula terkumpul di atas gelang."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "phloem",
+          "bm": "floem"
+        },
+        {
+          "en": "xylem",
+          "bm": "xilem"
+        },
+        {
+          "en": "root hairs",
+          "bm": "rambut akar"
+        },
+        {
+          "en": "stomata",
+          "bm": "stoma"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q07",
+      "subtopicId": "f5bio-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In translocation, a \"sink\" is…",
+        "bm": "Dalam translokasi, \"sinki\" ialah…"
+      },
+      "explanation": {
+        "en": "Such as fruits and roots.",
+        "bm": "Seperti buah dan akar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "where sugar is used or stored",
+          "bm": "tempat gula digunakan atau disimpan"
+        },
+        {
+          "en": "where sugar is made",
+          "bm": "tempat gula dibuat"
+        },
+        {
+          "en": "a stoma",
+          "bm": "stoma"
+        },
+        {
+          "en": "a root hair",
+          "bm": "rambut akar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q08",
+      "subtopicId": "f5bio-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Phytoremediation uses plants to…",
+        "bm": "Fitoremediasi menggunakan tumbuhan untuk…"
+      },
+      "explanation": {
+        "en": "They absorb heavy metals.",
+        "bm": "Ia menyerap logam berat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "remove pollutants",
+          "bm": "membuang bahan cemar"
+        },
+        {
+          "en": "make plastic",
+          "bm": "menghasilkan plastik"
+        },
+        {
+          "en": "produce coal",
+          "bm": "menghasilkan arang batu"
+        },
+        {
+          "en": "raise salinity",
+          "bm": "menaikkan kemasinan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q09",
+      "subtopicId": "f5bio-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which plant is used to clean water?",
+        "bm": "Tumbuhan manakah digunakan untuk membersihkan air?"
+      },
+      "explanation": {
+        "en": "It takes up metals and nutrients.",
+        "bm": "Ia mengambil logam dan nutrien."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Water hyacinth",
+          "bm": "Keladi bunting"
+        },
+        {
+          "en": "Rubber",
+          "bm": "Getah"
+        },
+        {
+          "en": "Pine",
+          "bm": "Pain"
+        },
+        {
+          "en": "Cactus",
+          "bm": "Kaktus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-04-q10",
+      "subtopicId": "f5bio-04-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "A drawback of phytoremediation is that…",
+        "bm": "Kelemahan fitoremediasi ialah…"
+      },
+      "explanation": {
+        "en": "Metals stay in the tissue.",
+        "bm": "Logam kekal dalam tisu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "it is slow and plants need safe disposal",
+          "bm": "lambat dan tumbuhan perlu dilupuskan dengan selamat"
+        },
+        {
+          "en": "it costs too much always",
+          "bm": "sentiasa terlalu mahal"
+        },
+        {
+          "en": "it needs no plants",
+          "bm": "tiada tumbuhan"
+        },
+        {
+          "en": "it works overnight",
+          "bm": "berkesan semalaman"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

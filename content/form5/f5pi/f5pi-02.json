@@ -1,0 +1,364 @@
+{
+  "chapterId": "f5pi-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The very first hadith in many collections is about one thing: intention.",
+      "bm": "Hadis pertama dalam banyak kitab berkaitan satu perkara: niat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Hadith is the second source of Islamic law.",
+        "bm": "Hadis ialah sumber kedua hukum Islam."
+      },
+      {
+        "en": "Hadith are graded as sahih, hasan or da'if.",
+        "bm": "Hadis digredkan sebagai sahih, hasan atau daif."
+      },
+      {
+        "en": "Actions are judged by intention.",
+        "bm": "Amalan dinilai berdasarkan niat."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Grade",
+          "bm": "Darjat"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Sahih",
+              "bm": "Sahih"
+            },
+            "detail": {
+              "en": "authentic",
+              "bm": "tepat dan kukuh"
+            }
+          },
+          {
+            "label": {
+              "en": "Hasan",
+              "bm": "Hasan"
+            },
+            "detail": {
+              "en": "good, slightly weaker",
+              "bm": "baik, sedikit lemah"
+            }
+          },
+          {
+            "label": {
+              "en": "Da'if",
+              "bm": "Da'if"
+            },
+            "detail": {
+              "en": "weak",
+              "bm": "lemah"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Sanad",
+          "bm": "Sanad"
+        },
+        "definition": {
+          "en": "Chain of narrators.",
+          "bm": "Rantaian perawi."
+        }
+      },
+      {
+        "term": {
+          "en": "Matan",
+          "bm": "Matan"
+        },
+        "definition": {
+          "en": "Text of the hadith.",
+          "bm": "Teks hadis."
+        }
+      },
+      {
+        "term": {
+          "en": "Perawi",
+          "bm": "Perawi"
+        },
+        "definition": {
+          "en": "A narrator of hadith.",
+          "bm": "Periwayat hadis."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5pi-02-q01",
+      "subtopicId": "f5pi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The second source of Islamic law is…",
+        "bm": "Sumber kedua hukum Islam ialah…"
+      },
+      "explanation": {
+        "en": "After the Quran.",
+        "bm": "Selepas al-Quran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Hadith",
+          "bm": "Hadis"
+        },
+        {
+          "en": "Qiyas",
+          "bm": "Qiyas"
+        },
+        {
+          "en": "Ijmak",
+          "bm": "Ijmak"
+        },
+        {
+          "en": "Custom",
+          "bm": "Adat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q02",
+      "subtopicId": "f5pi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Sanad refers to…",
+        "bm": "Sanad merujuk kepada…"
+      },
+      "explanation": {
+        "en": "It traces back to the Prophet ﷺ.",
+        "bm": "Ia sampai kepada Rasulullah ﷺ."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the chain of narrators",
+          "bm": "rantaian perawi"
+        },
+        {
+          "en": "the text of the hadith",
+          "bm": "teks hadis"
+        },
+        {
+          "en": "a chapter of the Quran",
+          "bm": "surah al-Quran"
+        },
+        {
+          "en": "the place of prayer",
+          "bm": "tempat solat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q03",
+      "subtopicId": "f5pi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which collection is highly regarded?",
+        "bm": "Kitab manakah sangat dihormati?"
+      },
+      "explanation": {
+        "en": "Along with Sahih Muslim.",
+        "bm": "Bersama Sahih Muslim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sahih al-Bukhari",
+          "bm": "Sahih al-Bukhari"
+        },
+        {
+          "en": "Hikayat Hang Tuah",
+          "bm": "Hikayat Hang Tuah"
+        },
+        {
+          "en": "Sejarah Melayu",
+          "bm": "Sejarah Melayu"
+        },
+        {
+          "en": "Hukum Kanun Melaka",
+          "bm": "Hukum Kanun Melaka"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q04",
+      "subtopicId": "f5pi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A weak hadith is called…",
+        "bm": "Hadis lemah dipanggil…"
+      },
+      "explanation": {
+        "en": "Weakness lies in its chain or narrators.",
+        "bm": "Kelemahan pada sanad atau perawi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "da'if",
+          "bm": "daif"
+        },
+        {
+          "en": "sahih",
+          "bm": "sahih"
+        },
+        {
+          "en": "hasan",
+          "bm": "hasan"
+        },
+        {
+          "en": "mutawatir",
+          "bm": "mutawatir"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q05",
+      "subtopicId": "f5pi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The hadith \"Actions are by intentions\" teaches…",
+        "bm": "Hadis \"Amalan bergantung pada niat\" mengajar…"
+      },
+      "explanation": {
+        "en": "Narrated by Bukhari and Muslim.",
+        "bm": "Riwayat Bukhari dan Muslim."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "sincerity",
+          "bm": "keikhlasan"
+        },
+        {
+          "en": "pride",
+          "bm": "kesombongan"
+        },
+        {
+          "en": "haste",
+          "bm": "tergesa-gesa"
+        },
+        {
+          "en": "showing off",
+          "bm": "riak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q06",
+      "subtopicId": "f5pi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Riya' means…",
+        "bm": "Riak bermaksud…"
+      },
+      "explanation": {
+        "en": "It damages sincerity.",
+        "bm": "Ia merosakkan keikhlasan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "doing good to be seen",
+          "bm": "beramal untuk dilihat"
+        },
+        {
+          "en": "being patient",
+          "bm": "bersabar"
+        },
+        {
+          "en": "being thankful",
+          "bm": "bersyukur"
+        },
+        {
+          "en": "being honest",
+          "bm": "jujur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q07",
+      "subtopicId": "f5pi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A hadith teaches that a believer speaks…",
+        "bm": "Hadis mengajar orang beriman berkata…"
+      },
+      "explanation": {
+        "en": "Narrated by Bukhari and Muslim.",
+        "bm": "Riwayat Bukhari dan Muslim."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "good or stays silent",
+          "bm": "baik atau diam"
+        },
+        {
+          "en": "loudly always",
+          "bm": "kuat sentiasa"
+        },
+        {
+          "en": "only in Arabic",
+          "bm": "dalam bahasa Arab sahaja"
+        },
+        {
+          "en": "rudely when angry",
+          "bm": "kasar ketika marah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-02-q08",
+      "subtopicId": "f5pi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does intention matter even in daily work?",
+        "bm": "Mengapa niat penting walaupun dalam kerja harian?"
+      },
+      "explanation": {
+        "en": "So long as the work is lawful.",
+        "bm": "Selagi kerja itu halal."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Good intention can make it an act of worship",
+          "bm": "Niat baik boleh menjadikannya ibadah"
+        },
+        {
+          "en": "It removes all effort",
+          "bm": "Ia menghapuskan semua usaha"
+        },
+        {
+          "en": "It replaces prayers",
+          "bm": "Ia menggantikan solat"
+        },
+        {
+          "en": "It stops learning",
+          "bm": "Ia menghentikan pembelajaran"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

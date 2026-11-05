@@ -1,0 +1,48 @@
+{
+  "chapterId": "f5math-03",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-03-01": {
+      "keyPoints": [
+        {
+          "en": "Insurers pool premiums to pay claims.",
+          "bm": "Syarikat mengumpul premium untuk membayar tuntutan."
+        },
+        {
+          "en": "Life insurance covers the person; general covers things.",
+          "bm": "Insurans hayat melindungi orang; insurans am melindungi harta."
+        },
+        {
+          "en": "Compute deductible first, then co-insurance.",
+          "bm": "Kira deduktibel dahulu, kemudian ko-insurans."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Claim",
+            "bm": "Tuntutan"
+          },
+          "meaning": {
+            "en": "A request for payment.",
+            "bm": "Permintaan bayaran."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Loss RM5 000, deductible RM500. Insurer pays all the rest. Payout?",
+          "bm": "Kerugian RM5 000, deduktibel RM500. Syarikat bayar semua baki. Bayaran?"
+        },
+        "answer": {
+          "en": "RM4 500",
+          "bm": "RM4 500"
+        }
+      },
+      "tip": {
+        "en": "Read which amount the percentage is applied to.",
+        "bm": "Baca jumlah yang dikenakan peratusan."
+      }
+    }
+  }
+}

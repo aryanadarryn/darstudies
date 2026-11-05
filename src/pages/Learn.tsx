@@ -13,6 +13,7 @@ import { LockBadge, TrialBanner } from '../auth/Locked'
 
 export const SUBJECT_EMOJI: Record<string, string> = {
   phy: '⚛️', chem: '🧪', bio: '🧬', addmath: '📐', math: '🔢', sej: '🏛️', pi: '🕌', bm: '📖', bi: '🗣️',
+  f5phy: '⚛️', f5chem: '🧪', f5bio: '🧬', f5addmath: '📐', f5math: '🔢', f5sej: '🏛️', f5pi: '🕌', f5bm: '📖', f5bi: '🗣️',
   f2bm: '📖', f2bi: '🗣️', f2math: '🔢', f2sci: '🔬', f2sej: '🏛️', f2geo: '🌏', f2pi: '🕌', f2rbt: '🛠️', f2ask: '💻', f2psv: '🎨', f2muzik: '🎵', f2pjk: '🏃',
   f3bm: '📖', f3bi: '🗣️', f3math: '🔢', f3sci: '🔬', f3sej: '🏛️', f3geo: '🌏', f3pi: '🕌', f3rbt: '🛠️', f3ask: '💻', f3psv: '🎨', f3muzik: '🎵', f3pjk: '🏃',
 }
@@ -20,7 +21,7 @@ export const SUBJECT_EMOJI: Record<string, string> = {
 // The tab only changes what Learn shows; it is remembered per device and starts on the study form.
 const TAB_KEY = 'learn.form'
 function readTab(): Form | null {
-  try { const v = localStorage.getItem(TAB_KEY); return v === '2' ? 2 : v === '3' ? 3 : v === '4' ? 4 : null } catch { return null }
+  try { const v = localStorage.getItem(TAB_KEY); return v === '2' ? 2 : v === '3' ? 3 : v === '4' ? 4 : v === '5' ? 5 : null } catch { return null }
 }
 function saveTab(f: Form) {
   try { localStorage.setItem(TAB_KEY, String(f)) } catch { /* storage unavailable */ }
@@ -40,7 +41,7 @@ export default function Learn() {
   return (
     <div>
       <PageHeader title={t('learn.title')} subtitle={`${t(`form.${tab}`)} KSSM · DLP`} />
-      <div role="tablist" aria-label={t('form.label')} className="mb-3 grid grid-cols-3 gap-1 rounded-2xl bg-slate-200 p-1 dark:bg-slate-800">
+      <div role="tablist" aria-label={t('form.label')} className="mb-3 grid grid-cols-4 gap-1 rounded-2xl bg-slate-200 p-1 dark:bg-slate-800">
         {FORMS.map((f) => (
           <button key={f} role="tab" aria-selected={tab === f} onClick={() => pick(f)}
             className={`min-h-11 rounded-xl px-3 py-1.5 text-sm font-bold transition ${tab === f ? 'bg-violet-700 text-white shadow' : 'text-slate-600 dark:text-slate-300'}`}>

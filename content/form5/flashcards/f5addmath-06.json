@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-06",
+  "cards": [
+    {
+      "id": "f5addmath-06-f01",
+      "subtopicId": "f5addmath-06-02",
+      "front": {
+        "en": "Reciprocals",
+        "bm": "Salingan"
+      },
+      "back": {
+        "en": "sec = 1/cos; cosec = 1/sin; cot = 1/tan",
+        "bm": "sek = 1/kos; kosek = 1/sin; kot = 1/tan"
+      }
+    },
+    {
+      "id": "f5addmath-06-f02",
+      "subtopicId": "f5addmath-06-03",
+      "front": {
+        "en": "y = a sin bx + c",
+        "bm": "y = a sin bx + c"
+      },
+      "back": {
+        "en": "a amplitude; b cycles; c shift.",
+        "bm": "a amplitud; b kitaran; c anjakan."
+      }
+    },
+    {
+      "id": "f5addmath-06-f03",
+      "subtopicId": "f5addmath-06-04",
+      "front": {
+        "en": "Identities",
+        "bm": "Identiti"
+      },
+      "back": {
+        "en": "sin²+cos²=1; 1+tan²=sec²; 1+cot²=cosec²",
+        "bm": "sin²+kos²=1; 1+tan²=sek²; 1+kot²=kosek²"
+      }
+    },
+    {
+      "id": "f5addmath-06-f04",
+      "subtopicId": "f5addmath-06-05",
+      "front": {
+        "en": "sin 2x",
+        "bm": "sin 2x"
+      },
+      "back": {
+        "en": "2 sin x cos x",
+        "bm": "2 sin x kos x"
+      }
+    },
+    {
+      "id": "f5addmath-06-f05",
+      "subtopicId": "f5addmath-06-05",
+      "front": {
+        "en": "cos 2x",
+        "bm": "kos 2x"
+      },
+      "back": {
+        "en": "cos²x − sin²x = 2cos²x − 1 = 1 − 2sin²x",
+        "bm": "kos²x − sin²x = 2kos²x − 1 = 1 − 2sin²x"
+      }
+    },
+    {
+      "id": "f5addmath-06-f06",
+      "subtopicId": "f5addmath-06-05",
+      "front": {
+        "en": "tan 2x",
+        "bm": "tan 2x"
+      },
+      "back": {
+        "en": "2 tan x/(1 − tan²x)",
+        "bm": "2 tan x/(1 − tan²x)"
+      }
+    }
+  ]
+}

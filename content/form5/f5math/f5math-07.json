@@ -1,0 +1,447 @@
+{
+  "chapterId": "f5math-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Two classes can share a mean of 60, yet in one everyone scores about 60 while the other ranges from 10 to 100. Dispersion shows the difference.",
+      "bm": "Dua kelas boleh mempunyai min 60, tetapi satu kelas skornya sekitar 60 manakala satu lagi 10 hingga 100. Serakan menunjukkan perbezaan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Histograms, frequency polygons and ogives show grouped data.",
+        "bm": "Histogram, poligon kekerapan dan ogif menunjukkan data terkumpul."
+      },
+      {
+        "en": "Ogives give quartiles.",
+        "bm": "Ogif memberi kuartil."
+      },
+      {
+        "en": "Standard deviation measures typical spread.",
+        "bm": "Sisihan piawai mengukur serakan lazim."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Measure",
+          "bm": "Sukatan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Range",
+              "bm": "Julat"
+            },
+            "detail": {
+              "en": "largest midpoint − smallest midpoint",
+              "bm": "titik tengah terbesar − terkecil"
+            }
+          },
+          {
+            "label": {
+              "en": "Interquartile range",
+              "bm": "Julat antara kuartil"
+            },
+            "detail": {
+              "en": "Q3 − Q1",
+              "bm": "Q3 − Q1"
+            }
+          },
+          {
+            "label": {
+              "en": "Variance",
+              "bm": "Varians"
+            },
+            "detail": {
+              "en": "Σfx²/Σf − x̄²",
+              "bm": "Σfx²/Σf − x̄²"
+            }
+          },
+          {
+            "label": {
+              "en": "Standard deviation",
+              "bm": "Sisihan piawai"
+            },
+            "detail": {
+              "en": "√variance",
+              "bm": "√variance"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Class interval",
+          "bm": "Selang kelas"
+        },
+        "definition": {
+          "en": "A group of values.",
+          "bm": "Kumpulan nilai."
+        }
+      },
+      {
+        "term": {
+          "en": "Midpoint",
+          "bm": "Titik tengah"
+        },
+        "definition": {
+          "en": "(lower + upper limit) ÷ 2.",
+          "bm": "(had bawah + had atas) ÷ 2."
+        }
+      },
+      {
+        "term": {
+          "en": "Ogive",
+          "bm": "Ogif"
+        },
+        "definition": {
+          "en": "Cumulative frequency curve.",
+          "bm": "Lengkung kekerapan longgokan."
+        }
+      },
+      {
+        "term": {
+          "en": "Standard deviation",
+          "bm": "Sisihan piawai"
+        },
+        "definition": {
+          "en": "Typical distance from the mean.",
+          "bm": "Jarak lazim dari min."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-var",
+      "f5-sd"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the mean of x = 2, 4, 6 with f = 3, 4, 3.",
+        "bm": "Cari min bagi x = 2, 4, 6 dengan f = 3, 4, 3."
+      },
+      "steps": [
+        {
+          "en": "Σfx = 6 + 16 + 18 = 40; Σf = 10.",
+          "bm": "Σfx = 6 + 16 + 18 = 40; Σf = 10."
+        }
+      ],
+      "answer": {
+        "en": "4",
+        "bm": "4"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-07-q01",
+      "subtopicId": "f5math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the midpoint of class 10–19.",
+        "bm": "Cari titik tengah kelas 10–19."
+      },
+      "explanation": {
+        "en": "(10 + 19) ÷ 2.",
+        "bm": "(10 + 19) ÷ 2."
+      },
+      "difficulty": 1,
+      "answer": 14.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-07-q02",
+      "subtopicId": "f5math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the midpoint of class 20–29.",
+        "bm": "Cari titik tengah kelas 20–29."
+      },
+      "explanation": {
+        "en": "(20 + 29) ÷ 2.",
+        "bm": "(20 + 29) ÷ 2."
+      },
+      "difficulty": 1,
+      "answer": 24.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-07-q03",
+      "subtopicId": "f5math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the midpoint of class 30–39.",
+        "bm": "Cari titik tengah kelas 30–39."
+      },
+      "explanation": {
+        "en": "(30 + 39) ÷ 2.",
+        "bm": "(30 + 39) ÷ 2."
+      },
+      "difficulty": 1,
+      "answer": 34.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-07-q04",
+      "subtopicId": "f5math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the size of class 20–29.",
+        "bm": "Cari saiz kelas 20–29."
+      },
+      "explanation": {
+        "en": "Upper boundary 29.5 − lower boundary 19.5.",
+        "bm": "Sempadan atas 29.5 − sempadan bawah 19.5."
+      },
+      "difficulty": 1,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-07-q05",
+      "subtopicId": "f5math-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Lower boundary of class 40–49?",
+        "bm": "Sempadan bawah kelas 40–49?"
+      },
+      "explanation": {
+        "en": "(39 + 40) ÷ 2.",
+        "bm": "(39 + 40) ÷ 2."
+      },
+      "difficulty": 2,
+      "answer": 39.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-07-q06",
+      "subtopicId": "f5math-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which graph uses cumulative frequency?",
+        "bm": "Graf manakah menggunakan kekerapan longgokan?"
+      },
+      "explanation": {
+        "en": "It rises steadily.",
+        "bm": "Ia meningkat secara berterusan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Ogive",
+          "bm": "Ogif"
+        },
+        {
+          "en": "Histogram",
+          "bm": "Histogram"
+        },
+        {
+          "en": "Bar chart",
+          "bm": "Carta bar"
+        },
+        {
+          "en": "Pie chart",
+          "bm": "Carta pai"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-07-q07",
+      "subtopicId": "f5math-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A histogram's bar widths mark…",
+        "bm": "Lebar bar histogram menandakan…"
+      },
+      "explanation": {
+        "en": "Height shows frequency.",
+        "bm": "Ketinggian menunjukkan kekerapan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "class boundaries",
+          "bm": "sempadan kelas"
+        },
+        {
+          "en": "frequency",
+          "bm": "kekerapan"
+        },
+        {
+          "en": "median only",
+          "bm": "median sahaja"
+        },
+        {
+          "en": "the mode only",
+          "bm": "mod sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-07-q08",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Q1 = 25 and Q3 = 40. Find the interquartile range.",
+        "bm": "Q1 = 25 dan Q3 = 40. Cari julat antara kuartil."
+      },
+      "explanation": {
+        "en": "40 − 25.",
+        "bm": "40 − 25."
+      },
+      "difficulty": 1,
+      "answer": 15,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-07-q09",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "For Σf = 40 on an ogive, at what cumulative frequency is Q3 read?",
+        "bm": "Bagi Σf = 40 pada ogif, Q3 dibaca pada kekerapan longgokan berapa?"
+      },
+      "explanation": {
+        "en": "¾ × 40.",
+        "bm": "¾ × 40."
+      },
+      "difficulty": 2,
+      "answer": 30,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-07-q10",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Midpoints 5, 15, 25, 35 (f = 2, 5, 8, 5). Find the mean.",
+        "bm": "Titik tengah 5, 15, 25, 35 (f = 2, 5, 8, 5). Cari min."
+      },
+      "explanation": {
+        "en": "Σfx ÷ Σf.",
+        "bm": "Σfx ÷ Σf."
+      },
+      "difficulty": 2,
+      "answer": 23,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-07-q11",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "For the same data, find the variance.",
+        "bm": "Bagi data yang sama, cari varians."
+      },
+      "explanation": {
+        "en": "Σfx²/Σf − x̄².",
+        "bm": "Σfx²/Σf − x̄²."
+      },
+      "difficulty": 3,
+      "answer": 86,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-07-q12",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "For the same data, find the standard deviation, to 2 d.p.",
+        "bm": "Bagi data yang sama, cari sisihan piawai, kepada 2 t.p."
+      },
+      "explanation": {
+        "en": "√variance.",
+        "bm": "√varians."
+      },
+      "difficulty": 3,
+      "answer": 9.27,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-07-q13",
+      "subtopicId": "f5math-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "x = 2, 4, 6 with f = 3, 4, 3. Find the variance.",
+        "bm": "x = 2, 4, 6 dengan f = 3, 4, 3. Cari varians."
+      },
+      "explanation": {
+        "en": "Σfx²/Σf − x̄².",
+        "bm": "Σfx²/Σf − x̄²."
+      },
+      "difficulty": 3,
+      "answer": 2.4,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-07-q14",
+      "subtopicId": "f5math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If every value rises by 5, the standard deviation…",
+        "bm": "Jika setiap nilai naik 5, sisihan piawai…"
+      },
+      "explanation": {
+        "en": "Spread does not change.",
+        "bm": "Serakan tidak berubah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "stays the same",
+          "bm": "kekal"
+        },
+        {
+          "en": "rises by 5",
+          "bm": "naik 5"
+        },
+        {
+          "en": "doubles",
+          "bm": "berganda"
+        },
+        {
+          "en": "becomes 0",
+          "bm": "menjadi 0"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-07-q15",
+      "subtopicId": "f5math-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If every value is multiplied by 3, the variance…",
+        "bm": "Jika setiap nilai didarab 3, varians…"
+      },
+      "explanation": {
+        "en": "Variance scales by k².",
+        "bm": "Varians berubah mengikut k²."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "is multiplied by 9",
+          "bm": "didarab 9"
+        },
+        {
+          "en": "is multiplied by 3",
+          "bm": "didarab 3"
+        },
+        {
+          "en": "stays the same",
+          "bm": "kekal"
+        },
+        {
+          "en": "rises by 3",
+          "bm": "naik 3"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

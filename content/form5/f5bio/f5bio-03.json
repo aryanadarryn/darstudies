@@ -1,0 +1,437 @@
+{
+  "chapterId": "f5bio-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Pitcher plants in Malaysian forests digest insects to get the nitrogen their soil lacks.",
+      "bm": "Periuk kera di hutan Malaysia mencerna serangga untuk mendapatkan nitrogen yang kurang dalam tanah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Plants need macronutrients and micronutrients.",
+        "bm": "Tumbuhan memerlukan makronutrien dan mikronutrien."
+      },
+      {
+        "en": "Root hairs absorb water and ions.",
+        "bm": "Rambut akar menyerap air dan ion."
+      },
+      {
+        "en": "Some plants are carnivorous, parasitic or epiphytic.",
+        "bm": "Sesetengah tumbuhan karnivor, parasit atau epifit."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Role",
+            "bm": "Peranan"
+          },
+          {
+            "en": "Lack causes",
+            "bm": "Kekurangan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Nitrogen",
+              "bm": "Nitrogen"
+            },
+            "cells": [
+              {
+                "en": "proteins, chlorophyll",
+                "bm": "protein, klorofil"
+              },
+              {
+                "en": "yellow leaves",
+                "bm": "daun kuning"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Phosphorus",
+              "bm": "Fosforus"
+            },
+            "cells": [
+              {
+                "en": "ATP, DNA",
+                "bm": "ATP, DNA"
+              },
+              {
+                "en": "purple leaves",
+                "bm": "daun ungu"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Potassium",
+              "bm": "Kalium"
+            },
+            "cells": [
+              {
+                "en": "enzymes, stomata",
+                "bm": "enzim, stoma"
+              },
+              {
+                "en": "leaf edges die",
+                "bm": "tepi daun mati"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Magnesium",
+              "bm": "Magnesium"
+            },
+            "cells": [
+              {
+                "en": "chlorophyll",
+                "bm": "klorofil"
+              },
+              {
+                "en": "yellow between veins",
+                "bm": "kuning antara urat"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Macronutrient",
+          "bm": "Makronutrien"
+        },
+        "definition": {
+          "en": "Needed in large amounts.",
+          "bm": "Diperlukan dalam jumlah besar."
+        }
+      },
+      {
+        "term": {
+          "en": "Chlorosis",
+          "bm": "Klorosis"
+        },
+        "definition": {
+          "en": "Leaf yellowing.",
+          "bm": "Daun menguning."
+        }
+      },
+      {
+        "term": {
+          "en": "Epiphyte",
+          "bm": "Epifit"
+        },
+        "definition": {
+          "en": "Plant living on another plant without harming it.",
+          "bm": "Tumbuhan hidup pada tumbuhan lain tanpa merosakkannya."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-03-q01",
+      "subtopicId": "f5bio-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Nitrogen deficiency causes…",
+        "bm": "Kekurangan nitrogen menyebabkan…"
+      },
+      "explanation": {
+        "en": "Chlorophyll needs nitrogen.",
+        "bm": "Klorofil memerlukan nitrogen."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "yellow leaves",
+          "bm": "daun kuning"
+        },
+        {
+          "en": "larger fruits",
+          "bm": "buah lebih besar"
+        },
+        {
+          "en": "more flowers",
+          "bm": "lebih banyak bunga"
+        },
+        {
+          "en": "deep green leaves",
+          "bm": "daun hijau tua"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q02",
+      "subtopicId": "f5bio-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Magnesium is part of…",
+        "bm": "Magnesium sebahagian daripada…"
+      },
+      "explanation": {
+        "en": "At the centre of the molecule.",
+        "bm": "Di pusat molekul."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "chlorophyll",
+          "bm": "klorofil"
+        },
+        {
+          "en": "cellulose",
+          "bm": "selulosa"
+        },
+        {
+          "en": "lignin",
+          "bm": "lignin"
+        },
+        {
+          "en": "starch",
+          "bm": "kanji"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q03",
+      "subtopicId": "f5bio-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Fertilisers labelled N–P–K supply…",
+        "bm": "Baja berlabel N–P–K membekalkan…"
+      },
+      "explanation": {
+        "en": "Main macronutrients.",
+        "bm": "Makronutrien utama."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "nitrogen, phosphorus, potassium",
+          "bm": "nitrogen, fosforus, kalium"
+        },
+        {
+          "en": "neon, platinum, krypton",
+          "bm": "neon, platinum, kripton"
+        },
+        {
+          "en": "sodium, iron, carbon",
+          "bm": "natrium, besi, karbon"
+        },
+        {
+          "en": "only water",
+          "bm": "air sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q04",
+      "subtopicId": "f5bio-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Root hairs have…",
+        "bm": "Rambut akar mempunyai…"
+      },
+      "explanation": {
+        "en": "It speeds absorption.",
+        "bm": "Ia mempercepat penyerapan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a large surface area",
+          "bm": "luas permukaan besar"
+        },
+        {
+          "en": "thick walls",
+          "bm": "dinding tebal"
+        },
+        {
+          "en": "many chloroplasts",
+          "bm": "banyak kloroplas"
+        },
+        {
+          "en": "a waxy cuticle",
+          "bm": "kutikel berlilin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q05",
+      "subtopicId": "f5bio-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water enters root hairs by…",
+        "bm": "Air memasuki rambut akar melalui…"
+      },
+      "explanation": {
+        "en": "Into higher solute concentration.",
+        "bm": "Ke arah kepekatan zat terlarut lebih tinggi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "osmosis",
+          "bm": "osmosis"
+        },
+        {
+          "en": "active transport",
+          "bm": "pengangkutan aktif"
+        },
+        {
+          "en": "photosynthesis",
+          "bm": "fotosintesis"
+        },
+        {
+          "en": "transpiration",
+          "bm": "transpirasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q06",
+      "subtopicId": "f5bio-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Minerals are often absorbed by active transport because…",
+        "bm": "Mineral sering diserap secara aktif kerana…"
+      },
+      "explanation": {
+        "en": "It moves against the gradient.",
+        "bm": "Ia melawan kecerunan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "soil concentration is lower than in the root",
+          "bm": "kepekatan tanah lebih rendah daripada akar"
+        },
+        {
+          "en": "no energy is needed",
+          "bm": "tiada tenaga diperlukan"
+        },
+        {
+          "en": "water carries all",
+          "bm": "air membawa semua"
+        },
+        {
+          "en": "they are gases",
+          "bm": "ia gas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q07",
+      "subtopicId": "f5bio-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pitcher plants catch insects for…",
+        "bm": "Periuk kera menangkap serangga untuk…"
+      },
+      "explanation": {
+        "en": "They live on poor soil.",
+        "bm": "Ia hidup di tanah miskin."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "nitrogen",
+          "bm": "nitrogen"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "oxygen",
+          "bm": "oksigen"
+        },
+        {
+          "en": "light",
+          "bm": "cahaya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q08",
+      "subtopicId": "f5bio-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rafflesia is a…",
+        "bm": "Rafflesia ialah…"
+      },
+      "explanation": {
+        "en": "It takes from its host vine.",
+        "bm": "Ia mengambil daripada pokok perumah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "parasite",
+          "bm": "parasit"
+        },
+        {
+          "en": "epiphyte",
+          "bm": "epifit"
+        },
+        {
+          "en": "carnivore",
+          "bm": "karnivor"
+        },
+        {
+          "en": "decomposer only",
+          "bm": "pengurai sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-03-q09",
+      "subtopicId": "f5bio-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An orchid on a tree is an…",
+        "bm": "Orkid pada pokok ialah…"
+      },
+      "explanation": {
+        "en": "It does not take nutrients from the host.",
+        "bm": "Ia tidak mengambil nutrien daripada perumah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "epiphyte",
+          "bm": "epifit"
+        },
+        {
+          "en": "obligate parasite",
+          "bm": "parasit mutlak"
+        },
+        {
+          "en": "carnivore",
+          "bm": "karnivor"
+        },
+        {
+          "en": "alga",
+          "bm": "alga"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

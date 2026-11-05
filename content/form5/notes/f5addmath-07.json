@@ -1,0 +1,97 @@
+{
+  "chapterId": "f5addmath-07",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-07-01": {
+      "keyPoints": [
+        {
+          "en": "Translate words to inequalities.",
+          "bm": "Terjemah perkataan kepada ketaksamaan."
+        },
+        {
+          "en": "Graph each boundary and shade.",
+          "bm": "Graf setiap sempadan dan lorek."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Inequality",
+            "bm": "Ketaksamaan"
+          },
+          "meaning": {
+            "en": "A relation using <, ≤, >, ≥.",
+            "bm": "Hubungan menggunakan <, ≤, >, ≥."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/lp-region.svg",
+          "alt": {
+            "en": "A feasible region and its vertices.",
+            "bm": "Rantau tersaur dan bucunya."
+          },
+          "caption": {
+            "en": "A feasible region and its vertices.",
+            "bm": "Rantau tersaur dan bucunya."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Budget RM100, x at RM5 and y at RM10?",
+          "bm": "Bajet RM100, x pada RM5 dan y pada RM10?"
+        },
+        "answer": {
+          "en": "5x + 10y ≤ 100",
+          "bm": "5x + 10y ≤ 100"
+        }
+      },
+      "tip": {
+        "en": "Test (0, 0) to choose the side.",
+        "bm": "Uji (0, 0) untuk memilih sebelah."
+      }
+    },
+    "f5addmath-07-02": {
+      "keyPoints": [
+        {
+          "en": "Evaluate k at each vertex.",
+          "bm": "Nilai k di setiap bucu."
+        },
+        {
+          "en": "State the answer in the problem's context.",
+          "bm": "Nyatakan jawapan mengikut konteks masalah."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Optimise",
+            "bm": "Mengoptimumkan"
+          },
+          "meaning": {
+            "en": "Find the best value.",
+            "bm": "Mencari nilai terbaik."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Profit P = 5x + 3y at (4, 2)?",
+          "bm": "Untung P = 5x + 3y pada (4, 2)?"
+        },
+        "answer": {
+          "en": "RM26",
+          "bm": "RM26"
+        }
+      },
+      "tip": {
+        "en": "Or slide the objective line across R.",
+        "bm": "Atau gerakkan garis objektif merentasi R."
+      }
+    }
+  }
+}

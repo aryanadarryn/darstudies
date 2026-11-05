@@ -1,0 +1,421 @@
+{
+  "chapterId": "f5math-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Income tax builds roads, schools and hospitals. Knowing how it is calculated helps you plan your money and claim your reliefs.",
+      "bm": "Cukai pendapatan membina jalan, sekolah dan hospital. Mengetahui pengiraannya membantu merancang wang dan menuntut pelepasan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tax is charged by federal and local authorities.",
+        "bm": "Cukai dikenakan oleh kerajaan persekutuan dan pihak berkuasa tempatan."
+      },
+      {
+        "en": "Chargeable income = income − exemptions − reliefs.",
+        "bm": "Pendapatan bercukai = pendapatan − pengecualian − pelepasan."
+      },
+      {
+        "en": "Rebates reduce tax directly.",
+        "bm": "Rebat mengurangkan cukai secara terus."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Total income",
+              "bm": "Jumlah pendapatan"
+            },
+            "detail": {
+              "en": "All sources",
+              "bm": "Semua sumber"
+            }
+          },
+          {
+            "title": {
+              "en": "Subtract reliefs",
+              "bm": "Tolak pelepasan"
+            },
+            "detail": {
+              "en": "Personal, EPF, etc.",
+              "bm": "Individu, KWSP, dll."
+            }
+          },
+          {
+            "title": {
+              "en": "Chargeable income",
+              "bm": "Pendapatan bercukai"
+            },
+            "detail": {
+              "en": "Apply rate table",
+              "bm": "Guna jadual kadar"
+            }
+          },
+          {
+            "title": {
+              "en": "Subtract rebates",
+              "bm": "Tolak rebat"
+            },
+            "detail": {
+              "en": "Zakat, etc.",
+              "bm": "Zakat, dll."
+            }
+          },
+          {
+            "title": {
+              "en": "Tax payable",
+              "bm": "Cukai dibayar"
+            },
+            "detail": {
+              "en": "Pay LHDN",
+              "bm": "Bayar LHDN"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Chargeable income",
+          "bm": "Pendapatan bercukai"
+        },
+        "definition": {
+          "en": "Income on which tax is calculated.",
+          "bm": "Pendapatan yang dikira cukai."
+        }
+      },
+      {
+        "term": {
+          "en": "Relief",
+          "bm": "Pelepasan"
+        },
+        "definition": {
+          "en": "Amount subtracted before tax is worked out.",
+          "bm": "Jumlah ditolak sebelum cukai dikira."
+        }
+      },
+      {
+        "term": {
+          "en": "Rebate",
+          "bm": "Rebat"
+        },
+        "definition": {
+          "en": "Amount subtracted from the tax itself.",
+          "bm": "Jumlah ditolak daripada cukai."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Income RM60 000, reliefs RM15 000. Using an illustrative table (RM35 000 → RM600; next RM15 000 at 8%), find the tax on chargeable income RM45 000.",
+        "bm": "Pendapatan RM60 000, pelepasan RM15 000. Guna jadual contoh (RM35 000 → RM600; RM15 000 berikutnya 8%), cari cukai bagi pendapatan bercukai RM45 000."
+      },
+      "steps": [
+        {
+          "en": "Chargeable = RM45 000.",
+          "bm": "Bercukai = RM45 000."
+        },
+        {
+          "en": "600 + 8% × 10 000",
+          "bm": "600 + 8% × 10 000"
+        }
+      ],
+      "answer": {
+        "en": "RM1 400",
+        "bm": "RM1 400"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-04-q01",
+      "subtopicId": "f5math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which body collects income tax in Malaysia?",
+        "bm": "Badan manakah mengutip cukai pendapatan di Malaysia?"
+      },
+      "explanation": {
+        "en": "Lembaga Hasil Dalam Negeri.",
+        "bm": "Lembaga Hasil Dalam Negeri."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "LHDN",
+          "bm": "LHDN"
+        },
+        {
+          "en": "KWSP",
+          "bm": "KWSP"
+        },
+        {
+          "en": "SOCSO",
+          "bm": "SOCSO"
+        },
+        {
+          "en": "JPJ",
+          "bm": "JPJ"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-04-q02",
+      "subtopicId": "f5math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Road tax is paid to…",
+        "bm": "Cukai jalan dibayar kepada…"
+      },
+      "explanation": {
+        "en": "The Road Transport Department.",
+        "bm": "Jabatan Pengangkutan Jalan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "JPJ",
+          "bm": "JPJ"
+        },
+        {
+          "en": "LHDN",
+          "bm": "LHDN"
+        },
+        {
+          "en": "local council",
+          "bm": "majlis tempatan"
+        },
+        {
+          "en": "the bank",
+          "bm": "bank"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-04-q03",
+      "subtopicId": "f5math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Assessment tax (cukai taksiran) is paid to…",
+        "bm": "Cukai taksiran dibayar kepada…"
+      },
+      "explanation": {
+        "en": "It funds local services.",
+        "bm": "Ia membiayai perkhidmatan tempatan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the local authority",
+          "bm": "pihak berkuasa tempatan"
+        },
+        {
+          "en": "LHDN",
+          "bm": "LHDN"
+        },
+        {
+          "en": "JPJ",
+          "bm": "JPJ"
+        },
+        {
+          "en": "the Customs Department",
+          "bm": "Kastam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-04-q04",
+      "subtopicId": "f5math-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A relief differs from a rebate because a relief…",
+        "bm": "Pelepasan berbeza daripada rebat kerana pelepasan…"
+      },
+      "explanation": {
+        "en": "A rebate is taken off the tax itself.",
+        "bm": "Rebat ditolak daripada cukai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "reduces chargeable income",
+          "bm": "mengurangkan pendapatan bercukai"
+        },
+        {
+          "en": "reduces tax directly",
+          "bm": "mengurangkan cukai secara terus"
+        },
+        {
+          "en": "raises tax",
+          "bm": "menaikkan cukai"
+        },
+        {
+          "en": "is paid to JPJ",
+          "bm": "dibayar kepada JPJ"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-04-q05",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Income RM60000, total reliefs RM15000. Find the chargeable income.",
+        "bm": "Pendapatan RM60000, jumlah pelepasan RM15000. Cari pendapatan bercukai."
+      },
+      "explanation": {
+        "en": "60000 − 15000.",
+        "bm": "60000 − 15000."
+      },
+      "difficulty": 1,
+      "answer": 45000,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q06",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Income RM48000, total reliefs RM13000. Find the chargeable income.",
+        "bm": "Pendapatan RM48000, jumlah pelepasan RM13000. Cari pendapatan bercukai."
+      },
+      "explanation": {
+        "en": "48000 − 13000.",
+        "bm": "48000 − 13000."
+      },
+      "difficulty": 1,
+      "answer": 35000,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q07",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Income RM90000, total reliefs RM20000. Find the chargeable income.",
+        "bm": "Pendapatan RM90000, jumlah pelepasan RM20000. Cari pendapatan bercukai."
+      },
+      "explanation": {
+        "en": "90000 − 20000.",
+        "bm": "90000 − 20000."
+      },
+      "difficulty": 1,
+      "answer": 70000,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q08",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Illustrative table: first RM35 000 → RM600; next at 8%. Find tax on RM45 000.",
+        "bm": "Jadual contoh: RM35 000 pertama → RM600; seterusnya 8%. Cari cukai bagi RM45 000."
+      },
+      "explanation": {
+        "en": "600 + 8% × 10 000.",
+        "bm": "600 + 8% × 10 000."
+      },
+      "difficulty": 2,
+      "answer": 1400,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q09",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Illustrative table: first RM50 000 → RM1 800; next at 13%. Find tax on RM70 000.",
+        "bm": "Jadual contoh: RM50 000 pertama → RM1 800; seterusnya 13%. Cari cukai bagi RM70 000."
+      },
+      "explanation": {
+        "en": "1 800 + 13% × 20 000.",
+        "bm": "1 800 + 13% × 20 000."
+      },
+      "difficulty": 2,
+      "answer": 4400,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q10",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Tax is RM1 400 and zakat paid is RM500. Find the tax payable.",
+        "bm": "Cukai RM1 400 dan zakat dibayar RM500. Cari cukai yang perlu dibayar."
+      },
+      "explanation": {
+        "en": "Zakat is a rebate: 1 400 − 500.",
+        "bm": "Zakat ialah rebat: 1 400 − 500."
+      },
+      "difficulty": 3,
+      "answer": 900,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q11",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Assessment rate 6% on annual value RM12 000. Find the yearly assessment tax.",
+        "bm": "Kadar taksiran 6% atas nilai tahunan RM12 000. Cari cukai taksiran setahun."
+      },
+      "explanation": {
+        "en": "6% × 12 000.",
+        "bm": "6% × 12 000."
+      },
+      "difficulty": 2,
+      "answer": 720,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q12",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Quit rent is RM0.25 per square foot on 2 000 square feet. Find it.",
+        "bm": "Cukai tanah RM0.25 sekaki persegi bagi 2 000 kaki persegi. Cari cukai itu."
+      },
+      "explanation": {
+        "en": "0.25 × 2 000.",
+        "bm": "0.25 × 2 000."
+      },
+      "difficulty": 2,
+      "answer": 500,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-04-q13",
+      "subtopicId": "f5math-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A RM200 phone is charged 10% sales tax. Find the total price.",
+        "bm": "Telefon RM200 dikenakan cukai jualan 10%. Cari jumlah harga."
+      },
+      "explanation": {
+        "en": "200 × 1.10.",
+        "bm": "200 × 1.10."
+      },
+      "difficulty": 3,
+      "answer": 220,
+      "tolerance": 0,
+      "unit": "RM"
+    }
+  ]
+}

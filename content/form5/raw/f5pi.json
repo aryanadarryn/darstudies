@@ -1,0 +1,225 @@
+{
+  "id": "f5pi",
+  "name": {
+    "en": "Islamic Education",
+    "bm": "Pendidikan Islam"
+  },
+  "short": {
+    "en": "Islamic Ed.",
+    "bm": "P. Islam"
+  },
+  "color": "#047857",
+  "source": "Arranged by the KSSM Pendidikan Islam fields (bidang). The Form 5 textbook lesson list could not be confirmed online. Learning content is original and should be reviewed by a Pendidikan Islam teacher before use.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Al-Quran: Tajwid and Understanding",
+        "bm": "Al-Quran: Tajwid dan Kefahaman"
+      },
+      "theme": {
+        "en": "Al-Quran",
+        "bm": "Al-Quran"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Tajwid Review",
+            "bm": "Ulangkaji Tajwid"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Understanding: Brotherhood and Checking News",
+            "bm": "Kefahaman: Persaudaraan dan Menyemak Berita"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Hadith: Sincerity and Good Conduct",
+        "bm": "Hadis: Keikhlasan dan Akhlak"
+      },
+      "theme": {
+        "en": "Hadith",
+        "bm": "Hadis"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Sciences of Hadith",
+            "bm": "Asas Ilmu Hadis"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Hadith on Intention and Good Character",
+            "bm": "Hadis tentang Niat dan Akhlak"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Faith: Belief in the Last Day and Divine Decree",
+        "bm": "Akidah: Beriman kepada Hari Akhirat dan Qada' Qadar"
+      },
+      "theme": {
+        "en": "Faith",
+        "bm": "Akidah"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Belief in the Last Day",
+            "bm": "Beriman kepada Hari Akhirat"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Qada' and Qadar",
+            "bm": "Qada' dan Qadar"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Protecting Faith",
+            "bm": "Memelihara Akidah"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Worship: Hajj, Umrah and Sacrifice",
+        "bm": "Ibadah: Haji, Umrah dan Korban"
+      },
+      "theme": {
+        "en": "Worship",
+        "bm": "Ibadah"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Hajj",
+            "bm": "Haji"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Umrah",
+            "bm": "Umrah"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Korban and Aqiqah",
+            "bm": "Korban dan Akikah"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Muamalat and Munakahat",
+        "bm": "Muamalat dan Munakahat"
+      },
+      "theme": {
+        "en": "Dealings and Family",
+        "bm": "Muamalat dan Munakahat"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Islamic Dealings",
+            "bm": "Muamalat Islam"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Marriage",
+            "bm": "Perkahwinan"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Wills and Inheritance",
+            "bm": "Wasiat dan Faraid"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Sirah: The Rightly Guided Caliphs",
+        "bm": "Sirah: Khulafa' Ar-Rasyidin"
+      },
+      "theme": {
+        "en": "Sirah",
+        "bm": "Sirah"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Abu Bakar and Umar",
+            "bm": "Abu Bakar dan Umar"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Uthman and Ali",
+            "bm": "Uthman dan Ali"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Character and Social Conduct",
+        "bm": "Adab dan Akhlak Islamiah"
+      },
+      "theme": {
+        "en": "Character",
+        "bm": "Adab dan Akhlak"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Conduct in Society",
+            "bm": "Adab Bermasyarakat"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Conduct on Social Media",
+            "bm": "Adab Bermedia Sosial"
+          }
+        }
+      ]
+    }
+  ]
+}

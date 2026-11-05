@@ -3,7 +3,7 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs'
 import { join } from 'node:path'
 import { createClient } from '@supabase/supabase-js'
-import { F4_SUBJECT_IDS } from '../src/content/ids.ts'
+import { F4_SUBJECT_IDS, F5_SUBJECT_IDS } from '../src/content/ids.ts'
 import type { ChapterContent, NotesFile } from '../src/content/schema.ts'
 
 const url = process.env.SUPABASE_URL, key = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -12,8 +12,8 @@ if (!url || !key) {
   process.exit(1)
 }
 const db = createClient(url, key, { auth: { persistSession: false } })
-// Only Form 4 is protected; Form 3 is free and ships inside the app.
-const ROOT = join(import.meta.dirname, '..', 'content', 'form4')
+// Only Forms 4 and 5 are protected; the other forms are free and ship inside the app.
+const CONTENT = join(import.meta.dirname, '..', 'content')
 const read = <T>(file: string) => JSON.parse(readFileSync(file, 'utf8')) as T
 const jsonFiles = (dir: string) => (existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith('.json')) : [])
 const subjectOf = (chapterId: string) => chapterId.split('-')[0]
@@ -24,7 +24,9 @@ const now = new Date().toISOString()
 const add = (kind: string, feature: string, chapterId: string, data: unknown) =>
   rows.push({ id: `${kind}:${chapterId}`, kind, feature, subject_id: subjectOf(chapterId), chapter_id: chapterId, data, updated_at: now })
 
-for (const s of F4_SUBJECT_IDS) {
+for (const [folder, subjects] of [['form4', F4_SUBJECT_IDS], ['form5', F5_SUBJECT_IDS]] as const) {
+const ROOT = join(CONTENT, folder)
+for (const s of subjects) {
   for (const name of jsonFiles(join(ROOT, s))) {
     const ch = read<ChapterContent>(join(ROOT, s, name))
     add('intro', 'learn', ch.chapterId, { reviewed: ch.reviewed, intro: ch.intro })
@@ -38,6 +40,7 @@ for (const name of jsonFiles(join(ROOT, 'notes'))) {
 for (const name of jsonFiles(join(ROOT, 'flashcards'))) {
   const f = read<{ chapterId: string; cards: unknown[] }>(join(ROOT, 'flashcards', name))
   add('flashcards', 'flashcards', f.chapterId, f.cards)
+}
 }
 
 for (let i = 0; i < rows.length; i += 50) {

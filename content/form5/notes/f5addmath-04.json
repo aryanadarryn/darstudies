@@ -1,0 +1,82 @@
+{
+  "chapterId": "f5addmath-04",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-04-01": {
+      "keyPoints": [
+        {
+          "en": "Order matters.",
+          "bm": "Susunan penting."
+        },
+        {
+          "en": "Treat \"together\" items as one block.",
+          "bm": "Anggap item \"bersama\" sebagai satu blok."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Factorial",
+            "bm": "Faktorial"
+          },
+          "meaning": {
+            "en": "Product of descending integers.",
+            "bm": "Hasil darab integer menurun."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "⁴P₂?",
+          "bm": "⁴P₂?"
+        },
+        "answer": {
+          "en": "12",
+          "bm": "12"
+        }
+      },
+      "tip": {
+        "en": "Use the nPr key on your calculator.",
+        "bm": "Gunakan kekunci nPr kalkulator."
+      }
+    },
+    "f5addmath-04-02": {
+      "keyPoints": [
+        {
+          "en": "Order does not matter.",
+          "bm": "Susunan tidak penting."
+        },
+        {
+          "en": "Multiply independent selections.",
+          "bm": "Darab pilihan bebas."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Selection",
+            "bm": "Pilihan"
+          },
+          "meaning": {
+            "en": "Choosing without order.",
+            "bm": "Memilih tanpa susunan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "⁵C₂?",
+          "bm": "⁵C₂?"
+        },
+        "answer": {
+          "en": "10",
+          "bm": "10"
+        }
+      },
+      "tip": {
+        "en": "\"At least\" usually means total minus the unwanted case.",
+        "bm": "\"Sekurang-kurangnya\" biasanya jumlah tolak kes tidak diingini."
+      }
+    }
+  }
+}

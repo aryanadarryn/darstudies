@@ -1,0 +1,427 @@
+{
+  "chapterId": "f5pi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Millions of people gather every year in the same place wearing similar simple clothes, regardless of wealth or rank.",
+      "bm": "Berjuta-juta manusia berkumpul setiap tahun di tempat yang sama dengan pakaian ringkas yang serupa, tanpa mengira kekayaan atau pangkat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Hajj is the fifth pillar of Islam.",
+        "bm": "Haji ialah rukun Islam kelima."
+      },
+      {
+        "en": "Hajj has six pillars; umrah has five.",
+        "bm": "Haji ada enam rukun; umrah ada lima."
+      },
+      {
+        "en": "Korban teaches sacrifice and sharing.",
+        "bm": "Korban mengajar pengorbanan dan perkongsian."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Hajj pillar",
+          "bm": "Rukun haji"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Ihram",
+              "bm": "Ihram"
+            },
+            "detail": {
+              "en": "enter ritual state with intention",
+              "bm": "memasuki ibadah dengan niat"
+            }
+          },
+          {
+            "label": {
+              "en": "Wukuf",
+              "bm": "Wukuf"
+            },
+            "detail": {
+              "en": "stay at Arafah",
+              "bm": "berada di Arafah"
+            }
+          },
+          {
+            "label": {
+              "en": "Tawaf",
+              "bm": "Tawaf"
+            },
+            "detail": {
+              "en": "circle the Kaaba",
+              "bm": "mengelilingi Kaabah"
+            }
+          },
+          {
+            "label": {
+              "en": "Sa'ie",
+              "bm": "Sa'ie"
+            },
+            "detail": {
+              "en": "walk between Safa and Marwah",
+              "bm": "berjalan antara Safa dan Marwah"
+            }
+          },
+          {
+            "label": {
+              "en": "Tahallul",
+              "bm": "Tahallul"
+            },
+            "detail": {
+              "en": "shave or trim hair",
+              "bm": "bercukur atau bergunting"
+            }
+          },
+          {
+            "label": {
+              "en": "Tertib",
+              "bm": "Tertib"
+            },
+            "detail": {
+              "en": "in proper order",
+              "bm": "mengikut urutan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Ihram",
+          "bm": "Ihram"
+        },
+        "definition": {
+          "en": "State of sanctity with its rules.",
+          "bm": "Keadaan suci dengan peraturannya."
+        }
+      },
+      {
+        "term": {
+          "en": "Wukuf",
+          "bm": "Wukuf"
+        },
+        "definition": {
+          "en": "Staying at Arafah on 9 Zulhijjah.",
+          "bm": "Berada di Arafah pada 9 Zulhijjah."
+        }
+      },
+      {
+        "term": {
+          "en": "Korban",
+          "bm": "Korban"
+        },
+        "definition": {
+          "en": "Slaughtering a set animal for Allah.",
+          "bm": "Menyembelih haiwan tertentu kerana Allah."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5pi-04-q01",
+      "subtopicId": "f5pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Hajj is the…pillar of Islam.",
+        "bm": "Haji ialah rukun Islam…"
+      },
+      "explanation": {
+        "en": "For those who are able.",
+        "bm": "Bagi yang berkemampuan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fifth",
+          "bm": "kelima"
+        },
+        {
+          "en": "first",
+          "bm": "pertama"
+        },
+        {
+          "en": "second",
+          "bm": "kedua"
+        },
+        {
+          "en": "third",
+          "bm": "ketiga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q02",
+      "subtopicId": "f5pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Wukuf takes place at…",
+        "bm": "Wukuf berlaku di…"
+      },
+      "explanation": {
+        "en": "On 9 Zulhijjah.",
+        "bm": "Pada 9 Zulhijjah."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Arafah",
+          "bm": "Arafah"
+        },
+        {
+          "en": "Mina",
+          "bm": "Mina"
+        },
+        {
+          "en": "Madinah",
+          "bm": "Madinah"
+        },
+        {
+          "en": "Taif",
+          "bm": "Taif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q03",
+      "subtopicId": "f5pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a pillar of Hajj?",
+        "bm": "Yang manakah rukun haji?"
+      },
+      "explanation": {
+        "en": "The others are obligatory acts (wajib).",
+        "bm": "Yang lain ialah wajib haji."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Tawaf ifadah",
+          "bm": "Tawaf ifadah"
+        },
+        {
+          "en": "Throwing jamrah",
+          "bm": "Melontar jamrah"
+        },
+        {
+          "en": "Tawaf wada'",
+          "bm": "Tawaf wada'"
+        },
+        {
+          "en": "Staying at Mina",
+          "bm": "Bermalam di Mina"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q04",
+      "subtopicId": "f5pi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Missing a wajib of Hajj requires…",
+        "bm": "Meninggalkan wajib haji memerlukan…"
+      },
+      "explanation": {
+        "en": "A missed rukun, however, invalidates Hajj.",
+        "bm": "Tertinggal rukun pula membatalkan haji."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "dam (a set compensation)",
+          "bm": "dam (bayaran tertentu)"
+        },
+        {
+          "en": "repeating Hajj always",
+          "bm": "mengulang haji sentiasa"
+        },
+        {
+          "en": "no action",
+          "bm": "tiada tindakan"
+        },
+        {
+          "en": "fasting one day only",
+          "bm": "puasa sehari sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q05",
+      "subtopicId": "f5pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many pillars does umrah have?",
+        "bm": "Berapakah rukun umrah?"
+      },
+      "explanation": {
+        "en": "No wukuf.",
+        "bm": "Tiada wukuf."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "6",
+          "bm": "6"
+        },
+        {
+          "en": "8",
+          "bm": "8"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q06",
+      "subtopicId": "f5pi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A difference between Hajj and umrah is that umrah…",
+        "bm": "Perbezaan haji dan umrah ialah umrah…"
+      },
+      "explanation": {
+        "en": "Hajj has set dates.",
+        "bm": "Haji ada tarikh tetap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "can be done at any time of year",
+          "bm": "boleh dilakukan bila-bila masa"
+        },
+        {
+          "en": "has wukuf",
+          "bm": "ada wukuf"
+        },
+        {
+          "en": "needs no ihram",
+          "bm": "tidak perlu ihram"
+        },
+        {
+          "en": "is done only in Zulhijjah",
+          "bm": "hanya pada Zulhijjah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q07",
+      "subtopicId": "f5pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Korban is carried out from…",
+        "bm": "Korban dilakukan dari…"
+      },
+      "explanation": {
+        "en": "After Eid prayer until the end of Tasyrik.",
+        "bm": "Selepas solat Aidiladha hingga akhir Tasyrik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "10 to 13 Zulhijjah",
+          "bm": "10 hingga 13 Zulhijjah"
+        },
+        {
+          "en": "1 to 3 Ramadan",
+          "bm": "1 hingga 3 Ramadan"
+        },
+        {
+          "en": "1 to 3 Syawal",
+          "bm": "1 hingga 3 Syawal"
+        },
+        {
+          "en": "1 Muharram only",
+          "bm": "1 Muharam sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q08",
+      "subtopicId": "f5pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Aqiqah is performed for…",
+        "bm": "Akikah dilakukan untuk…"
+      },
+      "explanation": {
+        "en": "A sign of gratitude.",
+        "bm": "Tanda kesyukuran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a newborn child",
+          "bm": "anak yang baru lahir"
+        },
+        {
+          "en": "a new house",
+          "bm": "rumah baharu"
+        },
+        {
+          "en": "a new car",
+          "bm": "kereta baharu"
+        },
+        {
+          "en": "a graduate",
+          "bm": "graduan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-04-q09",
+      "subtopicId": "f5pi-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An important lesson of korban is…",
+        "bm": "Pengajaran penting korban ialah…"
+      },
+      "explanation": {
+        "en": "Remembers Prophet Ibrahim's obedience.",
+        "bm": "Mengingati ketaatan Nabi Ibrahim."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "sacrifice and caring for those in need",
+          "bm": "pengorbanan dan prihatin terhadap yang memerlukan"
+        },
+        {
+          "en": "showing off wealth",
+          "bm": "menunjuk kekayaan"
+        },
+        {
+          "en": "wasting food",
+          "bm": "membazir makanan"
+        },
+        {
+          "en": "avoiding neighbours",
+          "bm": "mengelak jiran"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

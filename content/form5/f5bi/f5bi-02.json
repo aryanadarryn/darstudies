@@ -1,0 +1,400 @@
+{
+  "chapterId": "f5bi-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "\"If I had studied, I would have passed.\" One sentence, and you can hear the regret.",
+      "bm": "\"If I had studied, I would have passed.\" One sentence, and you can hear the regret."
+    },
+    "bigIdeas": [
+      {
+        "en": "Conditionals show real and unreal situations.",
+        "bm": "Conditionals show real and unreal situations."
+      },
+      {
+        "en": "Modals show ability, advice and obligation.",
+        "bm": "Modals show ability, advice and obligation."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "If-clause",
+            "bm": "If-clause"
+          },
+          {
+            "en": "Main clause",
+            "bm": "Main clause"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Zero",
+              "bm": "Zero"
+            },
+            "cells": [
+              {
+                "en": "present",
+                "bm": "present"
+              },
+              {
+                "en": "present",
+                "bm": "present"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "First",
+              "bm": "First"
+            },
+            "cells": [
+              {
+                "en": "present",
+                "bm": "present"
+              },
+              {
+                "en": "will + V",
+                "bm": "will + V"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Second",
+              "bm": "Second"
+            },
+            "cells": [
+              {
+                "en": "past",
+                "bm": "past"
+              },
+              {
+                "en": "would + V",
+                "bm": "would + V"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Third",
+              "bm": "Third"
+            },
+            "cells": [
+              {
+                "en": "past perfect",
+                "bm": "past perfect"
+              },
+              {
+                "en": "would have + V3",
+                "bm": "would have + V3"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Conditional",
+          "bm": "Conditional"
+        },
+        "definition": {
+          "en": "A sentence about a condition and its result.",
+          "bm": "A sentence about a condition and its result."
+        }
+      },
+      {
+        "term": {
+          "en": "Modal",
+          "bm": "Modal"
+        },
+        "definition": {
+          "en": "A verb like can, must or should.",
+          "bm": "A verb like can, must or should."
+        }
+      },
+      {
+        "term": {
+          "en": "Unreal",
+          "bm": "Unreal"
+        },
+        "definition": {
+          "en": "Not true now or in the past.",
+          "bm": "Not true now or in the past."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-02-q01",
+      "subtopicId": "f5bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If you heat ice, it ___.",
+        "bm": "If you heat ice, it ___."
+      },
+      "explanation": {
+        "en": "Zero conditional: fact.",
+        "bm": "Zero conditional: fact."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "melts",
+          "bm": "melts"
+        },
+        {
+          "en": "melted",
+          "bm": "melted"
+        },
+        {
+          "en": "would melt in past",
+          "bm": "would melt in past"
+        },
+        {
+          "en": "has melting",
+          "bm": "has melting"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q02",
+      "subtopicId": "f5bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If it rains, we ___ at home.",
+        "bm": "If it rains, we ___ at home."
+      },
+      "explanation": {
+        "en": "First conditional.",
+        "bm": "First conditional."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "will stay",
+          "bm": "will stay"
+        },
+        {
+          "en": "stayed",
+          "bm": "stayed"
+        },
+        {
+          "en": "staying",
+          "bm": "staying"
+        },
+        {
+          "en": "had stayed",
+          "bm": "had stayed"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q03",
+      "subtopicId": "f5bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If I ___ rich, I would travel the world.",
+        "bm": "If I ___ rich, I would travel the world."
+      },
+      "explanation": {
+        "en": "Second conditional.",
+        "bm": "Second conditional."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "were",
+          "bm": "were"
+        },
+        {
+          "en": "am",
+          "bm": "am"
+        },
+        {
+          "en": "will be",
+          "bm": "will be"
+        },
+        {
+          "en": "have been",
+          "bm": "have been"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q04",
+      "subtopicId": "f5bi-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If she had studied, she ___ the test.",
+        "bm": "If she had studied, she ___ the test."
+      },
+      "explanation": {
+        "en": "Third conditional.",
+        "bm": "Third conditional."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "would have passed",
+          "bm": "would have passed"
+        },
+        {
+          "en": "will pass",
+          "bm": "will pass"
+        },
+        {
+          "en": "passes",
+          "bm": "passes"
+        },
+        {
+          "en": "would pass tomorrow",
+          "bm": "would pass tomorrow"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q05",
+      "subtopicId": "f5bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "You ___ wear a helmet on a motorbike. It is the law.",
+        "bm": "You ___ wear a helmet on a motorbike. It is the law."
+      },
+      "explanation": {
+        "en": "Obligation.",
+        "bm": "Obligation."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "may",
+          "bm": "may"
+        },
+        {
+          "en": "might",
+          "bm": "might"
+        },
+        {
+          "en": "could",
+          "bm": "could"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q06",
+      "subtopicId": "f5bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "You look tired. You ___ rest.",
+        "bm": "You look tired. You ___ rest."
+      },
+      "explanation": {
+        "en": "Advice.",
+        "bm": "Advice."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "should",
+          "bm": "should"
+        },
+        {
+          "en": "must not",
+          "bm": "must not"
+        },
+        {
+          "en": "cannot",
+          "bm": "cannot"
+        },
+        {
+          "en": "would",
+          "bm": "would"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q07",
+      "subtopicId": "f5bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "He ___ be at home; his car is outside.",
+        "bm": "He ___ be at home; his car is outside."
+      },
+      "explanation": {
+        "en": "A strong deduction.",
+        "bm": "A strong deduction."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "must",
+          "bm": "must"
+        },
+        {
+          "en": "can't",
+          "bm": "can't"
+        },
+        {
+          "en": "won't",
+          "bm": "won't"
+        },
+        {
+          "en": "shouldn't",
+          "bm": "shouldn't"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-02-q08",
+      "subtopicId": "f5bi-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "You ___ have told me earlier! Now it is too late.",
+        "bm": "You ___ have told me earlier! Now it is too late."
+      },
+      "explanation": {
+        "en": "Past regret or criticism.",
+        "bm": "Past regret or criticism."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "should",
+          "bm": "should"
+        },
+        {
+          "en": "can",
+          "bm": "can"
+        },
+        {
+          "en": "may",
+          "bm": "may"
+        },
+        {
+          "en": "will",
+          "bm": "will"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

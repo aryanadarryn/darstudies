@@ -1,0 +1,390 @@
+{
+  "chapterId": "f5bm-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Setiap karya sastera mengajar sesuatu. Tugas anda ialah mengenal pasti tema, watak dan nilainya.",
+      "bm": "Setiap karya sastera mengajar sesuatu. Tugas anda ialah mengenal pasti tema, watak dan nilainya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Prosa dianalisis melalui tema, watak, plot dan latar.",
+        "bm": "Prosa dianalisis melalui tema, watak, plot dan latar."
+      },
+      {
+        "en": "Puisi dianalisis melalui maksud, gaya bahasa dan nilai.",
+        "bm": "Puisi dianalisis melalui maksud, gaya bahasa dan nilai."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Unsur",
+          "bm": "Unsur"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Tema",
+              "bm": "Tema"
+            },
+            "detail": {
+              "en": "Persoalan utama karya",
+              "bm": "Persoalan utama karya"
+            }
+          },
+          {
+            "label": {
+              "en": "Persoalan",
+              "bm": "Persoalan"
+            },
+            "detail": {
+              "en": "Isu sampingan",
+              "bm": "Isu sampingan"
+            }
+          },
+          {
+            "label": {
+              "en": "Watak",
+              "bm": "Watak"
+            },
+            "detail": {
+              "en": "Pelaku cerita",
+              "bm": "Pelaku cerita"
+            }
+          },
+          {
+            "label": {
+              "en": "Latar",
+              "bm": "Latar"
+            },
+            "detail": {
+              "en": "Masa, tempat, masyarakat",
+              "bm": "Masa, tempat, masyarakat"
+            }
+          },
+          {
+            "label": {
+              "en": "Plot",
+              "bm": "Plot"
+            },
+            "detail": {
+              "en": "Jalan cerita",
+              "bm": "Jalan cerita"
+            }
+          },
+          {
+            "label": {
+              "en": "Nilai",
+              "bm": "Nilai"
+            },
+            "detail": {
+              "en": "Sifat baik yang dipelajari",
+              "bm": "Sifat baik yang dipelajari"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tema",
+          "bm": "Tema"
+        },
+        "definition": {
+          "en": "Idea utama.",
+          "bm": "Idea utama."
+        }
+      },
+      {
+        "term": {
+          "en": "Perwatakan",
+          "bm": "Perwatakan"
+        },
+        "definition": {
+          "en": "Sifat watak.",
+          "bm": "Sifat watak."
+        }
+      },
+      {
+        "term": {
+          "en": "Gaya bahasa",
+          "bm": "Gaya bahasa"
+        },
+        "definition": {
+          "en": "Cara penulis menggunakan bahasa.",
+          "bm": "Cara penulis menggunakan bahasa."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bm-07-q01",
+      "subtopicId": "f5bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Latar dalam cerpen merangkumi…",
+        "bm": "Latar dalam cerpen merangkumi…"
+      },
+      "explanation": {
+        "en": "Tiga jenis latar.",
+        "bm": "Tiga jenis latar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "masa, tempat dan masyarakat",
+          "bm": "masa, tempat dan masyarakat"
+        },
+        {
+          "en": "harga buku",
+          "bm": "harga buku"
+        },
+        {
+          "en": "nama penerbit",
+          "bm": "nama penerbit"
+        },
+        {
+          "en": "warna kulit buku",
+          "bm": "warna kulit buku"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q02",
+      "subtopicId": "f5bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Plot biasanya bergerak melalui…",
+        "bm": "Plot biasanya bergerak melalui…"
+      },
+      "explanation": {
+        "en": "Struktur cerita.",
+        "bm": "Struktur cerita."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "permulaan, perkembangan, klimaks, peleraian, penyelesaian",
+          "bm": "permulaan, perkembangan, klimaks, peleraian, penyelesaian"
+        },
+        {
+          "en": "tajuk, isi, penutup",
+          "bm": "tajuk, isi, penutup"
+        },
+        {
+          "en": "pantun, syair, sajak",
+          "bm": "pantun, syair, sajak"
+        },
+        {
+          "en": "subjek, predikat",
+          "bm": "subjek, predikat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q03",
+      "subtopicId": "f5bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Watak utama ialah…",
+        "bm": "Watak utama ialah…"
+      },
+      "explanation": {
+        "en": "Berperanan penting.",
+        "bm": "Berperanan penting."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "watak yang paling banyak menggerakkan cerita",
+          "bm": "watak yang paling banyak menggerakkan cerita"
+        },
+        {
+          "en": "watak yang muncul sekali",
+          "bm": "watak yang muncul sekali"
+        },
+        {
+          "en": "nama penulis",
+          "bm": "nama penulis"
+        },
+        {
+          "en": "pembaca",
+          "bm": "pembaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q04",
+      "subtopicId": "f5bm-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Nilai \"kasih sayang\" paling baik dibuktikan dengan…",
+        "bm": "Nilai \"kasih sayang\" paling baik dibuktikan dengan…"
+      },
+      "explanation": {
+        "en": "Beri bukti.",
+        "bm": "Beri bukti."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "contoh perbuatan watak dalam cerita",
+          "bm": "contoh perbuatan watak dalam cerita"
+        },
+        {
+          "en": "menyalin tajuk",
+          "bm": "menyalin tajuk"
+        },
+        {
+          "en": "menyebut nama penulis",
+          "bm": "menyebut nama penulis"
+        },
+        {
+          "en": "mengira halaman",
+          "bm": "mengira halaman"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q05",
+      "subtopicId": "f5bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pantun empat kerat mempunyai…",
+        "bm": "Pantun empat kerat mempunyai…"
+      },
+      "explanation": {
+        "en": "Rima a-b-a-b.",
+        "bm": "Rima a-b-a-b."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "dua baris pembayang dan dua baris maksud",
+          "bm": "dua baris pembayang dan dua baris maksud"
+        },
+        {
+          "en": "satu baris sahaja",
+          "bm": "satu baris sahaja"
+        },
+        {
+          "en": "tiga baris maksud",
+          "bm": "tiga baris maksud"
+        },
+        {
+          "en": "tiada rima",
+          "bm": "tiada rima"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q06",
+      "subtopicId": "f5bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Syair biasanya mempunyai rima…",
+        "bm": "Syair biasanya mempunyai rima…"
+      },
+      "explanation": {
+        "en": "Empat baris setiap rangkap.",
+        "bm": "Empat baris setiap rangkap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a-a-a-a",
+          "bm": "a-a-a-a"
+        },
+        {
+          "en": "a-b-a-b",
+          "bm": "a-b-a-b"
+        },
+        {
+          "en": "a-b-b-a",
+          "bm": "a-b-b-a"
+        },
+        {
+          "en": "tiada rima",
+          "bm": "tiada rima"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q07",
+      "subtopicId": "f5bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gaya bahasa \"Pipinya merah bagai delima\" ialah…",
+        "bm": "Gaya bahasa \"Pipinya merah bagai delima\" ialah…"
+      },
+      "explanation": {
+        "en": "Menggunakan \"bagai\".",
+        "bm": "Menggunakan \"bagai\"."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "metafora",
+          "bm": "metafora"
+        },
+        {
+          "en": "hiperbola",
+          "bm": "hiperbola"
+        },
+        {
+          "en": "personifikasi",
+          "bm": "personifikasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-07-q08",
+      "subtopicId": "f5bm-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gaya bahasa \"Angin berbisik di telingaku\" ialah…",
+        "bm": "Gaya bahasa \"Angin berbisik di telingaku\" ialah…"
+      },
+      "explanation": {
+        "en": "Benda diberi sifat manusia.",
+        "bm": "Benda diberi sifat manusia."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "personifikasi",
+          "bm": "personifikasi"
+        },
+        {
+          "en": "simile",
+          "bm": "simile"
+        },
+        {
+          "en": "anafora",
+          "bm": "anafora"
+        },
+        {
+          "en": "inversi",
+          "bm": "inversi"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

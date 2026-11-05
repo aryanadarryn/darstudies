@@ -1,0 +1,493 @@
+{
+  "chapterId": "f5addmath-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A bakery with limited flour and hours can find the exact mix of cakes that earns the most. That is linear programming.",
+      "bm": "Kedai roti dengan tepung dan masa terhad boleh mencari campuran kek paling menguntungkan. Itulah pengaturcaraan linear."
+    },
+    "bigIdeas": [
+      {
+        "en": "Constraints are linear inequalities.",
+        "bm": "Kekangan ialah ketaksamaan linear."
+      },
+      {
+        "en": "The feasible region satisfies all constraints.",
+        "bm": "Rantau tersaur memenuhi semua kekangan."
+      },
+      {
+        "en": "The optimum lies at a vertex.",
+        "bm": "Nilai optimum berada di bucu."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Define variables",
+              "bm": "Takrif pemboleh ubah"
+            },
+            "detail": {
+              "en": "x, y",
+              "bm": "x, y"
+            }
+          },
+          {
+            "title": {
+              "en": "Write constraints",
+              "bm": "Tulis kekangan"
+            },
+            "detail": {
+              "en": "Inequalities",
+              "bm": "Ketaksamaan"
+            }
+          },
+          {
+            "title": {
+              "en": "Draw region",
+              "bm": "Lukis rantau"
+            },
+            "detail": {
+              "en": "Shade R",
+              "bm": "Lorek R"
+            }
+          },
+          {
+            "title": {
+              "en": "Objective function",
+              "bm": "Fungsi objektif"
+            },
+            "detail": {
+              "en": "k = ax + by",
+              "bm": "k = ax + by"
+            }
+          },
+          {
+            "title": {
+              "en": "Test vertices",
+              "bm": "Uji bucu"
+            },
+            "detail": {
+              "en": "Find max or min",
+              "bm": "Cari maks atau min"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Constraint",
+          "bm": "Kekangan"
+        },
+        "definition": {
+          "en": "A limit written as an inequality.",
+          "bm": "Had ditulis sebagai ketaksamaan."
+        }
+      },
+      {
+        "term": {
+          "en": "Objective function",
+          "bm": "Fungsi objektif"
+        },
+        "definition": {
+          "en": "Quantity to maximise or minimise.",
+          "bm": "Kuantiti untuk dimaksimumkan atau diminimumkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Feasible region",
+          "bm": "Rantau tersaur"
+        },
+        "definition": {
+          "en": "All points meeting the constraints.",
+          "bm": "Semua titik yang memenuhi kekangan."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "Maximise k = 3x + 2y at vertices (0, 0), (8, 0), (6, 3), (0, 6).",
+        "bm": "Maksimumkan k = 3x + 2y pada bucu (0, 0), (8, 0), (6, 3), (0, 6)."
+      },
+      "steps": [
+        {
+          "en": "Values: 0, 24, 24, 12.",
+          "bm": "Nilai: 0, 24, 24, 12."
+        }
+      ],
+      "answer": {
+        "en": "24",
+        "bm": "24"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-07-q01",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"At most 20 items\" is written…",
+        "bm": "\"Paling banyak 20 barang\" ditulis…"
+      },
+      "explanation": {
+        "en": "At most means ≤.",
+        "bm": "Paling banyak bermaksud ≤."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "x + y ≤ 20",
+          "bm": "x + y ≤ 20"
+        },
+        {
+          "en": "x + y ≥ 20",
+          "bm": "x + y ≥ 20"
+        },
+        {
+          "en": "x + y = 20",
+          "bm": "x + y = 20"
+        },
+        {
+          "en": "x + y > 20",
+          "bm": "x + y > 20"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q02",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"At least 5 items of x\" is written…",
+        "bm": "\"Sekurang-kurangnya 5 barang x\" ditulis…"
+      },
+      "explanation": {
+        "en": "At least means ≥.",
+        "bm": "Sekurang-kurangnya bermaksud ≥."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "x ≥ 5",
+          "bm": "x ≥ 5"
+        },
+        {
+          "en": "x ≤ 5",
+          "bm": "x ≤ 5"
+        },
+        {
+          "en": "x < 5",
+          "bm": "x < 5"
+        },
+        {
+          "en": "x = 5",
+          "bm": "x = 5"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q03",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"y is at most twice x\" is written…",
+        "bm": "\"y paling banyak dua kali x\" ditulis…"
+      },
+      "explanation": {
+        "en": "Translate carefully.",
+        "bm": "Terjemah dengan teliti."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "y ≤ 2x",
+          "bm": "y ≤ 2x"
+        },
+        {
+          "en": "y ≥ 2x",
+          "bm": "y ≥ 2x"
+        },
+        {
+          "en": "x ≤ 2y",
+          "bm": "x ≤ 2y"
+        },
+        {
+          "en": "y = x + 2",
+          "bm": "y = x + 2"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q04",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A dashed line on a graph means…",
+        "bm": "Garis putus-putus pada graf bermaksud…"
+      },
+      "explanation": {
+        "en": "Boundary is excluded.",
+        "bm": "Sempadan tidak termasuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "< or >",
+          "bm": "< or >"
+        },
+        {
+          "en": "≤ or ≥",
+          "bm": "≤ or ≥"
+        },
+        {
+          "en": "=",
+          "bm": "="
+        },
+        {
+          "en": "no constraint",
+          "bm": "tiada kekangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q05",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Point (2, 3): does it satisfy x + y ≤ 6?",
+        "bm": "Titik (2, 3): adakah memenuhi x + y ≤ 6?"
+      },
+      "explanation": {
+        "en": "2 + 3 = 5.",
+        "bm": "2 + 3 = 5."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Yes",
+          "bm": "Ya"
+        },
+        {
+          "en": "No",
+          "bm": "Tidak"
+        },
+        {
+          "en": "Only if x = 0",
+          "bm": "Hanya jika x = 0"
+        },
+        {
+          "en": "Cannot tell",
+          "bm": "Tidak dapat ditentukan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q06",
+      "subtopicId": "f5addmath-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In real problems, x and y are usually restricted by…",
+        "bm": "Dalam masalah sebenar, x dan y biasanya dihadkan oleh…"
+      },
+      "explanation": {
+        "en": "Quantities cannot be negative.",
+        "bm": "Kuantiti tidak boleh negatif."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "x ≥ 0, y ≥ 0",
+          "bm": "x ≥ 0, y ≥ 0"
+        },
+        {
+          "en": "x < 0",
+          "bm": "x < 0"
+        },
+        {
+          "en": "y < 0",
+          "bm": "y < 0"
+        },
+        {
+          "en": "x = y",
+          "bm": "x = y"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q07",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximise k = 3x + 2y at vertices (0,0), (8,0), (6,3), (0,6).",
+        "bm": "Maksimumkan k = 3x + 2y pada bucu (0,0), (8,0), (6,3), (0,6)."
+      },
+      "explanation": {
+        "en": "Test each vertex.",
+        "bm": "Uji setiap bucu."
+      },
+      "difficulty": 2,
+      "answer": 24,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-07-q08",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximise k = 5x + 4y at vertices (0,0), (10,0), (4,6), (0,8).",
+        "bm": "Maksimumkan k = 5x + 4y pada bucu (0,0), (10,0), (4,6), (0,8)."
+      },
+      "explanation": {
+        "en": "Test each vertex.",
+        "bm": "Uji setiap bucu."
+      },
+      "difficulty": 2,
+      "answer": 50,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-07-q09",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximise k = 2x + 7y at vertices (0,0), (5,0), (3,4), (0,5).",
+        "bm": "Maksimumkan k = 2x + 7y pada bucu (0,0), (5,0), (3,4), (0,5)."
+      },
+      "explanation": {
+        "en": "Test each vertex.",
+        "bm": "Uji setiap bucu."
+      },
+      "difficulty": 3,
+      "answer": 35,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-07-q10",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximise k = 40x + 30y at vertices (0,0), (20,0), (15,10), (0,25).",
+        "bm": "Maksimumkan k = 40x + 30y pada bucu (0,0), (20,0), (15,10), (0,25)."
+      },
+      "explanation": {
+        "en": "Test each vertex.",
+        "bm": "Uji setiap bucu."
+      },
+      "difficulty": 3,
+      "answer": 900,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-07-q11",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Minimise k = 2x + 3y at vertices (2, 8), (6, 2), (10, 1).",
+        "bm": "Minimumkan k = 2x + 3y pada bucu (2, 8), (6, 2), (10, 1)."
+      },
+      "explanation": {
+        "en": "(6, 2) gives 18.",
+        "bm": "(6, 2) memberi 18."
+      },
+      "difficulty": 3,
+      "answer": 18,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-07-q12",
+      "subtopicId": "f5addmath-07-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A cake earns RM5 and a tart RM3. Find the profit from 10 cakes and 20 tarts.",
+        "bm": "Kek untung RM5 dan tart RM3. Cari keuntungan 10 kek dan 20 tart."
+      },
+      "explanation": {
+        "en": "50 + 60.",
+        "bm": "50 + 60."
+      },
+      "difficulty": 2,
+      "answer": 110,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5addmath-07-q13",
+      "subtopicId": "f5addmath-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The optimum of a linear objective occurs at…",
+        "bm": "Nilai optimum fungsi objektif linear berlaku di…"
+      },
+      "explanation": {
+        "en": "Test the corners.",
+        "bm": "Uji bucu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a vertex of the region",
+          "bm": "bucu rantau"
+        },
+        {
+          "en": "the middle",
+          "bm": "tengah"
+        },
+        {
+          "en": "outside the region",
+          "bm": "luar rantau"
+        },
+        {
+          "en": "the origin always",
+          "bm": "sentiasa asalan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-07-q14",
+      "subtopicId": "f5addmath-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "If the solution must be whole items and the vertex is not whole, you should…",
+        "bm": "Jika penyelesaian mesti barang bulat dan bucu bukan integer, anda perlu…"
+      },
+      "explanation": {
+        "en": "Points must stay feasible.",
+        "bm": "Titik mesti kekal tersaur."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "check nearby whole points in the region",
+          "bm": "semak titik integer berhampiran dalam rantau"
+        },
+        {
+          "en": "round up always",
+          "bm": "sentiasa bundarkan ke atas"
+        },
+        {
+          "en": "ignore it",
+          "bm": "mengabaikannya"
+        },
+        {
+          "en": "leave a decimal",
+          "bm": "biarkan perpuluhan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

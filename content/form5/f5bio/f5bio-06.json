@@ -1,0 +1,403 @@
+{
+  "chapterId": "f5bio-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Flowering plants fertilise twice: one sperm makes the embryo and another makes its food supply.",
+      "bm": "Tumbuhan berbunga bersenyawa dua kali: satu sperma membentuk embrio dan satu lagi membentuk bekalan makanannya."
+    },
+    "bigIdeas": [
+      {
+        "en": "Stamens make pollen; carpels make ovules.",
+        "bm": "Stamen menghasilkan debunga; karpel menghasilkan ovul."
+      },
+      {
+        "en": "Double fertilisation gives embryo and endosperm.",
+        "bm": "Persenyawaan ganda dua menghasilkan embrio dan endosperma."
+      },
+      {
+        "en": "Ovule becomes seed; ovary becomes fruit.",
+        "bm": "Ovul menjadi biji benih; ovari menjadi buah."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Pollination",
+              "bm": "Pendebungaan"
+            },
+            "detail": {
+              "en": "Pollen reaches stigma",
+              "bm": "Debunga sampai ke stigma"
+            }
+          },
+          {
+            "title": {
+              "en": "Pollen tube",
+              "bm": "Tiub debunga"
+            },
+            "detail": {
+              "en": "Grows to ovule",
+              "bm": "Tumbuh ke ovul"
+            }
+          },
+          {
+            "title": {
+              "en": "Double fertilisation",
+              "bm": "Persenyawaan ganda dua"
+            },
+            "detail": {
+              "en": "Zygote and endosperm",
+              "bm": "Zigot dan endosperma"
+            }
+          },
+          {
+            "title": {
+              "en": "Seed and fruit",
+              "bm": "Biji dan buah"
+            },
+            "detail": {
+              "en": "Ovule and ovary change",
+              "bm": "Ovul dan ovari berubah"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Stamen",
+          "bm": "Stamen"
+        },
+        "definition": {
+          "en": "Male part: anther and filament.",
+          "bm": "Bahagian jantan: anter dan filamen."
+        }
+      },
+      {
+        "term": {
+          "en": "Carpel",
+          "bm": "Karpel"
+        },
+        "definition": {
+          "en": "Female part: stigma, style and ovary.",
+          "bm": "Bahagian betina: stigma, stil dan ovari."
+        }
+      },
+      {
+        "term": {
+          "en": "Double fertilisation",
+          "bm": "Persenyawaan ganda dua"
+        },
+        "definition": {
+          "en": "Two sperm fertilise egg and polar nuclei.",
+          "bm": "Dua sperma mensenyawakan ovum dan nukleus kutub."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-06-q01",
+      "subtopicId": "f5bio-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pollen is made in the…",
+        "bm": "Debunga dihasilkan di…"
+      },
+      "explanation": {
+        "en": "Part of the stamen.",
+        "bm": "Sebahagian stamen."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "anther",
+          "bm": "anter"
+        },
+        {
+          "en": "stigma",
+          "bm": "stigma"
+        },
+        {
+          "en": "ovary",
+          "bm": "ovari"
+        },
+        {
+          "en": "sepal",
+          "bm": "sepal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q02",
+      "subtopicId": "f5bio-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The embryo sac usually has how many nuclei?",
+        "bm": "Pundi embrio biasanya mempunyai berapa nukleus?"
+      },
+      "explanation": {
+        "en": "From three mitotic divisions.",
+        "bm": "Daripada tiga pembahagian mitosis."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "8",
+          "bm": "8"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "16",
+          "bm": "16"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q03",
+      "subtopicId": "f5bio-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A pollen grain's tube nucleus…",
+        "bm": "Nukleus tiub debunga…"
+      },
+      "explanation": {
+        "en": "The generative nucleus makes the sperm.",
+        "bm": "Nukleus penjana menghasilkan sperma."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "controls pollen tube growth",
+          "bm": "mengawal pertumbuhan tiub debunga"
+        },
+        {
+          "en": "fertilises the egg",
+          "bm": "mensenyawakan ovum"
+        },
+        {
+          "en": "forms the embryo",
+          "bm": "membentuk embrio"
+        },
+        {
+          "en": "makes the fruit",
+          "bm": "menghasilkan buah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q04",
+      "subtopicId": "f5bio-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pollination is…",
+        "bm": "Pendebungaan ialah…"
+      },
+      "explanation": {
+        "en": "By wind or insects.",
+        "bm": "Melalui angin atau serangga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "transfer of pollen to a stigma",
+          "bm": "pemindahan debunga ke stigma"
+        },
+        {
+          "en": "seed dispersal",
+          "bm": "penyebaran biji"
+        },
+        {
+          "en": "fruit ripening",
+          "bm": "pematangan buah"
+        },
+        {
+          "en": "leaf fall",
+          "bm": "daun gugur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q05",
+      "subtopicId": "f5bio-06-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In double fertilisation, the endosperm is…",
+        "bm": "Dalam persenyawaan ganda dua, endosperma ialah…"
+      },
+      "explanation": {
+        "en": "Sperm plus two polar nuclei.",
+        "bm": "Sperma dan dua nukleus kutub."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "triploid (3n)",
+          "bm": "triploid (3n)"
+        },
+        {
+          "en": "haploid (n)",
+          "bm": "haploid (n)"
+        },
+        {
+          "en": "diploid (2n)",
+          "bm": "diploid (2n)"
+        },
+        {
+          "en": "tetraploid (4n)",
+          "bm": "tetraploid (4n)"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q06",
+      "subtopicId": "f5bio-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "After fertilisation, the ovary becomes the…",
+        "bm": "Selepas persenyawaan, ovari menjadi…"
+      },
+      "explanation": {
+        "en": "The ovule becomes a seed.",
+        "bm": "Ovul menjadi biji benih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "fruit",
+          "bm": "buah"
+        },
+        {
+          "en": "seed",
+          "bm": "biji benih"
+        },
+        {
+          "en": "petal",
+          "bm": "kelopak"
+        },
+        {
+          "en": "root",
+          "bm": "akar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q07",
+      "subtopicId": "f5bio-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The seed coat (testa) forms from the…",
+        "bm": "Kulit biji (testa) terbentuk daripada…"
+      },
+      "explanation": {
+        "en": "It protects the seed.",
+        "bm": "Ia melindungi biji benih."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "integument",
+          "bm": "integumen"
+        },
+        {
+          "en": "stigma",
+          "bm": "stigma"
+        },
+        {
+          "en": "anther",
+          "bm": "anter"
+        },
+        {
+          "en": "sepal",
+          "bm": "sepal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q08",
+      "subtopicId": "f5bio-06-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Seeds help survival because they…",
+        "bm": "Biji benih membantu kemandirian kerana…"
+      },
+      "explanation": {
+        "en": "They wait for good conditions.",
+        "bm": "Ia menunggu keadaan sesuai."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "can stay dormant and spread",
+          "bm": "boleh dorman dan tersebar"
+        },
+        {
+          "en": "need light to live",
+          "bm": "perlu cahaya untuk hidup"
+        },
+        {
+          "en": "cannot spread",
+          "bm": "tidak boleh tersebar"
+        },
+        {
+          "en": "have no food",
+          "bm": "tiada makanan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-06-q09",
+      "subtopicId": "f5bio-06-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Seed banks are important because they…",
+        "bm": "Bank benih penting kerana…"
+      },
+      "explanation": {
+        "en": "They store seeds for the future.",
+        "bm": "Ia menyimpan biji untuk masa depan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "conserve genetic diversity",
+          "bm": "memulihara kepelbagaian genetik"
+        },
+        {
+          "en": "stop all farming",
+          "bm": "menghentikan semua pertanian"
+        },
+        {
+          "en": "reduce rainfall",
+          "bm": "mengurangkan hujan"
+        },
+        {
+          "en": "destroy seeds",
+          "bm": "memusnahkan biji"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

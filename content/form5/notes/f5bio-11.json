@@ -1,0 +1,148 @@
+{
+  "chapterId": "f5bio-11",
+  "reviewed": false,
+  "subtopics": {
+    "f5bio-11-01": {
+      "keyPoints": [
+        {
+          "en": "Traits pass via gametes.",
+          "bm": "Sifat dipindahkan melalui gamet."
+        },
+        {
+          "en": "Genotype + environment gives phenotype.",
+          "bm": "Genotip + persekitaran menghasilkan fenotip."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Gene",
+            "bm": "Gen"
+          },
+          "meaning": {
+            "en": "DNA unit for a trait.",
+            "bm": "Unit DNA bagi suatu sifat."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Recessive shows when?",
+          "bm": "Resesif terlihat bila?"
+        },
+        "answer": {
+          "en": "Homozygous",
+          "bm": "Homozigot"
+        }
+      },
+      "tip": {
+        "en": "Use capitals and lowercase correctly.",
+        "bm": "Gunakan huruf besar dan kecil dengan betul."
+      }
+    },
+    "f5bio-11-02": {
+      "keyPoints": [
+        {
+          "en": "Punnett squares predict ratios.",
+          "bm": "Segi empat Punnett meramal nisbah."
+        },
+        {
+          "en": "Ratios are chances, not exact counts.",
+          "bm": "Nisbah ialah peluang, bukan bilangan tepat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Punnett square",
+            "bm": "Segi empat Punnett"
+          },
+          "meaning": {
+            "en": "Grid showing crosses.",
+            "bm": "Grid kacukan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/punnett.svg",
+          "alt": {
+            "en": "A Punnett square for Tt × Tt.",
+            "bm": "Segi empat Punnett bagi Tt × Tt."
+          },
+          "caption": {
+            "en": "A Punnett square for Tt × Tt.",
+            "bm": "Segi empat Punnett bagi Tt × Tt."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        },
+        {
+          "src": "img/f5/q-mendel.webp",
+          "alt": {
+            "en": "Inheritance of pea flower colour.",
+            "bm": "Pewarisan warna bunga kacang pea."
+          },
+          "caption": {
+            "en": "Inheritance of pea flower colour.",
+            "bm": "Pewarisan warna bunga kacang pea."
+          },
+          "credit": "Sciencia58 · CC0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dominant-recessive_inheritance_-_flowers_of_pea_plants.png"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Test cross with?",
+          "bm": "Kacuk uji dengan?"
+        },
+        "answer": {
+          "en": "Homozygous recessive",
+          "bm": "Homozigot resesif"
+        }
+      },
+      "tip": {
+        "en": "Show gametes clearly.",
+        "bm": "Tunjukkan gamet dengan jelas."
+      }
+    },
+    "f5bio-11-03": {
+      "keyPoints": [
+        {
+          "en": "Blood groups, sex, sex-linked traits.",
+          "bm": "Kumpulan darah, jantina, sifat terangkai seks."
+        },
+        {
+          "en": "Genetic counselling helps families.",
+          "bm": "Kaunseling genetik membantu keluarga."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Carrier",
+            "bm": "Pembawa"
+          },
+          "meaning": {
+            "en": "Has a recessive allele but no symptoms.",
+            "bm": "Ada alel resesif tanpa simptom."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Father decides child's sex by giving?",
+          "bm": "Bapa menentukan jantina dengan memberi?"
+        },
+        "answer": {
+          "en": "X or Y",
+          "bm": "X atau Y"
+        }
+      },
+      "tip": {
+        "en": "Draw X and Y on crosses.",
+        "bm": "Lukis X dan Y pada kacukan."
+      }
+    }
+  }
+}

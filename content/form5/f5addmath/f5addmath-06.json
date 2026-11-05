@@ -1,0 +1,536 @@
+{
+  "chapterId": "f5addmath-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Identities are like shortcuts: sin²x + cos²x = 1 turns long expressions into simple answers.",
+      "bm": "Identiti ialah jalan pintas: sin²x + kos²x = 1 menukar ungkapan panjang kepada jawapan mudah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Sec, cosec and cot are reciprocals.",
+        "bm": "Sek, kosek dan kot ialah salingan."
+      },
+      {
+        "en": "Three basic identities link them.",
+        "bm": "Tiga identiti asas menghubungkannya."
+      },
+      {
+        "en": "Double-angle formulas simplify equations.",
+        "bm": "Rumus sudut berganda mempermudah persamaan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Name",
+          "bm": "Nama"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "sec x",
+              "bm": "sec x"
+            },
+            "detail": {
+              "en": "1/cos x",
+              "bm": "1/cos x"
+            }
+          },
+          {
+            "label": {
+              "en": "cosec x",
+              "bm": "cosec x"
+            },
+            "detail": {
+              "en": "1/sin x",
+              "bm": "1/sin x"
+            }
+          },
+          {
+            "label": {
+              "en": "cot x",
+              "bm": "cot x"
+            },
+            "detail": {
+              "en": "1/tan x",
+              "bm": "1/tan x"
+            }
+          },
+          {
+            "label": {
+              "en": "Pythagorean",
+              "bm": "Pythagorean"
+            },
+            "detail": {
+              "en": "sin²x + cos²x = 1",
+              "bm": "sin²x + cos²x = 1"
+            }
+          },
+          {
+            "label": {
+              "en": "Double angle",
+              "bm": "Double angle"
+            },
+            "detail": {
+              "en": "sin 2x = 2 sin x cos x",
+              "bm": "sin 2x = 2 sin x cos x"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Identity",
+          "bm": "Identiti"
+        },
+        "definition": {
+          "en": "An equation true for all allowed values.",
+          "bm": "Persamaan benar bagi semua nilai dibenarkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Secant",
+          "bm": "Sekan"
+        },
+        "definition": {
+          "en": "1 ÷ cos x.",
+          "bm": "1 ÷ kos x."
+        }
+      },
+      {
+        "term": {
+          "en": "Double angle",
+          "bm": "Sudut berganda"
+        },
+        "definition": {
+          "en": "Formula for an angle 2x.",
+          "bm": "Rumus bagi sudut 2x."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-id",
+      "f5-am-sin2",
+      "f5-am-cos2",
+      "f5-am-sinadd"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Given sin x = 0.6 and x acute, find cos x and sin 2x.",
+        "bm": "Diberi sin x = 0.6 dan x tirus, cari kos x dan sin 2x."
+      },
+      "steps": [
+        {
+          "en": "cos x = √(1 − 0.36) = 0.8.",
+          "bm": "kos x = √(1 − 0.36) = 0.8."
+        },
+        {
+          "en": "sin 2x = 2(0.6)(0.8)",
+          "bm": "sin 2x = 2(0.6)(0.8)"
+        }
+      ],
+      "answer": {
+        "en": "0.8; 0.96",
+        "bm": "0.8; 0.96"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-06-q01",
+      "subtopicId": "f5addmath-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A negative angle is measured…",
+        "bm": "Sudut negatif diukur…"
+      },
+      "explanation": {
+        "en": "Positive is anticlockwise.",
+        "bm": "Positif lawan jam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "clockwise",
+          "bm": "ikut jam"
+        },
+        {
+          "en": "anticlockwise",
+          "bm": "lawan jam"
+        },
+        {
+          "en": "upwards",
+          "bm": "ke atas"
+        },
+        {
+          "en": "downwards",
+          "bm": "ke bawah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q02",
+      "subtopicId": "f5addmath-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "−60° lies in quadrant…",
+        "bm": "−60° terletak dalam sukuan…"
+      },
+      "explanation": {
+        "en": "Same as 300°.",
+        "bm": "Sama dengan 300°."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "IV",
+          "bm": "IV"
+        },
+        {
+          "en": "I",
+          "bm": "I"
+        },
+        {
+          "en": "II",
+          "bm": "II"
+        },
+        {
+          "en": "III",
+          "bm": "III"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q03",
+      "subtopicId": "f5addmath-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "If cos x = 0.5, find sec x.",
+        "bm": "Jika kos x = 0.5, cari sek x."
+      },
+      "explanation": {
+        "en": "1 ÷ 0.5.",
+        "bm": "1 ÷ 0.5."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q04",
+      "subtopicId": "f5addmath-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "If sin x = 0.25, find cosec x.",
+        "bm": "Jika sin x = 0.25, cari kosek x."
+      },
+      "explanation": {
+        "en": "1 ÷ 0.25.",
+        "bm": "1 ÷ 0.25."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q05",
+      "subtopicId": "f5addmath-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "If tan x = 2, find cot x.",
+        "bm": "Jika tan x = 2, cari kot x."
+      },
+      "explanation": {
+        "en": "1 ÷ 2.",
+        "bm": "1 ÷ 2."
+      },
+      "difficulty": 2,
+      "answer": 0.5,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-06-q06",
+      "subtopicId": "f5addmath-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Amplitude of y = 4 sin 2x?",
+        "bm": "Amplitud y = 4 sin 2x?"
+      },
+      "explanation": {
+        "en": "Coefficient.",
+        "bm": "Pekali."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q07",
+      "subtopicId": "f5addmath-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Number of cycles of y = sin 3x in 0° ≤ x ≤ 360°?",
+        "bm": "Bilangan kitaran y = sin 3x dalam 0° ≤ x ≤ 360°?"
+      },
+      "explanation": {
+        "en": "b = 3.",
+        "bm": "b = 3."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q08",
+      "subtopicId": "f5addmath-06-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Maximum of y = |2 sin x|?",
+        "bm": "Maksimum y = |2 sin x|?"
+      },
+      "explanation": {
+        "en": "Modulus keeps it positive.",
+        "bm": "Modulus mengekalkan positif."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q09",
+      "subtopicId": "f5addmath-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "sin²x + cos²x = ?",
+        "bm": "sin²x + kos²x = ?"
+      },
+      "explanation": {
+        "en": "Basic identity.",
+        "bm": "Identiti asas."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-06-q10",
+      "subtopicId": "f5addmath-06-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "If sin x = 0.6 (x acute), find cos x.",
+        "bm": "Jika sin x = 0.6 (x tirus), cari kos x."
+      },
+      "explanation": {
+        "en": "√(1 − 0.36).",
+        "bm": "√(1 − 0.36)."
+      },
+      "difficulty": 2,
+      "answer": 0.8,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-06-q11",
+      "subtopicId": "f5addmath-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "1 + tan²x = …",
+        "bm": "1 + tan²x = …"
+      },
+      "explanation": {
+        "en": "Divide the identity by cos²x.",
+        "bm": "Bahagi identiti dengan kos²x."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sec²x",
+          "bm": "sec²x"
+        },
+        {
+          "en": "cosec²x",
+          "bm": "cosec²x"
+        },
+        {
+          "en": "cot²x",
+          "bm": "cot²x"
+        },
+        {
+          "en": "cos²x",
+          "bm": "cos²x"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q12",
+      "subtopicId": "f5addmath-06-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Simplify sec²x − tan²x.",
+        "bm": "Permudahkan sek²x − tan²x."
+      },
+      "explanation": {
+        "en": "From 1 + tan²x = sec²x.",
+        "bm": "Daripada 1 + tan²x = sek²x."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "0",
+          "bm": "0"
+        },
+        {
+          "en": "2 sec x",
+          "bm": "2 sec x"
+        },
+        {
+          "en": "cos²x",
+          "bm": "cos²x"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q13",
+      "subtopicId": "f5addmath-06-05",
+      "type": "numeric",
+      "prompt": {
+        "en": "If sin x = 0.6 and cos x = 0.8, find sin 2x.",
+        "bm": "Jika sin x = 0.6 dan kos x = 0.8, cari sin 2x."
+      },
+      "explanation": {
+        "en": "2(0.6)(0.8).",
+        "bm": "2(0.6)(0.8)."
+      },
+      "difficulty": 2,
+      "answer": 0.96,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-06-q14",
+      "subtopicId": "f5addmath-06-05",
+      "type": "numeric",
+      "prompt": {
+        "en": "If cos x = 0.8, find cos 2x.",
+        "bm": "Jika kos x = 0.8, cari kos 2x."
+      },
+      "explanation": {
+        "en": "2(0.64) − 1.",
+        "bm": "2(0.64) − 1."
+      },
+      "difficulty": 2,
+      "answer": 0.28,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5addmath-06-q15",
+      "subtopicId": "f5addmath-06-05",
+      "type": "numeric",
+      "prompt": {
+        "en": "tan x = 0.5. Find tan 2x (2 d.p.).",
+        "bm": "tan x = 0.5. Cari tan 2x (2 t.p.)."
+      },
+      "explanation": {
+        "en": "2(0.5) ÷ (1 − 0.25).",
+        "bm": "2(0.5) ÷ (1 − 0.25)."
+      },
+      "difficulty": 3,
+      "answer": 1.33,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5addmath-06-q16",
+      "subtopicId": "f5addmath-06-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "sin(A + B) = …",
+        "bm": "sin(A + B) = …"
+      },
+      "explanation": {
+        "en": "Addition formula.",
+        "bm": "Rumus sudut majmuk."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "sin A cos B + cos A sin B",
+          "bm": "sin A cos B + cos A sin B"
+        },
+        {
+          "en": "sin A sin B + cos A cos B",
+          "bm": "sin A sin B + cos A cos B"
+        },
+        {
+          "en": "sin A + sin B",
+          "bm": "sin A + sin B"
+        },
+        {
+          "en": "cos A cos B − sin A sin B",
+          "bm": "cos A cos B − sin A sin B"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q17",
+      "subtopicId": "f5addmath-06-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many solutions has sin x = 0.5 in 0° ≤ x ≤ 360°?",
+        "bm": "Berapa penyelesaian sin x = 0.5 dalam 0° ≤ x ≤ 360°?"
+      },
+      "explanation": {
+        "en": "30° and 150°.",
+        "bm": "30° dan 150°."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-06-q18",
+      "subtopicId": "f5addmath-06-06",
+      "type": "numeric",
+      "prompt": {
+        "en": "A smaller solution of 2 cos x = 1 in 0–360° is x = ?",
+        "bm": "Penyelesaian lebih kecil 2 kos x = 1 dalam 0–360° ialah x = ?"
+      },
+      "explanation": {
+        "en": "cos x = 0.5.",
+        "bm": "kos x = 0.5."
+      },
+      "difficulty": 3,
+      "answer": 60,
+      "tolerance": 0,
+      "unit": "°"
+    }
+  ]
+}

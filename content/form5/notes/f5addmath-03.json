@@ -1,0 +1,173 @@
+{
+  "chapterId": "f5addmath-03",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-03-01": {
+      "keyPoints": [
+        {
+          "en": "Integration reverses differentiation.",
+          "bm": "Pengamiran menyongsangkan pembezaan."
+        },
+        {
+          "en": "Check by differentiating your answer.",
+          "bm": "Semak dengan membezakan jawapan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Antiderivative",
+            "bm": "Antiterbitan"
+          },
+          "meaning": {
+            "en": "Function whose derivative is given.",
+            "bm": "Fungsi yang terbitannya diberi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Antiderivative of 2x?",
+          "bm": "Antiterbitan 2x?"
+        },
+        "answer": {
+          "en": "x² + c",
+          "bm": "x² + c"
+        }
+      },
+      "tip": {
+        "en": "Always differentiate to check.",
+        "bm": "Sentiasa bezakan untuk menyemak."
+      }
+    },
+    "f5addmath-03-02": {
+      "keyPoints": [
+        {
+          "en": "Do not forget + c.",
+          "bm": "Jangan lupa + c."
+        },
+        {
+          "en": "Use a point to find c.",
+          "bm": "Guna titik untuk mencari c."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Constant of integration",
+            "bm": "Pemalar pengamiran"
+          },
+          "meaning": {
+            "en": "The value c.",
+            "bm": "Nilai c."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "∫x² dx?",
+          "bm": "∫x² dx?"
+        },
+        "answer": {
+          "en": "x³/3 + c",
+          "bm": "x³/3 + c"
+        }
+      },
+      "tip": {
+        "en": "n = −1 is not in this rule.",
+        "bm": "n = −1 tiada dalam petua ini."
+      }
+    },
+    "f5addmath-03-03": {
+      "keyPoints": [
+        {
+          "en": "Evaluate upper minus lower.",
+          "bm": "Nilai had atas tolak had bawah."
+        },
+        {
+          "en": "No + c is needed.",
+          "bm": "Tiada + c diperlukan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Limits",
+            "bm": "Had"
+          },
+          "meaning": {
+            "en": "The values a and b.",
+            "bm": "Nilai a dan b."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "∫₀¹ 3x² dx?",
+          "bm": "∫₀¹ 3x² dx?"
+        },
+        "answer": {
+          "en": "1",
+          "bm": "1"
+        }
+      },
+      "tip": {
+        "en": "Use brackets for negative limits.",
+        "bm": "Guna kurungan untuk had negatif."
+      }
+    },
+    "f5addmath-03-04": {
+      "keyPoints": [
+        {
+          "en": "Area: ∫y dx or ∫x dy.",
+          "bm": "Luas: ∫y dx atau ∫x dy."
+        },
+        {
+          "en": "Volume: π∫y² dx.",
+          "bm": "Isi padu: π∫y² dx."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Region",
+            "bm": "Rantau"
+          },
+          "meaning": {
+            "en": "The area enclosed.",
+            "bm": "Luas yang dibatasi."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/area-curve.svg",
+          "alt": {
+            "en": "The area under a curve.",
+            "bm": "Luas di bawah lengkung."
+          },
+          "caption": {
+            "en": "The area under a curve.",
+            "bm": "Luas di bawah lengkung."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Volume formula about x-axis?",
+          "bm": "Rumus isi padu pada paksi-x?"
+        },
+        "answer": {
+          "en": "π∫y² dx",
+          "bm": "π∫y² dx"
+        }
+      },
+      "tip": {
+        "en": "Sketch the region first.",
+        "bm": "Lakar rantau dahulu."
+      }
+    }
+  }
+}

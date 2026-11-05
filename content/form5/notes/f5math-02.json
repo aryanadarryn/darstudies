@@ -1,0 +1,86 @@
+{
+  "chapterId": "f5math-02",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-02-01": {
+      "keyPoints": [
+        {
+          "en": "State order as rows × columns.",
+          "bm": "Nyatakan peringkat sebagai baris × lajur."
+        },
+        {
+          "en": "Elements are named aᵢⱼ.",
+          "bm": "Unsur dinamakan aᵢⱼ."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Element",
+            "bm": "Unsur"
+          },
+          "meaning": {
+            "en": "One entry in a matrix.",
+            "bm": "Satu entri dalam matriks."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Order of [1 2 3]?",
+          "bm": "Peringkat [1 2 3]?"
+        },
+        "answer": {
+          "en": "1 × 3",
+          "bm": "1 × 3"
+        }
+      },
+      "tip": {
+        "en": "Rows go across; columns go down.",
+        "bm": "Baris melintang; lajur menegak."
+      }
+    },
+    "f5math-02-02": {
+      "keyPoints": [
+        {
+          "en": "Add or subtract matching elements.",
+          "bm": "Tambah atau tolak unsur sepadan."
+        },
+        {
+          "en": "Multiply row by column.",
+          "bm": "Darab baris dengan lajur."
+        },
+        {
+          "en": "Use the inverse to solve simultaneous equations.",
+          "bm": "Gunakan songsangan untuk menyelesaikan persamaan serentak."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Scalar",
+            "bm": "Skalar"
+          },
+          "meaning": {
+            "en": "A single number.",
+            "bm": "Satu nombor."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Is [1 2] + [1; 2] possible?",
+          "bm": "Bolehkah [1 2] + [1; 2]?"
+        },
+        "answer": {
+          "en": "No: orders differ.",
+          "bm": "Tidak: peringkat berbeza."
+        }
+      },
+      "tip": {
+        "en": "Check orders before you calculate.",
+        "bm": "Semak peringkat sebelum mengira."
+      }
+    }
+  }
+}

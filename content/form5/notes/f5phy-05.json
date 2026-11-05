@@ -1,0 +1,135 @@
+{
+  "chapterId": "f5phy-05",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-05-01": {
+      "keyPoints": [
+        {
+          "en": "Energy eV becomes kinetic energy.",
+          "bm": "Tenaga eV menjadi tenaga kinetik."
+        },
+        {
+          "en": "Electrons travel in a vacuum tube.",
+          "bm": "Elektron bergerak dalam tiub vakum."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Cathode ray",
+            "bm": "Sinar katod"
+          },
+          "meaning": {
+            "en": "Beam of electrons.",
+            "bm": "Alur elektron."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Do fields deflect cathode rays?",
+          "bm": "Adakah medan memesongkan sinar katod?"
+        },
+        "answer": {
+          "en": "Yes",
+          "bm": "Ya"
+        }
+      },
+      "tip": {
+        "en": "½mv² = eV.",
+        "bm": "½mv² = eV."
+      }
+    },
+    "f5phy-05-02": {
+      "keyPoints": [
+        {
+          "en": "Forward bias conducts; reverse bias blocks.",
+          "bm": "Pincang depan mengalir; pincang songsang menghalang."
+        },
+        {
+          "en": "Rectifiers turn a.c. to d.c.",
+          "bm": "Rektifier menukar a.u. kepada a.t."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Depletion layer",
+            "bm": "Lapisan susutan"
+          },
+          "meaning": {
+            "en": "Region without free carriers.",
+            "bm": "Kawasan tanpa pembawa cas bebas."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/diode.svg",
+          "alt": {
+            "en": "Forward and reverse biased diodes.",
+            "bm": "Diod pincang depan dan songsang."
+          },
+          "caption": {
+            "en": "Forward and reverse biased diodes.",
+            "bm": "Diod pincang depan dan songsang."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which bias blocks?",
+          "bm": "Pincang mana menghalang?"
+        },
+        "answer": {
+          "en": "Reverse",
+          "bm": "Songsang"
+        }
+      },
+      "tip": {
+        "en": "Sketch output waveforms.",
+        "bm": "Lakar bentuk gelombang output."
+      }
+    },
+    "f5phy-05-03": {
+      "keyPoints": [
+        {
+          "en": "Small base current controls a large collector current.",
+          "bm": "Arus tapak kecil mengawal arus pengumpul besar."
+        },
+        {
+          "en": "Used as switch and amplifier.",
+          "bm": "Digunakan sebagai suis dan penguat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Amplifier",
+            "bm": "Penguat"
+          },
+          "meaning": {
+            "en": "Makes a signal larger.",
+            "bm": "Membesarkan isyarat."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Gain if IC = 2 mA, IB = 20 µA?",
+          "bm": "Gandaan jika IC = 2 mA, IB = 20 µA?"
+        },
+        "answer": {
+          "en": "100",
+          "bm": "100"
+        }
+      },
+      "tip": {
+        "en": "Use a potential divider for base voltage.",
+        "bm": "Guna pembahagi keupayaan untuk voltan tapak."
+      }
+    }
+  }
+}

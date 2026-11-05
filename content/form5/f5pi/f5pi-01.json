@@ -1,0 +1,374 @@
+{
+  "chapterId": "f5pi-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Surah Al-Hujurat is sometimes called a guide to good society: it deals with checking news, peace and respect.",
+      "bm": "Surah Al-Hujurat sering dianggap panduan masyarakat baik: ia berkaitan menyemak berita, perdamaian dan rasa hormat."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tajwid keeps recitation correct.",
+        "bm": "Tajwid memastikan bacaan betul."
+      },
+      {
+        "en": "Al-Hujurat teaches brotherhood and tabayyun.",
+        "bm": "Al-Hujurat mengajar persaudaraan dan tabayyun."
+      },
+      {
+        "en": "The noblest person is the most pious.",
+        "bm": "Orang paling mulia ialah yang paling bertakwa."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Rule",
+          "bm": "Hukum"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Izhar",
+              "bm": "Izhar"
+            },
+            "detail": {
+              "en": "clear",
+              "bm": "jelas"
+            }
+          },
+          {
+            "label": {
+              "en": "Idgham",
+              "bm": "Idgham"
+            },
+            "detail": {
+              "en": "merged",
+              "bm": "dimasukkan"
+            }
+          },
+          {
+            "label": {
+              "en": "Iqlab",
+              "bm": "Iqlab"
+            },
+            "detail": {
+              "en": "changed to mim",
+              "bm": "ditukar kepada mim"
+            }
+          },
+          {
+            "label": {
+              "en": "Ikhfa'",
+              "bm": "Ikhfa'"
+            },
+            "detail": {
+              "en": "hidden",
+              "bm": "disembunyikan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Tabayyun",
+          "bm": "Tabayyun"
+        },
+        "definition": {
+          "en": "Checking news before accepting it.",
+          "bm": "Menyemak berita sebelum menerimanya."
+        }
+      },
+      {
+        "term": {
+          "en": "Mad",
+          "bm": "Mad"
+        },
+        "definition": {
+          "en": "Lengthening a vowel in recitation.",
+          "bm": "Memanjangkan bacaan."
+        }
+      },
+      {
+        "term": {
+          "en": "Taqwa",
+          "bm": "Takwa"
+        },
+        "definition": {
+          "en": "Obeying Allah and avoiding what He forbids.",
+          "bm": "Mematuhi Allah dan menjauhi larangan-Nya."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5pi-01-q01",
+      "subtopicId": "f5pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tajwid means…",
+        "bm": "Tajwid bermaksud…"
+      },
+      "explanation": {
+        "en": "It gives each letter its right.",
+        "bm": "Ia memberi hak setiap huruf."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "reciting each letter correctly",
+          "bm": "membaca setiap huruf dengan betul"
+        },
+        {
+          "en": "reading as fast as possible",
+          "bm": "membaca sepantas mungkin"
+        },
+        {
+          "en": "memorising only",
+          "bm": "menghafal sahaja"
+        },
+        {
+          "en": "writing beautifully",
+          "bm": "menulis dengan indah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q02",
+      "subtopicId": "f5pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Iqlab changes nun sakinah into a…",
+        "bm": "Iqlab menukar nun sakinah kepada bunyi…"
+      },
+      "explanation": {
+        "en": "It occurs before the letter ba.",
+        "bm": "Berlaku sebelum huruf ba."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mim sound",
+          "bm": "mim"
+        },
+        {
+          "en": "lam sound",
+          "bm": "lam"
+        },
+        {
+          "en": "ra sound",
+          "bm": "ra"
+        },
+        {
+          "en": "ba sound",
+          "bm": "ba"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q03",
+      "subtopicId": "f5pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mad asli is usually lengthened for…",
+        "bm": "Mad asli biasanya dipanjangkan…"
+      },
+      "explanation": {
+        "en": "Natural lengthening.",
+        "bm": "Pemanjangan asli."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2 harakat",
+          "bm": "2 harakat"
+        },
+        {
+          "en": "6 harakat",
+          "bm": "6 harakat"
+        },
+        {
+          "en": "8 harakat",
+          "bm": "8 harakat"
+        },
+        {
+          "en": "no harakat",
+          "bm": "tiada harakat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q04",
+      "subtopicId": "f5pi-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ikhfa' occurs when nun sakinah meets…",
+        "bm": "Ikhfa' berlaku apabila nun sakinah bertemu…"
+      },
+      "explanation": {
+        "en": "Pronounced between clear and merged.",
+        "bm": "Disebut antara jelas dan masuk."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "one of 15 letters",
+          "bm": "salah satu daripada 15 huruf"
+        },
+        {
+          "en": "only the letter ba",
+          "bm": "huruf ba sahaja"
+        },
+        {
+          "en": "only throat letters",
+          "bm": "huruf halqi sahaja"
+        },
+        {
+          "en": "no letters",
+          "bm": "tiada huruf"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q05",
+      "subtopicId": "f5pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Tabayyun means…",
+        "bm": "Tabayyun bermaksud…"
+      },
+      "explanation": {
+        "en": "Surah Al-Hujurat, verse 6.",
+        "bm": "Surah Al-Hujurat, ayat 6."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "verifying news",
+          "bm": "menyemak kesahihan berita"
+        },
+        {
+          "en": "spreading news quickly",
+          "bm": "menyebarkan berita segera"
+        },
+        {
+          "en": "hiding news",
+          "bm": "menyembunyikan berita"
+        },
+        {
+          "en": "making up news",
+          "bm": "mereka berita"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q06",
+      "subtopicId": "f5pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Surah Al-Hujurat verse 10 says believers are…",
+        "bm": "Surah Al-Hujurat ayat 10 menyatakan orang beriman ialah…"
+      },
+      "explanation": {
+        "en": "So make peace among them.",
+        "bm": "Maka damaikan antara mereka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "brothers",
+          "bm": "bersaudara"
+        },
+        {
+          "en": "rivals",
+          "bm": "pesaing"
+        },
+        {
+          "en": "strangers",
+          "bm": "orang asing"
+        },
+        {
+          "en": "enemies",
+          "bm": "musuh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q07",
+      "subtopicId": "f5pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Verse 12 forbids…",
+        "bm": "Ayat 12 melarang…"
+      },
+      "explanation": {
+        "en": "Backbiting is strongly condemned.",
+        "bm": "Mengumpat dikecam keras."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "backbiting and needless suspicion",
+          "bm": "mengumpat dan prasangka"
+        },
+        {
+          "en": "helping others",
+          "bm": "membantu orang lain"
+        },
+        {
+          "en": "studying",
+          "bm": "belajar"
+        },
+        {
+          "en": "praying",
+          "bm": "bersolat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-01-q08",
+      "subtopicId": "f5pi-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Verse 13 teaches that the noblest are…",
+        "bm": "Ayat 13 mengajar bahawa yang paling mulia ialah…"
+      },
+      "explanation": {
+        "en": "Differences exist so we may know one another.",
+        "bm": "Perbezaan wujud supaya saling mengenali."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "the most pious",
+          "bm": "yang paling bertakwa"
+        },
+        {
+          "en": "the richest",
+          "bm": "yang paling kaya"
+        },
+        {
+          "en": "of a certain race",
+          "bm": "daripada kaum tertentu"
+        },
+        {
+          "en": "the strongest",
+          "bm": "yang paling kuat"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

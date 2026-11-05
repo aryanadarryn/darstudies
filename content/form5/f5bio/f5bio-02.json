@@ -1,0 +1,426 @@
+{
+  "chapterId": "f5bio-02",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A single leaf is a solar panel, a gas valve and a water pump, all in less than a millimetre of thickness.",
+      "bm": "Sehelai daun ialah panel suria, injap gas dan pam air, semuanya dalam ketebalan kurang satu milimeter."
+    },
+    "bigIdeas": [
+      {
+        "en": "Stomata control gas exchange and water loss.",
+        "bm": "Stoma mengawal pertukaran gas dan kehilangan air."
+      },
+      {
+        "en": "Photosynthesis has light and dark reactions.",
+        "bm": "Fotosintesis mempunyai tindak balas cahaya dan gelap."
+      },
+      {
+        "en": "At the compensation point, photosynthesis equals respiration.",
+        "bm": "Pada titik pampasan, fotosintesis sama dengan respirasi."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Light reaction",
+              "bm": "Tindak balas cahaya"
+            },
+            "detail": {
+              "en": "Thylakoid; makes ATP, NADPH, O₂",
+              "bm": "Tilakoid; menghasilkan ATP, NADPH, O₂"
+            }
+          },
+          {
+            "title": {
+              "en": "Dark reaction",
+              "bm": "Tindak balas gelap"
+            },
+            "detail": {
+              "en": "Stroma; fixes CO₂",
+              "bm": "Stroma; mengikat CO₂"
+            }
+          },
+          {
+            "title": {
+              "en": "Glucose",
+              "bm": "Glukosa"
+            },
+            "detail": {
+              "en": "Stored as starch",
+              "bm": "Disimpan sebagai kanji"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Stomata",
+          "bm": "Stoma"
+        },
+        "definition": {
+          "en": "Pores controlled by guard cells.",
+          "bm": "Liang dikawal sel pengawal."
+        }
+      },
+      {
+        "term": {
+          "en": "Transpiration",
+          "bm": "Transpirasi"
+        },
+        "definition": {
+          "en": "Water vapour loss from leaves.",
+          "bm": "Kehilangan wap air dari daun."
+        }
+      },
+      {
+        "term": {
+          "en": "Compensation point",
+          "bm": "Titik pampasan"
+        },
+        "definition": {
+          "en": "Light level where photosynthesis equals respiration.",
+          "bm": "Aras cahaya apabila fotosintesis sama dengan respirasi."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-02-q01",
+      "subtopicId": "f5bio-02-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Most photosynthesis occurs in the…",
+        "bm": "Kebanyakan fotosintesis berlaku dalam…"
+      },
+      "explanation": {
+        "en": "It has many chloroplasts.",
+        "bm": "Ia banyak kloroplas."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "palisade mesophyll",
+          "bm": "mesofil palisad"
+        },
+        {
+          "en": "cuticle",
+          "bm": "kutikel"
+        },
+        {
+          "en": "xylem",
+          "bm": "xilem"
+        },
+        {
+          "en": "root hair",
+          "bm": "rambut akar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q02",
+      "subtopicId": "f5bio-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stomata open when guard cells…",
+        "bm": "Stoma terbuka apabila sel pengawal…"
+      },
+      "explanation": {
+        "en": "K⁺ uptake draws in water.",
+        "bm": "Pengambilan K⁺ menarik air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "become turgid",
+          "bm": "menjadi segah"
+        },
+        {
+          "en": "become flaccid",
+          "bm": "menjadi flasid"
+        },
+        {
+          "en": "die",
+          "bm": "mati"
+        },
+        {
+          "en": "lose chloroplasts",
+          "bm": "hilang kloroplas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q03",
+      "subtopicId": "f5bio-02-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Stomata close in drought because of…",
+        "bm": "Stoma tertutup semasa kemarau kerana…"
+      },
+      "explanation": {
+        "en": "ABA signals water stress.",
+        "bm": "ABA memberi isyarat tekanan air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "abscisic acid",
+          "bm": "asid absisik"
+        },
+        {
+          "en": "auxin only",
+          "bm": "auksin sahaja"
+        },
+        {
+          "en": "gibberellin",
+          "bm": "giberelin"
+        },
+        {
+          "en": "ethene only",
+          "bm": "etena sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q04",
+      "subtopicId": "f5bio-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Transpiration increases with…",
+        "bm": "Transpirasi meningkat dengan…"
+      },
+      "explanation": {
+        "en": "Water vapour moves away faster.",
+        "bm": "Wap air bergerak lebih cepat."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "higher light and wind",
+          "bm": "cahaya dan angin lebih tinggi"
+        },
+        {
+          "en": "higher humidity",
+          "bm": "kelembapan lebih tinggi"
+        },
+        {
+          "en": "closed stomata",
+          "bm": "stoma tertutup"
+        },
+        {
+          "en": "cool, still air",
+          "bm": "udara sejuk dan tenang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q05",
+      "subtopicId": "f5bio-02-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A potometer measures…",
+        "bm": "Potometer mengukur…"
+      },
+      "explanation": {
+        "en": "Used to estimate transpiration.",
+        "bm": "Digunakan untuk menganggar transpirasi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "water uptake rate",
+          "bm": "kadar pengambilan air"
+        },
+        {
+          "en": "oxygen in air",
+          "bm": "oksigen di udara"
+        },
+        {
+          "en": "leaf colour",
+          "bm": "warna daun"
+        },
+        {
+          "en": "root length",
+          "bm": "panjang akar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q06",
+      "subtopicId": "f5bio-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Oxygen in photosynthesis comes from…",
+        "bm": "Oksigen dalam fotosintesis berasal daripada…"
+      },
+      "explanation": {
+        "en": "Photolysis of water.",
+        "bm": "Fotolisis air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "water",
+          "bm": "air"
+        },
+        {
+          "en": "carbon dioxide",
+          "bm": "karbon dioksida"
+        },
+        {
+          "en": "glucose",
+          "bm": "glukosa"
+        },
+        {
+          "en": "chlorophyll",
+          "bm": "klorofil"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q07",
+      "subtopicId": "f5bio-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "The dark reaction takes place in the…",
+        "bm": "Tindak balas gelap berlaku di…"
+      },
+      "explanation": {
+        "en": "Uses ATP and NADPH.",
+        "bm": "Menggunakan ATP dan NADPH."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "stroma",
+          "bm": "stroma"
+        },
+        {
+          "en": "thylakoid",
+          "bm": "tilakoid"
+        },
+        {
+          "en": "nucleus",
+          "bm": "nukleus"
+        },
+        {
+          "en": "vacuole",
+          "bm": "vakuol"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q08",
+      "subtopicId": "f5bio-02-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which limits photosynthesis on a bright, warm day?",
+        "bm": "Yang manakah mengehadkan fotosintesis pada hari cerah dan panas?"
+      },
+      "explanation": {
+        "en": "Air holds about 0.04% CO₂.",
+        "bm": "Udara mengandungi kira-kira 0.04% CO₂."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Low CO₂ concentration",
+          "bm": "Kepekatan CO₂ rendah"
+        },
+        {
+          "en": "Too little light",
+          "bm": "Terlalu sedikit cahaya"
+        },
+        {
+          "en": "Too much chlorophyll",
+          "bm": "Terlalu banyak klorofil"
+        },
+        {
+          "en": "No water in leaves",
+          "bm": "Tiada air di daun"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q09",
+      "subtopicId": "f5bio-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "At the compensation point…",
+        "bm": "Pada titik pampasan…"
+      },
+      "explanation": {
+        "en": "No net gain of food.",
+        "bm": "Tiada pertambahan makanan bersih."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "photosynthesis rate = respiration rate",
+          "bm": "kadar fotosintesis = kadar respirasi"
+        },
+        {
+          "en": "no photosynthesis occurs",
+          "bm": "tiada fotosintesis"
+        },
+        {
+          "en": "the plant dies",
+          "bm": "tumbuhan mati"
+        },
+        {
+          "en": "growth is fastest",
+          "bm": "pertumbuhan paling pesat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-02-q10",
+      "subtopicId": "f5bio-02-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Plants must get light above the compensation point because…",
+        "bm": "Tumbuhan perlu cahaya melebihi titik pampasan kerana…"
+      },
+      "explanation": {
+        "en": "Surplus goes to growth and storage.",
+        "bm": "Lebihan untuk pertumbuhan dan simpanan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "they need surplus food to grow",
+          "bm": "mereka perlu lebihan makanan untuk membesar"
+        },
+        {
+          "en": "they respire only at night",
+          "bm": "hanya respirasi pada malam"
+        },
+        {
+          "en": "it stops respiration",
+          "bm": "ia menghentikan respirasi"
+        },
+        {
+          "en": "it removes chlorophyll",
+          "bm": "ia membuang klorofil"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

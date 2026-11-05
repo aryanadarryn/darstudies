@@ -1,0 +1,436 @@
+{
+  "chapterId": "f5bio-13",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Most insulin for diabetics is now made by bacteria carrying a human gene.",
+      "bm": "Kebanyakan insulin untuk pesakit diabetes kini dihasilkan oleh bakteria yang membawa gen manusia."
+    },
+    "bigIdeas": [
+      {
+        "en": "Genes can be transferred between organisms.",
+        "bm": "Gen boleh dipindahkan antara organisma."
+      },
+      {
+        "en": "Uses include medicine, farming and forensics.",
+        "bm": "Kegunaan termasuk perubatan, pertanian dan forensik."
+      },
+      {
+        "en": "Benefits must be weighed against risks.",
+        "bm": "Manfaat perlu ditimbang dengan risiko."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Cut",
+              "bm": "Potong"
+            },
+            "detail": {
+              "en": "Restriction enzyme",
+              "bm": "Enzim pembatas"
+            }
+          },
+          {
+            "title": {
+              "en": "Insert",
+              "bm": "Masukkan"
+            },
+            "detail": {
+              "en": "Into plasmid with ligase",
+              "bm": "Ke dalam plasmid dengan ligase"
+            }
+          },
+          {
+            "title": {
+              "en": "Transfer",
+              "bm": "Pindah"
+            },
+            "detail": {
+              "en": "Into bacterium",
+              "bm": "Ke dalam bakteria"
+            }
+          },
+          {
+            "title": {
+              "en": "Multiply",
+              "bm": "Membiak"
+            },
+            "detail": {
+              "en": "Makes the product",
+              "bm": "Menghasilkan produk"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "GMO",
+          "bm": "GMO"
+        },
+        "definition": {
+          "en": "An organism with changed genes.",
+          "bm": "Organisma dengan gen diubah."
+        }
+      },
+      {
+        "term": {
+          "en": "Plasmid",
+          "bm": "Plasmid"
+        },
+        "definition": {
+          "en": "Small circular bacterial DNA.",
+          "bm": "DNA bakteria kecil berbentuk bulat."
+        }
+      },
+      {
+        "term": {
+          "en": "DNA fingerprinting",
+          "bm": "Cap jari DNA"
+        },
+        "definition": {
+          "en": "Identifying people by DNA patterns.",
+          "bm": "Mengenal pasti orang melalui corak DNA."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-13-q01",
+      "subtopicId": "f5bio-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Restriction enzymes…",
+        "bm": "Enzim pembatas…"
+      },
+      "explanation": {
+        "en": "Ligase joins it.",
+        "bm": "Ligase menyambungnya."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cut DNA at specific sites",
+          "bm": "memotong DNA pada tapak tertentu"
+        },
+        {
+          "en": "join DNA",
+          "bm": "menyambung DNA"
+        },
+        {
+          "en": "copy RNA only",
+          "bm": "menyalin RNA sahaja"
+        },
+        {
+          "en": "make protein",
+          "bm": "menghasilkan protein"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q02",
+      "subtopicId": "f5bio-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A plasmid is used as a…",
+        "bm": "Plasmid digunakan sebagai…"
+      },
+      "explanation": {
+        "en": "It carries the gene.",
+        "bm": "Ia membawa gen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "vector",
+          "bm": "vektor"
+        },
+        {
+          "en": "nutrient",
+          "bm": "nutrien"
+        },
+        {
+          "en": "enzyme",
+          "bm": "enzim"
+        },
+        {
+          "en": "hormone",
+          "bm": "hormon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q03",
+      "subtopicId": "f5bio-13-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "DNA ligase is used to…",
+        "bm": "DNA ligase digunakan untuk…"
+      },
+      "explanation": {
+        "en": "A molecular glue.",
+        "bm": "Seperti gam molekul."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "seal DNA fragments together",
+          "bm": "menyambung serpihan DNA"
+        },
+        {
+          "en": "cut DNA",
+          "bm": "memotong DNA"
+        },
+        {
+          "en": "destroy plasmids",
+          "bm": "memusnahkan plasmid"
+        },
+        {
+          "en": "read DNA",
+          "bm": "membaca DNA"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q04",
+      "subtopicId": "f5bio-13-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Insulin from bacteria is an example of…",
+        "bm": "Insulin daripada bakteria ialah contoh…"
+      },
+      "explanation": {
+        "en": "Human gene in bacteria.",
+        "bm": "Gen manusia dalam bakteria."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "recombinant DNA technology",
+          "bm": "teknologi DNA rekombinan"
+        },
+        {
+          "en": "fossil dating",
+          "bm": "pentarikhan fosil"
+        },
+        {
+          "en": "fermentation of wine",
+          "bm": "penapaian wain"
+        },
+        {
+          "en": "selective hunting",
+          "bm": "pemburuan terpilih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q05",
+      "subtopicId": "f5bio-13-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Golden rice was engineered to give more…",
+        "bm": "Beras emas diubah untuk memberi lebih…"
+      },
+      "explanation": {
+        "en": "Beta-carotene.",
+        "bm": "Beta-karotena."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "vitamin A precursor",
+          "bm": "prekursor vitamin A"
+        },
+        {
+          "en": "iron only",
+          "bm": "zat besi sahaja"
+        },
+        {
+          "en": "salt",
+          "bm": "garam"
+        },
+        {
+          "en": "caffeine",
+          "bm": "kafein"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q06",
+      "subtopicId": "f5bio-13-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "DNA fingerprinting is useful for…",
+        "bm": "Cap jari DNA berguna untuk…"
+      },
+      "explanation": {
+        "en": "DNA patterns are unique.",
+        "bm": "Corak DNA unik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "forensics and paternity tests",
+          "bm": "forensik dan ujian paterniti"
+        },
+        {
+          "en": "weather forecasts",
+          "bm": "ramalan cuaca"
+        },
+        {
+          "en": "fuel making",
+          "bm": "pembuatan bahan api"
+        },
+        {
+          "en": "rust control",
+          "bm": "kawalan karat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q07",
+      "subtopicId": "f5bio-13-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Gene therapy aims to…",
+        "bm": "Terapi gen bertujuan…"
+      },
+      "explanation": {
+        "en": "Faulty genes are targeted.",
+        "bm": "Gen rosak disasarkan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "treat disease by correcting genes",
+          "bm": "merawat penyakit dengan membetulkan gen"
+        },
+        {
+          "en": "clone whole people",
+          "bm": "mengklon manusia"
+        },
+        {
+          "en": "kill all cells",
+          "bm": "membunuh semua sel"
+        },
+        {
+          "en": "remove all DNA",
+          "bm": "membuang semua DNA"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q08",
+      "subtopicId": "f5bio-13-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A concern about GMO crops is…",
+        "bm": "Kebimbangan tentang tanaman GMO ialah…"
+      },
+      "explanation": {
+        "en": "Genes may spread to wild plants.",
+        "bm": "Gen mungkin tersebar ke tumbuhan liar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "possible effects on ecosystems",
+          "bm": "kemungkinan kesan pada ekosistem"
+        },
+        {
+          "en": "they cannot be eaten at all",
+          "bm": "langsung tidak boleh dimakan"
+        },
+        {
+          "en": "they contain no DNA",
+          "bm": "tiada DNA"
+        },
+        {
+          "en": "they are made of plastic",
+          "bm": "diperbuat plastik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q09",
+      "subtopicId": "f5bio-13-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Malaysia regulates GMOs under…",
+        "bm": "Malaysia mengawal GMO di bawah…"
+      },
+      "explanation": {
+        "en": "For safety in use and release.",
+        "bm": "Untuk keselamatan penggunaan dan pelepasan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the Biosafety Act 2007",
+          "bm": "Akta Biokeselamatan 2007"
+        },
+        {
+          "en": "the Road Transport Act",
+          "bm": "Akta Pengangkutan Jalan"
+        },
+        {
+          "en": "the Education Act",
+          "bm": "Akta Pendidikan"
+        },
+        {
+          "en": "the Fisheries Act only",
+          "bm": "Akta Perikanan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-13-q10",
+      "subtopicId": "f5bio-13-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An ethical issue with DNA databases is…",
+        "bm": "Isu etika pangkalan data DNA ialah…"
+      },
+      "explanation": {
+        "en": "Genetic data is highly personal.",
+        "bm": "Data genetik sangat peribadi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "privacy of personal data",
+          "bm": "privasi data peribadi"
+        },
+        {
+          "en": "too much rainfall",
+          "bm": "terlalu banyak hujan"
+        },
+        {
+          "en": "too little sunlight",
+          "bm": "terlalu sedikit cahaya"
+        },
+        {
+          "en": "slow internet only",
+          "bm": "internet perlahan sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

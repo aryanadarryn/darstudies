@@ -1,0 +1,454 @@
+{
+  "chapterId": "f5phy-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Solar panels work because light arrives in packets. Einstein won his Nobel Prize for this, not for relativity.",
+      "bm": "Panel solar berfungsi kerana cahaya tiba dalam paket. Einstein memenangi Nobel untuk ini, bukan kerelatifan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Light energy comes in quanta: E = hf.",
+        "bm": "Tenaga cahaya wujud dalam kuantum: E = hf."
+      },
+      {
+        "en": "Light above a threshold frequency frees electrons.",
+        "bm": "Cahaya melebihi frekuensi ambang membebaskan elektron."
+      },
+      {
+        "en": "hf = W + Kₘₐₓ.",
+        "bm": "hf = W + Kₘₐₓ."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Photon arrives",
+              "bm": "Foton tiba"
+            },
+            "detail": {
+              "en": "E = hf",
+              "bm": "E = hf"
+            }
+          },
+          {
+            "title": {
+              "en": "Work function",
+              "bm": "Fungsi kerja"
+            },
+            "detail": {
+              "en": "Energy to escape",
+              "bm": "Tenaga untuk terlepas"
+            }
+          },
+          {
+            "title": {
+              "en": "Remaining energy",
+              "bm": "Baki tenaga"
+            },
+            "detail": {
+              "en": "Kinetic energy",
+              "bm": "Tenaga kinetik"
+            }
+          },
+          {
+            "title": {
+              "en": "Photocurrent",
+              "bm": "Arus foto"
+            },
+            "detail": {
+              "en": "Solar cell output",
+              "bm": "Output sel suria"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Photon",
+          "bm": "Foton"
+        },
+        "definition": {
+          "en": "A quantum of light energy.",
+          "bm": "Satu kuantum tenaga cahaya."
+        }
+      },
+      {
+        "term": {
+          "en": "Work function",
+          "bm": "Fungsi kerja"
+        },
+        "definition": {
+          "en": "Minimum energy to free an electron.",
+          "bm": "Tenaga minimum membebaskan elektron."
+        }
+      },
+      {
+        "term": {
+          "en": "Threshold frequency",
+          "bm": "Frekuensi ambang"
+        },
+        "definition": {
+          "en": "Lowest frequency that causes emission.",
+          "bm": "Frekuensi terendah untuk pancaran."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-photon",
+      "f5-py-einstein"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-07-q01",
+      "subtopicId": "f5phy-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the photon energy at f = 5 × 10¹⁴ Hz, in units of 10⁻¹⁹ J (h = 6.63 × 10⁻³⁴).",
+        "bm": "Cari tenaga foton pada f = 5 × 10¹⁴ Hz, dalam unit 10⁻¹⁹ J (h = 6.63 × 10⁻³⁴)."
+      },
+      "explanation": {
+        "en": "hf.",
+        "bm": "hf."
+      },
+      "difficulty": 2,
+      "answer": 3.315,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-07-q02",
+      "subtopicId": "f5phy-07-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the frequency for λ = 600 nm, in units of 10¹⁴ Hz (c = 3 × 10⁸).",
+        "bm": "Cari frekuensi bagi λ = 600 nm, dalam unit 10¹⁴ Hz (c = 3 × 10⁸)."
+      },
+      "explanation": {
+        "en": "c ÷ λ.",
+        "bm": "c ÷ λ."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-07-q03",
+      "subtopicId": "f5phy-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A photon's energy depends on its…",
+        "bm": "Tenaga foton bergantung pada…"
+      },
+      "explanation": {
+        "en": "E = hf.",
+        "bm": "E = hf."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "frequency",
+          "bm": "frekuensi"
+        },
+        {
+          "en": "speed",
+          "bm": "laju"
+        },
+        {
+          "en": "mass",
+          "bm": "jisim"
+        },
+        {
+          "en": "charge",
+          "bm": "cas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q04",
+      "subtopicId": "f5phy-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which has more energy per photon?",
+        "bm": "Yang manakah lebih tenaga per foton?"
+      },
+      "explanation": {
+        "en": "Higher frequency.",
+        "bm": "Frekuensi lebih tinggi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Blue light",
+          "bm": "Cahaya biru"
+        },
+        {
+          "en": "Red light",
+          "bm": "Cahaya merah"
+        },
+        {
+          "en": "Infrared",
+          "bm": "Inframerah"
+        },
+        {
+          "en": "Radio waves",
+          "bm": "Gelombang radio"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q05",
+      "subtopicId": "f5phy-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Black-body radiation helped Planck to propose that energy is…",
+        "bm": "Sinaran jasad hitam membantu Planck mencadangkan tenaga…"
+      },
+      "explanation": {
+        "en": "E comes in steps of hf.",
+        "bm": "E wujud dalam langkah hf."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "quantised",
+          "bm": "terkuantum"
+        },
+        {
+          "en": "continuous",
+          "bm": "selanjar"
+        },
+        {
+          "en": "zero",
+          "bm": "sifar"
+        },
+        {
+          "en": "unrelated to frequency",
+          "bm": "tiada kaitan dengan frekuensi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q06",
+      "subtopicId": "f5phy-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Wave-particle duality means light…",
+        "bm": "Kedualan gelombang-zarah bermaksud cahaya…"
+      },
+      "explanation": {
+        "en": "Interference and the photoelectric effect.",
+        "bm": "Interferens dan kesan fotoelektrik."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "shows both wave and particle properties",
+          "bm": "menunjukkan sifat gelombang dan zarah"
+        },
+        {
+          "en": "is only a wave",
+          "bm": "hanya gelombang"
+        },
+        {
+          "en": "is only a particle",
+          "bm": "hanya zarah"
+        },
+        {
+          "en": "has no energy",
+          "bm": "tiada tenaga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q07",
+      "subtopicId": "f5phy-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Below the threshold frequency…",
+        "bm": "Di bawah frekuensi ambang…"
+      },
+      "explanation": {
+        "en": "Regardless of brightness.",
+        "bm": "Walau secerah mana pun."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "no electrons are emitted",
+          "bm": "tiada elektron dipancarkan"
+        },
+        {
+          "en": "more electrons are emitted",
+          "bm": "lebih elektron dipancarkan"
+        },
+        {
+          "en": "electrons are emitted later",
+          "bm": "elektron dipancarkan kemudian"
+        },
+        {
+          "en": "the metal melts",
+          "bm": "logam melebur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q08",
+      "subtopicId": "f5phy-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Raising the intensity (above threshold) raises…",
+        "bm": "Meningkatkan keamatan (melebihi ambang) meningkatkan…"
+      },
+      "explanation": {
+        "en": "More photons, more electrons.",
+        "bm": "Lebih foton, lebih elektron."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the number of electrons",
+          "bm": "bilangan elektron"
+        },
+        {
+          "en": "the Kₘₐₓ",
+          "bm": "Kₘₐₓ"
+        },
+        {
+          "en": "the work function",
+          "bm": "fungsi kerja"
+        },
+        {
+          "en": "the threshold frequency",
+          "bm": "frekuensi ambang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q09",
+      "subtopicId": "f5phy-07-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why was the instant emission a problem for wave theory?",
+        "bm": "Mengapa pancaran serta-merta menjadi masalah bagi teori gelombang?"
+      },
+      "explanation": {
+        "en": "A single photon gives its energy at once.",
+        "bm": "Satu foton memberi tenaganya serta-merta."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Waves should need time to build up energy",
+          "bm": "Gelombang perlukan masa mengumpul tenaga"
+        },
+        {
+          "en": "Waves have no energy",
+          "bm": "Gelombang tiada tenaga"
+        },
+        {
+          "en": "Electrons do not exist",
+          "bm": "Elektron tidak wujud"
+        },
+        {
+          "en": "Metals block all waves",
+          "bm": "Logam menghalang semua gelombang"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-07-q10",
+      "subtopicId": "f5phy-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "hf = 5 eV and W = 2 eV. Find Kₘₐₓ.",
+        "bm": "hf = 5 eV dan W = 2 eV. Cari Kₘₐₓ."
+      },
+      "explanation": {
+        "en": "5 − 2.",
+        "bm": "5 − 2."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "eV"
+    },
+    {
+      "id": "f5phy-07-q11",
+      "subtopicId": "f5phy-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "W = 3.3 × 10⁻¹⁹ J. Find the threshold frequency in units of 10¹⁴ Hz (h = 6.6 × 10⁻³⁴).",
+        "bm": "W = 3.3 × 10⁻¹⁹ J. Cari frekuensi ambang dalam unit 10¹⁴ Hz (h = 6.6 × 10⁻³⁴)."
+      },
+      "explanation": {
+        "en": "W ÷ h.",
+        "bm": "W ÷ h."
+      },
+      "difficulty": 2,
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-07-q12",
+      "subtopicId": "f5phy-07-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "hf = 6 × 10⁻¹⁹ J and W = 4 × 10⁻¹⁹ J. Find Kₘₐₓ in units of 10⁻¹⁹ J.",
+        "bm": "hf = 6 × 10⁻¹⁹ J dan W = 4 × 10⁻¹⁹ J. Cari Kₘₐₓ dalam unit 10⁻¹⁹ J."
+      },
+      "explanation": {
+        "en": "6 − 4.",
+        "bm": "6 − 4."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-07-q13",
+      "subtopicId": "f5phy-07-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "The gradient of a Kₘₐₓ–f graph is…",
+        "bm": "Kecerunan graf Kₘₐₓ–f ialah…"
+      },
+      "explanation": {
+        "en": "Kₘₐₓ = hf − W.",
+        "bm": "Kₘₐₓ = hf − W."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Planck's constant",
+          "bm": "pemalar Planck"
+        },
+        {
+          "en": "the speed of light",
+          "bm": "laju cahaya"
+        },
+        {
+          "en": "the work function",
+          "bm": "fungsi kerja"
+        },
+        {
+          "en": "zero",
+          "bm": "sifar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

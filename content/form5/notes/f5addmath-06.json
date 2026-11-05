@@ -1,0 +1,245 @@
+{
+  "chapterId": "f5addmath-06",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-06-01": {
+      "keyPoints": [
+        {
+          "en": "Anticlockwise positive; clockwise negative.",
+          "bm": "Lawan jam positif; ikut jam negatif."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Coterminal",
+            "bm": "Sekedudukan"
+          },
+          "meaning": {
+            "en": "Angles sharing a position.",
+            "bm": "Sudut sama kedudukan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "−90° is the same as?",
+          "bm": "−90° sama dengan?"
+        },
+        "answer": {
+          "en": "270°",
+          "bm": "270°"
+        }
+      },
+      "tip": {
+        "en": "Add 360° for negative angles.",
+        "bm": "Tambah 360° bagi sudut negatif."
+      }
+    },
+    "f5addmath-06-02": {
+      "keyPoints": [
+        {
+          "en": "Sign depends on quadrant.",
+          "bm": "Tanda bergantung pada sukuan."
+        },
+        {
+          "en": "sec has the same sign as cos.",
+          "bm": "sek mempunyai tanda sama dengan kos."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Reciprocal",
+            "bm": "Salingan"
+          },
+          "meaning": {
+            "en": "One over a value.",
+            "bm": "Satu per nilai."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "sec 60°?",
+          "bm": "sek 60°?"
+        },
+        "answer": {
+          "en": "2",
+          "bm": "2"
+        }
+      },
+      "tip": {
+        "en": "Do not confuse sec with cos⁻¹.",
+        "bm": "Jangan keliru sek dengan kos⁻¹."
+      }
+    },
+    "f5addmath-06-03": {
+      "keyPoints": [
+        {
+          "en": "a, b and c change the shape.",
+          "bm": "a, b dan c mengubah bentuk."
+        },
+        {
+          "en": "Modulus reflects the negative part.",
+          "bm": "Modulus memantulkan bahagian negatif."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Modulus",
+            "bm": "Modulus"
+          },
+          "meaning": {
+            "en": "Absolute value.",
+            "bm": "Nilai mutlak."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/trig-graphs.svg",
+          "alt": {
+            "en": "Sine, cosine and tangent graphs.",
+            "bm": "Graf sinus, kosinus dan tangen."
+          },
+          "caption": {
+            "en": "Sine, cosine and tangent graphs.",
+            "bm": "Graf sinus, kosinus dan tangen."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Period of cos 2x?",
+          "bm": "Kala kos 2x?"
+        },
+        "answer": {
+          "en": "180°",
+          "bm": "180°"
+        }
+      },
+      "tip": {
+        "en": "Sketch at key angles.",
+        "bm": "Lakar pada sudut utama."
+      }
+    },
+    "f5addmath-06-04": {
+      "keyPoints": [
+        {
+          "en": "Three Pythagorean identities.",
+          "bm": "Tiga identiti Pythagoras."
+        },
+        {
+          "en": "Start from the harder side when proving.",
+          "bm": "Mula dari sebelah lebih sukar semasa membuktikan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Identity",
+            "bm": "Identiti"
+          },
+          "meaning": {
+            "en": "Always true.",
+            "bm": "Sentiasa benar."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "1 − cos²x?",
+          "bm": "1 − kos²x?"
+        },
+        "answer": {
+          "en": "sin²x",
+          "bm": "sin²x"
+        }
+      },
+      "tip": {
+        "en": "Change everything to sin and cos if stuck.",
+        "bm": "Tukar semua kepada sin dan kos jika buntu."
+      }
+    },
+    "f5addmath-06-05": {
+      "keyPoints": [
+        {
+          "en": "Addition formulas give exact values.",
+          "bm": "Rumus majmuk memberi nilai tepat."
+        },
+        {
+          "en": "cos 2x has three forms.",
+          "bm": "kos 2x mempunyai tiga bentuk."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Compound angle",
+            "bm": "Sudut majmuk"
+          },
+          "meaning": {
+            "en": "A sum or difference of angles.",
+            "bm": "Hasil tambah atau beza sudut."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "sin 75° = sin(45° + 30°)?",
+          "bm": "sin 75° = sin(45° + 30°)?"
+        },
+        "answer": {
+          "en": "Yes",
+          "bm": "Ya"
+        }
+      },
+      "tip": {
+        "en": "Choose the cos 2x form that matches.",
+        "bm": "Pilih bentuk kos 2x yang sesuai."
+      }
+    },
+    "f5addmath-06-06": {
+      "keyPoints": [
+        {
+          "en": "Solve for the basic angle first.",
+          "bm": "Selesaikan sudut asas dahulu."
+        },
+        {
+          "en": "Adjust the range for multiple angles.",
+          "bm": "Laraskan julat bagi sudut berganda."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Range",
+            "bm": "Julat"
+          },
+          "meaning": {
+            "en": "Allowed values of x.",
+            "bm": "Nilai x yang dibenarkan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Range of 2x if 0° ≤ x ≤ 360°?",
+          "bm": "Julat 2x jika 0° ≤ x ≤ 360°?"
+        },
+        "answer": {
+          "en": "0° to 720°",
+          "bm": "0° hingga 720°"
+        }
+      },
+      "tip": {
+        "en": "Factorise; do not divide by a trig term.",
+        "bm": "Faktorkan; jangan bahagi dengan sebutan trigonometri."
+      }
+    }
+  }
+}

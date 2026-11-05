@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5phy-03",
+  "cards": [
+    {
+      "id": "f5phy-03-f01",
+      "subtopicId": "f5phy-03-01",
+      "front": {
+        "en": "Current",
+        "bm": "Arus"
+      },
+      "back": {
+        "en": "I = Q/t",
+        "bm": "I = Q/t"
+      }
+    },
+    {
+      "id": "f5phy-03-f02",
+      "subtopicId": "f5phy-03-01",
+      "front": {
+        "en": "Potential difference",
+        "bm": "Beza keupayaan"
+      },
+      "back": {
+        "en": "V = W/Q",
+        "bm": "V = W/Q"
+      }
+    },
+    {
+      "id": "f5phy-03-f03",
+      "subtopicId": "f5phy-03-02",
+      "front": {
+        "en": "Wire resistance",
+        "bm": "Rintangan dawai"
+      },
+      "back": {
+        "en": "R = ρl/A",
+        "bm": "R = ρl/A"
+      }
+    },
+    {
+      "id": "f5phy-03-f04",
+      "subtopicId": "f5phy-03-03",
+      "front": {
+        "en": "E.m.f.",
+        "bm": "D.g.e."
+      },
+      "back": {
+        "en": "E = V + Ir = I(R + r)",
+        "bm": "E = V + Ir = I(R + r)"
+      }
+    },
+    {
+      "id": "f5phy-03-f05",
+      "subtopicId": "f5phy-03-04",
+      "front": {
+        "en": "Power",
+        "bm": "Kuasa"
+      },
+      "back": {
+        "en": "P = VI = I²R = V²/R",
+        "bm": "P = VI = I²R = V²/R"
+      }
+    },
+    {
+      "id": "f5phy-03-f06",
+      "subtopicId": "f5phy-03-04",
+      "front": {
+        "en": "Energy cost",
+        "bm": "Kos tenaga"
+      },
+      "back": {
+        "en": "kWh × rate",
+        "bm": "kWj × kadar"
+      }
+    }
+  ]
+}

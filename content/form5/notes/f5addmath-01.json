@@ -1,0 +1,173 @@
+{
+  "chapterId": "f5addmath-01",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-01-01": {
+      "keyPoints": [
+        {
+          "en": "1 rad ≈ 57.3°.",
+          "bm": "1 rad ≈ 57.3°."
+        },
+        {
+          "en": "Use π rad = 180° to convert.",
+          "bm": "Guna π rad = 180° untuk menukar."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Radian",
+            "bm": "Radian"
+          },
+          "meaning": {
+            "en": "Unit of angle.",
+            "bm": "Unit sudut."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "90° in radians?",
+          "bm": "90° dalam radian?"
+        },
+        "answer": {
+          "en": "π/2",
+          "bm": "π/2"
+        }
+      },
+      "tip": {
+        "en": "Keep answers in π when asked.",
+        "bm": "Kekalkan jawapan dalam π jika diminta."
+      }
+    },
+    "f5addmath-01-02": {
+      "keyPoints": [
+        {
+          "en": "s = rθ only with θ in radians.",
+          "bm": "s = jθ hanya dengan θ dalam radian."
+        },
+        {
+          "en": "Major arc: use 2π − θ.",
+          "bm": "Lengkok major: guna 2π − θ."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Arc",
+            "bm": "Lengkok"
+          },
+          "meaning": {
+            "en": "Part of the circumference.",
+            "bm": "Sebahagian lilitan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/sector.svg",
+          "alt": {
+            "en": "Arc length and sector area in radians.",
+            "bm": "Panjang lengkok dan luas sektor dalam radian."
+          },
+          "caption": {
+            "en": "Arc length and sector area in radians.",
+            "bm": "Panjang lengkok dan luas sektor dalam radian."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "r = 3, θ = 2?",
+          "bm": "j = 3, θ = 2?"
+        },
+        "answer": {
+          "en": "s = 6",
+          "bm": "s = 6"
+        }
+      },
+      "tip": {
+        "en": "Convert degrees first.",
+        "bm": "Tukar darjah dahulu."
+      }
+    },
+    "f5addmath-01-03": {
+      "keyPoints": [
+        {
+          "en": "A = ½r²θ.",
+          "bm": "L = ½j²θ."
+        },
+        {
+          "en": "Major sector: use 2π − θ.",
+          "bm": "Sektor major: guna 2π − θ."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Sector",
+            "bm": "Sektor"
+          },
+          "meaning": {
+            "en": "Pizza-slice region.",
+            "bm": "Rantau hirisan piza."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "r = 2, θ = 1?",
+          "bm": "j = 2, θ = 1?"
+        },
+        "answer": {
+          "en": "A = 2",
+          "bm": "L = 2"
+        }
+      },
+      "tip": {
+        "en": "Square only the radius.",
+        "bm": "Kuasa duakan jejari sahaja."
+      }
+    },
+    "f5addmath-01-04": {
+      "keyPoints": [
+        {
+          "en": "Break shapes into sectors and triangles.",
+          "bm": "Pecahkan bentuk kepada sektor dan segi tiga."
+        },
+        {
+          "en": "Triangle area = ½r² sin θ.",
+          "bm": "Luas segi tiga = ½j² sin θ."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Segment",
+            "bm": "Tembereng"
+          },
+          "meaning": {
+            "en": "Sector minus triangle.",
+            "bm": "Sektor tolak segi tiga."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Segment formula?",
+          "bm": "Rumus tembereng?"
+        },
+        "answer": {
+          "en": "½r²(θ − sin θ)",
+          "bm": "½j²(θ − sin θ)"
+        }
+      },
+      "tip": {
+        "en": "Use Rad mode for sin θ.",
+        "bm": "Guna mod Rad untuk sin θ."
+      }
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "chapterId": "f5chem-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Malaysia became rich on rubber. Latex from one tree can become gloves, tyres and even catheters.",
+      "bm": "Malaysia pernah kaya dengan getah. Lateks dari satu pokok boleh menjadi sarung tangan, tayar dan kateter."
+    },
+    "bigIdeas": [
+      {
+        "en": "Polymers are long chains of monomers.",
+        "bm": "Polimer ialah rantai panjang monomer."
+      },
+      {
+        "en": "Vulcanisation hardens natural rubber.",
+        "bm": "Pemvulkanan mengeraskan getah asli."
+      },
+      {
+        "en": "Synthetic rubbers suit special uses.",
+        "bm": "Getah sintetik sesuai untuk kegunaan khas."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Monomer",
+            "bm": "Monomer"
+          },
+          {
+            "en": "Use",
+            "bm": "Kegunaan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Polythene",
+              "bm": "Politena"
+            },
+            "cells": [
+              {
+                "en": "ethene",
+                "bm": "etena"
+              },
+              {
+                "en": "bags",
+                "bm": "beg"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "PVC",
+              "bm": "PVC"
+            },
+            "cells": [
+              {
+                "en": "chloroethene",
+                "bm": "kloroetena"
+              },
+              {
+                "en": "pipes",
+                "bm": "paip"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Natural rubber",
+              "bm": "Getah asli"
+            },
+            "cells": [
+              {
+                "en": "isoprene",
+                "bm": "isoprena"
+              },
+              {
+                "en": "gloves",
+                "bm": "sarung tangan"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Nylon",
+              "bm": "Nilon"
+            },
+            "cells": [
+              {
+                "en": "diamine and diacid",
+                "bm": "diamina dan diasid"
+              },
+              {
+                "en": "fabric",
+                "bm": "fabrik"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Monomer",
+          "bm": "Monomer"
+        },
+        "definition": {
+          "en": "Small unit that builds a polymer.",
+          "bm": "Unit kecil yang membina polimer."
+        }
+      },
+      {
+        "term": {
+          "en": "Vulcanisation",
+          "bm": "Pemvulkanan"
+        },
+        "definition": {
+          "en": "Heating rubber with sulphur to form cross-links.",
+          "bm": "Memanaskan getah dengan sulfur untuk membentuk rangkai silang."
+        }
+      },
+      {
+        "term": {
+          "en": "Coagulation",
+          "bm": "Penggumpalan"
+        },
+        "definition": {
+          "en": "Latex particles clumping together.",
+          "bm": "Zarah lateks bergumpal."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5chem-04-q01",
+      "subtopicId": "f5chem-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A polymer is…",
+        "bm": "Polimer ialah…"
+      },
+      "explanation": {
+        "en": "Made by polymerisation.",
+        "bm": "Dihasilkan melalui pempolimeran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a long chain of repeating units",
+          "bm": "rantai panjang unit berulang"
+        },
+        {
+          "en": "a single atom",
+          "bm": "satu atom"
+        },
+        {
+          "en": "a metal alloy",
+          "bm": "aloi logam"
+        },
+        {
+          "en": "a salt crystal",
+          "bm": "hablur garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q02",
+      "subtopicId": "f5chem-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The monomer of polythene is…",
+        "bm": "Monomer politena ialah…"
+      },
+      "explanation": {
+        "en": "It has a C=C bond.",
+        "bm": "Ia ada ikatan C=C."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ethene",
+          "bm": "etena"
+        },
+        {
+          "en": "ethane",
+          "bm": "etana"
+        },
+        {
+          "en": "methane",
+          "bm": "metana"
+        },
+        {
+          "en": "isoprene",
+          "bm": "isoprena"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q03",
+      "subtopicId": "f5chem-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Addition polymerisation requires monomers with…",
+        "bm": "Pempolimeran penambahan memerlukan monomer dengan…"
+      },
+      "explanation": {
+        "en": "The double bond opens.",
+        "bm": "Ikatan ganda dua terbuka."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a C=C double bond",
+          "bm": "ikatan ganda dua C=C"
+        },
+        {
+          "en": "only single bonds",
+          "bm": "ikatan tunggal sahaja"
+        },
+        {
+          "en": "ionic bonds",
+          "bm": "ikatan ion"
+        },
+        {
+          "en": "no carbon",
+          "bm": "tiada karbon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q04",
+      "subtopicId": "f5chem-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Condensation polymerisation also releases…",
+        "bm": "Pempolimeran kondensasi turut membebaskan…"
+      },
+      "explanation": {
+        "en": "Example: nylon.",
+        "bm": "Contoh: nilon."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a small molecule such as water",
+          "bm": "molekul kecil seperti air"
+        },
+        {
+          "en": "electrons",
+          "bm": "elektron"
+        },
+        {
+          "en": "a metal",
+          "bm": "logam"
+        },
+        {
+          "en": "nothing",
+          "bm": "tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q05",
+      "subtopicId": "f5chem-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why are plastics an environmental problem?",
+        "bm": "Mengapa plastik menjadi masalah alam sekitar?"
+      },
+      "explanation": {
+        "en": "They stay for many years.",
+        "bm": "Ia kekal bertahun-tahun."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Most are non-biodegradable",
+          "bm": "Kebanyakannya tidak terbiodegradasi"
+        },
+        {
+          "en": "They dissolve at once",
+          "bm": "Ia larut serta-merta"
+        },
+        {
+          "en": "They are too rare",
+          "bm": "Ia terlalu jarang"
+        },
+        {
+          "en": "They are metals",
+          "bm": "Ia logam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q06",
+      "subtopicId": "f5chem-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The monomer of natural rubber is…",
+        "bm": "Monomer getah asli ialah…"
+      },
+      "explanation": {
+        "en": "2-methylbuta-1,3-diene.",
+        "bm": "2-metilbuta-1,3-diena."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "isoprene",
+          "bm": "isoprena"
+        },
+        {
+          "en": "ethene",
+          "bm": "etena"
+        },
+        {
+          "en": "glucose",
+          "bm": "glukosa"
+        },
+        {
+          "en": "styrene",
+          "bm": "stirena"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q07",
+      "subtopicId": "f5chem-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Latex coagulates when…",
+        "bm": "Lateks menggumpal apabila…"
+      },
+      "explanation": {
+        "en": "Acid neutralises its protein charges.",
+        "bm": "Asid menetralkan cas protein."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "acid is added",
+          "bm": "asid ditambah"
+        },
+        {
+          "en": "ammonia is added",
+          "bm": "ammonia ditambah"
+        },
+        {
+          "en": "it is cooled",
+          "bm": "disejukkan"
+        },
+        {
+          "en": "it is stirred gently only",
+          "bm": "dikacau perlahan sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q08",
+      "subtopicId": "f5chem-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ammonia solution is added to latex to…",
+        "bm": "Larutan ammonia ditambah kepada lateks untuk…"
+      },
+      "explanation": {
+        "en": "Alkali neutralises the acid from bacteria.",
+        "bm": "Alkali menetralkan asid daripada bakteria."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "prevent coagulation",
+          "bm": "mencegah penggumpalan"
+        },
+        {
+          "en": "speed up coagulation",
+          "bm": "mempercepat penggumpalan"
+        },
+        {
+          "en": "add colour",
+          "bm": "menambah warna"
+        },
+        {
+          "en": "remove rubber",
+          "bm": "membuang getah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q09",
+      "subtopicId": "f5chem-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Vulcanised rubber is stronger because…",
+        "bm": "Getah tervulkan lebih kuat kerana…"
+      },
+      "explanation": {
+        "en": "Chains can't slide as easily.",
+        "bm": "Rantai tidak mudah menggelongsor."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "sulphur cross-links join the chains",
+          "bm": "rangkai silang sulfur menghubungkan rantai"
+        },
+        {
+          "en": "it has no carbon",
+          "bm": "tiada karbon"
+        },
+        {
+          "en": "the chains are shorter",
+          "bm": "rantai lebih pendek"
+        },
+        {
+          "en": "it is ionic",
+          "bm": "ia bersifat ion"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q10",
+      "subtopicId": "f5chem-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Neoprene is a type of…",
+        "bm": "Neoprena ialah sejenis…"
+      },
+      "explanation": {
+        "en": "Used for wetsuits.",
+        "bm": "Digunakan untuk sut selam."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "synthetic rubber",
+          "bm": "getah sintetik"
+        },
+        {
+          "en": "natural latex",
+          "bm": "lateks asli"
+        },
+        {
+          "en": "metal",
+          "bm": "logam"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q11",
+      "subtopicId": "f5chem-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "SBR rubber is mainly used for…",
+        "bm": "Getah SBR terutamanya digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It resists abrasion.",
+        "bm": "Ia tahan lelasan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "tyres",
+          "bm": "tayar"
+        },
+        {
+          "en": "glass",
+          "bm": "kaca"
+        },
+        {
+          "en": "food",
+          "bm": "makanan"
+        },
+        {
+          "en": "paper",
+          "bm": "kertas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-04-q12",
+      "subtopicId": "f5chem-04-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why choose synthetic over natural rubber for oil seals?",
+        "bm": "Mengapa memilih getah sintetik berbanding asli untuk pengedap minyak?"
+      },
+      "explanation": {
+        "en": "Natural rubber swells in oil.",
+        "bm": "Getah asli mengembang dalam minyak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "It resists oil and heat better",
+          "bm": "Lebih tahan minyak dan haba"
+        },
+        {
+          "en": "It is always cheaper",
+          "bm": "Sentiasa lebih murah"
+        },
+        {
+          "en": "It is biodegradable",
+          "bm": "Terbiodegradasi"
+        },
+        {
+          "en": "It comes from trees",
+          "bm": "Berasal dari pokok"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

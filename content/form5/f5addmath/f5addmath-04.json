@@ -1,0 +1,469 @@
+{
+  "chapterId": "f5addmath-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A 4-digit PIN has 10 000 possibilities, and a lottery uses combinations. Counting rules show how quickly choices add up.",
+      "bm": "PIN 4 digit mempunyai 10 000 kemungkinan, dan loteri menggunakan gabungan. Petua pengiraan menunjukkan betapa cepat pilihan bertambah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Order matters in permutations.",
+        "bm": "Susunan penting dalam pilih atur."
+      },
+      {
+        "en": "Order does not matter in combinations.",
+        "bm": "Susunan tidak penting dalam gabungan."
+      },
+      {
+        "en": "ⁿCᵣ = ⁿPᵣ ÷ r!",
+        "bm": "ⁿCᵣ = ⁿPᵣ ÷ r!"
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Formula",
+            "bm": "Rumus"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Permutation",
+              "bm": "Pilih atur"
+            },
+            "cells": [
+              {
+                "en": "n!/(n−r)!",
+                "bm": "n!/(n−r)!"
+              },
+              {
+                "en": "arranging books",
+                "bm": "menyusun buku"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Combination",
+              "bm": "Gabungan"
+            },
+            "cells": [
+              {
+                "en": "n!/[(n−r)!r!]",
+                "bm": "n!/[(n−r)!r!]"
+              },
+              {
+                "en": "choosing a team",
+                "bm": "memilih pasukan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Factorial",
+          "bm": "Faktorial"
+        },
+        "definition": {
+          "en": "n! = n × (n−1) × … × 1.",
+          "bm": "n! = n × (n−1) × … × 1."
+        }
+      },
+      {
+        "term": {
+          "en": "Permutation",
+          "bm": "Pilih atur"
+        },
+        "definition": {
+          "en": "An ordered arrangement.",
+          "bm": "Susunan tertib."
+        }
+      },
+      {
+        "term": {
+          "en": "Combination",
+          "bm": "Gabungan"
+        },
+        "definition": {
+          "en": "A selection regardless of order.",
+          "bm": "Pilihan tanpa mengira susunan."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-perm",
+      "f5-am-comb"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "How many ways to choose 3 from 5 students?",
+        "bm": "Berapa cara memilih 3 daripada 5 murid?"
+      },
+      "steps": [
+        {
+          "en": "Order does not matter.",
+          "bm": "Susunan tidak penting."
+        },
+        {
+          "en": "⁵C₃ = 10",
+          "bm": "⁵C₃ = 10"
+        }
+      ],
+      "answer": {
+        "en": "10",
+        "bm": "10"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-04-q01",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 5!.",
+        "bm": "Nilaikan 5!."
+      },
+      "explanation": {
+        "en": "Product down to 1.",
+        "bm": "Hasil darab hingga 1."
+      },
+      "difficulty": 1,
+      "answer": 120,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q02",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 6!.",
+        "bm": "Nilaikan 6!."
+      },
+      "explanation": {
+        "en": "Product down to 1.",
+        "bm": "Hasil darab hingga 1."
+      },
+      "difficulty": 2,
+      "answer": 720,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q03",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 7!.",
+        "bm": "Nilaikan 7!."
+      },
+      "explanation": {
+        "en": "Product down to 1.",
+        "bm": "Hasil darab hingga 1."
+      },
+      "difficulty": 2,
+      "answer": 5040,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q04",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 5P2.",
+        "bm": "Nilaikan 5P2."
+      },
+      "explanation": {
+        "en": "5! ÷ 3!.",
+        "bm": "5! ÷ 3!."
+      },
+      "difficulty": 1,
+      "answer": 20,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q05",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 6P3.",
+        "bm": "Nilaikan 6P3."
+      },
+      "explanation": {
+        "en": "6! ÷ 3!.",
+        "bm": "6! ÷ 3!."
+      },
+      "difficulty": 1,
+      "answer": 120,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q06",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 8P2.",
+        "bm": "Nilaikan 8P2."
+      },
+      "explanation": {
+        "en": "8! ÷ 6!.",
+        "bm": "8! ÷ 6!."
+      },
+      "difficulty": 2,
+      "answer": 56,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q07",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 10P3.",
+        "bm": "Nilaikan 10P3."
+      },
+      "explanation": {
+        "en": "10! ÷ 7!.",
+        "bm": "10! ÷ 7!."
+      },
+      "difficulty": 2,
+      "answer": 720,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q08",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Arrange all the letters of \"BOOK\".",
+        "bm": "Susun semua huruf \"BOOK\"."
+      },
+      "explanation": {
+        "en": "4! ÷ 2! because O repeats.",
+        "bm": "4! ÷ 2! kerana O berulang."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q09",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Arrange \"MALAYSIA\" (A appears 3 times).",
+        "bm": "Susun \"MALAYSIA\" (A sebanyak 3 kali)."
+      },
+      "explanation": {
+        "en": "8! ÷ 3!.",
+        "bm": "8! ÷ 3!."
+      },
+      "difficulty": 3,
+      "answer": 6720,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q10",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "How many 3-digit numbers use 1–5 with no repeats?",
+        "bm": "Berapa nombor 3 digit daripada 1–5 tanpa ulangan?"
+      },
+      "explanation": {
+        "en": "⁵P₃.",
+        "bm": "⁵P₃."
+      },
+      "difficulty": 3,
+      "answer": 60,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q11",
+      "subtopicId": "f5addmath-04-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "5 people sit in a row with A and B together. How many ways?",
+        "bm": "5 orang duduk sebaris dengan A dan B bersama. Berapa cara?"
+      },
+      "explanation": {
+        "en": "4! × 2!.",
+        "bm": "4! × 2!."
+      },
+      "difficulty": 3,
+      "answer": 48,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q12",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 5C3.",
+        "bm": "Nilaikan 5C3."
+      },
+      "explanation": {
+        "en": "5! ÷ (2! 3!).",
+        "bm": "5! ÷ (2! 3!)."
+      },
+      "difficulty": 1,
+      "answer": 10,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q13",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 8C2.",
+        "bm": "Nilaikan 8C2."
+      },
+      "explanation": {
+        "en": "8! ÷ (6! 2!).",
+        "bm": "8! ÷ (6! 2!)."
+      },
+      "difficulty": 1,
+      "answer": 28,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q14",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 10C4.",
+        "bm": "Nilaikan 10C4."
+      },
+      "explanation": {
+        "en": "10! ÷ (6! 4!).",
+        "bm": "10! ÷ (6! 4!)."
+      },
+      "difficulty": 2,
+      "answer": 210,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q15",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Evaluate 7C3.",
+        "bm": "Nilaikan 7C3."
+      },
+      "explanation": {
+        "en": "7! ÷ (4! 3!).",
+        "bm": "7! ÷ (4! 3!)."
+      },
+      "difficulty": 2,
+      "answer": 35,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q16",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "From 6 boys and 4 girls, choose 2 boys and 2 girls. How many ways?",
+        "bm": "Daripada 6 lelaki dan 4 perempuan, pilih 2 lelaki dan 2 perempuan. Berapa cara?"
+      },
+      "explanation": {
+        "en": "⁶C₂ × ⁴C₂.",
+        "bm": "⁶C₂ × ⁴C₂."
+      },
+      "difficulty": 3,
+      "answer": 90,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q17",
+      "subtopicId": "f5addmath-04-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "From 5 boys and 3 girls, choose 3 with at least 1 girl. How many ways?",
+        "bm": "Daripada 5 lelaki dan 3 perempuan, pilih 3 dengan sekurang-kurangnya 1 perempuan. Berapa cara?"
+      },
+      "explanation": {
+        "en": "⁸C₃ − ⁵C₃.",
+        "bm": "⁸C₃ − ⁵C₃."
+      },
+      "difficulty": 3,
+      "answer": 46,
+      "tolerance": 0
+    },
+    {
+      "id": "f5addmath-04-q18",
+      "subtopicId": "f5addmath-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Choosing a committee uses…",
+        "bm": "Memilih jawatankuasa menggunakan…"
+      },
+      "explanation": {
+        "en": "Order does not matter.",
+        "bm": "Susunan tidak penting."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "combination",
+          "bm": "gabungan"
+        },
+        {
+          "en": "permutation",
+          "bm": "pilih atur"
+        },
+        {
+          "en": "integration",
+          "bm": "pengamiran"
+        },
+        {
+          "en": "variance",
+          "bm": "varians"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-04-q19",
+      "subtopicId": "f5addmath-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Assigning gold, silver, bronze uses…",
+        "bm": "Memberi emas, perak, gangsa menggunakan…"
+      },
+      "explanation": {
+        "en": "Order matters.",
+        "bm": "Susunan penting."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "permutation",
+          "bm": "pilih atur"
+        },
+        {
+          "en": "combination",
+          "bm": "gabungan"
+        },
+        {
+          "en": "addition only",
+          "bm": "penambahan sahaja"
+        },
+        {
+          "en": "integration",
+          "bm": "pengamiran"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

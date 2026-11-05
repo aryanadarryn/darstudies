@@ -1,0 +1,416 @@
+{
+  "chapterId": "f5math-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "An accident can cost tens of thousands of ringgit. Insurance spreads that risk among many people who each pay a small premium.",
+      "bm": "Kemalangan boleh menelan puluhan ribu ringgit. Insurans mengagihkan risiko itu kepada ramai orang yang membayar premium kecil."
+    },
+    "bigIdeas": [
+      {
+        "en": "Insurance transfers risk for a premium.",
+        "bm": "Insurans memindahkan risiko dengan bayaran premium."
+      },
+      {
+        "en": "Life and general insurance differ.",
+        "bm": "Insurans hayat dan am berbeza."
+      },
+      {
+        "en": "Deductible and co-insurance affect payouts.",
+        "bm": "Deduktibel dan ko-insurans mempengaruhi bayaran."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Insurance terms",
+          "bm": "Istilah insurans"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Premium",
+              "bm": "Premium"
+            },
+            "detail": {
+              "en": "What you pay",
+              "bm": "Yang anda bayar"
+            }
+          },
+          {
+            "label": {
+              "en": "Policy",
+              "bm": "Polisi"
+            },
+            "detail": {
+              "en": "The contract",
+              "bm": "Kontrak"
+            }
+          },
+          {
+            "label": {
+              "en": "Deductible",
+              "bm": "Deduktibel"
+            },
+            "detail": {
+              "en": "First part you bear",
+              "bm": "Bahagian pertama ditanggung"
+            }
+          },
+          {
+            "label": {
+              "en": "Co-insurance",
+              "bm": "Ko-insurans"
+            },
+            "detail": {
+              "en": "Shared percentage",
+              "bm": "Peratusan dikongsi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Premium",
+          "bm": "Premium"
+        },
+        "definition": {
+          "en": "Regular payment for insurance.",
+          "bm": "Bayaran berkala untuk insurans."
+        }
+      },
+      {
+        "term": {
+          "en": "Policyholder",
+          "bm": "Pemegang polisi"
+        },
+        "definition": {
+          "en": "The person insured under a policy.",
+          "bm": "Orang yang diinsuranskan oleh polisi."
+        }
+      },
+      {
+        "term": {
+          "en": "Deductible",
+          "bm": "Deduktibel"
+        },
+        "definition": {
+          "en": "Amount the policyholder pays first.",
+          "bm": "Jumlah dibayar dahulu oleh pemegang polisi."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-ins-coins"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Medical bill RM10 000, deductible RM2 000, 80/20 co-insurance. Find what the insurer pays.",
+        "bm": "Bil perubatan RM10 000, deduktibel RM2 000, ko-insurans 80/20. Cari bayaran syarikat insurans."
+      },
+      "steps": [
+        {
+          "en": "Remaining: 10 000 − 2 000 = 8 000.",
+          "bm": "Baki: 10 000 − 2 000 = 8 000."
+        },
+        {
+          "en": "Insurer pays 80%: 0.8 × 8 000.",
+          "bm": "Syarikat bayar 80%: 0.8 × 8 000."
+        }
+      ],
+      "answer": {
+        "en": "RM6 400",
+        "bm": "RM6 400"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-03-q01",
+      "subtopicId": "f5math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A premium is…",
+        "bm": "Premium ialah…"
+      },
+      "explanation": {
+        "en": "Paid regularly.",
+        "bm": "Dibayar berkala."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "the payment you make for cover",
+          "bm": "bayaran untuk perlindungan"
+        },
+        {
+          "en": "the claim payout",
+          "bm": "bayaran tuntutan"
+        },
+        {
+          "en": "a kind of tax",
+          "bm": "sejenis cukai"
+        },
+        {
+          "en": "a bank loan",
+          "bm": "pinjaman bank"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-03-q02",
+      "subtopicId": "f5math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is general insurance?",
+        "bm": "Yang manakah insurans am?"
+      },
+      "explanation": {
+        "en": "It covers property and liability.",
+        "bm": "Ia melindungi harta dan liabiliti."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Motor insurance",
+          "bm": "Insurans motor"
+        },
+        {
+          "en": "Whole life",
+          "bm": "Hayat sepanjang hayat"
+        },
+        {
+          "en": "Endowment",
+          "bm": "Endowmen"
+        },
+        {
+          "en": "Term life",
+          "bm": "Hayat bertempoh"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-03-q03",
+      "subtopicId": "f5math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Third-party motor cover pays for…",
+        "bm": "Perlindungan motor pihak ketiga membayar…"
+      },
+      "explanation": {
+        "en": "Comprehensive also covers your own car.",
+        "bm": "Komprehensif turut melindungi kereta sendiri."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "damage to other people",
+          "bm": "kerosakan kepada orang lain"
+        },
+        {
+          "en": "all damage to your own car",
+          "bm": "semua kerosakan kereta sendiri"
+        },
+        {
+          "en": "your fuel",
+          "bm": "bahan api anda"
+        },
+        {
+          "en": "your road tax",
+          "bm": "cukai jalan anda"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-03-q04",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Bill RM10000, deductible RM2000, insurer pays 80% of the rest. Find the insurer's payment.",
+        "bm": "Bil RM10000, deduktibel RM2000, syarikat bayar 80% baki. Cari bayaran syarikat."
+      },
+      "explanation": {
+        "en": "80% × (10000 − 2000).",
+        "bm": "80% × (10000 − 2000)."
+      },
+      "difficulty": 2,
+      "answer": 6400,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q05",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Bill RM20000, deductible RM500, insurer pays 75% of the rest. Find the insurer's payment.",
+        "bm": "Bil RM20000, deduktibel RM500, syarikat bayar 75% baki. Cari bayaran syarikat."
+      },
+      "explanation": {
+        "en": "75% × (20000 − 500).",
+        "bm": "75% × (20000 − 500)."
+      },
+      "difficulty": 2,
+      "answer": 14625,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q06",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Bill RM8000, deductible RM1000, insurer pays 90% of the rest. Find the insurer's payment.",
+        "bm": "Bil RM8000, deduktibel RM1000, syarikat bayar 90% baki. Cari bayaran syarikat."
+      },
+      "explanation": {
+        "en": "90% × (8000 − 1000).",
+        "bm": "90% × (8000 − 1000)."
+      },
+      "difficulty": 2,
+      "answer": 6300,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q07",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Bill RM10 000, deductible RM2 000, 80/20 co-insurance. Find what the policyholder pays altogether.",
+        "bm": "Bil RM10 000, deduktibel RM2 000, ko-insurans 80/20. Cari jumlah bayaran pemegang polisi."
+      },
+      "explanation": {
+        "en": "2 000 + 20% × 8 000.",
+        "bm": "2 000 + 20% × 8 000."
+      },
+      "difficulty": 3,
+      "answer": 3600,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q08",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Premium is RM2.50 per RM1 000 of cover per year. Find the yearly premium for RM200 000.",
+        "bm": "Premium RM2.50 setiap RM1 000 perlindungan setahun. Cari premium setahun bagi RM200 000."
+      },
+      "explanation": {
+        "en": "200 × 2.50.",
+        "bm": "200 × 2.50."
+      },
+      "difficulty": 2,
+      "answer": 500,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q09",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Premium is RM3.20 per RM1 000 of cover per year. Find the monthly premium for RM150 000.",
+        "bm": "Premium RM3.20 setiap RM1 000 setahun. Cari premium sebulan bagi RM150 000."
+      },
+      "explanation": {
+        "en": "150 × 3.20 ÷ 12.",
+        "bm": "150 × 3.20 ÷ 12."
+      },
+      "difficulty": 2,
+      "answer": 40,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q10",
+      "subtopicId": "f5math-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Fire policy: co-insurance requires 80% of a RM500 000 house. Owner insures RM320 000. Loss RM40 000, deductible 0. Find the payout.",
+        "bm": "Polisi kebakaran: ko-insurans 80% rumah RM500 000. Pemilik menginsuranskan RM320 000. Kerugian RM40 000, deduktibel 0. Cari bayaran."
+      },
+      "explanation": {
+        "en": "320 000 ÷ 400 000 × 40 000.",
+        "bm": "320 000 ÷ 400 000 × 40 000."
+      },
+      "difficulty": 3,
+      "answer": 32000,
+      "tolerance": 0,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-03-q11",
+      "subtopicId": "f5math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "What happens if you under-insure a property?",
+        "bm": "Apa berlaku jika harta diinsuranskan kurang?"
+      },
+      "explanation": {
+        "en": "Co-insurance reduces the payout.",
+        "bm": "Ko-insurans mengurangkan bayaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "You bear part of every loss",
+          "bm": "Anda menanggung sebahagian setiap kerugian"
+        },
+        {
+          "en": "You get extra money",
+          "bm": "Anda mendapat wang lebih"
+        },
+        {
+          "en": "The premium doubles",
+          "bm": "Premium berganda"
+        },
+        {
+          "en": "Nothing changes",
+          "bm": "Tiada perubahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-03-q12",
+      "subtopicId": "f5math-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Takaful differs from conventional insurance because it is…",
+        "bm": "Takaful berbeza daripada insurans konvensional kerana ia…"
+      },
+      "explanation": {
+        "en": "Participants contribute to a shared fund.",
+        "bm": "Peserta menyumbang kepada dana bersama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "based on mutual help under Shariah",
+          "bm": "berasaskan bantuan bersama mengikut Syariah"
+        },
+        {
+          "en": "free",
+          "bm": "percuma"
+        },
+        {
+          "en": "government tax",
+          "bm": "cukai kerajaan"
+        },
+        {
+          "en": "only for cars",
+          "bm": "untuk kereta sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

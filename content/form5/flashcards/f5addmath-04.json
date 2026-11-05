@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5addmath-04",
+  "cards": [
+    {
+      "id": "f5addmath-04-f01",
+      "subtopicId": "f5addmath-04-01",
+      "front": {
+        "en": "n!",
+        "bm": "n!"
+      },
+      "back": {
+        "en": "n(n−1)…1; 0! = 1",
+        "bm": "n(n−1)…1; 0! = 1"
+      }
+    },
+    {
+      "id": "f5addmath-04-f02",
+      "subtopicId": "f5addmath-04-01",
+      "front": {
+        "en": "ⁿPᵣ",
+        "bm": "ⁿPᵣ"
+      },
+      "back": {
+        "en": "n!/(n−r)!",
+        "bm": "n!/(n−r)!"
+      }
+    },
+    {
+      "id": "f5addmath-04-f03",
+      "subtopicId": "f5addmath-04-01",
+      "front": {
+        "en": "Repeated letters",
+        "bm": "Huruf berulang"
+      },
+      "back": {
+        "en": "Divide by repeat factorials.",
+        "bm": "Bahagi dengan faktorial ulangan."
+      }
+    },
+    {
+      "id": "f5addmath-04-f04",
+      "subtopicId": "f5addmath-04-02",
+      "front": {
+        "en": "ⁿCᵣ",
+        "bm": "ⁿCᵣ"
+      },
+      "back": {
+        "en": "n!/[(n−r)!r!]",
+        "bm": "n!/[(n−r)!r!]"
+      }
+    },
+    {
+      "id": "f5addmath-04-f05",
+      "subtopicId": "f5addmath-04-02",
+      "front": {
+        "en": "\"At least one\"",
+        "bm": "\"Sekurang-kurangnya satu\""
+      },
+      "back": {
+        "en": "Total minus none.",
+        "bm": "Jumlah tolak tiada."
+      }
+    },
+    {
+      "id": "f5addmath-04-f06",
+      "subtopicId": "f5addmath-04-02",
+      "front": {
+        "en": "Key word",
+        "bm": "Kata kunci"
+      },
+      "back": {
+        "en": "Arrange = P; choose = C.",
+        "bm": "Susun = P; pilih = C."
+      }
+    }
+  ]
+}

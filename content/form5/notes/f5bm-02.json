@@ -1,0 +1,82 @@
+{
+  "chapterId": "f5bm-02",
+  "reviewed": false,
+  "subtopics": {
+    "f5bm-02-01": {
+      "keyPoints": [
+        {
+          "en": "Ayat tunggal ada satu subjek dan satu predikat.",
+          "bm": "Ayat tunggal ada satu subjek dan satu predikat."
+        },
+        {
+          "en": "Ayat majmuk ada lebih daripada satu predikat.",
+          "bm": "Ayat majmuk ada lebih daripada satu predikat."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Frasa",
+            "bm": "Frasa"
+          },
+          "meaning": {
+            "en": "Kumpulan kata.",
+            "bm": "Kumpulan kata."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Pola \"Ibu di dapur\"?",
+          "bm": "Pola \"Ibu di dapur\"?"
+        },
+        "answer": {
+          "en": "FN + FS",
+          "bm": "FN + FS"
+        }
+      },
+      "tip": {
+        "en": "Tentukan predikat dahulu.",
+        "bm": "Tentukan predikat dahulu."
+      }
+    },
+    "f5bm-02-02": {
+      "keyPoints": [
+        {
+          "en": "Pasif menggunakan di- bagi kata ganti ketiga dan kata nama.",
+          "bm": "Pasif menggunakan di- bagi kata ganti ketiga dan kata nama."
+        },
+        {
+          "en": "Kata ganti pertama dan kedua tidak menggunakan di-.",
+          "bm": "Kata ganti pertama dan kedua tidak menggunakan di-."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Objek",
+            "bm": "Objek"
+          },
+          "meaning": {
+            "en": "Penerima tindakan.",
+            "bm": "Penerima tindakan."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Pasif \"Kami membaiki kereta\"?",
+          "bm": "Pasif \"Kami membaiki kereta\"?"
+        },
+        "answer": {
+          "en": "Kereta itu kami baiki.",
+          "bm": "Kereta itu kami baiki."
+        }
+      },
+      "tip": {
+        "en": "Perhatikan kata ganti nama.",
+        "bm": "Perhatikan kata ganti nama."
+      }
+    }
+  }
+}

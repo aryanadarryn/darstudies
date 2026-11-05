@@ -1,0 +1,523 @@
+{
+  "chapterId": "f5math-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Sound waves, tides and alternating current all follow sine curves. Trigonometry reaches far beyond triangles.",
+      "bm": "Gelombang bunyi, pasang surut dan arus ulang-alik mengikut lengkung sinus. Trigonometri jauh melangkaui segi tiga."
+    },
+    "bigIdeas": [
+      {
+        "en": "Use reference angles for any quadrant.",
+        "bm": "Gunakan sudut rujukan bagi mana-mana sukuan."
+      },
+      {
+        "en": "ASTC gives the signs.",
+        "bm": "ASTC memberi tanda."
+      },
+      {
+        "en": "Amplitude and period describe the graphs.",
+        "bm": "Amplitud dan kala menghuraikan graf."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Positive",
+            "bm": "Positif"
+          },
+          {
+            "en": "Reference angle",
+            "bm": "Sudut rujukan"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "I (0–90°)",
+              "bm": "I (0–90°)"
+            },
+            "cells": [
+              {
+                "en": "all",
+                "bm": "semua"
+              },
+              {
+                "en": "θ",
+                "bm": "θ"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "II (90–180°)",
+              "bm": "II (90–180°)"
+            },
+            "cells": [
+              {
+                "en": "sin",
+                "bm": "sin"
+              },
+              {
+                "en": "180° − θ",
+                "bm": "180° − θ"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "III (180–270°)",
+              "bm": "III (180–270°)"
+            },
+            "cells": [
+              {
+                "en": "tan",
+                "bm": "tan"
+              },
+              {
+                "en": "θ − 180°",
+                "bm": "θ − 180°"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "IV (270–360°)",
+              "bm": "IV (270–360°)"
+            },
+            "cells": [
+              {
+                "en": "cos",
+                "bm": "cos"
+              },
+              {
+                "en": "360° − θ",
+                "bm": "360° − θ"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Reference angle",
+          "bm": "Sudut rujukan"
+        },
+        "definition": {
+          "en": "Acute angle with the x-axis.",
+          "bm": "Sudut tirus dengan paksi-x."
+        }
+      },
+      {
+        "term": {
+          "en": "Amplitude",
+          "bm": "Amplitud"
+        },
+        "definition": {
+          "en": "Greatest height above the mid-line.",
+          "bm": "Ketinggian maksimum dari garis tengah."
+        }
+      },
+      {
+        "term": {
+          "en": "Period",
+          "bm": "Kala"
+        },
+        "definition": {
+          "en": "Length of one full cycle.",
+          "bm": "Panjang satu kitaran penuh."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-trig-graph"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find sin 210°.",
+        "bm": "Cari sin 210°."
+      },
+      "steps": [
+        {
+          "en": "Quadrant III: sine is negative.",
+          "bm": "Sukuan III: sinus negatif."
+        },
+        {
+          "en": "Reference angle 30°.",
+          "bm": "Sudut rujukan 30°."
+        }
+      ],
+      "answer": {
+        "en": "−0.5",
+        "bm": "−0.5"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-06-q01",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find sin 210°.",
+        "bm": "Cari sin 210°."
+      },
+      "explanation": {
+        "en": "Use the reference angle and quadrant sign.",
+        "bm": "Gunakan sudut rujukan dan tanda sukuan."
+      },
+      "difficulty": 1,
+      "answer": -0.5,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-06-q02",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find cos 120°.",
+        "bm": "Cari cos 120°."
+      },
+      "explanation": {
+        "en": "Use the reference angle and quadrant sign.",
+        "bm": "Gunakan sudut rujukan dan tanda sukuan."
+      },
+      "difficulty": 1,
+      "answer": -0.5,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-06-q03",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find tan 225°.",
+        "bm": "Cari tan 225°."
+      },
+      "explanation": {
+        "en": "Use the reference angle and quadrant sign.",
+        "bm": "Gunakan sudut rujukan dan tanda sukuan."
+      },
+      "difficulty": 2,
+      "answer": 1,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-06-q04",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find sin 330°.",
+        "bm": "Cari sin 330°."
+      },
+      "explanation": {
+        "en": "Use the reference angle and quadrant sign.",
+        "bm": "Gunakan sudut rujukan dan tanda sukuan."
+      },
+      "difficulty": 2,
+      "answer": -0.5,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-06-q05",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find cos 300°.",
+        "bm": "Cari cos 300°."
+      },
+      "explanation": {
+        "en": "Use the reference angle and quadrant sign.",
+        "bm": "Gunakan sudut rujukan dan tanda sukuan."
+      },
+      "difficulty": 2,
+      "answer": 0.5,
+      "tolerance": 0.005
+    },
+    {
+      "id": "f5math-06-q06",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the reference angle of 150°.",
+        "bm": "Cari sudut rujukan bagi 150°."
+      },
+      "explanation": {
+        "en": "Measure to the x-axis.",
+        "bm": "Ukur ke paksi-x."
+      },
+      "difficulty": 1,
+      "answer": 30,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f5math-06-q07",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the reference angle of 200°.",
+        "bm": "Cari sudut rujukan bagi 200°."
+      },
+      "explanation": {
+        "en": "Measure to the x-axis.",
+        "bm": "Ukur ke paksi-x."
+      },
+      "difficulty": 1,
+      "answer": 20,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f5math-06-q08",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the reference angle of 310°.",
+        "bm": "Cari sudut rujukan bagi 310°."
+      },
+      "explanation": {
+        "en": "Measure to the x-axis.",
+        "bm": "Ukur ke paksi-x."
+      },
+      "difficulty": 1,
+      "answer": 50,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f5math-06-q09",
+      "subtopicId": "f5math-06-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Find the reference angle of 95°.",
+        "bm": "Cari sudut rujukan bagi 95°."
+      },
+      "explanation": {
+        "en": "Measure to the x-axis.",
+        "bm": "Ukur ke paksi-x."
+      },
+      "difficulty": 1,
+      "answer": 85,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f5math-06-q10",
+      "subtopicId": "f5math-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In which quadrant are sin and tan both negative?",
+        "bm": "Dalam sukuan manakah sin dan tan kedua-duanya negatif?"
+      },
+      "explanation": {
+        "en": "Only cos is positive in IV.",
+        "bm": "Hanya kos positif di IV."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "IV",
+          "bm": "IV"
+        },
+        {
+          "en": "I",
+          "bm": "I"
+        },
+        {
+          "en": "II",
+          "bm": "II"
+        },
+        {
+          "en": "III",
+          "bm": "III"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-06-q11",
+      "subtopicId": "f5math-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "sin θ = 0.5 and 90° < θ < 180°. θ is…",
+        "bm": "sin θ = 0.5 dan 90° < θ < 180°. θ ialah…"
+      },
+      "explanation": {
+        "en": "180° − 30°.",
+        "bm": "180° − 30°."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "150°",
+          "bm": "150°"
+        },
+        {
+          "en": "30°",
+          "bm": "30°"
+        },
+        {
+          "en": "210°",
+          "bm": "210°"
+        },
+        {
+          "en": "330°",
+          "bm": "330°"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-06-q12",
+      "subtopicId": "f5math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the maximum value of y = sin x?",
+        "bm": "Apakah nilai maksimum y = sin x?"
+      },
+      "explanation": {
+        "en": "The sine ranges from −1 to 1.",
+        "bm": "Sinus berjulat −1 hingga 1."
+      },
+      "difficulty": 1,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-06-q13",
+      "subtopicId": "f5math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the amplitude of y = 3 sin x?",
+        "bm": "Apakah amplitud y = 3 sin x?"
+      },
+      "explanation": {
+        "en": "The coefficient of sin.",
+        "bm": "Pekali sin."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-06-q14",
+      "subtopicId": "f5math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the period of y = sin 2x, in degrees?",
+        "bm": "Apakah kala y = sin 2x, dalam darjah?"
+      },
+      "explanation": {
+        "en": "360° ÷ 2.",
+        "bm": "360° ÷ 2."
+      },
+      "difficulty": 2,
+      "answer": 180,
+      "tolerance": 0,
+      "unit": "°"
+    },
+    {
+      "id": "f5math-06-q15",
+      "subtopicId": "f5math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the maximum of y = 2 cos x + 1?",
+        "bm": "Apakah maksimum y = 2 kos x + 1?"
+      },
+      "explanation": {
+        "en": "2(1) + 1.",
+        "bm": "2(1) + 1."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-06-q16",
+      "subtopicId": "f5math-06-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "What is the minimum of y = 2 sin 3x − 1?",
+        "bm": "Apakah minimum y = 2 sin 3x − 1?"
+      },
+      "explanation": {
+        "en": "2(−1) − 1.",
+        "bm": "2(−1) − 1."
+      },
+      "difficulty": 3,
+      "answer": -3,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-06-q17",
+      "subtopicId": "f5math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The graph of y = tan x is undefined at…",
+        "bm": "Graf y = tan x tidak tertakrif pada…"
+      },
+      "explanation": {
+        "en": "Asymptotes lie there.",
+        "bm": "Asimptot terletak di situ."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "90° and 270°",
+          "bm": "90° and 270°"
+        },
+        {
+          "en": "0° and 180°",
+          "bm": "0° and 180°"
+        },
+        {
+          "en": "45° and 225°",
+          "bm": "45° and 225°"
+        },
+        {
+          "en": "every point",
+          "bm": "setiap titik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-06-q18",
+      "subtopicId": "f5math-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Compared with y = sin x, y = sin x + 2 is…",
+        "bm": "Berbanding y = sin x, y = sin x + 2 ialah…"
+      },
+      "explanation": {
+        "en": "The constant shifts it vertically.",
+        "bm": "Pemalar mengalih menegak."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "moved up 2 units",
+          "bm": "dialih ke atas 2 unit"
+        },
+        {
+          "en": "twice as tall",
+          "bm": "dua kali lebih tinggi"
+        },
+        {
+          "en": "moved right 2°",
+          "bm": "dialih ke kanan 2°"
+        },
+        {
+          "en": "reflected",
+          "bm": "dipantulkan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

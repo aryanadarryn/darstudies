@@ -1,0 +1,499 @@
+{
+  "chapterId": "f5phy-03",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Why does a car headlight dim when the starter runs? The battery's internal resistance takes part of the voltage.",
+      "bm": "Mengapa lampu kereta malap semasa enjin dihidupkan? Rintangan dalam bateri mengambil sebahagian voltan."
+    },
+    "bigIdeas": [
+      {
+        "en": "I = Q/t and V = W/Q.",
+        "bm": "I = Q/t dan V = W/Q."
+      },
+      {
+        "en": "Resistance depends on length, area, material and temperature.",
+        "bm": "Rintangan bergantung pada panjang, luas, bahan dan suhu."
+      },
+      {
+        "en": "E = V + Ir.",
+        "bm": "E = V + Ir."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Formula",
+            "bm": "Rumus"
+          },
+          {
+            "en": "Unit",
+            "bm": "Unit"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Current",
+              "bm": "Arus"
+            },
+            "cells": [
+              {
+                "en": "I = Q/t",
+                "bm": "I = Q/t"
+              },
+              {
+                "en": "A",
+                "bm": "A"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Potential difference",
+              "bm": "Beza keupayaan"
+            },
+            "cells": [
+              {
+                "en": "V = W/Q",
+                "bm": "V = W/Q"
+              },
+              {
+                "en": "V",
+                "bm": "V"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Resistance",
+              "bm": "Rintangan"
+            },
+            "cells": [
+              {
+                "en": "R = ρl/A",
+                "bm": "R = ρl/A"
+              },
+              {
+                "en": "Ω",
+                "bm": "Ω"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Power",
+              "bm": "Kuasa"
+            },
+            "cells": [
+              {
+                "en": "P = VI",
+                "bm": "P = VI"
+              },
+              {
+                "en": "W",
+                "bm": "W"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "E.m.f.",
+          "bm": "D.g.e."
+        },
+        "definition": {
+          "en": "Energy per coulomb supplied by a source.",
+          "bm": "Tenaga per coulomb yang dibekalkan sumber."
+        }
+      },
+      {
+        "term": {
+          "en": "Internal resistance",
+          "bm": "Rintangan dalam"
+        },
+        "definition": {
+          "en": "Resistance inside the cell.",
+          "bm": "Rintangan di dalam sel."
+        }
+      },
+      {
+        "term": {
+          "en": "Ohmic conductor",
+          "bm": "Konduktor Ohm"
+        },
+        "definition": {
+          "en": "One that obeys Ohm's law.",
+          "bm": "Konduktor yang mematuhi hukum Ohm."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-ohm",
+      "f5-py-emf",
+      "f5-py-power",
+      "f5-py-rho"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-03-q01",
+      "subtopicId": "f5phy-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "6 C passes in 3 s. Find the current.",
+        "bm": "6 C mengalir dalam 3 s. Cari arus."
+      },
+      "explanation": {
+        "en": "6 ÷ 3.",
+        "bm": "6 ÷ 3."
+      },
+      "difficulty": 1,
+      "answer": 2,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f5phy-03-q02",
+      "subtopicId": "f5phy-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "12 J moves 3 C. Find the potential difference.",
+        "bm": "12 J menggerakkan 3 C. Cari beza keupayaan."
+      },
+      "explanation": {
+        "en": "12 ÷ 3.",
+        "bm": "12 ÷ 3."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5phy-03-q03",
+      "subtopicId": "f5phy-03-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A current of 2 A flows for 1 minute. Find the charge.",
+        "bm": "Arus 2 A mengalir selama 1 minit. Cari cas."
+      },
+      "explanation": {
+        "en": "2 × 60.",
+        "bm": "2 × 60."
+      },
+      "difficulty": 2,
+      "answer": 120,
+      "tolerance": 0.01,
+      "unit": "C"
+    },
+    {
+      "id": "f5phy-03-q04",
+      "subtopicId": "f5phy-03-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Current is the rate of flow of…",
+        "bm": "Arus ialah kadar aliran…"
+      },
+      "explanation": {
+        "en": "I = Q/t.",
+        "bm": "I = Q/t."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "charge",
+          "bm": "cas"
+        },
+        {
+          "en": "voltage",
+          "bm": "voltan"
+        },
+        {
+          "en": "energy only",
+          "bm": "tenaga sahaja"
+        },
+        {
+          "en": "resistance",
+          "bm": "rintangan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-03-q05",
+      "subtopicId": "f5phy-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "V = 12 V and I = 3 A. Find R.",
+        "bm": "V = 12 V dan I = 3 A. Cari R."
+      },
+      "explanation": {
+        "en": "12 ÷ 3.",
+        "bm": "12 ÷ 3."
+      },
+      "difficulty": 1,
+      "answer": 4,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f5phy-03-q06",
+      "subtopicId": "f5phy-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A wire is doubled in length. If it was 5 Ω, find the new resistance.",
+        "bm": "Panjang dawai digandakan. Jika asalnya 5 Ω, cari rintangan baharu."
+      },
+      "explanation": {
+        "en": "R ∝ l.",
+        "bm": "R ∝ l."
+      },
+      "difficulty": 2,
+      "answer": 10,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f5phy-03-q07",
+      "subtopicId": "f5phy-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Cross-section area of a 10 Ω wire doubles. Find the new resistance.",
+        "bm": "Luas keratan rentas dawai 10 Ω berganda. Cari rintangan baharu."
+      },
+      "explanation": {
+        "en": "R ∝ 1/A.",
+        "bm": "R ∝ 1/A."
+      },
+      "difficulty": 3,
+      "answer": 5,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f5phy-03-q08",
+      "subtopicId": "f5phy-03-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "2 Ω and 3 Ω in series connect in parallel with 5 Ω. Find the total resistance.",
+        "bm": "2 Ω dan 3 Ω bersiri disambung selari dengan 5 Ω. Cari jumlah rintangan."
+      },
+      "explanation": {
+        "en": "5 ∥ 5.",
+        "bm": "5 ∥ 5."
+      },
+      "difficulty": 3,
+      "answer": 2.5,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f5phy-03-q09",
+      "subtopicId": "f5phy-03-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A filament lamp's resistance as it heats…",
+        "bm": "Rintangan filamen lampu apabila panas…"
+      },
+      "explanation": {
+        "en": "V–I graph curves.",
+        "bm": "Graf V–I melengkung."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "increases",
+          "bm": "bertambah"
+        },
+        {
+          "en": "decreases",
+          "bm": "berkurang"
+        },
+        {
+          "en": "stays fixed",
+          "bm": "kekal"
+        },
+        {
+          "en": "becomes zero",
+          "bm": "menjadi sifar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-03-q10",
+      "subtopicId": "f5phy-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "E = 12 V, I = 2 A, r = 0.5 Ω. Find the terminal voltage.",
+        "bm": "E = 12 V, I = 2 A, r = 0.5 Ω. Cari voltan terminal."
+      },
+      "explanation": {
+        "en": "12 − 2(0.5).",
+        "bm": "12 − 2(0.5)."
+      },
+      "difficulty": 2,
+      "answer": 11,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5phy-03-q11",
+      "subtopicId": "f5phy-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "E = 6 V, R = 5 Ω, r = 1 Ω. Find I.",
+        "bm": "E = 6 V, R = 5 Ω, r = 1 Ω. Cari I."
+      },
+      "explanation": {
+        "en": "6 ÷ (5 + 1).",
+        "bm": "6 ÷ (5 + 1)."
+      },
+      "difficulty": 2,
+      "answer": 1,
+      "tolerance": 0.01,
+      "unit": "A"
+    },
+    {
+      "id": "f5phy-03-q12",
+      "subtopicId": "f5phy-03-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "On a V–I graph for a cell, the intercept is 9 V and the gradient is −2 Ω. Find r.",
+        "bm": "Pada graf V–I sel, pintasan 9 V dan kecerunan −2 Ω. Cari r."
+      },
+      "explanation": {
+        "en": "r = −gradient.",
+        "bm": "r = −kecerunan."
+      },
+      "difficulty": 3,
+      "answer": 2,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    },
+    {
+      "id": "f5phy-03-q13",
+      "subtopicId": "f5phy-03-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "E.m.f. is measured when…",
+        "bm": "D.g.e. diukur apabila…"
+      },
+      "explanation": {
+        "en": "V = E when I = 0.",
+        "bm": "V = E apabila I = 0."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "no current flows",
+          "bm": "tiada arus mengalir"
+        },
+        {
+          "en": "current is maximum",
+          "bm": "arus maksimum"
+        },
+        {
+          "en": "the cell is removed",
+          "bm": "sel dikeluarkan"
+        },
+        {
+          "en": "resistance is zero",
+          "bm": "rintangan sifar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-03-q14",
+      "subtopicId": "f5phy-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "V = 240 V and I = 5 A. Find the power.",
+        "bm": "V = 240 V dan I = 5 A. Cari kuasa."
+      },
+      "explanation": {
+        "en": "240 × 5.",
+        "bm": "240 × 5."
+      },
+      "difficulty": 1,
+      "answer": 1200,
+      "tolerance": 0.01,
+      "unit": "W"
+    },
+    {
+      "id": "f5phy-03-q15",
+      "subtopicId": "f5phy-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 2000 W kettle runs for 5 minutes. Find the energy.",
+        "bm": "Cerek 2000 W beroperasi 5 minit. Cari tenaga."
+      },
+      "explanation": {
+        "en": "2000 × 300.",
+        "bm": "2000 × 300."
+      },
+      "difficulty": 2,
+      "answer": 600000,
+      "tolerance": 0.01,
+      "unit": "J"
+    },
+    {
+      "id": "f5phy-03-q16",
+      "subtopicId": "f5phy-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 1.5 kW heater runs for 4 hours. Find the kWh.",
+        "bm": "Pemanas 1.5 kW beroperasi 4 jam. Cari kWj."
+      },
+      "explanation": {
+        "en": "1.5 × 4.",
+        "bm": "1.5 × 4."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0.01,
+      "unit": "kWh"
+    },
+    {
+      "id": "f5phy-03-q17",
+      "subtopicId": "f5phy-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "For 6 kWh at RM0.218 per kWh, find the cost.",
+        "bm": "Bagi 6 kWj pada RM0.218 per kWj, cari kos."
+      },
+      "explanation": {
+        "en": "6 × 0.218.",
+        "bm": "6 × 0.218."
+      },
+      "difficulty": 3,
+      "answer": 1.308,
+      "tolerance": 0.01,
+      "unit": "RM"
+    },
+    {
+      "id": "f5phy-03-q18",
+      "subtopicId": "f5phy-03-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "A 60 W, 240 V lamp: find its resistance.",
+        "bm": "Lampu 60 W, 240 V: cari rintangannya."
+      },
+      "explanation": {
+        "en": "V²/P.",
+        "bm": "V²/P."
+      },
+      "difficulty": 3,
+      "answer": 960,
+      "tolerance": 0.01,
+      "unit": "Ω"
+    }
+  ]
+}

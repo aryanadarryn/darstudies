@@ -1,0 +1,339 @@
+{
+  "chapterId": "f5bio-09",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A quadrat lets you estimate a whole forest's population by counting only small squares.",
+      "bm": "Kuadrat membolehkan anda menganggar populasi seluruh hutan dengan mengira petak kecil sahaja."
+    },
+    "bigIdeas": [
+      {
+        "en": "Ecosystems combine biotic and abiotic components.",
+        "bm": "Ekosistem menggabungkan komponen biosis dan abiosis."
+      },
+      {
+        "en": "Energy flows through trophic levels.",
+        "bm": "Tenaga mengalir melalui aras trofik."
+      },
+      {
+        "en": "Populations are estimated with quadrats and capture-recapture.",
+        "bm": "Populasi dianggar dengan kuadrat dan tangkap-tanda-lepas."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "For",
+            "bm": "Untuk"
+          },
+          {
+            "en": "Formula",
+            "bm": "Rumus"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Quadrat",
+              "bm": "Kuadrat"
+            },
+            "cells": [
+              {
+                "en": "plants, slow animals",
+                "bm": "tumbuhan, haiwan perlahan"
+              },
+              {
+                "en": "density = total ÷ area",
+                "bm": "ketumpatan = jumlah ÷ luas"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Capture-mark-recapture",
+              "bm": "Tangkap-tanda-lepas"
+            },
+            "cells": [
+              {
+                "en": "moving animals",
+                "bm": "haiwan bergerak"
+              },
+              {
+                "en": "N = (M × C) ÷ R",
+                "bm": "N = (M × C) ÷ R"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Biotic",
+          "bm": "Biosis"
+        },
+        "definition": {
+          "en": "Living components.",
+          "bm": "Komponen hidup."
+        }
+      },
+      {
+        "term": {
+          "en": "Abiotic",
+          "bm": "Abiosis"
+        },
+        "definition": {
+          "en": "Non-living factors.",
+          "bm": "Faktor bukan hidup."
+        }
+      },
+      {
+        "term": {
+          "en": "Trophic level",
+          "bm": "Aras trofik"
+        },
+        "definition": {
+          "en": "Feeding position in a chain.",
+          "bm": "Kedudukan pemakanan dalam rantai."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-09-q01",
+      "subtopicId": "f5bio-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is abiotic?",
+        "bm": "Yang manakah abiosis?"
+      },
+      "explanation": {
+        "en": "Non-living factor.",
+        "bm": "Faktor bukan hidup."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Temperature",
+          "bm": "Suhu"
+        },
+        {
+          "en": "Bacteria",
+          "bm": "Bakteria"
+        },
+        {
+          "en": "Fish",
+          "bm": "Ikan"
+        },
+        {
+          "en": "Trees",
+          "bm": "Pokok"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-09-q02",
+      "subtopicId": "f5bio-09-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Decomposers…",
+        "bm": "Pengurai…"
+      },
+      "explanation": {
+        "en": "Bacteria and fungi.",
+        "bm": "Bakteria dan fungi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "recycle nutrients",
+          "bm": "mengitar nutrien"
+        },
+        {
+          "en": "make food from light",
+          "bm": "membuat makanan daripada cahaya"
+        },
+        {
+          "en": "eat only live animals",
+          "bm": "makan haiwan hidup sahaja"
+        },
+        {
+          "en": "produce oxygen only",
+          "bm": "menghasilkan oksigen sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-09-q03",
+      "subtopicId": "f5bio-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Only about …% of energy passes to the next trophic level.",
+        "bm": "Hanya kira-kira …% tenaga berpindah ke aras trofik seterusnya."
+      },
+      "explanation": {
+        "en": "The rest is lost as heat and waste.",
+        "bm": "Selebihnya hilang sebagai haba dan bahan buangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "10",
+          "bm": "10"
+        },
+        {
+          "en": "50",
+          "bm": "50"
+        },
+        {
+          "en": "75",
+          "bm": "75"
+        },
+        {
+          "en": "100",
+          "bm": "100"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-09-q04",
+      "subtopicId": "f5bio-09-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rhizobium in legume nodules shows…",
+        "bm": "Rhizobium dalam nodul kekacang menunjukkan…"
+      },
+      "explanation": {
+        "en": "They fix nitrogen and get food.",
+        "bm": "Ia mengikat nitrogen dan mendapat makanan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "mutualism",
+          "bm": "mutualisme"
+        },
+        {
+          "en": "parasitism",
+          "bm": "parasitisme"
+        },
+        {
+          "en": "predation",
+          "bm": "pemangsaan"
+        },
+        {
+          "en": "competition",
+          "bm": "persaingan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-09-q05",
+      "subtopicId": "f5bio-09-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "A quadrat of 1 m² is used 10 times and 30 plants are found in total. Find the density per m².",
+        "bm": "Kuadrat 1 m² digunakan 10 kali dan 30 pokok dijumpai. Cari ketumpatan per m²."
+      },
+      "explanation": {
+        "en": "30 ÷ 10.",
+        "bm": "30 ÷ 10."
+      },
+      "difficulty": 3,
+      "answer": 3,
+      "tolerance": 0.01,
+      "unit": "/m²"
+    },
+    {
+      "id": "f5bio-09-q06",
+      "subtopicId": "f5bio-09-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Marked 40; recaptured 50; marked in recapture 10. Estimate the population.",
+        "bm": "Ditanda 40; ditangkap semula 50; bertanda 10. Anggarkan populasi."
+      },
+      "explanation": {
+        "en": "40 × 50 ÷ 10.",
+        "bm": "40 × 50 ÷ 10."
+      },
+      "difficulty": 2,
+      "answer": 200,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5bio-09-q07",
+      "subtopicId": "f5bio-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Biological control uses…",
+        "bm": "Kawalan biologi menggunakan…"
+      },
+      "explanation": {
+        "en": "Owls for rats.",
+        "bm": "Burung pungguk untuk tikus."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "natural predators",
+          "bm": "pemangsa semula jadi"
+        },
+        {
+          "en": "strong poison",
+          "bm": "racun kuat"
+        },
+        {
+          "en": "plastic",
+          "bm": "plastik"
+        },
+        {
+          "en": "salt",
+          "bm": "garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-09-q08",
+      "subtopicId": "f5bio-09-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "If an ecosystem loses its top predator, herbivores may…",
+        "bm": "Jika ekosistem kehilangan pemangsa puncak, herbivor mungkin…"
+      },
+      "explanation": {
+        "en": "Balance is upset.",
+        "bm": "Keseimbangan terganggu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "increase and over-graze",
+          "bm": "bertambah dan meragut berlebihan"
+        },
+        {
+          "en": "vanish at once",
+          "bm": "hilang serta-merta"
+        },
+        {
+          "en": "become plants",
+          "bm": "menjadi tumbuhan"
+        },
+        {
+          "en": "stop eating",
+          "bm": "berhenti makan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

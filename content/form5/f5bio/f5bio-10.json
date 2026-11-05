@@ -1,0 +1,370 @@
+{
+  "chapterId": "f5bio-10",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Too many nutrients in a lake can kill its fish. That process, eutrophication, starts with fertiliser runoff.",
+      "bm": "Terlalu banyak nutrien dalam tasik boleh membunuh ikan. Proses ini, eutrofikasi, bermula dengan larian baja."
+    },
+    "bigIdeas": [
+      {
+        "en": "Pollution, deforestation and climate change threaten the environment.",
+        "bm": "Pencemaran, penebangan hutan dan perubahan iklim mengancam alam sekitar."
+      },
+      {
+        "en": "BOD indicates water quality.",
+        "bm": "BOD menunjukkan kualiti air."
+      },
+      {
+        "en": "Individuals and communities can act.",
+        "bm": "Individu dan komuniti boleh bertindak."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Fertiliser runoff",
+              "bm": "Larian baja"
+            },
+            "detail": {
+              "en": "Adds nutrients",
+              "bm": "Menambah nutrien"
+            }
+          },
+          {
+            "title": {
+              "en": "Algal bloom",
+              "bm": "Ledakan alga"
+            },
+            "detail": {
+              "en": "Blocks light",
+              "bm": "Menghalang cahaya"
+            }
+          },
+          {
+            "title": {
+              "en": "Plants die",
+              "bm": "Tumbuhan mati"
+            },
+            "detail": {
+              "en": "Decomposers multiply",
+              "bm": "Pengurai membiak"
+            }
+          },
+          {
+            "title": {
+              "en": "Oxygen falls",
+              "bm": "Oksigen turun"
+            },
+            "detail": {
+              "en": "Fish die",
+              "bm": "Ikan mati"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Eutrophication",
+          "bm": "Eutrofikasi"
+        },
+        "definition": {
+          "en": "Nutrient enrichment of water.",
+          "bm": "Pengayaan nutrien dalam air."
+        }
+      },
+      {
+        "term": {
+          "en": "BOD",
+          "bm": "BOD"
+        },
+        "definition": {
+          "en": "Oxygen used by microbes in water.",
+          "bm": "Oksigen digunakan mikrob dalam air."
+        }
+      },
+      {
+        "term": {
+          "en": "Carbon footprint",
+          "bm": "Jejak karbon"
+        },
+        "definition": {
+          "en": "Total greenhouse gases from an activity.",
+          "bm": "Jumlah gas rumah hijau daripada aktiviti."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-10-q01",
+      "subtopicId": "f5bio-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "High BOD means water is…",
+        "bm": "BOD tinggi bermaksud air…"
+      },
+      "explanation": {
+        "en": "Many microbes use oxygen.",
+        "bm": "Banyak mikrob menggunakan oksigen."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "more polluted",
+          "bm": "lebih tercemar"
+        },
+        {
+          "en": "cleaner",
+          "bm": "lebih bersih"
+        },
+        {
+          "en": "saltier",
+          "bm": "lebih masin"
+        },
+        {
+          "en": "colder",
+          "bm": "lebih sejuk"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q02",
+      "subtopicId": "f5bio-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which gas mainly causes acid rain?",
+        "bm": "Gas manakah terutamanya menyebabkan hujan asid?"
+      },
+      "explanation": {
+        "en": "Also nitrogen oxides.",
+        "bm": "Juga nitrogen oksida."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Sulphur dioxide",
+          "bm": "Sulfur dioksida"
+        },
+        {
+          "en": "Oxygen",
+          "bm": "Oksigen"
+        },
+        {
+          "en": "Helium",
+          "bm": "Helium"
+        },
+        {
+          "en": "Argon",
+          "bm": "Argon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q03",
+      "subtopicId": "f5bio-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Open burning causes…",
+        "bm": "Pembakaran terbuka menyebabkan…"
+      },
+      "explanation": {
+        "en": "Particles harm the lungs.",
+        "bm": "Zarah memudaratkan paru-paru."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "haze",
+          "bm": "jerebu"
+        },
+        {
+          "en": "cleaner air",
+          "bm": "udara lebih bersih"
+        },
+        {
+          "en": "more rain only",
+          "bm": "lebih hujan sahaja"
+        },
+        {
+          "en": "fewer particles",
+          "bm": "kurang zarah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q04",
+      "subtopicId": "f5bio-10-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In eutrophication, fish die because…",
+        "bm": "Dalam eutrofikasi, ikan mati kerana…"
+      },
+      "explanation": {
+        "en": "BOD rises.",
+        "bm": "BOD naik."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "decomposers use up oxygen",
+          "bm": "pengurai menghabiskan oksigen"
+        },
+        {
+          "en": "water gets colder",
+          "bm": "air lebih sejuk"
+        },
+        {
+          "en": "fertiliser is poison only",
+          "bm": "baja racun sahaja"
+        },
+        {
+          "en": "algae eat fish",
+          "bm": "alga makan ikan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q05",
+      "subtopicId": "f5bio-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Environmental Quality Act 1974 is…",
+        "bm": "Akta Kualiti Alam Sekeliling 1974 ialah…"
+      },
+      "explanation": {
+        "en": "It controls pollution.",
+        "bm": "Ia mengawal pencemaran."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a Malaysian environmental law",
+          "bm": "undang-undang alam sekitar Malaysia"
+        },
+        {
+          "en": "a tax on food",
+          "bm": "cukai makanan"
+        },
+        {
+          "en": "a sports law",
+          "bm": "undang-undang sukan"
+        },
+        {
+          "en": "a medical law",
+          "bm": "undang-undang perubatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q06",
+      "subtopicId": "f5bio-10-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which international agreement deals with climate change?",
+        "bm": "Perjanjian antarabangsa manakah berkaitan perubahan iklim?"
+      },
+      "explanation": {
+        "en": "Countries set targets.",
+        "bm": "Negara menetapkan sasaran."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Paris Agreement",
+          "bm": "Perjanjian Paris"
+        },
+        {
+          "en": "Melaka Treaty",
+          "bm": "Perjanjian Melaka"
+        },
+        {
+          "en": "Geneva Convention",
+          "bm": "Konvensyen Geneva"
+        },
+        {
+          "en": "Treaty of Pangkor",
+          "bm": "Perjanjian Pangkor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q07",
+      "subtopicId": "f5bio-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an individual action?",
+        "bm": "Yang manakah tindakan individu?"
+      },
+      "explanation": {
+        "en": "Small actions add up.",
+        "bm": "Tindakan kecil terkumpul."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Reduce, reuse, recycle",
+          "bm": "Kurangkan, guna semula, kitar semula"
+        },
+        {
+          "en": "Burning plastics",
+          "bm": "Membakar plastik"
+        },
+        {
+          "en": "Wasting water",
+          "bm": "Membazir air"
+        },
+        {
+          "en": "Littering",
+          "bm": "Membuang sampah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-10-q08",
+      "subtopicId": "f5bio-10-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A community can help by…",
+        "bm": "Komuniti boleh membantu dengan…"
+      },
+      "explanation": {
+        "en": "Shared efforts work.",
+        "bm": "Usaha bersama berkesan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "river clean-up and tree planting",
+          "bm": "pembersihan sungai dan penanaman pokok"
+        },
+        {
+          "en": "illegal dumping",
+          "bm": "pembuangan haram"
+        },
+        {
+          "en": "clearing mangroves",
+          "bm": "membersihkan bakau"
+        },
+        {
+          "en": "hunting wildlife",
+          "bm": "memburu hidupan liar"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "chapterId": "f5pi-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Islam gives rules for business and family life too, not only for worship.",
+      "bm": "Islam memberi panduan untuk perniagaan dan kekeluargaan, bukan hanya ibadah."
+    },
+    "bigIdeas": [
+      {
+        "en": "Trade is lawful; riba is forbidden.",
+        "bm": "Jual beli halal; riba haram."
+      },
+      {
+        "en": "Marriage has five pillars.",
+        "bm": "Perkahwinan ada lima rukun."
+      },
+      {
+        "en": "Faraid shares inheritance by set rules.",
+        "bm": "Faraid membahagi pusaka mengikut ketetapan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Pillar of marriage",
+          "bm": "Rukun nikah"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Groom",
+              "bm": "Pengantin lelaki"
+            },
+            "detail": {
+              "en": "eligible",
+              "bm": "layak"
+            }
+          },
+          {
+            "label": {
+              "en": "Bride",
+              "bm": "Pengantin perempuan"
+            },
+            "detail": {
+              "en": "eligible",
+              "bm": "layak"
+            }
+          },
+          {
+            "label": {
+              "en": "Wali",
+              "bm": "Wali"
+            },
+            "detail": {
+              "en": "bride's guardian",
+              "bm": "penjaga pengantin perempuan"
+            }
+          },
+          {
+            "label": {
+              "en": "Two witnesses",
+              "bm": "Dua saksi"
+            },
+            "detail": {
+              "en": "just Muslim men",
+              "bm": "lelaki Muslim yang adil"
+            }
+          },
+          {
+            "label": {
+              "en": "Ijab and qabul",
+              "bm": "Ijab dan kabul"
+            },
+            "detail": {
+              "en": "offer and acceptance",
+              "bm": "tawaran dan penerimaan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Riba",
+          "bm": "Riba"
+        },
+        "definition": {
+          "en": "Unlawful interest or gain.",
+          "bm": "Faedah atau keuntungan yang haram."
+        }
+      },
+      {
+        "term": {
+          "en": "Wali",
+          "bm": "Wali"
+        },
+        "definition": {
+          "en": "Guardian in marriage.",
+          "bm": "Penjaga dalam perkahwinan."
+        }
+      },
+      {
+        "term": {
+          "en": "Faraid",
+          "bm": "Faraid"
+        },
+        "definition": {
+          "en": "Islamic law of inheritance.",
+          "bm": "Hukum pusaka Islam."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5pi-05-q01",
+      "subtopicId": "f5pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Riba is…",
+        "bm": "Riba adalah…"
+      },
+      "explanation": {
+        "en": "Surah Al-Baqarah, verse 275.",
+        "bm": "Surah Al-Baqarah, ayat 275."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "forbidden",
+          "bm": "haram"
+        },
+        {
+          "en": "recommended",
+          "bm": "sunat"
+        },
+        {
+          "en": "compulsory",
+          "bm": "wajib"
+        },
+        {
+          "en": "neutral",
+          "bm": "harus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q02",
+      "subtopicId": "f5pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A valid sale requires…",
+        "bm": "Jual beli yang sah memerlukan…"
+      },
+      "explanation": {
+        "en": "The pillars of a sale.",
+        "bm": "Rukun jual beli."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a seller, buyer, goods and agreement",
+          "bm": "penjual, pembeli, barang dan persetujuan"
+        },
+        {
+          "en": "no goods",
+          "bm": "tiada barang"
+        },
+        {
+          "en": "no agreement",
+          "bm": "tiada persetujuan"
+        },
+        {
+          "en": "only a witness",
+          "bm": "saksi sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q03",
+      "subtopicId": "f5pi-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is an unlawful sale?",
+        "bm": "Yang manakah jualan haram?"
+      },
+      "explanation": {
+        "en": "That is deceit (gharar or fraud).",
+        "bm": "Itu penipuan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Selling with hidden defects",
+          "bm": "Menjual dengan menyembunyikan kecacatan"
+        },
+        {
+          "en": "Selling at a fair price",
+          "bm": "Menjual pada harga adil"
+        },
+        {
+          "en": "Selling with clear terms",
+          "bm": "Menjual dengan syarat jelas"
+        },
+        {
+          "en": "Selling halal food",
+          "bm": "Menjual makanan halal"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q04",
+      "subtopicId": "f5pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many pillars does marriage have?",
+        "bm": "Berapakah rukun nikah?"
+      },
+      "explanation": {
+        "en": "Groom, bride, wali, witnesses, ijab-qabul.",
+        "bm": "Pengantin lelaki, perempuan, wali, saksi, ijab kabul."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "5",
+          "bm": "5"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "3",
+          "bm": "3"
+        },
+        {
+          "en": "7",
+          "bm": "7"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q05",
+      "subtopicId": "f5pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "How many witnesses are required?",
+        "bm": "Berapakah saksi diperlukan?"
+      },
+      "explanation": {
+        "en": "Two just Muslim men.",
+        "bm": "Dua lelaki Muslim yang adil."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "7",
+          "bm": "7"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q06",
+      "subtopicId": "f5pi-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A main aim of marriage is…",
+        "bm": "Tujuan utama perkahwinan ialah…"
+      },
+      "explanation": {
+        "en": "Surah Ar-Rum, verse 21.",
+        "bm": "Surah Ar-Rum, ayat 21."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "a peaceful and loving family",
+          "bm": "keluarga tenteram dan penyayang"
+        },
+        {
+          "en": "showing wealth",
+          "bm": "menunjuk kekayaan"
+        },
+        {
+          "en": "avoiding work",
+          "bm": "mengelak kerja"
+        },
+        {
+          "en": "gaining status only",
+          "bm": "mendapat status sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q07",
+      "subtopicId": "f5pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A will (wasiat) to non-heirs is limited to…",
+        "bm": "Wasiat kepada bukan waris terhad kepada…"
+      },
+      "explanation": {
+        "en": "Unless heirs agree to more.",
+        "bm": "Melainkan waris bersetuju lebih."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "one-third of the estate",
+          "bm": "satu pertiga harta"
+        },
+        {
+          "en": "all the estate",
+          "bm": "semua harta"
+        },
+        {
+          "en": "half the estate",
+          "bm": "separuh harta"
+        },
+        {
+          "en": "none",
+          "bm": "tiada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-05-q08",
+      "subtopicId": "f5pi-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Before faraid, the estate must first pay…",
+        "bm": "Sebelum faraid, harta mesti digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Debts come first.",
+        "bm": "Hutang didahulukan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "debts and funeral costs",
+          "bm": "hutang dan kos pengebumian"
+        },
+        {
+          "en": "new purchases",
+          "bm": "pembelian baharu"
+        },
+        {
+          "en": "a family holiday",
+          "bm": "percutian keluarga"
+        },
+        {
+          "en": "nothing",
+          "bm": "tiada apa-apa"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

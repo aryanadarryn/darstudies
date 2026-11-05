@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5phy-05",
+  "cards": [
+    {
+      "id": "f5phy-05-f01",
+      "subtopicId": "f5phy-05-01",
+      "front": {
+        "en": "Thermionic emission",
+        "bm": "Pancaran termion"
+      },
+      "back": {
+        "en": "Electrons from heated metal.",
+        "bm": "Elektron dari logam panas."
+      }
+    },
+    {
+      "id": "f5phy-05-f02",
+      "subtopicId": "f5phy-05-02",
+      "front": {
+        "en": "Diode",
+        "bm": "Diod"
+      },
+      "back": {
+        "en": "One-way conductor.",
+        "bm": "Konduktor sehala."
+      }
+    },
+    {
+      "id": "f5phy-05-f03",
+      "subtopicId": "f5phy-05-02",
+      "front": {
+        "en": "n-type",
+        "bm": "Jenis-n"
+      },
+      "back": {
+        "en": "Extra electrons.",
+        "bm": "Elektron lebihan."
+      }
+    },
+    {
+      "id": "f5phy-05-f04",
+      "subtopicId": "f5phy-05-02",
+      "front": {
+        "en": "p-type",
+        "bm": "Jenis-p"
+      },
+      "back": {
+        "en": "Extra holes.",
+        "bm": "Lohong lebihan."
+      }
+    },
+    {
+      "id": "f5phy-05-f05",
+      "subtopicId": "f5phy-05-03",
+      "front": {
+        "en": "Currents",
+        "bm": "Arus"
+      },
+      "back": {
+        "en": "IE = IB + IC",
+        "bm": "IE = IB + IC"
+      }
+    },
+    {
+      "id": "f5phy-05-f06",
+      "subtopicId": "f5phy-05-03",
+      "front": {
+        "en": "Gain",
+        "bm": "Gandaan"
+      },
+      "back": {
+        "en": "β = IC/IB",
+        "bm": "β = IC/IB"
+      }
+    }
+  ]
+}

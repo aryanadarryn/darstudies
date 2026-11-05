@@ -1,0 +1,374 @@
+{
+  "chapterId": "f5pi-06",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "The Quran you hold today follows a standard text set down under Caliph Uthman.",
+      "bm": "Al-Quran yang ada hari ini mengikut mushaf piawai pada zaman Khalifah Uthman."
+    },
+    "bigIdeas": [
+      {
+        "en": "Four caliphs led after the Prophet ﷺ.",
+        "bm": "Empat khalifah memimpin selepas Rasulullah ﷺ."
+      },
+      {
+        "en": "Each faced different challenges.",
+        "bm": "Setiap seorang menghadapi cabaran berbeza."
+      },
+      {
+        "en": "Their leadership teaches justice and service.",
+        "bm": "Kepimpinan mereka mengajar keadilan dan khidmat."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Caliph",
+          "bm": "Khalifah"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Abu Bakar",
+              "bm": "Abu Bakar"
+            },
+            "detail": {
+              "en": "compiled the Quran; ended apostasy wars",
+              "bm": "menghimpun al-Quran; menamatkan perang riddah"
+            }
+          },
+          {
+            "label": {
+              "en": "Umar",
+              "bm": "Umar"
+            },
+            "detail": {
+              "en": "Hijri calendar; Baitulmal; expansion",
+              "bm": "kalendar Hijrah; Baitulmal; perluasan"
+            }
+          },
+          {
+            "label": {
+              "en": "Uthman",
+              "bm": "Uthman"
+            },
+            "detail": {
+              "en": "standard mushaf; first navy",
+              "bm": "mushaf piawai; angkatan laut pertama"
+            }
+          },
+          {
+            "label": {
+              "en": "Ali",
+              "bm": "Ali"
+            },
+            "detail": {
+              "en": "justice and knowledge amid civil strife",
+              "bm": "keadilan dan ilmu semasa perselisihan"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Khalifah",
+          "bm": "Khalifah"
+        },
+        "definition": {
+          "en": "Leader after the Prophet ﷺ.",
+          "bm": "Pemimpin selepas Rasulullah ﷺ."
+        }
+      },
+      {
+        "term": {
+          "en": "Riddah",
+          "bm": "Riddah"
+        },
+        "definition": {
+          "en": "Apostasy movement after the Prophet's ﷺ death.",
+          "bm": "Gerakan murtad selepas kewafatan Rasulullah ﷺ."
+        }
+      },
+      {
+        "term": {
+          "en": "Baitulmal",
+          "bm": "Baitulmal"
+        },
+        "definition": {
+          "en": "Public treasury.",
+          "bm": "Perbendaharaan awam."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5pi-06-q01",
+      "subtopicId": "f5pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first caliph was…",
+        "bm": "Khalifah pertama ialah…"
+      },
+      "explanation": {
+        "en": "Chosen after the Prophet's ﷺ death.",
+        "bm": "Dipilih selepas kewafatan Rasulullah ﷺ."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Abu Bakar As-Siddiq",
+          "bm": "Abu Bakar As-Siddiq"
+        },
+        {
+          "en": "Umar",
+          "bm": "Umar"
+        },
+        {
+          "en": "Uthman",
+          "bm": "Uthman"
+        },
+        {
+          "en": "Ali",
+          "bm": "Ali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q02",
+      "subtopicId": "f5pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Who compiled the Quran into one collection?",
+        "bm": "Siapa menghimpunkan al-Quran dalam satu himpunan?"
+      },
+      "explanation": {
+        "en": "After many huffaz fell at Yamamah.",
+        "bm": "Selepas ramai huffaz gugur di Yamamah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Abu Bakar, through Zaid bin Thabit",
+          "bm": "Abu Bakar, melalui Zaid bin Thabit"
+        },
+        {
+          "en": "Umar alone",
+          "bm": "Umar sahaja"
+        },
+        {
+          "en": "Muawiyah",
+          "bm": "Muawiyah"
+        },
+        {
+          "en": "Harun Ar-Rasyid",
+          "bm": "Harun Ar-Rasyid"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q03",
+      "subtopicId": "f5pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The Hijri calendar was introduced by…",
+        "bm": "Kalendar Hijrah diperkenalkan oleh…"
+      },
+      "explanation": {
+        "en": "Counted from the Hijrah.",
+        "bm": "Dikira dari peristiwa Hijrah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Umar Al-Khattab",
+          "bm": "Umar Al-Khattab"
+        },
+        {
+          "en": "Abu Bakar",
+          "bm": "Abu Bakar"
+        },
+        {
+          "en": "Uthman",
+          "bm": "Uthman"
+        },
+        {
+          "en": "Ali",
+          "bm": "Ali"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q04",
+      "subtopicId": "f5pi-06-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Umar is known as Al-Faruq because he…",
+        "bm": "Umar dikenali sebagai Al-Faruq kerana…"
+      },
+      "explanation": {
+        "en": "A title of justice.",
+        "bm": "Gelaran keadilan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "distinguished truth from falsehood",
+          "bm": "membezakan kebenaran dan kebatilan"
+        },
+        {
+          "en": "was the wealthiest",
+          "bm": "paling kaya"
+        },
+        {
+          "en": "built the first navy",
+          "bm": "membina tentera laut pertama"
+        },
+        {
+          "en": "wrote the Sirah",
+          "bm": "menulis Sirah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q05",
+      "subtopicId": "f5pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The third caliph was…",
+        "bm": "Khalifah ketiga ialah…"
+      },
+      "explanation": {
+        "en": "Known as Zun Nurain.",
+        "bm": "Dikenali sebagai Zun Nurain."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Uthman bin Affan",
+          "bm": "Uthman bin Affan"
+        },
+        {
+          "en": "Umar",
+          "bm": "Umar"
+        },
+        {
+          "en": "Ali",
+          "bm": "Ali"
+        },
+        {
+          "en": "Abu Bakar",
+          "bm": "Abu Bakar"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q06",
+      "subtopicId": "f5pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Uthman's standard copy of the Quran is known as…",
+        "bm": "Salinan piawai Uthman dikenali sebagai…"
+      },
+      "explanation": {
+        "en": "Copies were sent to major cities.",
+        "bm": "Salinan dihantar ke bandar utama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Mushaf Uthmani",
+          "bm": "Mushaf Uthmani"
+        },
+        {
+          "en": "Sahih Muslim",
+          "bm": "Sahih Muslim"
+        },
+        {
+          "en": "Kitab Al-Umm",
+          "bm": "Kitab Al-Umm"
+        },
+        {
+          "en": "Sirah Nabawiyah",
+          "bm": "Sirah Nabawiyah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q07",
+      "subtopicId": "f5pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "The fourth caliph was…",
+        "bm": "Khalifah keempat ialah…"
+      },
+      "explanation": {
+        "en": "Known for knowledge and bravery.",
+        "bm": "Terkenal kerana ilmu dan keberanian."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Ali bin Abi Talib",
+          "bm": "Ali bin Abi Talib"
+        },
+        {
+          "en": "Umar",
+          "bm": "Umar"
+        },
+        {
+          "en": "Uthman",
+          "bm": "Uthman"
+        },
+        {
+          "en": "Muawiyah",
+          "bm": "Muawiyah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5pi-06-q08",
+      "subtopicId": "f5pi-06-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "What lesson can leaders learn from the caliphs?",
+        "bm": "Apakah pengajaran untuk pemimpin?"
+      },
+      "explanation": {
+        "en": "They were accountable to Allah and the people.",
+        "bm": "Mereka bertanggungjawab kepada Allah dan rakyat."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Serve people with justice and humility",
+          "bm": "Berkhidmat dengan adil dan rendah hati"
+        },
+        {
+          "en": "Seek only personal wealth",
+          "bm": "Mengejar kekayaan peribadi"
+        },
+        {
+          "en": "Ignore advice",
+          "bm": "Mengabaikan nasihat"
+        },
+        {
+          "en": "Rule by fear alone",
+          "bm": "Memerintah dengan ketakutan sahaja"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

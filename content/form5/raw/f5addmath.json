@@ -1,0 +1,315 @@
+{
+  "id": "f5addmath",
+  "name": {
+    "en": "Additional Mathematics",
+    "bm": "Matematik Tambahan"
+  },
+  "short": {
+    "en": "Add Maths",
+    "bm": "Add Math"
+  },
+  "color": "#7c3aed",
+  "source": "Follows the KSSM Additional Mathematics Form 5 structure (8 chapters). The textbook list could not be fetched online, so check subtopic titles against your textbook. Calculated answers are computed by the generator; learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Circular Measure",
+        "bm": "Sukatan Membulat"
+      },
+      "theme": {
+        "en": "Trigonometry",
+        "bm": "Trigonometri"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Radian",
+            "bm": "Radian"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Arc Length of a Circle",
+            "bm": "Panjang Lengkok Suatu Bulatan"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Area of a Sector of a Circle",
+            "bm": "Luas Sektor Suatu Bulatan"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Application of Circular Measure",
+            "bm": "Aplikasi Sukatan Membulat"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Differentiation",
+        "bm": "Pembezaan"
+      },
+      "theme": {
+        "en": "Calculus",
+        "bm": "Kalkulus"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Limit and its Relation to Differentiation",
+            "bm": "Had dan Hubungannya dengan Pembezaan"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "The First Derivative",
+            "bm": "Pembezaan Peringkat Pertama"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "The Second Derivative",
+            "bm": "Pembezaan Peringkat Kedua"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Application of Differentiation",
+            "bm": "Aplikasi Pembezaan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Integration",
+        "bm": "Pengamiran"
+      },
+      "theme": {
+        "en": "Calculus",
+        "bm": "Kalkulus"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Integration as the Inverse of Differentiation",
+            "bm": "Pengamiran sebagai Songsangan Pembezaan"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Indefinite Integral",
+            "bm": "Kamiran Tak Tentu"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Definite Integral",
+            "bm": "Kamiran Tentu"
+          }
+        },
+        {
+          "code": "3.4",
+          "title": {
+            "en": "Application of Integration",
+            "bm": "Aplikasi Pengamiran"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Permutation and Combination",
+        "bm": "Pilih Atur dan Gabungan"
+      },
+      "theme": {
+        "en": "Statistics",
+        "bm": "Statistik"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Permutation",
+            "bm": "Pilih Atur"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Combination",
+            "bm": "Gabungan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Probability Distribution",
+        "bm": "Taburan Kebarangkalian"
+      },
+      "theme": {
+        "en": "Statistics",
+        "bm": "Statistik"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Random Variable",
+            "bm": "Pemboleh Ubah Rawak"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Binomial Distribution",
+            "bm": "Taburan Binomial"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Normal Distribution",
+            "bm": "Taburan Normal"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Trigonometric Functions",
+        "bm": "Fungsi Trigonometri"
+      },
+      "theme": {
+        "en": "Trigonometry",
+        "bm": "Trigonometri"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "Positive Angles and Negative Angles",
+            "bm": "Sudut Positif dan Sudut Negatif"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "Trigonometric Ratios of Any Angle",
+            "bm": "Nisbah Trigonometri bagi Sebarang Sudut"
+          }
+        },
+        {
+          "code": "6.3",
+          "title": {
+            "en": "Graphs of Sine, Cosine and Tangent Functions",
+            "bm": "Graf Fungsi Sinus, Kosinus dan Tangen"
+          }
+        },
+        {
+          "code": "6.4",
+          "title": {
+            "en": "Basic Identities",
+            "bm": "Identiti Asas"
+          }
+        },
+        {
+          "code": "6.5",
+          "title": {
+            "en": "Addition Formulae and Double Angle Formulae",
+            "bm": "Rumus Sudut Majmuk dan Rumus Sudut Berganda"
+          }
+        },
+        {
+          "code": "6.6",
+          "title": {
+            "en": "Application of Trigonometric Functions",
+            "bm": "Aplikasi Fungsi Trigonometri"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Linear Programming",
+        "bm": "Pengaturcaraan Linear"
+      },
+      "theme": {
+        "en": "Science, Technology and Engineering",
+        "bm": "Sains, Teknologi dan Kejuruteraan"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Linear Programming Model",
+            "bm": "Model Pengaturcaraan Linear"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Application of Linear Programming",
+            "bm": "Aplikasi Pengaturcaraan Linear"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Kinematics of Linear Motion",
+        "bm": "Kinematik Gerakan Linear"
+      },
+      "theme": {
+        "en": "Science, Technology and Engineering",
+        "bm": "Sains, Teknologi dan Kejuruteraan"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Displacement",
+            "bm": "Sesaran"
+          }
+        },
+        {
+          "code": "8.2",
+          "title": {
+            "en": "Velocity",
+            "bm": "Halaju"
+          }
+        },
+        {
+          "code": "8.3",
+          "title": {
+            "en": "Acceleration",
+            "bm": "Pecutan"
+          }
+        }
+      ]
+    }
+  ]
+}

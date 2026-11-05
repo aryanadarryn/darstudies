@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5phy-02",
+  "cards": [
+    {
+      "id": "f5phy-02-f01",
+      "subtopicId": "f5phy-02-01",
+      "front": {
+        "en": "Liquid pressure",
+        "bm": "Tekanan cecair"
+      },
+      "back": {
+        "en": "P = hρg",
+        "bm": "P = hρg"
+      }
+    },
+    {
+      "id": "f5phy-02-f02",
+      "subtopicId": "f5phy-02-02",
+      "front": {
+        "en": "Total pressure",
+        "bm": "Jumlah tekanan"
+      },
+      "back": {
+        "en": "Atmospheric + hρg",
+        "bm": "Atmosfera + hρg"
+      }
+    },
+    {
+      "id": "f5phy-02-f03",
+      "subtopicId": "f5phy-02-03",
+      "front": {
+        "en": "Boyle's law",
+        "bm": "Hukum Boyle"
+      },
+      "back": {
+        "en": "P₁V₁ = P₂V₂",
+        "bm": "P₁V₁ = P₂V₂"
+      }
+    },
+    {
+      "id": "f5phy-02-f04",
+      "subtopicId": "f5phy-02-04",
+      "front": {
+        "en": "Pascal",
+        "bm": "Pascal"
+      },
+      "back": {
+        "en": "F₁/A₁ = F₂/A₂",
+        "bm": "F₁/A₁ = F₂/A₂"
+      }
+    },
+    {
+      "id": "f5phy-02-f05",
+      "subtopicId": "f5phy-02-05",
+      "front": {
+        "en": "Archimedes",
+        "bm": "Archimedes"
+      },
+      "back": {
+        "en": "F = ρVg",
+        "bm": "F = ρVg"
+      }
+    },
+    {
+      "id": "f5phy-02-f06",
+      "subtopicId": "f5phy-02-06",
+      "front": {
+        "en": "Bernoulli",
+        "bm": "Bernoulli"
+      },
+      "back": {
+        "en": "High speed, low pressure",
+        "bm": "Laju tinggi, tekanan rendah"
+      }
+    }
+  ]
+}

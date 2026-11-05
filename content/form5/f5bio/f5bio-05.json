@@ -1,0 +1,417 @@
+{
+  "chapterId": "f5bio-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "One bad banana ripens the whole bunch, because it gives off ethene gas, a plant hormone.",
+      "bm": "Satu pisang masak mempercepat seluruh sisir kerana membebaskan gas etena, sejenis hormon tumbuhan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Tropisms are directional growth responses.",
+        "bm": "Tropisme ialah gerak balas pertumbuhan berarah."
+      },
+      {
+        "en": "Nastic movements do not depend on direction.",
+        "bm": "Gerakan nastik tidak bergantung pada arah."
+      },
+      {
+        "en": "Phytohormones are used in farming.",
+        "bm": "Fitohormon digunakan dalam pertanian."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Hormone",
+          "bm": "Hormon"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Auxin",
+              "bm": "Auksin"
+            },
+            "detail": {
+              "en": "cell elongation",
+              "bm": "pemanjangan sel"
+            }
+          },
+          {
+            "label": {
+              "en": "Gibberellin",
+              "bm": "Giberelin"
+            },
+            "detail": {
+              "en": "stem growth, germination",
+              "bm": "pertumbuhan batang, percambahan"
+            }
+          },
+          {
+            "label": {
+              "en": "Cytokinin",
+              "bm": "Sitokinin"
+            },
+            "detail": {
+              "en": "cell division",
+              "bm": "pembahagian sel"
+            }
+          },
+          {
+            "label": {
+              "en": "Ethene",
+              "bm": "Etena"
+            },
+            "detail": {
+              "en": "fruit ripening",
+              "bm": "pematangan buah"
+            }
+          },
+          {
+            "label": {
+              "en": "Abscisic acid",
+              "bm": "Asid absisik"
+            },
+            "detail": {
+              "en": "dormancy, closes stomata",
+              "bm": "dorman, menutup stoma"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Phototropism",
+          "bm": "Fototropisme"
+        },
+        "definition": {
+          "en": "Growth response to light.",
+          "bm": "Gerak balas pertumbuhan terhadap cahaya."
+        }
+      },
+      {
+        "term": {
+          "en": "Geotropism",
+          "bm": "Geotropisme"
+        },
+        "definition": {
+          "en": "Growth response to gravity.",
+          "bm": "Gerak balas pertumbuhan terhadap graviti."
+        }
+      },
+      {
+        "term": {
+          "en": "Thigmonasty",
+          "bm": "Tigmonasti"
+        },
+        "definition": {
+          "en": "Response to touch, as in Mimosa.",
+          "bm": "Gerak balas sentuhan, seperti Mimosa."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-05-q01",
+      "subtopicId": "f5bio-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Shoots growing toward light show…",
+        "bm": "Pucuk tumbuh ke arah cahaya menunjukkan…"
+      },
+      "explanation": {
+        "en": "Toward the stimulus.",
+        "bm": "Ke arah rangsangan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "positive phototropism",
+          "bm": "fototropisme positif"
+        },
+        {
+          "en": "negative geotropism only",
+          "bm": "geotropisme negatif sahaja"
+        },
+        {
+          "en": "thigmonasty",
+          "bm": "tigmonasti"
+        },
+        {
+          "en": "hydrotropism",
+          "bm": "hidrotropisme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q02",
+      "subtopicId": "f5bio-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mimosa leaves fold when touched. This is…",
+        "bm": "Daun semalu melipat apabila disentuh. Ini ialah…"
+      },
+      "explanation": {
+        "en": "A rapid turgor change.",
+        "bm": "Perubahan kesegahan pantas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "thigmonasty",
+          "bm": "tigmonasti"
+        },
+        {
+          "en": "phototropism",
+          "bm": "fototropisme"
+        },
+        {
+          "en": "geotropism",
+          "bm": "geotropisme"
+        },
+        {
+          "en": "hydrotropism",
+          "bm": "hidrotropisme"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q03",
+      "subtopicId": "f5bio-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Roots grow downward showing…",
+        "bm": "Akar tumbuh ke bawah menunjukkan…"
+      },
+      "explanation": {
+        "en": "Toward gravity.",
+        "bm": "Ke arah graviti."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "positive geotropism",
+          "bm": "geotropisme positif"
+        },
+        {
+          "en": "negative geotropism",
+          "bm": "geotropisme negatif"
+        },
+        {
+          "en": "photonasty",
+          "bm": "fotonasti"
+        },
+        {
+          "en": "etiolation",
+          "bm": "etiolasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q04",
+      "subtopicId": "f5bio-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Auxin causes…",
+        "bm": "Auksin menyebabkan…"
+      },
+      "explanation": {
+        "en": "Mainly at the shoot tip.",
+        "bm": "Terutamanya di hujung pucuk."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cell elongation",
+          "bm": "pemanjangan sel"
+        },
+        {
+          "en": "fruit ripening",
+          "bm": "pematangan buah"
+        },
+        {
+          "en": "leaf fall only",
+          "bm": "gugur daun sahaja"
+        },
+        {
+          "en": "seed dormancy",
+          "bm": "dorman biji benih"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q05",
+      "subtopicId": "f5bio-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In phototropism, auxin moves to the…",
+        "bm": "Dalam fototropisme, auksin bergerak ke…"
+      },
+      "explanation": {
+        "en": "Shaded cells elongate more.",
+        "bm": "Sel teduh lebih memanjang."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "shaded side",
+          "bm": "sebelah teduh"
+        },
+        {
+          "en": "sunny side",
+          "bm": "sebelah cerah"
+        },
+        {
+          "en": "leaves only",
+          "bm": "daun sahaja"
+        },
+        {
+          "en": "soil",
+          "bm": "tanah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q06",
+      "subtopicId": "f5bio-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "In roots, high auxin concentration…",
+        "bm": "Dalam akar, kepekatan auksin tinggi…"
+      },
+      "explanation": {
+        "en": "Hence roots bend downward.",
+        "bm": "Maka akar membengkok ke bawah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "inhibits growth",
+          "bm": "menghalang pertumbuhan"
+        },
+        {
+          "en": "speeds up growth",
+          "bm": "mempercepat pertumbuhan"
+        },
+        {
+          "en": "has no effect",
+          "bm": "tiada kesan"
+        },
+        {
+          "en": "stops respiration",
+          "bm": "menghentikan respirasi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q07",
+      "subtopicId": "f5bio-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ethene is used to…",
+        "bm": "Etena digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Bananas and mangoes.",
+        "bm": "Pisang dan mangga."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ripen fruits",
+          "bm": "mematangkan buah"
+        },
+        {
+          "en": "stop growth forever",
+          "bm": "menghentikan pertumbuhan selamanya"
+        },
+        {
+          "en": "make seeds smaller",
+          "bm": "mengecilkan biji"
+        },
+        {
+          "en": "kill all insects",
+          "bm": "membunuh semua serangga"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q08",
+      "subtopicId": "f5bio-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Synthetic auxin at high concentration acts as…",
+        "bm": "Auksin sintetik pada kepekatan tinggi bertindak sebagai…"
+      },
+      "explanation": {
+        "en": "It kills broadleaf weeds.",
+        "bm": "Ia membunuh rumpai berdaun lebar."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a selective herbicide",
+          "bm": "racun herba terpilih"
+        },
+        {
+          "en": "a fertiliser",
+          "bm": "baja"
+        },
+        {
+          "en": "a pesticide for birds",
+          "bm": "racun burung"
+        },
+        {
+          "en": "an antibiotic",
+          "bm": "antibiotik"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-05-q09",
+      "subtopicId": "f5bio-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Seedless fruit can be produced using…",
+        "bm": "Buah tanpa biji boleh dihasilkan menggunakan…"
+      },
+      "explanation": {
+        "en": "This is parthenocarpy.",
+        "bm": "Ini ialah partenokarpi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "auxin or gibberellin",
+          "bm": "auksin atau giberelin"
+        },
+        {
+          "en": "salt",
+          "bm": "garam"
+        },
+        {
+          "en": "ethanol",
+          "bm": "etanol"
+        },
+        {
+          "en": "sand",
+          "bm": "pasir"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

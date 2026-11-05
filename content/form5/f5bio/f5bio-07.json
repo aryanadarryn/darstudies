@@ -1,0 +1,404 @@
+{
+  "chapterId": "f5bio-07",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Mangrove roots poke upward to breathe in airless mud; cactus leaves shrink to spines to save water.",
+      "bm": "Akar bakau menjulur ke atas untuk bernafas dalam lumpur; daun kaktus mengecil menjadi duri untuk menjimat air."
+    },
+    "bigIdeas": [
+      {
+        "en": "Xerophytes survive drought.",
+        "bm": "Xerofit tahan kemarau."
+      },
+      {
+        "en": "Hydrophytes live in water.",
+        "bm": "Hidrofit hidup dalam air."
+      },
+      {
+        "en": "Halophytes tolerate salt.",
+        "bm": "Halofit tahan garam."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Habitat",
+            "bm": "Habitat"
+          },
+          {
+            "en": "Adaptation",
+            "bm": "Penyesuaian"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Mesophyte",
+              "bm": "Mesofit"
+            },
+            "cells": [
+              {
+                "en": "moderate water",
+                "bm": "air sederhana"
+              },
+              {
+                "en": "broad leaves",
+                "bm": "daun lebar"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Hydrophyte",
+              "bm": "Hidrofit"
+            },
+            "cells": [
+              {
+                "en": "water",
+                "bm": "air"
+              },
+              {
+                "en": "air spaces",
+                "bm": "ruang udara"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Halophyte",
+              "bm": "Halofit"
+            },
+            "cells": [
+              {
+                "en": "salty soil",
+                "bm": "tanah masin"
+              },
+              {
+                "en": "pneumatophores",
+                "bm": "pneumatofor"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Xerophyte",
+              "bm": "Xerofit"
+            },
+            "cells": [
+              {
+                "en": "dry land",
+                "bm": "darat kering"
+              },
+              {
+                "en": "spines, thick cuticle",
+                "bm": "duri, kutikel tebal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Xerophyte",
+          "bm": "Xerofit"
+        },
+        "definition": {
+          "en": "Plant suited to dry conditions.",
+          "bm": "Tumbuhan sesuai dengan keadaan kering."
+        }
+      },
+      {
+        "term": {
+          "en": "Halophyte",
+          "bm": "Halofit"
+        },
+        "definition": {
+          "en": "Plant suited to salty habitats.",
+          "bm": "Tumbuhan sesuai dengan habitat masin."
+        }
+      },
+      {
+        "term": {
+          "en": "Pneumatophore",
+          "bm": "Pneumatofor"
+        },
+        "definition": {
+          "en": "Breathing root of mangroves.",
+          "bm": "Akar pernafasan bakau."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-07-q01",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A cactus is a…",
+        "bm": "Kaktus ialah…"
+      },
+      "explanation": {
+        "en": "It stores water.",
+        "bm": "Ia menyimpan air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "xerophyte",
+          "bm": "xerofit"
+        },
+        {
+          "en": "hydrophyte",
+          "bm": "hidrofit"
+        },
+        {
+          "en": "halophyte",
+          "bm": "halofit"
+        },
+        {
+          "en": "parasite",
+          "bm": "parasit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q02",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Water lilies are…",
+        "bm": "Teratai ialah…"
+      },
+      "explanation": {
+        "en": "They live in water.",
+        "bm": "Ia hidup dalam air."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "hydrophytes",
+          "bm": "hidrofit"
+        },
+        {
+          "en": "xerophytes",
+          "bm": "xerofit"
+        },
+        {
+          "en": "epiphytes",
+          "bm": "epifit"
+        },
+        {
+          "en": "halophytes",
+          "bm": "halofit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q03",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mangroves are…",
+        "bm": "Bakau ialah…"
+      },
+      "explanation": {
+        "en": "They tolerate salt water.",
+        "bm": "Ia tahan air masin."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "halophytes",
+          "bm": "halofit"
+        },
+        {
+          "en": "xerophytes",
+          "bm": "xerofit"
+        },
+        {
+          "en": "mesophytes only",
+          "bm": "mesofit sahaja"
+        },
+        {
+          "en": "parasites",
+          "bm": "parasit"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q04",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pneumatophores help mangroves…",
+        "bm": "Pneumatofor membantu bakau…"
+      },
+      "explanation": {
+        "en": "Mud has little oxygen.",
+        "bm": "Lumpur kurang oksigen."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "get oxygen",
+          "bm": "mendapatkan oksigen"
+        },
+        {
+          "en": "absorb sugar",
+          "bm": "menyerap gula"
+        },
+        {
+          "en": "attract insects",
+          "bm": "menarik serangga"
+        },
+        {
+          "en": "store salt only",
+          "bm": "menyimpan garam sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q05",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Lily-pad stomata are mainly on the…",
+        "bm": "Stoma daun teratai terutamanya di…"
+      },
+      "explanation": {
+        "en": "The lower side touches water.",
+        "bm": "Bawah menyentuh air."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "upper surface",
+          "bm": "permukaan atas"
+        },
+        {
+          "en": "lower surface",
+          "bm": "permukaan bawah"
+        },
+        {
+          "en": "roots",
+          "bm": "akar"
+        },
+        {
+          "en": "stem only",
+          "bm": "batang sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q06",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Xerophytes reduce transpiration with…",
+        "bm": "Xerofit mengurangkan transpirasi dengan…"
+      },
+      "explanation": {
+        "en": "Less water escapes.",
+        "bm": "Kurang air terlepas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "sunken stomata and small leaves",
+          "bm": "stoma terbenam dan daun kecil"
+        },
+        {
+          "en": "larger leaves",
+          "bm": "daun lebih besar"
+        },
+        {
+          "en": "thin cuticles",
+          "bm": "kutikel nipis"
+        },
+        {
+          "en": "more stomata on top",
+          "bm": "lebih stoma di atas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q07",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Viviparous seeds in mangroves…",
+        "bm": "Biji vivipar bakau…"
+      },
+      "explanation": {
+        "en": "Saves them from salty mud.",
+        "bm": "Melindungi daripada lumpur masin."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "germinate while on the parent plant",
+          "bm": "bercambah semasa masih pada induk"
+        },
+        {
+          "en": "never germinate",
+          "bm": "tidak pernah bercambah"
+        },
+        {
+          "en": "need deserts",
+          "bm": "memerlukan gurun"
+        },
+        {
+          "en": "are wind-blown dust",
+          "bm": "debu ditiup angin"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-07-q08",
+      "subtopicId": "f5bio-07-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Aerenchyma in hydrophytes is used for…",
+        "bm": "Aerenkima dalam hidrofit digunakan untuk…"
+      },
+      "explanation": {
+        "en": "Tissue with air spaces.",
+        "bm": "Tisu dengan ruang udara."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "buoyancy and gas movement",
+          "bm": "keapungan dan pergerakan gas"
+        },
+        {
+          "en": "storing lignin",
+          "bm": "menyimpan lignin"
+        },
+        {
+          "en": "absorbing salt",
+          "bm": "menyerap garam"
+        },
+        {
+          "en": "making pollen",
+          "bm": "menghasilkan debunga"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "chapterId": "f5chem-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "A phone battery, a rusting gate and a car airbag all rely on electrons moving between substances. That is redox.",
+      "bm": "Bateri telefon, pagar berkarat dan beg udara kereta bergantung pada pergerakan elektron antara bahan. Itulah redoks."
+    },
+    "bigIdeas": [
+      {
+        "en": "Oxidation is loss of electrons; reduction is gain.",
+        "bm": "Pengoksidaan ialah kehilangan elektron; penurunan ialah penerimaan."
+      },
+      {
+        "en": "E° ranks oxidising and reducing strength.",
+        "bm": "E° menyusun kekuatan pengoksida dan penurun."
+      },
+      {
+        "en": "Cells convert chemical and electrical energy.",
+        "bm": "Sel menukar tenaga kimia dan elektrik."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Voltaic cell",
+            "bm": "Sel kimia"
+          },
+          {
+            "en": "Electrolytic cell",
+            "bm": "Sel elektrolisis"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Energy",
+              "bm": "Tenaga"
+            },
+            "cells": [
+              {
+                "en": "chemical to electrical",
+                "bm": "kimia ke elektrik"
+              },
+              {
+                "en": "electrical to chemical",
+                "bm": "elektrik ke kimia"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Anode",
+              "bm": "Anod"
+            },
+            "cells": [
+              {
+                "en": "negative",
+                "bm": "negatif"
+              },
+              {
+                "en": "positive",
+                "bm": "positif"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Reaction",
+              "bm": "Tindak balas"
+            },
+            "cells": [
+              {
+                "en": "spontaneous",
+                "bm": "spontan"
+              },
+              {
+                "en": "non-spontaneous",
+                "bm": "tak spontan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Oxidising agent",
+          "bm": "Agen pengoksidaan"
+        },
+        "definition": {
+          "en": "Is reduced and accepts electrons.",
+          "bm": "Diturunkan dan menerima elektron."
+        }
+      },
+      {
+        "term": {
+          "en": "Reducing agent",
+          "bm": "Agen penurunan"
+        },
+        "definition": {
+          "en": "Is oxidised and donates electrons.",
+          "bm": "Dioksidakan dan menderma elektron."
+        }
+      },
+      {
+        "term": {
+          "en": "Standard electrode potential",
+          "bm": "Keupayaan elektrod piawai"
+        },
+        "definition": {
+          "en": "Voltage measured against the hydrogen electrode.",
+          "bm": "Voltan berbanding elektrod hidrogen."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-ch-cell",
+      "f5-ch-faraday"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5chem-01-q01",
+      "subtopicId": "f5chem-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "OIL RIG means oxidation is…",
+        "bm": "OIL RIG bermaksud pengoksidaan ialah…"
+      },
+      "explanation": {
+        "en": "Reduction is gain.",
+        "bm": "Penurunan ialah penerimaan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "loss of electrons",
+          "bm": "kehilangan elektron"
+        },
+        {
+          "en": "gain of electrons",
+          "bm": "penerimaan elektron"
+        },
+        {
+          "en": "loss of protons",
+          "bm": "kehilangan proton"
+        },
+        {
+          "en": "gain of neutrons",
+          "bm": "penerimaan neutron"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q02",
+      "subtopicId": "f5chem-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Oxidation number of Mn in KMnO₄?",
+        "bm": "Nombor pengoksidaan Mn dalam KMnO₄?"
+      },
+      "explanation": {
+        "en": "+1 + x − 8 = 0.",
+        "bm": "+1 + x − 8 = 0."
+      },
+      "difficulty": 1,
+      "answer": 7,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-01-q03",
+      "subtopicId": "f5chem-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Oxidation number of Cr in K₂Cr₂O₇?",
+        "bm": "Nombor pengoksidaan Cr dalam K₂Cr₂O₇?"
+      },
+      "explanation": {
+        "en": "2 + 2x − 14 = 0.",
+        "bm": "2 + 2x − 14 = 0."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-01-q04",
+      "subtopicId": "f5chem-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Oxidation number of S in H₂SO₄?",
+        "bm": "Nombor pengoksidaan S dalam H₂SO₄?"
+      },
+      "explanation": {
+        "en": "2 + x − 8 = 0.",
+        "bm": "2 + x − 8 = 0."
+      },
+      "difficulty": 2,
+      "answer": 6,
+      "tolerance": 0
+    },
+    {
+      "id": "f5chem-01-q05",
+      "subtopicId": "f5chem-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "In Zn + Cu²⁺ → Zn²⁺ + Cu, the oxidising agent is…",
+        "bm": "Dalam Zn + Cu²⁺ → Zn²⁺ + Cu, agen pengoksidaan ialah…"
+      },
+      "explanation": {
+        "en": "Cu²⁺ gains electrons.",
+        "bm": "Cu²⁺ menerima elektron."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Cu²⁺",
+          "bm": "Cu²⁺"
+        },
+        {
+          "en": "Zn",
+          "bm": "Zn"
+        },
+        {
+          "en": "Zn²⁺",
+          "bm": "Zn²⁺"
+        },
+        {
+          "en": "Cu",
+          "bm": "Cu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q06",
+      "subtopicId": "f5chem-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A more positive E° means a species is a stronger…",
+        "bm": "E° lebih positif bermaksud spesies ialah … lebih kuat."
+      },
+      "explanation": {
+        "en": "It is more easily reduced.",
+        "bm": "Ia lebih mudah diturunkan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "oxidising agent",
+          "bm": "agen pengoksidaan"
+        },
+        {
+          "en": "reducing agent",
+          "bm": "agen penurunan"
+        },
+        {
+          "en": "acid only",
+          "bm": "asid sahaja"
+        },
+        {
+          "en": "salt",
+          "bm": "garam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q07",
+      "subtopicId": "f5chem-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "E°(Cu²⁺/Cu) = +0.34 V; E°(Zn²⁺/Zn) = −0.76 V. Find the cell voltage.",
+        "bm": "E°(Cu²⁺/Cu) = +0.34 V; E°(Zn²⁺/Zn) = −0.76 V. Cari voltan sel."
+      },
+      "explanation": {
+        "en": "0.34 − (−0.76).",
+        "bm": "0.34 − (−0.76)."
+      },
+      "difficulty": 2,
+      "answer": 1.1,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5chem-01-q08",
+      "subtopicId": "f5chem-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "E°(Ag⁺/Ag) = +0.80 V; E°(Cu²⁺/Cu) = +0.34 V. Find the cell voltage.",
+        "bm": "E°(Ag⁺/Ag) = +0.80 V; E°(Cu²⁺/Cu) = +0.34 V. Cari voltan sel."
+      },
+      "explanation": {
+        "en": "0.80 − 0.34.",
+        "bm": "0.80 − 0.34."
+      },
+      "difficulty": 3,
+      "answer": 0.46,
+      "tolerance": 0.01,
+      "unit": "V"
+    },
+    {
+      "id": "f5chem-01-q09",
+      "subtopicId": "f5chem-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "In a Daniell cell, the negative terminal is…",
+        "bm": "Dalam sel Daniell, terminal negatif ialah…"
+      },
+      "explanation": {
+        "en": "Zinc is oxidised.",
+        "bm": "Zink dioksidakan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "zinc",
+          "bm": "zink"
+        },
+        {
+          "en": "copper",
+          "bm": "kuprum"
+        },
+        {
+          "en": "salt bridge",
+          "bm": "titian garam"
+        },
+        {
+          "en": "carbon",
+          "bm": "karbon"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q10",
+      "subtopicId": "f5chem-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A salt bridge is used to…",
+        "bm": "Titian garam digunakan untuk…"
+      },
+      "explanation": {
+        "en": "It keeps the charge balanced.",
+        "bm": "Ia mengekalkan keseimbangan cas."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "let ions flow and complete the circuit",
+          "bm": "membolehkan ion mengalir dan melengkapkan litar"
+        },
+        {
+          "en": "carry electrons",
+          "bm": "membawa elektron"
+        },
+        {
+          "en": "stop all reactions",
+          "bm": "menghentikan semua tindak balas"
+        },
+        {
+          "en": "produce gas",
+          "bm": "menghasilkan gas"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q11",
+      "subtopicId": "f5chem-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "In electrolysis, positive ions move to the…",
+        "bm": "Dalam elektrolisis, ion positif bergerak ke…"
+      },
+      "explanation": {
+        "en": "Opposite charges attract.",
+        "bm": "Cas berlawanan menarik."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "cathode",
+          "bm": "katod"
+        },
+        {
+          "en": "anode",
+          "bm": "anod"
+        },
+        {
+          "en": "beaker wall",
+          "bm": "dinding bikar"
+        },
+        {
+          "en": "battery",
+          "bm": "bateri"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q12",
+      "subtopicId": "f5chem-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Electroplating a spoon with silver uses…",
+        "bm": "Penyaduran sudu dengan perak menggunakan…"
+      },
+      "explanation": {
+        "en": "Silver ions reduce on the spoon.",
+        "bm": "Ion perak diturunkan pada sudu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "spoon as cathode and silver as anode",
+          "bm": "sudu sebagai katod dan perak sebagai anod"
+        },
+        {
+          "en": "spoon as anode",
+          "bm": "sudu sebagai anod"
+        },
+        {
+          "en": "carbon on both sides",
+          "bm": "karbon pada kedua-dua belah"
+        },
+        {
+          "en": "no current",
+          "bm": "tiada arus"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q13",
+      "subtopicId": "f5chem-01-04",
+      "type": "mcq",
+      "prompt": {
+        "en": "Electrolysing concentrated NaCl(aq) with carbon electrodes gives at the anode…",
+        "bm": "Elektrolisis NaCl(ak) pekat dengan elektrod karbon menghasilkan di anod…"
+      },
+      "explanation": {
+        "en": "Concentration decides the ion discharged.",
+        "bm": "Kepekatan menentukan ion dinyahcas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "chlorine",
+          "bm": "klorin"
+        },
+        {
+          "en": "oxygen",
+          "bm": "oksigen"
+        },
+        {
+          "en": "sodium",
+          "bm": "natrium"
+        },
+        {
+          "en": "hydrogen",
+          "bm": "hidrogen"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q14",
+      "subtopicId": "f5chem-01-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Iron is extracted in a…",
+        "bm": "Besi diekstrak dalam…"
+      },
+      "explanation": {
+        "en": "Carbon reduces its ore.",
+        "bm": "Karbon menurunkan bijih."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "blast furnace",
+          "bm": "relau bagas"
+        },
+        {
+          "en": "salt bridge",
+          "bm": "titian garam"
+        },
+        {
+          "en": "Daniell cell",
+          "bm": "sel Daniell"
+        },
+        {
+          "en": "fractional column",
+          "bm": "turus pecahan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q15",
+      "subtopicId": "f5chem-01-05",
+      "type": "mcq",
+      "prompt": {
+        "en": "Aluminium is extracted by electrolysis because…",
+        "bm": "Aluminium diekstrak melalui elektrolisis kerana…"
+      },
+      "explanation": {
+        "en": "Carbon cannot reduce it.",
+        "bm": "Karbon tidak dapat menurunkannya."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "it is more reactive than carbon",
+          "bm": "ia lebih reaktif daripada karbon"
+        },
+        {
+          "en": "it is rare",
+          "bm": "ia jarang"
+        },
+        {
+          "en": "carbon is costly",
+          "bm": "karbon mahal"
+        },
+        {
+          "en": "it melts easily",
+          "bm": "ia mudah lebur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q16",
+      "subtopicId": "f5chem-01-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Rust needs…",
+        "bm": "Karat memerlukan…"
+      },
+      "explanation": {
+        "en": "Both are needed.",
+        "bm": "Kedua-duanya diperlukan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "water and oxygen",
+          "bm": "air dan oksigen"
+        },
+        {
+          "en": "oil only",
+          "bm": "minyak sahaja"
+        },
+        {
+          "en": "nitrogen",
+          "bm": "nitrogen"
+        },
+        {
+          "en": "no air",
+          "bm": "tiada udara"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q17",
+      "subtopicId": "f5chem-01-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "Galvanising protects iron using…",
+        "bm": "Penggalvanian melindungi besi menggunakan…"
+      },
+      "explanation": {
+        "en": "Zinc corrodes first.",
+        "bm": "Zink terkakis dahulu."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "zinc",
+          "bm": "zink"
+        },
+        {
+          "en": "tin only",
+          "bm": "timah sahaja"
+        },
+        {
+          "en": "copper",
+          "bm": "kuprum"
+        },
+        {
+          "en": "silver",
+          "bm": "perak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5chem-01-q18",
+      "subtopicId": "f5chem-01-06",
+      "type": "mcq",
+      "prompt": {
+        "en": "A scratched tin can rusts faster because…",
+        "bm": "Tin tercalar berkarat lebih cepat kerana…"
+      },
+      "explanation": {
+        "en": "Iron then corrodes in preference.",
+        "bm": "Besi terkakis dahulu."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "iron is more electropositive than tin",
+          "bm": "besi lebih elektropositif daripada timah"
+        },
+        {
+          "en": "tin is reactive",
+          "bm": "timah reaktif"
+        },
+        {
+          "en": "tin absorbs water",
+          "bm": "timah menyerap air"
+        },
+        {
+          "en": "iron is inert",
+          "bm": "besi lengai"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -23,7 +23,7 @@ export interface Access {
  * subject is omitted for features that are not tied to a subject (drill, tools, planner); then `form` is the form
  * being studied. Forms 2 and 3 are free for every signed-in user.
  */
-export function canUse(access: Access | null | undefined, feature: Feature, subject?: string, form?: 2 | 3 | 4): boolean {
+export function canUse(access: Access | null | undefined, feature: Feature, subject?: string, form?: 2 | 3 | 4 | 5): boolean {
   if (access === undefined) return true
   if (!access) return false
   if (access.tier === 'full') return true

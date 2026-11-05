@@ -1,0 +1,443 @@
+{
+  "chapterId": "f5bm-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Satu imbuhan boleh mengubah makna: \"ajar\", \"mengajar\", \"belajar\", \"pelajar\" dan \"pelajaran\" berasal daripada kata dasar yang sama.",
+      "bm": "Satu imbuhan boleh mengubah makna: \"ajar\", \"mengajar\", \"belajar\", \"pelajar\" dan \"pelajaran\" berasal daripada kata dasar yang sama."
+    },
+    "bigIdeas": [
+      {
+        "en": "Kata terbahagi kepada kata nama, kata kerja, kata adjektif dan kata tugas.",
+        "bm": "Kata terbahagi kepada kata nama, kata kerja, kata adjektif dan kata tugas."
+      },
+      {
+        "en": "Imbuhan terdiri daripada awalan, akhiran, apitan dan sisipan.",
+        "bm": "Imbuhan terdiri daripada awalan, akhiran, apitan dan sisipan."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Imbuhan",
+          "bm": "Imbuhan"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Awalan",
+              "bm": "Awalan"
+            },
+            "detail": {
+              "en": "ber + jalan = berjalan",
+              "bm": "ber + jalan = berjalan"
+            }
+          },
+          {
+            "label": {
+              "en": "Akhiran",
+              "bm": "Akhiran"
+            },
+            "detail": {
+              "en": "makan + an = makanan",
+              "bm": "makan + an = makanan"
+            }
+          },
+          {
+            "label": {
+              "en": "Apitan",
+              "bm": "Apitan"
+            },
+            "detail": {
+              "en": "ke + adil + an = keadilan",
+              "bm": "ke + adil + an = keadilan"
+            }
+          },
+          {
+            "label": {
+              "en": "Sisipan",
+              "bm": "Sisipan"
+            },
+            "detail": {
+              "en": "g + er + igi = gerigi",
+              "bm": "g + er + igi = gerigi"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Kata tugas",
+          "bm": "Kata tugas"
+        },
+        "definition": {
+          "en": "Kata seperti \"dan\", \"di\", \"kerana\" yang menghubungkan atau menerangkan.",
+          "bm": "Kata seperti \"dan\", \"di\", \"kerana\" yang menghubungkan atau menerangkan."
+        }
+      },
+      {
+        "term": {
+          "en": "Kata transitif",
+          "bm": "Kata transitif"
+        },
+        "definition": {
+          "en": "Kata kerja yang memerlukan objek.",
+          "bm": "Kata kerja yang memerlukan objek."
+        }
+      },
+      {
+        "term": {
+          "en": "Apitan",
+          "bm": "Apitan"
+        },
+        "definition": {
+          "en": "Imbuhan yang hadir serentak di hadapan dan belakang kata dasar.",
+          "bm": "Imbuhan yang hadir serentak di hadapan dan belakang kata dasar."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bm-01-q01",
+      "subtopicId": "f5bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"Kerana\" tergolong dalam…",
+        "bm": "\"Kerana\" tergolong dalam…"
+      },
+      "explanation": {
+        "en": "Ia kata hubung.",
+        "bm": "Ia kata hubung."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "kata tugas",
+          "bm": "kata tugas"
+        },
+        {
+          "en": "kata nama",
+          "bm": "kata nama"
+        },
+        {
+          "en": "kata kerja",
+          "bm": "kata kerja"
+        },
+        {
+          "en": "kata adjektif",
+          "bm": "kata adjektif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q02",
+      "subtopicId": "f5bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata adjektif dalam ayat \"Rumah itu sangat besar\" ialah…",
+        "bm": "Kata adjektif dalam ayat \"Rumah itu sangat besar\" ialah…"
+      },
+      "explanation": {
+        "en": "\"Sangat\" ialah kata penguat.",
+        "bm": "\"Sangat\" ialah kata penguat."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "besar",
+          "bm": "besar"
+        },
+        {
+          "en": "rumah",
+          "bm": "rumah"
+        },
+        {
+          "en": "itu",
+          "bm": "itu"
+        },
+        {
+          "en": "sangat",
+          "bm": "sangat"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q03",
+      "subtopicId": "f5bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata sendi nama yang betul: \"Dia pergi ___ Kuala Lumpur.\"",
+        "bm": "Kata sendi nama yang betul: \"Dia pergi ___ Kuala Lumpur.\""
+      },
+      "explanation": {
+        "en": "\"Ke\" untuk tempat dan arah.",
+        "bm": "\"Ke\" untuk tempat dan arah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ke",
+          "bm": "ke"
+        },
+        {
+          "en": "di",
+          "bm": "di"
+        },
+        {
+          "en": "pada",
+          "bm": "pada"
+        },
+        {
+          "en": "kepada",
+          "bm": "kepada"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q04",
+      "subtopicId": "f5bm-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Pilih ayat yang menggunakan \"kepada\" dengan betul.",
+        "bm": "Pilih ayat yang menggunakan \"kepada\" dengan betul."
+      },
+      "explanation": {
+        "en": "\"Kepada\" digunakan di hadapan manusia atau haiwan.",
+        "bm": "\"Kepada\" digunakan di hadapan manusia atau haiwan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Hadiah itu diberikan kepada Ali.",
+          "bm": "Hadiah itu diberikan kepada Ali."
+        },
+        {
+          "en": "Dia pergi kepada sekolah.",
+          "bm": "Dia pergi kepada sekolah."
+        },
+        {
+          "en": "Kepada itu dia pulang.",
+          "bm": "Kepada itu dia pulang."
+        },
+        {
+          "en": "Buku itu kepada meja.",
+          "bm": "Buku itu kepada meja."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q05",
+      "subtopicId": "f5bm-01-01",
+      "type": "match",
+      "prompt": {
+        "en": "Padankan golongan kata.",
+        "bm": "Padankan golongan kata."
+      },
+      "explanation": {
+        "en": "Kenal pasti fungsi kata dalam ayat.",
+        "bm": "Kenal pasti fungsi kata dalam ayat."
+      },
+      "difficulty": 2,
+      "pairs": [
+        {
+          "left": {
+            "en": "meja",
+            "bm": "meja"
+          },
+          "right": {
+            "en": "kata nama",
+            "bm": "kata nama"
+          }
+        },
+        {
+          "left": {
+            "en": "berlari",
+            "bm": "berlari"
+          },
+          "right": {
+            "en": "kata kerja",
+            "bm": "kata kerja"
+          }
+        },
+        {
+          "left": {
+            "en": "cantik",
+            "bm": "cantik"
+          },
+          "right": {
+            "en": "kata adjektif",
+            "bm": "kata adjektif"
+          }
+        },
+        {
+          "left": {
+            "en": "tetapi",
+            "bm": "tetapi"
+          },
+          "right": {
+            "en": "kata tugas",
+            "bm": "kata tugas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f5bm-01-q06",
+      "subtopicId": "f5bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Awalan dalam \"berjalan\" ialah…",
+        "bm": "Awalan dalam \"berjalan\" ialah…"
+      },
+      "explanation": {
+        "en": "Hadir di hadapan kata dasar.",
+        "bm": "Hadir di hadapan kata dasar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "ber-",
+          "bm": "ber-"
+        },
+        {
+          "en": "-an",
+          "bm": "-an"
+        },
+        {
+          "en": "me-",
+          "bm": "me-"
+        },
+        {
+          "en": "ke-",
+          "bm": "ke-"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q07",
+      "subtopicId": "f5bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Kata terbitan yang betul daripada \"sapu\" dengan awalan meN- ialah…",
+        "bm": "Kata terbitan yang betul daripada \"sapu\" dengan awalan meN- ialah…"
+      },
+      "explanation": {
+        "en": "S gugur apabila meN- menjadi meny-.",
+        "bm": "S gugur apabila meN- menjadi meny-."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "menyapu",
+          "bm": "menyapu"
+        },
+        {
+          "en": "mensapu",
+          "bm": "mensapu"
+        },
+        {
+          "en": "mengsapu",
+          "bm": "mengsapu"
+        },
+        {
+          "en": "mesapu",
+          "bm": "mesapu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q08",
+      "subtopicId": "f5bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bentuk yang betul ialah…",
+        "bm": "Bentuk yang betul ialah…"
+      },
+      "explanation": {
+        "en": "Awalan memper- dengan akhiran -kan.",
+        "bm": "Awalan memper- dengan akhiran -kan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "memperkenalkan",
+          "bm": "memperkenalkan"
+        },
+        {
+          "en": "memperkenal-kan",
+          "bm": "memperkenal-kan"
+        },
+        {
+          "en": "mengperkenalkan",
+          "bm": "mengperkenalkan"
+        },
+        {
+          "en": "menperkenalkan",
+          "bm": "menperkenalkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bm-01-q09",
+      "subtopicId": "f5bm-01-02",
+      "type": "fill",
+      "prompt": {
+        "en": "Kata dasar \"tulis\" dengan apitan pe-...-an menjadi ___.",
+        "bm": "Kata dasar \"tulis\" dengan apitan pe-...-an menjadi ___."
+      },
+      "explanation": {
+        "en": "T gugur apabila pe- menjadi pen-.",
+        "bm": "T gugur apabila pe- menjadi pen-."
+      },
+      "difficulty": 2,
+      "answer": [
+        "penulisan"
+      ]
+    },
+    {
+      "id": "f5bm-01-q10",
+      "subtopicId": "f5bm-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Ayat yang betul ialah…",
+        "bm": "Ayat yang betul ialah…"
+      },
+      "explanation": {
+        "en": "\"Menaikkan\" ialah kata kerja transitif yang betul.",
+        "bm": "\"Menaikkan\" ialah kata kerja transitif yang betul."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Kerajaan menaikkan gaji pekerja.",
+          "bm": "Kerajaan menaikkan gaji pekerja."
+        },
+        {
+          "en": "Kerajaan naikkan-kan gaji pekerja.",
+          "bm": "Kerajaan naikkan-kan gaji pekerja."
+        },
+        {
+          "en": "Kerajaan menaik gaji pekerja.",
+          "bm": "Kerajaan menaik gaji pekerja."
+        },
+        {
+          "en": "Kerajaan dinaikkan gaji pekerja.",
+          "bm": "Kerajaan dinaikkan gaji pekerja."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

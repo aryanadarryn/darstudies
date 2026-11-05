@@ -1,0 +1,492 @@
+{
+  "chapterId": "f5phy-05",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Your phone holds billions of transistors, each one a tiny switch controlled by a tiny current.",
+      "bm": "Telefon anda mengandungi berbilion transistor, setiap satu suis kecil yang dikawal arus kecil."
+    },
+    "bigIdeas": [
+      {
+        "en": "Heated cathodes emit electrons (thermionic emission).",
+        "bm": "Katod panas memancarkan elektron (pancaran termion)."
+      },
+      {
+        "en": "A diode conducts one way.",
+        "bm": "Diod mengalirkan arus sehala."
+      },
+      {
+        "en": "A transistor is a switch and amplifier.",
+        "bm": "Transistor ialah suis dan penguat."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Part",
+          "bm": "Bahagian"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Diode",
+              "bm": "Diod"
+            },
+            "detail": {
+              "en": "Rectification",
+              "bm": "Rektifikasi"
+            }
+          },
+          {
+            "label": {
+              "en": "Capacitor",
+              "bm": "Kapasitor"
+            },
+            "detail": {
+              "en": "Smoothing",
+              "bm": "Perataan"
+            }
+          },
+          {
+            "label": {
+              "en": "Transistor",
+              "bm": "Transistor"
+            },
+            "detail": {
+              "en": "Switch, amplifier",
+              "bm": "Suis, penguat"
+            }
+          },
+          {
+            "label": {
+              "en": "LDR",
+              "bm": "PPC"
+            },
+            "detail": {
+              "en": "Light sensor",
+              "bm": "Penderia cahaya"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Thermionic emission",
+          "bm": "Pancaran termion"
+        },
+        "definition": {
+          "en": "Electrons escaping from a hot metal.",
+          "bm": "Elektron terlepas dari logam panas."
+        }
+      },
+      {
+        "term": {
+          "en": "Rectification",
+          "bm": "Rektifikasi"
+        },
+        "definition": {
+          "en": "Changing a.c. to d.c.",
+          "bm": "Menukar a.u. kepada a.t."
+        }
+      },
+      {
+        "term": {
+          "en": "Doping",
+          "bm": "Pendopan"
+        },
+        "definition": {
+          "en": "Adding impurities to a semiconductor.",
+          "bm": "Menambah bendasing pada semikonduktor."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-py-gain",
+      "f5-py-ee"
+    ]
+  },
+  "questions": [
+    {
+      "id": "f5phy-05-q01",
+      "subtopicId": "f5phy-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Thermionic emission needs…",
+        "bm": "Pancaran termion memerlukan…"
+      },
+      "explanation": {
+        "en": "Heat gives electrons energy.",
+        "bm": "Haba memberi tenaga kepada elektron."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a heated metal",
+          "bm": "logam panas"
+        },
+        {
+          "en": "cold glass",
+          "bm": "kaca sejuk"
+        },
+        {
+          "en": "a magnet only",
+          "bm": "magnet sahaja"
+        },
+        {
+          "en": "water",
+          "bm": "air"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q02",
+      "subtopicId": "f5phy-05-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Cathode rays are streams of…",
+        "bm": "Sinar katod ialah aliran…"
+      },
+      "explanation": {
+        "en": "They are deflected by fields.",
+        "bm": "Ia dipesongkan oleh medan."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "electrons",
+          "bm": "elektron"
+        },
+        {
+          "en": "protons",
+          "bm": "proton"
+        },
+        {
+          "en": "neutrons",
+          "bm": "neutron"
+        },
+        {
+          "en": "photons",
+          "bm": "foton"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q03",
+      "subtopicId": "f5phy-05-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "An electron of charge 1.6e−19 C is accelerated through 100 V. Find its kinetic energy in units of 10⁻¹⁷ J.",
+        "bm": "Elektron bercas 1.6e−19 C dipecut melalui 100 V. Cari tenaga kinetik dalam unit 10⁻¹⁷ J."
+      },
+      "explanation": {
+        "en": "eV = 1.6 × 10⁻¹⁷ J.",
+        "bm": "eV = 1.6 × 10⁻¹⁷ J."
+      },
+      "difficulty": 3,
+      "answer": 1.6,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-05-q04",
+      "subtopicId": "f5phy-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A forward-biased diode…",
+        "bm": "Diod pincang depan…"
+      },
+      "explanation": {
+        "en": "Depletion layer narrows.",
+        "bm": "Lapisan susutan menipis."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "conducts",
+          "bm": "mengalirkan arus"
+        },
+        {
+          "en": "blocks",
+          "bm": "menghalang"
+        },
+        {
+          "en": "stores charge",
+          "bm": "menyimpan cas"
+        },
+        {
+          "en": "heats up only",
+          "bm": "memanas sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q05",
+      "subtopicId": "f5phy-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Half-wave rectification uses how many diodes?",
+        "bm": "Rektifikasi gelombang separuh menggunakan berapa diod?"
+      },
+      "explanation": {
+        "en": "Only one half passes.",
+        "bm": "Hanya separuh dilalui."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "1",
+          "bm": "1"
+        },
+        {
+          "en": "2",
+          "bm": "2"
+        },
+        {
+          "en": "4",
+          "bm": "4"
+        },
+        {
+          "en": "8",
+          "bm": "8"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q06",
+      "subtopicId": "f5phy-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A full-wave bridge rectifier uses…",
+        "bm": "Rektifikasi gelombang penuh tetimbang menggunakan…"
+      },
+      "explanation": {
+        "en": "All half-cycles pass one way.",
+        "bm": "Semua separuh kitar melalui satu arah."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "4 diodes",
+          "bm": "4 diod"
+        },
+        {
+          "en": "1 diode",
+          "bm": "1 diod"
+        },
+        {
+          "en": "2 capacitors only",
+          "bm": "2 kapasitor sahaja"
+        },
+        {
+          "en": "a transistor",
+          "bm": "transistor"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q07",
+      "subtopicId": "f5phy-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "A capacitor across the output…",
+        "bm": "Kapasitor merentasi output…"
+      },
+      "explanation": {
+        "en": "It charges and discharges.",
+        "bm": "Ia mengecas dan menyahcas."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "smooths the current",
+          "bm": "meratakan arus"
+        },
+        {
+          "en": "blocks all current",
+          "bm": "menghalang semua arus"
+        },
+        {
+          "en": "increases frequency",
+          "bm": "menambah frekuensi"
+        },
+        {
+          "en": "reverses it",
+          "bm": "menyongsangkannya"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q08",
+      "subtopicId": "f5phy-05-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Silicon doped with phosphorus is…",
+        "bm": "Silikon didop dengan fosforus ialah…"
+      },
+      "explanation": {
+        "en": "Phosphorus gives extra electrons.",
+        "bm": "Fosforus memberi elektron lebihan."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "n-type",
+          "bm": "jenis-n"
+        },
+        {
+          "en": "p-type",
+          "bm": "jenis-p"
+        },
+        {
+          "en": "an insulator",
+          "bm": "penebat"
+        },
+        {
+          "en": "a metal",
+          "bm": "logam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q09",
+      "subtopicId": "f5phy-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A transistor has three terminals named…",
+        "bm": "Transistor mempunyai tiga terminal dinamakan…"
+      },
+      "explanation": {
+        "en": "B, C, E.",
+        "bm": "B, C, E."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "base, collector, emitter",
+          "bm": "tapak, pengumpul, pemancar"
+        },
+        {
+          "en": "anode, cathode, gate",
+          "bm": "anod, katod, get"
+        },
+        {
+          "en": "N, S, E",
+          "bm": "U, S, T"
+        },
+        {
+          "en": "plus, minus, earth",
+          "bm": "positif, negatif, bumi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q10",
+      "subtopicId": "f5phy-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "IB = 0.1 mA and IC = 5 mA. Find the emitter current.",
+        "bm": "IB = 0.1 mA dan IC = 5 mA. Cari arus pemancar."
+      },
+      "explanation": {
+        "en": "IE = IB + IC.",
+        "bm": "IE = IB + IC."
+      },
+      "difficulty": 2,
+      "answer": 5.1,
+      "tolerance": 0.01,
+      "unit": "mA"
+    },
+    {
+      "id": "f5phy-05-q11",
+      "subtopicId": "f5phy-05-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "IB = 0.1 mA and IC = 5 mA. Find the current gain.",
+        "bm": "IB = 0.1 mA dan IC = 5 mA. Cari gandaan arus."
+      },
+      "explanation": {
+        "en": "IC ÷ IB.",
+        "bm": "IC ÷ IB."
+      },
+      "difficulty": 2,
+      "answer": 50,
+      "tolerance": 0.01
+    },
+    {
+      "id": "f5phy-05-q12",
+      "subtopicId": "f5phy-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A transistor is a switch because…",
+        "bm": "Transistor ialah suis kerana…"
+      },
+      "explanation": {
+        "en": "No base current means off.",
+        "bm": "Tiada arus tapak bermakna mati."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a small IB turns IC on",
+          "bm": "IB kecil menghidupkan IC"
+        },
+        {
+          "en": "it has no current",
+          "bm": "tiada arus"
+        },
+        {
+          "en": "it uses water",
+          "bm": "ia guna air"
+        },
+        {
+          "en": "it melts",
+          "bm": "ia melebur"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5phy-05-q13",
+      "subtopicId": "f5phy-05-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An automatic night lamp uses…",
+        "bm": "Lampu malam automatik menggunakan…"
+      },
+      "explanation": {
+        "en": "In the dark, LDR resistance rises and base voltage changes.",
+        "bm": "Dalam gelap, rintangan PPC naik dan voltan tapak berubah."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "an LDR with a transistor",
+          "bm": "PPC dengan transistor"
+        },
+        {
+          "en": "a thermistor only",
+          "bm": "termistor sahaja"
+        },
+        {
+          "en": "a fuse only",
+          "bm": "fius sahaja"
+        },
+        {
+          "en": "a switch and magnet",
+          "bm": "suis dan magnet"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

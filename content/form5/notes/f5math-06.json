@@ -1,0 +1,97 @@
+{
+  "chapterId": "f5math-06",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-06-01": {
+      "keyPoints": [
+        {
+          "en": "Find the quadrant, then the reference angle.",
+          "bm": "Cari sukuan, kemudian sudut rujukan."
+        },
+        {
+          "en": "Apply the sign from ASTC.",
+          "bm": "Gunakan tanda daripada ASTC."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Quadrant",
+            "bm": "Sukuan"
+          },
+          "meaning": {
+            "en": "One of four regions.",
+            "bm": "Satu daripada empat rantau."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "cos 240°?",
+          "bm": "kos 240°?"
+        },
+        "answer": {
+          "en": "−0.5",
+          "bm": "−0.5"
+        }
+      },
+      "tip": {
+        "en": "Use a calculator in degree mode.",
+        "bm": "Gunakan kalkulator mod darjah."
+      }
+    },
+    "f5math-06-02": {
+      "keyPoints": [
+        {
+          "en": "a changes height; b changes cycles; c shifts.",
+          "bm": "a mengubah ketinggian; b mengubah kitaran; c mengalih."
+        },
+        {
+          "en": "Plot key points at 0°, 90°, 180°, 270°, 360°.",
+          "bm": "Plot titik utama pada 0°, 90°, 180°, 270°, 360°."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Cycle",
+            "bm": "Kitaran"
+          },
+          "meaning": {
+            "en": "One complete wave.",
+            "bm": "Satu gelombang lengkap."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/trig-graphs.svg",
+          "alt": {
+            "en": "The graphs of sine, cosine and tangent.",
+            "bm": "Graf sinus, kosinus dan tangen."
+          },
+          "caption": {
+            "en": "The graphs of sine, cosine and tangent.",
+            "bm": "Graf sinus, kosinus dan tangen."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Cycles of y = cos 2x in 0–360°?",
+          "bm": "Kitaran y = kos 2x dalam 0–360°?"
+        },
+        "answer": {
+          "en": "2",
+          "bm": "2"
+        }
+      },
+      "tip": {
+        "en": "Label maximum and minimum values.",
+        "bm": "Labelkan nilai maksimum dan minimum."
+      }
+    }
+  }
+}

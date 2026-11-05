@@ -1,0 +1,231 @@
+{
+  "id": "f5math",
+  "name": {
+    "en": "Mathematics",
+    "bm": "Matematik"
+  },
+  "short": {
+    "en": "Maths",
+    "bm": "Math"
+  },
+  "color": "#0891b2",
+  "source": "Chapter and subtopic titles follow the KSSM Mathematics Form 5 textbook list (8 chapters). Calculated answers are computed by the generator; learning content is original. Tax and insurance figures are illustrations: check current LHDN rates.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Variation",
+        "bm": "Ubahan"
+      },
+      "theme": {
+        "en": "Relationship and Algebra",
+        "bm": "Perkaitan dan Algebra"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Direct Variation",
+            "bm": "Ubahan Langsung"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Inverse Variation",
+            "bm": "Ubahan Songsang"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Combined Variation",
+            "bm": "Ubahan Bergabung"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Matrices",
+        "bm": "Matriks"
+      },
+      "theme": {
+        "en": "Numbers and Operations",
+        "bm": "Nombor dan Operasi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Matrices",
+            "bm": "Matriks"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Basic Operations on Matrices",
+            "bm": "Operasi Asas Matriks"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Consumer Mathematics: Insurance",
+        "bm": "Matematik Pengguna: Insurans"
+      },
+      "theme": {
+        "en": "Discrete Mathematics and Applications",
+        "bm": "Aplikasi Matematik"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Risk and Insurance Coverage",
+            "bm": "Risiko dan Perlindungan Insurans"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Consumer Mathematics: Taxation",
+        "bm": "Matematik Pengguna: Percukaian"
+      },
+      "theme": {
+        "en": "Discrete Mathematics and Applications",
+        "bm": "Aplikasi Matematik"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Taxation",
+            "bm": "Percukaian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Congruency, Enlargement and Combined Transformations",
+        "bm": "Kekongruenan, Pembesaran dan Gabungan Transformasi"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Congruency",
+            "bm": "Kekongruenan"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Enlargement",
+            "bm": "Pembesaran"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Combined Transformations",
+            "bm": "Gabungan Transformasi"
+          }
+        },
+        {
+          "code": "5.4",
+          "title": {
+            "en": "Tessellation",
+            "bm": "Teselasi"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": {
+        "en": "Ratios and Graphs of Trigonometric Functions",
+        "bm": "Nisbah dan Graf Fungsi Trigonometri"
+      },
+      "theme": {
+        "en": "Measurement and Geometry",
+        "bm": "Sukatan dan Geometri"
+      },
+      "subtopics": [
+        {
+          "code": "6.1",
+          "title": {
+            "en": "The Value of Sine, Cosine and Tangent for 0° ≤ θ ≤ 360°",
+            "bm": "Nilai Sinus, Kosinus dan Tangen bagi Sudut 0° ≤ θ ≤ 360°"
+          }
+        },
+        {
+          "code": "6.2",
+          "title": {
+            "en": "The Graphs of Sine, Cosine and Tangent Functions",
+            "bm": "Graf Fungsi Sinus, Kosinus dan Tangen"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": {
+        "en": "Measures of Dispersion for Grouped Data",
+        "bm": "Sukatan Serakan Data Terkumpul"
+      },
+      "theme": {
+        "en": "Statistics and Probability",
+        "bm": "Statistik dan Kebarangkalian"
+      },
+      "subtopics": [
+        {
+          "code": "7.1",
+          "title": {
+            "en": "Dispersion",
+            "bm": "Serakan"
+          }
+        },
+        {
+          "code": "7.2",
+          "title": {
+            "en": "Measures of Dispersion",
+            "bm": "Sukatan Serakan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": {
+        "en": "Mathematical Modeling",
+        "bm": "Pemodelan Matematik"
+      },
+      "theme": {
+        "en": "Discrete Mathematics and Applications",
+        "bm": "Aplikasi Matematik"
+      },
+      "subtopics": [
+        {
+          "code": "8.1",
+          "title": {
+            "en": "Mathematical Modeling",
+            "bm": "Pemodelan Matematik"
+          }
+        }
+      ]
+    }
+  ]
+}

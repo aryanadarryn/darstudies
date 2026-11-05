@@ -1,0 +1,158 @@
+{
+  "chapterId": "f5addmath-02",
+  "reviewed": false,
+  "subtopics": {
+    "f5addmath-02-01": {
+      "keyPoints": [
+        {
+          "en": "Factorise to remove 0/0.",
+          "bm": "Faktorkan untuk menghapus 0/0."
+        },
+        {
+          "en": "First principles: limit of δy/δx.",
+          "bm": "Prinsip pertama: had δy/δx."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "First principles",
+            "bm": "Prinsip pertama"
+          },
+          "meaning": {
+            "en": "Derivative from a limit.",
+            "bm": "Terbitan daripada had."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Limit of (x²−1)/(x−1) at 1?",
+          "bm": "Had (x²−1)/(x−1) pada 1?"
+        },
+        "answer": {
+          "en": "2",
+          "bm": "2"
+        }
+      },
+      "tip": {
+        "en": "Try substitution first.",
+        "bm": "Cuba penggantian dahulu."
+      }
+    },
+    "f5addmath-02-02": {
+      "keyPoints": [
+        {
+          "en": "Apply power, product, quotient and chain rules.",
+          "bm": "Guna petua kuasa, hasil darab, hasil bahagi dan rantai."
+        },
+        {
+          "en": "Rewrite 1/x as x⁻¹.",
+          "bm": "Tulis semula 1/x sebagai x⁻¹."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Gradient function",
+            "bm": "Fungsi kecerunan"
+          },
+          "meaning": {
+            "en": "dy/dx.",
+            "bm": "dy/dx."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "d/dx(1/x)?",
+          "bm": "d/dx(1/x)?"
+        },
+        "answer": {
+          "en": "−1/x²",
+          "bm": "−1/x²"
+        }
+      },
+      "tip": {
+        "en": "Choose the rule before you start.",
+        "bm": "Pilih petua sebelum mula."
+      }
+    },
+    "f5addmath-02-03": {
+      "keyPoints": [
+        {
+          "en": "Differentiate dy/dx again.",
+          "bm": "Bezakan dy/dx sekali lagi."
+        },
+        {
+          "en": "Use it to classify turning points.",
+          "bm": "Gunakannya untuk mengklasifikasi titik pusingan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Second derivative",
+            "bm": "Terbitan kedua"
+          },
+          "meaning": {
+            "en": "d²y/dx²",
+            "bm": "d²y/dx²"
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "y = x² : d²y/dx²?",
+          "bm": "y = x² : d²y/dx²?"
+        },
+        "answer": {
+          "en": "2",
+          "bm": "2"
+        }
+      },
+      "tip": {
+        "en": "Zero means the test is inconclusive.",
+        "bm": "Sifar bermaksud ujian tidak muktamad."
+      }
+    },
+    "f5addmath-02-04": {
+      "keyPoints": [
+        {
+          "en": "Tangents, normals, optimisation, rates and small changes.",
+          "bm": "Tangen, normal, pengoptimuman, kadar dan perubahan kecil."
+        },
+        {
+          "en": "Express the quantity in one variable first.",
+          "bm": "Ungkapkan kuantiti dalam satu pemboleh ubah dahulu."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Optimisation",
+            "bm": "Pengoptimuman"
+          },
+          "meaning": {
+            "en": "Finding a max or min.",
+            "bm": "Mencari maks atau min."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Small change formula?",
+          "bm": "Rumus perubahan kecil?"
+        },
+        "answer": {
+          "en": "δy ≈ (dy/dx)δx",
+          "bm": "δy ≈ (dy/dx)δx"
+        }
+      },
+      "tip": {
+        "en": "Always confirm max or min.",
+        "bm": "Sentiasa sahkan maks atau min."
+      }
+    }
+  }
+}

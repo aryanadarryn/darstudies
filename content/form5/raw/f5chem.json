@@ -1,0 +1,234 @@
+{
+  "id": "f5chem",
+  "name": {
+    "en": "Chemistry",
+    "bm": "Kimia"
+  },
+  "short": {
+    "en": "Chemistry",
+    "bm": "Kimia"
+  },
+  "color": "#ea580c",
+  "source": "Chapter and subtopic titles follow the KSSM Chemistry Form 5 textbook list (5 chapters). Learning content is original.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": {
+        "en": "Redox Equilibrium",
+        "bm": "Keseimbangan Redoks"
+      },
+      "theme": {
+        "en": "Interaction between Matter",
+        "bm": "Interaksi antara Jirim"
+      },
+      "subtopics": [
+        {
+          "code": "1.1",
+          "title": {
+            "en": "Oxidation and Reduction",
+            "bm": "Pengoksidaan dan Penurunan"
+          }
+        },
+        {
+          "code": "1.2",
+          "title": {
+            "en": "Standard Electrode Potential",
+            "bm": "Keupayaan Elektrod Piawai"
+          }
+        },
+        {
+          "code": "1.3",
+          "title": {
+            "en": "Voltaic Cell",
+            "bm": "Sel Kimia"
+          }
+        },
+        {
+          "code": "1.4",
+          "title": {
+            "en": "Electrolytic Cell",
+            "bm": "Sel Elektrolisis"
+          }
+        },
+        {
+          "code": "1.5",
+          "title": {
+            "en": "Extraction of Metal from its Ore",
+            "bm": "Pengekstrakan Logam daripada Bijihnya"
+          }
+        },
+        {
+          "code": "1.6",
+          "title": {
+            "en": "Rusting",
+            "bm": "Pengaratan"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": {
+        "en": "Carbon Compound",
+        "bm": "Sebatian Karbon"
+      },
+      "theme": {
+        "en": "Carbon Chemistry and Applications",
+        "bm": "Kimia Karbon dan Aplikasi"
+      },
+      "subtopics": [
+        {
+          "code": "2.1",
+          "title": {
+            "en": "Types of Carbon Compounds",
+            "bm": "Jenis-jenis Sebatian Karbon"
+          }
+        },
+        {
+          "code": "2.2",
+          "title": {
+            "en": "Homologous Series",
+            "bm": "Siri Homolog"
+          }
+        },
+        {
+          "code": "2.3",
+          "title": {
+            "en": "Chemical Properties and Interconversion",
+            "bm": "Sifat Kimia dan Saling Pertukaran Sebatian"
+          }
+        },
+        {
+          "code": "2.4",
+          "title": {
+            "en": "Isomers and IUPAC Naming",
+            "bm": "Isomer dan Penamaan IUPAC"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": {
+        "en": "Thermochemistry",
+        "bm": "Termokimia"
+      },
+      "theme": {
+        "en": "Heat",
+        "bm": "Haba"
+      },
+      "subtopics": [
+        {
+          "code": "3.1",
+          "title": {
+            "en": "Heat Change in Reactions",
+            "bm": "Perubahan Haba dalam Tindak Balas"
+          }
+        },
+        {
+          "code": "3.2",
+          "title": {
+            "en": "Heat of Reaction",
+            "bm": "Haba Tindak Balas"
+          }
+        },
+        {
+          "code": "3.3",
+          "title": {
+            "en": "Application of Exothermic and Endothermic Reactions in Daily Life",
+            "bm": "Aplikasi Tindak Balas Eksotermik dan Endotermik dalam Kehidupan Harian"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": {
+        "en": "Polymer",
+        "bm": "Polimer"
+      },
+      "theme": {
+        "en": "Technology in Chemistry",
+        "bm": "Teknologi dalam Kimia"
+      },
+      "subtopics": [
+        {
+          "code": "4.1",
+          "title": {
+            "en": "Polymer",
+            "bm": "Polimer"
+          }
+        },
+        {
+          "code": "4.2",
+          "title": {
+            "en": "Natural Rubber",
+            "bm": "Getah Asli"
+          }
+        },
+        {
+          "code": "4.3",
+          "title": {
+            "en": "Synthetic Rubber",
+            "bm": "Getah Sintetik"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": {
+        "en": "Consumer and Industrial Chemistry",
+        "bm": "Kimia Konsumer dan Industri"
+      },
+      "theme": {
+        "en": "Technology in Chemistry",
+        "bm": "Teknologi dalam Kimia"
+      },
+      "subtopics": [
+        {
+          "code": "5.1",
+          "title": {
+            "en": "Oils and Fats",
+            "bm": "Minyak dan Lemak"
+          }
+        },
+        {
+          "code": "5.2",
+          "title": {
+            "en": "Cleaning Agents",
+            "bm": "Bahan Pencuci"
+          }
+        },
+        {
+          "code": "5.3",
+          "title": {
+            "en": "Food Additives",
+            "bm": "Bahan Tambah Makanan"
+          }
+        },
+        {
+          "code": "5.4",
+          "title": {
+            "en": "Medicines and Cosmetics",
+            "bm": "Ubat-ubatan dan Bahan Kosmetik"
+          }
+        },
+        {
+          "code": "5.5",
+          "title": {
+            "en": "Application of Nanotechnology in Industry",
+            "bm": "Aplikasi Nanoteknologi dalam Industri"
+          }
+        },
+        {
+          "code": "5.6",
+          "title": {
+            "en": "Application of Green Technology in Industrial Waste Management",
+            "bm": "Aplikasi Teknologi Hijau dalam Pengurusan Sisa Industri"
+          }
+        }
+      ]
+    }
+  ]
+}

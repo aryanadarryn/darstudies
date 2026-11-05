@@ -1,0 +1,416 @@
+{
+  "chapterId": "f5math-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Weather forecasts, dam designs and phone batteries all rely on mathematical models that turn a real problem into equations.",
+      "bm": "Ramalan cuaca, reka bentuk empangan dan bateri telefon bergantung pada model matematik yang menukar masalah sebenar kepada persamaan."
+    },
+    "bigIdeas": [
+      {
+        "en": "Modeling turns a real problem into mathematics.",
+        "bm": "Pemodelan menukar masalah sebenar kepada matematik."
+      },
+      {
+        "en": "Linear, quadratic and exponential models fit different patterns.",
+        "bm": "Model linear, kuadratik dan eksponen sesuai dengan corak berbeza."
+      },
+      {
+        "en": "Check and refine the model.",
+        "bm": "Semak dan perhalusi model."
+      }
+    ],
+    "infographic": {
+      "kind": "cycle",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Identify the problem",
+              "bm": "Kenal pasti masalah"
+            },
+            "detail": {
+              "en": "Define variables",
+              "bm": "Takrif pemboleh ubah"
+            }
+          },
+          {
+            "title": {
+              "en": "Make assumptions",
+              "bm": "Buat andaian"
+            },
+            "detail": {
+              "en": "Simplify reality",
+              "bm": "Permudahkan realiti"
+            }
+          },
+          {
+            "title": {
+              "en": "Apply mathematics",
+              "bm": "Gunakan matematik"
+            },
+            "detail": {
+              "en": "Solve the model",
+              "bm": "Selesaikan model"
+            }
+          },
+          {
+            "title": {
+              "en": "Verify and interpret",
+              "bm": "Sahkan dan tafsir"
+            },
+            "detail": {
+              "en": "Does it fit?",
+              "bm": "Adakah ia sesuai?"
+            }
+          },
+          {
+            "title": {
+              "en": "Refine",
+              "bm": "Perhalusi"
+            },
+            "detail": {
+              "en": "Improve the model",
+              "bm": "Perbaiki model"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Model",
+          "bm": "Model"
+        },
+        "definition": {
+          "en": "A mathematical description of a real situation.",
+          "bm": "Huraian matematik bagi situasi sebenar."
+        }
+      },
+      {
+        "term": {
+          "en": "Assumption",
+          "bm": "Andaian"
+        },
+        "definition": {
+          "en": "A simplification made to allow a solution.",
+          "bm": "Permudahan untuk membolehkan penyelesaian."
+        }
+      },
+      {
+        "term": {
+          "en": "Exponential growth",
+          "bm": "Pertumbuhan eksponen"
+        },
+        "definition": {
+          "en": "Growth by a constant factor.",
+          "bm": "Pertumbuhan dengan faktor tetap."
+        }
+      }
+    ],
+    "formulaIds": [],
+    "workedExample": {
+      "question": {
+        "en": "A plan costs RM30 plus RM0.50 per GB. Model the cost and find it for 20 GB.",
+        "bm": "Pelan berharga RM30 dan RM0.50 setiap GB. Modelkan kos dan cari bagi 20 GB."
+      },
+      "steps": [
+        {
+          "en": "C = 0.5g + 30",
+          "bm": "C = 0.5g + 30"
+        },
+        {
+          "en": "0.5(20) + 30",
+          "bm": "0.5(20) + 30"
+        }
+      ],
+      "answer": {
+        "en": "RM40",
+        "bm": "RM40"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-08-q01",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Cost C = 2n + 5. Find C when n = 10.",
+        "bm": "Kos C = 2n + 5. Cari C apabila n = 10."
+      },
+      "explanation": {
+        "en": "2(10) + 5.",
+        "bm": "2(10) + 5."
+      },
+      "difficulty": 1,
+      "answer": 25,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-08-q02",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A taxi charges RM4 plus RM1.20 per km. Find the fare for 10 km.",
+        "bm": "Teksi mengenakan RM4 dan RM1.20 setiap km. Cari tambang bagi 10 km."
+      },
+      "explanation": {
+        "en": "4 + 1.2 × 10.",
+        "bm": "4 + 1.2 × 10."
+      },
+      "difficulty": 1,
+      "answer": 16,
+      "tolerance": 0.001,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-08-q03",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Model h = −5t² + 20t. Find h when t = 2.",
+        "bm": "Model h = −5t² + 20t. Cari h apabila t = 2."
+      },
+      "explanation": {
+        "en": "−20 + 40.",
+        "bm": "−20 + 40."
+      },
+      "difficulty": 2,
+      "answer": 20,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-08-q04",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Model h = −5t² + 20t. At what t (other than 0) is h = 0?",
+        "bm": "Model h = −5t² + 20t. Pada t berapa (selain 0) h = 0?"
+      },
+      "explanation": {
+        "en": "t(20 − 5t) = 0.",
+        "bm": "t(20 − 5t) = 0."
+      },
+      "difficulty": 2,
+      "answer": 4,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-08-q05",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Population P = 1000(2)^t doubles yearly. Find P when t = 3.",
+        "bm": "Populasi P = 1000(2)^t berganda setiap tahun. Cari P apabila t = 3."
+      },
+      "explanation": {
+        "en": "1000 × 8.",
+        "bm": "1000 × 8."
+      },
+      "difficulty": 3,
+      "answer": 8000,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-08-q06",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "RM1000 grows 5% yearly: A = 1000(1.05)^t. Find A at t = 2, to 2 d.p.",
+        "bm": "RM1000 berkembang 5% setahun: A = 1000(1.05)^t. Cari A pada t = 2, kepada 2 t.p."
+      },
+      "explanation": {
+        "en": "1000 × 1.1025.",
+        "bm": "1000 × 1.1025."
+      },
+      "difficulty": 3,
+      "answer": 1102.5,
+      "tolerance": 0.001,
+      "unit": "RM"
+    },
+    {
+      "id": "f5math-08-q07",
+      "subtopicId": "f5math-08-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "A rectangle has perimeter 20 m. Area A = x(10 − x). Find the greatest area.",
+        "bm": "Segi empat tepat dengan perimeter 20 m. Luas A = x(10 − x). Cari luas terbesar."
+      },
+      "explanation": {
+        "en": "At x = 5, A = 25.",
+        "bm": "Pada x = 5, A = 25."
+      },
+      "difficulty": 3,
+      "answer": 25,
+      "tolerance": 0,
+      "unit": "m²"
+    },
+    {
+      "id": "f5math-08-q08",
+      "subtopicId": "f5math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The first step of modeling is to…",
+        "bm": "Langkah pertama pemodelan ialah…"
+      },
+      "explanation": {
+        "en": "Know the problem first.",
+        "bm": "Fahami masalah dahulu."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "identify and define the problem",
+          "bm": "mengenal pasti dan mentakrif masalah"
+        },
+        {
+          "en": "write the report",
+          "bm": "menulis laporan"
+        },
+        {
+          "en": "draw conclusions",
+          "bm": "membuat kesimpulan"
+        },
+        {
+          "en": "skip assumptions",
+          "bm": "mengabaikan andaian"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-08-q09",
+      "subtopicId": "f5math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Constant rate of change suggests a…",
+        "bm": "Kadar perubahan tetap mencadangkan model…"
+      },
+      "explanation": {
+        "en": "Graph is a straight line.",
+        "bm": "Graf ialah garis lurus."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "linear model",
+          "bm": "linear"
+        },
+        {
+          "en": "quadratic model",
+          "bm": "kuadratik"
+        },
+        {
+          "en": "exponential model",
+          "bm": "eksponen"
+        },
+        {
+          "en": "circular model",
+          "bm": "bulatan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-08-q10",
+      "subtopicId": "f5math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The path of a thrown ball is best modeled by…",
+        "bm": "Laluan bola yang dibaling paling sesuai dimodelkan oleh…"
+      },
+      "explanation": {
+        "en": "It follows a parabola.",
+        "bm": "Ia mengikut parabola."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "a quadratic function",
+          "bm": "fungsi kuadratik"
+        },
+        {
+          "en": "a linear function",
+          "bm": "fungsi linear"
+        },
+        {
+          "en": "a constant",
+          "bm": "pemalar"
+        },
+        {
+          "en": "a matrix",
+          "bm": "matriks"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-08-q11",
+      "subtopicId": "f5math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Bacteria doubling every hour suggests…",
+        "bm": "Bakteria berganda setiap jam mencadangkan…"
+      },
+      "explanation": {
+        "en": "Constant factor.",
+        "bm": "Faktor tetap."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "an exponential model",
+          "bm": "model eksponen"
+        },
+        {
+          "en": "a linear model",
+          "bm": "model linear"
+        },
+        {
+          "en": "a straight line",
+          "bm": "garis lurus"
+        },
+        {
+          "en": "no pattern",
+          "bm": "tiada corak"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-08-q12",
+      "subtopicId": "f5math-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "If a model's predictions differ from real data, you should…",
+        "bm": "Jika ramalan model berbeza daripada data sebenar, anda perlu…"
+      },
+      "explanation": {
+        "en": "Modeling is a cycle.",
+        "bm": "Pemodelan ialah kitaran."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "review assumptions and refine",
+          "bm": "menyemak andaian dan memperhalusi"
+        },
+        {
+          "en": "change the data",
+          "bm": "menukar data"
+        },
+        {
+          "en": "ignore it",
+          "bm": "mengabaikannya"
+        },
+        {
+          "en": "stop modeling",
+          "bm": "berhenti memodelkan"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

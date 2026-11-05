@@ -1,0 +1,370 @@
+{
+  "chapterId": "f5bi-04",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Linkers are what make your writing flow. Examiners notice them quickly.",
+      "bm": "Linkers are what make your writing flow. Examiners notice them quickly."
+    },
+    "bigIdeas": [
+      {
+        "en": "Relative clauses add information.",
+        "bm": "Relative clauses add information."
+      },
+      {
+        "en": "Linkers show contrast, reason and addition.",
+        "bm": "Linkers show contrast, reason and addition."
+      }
+    ],
+    "infographic": {
+      "kind": "concept-map",
+      "data": {
+        "center": {
+          "en": "Purpose",
+          "bm": "Purpose"
+        },
+        "nodes": [
+          {
+            "label": {
+              "en": "Addition",
+              "bm": "Addition"
+            },
+            "detail": {
+              "en": "moreover, furthermore",
+              "bm": "moreover, furthermore"
+            }
+          },
+          {
+            "label": {
+              "en": "Contrast",
+              "bm": "Contrast"
+            },
+            "detail": {
+              "en": "however, although",
+              "bm": "however, although"
+            }
+          },
+          {
+            "label": {
+              "en": "Reason",
+              "bm": "Reason"
+            },
+            "detail": {
+              "en": "because, since",
+              "bm": "because, since"
+            }
+          },
+          {
+            "label": {
+              "en": "Result",
+              "bm": "Result"
+            },
+            "detail": {
+              "en": "therefore, as a result",
+              "bm": "therefore, as a result"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Relative pronoun",
+          "bm": "Relative pronoun"
+        },
+        "definition": {
+          "en": "Who, which, that, whose.",
+          "bm": "Who, which, that, whose."
+        }
+      },
+      {
+        "term": {
+          "en": "Contrast",
+          "bm": "Contrast"
+        },
+        "definition": {
+          "en": "Showing a difference.",
+          "bm": "Showing a difference."
+        }
+      },
+      {
+        "term": {
+          "en": "Cohesion",
+          "bm": "Cohesion"
+        },
+        "definition": {
+          "en": "How ideas connect.",
+          "bm": "How ideas connect."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bi-04-q01",
+      "subtopicId": "f5bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The girl ___ won the prize is my sister.",
+        "bm": "The girl ___ won the prize is my sister."
+      },
+      "explanation": {
+        "en": "For people.",
+        "bm": "For people."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "whose",
+          "bm": "whose"
+        },
+        {
+          "en": "where",
+          "bm": "where"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q02",
+      "subtopicId": "f5bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "That is the book ___ cover is torn.",
+        "bm": "That is the book ___ cover is torn."
+      },
+      "explanation": {
+        "en": "Possession.",
+        "bm": "Possession."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "whose",
+          "bm": "whose"
+        },
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "whom",
+          "bm": "whom"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q03",
+      "subtopicId": "f5bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "This is the town ___ I was born.",
+        "bm": "This is the town ___ I was born."
+      },
+      "explanation": {
+        "en": "For places.",
+        "bm": "For places."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "where",
+          "bm": "where"
+        },
+        {
+          "en": "which",
+          "bm": "which"
+        },
+        {
+          "en": "who",
+          "bm": "who"
+        },
+        {
+          "en": "whose",
+          "bm": "whose"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q04",
+      "subtopicId": "f5bi-04-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which needs commas?",
+        "bm": "Which needs commas?"
+      },
+      "explanation": {
+        "en": "Non-defining clause.",
+        "bm": "Non-defining clause."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "My mother, who is a doctor, works in Ipoh.",
+          "bm": "My mother, who is a doctor, works in Ipoh."
+        },
+        {
+          "en": "The boy who won is here.",
+          "bm": "The boy who won is here."
+        },
+        {
+          "en": "The car that I want is red.",
+          "bm": "The car that I want is red."
+        },
+        {
+          "en": "People who smoke risk illness.",
+          "bm": "People who smoke risk illness."
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q05",
+      "subtopicId": "f5bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "___ it was raining, we played outside.",
+        "bm": "___ it was raining, we played outside."
+      },
+      "explanation": {
+        "en": "Contrast.",
+        "bm": "Contrast."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Although",
+          "bm": "Although"
+        },
+        {
+          "en": "Because",
+          "bm": "Because"
+        },
+        {
+          "en": "Therefore",
+          "bm": "Therefore"
+        },
+        {
+          "en": "So",
+          "bm": "So"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q06",
+      "subtopicId": "f5bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "He studied hard; ___, he passed.",
+        "bm": "He studied hard; ___, he passed."
+      },
+      "explanation": {
+        "en": "Result.",
+        "bm": "Result."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "therefore",
+          "bm": "therefore"
+        },
+        {
+          "en": "although",
+          "bm": "although"
+        },
+        {
+          "en": "however",
+          "bm": "however"
+        },
+        {
+          "en": "despite",
+          "bm": "despite"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q07",
+      "subtopicId": "f5bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "___ the traffic, we arrived on time.",
+        "bm": "___ the traffic, we arrived on time."
+      },
+      "explanation": {
+        "en": "\"Despite\" + noun.",
+        "bm": "\"Despite\" + noun."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Despite",
+          "bm": "Despite"
+        },
+        {
+          "en": "Although",
+          "bm": "Although"
+        },
+        {
+          "en": "However",
+          "bm": "However"
+        },
+        {
+          "en": "Because",
+          "bm": "Because"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bi-04-q08",
+      "subtopicId": "f5bi-04-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which sentence is correct?",
+        "bm": "Which sentence is correct?"
+      },
+      "explanation": {
+        "en": "Do not pair \"although\" with \"but\".",
+        "bm": "Do not pair \"although\" with \"but\"."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Although he was tired, he finished.",
+          "bm": "Although he was tired, he finished."
+        },
+        {
+          "en": "Although he was tired, but he finished.",
+          "bm": "Although he was tired, but he finished."
+        },
+        {
+          "en": "Despite he was tired, he finished.",
+          "bm": "Despite he was tired, he finished."
+        },
+        {
+          "en": "However he was tired he finished.",
+          "bm": "However he was tired he finished."
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

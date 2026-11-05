@@ -1,0 +1,380 @@
+{
+  "chapterId": "f5bio-08",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Malaysia's forests are among the world's oldest and richest, and many medicines still come from wild species.",
+      "bm": "Hutan Malaysia antara yang tertua dan terkaya di dunia, dan banyak ubat masih berasal daripada spesies liar."
+    },
+    "bigIdeas": [
+      {
+        "en": "Biodiversity spans genes, species and ecosystems.",
+        "bm": "Biodiversiti merangkumi gen, spesies dan ekosistem."
+      },
+      {
+        "en": "Organisms are classified using taxonomy.",
+        "bm": "Organisma dikelaskan menggunakan taksonomi."
+      },
+      {
+        "en": "Conservation protects the variety of life.",
+        "bm": "Pemuliharaan melindungi kepelbagaian hidupan."
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Kingdom",
+              "bm": "Alam"
+            },
+            "detail": {
+              "en": "Largest",
+              "bm": "Terbesar"
+            }
+          },
+          {
+            "title": {
+              "en": "Phylum",
+              "bm": "Filum"
+            }
+          },
+          {
+            "title": {
+              "en": "Class",
+              "bm": "Kelas"
+            }
+          },
+          {
+            "title": {
+              "en": "Order",
+              "bm": "Order"
+            }
+          },
+          {
+            "title": {
+              "en": "Family",
+              "bm": "Famili"
+            }
+          },
+          {
+            "title": {
+              "en": "Genus",
+              "bm": "Genus"
+            }
+          },
+          {
+            "title": {
+              "en": "Species",
+              "bm": "Spesies"
+            },
+            "detail": {
+              "en": "Smallest",
+              "bm": "Terkecil"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Taxonomy",
+          "bm": "Taksonomi"
+        },
+        "definition": {
+          "en": "Science of classifying organisms.",
+          "bm": "Sains pengelasan organisma."
+        }
+      },
+      {
+        "term": {
+          "en": "Binomial name",
+          "bm": "Nama binomial"
+        },
+        "definition": {
+          "en": "Genus and species, such as Homo sapiens.",
+          "bm": "Genus dan spesies, seperti Homo sapiens."
+        }
+      },
+      {
+        "term": {
+          "en": "In-situ conservation",
+          "bm": "Pemuliharaan in-situ"
+        },
+        "definition": {
+          "en": "Protection in natural habitat.",
+          "bm": "Perlindungan di habitat semula jadi."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-08-q01",
+      "subtopicId": "f5bio-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The correct order begins…",
+        "bm": "Urutan yang betul bermula…"
+      },
+      "explanation": {
+        "en": "Then Order, Family, Genus, Species.",
+        "bm": "Kemudian Order, Famili, Genus, Spesies."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Kingdom, Phylum, Class",
+          "bm": "Alam, Filum, Kelas"
+        },
+        {
+          "en": "Class, Order, Kingdom",
+          "bm": "Kelas, Order, Alam"
+        },
+        {
+          "en": "Species, Genus, Kingdom",
+          "bm": "Spesies, Genus, Alam"
+        },
+        {
+          "en": "Family, Order, Kingdom",
+          "bm": "Famili, Order, Alam"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q02",
+      "subtopicId": "f5bio-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Binomial names are…",
+        "bm": "Nama binomial…"
+      },
+      "explanation": {
+        "en": "Created by Linnaeus.",
+        "bm": "Dicipta oleh Linnaeus."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "written with genus first and italicised",
+          "bm": "ditulis dengan genus dahulu dan condong"
+        },
+        {
+          "en": "always in English",
+          "bm": "sentiasa dalam Inggeris"
+        },
+        {
+          "en": "chosen freely",
+          "bm": "dipilih sesuka hati"
+        },
+        {
+          "en": "one word",
+          "bm": "satu perkataan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q03",
+      "subtopicId": "f5bio-08-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which kingdom has prokaryotes?",
+        "bm": "Alam manakah ada prokariot?"
+      },
+      "explanation": {
+        "en": "They have no true nucleus.",
+        "bm": "Tiada nukleus sebenar."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Bacteria",
+          "bm": "Bakteria"
+        },
+        {
+          "en": "Fungi",
+          "bm": "Fungi"
+        },
+        {
+          "en": "Plantae",
+          "bm": "Plantae"
+        },
+        {
+          "en": "Animalia",
+          "bm": "Animalia"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q04",
+      "subtopicId": "f5bio-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is a benefit of biodiversity?",
+        "bm": "Yang manakah manfaat biodiversiti?"
+      },
+      "explanation": {
+        "en": "Many drugs come from plants.",
+        "bm": "Banyak ubat daripada tumbuhan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "Sources of medicine",
+          "bm": "Sumber ubat"
+        },
+        {
+          "en": "More pollution",
+          "bm": "Lebih pencemaran"
+        },
+        {
+          "en": "Less food",
+          "bm": "Kurang makanan"
+        },
+        {
+          "en": "Fewer species",
+          "bm": "Kurang spesies"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q05",
+      "subtopicId": "f5bio-08-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Forests help regulate climate by…",
+        "bm": "Hutan mengawal iklim dengan…"
+      },
+      "explanation": {
+        "en": "Trees absorb CO₂.",
+        "bm": "Pokok menyerap CO₂."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "storing carbon",
+          "bm": "menyimpan karbon"
+        },
+        {
+          "en": "adding CO₂",
+          "bm": "menambah CO₂"
+        },
+        {
+          "en": "stopping rain",
+          "bm": "menghentikan hujan"
+        },
+        {
+          "en": "raising temperature",
+          "bm": "menaikkan suhu"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q06",
+      "subtopicId": "f5bio-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Taman Negara is an example of…",
+        "bm": "Taman Negara ialah contoh…"
+      },
+      "explanation": {
+        "en": "In the natural habitat.",
+        "bm": "Di habitat semula jadi."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "in-situ conservation",
+          "bm": "pemuliharaan in-situ"
+        },
+        {
+          "en": "ex-situ conservation",
+          "bm": "pemuliharaan ex-situ"
+        },
+        {
+          "en": "pollution",
+          "bm": "pencemaran"
+        },
+        {
+          "en": "extinction",
+          "bm": "kepupusan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q07",
+      "subtopicId": "f5bio-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A zoo breeding programme is…",
+        "bm": "Program pembiakan zoo ialah…"
+      },
+      "explanation": {
+        "en": "Outside the natural habitat.",
+        "bm": "Di luar habitat semula jadi."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "ex-situ conservation",
+          "bm": "pemuliharaan ex-situ"
+        },
+        {
+          "en": "in-situ conservation",
+          "bm": "pemuliharaan in-situ"
+        },
+        {
+          "en": "logging",
+          "bm": "pembalakan"
+        },
+        {
+          "en": "invasive spread",
+          "bm": "penyebaran invasif"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-08-q08",
+      "subtopicId": "f5bio-08-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "An invasive species threatens biodiversity by…",
+        "bm": "Spesies invasif mengancam biodiversiti dengan…"
+      },
+      "explanation": {
+        "en": "It has few natural enemies.",
+        "bm": "Ia kurang musuh semula jadi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "outcompeting native species",
+          "bm": "mengatasi spesies asli"
+        },
+        {
+          "en": "adding variety only",
+          "bm": "menambah variasi sahaja"
+        },
+        {
+          "en": "protecting natives",
+          "bm": "melindungi spesies asli"
+        },
+        {
+          "en": "cleaning rivers",
+          "bm": "membersihkan sungai"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

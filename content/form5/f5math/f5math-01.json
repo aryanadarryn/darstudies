@@ -1,0 +1,455 @@
+{
+  "chapterId": "f5math-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Double your petrol and you drive twice as far; double the workers and the job takes half the time. Variation describes these rules.",
+      "bm": "Gandakan petrol dan jarak juga berganda; gandakan pekerja dan masa kerja separuh. Ubahan menghuraikan peraturan ini."
+    },
+    "bigIdeas": [
+      {
+        "en": "Direct: y = kxⁿ, both rise together.",
+        "bm": "Langsung: y = kxⁿ, kedua-duanya naik bersama."
+      },
+      {
+        "en": "Inverse: y = k/xⁿ, one rises as the other falls.",
+        "bm": "Songsang: y = k/xⁿ, satu naik apabila satu lagi turun."
+      },
+      {
+        "en": "Find k first, then use it.",
+        "bm": "Cari k dahulu, kemudian gunakannya."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Equation",
+            "bm": "Persamaan"
+          },
+          {
+            "en": "Example",
+            "bm": "Contoh"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Direct",
+              "bm": "Langsung"
+            },
+            "cells": [
+              {
+                "en": "y = kx",
+                "bm": "y = kx"
+              },
+              {
+                "en": "distance and time at fixed speed",
+                "bm": "jarak dan masa pada laju tetap"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Inverse",
+              "bm": "Songsang"
+            },
+            "cells": [
+              {
+                "en": "y = k/x",
+                "bm": "y = k/x"
+              },
+              {
+                "en": "speed and time for a fixed trip",
+                "bm": "laju dan masa bagi perjalanan tetap"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Joint",
+              "bm": "Tercantum"
+            },
+            "cells": [
+              {
+                "en": "y = kxz",
+                "bm": "y = kxz"
+              },
+              {
+                "en": "simple interest",
+                "bm": "faedah mudah"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Combined",
+              "bm": "Bergabung"
+            },
+            "cells": [
+              {
+                "en": "y = kx/z",
+                "bm": "y = kx/z"
+              },
+              {
+                "en": "gas pressure",
+                "bm": "tekanan gas"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Constant of variation",
+          "bm": "Pemalar ubahan"
+        },
+        "definition": {
+          "en": "The fixed value k.",
+          "bm": "Nilai tetap k."
+        }
+      },
+      {
+        "term": {
+          "en": "Directly proportional",
+          "bm": "Berkadar terus"
+        },
+        "definition": {
+          "en": "y ∝ x",
+          "bm": "y ∝ x"
+        }
+      },
+      {
+        "term": {
+          "en": "Inversely proportional",
+          "bm": "Berkadar songsang"
+        },
+        "definition": {
+          "en": "y ∝ 1/x",
+          "bm": "y ∝ 1/x"
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-var-direct",
+      "f5-var-inverse"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "y varies directly as x. y = 12 when x = 3. Find y when x = 7.",
+        "bm": "y berubah secara langsung dengan x. y = 12 apabila x = 3. Cari y apabila x = 7."
+      },
+      "steps": [
+        {
+          "en": "y = kx, so k = 12 ÷ 3 = 4.",
+          "bm": "y = kx, maka k = 12 ÷ 3 = 4."
+        },
+        {
+          "en": "y = 4 × 7",
+          "bm": "y = 4 × 7"
+        }
+      ],
+      "answer": {
+        "en": "28",
+        "bm": "28"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5math-01-q01",
+      "subtopicId": "f5math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x. y = 12 when x = 3. Find y when x = 7.",
+        "bm": "y berubah secara langsung dengan x. y = 12 apabila x = 3. Cari y apabila x = 7."
+      },
+      "explanation": {
+        "en": "k = 4; y = 4 × 7.",
+        "bm": "k = 4; y = 4 × 7."
+      },
+      "difficulty": 1,
+      "answer": 28,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q02",
+      "subtopicId": "f5math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x. y = 20 when x = 4. Find y when x = 9.",
+        "bm": "y berubah secara langsung dengan x. y = 20 apabila x = 4. Cari y apabila x = 9."
+      },
+      "explanation": {
+        "en": "k = 5; y = 5 × 9.",
+        "bm": "k = 5; y = 5 × 9."
+      },
+      "difficulty": 1,
+      "answer": 45,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q03",
+      "subtopicId": "f5math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x. y = 45 when x = 5. Find y when x = 3.",
+        "bm": "y berubah secara langsung dengan x. y = 45 apabila x = 5. Cari y apabila x = 3."
+      },
+      "explanation": {
+        "en": "k = 9; y = 9 × 3.",
+        "bm": "k = 9; y = 9 × 3."
+      },
+      "difficulty": 2,
+      "answer": 27,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q04",
+      "subtopicId": "f5math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x. y = 7 when x = 2. Find y when x = 8.",
+        "bm": "y berubah secara langsung dengan x. y = 7 apabila x = 2. Cari y apabila x = 8."
+      },
+      "explanation": {
+        "en": "k = 3.5; y = 3.5 × 8.",
+        "bm": "k = 3.5; y = 3.5 × 8."
+      },
+      "difficulty": 2,
+      "answer": 28,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q05",
+      "subtopicId": "f5math-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x². y = 18 when x = 3. Find y when x = 5.",
+        "bm": "y berubah secara langsung dengan x². y = 18 apabila x = 3. Cari y apabila x = 5."
+      },
+      "explanation": {
+        "en": "k = 2; y = 2 × 25.",
+        "bm": "k = 2; y = 2 × 25."
+      },
+      "difficulty": 3,
+      "answer": 50,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-01-q06",
+      "subtopicId": "f5math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies inversely as x. y = 6 when x = 4. Find y when x = 8.",
+        "bm": "y berubah secara songsang dengan x. y = 6 apabila x = 4. Cari y apabila x = 8."
+      },
+      "explanation": {
+        "en": "k = 24; y = 24 ÷ 8.",
+        "bm": "k = 24; y = 24 ÷ 8."
+      },
+      "difficulty": 1,
+      "answer": 3,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q07",
+      "subtopicId": "f5math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies inversely as x. y = 10 when x = 3. Find y when x = 5.",
+        "bm": "y berubah secara songsang dengan x. y = 10 apabila x = 3. Cari y apabila x = 5."
+      },
+      "explanation": {
+        "en": "k = 30; y = 30 ÷ 5.",
+        "bm": "k = 30; y = 30 ÷ 5."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q08",
+      "subtopicId": "f5math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies inversely as x. y = 12 when x = 5. Find y when x = 20.",
+        "bm": "y berubah secara songsang dengan x. y = 12 apabila x = 5. Cari y apabila x = 20."
+      },
+      "explanation": {
+        "en": "k = 60; y = 60 ÷ 20.",
+        "bm": "k = 60; y = 60 ÷ 20."
+      },
+      "difficulty": 2,
+      "answer": 3,
+      "tolerance": 0.001
+    },
+    {
+      "id": "f5math-01-q09",
+      "subtopicId": "f5math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies inversely as x². y = 4 when x = 3. Find y when x = 6.",
+        "bm": "y berubah secara songsang dengan x². y = 4 apabila x = 3. Cari y apabila x = 6."
+      },
+      "explanation": {
+        "en": "k = 36; y = 36 ÷ 36.",
+        "bm": "k = 36; y = 36 ÷ 36."
+      },
+      "difficulty": 3,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-01-q10",
+      "subtopicId": "f5math-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Eight workers finish a job in 15 days. How many days do 12 workers take?",
+        "bm": "Lapan pekerja menyiapkan kerja dalam 15 hari. Berapa hari bagi 12 pekerja?"
+      },
+      "explanation": {
+        "en": "k = 120; 120 ÷ 12.",
+        "bm": "k = 120; 120 ÷ 12."
+      },
+      "difficulty": 3,
+      "answer": 10,
+      "tolerance": 0,
+      "unit": "days"
+    },
+    {
+      "id": "f5math-01-q11",
+      "subtopicId": "f5math-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies jointly as x and z. y = 24 when x = 2 and z = 3. Find y when x = 5, z = 4.",
+        "bm": "y berubah secara tercantum dengan x dan z. y = 24 apabila x = 2 dan z = 3. Cari y apabila x = 5, z = 4."
+      },
+      "explanation": {
+        "en": "k = 4; y = 4 × 5 × 4.",
+        "bm": "k = 4; y = 4 × 5 × 4."
+      },
+      "difficulty": 2,
+      "answer": 80,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-01-q12",
+      "subtopicId": "f5math-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "y varies directly as x and inversely as z. y = 6 when x = 4, z = 2. Find y when x = 9, z = 3.",
+        "bm": "y berubah secara langsung dengan x dan secara songsang dengan z. y = 6 apabila x = 4, z = 2. Cari y apabila x = 9, z = 3."
+      },
+      "explanation": {
+        "en": "k = 3; y = 3 × 9 ÷ 3.",
+        "bm": "k = 3; y = 3 × 9 ÷ 3."
+      },
+      "difficulty": 3,
+      "answer": 9,
+      "tolerance": 0
+    },
+    {
+      "id": "f5math-01-q13",
+      "subtopicId": "f5math-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "The graph of y against x for direct variation is…",
+        "bm": "Graf y melawan x bagi ubahan langsung ialah…"
+      },
+      "explanation": {
+        "en": "y = kx has y-intercept 0.",
+        "bm": "y = kx mempunyai pintasan-y 0."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "a straight line through the origin",
+          "bm": "garis lurus melalui asalan"
+        },
+        {
+          "en": "a horizontal line",
+          "bm": "garis mengufuk"
+        },
+        {
+          "en": "a circle",
+          "bm": "bulatan"
+        },
+        {
+          "en": "a parabola opening down",
+          "bm": "parabola terbuka ke bawah"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-01-q14",
+      "subtopicId": "f5math-01-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "\"P varies jointly as Q and R\" is written…",
+        "bm": "\"P berubah secara tercantum dengan Q dan R\" ditulis…"
+      },
+      "explanation": {
+        "en": "Joint means multiplied.",
+        "bm": "Tercantum bermaksud didarab."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "P ∝ QR",
+          "bm": "P ∝ QR"
+        },
+        {
+          "en": "P ∝ Q/R",
+          "bm": "P ∝ Q/R"
+        },
+        {
+          "en": "P ∝ 1/QR",
+          "bm": "P ∝ 1/QR"
+        },
+        {
+          "en": "P = Q + R",
+          "bm": "P = Q + R"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5math-01-q15",
+      "subtopicId": "f5math-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which shows inverse variation?",
+        "bm": "Yang manakah ubahan songsang?"
+      },
+      "explanation": {
+        "en": "More speed means less time.",
+        "bm": "Lebih laju bermakna kurang masa."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "Speed and time on a fixed distance",
+          "bm": "Laju dan masa pada jarak tetap"
+        },
+        {
+          "en": "Cost and number of same-price items",
+          "bm": "Kos dan bilangan barang sama harga"
+        },
+        {
+          "en": "Age and shoe size",
+          "bm": "Umur dan saiz kasut"
+        },
+        {
+          "en": "Mass and weight",
+          "bm": "Jisim dan berat"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

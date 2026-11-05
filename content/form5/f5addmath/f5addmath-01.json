@@ -1,0 +1,467 @@
+{
+  "chapterId": "f5addmath-01",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Engineers prefer radians because arc length becomes simply s = rθ, with no messy 360 in the formula.",
+      "bm": "Jurutera memilih radian kerana panjang lengkok menjadi s = jθ tanpa 360 dalam rumus."
+    },
+    "bigIdeas": [
+      {
+        "en": "π radians = 180°.",
+        "bm": "π radian = 180°."
+      },
+      {
+        "en": "s = rθ",
+        "bm": "s = jθ"
+      },
+      {
+        "en": "A = ½r²θ",
+        "bm": "L = ½j²θ"
+      }
+    ],
+    "infographic": {
+      "kind": "process",
+      "data": {
+        "steps": [
+          {
+            "title": {
+              "en": "Convert to radians",
+              "bm": "Tukar kepada radian"
+            },
+            "detail": {
+              "en": "× π/180",
+              "bm": "× π/180"
+            }
+          },
+          {
+            "title": {
+              "en": "Arc",
+              "bm": "Lengkok"
+            },
+            "detail": {
+              "en": "s = rθ",
+              "bm": "s = jθ"
+            }
+          },
+          {
+            "title": {
+              "en": "Sector",
+              "bm": "Sektor"
+            },
+            "detail": {
+              "en": "A = ½r²θ",
+              "bm": "L = ½j²θ"
+            }
+          },
+          {
+            "title": {
+              "en": "Segment",
+              "bm": "Tembereng"
+            },
+            "detail": {
+              "en": "½r²(θ − sin θ)",
+              "bm": "½j²(θ − sin θ)"
+            }
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Radian",
+          "bm": "Radian"
+        },
+        "definition": {
+          "en": "Angle where arc length equals the radius.",
+          "bm": "Sudut apabila panjang lengkok sama dengan jejari."
+        }
+      },
+      {
+        "term": {
+          "en": "Sector",
+          "bm": "Sektor"
+        },
+        "definition": {
+          "en": "Region bounded by two radii and an arc.",
+          "bm": "Rantau dibatasi dua jejari dan lengkok."
+        }
+      },
+      {
+        "term": {
+          "en": "Segment",
+          "bm": "Tembereng"
+        },
+        "definition": {
+          "en": "Region bounded by a chord and an arc.",
+          "bm": "Rantau dibatasi perentas dan lengkok."
+        }
+      }
+    ],
+    "formulaIds": [
+      "f5-am-arc",
+      "f5-am-sector"
+    ],
+    "workedExample": {
+      "question": {
+        "en": "Find the arc length: r = 5 cm, θ = 1.2 rad.",
+        "bm": "Cari panjang lengkok: j = 5 cm, θ = 1.2 rad."
+      },
+      "steps": [
+        {
+          "en": "s = rθ",
+          "bm": "s = jθ"
+        },
+        {
+          "en": "5 × 1.2",
+          "bm": "5 × 1.2"
+        }
+      ],
+      "answer": {
+        "en": "6 cm",
+        "bm": "6 cm"
+      }
+    }
+  },
+  "questions": [
+    {
+      "id": "f5addmath-01-q01",
+      "subtopicId": "f5addmath-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 60° to radians (3 d.p.).",
+        "bm": "Tukar 60° kepada radian (3 t.p.)."
+      },
+      "explanation": {
+        "en": "60 × π/180.",
+        "bm": "60 × π/180."
+      },
+      "difficulty": 1,
+      "answer": 1.047,
+      "tolerance": 0.002,
+      "unit": "rad"
+    },
+    {
+      "id": "f5addmath-01-q02",
+      "subtopicId": "f5addmath-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 45° to radians (3 d.p.).",
+        "bm": "Tukar 45° kepada radian (3 t.p.)."
+      },
+      "explanation": {
+        "en": "45 × π/180.",
+        "bm": "45 × π/180."
+      },
+      "difficulty": 1,
+      "answer": 0.785,
+      "tolerance": 0.002,
+      "unit": "rad"
+    },
+    {
+      "id": "f5addmath-01-q03",
+      "subtopicId": "f5addmath-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 150° to radians (3 d.p.).",
+        "bm": "Tukar 150° kepada radian (3 t.p.)."
+      },
+      "explanation": {
+        "en": "150 × π/180.",
+        "bm": "150 × π/180."
+      },
+      "difficulty": 2,
+      "answer": 2.618,
+      "tolerance": 0.002,
+      "unit": "rad"
+    },
+    {
+      "id": "f5addmath-01-q04",
+      "subtopicId": "f5addmath-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 200° to radians (3 d.p.).",
+        "bm": "Tukar 200° kepada radian (3 t.p.)."
+      },
+      "explanation": {
+        "en": "200 × π/180.",
+        "bm": "200 × π/180."
+      },
+      "difficulty": 2,
+      "answer": 3.491,
+      "tolerance": 0.002,
+      "unit": "rad"
+    },
+    {
+      "id": "f5addmath-01-q05",
+      "subtopicId": "f5addmath-01-01",
+      "type": "numeric",
+      "prompt": {
+        "en": "Convert 2 radians to degrees (1 d.p.).",
+        "bm": "Tukar 2 radian kepada darjah (1 t.p.)."
+      },
+      "explanation": {
+        "en": "2 × 180/π.",
+        "bm": "2 × 180/π."
+      },
+      "difficulty": 1,
+      "answer": 114.6,
+      "tolerance": 0.002,
+      "unit": "°"
+    },
+    {
+      "id": "f5addmath-01-q06",
+      "subtopicId": "f5addmath-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 5 cm, θ = 1.2 rad. Find the arc length.",
+        "bm": "j = 5 cm, θ = 1.2 rad. Cari panjang lengkok."
+      },
+      "explanation": {
+        "en": "5 × 1.2.",
+        "bm": "5 × 1.2."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0.001,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q07",
+      "subtopicId": "f5addmath-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 8 cm, θ = 0.75 rad. Find the arc length.",
+        "bm": "j = 8 cm, θ = 0.75 rad. Cari panjang lengkok."
+      },
+      "explanation": {
+        "en": "8 × 0.75.",
+        "bm": "8 × 0.75."
+      },
+      "difficulty": 1,
+      "answer": 6,
+      "tolerance": 0.001,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q08",
+      "subtopicId": "f5addmath-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 12 cm, θ = 2.5 rad. Find the arc length.",
+        "bm": "j = 12 cm, θ = 2.5 rad. Cari panjang lengkok."
+      },
+      "explanation": {
+        "en": "12 × 2.5.",
+        "bm": "12 × 2.5."
+      },
+      "difficulty": 1,
+      "answer": 30,
+      "tolerance": 0.001,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q09",
+      "subtopicId": "f5addmath-01-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Arc 15 cm, r = 6 cm. Find θ.",
+        "bm": "Lengkok 15 cm, j = 6 cm. Cari θ."
+      },
+      "explanation": {
+        "en": "15 ÷ 6.",
+        "bm": "15 ÷ 6."
+      },
+      "difficulty": 2,
+      "answer": 2.5,
+      "tolerance": 0.001,
+      "unit": "rad"
+    },
+    {
+      "id": "f5addmath-01-q10",
+      "subtopicId": "f5addmath-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 4 cm, θ = 1.5 rad. Find the sector area.",
+        "bm": "j = 4 cm, θ = 1.5 rad. Cari luas sektor."
+      },
+      "explanation": {
+        "en": "½ × 4² × 1.5.",
+        "bm": "½ × 4² × 1.5."
+      },
+      "difficulty": 2,
+      "answer": 12,
+      "tolerance": 0.001,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5addmath-01-q11",
+      "subtopicId": "f5addmath-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 10 cm, θ = 0.8 rad. Find the sector area.",
+        "bm": "j = 10 cm, θ = 0.8 rad. Cari luas sektor."
+      },
+      "explanation": {
+        "en": "½ × 10² × 0.8.",
+        "bm": "½ × 10² × 0.8."
+      },
+      "difficulty": 2,
+      "answer": 40,
+      "tolerance": 0.001,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5addmath-01-q12",
+      "subtopicId": "f5addmath-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 6 cm, θ = 2 rad. Find the sector area.",
+        "bm": "j = 6 cm, θ = 2 rad. Cari luas sektor."
+      },
+      "explanation": {
+        "en": "½ × 6² × 2.",
+        "bm": "½ × 6² × 2."
+      },
+      "difficulty": 2,
+      "answer": 36,
+      "tolerance": 0.001,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5addmath-01-q13",
+      "subtopicId": "f5addmath-01-03",
+      "type": "numeric",
+      "prompt": {
+        "en": "Sector area 24 cm², θ = 3 rad. Find r.",
+        "bm": "Luas sektor 24 cm², θ = 3 rad. Cari j."
+      },
+      "explanation": {
+        "en": "r² = 2(24)/3 = 16.",
+        "bm": "j² = 2(24)/3 = 16."
+      },
+      "difficulty": 3,
+      "answer": 4,
+      "tolerance": 0.001,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q14",
+      "subtopicId": "f5addmath-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 10 cm, θ = 1.2 rad. Find the segment area (2 d.p.).",
+        "bm": "j = 10 cm, θ = 1.2 rad. Cari luas tembereng (2 t.p.)."
+      },
+      "explanation": {
+        "en": "½ × 100 × (1.2 − sin 1.2).",
+        "bm": "½ × 100 × (1.2 − sin 1.2)."
+      },
+      "difficulty": 3,
+      "answer": 13.4,
+      "tolerance": 0.005,
+      "unit": "cm²"
+    },
+    {
+      "id": "f5addmath-01-q15",
+      "subtopicId": "f5addmath-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "r = 6 cm, θ = 2 rad. Find the chord length (2 d.p.).",
+        "bm": "j = 6 cm, θ = 2 rad. Cari panjang perentas (2 t.p.)."
+      },
+      "explanation": {
+        "en": "2r sin(θ/2).",
+        "bm": "2j sin(θ/2)."
+      },
+      "difficulty": 3,
+      "answer": 10.1,
+      "tolerance": 0.005,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q16",
+      "subtopicId": "f5addmath-01-04",
+      "type": "numeric",
+      "prompt": {
+        "en": "Perimeter of a sector: r = 5 cm, θ = 1.4 rad.",
+        "bm": "Perimeter sektor: j = 5 cm, θ = 1.4 rad."
+      },
+      "explanation": {
+        "en": "5 + 5 + 7.",
+        "bm": "5 + 5 + 7."
+      },
+      "difficulty": 2,
+      "answer": 17,
+      "tolerance": 0.001,
+      "unit": "cm"
+    },
+    {
+      "id": "f5addmath-01-q17",
+      "subtopicId": "f5addmath-01-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "One full turn is…",
+        "bm": "Satu pusingan penuh ialah…"
+      },
+      "explanation": {
+        "en": "360° = 2π rad.",
+        "bm": "360° = 2π rad."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "2π rad",
+          "bm": "2π rad"
+        },
+        {
+          "en": "π rad",
+          "bm": "π rad"
+        },
+        {
+          "en": "180 rad",
+          "bm": "180 rad"
+        },
+        {
+          "en": "360 rad",
+          "bm": "360 rad"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5addmath-01-q18",
+      "subtopicId": "f5addmath-01-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Your calculator should be in which mode for sin θ with θ in radians?",
+        "bm": "Kalkulator perlu dalam mod apa untuk sin θ dengan θ dalam radian?"
+      },
+      "explanation": {
+        "en": "A common error source.",
+        "bm": "Punca kesilapan biasa."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "Rad",
+          "bm": "Rad"
+        },
+        {
+          "en": "Deg",
+          "bm": "Deg"
+        },
+        {
+          "en": "Grad",
+          "bm": "Grad"
+        },
+        {
+          "en": "Stat",
+          "bm": "Stat"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

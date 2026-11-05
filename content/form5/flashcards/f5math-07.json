@@ -1,0 +1,77 @@
+{
+  "chapterId": "f5math-07",
+  "cards": [
+    {
+      "id": "f5math-07-f01",
+      "subtopicId": "f5math-07-01",
+      "front": {
+        "en": "Class boundary",
+        "bm": "Sempadan kelas"
+      },
+      "back": {
+        "en": "Midway between adjacent classes.",
+        "bm": "Di tengah antara kelas bersebelahan."
+      }
+    },
+    {
+      "id": "f5math-07-f02",
+      "subtopicId": "f5math-07-01",
+      "front": {
+        "en": "Frequency polygon",
+        "bm": "Poligon kekerapan"
+      },
+      "back": {
+        "en": "Joins midpoints of bar tops.",
+        "bm": "Menyambung titik tengah atas bar."
+      }
+    },
+    {
+      "id": "f5math-07-f03",
+      "subtopicId": "f5math-07-02",
+      "front": {
+        "en": "IQR",
+        "bm": "JAK"
+      },
+      "back": {
+        "en": "Q3 − Q1.",
+        "bm": "Q3 − Q1."
+      }
+    },
+    {
+      "id": "f5math-07-f04",
+      "subtopicId": "f5math-07-02",
+      "front": {
+        "en": "Variance",
+        "bm": "Varians"
+      },
+      "back": {
+        "en": "Σfx²/Σf − x̄²",
+        "bm": "Σfx²/Σf − x̄²"
+      }
+    },
+    {
+      "id": "f5math-07-f05",
+      "subtopicId": "f5math-07-02",
+      "front": {
+        "en": "Standard deviation",
+        "bm": "Sisihan piawai"
+      },
+      "back": {
+        "en": "√variance",
+        "bm": "√varians"
+      }
+    },
+    {
+      "id": "f5math-07-f06",
+      "subtopicId": "f5math-07-02",
+      "front": {
+        "en": "Outlier effect",
+        "bm": "Kesan pencilan"
+      },
+      "back": {
+        "en": "Affects mean and SD more than IQR.",
+        "bm": "Lebih mempengaruhi min dan sisihan daripada JAK."
+      }
+    }
+  ]
+}

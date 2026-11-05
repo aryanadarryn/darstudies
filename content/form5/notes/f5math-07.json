@@ -1,0 +1,101 @@
+{
+  "chapterId": "f5math-07",
+  "reviewed": false,
+  "subtopics": {
+    "f5math-07-01": {
+      "keyPoints": [
+        {
+          "en": "Use boundaries, not limits, on graphs.",
+          "bm": "Gunakan sempadan, bukan had, pada graf."
+        },
+        {
+          "en": "Frequency polygons help to compare two sets.",
+          "bm": "Poligon kekerapan membantu membandingkan dua set."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Cumulative frequency",
+            "bm": "Kekerapan longgokan"
+          },
+          "meaning": {
+            "en": "Running total.",
+            "bm": "Jumlah berterusan."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/histogram-iqr.svg",
+          "alt": {
+            "en": "A histogram and its ogive.",
+            "bm": "Histogram dan ogifnya."
+          },
+          "caption": {
+            "en": "A histogram and its ogive.",
+            "bm": "Histogram dan ogifnya."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Upper boundary of 10–19?",
+          "bm": "Sempadan atas 10–19?"
+        },
+        "answer": {
+          "en": "19.5",
+          "bm": "19.5"
+        }
+      },
+      "tip": {
+        "en": "Plot an ogive at upper boundaries.",
+        "bm": "Plot ogif pada sempadan atas."
+      }
+    },
+    "f5math-07-02": {
+      "keyPoints": [
+        {
+          "en": "Range uses midpoints in grouped data.",
+          "bm": "Julat menggunakan titik tengah untuk data terkumpul."
+        },
+        {
+          "en": "Build a table: x, f, fx, fx².",
+          "bm": "Bina jadual: x, f, fx, fx²."
+        },
+        {
+          "en": "A smaller SD means more consistent data.",
+          "bm": "Sisihan kecil bermakna data lebih konsisten."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Consistent",
+            "bm": "Konsisten"
+          },
+          "meaning": {
+            "en": "Little variation.",
+            "bm": "Sedikit variasi."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Which is more consistent: SD 2 or SD 9?",
+          "bm": "Yang mana lebih konsisten: sisihan 2 atau 9?"
+        },
+        "answer": {
+          "en": "SD 2",
+          "bm": "Sisihan 2"
+        }
+      },
+      "tip": {
+        "en": "Use your calculator's SD mode to check.",
+        "bm": "Gunakan mod SD kalkulator untuk menyemak."
+      }
+    }
+  }
+}

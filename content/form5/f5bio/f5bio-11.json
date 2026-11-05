@@ -1,0 +1,405 @@
+{
+  "chapterId": "f5bio-11",
+  "reviewed": false,
+  "intro": {
+    "hook": {
+      "en": "Gregor Mendel worked out the rules of inheritance using garden peas, long before anyone knew about DNA.",
+      "bm": "Gregor Mendel menemui peraturan pewarisan menggunakan kacang pea, jauh sebelum DNA diketahui."
+    },
+    "bigIdeas": [
+      {
+        "en": "Genes come in alleles.",
+        "bm": "Gen wujud dalam alel."
+      },
+      {
+        "en": "Mendel's laws: segregation and independent assortment.",
+        "bm": "Hukum Mendel: pengasingan dan penyusunan bebas."
+      },
+      {
+        "en": "Some traits are sex-linked.",
+        "bm": "Sesetengah sifat terangkai seks."
+      }
+    ],
+    "infographic": {
+      "kind": "compare",
+      "data": {
+        "headers": [
+          {
+            "en": "Genotype ratio",
+            "bm": "Nisbah genotip"
+          },
+          {
+            "en": "Phenotype ratio",
+            "bm": "Nisbah fenotip"
+          }
+        ],
+        "rows": [
+          {
+            "label": {
+              "en": "Tt × Tt",
+              "bm": "Tt × Tt"
+            },
+            "cells": [
+              {
+                "en": "1 : 2 : 1",
+                "bm": "1 : 2 : 1"
+              },
+              {
+                "en": "3 : 1",
+                "bm": "3 : 1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "Tt × tt",
+              "bm": "Tt × tt"
+            },
+            "cells": [
+              {
+                "en": "1 : 1",
+                "bm": "1 : 1"
+              },
+              {
+                "en": "1 : 1",
+                "bm": "1 : 1"
+              }
+            ]
+          },
+          {
+            "label": {
+              "en": "TtRr × TtRr",
+              "bm": "TtRr × TtRr"
+            },
+            "cells": [
+              {
+                "en": "—",
+                "bm": "—"
+              },
+              {
+                "en": "9 : 3 : 3 : 1",
+                "bm": "9 : 3 : 3 : 1"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "keyTerms": [
+      {
+        "term": {
+          "en": "Allele",
+          "bm": "Alel"
+        },
+        "definition": {
+          "en": "Alternative form of a gene.",
+          "bm": "Bentuk alternatif gen."
+        }
+      },
+      {
+        "term": {
+          "en": "Genotype",
+          "bm": "Genotip"
+        },
+        "definition": {
+          "en": "Genes an organism has.",
+          "bm": "Gen yang dimiliki organisma."
+        }
+      },
+      {
+        "term": {
+          "en": "Phenotype",
+          "bm": "Fenotip"
+        },
+        "definition": {
+          "en": "Observable trait.",
+          "bm": "Sifat yang boleh dilihat."
+        }
+      }
+    ],
+    "formulaIds": []
+  },
+  "questions": [
+    {
+      "id": "f5bio-11-q01",
+      "subtopicId": "f5bio-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A dominant allele…",
+        "bm": "Alel dominan…"
+      },
+      "explanation": {
+        "en": "Shown with a capital letter.",
+        "bm": "Ditunjukkan huruf besar."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "shows in the heterozygote",
+          "bm": "terlihat dalam heterozigot"
+        },
+        {
+          "en": "never shows",
+          "bm": "tidak pernah terlihat"
+        },
+        {
+          "en": "needs two copies",
+          "bm": "perlu dua salinan"
+        },
+        {
+          "en": "is always harmful",
+          "bm": "sentiasa memudaratkan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q02",
+      "subtopicId": "f5bio-11-01",
+      "type": "mcq",
+      "prompt": {
+        "en": "A homozygous genotype is…",
+        "bm": "Genotip homozigot ialah…"
+      },
+      "explanation": {
+        "en": "Same alleles.",
+        "bm": "Alel sama."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "TT or tt",
+          "bm": "TT atau tt"
+        },
+        {
+          "en": "Tt only",
+          "bm": "Tt sahaja"
+        },
+        {
+          "en": "T only",
+          "bm": "T sahaja"
+        },
+        {
+          "en": "TtRr only",
+          "bm": "TtRr sahaja"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q03",
+      "subtopicId": "f5bio-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Tt × Tt: what percentage of offspring are expected to be tt?",
+        "bm": "Tt × Tt: berapa peratus anak dijangka tt?"
+      },
+      "explanation": {
+        "en": "1 of 4.",
+        "bm": "1 daripada 4."
+      },
+      "difficulty": 1,
+      "answer": 25,
+      "tolerance": 0.01,
+      "unit": "%"
+    },
+    {
+      "id": "f5bio-11-q04",
+      "subtopicId": "f5bio-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "Tt × tt: what percentage are expected to be tall (T dominant)?",
+        "bm": "Tt × tt: berapa peratus dijangka tinggi (T dominan)?"
+      },
+      "explanation": {
+        "en": "1 of 2.",
+        "bm": "1 daripada 2."
+      },
+      "difficulty": 2,
+      "answer": 50,
+      "tolerance": 0.01,
+      "unit": "%"
+    },
+    {
+      "id": "f5bio-11-q05",
+      "subtopicId": "f5bio-11-02",
+      "type": "numeric",
+      "prompt": {
+        "en": "In a dihybrid cross TtRr × TtRr, how many of 16 show both recessive traits?",
+        "bm": "Dalam kacukan dwihibrid TtRr × TtRr, berapa daripada 16 menunjukkan kedua-dua sifat resesif?"
+      },
+      "explanation": {
+        "en": "The ratio is 9:3:3:1.",
+        "bm": "Nisbahnya 9:3:3:1."
+      },
+      "difficulty": 3,
+      "answer": 1,
+      "tolerance": 0
+    },
+    {
+      "id": "f5bio-11-q06",
+      "subtopicId": "f5bio-11-02",
+      "type": "mcq",
+      "prompt": {
+        "en": "Mendel's first law is about…",
+        "bm": "Hukum pertama Mendel berkaitan…"
+      },
+      "explanation": {
+        "en": "Alleles separate in gametes.",
+        "bm": "Alel terpisah dalam gamet."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "segregation of alleles",
+          "bm": "pengasingan alel"
+        },
+        {
+          "en": "independent assortment",
+          "bm": "penyusunan bebas"
+        },
+        {
+          "en": "mutation",
+          "bm": "mutasi"
+        },
+        {
+          "en": "natural selection",
+          "bm": "pemilihan semula jadi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q07",
+      "subtopicId": "f5bio-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Blood group genes show…",
+        "bm": "Gen kumpulan darah menunjukkan…"
+      },
+      "explanation": {
+        "en": "Iᴬ and Iᴮ are codominant.",
+        "bm": "Iᴬ dan Iᴮ kodominan."
+      },
+      "difficulty": 1,
+      "options": [
+        {
+          "en": "codominance and multiple alleles",
+          "bm": "kodominan dan alel berbilang"
+        },
+        {
+          "en": "only recessive alleles",
+          "bm": "alel resesif sahaja"
+        },
+        {
+          "en": "sex-linkage",
+          "bm": "terangkai seks"
+        },
+        {
+          "en": "no inheritance",
+          "bm": "tiada pewarisan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q08",
+      "subtopicId": "f5bio-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "Colour blindness is more common in males because…",
+        "bm": "Buta warna lebih biasa pada lelaki kerana…"
+      },
+      "explanation": {
+        "en": "Males have only one X.",
+        "bm": "Lelaki hanya ada satu X."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "the gene is on the X chromosome",
+          "bm": "gen pada kromosom X"
+        },
+        {
+          "en": "males have two X",
+          "bm": "lelaki ada dua X"
+        },
+        {
+          "en": "it is on the Y",
+          "bm": "ia pada Y"
+        },
+        {
+          "en": "it is not inherited",
+          "bm": "ia tidak diwarisi"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q09",
+      "subtopicId": "f5bio-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A blood group AB parent and an O parent can have children of group…",
+        "bm": "Ibu bapa AB dan O boleh mempunyai anak kumpulan…"
+      },
+      "explanation": {
+        "en": "Iᴬi or Iᴮi.",
+        "bm": "Iᴬi atau Iᴮi."
+      },
+      "difficulty": 3,
+      "options": [
+        {
+          "en": "A or B",
+          "bm": "A atau B"
+        },
+        {
+          "en": "O only",
+          "bm": "O sahaja"
+        },
+        {
+          "en": "AB only",
+          "bm": "AB sahaja"
+        },
+        {
+          "en": "all groups",
+          "bm": "semua kumpulan"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "id": "f5bio-11-q10",
+      "subtopicId": "f5bio-11-03",
+      "type": "mcq",
+      "prompt": {
+        "en": "A family pedigree chart helps to…",
+        "bm": "Carta salasilah keluarga membantu…"
+      },
+      "explanation": {
+        "en": "Thalassaemia is often traced in this way.",
+        "bm": "Talasemia sering dijejak begini."
+      },
+      "difficulty": 2,
+      "options": [
+        {
+          "en": "trace a trait across generations",
+          "bm": "menjejak sifat merentas generasi"
+        },
+        {
+          "en": "measure blood pressure",
+          "bm": "mengukur tekanan darah"
+        },
+        {
+          "en": "count red cells",
+          "bm": "mengira sel merah"
+        },
+        {
+          "en": "find the IQ",
+          "bm": "mencari IQ"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}

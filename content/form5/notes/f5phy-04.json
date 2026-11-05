@@ -1,0 +1,148 @@
+{
+  "chapterId": "f5phy-04",
+  "reviewed": false,
+  "subtopics": {
+    "f5phy-04-01": {
+      "keyPoints": [
+        {
+          "en": "Force is largest when current ⟂ field.",
+          "bm": "Daya terbesar apabila arus ⟂ medan."
+        },
+        {
+          "en": "Motor force depends on B, I and turns.",
+          "bm": "Daya motor bergantung pada B, I dan lilitan."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Catapult field",
+            "bm": "Medan lastik"
+          },
+          "meaning": {
+            "en": "Combined field that gives the force.",
+            "bm": "Medan gabungan yang menghasilkan daya."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Current reversed: force?",
+          "bm": "Arus disongsang: daya?"
+        },
+        "answer": {
+          "en": "Reverses",
+          "bm": "Bersongsang"
+        }
+      },
+      "tip": {
+        "en": "Know your fingers: F, B, I.",
+        "bm": "Hafal jari: F, B, I."
+      }
+    },
+    "f5phy-04-02": {
+      "keyPoints": [
+        {
+          "en": "Moving a magnet in a coil induces e.m.f.",
+          "bm": "Menggerakkan magnet dalam gegelung mengaruh d.g.e."
+        },
+        {
+          "en": "More speed, turns, and strength give more e.m.f.",
+          "bm": "Lebih laju, lilitan dan kekuatan memberi lebih d.g.e."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Flux",
+            "bm": "Fluks"
+          },
+          "meaning": {
+            "en": "Field through an area.",
+            "bm": "Medan melalui luas."
+          }
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Magnet held still in a coil: e.m.f.?",
+          "bm": "Magnet pegun dalam gegelung: d.g.e.?"
+        },
+        "answer": {
+          "en": "Zero",
+          "bm": "Sifar"
+        }
+      },
+      "tip": {
+        "en": "Explain using change in flux.",
+        "bm": "Terangkan menggunakan perubahan fluks."
+      }
+    },
+    "f5phy-04-03": {
+      "keyPoints": [
+        {
+          "en": "Step-up: Ns > Np; step-down: Ns < Np.",
+          "bm": "Injak naik: Ns > Np; injak turun: Ns < Np."
+        },
+        {
+          "en": "Efficiency = output ÷ input.",
+          "bm": "Kecekapan = output ÷ input."
+        }
+      ],
+      "keywords": [
+        {
+          "term": {
+            "en": "Primary coil",
+            "bm": "Gegelung primer"
+          },
+          "meaning": {
+            "en": "Input coil.",
+            "bm": "Gegelung input."
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "img/f5/transformer.svg",
+          "alt": {
+            "en": "Structure of a step-down transformer.",
+            "bm": "Struktur transformer injak turun."
+          },
+          "caption": {
+            "en": "Structure of a step-down transformer.",
+            "bm": "Struktur transformer injak turun."
+          },
+          "credit": "Darstudies · original diagram",
+          "sourceUrl": "https://aryanadarryn.github.io/darstudies/"
+        },
+        {
+          "src": "img/f5/q-transformer.webp",
+          "alt": {
+            "en": "A pole-mounted step-down transformer.",
+            "bm": "Transformer injak turun pada tiang."
+          },
+          "caption": {
+            "en": "A pole-mounted step-down transformer.",
+            "bm": "Transformer injak turun pada tiang."
+          },
+          "credit": "Evelyn Simak · CC BY-SA 2.0 · Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Electricity_pole_and_transformer_in_Wash_Lane_-_geograph.org.uk_-_1762233.jpg"
+        }
+      ],
+      "example": {
+        "question": {
+          "en": "Phone charger transformer type?",
+          "bm": "Jenis transformer pengecas telefon?"
+        },
+        "answer": {
+          "en": "Step-down",
+          "bm": "Injak turun"
+        }
+      },
+      "tip": {
+        "en": "Turns ratio equals voltage ratio.",
+        "bm": "Nisbah lilitan sama dengan nisbah voltan."
+      }
+    }
+  }
+}
